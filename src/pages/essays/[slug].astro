@@ -1,0 +1,86 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const essays = await getCollection('essays');
+  return essays.map(essay => ({
+    params: { slug: essay.slug },
+    props: { essay },
+  }));
+}
+
+const { essay } = Astro.props;
+const { Content } = await essay.render();
+const date = new Date(essay.data.date);
+const formatted = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+<Base title={essay.data.title} description={essay.data.excerpt}>
+  <article>
+    <div class="essay-header">
+      <div class="essay-header-meta">
+        <a href="/essays" class="back-link">← Essays</a>
+        <span class="tag">{essay.data.tag}</span>
+        <span class="essay-date-label">{formatted}</span>
+      </div>
+      <h1 class="essay-headline">{essay.data.title}</h1>
+      <p class="essay-dek">{essay.data.excerpt}</p>
+    </div>
+    <div class="essay-body">
+      <div class="prose">
+        <Content />
+      </div>
+    </div>
+  </article>
+</Base>
+
+<style>
+.essay-header {
+  padding: clamp(40px, 6vw, 72px) clamp(24px, 6vw, 96px) 48px;
+  border-bottom: 1px solid var(--rule);
+  max-width: 800px;
+}
+.essay-header-meta {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+.back-link {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.back-link:hover { color: var(--rust); }
+.essay-date-label {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--ink-muted);
+  letter-spacing: 0.05em;
+}
+.essay-headline {
+  font-family: var(--font-display);
+  font-size: clamp(32px, 5vw, 56px);
+  font-weight: 700;
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+  margin-bottom: 20px;
+  color: var(--ink);
+}
+.essay-dek {
+  font-size: 20px;
+  color: var(--ink-muted);
+  line-height: 1.55;
+  font-style: italic;
+  max-width: 600px;
+}
+.essay-body {
+  padding: 56px clamp(24px, 6vw, 96px) clamp(56px, 8vw, 96px);
+}
+</style>

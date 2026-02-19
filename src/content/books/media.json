@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Ted Lasso",
+    "creator": "Jason Sudeikis, Bill Lawrence, Brendan Hunt, Joe Kelly",
+    "created": "2020",
+    "consumed": "2021",
+    "type": "TV"
+  },
+  {
+    "title": "Bo Burnham: Inside",
+    "creator": "Bo Burnham",
+    "created": "2021",
+    "consumed": "2021",
+    "type": "Special"
+  },
+  {
+    "title": "The Chosen",
+    "creator": "Dallas Jenkins",
+    "created": "2017",
+    "consumed": "2020",
+    "type": "TV"
+  },
+  {
+    "title": "Knives Out",
+    "creator": "Rian Johnson",
+    "created": "2019",
+    "consumed": "2019",
+    "type": "Film"
+  }
+]

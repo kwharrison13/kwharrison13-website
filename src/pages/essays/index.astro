@@ -1,0 +1,86 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const essays = (await getCollection('essays')).sort(
+  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+);
+
+// Group by year
+const byYear = essays.reduce((acc, essay) => {
+  const year = new Date(essay.data.date).getFullYear().toString();
+  if (!acc[year]) acc[year] = [];
+  acc[year].push(essay);
+  return acc;
+}, {} as Record<string, typeof essays>);
+
+const years = Object.keys(byYear).sort((a, b) => parseInt(b) - parseInt(a));
+---
+
+<Base title="Essays">
+  <div class="section">
+    <div class="section-header">
+      <h1 class="section-title">Essays</h1>
+      <span class="section-subtitle">— {essays.length} pieces</span>
+      <div class="section-rule"></div>
+    </div>
+
+    {years.map(year => (
+      <div class="year-group">
+        <div class="year-label">{year}</div>
+        <div class="essay-list">
+          {byYear[year].map(essay => (
+            <a href={`/essays/${essay.slug}`} class="essay-row fade-up">
+              <div class="essay-row-left">
+                <span class="tag">{essay.data.tag}</span>
+                <span class="essay-row-title">{essay.data.title}</span>
+              </div>
+              <div class="essay-row-excerpt">{essay.data.excerpt}</div>
+              <div class="essay-row-arrow">→</div>
+            </a>
+          ))}
+        </div>
+      </div>
+    ))}
+
+    {essays.length === 0 && (
+      <p style="color: var(--ink-muted); font-style: italic;">Essays coming soon — paste your content and I'll add them.</p>
+    )}
+  </div>
+</Base>
+
+<style>
+.year-group { margin-bottom: 48px; }
+.year-label {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 10px;
+  margin-bottom: 0;
+}
+.essay-list { display: flex; flex-direction: column; }
+.essay-row {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr auto;
+  gap: 24px;
+  align-items: center;
+  padding: 20px 0;
+  border-bottom: 1px solid var(--rule);
+  text-decoration: none;
+  color: var(--ink);
+  transition: background 0.15s;
+}
+.essay-row:hover { background: var(--cream-dark); margin: 0 -24px; padding: 20px 24px; }
+.essay-row:hover .essay-row-arrow { color: var(--rust); transform: translateX(4px); }
+.essay-row-left { display: flex; align-items: center; gap: 12px; }
+.essay-row-title { font-family: var(--font-display); font-size: 18px; font-weight: 600; letter-spacing: -0.01em; }
+.essay-row-excerpt { font-size: 14px; color: var(--ink-muted); line-height: 1.55; }
+.essay-row-arrow { font-family: var(--font-mono); color: var(--ink-muted); transition: all 0.2s; }
+@media (max-width: 700px) {
+  .essay-row { grid-template-columns: 1fr auto; }
+  .essay-row-excerpt { display: none; }
+}
+</style>

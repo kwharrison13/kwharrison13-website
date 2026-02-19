@@ -1,0 +1,198 @@
+---
+import Base from '../layouts/Base.astro';
+import books from '../content/books/books.json';
+import media from '../content/books/media.json';
+
+const colors = ['#2c3e50','#4a3728','#1a3a2a','#3d2b4a','#2a2a3d','#3a2a1a','#5a3020'];
+---
+
+<Base title="Bookshelf">
+  <div class="section">
+    <div class="section-header">
+      <h1 class="section-title">My Bookshelf</h1>
+      <div class="section-rule"></div>
+    </div>
+
+    <p class="intro-text">
+      An archive of my reading history — the books and media that have had the most profound impact on me.
+    </p>
+
+    <!-- QUAKE BOOKS -->
+    <div class="subsection">
+      <div class="subsection-header">
+        <h2 class="subsection-title">📚 Quake Books</h2>
+        <div class="subsection-rule"></div>
+      </div>
+      <p class="subsection-desc">Books that have had the most profound impact on me.</p>
+
+      <div class="quake-list">
+        {books.map((book: any, i: number) => (
+          <div class="quake-item fade-up">
+            <div class="quake-spine" style={`background: ${colors[i % colors.length]}`}>
+              <div class="quake-spine-text">{book.title}</div>
+            </div>
+            <div class="quake-details">
+              <div class="quake-title">{book.title}</div>
+              <div class="quake-meta">
+                <span><strong>Author:</strong> {book.author}</span>
+                <span><strong>Published:</strong> {book.published}</span>
+                <span><strong>Read:</strong> {book.read}</span>
+              </div>
+              {book.note && (
+                <div class="quake-note">
+                  <span class="quake-note-label">Thoughts:</span> {book.note}
+                </div>
+              )}
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <!-- QUAKE MEDIA -->
+    <div class="subsection">
+      <div class="subsection-header">
+        <h2 class="subsection-title">🎬 Quake Media</h2>
+        <div class="subsection-rule"></div>
+      </div>
+      <p class="subsection-desc">Media that has had the most profound impact on me.</p>
+
+      <div class="media-grid">
+        {media.map((item: any) => (
+          <div class="media-card fade-up">
+            <div class="media-card-header">
+              <div class="media-type tag">{item.type}</div>
+            </div>
+            <div class="media-card-title">{item.title}</div>
+            <div class="media-card-meta">
+              <div><strong>Creator:</strong> {item.creator}</div>
+              <div><strong>Created:</strong> {item.created}</div>
+              <div><strong>Consumed:</strong> {item.consumed}</div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+
+  </div>
+</Base>
+
+<style>
+.intro-text {
+  font-size: 17px;
+  color: var(--ink-muted);
+  font-style: italic;
+  margin-bottom: 56px;
+}
+
+.subsection { margin-bottom: 72px; }
+.subsection-header { display: flex; align-items: center; gap: 14px; margin-bottom: 8px; }
+.subsection-title { font-family: var(--font-display); font-size: 26px; font-weight: 700; letter-spacing: -0.01em; }
+.subsection-rule { flex: 1; height: 1px; background: var(--rule); }
+.subsection-desc { font-size: 15px; color: var(--ink-muted); font-style: italic; margin-bottom: 32px; }
+
+/* QUAKE BOOKS */
+.quake-list { display: flex; flex-direction: column; gap: 0; }
+.quake-item {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 32px;
+  padding: 32px 0;
+  border-bottom: 1px solid var(--rule);
+  align-items: start;
+}
+@media (max-width: 600px) {
+  .quake-item { grid-template-columns: 1fr; }
+  .quake-spine { display: none; }
+}
+
+.quake-spine {
+  width: 120px;
+  height: 168px;
+  display: flex;
+  align-items: flex-end;
+  padding: 12px;
+  position: relative;
+  flex-shrink: 0;
+  transition: transform 0.2s;
+}
+.quake-spine:hover { transform: translateY(-3px); }
+.quake-spine::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: var(--rust);
+}
+.quake-spine-text {
+  font-family: var(--font-display);
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--cream);
+  line-height: 1.3;
+}
+
+.quake-title {
+  font-family: var(--font-display);
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin-bottom: 10px;
+  color: var(--ink);
+}
+.quake-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 14px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--ink-muted);
+  letter-spacing: 0.05em;
+}
+.quake-meta strong { color: var(--ink); font-weight: 500; }
+.quake-note {
+  font-size: 15px;
+  color: var(--ink-light);
+  line-height: 1.65;
+  max-width: 600px;
+}
+.quake-note-label {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+/* QUAKE MEDIA */
+.media-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1px;
+  background: var(--rule);
+  border: 1px solid var(--rule);
+}
+.media-card {
+  background: var(--cream);
+  padding: 28px;
+  transition: background 0.2s;
+}
+.media-card:hover { background: var(--cream-dark); }
+.media-card-header { margin-bottom: 12px; }
+.media-card-title {
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin-bottom: 12px;
+  color: var(--ink);
+}
+.media-card-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--ink-muted);
+  letter-spacing: 0.05em;
+}
+.media-card-meta strong { color: var(--ink); font-weight: 500; }
+</style>

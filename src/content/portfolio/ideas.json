@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Investing 101 2.0",
+    "stage": "Garden",
+    "description": "The art of investing is taking finite resources (time, energy, money, attention) and employing them to optimize an outcome. I'm fascinated by the first principles of what it means to simultaneously learn to become a great investor while reinventing the art form."
+  },
+  {
+    "name": "Live The Library",
+    "stage": "Garden",
+    "description": "\"When you find a writer whose words enter your mind with deep impact and influence, pay attention.\" I constantly look to collect ideas from the people who most effectively inspire me."
+  },
+  {
+    "name": "Historical Futurism",
+    "stage": "Garden",
+    "description": "Ever since I came across the Institute For The Future, I've been fascinated with how people predict the future — and how we can look at previous predictions to understand it. What if you could look at how people in the 1900s thought about the 2000s? What did they get right? What did they get wrong? And why?"
+  },
+  {
+    "name": "Open-Source Knowledge",
+    "stage": "Garden",
+    "description": "I'm obsessed with Roam Research. I love Wikipedia. I'm fascinated by the interconnectivity of all the thoughts and ideas that make the world go round. More people should treat their ideas like software that is open source, and in active development. Instead, people treat their ideas like a bridge; stable, but slowly decaying."
+  },
+  {
+    "name": "The New City",
+    "stage": "Garden",
+    "description": "I spent a lot of summers in Luna, New Mexico. We'd drive through small towns and talk about \"what makes a city.\" Cities get built up around natural resources, large companies, universities. What will the cities of the future look like?"
+  },
+  {
+    "name": "Climate Change",
+    "stage": "Garden",
+    "description": "As an investor I see too many people think about climate change as a vertical to be weighed alongside construction tech, SaaS, and neobanks. Climate change is not just a threat — it is the threat. But it is also a fundamental opportunity. Climate adjustments will represent the greatest global adjustment in the last hundreds of years."
+  },
+  {
+    "name": "The Republic of Letters 2.0",
+    "stage": "Garden",
+    "description": "Historically institutions acted as gatekeepers to knowledge. Over time smart people thinking about hard problems started writing letters that transformed a generation of thinking. The internet has unleashed a similar dynamic among democratized thinkers and creators."
+  },
+  {
+    "name": "Bookstore Economics",
+    "stage": "Garden",
+    "description": "There are few places I love more than a good bookstore. In another life I would love the chance to spend my time thinking through the books for bookstores and how they economically make their business model work most effectively."
+  },
+  {
+    "name": "Human Nature",
+    "stage": "Garden",
+    "description": "On one hand, people will act in their own self-interest and should be left free. On the other, people are riddled with inadequacies and easily swayed by misaligned incentives. They need guardrails, guidance, and systems to protect them from each other and themselves."
+  }
+]

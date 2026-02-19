@@ -1,0 +1,45 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+const items = await getCollection('videos');
+---
+<Base title="Videos">
+  <div class="section">
+    <div class="section-header">
+      <h1 class="section-title">Videos</h1>
+      <span class="section-subtitle">— worth watching</span>
+      <div class="section-rule"></div>
+    </div>
+    <div class="media-list">
+      {items.map((item, i) => (
+        <div class="media-item fade-up">
+          <span class="media-index">{String(i + 1).padStart(2, '0')}</span>
+          <div class="media-body">
+            <div class="media-name">
+              {item.data.url
+                ? <a href={item.data.url} target="_blank" rel="noopener">{item.data.title}</a>
+                : item.data.title}
+            </div>
+            {(item.data.source || item.data.year) && (
+              <div class="media-sub">{[item.data.source, item.data.year].filter(Boolean).join(' · ')}</div>
+            )}
+            {item.data.note && <div class="media-note">{item.data.note}</div>}
+          </div>
+        </div>
+      ))}
+      {items.length === 0 && (
+        <p style="color: var(--ink-muted); font-style: italic;">Videos list coming soon.</p>
+      )}
+    </div>
+  </div>
+</Base>
+<style>
+.media-list { display: flex; flex-direction: column; max-width: 720px; }
+.media-item { display: flex; gap: 20px; padding: 18px 0; border-bottom: 1px solid var(--rule); align-items: flex-start; }
+.media-index { font-family: var(--font-mono); font-size: 11px; color: var(--ink-muted); padding-top: 4px; min-width: 24px; }
+.media-name { font-size: 18px; font-weight: 500; color: var(--ink); margin-bottom: 3px; }
+.media-name a { color: var(--rust); text-decoration: none; }
+.media-name a:hover { text-decoration: underline; }
+.media-sub { font-family: var(--font-mono); font-size: 11px; color: var(--ink-muted); letter-spacing: 0.05em; }
+.media-note { font-size: 14px; color: var(--ink-muted); font-style: italic; margin-top: 4px; }
+</style>
