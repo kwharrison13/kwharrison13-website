@@ -1,13 +1,16 @@
 ---
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
+import garden from '../content/portfolio/ideas.json';
+import books from '../content/books/books.json';
 
 const essays = (await getCollection('essays')).sort(
   (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
 ).slice(0, 4);
 
-const portfolio = (await getCollection('portfolio')).slice(0, 4);
-const books = (await getCollection('books')).slice(0, 6);
+const portfolioPreview = (garden as any[]).slice(0, 4);
+const booksPreview = (books as any[]).slice(0, 6);
+const colors = ['#2c3e50','#4a3728','#1a3a2a','#3d2b4a','#2a2a3d','#3a2a1a'];
 ---
 
 <Base>
@@ -16,12 +19,12 @@ const books = (await getCollection('books')).slice(0, 6);
 <div class="hero">
   <div class="hero-left fade-up">
     <div class="hero-label">Research · Capital · Ideas</div>
-    <h1>Mapping the <em>architecture</em> of compounding potential.</h1>
+    <h1>Mapping the <em>architecture</em> of compounding human potential.</h1>
     <p class="hero-bio">
-      I lead research at <strong>Contrary VC</strong>, where I study how technology, capital, and human systems compound over time. I write about AI disruption, venture markets, cities, theology, and the long arc of ideas.
+      General Partner @ <strong>Contrary</strong>. Founder @ <strong>Contrary Research</strong>. Father of 4. Member of The Church of Jesus Christ of Latter-Day Saints.
     </p>
     <div class="hero-links">
-      <a href="https://investing1012dot0.substack.com/" class="btn btn-primary" target="_blank" rel="noopener">Subscribe to Newsletter</a>
+      <a href="https://investing1012dot0.substack.com/" class="btn btn-primary" target="_blank" rel="noopener">Subscribe to Investing 101</a>
       <a href="https://twitter.com/kwharrison13" class="btn btn-secondary" target="_blank" rel="noopener">@kwharrison13</a>
     </div>
   </div>
@@ -32,11 +35,11 @@ const books = (await getCollection('books')).slice(0, 6);
     </div>
     <div class="hero-stat-block">
       <div class="hero-stat-label">Background</div>
-      <div class="hero-stat-value">BYU · Cambridge · TCV · Solamere Capital · Amazon</div>
+      <div class="hero-stat-value">Index Ventures · Coatue · TCV · Former Founder</div>
     </div>
     <div class="hero-stat-block">
       <div class="hero-stat-label">Interests</div>
-      <div class="hero-stat-value">Venture capital · Urban policy · LDS theology · City building · History of ideas</div>
+      <div class="hero-stat-value">Technological Innovation · Capital Allocation · Company Building · Religious Intellectualism · City Building · People Over Politics · Historical Futurism · The Language of Discourse · Ideological Family Trees</div>
     </div>
   </div>
 </div>
@@ -67,15 +70,14 @@ const books = (await getCollection('books')).slice(0, 6);
 <section class="section">
   <div class="section-header">
     <h2 class="section-title">Portfolio Ideas</h2>
-    <span class="section-subtitle">— companies &amp; theses worth watching</span>
+    <span class="section-subtitle">— big ideas worth taking seriously</span>
     <div class="section-rule"></div>
   </div>
   <div class="portfolio-grid">
-    {portfolio.map((item) => (
+    {portfolioPreview.map((item: any) => (
       <div class="portfolio-item fade-up">
-        <div class="portfolio-stage tag-gold" style="display:inline-block;margin-bottom:10px;">{item.data.stage}</div>
-        <div class="portfolio-name">{item.data.name}</div>
-        <p class="portfolio-desc">{item.data.description}</p>
+        <div class="portfolio-name">{item.name}</div>
+        <p class="portfolio-desc">{item.description}</p>
       </div>
     ))}
   </div>
@@ -86,17 +88,16 @@ const books = (await getCollection('books')).slice(0, 6);
 <section class="section">
   <div class="section-header">
     <h2 class="section-title">Bookshelf</h2>
-    <span class="section-subtitle">— what I'm reading &amp; recommending</span>
+    <span class="section-subtitle">— quake books</span>
     <div class="section-rule"></div>
   </div>
   <div class="books-grid">
-    {books.map((book, i) => (
+    {booksPreview.map((book: any, i: number) => (
       <div class="book-item fade-up">
-        <div class={`book-spine b${(i % 6) + 1}`}>
-          <div class="book-spine-text">{book.data.title}</div>
+        <div class="book-spine" style={`background: ${colors[i % colors.length]}`}>
+          <div class="book-spine-text">{book.title}</div>
         </div>
-        <div class="book-author">{book.data.author}</div>
-        {book.data.note && <div class="book-note">{book.data.note}</div>}
+        <div class="book-author">{book.author}</div>
       </div>
     ))}
   </div>
