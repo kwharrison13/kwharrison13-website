@@ -25,16 +25,18 @@ const { title, currentPage } = Astro.props;
     <Sidebar currentPage={currentPage} />
 
     <main class="main-content" id="main-content">
-      <!-- Mobile hamburger -->
-      <div class="mobile-header">
-        <button class="hamburger" id="hamburger">☰</button>
-        <span style="font-family: var(--font-display); font-size: 16px; font-weight: 500;">
-          Kyle Harrison
-        </span>
-      </div>
+      <div class="main-content-inner">
+        <!-- Mobile hamburger -->
+        <div class="mobile-header">
+          <button class="hamburger" id="hamburger">☰</button>
+          <span style="font-family: var(--font-display); font-size: 16px; font-weight: 500;">
+            Kyle Harrison
+          </span>
+        </div>
 
-      <div class="page-enter">
-        <slot />
+        <div class="page-enter">
+          <slot />
+        </div>
       </div>
     </main>
 
