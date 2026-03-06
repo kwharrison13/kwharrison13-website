@@ -518,6 +518,33 @@ h1.page-title em {
   color: var(--text-tertiary);
 }
 
+.carousel-dots {
+  display: flex;
+  gap: 8px;
+  margin-top: 14px;
+  padding-left: 16px;
+}
+
+.carousel-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  border: none;
+  background: var(--border);
+  cursor: pointer;
+  padding: 0;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.carousel-dot:hover {
+  background: var(--text-tertiary);
+  transform: scale(1.2);
+}
+
+.carousel-dot.active {
+  background: var(--accent);
+}
+
 /* ─── About Banner ──────────────────────────────────── */
 .about-banner {
   width: 100%;

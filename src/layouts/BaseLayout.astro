@@ -190,12 +190,33 @@ const { title, currentPage } = Astro.props;
     const carousel = document.getElementById('epigraph-carousel');
     if (carousel) {
       const quotes = carousel.querySelectorAll('.epigraph');
+      const dots = carousel.querySelectorAll('.carousel-dot');
       let current = 0;
-      setInterval(() => {
+      let timer;
+
+      function goTo(index) {
         quotes[current].classList.remove('active');
-        current = (current + 1) % quotes.length;
+        dots[current].classList.remove('active');
+        current = index;
         quotes[current].classList.add('active');
-      }, 6000);
+        dots[current].classList.add('active');
+      }
+
+      function startTimer() {
+        timer = setInterval(() => {
+          goTo((current + 1) % quotes.length);
+        }, 6000);
+      }
+
+      dots.forEach(dot => {
+        dot.addEventListener('click', () => {
+          clearInterval(timer);
+          goTo(Number(dot.dataset.index));
+          startTimer();
+        });
+      });
+
+      startTimer();
     }
   </script>
 </body>
