@@ -1,0 +1,27 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const essays = await getCollection('essays');
+  return essays.map(essay => ({
+    params: { slug: essay.slug },
+    props: { essay },
+  }));
+}
+
+const { essay } = Astro.props;
+const { Content } = await essay.render();
+---
+
+<BaseLayout title={essay.data.title} currentPage="essays">
+  <div style="margin-bottom: 8px;">
+    <span class="update-tag">{essay.data.tag}</span>
+    <span style="font-size: 12px; color: var(--text-tertiary); margin-left: 8px;">{essay.data.date}</span>
+  </div>
+  <h1 class="page-title">{essay.data.title}</h1>
+  <div class="section-divider" style="margin-top: 24px;"></div>
+  <div class="prose">
+    <Content />
+  </div>
+</BaseLayout>

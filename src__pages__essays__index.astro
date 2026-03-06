@@ -1,0 +1,31 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+// Load essays from content collection, sorted by date descending
+const essays = (await getCollection('essays')).sort(
+  (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf()
+);
+---
+
+<BaseLayout title="Essays" currentPage="essays">
+  <h1 class="page-title">Essays</h1>
+  <p class="page-subtitle">Recent writing from Investing 101 and beyond.</p>
+  <div class="section-divider"></div>
+
+  {essays.map((essay) => (
+    <a href={`/essays/${essay.slug}`} style="text-decoration: none; color: inherit;">
+      <div class="update-card">
+        <div class="update-icon">✎</div>
+        <div class="update-content">
+          <div class="update-title">{essay.data.title}</div>
+          <div class="update-excerpt">{essay.data.excerpt}</div>
+          <div class="update-meta">
+            <span class="update-tag">{essay.data.tag}</span>
+            {essay.data.date}
+          </div>
+        </div>
+      </div>
+    </a>
+  ))}
+</BaseLayout>

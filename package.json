@@ -1,7 +1,7 @@
 {
   "name": "kwharrison13-website",
   "type": "module",
-  "version": "0.0.1",
+  "version": "2.0.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -9,6 +9,6 @@
     "preview": "astro preview"
   },
   "dependencies": {
-    "astro": "^4.0.0"
+    "astro": "^5.0.0"
   }
 }

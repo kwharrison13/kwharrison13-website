@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const ideas = [
+  {
+    title: "Investing 101 2.0",
+    desc: "The art of investing is taking finite resources (time, energy, money, attention) and employing them to optimize an outcome. I'm fascinated by the first principles of what it means to simultaneously learn to become a great investor while reinventing the art form."
+  },
+  {
+    title: "Live The Library",
+    desc: "\"When you find a writer whose words enter your mind with deep impact and influence, pay attention.\" I constantly look to collect ideas from the people who most effectively inspire me."
+  },
+  {
+    title: "Historical Futurism",
+    desc: "Ever since I came across the Institute For The Future, I've been fascinated with how people predict the future — and how we can look at previous predictions to understand it."
+  },
+  {
+    title: "Open-Source Knowledge",
+    desc: "More people should treat their ideas like software that is open source, and in active development. Instead, people treat their ideas like a bridge; stable, but slowly decaying."
+  },
+];
+---
+
+<BaseLayout title="Portfolio Ideas" currentPage="portfolio">
+  <h1 class="page-title">Portfolio Ideas</h1>
+  <p class="page-subtitle">Big ideas worth taking seriously.</p>
+  <div class="section-divider"></div>
+
+  {ideas.map((p) => (
+    <div class="idea-card">
+      <h3>{p.title}</h3>
+      <p>{p.desc}</p>
+    </div>
+  ))}
+</BaseLayout>

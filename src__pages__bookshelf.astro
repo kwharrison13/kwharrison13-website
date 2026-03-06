@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+// Books loaded from JSON — edit src/content/books/books.json to add more
+import booksData from '../content/books/books.json';
+---
+
+<BaseLayout title="Bookshelf" currentPage="bookshelf">
+  <h1 class="page-title">Bookshelf</h1>
+  <p class="page-subtitle">Quake books — the ones that shifted my thinking.</p>
+  <div class="section-divider"></div>
+
+  {booksData.map((book, i) => (
+    <div class="book-item">
+      <div
+        class="book-cover"
+        style={`background: linear-gradient(135deg, hsl(${355 + i * 20}, 55%, 38%) 0%, hsl(${355 + i * 20}, 45%, 25%) 100%);`}
+      ></div>
+      <div>
+        <div class="book-title">{book.title}</div>
+        <div class="book-author">{book.author}</div>
+      </div>
+    </div>
+  ))}
+</BaseLayout>

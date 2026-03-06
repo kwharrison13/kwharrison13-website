@@ -1,0 +1,143 @@
+---
+// BaseLayout.astro — App shell with sidebar + main content area
+import Sidebar from '../components/Sidebar.astro';
+import ContactModal from '../components/ContactModal.astro';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  currentPage: string;
+}
+
+const { title, currentPage } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title} · Kyle Harrison</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+</head>
+<body>
+  <div class="app-shell" id="app-shell">
+    <Sidebar currentPage={currentPage} />
+
+    <main class="main-content" id="main-content">
+      <!-- Mobile hamburger -->
+      <div class="mobile-header">
+        <button class="hamburger" id="hamburger">☰</button>
+        <span style="font-family: var(--font-display); font-size: 16px; font-weight: 500;">
+          Kyle Harrison
+        </span>
+      </div>
+
+      <div class="page-enter">
+        <slot />
+      </div>
+    </main>
+
+    <ContactModal />
+  </div>
+
+  <script is:inline>
+    // ─── Theme Switcher ──────────────────────────────
+    (function initTheme() {
+      const stored = localStorage.getItem('theme') || 'auto';
+      applyTheme(stored);
+      highlightThemeBtn(stored);
+    })();
+
+    function applyTheme(choice) {
+      const resolved = choice === 'auto'
+        ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')
+        : choice;
+      document.getElementById('app-shell').setAttribute('data-theme', resolved);
+      localStorage.setItem('theme', choice);
+    }
+
+    function highlightThemeBtn(choice) {
+      document.querySelectorAll('.theme-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.themeChoice === choice);
+      });
+    }
+
+    document.querySelectorAll('.theme-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const choice = btn.dataset.themeChoice;
+        applyTheme(choice);
+        highlightThemeBtn(choice);
+      });
+    });
+
+    // ─── Contact Modal ───────────────────────────────
+    const modal = document.getElementById('contact-modal');
+
+    function openModal() {
+      modal.style.display = 'flex';
+    }
+
+    function closeModal() {
+      modal.style.display = 'none';
+    }
+
+    modal.addEventListener('click', (e) => {
+      if (e.target === modal) closeModal();
+    });
+
+    document.getElementById('modal-cancel').addEventListener('click', closeModal);
+
+    // Contact nav item opens modal instead of navigating
+    document.querySelectorAll('[data-page="contact"]').forEach(el => {
+      el.addEventListener('click', (e) => {
+        e.preventDefault();
+        openModal();
+      });
+    });
+
+    // ─── Keyboard Shortcuts ──────────────────────────
+    const keyMap = {};
+    document.querySelectorAll('.nav-item[data-key]').forEach(el => {
+      keyMap[el.dataset.key] = el;
+    });
+
+    document.addEventListener('keydown', (e) => {
+      // Don't capture when typing in inputs
+      if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+
+      if (e.key === 'Escape') {
+        closeModal();
+        return;
+      }
+
+      const navEl = keyMap[e.key];
+      if (navEl) {
+        e.preventDefault();
+        if (navEl.dataset.page === 'contact') {
+          openModal();
+        } else {
+          // Use View Transitions API if available, else normal nav
+          if (document.startViewTransition) {
+            document.startViewTransition(() => {
+              window.location.href = navEl.href;
+            });
+          } else {
+            window.location.href = navEl.href;
+          }
+        }
+      }
+    });
+
+    // ─── Mobile Sidebar Toggle ───────────────────────
+    const sidebar = document.getElementById('sidebar');
+    const hamburger = document.getElementById('hamburger');
+
+    if (hamburger) {
+      hamburger.addEventListener('click', () => {
+        sidebar.classList.toggle('open');
+      });
+    }
+  </script>
+</body>
+</html>
