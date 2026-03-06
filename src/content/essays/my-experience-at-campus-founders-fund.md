@@ -1,0 +1,18 @@
+---
+title: "My Experience at Campus Founders Fund"
+date: "2017-01-01"
+tag: "Personal"
+excerpt: "In September 2014, I had just declared my major. Accounting. What did I want to do with that? Who knows, but it sure sounded stable. I was sitting in one of my business classes, desperately trying to ..."
+---
+
+In September 2014, I had just declared my major. Accounting. What did I want to do with that? Who knows, but it sure sounded stable. I was sitting in one of my business classes, desperately trying to decide what I was going to be when I grow up. When I talk to a friend, he asks, “what are you passionate about?” My only response is, “I’m not sure, I just know I like helping people take their ideas and succeed.” “Well, that’s basically what venture capitalists do.”
+
+I didn’t know what a venture capitalist was. I barely knew what business was. Or photosynthesis, but that’s a whole different thing; college is hard. When I saw a poster on campus that literally said, “Want to be a venture capitalist? Come to this info session,” that was enough for me. The info session I went to was for [Campus Founders Fund](http://campusfounders.com/) (CFF), a brand new student-run venture capital fund. I was lucky enough to get a spot on the very first CFF team, and when I started, the only thing I knew was that I wanted to help people make their ideas a reality. I still remember the first pitch I ever heard, it was all about sensor technology and low-energy Bluetooth. I was in way over my head, I was pretty sure Bluetooth was the little phone you put in your ear, but that couldn’t be what they were talking about, right?
+
+But after the first three pitches that night, and then twelve more over the course of the month, I started to realize that my job wasn’t to understand every aspect of the technology these companies were building. My job was to understand who the target customer was, empathize with their pains, figure out whether they would pay for what this company was building, and if these students were the ones with the hustle and grit to figure all of that out.
+
+We saw more than 50 companies pitch in the first year and every time we found a company worth investing in, the student entrepreneurs always had the same passion to solve the problem they were tackling. After a while, I started to feel the same way. Together with some friends, I started researching access to energy in sub-Saharan Africa. After hundreds of interviews at 2 a.m. because of the time difference, we launched a solar distribution company in Uganda. By working with microfinance institutions, we were able to distribute across thousands of square miles, and have sold hundreds of solar lamps.
+
+CFF helps you realize that, even as a student, you can change the world. Sure, I still don’t know what I’m going to be when I grow up. But as a twenty-something soon-to-be college grad, I can say I’ve been the managing partner of a venture capital fund. As a result of my work and the work of 26 other students over the past two years, we’ve invested over $200,000 into fifteen different student-run startups.
+
+Before CFF, I would have had an idea and thought, “Someone should totally do that.” Now when I have an idea, I think, “I’m going to do that.” I had that experience when I saw how much younger people struggle with debt and budgeting. The more I learned about this problem, the more a solution started to shape in my mind. Now I’m working on technology that can support banks and universities in helping their customers and students become financially stable. I’ve become one of the most connected and entrepreneurially-competent students at my school, all thanks to the experience I’ve had as a member of Campus Founders Fund.
