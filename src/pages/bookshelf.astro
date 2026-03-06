@@ -1,21 +1,24 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 
-// Books loaded from JSON — edit src/content/books/books.json to add more
 import booksData from '../data/books.json';
 ---
 
 <BaseLayout title="Bookshelf" currentPage="bookshelf">
   <h1 class="page-title">Bookshelf</h1>
-  <p class="page-subtitle">Quake books — the ones that shifted my thinking.</p>
+  <p class="page-subtitle">
+    This page is an archive for my <a href="https://investing101.substack.com/" target="_blank" rel="noreferrer" style="color: var(--accent); text-decoration: underline; font-weight: 500;">"quake books"</a> that have had the most profound impact on me.
+  </p>
   <div class="section-divider"></div>
 
-  {booksData.map((book, i) => (
+  {booksData.map((book) => (
     <div class="book-item">
-      <div
-        class="book-cover"
-        style={`background: linear-gradient(135deg, hsl(${355 + i * 20}, 55%, 38%) 0%, hsl(${355 + i * 20}, 45%, 25%) 100%);`}
-      ></div>
+      <img
+        class="book-cover-img"
+        src={book.isbn ? `https://covers.openlibrary.org/b/isbn/${book.isbn}-M.jpg` : `https://covers.openlibrary.org/b/title/${encodeURIComponent(book.title)}-M.jpg`}
+        alt={book.title}
+        loading="lazy"
+      />
       <div>
         <div class="book-title">{book.title}</div>
         <div class="book-author">{book.author}</div>
