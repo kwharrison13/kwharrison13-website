@@ -76,6 +76,11 @@ const { title, currentPage } = Astro.props;
 
     function openModal() {
       modal.style.display = 'flex';
+      // Reset form visibility in case it was previously submitted
+      const form = document.getElementById('contact-form');
+      const success = document.getElementById('contact-success');
+      if (form) form.style.display = '';
+      if (success) success.style.display = 'none';
     }
 
     function closeModal() {
@@ -87,6 +92,46 @@ const { title, currentPage } = Astro.props;
     });
 
     document.getElementById('modal-cancel').addEventListener('click', closeModal);
+
+    // Contact form submission
+    const contactForm = document.getElementById('contact-form');
+    const contactSuccess = document.getElementById('contact-success');
+
+    contactForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const sendBtn = document.getElementById('modal-send');
+      sendBtn.textContent = 'Sending...';
+      sendBtn.disabled = true;
+
+      try {
+        const res = await fetch(contactForm.action, {
+          method: 'POST',
+          body: new FormData(contactForm),
+          headers: { 'Accept': 'application/json' }
+        });
+
+        if (res.ok) {
+          contactForm.style.display = 'none';
+          contactSuccess.style.display = 'block';
+          contactForm.reset();
+        } else {
+          // Fallback to mailto
+          const name = contactForm.querySelector('[name="name"]').value;
+          const email = contactForm.querySelector('[name="email"]').value;
+          const message = contactForm.querySelector('[name="message"]').value;
+          window.location.href = `mailto:kyle@contrary.com?subject=Message from ${name}&body=${encodeURIComponent(message)}%0A%0AFrom: ${email}`;
+        }
+      } catch {
+        // Fallback to mailto
+        const name = contactForm.querySelector('[name="name"]').value;
+        const email = contactForm.querySelector('[name="email"]').value;
+        const message = contactForm.querySelector('[name="message"]').value;
+        window.location.href = `mailto:kyle@contrary.com?subject=Message from ${name}&body=${encodeURIComponent(message)}%0A%0AFrom: ${email}`;
+      }
+
+      sendBtn.textContent = 'Send';
+      sendBtn.disabled = false;
+    });
 
     // Contact nav item opens modal instead of navigating
     document.querySelectorAll('[data-page="contact"]').forEach(el => {

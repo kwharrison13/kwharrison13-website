@@ -1,26 +1,37 @@
 ---
 // ContactModal.astro — Modal overlay for quick contact
+// Uses Formspree to deliver submissions to kyle@contrary.com
+// To set up: go to formspree.io, create a form pointing to kyle@contrary.com,
+// and replace YOUR_FORM_ID below with the ID they give you.
+// Until then, this falls back to mailto.
 ---
 
 <div class="modal-overlay" id="contact-modal" style="display: none;">
   <div class="modal">
     <h2>Get in touch</h2>
     <p class="modal-sub">Send a quick note — I'll get back to you.</p>
-    <div class="modal-field">
-      <label>Name</label>
-      <input type="text" placeholder="Your name" />
-    </div>
-    <div class="modal-field">
-      <label>Email</label>
-      <input type="email" placeholder="you@example.com" />
-    </div>
-    <div class="modal-field">
-      <label>Message</label>
-      <textarea rows="4" placeholder="What's on your mind?"></textarea>
-    </div>
-    <div class="modal-actions">
-      <button class="btn" id="modal-cancel">Cancel</button>
-      <button class="btn btn-primary" id="modal-send">Send</button>
+    <form id="contact-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+      <input type="hidden" name="_to" value="kyle@contrary.com" />
+      <div class="modal-field">
+        <label>Name</label>
+        <input type="text" name="name" placeholder="Your name" required />
+      </div>
+      <div class="modal-field">
+        <label>Email</label>
+        <input type="email" name="email" placeholder="you@example.com" required />
+      </div>
+      <div class="modal-field">
+        <label>Message</label>
+        <textarea rows="4" name="message" placeholder="What's on your mind?" required></textarea>
+      </div>
+      <div class="modal-actions">
+        <button type="button" class="btn" id="modal-cancel">Cancel</button>
+        <button type="submit" class="btn btn-primary" id="modal-send">Send</button>
+      </div>
+    </form>
+    <div id="contact-success" style="display: none; text-align: center; padding: 24px 0;">
+      <p style="font-size: 16px; margin-bottom: 4px;">Message sent!</p>
+      <p style="font-size: 13px; color: var(--text-secondary);">I'll get back to you soon.</p>
     </div>
   </div>
 </div>
