@@ -22,7 +22,7 @@ const essays = (await getCollection('essays')).sort(
           <div class="update-excerpt">{essay.data.excerpt}</div>
           <div class="update-meta">
             <span class="update-tag">{essay.data.tag}</span>
-            {essay.data.date}
+            {new Date(essay.data.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
           </div>
         </div>
       </div>
