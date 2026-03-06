@@ -1,0 +1,87 @@
+---
+// Sidebar.astro — Productivity-app-style sidebar navigation
+// The `currentPage` prop highlights the active nav item.
+
+interface Props {
+  currentPage: string;
+}
+
+const { currentPage } = Astro.props;
+
+const navSections = [
+  {
+    group: null,
+    items: [
+      { id: "home", label: "Home", icon: "◉", key: "1", href: "/" },
+      { id: "about", label: "About", icon: "⊕", key: "2", href: "/about" },
+      { id: "essays", label: "Essays", icon: "✎", key: "3", href: "/essays" },
+      { id: "portfolio", label: "Portfolio Ideas", icon: "◈", key: "4", href: "/portfolio" },
+      { id: "bookshelf", label: "Bookshelf", icon: "▤", key: "5", href: "/bookshelf" },
+    ],
+  },
+  {
+    group: "Resources",
+    items: [
+      { id: "music", label: "Music", icon: "♫", key: "6", href: "/music" },
+      { id: "videos", label: "Videos", icon: "▶", key: "7", href: "/videos" },
+      { id: "podcasts", label: "Podcasts", icon: "◉", key: "8", href: "/podcasts" },
+      { id: "learning", label: "Learning", icon: "∞", key: "9", href: "/learning" },
+    ],
+  },
+  {
+    group: "Stay in touch",
+    items: [
+      { id: "contact", label: "Contact", icon: "✉", key: "/", href: "#contact" },
+    ],
+  },
+];
+
+const externalLinks = [
+  { label: "Newsletter", icon: "↗", url: "https://investing1012dot0.substack.com/" },
+  { label: "Twitter", icon: "↗", url: "https://twitter.com/kwharrison13" },
+  { label: "LinkedIn", icon: "↗", url: "https://www.linkedin.com/in/kyle-harrison-9274b278/" },
+];
+---
+
+<nav class="sidebar" id="sidebar">
+  <div class="sidebar-logo">
+    <span class="logo-mark">K</span>
+    Kyle Harrison
+  </div>
+
+  {navSections.map((section) => (
+    <div>
+      {section.group && <div class="nav-group-label">{section.group}</div>}
+      {section.items.map((item) => (
+        <a
+          class={`nav-item ${currentPage === item.id ? 'active' : ''}`}
+          href={item.href}
+          data-key={item.key}
+          data-page={item.id}
+          aria-current={currentPage === item.id ? 'page' : undefined}
+        >
+          <span class="nav-item-icon">{item.icon}</span>
+          {item.label}
+          <span class="nav-item-key">{item.key}</span>
+        </a>
+      ))}
+    </div>
+  ))}
+
+  <div style="margin-top: 8px;">
+    {externalLinks.map((link) => (
+      <a class="nav-external" href={link.url} target="_blank" rel="noreferrer">
+        <span class="nav-item-icon" style="font-size: 12px;">{link.icon}</span>
+        {link.label}
+      </a>
+    ))}
+  </div>
+
+  <div class="sidebar-footer">
+    <div class="theme-switcher">
+      <button class="theme-btn" data-theme-choice="light">Light</button>
+      <button class="theme-btn" data-theme-choice="dark">Dark</button>
+      <button class="theme-btn" data-theme-choice="auto">Auto</button>
+    </div>
+  </div>
+</nav>

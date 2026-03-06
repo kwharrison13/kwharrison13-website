@@ -1,0 +1,18 @@
+---
+// PlaceholderPage.astro — Used for resource pages not yet populated
+
+interface Props {
+  icon: string;
+  pageTitle: string;
+  description: string;
+}
+
+const { icon, pageTitle, description } = Astro.props;
+---
+
+<h1 class="page-title">{pageTitle}</h1>
+<p class="page-subtitle">{description}</p>
+<div class="placeholder">
+  <div class="placeholder-icon">{icon}</div>
+  <span>Content coming soon.</span>
+</div>

@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const interests = [
+  "Technological Innovation", "Capital Allocation", "Company Building",
+  "Religious Intellectualism", "City Building", "People Over Politics",
+  "Historical Futurism", "The Language of Discourse", "Ideological Family Trees"
+];
+---
+
+<BaseLayout title="About" currentPage="about">
+  <h1 class="page-title">About</h1>
+  <p class="page-subtitle">Research · Capital · Ideas</p>
+
+  <div class="info-grid">
+    <span class="info-label">Role</span>
+    <span class="info-value">General Partner @ Contrary · Founder @ Contrary Research</span>
+    <span class="info-label">Newsletter</span>
+    <span class="info-value">
+      <a href="https://investing1012dot0.substack.com/" target="_blank" rel="noreferrer">
+        Investing 101 on Substack ↗
+      </a>
+    </span>
+    <span class="info-label">Location</span>
+    <span class="info-value">Portland, Oregon</span>
+    <span class="info-label">Background</span>
+    <span class="info-value">Index Ventures · Coatue · TCV · Amazon · BYU · Cambridge</span>
+  </div>
+
+  <div style="margin-top: 32px;">
+    <h2 class="section-heading">Interests</h2>
+    <div class="section-divider"></div>
+    <div class="badge-row">
+      {interests.map((t) => <span class="badge">{t}</span>)}
+    </div>
+  </div>
+</BaseLayout>

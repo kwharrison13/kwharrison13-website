@@ -10,14 +10,4 @@ const essays = defineCollection({
   }),
 });
 
-const portfolio = defineCollection({
-  type: 'data',
-  schema: z.object({
-    name: z.string(),
-    stage: z.string(),
-    description: z.string(),
-    url: z.string().optional(),
-  }),
-});
-
 export const collections = { essays };
