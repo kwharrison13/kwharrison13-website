@@ -7,7 +7,7 @@ slug: "even-more-a-father"
 type: "newsletter"
 ---
 
-![](images/even-more-a-father-86298e35.png)
+![](/images/even-more-a-father-86298e35.png)
 
 Forgive me if I wax poetic and a bit theological this week. I'm feeling, [once again](https://investing1012dot0.substack.com/p/decades), quite reflective. I started my blog almost three years ago. Not long after I started it, I wrote [Kids 3.0](https://investing1012dot0.substack.com/p/kids-30) after my wife and I had our third kid. At the time, I made a web3 joke. I don't have a 4.0 joke, so all I can say is my wife and I welcomed our fourth kid to the family this week!
 
@@ -31,7 +31,7 @@ The most difficult part of being a parent is being afraid that you don't have en
 
 I recently saw [The Iron Claw](https://bit.ly/3Y3fbvf) for the first time and I gotta say; I don't know what I expected about the wrestling movie, but it wasn't a heart-wrenching portrayal of family from the star of High School Musical. But that's what I got. Spoiler alert for the movie, so... I don't know. Stop reading now I guess if you don't want to ruin it.
 
-![](images/even-more-a-father-7ef6f4d8.png)
+![](/images/even-more-a-father-7ef6f4d8.png)
 
 The movie is about a family where, at least among the brothers, I completely buy the love they have for each other. After some of the most heart-breaking tragedies, Zach Effron is the only brother that's left in the family. His sons come up to him seeing him crying, and ask him what's wrong. His response wrenched my heart open:
 
@@ -45,6 +45,6 @@ But to think that his role as a brother was over? That doesn't sit right with me
 
 So this week, I expanded my stewardship. I am responsible for myself. I am responsible for my relationship with myself. And I am responsible with the relationships I have with each of my children — Dax, Jed, Eve, and the newly arrived Ace.
 
-![](images/even-more-a-father-1dc50114.png)
+![](/images/even-more-a-father-1dc50114.png)
 
 **In everything we do, I think we would be better served by acknowledging the responsibility we have.** Any commitment we make, any project we undertake, any investment we make, any relationship we have — it's a stewardship. We're allocating something to those things. And I think, too often, people equate their lives with the outputs. *"What do I get out of this?"* It’s unfortunate. Very rarely do we stop enough to say *"what do I have the opportunity to give?"* And, more importantly, what do I get to *become* as a result of that giving?

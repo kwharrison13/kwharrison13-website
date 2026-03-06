@@ -7,7 +7,7 @@ slug: "learnable-empathy"
 type: "newsletter"
 ---
 
-![](images/learnable-empathy-10f32a9f.png)
+![](/images/learnable-empathy-10f32a9f.png)
 
 In 1998, Robin Williams was in a movie called Patch Adams, and there is a scene I think about all the time. The title character is being accused of practicing medicine without a license, treating patients with humor more than anything. He's asked if he'd thought through the potential ramifications of his actions. "What if somebody had died?"
 

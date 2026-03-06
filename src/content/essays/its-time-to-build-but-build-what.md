@@ -7,7 +7,7 @@ slug: "its-time-to-build-but-build-what"
 type: "newsletter"
 ---
 
-![](images/its-time-to-build-but-build-what-9fd434e4.png)
+![](/images/its-time-to-build-but-build-what-9fd434e4.png)
 
 COVID created a real time warp. It might shock you to hear that in a few months, it will have been four years since lockdowns started in the US. There is someone out there who was just starting high school when we went remote, and now they're gearing up to graduate.
 
@@ -31,7 +31,7 @@ What's taken its place? Mass production, quality destruction, and eventually pro
 
 A critical antithesis of building things that last for a LONG time is the profit-driven motive to build replacement into specific products. One example sparked a conversation online a few months ago that stood out to me. Ben Schwartz's recreation of a Billy Crystal look from the 80s drew attention to the quality of sweaters over time. Our grandparents used to make clothes by hand. **We traded craftsmanship for convenience, and in the process gave up a capability.**
 
-![Source:Twitter](images/its-time-to-build-but-build-what-57d4a71e.png)
+![Source:Twitter](/images/its-time-to-build-but-build-what-57d4a71e.png)
 
 There are tons of examples of this across dozens of different markets:
 
@@ -45,13 +45,13 @@ The [Centennial Light](https://en.wikipedia.org/wiki/Centennial_Light) stands as
 
 ### Computers
 
-![Source:The Verge](images/its-time-to-build-but-build-what-56f38e16.png)
+![Source:The Verge](/images/its-time-to-build-but-build-what-56f38e16.png)
 
 Look no further than the myriad of different ports Apple has foisted on us over the years. Every computer has built in plans to force you to look for replacements, whether its for the software, hardware, battery, etc.
 
 Think about Airpods. Their [batteries](https://www.washingtonpost.com/technology/2019/10/08/everyones-airpods-will-die-weve-got-trick-replacing-them/) are built to need to be replaced. One of the reasons that Airpods has become such a massive revenue driver in its own right isn't just because of popularity. Having to replace our Airpods has effectively become a recurring revenue line item for Apple.
 
-![Source:Reddit](images/its-time-to-build-but-build-what-0853073d.png)
+![Source:Reddit](/images/its-time-to-build-but-build-what-0853073d.png)
 
 ## Build How?
 
@@ -87,7 +87,7 @@ Here's the timeline. In early 2020, Marc wrote the "Time to Build" essay. In it,
 
 Fast forward to [August 4th, 2022](https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061/). Marc Andreessen's hometown in Atherton, California ([the most expensive zip code in the US](https://www.propertyshark.com/Real-Estate-Reports/most-expensive-zip-codes-in-the-us/)) had some proposed plans to build multi-family homes. Andreessen and his wife wrote in [a public comment](https://web.archive.org/web/20220805013421/https://www.ci.atherton.ca.us/DocumentCenter/View/10529/Public-Comments-and-Summary-Info) (which now seems to be [taken down](https://www.ci.atherton.ca.us/DocumentCenter/View/10529/Public-Comments-and-Summary-Info)) that they were very much against the planned multi-family housing. A response commonly referred to as NIMBYism ("Not In My Back Yard"…ism).
 
-![Source:Wayback Machine](images/its-time-to-build-but-build-what-41bb133d.png)
+![Source:Wayback Machine](/images/its-time-to-build-but-build-what-41bb133d.png)
 
 The sequence of events can't help but strike you as funny. It reminds me of [this Neal Brennan bit](https://www.youtube.com/watch?v=4V-Qko1M3Zk). But the plot thickens.
 

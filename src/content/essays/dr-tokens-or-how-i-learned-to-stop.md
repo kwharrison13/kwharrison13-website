@@ -7,7 +7,7 @@ slug: "dr-tokens-or-how-i-learned-to-stop"
 type: "newsletter"
 ---
 
-![](images/dr-tokens-or-how-i-learned-to-stop-423f9659.jpg)
+![](/images/dr-tokens-or-how-i-learned-to-stop-423f9659.jpg)
 
 ---
 
@@ -149,7 +149,7 @@ It is at this point, having outlined all the rational reasons to embrace the bub
 
 ## VIII. Everything Is Fine
 
-![](images/dr-tokens-or-how-i-learned-to-stop-57b4c7b1.png)
+![](/images/dr-tokens-or-how-i-learned-to-stop-57b4c7b1.png)
 
 The above memetic[19](#footnote-19) is illustrative of the point we are striving to make. It is typical to experience fear, anxiety, worry, doubt. But the framework allows for this.
 

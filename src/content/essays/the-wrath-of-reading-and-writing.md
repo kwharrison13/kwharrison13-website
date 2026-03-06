@@ -7,13 +7,13 @@ slug: "the-wrath-of-reading-and-writing"
 type: "newsletter"
 ---
 
-![Source:Writer's HQ](images/the-wrath-of-reading-and-writing-98b76597.png)
+![Source:Writer's HQ](/images/the-wrath-of-reading-and-writing-98b76597.png)
 
 This is not what I wanted to be writing today. Have you heard the phrase, "my eyes were too big for my stomach?" I've felt that a lot lately, only rather than loading up on a hefty plate of food my body could never consume, I instead tackle these concepts that are meaty beyond my capacity to tackle them, whether in time, talent, or energy.
 
 I have these grand ambitions to tackle large and complex topics. This weeks immovable object? Historical Futurism. Now, the good news is I've got quite the outline laid out. But I just couldn't get there this week.
 
-![](images/the-wrath-of-reading-and-writing-c83a414c.png)
+![](/images/the-wrath-of-reading-and-writing-c83a414c.png)
 
 And for most people, thats perfectly acceptable. "Next time," they'd say. But lately, it has awoken in me a sense of existential dread. I see these concepts connecting in front of my eyes, but like an ethereal dream they exist just outside my reach. And that sent me down a rabbit hole of the meta elements of what I was trying to do. **Why do I write? Why do I read? Why don't I read and write as much as I wish I did?**
 
@@ -23,13 +23,13 @@ People throw around the phrase "knowledge workers" all the time; what they mean 
 
 The act of "working" in knowledge is a fundamental aspect of being human. What has changed, instead, is the volume and mediums of information. The industrial revolution (among other things) helped drive an explosion in literacy rates around the world.
 
-![Source:Our World In Data](images/the-wrath-of-reading-and-writing-d6179461.png)
+![Source:Our World In Data](/images/the-wrath-of-reading-and-writing-d6179461.png)
 
 For a modern clickity-clacker, you're likely introduced to a range and breadth of concepts each day that the average person 500 years ago might not have seen in their entire lifetime. Some might argue that we don't have the mental capacity to effectively process all the information that gets thrown our way.
 
 I, myself, am a big believer in the knowledge tools that have arisen to help us manage the inflow of information. For starters, the majority of my brain lives in [Roam Research](https://roamresearch.com/). [I've written before](https://investing1012dot0.substack.com/p/roam-investing) about how I use it, but suffice it to say if it weren't for Roam, I would NOT be on my 81st consecutive week of writing something.
 
-![](images/the-wrath-of-reading-and-writing-e2803849.png)
+![](/images/the-wrath-of-reading-and-writing-e2803849.png)
 
 But despite the tools and the obsession with productivity, I find myself constantly falling short of my imagined capacity. I don't write as much as I'd like. I don't read as much as I like.
 

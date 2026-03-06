@@ -7,7 +7,7 @@ slug: "the-fall-of-the-hero-founder"
 type: "newsletter"
 ---
 
-![](images/the-fall-of-the-hero-founder-2c5eaacb.png)
+![](/images/the-fall-of-the-hero-founder-2c5eaacb.png)
 
 The last 24 hours have been a hyper-concentrated dose of an entire philosophical debate within tech, all played against the backdrop of intense speculation and the furthering of personal vendettas.
 
@@ -25,7 +25,7 @@ In lieu of the piece I’ve been writing, I just wanted to a share a brief refle
 
 One piece that has stuck with me was written by [Nirit Weiss-Blatt](https://twitter.com/DrTechlash), who wrote a book called [The Techlash](https://www.niritweissblatt.com/), unpacking how tech media swings in its coverage from utopian to dystopian and back. She wrote a piece in September 2023 called “[What Ilya Sutskever Really Wants](https://www.aipanic.news/p/what-ilya-sutskever-really-wants).”
 
-![](images/the-fall-of-the-hero-founder-64ef72ed.jpg)
+![](/images/the-fall-of-the-hero-founder-64ef72ed.jpg)
 
 In it, she describes an experience listening to Ilya speak at a conference about the existential crisis that AI represents for humanity. Afterwards, she reflected on his philosophy:
 
@@ -39,7 +39,7 @@ Ilya’s perspective was focused on the need to create AI “[that truly deeply 
 
 What’s more, there is such a contrast today. On the one hand, we have EA exploding the most important company in technology in decades. On the other hand, we have e/acc powering a literal rocket, exploding towards the sky, space, and all the progress that entails.
 
-![Source:Twitter](images/the-fall-of-the-hero-founder-24c293b4.jpg)
+![Source:Twitter](/images/the-fall-of-the-hero-founder-24c293b4.jpg)
 
 The takeaways are worthy of discussion, and there’s a ton of nuance. It is shocking (and irresponsible) that Microsoft, Sequoia, Thrive, and Khosla Ventures have invested billions in OpenAI and were completely [caught off guard](https://x.com/alexrkonrad/status/1725712990274560145?s=20) by Sam’s firing. Irresponsible of the investors for not having more influence and insight, but also irresponsible of the board.
 
@@ -49,7 +49,7 @@ But that’s another argument for why the fate of OpenAI shouldn’t have been l
 
 One take I thought was close to the mark was a reframing of the philosophical debate in AI. **We’ve been talking so much about open vs. closed, we neglected to address the third bucket: stupid.**
 
-![Source:Twitter](images/the-fall-of-the-hero-founder-790ce692.png)
+![Source:Twitter](/images/the-fall-of-the-hero-founder-790ce692.png)
 
 Identity politics have started to shift, expand, and metastasize into a new series of crusades. AI safety is a crusade. Effective altruism is a crusade. Granted, e/acc is a crusade. But the question is which movements are we letting win?
 
@@ -63,7 +63,7 @@ Sam’s ouster is quite different. **Sam was removed for doing too good**. Progr
 
 The response to Sam Altman’s ouster is reminiscent of a certain meme:
 
-![](images/the-fall-of-the-hero-founder-e3bf70ff.jpg)
+![](/images/the-fall-of-the-hero-founder-e3bf70ff.jpg)
 
 And Ilya missed.
 
@@ -71,12 +71,12 @@ And Ilya missed.
 
 The second reflection from this is the establishment of Greg Brockman as the absolute king of the bad@ss ride-or-die brothers-in-arms. In response to Sam’s firing, Greg absolutely could have positioned himself as the heir apparent, and fought to control OpenAI. Instead?
 
-![Source:Twitter](images/the-fall-of-the-hero-founder-9abb876f.jpg)
+![Source:Twitter](/images/the-fall-of-the-hero-founder-9abb876f.jpg)
 
 My god. It’s beautiful.
 
 Someone else [pointed out](https://x.com/thogge/status/1725902405462884586?s=20) that in 2017, Sam Altman wrote a blog post about what makes an ideal co-founder. The title? “[Greg](https://blog.samaltman.com/greg).”
 
-![](images/the-fall-of-the-hero-founder-bc3a2164.png)
+![](/images/the-fall-of-the-hero-founder-bc3a2164.png)
 
 Live your life in such a way that you deserve a friend like Greg Brockman.

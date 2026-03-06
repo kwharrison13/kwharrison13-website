@@ -7,7 +7,7 @@ slug: "surviving-the-death-of-venture-capital"
 type: "newsletter"
 ---
 
-![](images/surviving-the-death-of-venture-capital-a7fa0c45.png)
+![](/images/surviving-the-death-of-venture-capital-a7fa0c45.png)
 
 [I've said it before](https://investing1012dot0.substack.com/p/according-to-plan), and I'll say it again. In 2008 one of the most important experiences in my life was making sure I argued with all of my friends about which movie was better; The Dark Knight? Or Iron Man? Meanwhile the world was experiencing one of the five worst financial crises in history that led to a [$2 trillion loss globally](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008#:~:text=It%20was%20among%20the%20five,during%202008%2C%20reaching%20%2410.5%20trillion.).
 
@@ -15,7 +15,7 @@ But when I think back, I still think The Dark Knight was a better movie. One sce
 
 The perpetrator of the bomb switcharoo? The Joker. He tells each boat that if they blow up the other boat, then they'll live. If neither pulls the trigger? He'll blow both of them up. Pretty fascinating experiment in human nature. But the MVP of the experiment? This guy.
 
-![](images/surviving-the-death-of-venture-capital-da9c87ac.png)
+![](/images/surviving-the-death-of-venture-capital-da9c87ac.png)
 
 The guards on the prisoner boat don't want to pull the trigger, but they don't know what to do. The prisoners are starting to get ansy. Walking up to the guard holding the detonator, this guy offers a solution:
 
@@ -31,7 +31,7 @@ Now, spoiler alert, thanks to Batman, nobody has to die. A boat full of people t
 
 I'm staring down the barrel of cognitive dissonance where, on the one hand, I am a venture capitalist. And I want to keep doing what I'm doing. And I believe [the model I'm leveraging](https://investing1012dot0.substack.com/p/contrary-my-renegade-of-choice) can be valuable. On the other hand, I recognize the multitude of issues in the industry that create potentially more problems than they offer support.
 
-![Source:Twitter](images/surviving-the-death-of-venture-capital-1b5fcc55.png)
+![Source:Twitter](/images/surviving-the-death-of-venture-capital-1b5fcc55.png)
 
 First? We have to fight within the nuance. Just because something is broken, doesn't mean it needs to be taken back behind the barn and shot in the face. **But once we defend our right to live? Then we have to come to terms with the need to change.**
 
@@ -39,7 +39,7 @@ First? We have to fight within the nuance. Just because something is broken, doe
 
 "But Kyle, isn't all the murder and death talk pretty gloomy for a VC blog? Euthanasia is a bit much." The hyperbole is not mine to claim. That honor belongs to [Edward Ongweso Jr](https://twitter.com/bigblackjacobin). In March 2023, after the SVB blow up, he wrote a piece entitled "[The Incredible Tantrum Venture Capitalists Threw Over Silicon Valley Bank](https://slate.com/technology/2023/03/silicon-valley-bank-rescue-venture-capital-calacanis-sacks-ackman-tantrum.html)." As part of that piece he took this pretty aggressive stance:
 
-![Source:Twitter](images/surviving-the-death-of-venture-capital-5a72f482.png)
+![Source:Twitter](/images/surviving-the-death-of-venture-capital-5a72f482.png)
 
 The increasing vitriol thrown at venture capitalists is as broad as it is creative: [parasites](https://slate.com/technology/2023/03/silicon-valley-bank-rescue-venture-capital-calacanis-sacks-ackman-tantrum.html), [con artists](https://www.linkedin.com/posts/irwin-stein-aaa5b9256_the-great-vc-con-game-law-and-economics-activity-7041453588232953856-7JIU?utm_source=share&utm_medium=member_desktop), [Venture Catastrophists](https://www.profgalloway.com/venture-catastrophists/), and (the most creative), [ill-dressed rent-seeking oligarchic vampires](https://x.com/nntaleb/status/1637438941056888839?s=20).
 
@@ -80,11 +80,11 @@ By now, a lot of VCs are nodding their heads. "Exactly! We're an important part 
 
 The reality is private equity, as an industry, has attempted to hide behind an illiquidity premium, a long time horizon, and a lack of transparency. Just take this one footnote crime as an example:
 
-![Source:Twitter](images/surviving-the-death-of-venture-capital-e99d574a.png)
+![Source:Twitter](/images/surviving-the-death-of-venture-capital-e99d574a.png)
 
 On a chart meant to demonstrate the balance between returns and volatility, the footnote says "From 1Q86 to 4Q20 where data is available, deemphasizing 2008 and 2009 returns at one-third the weight due to the extreme volatility and wide range of performance, which skewed results."
 
-![](images/surviving-the-death-of-venture-capital-9aac8d0a.gif)
+![](/images/surviving-the-death-of-venture-capital-9aac8d0a.gif)
 
 The reality is every asset class is filled with storytelling and financial massaging. **Every skeleton has closest, so lets talk about where those are buried for the venture world.**
 
@@ -92,7 +92,7 @@ The reality is every asset class is filled with storytelling and financial massa
 
 So much has been said about the weaknesses of the venture model. Venture firms have done [dramatic damage to their brand value](https://x.com/semil/status/1708900561272385536?s=20) as a result of intense hype chasing and FOMO baiting. Even Sequoia, who is definitively one of the best multi-stage venture firms to ever exist, has gotten their fair share of black eyes, most recently (and notably) with FTX.
 
-![Source:Twitter](images/surviving-the-death-of-venture-capital-9d8dae7b.png)
+![Source:Twitter](/images/surviving-the-death-of-venture-capital-9d8dae7b.png)
 
 [I've written before](https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater) about a recent paper that came out called "[Venture Predation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437360)." One [overview](https://www.businessinsider.com/venture-capital-big-tech-antitrust-predatory-pricing-uber-wework-bird-2023-7) of the paper described the conflict this way:
 
@@ -112,7 +112,7 @@ This is the guy who invested [$12 million](https://www.businessinsider.com/ventu
 
 I say again...
 
-![](images/surviving-the-death-of-venture-capital-9aac8d0a.gif)
+![](/images/surviving-the-death-of-venture-capital-9aac8d0a.gif)
 
 # Venture Capital Deserves To Change
 
@@ -140,6 +140,6 @@ Inhumanely subsidized labor, monopoly price gouging, over-paid lobbyists, the se
 
 Companies like Udemy with [$400M](https://x.com/gaganbiyani/status/1720518710631526509?s=20) of revenue can see their stock price jump 38% in one day, just for crossing the threshold from unprofitable to profitable.
 
-![](images/surviving-the-death-of-venture-capital-0d3328a1.png)
+![](/images/surviving-the-death-of-venture-capital-0d3328a1.png)
 
 So if you want to survive in the ever-changing world of funding innovation, there are a lot of things you can do. But one thing is for sure: the only thing that is certain? Change. Get used to it.

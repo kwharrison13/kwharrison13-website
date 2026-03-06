@@ -7,13 +7,13 @@ slug: "age-of-acquisition"
 type: "newsletter"
 ---
 
-![](images/age-of-acquisition-8ef3ef13.png)
+![](/images/age-of-acquisition-8ef3ef13.png)
 
 Let me take you back to a time before the iPhone came out. [Mr. Brightside by The Killers](https://www.youtube.com/watch?v=gGdGFtwCNBE) had just come out, and most people my age were getting their social anxiety kick from determining who our top 5 friends on Myspace would be. I would rush home from school, get some Taco Bell and [Dad's Root Beer](https://www.dadsrootbeer.com/), and spend the next few hours in front of the computer world building.
 
 The game? [Age of Empires II](https://www.ageofempires.com/games/aoeiide/).
 
-![](images/age-of-acquisition-6954233e.png)
+![](/images/age-of-acquisition-6954233e.png)
 
 I would build elaborate world's around different kingdoms, constantly thinking about how I would conquer more and more of the map. There's something primal in the competitive desire to control the playing field. Especially when you can summon [a machine gun-toting Shelby Cobra](https://www.youtube.com/watch?v=YiDIdD72j_g).
 
@@ -21,7 +21,7 @@ In that game, the outcome was almost always zero sum. One person won and everyon
 
 Building businesses isn’t so different. Sometimes for a company to go the distance, they have to embrace "Simul Fortior." **Stronger together.** Occasionally, that collaboration comes willingly. Other times? A combination of competitive forces and macro conditions force collaboration, whether you like it or not. **The alternatives become collaborate, consolidate, or die.**
 
-![](images/age-of-acquisition-52c774d8.gif)
+![](/images/age-of-acquisition-52c774d8.gif)
 
 # The Music Has Stopped
 
@@ -29,11 +29,11 @@ The reality of the macro economic environment is that the music has very much st
 
 The reality of the game on the field has been endless access to cash. With rates low, providers of capital were desperate for yield. So, many flooded into funding tech companies that could use that cash to push towards extreme growth. In the startup world, this often meant that certain attractive categories could have a dozen companies, all effectively the same, but that are getting funded to tackle the same market.
 
-![](images/age-of-acquisition-cf3653b4.png)
+![](/images/age-of-acquisition-cf3653b4.png)
 
 But what happens when all that money suddenly gets sucked out of the room? Lit on fire? Those categories that have been, in some cases, over-funded, start to wither. They all start to look for every dollar they can get, and more often than not 1-2 players start to emerge as the dominant player. In a world that funded 12+ companies, only a few might survive.
 
-![](images/age-of-acquisition-d69e7f56.png)
+![](/images/age-of-acquisition-d69e7f56.png)
 
 **One reason the shut off of access to cash causes this atrophy in a crowded space is because most of them, built to chase growth, structured their strategy around unsustainable customer acquisition costs.** Couple of examples? Uber vs. Lyft. Bird vs. Lime. Casper vs. Purple. Most of these companies saw drops in valuation from billions to millions. Many of them are built on an [unhealthy reliance on paid marketing](https://blimpp.com/e-commerce-startups-customer-acquisition-and-why-dtc-brands-are-so-bad-at-it/).
 
@@ -109,11 +109,11 @@ Other interesting things to look out for are aggregation plays. One of the very 
 
 In the last 10 years, they've grown from ~$800M in revenue to over $6B in revenue. They've grown 100x to a $43B market cap, all while rarely buying a business doing more than $2-5M in revenue.
 
-![](images/age-of-acquisition-6924a0fe.png)
+![](/images/age-of-acquisition-6924a0fe.png)
 
 This might be a weird comparison to make when talking about venture-backed startups, but the reality is there are over [1K companies valued at $1B or more](https://www.cbinsights.com/research/unicorn-startup-market-map/). My guess is that ~75% (if not more) of those companies will never live up to their valuations. Not for lack of trying, but many of them will run out of cash before they’re able to justify a $1B+ price.
 
-![](images/age-of-acquisition-fdd4837f.png)
+![](/images/age-of-acquisition-fdd4837f.png)
 
 So where do those companies go? They shut down. They find acquisitions at big players, or smaller peers. Or? Aggregation plays step in to help facilitate transactions that are closer to the economic reality of these businesses. Platforms like [Acquire.com (fka MicroAcquire) are already trying to make these transactions more seamless. We'll see more of this.
 

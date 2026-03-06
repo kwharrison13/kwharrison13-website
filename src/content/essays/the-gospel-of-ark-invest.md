@@ -7,13 +7,13 @@ slug: "the-gospel-of-ark-invest"
 type: "newsletter"
 ---
 
-![Shoutout to my brother Chad, who is like my Midjourney chatbot when I need more complex images. If you're looking to buy3D printed Dungeons & Dragons paraphernalia, he's your guy!](images/the-gospel-of-ark-invest-539d80b7.png)
+![Shoutout to my brother Chad, who is like my Midjourney chatbot when I need more complex images. If you're looking to buy3D printed Dungeons & Dragons paraphernalia, he's your guy!](/images/the-gospel-of-ark-invest-539d80b7.png)
 
 Everyone has someone (or several someones) who they just do not like. Hearing their voice makes you grind your teeth. Every time they say anything, or do anything, you hate it and everything associated with it. Sometimes it starts to feel like part of your personality is just detesting that person and everything they stand for.
 
 My Mom has that feeling for a particular famous person. Former Secretary of State, blonde hair, loves pants suits. You know who I'm talking about? That's right. Saturn-award winning actress [Tea Leoni](https://en.wikipedia.org/wiki/T%C3%A9a_Leoni) (who played the Secretary of State in the TV show [Madam Secretary](https://bit.ly/3MDz4U3)).
 
-![](images/the-gospel-of-ark-invest-9c060aad.png)
+![](/images/the-gospel-of-ark-invest-9c060aad.png)
 
 The kind of frustration that we feel with certain people is, I think, pretty natural. Sometimes it can be explained (like my Mom saying Tea Leoni is an unemotional chain smoker that doesn't move her eyebrows). Sometimes it’s just instinctual; we can't put our finger on why we're so filled with distaste.
 
@@ -33,11 +33,11 @@ Her current dramatic underperformance isn't the first time Cathie Wood's funds h
 
 ARK got started in 2014, and one interesting observation to me is that ARK took about 3 years to really get going. They hovered around single-digits of returns on the ETF for years before finally getting going in 2017. But the real run-up for ARK was Covid. In March 2020, the ARKK Innovation ETF shot up from 133% to a peak of 628%. Why?
 
-![](images/the-gospel-of-ark-invest-0aefeaa0.png)
+![](/images/the-gospel-of-ark-invest-0aefeaa0.png)
 
 One huge driver of performance in ARK's fund was owning Tesla (led by another massively marketed personality with Elon Musk) and Zoom. That outsized performance in 2020 led many to consider Cathie Wood the [best stock picker](https://news.yahoo.com/best-stock-picker-2020-wins-100019058.html) in 2020. Just as quickly as those gains shot up, they disappeared. If you had invested in the S&P 500 at the beginning of Covid, you would now be performing better than ARK's Innovation ETF.
 
-![](images/the-gospel-of-ark-invest-31557f0d.png)
+![](/images/the-gospel-of-ark-invest-31557f0d.png)
 
 # The Approach
 
@@ -49,15 +49,15 @@ Cathie Wood is obsessed with the term "[disruptive innovation](https://ark-inves
 
 In line with this idea of being marketing-centric, its certainly a good term. ARK's focuses extend to categories they consider to have the most significant potential for long-term disruption, things like robotics, AI, etc.
 
-![](images/the-gospel-of-ark-invest-acb173df.png)
+![](/images/the-gospel-of-ark-invest-acb173df.png)
 
 One of the most significant implications of that long-term potential is ARK's focus on underwriting their investments in particular stocks for the next 5 years.
 
-![Source:Brett Winton, Chief Futurist @ ARK Invest](images/the-gospel-of-ark-invest-2b3a9839.png)
+![Source:Brett Winton, Chief Futurist @ ARK Invest](/images/the-gospel-of-ark-invest-2b3a9839.png)
 
 In some ways, the idea of long-term focus is a return to a norm rather than a new kind of game. The average hold time for stocks has decreased to an average of 10 months, down from 5 years in the 1970s.
 
-![Source:A Wealth of Common Sense](images/the-gospel-of-ark-invest-d9e1cde7.png)
+![Source:A Wealth of Common Sense](/images/the-gospel-of-ark-invest-d9e1cde7.png)
 
 ## Research-Driven
 
@@ -69,7 +69,7 @@ If you notice one thing about ARK, it's that they're very active on social media
 
 The firm has consistently emphasized the value of "thinking in public." They post widely and try to articulate every aspect of their models and thinking supposedly so that people engage with the ideas and push their thinking. I certainly appreciate that idea. There's a great quote from Adam Grant's book, "[Think Again: The Power of Knowing What You Don't Know](https://www.amazon.com/Think-Again-Power-Knowing-What/dp/1984878107)" about engaging with people that don't agree with you.
 
-![Source:Twitter](images/the-gospel-of-ark-invest-cb78e772.png)
+![Source:Twitter](/images/the-gospel-of-ark-invest-cb78e772.png)
 
 ## "Democratized"
 
@@ -91,7 +91,7 @@ But ARK Invest's "democratized" ETFs expose a very different level of risk to a 
 
 But when ARK's assets drop from $27B in early 2021 to $7B, a lot of that is the wealth of individual investors getting wiped out.
 
-![Source:YCharts](images/the-gospel-of-ark-invest-65e893eb.png)
+![Source:YCharts](/images/the-gospel-of-ark-invest-65e893eb.png)
 
 Granted, some of it is people pulling their money out of the ETF. There is this concept of net inflows or outflows that is critical to an ETF like ARK. In order to keep investing (and making money on fees), ARK needs to continue to attract people who want to invest in their ETFs.
 
@@ -105,7 +105,7 @@ That's where we come full circle to the marketing-led persona of Cathie Wood. Th
 
 If you go looking for Cathie Wood's predictions of the future on platforms like [YouTube](https://www.youtube.com/results?search_query=The+Future+According+To+Cathie+Wood) you'll find the most click-baity, FOMO-obsessed collection of attractions. It's important to note that none of these are from Cathie Wood or ARK Invest directly. **But it's like she has become the patron saint of get-rich-quick investing.**
 
-![](images/the-gospel-of-ark-invest-15884473.png)
+![](/images/the-gospel-of-ark-invest-15884473.png)
 
 Sometimes, professional investors lose sight of what an "average investor" looks like. **One of the biggest dangers in modern marketing, generative AI, deep fakes, and algorithmic content engines is the impact that it has on the "average person" who believes the things they're served up by a system dripping with incentives.** The same is true for the impact this information engine can have on investors, but they're pouring fuel on the fire by not just believing the things they see, but then pouring their money behind it.
 
@@ -117,7 +117,7 @@ And here's the thing. If it felt like ARK was making calls like the rest of us t
 
 ## Tesla: "It IS The Moon"
 
-![Source:Twitter](images/the-gospel-of-ark-invest-8aa2e746.png)
+![Source:Twitter](/images/the-gospel-of-ark-invest-8aa2e746.png)
 
 Like I said, there are much better analysts out there that have articulated the bonkers moves by ARK. So I'm not trying to reinvent the criticism, I'll just point to it. Chris Bloomstran has a great thread unpacking the implications of ARK's price target of $2K by 2027.
 
@@ -127,7 +127,7 @@ To get to that target, their model requires you believe that Tesla is producing 
 
 ## Zoom: The Only Metaverse That Matters
 
-![](images/the-gospel-of-ark-invest-2e12e061.png)
+![](/images/the-gospel-of-ark-invest-2e12e061.png)
 
 As part of my Cathie Wood YouTube rabbit hole, you manage to find about as many Cathie hit pieces as you do disciple videos to her prophecies. And they're all about as click-baity as the rest (is it... YouTube that is the problem? 🙃)
 
@@ -139,7 +139,7 @@ Their bear case. Their downside case. Their worst case scenario? Puts Zoom becom
 
 Zoom is the quintessential Covid darling given they literally became the metaverse upon which we all lived and relied on for 2 years. But even before Covid, the company was trending towards ~80% revenue growth. After skyrocketing to 300% growth during the pandemic, they've now come down to ~5-10% growth.
 
-![](images/the-gospel-of-ark-invest-ad11b3d8.png)
+![](/images/the-gospel-of-ark-invest-ad11b3d8.png)
 
 Zoom's revenue growth is a perfect example of a pull forward, not a sustainable trend. Zoom's growth has dropped precipitously because Covid allowed them to get just about everywhere they would have gotten anyways over the course of a few years, they just did it more quickly. But that doesn't mean they can sustain the types of ~100% growth they saw during Covid!
 
@@ -165,11 +165,11 @@ The idea that their long-term strategy can play out because of the declining cos
 
 Just this week we've got an example where there is clear cut results of innovation and ARK was just in the process of getting out, rather than doubling down. For months, people have looked for ways to ride the wave of AI, and Nvidia seems to have found that attention. In the last 10 years, the company has grown 100x to nearly $1 trillion in market cap.
 
-![](images/the-gospel-of-ark-invest-1a050d3f.png)
+![](/images/the-gospel-of-ark-invest-1a050d3f.png)
 
 Meanwhile, ARK had just recently managed to reduce almost its entire position in the company. The company that feels like its positioned to be the foundation for a lot of the required hardware in the AI revolution, and AI is one of their core pillars. But ARK is selling down.
 
-![Source:Twitter](images/the-gospel-of-ark-invest-7519cf1c.png)
+![Source:Twitter](/images/the-gospel-of-ark-invest-7519cf1c.png)
 
 # Selling Stories vs. Selling Trust
 

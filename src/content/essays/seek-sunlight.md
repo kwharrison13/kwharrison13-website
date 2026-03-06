@@ -7,7 +7,7 @@ slug: "seek-sunlight"
 type: "newsletter"
 ---
 
-![](images/seek-sunlight-b53c0268.png)
+![](/images/seek-sunlight-b53c0268.png)
 
 Over the course of the last few years, I've written something each week. Consistency was my one goal when I set out and boy have I stuck to that because my quality of writing has ebbed and flowed dramatically. If you've read much of my writing you'll know they're not all winners.
 

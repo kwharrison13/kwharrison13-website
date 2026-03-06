@@ -7,7 +7,7 @@ slug: "wearing-fiduciary-hats"
 type: "newsletter"
 ---
 
-![](images/wearing-fiduciary-hats-364e33e2.png)
+![](/images/wearing-fiduciary-hats-364e33e2.png)
 
 ---
 

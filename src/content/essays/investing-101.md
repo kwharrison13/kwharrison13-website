@@ -7,7 +7,7 @@ slug: "investing-101"
 type: "newsletter"
 ---
 
-![](images/investing-101-eb9f1063.png)
+![](/images/investing-101-eb9f1063.png)
 
 ---
 
@@ -21,7 +21,7 @@ Contrary is my primary life’s work right now. I didn’t start the firm, but I
 
 **Investing. Family. Contrary. I’m in a position where a lot of my life is now in my control and at the mercy of my own systems and structure**. Bill Gates once [said](https://www.goodreads.com/quotes/302999-most-people-overestimate-what-they-can-do-in-one-year) “most people overestimate what they can do in one year and underestimate what they can do in ten years.” After I sold my first company, I had a hill I would walk down frequently. I called it my “10 Year Hill.”
 
-![](images/investing-101-72b44838.png)
+![](/images/investing-101-72b44838.png)
 
 I would stand at the top of it looking out and wondering where I would be in 10 years. Now, over a decade later, I’ve worked at four different investment firms, helped deploy billions of dollars into companies like Databricks, ServiceTitan, Figma, Robinhood, and a whole host of others. And I can tell you one thing; I didn’t see any of that when I stood at the top of my 10 Year Hill. Now, here I am, trying to build a new venture firm based on a decade of observing venture capital and how it’s evolving. And I find myself again wondering, what will the next decade hold?
 
@@ -36,7 +36,7 @@ What’s more, the process is cyclical. The most interesting ideas I want to rea
 
 # Reading
 
-![Source:2025 in Books](images/investing-101-36b09a5d.png)
+![Source:2025 in Books](/images/investing-101-36b09a5d.png)
 
 I’ve always had my books spread out across the house. But after a recent move, we’ve finally got them all (almost all) in one place. A little over 1K books. That, plus a [massive list](https://kwharrison13.com/bookshelf/book-shopping-list) of books to read has me thinking harder about what I’ll read this year. In particular, [this piece](https://x.com/gregoryblotnick/status/2004666738789810374?s=20) inspired me to read The Story of Civilization books by Will and Ariel Durant. Between long, dense history books, world-building science fiction audiobooks, books I can read on my Kindle app, and more... I’ve got a lot to read.
 
@@ -61,7 +61,7 @@ Across that top of funnel from reading, my focus isn’t direction. It’s bread
 
 On the one hand, I have a topical collection of resources that I want to use to go deeper alongisde utilitarian outcomes. Everything from random courses that I’ve saved to going deep on more technical aspects of AI to things as simple as better building a following as distribution becomes more and more important.
 
-![](images/investing-101-c804ea82.png)
+![](/images/investing-101-c804ea82.png)
 
 On the other hand, I also want to keep my mind open to the ideas that I get exposed to, whether from my top-of-funnel reading or my broader Twitter addiction.
 
@@ -69,7 +69,7 @@ On the other hand, I also want to keep my mind open to the ideas that I get expo
 
 # Writing
 
-![Source:Investing 101](images/investing-101-0711a941.png)
+![Source:Investing 101](/images/investing-101-0711a941.png)
 
 [I’ve written plenty](https://investing101.substack.com/p/my-style-of-panic-writing?utm_source=publication-search) about my particular style of panic writing. I usually reserve a few hours on Friday night or Saturday morning and do my best to write, churning out something worthwhile on a topic I’ve been thinking about. To be honest, 2025 was probably my weakest year in terms of consistently writing something I was proud of. I had *a lot* of weeks where I felt like I was putting something out just to avoid breaking my streak.
 
@@ -77,7 +77,7 @@ My hope this year is to more consistently produce meaningful writing that I’m 
 
 ## Micro Essays
 
-![Source: My Apple Notes App](images/investing-101-8943f0fb.png)
+![Source: My Apple Notes App](/images/investing-101-8943f0fb.png)
 
 One of the things I’ve noticed is that I frequently have dozens of topics in my head that I frequently revisit in conversation.
 
@@ -93,11 +93,11 @@ Sometimes, it will just be a micro essay version of my full piece in a given wee
 
 ## Networked Conviction: My Investing Journal
 
-![Source:Investing 101](images/investing-101-c4d45398.png)
+![Source:Investing 101](/images/investing-101-c4d45398.png)
 
 The blog post that it started it all! When I first created this Substack, it was to publish a piece back in 2021 where I unpacked my investment research process. Roam Research, as a tool, was a central part of the process. **But really the critical element was unpacking how my ideas connected to each other. Hence the title; “networked conviction.”** Since then, I’ve gotten a few requests for more detail around my research and investment process:
 
-![](images/investing-101-c137d3ac.png)
+![](/images/investing-101-c137d3ac.png)
 
 So I’ve decided to launch a new paid part of this Substack.
 
@@ -113,19 +113,19 @@ This may evolve over time, but my thinking is that entries in Networked Convicti
 
 ### Portfolio
 
-![](images/investing-101-8131f895.png)
+![](/images/investing-101-8131f895.png)
 
 From nuclear energy to defense to robotics, a significant amount of my thinking revolves around the companies I invest in. So, first and foremost, my plan is to spend time reflecting on those companies as a lens to the ideas I’ve already gone deep on.
 
 ### Request For Startups
 
-![](images/investing-101-68cd1807.png)
+![](/images/investing-101-68cd1807.png)
 
 [I wrote a few weeks ago](https://investing101.substack.com/p/build-whats-fundable) about the impact that YC’s Request For Startups had for me. So often, the reading and thinking and rabbit holing results in an directional idea of an opportunity that feels like it exists. So the plan is to use Networked Conviction as an outlet for sharing those as they develop.
 
 ### Idea Journal
 
-![](images/investing-101-c6880ae4.png)
+![](/images/investing-101-c6880ae4.png)
 
 Finally, the Idea Journal is a catch all for frameworks, templates, mental models, market maps, advice, and any other investing-related ideas that resonated with me in a particular week. I see those artifacts as the nudges
 
@@ -133,11 +133,11 @@ If you’re interested in a paid subscription to Networked Conviction, [check it
 
 # Investing
 
-![Source:Contrary](images/investing-101-8781fa04.png)
+![Source:Contrary](/images/investing-101-8781fa04.png)
 
 Finally, [I wrote a piece](https://investing101.substack.com/p/vcs-beyond-the-meme) a few months ago about how I would think about investing if I was getting started. One section, in particular, keeps coming back to mind: Building Nodes.
 
-![Source:Investing 101](images/investing-101-b1de8b7f.png)
+![Source:Investing 101](/images/investing-101-b1de8b7f.png)
 
 From unpacking core nodes of incredible people and into what I wrote about as “actual listening” in an effort to kick against the standard VC “how can I be helpful” meme. This is a big part of how VCs operate, but its something I want to more firmly tie that into my reading / researching / writing framework. **How do I connect all the ideas rolling around in my head with all the people rolling around in my life?**
 

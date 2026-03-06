@@ -7,7 +7,7 @@ slug: "kids-30"
 type: "newsletter"
 ---
 
-![](images/kids-30-b4842c43.jpg)
+![](/images/kids-30-b4842c43.jpg)
 
 My wife and I welcomed baby number 3 into the family this week. Dax, Jed, and our newest addition: Eve. We're big into 3-letter names. So with plenty to keep me busy enjoying our new addition I wrote a shorter post than usual, mostly to keep up with my goal of writing every week. In between feeding, crying (me, not Eve), and sleeping (Eve, not me) I've had plenty of time for casual reflection.
 
@@ -21,7 +21,7 @@ In January 2020 I caught up with [Jake Saper](https://www.emcap.com/people/jake-
 
 The first thing he shared was about recognizing the lily pads in our lives. **What are the experiences that you've jumped to and from? And what have they contributed to who you are?**
 
-![](images/kids-30-4bc8edf9.png)
+![](/images/kids-30-4bc8edf9.png)
 
 Recognizing the stepping stones in your life and reflecting on your story is more than just good practice to crush it in investment banking interviews. When I think about the experiences I've had I realize how poorly I've predicted how my life would go or what would make me the happiest or the most successful. Things may not always go the way I expected or hoped, but the experiences are worth learning from nonetheless.
 

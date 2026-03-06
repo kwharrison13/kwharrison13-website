@@ -13,17 +13,17 @@ Rex and I got to dig into a wide variety of topics. We started out, first, unpac
 
 Next, we talked about this tweet that said "analysis doesn't matter anymore because of ChatGPT; now all that matters is access."
 
-![Source:Twitter](images/a-return-to-artisanal-venture-with-aef83252.png)
+![Source:Twitter](/images/a-return-to-artisanal-venture-with-aef83252.png)
 
 This feels like a pretty dangerous perspective because there is already SO LITTLE analysis happening in venture. To say "the AI can provide the insights; we just have to find the hot deals" is problematic. Rex brought my attention to Rick Zullo's great response to it:
 
-![Source:Twitter](images/a-return-to-artisanal-venture-with-7d74b6b1.png)
+![Source:Twitter](/images/a-return-to-artisanal-venture-with-7d74b6b1.png)
 
 The level of consensus-driven investing feels rabid, and we can often put off the analysis to "has the thinking box been checked?" When, in reality, the thinking part of the job is a critical aspect. Instead, so many get focused on chasing the hottest deals to make sure they don't miss ones that end up being able to translate hype into reality.
 
 We talked about a piece that Rex wrote called [Play It Cool: Chasing Heat vs. Being Contrarian in Venture Capital](https://www.digitalnative.tech/p/play-it-cool-chasing-heat-vs-being) that outlines this idea that, in reality, the most important companies that get built in a given year are rarely aligned to the trend that was "hottest." The deals that people were fighting for "access" to.
 
-![](images/a-return-to-artisanal-venture-with-0a047d3b.png)
+![](/images/a-return-to-artisanal-venture-with-0a047d3b.png)
 
 From there, we touch on how [small funds](https://x.com/pitdesi/status/1904173322545332330) can compound capital so aggressively, how even the biggest M&A outcomes in history might only [return 1/3](https://x.com/bryce/status/1902861663243735451) of a massive fund, and how CEO ownership at IPO vs. bootstrapping is materially different.
 

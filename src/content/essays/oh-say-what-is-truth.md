@@ -7,21 +7,21 @@ slug: "oh-say-what-is-truth"
 type: "newsletter"
 ---
 
-![](images/oh-say-what-is-truth-77510971.png)
+![](/images/oh-say-what-is-truth-77510971.png)
 
 In 2014, I spent some time at Cambridge and, while sitting in a coffee shop, saw an ad come up on my phone for [Wikimania](https://wikimania2014.wikimedia.org/wiki/Wikimania), which was being held just south of me in London. So, I went down, slept on my cousin's couch, and decided to check it out.
 
-![](images/oh-say-what-is-truth-6b424011.png)
+![](/images/oh-say-what-is-truth-6b424011.png)
 
 Randomly (having never even edited Wikipedia) I attended a multi-day conference of Wikipedia nerds. Unfortunately, the only photographic proof I have of the actual event is like a [Lemony Snicket photo](https://images.app.goo.gl/MZYc2QNve3gpDXfK7) where you're not really sure who he is. 🤷‍♂️
 
-![](images/oh-say-what-is-truth-a6f0a952.png)
+![](/images/oh-say-what-is-truth-a6f0a952.png)
 
 But randomly attending that conference awoke in me a love for the vision of what Wikipedia hoped to be. "The largest collection of human knowledge ever assembled." Many of the [criticisms of Wikipedia](https://news.ycombinator.com/item?id=2580096) cite the limitations of the human editors, proper incentive systems, and editing controversies. Ironically, one of the best overviews of most of the controversies that have occurred in editing Wikipedia is [the article about Wikipedia controversies ON Wikipedia](https://en.wikipedia.org/wiki/List_of_Wikipedia_controversies).
 
 But despite natural human foibles, Wikipedia is a unique and special reflection of humanity's attempt to capture as much knowledge as possible with context and sources cited. The value of that collection has kept it in the top 10 most visited sites globally
 
-![Source:SimilarWeb](images/oh-say-what-is-truth-4c508c22.png)
+![Source:SimilarWeb](/images/oh-say-what-is-truth-4c508c22.png)
 
 **Since then, I've been attached to the zeitgeist that is knowledge graphs, wiki editing, and knowledge repositories.** My heart yearns for a taste of the spirit of the Library of Alexandria. I've written before about the concept of [open-source knowledge](https://investing1012dot0.substack.com/p/open-source-knowledge) and have even built resources like [Contrary Research](https://research.contrary.com/) to be an homage to that spirit of the open and collaborative collection of knowledge.
 
@@ -115,7 +115,7 @@ I appreciate you sticking with me through my rant this week. But I promise its r
 
 The perverse incentives of venture capital that I've written about [over](https://investing1012dot0.substack.com/p/the-blackstone-of-innovation), and [over](https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater), and [over](https://investing1012dot0.substack.com/p/the-puritans-of-venture-capital) again have made us all more [susceptible to hype](https://investing1012dot0.substack.com/p/hype-deflation-and-inflation) and hucksters. Our inability to accept nuance; to accept that large, sustainable businesses are incredibly difficult to build, has led us down the path of least resistance. What is hot reigns over what is right.
 
-![Source:Twitter](images/oh-say-what-is-truth-bb870866.png)
+![Source:Twitter](/images/oh-say-what-is-truth-bb870866.png)
 
 **The only thing that can save us now, across almost every aspect of our lives, is a renaissance of truth seekers.**
 

@@ -7,7 +7,7 @@ slug: "the-hits-business"
 type: "newsletter"
 ---
 
-![](images/the-hits-business-64266c6a.png)
+![](/images/the-hits-business-64266c6a.png)
 
 Movies are my thing. From the age of 10 to 19 all I wanted to do was go to Hollywood. I voraciously consumed the Coen Brothers, Quentin Tarantino, Christopher Nolan, Martin Scorsese, Rian Johnson. I was inspired by stories like Jared Hess, a fellow BYU grad, writing and directing [Napoleon Dynamite](https://en.wikipedia.org/wiki/Napoleon_Dynamite) for $400K and making $46M.
 
@@ -43,11 +43,11 @@ Whether its the "big budget effect" or the "business of blockbusters," the focus
 
 There are two charts that give off the same energy. The first is a chart showing the number of movies released over time, jumping to more than 15K per year after 2013:
 
-![Source:Reddit;as of May 2022, so the drop off is more about data incompleteness vs. actual drop off.](images/the-hits-business-cc186f83.png)
+![Source:Reddit;as of May 2022, so the drop off is more about data incompleteness vs. actual drop off.](/images/the-hits-business-cc186f83.png)
 
 The second is the a chart showing the AUM across venture skyrocketing to $1 trillion over the last 15 years:
 
-![Source:NVCA](images/the-hits-business-044255c9.png)
+![Source:NVCA](/images/the-hits-business-044255c9.png)
 
 Something clearly changed in both of these industries to justify the shift. Granted, its several things, many of which I'm not qualified or smart enough to unpack (e.g. fiscal policy, globalization, etc.) **But one thing that has certainly played a role in this rapid acceleration is the increasing consistency of hits.**
 
@@ -55,7 +55,7 @@ For tech, it was the rise of FAANG (or whatever we're calling it these days). In
 
 For Hollywood, it was the increasing bankability of blockbusters. While [Jaws](https://bit.ly/3yCA3kv), in 1975, is considered the "first" big summer blockbuster, it was more a function of exceptions vs. rules. But when you look at the [highest grossing films](https://en.wikipedia.org/wiki/List_of_highest-grossing_films), those that have made over $1B have certainly gotten more consistent. **In the 90s and early 2000s there was less than one billion dollar movie per year on average vs. into the 2010s you saw an average of 3 per year.**
 
-![Source:Wikipedia](images/the-hits-business-cf2269a5.png)
+![Source:Wikipedia](/images/the-hits-business-cf2269a5.png)
 
 **The existence of big hits further justified the pursuit of big hits.** And while you occasionally had big outcomes from original ideas (e.g. Titanic, Avatar... h/t James Cameron btw), the vast majority of the biggest outcomes came from sequels, reboots, and franchises.
 
@@ -171,7 +171,7 @@ Even Steven Spielberg, as generational of a talent as he is, doesn't always fit 
 
 Wikipedia has always been my go-to for movie information, more so than IMDB, because I'm as interested in the context as I am the details. I want to read the stories about how movies are created. And I often found myself *loving* it when I saw movies where the same person played 2-3 or more roles at the top of the page. Director, writer, producer, actor, editor, etc. **People who own so much of a creative experience.**
 
-![](images/the-hits-business-b374328b.png)
+![](/images/the-hits-business-b374328b.png)
 
 Once again, Mario illustrates how A24 embodies this emphasis on finding and backing these types of artists. He [tells](https://www.generalist.com/briefing/a24) a great story about how A24 came to distribute the 2016 film, "[Swiss Army Man](https://en.wikipedia.org/wiki/Swiss_Army_Man), the debut of directing duo Daniel Kwan and Daniel Scheinert."
 
@@ -207,7 +207,7 @@ Finally, I'll end with something that is a definitive part of A24's strategy. Ma
 
 You can see it as A24 has continued to make exceptionally profitable movies, almost all of which achieve critical success as well.
 
-![Source:The Generalist](images/the-hits-business-a8f81650.png)
+![Source:The Generalist](/images/the-hits-business-a8f81650.png)
 
 This is often the art of making good movies. Not even just making a movie as cheap as possible. And not even the magic of "creativity loves constraints." But its just about allocating *deliberate* resources.
 

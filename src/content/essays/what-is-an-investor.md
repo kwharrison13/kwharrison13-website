@@ -7,7 +7,7 @@ slug: "what-is-an-investor"
 type: "newsletter"
 ---
 
-![](images/what-is-an-investor-b92cbfde.png)
+![](/images/what-is-an-investor-b92cbfde.png)
 
 Stop me if you've heard this one before. Two college students have been studying in the library late at night. On their way home, they stop at a Taco Bell for sustenance. They get home around the time that late becomes early, but they're not ready for bed. So they start to talk.
 
@@ -15,7 +15,7 @@ The conversation begins anchored in practicality. "Why is our roommate incapable
 
 Our roommate is messy. Is it nature or nurture? Can nurture have any real impact on a person's personality? Is everything simply a natural affect of brain chemistry? **What is truth?**
 
-![](images/what-is-an-investor-4325ed04.gif)
+![](/images/what-is-an-investor-4325ed04.gif)
 
 Asking what something *really* is may not only be the most difficult question to answer, but the quickest way to get a tired 19-year old to throw in the towel, finally declaring, "yeah, crazy, huh?" before going to bed. But as a philosophical exercise, there can be value in asking the question of what something is.
 
@@ -23,7 +23,7 @@ Since May 2022 I've wanted to write to try and unpack my thinking in answering t
 
 # Investing In Investors Vesting Invested Vests
 
-![](images/what-is-an-investor-d1808b0e.png)
+![](/images/what-is-an-investor-d1808b0e.png)
 
 The term "investor" can so easily and often be used to lump a lot of different things together, thinking they're effectively all the same. In reality, your view of what an investor is will typically be skewed by your experience. If you're working at an early stage tech startup, you picture an investor as a venture capitalist. Maybe you've met some hedge fund / crossover folks at a party, but certainly your first thought is not of a bond or commodities trader. Are they investors too?
 
@@ -45,13 +45,13 @@ First, a caveat. Just like I mentioned before about how people's framework for w
 
 How do I bucket investors in my mind? Every now and then, I have young college students who reach out to wanted to "get into investing." Luckily, some of them have enough familiarity to know they want to get into venture specifically, but more than once the person's goal is simply "investing." Pretty big aperture. Here is how I often frame it for people to help them think about different buckets.
 
-![](images/what-is-an-investor-2f225563.png)
+![](/images/what-is-an-investor-2f225563.png)
 
 Now, certainly this isn't exhaustive. And every firm investing in one of these types of assets could use a very different strategy. Also, I don't typically use return expectations as the bar of measurement because those differ by strategy. In general, the old rule of thumb holds. Those looking for high risk also require high return to justify the risk.
 
 Investors who are getting involved throughout the stages of a company's life focus on different things. I've [written before](https://investing1012dot0.substack.com/p/the-diligence-thats-due) about how they often build one after the other on top of each other.
 
-![](images/what-is-an-investor-ad68f14b.png)
+![](/images/what-is-an-investor-ad68f14b.png)
 
 In the world of investing in tech companies, there are effectively public and private investors, with some nuances in the mix. In my experience public investors are most often focused on "what could go wrong?" while private investors are typically focused on "what could go right?" Let’s unpack some of that.
 
@@ -63,7 +63,7 @@ One key lesson? How to avoid post-IPO blindness as a venture investor. Some vent
 
 There are few better illustrations of this than any chart showing usage of Slack vs. Microsoft Teams. So many VCs chuckled at Microsoft's boomer attempt to replicate a popular tool. But they did, and they crushed it.
 
-![](images/what-is-an-investor-7f4d88eb.png)
+![](/images/what-is-an-investor-7f4d88eb.png)
 
 Other people joke about how stupid it is for an investor to ask "what if Google does this?" And to be fair, that's a poorly articulated question. But an even dumber answer is "oh, Google doesn't care about this space." An equally poorly articulated answer.
 
@@ -77,7 +77,7 @@ There are lots of [different ways](https://twitter.com/schlaf/status/16088705546
 
 Sometimes people are quick to say, "the only people who should be VCs are former founders." But the [data doesn't support that](https://www.linkedin.com/posts/evareder_startup-founder-vc-activity-6976648458136870912-z-tO/?utm_source=share&utm_medium=member_ios). Sometimes articulating those different types make for great memes, like those from [John Vrionis](https://www.linkedin.com/in/johnvrionis/) at Unusual Ventures.
 
-![](images/what-is-an-investor-9a752af6.png)
+![](/images/what-is-an-investor-9a752af6.png)
 
 Sometimes, people share full white papers on frameworks they've worked out with academic precision that are [MECE](https://managementconsulted.com/what-is-mece/) in a pristine and beautiful way. Not me. This is a random framework I threw out in a 15 minute catch up with a friend. But it encapsulates some of the roles I've seen most often.
 
@@ -98,7 +98,7 @@ This speaks to a topic I've written about many times before: [the productization
 
 I'd credit [Ho Nam](https://twitter.com/honam) with offering one caveat to the investor-types within venture with [his response](https://twitter.com/honam/status/1526364080922980354) to the question, "what is an investor? Not a VC."
 
-![](images/what-is-an-investor-99f99cca.png)
+![](/images/what-is-an-investor-99f99cca.png)
 
 Ho Nam's dislike of comparing venture capital to investing is the humanity that is so inherent to company building. These are people's lives being poured into creating this business. And on the capital side, the focus on LPs and returns that come hand-in-hand with thinking of yourself as "an investor" can be detrimental to long-term value creation.
 
@@ -124,7 +124,7 @@ Now, for the more interesting point. What is the evolution that's taken place in
 
 Noah Smith wrote [a great article](https://noahpinion.substack.com/p/will-vc-produce-fewer-home-runs-in) about whether venture will produce fewer home runs in the future. He remembers back to the Facebook IPO in 2012, and when he started wondering "what will be the next Facebook?" In reality, the answer is "ServiceNow, sort of..." It's not nearly as big as Facebook but outside of them, there are very few massive companies that have been created in the last ~10 years. Instead, the outcomes have been ~$10-20B companies. And with the current market correction, that's unlikely to change anytime soon.
 
-![](images/what-is-an-investor-806d6de6.png)
+![](/images/what-is-an-investor-806d6de6.png)
 
 The evolution in venture comes from what Noah discusses as "uncertainty" using the work of Frank Knight in making the [distinction between risk and uncertainty](https://en.wikipedia.org/wiki/Knightian_uncertainty):
 
@@ -158,7 +158,7 @@ And the reality is that people's differing opinions of "what is an investor" oft
 
 Similarly, now that crypto and stocks have plummeted, there are a lot of self-righteous investors saying their way is "God's way" of making money. You could insert any investing philosophy onto this meme, and I guarantee you know someone who fits the bill:
 
-![](images/what-is-an-investor-d35bdb57.png)
+![](/images/what-is-an-investor-d35bdb57.png)
 
 But guess what? There is no "right way" to be an investor. There are, certainly, more effective strategies. **But strategies are like wigs: in some situations, they're the perfect fit, and in others you find yourself wearing a rainbow bee's nest to your grandma's funeral.** Instead, the important thing is to find what works for you. In [the words of Josh Wolfe](https://twitter.com/kevg1412/status/1362486255192207360?s=20):
 

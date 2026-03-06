@@ -7,7 +7,7 @@ slug: "momentum-moat"
 type: "newsletter"
 ---
 
-![](images/momentum-moat-abf97499.png)
+![](/images/momentum-moat-abf97499.png)
 
 ---
 
@@ -41,7 +41,7 @@ The [louder these types of firms get](https://investing101.substack.com/p/the-lo
 
 **The deeper irony about the “momentum is the only moat” is that momentum is actually an anti-moat.** Packy McCormick made this point well:
 
-![Source:Twitter](images/momentum-moat-abdb4957.png)
+![Source:Twitter](/images/momentum-moat-abdb4957.png)
 
 This hearkens back to the [wisdom of Zero to One](https://www.goodreads.com/work/quotes/25332940-zero-to-one-notes-on-start-ups-or-how-to-build-the-future) where Peter Thiel says competition is for suckers.
 
@@ -61,7 +61,7 @@ As one person [pointed out](https://x.com/petkevichdan/status/197865762357549883
 
 Take OpenSeas as an example. In 2021, at its peak, OpenSea was doing $122M of revenue *per month*! The company raised at a [$13.3B valuation](https://www.panewslab.com/en/articles/4d03c3oo) of that momentum. Then? The market cratered and OpenSea hasn’t recovered to peak hype levels.
 
-![Source:Dune](images/momentum-moat-e65ee396.png)
+![Source:Dune](/images/momentum-moat-e65ee396.png)
 
 Does that mean OpenSea is a bad business? Not necessarily. OpenSea is, supposedly, generating [~$365M](https://dune.com/rchen8/opensea) in annualized revenue right now. But it may not live up to that valuation. And those investors at $13.3B have already seen massive markdowns.
 

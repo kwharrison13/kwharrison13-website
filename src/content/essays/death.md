@@ -7,7 +7,7 @@ slug: "death"
 type: "newsletter"
 ---
 
-![](images/death-72afb8b8.png)
+![](/images/death-72afb8b8.png)
 
 ## Only The Paranoid Survive
 
@@ -71,7 +71,7 @@ If VCs are too afraid to venture into contrarian categories with big risks they 
 
 **VCs are facing the "Big Budget Effect" that is plaguing Hollywood studios right now.** In the year 2000 you had just three movies that had made $1B+. Titanic, Jurassic Park, and Star Wars Episode I. [Today you have 45+ movies](https://en.wikipedia.org/wiki/List_of_highest-grossing_films#Highest-grossing_films) that have made over $1B, and some of them have made $2B+ like Avengers and Avatar.
 
-![](images/death-600b8767.png)
+![](/images/death-600b8767.png)
 
 As a result of these much larger outcomes we've built a movie-making system that is focused on big hits because the business model can't really absorb too many massive flops. So you get sequels, prequels, and spin-offs. Established IP and bankable stars. No big risks. **And you don't get nearly as much experimentation, innovation, or creativity.**
 
@@ -101,7 +101,7 @@ In firms that have been around for a long time the proof is in the ownership of 
 
 As a result you sometimes get a bloated partnership that is eager to take advantage of the cash flows from the fees in the management company they've built. **But you get a lot of imbalance in who is providing the most value to the firm vs. who is seeing the largest share of the economics and upside.**
 
-![h/t@litquidity-- I couldn't find the original](images/death-89f28a62.png)
+![h/t@litquidity-- I couldn't find the original](/images/death-89f28a62.png)
 
 And successful succession planning isn't just about the transition, it's in the pipeline. Look at Sequoia who, [as far as I can tell](https://twitter.com/kwharrison13/status/1511150970218037251?s=20&t=up6WBgIPki0D8lYIxv0r1A), is one of the only firms to really successfully experience multiple regime changes.
 

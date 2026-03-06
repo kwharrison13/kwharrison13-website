@@ -7,7 +7,7 @@ slug: "risk-management-in-the-age-of-yolo"
 type: "newsletter"
 ---
 
-![](images/risk-management-in-the-age-of-yolo-7c779105.png)
+![](/images/risk-management-in-the-age-of-yolo-7c779105.png)
 
 ---
 
@@ -104,7 +104,7 @@ One of the best preparations for understanding risk is to understand probability
 
 Jamin Ball had a great summary intro to probability a few months ago [when he talked about tail risk](https://cloudedjudgement.substack.com/p/clouded-judgement-101422):
 
-![](images/risk-management-in-the-age-of-yolo-a5e26b01.png)
+![](/images/risk-management-in-the-age-of-yolo-a5e26b01.png)
 
 > *"**Tail risk describes the potential of a rare event, as predicted by a probability distribution** (mathematically this is generally a move of 3 standard deviations outside the mean). If the graph above represents a distribution curve of outcomes, you can think of tail risk as the red shaded area. In “normal” times tail risk is quite low. This is the blue distribution line. You can barely see the red shaded area under the curve. **However, currently the distribution of outcomes is the orange line, which makes the possibility of tail risk much higher**. Right now, I think the market is saying 'the potential for a really bad outcome is quite high.'"*
 
@@ -148,7 +148,7 @@ In August 2021, Fast was being [touted](https://www.fastcompany.com/90652263/mos
 
 In September 2022, FTX was [proclaimed](https://web.archive.org/web/20221027181005/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/) "a 10 out of 10" with "a total addressable market of every person on the entire planet." By November 2022, the company had [declared bankruptcy](https://decrypt.co/118889/next-ftx-bankruptcy-hearing-delaware-sbf#:~:text=FTX%20came%20under%20fire%20in,Fried%2C%20stepped%20down%20as%20CEO.), and billions in customer funds had disappeared.
 
-![](images/risk-management-in-the-age-of-yolo-c5581490.gif)
+![](/images/risk-management-in-the-age-of-yolo-c5581490.gif)
 
 In other words? Risk is neither short-term, nor long-term. It is simply measured. You can’t eliminate it, or control it. You can only manage it.
 

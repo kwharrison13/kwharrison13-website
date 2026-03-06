@@ -7,7 +7,7 @@ slug: "the-horse-the-jockey-or-the-whole"
 type: "podcast"
 ---
 
-![](images/the-horse-the-jockey-or-the-whole-04c5eacf.png)
+![](/images/the-horse-the-jockey-or-the-whole-04c5eacf.png)
 
 Have you ever had that feeling when you have a thought and then you chuckle to yourself? Then you think about it again and you do some googling? Then your googling turns into a data gathering exercise and a chart? Then you post that chart on Twitter? And then [half a million](https://x.com/kwharrison13/status/1911938090786234475) people see it and you realize you maybe should have spent more than 6 minutes making it?
 
@@ -15,7 +15,7 @@ That happened to me this week.
 
 A great anonymous account on Twitter (that everyone should follow) named [Endowment Eddie](https://x.com/endowment_eddie/status/1911855661366890664) posted a question about whether backing competitive companies was now allowed in venture. It made me think about the times when I'd seen larger firms announce they were investing in a foundation model company and it made me think about how those same firms were invested in other foundation model companies. So I did some digging and ended up with [this tweet](https://x.com/kwharrison13/status/1911938090786234475).
 
-![](images/the-horse-the-jockey-or-the-whole-c8c5c8a4.png)
+![](/images/the-horse-the-jockey-or-the-whole-c8c5c8a4.png)
 
 The response was rather enlightening. Showed me a lot about how people think about venture, how things have changed in the venture game over the last 10-15 years, and says some things about how the AI world may unpack.
 
@@ -23,7 +23,7 @@ First, I wanted to share [this interview](https://www.youtube.com/watch?v=t3AH35
 
 # The Lay of The Land
 
-![Source:Twitter](images/the-horse-the-jockey-or-the-whole-13d0cdb9.png)
+![Source:Twitter](/images/the-horse-the-jockey-or-the-whole-13d0cdb9.png)
 
 Several people pointed out that what you see here is a lot of firms strategy played out in real-time. But what was fascinating to me is that it hasn't always been that way.
 

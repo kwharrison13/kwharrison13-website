@@ -7,7 +7,7 @@ slug: "an-american-optimism"
 type: "newsletter"
 ---
 
-![](images/an-american-optimism-1a833991.jpg)
+![](/images/an-american-optimism-1a833991.jpg)
 
 This time last year I wrote a [love letter to America](https://investing101.substack.com/p/america?utm_source=publication-search). In it, I laid out the various things my country has helped to build. From technology to culture and beyond. Following a high of patriotism immediately post-9/11, there was most certainly a lull in American Exceptionalism in people’s hearts across what was the formative years of my life. As a result, many in my generation are skeptical at best and murderously resentful at worst of the American Experiment.
 

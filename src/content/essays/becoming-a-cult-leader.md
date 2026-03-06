@@ -7,7 +7,7 @@ slug: "becoming-a-cult-leader"
 type: "newsletter"
 ---
 
-![](images/becoming-a-cult-leader-32d218a9.png)
+![](/images/becoming-a-cult-leader-32d218a9.png)
 
 ---
 
@@ -51,7 +51,7 @@ It can be easy to feel blocked by this phase. “I’m passionate but I just can
 
 Raising venture capital is a particular game. And don’t get me wrong, VCs *love* Zeitgeist Pilots. If you’re an effective storyteller and you can inspire an investor with the raw potential of what you’re building, you can play the VC game effectively. In fact, some VCs can even coach you on playing that game better to raise your vision. Like when Ben Horowitz told Ali Ghodsi, the CEO of Databricks, when the company was worth $1B that he was underselling the opportunity saying they could 10x, pushing him instead to say they would be 10x Oracle; a $2 TRILLION company.
 
-![Source:Not Boring](images/becoming-a-cult-leader-5038bb89.png)
+![Source:Not Boring](/images/becoming-a-cult-leader-5038bb89.png)
 
 But there are some movements that VCs won’t get behind, for whatever reason. If your vision doesn’t align with the increasingly shallow, loud-mouthed VC zeitgeist, then the capital you’re looking for is cash flow. Where is the cash flow in your category sitting, just waiting for command?
 

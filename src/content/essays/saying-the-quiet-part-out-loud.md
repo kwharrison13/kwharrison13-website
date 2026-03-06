@@ -7,7 +7,7 @@ slug: "saying-the-quiet-part-out-loud"
 type: "newsletter"
 ---
 
-![](images/saying-the-quiet-part-out-loud-86671c7f.png)
+![](/images/saying-the-quiet-part-out-loud-86671c7f.png)
 
 ---
 
@@ -45,7 +45,7 @@ Second, because the competition with Ramp has been fierce, who recently raised a
 
 There were lots of [takeaways](https://x.com/ruslanjabari/status/2014463838020895103?s=20) about how Brex lost, despite having a 2 year heard start + $100M in initial funding. **But there was another note that multiple people struck, and its the proverbial head tilt of dog-whistle recognition: “wait... Brex lost?”**
 
-![Source:Twitter](images/saying-the-quiet-part-out-loud-06c688a8.png)
+![Source:Twitter](/images/saying-the-quiet-part-out-loud-06c688a8.png)
 
 I saw this [over](https://x.com/eoghan/status/2014485848679710890?s=20), and [over](https://x.com/VCBrags/status/2014672212247130420?s=20), and [over](https://x.com/emilyinvc/status/2014520334746312945?s=20), and [over](https://x.com/PeterJ_Walker/status/2014544980162060513?s=20), and [over](https://x.com/nichochar/status/2014467896274227367?s=20), and [over](https://x.com/anothercohen/status/2014489379931115908?s=20), and [over](https://x.com/ChKashifAli/status/2014576394706288881?s=20), and [over](https://x.com/bolingj/status/2014681586390778080?s=20), and [over](https://x.com/jlopas/status/2014865080647643460?s=46), and [over](https://x.com/hthieblot/status/2014745176401731726?s=46) again across the internet. I’m a Ramp investor who couldn’t be happier with what Ramp has become. But even I was surprised with the vitriol that others spewed at Brex’s outcome.
 
@@ -69,11 +69,11 @@ The Brex acquisition is a perfect encapsulation of each game at play:
 
 Ramp has always been a company that is playing to win; that’s what makes them a business worth studying. Their response was clever and in-line with competitive nature. They used it as a marketing opportunity to continue to win customers.
 
-![Source:Twitter](images/saying-the-quiet-part-out-loud-51a7f0cb.png)
+![Source:Twitter](/images/saying-the-quiet-part-out-loud-51a7f0cb.png)
 
 Classic winner behavior; keep focusing on winning.
 
-![](images/saying-the-quiet-part-out-loud-56e405de.jpg)
+![](/images/saying-the-quiet-part-out-loud-56e405de.jpg)
 
 It was a hard-fought competition over the course of many years, and Ramp has won in terms of becoming a larger company with more revenue, more customers, and a better product. There were many, many people at Brex who were *also* playing to win, but they lost in the sense that they had less revenue, fewer customers, and a worse product. But that’s the game. Winning is only sweet because you *could* have lost.
 
@@ -83,7 +83,7 @@ There’s nothing wrong with acknowledging that one company is better than anoth
 
 But then, the power players reared their heads.
 
-![Source:Twitter](images/saying-the-quiet-part-out-loud-ee43e9ec.png)
+![Source:Twitter](/images/saying-the-quiet-part-out-loud-ee43e9ec.png)
 
 The current (and former) folks at Founders Fund deserve exorbitant credit for backing Ramp early, despite what MANY other VCs saw as too clear of a risk in that Brex already existed. And they’ll be handsomely rewarded for that.
 
@@ -91,7 +91,7 @@ But several people [took note](https://x.com/ChKashifAli/status/2014576394706288
 
 The way some of Ramp’s investors were acting [reminded](https://x.com/BieksasBurner/status/2014741634928542099?s=20) one person of Salt Bae’s grabbing the World Cup from the players **who had actually done the winning** and kissing it.
 
-![Source:Fox News](images/saying-the-quiet-part-out-loud-bb168acf.png)
+![Source:Fox News](/images/saying-the-quiet-part-out-loud-bb168acf.png)
 
 But isn’t this just winning behavior? Winning behavior is “I win, you lost.” Dominating behavior typically comes more from the pursuit of power. To think that a $5B+ outcome is losing across every spectrum, not just ultimate outcomes, but in every way, feels more like dominating. And most large-scale VCs are about dominating.
 

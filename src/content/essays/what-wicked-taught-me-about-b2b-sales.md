@@ -7,11 +7,11 @@ slug: "what-wicked-taught-me-about-b2b-sales"
 type: "newsletter"
 ---
 
-![](images/what-wicked-taught-me-about-b2b-sales-0f88eb56.jpg)
+![](/images/what-wicked-taught-me-about-b2b-sales-0f88eb56.jpg)
 
 Before the Linkedin haters come after me, the title is a joke. It made me chuckle. And for those of you that love Linkedin (and B2B sales) unfortunately for you, the subtitle of this piece is a lot more the point than the title is.
 
-![](images/what-wicked-taught-me-about-b2b-sales-a5455813.png)
+![](/images/what-wicked-taught-me-about-b2b-sales-a5455813.png)
 
 *Also. Fair warning: I'm going to spoil the crap out of the 1939 [Wizard of Oz](https://en.wikipedia.org/wiki/The_Wizard_of_Oz) movie, the 1995 book [Wicked](https://bit.ly/4g7H2Ta), the 2003 [musical](https://bit.ly/4ilRckv) of Wicked, the 2024 [movie](https://bit.ly/3ZRz1fr) of Wicked, and (tangentially) the 1950 Japanese classic Rashomon.*
 
@@ -23,11 +23,11 @@ I, like many MCU fans, have been disappointed by almost everything they've made 
 
 L. Frank Baum, the author of the original Wonderful Wizard of Oz novel in 1900, had the same attitude. Fun fact, he wrote [14 Oz books](https://en.wikipedia.org/wiki/List_of_Oz_books) over the course of 20 years! Are they good? I'm not sure. I haven't read any of them. But I respect his vibe. When I was a kid, we had a children's book adaptation of the 1985 movie sequel to The Wizard of Oz, called [Return to Oz](https://en.wikipedia.org/wiki/Return_to_Oz). The cover art alone left an impression.
 
-![](images/what-wicked-taught-me-about-b2b-sales-f5145d42.png)
+![](/images/what-wicked-taught-me-about-b2b-sales-f5145d42.png)
 
 That's how I knew the Wonderful World of Oz was weirder and more extensive than I would have thought beyond just the original movie. That weirdness is, perhaps, what primed my intrigue when I was in my early pre-teen years and I started seeing these other books in bookstores that seemed connected to that Wonderfully Weird World.
 
-![](images/what-wicked-taught-me-about-b2b-sales-e6dfbf24.png)
+![](/images/what-wicked-taught-me-about-b2b-sales-e6dfbf24.png)
 
 Given some of the books more racy scenes, I'm not sure why my family owned Wicked, nor why I was allowed to read it as an 11 or 12 year old. But it has stuck with me ever since. This unusual story revolving around usual characters. The hints of an unknown narrative being grounded in what felt known.
 
@@ -45,7 +45,7 @@ In the early 90s, Maguire talks about his desire to explore the nature of evil a
 
 Margaret Hamilton's 1939 portrayal of the Wicked Witch of The West feels like it doesn't contain a lot of nuance. She has basically no redeeming qualities. She's just a caricature of what should scare you.
 
-![](images/what-wicked-taught-me-about-b2b-sales-8a114def.png)
+![](/images/what-wicked-taught-me-about-b2b-sales-8a114def.png)
 
 But Maguire wove a story that is so much more complex than that. The novel is a much more subtle journey of a character who is misunderstood and frustrated. The musical is an even less subtle exploration of someone who has clearly articulated goals and runs into the most meaningful obstacles to becoming what she wants to be.
 
@@ -100,11 +100,11 @@ Stories like Wicked, like Pendragon, they captured a key aspect of storytelling.
 
 One of the best examples of "What If" storytelling I've been exposed to recently is actually something I wouldn't have watched if it wasn't for this blog! Back in August I wrote a piece called [Science Fiction's Dueling Fates](https://investing1012dot0.substack.com/p/science-fictions-dueling-fates?utm_source=publication-search) and one of the comments turned me onto a TV show that perfectly encapsulated "What If" storytelling.
 
-![](images/what-wicked-taught-me-about-b2b-sales-f4ca1fc3.png)
+![](/images/what-wicked-taught-me-about-b2b-sales-f4ca1fc3.png)
 
 # For All Mankind
 
-![](images/what-wicked-taught-me-about-b2b-sales-d16aad7a.png)
+![](/images/what-wicked-taught-me-about-b2b-sales-d16aad7a.png)
 
 After getting this recommendation, I consumed the first 4 seasons of [For All Mankind](https://bit.ly/3Zmnovr) in about 1.5 weeks (granted it was right after our baby was born, so I had a lot of sitting around time.) And the show is a perfect example of "What If" storytelling. "What if the Russians beat us to the moon in the 60s?"
 
@@ -128,11 +128,11 @@ That movie is the quintessential example of how Perspective is a character in an
 
 Thinking about this reminded me of the Apple Jacks boxes of my youth. I couldn't find a picture of the actual back, but they used to always have optical illusions. The one I remember the most was this one.
 
-![](images/what-wicked-taught-me-about-b2b-sales-2753f5f7.png)
+![](/images/what-wicked-taught-me-about-b2b-sales-2753f5f7.png)
 
 Is it an attractive woman with her head turned to the side? Or an older woman with a large nose? Side note, this cartoon made me laugh.
 
-![](images/what-wicked-taught-me-about-b2b-sales-c6e67ddc.jpg)
+![](/images/what-wicked-taught-me-about-b2b-sales-c6e67ddc.jpg)
 
 Your perspective matters. What you think it is, what you want it to be, what you wish it wasn't.
 

@@ -7,7 +7,7 @@ slug: "institutionalized-belief-in-the-greater"
 type: "newsletter"
 ---
 
-![The Last Unicornis one of those ridiculously weird movies that I remember from my childhood, but very few people have seen. But in retrospect, a movie with imagery like a flaming bull chasing a unicorn? It's crazy I haven't used it before.](images/institutionalized-belief-in-the-greater-72dda9db.jpg)
+![The Last Unicornis one of those ridiculously weird movies that I remember from my childhood, but very few people have seen. But in retrospect, a movie with imagery like a flaming bull chasing a unicorn? It's crazy I haven't used it before.](/images/institutionalized-belief-in-the-greater-72dda9db.jpg)
 
 If you've been reading my writing for a while, you'll know that I'm far from a venture capital [stan](https://www.urbandictionary.com/define.php?term=Stan). I'm a pragmatic observer of my own craft, and as much as you can learn from success, there is also a lot to be learned from bad behavior.
 
@@ -29,7 +29,7 @@ COVID happened, and the company exploded. From November 2020 to August 2021, **t
 
 And then, wouldn't you know it, COVID restrictions started to lift, people could travel again, and Hopin's usefulness **dropped from 15K events per month to 158.** After several rounds of layoffs, Boufarhat announced he was stepping down and **the company's flagship virtual events product was being sold to RingCentral for [$15 million in cash with $35 million in potential performance-based earn outs](https://www.sec.gov/Archives/edgar/data/1384905/000138490523000032/rng-20230630.htm).** The acquisition was barely a footnote for RingCentral, with the CFO [saying they](https://meetings.skift.com/hopin-events-and-session-products-sold-for-15-illion/) “expect the acquisition [of Hopin’s assets] to have an immaterial impact on our revenue and expenses in 2023."
 
-![](images/institutionalized-belief-in-the-greater-8ac15c02.gif)
+![](/images/institutionalized-belief-in-the-greater-8ac15c02.gif)
 
 Man, oh man. So much to unpack here.
 
@@ -61,7 +61,7 @@ In the case of Hopin, you see a lot of instances of people being surprised. Here
 
 But like... why not? Did anyone really, genuinely believe that life would forever be trapped lockdown-style? I think often of this tweet from early in 2020:
 
-![Source:Twitter](images/institutionalized-belief-in-the-greater-48e608e4.png)
+![Source:Twitter](/images/institutionalized-belief-in-the-greater-48e608e4.png)
 
 Investors are very much in the business of "[dreaming the dream](https://investing1012dot0.substack.com/p/the-storytelling-of-investing)," but too often we have investors that assume the dream is supposed to be a fever dream.
 
@@ -71,7 +71,7 @@ But when things don't feel right (e.g. will the vast majority of people really w
 
 Ecommerce is another example of something that people assumed would be changed forever. COVID had unlocked the online world, and we were never going back to normal. But the reality is that change has an almost gravitational force, and its very difficult for anything to make it happen more quickly or more slowly.
 
-![Source:FRED](images/institutionalized-belief-in-the-greater-2b8cb4ca.png)
+![Source:FRED](/images/institutionalized-belief-in-the-greater-2b8cb4ca.png)
 
 It's almost incredible how right back on track we got with something that has been a pretty fundamental tailwind. But it's almost as if the universe has commanded that change will roll forward at such-and-such a pace, no more, and no less.
 
@@ -81,7 +81,7 @@ During COVID, when investors whipped themselves into a frenzy, they would have d
 
 A common refrain in the world of startups is that 90% of them fail. It's just the cost of doing business. In other words? You have to crack a few eggs to make an omelette. And I agree with that. But there is the natural rate of failure, and then there is what most people call "unforced errors." Things that you look back on and say "it didn't have to be this way." That idea is perfectly summed up by this meme.
 
-![](images/institutionalized-belief-in-the-greater-837d97b2.png)
+![](/images/institutionalized-belief-in-the-greater-837d97b2.png)
 
 A piece came out in the Wall Street Journal this week entitled "[Startups Are Dying, and Venture Investors Aren’t Saving Them](https://www.wsj.com/articles/startups-are-dying-amid-drought-in-venture-funding-a9005ad2?mod=Searchresults_pos1&page=1)." In it, my friend, and reliable critic, Hunter Walk, described the funding environment that we're facing:
 
@@ -111,7 +111,7 @@ Earlier this year, I wrote a piece called "[VC Contagion](https://investing1012d
 
 Venture capital is meant to enable companies to do unsustainable things in pursuit of scale that will eventually enable sustainability. But what if sustainability never comes?
 
-![](images/institutionalized-belief-in-the-greater-51334415.png)
+![](/images/institutionalized-belief-in-the-greater-51334415.png)
 
 In the piece, *Venture Predation*, the abstract contains a gut-punching line:
 
@@ -125,7 +125,7 @@ How can investors believe a company that went from $20M to $100M ARR in 8 months
 
 Whether you're the CEO of Hopin selling $200M in secondary, or a founder pitching a $47B valuation for WeWork, or investors giving Quibi $1B+, you're probably not buying into pragmatic decision making and capital allocation. **You're buying into the institutionalized belief in a greater fool.** But no one will say that out loud. They'll reenact a scene right out of [Margin Call](https://en.wikipedia.org/wiki/Margin_Call).
 
-![Source:Margin Call](images/institutionalized-belief-in-the-greater-6f686fd8.png)
+![Source:Margin Call](/images/institutionalized-belief-in-the-greater-6f686fd8.png)
 
 # A Hesitant Case Study To Conclude
 
@@ -135,7 +135,7 @@ I think Stripe is an exceptional business, and one that has produced not only ve
 
 But recently I saw a side-by-side comparison of Stripe vs. Adyen that stuck with me:
 
-![Source:Twitter](images/institutionalized-belief-in-the-greater-7061ff0e.png)
+![Source:Twitter](/images/institutionalized-belief-in-the-greater-7061ff0e.png)
 
 While Stripe and Adyen are at similar scale of payment volumes (~$800B), Stripe has a better take rate (1.8% vs. Adyen's 1.2%). Stripe also has a better gross margin at ~22% (vs. Adyen's 15%). However, profitability is where these two businesses are in dramatically different places. On $1.4B of net revenue, Adyen is generating $766M of EBITDA (54% margin). Stripe? Negative $80M EBITDA on $3.2B of net revenue.
 

@@ -7,7 +7,7 @@ slug: "revisiting-a-tale-of-two-markets"
 type: "newsletter"
 ---
 
-![](images/revisiting-a-tale-of-two-markets-37e86aa3.png)
+![](/images/revisiting-a-tale-of-two-markets-37e86aa3.png)
 
 I started writing consistently at the beginning of 2022. I had written [one piece](https://investing1012dot0.substack.com/p/roam-investing) on Substack before that, so I had ~200 subscribers. When I started writing, I had a few core ideas that I had thought about a lot, so that's what I wrote about. Some of them, like [The Unbundling of Venture Capital](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital), took off, and are still some of my most read pieces even though I've grown my subscriber count by 90x.
 
@@ -35,7 +35,7 @@ But there is more going on than just keeping a handle on your mental wellness as
 
 Conveniently the most clear visualization of the divide between the best and the rest comes out weekly thanks to Jamin Ball's "[Clouded Judgement](https://cloudedjudgement.substack.com/)." This chart got insane in the height of 2021 when the top 5 companies were trading at 70x forward revenue. Today the difference is more measured; the top 5 trade at [~15x vs. 6x](https://cloudedjudgement.substack.com/p/clouded-judgement-7723-hot-economy) as the median.
 
-![](images/revisiting-a-tale-of-two-markets-48260ec7.png)
+![](/images/revisiting-a-tale-of-two-markets-48260ec7.png)
 
 That difference may not feel insane, but think about in context. **If you're a business expecting $500M of revenue next year that's the difference between being a $3B company or a $7.5B company.** For Series A / B founders, if you're valuation is closer to $1B than $100M, that difference marks the difference between whether your investors make enough money or not.
 
@@ -47,7 +47,7 @@ While it may seem like the differences in how publicly companies trade makes lit
 
 There are some valuable learning lesson in noticing what valuations have dropped most dramatically. When you look at some of these top names you can see some have held up better than others.
 
-![](images/revisiting-a-tale-of-two-markets-c4444b1a.png)
+![](/images/revisiting-a-tale-of-two-markets-c4444b1a.png)
 
 But even among these names, these are all still fundamentally sound businesses (more or less.) Very different than companies like WeWork (dropped from $47B to $9B at SPAC to $425M today), Bird ($2B at SPAC to $28M today), or Metromile ($1.3B SPAC to $145M acquisition). And no, probably not just a coincidence that all those companies went through SPACs. 👀
 
@@ -59,7 +59,7 @@ You can look at things like AWS' exceptional performance, or more recent spikes 
 
 Every year KeyBanc puts out the results of their [private SaaS company survey.](https://www.key.com/content/dam/kco/documents/businesses___institutions/2022_kbcm_saas_survey_10-20-22_vF.pdf) Rather than showing the very best they show, by definition, what an "average" software company looks like.
 
-![](images/revisiting-a-tale-of-two-markets-8b83ff9b.png)
+![](/images/revisiting-a-tale-of-two-markets-8b83ff9b.png)
 
 With the median revenue growth rate across the board at 31% that will put you squarely in the "average company" bucket. That is closer to the median growth rate for public companies tracked in [Clouded Judgement](https://cloudedjudgement.substack.com/p/clouded-judgement-7723-hot-economy). But those companies are typically $500M+ of revenue. If you're a startup with <$100M revenue and are looking at <100% growth, you're not usually going to end up being one of the "best" companies. **Investors are being required to justify the long-term potential for the businesses they invest in. Sustaining and even accelerating revenue growth is a key part of that.**
 
@@ -71,13 +71,13 @@ There are [plenty of ways](https://twitter.com/bryce/status/1677324726312611844?
 
 When a founder sets out to build a business they have a critical decision to make. The size of the outcome you want to pursue will dictate the methods you use to get there. When you raise venture capital at higher and higher valuations you're picking up one end of the stick. The other end of the stick is a host of expectations around how big your outcome needs to be. **There are a lot of founders who want to pick up the stick with the 100x higher valuation without having to pick up the requirement for a 100x larger outcome.**
 
-![](images/revisiting-a-tale-of-two-markets-12f6d742.png)
+![](/images/revisiting-a-tale-of-two-markets-12f6d742.png)
 
 But for the founders who understand what they're signing up for in taking on a venture-backed startup they also understand the aspiration. They ***do*** want to become one of the top 5 companies. The ones with the highest valuations, the revenue growth accelerating at scale, and the platform potential. And for those founders there are VCs lining up to get into the trenches with them.
 
 [I've written before](https://investing1012dot0.substack.com/p/productization) about how VCs are differentiating the product they offer to founders. When answering the question, "what product do founders want to buy from investors?" Bryce Roberts summed it up perfectly:
 
-![Source:Twitter](images/revisiting-a-tale-of-two-markets-a4682d94.png)
+![Source:Twitter](/images/revisiting-a-tale-of-two-markets-a4682d94.png)
 
 **Great founders who accept the responsibility of taking on venture money are also smart enough to understand the minuscule statistical likelihood of becoming one of those massively successful "best-in-the-world" companies.** So they set out to improve their odds. If you want to join that elite club of companies how exactly do you improve your odds?
 
@@ -93,7 +93,7 @@ Is there an opportunity to build a big business in gas station software? Could b
 
 But if you don't feel like gas station software is the only reason God put you on this earth, then maybe do yourself a favor and pick a market that is actually growing.
 
-![Source:Twitter](images/revisiting-a-tale-of-two-markets-95b26096.png)
+![Source:Twitter](/images/revisiting-a-tale-of-two-markets-95b26096.png)
 
 Not only does this help in terms of increasing the likelihood of your ability to build towards a large outcome, but it’s also [a critical piece of the puzzle that investors are going to focus on.](https://twitter.com/indysofian/status/1487086453456785410?s=20&t=Ri7R6yfk34RG1ENyQVrd6Q) You already have to spend a fair bit of time convincing investors about you, your team, your product, and your partners. The one thing that you should hope to let speak for itself is the size and growth of the market.
 
@@ -123,7 +123,7 @@ But companies like Stripe, Coinbase, or Nvidia have become ways to bet on digita
 
 The more effectively a company can position themselves as an index of a large and growing category they tie their fate not just to their own execution but also to the success of the overall trend. Just make sure you're not the betamax of your category.
 
-![This is a superold school reference, even for me.](images/revisiting-a-tale-of-two-markets-64caed3f.png)
+![This is a superold school reference, even for me.](/images/revisiting-a-tale-of-two-markets-64caed3f.png)
 
 # Inspiration > Experience > Starting For The Sake Of Starting
 
@@ -135,7 +135,7 @@ A number of successful founders have jumped immediately into starting a business
 
 If you see a large and growing market, if you have an idea that you feel is a unique perspective on a space, and you feel like you have the mental fortitude to weather a lot of disappointments then I would call that inspiration. Jump into building something new.
 
-![Source:Twitter](images/revisiting-a-tale-of-two-markets-78791b76.png)
+![Source:Twitter](/images/revisiting-a-tale-of-two-markets-78791b76.png)
 
 **But if you don't feel lightning strike with inspiration there is no harm in seeking out experiences first.** For every Mark Zuckerberg or Bill Gates there is a Jeff Bezos who worked at D.E. Shaw or Reed Hastings who worked at Adaptive Technology.
 

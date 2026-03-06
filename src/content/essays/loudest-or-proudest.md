@@ -7,7 +7,7 @@ slug: "loudest-or-proudest"
 type: "newsletter"
 ---
 
-![](images/loudest-or-proudest-c7299bc2.png)
+![](/images/loudest-or-proudest-c7299bc2.png)
 
 I've written [over](https://investing1012dot0.substack.com/p/the-storytelling-of-investing?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/open-source-knowledge) and [over](https://investing1012dot0.substack.com/p/learning-to-dream) and [over](https://investing1012dot0.substack.com/p/the-meme-economy?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/historical-futurism) and [over](https://investing1012dot0.substack.com/p/the-bubble-brains-of-venture-capital) and [over](https://investing1012dot0.substack.com/p/the-glass-half-war-empty-or-full) and [over](https://investing1012dot0.substack.com/p/oh-say-what-is-truth) and [over](https://investing1012dot0.substack.com/p/cultivating-cults?utm_source=publication-search) again about storytelling.
 
@@ -23,7 +23,7 @@ Unbelievable progress is made through the consistent back and forth of two steps
 
 Imagine yourself taking massive steps. You make a big promise. That's one step. You manage to pull off a big payoff. That's another step. Promise and payoff. Promise and payoff. **But too often, people become obsessed with just one step: the promise. They end up spreading themselves wider and wider, all on one leg.**
 
-![](images/loudest-or-proudest-a7b72640.png)
+![](/images/loudest-or-proudest-a7b72640.png)
 
 # Big Promises
 
@@ -49,7 +49,7 @@ You might think Tesla is a house of cards. But they deliver. You might even [hat
 
 You might hate Anduril, and think its just VC hubris chasing big markets, with no viable path to success. General Atomics, one of the major defense primes, recently [referred](https://breakingdefense.com/2024/09/i-dont-see-it-before-their-cca-drones-even-take-to-the-air-anduril-and-general-atomics-trade-shots/) to Anduril as “the Theranos of defense."
 
-![Source:Twitter](images/loudest-or-proudest-01910a22.png)
+![Source:Twitter](/images/loudest-or-proudest-01910a22.png)
 
 But Anduril has payoffs. Example? Getting awarded a [$1 billion](https://fedscoop.com/anduril-nabs-1b-contract-for-anti-drone-work-with-socom/) contract with SOCOM. "But its fluffy money." "They didn't earn it." Not only did they [earn it](https://www.youtube.com/watch?v=dBeosjr7PyY), they blew the competition out of the water in the process:
 

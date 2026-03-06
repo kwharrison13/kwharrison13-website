@@ -7,7 +7,7 @@ slug: "touch-some-grass"
 type: "newsletter"
 ---
 
-![](images/touch-some-grass-e041f85c.png)
+![](/images/touch-some-grass-e041f85c.png)
 
 I enjoy a good biography as much as the next person, maybe more so. I love reading the stories of Benjamin Franklin, Katharine Graham, Warren Buffett, and others who have lived pretty extraordinary lives, and accomplished significant things. Anytime I enter a bookstore, I head for the biographies section first
 
@@ -31,12 +31,12 @@ This weekend has me reflecting on my own psychology. Now, granted. The musings I
 
 For me, the greatest exercise in self-exploration has been my family. I got married when I was 22 years old; had my first kid at 24. My entire adult life has been lived with other people directly invested in my decisions. That has forced me to think more clearly about what I want, and why.
 
-![](images/touch-some-grass-65dc28e2.png)
+![](/images/touch-some-grass-65dc28e2.png)
 
-![](images/touch-some-grass-07c46a93.png)
+![](/images/touch-some-grass-07c46a93.png)
 
 So. Where do we go from here? The breakdown of the greatest investors mental checklists? The secret psychological trick of the most successful founders? The 8 pitfalls to avoid as a VC? Not today, maybe some day.
 
 But todays thoughts are brief, and will be left at this. Take time to get to know yourself, because everything will be a derivative of that relationship. **Go touch some grass my friends. Get to know yourself a little bit. God speed.**
 
-![](images/touch-some-grass-152c4873.png)
+![](/images/touch-some-grass-152c4873.png)

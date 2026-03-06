@@ -7,7 +7,7 @@ slug: "decades"
 type: "newsletter"
 ---
 
-![Source:Steinberg](images/decades-eb4cfec8.png)
+![Source:Steinberg](/images/decades-eb4cfec8.png)
 
 In 1995, Bill Gates was 40 years old and had been running Microsoft as a public company for just 9 years. The company was worth [$50 billion](https://companiesmarketcap.com/microsoft/marketcap/). That same year, he wrote a book called [The Road Ahead](https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0670859133). If you were to read the 1995 edition of that book now, you would notice that there was one glaring thing missing: the internet.
 
@@ -36,7 +36,7 @@ As I look at my peers, whether people I grew up with or got to know later in lif
 
 # My 20-Year Hill
 
-![](images/decades-d018b8ce.jpg)
+![](/images/decades-d018b8ce.jpg)
 
 By 2014 I had started college, dropped out, started a company, and gone back to school. I was in the process of studying pretty hard to try and finish college, teaching classes in the BYU business school, and stumbling my way through the process of selling my first company. As a result, I found myself in the BYU library into the wee hours of the morning. When I would walk home in the dark, I would stop at [the top of a hill](https://www.google.com/maps/@40.2453914,-111.6515123,3a,75y,225.08h,89.56t/data=!3m6!1e1!3m4!1sAF1QipP6Qy_dsXYEZZD0zXFFJ6htFPXKIiNWlxjTngAT!2e10!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D) that overlooked the bulk of Provo and stare out into the twinkling lights and get a little pensive.
 
@@ -100,7 +100,7 @@ Stewart Brand's [Wikipedia page](https://en.wikipedia.org/wiki/Stewart_Brand) in
 
 He campaigned NASA to release a photo of the whole earth, believing it would [bring about](https://en.wikipedia.org/wiki/Whole_Earth_Catalog) "a sense of shared destiny." When those photos were eventually released, Brand put them on the cover of his Whole Earth Catalog.
 
-![Source:Wikipedia](images/decades-5151b7d7.png)
+![Source:Wikipedia](/images/decades-5151b7d7.png)
 
 In that magazine's [statement of purpose](https://reason.com/2018/11/04/we-are-as-gods-and-might-as-we/), Stewart Brand wrote something that is not only fascinating, but will perk up the ears of any [Mormon readers](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/becoming-like-god?lang=eng) as well:
 

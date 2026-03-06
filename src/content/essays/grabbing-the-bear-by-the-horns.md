@@ -23,7 +23,7 @@ There’s an old proverb that goes, “It’s not wise to sell the bear’s skin
 
 But the bear needed a worthy opponent. In the 1700s, bears and bulls were widely [considered opposites](https://www.investopedia.com/ask/answers/bull-bear-market-names/) because of the once-popular blood sport of bull-and-bear fights (yup, it was a thing), so the term “bull market” came to signify a market in which prices are expected to *rise*. (Some people contend that the names also derive from how the animals fight: bears tend to swipe *down*, while bulls thrust *up* their horns.)
 
-![Image Source](images/grabbing-the-bear-by-the-horns-2d473a56.png)
+![Image Source](/images/grabbing-the-bear-by-the-horns-2d473a56.png)
 
 Many active investors today have never lived through a bear market; for all our professional lives, we’ve been blessed with a tremendous bull market. That’s changed this year, and it’s changed quickly. This abrupt shift is coinciding with the trend of everyone becoming an investor and every*thing* becoming investable. The bear market and the investing boom are on a collision course, and the goal of this piece is to examine what the aftershocks will be.
 
@@ -33,7 +33,7 @@ Many active investors today have never lived through a bear market; for all our 
 
 A dirty little secret of the stock market is that not many people take part in it. Only [15% of Americans](https://www.usnews.com/news/national-news/articles/2021-03-15/who-owns-stocks-in-america-mostly-its-the-wealthy-and-white) directly own stock. If you count exposure through retirement accounts, that expands to a little over 50%. That figure has actually *declined* in recent years, sliding about five percentage points since the 2008 financial crisis.
 
-![Source](images/grabbing-the-bear-by-the-horns-2cc2ac58.png)
+![Source](/images/grabbing-the-bear-by-the-horns-2cc2ac58.png)
 
 Why does this matter? Owning stock is directly correlated with wealth creation. It’s difficult (maybe impossible) to reach the upper echelons of net worth on salary or hourly wages alone. As a result, the demographic most benefiting from the stock market—old white people—is the demographic that wields the most social and economic power in America. Baby Boomers hold 55% of stocks, valued at $22 trillion; Millennials own 2.5%, valued at $1 trillion. White Americans own a staggering 90% of stocks, with the average white investor owning 3x as much stock as the average Black or Hispanic investor.
 
@@ -41,7 +41,7 @@ And wealth begets wealth. Only 15% of families in the bottom 20% of income earne
 
 Skewed exposure to equity markets is a leading contributor to income inequality in America. This is what makes the recent boom in retail investing so exciting: [15% of the retail investors](https://mr-mag.com/a-large-chunk-of-the-retail-investing-crowd-got-their-start-during-the-pandemic/) active today got their start in 2020. We saw this surge in the meme stock mania of 2021 and in the staggering growth of communities like r/WallStreetBets (now at 12.2 million members).
 
-![](images/grabbing-the-bear-by-the-horns-d377d19d.jpg)
+![](/images/grabbing-the-bear-by-the-horns-d377d19d.jpg)
 
 The emerging group of young investors has been called “Generation Investor” and they’re unlike any generation we’ve seen before. A NASDAQ [survey](https://www.nasdaq.com/docs/etps-empowering-next-generation-of-investors) [found that](https://www.nasdaq.com/articles/gen-z%3A-what-to-know-about-the-next-generation-of-investors) 48% of Gen Z investors check their portfolios multiple times a day, while 24% check once a day. That compares to 39% and 22% for Millennials, 16% and 19% for Gen X, and 10% and 12% for Baby Boomers. Generation Investor is also more active: 34% of Gen Zs make trades a few times a week, compared to 26% of Millennials, 19% of Gen Xers, and 7% of Baby Boomers.
 
@@ -57,7 +57,7 @@ Members of Generation Investor have never experienced a bear market. For as long
 
 Year-to-date, the S&P is down 13%. Tech stocks have been hit particularly hard. The list of companies that have seen their valuations plummet is long, and the past few months have been especially punishing for companies that enjoyed a COVID boost: Peloton is down 91% from its high, Zoom is down 83%, and Shopify is down 79%.
 
-![Source: Koyfin](images/grabbing-the-bear-by-the-horns-8168b05c.jpg)
+![Source: Koyfin](/images/grabbing-the-bear-by-the-horns-8168b05c.jpg)
 
 In recent years, the market put a massive premium on growth: the companies that were growing the fastest often got the highest valuations. With a torrid pace of [money printing](https://www.livemint.com/industry/banking/lessons-from-the-fed-s-3-trillion-money-printing-11592322603528.html) in the US, that emphasis only increased; there was always cheap money around, so why turn a profit when you could pour cheap fuel into a growth engine?
 
@@ -71,7 +71,7 @@ A lot of people might point to venture capital as a safe haven from the manic ma
 
 Venture investors aren’t only reevaluating valuations because they’re worried about their 401K. Assuming public market valuations (that ~7x forward revenue multiple Jamin talked about) don’t change dramatically in the next 5ish years, a lot of companies will struggle to make a return on their unicorn valuations. In Q2 2021, we saw 148 new unicorn valuations (!). In Q2 2022, that figure dropped by 43%.
 
-![Source: CB Insights](images/grabbing-the-bear-by-the-horns-9a384398.png)
+![Source: CB Insights](/images/grabbing-the-bear-by-the-horns-9a384398.png)
 
 Some (many) venture-backed companies will be fine. They’ll launch new products, they’ll expand to new geographies, they’ll generate more and more revenue. They’ll eventually grow into their valuations. But that isn’t the case for everyone. Index’s [Mark Goldberg](https://twitter.com/Mark_Goldberg_) shares Dropbox’s story:
 
@@ -85,7 +85,7 @@ So does that mean investing is dead? Of course not.
 
 If there’s one consistent thing about investing, it’s risk. Investing is all about risk vs. reward. The only reason that there’s a return from investing (a reward) is because there was a risk that things could go wrong. Pain, meanwhile, is all a function of perspective. The longer the time horizon you look at, the more perspective you have. Zoom out to the last 180 years or so…
 
-![Source](images/grabbing-the-bear-by-the-horns-c41a2c26.png)
+![Source](/images/grabbing-the-bear-by-the-horns-c41a2c26.png)
 
 For decades and decades, the stock market has reliably trended up despite some extended periods of pain (the Great Depression, the Dotcom Bust, the Great Recession). We haven’t seen a catchy name yet applied to our current downturn, but rest assured that one will come.
 
@@ -95,11 +95,11 @@ This isn’t to belittle anyone’s pain. Economic downturns cost retirements, c
 
 One thing to be cautious of: market bounces. One (slightly morbid) way to describe a market bounce is the old saying, “Even a dead cat will bounce if dropped from high enough.” A [Dead Cat Bounce](https://www.investopedia.com/articles/00/101700.asp) has come to mean a fake-out in which you *think* the market is finally looking up, before it drops out from under you once again. For example, compare the markets from 2000, 2008, and today.
 
-![Source:Hedgeye](images/grabbing-the-bear-by-the-horns-cdb970dd.png)
+![Source:Hedgeye](/images/grabbing-the-bear-by-the-horns-cdb970dd.png)
 
 It’s safe to say that our recent rallies—like July’s uptick—are part of a long and gradual slide downward. In this chart, zoom in on the last few months and you see a lot of blues heading up before you catch some reds again:
 
-![Source: Koyfin](images/grabbing-the-bear-by-the-horns-c8da07ef.png)
+![Source: Koyfin](/images/grabbing-the-bear-by-the-horns-c8da07ef.png)
 
 The bigger takeaway from balancing optimism with a recessionary market is an adage we’ve heard many times from our P.E. teachers: short-term pain leads to long-term gain. For those privileged enough to remain long-term holders, being an investor will (eventually) pay off. The opportunity for everyone to be an investor already exists; the ability to be a successful investor in this market will require more thoughtfulness and discipline than in the market of the past few years.
 
@@ -107,7 +107,7 @@ The bigger takeaway from balancing optimism with a recessionary market is an ada
 
 ### Fortune Favors The Brave (and the Patient)
 
-![Source](images/grabbing-the-bear-by-the-horns-41a4f34b.png)
+![Source](/images/grabbing-the-bear-by-the-horns-41a4f34b.png)
 
 In a Crypto.com ad last October, Matt Damon declared, “Fortune favors the brave.” Since that commercial aired, Bitcoin has dropped more than 60%. Ouch.
 
@@ -123,23 +123,23 @@ Instead, what we’re talking about is the opportunity to invest in generational
 
 From the time Apple went public in 1982 up through 2000, it was a fairly consistent company—always worth ~$8B give or take. In the run-up of the Dotcom, they shot up to be worth $22B.
 
-![Source: Koyfin](images/grabbing-the-bear-by-the-horns-ff001d2e.png)
+![Source: Koyfin](/images/grabbing-the-bear-by-the-horns-ff001d2e.png)
 
 #### Chart #2: Apple from 2000 to 2003
 
 After the Dotcom Bust, Apple quickly plummeted further than that steady ~$8B, falling to a valuation as low as $4B and fluctuating up and down for a few years.
 
-![Source: Koyfin](images/grabbing-the-bear-by-the-horns-aed83ba1.png)
+![Source: Koyfin](/images/grabbing-the-bear-by-the-horns-aed83ba1.png)
 
 #### Chart #3: Apple from 2003 to Today
 
 You know how the story ends. After watching a company plummet from $22B to $4B, you’d have to have a strong stomach to hang on for another 20 years. But for those who did? From that $4B low-point, Apple has swelled over 600x (!) to be worth $2.5 trillion. If you put $10,000 in Apple at its 2004 lows, you’d have $6,650,000 today.
 
-![Source: Koyfin](images/grabbing-the-bear-by-the-horns-30782adc.png)
+![Source: Koyfin](/images/grabbing-the-bear-by-the-horns-30782adc.png)
 
 One important caveat: very few companies will be Apple**.** Or Google. Or Amazon. But a few will. And with a combination of thoughtfulness, research, and a lot of luck you can take a crack at investing in the next generation of phenomenal assets. The same is true of private companies. Some of the best venture-backed companies of the last decade came out of the Great Recession: Stripe, Uber, Airbnb.
 
-![Source: Investing 101](images/grabbing-the-bear-by-the-horns-93a5215e.png)
+![Source: Investing 101](/images/grabbing-the-bear-by-the-horns-93a5215e.png)
 
 The years of 2022, 2023, and 2024 might go down as the most formative of many venture capitalists’ lifetimes, with new iconic companies being created during the downturn. The key is to remain focused and to never stop investing. (To paraphrase Sequoia’s Don Valentine: “We’re in the business of investing, not *not* investing.”) For retail investors in the public markets, there might be an “Apple at $4B” opportunity out there; the key part is staying patient and picking the right horse.
 
@@ -168,15 +168,15 @@ The list goes on. Of course, a key question here is: which of these assets are s
 
 But this a fascinating shift because, for the first time, new asset classes are available as wealth-creating opportunities for more people. Take Masterworks, which argues that the fine art market boasts better returns than the stock market:
 
-![](images/grabbing-the-bear-by-the-horns-2db1f870.png)
+![](/images/grabbing-the-bear-by-the-horns-2db1f870.png)
 
 Masterworks buys art directly, then securitizes that art and sells shares in it.
 
-![](images/grabbing-the-bear-by-the-horns-9cbc6520.png)
+![](/images/grabbing-the-bear-by-the-horns-9cbc6520.png)
 
 If you can’t shell out hundreds of thousands for a Warhol or Banksy, you can buy a share of one and potentially earn double-digit annual returns:
 
-![](images/grabbing-the-bear-by-the-horns-73b9ef6c.png)
+![](/images/grabbing-the-bear-by-the-horns-73b9ef6c.png)
 
 The risk-reward calculus differs greatly among all of the various asset classes outlined above. And, of course, nothing should replace thorough research, patience, and above all, diversification in one’s portfolio.
 

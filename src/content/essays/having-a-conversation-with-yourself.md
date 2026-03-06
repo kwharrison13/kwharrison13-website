@@ -7,7 +7,7 @@ slug: "having-a-conversation-with-yourself"
 type: "newsletter"
 ---
 
-![](images/having-a-conversation-with-yourself-6baef679.jpg)
+![](/images/having-a-conversation-with-yourself-6baef679.jpg)
 
 I've always enjoyed writing. The idea of effectively communicating ideas, of crystallizing a thought into something I can refer to again and again. I always appreciate well-written ideas because they are atomized concepts that are mixable and re-mixable. But in my life, I've never written consistently.
 

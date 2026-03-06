@@ -7,7 +7,7 @@ slug: "lowercarbon"
 type: "newsletter"
 ---
 
-![](images/lowercarbon-c426075a.png)
+![](/images/lowercarbon-c426075a.png)
 
 ## Renegade Spotlights
 
@@ -39,7 +39,7 @@ A quick history lesson. Investing in sustainable technology became all the rage 
 
 But just as quickly as the pop happened you saw that capital get diverted away from sustainability with the total venture dollars invested [dropping 36% in one year](https://www.barrons.com/articles/BL-TB-19916?tesla=y) from 2008 to 2009. [Some people list the diversion into green tech](https://fortune.com/longform/kleiner-perkins-vc-fall/) as one of the things that [brought Kleiner out](https://www.reuters.com/article/us-kleiner-doerr-venture/insight-how-cleantech-tarnished-kleiner-and-vc-star-john-doerr-idUSBRE90F0AD20130116) of the top tiers of venture funds.
 
-![](images/lowercarbon-6f4f8565.png)
+![](/images/lowercarbon-6f4f8565.png)
 
 A lot of VCs today started their careers in sustainability and clean tech like [Mark Goldberg](https://www.linkedin.com/in/mark-goldberg-25458110/) at Index or [Jake Saper](https://www.linkedin.com/in/jakesaper/details/experience/) at Emergence. And most of them have scar tissue having watched lots of high profile failures that had raised millions of dollars.
 
@@ -69,7 +69,7 @@ The only way we dramatically change the carbon footprint of mankind is by making
 
 The good news is that people are already waking up to to the technological feasibility that can make a sustainable alternative the better option. Remember that 36% drop in climate funding back in 2009? Here it is in the context of the last decade or so.
 
-![](images/lowercarbon-bfb91e60.png)
+![](/images/lowercarbon-bfb91e60.png)
 
 2021 was a record smashing year for venture dollars invested in climate tech. Just the [first half of 2021 saw $60B](pwc.com/climatetech) of investment flowing into climate. **And we're just getting started.**
 

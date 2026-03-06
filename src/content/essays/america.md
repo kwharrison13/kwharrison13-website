@@ -7,7 +7,7 @@ slug: "america"
 type: "newsletter"
 ---
 
-![](images/america-c4959b9d.webp)
+![](/images/america-c4959b9d.webp)
 
 [In 2017](https://kwharrison13.com/bookshelf/2017-in-books) I read a book about education called "The Smartest Kids in the World" by Amanda Ripley. When I wrote about it in my end of the year book review, this is how I started out:
 
@@ -43,7 +43,7 @@ The U.S. is in 60th place for its score on political rights and civil liberties 
 
 For one thing, I always remember [a video I saw](https://www.youtube.com/watch?v=TfQij4aQq1k) in 2019 about representation in American law-making. The video came from Represent.Us and featured Jennifer Lawrence, but the key point the video makes comes with this chart:
 
-![Source:YouTube](images/america-7c673995.png)
+![Source:YouTube](/images/america-7c673995.png)
 
 The takeaway comes from a [2014 Princeton study](https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B) which claimed that, whether a proposed law had 0% public support or 100% support, it would always have a ~30% chance of passing. Meaning that we, effectively, don't have a representative democracy. **So in the realm of "things that could be better," that's definitely one to start with.**
 
@@ -55,7 +55,7 @@ Next, in the Jeff Daniels speech, he goes on to list the myriad reasons why Amer
 
 This is where Aaron Sorkin, who wrote this speech, really loses the thread. It's so one-sided and choosy as to lose any credibility. I prefer John Coogan's version which, while just as biased, is also accurately acknowledging some key aspects of reality:
 
-![Source:Twitter](images/america-e52dbec5.png)
+![Source:Twitter](/images/america-e52dbec5.png)
 
 The culture war rages on and extremists on both the left and the right will do everything they can to suffocate America as a nation either through intolerance or wokeness. Ignorant swings or misinformed hooks. And that is a legitimate threat.
 

@@ -13,7 +13,7 @@ type: "newsletter"
 
 *Onwards.*
 
-![](images/cultivating-cults-8d531887.png)
+![](/images/cultivating-cults-8d531887.png)
 
 "What do you have to believe?"
 
@@ -29,7 +29,7 @@ Storytelling and belief are inextricable because the story is what you believe. 
 
 # Belief Beyond Reality
 
-![Source:Indiana Jones](images/cultivating-cults-56bda829.png)
+![Source:Indiana Jones](/images/cultivating-cults-56bda829.png)
 
 Not [once](https://investing1012dot0.substack.com/p/the-storytelling-of-investing?utm_source=publication-search), but [twice](https://investing1012dot0.substack.com/p/oh-say-what-is-truth?utm_source=publication-search) when I was writing about storytelling, I thought of a favorite quote of mine from the movie [Secondhand Lions](https://en.wikipedia.org/wiki/Secondhand_Lions). A young boy is living with his two elderly uncles and one of them has been telling stories of the other's exploits in Africa. The boy is desperate to know from the could-be adventurer if the stories are true. So one night he finally confronts his uncle. "I need to know if those stories are true." His response is instructive about the difference between belief and reality:
 
@@ -45,7 +45,7 @@ That relationship between beliefs and results form what I call...
 
 ## The Trough of Results
 
-![](images/cultivating-cults-6e183f57.png)
+![](/images/cultivating-cults-6e183f57.png)
 
 Any belief you start out holding that is deviant or contrarian puts you lower in the eyes of the world. You're weirder than the typical normie. Then you set out to act on your heretical beliefs and people think you're dumber and dumber. You blow up rockets ([lots](https://www.space.com/every-spacex-starship-explosion-lessons-learned) of rockets). You get [shat on](https://youtu.be/y8NbGIkI6KA?t=54) by American heroes. It sucks. **But you don't yet have the results to show for it, so you take it.**
 
@@ -59,7 +59,7 @@ So everyone is choosing what stories they believe. And some people (e.g. founder
 
 ## Story Amplifiers
 
-![Source:TechCrunch](images/cultivating-cults-d1f552e6.png)
+![Source:TechCrunch](/images/cultivating-cults-d1f552e6.png)
 
 The weakest stories are those which the storyteller feels are entitled to be believed. No story *deserves* to be believed. Belief is won. The better the story, the more it is believed. These are just a few of the story amplifiers I've observed impacting the quality of a story:
 
@@ -90,7 +90,7 @@ Similarly, Walt Disney's business history is replete with near bankruptcies. It 
 
 It was the story. **Walt Disney wove a story that, while benefitted by Iwerks talents and Roy's skill, was a literal miracle. Weaving something magical out of thin air.**
 
-![Source:Business Insider](images/cultivating-cults-0295f1ee.png)
+![Source:Business Insider](/images/cultivating-cults-0295f1ee.png)
 
 The same has [been said](https://www.reddit.com/r/todayilearned/comments/l1xfas/til_steve_jobs_never_coded_for_apple_according_to/) about the early days of Apple where it was Wozniak’s tech, but Steve Jobs’ story. The Apple I *might* have existed without Jobs. But Apple absolutely wouldn’t have without the vision that Jobs wove into a story to tell the world.
 
@@ -106,7 +106,7 @@ I've come across other evangelists that represent a unique perspective that can 
 
 Another example is [Ana Lorena Fabrega](https://x.com/anafabrega11?lang=en), the Chief Evangelist at [Synthesis School](https://investing1012dot0.substack.com/p/renegade-spotlight-synthesis?utm_source=publication-search). Synthesis is a much earlier stage company than Databricks, and Chrisman (the CEO) is absolutely evangelizing the company in a meaningful way. But her [experience](https://www.readtheprofile.com/p/ana-lorena-fabrega) attending 10 different schools in seven different countries before she was 15 years old set her on a path to forever evangelize better ways to educate kids. **From becoming a teacher to joining Synthesis, she has lived the story she tells every day.**
 
-![](images/cultivating-cults-ecc18745.png)
+![](/images/cultivating-cults-ecc18745.png)
 
 So while the storytelling needs to be founder-level, it doesn't come exclusively from the founder. But a key component of the story any founder is telling is the ability to "get away with it."
 
@@ -136,7 +136,7 @@ Disney, Jobs, Musk, Altman. People see them as prophets because of their traject
 
 # Disabusing The Word Cult
 
-![Source:Google Maps](images/cultivating-cults-3427249e.png)
+![Source:Google Maps](/images/cultivating-cults-3427249e.png)
 
 When I was 19 years old I served a [mission](https://newsroom.churchofjesuschrist.org/article/mission) for The Church of Jesus Christ of Latter-Day Saints. White shirts, black name tags. Whole shebang. I spent all day talking to strangers about Jesus Christ. I remember vividly one day on a sidewalk in Waynesboro, PA I tried to talk to a woman who was walking by. In fact, the memory is so vivid that, without having to go back to my journal, I can still pull up the exact sidewalk where this happened (picture above).
 
@@ -153,7 +153,7 @@ After you spend two years talking to thousands of people and the majority of the
 
 Like any good middle school speech, lets start with what Merriam-Webster's dictionary has to say about it:
 
-![Source:Merriam-Webster](images/cultivating-cults-0c17a6b0.png)
+![Source:Merriam-Webster](/images/cultivating-cults-0c17a6b0.png)
 
 Despite my attempt to prove that I'm not in a cult, there's a hiccup. A cult is just a religion that some people think is weird or great devotion to a person or a small group of devotees. **There is nothing inherently sinister about the word "cult" other than the fact that the object of devotion is often seen as "unorthodox" or "spurious."** Spurious offered some interesting context with its own [definition](https://www.merriam-webster.com/dictionary/spurious): "Outwardly similar or corresponding to something without having its genuine qualities."
 
@@ -177,7 +177,7 @@ There are dangerous cults and there are rewarding cults. There are social cults 
 
 # Every Company a Cult
 
-![Source:Twitter](images/cultivating-cults-96ef57c8.png)
+![Source:Twitter](/images/cultivating-cults-96ef57c8.png)
 
 When I think about company storytelling I often return to two pieces. First, [When Creation Goes To Zero](https://every.to/napkin-math/when-creation-goes-to-zero) by [Evan Armstrong](https://x.com/itsurboyevan). And second, [Soft Power in Tech](https://www.generalist.com/briefing/soft-power-in-tech) by [Mario Gabriele](https://x.com/mariogabriele). Read both. They're exceptional.
 
@@ -205,11 +205,11 @@ Everyone has holes in their heart that they're trying to fill. That can come fro
 
 Often, when a cult forms around people’s preferences it can do quite well. In 2020, I remember coming across this tweet that proposed an ETF for cults. Cults like Tesla, Peloton, Apple, etc.
 
-![Source:Twitter](images/cultivating-cults-42f25d10.png)
+![Source:Twitter](/images/cultivating-cults-42f25d10.png)
 
 Since December 2020, some of the companies on Bobby's list have seen massive drawdowns, like Peloton (-97%), Zoom (-86%), and Square (-66%). The average return since then across all his names has been ~12%.
 
-![Source: Koyfin](images/cultivating-cults-10f6af48.png)
+![Source: Koyfin](/images/cultivating-cults-10f6af48.png)
 
 So not all cults are created equal. But clearly the size of companies like Coca-Cola, Apple, Netflix, and Tesla demonstrate something special that keeps people coming back. Everyone knows someone who is a Coke fiend (not that kind of coke) or a "Disney adult" or a "Tesla maxi." **These cults, in many cases, enable a company to become something that even the people building the company wouldn't have expected**. Often the feeling of being in a product cult can be palpable. That was my own experience joining a product cult.
 
@@ -219,7 +219,7 @@ My experience is probably pretty similar to a lot of people who find themselves 
 
 That's when I stumbled onto [Roam Research](https://roamresearch.com/). Twitter came first, as a lockdown discovery for me, followed by an indoctrination into the Roam community. I fell in love with the way Roam treated each bullet point like an atomic unit of thought. I could connect each idea across my entire network of notes and records, and then see where I'd used that thought in other places. If I had a favorite quote by F. Scott Fitzgerald, for example, I could see all 9 different places I'd referenced it.
 
-![](images/cultivating-cults-07e3fea5.png)
+![](/images/cultivating-cults-07e3fea5.png)
 
 From using Roam, I stumbled onto [Roam Twitter](https://x.com/search?q=kwharrison13%20roam&src=typed_query). I ended up doing [Roam Tours](https://x.com/kwharrison13/status/1371843694106718220) where I would do video calls with people and talk about our Roam setups. I've mentioned before, but the first blog I wrote on this Substack was about [how I use Roam in my investing research](https://investing1012dot0.substack.com/p/roam-investing?utm_source=publication-search). To simplify the discovery experience for Roam users on Twitter we all started using the #RoamCult hashtag. There were [Apostles of Roam](https://x.com/kwharrison13/status/1299521134124134400). You could buy a lifetime membership to the software by paying for the "[Believer Plan](https://roamresearch.com/)."
 
@@ -249,7 +249,7 @@ Unfortunately, the Roam Cult failed. The excitement about Roam sparked a [moveme
 
 But the energy of the #RoamCult in 2020 is lost.
 
-![Source:Twitter](images/cultivating-cults-b2fb9a68.png)
+![Source:Twitter](/images/cultivating-cults-b2fb9a68.png)
 
 Why? There is a better case study to be written on why Roam Research [fizzled out](https://x.com/joepairman/status/1795376870718067148). This isn't that. And I'll caveat with saying I am still, to this day, to this moment, an hourly active user of Roam. My whole life is in it. But it's accurate to say that the product I'm using today is not fundamentally different than the product I started using four years ago.
 
@@ -267,7 +267,7 @@ Unfortunately, given the negative connotations around building cults, the only g
 
 ## Courage To Stand Out
 
-![Source:YouTube](images/cultivating-cults-b5d821b1.png)
+![Source:YouTube](/images/cultivating-cults-b5d821b1.png)
 
 In Derek Sivers' talk he uses the example of a [famous video](https://www.youtube.com/watch?v=hO8MwBZl-Vc) from 2010 of a guy dancing alone at a festival. Over time people start to join him until an entire crowd is dancing on the hill. Derek's first point?
 
@@ -309,7 +309,7 @@ The importance of that first follower can't be overstated. But I also want to ca
 
 ## Build Universal Exclusivity
 
-![Source:Twitter](images/cultivating-cults-9617d3a3.png)
+![Source:Twitter](/images/cultivating-cults-9617d3a3.png)
 
 There is something unique about a successful (and GOOD) cult. It has a sense of exclusivity but one that is universally accessible. In the [words of scripture](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22?lang=eng&id=14#p14), "many are called, few are chosen." A good cult is open to everyone, but it [asks something](https://www.churchofjesuschrist.org/study/general-conference/1979/04/this-is-a-day-of-sacrifice?lang=eng) of its members. A way of life, a way of thinking, a way of operating, a way of being. That sacrifice is what maintains exclusivity. Anyone COULD benefit from the cult, but only the select few will.
 
@@ -363,7 +363,7 @@ Unfortunately, most cults, both bad and good, are so pervasive and (for many) so
 
 Bad cults often force uniformity through fear and social pressure. The goal should be to seek uniformity, not because its forced, or because you’re afraid, but because its true. The goal of any good cult should be to find the unifying truths. The secrets of the universe.
 
-![Source:Twitter](images/cultivating-cults-135e9e5a.png)
+![Source:Twitter](/images/cultivating-cults-135e9e5a.png)
 
 ## Avoid Elitism
 
@@ -395,7 +395,7 @@ Some people won't make it nearly this far in this blog post just because I accid
 
 In 2020, Wolf Tivy, the founder and former editor of [Palladium Magazine](https://www.palladiummag.com/), wrote a thread about cults that I found instructive.
 
-![Source:Twitter](images/cultivating-cults-94b208d6.png)
+![Source:Twitter](/images/cultivating-cults-94b208d6.png)
 
 Some key takeaways for me that sum up this first point:
 

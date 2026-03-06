@@ -7,7 +7,7 @@ slug: "revisiting-competitive-moats"
 type: "newsletter"
 ---
 
-![Source:Fat Baby Funds](images/revisiting-competitive-moats-cbbced7e.png)
+![Source:Fat Baby Funds](/images/revisiting-competitive-moats-cbbced7e.png)
 
 *In March 2023, I wrote a piece called "[Competitive Moats](https://investing101.substack.com/p/competitive-moats)." Since then, the conversation has really shifted from "GPT wrappers have no moat" to "foundation models have no moat." So I decided to revisit the original piece.*
 
@@ -29,7 +29,7 @@ So let's talk about competitive moats, and particularly why, for a big part of t
 
 One of the things that has brought defensibility and competitive moats to the forefront of the conversation recently has been the newest wave of AI startups. When a whole swath of companies are building on the same open source foundation models, or as wrappers around GPT, can they really be [defensible in the long run](https://twitter.com/travismcpeak/status/1631320397668028416?s=20)?
 
-![Source:Twitter](images/revisiting-competitive-moats-d6eed26f.png)
+![Source:Twitter](/images/revisiting-competitive-moats-d6eed26f.png)
 
 I'm certainly one of those skeptics that worry about how well a company can compete when their underlying technology has the same nuts and bolts as every other product tackling the same problem.
 
@@ -37,7 +37,7 @@ Since I originally wrote about this back in [March 2023](https://investing101.su
 
 Sam Altman, the CEO of OpenAI, who everyone would have pointed to in March 2023 as "the most defensible AI company" has had to adjust their thought process. One of the most under discussed comments came from a Reddit AMA where Sam Altman said this:
 
-![Source:Reddit](images/revisiting-competitive-moats-2b365439.png)
+![Source:Reddit](/images/revisiting-competitive-moats-2b365439.png)
 
 Originally, people's perspective was that the real moat is spending billions of dollars to build a model. Now, people are realizing that even that may not be as big of a moat as they thought.
 
@@ -93,15 +93,15 @@ Now, I'm no public analyst. So lot's of people would fight me on this. But just 
 
 Microsoft, on the other hand, feels like a company that has evolved dramatically over and over again (granted, they have plenty of their own monopolies). The transition from shipping physical disks to universalizing Windows to the Office suite to Azure, and now while they're old in years, but young in spirit, we get to watch them go through an AI evolution with OpenAI. Sometimes it feels like watching your elderly uncle reinvent himself. But it's still transformative.
 
-![](images/revisiting-competitive-moats-70397a35.webp)
+![](/images/revisiting-competitive-moats-70397a35.webp)
 
 You can visualize the Microsoft product suite, and you start to realize how extensive it is across not only Windows and Office, but Xbox, Linkedin, GitHub, Bing, and more.
 
-![](images/revisiting-competitive-moats-0871be87.png)
+![](/images/revisiting-competitive-moats-0871be87.png)
 
 Most of the very best companies have these same types of visualizations to demonstrate their product velocity. They ship a huge amount of product extendability to ensure customer satisfaction and stickiness (e.g. that $Y stays as high as possible for as long as possible.)
 
-![Source:Datadog](images/revisiting-competitive-moats-929ad2f1.png)
+![Source:Datadog](/images/revisiting-competitive-moats-929ad2f1.png)
 
 When I think about core pillars of the software world, like Salesforce, ServiceNow, or Adobe, they've all extended their product capabilities pretty dramatically. In [a great post](https://mslotnick.substack.com/p/a-unified-theory-of-lowno-code-middleware?utm_source=%2Fsearch%2Fsalesforce&utm_medium=reader2) on the future of enterprise applications, Matt Slotnick uses Salesforce as an example, and explains their product extendability this way:
 
@@ -111,7 +111,7 @@ When I think about core pillars of the software world, like Salesforce, ServiceN
 
 One company that hasn't as successfully extended itself is Workday. That doesn't mean that Workday doesn't have any competitive moats, but it doesn't seem to have a rapid pace of innovation. As a result, you have to start to really evaluate the longevity of any existing advantage they have.
 
-![Source: Koyfin](images/revisiting-competitive-moats-c5d4a95a.png)
+![Source: Koyfin](/images/revisiting-competitive-moats-c5d4a95a.png)
 
 The longevity of those competitive moats can be the difference between life and death. [In a newsletter](https://www.permanentequity.com/weekly/the-weekly-edition-52-july-3rd-2020) from Permanent Equity a few years ago, they made this great point about the "saving grace" of competitive moats, and how it can only go so far:
 
@@ -129,7 +129,7 @@ One of the biggest prophets of competitive moats is [Warren Buffett himself](htt
 
 Elad Gil [put together](https://blog.eladgil.com/p/defensibility-and-competition) a pretty extensive list of typical moats including things like network effects, platform effects, product velocity, complex sales, regulation, and scale. Similarly, McKinsey has a broad framework for the sources of competitive advantage:
 
-![Source:Twitter](images/revisiting-competitive-moats-a643a66c.png)
+![Source:Twitter](/images/revisiting-competitive-moats-a643a66c.png)
 
 There's a lot of interesting literature here, all of it with merit. For my perspective, I agree with Elon Musk and Fat Baby Funds (boy, that's an interesting sentence, huh?) **I think that competitive moats can be powerful. But if you believe that they're enough to save you from an ever-increasing pace of innovation in every category, I think you're delusional.**
 
@@ -139,7 +139,7 @@ Nailing that equation in the early days opens you up to let more natural competi
 
 # Therefore, What?
 
-![Source:Twitter](images/revisiting-competitive-moats-09193f93.png)
+![Source:Twitter](/images/revisiting-competitive-moats-09193f93.png)
 
 Foundation models, GPT wrappers, as Michael explains, it's all technology that, at the end of the day, can't be a moat. At least not for long.
 

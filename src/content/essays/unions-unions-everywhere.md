@@ -9,7 +9,7 @@ type: "newsletter"
 
 *I’m quite late today on two accounts. First? I’m about 27 hours later than usual because I was enjoying a weekend with the very talented community in Contrary at our annual retreat. So this piece is dedicated to all those folks whose company I got to enjoy this weekend.*
 
-![](images/unions-unions-everywhere-27923e59.png)
+![](/images/unions-unions-everywhere-27923e59.png)
 
 *I’m also about a week and 27 hours late because I wanted to write this piece the Saturday before Labor Day. This piece represents almost 10 years of me collecting notes and thoughts on unions, and labor, and work. Unfortunately, even with a near 10 year runway, I still couldn’t land the plane just right. But I imagine I’ll look back on this piece each Labor Day from now on. And after 9 different labor days coming and going, leaving me disappointed that I didn’t write this piece, I can now feel a bit satisfied.*
 
@@ -17,7 +17,7 @@ type: "newsletter"
 
 ---
 
-![](images/unions-unions-everywhere-81001788.png)
+![](/images/unions-unions-everywhere-81001788.png)
 
 # The Podcast That Started It All
 
@@ -65,7 +65,7 @@ But alas, we don't. Yet, despite the increasing reality that we do have unjust p
 
 For a lot of folks, one of the reasons you might not know much about unions is because they've gone down dramatically, both in power and prevalence. Like I mentioned before, the [Wagner Act of 1935](https://en.wikipedia.org/wiki/National_Labor_Relations_Act_of_1935) was passed to "guarantees the right of private sector employees to organize into trade unions, engage in collective bargaining, and take collective action such as strikes." As a result, you saw a massive uptick in union membership from <10% to a high of almost 35% between 1935 and 1945. But it didn't stick.
 
-![Source:Bureau of Labor Statistics](images/unions-unions-everywhere-ff998799.png)
+![Source:Bureau of Labor Statistics](/images/unions-unions-everywhere-ff998799.png)
 
 That chart ends in 2010, but as of 2023 it was pretty close to the same, with [~10%](https://www.pewresearch.org/short-reads/2024/03/12/majorities-of-adults-see-decline-of-union-membership-as-bad-for-the-us-and-working-people/) of workers in the US belonging to a union. There are a number of drivers in that decline, from offshoring industrial and manufacturing capacity to globalizing the labor force, automation, and a decline in public perception after corruption scandals like [Jimmy Hoffa's](https://en.wikipedia.org/wiki/Jimmy_Hoffa) ties to organized crime in the 70s.
 
@@ -143,7 +143,7 @@ The problem with nuanced issues like unions is that I feel the pressure of not b
 
 And often, the conversation of unions in tech turns to a defense of the ["rise and grind" culture](https://investing1012dot0.substack.com/p/the-renaissance-of-rise-and-grind?utm_source=publication-search) that should exist in startups. Immediately I feel mentally chastened by the words of Bill Gurley:
 
-![Source:Twitter](images/unions-unions-everywhere-3ef33532.png)
+![Source:Twitter](/images/unions-unions-everywhere-3ef33532.png)
 
 And he's right. Startups are hard work. And they require intense commitment from the people building them. In these particular incidents, there is an absolutely justified demand for people who are willing to work hard and make sacrifices. I've written about the struggle between work and life [over](https://investing1012dot0.substack.com/p/toil-we-must?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/the-renaissance-of-rise-and-grind?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/the-hardening-of-the-great-softening) again.
 
@@ -173,7 +173,7 @@ This all goes back to the nuanced position these questions can contort you into.
 
 Corporate bloat, like Twitter most assuredly had, can present on opportunity for healthy and meaningful staff reductions. If Twitter was unionized, you could argue that Elon Musk's inability to fire people could have led to an even worse result for the company. There are some great perspectives out there on what Elon Musk has been doing, and what it means for the rest of us.
 
-![Source:Twitter](images/unions-unions-everywhere-7857a7d8.png)
+![Source:Twitter](/images/unions-unions-everywhere-7857a7d8.png)
 
 But you can't deny that there are situations where unions could present a meaningful mechanism to ensure higher quality working conditions for workers that are engaged in some pretty difficult work.
 

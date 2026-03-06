@@ -7,7 +7,7 @@ slug: "the-volume-of-your-inaccuracy"
 type: "newsletter"
 ---
 
-![](images/the-volume-of-your-inaccuracy-8607f2ad.png)
+![](/images/the-volume-of-your-inaccuracy-8607f2ad.png)
 
 I've been thinking a lot about the correlation between volume and power.
 
@@ -23,7 +23,7 @@ Since then I've dug in [again](https://investing101.substack.com/p/building-migh
 
 This week, I was thinking about some of the voices I see online. Often, I find myself listening to these arguments and I think to myself, "man, these people know way more about this than I do." I look at how many followers they have or the number of subscribers to their YouTube channel or the rankings of their podcast globally. I shrug and think to myself, “I guess they know what they’re talking about.” And sometimes I leave it at that. But sometimes I dig in, and I realize, "Oh... they're not smarter than me, they're just louder than me."
 
-![Source:Twitter](images/the-volume-of-your-inaccuracy-16d0b05c.png)
+![Source:Twitter](/images/the-volume-of-your-inaccuracy-16d0b05c.png)
 
 And granted, some of the responses to my tweet were things like "I think the people I see on the internet are dumber than dirt." And that's true too. **But it's not a function of the times people are demonstrably dumb; its the times when they're deceptively convincing**.
 

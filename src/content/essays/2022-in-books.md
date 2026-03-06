@@ -9,7 +9,7 @@ type: "newsletter"
 
 *I originally posted this [on my personal website](https://kwharrison13.com/ad17f7d516334a96b42ad8da486887e6) with links to my past reading lists and thoughts.*
 
-![](images/2022-in-books-37da130a.jpg)
+![](/images/2022-in-books-37da130a.jpg)
 
 ---
 
@@ -21,7 +21,7 @@ On top of that, 2022 marked my first year consistently writing. I’ve written a
 
 Between having my [third kid](https://investing1012dot0.substack.com/p/kids-30), [starting a new job](https://investing1012dot0.substack.com/p/contrary-my-renegade-of-choice), writing consistently, and moving, I’ve found myself without nearly as much time for reading. I’m reminded of that every time I have a conversation with my sons about how much they love reading. In particular, my son Dax has started reading literary classics like Captain Underpants and Dog Man. Recently, we were driving and saw a deer run across the road. “Dad! Why is that deer our here jaywalking?” **In moments like that, you realize that as soon as your kids start to read they’re exposed to ideas that you had nothing to do with.** “Where did you learn what jaywalking is?”
 
-![](images/2022-in-books-8c7ecced.png)
+![](/images/2022-in-books-8c7ecced.png)
 
 So, in addition to trying to consistently engage with my sons on the ideas they’re being exposed to, I also sat down for my [annual tradition](https://kwharrison13.com/bookshelf) of reflecting on the themes that seemed to emerge from my reading this year. I never set out with themes, I sort of pick what I read fairly haphazardly. But I always seem to find a set of themes fairly organically, maybe its in part just what I happen to be thinking about and noticing already.
 

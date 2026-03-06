@@ -7,7 +7,7 @@ slug: "the-cogsec-chronicles"
 type: "newsletter"
 ---
 
-![](images/the-cogsec-chronicles-2d2ef2dc.png)
+![](/images/the-cogsec-chronicles-2d2ef2dc.png)
 
 I remember being in high school and hearing a teacher talk about their plan to watch [Minority Report](http://bit.ly/45dYSzE) for a philosophy assignment. When I looked at the movie, I was deeply confused. "What philosophy can you learn from a Tom Cruise movie?" Maybe if it was a math class, that would be something:
 
@@ -47,7 +47,7 @@ That worldview divide led to disagreement and "when they were in the field... Ca
 
 Roman emperors [popularized](https://coinweek.com/changes-in-portraiture-on-ancient-roman-coinage/) the use of coinage with the ruler's portrait on it to reinforce a godlike image of power. Often, the coins would include psychological operations ([psyop](https://en.wikipedia.org/wiki/Psychological_warfare)) supporting the message they wanted to portray. Augustus (formerly Octavian) [issued coins](https://www.brown.edu/Departments/Joukowsky_Institute/courses/romanartandarch2011/14123.html) with “Divi Filius” (Son of the Divine) after Julius Caesar’s deification in order to cast himself as a literal child of god to justify his rise.
 
-![Source:Coinweek](images/the-cogsec-chronicles-e9ac95ea.png)
+![Source:Coinweek](/images/the-cogsec-chronicles-e9ac95ea.png)
 
 Napoleon Bonaparte [controlled](https://www.geriwalton.com/how-napoleon-controlled-his-image) his public image generations before photography or mass media. He would edit battle reports to exaggerate victories, downplay losses, even lying about outcomes. He commissioned paintings with exaggerated dynamics, and [founded and controlled](https://www.napoleon-series.org/biographies/napoleon/napoleon-as-spin-doctor-and-mythmaker-to-lie-like-a-bulletin/) state-run newspapers like Le Moniteur as official propaganda arms.
 
@@ -55,7 +55,7 @@ Martin Luther's [95 Theses](https://www.luther.de/en/95thesen.html) wasn't just 
 
 Propaganda is far from new. In fact, its probably safe to say that propaganda is one of the oldest forms of human communication. **It's also important to note that propaganda does not necessarily mean lies. Its a deliberate communication meant to shape perception, loyalty, and behavior.** The Lascaux [cave paintings](https://www.bradshawfoundation.com/lascaux/) in France are estimated to be up to 20K years old. And they're riddled with spiritual and ritualistic communications. "This is who we are. This is what we fear. This is what we honor."
 
-![Source:Bradshaw Foundation](images/the-cogsec-chronicles-d43451d1.png)
+![Source:Bradshaw Foundation](/images/the-cogsec-chronicles-d43451d1.png)
 
 Propaganda can be used for good or for evil. But a fundamental element of the human experience should be the ability to choose the stories we believe in (I'll come back to that). If we're not actively choosing the stories we want to believe in then we're allowing ourselves to be programmed with someone else's worldview. And, **whether we like it or not, it is getting easier and easier to program people. But the craziest thing about that is that we've had decades of warnings and yet done nothing.**
 
@@ -63,7 +63,7 @@ Propaganda can be used for good or for evil. But a fundamental element of the hu
 
 I keep coming back to this quote from The Return of The King. People are quick to point out prescience in the forewarning of a potential threat when the threat is already omnipresent, but rarely do they give much thought to preparing in advance of its coming, despite obvious warnings.
 
-![](images/the-cogsec-chronicles-13436f4e.png)
+![](/images/the-cogsec-chronicles-13436f4e.png)
 
 Propaganda may have been around in many forms, from cave paintings to religious tablets to political newspapers, but the modern era is different. From the constant conflict between authoritarianism and democracy to the advent of information superhighways, the distillation of influence is coming in a very specific form: [psychological warfare](https://en.wikipedia.org/wiki/Psychological_warfare).
 
@@ -71,7 +71,7 @@ Propaganda may have been around in many forms, from cave paintings to religious 
 
 In particular, there is an exceptional one-two punch on what the modern cocktail of fear, pleasure, authoritarian rule, censorship, narcotics, and psychological conditioning would look like.
 
-![](images/the-cogsec-chronicles-0b037ee4.jpg)
+![](/images/the-cogsec-chronicles-0b037ee4.jpg)
 
 First? Pleasure-based pacification in [Brave New World](https://en.wikipedia.org/wiki/Brave_New_World) by Alduous Huxley.
 
@@ -109,15 +109,15 @@ Rand Waltzman introduced the idea of cognitive security in his testimony. **Cogs
 
 On the one hand, you have liberal gems like Stephen Colbert [interrupting](https://youtu.be/d6mBbyb-vIA?t=388) Claire Danes talking about how "the intelligence community suddenly allying itself with journalists" to change the subject, or [desperately trying](https://www.youtube.com/watch?v=sSfejgwbDQ8) to get Jon Stewart to stop talking about the COVID lab leak theory.
 
-![](images/the-cogsec-chronicles-3f9ecc36.png)
+![](/images/the-cogsec-chronicles-3f9ecc36.png)
 
 On the other hand, you have conservative jewels like Charlie Kirk and Jack Poso [tweeting](https://www.instagram.com/p/DKxKo2ot4ff/) verbatim talking points without any alterations; clearly party lines delivered from on high.
 
-![](images/the-cogsec-chronicles-eb808c3c.png)
+![](/images/the-cogsec-chronicles-eb808c3c.png)
 
 **It's not a partisan thing. It's a fundamental element of a rapidly deteriorating truth-seeking system.** From cancel culture to rage-baiting; we've developed an ecosystem that is optimized for being convinced rather than developing conviction. And it's a cornucopia of convincing options; pick your cognitive poison.
 
-![Source:Tommy Siegel](images/the-cogsec-chronicles-03231f1b.png)
+![Source:Tommy Siegel](/images/the-cogsec-chronicles-03231f1b.png)
 
 It's not even about convincing people to what the powers that be *think* is the truth. The truth doesn't factor in. A few years ago, I wrote a deep dive for Contrary Research called [The Openness of AI](https://research.contrary.com/deep-dive/the-openness-of-ai). In it, I dug into a concept that has always stuck with me:
 
@@ -133,7 +133,7 @@ We have a human-made manipulation machine that was already getting pretty effect
 
 ### "I Am Awake," He Dreams
 
-![](images/the-cogsec-chronicles-bc174e6d.png)
+![](/images/the-cogsec-chronicles-bc174e6d.png)
 
 Everyone thinks they're the one who sees through the glass clearly and that its everyone else's perception that is distorted. Each blind man [touching](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant) the elephant is convinced that what he feels is, in fact, reality. Ironically, when Walter White declares that he is awake, it is in that moment that he has fallen asleep to the realities of his actual situation in favor of his narrative of choice: "I'm doing this for my family."
 
@@ -183,7 +183,7 @@ One diagnosed schizophrenic [expressed concern](https://www.reddit.com/r/ChatGPT
 
 ## ChatGPT Psychosis
 
-![Source:Futurism](images/the-cogsec-chronicles-0940e7b3.png)
+![Source:Futurism](/images/the-cogsec-chronicles-0940e7b3.png)
 
 What felt like the most alarming initial example of "ChatGPT Psychosis" came from within my own industry. A VC was having some kind of mental breakdown. And it included a LOT of em dashes. But this just happened to be the first instance I noticed online. Little did I know there were dozens of other cases of people [suffering severe breaks with reality](https://futurism.com/chatgpt-mental-health-crises), or [seeking guidance through terrorism](https://x.com/IndieQuickTake/status/1916576978167095520), often experiencing alarming mental health emergencies that have led to homelessness, [involuntary commitment to psychiatric facilities](https://futurism.com/chatgpt-mental-health-crises), and [even death](https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html). All of these cases seem inextricably tied to an obsessive use of ChatGPT or other AI products.
 
@@ -191,7 +191,7 @@ Again, the elements of sycophancy in these kinds of models are tantamount to exc
 
 Other people aren't convinced. Pirate Wires ran a piece by Blake Dodge this past week saying, pretty plainly, "[ChatGPT-induced psychosis isn't real](https://www.piratewires.com/p/chatgpt-induced-psychosis-isnt-real-sorry)." As Mike Solana puts it, "chatGPT didn't make you crazy. you're just crazy. (sorry)."
 
-![](images/the-cogsec-chronicles-cfb81f85.png)
+![](/images/the-cogsec-chronicles-cfb81f85.png)
 
 The argument of the piece is that these perspectives are more focused on blaming OpenAI than understanding the root of the problem. Simply an exercise in leftist-decel propaganda. The critical takeaway is that these stories of ChatGPT psychosis don't acknowledge the reality that these people are probably [already crazy](https://www.piratewires.com/p/chatgpt-induced-psychosis-isnt-real-sorry), "or at the very least, they have latent craziness."
 
@@ -217,13 +217,13 @@ And the idea of exploitation brings us back full-circle to where accountability 
 
 In the same way that we may seek to blame our programmability on our tools or on the influence of the mob, we also sometimes attempt to lay the blame at the feeet of complexity. Something is too complicated, so I head in the opposite direction. Almost a counter-propaganda. I won't believe the thing because I can't understand it.
 
-![](images/the-cogsec-chronicles-9129af14.gif)
+![](/images/the-cogsec-chronicles-9129af14.gif)
 
 For example, one of the prompts that was [included](https://x.com/GeoffLewisOrg/status/1945865022145528018) in Geoff Lewis' supposed ChatGPT psychosis was: "Return the logged containment entry involving a non-institutional semantic actor whose recursive outputs triggered model-archived feedback protocols." I don't know about you, but I can't get a word of comprehension out of any of that.
 
 Another one that struck me as confusingly psychosis-esque was [from](https://x.com/eshear/status/1929377936915726812) former Twitch (and OpenAI, [however briefly](https://en.wikipedia.org/wiki/Emmett_Shear)) CEO, Emmett Shear:
 
-![](images/the-cogsec-chronicles-3c1c3951.png)
+![](/images/the-cogsec-chronicles-3c1c3951.png)
 
 Granted, this also sounds non-sensical to me. And the word "recursion" has started to feel like a ChatGPT psychosis dogwhistle to me. But there is also the other possibility that happens quite a lot. Maybe I'm just too dumb to understand a complex concept. That could certainly be the case.
 
@@ -249,7 +249,7 @@ If you're scrolling through that quote, you could easily default to "Jesus wants
 
 Never ascribe to simplicity what could potentially be explained by complexity.
 
-![](images/the-cogsec-chronicles-e8b5b42c.gif)
+![](/images/the-cogsec-chronicles-e8b5b42c.gif)
 
 ## Crazy, How?
 
@@ -287,13 +287,13 @@ How do you determine what is worth believing? For this I come back to a fundamen
 
 ## Writing Is Thinking
 
-![Source:Twitter](images/the-cogsec-chronicles-7796de41.png)
+![Source:Twitter](/images/the-cogsec-chronicles-7796de41.png)
 
 So often, when I start a piece like this, where I'm unpacking a massive topic that consists of three or four really big ideas I've seen articulated a dozen different ways, I come in thinking I know what I believe. Thus far, every single time I realize I was mostly mimicking my inputs. I heard what other people said and I liked it, so I used it, regardless of how strongly I actually believed it.
 
 I saw a tweet a while back that said something like "writing will eventually become like riding horses. We'll do it sometimes out of nostalgia but it won't be a fundamental part of life, it will be the outdated thing we used to do." At the time, I had a visceral reaction, knowing that that perspective was fundamentally flawed, though I didn't necessarily have the words to articulate what made me so angry. Now I do.
 
-![Source:Nature](images/the-cogsec-chronicles-1c8beb53.png)
+![Source:Nature](/images/the-cogsec-chronicles-1c8beb53.png)
 
 I came across this essay several times online because people like [Lulu Meservey](https://x.com/lulumeservey/status/1947147411521982939?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1947147411521982939%7Ctwgr%5Eb15b61ee1691f87131fdf5d41875d7f3f49d3f33%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Froamresearch.com%2F%3Fserver-port%3D3333%2Fapp%2Fkwharrison13%2Fpage%2F8BBfUpVVv) and [David Thompson](https://x.com/DKThomp/status/1947107825265565981) shared it. And I'm grateful for that, because it is exactly the fundamental element that writing represents for me. In the grander context of developing cogsec, I also think it is the most important inoculation to programmability. As the piece explains:
 

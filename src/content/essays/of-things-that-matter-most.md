@@ -7,7 +7,7 @@ slug: "of-things-that-matter-most"
 type: "newsletter"
 ---
 
-![Seattle 2016; the first place my wife and I lived away from family](images/of-things-that-matter-most-e44782a5.jpg)
+![Seattle 2016; the first place my wife and I lived away from family](/images/of-things-that-matter-most-e44782a5.jpg)
 
 Across my several ramblings I often talk about this idea that compels me to enjoy investing so much, and why most of writing is a sort of study of investing:
 

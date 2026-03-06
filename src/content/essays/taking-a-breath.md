@@ -7,7 +7,7 @@ slug: "taking-a-breath"
 type: "newsletter"
 ---
 
-![](images/taking-a-breath-e5f001ba.jpg)
+![](/images/taking-a-breath-e5f001ba.jpg)
 
 I’ve written before about how my friend, [Rex Woodbury](https://twitter.com/rex_woodbury), was my inspiration for writing every week. And he and I have both been very consistent, him for longer than I have. But this week, we were talking about how difficult it can be to write weekly. I feel that.
 

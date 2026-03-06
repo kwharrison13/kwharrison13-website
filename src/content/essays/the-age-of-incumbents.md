@@ -7,7 +7,7 @@ slug: "the-age-of-incumbents"
 type: "newsletter"
 ---
 
-![](images/the-age-of-incumbents-e6987ad3.png)
+![](/images/the-age-of-incumbents-e6987ad3.png)
 
 Technology is a versatile little word. It can mean a whole host of things. Some people think technology began with computers, or software, or the internet. Other people think technology didn't really get going until ChatGPT came out.
 
@@ -25,11 +25,11 @@ In [1996](https://en.wikipedia.org/wiki/List_of_public_corporations_by_market_ca
 
 Today, 7 of the top 10 companies by market cap are pure tech companies (not to mention Apple is [44%](https://www.cnbc.com/berkshire-hathaway-portfolio/) of Berkshire Hathaway's portfolio; by far their largest position).
 
-![Source:companiesmarketcap.com](images/the-age-of-incumbents-39805100.png)
+![Source:companiesmarketcap.com](/images/the-age-of-incumbents-39805100.png)
 
 While technology as an asset class has become bigger, and bigger, its become pervasive. Everything runs on [internet time](https://x.com/balajis/status/1496359908563992579?s=20) now. Everything moves much faster. You can look at just how fast the world of interests in particular tech companies turns over. Take this video for example:
 
-![Source:Twitter](images/the-age-of-incumbents-2d5a2c5a.png)
+![Source:Twitter](/images/the-age-of-incumbents-2d5a2c5a.png)
 
 But even with that video, when you get to ~2012 you notice how much the change slows down. The biggest platforms stay the biggest. So what happened?
 
@@ -37,7 +37,7 @@ But even with that video, when you get to ~2012 you notice how much the change s
 
 One aspect of the early internet revolution was that it was just that: a revolution. There were old ways of doing things and now there were new ways of doing things. When you think about the biggest platforms, they were either replacing dinosaurs, or inventing an entirely new thing.
 
-![](images/the-age-of-incumbents-9013efe5.png)
+![](/images/the-age-of-incumbents-9013efe5.png)
 
 You can paint hundreds of similar pictures:
 
@@ -76,7 +76,7 @@ Peter Thiel has written a fair bit about markets and competition:
 
 The reason for that is because big markets attract big eyes with big dollar signs in them. The bigger a market is known to be, the more it floods with people interested in getting a taste of it. For example? Business spend. There is over [$1 trillion](https://www.prnewswire.com/news-releases/ramp-significantly-expands-beyond-corporate-cards-builds-the-first-and-only-platform-where-businesses-can-finance-all-bills-301610436.html) of corporate spend. Big opportunity. And (quite) a few people have noticed.
 
-![Source:Twitter](images/the-age-of-incumbents-ce252519.png)
+![Source:Twitter](/images/the-age-of-incumbents-ce252519.png)
 
 In 2019, you could have thought the space was pretty well wrapped up. You had big incumbents like Concur (1993) and AmEx (1850), and initial entrants like Expensify (2008) and Brex (2017). Do you need another one? But 2019 was the year [Ramp](https://research.contrary.com/reports/ramp) launched. And they've grown to [$300M](https://techcrunch.com/2023/08/22/fintech-startup-ramp-raises-300m-at-a-28-lower-valuation-of-5-8b/)+ of annualized revenue. What's more? There have been some big new entrants into the space, including Stripe, Rippling, and Navan (fka TripActions).
 
@@ -86,7 +86,7 @@ Big markets attract big attention. But big attention often favors incumbents. If
 
 Now this is one you've probably heard a lot before. But the best example of this is Microsoft. The example? Slack vs. Teams.
 
-![Source:Twitter](images/the-age-of-incumbents-6f24f1d5.png)
+![Source:Twitter](/images/the-age-of-incumbents-6f24f1d5.png)
 
 Microsoft has done similar launches, like [Loop](https://www.theverge.com/2023/3/22/23651487/microsoft-loop-public-preview-notion-competitor) vs. Notion, or [Designer](https://medium.com/swlh/goodbye-canva-try-out-microsofts-ai-designer-and-create-designs-that-will-blow-your-mind-f1089d14513c) vs. Canva. Now... is ANYONE using Loop or Designer? I don't know. But I was one of the people in 2019 saying "who da eff is using Microsoft Teams?" **But that's the power of built in distribution. It's just easier to use that vs. a newer detached solution.**
 

@@ -7,7 +7,7 @@ slug: "the-existential-dread-of-cognitive"
 type: "newsletter"
 ---
 
-![](images/the-existential-dread-of-cognitive-2fff1bcb.png)
+![](/images/the-existential-dread-of-cognitive-2fff1bcb.png)
 
 When I was in 10th grade, I had to do a writing assignment. Over the course of the year we were supposed to read two books by the same author, and identify common themes and style choices that say something about the author.
 
@@ -17,7 +17,7 @@ I assumed everyone would blow this off until the last second, which is what I pr
 
 Still constituting a "book," but dramatically shorter. Perfect! The librarian led me to a few books she thought would be just the right fit for me. The books? [Notes From Underground](https://en.wikipedia.org/wiki/Notes_from_Underground), and [The Gambler](https://bit.ly/3rf1Jbe) by [Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky). Both shorter than 200 pages, exactly what I was looking for.
 
-![](images/the-existential-dread-of-cognitive-b8c73bb8.png)
+![](/images/the-existential-dread-of-cognitive-b8c73bb8.png)
 
 I don't remember what I got on the assignment. I actually still have [the paper I wrote](https://docs.google.com/document/d/1JS1O3-wJACt3-VE2Pjk_gMFKd8v__6s6/edit?usp=sharing&ouid=106496738941809884077&rtpof=true&sd=true), and reading it makes me think I probably didn't get a great grade. But that chance encounter with Dostoevsky was my introduction to existentialism, and Russian literature more broadly. I discovered books like Crime and Punishment and Anna Karenina that would become some of my favorite books.
 
@@ -31,7 +31,7 @@ So what got me into such an existential quandary that led me back to the Russian
 
 One topic progressed to another, and we were deep into the weeds on the types of excess and hubris that exist in venture capital and building technology companies more broadly. In my mind, I kept coming back to this tweet from Delian.
 
-![Source:Twitter](images/the-existential-dread-of-cognitive-f40340b7.png)
+![Source:Twitter](/images/the-existential-dread-of-cognitive-f40340b7.png)
 
 The final piece of the puzzle that pushed me into a cognitive tailspin was a text conversation I had with one of my VC friends a few weeks ago after [IRL shut down](https://investing1012dot0.substack.com/p/the-scramble-landscape). My friend and I had talked before about the excess of companies that have gotten built and ultimately destroyed wealth, often while still leaving the bad actors enriched.
 

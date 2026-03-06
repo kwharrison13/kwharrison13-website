@@ -7,7 +7,7 @@ slug: "i-wish-i-knew-how-to-quit-roam-research"
 type: "newsletter"
 ---
 
-![](images/i-wish-i-knew-how-to-quit-roam-research-2252e021.png)
+![](/images/i-wish-i-knew-how-to-quit-roam-research-2252e021.png)
 
 ---
 
@@ -81,7 +81,7 @@ That's the power of the Global Knowledge Graph. **Interconnecting the conceptual
 
 So, despite my attempts to try Notion, Obsidian, Reflect, Mem, and even vibe-coding an alternative…
 
-![](images/i-wish-i-knew-how-to-quit-roam-research-09dae9c3.png)
+![](/images/i-wish-i-knew-how-to-quit-roam-research-09dae9c3.png)
 
 Like the golden idols of Ba'al, all pale in comparison to the true and living exceptional vision that Roam Research represents.
 

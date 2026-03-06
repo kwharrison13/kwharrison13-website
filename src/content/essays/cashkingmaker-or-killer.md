@@ -7,7 +7,7 @@ slug: "cashkingmaker-or-killer"
 type: "newsletter"
 ---
 
-![](images/cashkingmaker-or-killer-070255dc.png)
+![](/images/cashkingmaker-or-killer-070255dc.png)
 
 *Bonus second article this week. Originally published as a [guest post on Napkin Math](https://every.to/napkin-math/cash-kingmaker-or-killer), I also wanted to share it with all my loyal subscribers 😉*
 
@@ -49,11 +49,11 @@ For financial nerds there is a lot to love when looking at a company's P&L. But 
 
 Bessemer has done a great job explaining the concept of [cash conversion for cloud software companies.](https://www.bvp.com/atlas/cash-conversion-score/) Their straightforward calculation is a proxy for ARR created for every dollar of cash burned.
 
-![](images/cashkingmaker-or-killer-91fd0927.png)
+![](/images/cashkingmaker-or-killer-91fd0927.png)
 
 If a company raised $100M and they have $50M left that means they've burned $50M (give or take, depending on profitability). If they have $25M ARR their cash conversion score is 0.5. But if they have $100M of ARR then their score is 2. **The higher the score? The more effective they are at taking cash and converting it into ARR.**
 
-![](images/cashkingmaker-or-killer-c8f289a1.png)
+![](/images/cashkingmaker-or-killer-c8f289a1.png)
 
 Bessemer's research into various company's cash conversion scores points to a pretty clear correlation between effective cash conversion and investment returns. They summarized their key point this way:
 
@@ -71,7 +71,7 @@ The evolution of the "cash as a weapon" argument has historically played out whe
 
 ### **Ride-Sharing**
 
-![](images/cashkingmaker-or-killer-9434acf1.png)
+![](/images/cashkingmaker-or-killer-9434acf1.png)
 
 For a lot of people, ride-sharing was one of the original "Cash War" battlegrounds. There were a lot of competitors and the ones that stuck around were the ones that could fundraise most effectively. Uber and Lyft raced to raise more money, to spend more on marketing, to open new markets, and to attract more drivers. Uber focused much more on breadth pushing to cover more international markets more quickly. Cash became what a lot of people saw as a differentiating factor. Back in 2017 SoftBank even used this as a negotiation tactic, effectively telling Uber "[either you take our money, or we'll go give it to Lyft.](https://techcrunch.com/2017/08/07/softbank-lyft-uber/)"
 
@@ -89,11 +89,11 @@ In software there are two interesting trends that have made it possible to build
 
 They can afford to spend $150K to acquire a customer even if they initially only pay $50K. Why? Snowflake is an incredibly sticky product because it sits at the infrastructure level so people will very rarely rip it out. That plus their usage-based pricing model produces [net retention at 178%](https://investors.snowflake.com/news/news-details/2022/Snowflake-Reports-Financial-Results-for-the-Fourth-Quarter-and-Full-Year-of-Fiscal-2022/default.aspx) so Snowflake is seeing massive expansion in their customers. That's why Snowflake can afford to spend. **They can spend $150K to acquire a customer because within 2 years that customer will typically be 3x in size.**
 
-![](images/cashkingmaker-or-killer-a0d4011b.png)
+![](/images/cashkingmaker-or-killer-a0d4011b.png)
 
 But the lesson here isn't "software is great, go ahead and light money on fire." Snowflake is a unique case with some pretty critical characteristics. The fact that most businesses don't have these characteristics is a big reason why every software company can't and shouldn't trade [at a Snowlake-esque multiple](https://cloudedjudgement.substack.com/p/clouded-judgement-4122?s=r).
 
-![](images/cashkingmaker-or-killer-23771c8b.png)
+![](/images/cashkingmaker-or-killer-23771c8b.png)
 
 There are plenty of categories in software that don't enjoy the same advantages. And that's where "cash as a weapon" might get people into trouble.
 
@@ -103,7 +103,7 @@ There is no category where product-led growth has thrived more effectively than 
 
 **The problem with this idea of ubiquity and grassroots awareness acting as a moat is that it doesn't play out in productivity software. There is very rarely an intense stickiness for application software.** When you look at something like Atlassian, they're serving primarily developers who are much more homogenous. They work in very similar ways with very similar tools. Knowledge workers? All over the spectrum. The only reason Microsoft has penetrated knowledge workers so heavily is because they have Windows as an automatic distribution engine. And we've seen that distribution engine play out against an incumbent productivity tool: Teams vs. Slack.
 
-![](images/cashkingmaker-or-killer-07df7ba1.png)
+![](/images/cashkingmaker-or-killer-07df7ba1.png)
 
 Productivity tools will raise a bunch of money, spend dramatically to increase their awareness and even though they have strong bottom-up momentum it's very similar to Uber or Doordash. Is there market awareness of their product? Sure. More and more. Is it a sustainable moat? As soon as they stop spending on marketing, the next tool will push for more awareness and eat away at their advantage. [They're just not inherently sticky](https://twitter.com/buccocapital/status/1496530815433461768?s=20&t=V3staJAcDwvXKZoilz6bZQ), unlike Snowflake. It's fairly unlikely that anyone is using Notion as their core enterprise "system of record" in a way that would make them *never* rip it out.
 
@@ -115,7 +115,7 @@ Quick counter-argument to differentiation at the application layer? Workday. The
 
 ## **So... What's in a Moat?**
 
-![](images/cashkingmaker-or-killer-175e5f3a.png)
+![](/images/cashkingmaker-or-killer-175e5f3a.png)
 
 Building a defensible moat is one of the hardest things to do in building a business. You should do yourselves [as many favors as possible](https://investing1012dot0.substack.com/p/two-markets?s=w) in finding components of your product or market that lend themselves to establishing natural moats. Cash can help you build any number of those, but it's important to understand when burning to build a moat is the right call.
 
@@ -135,4 +135,4 @@ There are also 4 reasons to be cautious of leveraging cash to build a moat that 
 
 There will always be the “move fast and break things” people who want to raise $100M every 6 months lighting money on fire as they go. And there will always be the bootstrapped worriers who look at VCs as parasites who ruin businesses. Neither of them will always be right or wrong. Cash, like any strategic asset, is a double-edged sword. It can be used effectively (even in large quantities) or it can impale you. The difference is whether you're decisive enough to dictate how you use it.
 
-![](images/cashkingmaker-or-killer-afc541bb.png)
+![](/images/cashkingmaker-or-killer-afc541bb.png)

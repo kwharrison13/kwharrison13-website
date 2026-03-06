@@ -7,7 +7,7 @@ slug: "the-incompetent-confidence-complex"
 type: "newsletter"
 ---
 
-![](images/the-incompetent-confidence-complex-75acbcfc.png)
+![](/images/the-incompetent-confidence-complex-75acbcfc.png)
 
 ---
 
@@ -27,7 +27,7 @@ Nothing has proven that more true than the dramatic partisanship we see in Ameri
 
 The political side selection has frequently reminded me of this meme. **Your reaction to reality depends on what story** ***you*** **think you’re watching.**
 
-![Source:Reddit](images/the-incompetent-confidence-complex-7c68c085.png)
+![Source:Reddit](/images/the-incompetent-confidence-complex-7c68c085.png)
 
 And, unfortunately, the realities that we’re willing to accept can be exquisitely horrifying. I’m reminded of [a line](https://www.youtube.com/watch?v=ylwMWpbv5Fk) from Heath Ledger’s Joker: “Nobody panics when things go ‘according to plan.’ Even if the plan is horrifying.”
 
@@ -67,7 +67,7 @@ Stories where you take great pride in watching the main characters demonstrate r
 
 There is a scene in The West Wing that revolves around a very random sub-plot about mad cow disease. The President’s Chief of Staff is being informed there could be an outbreak; he asks what the worst case scenario could be and its a national emergency. Rather than jump to partisanship, or protecting the President’s reputation, or trying to blame his political enemies, he has an incredibly important first reaction:
 
-![Source:The West Wing](images/the-incompetent-confidence-complex-1b6a4229.png)
+![Source:The West Wing](/images/the-incompetent-confidence-complex-1b6a4229.png)
 
 In [a great biography of Mitt Romney](https://www.amazon.com/Romney-Reckoning-McKay-Coppins/dp/1982196203), you see a similar dynamic playing out in real life. Despite having been a governor and running for President twice, Mitt Romney only entered federal politics at the tender young age of [72](https://en.wikipedia.org/wiki/Mitt_Romney). As a “freshmen” senator, Romney’s biographer writes, the first time he tackled a new piece of legislation he went to work “studying the bill with all the idealistic naivete of a freshman political science student.” When working on the issue of lead pipe removal, “Romney jumped in enthusiastically, **teaching himself everything he could about the subject, consulting experts on best practices**, and then presenting his detailed findings to [his colleagues].”
 
@@ -75,7 +75,7 @@ I think the same is true in every field. Competence is a function of iteration. 
 
 The Dunning-Kruger effect is the journey through that iterative pursuit of competence.
 
-![Source:Understanding Innovation](images/the-incompetent-confidence-complex-a86816af.png)
+![Source:Understanding Innovation](/images/the-incompetent-confidence-complex-a86816af.png)
 
 In the beginning as you learn about any particular subject, you start to think you really know something. Until you peak Mt. Stupid, and then start to careen into the valley of despair. Over time, your wisdom actually does grow into an eventually sustainable level of competence to go along with some modicum of confidence.
 

@@ -7,21 +7,21 @@ slug: "historical-futurism"
 type: "newsletter"
 ---
 
-![](images/historical-futurism-e28752a0.png)
+![](/images/historical-futurism-e28752a0.png)
 
 ---
 
 When I worked at TCV, our office used to be in downtown Palo Alto at the corner of Emerson and University. Every day, we would go to lunch at the Palo Alto Creamery, or the Sweetgreen on Ramona (or Nobu if Howie got his way). Regardless of which option we chose, we always ended up walking past the corner of Emerson and Hamilton.
 
-![](images/historical-futurism-dc8593ac.png)
+![](/images/historical-futurism-dc8593ac.png)
 
 Across the street from the Creamery, I would walk past the windows of [The Institute For The Future](https://www.iftf.org/). I would see displays showing off trinkets of the past: Walkman, Gameboys, and other 80s and 90s paraphernalia. I had no idea what the organization did, but I was always fascinated seeing gear like this:
 
-![](images/historical-futurism-92afeaa2.png)
+![](/images/historical-futurism-92afeaa2.png)
 
 One day, I got curious enough that I went inside to learn more about what they did. I don't know what I expected (time machine manufacturing, maybe?) But turned out the business was pretty normal. Advisory services, partnerships, and a pretty cool [10-year forecast](https://www.iftf.org/ten-year-forecast/) that they've been doing for 50 years! I still have the flyer they gave me when I walked in.
 
-![](images/historical-futurism-3b7ea515.png)
+![](/images/historical-futurism-3b7ea515.png)
 
 Turns out, the IFTF was a spin-off from the RAND Corporation setup in 1968 to help organizations with "[future studies](https://en.wikipedia.org/wiki/Futures_studies)." In the original mission statement of the organization, they laid out three key focuses:
 
@@ -47,7 +47,7 @@ In a [Quora AMA](https://quorasessionwithmattcohler.quora.com/You-were-quoted-i
 
 So first? We see the present clearly. Then? We see around corners. But as important as it is to turn the next corner, that's something ants can do too. **If you want to make meaningful changes to how the future plays out, you need to be able to zoom out.**
 
-![](images/historical-futurism-f197ee6d.gif)
+![](/images/historical-futurism-f197ee6d.gif)
 
 So today I want to unpack the art and science of futurism, the literature of dreaming, and try and make sense of how best to apply those principles to investing, company building, and generally trying to make the world a better place.
 
@@ -59,17 +59,17 @@ If you've read my writing long enough, you know that I love [storytelling](https
 
 Writers like [Paleofuture](https://paleofuture.com/) and [Investor Amnesia](https://investoramnesia.com/) are doing God's work using history to unpack lessons from [risk-reward environments in 1761 France](https://investoramnesia.com/2018/12/07/the-tranches-of-history/), and [glass banks in 1931](https://paleofuture.com/blog/2023/7/27/glass-banks-were-the-future-imagined-in-1931). A lot of people thought COVID would forever alter all the things it impacted.
 
-![Source:Twitter](images/historical-futurism-4589f106.png)
+![Source:Twitter](/images/historical-futurism-4589f106.png)
 
 But when you look at [the lessons from previous epidemics](https://investoramnesia.com/2020/05/16/pandemics-markets-part-ii/) you see how much things can simply revert back to normal.
 
 If a lot of history is about appreciating the force of gravity that forces things to stay the same, there is plenty of optimism that people feel about the future and how things may *not* stay the same. You look at predictions from the late 1800s and they saw [an exciting future](https://twitter.com/DigiVictorian/status/1539715206020042754?s=20). We have [artists renditions predicting](https://news.artnet.com/art-world/french-artist-predicted-the-year-2000-2008650) the year 2000 from the year 1900.
 
-![](images/historical-futurism-59579c91.png)
+![](/images/historical-futurism-59579c91.png)
 
 Another example, Arthur C. Clarke's timeline of predictions for the 21st century that he wrote in the 1960s. He optimistically laid out a rapid evolution from the lunar landing to colonizing planets by the year 2000. He thought fusion power would come in the 80s or 90s.
 
-![Source:Twitter](images/historical-futurism-440d3199.png)
+![Source:Twitter](/images/historical-futurism-440d3199.png)
 
 Two immediate reactions to some of those ideas. The first is it can be easy to extrapolate progress. Americans were watching [Sputnik](https://en.wikipedia.org/wiki/Sputnik_1) rush through space in 1957, so the race was on. The Wright Brothers had flown [just 54 years before](https://worldstrides.com/blog/2018/12/hey-smithsonian-why-did-astronauts-take-part-of-the-wright-flyer-airplane-to-the-moon/#:~:text=When%20you%20think%20about%20it,years%20%E2%80%93%20less%20than%20a%20lifetime!) and already we were getting ready to put people into space. So was it that unreasonable to believe we'd be able to get to other planets in ~40 more years? Maybe not. Limitations, like the energy required for space travel when you have to take fuel with you, wouldn't have been as easy to factor in.
 
@@ -79,7 +79,7 @@ In fact, there was a lot of changing forces to the powers of optimism that happe
 
 > *“You’ve just had a big weekend in Las Vegas… you contemplate the drive back to Los Angeles. **Then you remember: This is the year 2050, and you don’t have to drive back LA. Instead, you can take Amtrak’s 300-mph bullet train… you’ll be home in an hour**.”*
 
-![](images/historical-futurism-c9a90a20.png)
+![](/images/historical-futurism-c9a90a20.png)
 
 But [looking back](https://twitter.com/stan_okl/status/1668098178145718272?s=20) on that vision, you might feel more bummed than excited because you're more likely to see 20 years of committee squabbling just to build one more parking garage or [shade structure](https://twitter.com/Austen/status/1660177103185391617?s=20), rather than achieve high-speed rail. You have predictions like [The Long Boom in Wired, July 1997](https://twitter.com/GreatDismal/status/1532944750155681792?s=20). That piece predicted a new Cold War between China and the US, Russia devolving into a kleptocracy, a new pandemic, crime and terrorism leading to de-globalization, and on and on. Shockingly spot on.
 
@@ -117,7 +117,7 @@ David Perell [talks about that](https://perell.com/essay/why-cant-school-be-fun/
 
 We've got an educational system trapped in the past most well-suited to produce factory workers, a political system that is more intent on ripping people apart than building anything, and a sliver of excitement in AI that has shadows of doomerism on either side. **We need a new paradigm of inspiration: open source imagination.**
 
-![Source:Twitter](images/historical-futurism-d45635a2.png)
+![Source:Twitter](/images/historical-futurism-d45635a2.png)
 
 I love this idea of open source knowledge, and [I've written about it before](https://investing1012dot0.substack.com/p/open-source-knowledge). People are inspired by different ideas, so we need to be more deliberate about which ideas we build into our ecosystem. What imagination repos are we most dependent on? And this might sound like an obvious idea, but I actually think its relatively new in the course of human history.
 
@@ -139,11 +139,11 @@ He also makes a similar point that I've made where there are very few science fi
 
 People are already starting to push back on the common narrative of dystopia and seek to revitalize the potential for inspirational views of technological progress. We need more of this energy:
 
-![Source:Twitter](images/historical-futurism-882131d2.png)
+![Source:Twitter](/images/historical-futurism-882131d2.png)
 
 [The Martian](https://bit.ly/3O6aaxa) might be one of the few movies recently that, while it has drama, takes an optimistic view on science, technology, and the indomitable human spirit generally! And, in the spirit of open source, [the book that movie is based on](https://bit.ly/3KjHW0P) was actually written in part by an online community helping the author, [Andy Weir](https://en.wikipedia.org/wiki/Andy_Weir), to work out some of the technical details in the most accurate way possible.
 
-![The futurism hero we needed.](images/historical-futurism-bac9c068.png)
+![The futurism hero we needed.](/images/historical-futurism-bac9c068.png)
 
 So find the foundational futures that you’re most excited to see! As we seek to build on the foundations that [Gene Roddenberry](https://en.wikipedia.org/wiki/Gene_Roddenberry), [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov), [Iain M. Banks](https://en.wikipedia.org/wiki/Iain_Banks), and [Andy Weir](https://en.wikipedia.org/wiki/Andy_Weir) have laid, we can immerse ourselves in an even broader library of futurism literature. And remember the point I made earlier; even from the more dystopian nightmares, we can take inspiration from the good, and learn from the cautionary tales of the bad.
 
@@ -153,17 +153,17 @@ While there may be a shortage of optimistic dreaming in the general popular cult
 
 ## Daniel Ek's Reading List
 
-![Source:Twitter](images/historical-futurism-cfd6fd99.png)
+![Source:Twitter](/images/historical-futurism-cfd6fd99.png)
 
 ## Ben Reinhardt's Thread on "Where's My Flying Car"
 
-![Source:Twitter](images/historical-futurism-b4bb7485.png)
+![Source:Twitter](/images/historical-futurism-b4bb7485.png)
 
-![Source:Future(s) Studies Subreddit; thanks to Sahil Bloom forexposing me to it](images/historical-futurism-d8424988.png)
+![Source:Future(s) Studies Subreddit; thanks to Sahil Bloom forexposing me to it](/images/historical-futurism-d8424988.png)
 
 ## EigenGender's Reading List
 
-![Source:Twitter](images/historical-futurism-d88e172e.png)
+![Source:Twitter](/images/historical-futurism-d88e172e.png)
 
 There is just such a wealth out there of side-pocket ideas concocted by people desperate to dream of a different future. They're not dulling their imaginations with Murder docudramas, endless political culture wars, and celebrity gossip. There are people out there that have more fun trying to make up realistic renditions of how the world can actually get better.
 
@@ -193,7 +193,7 @@ You should read his comparison! But in general, I think [to every thing there is
 
 That is the kind of dreaming framework we want more people to be capable of. But to create that world, it is a matter of taking the foundational futures and the literature of dreaming, and allowing that to inspire a generation of dreamers.
 
-![Source:Twitter](images/historical-futurism-80492af7.png)
+![Source:Twitter](/images/historical-futurism-80492af7.png)
 
 # Visual Storytelling: The Artists Rendition
 
@@ -201,7 +201,7 @@ That is the kind of dreaming framework we want more people to be capable of. But
 
 Few images have inspired me more than drawings of the original EPCOT design. That was a dreamer (Walt Disney) inspired by technology (World's Fair) who set out to build, and an artist ([Walt Peregoy](https://en.wikipedia.org/wiki/Walter_Peregoy)) captured that dream in a way that would go on to inspire a generation of young people just at the possibility of such a place.
 
-![Source:Archdaily](images/historical-futurism-837a8da4.png)
+![Source:Archdaily](/images/historical-futurism-837a8da4.png)
 
 Years ago, I saw a display where something like the World Economic Forum or some such organization had a big futurism conference where scientists, architects, technologists, and more came and discussed the future. Meanwhile, they had artists attending sessions and drawing images of the future they heard described.
 
@@ -211,13 +211,13 @@ Those kinds of artistic displays are a powerful part of feeding the imagination 
 
 Though they've been met with some controversy based on their choice of sponsors, leading some digital artists, like [Q1R0Z](https://twitter.com/Q1R0Z), to release their futuristic renditions online for free.
 
-![Source:Twitter](images/historical-futurism-ae73ef07.png)
+![Source:Twitter](/images/historical-futurism-ae73ef07.png)
 
 # The Feedback Loop of Futurism
 
 **We need a new recipe for inspiring dreamers, whether they dream in fact or fiction.** And no matter how hard you try, I don't think its going to come from improved math textbooks. That inspiration can only come from wonder.
 
-![](images/historical-futurism-bc1a9cf9.png)
+![](/images/historical-futurism-bc1a9cf9.png)
 
 But dreaming is the preface to action. The cycle I've described up until now is a sort of practice; practicing the art of imagination:
 
@@ -227,7 +227,7 @@ But what happens when you actually start to play the game? In my mind, the act o
 
 # To Err Is Human, But To Dream Is Divine
 
-![Source:Twitter](images/historical-futurism-571f32a5.png)
+![Source:Twitter](/images/historical-futurism-571f32a5.png)
 
 I remember years ago I got to attend a talk by [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil), a computer scientist, author, inventor, and futurist who works for Google. It was, quite possibly, the most powerful talk I have ever attended. Not because of anything he said, but because of the willingness with which he bandied about the potential realities the future could bring. **He was so fluent in what had gone before, and what could come from now on.**
 
@@ -237,7 +237,7 @@ Packy McCormick has another great piece called "[The Enchanted Notebook](https:/
 
 That act of making predictions forces you to conceptualize something, and open it up for argument. How do you make that thing a reality? There is some [really interesting writing](https://feld.com/archives/2012/06/how-to-predict-the-future/) about how to predict the future. But there are also a lot of criticism for people who put themselves out there to make predictions (such as the massive meme account doing the opposite of whatever Jim Cramer tells you to do.)
 
-![Source:Twitter](images/historical-futurism-c32a575b.png)
+![Source:Twitter](/images/historical-futurism-c32a575b.png)
 
 To some extent, that criticism is a function of how much you double down or aggressively preach your predictions, especially if you're making money off of people believing you ([ARK Invest has plenty of experience](https://investing1012dot0.substack.com/p/the-gospel-of-ark-invest) with that type of criticism.)
 

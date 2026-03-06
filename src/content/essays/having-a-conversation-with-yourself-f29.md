@@ -7,7 +7,7 @@ slug: "having-a-conversation-with-yourself-f29"
 type: "newsletter"
 ---
 
-![](images/having-a-conversation-with-yourself-f29-587fb0bf.png)
+![](/images/having-a-conversation-with-yourself-f29-587fb0bf.png)
 
 A few weeks ago I had coffee with a friend who happens to read my writing. He asked me what the most surprising result was after having written consistently every week for almost two years. This week (the last week of 2023) marks two straight years of not missing a single week. In terms of some surprises along the way, a few things came to mind, but one really stood out.
 

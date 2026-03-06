@@ -7,7 +7,7 @@ slug: "building-mighty-small-businesses"
 type: "newsletter"
 ---
 
-![](images/building-mighty-small-businesses-c9f639d1.png)
+![](/images/building-mighty-small-businesses-c9f639d1.png)
 
 # What Is The American Dream?
 
@@ -28,11 +28,11 @@ Freedom, first and foremost, to live how you want. That was, and still should be
 
 Immigrants and natural-born US citizens alike took to self-employment as a key component of their self-actualization. In the early 1900s, a key way people made their living was owning their own business (think farms, general stores, repairs). But since the 1950s, the percentage of people who are self-employed has decreased from [18.5%](https://www.bls.gov/opub/mlr/2004/07/art2full.pdf?utm_source=chatgpt.com) to [~6.3%](https://tradingeconomics.com/united-states/self-employed-total-percent-of-total-employed-wb-data.html) in 2022.
 
-![Source:Bureau of Labor Statistics](images/building-mighty-small-businesses-8ca62ded.png)
+![Source:Bureau of Labor Statistics](/images/building-mighty-small-businesses-8ca62ded.png)
 
 While the number of people who are self-employed has been trending down, you also had a sort of downward-to-stable trend of new firms being created, at least until Covid.
 
-![](images/building-mighty-small-businesses-23020d15.png)
+![](/images/building-mighty-small-businesses-23020d15.png)
 
 Source: [FRED](https://fred.stlouisfed.org/series/BABATOTALSAUS#)
 
@@ -60,7 +60,7 @@ Now, when you're a VC with a portfolio. That's fine. It used to be 3 in 10 would
 
 This image is insane:
 
-![](images/building-mighty-small-businesses-1c36450a.png)
+![](/images/building-mighty-small-businesses-1c36450a.png)
 
 I once [tweeted](https://x.com/kwharrison13/status/1848397584530014356) this image and said "We should build a monument of this image as a memory to an age of hubris and excess." And I meant it. But not as a way to throw shade at the founders of these companies, but shade at the investors who set this system up.
 

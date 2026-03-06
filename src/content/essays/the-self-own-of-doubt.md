@@ -7,7 +7,7 @@ slug: "the-self-own-of-doubt"
 type: "newsletter"
 ---
 
-![](images/the-self-own-of-doubt-691d1cd5.png)
+![](/images/the-self-own-of-doubt-691d1cd5.png)
 
 ---
 
@@ -21,7 +21,7 @@ None of us will know everything. *Assuming* we know everything is a rampant dise
 
 # “I Have Such Doubts”
 
-![Source:YouTube](images/the-self-own-of-doubt-e4c2f9e7.png)
+![Source:YouTube](/images/the-self-own-of-doubt-e4c2f9e7.png)
 
 I was recently in the blueberry within a bowl of tomato soup that is Austin, Texas. While there for a company offsite, we did a big group gameshow at the [Gameshow Battle Room](https://maps.app.goo.gl/qjqtnv2WnYrS3D1T7). If you’re ever in Austin with a big group, I highly recommend it.
 
@@ -45,7 +45,7 @@ Doubt is a lake of fire that, despite its fury, *can* be contained and controlle
 
 # A Self-Own
 
-![Source:Twitter](images/the-self-own-of-doubt-efa18123.png)
+![Source:Twitter](/images/the-self-own-of-doubt-efa18123.png)
 
 Jack shared a perspective on the mega-viral X Article about AI. The article was (1) a Rorschach test, hated by AI bears and loved by AI bulls, (2) not very well written, and (3) written by a [known AI huckster](https://venturebeat.com/ai/reflection-70b-model-maker-breaks-silence-amid-fraud-accusations). But Jack’s takeaway was insightful; just do stuff. Just try. Take a piece like this that has no business being as widely distributed as it was. It’s a perfect example of not letting doubt dictate your life. Because you never know what will succeed!
 
@@ -77,7 +77,7 @@ You can be in control of your own doubts. The only doubt you should find accepta
 
 Doubt from without is fine. Why? Because it’s not your task. One of the most important books I’ve ever read was [The Courage To Be Disliked](https://www.amazon.com/Courage-Be-Disliked-Phenomenon-Happiness/dp/1501197274). In it, the summary takeaway could be that all of your problems are interpersonal problems. And interpersonal problems come from failing to separate tasks.
 
-![](images/the-self-own-of-doubt-954e3ca3.png)
+![](/images/the-self-own-of-doubt-954e3ca3.png)
 
 When considering the doubt from without, we believe that the people doubting you hold the power; it’s their doubt! As the book describes:
 
@@ -93,7 +93,7 @@ You are in control.
 
 # Doubt Your Doubts
 
-![](images/the-self-own-of-doubt-120c80db.jpg)
+![](/images/the-self-own-of-doubt-120c80db.jpg)
 
 I’ll end with a phrase from a man who I believe is a prophet, seer, and revelator alive today, akin to Moses: Dieter F. Uchtdorf. This esteemed former pilot planted a confidence seed in my soul 13 years ago when [he said](https://www.youtube.com/watch?v=APwBCEjvSJQ):
 

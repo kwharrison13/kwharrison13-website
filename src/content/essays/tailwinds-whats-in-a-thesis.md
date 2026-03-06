@@ -7,7 +7,7 @@ slug: "tailwinds-whats-in-a-thesis"
 type: "newsletter"
 ---
 
-![](images/tailwinds-whats-in-a-thesis-29916718.png)
+![](/images/tailwinds-whats-in-a-thesis-29916718.png)
 
 Time for an entertaining and only slightly relevant anecdote. In 1964 the film Mary Poppins was wildly successful. After watching it as a kid it [stuck this phrase](https://www.youtube.com/watch?v=SSfGBskfthg) in my brain:
 
@@ -64,25 +64,25 @@ There are people in my life that I rely on as "nodes" in my decentralized brain.
 
 ### Rex Woodbury: Culture & Web3
 
-![](images/tailwinds-whats-in-a-thesis-08121d15.png)
+![](/images/tailwinds-whats-in-a-thesis-08121d15.png)
 
 Rex is not only one of my very good friends but he's filled a massive gap in my own knowledge base. I've always joked that I'm not a very good consumer investor because I'm not a very good consumer. I'm never early on any trends of fashion or online activity. Rex's writing in [Digital Native](https://digitalnative.substack.com/) have become my node for understanding some of the cultural things I'm experiencing but don’t yet fully appreciate.
 
 ### The OpenView Crew: Product-Led Growth
 
-![](images/tailwinds-whats-in-a-thesis-bb46cc80.png)
+![](/images/tailwinds-whats-in-a-thesis-bb46cc80.png)
 
 Blake Bartlett has been [leading the charge](https://openviewpartners.com/blog/inventing-product-led-growth/) building awesome content around product-led growth for years. I remember reading their ["State of Product Led Growth"](https://openviewpartners.com/blog/the-state-of-product-led-growth/) posts back in 2019 and realizing they effectively coined the term! Following Blake and his colleagues like [Kyle Poyar](https://kylepoyar.substack.com/) have helped me take PLG beyond an understanding of the trend and deeper into some of the science.
 
 ### The Boldstart Crew: DevOps & Infrastructure
 
-![](images/tailwinds-whats-in-a-thesis-195e7e0a.png)
+![](/images/tailwinds-whats-in-a-thesis-195e7e0a.png)
 
 DevOps and data infrastructure is a space I've had the chance to invest in a lot and very few folks command the respect for their perspective that I have for the Boldstart team. Especially what I've had the chance to learn from [Ed Sim](https://whatshot.substack.com/) and [Shomik Ghosh](https://shomik.substack.com/). Their perspectives have been huge to deepen my understanding.
 
 ### Muji @ Hhhypergrowth: Technologist on Technology
 
-![](images/tailwinds-whats-in-a-thesis-1237875e.png)
+![](/images/tailwinds-whats-in-a-thesis-1237875e.png)
 
 Muji is unique in that he has been a technologist getting into the weeds but now he's stepped back to raise the bar for technical understanding of the most interesting products come out of technology companies.
 

@@ -7,7 +7,7 @@ slug: "thinning-the-herd"
 type: "newsletter"
 ---
 
-![](images/thinning-the-herd-bfa180bc.png)
+![](/images/thinning-the-herd-bfa180bc.png)
 
 I'm not very good at planning and setting goals. But I have an incredible imagination😉. Which often leaves me subject to disappointment. A few days ago, I was tossing and turning in bed, feeling overwhelmed by all the categories of things I didn't feel I was doing well enough at. But in my mind, a plan started to weave. I had this vision of what I would do, how I would lay out my goals, actions, outcomes, and finally get on top of my seemingly overwhelming to do list.
 
@@ -48,17 +48,17 @@ Lets say you're a Series C company at $15M in revenue at the end of 2022, growin
 
 Then let's say over the next 5 years you see your growth slow from 100% to ~60% (pretty normal) and in 2027 you look at an IPO. If you could trade at 10x NTM revenue, you could be a $4B+ company, expecting $400M+ of revenue, growing 50%. If your Series C was $1B it could be a solid return for your investors.
 
-![](images/thinning-the-herd-15505428.png)
+![](/images/thinning-the-herd-15505428.png)
 
 But here's the thing. Only a small handful of the top 10 companies by valuation multiple are trading at 10x or more. On average? Companies are [trading at 5x](https://cloudedjudgement.substack.com/p/clouded-judgement-11323) NTM revenue.
 
-![](images/thinning-the-herd-a06f6475.png)
+![](/images/thinning-the-herd-a06f6475.png)
 
 Granted, the macroeconomic market is unpredictable and who knows what the future will look like. But banking on a better market in the future is what go us into this mess. As Bill Gurley [points out](https://twitter.com/bgurley/status/1520111745091706880?s=20), anything above 10x is just unreasonable.
 
 Okay, so now you're expecting $400M+ of revenue, growing 50%, and trading at 5x NTM revenue. Now, you're worth $2B, up from $1B. Not much of a return even after adding hundreds of millions in revenue.
 
-![](images/thinning-the-herd-f1f1cf3b.png)
+![](/images/thinning-the-herd-f1f1cf3b.png)
 
 And this is far from an intellectual exercise. A number of companies have had this same experience seeing their valuation flatline even after significant execution and growth. **The public markets are a perfect example of a goal post that keeps moving.** As your growth slows, or your margins don't improve, or customer sentiment turns against you you'll find a very different environment and appetite for stock in your company than you might have expected.
 
@@ -68,7 +68,7 @@ Those expectations are shaping investors view of what valuation makes sense. The
 
 Think of it this way. **Valuation and traction are like your left and your right leg.** How far you step out with your right leg is your valuation. If you only take a small step forward on your left leg (traction), then it becomes that much harder for your right leg the next time you take a step. The same is true of raising a round. Investors will be expecting you to take full steps in order to justify another full step on the valuation leg.
 
-![](images/thinning-the-herd-6a5c4f58.png)
+![](/images/thinning-the-herd-6a5c4f58.png)
 
 Without recalibrating your understanding of those expectations, you're likely to find yourself flat-footed. And if you can't adjust quickly enough, you’ll be cut off from capital you might need to stay alive.
 
@@ -78,7 +78,7 @@ In conversations I've had with founders, there is a meaningful psychological ave
 
 Down rounds are the uncomfortable equivalent of public market price corrections. One reason raising a down round can feel so much more psychologically painful is you have to WORK for them. In the public markets, stock price just sinks regardless of what you do, for better or worse.
 
-![](images/thinning-the-herd-06b34527.png)
+![](/images/thinning-the-herd-06b34527.png)
 
 For most high growth tech companies, debt is a pretty limited option, especially when you're burning ~$5M a month like many of these companies are. Even convertible notes can be a pretty expensive source of capital. Sometimes you'll have to bite the bullet and be willing to take a significant down round if traction isn't keeping up.
 
@@ -108,7 +108,7 @@ They'll do the simple runway math: "I have $150M, I'm burning $5M / month, so I 
 
 It's the end of 2024. You're at $50M+ revenue, growing 90%. But you're burning $5M a month ($60M a year!) If you try to raise a $100M Series D, that only gives you another ~1.5 years of runway. **If the VC market hasn't changed from 2023, you might not raise.**
 
-![](images/thinning-the-herd-773eb6bc.png)
+![](/images/thinning-the-herd-773eb6bc.png)
 
 The other thing that people aren't being as cautious with is **the impact this environment is going to have on financial performance.** A lot of companies have seen exceptional growth over the last few years, often seeing 10x revenue growth in the early days with seemingly little difficulty.
 

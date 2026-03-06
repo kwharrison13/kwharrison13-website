@@ -7,7 +7,7 @@ slug: "building-an-actual-unicorn"
 type: "newsletter"
 ---
 
-![](images/building-an-actual-unicorn-351ec880.png)
+![](/images/building-an-actual-unicorn-351ec880.png)
 
 ---
 
@@ -19,17 +19,17 @@ If you don't know who Matthew is, he's absolutely worth a follow. He's worked in
 
 So what's the mind-consuming tweet in question?
 
-![Source:Twitter](images/building-an-actual-unicorn-21c2cc81.png)
+![Source:Twitter](/images/building-an-actual-unicorn-21c2cc81.png)
 
 The replies are fascinating. Not only because people often just whip stuff out on Twitter without thinking about it, but also because of the broad and diverse set of perspectives. By asking one question you expand across industries, into discussions of [stock-based compensation](https://www.mbi-deepdives.com/sbc/), and the value of different measures of profitability.
 
 I've seen [similar discussions](https://twitter.com/aashaysanghvi_/status/1591520201010544641?s=20) about different types of companies that get built (side note: if you're not following Aashay, Ho Nam, and Post Market, that's a real loss. Here's a peek.)
 
-![](images/building-an-actual-unicorn-f5b6d113.png)
+![](/images/building-an-actual-unicorn-f5b6d113.png)
 
 Now, I'm no public analyst. There are a lot more thoughtful in-the-weeds analysts out there than me, many of them show up in the comments on those threads. So my head wasn't just focused on answering the question. The crowd-sourced efforts from the comments has led to this follow-up list from Matthew.
 
-![Source:Twitter](images/building-an-actual-unicorn-c562822c.png)
+![Source:Twitter](/images/building-an-actual-unicorn-c562822c.png)
 
 More than that, it left me reflecting on the long-run outcome of the current venture ideology. So I wanted to spend a second trying to articulate my reactions, justifications, disappointments, and resolutions.
 
@@ -39,7 +39,7 @@ If you've been reading my writing for a long time you might have seen this consi
 
 [My very first post](https://investing1012dot0.substack.com/p/pain) when I started writing consistently, one of the first things I talked about was cycles. As you see things like the financial crisis take place, you also see a smattering of exceptional companies get built around the same time.
 
-![](images/building-an-actual-unicorn-a5d95065.png)
+![](/images/building-an-actual-unicorn-a5d95065.png)
 
 Matthew's time stamp of "in the last 15 years" falls about in-line with this. What companies have been funded in the US since the financial crisis that have become (1) public, (2) profitable?
 
@@ -61,11 +61,11 @@ One reaction that I had to Matthew's post is to consider what people have been r
 
 But when I reflect on the reality that **every** company faced, they were all operating in the same "largest" economy, but that means they were also captivated by the same game. Growth is what got rewarded in public markets.
 
-![Source:Redpoint](images/building-an-actual-unicorn-9de774d4.png)
+![Source:Redpoint](/images/building-an-actual-unicorn-9de774d4.png)
 
 When you look at charts like this, you see that correction very clearly. The companies that saw the least painful stock price corrections were those that were both profitable and still fairly high-growth.
 
-![](images/building-an-actual-unicorn-e93639d5.png)
+![](/images/building-an-actual-unicorn-e93639d5.png)
 
 Before 2022, you saw a clear statistical correlation between growth and valuation multiples. Today, you see a clear statistical correlation between balanced profitability (e.g. [rule of 40](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/saas-and-the-rule-of-40-keys-to-the-critical-value-creation-metric)) and valuation multiples.
 
@@ -86,13 +86,13 @@ By design, venture capital has a structured timeline. Funds have specific time f
 
 I think of it as a big game of hot potato. Founders have equity that they pass to seed investors who pass it to later stage investors who pass it to crossover investors that pass it to large hedge funds that pass it to retail investors.
 
-![](images/building-an-actual-unicorn-39be56df.gif)
+![](/images/building-an-actual-unicorn-39be56df.gif)
 
 Sometimes that's fine. You get paid for passing the potato because its a little cooler. One party took on risk when the potato was piping hot right out of the oven. The time that first party took holding the risk, they get rewarded for when the next person catches the potato. And with good companies, that's fine. People can keep making money on down the line (albeit less upside, but for less risk).
 
 But every once in a while, you end up with less a nice game of hot potato, paying up for risk reduction, and instead end up with a good old fashioned [bag holder](https://corporatefinanceinstitute.com/resources/capital-markets/bag-holder/).
 
-![](images/building-an-actual-unicorn-17e1dcc7.gif)
+![](/images/building-an-actual-unicorn-17e1dcc7.gif)
 
 That's one reason why most VCs can afford to not particularly care about the long-term economic engine of a company (or at least, they could for the last decade). It doesn't matter if you're pouring billions into a money inferno that is selling $2 for $1 because the company doesn't have to make money, you just have to find [someone willing to believe](https://investing1012dot0.substack.com/p/the-storytelling-of-investing) the company will *eventually* make money (i.e. someone willing to hold the bag.)
 

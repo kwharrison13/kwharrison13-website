@@ -9,7 +9,7 @@ type: "newsletter"
 
 *I'll be covering a bunch of topics [you all voted on](https://investing1012dot0.substack.com/p/long-enough-to-matter) in the coming weeks, from Books 2.0 to Tastemakers to The Death of ESG. But, as is so often my modus operandi, I can't help but write each week about what is most on my mind. So, in the words of mouthy 16-year old Kyle when he's talking to his Mom about cleaning his room, "I'll get to it when I get to it."*
 
-![](images/crafting-your-average-a7e14fd4.png)
+![](/images/crafting-your-average-a7e14fd4.png)
 
 I've written several times ([here](https://investing1012dot0.substack.com/p/the-rising-generation) and [here](https://investing1012dot0.substack.com/p/long-enough-to-matter)) about my personal source code. The things that make up who I am. So often, I'll be talking to my wife and I'll quote Uncle Buck, a Blues Traveler song, a commercial from 2003, or VH1's "[I Love The 90s](https://bit.ly/47IdZjN)," **and I'll realize just how much all this stuff impacted me and, more importantly, crafted who I am.**
 
@@ -39,11 +39,11 @@ So while we should be radically in pursuit of discovering ourselves, I think we 
 
 # Meeting Your Heroes
 
-![Source:Twitter](images/crafting-your-average-b95a0833.png)
+![Source:Twitter](/images/crafting-your-average-b95a0833.png)
 
 So what has me thinking so much about the deliberate role models we identify that we most want to be like? This week I had the chance to meet one of mine. I've been following [Ho Nam](https://twitter.com/honam) on Twitter for years and this past week, finally had the chance to chat with him. And it did not disappoint.
 
-![](images/crafting-your-average-b2668a35.png)
+![](/images/crafting-your-average-b2668a35.png)
 
 If you don't know Ho, he's one of the co-founders and managing directors of Altos Ventures. They've invested in Roblox, Coupang, Krafton, Dunamu, and Toss among a host of others. My thirty minute chat with him was a borderline spiritual experience.
 
@@ -55,7 +55,7 @@ I've quote Ho Nam [over](https://investing1012dot0.substack.com/p/markets-market
 
 Ho even has, conveniently, written a thread on this exact topic I'm talking about when it comes to identifying the right role models.
 
-![Source:Twitter](images/crafting-your-average-a7fd532a.png)
+![Source:Twitter](/images/crafting-your-average-a7fd532a.png)
 
 # The Role Model
 
@@ -67,7 +67,7 @@ Instead, the longer I've been in this game, the more I look up to people like Ho
 
 ## Venture Is A Discovery Business
 
-![Source:Twitter](images/crafting-your-average-78333e30.png)
+![Source:Twitter](/images/crafting-your-average-78333e30.png)
 
 I remember the first time I heard Ho describe venture as a "discovery business," was on a Twitter Spaces in April 2022. **"It's a discovery business where you're discovering the most interesting people and ideas."** He then elaborated on it in the thread above in May 2022.
 

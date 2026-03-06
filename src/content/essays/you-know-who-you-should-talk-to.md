@@ -7,7 +7,7 @@ slug: "you-know-who-you-should-talk-to"
 type: "newsletter"
 ---
 
-![](images/you-know-who-you-should-talk-to-8a165f68.png)
+![](/images/you-know-who-you-should-talk-to-8a165f68.png)
 
 In 2017, I was working at a fund where (for whatever reason) we lumped company coverage for every company in Australia and New Zealand into one category, and I happened to cover that category. I was spending time thinking about unique ways to hear about companies in those geos, and I stumbled upon the Linkedin profile for [Jacinda Ardern](https://www.linkedin.com/in/jacindaardern/), who had recently become Prime Minister of New Zealand.
 
@@ -15,7 +15,7 @@ First off, I'm not sure I appreciated what a prime minster was (or that it was i
 
 So, not really appreciating who she was, I decided to shoot her a message about our interest in investing in New Zealand entrepreneurs, and ended up having a conversation with the Prime Minister of New Zealand. Fun fact.
 
-![](images/you-know-who-you-should-talk-to-8d80a413.png)
+![](/images/you-know-who-you-should-talk-to-8d80a413.png)
 
 # Creating a Network With Brute Force
 
@@ -29,7 +29,7 @@ In the last week I've had the same conversation three different times: someone y
 
 Across the board, my advice is that it's a numbers game. **Putting in the work to have a wide variety of conversations will almost always lead to success**, but people just don't really want to do that. The rough numbers that I throw out are: if you want to get [1] good opportunity (job, customer, etc.), you need to have [100] conversations with relevant people, and that will come from [1,000] emails or warm intros to similarly relevant people.
 
-![](images/you-know-who-you-should-talk-to-fc0219a0.png)
+![](/images/you-know-who-you-should-talk-to-fc0219a0.png)
 
 Take the example of finding a job at a startup.
 

@@ -7,7 +7,7 @@ slug: "the-pace-of-fomo-cycles"
 type: "newsletter"
 ---
 
-![](images/the-pace-of-fomo-cycles-9936706c.jpg)
+![](/images/the-pace-of-fomo-cycles-9936706c.jpg)
 
 Apologies for the delayed send out. After almost 2 years, a busy work week, a robot battle in Las Vegas, and a family reunion in southern Utah has pushed me as close as I’ve come to missing a week.
 
@@ -15,7 +15,7 @@ In lieu of a full rundown, I wanted to share this podcast appearance I did that 
 
 Here’s a link to the full video:
 
-![](images/the-pace-of-fomo-cycles-d40eea4d.jpg)
+![](/images/the-pace-of-fomo-cycles-d40eea4d.jpg)
 
 <https://x.com/sp1ns1r/status/1709655636399812915?s=46&t=o_VXCnqx93PtfDFcrUrKDA>
 

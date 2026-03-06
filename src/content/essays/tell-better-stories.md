@@ -7,13 +7,13 @@ slug: "tell-better-stories"
 type: "newsletter"
 ---
 
-![Surrender of Lord Cornwallis](images/tell-better-stories-57039b2c.png)
+![Surrender of Lord Cornwallis](/images/tell-better-stories-57039b2c.png)
 
 ---
 
 Like a lot of kids who grew up in the 90s, and went to public school where history teachers got “headaches” a lot, there were two staples of my early historical education. First? [North & South](https://www.imdb.com/title/tt0088583/), the Patrick Swayze mini-series about the Civil War, and the Ken Burns [Civil War documentary](https://www.imdb.com/title/tt0098769/). That was the extent of my exposure to Ken Burns. But then, he emerged from his 10 year work-trip, and released a new documentary: [The American Revolution](https://www.pbs.org/show/the-american-revolution/?utm_source=googlehome&action=play).
 
-![Source:PBS](images/tell-better-stories-f2e4b9a6.png)
+![Source:PBS](/images/tell-better-stories-f2e4b9a6.png)
 
 I’m only a few episodes in. In the classic Ken Burns tradition, it felt like something I wanted to watch with my Dad. But what struck me most as I reflected on it over Thanksgiving came more from some of the commentary I heard from Ken Burns directly in an [interview](https://www.youtube.com/watch?v=TX0da14Ejaw) with Hasan Minhaj. In it, he touched on several key things that reinforced some of the perspectives I’ve had on storytelling in general.
 

@@ -7,7 +7,7 @@ slug: "venture-capital-unbundled"
 type: "newsletter"
 ---
 
-![](images/venture-capital-unbundled-17cfd838.png)
+![](/images/venture-capital-unbundled-17cfd838.png)
 
 Over the course of 2021, I was starting to notice a rising trend. It put an itch in my brain so intense that I decided to start a blog so that I could write about this specific force. Since then, I've written every week for three years. But that original idea?
 
@@ -17,7 +17,7 @@ In that piece, I talked about people's shifting preferences for individuals over
 
 That same evolution has been impacting venture capital. Increasingly, there is a focus on the individual investor and what they're capable of. Venture capital had evolved from the monolithic brands of the early days the the feudalism of empire funds like a16z and General Catalyst to a rising trend of, what I termed, Renegades.
 
-![Source:Investing 101](images/venture-capital-unbundled-3fc36f24.png)
+![Source:Investing 101](/images/venture-capital-unbundled-3fc36f24.png)
 
 The importance of the individual was what made the story interesting, but the strategy wasn't just one of "solo capitalists."
 
@@ -115,7 +115,7 @@ Insight Partners just [raised](https://www.bloomberg.com/news/articles/2025-01-1
 
 In 2024, **75% of all venture dollars was raised by just 30 firms.**
 
-![Source:Pitchbook](images/venture-capital-unbundled-cf0a5278.png)
+![Source:Pitchbook](/images/venture-capital-unbundled-cf0a5278.png)
 
 The size and scale of these pools of capital is a fundamentally different thing. It requires different attitudes and approaches. It requires different portfolio construction and risk tolerance. It also provides a fundamentally different economic product.
 

@@ -7,7 +7,7 @@ slug: "life-imitates-art"
 type: "newsletter"
 ---
 
-![](images/life-imitates-art-656cc762.png)
+![](/images/life-imitates-art-656cc762.png)
 
 # But First, A Movie Rant
 
@@ -31,7 +31,7 @@ Alright, where was I going with this?
 
 # Science Fiction as a Product Roadmap
 
-![Source:Twitter](images/life-imitates-art-9da55b93.png)
+![Source:Twitter](/images/life-imitates-art-9da55b93.png)
 
 Big driver of my thinking this week came from this tweet from Chrisman Frank, the CEO of Synthesis (whose [building science fiction](https://www.youtube.com/watch?v=WjByL3kcI7Y) in his own right). In the comments on his post, I loved this nugget someone shared from a science museum in Ottawa:
 
@@ -41,7 +41,7 @@ For those of you who have been reading my stuff for a while, you'll know that I 
 
 The thing that really awoke my interest in historical futurism was looking at how people in the past have predicted the future and using that to understand what went wrong, what was over-indexed, and what we far exceeded their expectations. Just one example is this thread of predictions from 1924 about 2024:
 
-![Source:Twitter](images/life-imitates-art-0e328803.png)
+![Source:Twitter](/images/life-imitates-art-0e328803.png)
 
 From electrocuting students for not paying attention to the extinction of horses, breakfast in tablet form, automobiles traveling on speedways through the center of town, our legs withering away from disuse, interplanetary travel as easy as trans-Atlantic travel, and 75 being considered young.
 
@@ -49,13 +49,13 @@ Our visions of the future often shape our actions today in achieving that future
 
 # We Need Better Stories
 
-![Source:Twitter](images/life-imitates-art-4f25ba72.png)
+![Source:Twitter](/images/life-imitates-art-4f25ba72.png)
 
 You'll notice that Chrisman's refrain to build the future came, not from watching sci-fi, but from *reading* sci-fi. That is, in large part, because, while books can be nuanced and explore a variety of interesting topics, movies have become hits-driven engines that benefit more from pessimism than optimism.
 
 Take, as just one recent example, the new movie that just came out, [Civil War](https://www.youtube.com/watch?v=aDyQxtg0V2w). The movie shows an "authoritarian" U.S. government fighting internal insurrections, like the Western Forces of California and Texas (interesting pairing). As an exercise in "dreaming the future," its more of a nightmare.
 
-![Source:Twitter](images/life-imitates-art-a449318e.png)
+![Source:Twitter](/images/life-imitates-art-a449318e.png)
 
 Now... I don't feel as strongly as Beff about this one. [I'm not an acceleration maxi](https://investing1012dot0.substack.com/p/its-time-to-build-but-build-what). Some of the best sci-fi I've ever seen is not optimistic. Some of my favorites, like [Children of Men](https://www.youtube.com/watch?v=2VT2apoX90o), [Idiocracy](https://www.youtube.com/watch?v=6lai9QhBibk), [Serenity](https://www.youtube.com/watch?v=w8JNjmK5lfk), or [Time Machine](https://www.youtube.com/watch?v=90T7iLuzFgg), are not exactly optimistic. Stories can be optimistic utopias or cautionary dystopias. As far as making good movies, and telling good stories, you can have compelling character arcs in both types of stories.
 

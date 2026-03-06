@@ -7,7 +7,7 @@ slug: "pain"
 type: "newsletter"
 ---
 
-![](images/pain-c92bf1ef.jpg)
+![](/images/pain-c92bf1ef.jpg)
 
 # What Pain Tastes Like
 
@@ -23,7 +23,7 @@ In 2000 I was just getting started in little league and in 2008 I knew more abou
 
 Like a lot of investors today, be they the professional, YOLO, FinTwit, or TikTok variety, I haven't seen a significant financial correction in my career. Though that doesn't stop me from sitting on my porch, smoking a pipe, and telling my children stories of the March 2020 bear market.
 
-![](images/pain-c82b7e3e.jpg)
+![](/images/pain-c82b7e3e.jpg)
 
 [I don't want anyone to lose their life savings](https://twitter.com/plantmath1/status/1479684251951972356?s=20) but I welcome a game that is more difficult to win. I believe it was Warren Buffett [whose TikTok account popularized the strategy](https://twitter.com/TikTokInvestors/status/1350854473598558213?s=20) of "when the stock goes up, buy the stock." Don’t get me wrong, the democratization of investing is one of the most exciting trends [I've seen recently](https://nbt.substack.com/p/democratizing-access). But a market that never goes down [hides a multitude of sins.](https://twitter.com/cobie/status/1478373491464355848?s=20) I want everyone to be an investor, but I don’t want everyone to be an investor [who is convinced they’re a genius.](https://twitter.com/nikitabier/status/1479948877864177664?s=20)
 
@@ -33,7 +33,7 @@ Speaking of games that feel harder to win, Krishna Gupta [started a venture fund
 
 Some pretty generational businesses were started in the few years just after the financial crisis. There is some selective bias where you can probably find some great businesses started in almost any year. But you see stories of [unique grit](https://www.airbnb.com/obamaos) born out of the companies started during a pretty painful period.
 
-![](images/pain-93a5215e.png)
+![](/images/pain-93a5215e.png)
 
 Since 2008 we've had what feels like a never-ending dream. A lot of investors have made [a lot of money.](https://twitter.com/davemcclure/status/1467192936945242116?s=20) But the world is changing. It's getting quicker. More expensive. More complex. More commoditized. **You're going to see a revolution of investing, both in terms of people and processes.**
 
@@ -95,7 +95,7 @@ The internal monologue running in every investors head is painting them as the h
 
 So many people are quick to say they’re long-term investors but count the hands of people willing to take a long-term view when they’re staring down the barrel of a 20% loss. One of the things I’ve thought the most about has been the two-sided stick of investing in a winner. I hate the “if you’d invested $10K at IPO…” thirst traps, but when you pick up a winner with massive gains you typically have to pick up the other end of the stick; massive losses.
 
-![](images/pain-4ba7015e.png)
+![](/images/pain-4ba7015e.png)
 
 Being willing to take those losses psychologically is a critical piece of capably taking a long-term view. That’s a psychological resilience that I want to better develop.
 

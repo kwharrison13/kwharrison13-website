@@ -7,7 +7,7 @@ slug: "barking-in-public"
 type: "newsletter"
 ---
 
-![](images/barking-in-public-65e74c40.png)
+![](/images/barking-in-public-65e74c40.png)
 
 Have you ever seen [The Big Sick?](https://en.wikipedia.org/wiki/The_Big_Sick) It's an exceptional 2017 romantic comedy about a guy who finds himself in a stressful situation with demanding parents, an on-again-off-again girlfriend, and a health crisis. Classic setup, but charmingly unique execution. It helps that [Kumail Nanjiani](https://en.wikipedia.org/wiki/Kumail_Nanjiani) is a real gem.
 
@@ -87,7 +87,7 @@ The cultural norm is going bowling with the bumpers up. It's playing Mario Kart 
 
 > *"Most organizational hierarchies are structured like a pyramid. Lots of people at the bottom, a few people at the top. And a lot of people like that structure, because the bottom is capped. But that, by design, means the top is capped too. **To fully uncap the top, or in other words open up the maximum potential, you also have to open up the bottom. You have to open up the possibility that you might fail**."*
 
-![](images/barking-in-public-4488543f.png)
+![](/images/barking-in-public-4488543f.png)
 
 Uncapping the bottom, taking off the bumpers, turning off the Smart Steering. In fact, I think even framing it as "daring to fail" is a smidge overdramatic. **It's not just about being willing to fail. It's being willing to be deviant.**
 
@@ -120,19 +120,19 @@ And then, to everyone's surprise, they get a human moment. He provides a deviant
 
 Now, his answer to that question is spicy. Though it's hard to put in context. On the one hand, it feels like its a deviant view, in part because of the reaction of the people around him. On the other hand, it may have been approaching a normative view at the time it came out in 2012.
 
-![Source:Gallup](images/barking-in-public-f47684af.png)
+![Source:Gallup](/images/barking-in-public-f47684af.png)
 
 The % of American's who felt satisfied with things in the US peaked in 1999 at 70%. In 2012, it had fallen to around 23%. Not totally surprising after a decade of the Dotcom, an unjustified war on terror, and the financial crisis. But perhaps the deviance was the level of fervor in expressing America's failings.
 
 The decline has continued ever so slightly over the last 12 years, hitting ~20% in January 2025. Today, the deviant view feels like being willing to say America is, actually, still the greatest country on earth. In fact, John Coogan [masterfully used](https://x.com/johncoogan/status/1808942688890466757) the meme format of that Newsroom clip to express that sentiment:
 
-![](images/barking-in-public-eea7ee48.png)
+![](/images/barking-in-public-eea7ee48.png)
 
 # What a Contrarian
 
 Now, what I'm not describing is being contrarian for the sake of being contrarian. When I asked ChatGPT for "contrarian" ideas I feel like it was drinking from the poisoned well of nonsensical contrarian-for-contrarian's-sake ideas that a lot of hucksters and jabronis keep feeding it:
 
-![](images/barking-in-public-fa49092c.png)
+![](/images/barking-in-public-fa49092c.png)
 
 I don't mean to be combative, counterpositioned, or difficult to talk to just because.
 

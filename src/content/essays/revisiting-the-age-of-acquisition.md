@@ -7,7 +7,7 @@ slug: "revisiting-the-age-of-acquisition"
 type: "newsletter"
 ---
 
-![](images/revisiting-the-age-of-acquisition-de8bcf62.png)
+![](/images/revisiting-the-age-of-acquisition-de8bcf62.png)
 
 Almost exactly a year ago, I wrote a piece called "[The Age of Acquisition](https://investing1012dot0.substack.com/p/age-of-acquisition)."
 
@@ -19,7 +19,7 @@ I went on to unpack the macroeconomic correction, how capital suddenly pulled aw
 
 Those unsustainable business models attracted unsustainable amounts of capital. And when that capital rug got ripped out from under everyone, the model for minting unicorns fell through the floor.
 
-![Source:Wolfstreet](images/revisiting-the-age-of-acquisition-d4f4d515.png)
+![Source:Wolfstreet](/images/revisiting-the-age-of-acquisition-d4f4d515.png)
 
 As the capital shuts off, companies have to start unpacking what their future looks like. For some companies, they raised hundreds of millions without dramatically ramping burn, so I've seen several companies that have 6+ years of runway to figure things out.
 
@@ -137,7 +137,7 @@ Finally, there are a number of PE firms that got hungry this year:
 
 On the one hand, this makes perfect sense. Companies have been pretty heavily over-valued for the last few years pre-2022, and if there's one thing PE firms don't want to do, it's over-pay. So now is their time to shine. On the other hand, for many of these firms they're doing leveraged buyouts, which typically rely on cheap debt. Higher rates means a lower availability of affordable debt for these types of deals. That's had an [impact](https://www.reuters.com/markets/global-markets-private-equity-graphic-2023-06-26/) across PE.
 
-![](images/revisiting-the-age-of-acquisition-49b0a62f.png)
+![](/images/revisiting-the-age-of-acquisition-49b0a62f.png)
 
 What's more, software companies are NOT notoriously profitable. LBOs typically rely on the ability to harvest cash flows to pay off debt and juice returns. Without much cash flow (and with an increasingly difficult macro environment to perform in) you may see a fair bit of strains on these companies.
 
@@ -153,11 +153,11 @@ One concept that was central to my original piece was this concept of "centers o
 
 We went from this:
 
-![](images/revisiting-the-age-of-acquisition-b2f5cdcf.png)
+![](/images/revisiting-the-age-of-acquisition-b2f5cdcf.png)
 
 To this:
 
-![](images/revisiting-the-age-of-acquisition-be22eaa8.png)
+![](/images/revisiting-the-age-of-acquisition-be22eaa8.png)
 
 Very quickly.
 

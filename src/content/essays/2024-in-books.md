@@ -9,7 +9,7 @@ type: "newsletter"
 
 *I originally posted this [on my personal website](https://kwharrison13.com/15489f3ce1af801dbd92d2ad17ec283a) where you can see the full list of the books I read this year and my broader library.*
 
-![](images/2024-in-books-b682510e.webp)
+![](/images/2024-in-books-b682510e.webp)
 
 ---
 
@@ -17,13 +17,13 @@ type: "newsletter"
 
 Every year [since 2016](https://kwharrison13.com/bookshelf) I’ve made a list of the books I read in a given year. That list has taken various formats. Since I started writing this blog consistently, I did it for [2022](https://investing1012dot0.substack.com/p/2022-in-books?utm_source=publication-search) and [2023](https://investing1012dot0.substack.com/p/2023-in-books?utm_source=publication-search). Unfortunately, both of those years were sort of disappointments when it comes to the volume of reading I got done. Well, after a massive post-COVID slump in my reading habits, I finally broke the curse. This year I matched my all-time-high of reading 41 books from back in 2018. Felt pretty good.
 
-![](images/2024-in-books-75797026.webp)
+![](/images/2024-in-books-75797026.webp)
 
 When I [wrote](https://kwharrison13.com/05f6747a688948978fa48a3de42a6044) about my reading habits last year, I said I would “lick my wounds and reflect on how to make more room for reading.” Well, I certainly managed to make more room. As I look back on what made that possible there are two things that I think helped.
 
 ### Always Be Reading
 
-![Source:YouTube](images/2024-in-books-aad8ce95.webp)
+![Source:YouTube](/images/2024-in-books-aad8ce95.webp)
 
 Last year in chastising myself for only having read 11 books, the fewest in one year since before college I think, I talked about a specific [quote](https://ryanholiday.net/heres-some-stuff-worth-carrying-with-you-everywhere) from Ryan Holiday about finding more spaces in my life that could be filled with reading:
 
@@ -31,7 +31,7 @@ Last year in chastising myself for only having read 11 books, the fewest in one 
 
 That is, effectively, what I did this year. I deleted Twitter, Youtube, Linkedin, and TikTok from my phone and blocked them. The first few weeks I could feel myself jonesing for that sweet, sweet dopamine hit. But I persisted. Instead, my Kindle app became my #1 app. It’s what I turn to every time I open my phone. For example, in one particular day my Kindle app was 70%+ of my iPhone usage that day:
 
-![](images/2024-in-books-7e464e00.webp)
+![](/images/2024-in-books-7e464e00.webp)
 
 But it wasn’t just the time spent on my phone reading. I also created reading opportunities in other spaces in my life.
 
@@ -97,7 +97,7 @@ Finally, I found myself engaging with a number of books that took me on a tour o
 
 Beyond a tradition of revisiting themes, I have another tradition when it comes to reflecting on my reading. Each year, I always come back to wanting to clearly state how important reading is to me not just as an individual, but as a parent.
 
-![](images/2024-in-books-a5b1662f.webp)
+![](/images/2024-in-books-a5b1662f.webp)
 
 I’ve frequently seen people point to claims like ones in [this 2010 study](https://www.sciencedaily.com/releases/2010/05/100520213116.htm), saying “Books in home as important as parents' education in determining children's education level.” Others [saying](https://www.educationworld.com/a_issues/chat/chat265.shtml) that even a modest number of books in the home, like 20, can have a material impact on a child’s educational outcomes. I haven’t dug into the data or methodology here so who knows.
 

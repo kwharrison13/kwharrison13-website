@@ -7,7 +7,7 @@ slug: "revisiting-clarity-of-thought"
 type: "newsletter"
 ---
 
-![Boy Jesus in the Temple (Christ in the Temple) by Heinrich Hofman](images/revisiting-clarity-of-thought-9232aff7.jpg)
+![Boy Jesus in the Temple (Christ in the Temple) by Heinrich Hofman](/images/revisiting-clarity-of-thought-9232aff7.jpg)
 
 ---
 

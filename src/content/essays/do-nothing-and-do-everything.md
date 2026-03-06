@@ -7,7 +7,7 @@ slug: "do-nothing-and-do-everything"
 type: "newsletter"
 ---
 
-![Impression, Sunrise by Claude Monet](images/do-nothing-and-do-everything-72701d03.png)
+![Impression, Sunrise by Claude Monet](/images/do-nothing-and-do-everything-72701d03.png)
 
 ---
 
@@ -15,7 +15,7 @@ For two years, from the age of 19 to 21, I served a mission for The Church of Je
 
 Before we set out, we spend some time in the Missionary Training Center (MTC). Anywhere from 2 to 12 weeks, depending on if we’re learning a language.
 
-![](images/do-nothing-and-do-everything-1ded1c85.png)
+![](/images/do-nothing-and-do-everything-1ded1c85.png)
 
 # Taking a Breath
 
@@ -39,7 +39,7 @@ Each missionary is assigned to a specific area. That area has a Mission Presiden
 
 The basic premise is this. You have 60 minutes to chop down as many trees as possible. The first tree takes one minute. If you don’t sharpen the axe, then the second tree takes two minutes. Then three minutes for the third tree, and so on. If you sharpen the axe, it takes five minutes. But then you’re back down to it taking one minute for the first tree. Some people might default to just sharpening the axe every time. Other people would say they should just keep cutting down trees. But there is an optimal balance. Chopping down three trees before you sharpen the axe.
 
-![](images/do-nothing-and-do-everything-68429144.png)
+![](/images/do-nothing-and-do-everything-68429144.png)
 
 While the math lesson was helpful, I eventually had it illustrated in practice for me. You see, there are a set of planning guidelines we’re encouraged to follow. We prioritize people who are at different phases in their spiritual journey. Most missionaries ignore them. They’re just trying to fill their days, feel busy. Chop down trees.
 
@@ -51,17 +51,17 @@ The principle instilled in me from that formative experience was that **life’s
 
 The principle of balancing doing nothing and doing everything isn’t just a spiritual experience I had in my youth. It’s something that you see countless examples of anywhere from stone age hunter gatherers to Kim Kardashian’s legal profession. First? Hunter gatherers.
 
-![Source:Twitter](images/do-nothing-and-do-everything-1ecb7460.png)
+![Source:Twitter](/images/do-nothing-and-do-everything-1ecb7460.png)
 
 The idea of pondering, pausing, breathing, and breaking from the standard activity of life has a basis in our evolutionary experience. In fact, the constancy of hustle and bustle leaves our tank run dry and our cognitive capabilities diminished. Without the pause, there is limited power.
 
 But while the majority of people sacrifice pause in favor of pursuit, you still see examples of people chopping down trees without much thought for sharpening the axe. I was reminded of Kim Kardashian’s [advice](https://youtu.be/XX2izzshRmI?t=302) for women in business: “get your f\*cking ass up and work.”
 
-![](images/do-nothing-and-do-everything-d6ad607c.png)
+![](/images/do-nothing-and-do-everything-d6ad607c.png)
 
 It’s not about instant gratification, its about hard work. Just chop those trees! Why was I reminded of this once-in-a-generation advice? Because I saw the result of it in [another video](https://x.com/dom_lucre/status/1990926042232447230?s=20). This one? Kim Kardashian crying about failing to pass the bar exam.
 
-![](images/do-nothing-and-do-everything-67091051.png)
+![](/images/do-nothing-and-do-everything-67091051.png)
 
 Some people were quick to [point out](https://x.com/jjreeves/status/1991571165631115634?s=20) that they’d been able to pass the bar exam, all while working in a law firm, running a YouTube channel, and self-studying. What’s more, people [emphasized](https://x.com/jjreeves/status/1991571165631115634?s=20) that with “the amount of money and time this woman has, she’s either kinda dumb, or kinda lazy, or kinda both.” Other people [came](https://x.com/JeremiahDJohns/status/1992039431524483375?s=20) to Kim’s defense, saying she’s a very hard worker in regards to her family, her fashion and influencer businesses, her criminal justice reform activism, and more. Their takeaway?
 

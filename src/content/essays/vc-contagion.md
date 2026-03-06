@@ -9,7 +9,7 @@ type: "newsletter"
 
 *This piece [originally appeared as a guest post](https://www.newcomer.co/p/guest-essay-vc-contagion) in Newcomer. You can also [check out this podcast episode](https://www.youtube.com/watch?v=f9v01qT-uaE) where Eric Newcomer and I go deeper into some of the themes I touch on in the piece.*
 
-![](images/vc-contagion-fd1fb1cf.png)
+![](/images/vc-contagion-fd1fb1cf.png)
 
 **Sometimes you get a song stuck in your head.**
 
@@ -29,13 +29,13 @@ Together these perverse appetites form their own sort of sentient murder plant. 
 
 # **The First Generation Of VC Subsidies**
 
-![Source:Twitter](images/vc-contagion-eafa7445.png)
+![Source:Twitter](/images/vc-contagion-eafa7445.png)
 
 **Venture capital enables the perpetuation of unsustainable models in favor of eventual scale**. This isn’t necessarily a bad thing. The runway to experiment has been critical for any number of businesses.
 
 Apple, Google, Facebook, Amazon, Salesforce, and so many others are companies that operated unsustainably for a while with the help of funding, in order to reach scale and become cash generating machines, with billions in annual cash flows today.
 
-![](images/vc-contagion-d7307055.png)
+![](/images/vc-contagion-d7307055.png)
 
 But any good thing taken to excess can become problematic. The same is true with capital. There are a number of businesses that have yet to demonstrate their ability to consistently turn a profit. That doesn’t mean they are bad businesses, but they’ve certainly been beneficiaries of exorbitant amounts of capital that may hide the less-than-economical aspects of their businesses.
 
@@ -63,21 +63,21 @@ A lot of people are talking about Uber as a great ZIRP that made transportation 
 
 Where Uber was meant to disrupt the taxi business, Airbnb took similar aim at hotels. And where Uber has started to mask some of its price increases in surge pricing, Airbnb has been pushing the price grift in its fees. And the [internet noticed](https://www.businessinsider.com/airbnb-trending-twitter-customers-complain-host-cleaning-fees-rules-price-2021-5).
 
-![Source:Twitter](images/vc-contagion-a7418a2e.png)
+![Source:Twitter](/images/vc-contagion-a7418a2e.png)
 
 What was previously a pretty subsidized offering (by VCs and the company's willingness to live in a [legal grey area](https://www.businessinsider.com/airbnb-trending-twitter-customers-complain-host-cleaning-fees-rules-price-2021-5) when it comes to hospitality taxes), has become a wild west of hosts hungry for cleaning fees, armed with the best spy cameras in the world. 😳
 
-![Source:Twitter](images/vc-contagion-399239e5.png)
+![Source:Twitter](/images/vc-contagion-399239e5.png)
 
 Granted, Airbnb has done a fair bit better job than Uber taking that subsidized commodity, and turning it into more of a cash-generative business. The question then becomes how consistently, and sustainably can Airbnb keep it up and grow that business?
 
-![](images/vc-contagion-72bf1e47.png)
+![](/images/vc-contagion-72bf1e47.png)
 
 ## **Netflix: What's Old Is New**
 
 Finally, we have Netflix. Older than Uber or Airbnb (founded in 1997, compared to the other two in 2009 and 2008 respectively.) When the company [started streaming](https://www.makeuseof.com/how-when-netflix-start-brief-company-history/) in 2007, one of the main ideas was to provide subscription-based access to entire seasons all at once, effectively inventing the term [binge-watching](https://www.viaccess-orca.com/blog/binge-watching-changed-way-watch-produce-television).
 
-![](images/vc-contagion-bcff37f5.png)
+![](/images/vc-contagion-bcff37f5.png)
 
 From 2015 to 2019, Netflix was spending dramatically on their vision of building an entertainment empire, burning [$9B+](https://app.koyfin.com/fa/00000000-1c82-4912-88c6-8689b285ac75/eq-k0d1vn) in cash. In 2021 alone, the company spent [$17B+](https://www.statista.com/statistics/964789/netflix-content-spend-worldwide/#:~:text=The%20content%20spending%20of%20Netflix,billion%20U.S.%20dollars%20on%20content.) on content, racking up ~$27B of debt in the process.
 
@@ -97,7 +97,7 @@ There's a famous [quote](https://quoteinvestigator.com/2011/08/09/remain-solvent
 
 I think the same idea exists for businesses whose models prove to be currently unsustainable. The market will act like a frustrated Mom waiting for her son to move out of the basement. She’s only going to put up with so much before she kicks him to the curb. In other words? **What happens if the capital (or the market's patience for your unsustainability) runs out before you get sustainable?**
 
-![](images/vc-contagion-3ed1991d.png)
+![](/images/vc-contagion-3ed1991d.png)
 
 # **The Unavoidable Weight Of Business Gravity**
 
@@ -105,7 +105,7 @@ I think the same idea exists for businesses whose models prove to be currently u
 
 It is a reality that the vast majority of funded companies start their lives as unsustainable engines. They burn cash in pursuit of a future [economic engine](https://investing1012dot0.substack.com/p/the-mysteries-of-an-economic-engine) that will spit off cash. **But as capital became more, and more plentiful it has enabled unsustainability to persist for much longer.**
 
-![](images/vc-contagion-4d9b53cc.png)
+![](/images/vc-contagion-4d9b53cc.png)
 
 **When the inevitable weight of business gravity smashes into the face of an unsuspecting subsidy darling, it can get ugly.** That is happening more and more as the subsidy subsides, the cash funnel shuts off, and companies have their lack of sustainability exposed. In the [words](https://fortune.com/2022/10/03/warren-buffett-famous-quotes-swimming-naked-interest-rates-debt-zombies/) of **Warren Buffett**, “only when the tide goes out do you learn who has been swimming naked.”
 
@@ -121,23 +121,23 @@ There is this oft-repeated idea that “40% of VC dollars go to Facebook and Goo
 
 This idea that a near majority of venture dollars are going towards ads has become so memeified, that it’s often spat on by a lot of investors as a ridiculous notion.
 
-![Source:Twitter](images/vc-contagion-a836b8c8.png)
+![Source:Twitter](/images/vc-contagion-a836b8c8.png)
 
 Lee has some [solid math later in his thread](https://twitter.com/terronk/status/1436222621054504994?s=20) that if 40% of VC money were going to ads, then startups would account for 25% of Google and Facebook's revenue, which can’t be right. I agree with him. I don’t think startups are relying on extraordinary ad spend for pop up ads.
 
 But the reality is that sales and marketing are some of the most significant portions of spend for the majority of companies. In Lee’s thread, he makes this argument about Snowflake’s S&M budget:
 
-![Source:Twitter](images/vc-contagion-5d1c5d63.png)
+![Source:Twitter](/images/vc-contagion-5d1c5d63.png)
 
 I tried to find these numbers but couldn’t find anything close to this. Snowflake went public in September 2020. Their last fiscal year before that ended January 31st, 2020. In [the company's FY 2020](https://www.sec.gov/Archives/edgar/data/1640147/000162828020013010/snowflakes-1.htm#ia73499eb79a34ddeaa563501d30356b0_40), they spent $293M on S&M out of $506M of total OpEx (58% of their expenses).
 
-![Source:Snowflake's S-1](images/vc-contagion-13947b54.png)
+![Source:Snowflake's S-1](/images/vc-contagion-13947b54.png)
 
 Granted, one point that Lee makes is fair. Is ALL $293M just going towards Google and Facebook ads? Definitely not. There’s sales reps, DevRel, events, and on and on. I think the focus on “Google and Facebook ads” is a huge red herring that doesn't make sense. **But 58% of their OpEx IS going towards sales and marketing, the company’s primary distribution and customer acquisition engine.**
 
 Since their IPO, I expected Snowflake’s S&M to come down, but it's only decreased as a % of OpeEx from 58% to ~50% most recently. In reality, the majority of companies are spending ~50% of their OpEx on S&M.
 
-![Source: Random smattering of 10Ks / 10Qs; Slack is April 2019; the rest are either quarterly or annually on 01/31/23 or 03/31/23](images/vc-contagion-48237d40.png)
+![Source: Random smattering of 10Ks / 10Qs; Slack is April 2019; the rest are either quarterly or annually on 01/31/23 or 03/31/23](/images/vc-contagion-48237d40.png)
 
 The world has become incredibly noisy. While 40% of all VC dollars going to Facebook or Google ads is nuts, the reality is that startups are being forced to borrow distribution from whatever platforms or resources they can get access to. That “borrowed distribution” creates a lot of dependencies that make it more difficult to [control your own destiny.](https://investing1012dot0.substack.com/p/controlling-your-own-destiny)
 
@@ -159,7 +159,7 @@ One of the most common examples of this kind of behavior has been a fairly well-
 
 The strategy has worked well for Brex in times of plenty. But the question still remains, how well will that strategy play out in a world where funding dropped by [30%](https://www.statista.com/statistics/277501/venture-capital-amount-invested-in-the-united-states-since-1995/) from 2021 to 2022, and isn't looking much better in 2023?
 
-![Source:Twitter](images/vc-contagion-f59436af.png)
+![Source:Twitter](/images/vc-contagion-f59436af.png)
 
 # **A ‘Dream The Dream’ Premium**
 
@@ -177,7 +177,7 @@ That “dream the dream” premium started to become a nightmare. Klarna, at one
 
 The reality is that some of those companies are exceptional companies that will someday surpass their all-time highs, while some of them may not make it out of 2023 alive. But venture capital did very few favors to these companies as they pushed them deeper, and deeper into unsustainability with very little visibility into the path forward.
 
-![](images/vc-contagion-d078dd99.png)
+![](/images/vc-contagion-d078dd99.png)
 
 # **Is Venture Capital Killing Itself?**
 

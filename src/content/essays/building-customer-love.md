@@ -7,7 +7,7 @@ slug: "building-customer-love"
 type: "newsletter"
 ---
 
-![](images/building-customer-love-d632be13.jpg)
+![](/images/building-customer-love-d632be13.jpg)
 
 *This is a brief post sharing more about an upcoming [Contrary Research](http://research.contrary.com) event I'm helping host.*
 
@@ -35,7 +35,7 @@ You can check out Insight's whole presentation here:
 
 The combination of PLG, user communities, and open-source software has focused every high-growth company on understanding their user bases much more intimately. Take HashiCorp as an example. The company has built a broad [product portfolio](https://www.meritechcapital.com/blog/hashicorp-ipo-s-1-breakdown), many of which have come through deep engagement with the company's community.
 
-![](images/building-customer-love-2bf33f96.png)
+![](/images/building-customer-love-2bf33f96.png)
 
 That community-driven approach and deep understanding of users helped produce HashiCorp's most popular product: Terraform. In its lifetime, Terraform has been downloaded [100M+ times](https://www.hashicorp.com/blog/terraform-community-contributions) across 1.2K enterprise customers.
 

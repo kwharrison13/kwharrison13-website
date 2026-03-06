@@ -7,7 +7,7 @@ slug: "the-four-pillars-of-venture-investing"
 type: "newsletter"
 ---
 
-![](images/the-four-pillars-of-venture-investing-88756680.png)
+![](/images/the-four-pillars-of-venture-investing-88756680.png)
 
 Life is filled with trade-offs. I've [written before](https://investing101.substack.com/p/of-things-that-matter-most) about how everyone is an allocator of something "because they’re allocating finite things in their lives: money, attention, time, effort, love."
 
@@ -15,13 +15,13 @@ Supposedly Mark Zuckerberg's sister, Randi Zuckerberg, says the "[entrepreneur's
 
 As any kid who grew up in the 90's, I immediately started thinking about Aladdin (the cartoon, not the Will Smith embarrassment). Spoiler alert. At the end of the movie, the villain Jafar has been making wishes to make himself more and more powerful. Finally, Aladdin [tricks him](https://www.youtube.com/watch?v=1iNaR1ie7YA) into wishing to be a genie. And while he does get "unlimited cosmic power," Aladdin reminds him of the [consequences of what he wants](https://www.churchofjesuschrist.org/study/general-conference/1995/10/swallowed-up-in-the-will-of-the-father?lang=eng). "Itty bitty living space."
 
-![](images/the-four-pillars-of-venture-investing-cfaf871a.gif)
+![](/images/the-four-pillars-of-venture-investing-cfaf871a.gif)
 
 In venture, there are often four key "jobs" of any venture investor. Recently, I was talking with a friend and I started to appreciate just how much trade-offs there are across each of those four jobs that, in some ways, make them nearly mutually exclusive.
 
 In July 2020, my friend Nikhil Trivedi [described](https://nbt.substack.com/p/the-venture-capital-flowchart) those jobs as "The Venture Capital Flowchart."
 
-![](images/the-four-pillars-of-venture-investing-6841e773.png)
+![](/images/the-four-pillars-of-venture-investing-6841e773.png)
 
 He included a fifth one that I didn't, which is exiting. I have a slightly different perspective that what Nikhil articulates in his excellent piece, which I'll revisit at the end.
 
@@ -101,7 +101,7 @@ The group-think in venture investing is a phenomenon so multi-faceted and comple
 
 Granted, many firms will say they are independent thinkers and make decisions before other firms do. But, come "Valentine's Day" for a specific deal, a lot of investors feel this way:
 
-![](images/the-four-pillars-of-venture-investing-04998972.png)
+![](/images/the-four-pillars-of-venture-investing-04998972.png)
 
 Every firm, every investor, every deal exists on a spectrum. From how much an investor is weighing the merits of the opportunity vs. how much an investor is weighing the interest of other investors.
 

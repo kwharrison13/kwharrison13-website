@@ -7,7 +7,7 @@ slug: "homebrew"
 type: "newsletter"
 ---
 
-![](images/homebrew-b032e344.png)
+![](/images/homebrew-b032e344.png)
 
 ## Renegade Spotlights
 
@@ -68,11 +68,11 @@ When you look at Homebrew's unique value proposition you see over and over again
 
 ### Burning the Boats
 
-![](images/homebrew-c319f264.png)
+![](/images/homebrew-c319f264.png)
 
 **One of the biggest weaknesses that plague a lot of venture funds today is the inability to say no.** A venture fund? A talent arm? A growth fund? An NFT drop? A seed fund? A scout program? A business development team? A TikTok? Yes. Yes to all of it.
 
-![](images/homebrew-2e5a91e2.png)
+![](/images/homebrew-2e5a91e2.png)
 
 [The number of $1B+ funds have exploded recently.](https://twitter.com/shaig/status/1498721158828593155?s=20&t=w93tQ7W3-Vl7-DkNk_mzVQ) **Homebrew, on the other hand, stands in a unique part of the landscape. Funds that recognize their strengths lie in a sweet spot that actively requires them to say** ***no*** **to more capital.** When your unique value proposition is hands-on involvement in a small set of companies that becomes basically impossible when you're deploying larger and larger funds.
 

@@ -7,7 +7,7 @@ slug: "beliefs-blockbusters-and-boyhood"
 type: "newsletter"
 ---
 
-![](images/beliefs-blockbusters-and-boyhood-b6c94514.png)
+![](/images/beliefs-blockbusters-and-boyhood-b6c94514.png)
 
 ---
 
@@ -25,7 +25,7 @@ So, when thinking about what I could pull together, it was to take a few of the 
 
 The first nugget is Tim Walz's [comments](https://x.com/Tim_Walz/status/1902197581586833643) on Tesla's stock price. This is one that I feel like has been discussed ad nauseam by both sides of the political spectrum. But I'm not as angry about conservative vs. liberal talking points. I'm drawn in by what it says about stated vs. revealed beliefs.
 
-![Source:Twitter](images/beliefs-blockbusters-and-boyhood-896057b1.png)
+![Source:Twitter](/images/beliefs-blockbusters-and-boyhood-896057b1.png)
 
 Liberals, in general, are the party of climate change prioritization. It's often described as an existential threat; maybe the only threat that matters because it could lead to human extinction. So if you think climate change is an important issue, and you believe that decarbonization is the best path forward then vehicle electrification is a critical piece of that puzzle.
 
@@ -39,7 +39,7 @@ First, I was also impressed by the podcast. Again, anyone who jumps right to "ho
 
 But when you unpack the substance of many of Newsom's discussion topics, you find things that he explicitly stated as beliefs before that turn out to be wishy-washy topics up for debate depending on how centrist you need to be that day. One of the responses to Lulu's post struck me:
 
-![Source:Twitter](images/beliefs-blockbusters-and-boyhood-ada7866d.png)
+![Source:Twitter](/images/beliefs-blockbusters-and-boyhood-ada7866d.png)
 
 "Also demonstrates that he believes in nothing." Savage.
 
@@ -61,7 +61,7 @@ Conviction in something is measured by your willingness to maintain that belief,
 
 The second nugget is the massive [$320M](https://www.hindustantimes.com/entertainment/hollywood/netflixs-most-expensive-film-the-electric-state-budget-avatar-the-avengers-rejected-by-universal-320-million-flop-101742564043311.html) flop that is Netflix's new movie, The Electric State. Seemingly unconnected, but when I think about beliefs, I think about incentives. And the most powerful incentive is money.
 
-![](images/beliefs-blockbusters-and-boyhood-4b383403.png)
+![](/images/beliefs-blockbusters-and-boyhood-4b383403.png)
 
 I've written before about [The Hits Business](https://investing101.substack.com/p/the-hits-business?utm_source=publication-search), where venture has taken on similar characteristics to the blockbuster business. Movie makers increasingly saw these $1B+ blockbuster hits, and swarmed programmatically around the characteristics that most often lead to that — established IP, sequels, reboots.
 
@@ -100,7 +100,7 @@ People try and shortcut their way to big hits with the checklist that The Electr
 
 Finally, the topic of storytelling brings us to my final nugget. The conversation happening about the new Netflix show, [Adolescence](https://bit.ly/4iOapuu), the story of a young kid who murders a young girl with a knife. The conversation I saw going around Twitter was the decision to change the race / story of the boy at the center of the story.
 
-![Source:Twitter](images/beliefs-blockbusters-and-boyhood-f66e8af4.png)
+![Source:Twitter](/images/beliefs-blockbusters-and-boyhood-f66e8af4.png)
 
 *Side note: I'm not going to cite all my sources because, like I said, I'm busy + I'm typing this one-handed while holding my five month old.*
 

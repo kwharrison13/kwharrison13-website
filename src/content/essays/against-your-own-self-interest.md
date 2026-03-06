@@ -7,11 +7,11 @@ slug: "against-your-own-self-interest"
 type: "newsletter"
 ---
 
-![Source:YouTube](images/against-your-own-self-interest-7add25a6.png)
+![Source:YouTube](/images/against-your-own-self-interest-7add25a6.png)
 
 I have a confession to make. I like Nickelback. I had not one, but several of their CDs in high school. I remember the day I learned this was a controversial opinion. Some interesting internet lore; in 2010 there was a website called "Dear Blank, Please Blank." People would submit funny entries and other people would waste ungodly amounts of time scrolling through them.
 
-![Source:Onward State](images/against-your-own-self-interest-6eda6ab5.png)
+![Source:Onward State](/images/against-your-own-self-interest-6eda6ab5.png)
 
 The site is shut down now. I wish I knew who built it. But one day in my mindless clicking, I came across one that said:
 
@@ -49,7 +49,7 @@ I walked out of the store and commented to my brother, "that seemed dumb! That g
 
 [Jon Shieber](https://www.linkedin.com/in/jonathan-shieber-b27baa/) reminded me just yesterday that this same thing happens in [Miracle on 34th Street](https://www.imdb.com/title/tt0110527/) with the guy who built Jurassic Park and Matilda. When Kris Kringle starts working at the department store, Cole's, the manager hears from a woman that their Santa Claus is sending people to other stores where they can get things cheaper.
 
-![Source:YouTube](images/against-your-own-self-interest-7956ea94.png)
+![Source:YouTube](/images/against-your-own-self-interest-7956ea94.png)
 
 At first, the manager is about to go throw down on pro-competition Saint Nick, but the woman surprises him with this:
 

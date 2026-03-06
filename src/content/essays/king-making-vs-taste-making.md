@@ -7,13 +7,13 @@ slug: "king-making-vs-taste-making"
 type: "newsletter"
 ---
 
-![](images/king-making-vs-taste-making-fce04923.png)
+![](/images/king-making-vs-taste-making-fce04923.png)
 
 Power has, historically, been able to operate in a vacuum. Whoever has the largest army, or the most resources can largely control the world. "Whoever has the gold makes the rules." I'm no historian, but it seems that for the majority of human history there was a fairly limited role for "personal preference" to play in how things are governed.
 
 Whether its the [Magna Carta](https://en.wikipedia.org/wiki/Magna_Carta), or the [Declaration of Independence](https://www.archives.gov/founding-docs/declaration-transcript), there are points in time when people have thrown off the top-down preferences in favor of their "own will." Perhaps one of the greatest demonstrations of the inspired many against the powerful few comes from [A Bug's Life.](https://en.wikipedia.org/wiki/A_Bug%27s_Life)
 
-![](images/king-making-vs-taste-making-1852d9f3.webp)
+![](/images/king-making-vs-taste-making-1852d9f3.webp)
 
 Power is such a poignant force that it becomes increasingly difficult to believe that the top-down influence is, in any way, avoidable. A lot of people give up on ever changing anything because the powerful elite will decide everything, whether we like it or not. But I think the reality is a lot more decentralized than you might expect.
 
@@ -31,7 +31,7 @@ Over the course of the bull market from 2009 to 2021, venture capital has grown 
 
 No firm has more represented this king making perspective than SoftBank's $100B Vision Fund that [launched in 2017](https://techcrunch.com/2017/05/20/softbank-vision-fund-first-close/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJ42XaQaMOa4b0wqefV-ZX4nTfLB0WynvoQ2-B7d_LoamxqzQU3kRNdS_NZ0IV-eW9j5K-jdS3oZ8e_mfpijFpDMvOMZwzWFFUWO-3_ACmhC8q6MIom9D-Ab79t2odfgmM4ND_4Kwy2MViVH4vQjw8YtnhhvSaVfX8E13LOSl1l5).
 
-![](images/king-making-vs-taste-making-116113b9.png)
+![](/images/king-making-vs-taste-making-116113b9.png)
 
 Firms like Sequoia felt forced to respond to the Vision Fund with their own [$8B global growth fund](https://www.ft.com/content/2fd281f2-775a-11e8-8e67-1e1a0846c475), their largest fund ever.
 
@@ -45,7 +45,7 @@ Wrong.
 
 There have been few attempts at king making as massive as what Jeffrey Katzenberg tried to do with Quibi, starting in August 2018. [I've written before](https://investing1012dot0.substack.com/p/whats-in-a-post-mortem) about this exceptional tale. The company raised $1.7B, and built their mobile-only media company. **The sheer hubris with which Katzenberg asserted his king-ness was akin to an actual king screaming into the void: "It is my divine right to rule!"**
 
-![](images/king-making-vs-taste-making-6e112d68.png)
+![](/images/king-making-vs-taste-making-6e112d68.png)
 
 But after 8 months live, the app shutdown to much humming and hawing. The king was no king after all. So what happened? What was missing?
 
@@ -53,7 +53,7 @@ But after 8 months live, the app shutdown to much humming and hawing. The king w
 
 What Quibi failed to recognize was that media companies like Disney or Netflix don't have divine right to entertain us. They wrack up billions in revenue entertaining us *because we want them to.* Everyone involved has tastes, and when someone comes along expecting to assert their tastes on you, they'll find themselves disappointed, and probably at least a little bit embarrassed.
 
-![](images/king-making-vs-taste-making-336f9d08.gif)
+![](/images/king-making-vs-taste-making-336f9d08.gif)
 
 Venture capital has been busy focused on the king making capabilities of capital, but they've lost sight of something important—there aren't enough startups to justify all that capital. But why is that?
 
@@ -81,7 +81,7 @@ I often see investors, especially public markets, and value investors, spend a L
 
 I saw [this tweet](https://twitter.com/thechosenberg/status/1686415996993654792?s=20) (or whatever we're calling them now) earlier this week, and I can't stop thinking about it.
 
-![](images/king-making-vs-taste-making-432059f4.png)
+![](/images/king-making-vs-taste-making-432059f4.png)
 
 I've had several debates with my partner, [Will Robbins](https://twitter.com/whrobbins), about how the next trillion dollar company might be a dating company if they can solve the real problem of loneliness and human connection. These feelings of emptiness, whether in terms of relationships, or fulfillment, there are dozens of takeaways you might have from trying to understand this human's experience.
 

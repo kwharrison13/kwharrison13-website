@@ -7,7 +7,7 @@ slug: "the-non-zero-sum-game-of-ambition"
 type: "newsletter"
 ---
 
-![Source: Cinema Sugar](images/the-non-zero-sum-game-of-ambition-c9978974.png)
+![Source: Cinema Sugar](/images/the-non-zero-sum-game-of-ambition-c9978974.png)
 
 # Misunderstood on Arrival
 
@@ -71,7 +71,7 @@ Ambition is rare. Increasingly, society has started to kick against this kind of
 
 I've written before about this dynamic in a piece called [The Renaissance of Rise and Grind](https://investing1012dot0.substack.com/p/the-renaissance-of-rise-and-grind). It was a long piece. In it, I talked about a specific equation that I think motivates most people.
 
-![](images/the-non-zero-sum-game-of-ambition-2b48d756.png)
+![](/images/the-non-zero-sum-game-of-ambition-2b48d756.png)
 
 I explained it this way:
 

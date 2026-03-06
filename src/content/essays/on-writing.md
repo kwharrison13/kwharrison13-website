@@ -7,7 +7,7 @@ slug: "on-writing"
 type: "newsletter"
 ---
 
-![](images/on-writing-3a1aa5a6.png)
+![](/images/on-writing-3a1aa5a6.png)
 
 [I've written before](https://investing1012dot0.substack.com/p/the-existential-dread-of-cognitive) about my introduction to Russian literature. That experience eventually led me to [Crime & Punishment](https://en.wikipedia.org/wiki/Crime_and_Punishment), which became one of my favorite books. Later, I would have my first moment of writing pride by pseudo-plagiarizing my favorite book for a school paper. Some would just call it "inspired by", so we'll just say that.
 
@@ -53,7 +53,7 @@ So, to the "how." I don't have a 9-part course on writing (and if I did you prob
 
 Take, for example, one of my more popular recent pieces, "[Institutionalized Belief In The Greater Fool](https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater)." Over the course of weeks I was active on Twitter, Linkedin, took notes in meetings, and made references in podcasts. I collect those references in bits and pieces. Then I put them in Roam.
 
-![](images/on-writing-57986a55.png)
+![](/images/on-writing-57986a55.png)
 
 The reason that I can wake up Saturday morning and panic write for a few hours, and have a half-decent piece with some references and threads of an idea, is because I've made a concerted effort to collect those nuggets. Those atomic units of thought. And I think that's the key takeaway for me.
 

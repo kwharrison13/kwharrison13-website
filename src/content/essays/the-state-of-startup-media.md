@@ -7,7 +7,7 @@ slug: "the-state-of-startup-media"
 type: "newsletter"
 ---
 
-![](images/the-state-of-startup-media-95374067.png)
+![](/images/the-state-of-startup-media-95374067.png)
 
 # Startup Storytelling
 
@@ -134,7 +134,7 @@ Turpentine is far from a16z's first foray into the world of media. Beyond Marc A
 
 Despite the feeling that the tech world is drowning in podcasts, the counterintuitive reality is that the volume of new podcasts being launched has actually been decreasing since a massive COVID-boom.
 
-![Source:Twitter](images/the-state-of-startup-media-e3ef9f4c.png)
+![Source:Twitter](/images/the-state-of-startup-media-e3ef9f4c.png)
 
 **So its not that, universally, the volume of podcasts is continuing to increase. It's that people in tech, in particular, have something to say.**
 
@@ -218,7 +218,7 @@ Other people, like [Whole Mars Catalog](https://x.com/wholemarsblog?s=21), have 
 
 Lots of companies would LOVE a storyteller. You don't even have to wait until the company is public. Even if they don't hire you, become a journalist for a company you believe in. Or better yet, get hired and become an [embedded journalist](https://www.linkedin.com/posts/avidan-rudansky-017594138_im-noticing-more-companies-and-investors-activity-7315780219099906049-AYWb/?utm_source=share&utm_medium=member_ios&rcm=ACoAABByfa8BHgjJyo8D6-6i0J4eXAjpzmriu-c). This is happening more and more.
 
-![Source:Twitter](images/the-state-of-startup-media-b8117092.png)
+![Source:Twitter](/images/the-state-of-startup-media-b8117092.png)
 
 Whatever simple idea resonates with you, simply take it seriously. And remember the [lesson from MrBeast](https://x.com/MrBeast/status/1811377639094899043) that success in creating anything is often just in the act of creating. He published a YouTube video once every 11 days for 10 years. That's how compounding works.
 
@@ -272,7 +272,7 @@ But the work has only just begun.
 
 Across 2,500 years, six such institutions arose in sequence, each forged during a period of upheaval that exposed the limits of the previous one:
 
-![](images/the-state-of-startup-media-3855cd48.png)
+![](/images/the-state-of-startup-media-3855cd48.png)
 
 **Recurring Patterns**
 

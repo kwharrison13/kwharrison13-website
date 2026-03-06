@@ -7,7 +7,7 @@ slug: "natural-selection-among-startups"
 type: "newsletter"
 ---
 
-![](images/natural-selection-among-startups-9e7b6a96.png)
+![](/images/natural-selection-among-startups-9e7b6a96.png)
 
 Starting a company isn't that hard. You fill out some forms to incorporate. But that's about the last easy thing you'll do. Building a company that lasts the test of time is default one of the hardest things to succeed at. Only 50% of companies [make it to their fifth birthday](https://twitter.com/emollick/status/1502680738390548481). Consistently only ~10% of companies [survive past 10 years](https://www.investopedia.com/articles/personal-finance/040915/how-many-startups-fail-and-why.asp).
 
@@ -19,7 +19,7 @@ No one starts a business hoping that it dies. Founders pour their heart and soul
 
 If you haven't acknowledged yet that the world of tech and startups is changing? You're in for a rude awakening. Public tech companies have, in many cases, seen 60%+ of their market cap wiped out in a few months. Private companies [are seeing investors pull back](https://www.theinformation.com/articles/tiger-global-d1-capital-signal-pullback-from-big-private-tech-deals-amid-market-rout?rc=ecjlpf) from high valuations. Over the next 6-12 months you'll see down rounds, [layoffs](https://twitter.com/KateClarkTweets/status/1499493024304300032?s=20&t=ZS5VWAw0BmJuDg9iahRixQ), and companies shut down.
 
-![](images/natural-selection-among-startups-7803f5cb.png)
+![](/images/natural-selection-among-startups-7803f5cb.png)
 
 **The best time to start thinking about how to manage a startup through a downturn is 6 months before the correction. The second best time is now.**
 
@@ -33,7 +33,7 @@ Before Harry deleted his tweet about natural selection in startups he got some p
 
 Anyone who believes there isn't a sort of natural element to what companies survive and which ones die, just look at Quibi. There is no better example in recent history of a company doing everything possible to force an idea into existence that wasn't meant to survive. **Quibi was like a pair of dolphins adopting a dog and bringing it home. It was never going to work out well.**
 
-![](images/natural-selection-among-startups-3c863b39.png)
+![](/images/natural-selection-among-startups-3c863b39.png)
 
 You don't survive just because you were able to raise billions of dollars. Or because you've done something successful before. There is a natural wave to what can and can't succeed. Some companies defy odds of what people *believe* will naturally succeed or fail, but that's because the skeptics are wrong. Not because there isn't a natural curve to which companies survive, thrive, or die.
 
@@ -49,7 +49,7 @@ Companies that probably don't have a good enough idea, a good enough product, a 
 
 In talking to people about natural selection in building startups I've seen an interesting counter-position of two theories: (1) the Red Queen hypothesis, and (2) the Lindy Effect.
 
-![](images/natural-selection-among-startups-4220630b.png)
+![](/images/natural-selection-among-startups-4220630b.png)
 
 ### [The Red Queen Hypothesis](https://en.wikipedia.org/wiki/Red_Queen_hypothesis)
 
@@ -61,7 +61,7 @@ Nassim Taleb explains a similar idea in his book *The Black Swan*:
 
 > *"Consider a turkey that is fed every day. Every single feeding will firm up the bird’s belief that it is the general rule of life to be fed every day by friendly members of the human race “looking out for its best interests,” as a politician would say. **On the afternoon of the Wednesday before Thanksgiving, something unexpected will happen to the turkey. It will incur a revision of belief."***
 
-![](images/natural-selection-among-startups-c8ff490f.png)
+![](/images/natural-selection-among-startups-c8ff490f.png)
 
 We often point out "startup survival rates" like I did at the top of this article (e.g. 50% live 5 years; 10% live to 10 years). But does living longer automatically mean they’re entitled to succeed?
 
@@ -83,7 +83,7 @@ Take GE as an example. The company was founded in 1892 and has operated for 129 
 
 No. GE is on an [infamous list of companies](https://www.investopedia.com/articles/investing/113015/4-famous-companies-dropped-dow-jones.asp#:~:text=Some%20of%20the%20most%20iconic,remained%20listed%20on%20the%20index.) that have been remove from the Dow along with names like Sears, AT&T, and General Motors. The company [peaked in 2008](https://companiesmarketcap.com/general-electric/revenue/) with $180B+ of revenue and have fallen dramatically since then.
 
-![](images/natural-selection-among-startups-84dd5ee1.png)
+![](/images/natural-selection-among-startups-84dd5ee1.png)
 
 Extinction for a company can come at any time. Whether its a sudden death (Quibi) or a languishing decent (GE). I think it's fair to say that a company is more of a natural thing that is always at the precipice of death. **Acknowledging the potential for death is the first step in building a business that can defy the odds and not only survive, but thrive, for as long as possible.**
 
@@ -145,7 +145,7 @@ If you retain users you can spend more to acquire them because their LTV will be
 
 A lot has been said about "growth for the sake of growth." There is an obvious need to build an effective engine rather than chasing unsustainable growth. But ultimately if you can also capture value as you grow that will allow your company to take advantage of a compounding effect. The majority of the benefit from compounding comes at the very end of the compounding period. Think of the example of putting a grain of rice on a chessboard and doubling it for each square.
 
-![](images/natural-selection-among-startups-be4a8257.png)
+![](/images/natural-selection-among-startups-be4a8257.png)
 
 You might think "yeah, the biggest chunk of value comes in the latter parts of the board.” But in fact 50% of the entire value comes in the very last square. This is why companies that start to see precipitous declines in growth, even before IPO, are concerning. They're not demonstrating the ability to take advantage of the compounding that the very best companies see in the latter years of their existence. [In 2021 Amazon generated $470B of revenue.](https://companiesmarketcap.com/amazon/revenue/) **That represents 21% of all the revenue combined that they've generated since 2000.**
 

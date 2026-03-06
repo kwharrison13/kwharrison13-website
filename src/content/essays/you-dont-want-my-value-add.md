@@ -7,7 +7,7 @@ slug: "you-dont-want-my-value-add"
 type: "newsletter"
 ---
 
-![](images/you-dont-want-my-value-add-076043c0.png)
+![](/images/you-dont-want-my-value-add-076043c0.png)
 
 I'm a big Seinfeld fan. Perhaps one of [my favorite scenes](https://www.youtube.com/watch?v=JBBQdFSvvTE) has Elaine on a trans-Atlantic flight with her boyfriend Puddy. As they settle into the flight, Elaine pulls out a book and Puddy stares ahead.
 
@@ -43,7 +43,7 @@ I've written plenty of times about the VC meme of "let me know how I can be help
 
 The first piece I wrote about this was "[The Productization of Venture Capital](https://investing1012dot0.substack.com/p/productization)." I wrote about how, increasingly, venture firms are going to be forced to clearly articulate their product. Their value proposition. Why should founders hire your money? When I asked 90+ investors what their offerings were, the vast majority of the responses fit into a few key buckets:
 
-![](images/you-dont-want-my-value-add-8ac896f7.png)
+![](/images/you-dont-want-my-value-add-8ac896f7.png)
 
 So these are, at the very least, the most common forms of "value add" that most investors offer. Every once in a while you see a new one, like simply [buying GPUs and offering them to founders](https://www.businessinsider.com/nvidia-gpu-venture-capitalists-buying-for-startups-2023-6). But by and large what most investors can offer falls into one of these buckets.
 
@@ -59,7 +59,7 @@ On the VC side, its largely an instance of over-promise, under-deliver. The offe
 
 But the founders side is more what this piece is meant to unpack even further. You have to make the ask. I often come back to this Tweet that sums up the dynamic that investors often long for:
 
-![Source:Twitter](images/you-dont-want-my-value-add-b70d9d9c.png)
+![Source:Twitter](/images/you-dont-want-my-value-add-b70d9d9c.png)
 
 You have to make the ask. I put it this way when I wrote the piece:
 
@@ -77,13 +77,13 @@ But this week I'm reflecting not on the frailties of the VC offering, but on the
 
 At the end of the first piece I mentioned above, I made one of my favorite memes I've ever made:
 
-![Source:Investing 101](images/you-dont-want-my-value-add-2fdd6e66.png)
+![Source:Investing 101](/images/you-dont-want-my-value-add-2fdd6e66.png)
 
 For a lot of investors, the pain of this meme feels all too real. The traditional conversation on Twitter so often revolves around how VCs are useless. But what happens when you're truly, genuinely trying to offer valuable help to a founder, and they couldn't care less about you?
 
 I've posted before about how more founders should put VCs to work:
 
-![Source:Twitter](images/you-dont-want-my-value-add-3cb1d49f.png)
+![Source:Twitter](/images/you-dont-want-my-value-add-3cb1d49f.png)
 
 **I think of this as zero cost contributions. Especially when VCs are trying to convince you, as a founder, to let them spend time with you, putting them to work doesn't even cost you part of your equity.** Obviously before you take money from a VC, there is a real equation you have to evaluate as to whether or not they're worth it.
 
@@ -95,7 +95,7 @@ I've been investing for nearly 10 years, and in that time I’ve come across sev
 
 I would email the founder saying "what I can do to help?" Then I would hate myself for days thinking, "you're the VC meme!"
 
-![](images/you-dont-want-my-value-add-c169f35a.gif)
+![](/images/you-dont-want-my-value-add-c169f35a.gif)
 
 Then I follow up, "what's top of mind for you? Customers or candidates?" No response.
 
@@ -109,7 +109,7 @@ I take a shot in the dark, and start cold sourcing on Linkedin to find who I thi
 
 "Hey CEO, I recently chatted with so-and-so, the C-suite exec that would be interested in seeing if becoming a customer of yours makes sense. Can I intro you?" No response.
 
-![](images/you-dont-want-my-value-add-785d1fb5.gif)
+![](/images/you-dont-want-my-value-add-785d1fb5.gif)
 
 # The Sound of Silence
 
@@ -141,13 +141,13 @@ But if an investor is offering you a good fit as a customer, its surprising to m
 
 Every founder is different, and prioritizing different things that different times. **There are so many intricacies to running a business that it can make the exercise of mapping a value add to a value need quite difficult**
 
-![Source:Investing 101](images/you-dont-want-my-value-add-c90bf565.png)
+![Source:Investing 101](/images/you-dont-want-my-value-add-c90bf565.png)
 
 VCs can do more to thoughtfully calculate the true value of their offering. **But founders could also do more to transparently communicate the things that are top of mind for them.** When VCs demonstrate a thoughtfulness about their business, founders could do more to point them in the right direction as they try to be helpful.
 
 The one caveat here too, is this idea of mutual attraction. VCs have to first demonstrate their vibes, their brand, their quality. Founders respond to that. It reminds me of this meme about sexual harassment.
 
-![Source:The Happy Talent](images/you-dont-want-my-value-add-dc1dfb36.png)
+![Source:The Happy Talent](/images/you-dont-want-my-value-add-dc1dfb36.png)
 
 Your offer to help is only really warranted if the founder finds you, as a firm, attractive. So that's the very first step. Communicate your vibes. But if you've done your best to articulate to the founder why your offering is attractive? Then all you can do is your best to offer well-intentioned calculated help.
 

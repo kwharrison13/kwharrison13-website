@@ -7,7 +7,7 @@ slug: "the-professionalization-of-startups"
 type: "newsletter"
 ---
 
-![](images/the-professionalization-of-startups-a9caa02b.png)
+![](/images/the-professionalization-of-startups-a9caa02b.png)
 
 In [Morgan Housel](https://twitter.com/morganhousel)'s book, "[The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681)," he tells the story of Bill Gates' one-in-a-million life. And he wasn't talking about being a billionaire. Or starting a successful company. He was talking about having access to a computer in 1968.
 
@@ -22,7 +22,7 @@ Most university graduate programs didn't have a computer like the one Bill Gates
 
 One in a million high-school-age students attended the high school that had the combination of cash and foresight to buy a computer. **Bill Gates happened to be one of them.** Bill Gates has even said, “If there wasn’t a Lakeside there wouldn’t be a Microsoft.”
 
-![](images/the-professionalization-of-startups-4e346bde.png)
+![](/images/the-professionalization-of-startups-4e346bde.png)
 
 How crazy that we've gone from a one-in-a-million chance to even have access to a computer 50 years ago to now having [85% of adults](https://www.pewresearch.org/internet/fact-sheet/mobile/) in the US with a smart phone in their pockets [one million times more powerful](https://www.zmescience.com/science/news-science/smartphone-power-compared-to-apollo-432/) than anything baby Bill Gates ever had.
 
@@ -30,11 +30,11 @@ With the dramatic race forward in technology you’ve seen an explosion in the n
 
 In 1970 you had a <1% chance of stumbling on someone working in tech. As the industry was just getting started in the mainstream during the 70s there was a total of 450K people working in the industry. Today? [12.2M people](https://www.zippia.com/advice/tech-industry-statistics/#:~:text=The%20U.S.%20tech%20market%20accounts,million%20workers%20as%20of%202020S). 1.7M of them work for Amazon, Apple, Google, and Facebook alone.
 
-![You can see the massive spike in growth just overthe last 10 years](images/the-professionalization-of-startups-0114a194.png)
+![You can see the massive spike in growth just overthe last 10 years](/images/the-professionalization-of-startups-0114a194.png)
 
 The odds of working with someone who has built technology at massive scale has historically been quite low. In large part because we're only just coming into massive scale. Even 10 years ago the largest tech companies were only seeing ~$200B of revenue. Today? North of $1.2 ***trillion*** dollars of revenue.
 
-![The Verge](images/the-professionalization-of-startups-f5cad8f0.png)
+![The Verge](/images/the-professionalization-of-startups-f5cad8f0.png)
 
 The number of people with experience building, scaling, and selling SaaS has only really taken off in the last 10 years or so. One of the first investing roles I had we did both later stage growth investments and small buyouts of software companies. The buyouts we did were often of old-school companies that we could help improve. **The fact that even in 2016 one of our investment themes was "the company has made good progress in transitioning from on-prem to SaaS" is crazy to me.**
 
@@ -50,7 +50,7 @@ Today product-led growth is one of peoples favorite business models to talk abou
 
 PLG has really come into vogue over the last few years. Companies like Adobe or Shopify have been offering some of their products self-serve since the early 2000s. But effectively balancing bottom-up PLG and top-down sales hasn't been common until recently.
 
-![](images/the-professionalization-of-startups-07ef9b10.png)
+![](/images/the-professionalization-of-startups-07ef9b10.png)
 
 When you look at enterprise sales it has historically still been heavily account-based. Only within the last 10 years or so have you seen companies like Slack, Dropbox, and Twilio pioneer the balance between PLG and enterprise sales.
 
@@ -66,7 +66,7 @@ As companies have started to figure out how to balance product-first building wi
 
 ### The People: Kyle Parrish; From Dropbox to Figma
 
-![](images/the-professionalization-of-startups-3f01a21d.png)
+![](/images/the-professionalization-of-startups-3f01a21d.png)
 
 Kyle Parrish started in one of the most traditional enterprise sales orgs: ADP. Big lumbering old-school software with massive teams dialing for dollars. As he was trying to find the kind of team and environment that would better resonate with him he got introduced to Dropbox. He joined in 2011 when the company was at around [$30M of revenue](https://techcrunch.com/2011/08/30/index-leads-4-billion-valuation-round-in-dropbox/).
 
@@ -74,7 +74,7 @@ You can definitely argue that Dropbox is one of the early pioneers in balancing 
 
 ### The Playbook: Figma's Approach
 
-![](images/the-professionalization-of-startups-f1498a75.png)
+![](/images/the-professionalization-of-startups-f1498a75.png)
 
 I'm always surprised to see how quickly something that was a novel hard-won idea at first becomes accepted as obvious fact. Today PLG feels like a no-brainer. From 2016 to 2021 the Forbes Cloud 100 [went from being ~30% PLG companies to ~70%.](https://blog.toplyne.io/why-plg-companies-dominate-the-forbes-cloud-100-list/) Over the same time period, publicly-traded PLG companies have seen their aggregate market capitalization grow significantly from [$20B to well over $600B](https://www.blog.toplyne.io/why-plg-companies-dominate-the-forbes-cloud-100-list/). But PLG wasn’t always so obvious.
 
@@ -94,21 +94,21 @@ There is a growing population of people that have learned the lessons of the las
 
 People who have spent years not just learning but *inventing* these playbooks and best-practices are **nodes within the collective knowledge base around building technology.** Just look at a sampling of some of the most impressive people within tech across payments, infrastructure, marketing, finance, and everything in-between.
 
-![](images/the-professionalization-of-startups-7cf09668.png)
+![](/images/the-professionalization-of-startups-7cf09668.png)
 
-![](images/the-professionalization-of-startups-17652cee.png)
+![](/images/the-professionalization-of-startups-17652cee.png)
 
-![](images/the-professionalization-of-startups-cae1cedc.png)
+![](/images/the-professionalization-of-startups-cae1cedc.png)
 
-![](images/the-professionalization-of-startups-3c1f994b.png)
+![](/images/the-professionalization-of-startups-3c1f994b.png)
 
-![](images/the-professionalization-of-startups-394640a1.png)
+![](/images/the-professionalization-of-startups-394640a1.png)
 
-![](images/the-professionalization-of-startups-d78f5f3a.png)
+![](/images/the-professionalization-of-startups-d78f5f3a.png)
 
-![](images/the-professionalization-of-startups-fa698184.png)
+![](/images/the-professionalization-of-startups-fa698184.png)
 
-![](images/the-professionalization-of-startups-077e4c7a.png)
+![](/images/the-professionalization-of-startups-077e4c7a.png)
 
 If you met one of these people at a party and looked them up afterwards you would brag about it to your friends. And this is just a tiny sample. There are hundreds of these types of people. **People who worked and struggled and whiteboarded and fought to create the models, and frameworks, and designs, and approaches that we all take for granted every day.**
 
@@ -124,7 +124,7 @@ The same is true in tech. For a long time we've looked at technology as the work
 
 The internet allows people to more effectively distribute their creativity and find their niche audiences. That is the same force that is impacting venture as people look for humans that they can understand and relate to who offer products that perfectly fit their needs. We're seeing the same appreciation start to grow in tech. **As important as the Elon Musks of the world are people are starting to more fully appreciate the people behind the curtain, like [Gwynne Shotwell](https://en.wikipedia.org/wiki/Gwynne_Shotwell).**
 
-![](images/the-professionalization-of-startups-1ee5c40e.png)
+![](/images/the-professionalization-of-startups-1ee5c40e.png)
 
 Gwynne Shotwell is one of my heroes. The dreamers are important, but the world would make very little progress without [the doers.](https://fortune.com/worlds-greatest-leaders/2018/gwynne-shotwell/)
 

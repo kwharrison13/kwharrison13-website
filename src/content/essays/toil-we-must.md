@@ -7,7 +7,7 @@ slug: "toil-we-must"
 type: "newsletter"
 ---
 
-![Source:Midjourney Beta](images/toil-we-must-54db14ef.png)
+![Source:Midjourney Beta](/images/toil-we-must-54db14ef.png)
 
 ---
 
@@ -37,7 +37,7 @@ Reddit and TikTok have countless motivational resources for the practice of "qui
 
 The divide feels particularly poignant across generations. My friend [Rex](https://twitter.com/rex_woodbury), who I jokingly refer to as a Gen Z scholar, shared an interesting tidbit that was shocking to me as a Parks and Rec fan. Most Gen Zers don't like the character of Leslie Knope. She's a peppy motivated workaholic that can't stop making binders.
 
-![](images/toil-we-must-6c2ca297.gif)
+![](/images/toil-we-must-6c2ca297.gif)
 
 Instead of "work for the sake of work," the [younger overlap](https://www.pewresearch.org/fact-tank/2019/01/17/where-millennials-end-and-generation-z-begins/) of Gen Z and millennials are reemphasizing a different focus for work.
 
@@ -55,7 +55,7 @@ In case you haven't seen the talk of tech twitter this week a company [called Ov
 
 For some people it was a [real trigger.](https://twitter.com/oven_sh/status/1562248121656102914/retweets/with_comments)
 
-![](images/toil-we-must-3fc076ca.gif)
+![](/images/toil-we-must-3fc076ca.gif)
 
 The responses fall into two camps:
 

@@ -7,7 +7,7 @@ slug: "vcs-beyond-the-meme"
 type: "newsletter"
 ---
 
-![](images/vcs-beyond-the-meme-a3b26812.png)
+![](/images/vcs-beyond-the-meme-a3b26812.png)
 
 The power of a meme is in its truthfulness. "There is a little bit of truth in every JK." In fact, memes are increasingly extending past truthfulness into [economic power](https://kyla.substack.com/p/trump-mamdani-and-cluely). One of the memes that hits closest to home in my own life is "let me know how I can be helpful."
 
@@ -62,7 +62,7 @@ If I was just getting started in venture, the first thing I would do is shore up
 
 I've always been a fan of the idea of having a personal CRM, but have never found anything that really does the job. Maybe there is some new AI context-rich personal CRM that I should check out, so feel free to send recommendations. But whatever the process or tool, the trick is not *what* you do to stay organized about the relationships you're building, but that you are actually building relationships.
 
-![](images/vcs-beyond-the-meme-14724411.png)
+![](/images/vcs-beyond-the-meme-14724411.png)
 
 From those initial conversations you identify the people who are much more plugged into other potentially entrepreneurial people. Within your foundational network you identify superconnector nodes that can lead you to other great people to meet.
 
@@ -70,7 +70,7 @@ Beyond your existing network you're also going and adding new sources for nodes.
 
 By literally just going through Linkedin and looking at everyone's background, role, and (in particular) the slope of their career. How capable they seem of moving into new challenges and expanding the types of things they're capable of. You can also prioritize people who have been at their current company for ~3+ years. If people are going to start a company, they often wait until they hit their four year vest at their current company before leaving. Out of that exercise you'll identify a handful of new nodes to go investigate.
 
-![](images/vcs-beyond-the-meme-f0d530bc.png)
+![](/images/vcs-beyond-the-meme-f0d530bc.png)
 
 # The Pitch
 
@@ -86,7 +86,7 @@ If you're not working at a venture firm yet, but you're trying to build a deeper
 
 Whether its from your existing network, friends-of-friends through your "superconnectors", or new companies you explored, you're now starting to have dozens of conversations with interesting people. Here's where it gets tricky. **The reason that "let me know how I can be helpful" is such a cringe meme is, at least in part, because (1) its transaction-adjacent; the VC clearly wants something from you in exchange for "being helpful", and (2) its shallow; they could know nothing about you and still say it.**
 
-![Source:Twitter](images/vcs-beyond-the-meme-0fcced6b.png)
+![Source:Twitter](/images/vcs-beyond-the-meme-0fcced6b.png)
 
 You're not going into these conversations wondering "what am I going to get out of this?" You're trying to focus on what, if anything, can I do that would actually be helpful to this person. And for people who are just getting started, you might be thinking "what could I do that is useful to this person?" But you'd be surprised.
 
@@ -94,7 +94,7 @@ Any compounding engine starts by just getting going.
 
 It reminds me of a [stat I read](https://x.com/kwharrison13/status/1811147382979248196) about MrBeast. He, basically, published a YouTube video every 11 days for 10 years. Consistency and shots on goal are critical in building any engine.
 
-![](images/vcs-beyond-the-meme-54ee9f0f.png)
+![](/images/vcs-beyond-the-meme-54ee9f0f.png)
 
 So lets say you go have a dozen conversations out of these initial nodes you've identified. One person is an engineer at Databricks, one is a product manager at Retool, one is a researcher at OpenAI, and one is an engineering manager at Wiz. In each conversation, your number one job is asking questions and listening to the person talk about what is important to them.
 

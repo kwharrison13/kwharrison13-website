@@ -7,7 +7,7 @@ slug: "thegp"
 type: "newsletter"
 ---
 
-![](images/thegp-b58dfe51.png)
+![](/images/thegp-b58dfe51.png)
 
 ## Renegade Spotlights
 
@@ -37,7 +37,7 @@ Every venture firm points to some kind of value-add they want to offer. I've wri
 
 TheGP has structured itself around four key pillars. The first three were the priority when they were Sweat Equity Ventures. The fourth was added after they recently [raised their first $240M fund](https://www.forbes.com/sites/alexkonrad/2022/06/07/with-240-million-fund-the-general-partnership-looks-to-revamp-value-added-vc-for-founders/?sh=54ca34fa44fe) to invest directly in the companies they work with.
 
-![](images/thegp-48fe4c0d.png)
+![](/images/thegp-48fe4c0d.png)
 
 TheGP's roots coming out of the SVE experience was this idea that we can focus on allocating the resources we have to offering a great product vs. just having the largest fund to write the largest check. Their first $30M pool of capital went to paying engineers, recruiters, and GTM experts who would all work in-house at SVE and then plug directly into the companies they work with.
 
@@ -69,7 +69,7 @@ So who are the people driving all the value that TheGP is offering?
 
 ## The Unbundling of Venture Capital
 
-![](images/thegp-d5961291.png)
+![](/images/thegp-d5961291.png)
 
 TheGP calls their team of 25 full-time experts ["The Builders."](https://www.thegp.com/news/thegp-raises-fund-redefine-value-in-VC-with-equity)
 

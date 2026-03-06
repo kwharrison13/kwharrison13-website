@@ -7,7 +7,7 @@ slug: "the-mysteries-of-an-economic-engine"
 type: "newsletter"
 ---
 
-![](images/the-mysteries-of-an-economic-engine-ade5c74e.png)
+![](/images/the-mysteries-of-an-economic-engine-ade5c74e.png)
 
 # What's Left?
 
@@ -17,7 +17,7 @@ First? When you give them an allowance, you talk them through the exercise of ta
 
 The second way? When they ask you to help them open a candy bar, you open it and then take a big bite before mumbling, “that’s taxes for you,” and walking away.
 
-![](images/the-mysteries-of-an-economic-engine-311d6ed6.gif)
+![](/images/the-mysteries-of-an-economic-engine-311d6ed6.gif)
 
 I find myself thinking about this idea all the time whenever I dig into the weeds on a company’s P&L. “Oh, so that’s revenue?” Well, actually thats the total platform volume. “Oh, so then revenue is your cut of the volume?” Well, actually we have to pay carrier fees. “Got it, and then revenue comes from that.” Right, but we have all the marketplace take rates to pay out. “So, is that gross margin?”
 
@@ -27,7 +27,7 @@ With a lot of companies, you get down, and down, and down the P&L before all the
 
 When it comes to evaluating metrics, investors span a broad spectrum. On the one end? Visionaries and storytellers. People so focused on "dreaming the dream," that numbers are just distractions. On the other hand? Some investors only care about modeling out earnings per share in 2037 for a Series A company, and no one asks the question "what does the company do?" unless it's a part of the broader question, "what does the company do **in revenue?**"
 
-![](images/the-mysteries-of-an-economic-engine-3378a6fb.png)
+![](/images/the-mysteries-of-an-economic-engine-3378a6fb.png)
 
 In reality, there is a much more intricate relationship between a company's story, large addressable markets, and the metrics a company pays attention to that doesn't get enough in-depth thought. In fact, I would argue **one of** **the biggest drivers of excess over the bull market we had for the last ~15 years was driven by a disregard for that relationship between numbers and story.**
 
@@ -43,7 +43,7 @@ Let me double-down on the orange juice analogy. There is an ocean of "spend" in 
 
 But not every orange is the same. Different kinds of spend can be captured as different kinds of revenue. And the process for getting the juice can come with fairly different cost structures. Are you hand squeezing? Single juicer? Mass juicing?
 
-![](images/the-mysteries-of-an-economic-engine-48348670.png)
+![](/images/the-mysteries-of-an-economic-engine-48348670.png)
 
 Every business model represents a stick. One end of the stick is revenue. People decide what kind of revenue they want to pick up (Subscription? Pay-for-order-flow? Interchange?) But pretty often, they don't always articulate their story or operate their business with the clear understanding that they have to pick up the other end of the stick: the cost structure.
 
@@ -105,7 +105,7 @@ Tech writers (myself included) often don't do a good enough job articulating the
 
 When we talk about an economic engine, there is a massive list of things to take into account for any given business. Take DoorDash as an example. In their S-1 they have this chart where they break down a broad swath of their economic engine, from the entire order volumes they drive, and then take that all the way down to EBITDA.
 
-![Source:DoorDash S-1](images/the-mysteries-of-an-economic-engine-cfb8c70e.png)
+![Source:DoorDash S-1](/images/the-mysteries-of-an-economic-engine-cfb8c70e.png)
 
 Understanding what that engine is (and sometimes more importantly, what it isn’t) is a critical piece of evaluating any company and its long-term potential.
 
@@ -117,7 +117,7 @@ The word "data" appears in their S-1 over 300 times. Great thread here on why th
 
 So how has that worked out for these companies that try and take a traditional insurance model or real estate brokerage, and techify it? Not great. Companies like Compass or Opendoor are both down more than 75% YTD.
 
-![](images/the-mysteries-of-an-economic-engine-d23e6162.png)
+![](/images/the-mysteries-of-an-economic-engine-d23e6162.png)
 
 So are all "traditional" companies garbage? Not at all. [Title insurance](https://swingtradebot.com/stocks-tagged-as/1364-title-insurance) companies like C&F Financial Corporation or First Citizens literally have 100% gross margins. Should they be treated exactly like Root? No, because not all insurance is equal. Not all revenue is equal. Not all gross profit is equal. **Not every economic engine is created equal.**
 
@@ -127,7 +127,7 @@ Is one bad and one is good? Not necessarily. They're different economic engines.
 
 And that's not without merit. Around Snap's IPO they still had [negative gross margins](https://finance.yahoo.com/news/snap-inc-snap-business-model-145006380.html) because the cost to service their massive audience outweighed their revenue. They've steadily improved those gross margins as they've achieved scale.
 
-![](images/the-mysteries-of-an-economic-engine-37059389.png)
+![](/images/the-mysteries-of-an-economic-engine-37059389.png)
 
 But some businesses may never improve their engines. **That tipping point will be different for every company**, and we could all do a better job of articulating that. When we talk about companies with subscription revenue, or interchange revenue, or usage-based revenue, there is a lot of nuance packed into that. And we could do a better job for employees, and investors, and future public markets, to better articulate those intricacies. While markets may ebb and flow in terms of how much emphasis they put on growth vs. profitability, the core thread not to lose is [this idea](https://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/):
 

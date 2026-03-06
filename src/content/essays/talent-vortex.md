@@ -7,7 +7,7 @@ slug: "talent-vortex"
 type: "newsletter"
 ---
 
-![](images/talent-vortex-61073055.png)
+![](/images/talent-vortex-61073055.png)
 
 ## The Association of the Like-Minded
 
@@ -67,17 +67,17 @@ PayPal isn't the only company to build a tech mafia. There are a number of compa
 
 Other companies like Figma will likely see their own alumni networks spread out and build more world-class companies once they have more time. A lot of the best people at Figma are still there basking in the glory of their meteoric rise. **If a tech mafia is the outcome of a high concentration of talent then the input is a successful talent vortex.**
 
-![](images/talent-vortex-130a06ce.png)
+![](/images/talent-vortex-130a06ce.png)
 
 This idea of a "tech family tree" is common among startups but rarely discussed. The idea is that **when talented people have worked at other great talent vortexes you associate with really smart people.** Then as you build something you're able to find the smartest people you worked with before and try and convince them to join your new company.
 
 A great example of this is [Persona](https://withpersona.com/). I had the privilege to invest in Rick, Christie, and Charles as they've gone about building a new way of thinking about identity online. They came from Square, Linkedin, and Dropbox. All three of those companies have been talent vortexes in their own right over time. Now Persona is building from that starting point.
 
-![](images/talent-vortex-7920e152.png)
+![](/images/talent-vortex-7920e152.png)
 
 One of the most impactful things an investor can do is introduce new DNA into a budding talent vortex. If you do it right you're bringing the best that another company ecosystem has to offer. An example of this: [Erik Kriessmann](https://www.linkedin.com/in/erikkriessmann/) is someone I worked with at Index and he introduced [Zach Van Zant](https://www.linkedin.com/in/zacharyv/) to the team at Persona as a VP of Sales who came from Asana.
 
-![](images/talent-vortex-658da744.png)
+![](/images/talent-vortex-658da744.png)
 
 There is a fascinating web of people working across a variety of companies. But even more interesting than the never-ending list of Linkedin profiles that overlap is **a cross pollination of playbooks.** For example, Jimmy Soni talks about this in the PayPal podcast. **The founders of YouTube came from PayPal and took a page right out of the PayPal playbook on distribution.** Just like PayPal had gotten their payment buttons embedded right on the homepage of online stores, YouTube worked to build embeddable videos that to this day are still one of the most effective methods of embedding videos and driving distribution of a specific media type.
 
@@ -131,7 +131,7 @@ No one gets promoted to become the official "go-ask-so-and-so" person. That righ
 
 This ties pretty closely into the idea of focusing on a meritocracy where the best ideas are rewarded. Many of the best talent vortexes had a focus on people who had demonstrated early potential and career trajectory rather than tenure. **Someone who has performed exceptionally in some aspect of life and seen their career inflect quickly is likely more hungry than someone who has been trudging along in the same role for 5+ years.** Someone like this is hungry for more.
 
-![](images/talent-vortex-e2cba60f.png)
+![](/images/talent-vortex-e2cba60f.png)
 
 This idea of focusing on potential came up again and again. Alex Allain, who was the Director of Engineering at Dropbox for 7 years, [wrote a guide](https://www.holloway.com/s/trh-what-i-learned-from-conducting-500-technical-interviews-part-1?login_success=1) laying out what he learned in conducting 500+ technical interviews at Dropbox. **The ability to identify potential is actually a skill; not just a choice.** Alex lays out how some exceptional interviewers could become the difference between identifying average talent and diamonds in the rough.
 

@@ -7,13 +7,13 @@ slug: "the-value-cycle"
 type: "newsletter"
 ---
 
-![](images/the-value-cycle-59020b33.png)
+![](/images/the-value-cycle-59020b33.png)
 
 [I've written before](https://investing1012dot0.substack.com/p/the-cowards-conviction?utm_source=publication-search) about how movies are a big part of my personality. I have a myriad of random references hard-coded into my psychology where, sometimes, I'm surprised they're even there. That happened this week as I was thinking about the idea of value creation, and value capture. I was reminded of a particular scene.
 
 Tom Sawyer has tricked a group of boys into thinking that painting, or whitewashing, a fence is the most fun he's had in his life, so the boys pay Tom in trinkets and treats for the privilege of painting the fence. Now, that story is straight out of [Mark Twain's book](https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer), but my particular memory comes from the [1973 musical](https://bit.ly/4aeKLKQ) (that features 11-year old Jodie Foster).
 
-![Source:YouTube](images/the-value-cycle-09186e7b.png)
+![Source:YouTube](/images/the-value-cycle-09186e7b.png)
 
 My grandparents had the VHS tape, and I watched it a lot as a kid. Now excuse me, while I bend to the weight of my years, and endure the sweet embrace of age… Alright, moving on.
 
@@ -28,7 +28,7 @@ Understanding the Value Cycle, and being able to answer which, if any, of the fo
 
 # What Is Value?
 
-![](images/the-value-cycle-c5d4af44.png)
+![](/images/the-value-cycle-c5d4af44.png)
 
 I remember taking my first finance class in college, and learning about the primary principle of "[maximizing shareholder value](https://www.investopedia.com/terms/s/shareholder-value.asp)." Creating value is the primary driver of capitalism. For better, or worse, economic growth is predicated on creating value.
 
@@ -40,7 +40,7 @@ The first piece of the cycle is letting people dream. **In an ideal world, the m
 
 I think a lot of those efforts are in rebellion to the rise of dystopian dreaming we're seeing elsewhere. We're no strangers to dystopian nightmares in our literature. During World War II and the Cold War, there was a fertile ground for dystopian storytelling. But from the 80s to the early 2000s, we took a break from nightmares and lived a pretty good life. Then, things started to change.
 
-![Source:Electric Lit](images/the-value-cycle-7f415358.png)
+![Source:Electric Lit](/images/the-value-cycle-7f415358.png)
 
 Every book was a disaster story. Zombies, famine, societal breakdown. We now have [a film](https://bit.ly/3wCErig) that is trying to, as realistically as possible, articulate how the new Civil War is going to happen. People are sick of those dreams, and are desperate to find something more optimistic to hold on to.
 
@@ -82,7 +82,7 @@ In simplest terms, [Value Conversion](https://en.wikipedia.org/wiki/Value_conver
 
 I've written before about building a sustainable business in a piece called "[Building an Actual Unicorn](xx)." In it, I shared a Twitter exchange that I love:
 
-![](images/the-value-cycle-72ca2be2.png)
+![](/images/the-value-cycle-72ca2be2.png)
 
 Source: [Twitter](https://twitter.com/aashaysanghvi_/status/1591520201010544641?s=20)
 
@@ -126,7 +126,7 @@ Companies like Cognition Labs are valued at $2B, though they don't have revenue.
 
 Could the same thing happen in AI? We've already started to see things like ChatGPT traffic volumes plateau.
 
-![Source:The Wrap](images/the-value-cycle-282569c8.png)
+![Source:The Wrap](/images/the-value-cycle-282569c8.png)
 
 Many of the use cases for AI today are still likely propped up by experimental budgets. What does the steady state of AI spending look like? It's still obviously unclear.
 

@@ -7,7 +7,7 @@ slug: "according-to-plan"
 type: "newsletter"
 ---
 
-![](images/according-to-plan-32b3f7c9.png)
+![](/images/according-to-plan-32b3f7c9.png)
 
 In 2008 one of the most important experiences in my life was making sure I argued with all of my friends about which movie was better; The Dark Knight? Or Iron Man. Meanwhile the world was experiencing one of the five worst financial crises in history that led to a [$2 trillion loss globally](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008#:~:text=It%20was%20among%20the%20five,during%202008%2C%20reaching%20%2410.5%20trillion.).
 
@@ -35,7 +35,7 @@ But the one key aspect of all of these potential outcomes? **They have to repres
 
 ## The All-Powerful Plan
 
-![](images/according-to-plan-fbee8bd5.png)
+![](/images/according-to-plan-fbee8bd5.png)
 
 For those companies who expect to raise money and continue to burn cash unprofitably in pursuit of scale **there has never been a more important time than now to have a clearly articulated plan**. I've never read a better summary of the psychology and dynamics behind a startup's planning process than what [Christoph Janz](https://twitter.com/chrija/status/1523986541839798274?s=20&t=9tl4dzZIXc1CHskPEzNqjw) wrote in his piece "[Hyper-growth is great, but don’t die while trying](https://medium.com/point-nine-news/hyper-growth-is-great-but-dont-die-while-trying-3b5125a79135)."
 
@@ -49,7 +49,7 @@ While VC money does exist to help businesses scale in the early days of company 
 
 One of the things that a lot of folks could have planned for better is a point in time where access to cash might be more limited. For those companies that never had the right plan in place? The last few months have gone by really [Fast](https://www.theinformation.com/articles/fast-the-troubled-fintech-startup-is-shutting-down?rc=ecjlpf) and left a lot of people panicking.
 
-![](images/according-to-plan-71b9d15d.png)
+![](/images/according-to-plan-71b9d15d.png)
 
 ## Start With The End In Mind
 

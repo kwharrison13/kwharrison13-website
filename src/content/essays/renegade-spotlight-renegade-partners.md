@@ -7,7 +7,7 @@ slug: "renegade-spotlight-renegade-partners"
 type: "newsletter"
 ---
 
-![](images/renegade-spotlight-renegade-partners-1a56d50b.png)
+![](/images/renegade-spotlight-renegade-partners-1a56d50b.png)
 
 # Renegade Spotlights
 
@@ -45,7 +45,7 @@ So the next logical question? What is the evolution of today? Roseanne and Renat
 
 So as the team set out to create a firm to support that ability to scale, they did what any good founder would do, and did some user research. They went out and asked three questions to the founders they'd worked with, and then created a Venn diagram to understand what could drive the most value:
 
-![](images/renegade-spotlight-renegade-partners-f0f8015e.png)
+![](/images/renegade-spotlight-renegade-partners-f0f8015e.png)
 
 The result of that exercise? The emergence of a framework built around what Renegade Partners calls the "super critical stages." After [closing](https://www.youtube.com/watch?v=d14x3WQy1nI) their first fund on Friday the 13th of March 2020, the day the COVID earth ~~stood still~~ broke down, they set out to build in pursuit of the insights they'd uncovered.
 

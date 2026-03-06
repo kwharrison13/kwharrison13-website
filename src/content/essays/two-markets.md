@@ -7,7 +7,7 @@ slug: "two-markets"
 type: "newsletter"
 ---
 
-![](images/two-markets-9ad31a1a.png)
+![](/images/two-markets-9ad31a1a.png)
 
 In the late 80s, early 90s my Dad was in almost exactly the same phase of life as I am now. We're both in our 30s and about to have our 3rd kids. In just that generation the world has changed dramatically. [Technology went from 9% to 20%](https://www.dws.com/globalassets/merill-lynch/pdfs/cio_view_sp_500_sector_composition.pdf) of the S&P 500 between 1980 and 2020. In [2011](https://future.a16z.com/software-is-eating-the-world/) we realized "software was eating the world" and [in 2021 we decided](https://pitchbook.com/news/articles/us-unicorns-2021-venture-capital-valuations) we'll see unicorns as often as we see cows on a roadtrip. Technology has become inevitable in almost every facet of our lives.
 
@@ -23,7 +23,7 @@ But there is more going on than just keeping a handle on your mental wellness as
 
 Conveniently the most clear visualization of the divide between the best and the rest comes out weekly thanks to Jamin Ball's "[Clouded Judgement](https://cloudedjudgement.substack.com/)." I think about this particular graph every single week:
 
-![](images/two-markets-ce97f82d.png)
+![](/images/two-markets-ce97f82d.png)
 
 At the very peak a few months ago the contrast was insane with [the top 5 median](https://cloudedjudgement.substack.com/p/clouded-judgement-111221) at 74x vs. 16x for the rest. With the recent market correction you've seen that come down a lot but the difference between a 33x multiple vs. 10x is still dramatic. **If you're a business expecting $500M of revenue next year that's the difference between being a $5B company or a $17B company.**
 
@@ -35,7 +35,7 @@ There's no magic answer. Could be the Fed's [rate hikes that were announced in l
 
 [I wrote last week](https://investing1012dot0.substack.com/p/valuations) about the valuable learning lesson in noticing what valuations have dropped most dramatically during the last few months. There are some noticeable differences in the way some companies have been impacted.
 
-![% change between periods; as of February 4th, 2022](images/two-markets-aa23b16b.png)
+![% change between periods; as of February 4th, 2022](/images/two-markets-aa23b16b.png)
 
 Whether it's the good (Datadog only down 16% from ATH or Confluent down 10%), the bad (Coupa down 64% from ATH and UiPath down 59%) or even looking outside this comp set for the ugly (Robinhood down 79% from ATH or Peloton down 81%).
 
@@ -47,7 +47,7 @@ Not every company can be AWS. And not every company will be directly leveraged t
 
 Every year KeyBanc puts out the results of their [private SaaS company survey.](https://www.key.com/kco/images/kbcm_saas_suvey_9-22-1_2.pdf) Rather than showing the very best they show, by definition, what an "average" software company looks like.
 
-![](images/two-markets-ac5ba462.png)
+![](/images/two-markets-ac5ba462.png)
 
 With the median revenue growth rate across the board at 31% that will put you squarely in the "average company" bucket. AWS is growing at [40% with $71B in revenue](https://twitter.com/jaminball/status/1489348814125211648?s=20&t=HU-2JsVZBFFl0exDtJ40Lg), and accelerating. SentinelOne is [growing revenue at 116% YoY](https://cloudedjudgement.substack.com/p/clouded-judgement-2422) when they're at $169M in revenue. **Investors are being required to justify the long-term potential for the businesses they invest in. Sustaining and even accelerating revenue growth is a key part of that.**
 
@@ -59,7 +59,7 @@ There are plenty of ways to build a great business and becoming the absolute bes
 
 When a founder sets out to build a business they have a critical decision to make. The size of the outcome you want to pursue will dictate the methods you use to get there. When you raise venture capital at higher and higher valuations you're picking up one end of the stick. The other end of the stick is a host of expectations around how big your outcome needs to be. **There are a lot of founders who want to pick up the stick with the 100x higher valuation without having to pick up the requirement for a 100x larger outcome.**
 
-![](images/two-markets-2c659815.png)
+![](/images/two-markets-2c659815.png)
 
 But for the founders who understand what they're signing up for in taking on a venture-backed startup they also understand the aspiration. They ***do*** want to become one of the top 5 companies. The ones with the highest valuations, the revenue growth accelerating at scale, and the platform potential. And for those founders there are VCs lining up to get into the trenches with them.
 
@@ -103,7 +103,7 @@ But companies like Stripe, Coinbase, or Nvidia have become ways to bet on digita
 
 The more effectively a company can position themselves as an index of a large and growing category they tie their fate not just to their own execution but also to the success of the overall trend. Just make sure you're not the betamax of your category.
 
-![This is a superold school reference, even for me.](images/two-markets-51342cdb.png)
+![This is a superold school reference, even for me.](/images/two-markets-51342cdb.png)
 
 ### Inspiration > Experience > Starting For The Sake Of Starting
 

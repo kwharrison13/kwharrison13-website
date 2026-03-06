@@ -7,7 +7,7 @@ slug: "the-ethos-of-nuance"
 type: "newsletter"
 ---
 
-![](images/the-ethos-of-nuance-c97332a5.png)
+![](/images/the-ethos-of-nuance-c97332a5.png)
 
 ---
 
@@ -97,7 +97,7 @@ Unfortunately, in large part since the October 7th attack in Israel, I've starte
 
 # My Shift Right
 
-![Source:Twitter](images/the-ethos-of-nuance-3a783733.png)
+![Source:Twitter](/images/the-ethos-of-nuance-3a783733.png)
 
 So many people have articulated the danger of political violence as primarily coming from the chilling effect it has on public discourse. The more afraid people are to discuss and debate ideas, the less effective our democratic society can be.
 

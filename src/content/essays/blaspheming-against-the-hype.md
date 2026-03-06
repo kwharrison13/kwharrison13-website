@@ -7,7 +7,7 @@ slug: "blaspheming-against-the-hype"
 type: "newsletter"
 ---
 
-![The Stoning of Stephen](images/blaspheming-against-the-hype-bb456bf8.png)
+![The Stoning of Stephen](/images/blaspheming-against-the-hype-bb456bf8.png)
 
 *Sort of a heavy place to start for a venture capital blog, but we're gonna get into religion a bit today because I can't stop thinking about the psycho-religious dynamics that exist in funding hype in general, and AI specifically right now. So stick with me, I promise this isn't a preach piece.*
 
@@ -69,7 +69,7 @@ Tons of value has been created in dozens of categories. Again, I’m not a tech 
 
 Proptech startups raised [$32B](https://creti.org/2022-proptech-venture-capital-report) of venture capital in 2021. You can certainly point to Airbnb holding value at $75B while [other tech companies fall around it](https://twitter.com/kwharrison13/status/1638203454660435969?s=20). But look at a lot of the other names in proptech: [Compass](https://www.crunchbase.com/organization/compassinc), [Opendoor](https://www.crunchbase.com/organization/opendoor-2), [Zillow](https://www.crunchbase.com/organization/zillow), [Redfin](https://www.crunchbase.com/organization/redfin), [Procore](https://www.crunchbase.com/organization/procore-technologies). Just in that list of companies you have billions raised, but the outcomes are ~$7-8B in the best case scenario. Other times, you have companies like Compass with a market cap as high as all the capital they've raised. Or worse, you end up [like WeWork](https://twitter.com/kwharrison13/status/1647286194663997442?s=20).
 
-![Source: Koyfin](images/blaspheming-against-the-hype-917a17d6.png)
+![Source: Koyfin](/images/blaspheming-against-the-hype-917a17d6.png)
 
 **Here's an important distinction: building a multi-billion business with hundreds of millions of dollars is incredible!** I think Procore is an exceptional business, and I'm excited to own stock in it for a long time. My wife and I use Zillow as much as we use Instagram! **Passing judgement on venture hype is not the same as passing judgement on the underlying business.**
 
@@ -101,7 +101,7 @@ But this feels different than just another platform shift. **AI represents a par
 
 AI seems to be pushing towards big tech concentration, with OpenAI + Microsoft and Cohere + Google, and a host of other relationships. It reminds me of industrial consolidation. The car was a huge opportunity for human progress, but not necessarily for every car company. [95% of car companies failed](https://en.wikipedia.org/wiki/List_of_defunct_automobile_manufacturers_of_the_United_States). It's the same thing with oil companies. Even when they [broke up](https://en.wikipedia.org/wiki/Successors_of_Standard_Oil) monopolies like Standard Oil, they couldn’t help but start to concentrate again.
 
-![Source:Reddit](images/blaspheming-against-the-hype-06eff778.png)
+![Source:Reddit](/images/blaspheming-against-the-hype-06eff778.png)
 
 When you have powerful, world-shaping technology that isn't new to everyone, but rather has monopolistic powerhouses vying for its outcomes, you're going to have power vacuums sucking up as much of the space as they can.
 
@@ -111,7 +111,7 @@ When you have powerful, world-shaping technology that isn't new to everyone, but
 
 But what does seem to be the case is that a huge majority of startups, and even venture capitalists, are caught in the middle of these behemoth forces. **And my fear is that the hype from a very different game will poison the dynamics of company building and funding.**
 
-![Source:Twitter](images/blaspheming-against-the-hype-32dc0aa2.png)
+![Source:Twitter](/images/blaspheming-against-the-hype-32dc0aa2.png)
 
 The imbalance of capital needing to be deployed and the cost of building a business has never been greater. Going back to Bill Gurley's [call for skepticism](https://abovethecrowd.com/2016/04/21/on-the-road-to-recap/) back in 2016:
 
@@ -127,7 +127,7 @@ I feel literally breathless writing this. Probably one of the side-effects of ha
 
 But as I sit back and reflect on all these things that are spinning around in my mind, I kept coming back to this idea of "normal." Then, coincidentally, I saw this tweet from Sam Altman yesterday:
 
-![Source:Twitter](images/blaspheming-against-the-hype-d8f49ebf.png)
+![Source:Twitter](/images/blaspheming-against-the-hype-d8f49ebf.png)
 
 And I think it comes down to norms. The process of building a company is a micro activity that is informed by a macro picture. But being informed and being shaped are not the same things. Unfortunately, a lot of people let the macro dictate their path, like a pseudo-capitalistic "[Jesus take the wheel](https://www.youtube.com/watch?v=lydBPm2KRaU)" attitude.
 

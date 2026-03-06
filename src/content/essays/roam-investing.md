@@ -7,7 +7,7 @@ slug: "roam-investing"
 type: "newsletter"
 ---
 
-![](images/roam-investing-ddbbfe26.png)
+![](/images/roam-investing-ddbbfe26.png)
 
 Investing, in simplest terms, is taking one finite resource and trying to allocate it to maximize for an ideal outcome. Whether you're allocating money, time, energy, or attention. Everyone is an allocator of something. Investing is an opportunity to evaluate what you believe. To gain conviction. And then to act on that conviction.
 
@@ -19,7 +19,7 @@ We’ll start by laying out my thoughts on investment research. I invest in comp
 
 # **What is Roam?**
 
-![](images/roam-investing-5e1d3cae.png)
+![](/images/roam-investing-5e1d3cae.png)
 
 If you're already a Roam ninja you can skip to the next section. Let’s go over the basic building blocks I use every day within Roam. I have done what I call a #RoamTour 100 times now where I talk through these basics with people, and [my preface is this:](https://www.loom.com/share/9303c21ab9924fc4a6ee8902c19a9f04) "I'm a 2 out of 10 in Roam mastery, so this is just to show you what you can accomplish even without much skill." [Conor White-Sullivan](https://twitter.com/Conaw), the founder of Roam, describes the product as "low floor, high ceiling."
 
@@ -35,7 +35,7 @@ The most important thing to understand about Roam is that it is a collection of 
 
 One of the superpowers of Roam is the ability to reference individual blocks in different places throughout your graph. Let's say I have a block (a cell in Excel) with a quote from F. Scott Fitzgerald that I want to reference in a number of places. I can reference that block in any relevant page. Then, when I go back to that original block I can open it up and see all my references to that specific block.
 
-![](images/roam-investing-fceec40b.png)
+![](/images/roam-investing-fceec40b.png)
 
 ## **Daily Pages**
 
@@ -43,13 +43,13 @@ This is the main screen of Roam. When you open up the program each day you see a
 
 I use the daily page for anything I want to be "date stamped," like when I have a general networking call with someone and I want to remember what day I last spoke to them.
 
-![](images/roam-investing-53a4319c.png)
+![](/images/roam-investing-53a4319c.png)
 
 When I'm reading articles or having conversations about a specific company, I may just put those notes right on the company page if they're going to be things I reference a lot. For more casual daily observations about a company I create a specific page like [[[[Shopify ($SHOP)]] - Daily Sentiment]] that I'll drop on the Daily Notes page. I'll talk more about that later.
 
 ## **Side Bar**
 
-![](images/roam-investing-48c9f9fe.png)
+![](/images/roam-investing-48c9f9fe.png)
 
 You can Shift + Click on a page link and open it in the sidebar. This is particularly helpful when you're referencing one page on another so that you can see them side by side.
 
@@ -57,17 +57,17 @@ You can Shift + Click on a page link and open it in the sidebar. This is particu
 
 If you find yourself typing something over and over again, or copying and pasting, you can create a Roam template. First, you create a page called #roam/templates. On that page every main block you make will become the title of a template and whatever you put underneath that block will become the template.
 
-![](images/roam-investing-15f20aa2.png)
+![](/images/roam-investing-15f20aa2.png)
 
 You can bring up the template options on any page just by typing ";;" and then selecting from your options. The template will automatically populate from there.
 
-![](images/roam-investing-b3950988.png)
+![](/images/roam-investing-b3950988.png)
 
 ## **iFrame Embeds**
 
 One final tool that is quite powerful, though I don't use a lot, is iFrame embeds. This structure won't work on most websites because it requires they be set up a certain way. But when it does work you can embed another website right inside your Roam graph.
 
-![](images/roam-investing-bcaf1352.png)
+![](/images/roam-investing-bcaf1352.png)
 
 If you type this and then put the website you want to try and embed it will attempt to pull the site into a block on Roam. I'll explain this more later on as well: {{iframe: <https://website.com> }}
 
@@ -77,7 +77,7 @@ There are [lots of tools out there](https://adventuresinfi.substack.com/p/tools-
 
 I wanted to share some resources I've made to help me research my investments consistently: (1) investment memo templates, and (2) investment frameworks.
 
-![](images/roam-investing-fd87f291.png)
+![](/images/roam-investing-fd87f291.png)
 
 You can download both of these collections in the [Investing 101 2.0 Sandbox](https://roamresearch.com/#/app/Investing-101-2dot0/page/EkUj334LX), a public Roam graph that I use for thinking in public (at the moment, it’s early days in building it out.) I'll reference these resources a few times as part of my investment process.
 
@@ -91,17 +91,17 @@ There will always be people looking for 'get rich quick' opportunities, but my h
 
 ## **Portfolio Ideas**
 
-![](images/roam-investing-c911f07d.png)
+![](/images/roam-investing-c911f07d.png)
 
 I have always had what I’ve called "portfolio ideas." These are big-picture ideas that I collect lists of articles, concepts, and experts around. When I was 11, I wrote a business plan on a napkin for building a city starting with a bunch of condos. Now in Roam I have a [[City Building]] page. That is a portfolio idea. If you're a curious person, I guarantee you have portfolio ideas. The act of just acknowledging those ideas is powerful.
 
 Roam has become a compounding multiplier on my portfolio ideas because now I'm not just mentally amassing ideas. I'm building a graph of them. Every time I read an article, see a tweet, have a conversation, or have a book recommended I can simply add #[[City Building]] and I automatically add it to my feed for that idea. Being an investor is largely about having portfolio ideas and then finding ways to invest behind them.
 
-![](images/roam-investing-12b10758.png)
+![](/images/roam-investing-12b10758.png)
 
 ## **Self-Criticism**
 
-![](images/roam-investing-93f04a2f.png)
+![](/images/roam-investing-93f04a2f.png)
 
 If you only ever had good ideas, you'd be set for life and I'd be first in line to give you all my money. But we all know [Elon Musk](https://twitter.com/elonmusk) is the only one with exclusively good ideas. The rest of us need some help sifting the good from the bad.
 
@@ -143,7 +143,7 @@ The two things that I might create / pull into the company page beyond this outl
 
 ### **Daily Sentiment**
 
-![](images/roam-investing-7bde0fae.png)
+![](/images/roam-investing-7bde0fae.png)
 
 I mentioned this briefly before. The great thing about the Daily Notes page is it allows you to track things with an automatic date stamp and lets you add commentary around a company quickly in a place you’re already probably spending a lot of time within Roam.
 
@@ -153,7 +153,7 @@ But there is value in being able to track how my sentiment about a company evolv
 
 ### **Investment Frameworks**
 
-![](images/roam-investing-4f118256.png)
+![](/images/roam-investing-4f118256.png)
 
 The other piece of outside reference that I'll pull into a company page comes from my [[Investment Frameworks]] page in the [Investing 101 2.0 Sandbox](https://roamresearch.com/#/app/Investing-101-2dot0/page/EkUj334LX). This is my growing collection of formatted frameworks and checklists from different investors.
 
@@ -165,7 +165,7 @@ The purpose of a checklist is not to make you a dumb algorithm just checking box
 
 Roam is uniquely perfect for this kind of networked thought. You have a common repo of questions, frameworks, checklists, and categories. By easily being able to pop them open, apply them to your current research, and see where else they've been used effectively, you can become a powerhouse.
 
-![](images/roam-investing-72618dc6.jpg)
+![](/images/roam-investing-72618dc6.jpg)
 
 ## **Information Ingestion**
 
@@ -179,7 +179,7 @@ This small, press release-esque type of content is exactly the kind of thing tha
 
 ### Eloquent
 
-![](images/roam-investing-18fdf624.png)
+![](/images/roam-investing-18fdf624.png)
 
 If I read an article that is relevant for a company but isn’t overwhelmingly interesting, I might jot down a few notes under [[Company Name - Daily Sentiment]] in my Daily Note. But, when I find something I really enjoy, I'll use Eloquent.
 
@@ -189,17 +189,17 @@ The one thing I haven’t found as good a way to ingest into Roam is PDFs. There
 
 When I finish reading a particularly good piece of analysis, I'll copy and paste my notes from Eloquent into the "Resources" section of my company page. I might throw in "/today" next to the article to remind myself what day I read it. This is by the far the most common way I consume high quality analysis.
 
-![](images/roam-investing-70012f73.png)
+![](/images/roam-investing-70012f73.png)
 
 Some articles and books merit their own dedicated page rather than a section on the company page. I'll also use a less organized version of Tiago Forte's ['Progressive Summarization'](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/) technique. As I read and take notes, I'll use Eloquent to pull in what I like. Then after I've got all my highlights in one place I'll review them with a "Key Takeaways" section at the top of my notes, summarizing ideas in my own words.
 
 For example, as part of developing a thesis on [[Disney ($DIS)]], I recently read a book about Walt Disney's city building vision. You can see my key takeaways section at the top.
 
-![](images/roam-investing-90f92d00.png)
+![](/images/roam-investing-90f92d00.png)
 
 ### The Power of Readwise
 
-![](images/roam-investing-7c0887c1.png)
+![](/images/roam-investing-7c0887c1.png)
 
 One of the most phenomenal knowledge tools in my Roam stack is [Readwise](https://readwise.io/). I can connect Readwise to all the places I read things (Kindle, Instapaper, Twitter) and then import my highlights directly to Roam with pre-established metadata (e.g. pull in the author’s name, add specific tags for different kinds of content, etc.)
 
@@ -219,29 +219,29 @@ You can also read articles in Instapaper and Readwise will automatically import 
 
 I would pay $15+ a month for Readwise even if all I got was the direct Twitter to Readwise to Roam import. When I see a tweet that I like or that is relevant to an idea I have in Roam, or a stock I'm tracking, I can just DM it to @readwiseio, type the word "Thread" so that it saves the text of the tweet, and whatever tag I want to appear in Roam.
 
-![](images/roam-investing-cd1eca18.png)
+![](/images/roam-investing-cd1eca18.png)
 
 ## Stock Tracking
 
 Some of the best information about a business lives in niche communities online. You can find these on Twitter, Reddit, or elsewhere, but my community of choice is [Commonstock](http://commonstock.io/#download).
 
-![](images/roam-investing-74a6c138.png)
+![](/images/roam-investing-74a6c138.png)
 
 The most powerful thing about Commonstock is the emphasis on connecting high quality analysis to specific stocks. When I start covering a company, one of the places I start is on Commonstock. I'll review the leaderboard for a particular stock and see if those users have published any memos.
 
 I don't need super robust information on a stock, but I like to have everything in one place which is why Commonstock is so relevant to Roam. One of the things I love is using an iFrame embed to put a stock page from Commonstock as part of my company page.
 
-![](images/roam-investing-3057b9f3.png)
+![](/images/roam-investing-3057b9f3.png)
 
 From there I can even pop open different memos directly in the embedded window and take notes right in my company page.
 
-![](images/roam-investing-f39f4f50.png)
+![](/images/roam-investing-f39f4f50.png)
 
 There are certainly more sophisticated data tracking tools for stocks but, for someone like me who is mostly managing long-hold thesis-driven investments in public companies, this works great for me.
 
 # Creating a Personal CRM
 
-![](images/roam-investing-8ef59b60.png)
+![](/images/roam-investing-8ef59b60.png)
 
 Even outside of specific company coverage, Roam is a phenomenal CRM for all parts of my life. For every call I have I tag the [[Name]] and [[Company]] of the person I talk with. I’ll try and tag them within relevant pages as well (e.g. [[Identity & Access Management]]. By doing that, when I go looking at different areas I'll start to notice, "hey this person has come up a lot in regards to XYZ." I can then drill into that person's page in Roam and see where else we've had conversations that might be relevant for me. This has become the way I've started identifying the folks who are category specialists within my network. There are some early projects out there like [Roam CRM](https://www.roamcrm.xyz/) building out features to automatically enrich contact information.
 
@@ -249,7 +249,7 @@ Even outside of specific company coverage, Roam is a phenomenal CRM for all part
 
 Recently I had a call with a successful public market investor. The topic of "learning in public" came up. He asked me a first-principles question that I should think about more often: "What is the benefit of learning in public?" Big hedge funds traffic in ideas and they get paid for having differentiated perspectives. Learning in public could be seen as antithetical to the traditional investing model. But the world is opening up. Some of the best brainstorms aren't happening in deal meetings but on Twitter. The best analysis isn't locked behind equity research paywalls, it's on Substack.
 
-![](images/roam-investing-0404251d.png)
+![](/images/roam-investing-0404251d.png)
 
 Think about it this way. As [Tiago Forte](https://fortelabs.co/blog/the-second-brain-manifesto/) puts it: "The scarcity mindset of the past led us to hide and protect our ideas. But today, power and influence come from sharing our ideas, not from keeping them secret." And why does sharing ideas drive power and influence? The more you're willing to put out ideas, whether right or wrong, the more likely you are to start accumulating right answers.
 

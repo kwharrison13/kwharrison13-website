@@ -7,7 +7,7 @@ slug: "founder-ideology"
 type: "newsletter"
 ---
 
-![](images/founder-ideology-db77c391.png)
+![](/images/founder-ideology-db77c391.png)
 
 ---
 

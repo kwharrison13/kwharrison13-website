@@ -13,11 +13,11 @@ type: "newsletter"
 
 *Let's dig into it.*
 
-![](images/books-20-0bb1671f.png)
+![](/images/books-20-0bb1671f.png)
 
 Have you ever seen something so cute, you can't stand it? The cuteness elicits an overwhelming physical response. Babies, puppies, meerkats. Whatever floats your boat. Just the cutest thing in the world? So cute that you can't help but feeling like you just want to eat it! "I could just eat you up" *(read in your most babyish grandma voice)*.
 
-![](images/books-20-9b143276.png)
+![](/images/books-20-9b143276.png)
 
 Well, it turns out that feeling actually has a name: [cute aggression](https://en.wikipedia.org/wiki/Cute_aggression). And not just a name, but several pieces of academic literature unpacking the phenomenon.
 
@@ -87,7 +87,7 @@ I recognize everyone is free to have whatever experience with books they'd like,
 
 From the [invention](https://en.wikipedia.org/wiki/Global_spread_of_the_printing_press#) of movable type by Gutenberg in 1439, books started getting going. It took ~400 years to hit a billion printed books.
 
-![Source:Wikipedia](images/books-20-d997444d.png)
+![Source:Wikipedia](/images/books-20-d997444d.png)
 
 In [simplest terms](https://www.quora.com/Why-did-books-become-the-dominant-form-of-written-words), "books were cheaper, less cumbersome, and more easily replaced than scrolls and the early forms of books." So, for hundreds of years the medium remained the primary attempts at information transmission. **But I'd argue books were more effective as mechanisms for information storage, rather than transmission.**
 
@@ -97,25 +97,25 @@ And modernity seems to have proven that as other forms of media have taken up fa
 
 People are, definitively, reading fewer books and spending less time, in general, reading books. The "[American Time Use Survey](https://www.bls.gov/tus/)" has collected 15+ years of data, shedding light on what people are doing with their time. Across gender, race, socioeconomic status, etc. Everyone is consistently reading less.
 
-![Source:Good E Reader](images/books-20-529199fe.png)
+![Source:Good E Reader](/images/books-20-529199fe.png)
 
 While reading has been in steady decline, it was quickly overtaken as soon as television hit its heyday. The first television broadcast was [in 1927](https://www.cs.cornell.edu/~pjs54/Teaching/AutomaticLifestyle-S02/Projects/Vlku/history.html), but TV really took off in the 50s.
 
-![Source:The New Yorker](images/books-20-eae8bc18.png)
+![Source:The New Yorker](/images/books-20-eae8bc18.png)
 
 From 1950 to 1959, the percentage of American households with a television set went from [9% to 85.9%](https://www.britannica.com/art/television-in-the-United-States/The-late-Golden-Age)! And that was when it was just one TV you had to sit down to watch, and share the programming with your family. Children today will never understand the feral rage one can summon in a fight with your siblings to control the remote.
 
 Fast forward to today when everyone is carrying a little TV in their pocket, our attention focused on TV has skyrocketed.
 
-![Source:WordsRated](images/books-20-b06b59de.png)
+![Source:WordsRated](/images/books-20-b06b59de.png)
 
 Meanwhile, the internet has surpassed TV time in terms of daily consumption worldwide.
 
-![Source:Statista](images/books-20-696d3233.png)
+![Source:Statista](/images/books-20-696d3233.png)
 
 Granted, at this point it all starts to blend together. We use the internet to do everything, whether its watching TV, consuming news, or reading. So its tough to segment the internet time. Instead, you can look at leisure activities and see that, while our time with television sets may have been passed by our internet time, its still watching TV that is [taking up a big chunk](https://www.vox.com/2014/4/11/5553006/how-americans-spend-their-time-in-6-charts) of our leisure time.
 
-![Source:U.S. Bureau of Labor Statistics](images/books-20-bc854094.png)
+![Source:U.S. Bureau of Labor Statistics](/images/books-20-bc854094.png)
 
 So, as other mediums have pushed in to take our attention, that's had an overall impact on how books get made.
 
@@ -123,17 +123,17 @@ So, as other mediums have pushed in to take our attention, that's had an overall
 
 Books are starting to blend together. In some cases, they literally look the same. Whether its the colorful abstract fiction novel...
 
-![](images/books-20-627f00ff.png)
+![](/images/books-20-627f00ff.png)
 
 Or the sterile white / off-white academic-ey non-fiction book.
 
-![](images/books-20-e9441df1.png)
+![](/images/books-20-e9441df1.png)
 
 Don't get me wrong, I've read several of these books and really liked them. But often these are the exceptions, not the rule. Some people have pointed to the increasing prevalence of pop psychology books. These books that come across as fairly scientific, but are often crafted to be the most attention grabbing. The clickbait or gossip magazines of the book world.
 
 The business model behind books seem to be pushing what gets published to the least common denominator. For example, book lengths on average have come down to a pretty consistent ~250 page average.
 
-![Source:Book-in-a-Box](images/books-20-e8c97a6f.png)
+![Source:Book-in-a-Box](/images/books-20-e8c97a6f.png)
 
 Some people would say things like "well, authors used to get paid by the word, so we're just cutting out the fluff.” But that [wasn't exactly true](https://dickens.ucsc.edu/resources/faq/by-the-word.html). I think it has more to do with our increasingly short attention spans.
 
@@ -157,7 +157,7 @@ I've always credited [Nadia Eghbal Asparouhova's](https://twitter.com/nayafia) 
 
 I also occasionally go to bat for the idea online.
 
-![Source:Twitter](images/books-20-7cc4b210.png)
+![Source:Twitter](/images/books-20-7cc4b210.png)
 
 As an abstract concept, comparing open access content to open source software can be really interesting. But what doest that mean in practice?
 
@@ -175,7 +175,7 @@ A core fundamental truth that I gained from using Roam, and taking more notes, a
 
 In Roam, I can keep track of quotes that resonate with me. Each of those quotes is one atomic thought. For example, this quote from F. Scott Fitzgerald: "The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function." If you've heard that quote before, its a loose connection in your brain. For me, I can see all nine references of where I've connected that quote before. For example, you can see I used it in my pieces on [Post-Mortems](https://investing1012dot0.substack.com/p/whats-in-a-post-mortem), [The Meme Economy](https://investing1012dot0.substack.com/p/the-meme-economy), and [what to build](https://investing1012dot0.substack.com/p/its-time-to-build-but-build-what).
 
-![](images/books-20-4fd64d5e.png)
+![](/images/books-20-4fd64d5e.png)
 
 Now, to each their own on the system or process you use. But **the key idea is creating the ability in every piece of information you ingest, from books to TikToks to Tweets / xeets to articles to podcasts, to identify (1) the atomic thoughts in that piece of content, and (2) the connections to other atomic thoughts you've come across.** Andy discusses this exact practice in [his overview](https://andymatuschak.org/books/) on the weaknesses of books:
 
@@ -197,13 +197,13 @@ Andy explains the relationship between metacognition and books [this way](https:
 
 In it, he contrasts the typical structure of a book as sequential vs. a subtextual meaning structure. The sequential structure looks like this:
 
-![Source:Francis Miller](images/books-20-92629bb4.png)
+![Source:Francis Miller](/images/books-20-92629bb4.png)
 
 Miller points out that every book has an implicit meaning structure (e.g. what they're trying to say.) But they don't typically weave the sequential structure to map to the meaning structure very well. **Metacognition is the act of attempting to make the author's implicit meaning** ***explicit*****.**
 
 Once you've articulated the meaning structure, it could look more like this:
 
-![Source:Francis Miller](images/books-20-ab1fd57d.png)
+![Source:Francis Miller](/images/books-20-ab1fd57d.png)
 
 Miller explains some of the negative implications behind the need for this translation from implicit to explicit meaning structures:
 
@@ -213,7 +213,7 @@ Another way to think about the explicit meaning of key ideas is going back to th
 
 David Perell has a great piece entitled "[Hyper Publishing: The Wiki Strategy](https://perell.com/essay/wiki-strategy/)." He talks about hyperlinks as the foundation of the internet. One of the things the typical hyperlink is missing, though, are called "backlinks." **Showing the back and forth relationship between an idea or piece of content.** In Perell's piece, he has this sick image of the reference links in the Bible. "In the photo [below], every single line represents a Biblical verse. The length of each line is proportional to how many times that verse is referred to in some way by some other verse."
 
-![Source:David Perell](images/books-20-ba4aa235.png)
+![Source:David Perell](/images/books-20-ba4aa235.png)
 
 Those relationships represent powerful context to better understand those ideas. **But you can't get access to that level of interconnectivity in the book itself.** The way Perell [explains it](https://perell.com/essay/wiki-strategy/):
 
@@ -227,7 +227,7 @@ Then, each time I referenced an idea from an email, or a memory from a journal, 
 
 [The great global knowledge graph.](https://kwharrison13.com/essays/building-the-global-knowledge-graph)
 
-![Source:kwharrison13.com](images/books-20-cda712a7.png)
+![Source:kwharrison13.com](/images/books-20-cda712a7.png)
 
 But I can't. So, instead, Books 2.0 becomes more about the reader than the book.
 

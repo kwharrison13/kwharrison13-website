@@ -7,7 +7,7 @@ slug: "the-levers-of-innovation"
 type: "newsletter"
 ---
 
-![](images/the-levers-of-innovation-4903fd8e.png)
+![](/images/the-levers-of-innovation-4903fd8e.png)
 
 What makes anything happen? Increasingly, there are no simple answers to that question.
 
@@ -15,7 +15,7 @@ My wife and I enjoyed watching a TV show called [The Good Place](https://en.wiki
 
 The problem in this theoretical ethical construct is that the point system hasn't been updated since early civilization. As one of the non-human characters [explains](https://www.youtube.com/watch?v=R8m_5HDZF7w), "life now is so complicated. It's impossible for anyone to be good enough for The Good Place." For example?
 
-![](images/the-levers-of-innovation-2b9a1c96.png)
+![](/images/the-levers-of-innovation-2b9a1c96.png)
 
 > *"Just buying a tomato at a grocery store means that you are unwittingly supporting toxic pesticides, exploiting labor, contributing to global warming. **Humans think that they're making one choice, but they're actually making dozens of choices they don't even know they're making**."*
 

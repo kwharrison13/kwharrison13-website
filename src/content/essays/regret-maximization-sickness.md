@@ -7,7 +7,7 @@ slug: "regret-maximization-sickness"
 type: "newsletter"
 ---
 
-![Source:Clark Kelley Price](images/regret-maximization-sickness-040e4dc2.png)
+![Source:Clark Kelley Price](/images/regret-maximization-sickness-040e4dc2.png)
 
 # Turning
 

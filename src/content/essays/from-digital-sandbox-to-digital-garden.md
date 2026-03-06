@@ -7,19 +7,19 @@ slug: "from-digital-sandbox-to-digital-garden"
 type: "newsletter"
 ---
 
-![](images/from-digital-sandbox-to-digital-garden-c14f2407.png)
+![](/images/from-digital-sandbox-to-digital-garden-c14f2407.png)
 
 For those of you that have followed my writing for a while, you'll probably know that I'm a pretty exorbitant note taking nerd. In fact, my very first post on this blog was "[Networked Conviction](https://investing1012dot0.substack.com/p/roam-investing)," an overview of how I use [Roam Research](https://roamresearch.com/) for taking notes on investing. But Roam isn't where my obsession started. I started using Twitter at the beginning of COVID lockdowns, which is where I found Roam. But my documentation hunger goes much deeper than that.
 
 Before Roam, it was Notion. And before Notion, it was Evernote.
 
-![](images/from-digital-sandbox-to-digital-garden-f210651d.png)
+![](/images/from-digital-sandbox-to-digital-garden-f210651d.png)
 
 I don't remember being particularly organized as a kid, or in high school. I did have a master notebook with a big running checklist. But my writing habit mostly started on my [mission](https://newsroom.churchofjesuschrist.org/article/mission#:~:text=%EF%83%81,humanitarian%20assistance%20or%20other%20service.) for The Church of Jesus Christ of Latter-Day Saints. [I've written before](https://investing1012dot0.substack.com/p/on-writing?utm_source=publication-search) about the experience I had doing at least two hours of scripture study every day.
 
 Over the course of two years, I filled 11 study journals with different kinds of notes, quotes, stories, and lessons. That was really where my hunger for consuming, capturing, organizing, and utilizing knowledge really began.
 
-![](images/from-digital-sandbox-to-digital-garden-efe0b96b.png)
+![](/images/from-digital-sandbox-to-digital-garden-efe0b96b.png)
 
 That last time I talked about this was a reflective piece called "[On Writing](https://investing1012dot0.substack.com/p/on-writing?utm_source=publication-search)." In it, I shared a quote that has always resonated with me:
 
@@ -29,7 +29,7 @@ I feel that way about everything. Every meeting, every class, every conversation
 
 My system for tracking these fleeting thoughts has evolved over time. In 2020 I was [obsessed](https://x.com/kwharrison13/status/1299519854169346050) (like [really obsessed](https://x.com/kwharrison13/status/1371843694106718220)) with Roam, and recommended it to everyone. Don't get me wrong, I'm still an hourly active user (I'm literally writing this in Roam right now). But I've come to accept that Roam isn't for everyone. Even for me, my Roam graph is too big so it doesn't load on their mobile app, so I've been having to capture random ideas on the go in my Apple Notes app instead, and then I transfer them later.
 
-![](images/from-digital-sandbox-to-digital-garden-6291f7ce.png)
+![](/images/from-digital-sandbox-to-digital-garden-6291f7ce.png)
 
 I think of these small emerging nuggets, just interesting ideas that catch my eye, as critical fodder for any writing I do. But lately, I've been feeling like this process has become a black hole where stuff struggles to make it from raw idea to formulated thought.
 
@@ -41,7 +41,7 @@ And what better way to unpack this conundrum of my thought funnel than to unpack
 
 # My Digital Garden
 
-![](images/from-digital-sandbox-to-digital-garden-b5dce1d9.png)
+![](/images/from-digital-sandbox-to-digital-garden-b5dce1d9.png)
 
 Digital gardens are one of many discoveries I made during my Roam Renaissance era in 2020. I've always credited [Maggie Appleton](https://twitter.com/Mappletons) with exposing me to the concept of a "[digital garden](https://maggieappleton.com/garden-history)." As Maggie describes them:
 
@@ -55,13 +55,13 @@ But my obstacle has been further up, at the top of the funnel. Ideas that arenâ€
 
 # My Digital Sandbox
 
-![](images/from-digital-sandbox-to-digital-garden-9c7e9c28.png)
+![](/images/from-digital-sandbox-to-digital-garden-9c7e9c28.png)
 
 My personal website, [kwharrison13.com](https://kwharrison13.com/), is where I keep all my longer lasting and public facing things. My best [essays](https://kwharrison13.com/essays). My aforementioned [Portfolio Ideas](https://kwharrison13.com/portfolio-ideas). My digital [bookshelf](https://kwharrison13.com/bookshelf). My "[Music](https://kwharrison13.com/music)." My pivotal [videos](https://kwharrison13.com/videos). The [podcasts](https://kwharrison13.com/2c40742b828c44ab848ee43d4a545d60) I've done. And the [learning](https://kwharrison13.com/9ee8bc22e7de410d9f5f95d90deef44b) I'm trying to do.
 
 I've enjoyed more and more building this digital repository. And now, I'm adding one more piece of the puzzle: [my digital sandbox](https://kwharrison13.com/portfolio-ideas).
 
-![](images/from-digital-sandbox-to-digital-garden-4cff48d0.png)
+![](/images/from-digital-sandbox-to-digital-garden-4cff48d0.png)
 
 Now, instead of stuff disappearing into my notes, I'll use this Sandbox as the starting place for everything I want to explore. A collection of idea I've touched on before. More and more stuff will move out of Roam or my Apple Notes and into this so that I have one place to collect all the little nuggets that are heretofore unexplored.
 
@@ -79,6 +79,6 @@ To each their own. But when I think about "thinking what nobody else has thought
 
 My systems and processes are a way for me to live a cumulative experience. Pulling all these threads together is the way I form who I am. And this whole process of growing a sandbox to a garden to my writing; itâ€™s all one big process. That is the same reason this is my [pinned tweet](https://x.com/kwharrison13/status/1683582931409698819):
 
-![](images/from-digital-sandbox-to-digital-garden-a403346c.png)
+![](/images/from-digital-sandbox-to-digital-garden-a403346c.png)
 
 My process, no matter how complicated it may seem, is akin to breathing. The complex process of breathing in, processing oxygen, pumping blood, and powering organs. **I need the process of gathering ideas, reacting to them, writing about them, and understanding what I think.** As soon as we stop learning, we die. So this is my life support.

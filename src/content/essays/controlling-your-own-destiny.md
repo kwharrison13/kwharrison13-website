@@ -7,7 +7,7 @@ slug: "controlling-your-own-destiny"
 type: "newsletter"
 ---
 
-![](images/controlling-your-own-destiny-0498618e.png)
+![](/images/controlling-your-own-destiny-0498618e.png)
 
 Years ago, I was in a state of "figuring stuff out." I'd just sold my first business, and I wasn't exactly sure what to do next. I wasn't steeped in startup culture, so I couldn’t just go around angel investing. I didn't even really know what venture was, and I had been running a company for 4 years so I was like an empty-nester who was a good parent, but a boring dude. "What do I do now?"
 

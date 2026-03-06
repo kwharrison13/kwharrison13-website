@@ -7,7 +7,7 @@ slug: "complaining-is-the-mind-killer"
 type: "newsletter"
 ---
 
-![](images/complaining-is-the-mind-killer-16f08505.png)
+![](/images/complaining-is-the-mind-killer-16f08505.png)
 
 ---
 
@@ -29,7 +29,7 @@ Some people see my framework of “preparing for the worst” as a kind of pessi
 
 Meanwhile, I’ve seen the increasing prevalence in people who are almost addicted to what feels like disappointment porn. This addictive, intoxicating need to gossip, whine, and complain. The most successful people are often [allergic](https://x.com/Jayyanginspires/status/1991530496887779587?s=20) to that kind of behavior. But its not just about success or striving. Its a legitimate health issue. One of the best posts on this I saw a couple months ago:
 
-![Source:Twitter](images/complaining-is-the-mind-killer-d93dc055.png)
+![Source:Twitter](/images/complaining-is-the-mind-killer-d93dc055.png)
 
 Complaining is literally voluntary brain damage. We’re choosing to damage our psyche. And, like any addiction, it becomes intoxicating *not* to stop. The more you complain, the better it feels to keep complaining. It’s your default mechanism.
 

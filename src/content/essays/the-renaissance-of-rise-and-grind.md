@@ -7,7 +7,7 @@ slug: "the-renaissance-of-rise-and-grind"
 type: "newsletter"
 ---
 
-![](images/the-renaissance-of-rise-and-grind-66587832.png)
+![](/images/the-renaissance-of-rise-and-grind-66587832.png)
 
 In politics, there is this concept of a "[third rail](http://bit.ly/3LKPU4I)." On a subway, there are two rails that the train runs on, and then the third rail is charged with electricity to power the trains. Touching that third rail typically results in certain death. So in politics, the "third rail" consists of topics whose discussion may result in political death.
 
@@ -51,7 +51,7 @@ I can't express how much this song bummed me out. When I saw it, I immediately c
 
 Everyone (including my Mom) tells me too often I feel obligated to include caveats, but here's another one. I can understand the idea that ascribing "value" in your life to financial success, getting rich, and all that jazz, you should give up on that and find something more meaningful. But that is NOT what this song is preaching. People are heartbroken by the success they fail to find, and so the comments all look like this:
 
-![](images/the-renaissance-of-rise-and-grind-e4a273b8.png)
+![](/images/the-renaissance-of-rise-and-grind-e4a273b8.png)
 
 I'm not baffled by the frustration, but I'm bummed out by the reality. And this isn't an isolated incident. Consistently, people are becoming more disenchanted with work and ambition.
 
@@ -81,7 +81,7 @@ There is a [whole host](https://twitter.com/khemaridh/status/1566446955059769344
 
 There is a spectrum upon which you have both people who have a hatred of hard work, and think life should be lived for maximum satisfaction. Then you have the hustle culture bros that think no life is worth living that isn't lived in the grind. But the vast majority of people exist somewhere in the middle trying to balance this equation to maximize satisfaction.
 
-![](images/the-renaissance-of-rise-and-grind-6588f18a.png)
+![](/images/the-renaissance-of-rise-and-grind-6588f18a.png)
 
 While everyone is in pursuit of satisfaction, they're making a decision about how much effort they want to put in based on how capable they feel of maximizing both how meaningful their effort is, and how much they're favored by luck. [I've written before](https://investing1012dot0.substack.com/p/risk-management-in-the-age-of-yolo) about luck:
 

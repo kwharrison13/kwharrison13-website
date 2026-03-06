@@ -7,7 +7,7 @@ slug: "the-siren-song-of-raising-a-venture"
 type: "newsletter"
 ---
 
-![](images/the-siren-song-of-raising-a-venture-a4aead8c.png)
+![](/images/the-siren-song-of-raising-a-venture-a4aead8c.png)
 
 # The Death of Venture?
 
@@ -57,13 +57,13 @@ If you think you're playing soccer and your opponent thinks you're playing footb
 
 You see this dynamic at play in posts [like this](https://www.linkedin.com/feed/update/urn:li:activity:7222866911238201344/) where people are freaking out about huge valuations for very little traction.
 
-![Source:Linkedin](images/the-siren-song-of-raising-a-venture-55b89ddc.png)
+![Source:Linkedin](/images/the-siren-song-of-raising-a-venture-55b89ddc.png)
 
 So often, people chalk it up to an "over supply of capital." I think that's only part of the picture. The massive increase in supply of capital has come because capital agglomerators, like a16z and ICONIQ, have created a product that allows LPs to get into the game who otherwise wouldn't have. Organizations that are managing $20B+ can't afford to go put $5-10M checks into dozens of small funds. But with capital agglomerators, they can deploy $200M+ at a time.
 
 I had a similar conversation with some friends when we were talking about ICONIQ's recent investment in Coast, an [expense management](https://techcrunch.com/2024/07/18/fintech-startup-coast-lands-40m-just-4-months-after-its-last-25m-raise/) platform that compares itself to Ramp or Brex, but for fleet operators.
 
-![Source:PR Newsire](images/the-siren-song-of-raising-a-venture-6858bea9.png)
+![Source:PR Newsire](/images/the-siren-song-of-raising-a-venture-6858bea9.png)
 
 A friend asked "how is it possible that all these expense management companies raise money?"
 
@@ -85,7 +85,7 @@ There are dozens more. And these are solid investors coming from name-brand fund
 
 I [come back](https://x.com/kwharrison13/status/1801650835673518556) to the idea in marketing that "half of our marketing budget is wasted; we just don't know which half." The same is true in venture. Probably [90%](https://x.com/rrhoover/status/1801651263962050829) of venture funds shouldn't exist. But we don't know which will be the 10%. And the ones that were the 10% five years ago won't necessarily be the 10% today. So we're all in competition to be in that top that deserves to live.
 
-![Source:Seth Levine](images/the-siren-song-of-raising-a-venture-a9e4afe9.png)
+![Source:Seth Levine](/images/the-siren-song-of-raising-a-venture-a9e4afe9.png)
 
 Maybe the picture is rosier. According to Fred Wilson, [50%](https://avc.com/2021/05/half-of-all-vcs-beat-the-stock-market/) of venture funds beat the S&P 500. So maybe its more in-line with the marketing quote after all.
 

@@ -7,7 +7,7 @@ slug: "intellectual-seat-belts"
 type: "newsletter"
 ---
 
-![](images/intellectual-seat-belts-9d01cab7.png)
+![](/images/intellectual-seat-belts-9d01cab7.png)
 
 Two years ago, my partner [Will Robbins](https://twitter.com/whrobbins) told me a story about Peter Thiel. In a [New Yorker profile](https://www.newyorker.com/magazine/2011/11/28/no-death-no-taxes) in 2011, Thiel made this point:
 
@@ -65,7 +65,7 @@ Because on the one hand, I hesitate at my own aphorism. When I say, "being wrong
 
 He's so wrong, so often, that it's become [a popular meme](https://twitter.com/CramerTracker) that whatever he says, the opposite is true: the inverse cramer.
 
-![](images/intellectual-seat-belts-1d80d253.png)
+![](/images/intellectual-seat-belts-1d80d253.png)
 
 So no, I'm not saying "be wrong more often." We have enough of those running around.
 

@@ -7,7 +7,7 @@ slug: "dont-die-with-your-music-still-in"
 type: "newsletter"
 ---
 
-![](images/dont-die-with-your-music-still-in-1d65fde9.png)
+![](/images/dont-die-with-your-music-still-in-1d65fde9.png)
 
 Knowledge is a burden. But, like any productive effort, we often carry a burden for a reason. We carry it towards something.
 
@@ -54,7 +54,7 @@ Beethoven talks about how he considered killing himself. In reflection on why he
 
 And this is indicative in the seemingly incontrovertible drive that pushes so many ambitious people. It's not a function of want, or logical aspiration. It's a physical drive on a level that can rarely be easily articulated.
 
-![Source:Twitter](images/dont-die-with-your-music-still-in-7d9b33fa.png)
+![Source:Twitter](/images/dont-die-with-your-music-still-in-7d9b33fa.png)
 
 The moral duty of acquiring wisdom is not for the sake of wisdom itself.
 

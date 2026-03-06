@@ -7,7 +7,7 @@ slug: "my-style-of-panic-writing"
 type: "newsletter"
 ---
 
-![](images/my-style-of-panic-writing-ef4a2e3c.jpg)
+![](/images/my-style-of-panic-writing-ef4a2e3c.jpg)
 
 ---
 

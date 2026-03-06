@@ -13,7 +13,7 @@ type: "newsletter"
 
 ***[Check out the full deep dive here](https://research.contrary.com/reports/the-openness-of-ai). To get a taste, here’s just the first section: The Rise of OpenAI.***
 
-![](images/the-openness-of-ai-3d8c0abb.jpg)
+![](/images/the-openness-of-ai-3d8c0abb.jpg)
 
 ## **The Rise of OpenAI**
 
@@ -35,7 +35,7 @@ As OpenAI continued to progress in its research, the company increasingly became
 
 In May 2018, OpenAI [published](https://openai.com/research/ai-and-compute) research into the history of the compute required to train large models, showing that compute had increased 300,000x, doubling every 3.4 months, since 2012.
 
-![Source:OpenAI](images/the-openness-of-ai-b0aa2f0a.jpg)
+![Source:OpenAI](/images/the-openness-of-ai-b0aa2f0a.jpg)
 
 Then, in June 2018, OpenAI [published](https://openai.com/research/language-unsupervised) “Improving Language Understanding by Generative Pre-Training,” the first introduction of the [GPT](https://www.makeuseof.com/gpt-models-explained-and-compared/) model, a transformer-based neural network architecture designed for language generation tasks. The model built on top of transformer architecture that was introduced in “Attention Is All You Need,” a foundational paper [published](https://arxiv.org/abs/1706.03762) in June 2017.
 
@@ -69,11 +69,11 @@ In January 2020, OpenAI researcher and Johns Hopkins professor Jared Kaplan, alo
 
 > *“Language modeling performance improves smoothly and predictably as we appropriately scale up model size, data, and compute. We expect that larger language models will perform better and be more sample efficient than current models.”*
 
-![Source:OpenAI](images/the-openness-of-ai-ae4a23a2.jpg)
+![Source:OpenAI](/images/the-openness-of-ai-ae4a23a2.jpg)
 
 Again, the importance of compute and scale became front and center to the progression of OpenAI’s models. The focus on scale was reinforced in May 2020 when OpenAI [published](https://arxiv.org/abs/2005.14165) a paper on GPT-3, "Language Models are Few-Shot Learners”, that demonstrated smooth scaling of performance with increased compute.
 
-![Source:OpenAI](images/the-openness-of-ai-9037d51c.jpg)
+![Source:OpenAI](/images/the-openness-of-ai-9037d51c.jpg)
 
 Furthermore, OpenAI found that increasing scale also improves generalizability, arguing “scaling up large-language models greatly improves task-agnostic, few-shot performance, sometimes even reaching competitiveness with prior state-of-the-art fine-tuning approaches.” Gwern Branwen, a freelance researcher, coined [The Scaling Hypothesis](https://gwern.net/scaling-hypothesis) in a blog post, and stated:
 
@@ -81,7 +81,7 @@ Furthermore, OpenAI found that increasing scale also improves generalizability, 
 
 The success of OpenAI’s research did not stay confined to academics or AI-interested circles. It burst onto the public scene with the launch of ChatGPT on November 30th, 2022, which [reached](https://twitter.com/sama/status/1599668808285028353?s=20&t=XZ06MUg_tf1U4Csh1AGRyg) 1 million users after five days. Two months after the launch of ChatGPT, in January 2023, it had become the fastest-growing consumer product ever with [100 million](https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/) MAUs. That same month, Microsoft doubled down on OpenAI with a new [$10 billion](https://www.bloomberg.com/news/articles/2023-01-23/microsoft-makes-multibillion-dollar-investment-in-openai#xj4y7vzkg) investment. Many also began to believe that ChatGPT [represented](https://www.nytimes.com/2023/01/20/technology/google-chatgpt-artificial-intelligence.html) the first legitimate potential threat to Google’s dominance in search in decades.
 
-![Source:Exponential View](images/the-openness-of-ai-9cfcf1da.jpg)
+![Source:Exponential View](/images/the-openness-of-ai-9cfcf1da.jpg)
 
 Internally, OpenAI projected [$200 million](https://web.archive.org/web/20230203201121/https://www.reuters.com/business/chatgpt-owner-openai-projects-1-billion-revenue-by-2024-sources-2022-12-15/) of revenue in 2023 and [$1 billion](https://web.archive.org/web/20230203201121/https://www.reuters.com/business/chatgpt-owner-openai-projects-1-billion-revenue-by-2024-sources-2022-12-15/) by 2024. But despite their positive external reception and expected financial success, OpenAI’s products came with a cost. One [report](https://www.theinformation.com/articles/openais-losses-doubled-to-540-million-as-it-developed-chatgpt?rc=6elvfc) estimated that OpenAI’s losses in 2022 doubled to $540 million, with Sam Altman expecting to raise as much as $100 billion in the subsequent years to fund its continued efforts to reach scale. This would make it “the most capital-intensive startup in Silicon Valley history.” ChatGPT alone had costs that Sam Altman himself [described](https://twitter.com/sama/status/1599669571795185665?s=20) as “eye watering,” estimated to cost [$700K](https://www.businessinsider.com/how-much-chatgpt-costs-openai-to-run-estimate-report-2023-4) per day to keep the service running.
 
@@ -95,7 +95,7 @@ In February 2018, OpenAI [announced](https://openai.com/blog/openai-supporters) 
 
 Later, after the success of ChatGPT and Microsoft’s $10 billion investment into OpenAI, Elon Musk became more vocal about his criticism and existential disagreements with the company.
 
-![Source:Twitter](images/the-openness-of-ai-2e160134.jpg)
+![Source:Twitter](/images/the-openness-of-ai-2e160134.jpg)
 
 Elon Musk wasn’t alone in those criticisms. When OpenAI [published](https://openai.com/charter) its new charter, and announced OpenAI LP, the company touted its focus on avoiding work that would “unduly concentrate power.” In March 2019, people expressed their issues with OpenAI’s position. The idea that capping investor returns at 100x was, in any way, a deterrent for typical financially-driven incentives, drew criticism. In one Hacker News post, a commenter [made this point](https://news.ycombinator.com/item?id=19360709):
 
@@ -111,7 +111,7 @@ In an interview around the same time, Ilya Sutskever, OpenAI’s chief scientist
 
 Members of the AI community have since criticized this decision. Ben Schmidt, the VP of Information Design at Nomic\*, [explained](https://www.theverge.com/2023/3/15/23640180/openai-gpt-4-launch-closed-research-ilya-sutskever-interview) that “not being able to see what data GPT-4 was trained on made it hard to know where the system could be safely used and come up with fixes.“ These comments came after a [Twitter thread](https://twitter.com/benmschmidt/status/1635692487258800128?s=20) explaining the inherent limitations of such a closed approach.
 
-![caption...](images/the-openness-of-ai-bd39ca41.jpg)
+![caption...](/images/the-openness-of-ai-bd39ca41.jpg)
 
 One of the biggest limitations that users are left with when OpenAI closes off context for its models is an understanding of the potential weightings or biases inherent in the model. For example, one review of ChatGPT [indicated](https://www.brookings.edu/blog/techtank/2023/05/08/the-politics-of-ai-chatgpt-and-political-bias/) that it demonstrates political bias with a “pro-environmental, left-libertarian orientation.” Beyond specific instances of bias, Ben Schmidt further explained that “to make informed decisions about where a model should \*not\* be used, we need to know what kinds of biases are built in.” [Sasha Luccioni](https://www.linkedin.com/in/alexandraluccioniphd/), Research Scientist at [Hugging Face](https://research.contrary.com/reports/hugging-face), [explained](https://www.vice.com/en/article/ak3w5a/openais-gpt-4-is-closed-source-and-shrouded-in-secrecy) the limitations that OpenAI’s approach creates for scientists:
 

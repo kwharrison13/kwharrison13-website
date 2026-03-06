@@ -7,7 +7,7 @@ slug: "markets-markets-and-markets"
 type: "newsletter"
 ---
 
-![](images/markets-markets-and-markets-22d8bd71.png)
+![](/images/markets-markets-and-markets-22d8bd71.png)
 
 When I was in 4th grade, I remember learning what a [googol](https://en.wikipedia.org/wiki/Googol) is (the digit 1 with 100 zeros after it). I could see zeros running through my head, and it was hard to conceptualize the number. I remember it so vividly, I could take you back to the exact sidewalk I was walking down after school, trying to understand what that even meant in the context of the numbers I already knew.
 
@@ -51,7 +51,7 @@ Bezos was a trader with some exposure to internet companies, but this wasn't a y
 
 Throughout the Amazon journey there was intense skepticism of everything he was doing. Early on, most of that [skepticism](https://sundayspecial.substack.com/p/why-barrons-thought-amazon-would) came from an inability for a startup to compete with large established retailers.
 
-![](images/markets-markets-and-markets-cb2d13b9.png)
+![](/images/markets-markets-and-markets-cb2d13b9.png)
 
 Granted, a lot of them saw the "death blow" to Amazon coming when the big established retailers started selling online. So while Amazon was born out of an initial appreciation for the growth of the internet, they stayed on top with execution. The ability to execute in an internet-native model vs. the transition big-box retailers were trying (and failing) to execute on.
 
@@ -69,7 +69,7 @@ That theme of appreciating reality as it is will come up later.
 
 In 2010, Patrick and John Collison [started](https://medium.com/startup-grind/the-collison-brothers-the-story-behind-the-founding-of-stripe-ae013434c080) working on Stripe. At the time, digital payments weren't anything to sniff at, with ~[$500B](https://techmonitor.ai/technology/electronic_payment_volumes_predicted_to_double_by_2010) in volume. But that was just the tip of the iceberg. Online payments have exploded, ecommerce represents [$6T+](https://www.jpmorgan.com/content/dam/jpm/treasury-services/documents/jpm-payments-are-eating-the-world.pdf), and we're still in the early days of online penetration as more transactions [move online](https://www.cbinsights.com/research/report/stripe-teardown/).
 
-![](images/markets-markets-and-markets-a1c85005.png)
+![](/images/markets-markets-and-markets-a1c85005.png)
 
 The insight certainly came from appreciating reality as it was, but several companies had already done that. The question wasn't whether people would transact online. PayPal was over a decade old at that point. **The insight was how big the market for simpler payment processing online could really be**. John Collison [put it this way](https://www.cbinsights.com/research/report/stripe-teardown/):
 
@@ -89,7 +89,7 @@ One thing that came up again and again was the focus most of these investors had
 
 And rightfully so, most of them have built their success around investing in companies at the earliest stages, usually seed. My career has been more focused at the later stages, and as I reflected on the discussion, I thought of this framework for how an investor's surface area increases as the company progresses.
 
-![](images/markets-markets-and-markets-e2241ef5.png)
+![](/images/markets-markets-and-markets-e2241ef5.png)
 
 This isn't to say that execution doesn't matter until IPO. But simply that the surface area of what you have to believe increases as the company progresses. You're often investing more money at higher valuations, so you have to make multiple considerations. **At the Series B or C, it's not usually enough to just say "the founder is a visionary," if the product metrics are terrible, the GTM is stalling because the market isn't materializing, and the team is sinking the ship.** So the ability to focus on markets and the size of the opportunity often comes as a later stage investor.
 
@@ -105,7 +105,7 @@ As an investor, you can try and [find founders](https://twitter.com/jasonlk/stat
 
 # Predicting The Future
 
-![](images/markets-markets-and-markets-f3ccf427.png)
+![](/images/markets-markets-and-markets-f3ccf427.png)
 
 So as investors, what's are job as it pertains to the future? Jon Oberheide shared this quote from Matt Cohler that I'd heard before, but really appreciated in this context:
 
@@ -144,13 +144,13 @@ The "future" that those skepticisms doesn't take into account includes the growi
 
 Like everything in venture, there is no ONE reason any investment works. Every company is a complex web of variables. But when considering the opportunity in a market, it's important to be willing to dream big.
 
-![](images/markets-markets-and-markets-7e48aa6e.gif)
+![](/images/markets-markets-and-markets-7e48aa6e.gif)
 
 Think of it as a dream exercise around value creation and value capture. Are there more people who would benefit from this thing than you might initially expect (e.g. Facebook becoming more than just a college network)? And is there a model for capturing more and more value?
 
 Early on, big things might start out feeling [like a toy](https://cdixon.org/2010/01/03/the-next-big-thing-will-start-out-looking-like-a-toy). But their ability to extend from one value proposition to the next, and address more and more of a market is the secret sauce you want to dream about. That's where high net dollar retention comes from. Companies that are able to drive usage (more volume of the same thing) or modules (adjacent pieces of the same thing) **will find themselves with more more market to address.**
 
-![Source:Clouded Judgement](images/markets-markets-and-markets-69c04458.png)
+![Source:Clouded Judgement](/images/markets-markets-and-markets-69c04458.png)
 
 As VCs imagine the future for any given company, take the time to go through that exercise. Talk to the founders and operators who understand that market most intimately. What do people believe will happen? [What could they be wrong about?](https://investing1012dot0.substack.com/p/being-honest-about-intellectual-honesty)
 

@@ -7,7 +7,7 @@ slug: "back-to-the-grass"
 type: "newsletter"
 ---
 
-![](images/back-to-the-grass-43742af9.jpg)
+![](/images/back-to-the-grass-43742af9.jpg)
 
 The title of this piece is not, as it may first appear, an apology for my latest relapse in my marijuana habit. It is, instead, a call back to a previous piece I wrote a few months ago.
 
@@ -23,7 +23,7 @@ At the same time, I’m reflecting on the piece that I published on the existent
 
 There is a broader discussion that I’ll write someday about the supposed death of venture capital someday. A fundamental component in the existence of venture capital is this idea that the vast majority of funds will, most likely, underperform the S&P 500. That’s true across asset classes. But, to Jason’s point, that is precisely the point. Everyone proposes to beat those odds.
 
-![Source:Twitter](images/back-to-the-grass-c028a048.png)
+![Source:Twitter](/images/back-to-the-grass-c028a048.png)
 
 Mike Birbiglia, a great comedian, has a joke where he criticizes people crediting Abraham Lincoln for the quote “Whatever you are, be a good one.” But I actually really like the quote. And I intend to help my children live by it. If they want to be an actor, I encourage them to be truly exceptional at what they do.
 

@@ -7,7 +7,7 @@ slug: "having-a-conversation-with-myself"
 type: "newsletter"
 ---
 
-![](images/having-a-conversation-with-myself-7f4c083a.png)
+![](/images/having-a-conversation-with-myself-7f4c083a.png)
 
 ---
 

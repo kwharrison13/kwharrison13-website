@@ -7,17 +7,17 @@ slug: "the-rise-of-the-cash-man"
 type: "newsletter"
 ---
 
-![](images/the-rise-of-the-cash-man-8e75d193.png)
+![](/images/the-rise-of-the-cash-man-8e75d193.png)
 
 I think it will surprise no one to find that the best place to start writing about a venture-backed Adam Neumann fever dream is with Disneyland. 😉
 
 While Walt Disney gets credit for doing a lot of different things, one of the most significant undertakings he pursued was building the City of the Future. But the EPCOT (Experimental Prototype Community of Tomorrow) of today is a shadow of what Walt Disney envisioned it to be. A city with layers of living and transportation like nothing we have in any city today.
 
-![](images/the-rise-of-the-cash-man-5aa28683.png)
+![](/images/the-rise-of-the-cash-man-5aa28683.png)
 
 I've been obsessed with the space-making that Walt Disney built into all his parks since the first time I went to Disneyland. For me, it wasn't the rides or the churros or the characters that got to me. I had an emotional reaction to the space I was in. Walking down Main Street in Disneyland felt like a spiritual experience for me.
 
-![](images/the-rise-of-the-cash-man-f0d4f489.png)
+![](/images/the-rise-of-the-cash-man-f0d4f489.png)
 
 Ever since then I've thought often about city building, urban planning, and I’ll read books like [Walt Disney and the Promise of Progress City](https://www.amazon.com/Walt-Promise-Progress-City-Gennawey/dp/0615540244). And Walt Disney wasn't alone. There is something primal about the desire to build the optimal living space. The ideal ecosystem for humans to have community, convenience, and culture that very few cities have been able to nail.
 
@@ -139,7 +139,7 @@ The second piece of that offering in addition to managing Neumann's properties t
 
 ***How do we work this into our model?*** The idea here is (1) we get good at doing something (e.g. building an office) and then (2) we scale it more quickly by doing it for other people who will pay the big bills. Take a page out of WeWork's attempted ancillary businesses. They started [designing offices for other companies](https://www.wework.com/ideas/workspace-solutions/case-studies/six-companies-using-wework-for-a-custom-space). If you get good at property management then you can do it for other property owners.
 
-![](images/the-rise-of-the-cash-man-97bd04e9.png)
+![](/images/the-rise-of-the-cash-man-97bd04e9.png)
 
 ## Subscription Service For Community Experience
 
@@ -182,7 +182,7 @@ Mix in some crypto exposure and you've got a very option-heavy vehicle. Arpit Gu
 
 You throw some of those together in a comp sheet and what's the average multiple? 6x forward revenue? Right now that’s feeling like a perfectly good tech multiple. We'll take it.
 
-![](images/the-rise-of-the-cash-man-d5e3fdf6.png)
+![](/images/the-rise-of-the-cash-man-d5e3fdf6.png)
 
 *Disclaimer: I’m not a real estate investor and I was holding my baby while writing this so the best I could do was a quick google for comp names; I’m sure there is a better set of names. Don’t @ me.*
 
@@ -190,11 +190,11 @@ You throw some of those together in a comp sheet and what's the average multiple
 
 So how do you go about thinking about the future potential for revenue from a company like Flow? One case study is WeWork. For all those people saying, "but Neumann's done it before," let's take a look at what that would look like. If we take some of WeWork's known revenue numbers (the blue numbers) and make some reasonable estimates about what explosive (and expensive) growth can look like you could get a revenue forecast like this (stopping short of the COVID impact).
 
-![](images/the-rise-of-the-cash-man-31c9a1fa.png)
+![](/images/the-rise-of-the-cash-man-31c9a1fa.png)
 
 If this thing were to IPO in Year 9 and be expecting $4B+ of revenue, growing 30%+ that would be a pretty exceptional profile. What would a16z's return look like in that case?
 
-![](images/the-rise-of-the-cash-man-3b700d94.png)
+![](/images/the-rise-of-the-cash-man-3b700d94.png)
 
 We're making a lot of assumptions here, but a few to call out. We know that Flow's valuation was "more than $1B" so lets assume its $1B pre, putting its current valuation at $1.35B. Pretty generous with a16z owning 25%+. If dilution goes on to be 55%+ that will impact their return (dilution is a rough topic for any Adam Neumann company).
 
@@ -216,7 +216,7 @@ You can say “a combination of property owner + management services + subscript
 
 However. For me personally I often look at “is there precedent for such a scale? When you compare this revenue ramp to all these other comps you see a stark contrast with the Flow forecast (the big red line.)
 
-![](images/the-rise-of-the-cash-man-075bddc1.png)
+![](/images/the-rise-of-the-cash-man-075bddc1.png)
 
 When you get super pragmatic and strike out all the fluff you have a fancy property management company. What does the precedent look like for that? Take Greystar as an example.
 

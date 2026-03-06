@@ -7,7 +7,7 @@ slug: "when-history-rhymes-with-beezer-clarkson"
 type: "podcast"
 ---
 
-![](images/when-history-rhymes-with-beezer-clarkson-cc0ca593.png)
+![](/images/when-history-rhymes-with-beezer-clarkson-cc0ca593.png)
 
 If you're using the bird app formerly known as Twitter correctly, you'll start to find your kindred spirits. You're talking about the same things, exploring the same ideas, getting in the same arguments.
 

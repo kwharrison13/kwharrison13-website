@@ -7,7 +7,7 @@ slug: "a-latticework-of-knowledge"
 type: "newsletter"
 ---
 
-![](images/a-latticework-of-knowledge-f164bbbb.png)
+![](/images/a-latticework-of-knowledge-f164bbbb.png)
 
 ---
 
@@ -25,7 +25,7 @@ Most people are focused on contributing to the conversation. It’s all about co
 
 # The Ambitious Version of an Interview Podcast
 
-![Source:Twitter](images/a-latticework-of-knowledge-51fcec05.png)
+![Source:Twitter](/images/a-latticework-of-knowledge-51fcec05.png)
 
 A few months ago, Dwarkesh asked the question of what it would look like if he “really” tried at the quest of “identifying the most interesting questions, and hunting down the smartest people in the world to answer them.”
 
@@ -84,15 +84,15 @@ One example of this? I wouldn’t ever sit down and listen to a full episode of 
 
 Then, in July 2024, I finally got around to [writing that piece](https://investing101.substack.com/p/cultivating-cults). And I remembered the quote from Jeselnik, not just because I had tried to memorize it, but because I had put it on my latticework that I was building around “cults” specifically.
 
-![](images/a-latticework-of-knowledge-77db7470.png)
+![](/images/a-latticework-of-knowledge-77db7470.png)
 
 This is another reason why TBPN works so well. Its an interesting combination of (1) Framed Conversation, (2) chat show, and (3) cutting factory. High volume consumers can watch [three hours](https://www.youtube.com/watch?v=dAeV7amSe24) of personable daily content. The first 1.5 hours every day is akin to a Framed Conversation where its two likable hosts chatting about structured things (e.g. headlines). Then they have 1.5 hours of chat / interview show style around topical things. But TBPN knows that the product is the clip, so they put out each notable clip for consumption for people that don’t want to consume the long-form content.
 
-![](images/a-latticework-of-knowledge-ccd295c6.png)
+![](/images/a-latticework-of-knowledge-ccd295c6.png)
 
 The Cutting Room is, I think, where I’m weakest too. The work we do at Contrary Research is, in my opinion, Framed Content. We put a lot of work into crafting the narrative, proving the thesis, investigating the space / question, and then framing a narrative flow around our research and conclusions. But then we struggle to chunk that long-form Framed Content into consumable clips for people not willing to read an 80 minute read...
 
-![](images/a-latticework-of-knowledge-43792cd1.png)
+![](/images/a-latticework-of-knowledge-43792cd1.png)
 
 Meanwhile, this blog is less of a Framed Content I think. I think its more like my version of a lazy chat show. I wake up early Saturday morning, [Panic Write](https://investing101.substack.com/p/panic-writing?utm_source=publication-search) about something I’ve been thinking about, and then move on. I also don’t do the Cutting Room job on this blog. Although, I don’t particularly care about that for this. I’ve said a few times before, but I don’t really write this blog for anyone but me. I ascribe to the [Flannery O’Connor-ism](https://x.com/kwharrison13/status/1683582931409698819) of “I write because I don’t know what I think until I read what I say.”
 
@@ -102,7 +102,7 @@ So... therefore, what? From my rambles today I think there are two lessons: (1) 
 
 A latticework can be as simple as one idea [I’ve written about before](https://investing101.substack.com/p/from-digital-sandbox-to-digital-garden?utm_source=publication-search); keeping a list of “portfolio ideas.” My flow of concepts looks something like this:
 
-![](images/a-latticework-of-knowledge-ca1098f5.png)
+![](/images/a-latticework-of-knowledge-ca1098f5.png)
 
 The more focused you become on crafting a latticework of ideas at varying stages of development, the more you’ll start to hunger for Framed Content. You’ll start to bristle at Unframed Content. Books that ramble. Podcasts that jump around. Writing that is disorganized (probably like this one 🙃). You’ll look more for well-produced content that you can hang on your Latticework.
 

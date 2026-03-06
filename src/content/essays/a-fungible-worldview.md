@@ -7,7 +7,7 @@ slug: "a-fungible-worldview"
 type: "newsletter"
 ---
 
-![](images/a-fungible-worldview-5fbfd7c9.png)
+![](/images/a-fungible-worldview-5fbfd7c9.png)
 
 [I've written before](https://investing101.substack.com/p/crafting-your-average) about the fact that you can only think about one thing at a time. No matter how fast you try and run, no matter how much content you try and consume, no matter how much capital you seek to deploy — all of it can only happen one thought at a time.
 
@@ -37,7 +37,7 @@ From there it was burning investor money on traveling, fancy suits, throwing YC 
 
 Cluely's defense? Attention is the currency of the modern economy. It doesn't matter what they do or how crazy it is, as long as it gets attention.
 
-![](images/a-fungible-worldview-ccb2ae05.png)
+![](/images/a-fungible-worldview-ccb2ae05.png)
 
 Roy also defends Cluely [saying](https://x.com/im_roy_lee/status/1936267218674954684) "there is not a single soul here who believes that we are building a cheating company." Instead, the idea articulated in the company's [fundraising video](https://x.com/im_roy_lee/status/1936138361011585190) is "today it's cheating, tomorrow its fair." The company weaponizes hype around an already controversial take in regards to AI. Is AI cheating? While more buttoned up AI companies trip over themselves trying to explain why its augmenting humans, not cheating, Cluely leans into the controversy. "Damn right it's cheating. For now!"
 
@@ -97,11 +97,11 @@ You would think that, even if not officially on the cap table, but philosophical
 
 But in response to Cluely's $15M Series A from a16z, Augustus responded out loud to the abrupt disruption of what he may have thought was an aligned worldview.
 
-![Source:Twitter](images/a-fungible-worldview-cb877f73.png)
+![Source:Twitter](/images/a-fungible-worldview-cb877f73.png)
 
 And I can understand his frustration. Other people expressed similar sentiments, pointing out how much progress $15M could drive in their own categories buying CNC machines, reshoring American manufacturing, curing diseases, etc. Categories they see as fundamentally net positive in literally improving the quality of the world.
 
-![](images/a-fungible-worldview-dad8526c.png)
+![](/images/a-fungible-worldview-dad8526c.png)
 
 So how can someone who espouses such an inspiring and almost pure worldview, like American Dynamism, turn around and fund something that feels so diametrically opposed?
 
@@ -187,4 +187,4 @@ Since I didn’t have the ability to weave it into my narrative, I’ll just inc
 >   
 > That is why I do not hate Cluely; I thank them for staging, in the language of farce, the truth we all politely ignore.*
 
-![](images/a-fungible-worldview-8f26b5fc.jpg)
+![](/images/a-fungible-worldview-8f26b5fc.jpg)

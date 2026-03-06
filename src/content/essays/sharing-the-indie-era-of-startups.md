@@ -7,7 +7,7 @@ slug: "sharing-the-indie-era-of-startups"
 type: "newsletter"
 ---
 
-![](images/sharing-the-indie-era-of-startups-f582444a.webp)
+![](/images/sharing-the-indie-era-of-startups-f582444a.webp)
 
 I’m a big fan of nuance. When I meet people who read my writing, I often get compliments about how I “tell it like it is,” or “speak truth to power.” In reality, I think my main differentiator is that I’m willing to accept nuance.
 

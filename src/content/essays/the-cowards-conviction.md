@@ -7,7 +7,7 @@ slug: "the-cowards-conviction"
 type: "newsletter"
 ---
 
-![](images/the-cowards-conviction-75a9e763.png)
+![](/images/the-cowards-conviction-75a9e763.png)
 
 If you've read enough of my writing, you'll know that the majority of my personality and frameworks for my life come from movies. I'm obsessed with stories. When I sat down to think about courage, two stories came to mind.
 
@@ -33,7 +33,7 @@ The variety of different ideas that I'm unpacking started to revolve around some
 
 I started out thinking about this piece as an exploration of optimism vs. pessimism. But the more I read, the more I kept coming back to the intellectual effort that optimism requires. **People don't want to take the time to think about what could happen (optimism), so they default to not thinking at all, or at least not beyond the thinking they've already done (pessimism)**. And that's not only lazy, but it's dangerous.
 
-![Source:Twitter](images/the-cowards-conviction-6620d664.png)
+![Source:Twitter](/images/the-cowards-conviction-6620d664.png)
 
 When you ask any number of investors why they like investing, one of the most common answers you'll get is due to the "intellectual stimulation" that the job provides. I certainly agree with that. But the amount of intellectual stimulation that is going on can very much ebb and flow.
 
@@ -49,11 +49,11 @@ All of these incentives often lead to a group of investors who are not necessari
 
 The very best investors are those who think deeply about what the future holds. I've always loved [Accel's concept of a "prepared mind."](https://twitter.com/elkingtonxy/status/1419503800344186880?s=20) The willingness of people willing to think deeply, and to dream the dream will ultimately allow those same people to see the stars that can be produced by simplicity.
 
-![Source:Twitter](images/the-cowards-conviction-7e9a27a8.png)
+![Source:Twitter](/images/the-cowards-conviction-7e9a27a8.png)
 
 Pessimism will always sound smarter. And it will always play into the hand of someone desperately trying to avoid failure. The constant pressure of conformity makes contrarian optimism nearly impossible. But in the end, the ultimate successes will come from optimism. And optimism is hard work.
 
-![Source:Twitter](images/the-cowards-conviction-368a2748.png)
+![Source:Twitter](/images/the-cowards-conviction-368a2748.png)
 
 ## I Think What I Think
 
@@ -65,7 +65,7 @@ I've argued with older investors who passed on a company at the seed. I try and 
 
 That inability for investors to change their mind may seem more sophisticated because its about capital allocation and long-term decision making. But the reality is its the same brand of BS that you see apparent in education, politics, gun control, and most any other category. The fact is **its so much easier to believe your own BS than it is to believe someone else's hypothesis.**
 
-![Source:Twitter](images/the-cowards-conviction-83d9b383.png)
+![Source:Twitter](/images/the-cowards-conviction-83d9b383.png)
 
 In investing, saying "no" to a potential investment isn't super cut and dry. Its a complex web. Sometimes its complex because you've come to an informed conclusion. But other times that web is a mixture of laziness because getting to the right answer requires work, while saying no is much easier.
 
@@ -73,7 +73,7 @@ As an investor, I've had plenty of experiences where I'll do dozens of customer 
 
 Deciding to just think what you already think isn't necessarily as lazy as wanting to simply stay negative and avoid thinking. Instead, there is often a significant amount of effort that often goes into people who are convinced that they're right. Their hard work, however, is less an exploration of truth, and more like reinforcing their own beliefs with additional confirmation bias.
 
-![Source:Twitter](images/the-cowards-conviction-c54f6c51.png)
+![Source:Twitter](/images/the-cowards-conviction-c54f6c51.png)
 
 Bit of a tangent. I'm a very religious person. The idea of "not being willing to change your mind" can often feel uncomfortable for religious people. For whatever reason, I haven't had a problem with that. I think the ultimate question of "is there a God?" seems to me to be as unprovable as the statement, "there is no God." Instead, I focus my powers of discernment around the details, not the dogma.
 
@@ -83,7 +83,7 @@ When it comes to religion, I'm more interested in getting to heaven and having G
 
 For some people, they stand by their existing perspectives aggressively. For others, there is honest answer seeking. Then, there is always the opportunity to say, "I don't know." But that brings with it all its own baggage.
 
-![Source:Twitter](images/the-cowards-conviction-809c0a5b.png)
+![Source:Twitter](/images/the-cowards-conviction-809c0a5b.png)
 
 ## I Think What You Think
 
@@ -93,7 +93,7 @@ There are so many people that have been programmed to look for the safe answers.
 
 In venture, that can often manifest in the form of the question, "[who else is investing](https://twitter.com/rod_mallo/status/1666412126884208642?s=20)?" That's a common enough question that its become [a meme of its own](https://twitter.com/PatrickJBlum/status/1667233301592145920?s=20). I think that can actually be a more complex question than it first appears. But the more egregious form is the wishy-washiness of the last few years.
 
-![Source:Twitter](images/the-cowards-conviction-efa21dbe.png)
+![Source:Twitter](/images/the-cowards-conviction-efa21dbe.png)
 
 There are plenty of about-face bouncers from hot thing to hot thing. I can think of a few [recent examples](https://twitter.com/Jason/status/1666874821077250048?s=20). Since I've already gone on a bit of a religious rant, I'll throw in the way Jesus Christ [said it](https://www.churchofjesuschrist.org/study/scriptures/nt/rev/3?lang=eng):
 
@@ -105,7 +105,7 @@ I would rather you be cold or hot. I would rather argue with those that have str
 
 # I Think, Therfore I Am
 
-![Source:Twitter](images/the-cowards-conviction-410b32a7.png)
+![Source:Twitter](/images/the-cowards-conviction-410b32a7.png)
 
 The pursuit of complex ideas, nuance, complicated problems, and earth-shattering progress and ideas are the most important aspects of what it means to be human. There is a [great tweet](https://twitter.com/scottbelsky/status/1650887374598201345) from Scott Belsky where he quotes Karen Baker, someone who researches imperceptible wavelengths of sound:
 

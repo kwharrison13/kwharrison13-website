@@ -7,13 +7,13 @@ slug: "2023-in-books"
 type: "newsletter"
 ---
 
-![](images/2023-in-books-023ece8b.jpg)
+![](/images/2023-in-books-023ece8b.jpg)
 
 # From Reading To Writing And Beyond
 
 [In 2019](https://kwharrison13.com/bookshelf/2019-in-books), I read 40 books, and only ~5 of them were audiobooks. In 2023, I read 11 books and 7 of them were audiobooks. Suffice it to say, my reading habits have changed dramatically. It’s very clear that COVID was the trend disruption.
 
-![](images/2023-in-books-4deee3a7.png)
+![](/images/2023-in-books-4deee3a7.png)
 
 For a few years there, I was reading ~30-40 books per year, and I attribute a lot of that to having a pretty consistent 30-40 minute commute each way. Once I started working from home, I lost that reading time. And I never ended up finding another space for it in my life.
 
@@ -21,7 +21,7 @@ For a long time, I was focused on the volume of reading. Granted, I’d like to 
 
 Before I start reflecting on the change in my reading habits, its first important to clearly state how important reading is to me. In particular, as a parent, reading hits home.
 
-![](images/2023-in-books-06fc2bd7.png)
+![](/images/2023-in-books-06fc2bd7.png)
 
 I enjoy every time I see my kids reading. Everywhere we go, every day out we have, I try to make a stop at a bookstore. I’m not too sharp, smart, or smooth, but the best I can do is expose my kids to as many ideas as possible.
 
@@ -47,7 +47,7 @@ So, while I lick my wounds and reflect on how to make more room for reading, I s
 
 Every year as I’ve looked back on what I’ve read, I keep getting reminded of this Twitter interaction I had in 2020.
 
-![Source:Twitter](images/2023-in-books-911de352.png)
+![Source:Twitter](/images/2023-in-books-911de352.png)
 
 In 2020, I didn’t read a single fiction book. In 2021, to rectify that, I finally gave in to my brother’s recommendation that I check out Brandon Sanderson. And boy, did I fall in love. I read 15 books in 2021, and 6 of them were Brandon Sanderson books. Since then, I’ve read 16 books by Sanderson. Granted, all of them audiobooks.
 

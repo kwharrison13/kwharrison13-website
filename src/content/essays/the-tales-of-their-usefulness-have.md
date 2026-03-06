@@ -7,7 +7,7 @@ slug: "the-tales-of-their-usefulness-have"
 type: "newsletter"
 ---
 
-![](images/the-tales-of-their-usefulness-have-c5b048e6.png)
+![](/images/the-tales-of-their-usefulness-have-c5b048e6.png)
 
 I've been told I can get overly clever with titles and headings so I'll explain the joke. In 1897 Mark Twain traveled to London and while away rumors began to circulate that he was on his death bed, or possibly dead already. When a journalist reached out to inquire if he was, in fact, dead Twain responded ([sort of](https://www.mentalfloss.com/article/562400/reports-mark-twains-quote-about-mark-twains-death-are-greatly-exaggerated)) "the reports of my death have been greatly exaggerated." 😉
 
@@ -65,7 +65,7 @@ Not their talent arm or their brand or their events or their swag. Netflix owes 
 
 ### Advisor & Counselor
 
-![](images/the-tales-of-their-usefulness-have-9fc12784.png)
+![](/images/the-tales-of-their-usefulness-have-9fc12784.png)
 
 Shahin at Lux [lays it out.](https://www.linkedin.com/posts/shahinf_founder-vcs-try-to-seduce-me-about-all-activity-6935418104835444736-Fb4n/?utm_source=linkedin_share&utm_medium=ios_app) The first thing that founders want from VCs is just to be available. To be someone they trust, someone they vibe with, who can help them think through tough decisions that are more difficult to discuss with their employees.
 

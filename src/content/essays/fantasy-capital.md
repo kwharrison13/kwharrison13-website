@@ -7,7 +7,7 @@ slug: "fantasy-capital"
 type: "newsletter"
 ---
 
-![](images/fantasy-capital-813b9896.png)
+![](/images/fantasy-capital-813b9896.png)
 
 ## The Stories We Tell
 
@@ -33,7 +33,7 @@ While the majority of the broader venture market is still dominated by large tra
 
 Angel investing [has exploded past $25B](https://paulcollege.unh.edu/sites/default/files/resource/files/2020-analysis-report_.pdf) in capital invested and you're seeing a broader landscape of experienced operators investing in, and even [leading rounds.](https://investing1012dot0.substack.com/p/renegade-spotlight-synthesis?s=w)
 
-![](images/fantasy-capital-94ba90ba.png)
+![](/images/fantasy-capital-94ba90ba.png)
 
 With more people aware of how venture works there has never been a better opportunity to step back and reevaluate how venture firms operate. There are a lot of firms reinventing themselves to better fit the ways the world is changing. **It isn't just about paying high prices its figuring out how they'll differentiate themselves going forward.**
 
@@ -85,13 +85,13 @@ A lack of clarity around the org chart [creates problems for both](https://inves
 
 When I worked at Amazon we would print an image of the "Amazon Flywheel" on the front of every presentation we handed out. Legend tells the tale of Father Bezos etching it on to a dinner napkin in a fever dream of innovation.
 
-![](images/fantasy-capital-45d16e25.png)
+![](/images/fantasy-capital-45d16e25.png)
 
 Very few venture firms have a similar flywheel. **They may have a funnel. And they may have aspects of what they do that feeds that funnel. But the problem with a funnel is it isn't self-perpetuating.** A flywheel feeds itself.
 
 What, if anything, in a venture fund gives them leverage beyond their brand? There aren't many better examples of creating leverage than Amazon. They've built a collection of businesses out of [leveraging their own needs internally](https://twitter.com/BrianFeroldi/status/1284795114187919362?s=20&t=qx49Eu-nrnldKOC7CaQMcw).
 
-![](images/fantasy-capital-53d24d11.png)
+![](/images/fantasy-capital-53d24d11.png)
 
 Think about a P&L of a venture firm. The vast majority of what you pay for is headcount and swag. None of that creates any sustainable asset. One prominent crossover investor described the way venture funds think about firm building this way:
 

@@ -7,7 +7,7 @@ slug: "revisiting-the-death-of-a-venture"
 type: "newsletter"
 ---
 
-![](images/revisiting-the-death-of-a-venture-a2405004.png)
+![](/images/revisiting-the-death-of-a-venture-a2405004.png)
 
 I know a lot of people who were obsessed with Game of Thrones. And I know a lot of people who were disappointed by the ending. I never watched the show, but I know that one of the things a lot of fans came to expect was a slew of surprising deaths.
 
@@ -39,11 +39,11 @@ While this specific firm shutdown may have caught a lot of folks off guard (not 
 
 The first came from Josh Wolfe at Lux:
 
-![Source:Twitter](images/revisiting-the-death-of-a-venture-630a052a.png)
+![Source:Twitter](/images/revisiting-the-death-of-a-venture-630a052a.png)
 
 And the second came from Frank Rottman at QED:
 
-![Source:Twitter](images/revisiting-the-death-of-a-venture-0e1284e9.png)
+![Source:Twitter](/images/revisiting-the-death-of-a-venture-0e1284e9.png)
 
 # Diagnosing Death
 
@@ -60,7 +60,7 @@ But what didn't change was the knowledge and expertise around how to build compa
 
 More recently, [Alexander Niehenke](https://twitter.com/aniehenke) wrote a great thread unpacking what is happening in venture.
 
-![Source:Twitter](images/revisiting-the-death-of-a-venture-b562c1aa.png)
+![Source:Twitter](/images/revisiting-the-death-of-a-venture-b562c1aa.png)
 
 He makes a similar point to Rotman in how things have now changed:
 
@@ -75,7 +75,7 @@ So what do you do? In Rotman's presentation, he talks about a retreat to "distin
 
 I would encourage you to go read his [whole presentation](https://fintechjunkie.com/2022/05/22/the-three-body-problem-finding-the-new-stable-points-in-venture-capital/) because it's quite good, and very well thought out. I won't touch on every point, but one point that he makes is one that I've made several times. This idea of the value of scale. Scale brings with it an increased likelihood of seeing deal flow, the ability to balance speed with thoroughness, and an enriched support function that can be subsidized by the fees available at scale.
 
-![Source:Frank Rotman](images/revisiting-the-death-of-a-venture-ccef5209.png)
+![Source:Frank Rotman](/images/revisiting-the-death-of-a-venture-ccef5209.png)
 
 # The Rise of The Capital Agglomerator
 

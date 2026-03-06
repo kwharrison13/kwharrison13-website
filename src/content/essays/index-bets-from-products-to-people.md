@@ -7,13 +7,13 @@ slug: "index-bets-from-products-to-people"
 type: "newsletter"
 ---
 
-![](images/index-bets-from-products-to-people-a427e7bf.png)
+![](/images/index-bets-from-products-to-people-a427e7bf.png)
 
 ## Sum of the Parts
 
 Every active investor across public or private companies is not only trying to make money. They're trying to beat the cheapest alternative. The bar for success is being able to say someone's money invested with you will perform better than if they just put it in a passive fund. Any Buffett disciple has seen his dramatic outperformance chart.
 
-![](images/index-bets-from-products-to-people-cde61aea.png)
+![](/images/index-bets-from-products-to-people-cde61aea.png)
 
 These passive "alternatives" are typically [index funds](https://en.wikipedia.org/wiki/Index_fund) like the Invesco QQQ that tracks the performance of the largest non-financial companies in the Nasdaq-100 Index. If you're looking to put money somewhere you can either pay 0.2% to invest in QQQ or pay 2% a year and 20%+ of the upside to a venture fund. Funds have to justify their fees.
 
@@ -21,7 +21,7 @@ But that isn't always very easy. Last year [80% of actively managed](https://www
 
 Why are indexes such an effective strategy and so difficult to beat? One key reason is because they're built to ride on one big wave rather than several highly-opinionated waves. An index is representative of an entire market or category. **If you're building an index of something you don't have to pick winners. You just have to pick trends.** As an example, the [BVP Cloud Index](https://cloudindex.bvp.com/) tracks emerging cloud companies. As you can see from the performance that’s a pretty compelling trend with a great group of companies.
 
-![](images/index-bets-from-products-to-people-2aec3dd5.png)
+![](/images/index-bets-from-products-to-people-2aec3dd5.png)
 
 There are a lot of people who don't like indexing and see it as a negative force in public markets. For all active investors who are trying to have strongly held opinions and make conviction bets they don't like the idea of someone just riding the overall market. Aswath Damodaran, an NYU Professor of Finance [perfectly summed up](https://elmwealth.com/aswath-damodaran-interview/) why some people don't like indexes:
 
@@ -45,7 +45,7 @@ There are a lot of interesting ways to invest in companies as index bets on part
 
 ## Building a Community Index
 
-![](images/index-bets-from-products-to-people-8f1393c3.png)
+![](/images/index-bets-from-products-to-people-8f1393c3.png)
 
 There has been an evolution in the way VCs identify and build relationships with companies. The traditional venture model is find companies and give them cash. YC pioneered a way of finding and supporting people with ideas. OnDeck and others have started to run programs for people even if they don't necessarily have an idea, and then [have expanded into the YC-esque company-focused accelerator programs.](https://www.beondeck.com/post/announcing-odx)
 
@@ -55,7 +55,7 @@ Don't get me wrong, [YC has done a fantastic job in building a portfolio.](https
 
 For a long time I've had this idea of a decentralized brain. Basically the idea that I can't know everything, so I should know people that know things I may need or want to know about.
 
-![](images/index-bets-from-products-to-people-cb12081d.png)
+![](/images/index-bets-from-products-to-people-cb12081d.png)
 
 Not everyone agrees with this idea. I once had a friendly debate with Pat Grady about whether you can know everything. He pointed to the idea of building a latticework of memory to keep all types of information in your head without having to rely on other people. Certainly some value to this idea. Even Charlie Munger tends to [dismiss reliance on other people for your thinking.](http://www.koryrogers.com/share/Poor%20Charlie's%20Almanack%20by%20Charles%20T.%20Munger.pdf)
 

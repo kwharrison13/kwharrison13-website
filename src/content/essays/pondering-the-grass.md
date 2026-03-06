@@ -7,7 +7,7 @@ slug: "pondering-the-grass"
 type: "newsletter"
 ---
 
-![](images/pondering-the-grass-d1cc265f.jpg)
+![](/images/pondering-the-grass-d1cc265f.jpg)
 
 I’ve gone through several iterations over the course of my writing career spanning the last 3.5 years. When I first started, I was writing every Thursday. Then, the weeks got busier so I transitioned to [panic writing](https://investing101.substack.com/p/panic-writing?utm_source=publication-search) on Saturday mornings. I would wake up at 4 or 5 AM, write until my kids woke up and then hit publish on whatever I’d gotten out. That worked pretty well for a while. But it’s not anymore.
 

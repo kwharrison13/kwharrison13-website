@@ -7,7 +7,7 @@ slug: "having-a-conversation-with-yourself-7fe"
 type: "newsletter"
 ---
 
-![](images/having-a-conversation-with-yourself-7fe-875d5cbc.png)
+![](/images/having-a-conversation-with-yourself-7fe-875d5cbc.png)
 
 In December 2021, I was reflecting on an idea I had heard from several sources. In effect, this is the idea: We're always living in historic times, so take notes. Another great perspective on this idea comes from a fellow named Wilford Woodruff, who I consider to have been a modern-day Moses. He [said](https://www.churchofjesuschrist.org/study/manual/teachings-wilford-woodruff/chapter-13?lang=eng):
 

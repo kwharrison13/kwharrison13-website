@@ -7,7 +7,7 @@ slug: "open-source-knowledge"
 type: "newsletter"
 ---
 
-![Neurons firing in the brain](images/open-source-knowledge-1d077c7b.png)
+![Neurons firing in the brain](/images/open-source-knowledge-1d077c7b.png)
 
 Books are dead.
 
@@ -29,7 +29,7 @@ Open-source knowledge has become one of my biggest [portfolio ideas](https://kwh
 
 # Introducing Contrary Research
 
-![](images/open-source-knowledge-c937f99f.jpg)
+![](/images/open-source-knowledge-c937f99f.jpg)
 
 At [Contrary](http://Contrary.com), we're laser focused on identifying the sharpest people in the world, and supporting them relentlessly throughout their life and careers. We support a community of over 400 talented engineers, operators, founders, and future-founders.
 
@@ -37,7 +37,7 @@ Sharp people want to tackle hard problems, and often the solutions to those prob
 
 [Contrary Research](https://research.contrary.com/reports/contrary-research-launch) is a way for us to better help tell those stories. We build on a foundation of what we call light memos; brief introductions to a wide variety of private tech companies. We then use those introductions as a foundation to go deeper. We find where the stories of these companies converge, and dive in.
 
-![](images/open-source-knowledge-d541673e.png)
+![](/images/open-source-knowledge-d541673e.png)
 
 Learning about, and understanding, private companies is difficult. There's no one source of information that will give you the entire picture. Our goal in launching Contrary Research has a few components:
 
@@ -155,11 +155,11 @@ As I've shared the ideas behind Contrary Research with different people, [they o
 
 All of these kinds of folks can do the work to go deep, though it often [can take hours](https://twitter.com/kwharrison13/status/1570125893510766592?s=20&t=8At1u1OpycAGSZf_PUYmoA). Rather than try and replace any of the wide variety of high-quality sources I listed above, the intent is to become the best starting point where you can consistently get the same pieces of information for each business.
 
-![Contrary Research: Ramp](images/open-source-knowledge-d3fcaf3a.png)
+![Contrary Research: Ramp](/images/open-source-knowledge-d3fcaf3a.png)
 
 And then if you want to go deeper? We try and point you to the best in-depth resources. Hopefully we’ve armed you with a bit of that short-hand and gave you a foundation upon which to then build.
 
-![Contrary Research: Ramp](images/open-source-knowledge-05d76c0e.png)
+![Contrary Research: Ramp](/images/open-source-knowledge-05d76c0e.png)
 
 ## What Does This Mean For Venture?
 

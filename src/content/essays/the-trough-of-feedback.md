@@ -7,7 +7,7 @@ slug: "the-trough-of-feedback"
 type: "newsletter"
 ---
 
-![Source:Scrubs](images/the-trough-of-feedback-8a0a9351.png)
+![Source:Scrubs](/images/the-trough-of-feedback-8a0a9351.png)
 
 Stop me if you've heard this one before.
 
@@ -29,7 +29,7 @@ Granted, most mature adults work their way out that kind of mentality by the 6th
 
 # All VCs Are Subs
 
-![Source:Twitter](images/the-trough-of-feedback-e966e3bc.png)
+![Source:Twitter](/images/the-trough-of-feedback-e966e3bc.png)
 
 One of the most common refrains about venture investing is that its a "relationship business." Lots of people find themselves in the relationship businesses: law, wealth management, sales. But most of these relationship businesses consist of targets whose value doesn't change a ton.
 
@@ -45,7 +45,7 @@ I've seen countless examples of VCs who are immediately skeptical if a founder d
 
 Most VCs have developed a sort of Pavlovian conditioning. Like a bell means dinner, a founder who ignores you or puts you off usually correlates directly with the quality of a deal. The meaner the founder is to you, the more likely it is the company is the next Google. So what happens when a founder says, "I'd love to find a way to work with you?" A VC's reaction is immediate:
 
-![](images/the-trough-of-feedback-76175869.gif)
+![](/images/the-trough-of-feedback-76175869.gif)
 
 *"Why? What's wrong with your business? Did everyone else pass? Why would you want to work with me?"*
 
@@ -71,19 +71,19 @@ Even one of the better known exercises in "we were wrong" admissions, [Bessemer'
 
 # The Trough of Feedback
 
-![Source:Twitter](images/the-trough-of-feedback-f5eb2d44.png)
+![Source:Twitter](/images/the-trough-of-feedback-f5eb2d44.png)
 
 *First, a big thanks to Leslie from her post a year ago. It's what started forming the idea for the trough of feedback in my mind.*
 
 **Leslie's comment didn't make me think a lack of feedback was a universal or systemic problem. Instead, its a spectrum, or a trough.** The trough is typically a VC's level of freedom. When you’re the best in the world you can probably give more direct feedback because you have very little to gain. When you’re new, or in the bottom tier of what you do then you can give direct feedback because you have very little to lose.
 
-![](images/the-trough-of-feedback-016fe81f.png)
+![](/images/the-trough-of-feedback-016fe81f.png)
 
 The same can be true of your relationship. If we barely have a relationship, maybe I can be somewhat honest, or if we have a really good relationship. But if we're somewhere in the "building a relationship" phase, honest feedback becomes much harder.
 
 The strange, psychological minefield of bad VC feedback is nowhere more obvious than in the "reason for passing." Leslie touched on this right after her first post:
 
-![Source:Twitter](images/the-trough-of-feedback-7fe9d42f.png)
+![Source:Twitter](/images/the-trough-of-feedback-7fe9d42f.png)
 
 The common reasons why VCs pass, and the reason the feedback is so weak, is something a lot of people have touched on [over](https://x.com/VCBrags/status/1745473235087446191?s=20), and [over](https://chrisneumann.com/archives/why-dont-vcs-give-feedback), and [over](https://newsletter.matsherman.com/p/when-a-vc-passes-dont-ask-why) again. And there are some really good nuggets in those posts, so I would recommend checking them out.
 

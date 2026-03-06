@@ -7,7 +7,7 @@ slug: "be-still"
 type: "newsletter"
 ---
 
-![](images/be-still-35b278cd.png)
+![](/images/be-still-35b278cd.png)
 
 This week, I set out to write a piece that is multi-faceted and complex. It touched on ideas I've covered before, from human nature to propaganda and storytelling. The implications of the story are, unlike some of the more banal "business strategy" explorations I sometimes go on, felt like it had real measurable implications.
 

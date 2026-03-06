@@ -7,7 +7,7 @@ slug: "productization"
 type: "newsletter"
 ---
 
-![](images/productization-9557afc9.png)
+![](/images/productization-9557afc9.png)
 
 ## Old-Timey Things
 
@@ -17,7 +17,7 @@ But when it comes to venture capital you can go all the way back to the 15th cen
 
 You can read the details in [VC: An American History](https://www.amazon.com/VC-American-History-Tom-Nicholas/dp/0674988000) by Tom Nicholas, but the TLDR has to do with risk and equity. Whaling expeditions, much like tech startups today, represented a majority-risk endeavor where only a small portion are big successes.
 
-![](images/productization-901cf824.png)
+![](/images/productization-901cf824.png)
 
 Americans were able to dominate the whaling industry over time [for a few reasons](https://medium.com/gaia-voice/whaling-vc-a-common-misunderstanding-757fda97dc62), but one of them was a unique financing mechanism. Financiers incentivized whalers by giving them equity in the upside and by backing a variety of whaling expeditions they were able to distribute risk across a portfolio of bets. Now we've just traded whales for unicorns and [dragons](https://www.axios.com/startup-dragons-unicorns-678efac0-accd-4eb9-81a7-ccc97e912c23.html).
 
@@ -39,7 +39,7 @@ Venture firms have more in common with law firms than with the tech companies th
 
 ## Our Uniquely Differentiated Value Proposition
 
-![](images/productization-b77369fa.png)
+![](/images/productization-b77369fa.png)
 
 Sometimes when a founder goes looking for a venture fund to work with it can feel like candle shopping. Some candle aficionados will tell you they're all unique in their special way. But the average person knows the options are mostly just wax, food coloring, and different flavors of axe body spray.
 
@@ -67,7 +67,7 @@ I'm going to use the term "product" pretty liberally. When I talk about this con
 
 As an example, if you're a company building around data infrastructure or AI then some of the folks at [Index Ventures have a great product](https://www.indexventures.com/team/). Several of the investors there all have technical backgrounds and have invested across a variety of data infrastructure and AI companies. There are few better products for these kinds of founders.
 
-![](images/productization-cf562291.png)
+![](/images/productization-cf562291.png)
 
 The reason for venture firms to consider how to more effectively productize their offerings is tied to the increased number and diversity of opportunities. From the explosion of international startup ecosystems, remote work mixing the groups of talent, and complex new categories from AI to robotics to web3 to climate tech. **Funds will find themselves exposed to more opportunities and either they specialize (a product in itself) or they productize.**
 
@@ -77,7 +77,7 @@ Products can include groups of people, specific services, brand developed a part
 
 [Nikhil Trivedi](https://twitter.com/nbt) wrote [a great piece](https://nbt.substack.com/p/agglomerators-vs-specialists) a few years ago about the ways venture funds have been defining themselves. He describes the progression of firms first focusing on sector and then on stage. Most firms today are now some combination of the two.
 
-![](images/productization-24768c68.png)
+![](/images/productization-24768c68.png)
 
 Determining where to focus both in terms of stage and sector are certainly strategies, but they're both driven internally; "what do I (the investor) want to look for?"
 
@@ -85,7 +85,7 @@ Determining where to focus both in terms of stage and sector are certainly strat
 
 Another way the venture landscape has been articulated was by [Everett Randle](https://twitter.com/EverettRandle) in "[Playing Different Games](https://randle.substack.com/p/playing-different-games)." His framework showed two ends of a spectrum: high touch and quality vs. low touch and speed.
 
-![](images/productization-9cb40fe5.png)
+![](/images/productization-9cb40fe5.png)
 
 Everyone's takeaway last year when they read his piece was "I don't want to get squeezed in the middle," but very few people stopped to think, "what does it mean to be in the middle?"
 
@@ -99,11 +99,11 @@ I asked over 90 investors across 70 different firms (seed, venture, growth, cros
 
 The first common reaction was acknowledging that they didn't always have a crystal clear answer to the question. A lot of people have felt the pressure in the venture market during 2021 and have been pushed to think longer and harder about what their firms offer.
 
-![](images/productization-3da3a629.png)
+![](/images/productization-3da3a629.png)
 
 Beyond some of that initial hesitation I got a number of responses. I expected some uniformity but I was surprised to find ~90% of the answers fit into some core buckets. If you're a VC, take a look at the pillars and ask yourself if it sounds like your firm.
 
-![](images/productization-85028322.png)
+![](/images/productization-85028322.png)
 
 Don't get me wrong. All of this is great. And every firm will do all of these to varying degrees of quality. **But if every firm says these are their products you can see why founders sometimes feel like they're candle shopping, right?**
 
@@ -127,4 +127,4 @@ Most importantly, when she was at a16z before she was a Partner in charge of mar
 
 The VC landscape is getting more crowded than ever. Founders are confused, stumbling around in a candle shop, and the picture is getting fuzzier. **And as bad as it is to lose the opportunity to invest in a great company because you're not the right fit it is even worse to be so unclear in your offering that they don't even take time to think about you.**
 
-![](images/productization-451ed3de.png)
+![](/images/productization-451ed3de.png)

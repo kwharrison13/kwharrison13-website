@@ -7,7 +7,7 @@ slug: "updating-the-hype-cycle"
 type: "newsletter"
 ---
 
-![](images/updating-the-hype-cycle-21756d98.png)
+![](/images/updating-the-hype-cycle-21756d98.png)
 
 Warren Buffett and Charlie Munger are two rich philosopher kings whose purchases of candy stores and Coca-Cola shares have spawned aphorisms on life, psychology, and investing that are the closest thing to a modern day Ben Franklin that we have.
 
@@ -23,7 +23,7 @@ The concept of being willing to change your mind goes hand-in-hand with the [wil
 
 A few months ago, I wrote a piece called [The Hype Cycles of Venture Capital](https://investing1012dot0.substack.com/p/the-hype-cycles-of-venture-capital) with a graphic I was quite proud of with my deeply inadequate Canva skills.
 
-![](images/updating-the-hype-cycle-05faae03.png)
+![](/images/updating-the-hype-cycle-05faae03.png)
 
 While the world fell apart in 2022, capital dried up, interest rates rose, and layoffs mounted, there was still one sliver of 2021 that managed to persist. A sudden explosion of interest in artificial intelligence in its many forms arose. You saw companies raising [$100M+ Series A](https://www.prnewswire.com/news-releases/jasper-announces-125m-series-a-funding-round-bringing-total-valuation-to-1-5b-and-launches-new-browser-extension-301651733.html) rounds and [$1B+ valuations](https://techcrunch.com/2022/10/17/stability-ai-the-startup-behind-stable-diffusion-raises-101m/) for effectively no revenue. Then there's OpenAI getting valued at [$20-30 billion](https://bdtechtalks.com/2023/01/09/openai-tender-offer/) with plans to go from [~$35M in revenue](https://fortune.com/2023/01/10/microsoft-investment-10-billion-openai-chatgpt/) to $1B in a pretty quick period of time.
 
@@ -119,7 +119,7 @@ While the explosion of applications is everywhere, the pool of exceptional AI/ML
 
 The combination of open-source models, shared best practices, requirements for training data, and compute resources will keep a lot of these companies tethered (e.g. OpenAI + Microsoft). So you want to invest in companies [plugged into that zeitgeist](https://www.theinformation.com/articles/six-openai-rivals-google-and-microsoft-are-watching?utm_campaign=Automated+Fallback+R&utm_content=89&utm_medium=email&utm_source=cio&utm_term=19&rc=ecjlpf).
 
-![Linkedin](images/updating-the-hype-cycle-65e50659.png)
+![Linkedin](/images/updating-the-hype-cycle-65e50659.png)
 
 ## **Community**
 

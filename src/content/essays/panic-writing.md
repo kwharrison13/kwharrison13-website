@@ -7,7 +7,7 @@ slug: "panic-writing"
 type: "newsletter"
 ---
 
-![](images/panic-writing-49c03fbc.png)
+![](/images/panic-writing-49c03fbc.png)
 
 [When I looked back](https://investing1012dot0.substack.com/p/having-a-conversation-with-yourself-f29) over recurring themes in my writing over the course of 2023, one of the ones that stuck out to me was my method of "panic writing." I first started describing my process of writing this way when people would ask me how I'm so consistent. The first time I put it in my writing, I believe, was in September 2023 for a piece called "[On Writing](https://investing1012dot0.substack.com/p/on-writing)":
 

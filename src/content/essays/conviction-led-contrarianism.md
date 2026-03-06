@@ -7,7 +7,7 @@ slug: "conviction-led-contrarianism"
 type: "newsletter"
 ---
 
-![](images/conviction-led-contrarianism-cba65dad.png)
+![](/images/conviction-led-contrarianism-cba65dad.png)
 
 There is a story of a large village on the coast. The coast was relentlessly demanding in the way that only nature can be. From an intensely dry climate to a raging storm season. Up and down that coast, it was a constant threat to the people. But the people of this particular village felt they were in pure control of their environment. With the weapons of irrigation, cloud seeding, ocean walls, and genetically-modified seeds, they had defied the very laws of nature in order to survive. **Where other communities shriveled away, their community thrived. They had conquered nature**.
 
@@ -57,7 +57,7 @@ One [fear](https://x.com/zebriez/status/1912124786593186017) that Brie Wolfson e
 
 I loved the sentiment from Kache [recently](https://x.com/yacineMTB/status/1923743833482813632) that "if this isn't you at least once a week i'm sad to say that you weren't chosen for greatness."
 
-![](images/conviction-led-contrarianism-d6dfccea.png)
+![](/images/conviction-led-contrarianism-d6dfccea.png)
 
 When you're meeting a new friend or casually chatting up someone at church or absentmindedly joining a pickleball league, there is plenty of room to optimize for likability. **But contrarianism and deviance hold a special place in the plight of human progress, and they can't be ignored.**
 
@@ -65,7 +65,7 @@ The real problem is a misdirection of zeal. Instead of righteously pursuing cont
 
 ## Anti-Conformism = Conformism
 
-![Source:Twitter](images/conviction-led-contrarianism-32d3ceac.png)
+![Source:Twitter](/images/conviction-led-contrarianism-32d3ceac.png)
 
 Brie's concern about using deviance as an antidote to likability is that it encourages people to be difficult for the wrong reasons. And being deviant for the sake of being deviant is one of those wrong reasons. In the [words](https://www.navalmanack.com/) of Naval Ravikant:
 
@@ -125,11 +125,11 @@ I [came across](https://x.com/thejayalto/status/1908190901135946230?s=46) a grea
 
 When we evaluate our lives through the lens of how other people react, we will always be our harshest critic because we have no idea how they will react, so we’re solving for all the possible negative reactions. Rather, we should be acknowledging that sometimes people respond to your "deviance" negatively, not because you're messed up but because they're messed up. The reality is that, [as this Twitter post says](https://x.com/Mind_Essentials/status/1914174758608142563) Lao Tzu said — **"care about what other people think and you will always be their prisoner."**
 
-![Source:Twitter](images/conviction-led-contrarianism-8535e25a.png)
+![Source:Twitter](/images/conviction-led-contrarianism-8535e25a.png)
 
 Instead, we need to divest from the concerns of other people. This is so much easier said than done. Dramatically so. This is, I think, the crux of a large swath of people's unhappiness. This is a deep and abiding cause of my own unhappiness. I am so unbelievably concerned with what people think of me. But there is a better way.
 
-![Source:Twitter](images/conviction-led-contrarianism-15240494.png)
+![Source:Twitter](/images/conviction-led-contrarianism-15240494.png)
 
 My immediate cop-out to why I *need* to worry about what people think of me is to blame dependencies. I need these people to like me / think I'm smart / take my money for xyz reason. **But the reality is that the majority of interactions in life do not have those kinds of dependencies. Even if you think they do.** Instead, we ascribe those dependencies to interactions that don't have them due, largely, to vanity.
 
@@ -143,7 +143,7 @@ And the beauty of finding a way not to care what people think is that, often, **
 
 In fact, this isn’t just a nice behavioral attitude to adopt, it's one of the most powerful competitive edges I think you can have.
 
-![Source:Twitter](images/conviction-led-contrarianism-de9b5f26.png)
+![Source:Twitter](/images/conviction-led-contrarianism-de9b5f26.png)
 
 I cannot express how much this is not just a casual phase that can be easily dismissed or passed through. Nor can I confess that this is a phase I no longer have an issue with. The vast majority of people are trapped in this layer. It eats up the majority of their energy and brain power. When Visa says the majority of human creativity is spent suppressing human creativity, its because of this layer.
 
@@ -219,7 +219,7 @@ His formula for identifying when an idea's time has come is "if what you're work
 
 My friend Rex Woodbury has [articulated](https://www.digitalnative.tech/p/play-it-cool-chasing-heat-vs-being) a similar idea, but in reverse. He pointed out that often the most important company started at a particular time was *not* in line with the current hype cycle at the time.
 
-![Source:Digital Native](images/conviction-led-contrarianism-ffb878c9.png)
+![Source:Digital Native](/images/conviction-led-contrarianism-ffb878c9.png)
 
 That isn't to say that companies don't go through hype cycles. Anduril was deeply hype countercyclical in 2017, but is now riding a moment of American Dynamism. That moment may pass, but what will remain unchanged is the founding team's conviction. Coinbase has experienced multiple ups and downs, and remains focused. So has Waymo, OpenAI, and dozens of other critical businesses. **The reason they persist is NOT because of hype, it is because of conviction and truth.**
 

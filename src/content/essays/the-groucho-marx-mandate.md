@@ -7,7 +7,7 @@ slug: "the-groucho-marx-mandate"
 type: "newsletter"
 ---
 
-![](images/the-groucho-marx-mandate-528c4e83.png)
+![](/images/the-groucho-marx-mandate-528c4e83.png)
 
 If there's one trope that is common throughout teen angst its the idea that if you want someone to like you, treat them like dirt. Woven into that is a myriad of teenage psychological trauma, but it also isn't new. There's a common thread that represents a part of humanity. The best comedians capture aspects of what it means to be human, and this time is no exception. The person to capture this little nugget is Groucho Marx.
 
@@ -25,7 +25,7 @@ VCs are nothing if not pattern recognizers, right? So, whether consciously or su
 
 Now, the opposite is also true. The more a company is crushing it, the less deference they need to pay VCs. The more a founder ignores you, the more likely it is that the company knows its good. I don't know if this story is true, but I remember hearing stories about how, in the early days of Notion's inflection, some VCs sent them an unprompted term sheet and the Notion founders sent back a video of them lighting the term sheet on fire.
 
-![](images/the-groucho-marx-mandate-ed54ea4e.gif)
+![](/images/the-groucho-marx-mandate-ed54ea4e.gif)
 
 Once again, pattern recognition sets in. The meaner a founder is to a VC, the more likely it is the company is doing well. This goes on and on. The more good founders blow off VCs, the more VCs correlate that with success.
 

@@ -7,7 +7,7 @@ slug: "conviction-capitalists"
 type: "newsletter"
 ---
 
-![](images/conviction-capitalists-6184887a.png)
+![](/images/conviction-capitalists-6184887a.png)
 
 ---
 

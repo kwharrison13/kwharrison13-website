@@ -7,13 +7,13 @@ slug: "the-rising-generation"
 type: "newsletter"
 ---
 
-![](images/the-rising-generation-089d71ec.png)
+![](/images/the-rising-generation-089d71ec.png)
 
 There are a few things that stick in my mind so much it feels like they're a fundamental part of my personal source code. Movies, songs, sayings, quotes, commercials for Campbell's chicken noodle soup. One such entry in my repo is the 2006 movie [Night at the Museum](https://en.wikipedia.org/wiki/Night_at_the_Museum). But the part of the movie that made the cut might surprise you. I think all the time about the first 7 minutes of the movie.
 
 At the beginning, Larry (the main character) goes to pick up his son from his ex-wife's house, and chats with her goober fiancé, Don. Don is a bond trader who wears a beeper, cell phone, and Blackberry attached to his belt like a Wall Street Batman (2006 was a simpler time). After Larry takes his son, Nicky, to his hockey game, they're walking through Central Park.
 
-![](images/the-rising-generation-18fc4db0.png)
+![](/images/the-rising-generation-18fc4db0.png)
 
 His Dad is telling him what a good job he did, and how the NHL might be a serious possibility.
 
@@ -39,7 +39,7 @@ Life is too noisy to leave you alone. If parents don't help their kids get expos
 
 Grades. Colleges. Medals. Awards. Kids lives revolve around outcomes. Parents feel good about outcomes because they're measurable and easily compared to the outcomes of other kids. And to kids credit, they're stepping up. They've risen to the occasion, and are often producing the outcomes their parents pushed them towards. But at what cost? **"Gen Zers are launching viral products and publishing research as teens, but report the highest rates of anxiety & depression."**
 
-![Source:Twitter](images/the-rising-generation-5ddff240.png)
+![Source:Twitter](/images/the-rising-generation-5ddff240.png)
 
 Justine has a good [follow up point](https://twitter.com/venturetwins/status/1661812102041071617?s=20) to make here:
 
@@ -51,7 +51,7 @@ And that has implications for the startup ecosystem as a whole. The cultural vib
 
 # The Path of Least Resistance
 
-![Source:Twitter](images/the-rising-generation-2563cb0e.png)
+![Source:Twitter](/images/the-rising-generation-2563cb0e.png)
 
 The aspirations of the rising generation often revolve around what they spend so much of their time doing: being online. The numbers Delian is referencing above is based on a [2017 survey](https://www.thesun.co.uk/news/3617062/children-turn-backs-on-traditional-careers-in-favour-of-internet-fame-study-finds/) of 1K kids. Here, I think you have two forces at work: (1) outcome-based pressure (e.g. doctors, lawyers), and (2) no pressure at all (what I see is what I want to do).
 
@@ -99,13 +99,13 @@ Again, John Quincy Adams had tons of flaws. After he served as President, he for
 
 That also reminds me of this exam from 1912 I saw [on Twitter](https://twitter.com/creation247/status/1643629389328834560?s=20) that was for 8th graders!
 
-![](images/the-rising-generation-0aa58eb1.png)
+![](/images/the-rising-generation-0aa58eb1.png)
 
 To some extent, we've lost sight of what young people are capable of. The average age of Hollywood stars goes up by [0.75](https://twitter.com/rev_cap/status/1647237620852838403?s=20) years every year. CEOs at the age they were hired [has gone from](https://twitter.com/rev_cap/status/1647237620852838403?s=20) ~45 in 2005 to ~68 in 2019.
 
 Liberty had a [great post](https://twitter.com/LibertyRPF/status/1679131574305013761?s=20) about Napoleon and young leaders back in July when a trailer for a new Napoleon movie came out. He credit Rian Whitton for making this point about Napoleon's age:
 
-![Source:Twitter](images/the-rising-generation-9ff4cf22.png)
+![Source:Twitter](/images/the-rising-generation-9ff4cf22.png)
 
 In [Liberty's post](https://www.libertyrpf.com/p/436-napoleon-and-young-leaders-microsoft) he asks the question, "Is this because audiences couldn’t suspend disbelief if Napoleon was played by an actor of the actual age of Napoleon during these events?" Are we so far removed from witnessing the capabilities of young people that its outside the realm of possibility in our imagination?
 
@@ -131,7 +131,7 @@ While Silicon Valley as an idea has always been one for rebels and outcasts, it 
 
 Balaji Srinivasan has a great thread that I think brings this point home. Over the course of a week or so in May, Keith Rabois, Patrick Collison, and Sam Altman all made the observation that the dominant players in tech are no longer 20-year olds.
 
-![Source:Twitter](images/the-rising-generation-d0e7e2a3.png)
+![Source:Twitter](/images/the-rising-generation-d0e7e2a3.png)
 
 I still remember the day my family got dial-up internet. I remember the screech of hope as my computer logged online. I remember the first websites I went to. I remember learning to write HTML so I could customize my MySpace page. **Describing the internet as a frontier to people who logged on in the 90s and early 2000s is soulfully accurate.**
 
@@ -161,7 +161,7 @@ Even Microsoft, who between their acquisition of GitHub and their massive partne
 
 Balaji makes a similar point in his thread about the cultural undertones of AI as a movement of people, and processes.
 
-![Source:Twitter](images/the-rising-generation-d5c1d7a4.png)
+![Source:Twitter](/images/the-rising-generation-d5c1d7a4.png)
 
 General social networks will give way to micro social networks. Interests and skill sets will become the most important identities. That feeling of many of the people talking about AI talking as "spectators rather than players," **that is a reflection of the forming of a new out-group.**
 
@@ -187,4 +187,4 @@ Then he paused for a bit.
 
 I'm proud of him. We'll see how his ninja aspirations play out. **But even more than that, I'm proud that his first thought is to ask the question "how" do I get what I want?** That's a good first step towards appreciating the journey as much as the destination.
 
-![](images/the-rising-generation-f05d9afd.jpg)
+![](/images/the-rising-generation-f05d9afd.jpg)

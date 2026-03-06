@@ -13,13 +13,13 @@ I'm fascinated by an idea that I've never been able to put a word to. At differe
 
 Early in my life I thought about city building. I had written a business plan on a napkin when I was about 12 years old that outlined how I would build a city shaped around a unified experience.
 
-![](images/teamshares-hold-cos-and-corporate-6974b6e3.png)
+![](/images/teamshares-hold-cos-and-corporate-6974b6e3.png)
 
 That same fascination with city building led me to spend a lot of time thinking about things like Walt Disney, and his original vision for EPCOT (which I've written about several times [here](https://investing1012dot0.substack.com/p/learning-to-dream), [here](https://investing1012dot0.substack.com/p/the-cowards-conviction), and [here](https://investing1012dot0.substack.com/p/the-rise-of-the-cash-man).) I was always looking for these examples of purpose-built communities.
 
 In 2014, after I sold my first company I spent time at Cambridge where I did a Supervision Thesis sponsored by a faculty member. My original proposal revolved around this same idea. I described it, at the time, as a fascination with "the way people interact with the world around them."
 
-![](images/teamshares-hold-cos-and-corporate-483d8c9e.png)
+![](/images/teamshares-hold-cos-and-corporate-483d8c9e.png)
 
 Over time, my interest took shape in a fascination with holding companies. I loved studying Constellation Software, Berkshire Hathaway, and others. The kind of unified human experience I saw occurring in a city that was purpose built was always influenced by the *why* of a city. **What is the economic driver of a collection of people? Holding companies felt like a more direct representation of those aligned economic drivers.**
 
@@ -103,7 +103,7 @@ One of the biggest pushbacks these types of companies get is whether or not they
 
 Opendoor is, I think, a good example of an interesting business that isn't worth what its ambitions wanted it to be worth. So one function of venture scale can be determined based on the valuation relative to traction and business model potential.
 
-![](images/teamshares-hold-cos-and-corporate-ce9b0cd6.png)
+![](/images/teamshares-hold-cos-and-corporate-ce9b0cd6.png)
 
 WeWork could still be an exceptional business. But its loaded with so much insurmountable debt, that its now [at risk as a going concern](https://www.reuters.com/business/wework-raises-going-concern-doubt-shares-tank-2023-08-08/) with a market cap of $262M.
 
@@ -111,7 +111,7 @@ The broader question: take a business whose primary economic model is to deploy 
 
 Whether its holding companies, like Constellation, Loews Corp, TransDigm, or asset allocators, like Blackstone, Apollo, or Ares. There are a number of case studies to point to of the potential size of these outcomes.
 
-![](images/teamshares-hold-cos-and-corporate-774b0150.png)
+![](/images/teamshares-hold-cos-and-corporate-774b0150.png)
 
 Most of these firms are generating billions in revenue too, so if a company's valuation becomes outrageous relative to traction, then no. It can be a terrible investment. But assuming the valuation remains commensurate with the potential of the business, there's no reason it can't be a good outcome.
 

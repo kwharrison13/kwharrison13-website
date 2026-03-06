@@ -7,11 +7,11 @@ slug: "have-kids-or-dont-but-have-kids"
 type: "newsletter"
 ---
 
-![](images/have-kids-or-dont-but-have-kids-e127f121.png)
+![](/images/have-kids-or-dont-but-have-kids-e127f121.png)
 
 I had an interesting experience this week. I was scrolling the artist formerly known as the Bird App, as anyone with a dopamine addiction is wont to do, and I saw a tweet from Delian at Founders Fund that made me stop and think.
 
-![](images/have-kids-or-dont-but-have-kids-e2cf62ae.png)
+![](/images/have-kids-or-dont-but-have-kids-e2cf62ae.png)
 
 Regardless of the context of that call, I was surprised by the blatant counter positioning to what has felt like a real vibe shift lately. What I'm assuming this person meant was that, just like a teen pregnancy can throw off and potentially irrevocably damage the bright hopeful life of a young person, having kids at 30 is similarly a destruction of potential.
 
@@ -21,7 +21,7 @@ That's not to say that everyone is suddenly waking up desperate for marriage, ki
 
 So, again, as someone with a X dot com addiction so often does, I responded with my gut reaction:
 
-![](images/have-kids-or-dont-but-have-kids-8d38f7e2.png)
+![](/images/have-kids-or-dont-but-have-kids-8d38f7e2.png)
 
 I didn't think much of it, and I went about my day. But I heard from a few folks that they saw this response as insensitive. One person went as far as to take the position that "this is a really shitty thing to say." Of all the things [I've tweeted](https://x.com/kwharrison13/status/1901290761238495337), I was surprised to see that this was one that touched a nerve. I deleted the tweet to avoid any future misunderstanding, but it still left me reflecting on what I meant with my shoot-from-the-hip tweet, whether or not I really believed it, and what (if any) were the implications that might make it a "shitty thing to say."
 

@@ -7,7 +7,7 @@ slug: "whats-in-a-post-mortem"
 type: "newsletter"
 ---
 
-![](images/whats-in-a-post-mortem-91de3e67.png)
+![](/images/whats-in-a-post-mortem-91de3e67.png)
 
 ## Death Is Only The Beginning
 
@@ -19,7 +19,7 @@ Except they weren't. They were super stoppable. Jeffrey Katzenberg and Meg Whitm
 
 Did this failure shock the world? Are people still, to this day, scratching their heads at this failure? Not even close. People were laying out [the reasons it didn't make sense](https://www.theverge.com/2020/10/22/21528404/quibi-shut-down-cost-subscribers-content-tv-movies-katzenberg-whitman-tiktok-netflix) even before it launched. One of the most simple reasons? Meg Whitman [hates watching TV](https://theweek.com/speedreads/923863/quibi-ceo-admits-not-really-entertainment-enthusiast) and Katzenberg seemed to... dislike his target market.
 
-![](images/whats-in-a-post-mortem-141ee464.png)
+![](/images/whats-in-a-post-mortem-141ee464.png)
 
 Sometimes in hindsight a failure can feel easy to diagnose. But investors put nearly $2B into Quibi. Theranos raised nearly $1B. Google Glass cost Google $895M. **The kinds of investment people have made into these projects indicate the potential people saw in them at one point even if they became colossal failures. So what happened between the fanfare and the failure?**
 
@@ -49,11 +49,11 @@ There is, unfortunately, an epidemic of people not willing to ask themselves "wh
 
 I caught one such glimpse recently when [I watched a TikTok](https://www.tiktok.com/@ryanjondunn/video/7122375204231302402?is_copy_url=1&is_from_webapp=v1) of a woman discussing her intense hatred for people who close the toilet lid after use. But when presented with the information that the lid exists to stop poo particles from spraying around the room when you flush? She experienced an abrupt awakening.
 
-![](images/whats-in-a-post-mortem-386fc859.png)
+![](/images/whats-in-a-post-mortem-386fc859.png)
 
 And like my good friend [Rex Woodbury](https://twitter.com/rex_woodbury) likes to say, "TikTok comments are the greatest window into the soul of society." There was some serious appreciation for her willingness to immediately change her mind.
 
-![](images/whats-in-a-post-mortem-1231b6c6.png)
+![](/images/whats-in-a-post-mortem-1231b6c6.png)
 
 Like the famous quote from John Maynard Keynes: "when the facts change I change my mind." But guess what? Nobody. Changes. Their. Mind. I am convinced that one of the single greatest blockers to social and economic progress is as simple as this: **if more people changed their mind when presented with new information we would quickly have even more information with which to improve our thinking.**
 

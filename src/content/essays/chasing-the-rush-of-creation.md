@@ -7,7 +7,7 @@ slug: "chasing-the-rush-of-creation"
 type: "newsletter"
 ---
 
-![Source:Alexa Kayman](images/chasing-the-rush-of-creation-de1a4dec.png)
+![Source:Alexa Kayman](/images/chasing-the-rush-of-creation-de1a4dec.png)
 
 *I'm working on a monster deep dive for [Contrary Research](research.contrary.com) into the world of open source AI. When we publish it I'll be sure to share a piece of it here. But with how much time that piece is taking up, today is just a brief piece on one of the most interesting conversations I've had in a long time.*
 

@@ -7,7 +7,7 @@ slug: "long-enough-to-matter"
 type: "newsletter"
 ---
 
-![](images/long-enough-to-matter-581e94de.png)
+![](/images/long-enough-to-matter-581e94de.png)
 
 [I've written before](https://investing1012dot0.substack.com/p/the-rising-generation) about the myriad of things that make up my internal source code:
 
@@ -15,7 +15,7 @@ type: "newsletter"
 
 A couple of those things came to mind today. The first? A rabbit named Thumper.
 
-![](images/long-enough-to-matter-4cb85e12.png)
+![](/images/long-enough-to-matter-4cb85e12.png)
 
 After being accosted by his mother for criticizing the young deer, Bambi himself, Thumper is reminded of counsel his Mom has given him before. "If you can't say anything nice, don't say anything at all." Easily dismissed as simply a refrain to be kind, this idea actually strikes of something about what is worth being said vs. what isn't.
 

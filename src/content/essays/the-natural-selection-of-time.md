@@ -7,11 +7,11 @@ slug: "the-natural-selection-of-time"
 type: "newsletter"
 ---
 
-![](images/the-natural-selection-of-time-ec3f0738.png)
+![](/images/the-natural-selection-of-time-ec3f0738.png)
 
 I remember 2016 very clearly because it's the year I first became a Dad. My son was born in November 2016. Something else pretty big happened that month that made a lot of people very angry. Donald Trump won the 2016 election. I remembered thinking people would always have such a negative view of 2016 and that felt strange to think about for my son's birth year. John Oliver even did an entire segment to end his season of Last Week Tonight in 2016 [called "F\*\*k 2016."](https://youtu.be/-rSDUsMwakI?t=1465) He burned the year in effigy.
 
-![](images/the-natural-selection-of-time-6d33b440.png)
+![](/images/the-natural-selection-of-time-6d33b440.png)
 
 I've always had that expectation of "negative vibes" for 2016 in the back of my mind. Fast forward, it's been over 5 years and I've started seeing 2016 nostalgia pop up on TikTok reminiscing on the days when [Rihanna still made music](https://www.tiktok.com/@j0shsquash/video/7094806159638695214?is_copy_url=1&is_from_webapp=v1), Stranger Things had just come out, and [the mannequin challenge had gone viral](https://www.tiktok.com/@__doyouremember__/video/7111740457226358021?is_copy_url=1&is_from_webapp=v1). What a difference the passage of time can make.
 
@@ -37,7 +37,7 @@ Time not only impacts the way we view our previous decisions. Time also tricks u
 
 Most people feel "adrift" right now, not because they have no options but because they have too many options, none of which are sure to work out. And people feel paralyzed by the possibilities. David Perell calls this a "[commitment crisis.](https://twitter.com/david_perell/status/1534200615814955008?s=20&t=C6Xue80JQjmJFHZ4lgETkQ)" The idea that because people often have such a short time-frame in mind they fear long-term commitments that limit their optionality. Where the Y-Axis is value and he X-Axis is time people are "hugging the X-Axis."
 
-![](images/the-natural-selection-of-time-c1792939.png)
+![](/images/the-natural-selection-of-time-c1792939.png)
 
 The problem with hugging the X-Axis is that time moves on with or without you. If you make no commitments then you only lose out on time. So you have to make commitments. You have to make decisions. The question is whether you're making the right commitments that will drive the most long-term value. The advice I've given to several folks is to create a "weighted average equation" for making a decision. The first step in that equation is determining what you’re solving for.
 

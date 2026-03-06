@@ -7,7 +7,7 @@ slug: "you-sit-on-a-throne-of-lies"
 type: "newsletter"
 ---
 
-![Source:Elf](images/you-sit-on-a-throne-of-lies-158ca2ee.png)
+![Source:Elf](/images/you-sit-on-a-throne-of-lies-158ca2ee.png)
 
 ---
 
@@ -29,7 +29,7 @@ The man who inspired one of the most commercially impactful seasons of the year 
 
 That man, of course, is Jesus Christ.
 
-![Source:Deseret News](images/you-sit-on-a-throne-of-lies-f0c15681.png)
+![Source:Deseret News](/images/you-sit-on-a-throne-of-lies-f0c15681.png)
 
 If I did my job right with that little epigraph, you may have briefly thought I was talking about Santa Claus up until you spotted the picture of Christ. And there’s the rub. The similarities.
 
@@ -51,7 +51,7 @@ That quandary of imagination is at the heart of just about every Christmas movie
 
 [Miracle on 34th Street](https://www.imdb.com/title/tt0110527/). A young girl [asks her Mom](https://www.youtube.com/watch?v=_iC_57Z7J9Y) if she’s positive that Santa Claus isn’t real:
 
-![](images/you-sit-on-a-throne-of-lies-396ffa67.png)
+![](/images/you-sit-on-a-throne-of-lies-396ffa67.png)
 
 > *Susan: “You’re positive he’s not the real Santa Claus?”   
 > Dorey: “I thought that we talked about this. You understand what he is.”   
@@ -68,13 +68,13 @@ That quandary of imagination is at the heart of just about every Christmas movie
 
 Another example was [The Santa Clause 2](https://www.imdb.com/title/tt0304669/). In a sleigh ride, Scott Calvin talks to his son’s principal about her cynicism around Christmas, and she explains:
 
-![](images/you-sit-on-a-throne-of-lies-f91c0b74.png)
+![](/images/you-sit-on-a-throne-of-lies-f91c0b74.png)
 
 > *“I used to love Christmas… I believed in Santa so much I’d get in fights at school with kids who tried to tell me that he didn’t exist. And one day I came home with a bloody nose. That’s when my parents decided to tell me to... grow up. I was devastated, and... **A person just wants something to believe in, you know?**”*
 
 Those are just two examples we happened to watch this year, but the list goes on and on. Believing in Santa Claus is a core ideological crux of the Christmas narrative. And if there’s one thing that Hollywood has taught me, its that I don’t want to be these guys; one of the scrooges of fiction (despite Neil’s incredible sweaters).
 
-![](images/you-sit-on-a-throne-of-lies-d8d2fd74.png)
+![](/images/you-sit-on-a-throne-of-lies-d8d2fd74.png)
 
 You can feel the yearning of children and grownups alike in these movies. In the words of the future Mrs. Claus, they just “want something to believe in.”
 

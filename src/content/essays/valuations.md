@@ -7,7 +7,7 @@ slug: "valuations"
 type: "newsletter"
 ---
 
-![](images/valuations-bd8e22b9.png)
+![](/images/valuations-bd8e22b9.png)
 
 As everyone with a brokerage account braces for [emotional trauma](https://investing1012dot0.substack.com/p/pain) they've rarely if ever experienced before it has been interesting to watch public and private investors react. There are aspects of public and private investing that I have always thought are unnecessarily divided.
 
@@ -37,13 +37,13 @@ If you really are underwriting to the best case scenario then [what difference d
 
 Consider our example. One of the "rules of thumb" in investing is that a solid beginning for a business is to triple-triple-double-double-double. So you have two years of tripling your revenue and then three years of doubling it. Here's what that would look like.
 
-![](images/valuations-ebae2635.png)
+![](/images/valuations-ebae2635.png)
 
 In year 6 lets say the company has an IPO and they expect the next year (forward revenue) to be $648M, growing 80%. Businesses trade at a wide range of multiples, but right now the [average forward revenue multiple across software companies is 13x.](https://cloudedjudgement.substack.com/p/clouded-judgement-12822) So this company would be worth $8.4B at IPO. Your return is 13x in 5 years; congrats!
 
 If your hurdle was shooting for this investment to be a 10x then should a $500M entry price have been a hard fast rule for you? No. You had some wiggle room. In fact the last few rounds I've seen getting done for companies going from $1 to $5M in revenue were getting done at $1B+ valuations. But when you're making $25-50M investments you're usually looking for a 5x vs. a 10x so even at $1B entry price this is still a 7x investment in the bull case! Not bad.
 
-![](images/valuations-1f1424cf.png)
+![](/images/valuations-1f1424cf.png)
 
 If you ask any VC about times it has worked in their favor to be super price-disciplined you won't hear very many stories. But almost every VC will have a story like passing on UiPath because they wanted to pay $1B and [the company wanted $1.1B.](https://techcrunch.com/2018/03/02/uipath-raising-at-least-100m-at-1b-valuation-for-its-software-robots-for-internal-business-tasks/) Now UiPath is a $17B company. Or passing on Benchling because they wanted to pay $350M and [the company wanted $415M](https://www.prnewswire.com/news-releases/benchling-raises-34-5m-series-c-to-fuel-life-sciences-rd-300890067.html). Now they're a $6B company. **Ultimately if you dream the dream and the dream comes true you won't be asking what kind of bargain you got it for.**
 
@@ -51,11 +51,11 @@ If you ask any VC about times it has worked in their favor to be super price-dis
 
 So what about when things don't go as well? You have the same entry price ($500M) but instead of triple-triple-double-double-double you have a business whose growth rate declines each year. What does that look like?
 
-![](images/valuations-158957af.png)
+![](/images/valuations-158957af.png)
 
 Even this is optimistic for a bear case. The real bear case is going out of business or quickly dropping to 20-30% growth forever. But this is a much less optimistic outcome than you would hope for.
 
-![](images/valuations-1d939d26.png)
+![](/images/valuations-1d939d26.png)
 
 It's in this downside case where the entry price starts to makes a difference. If you paid $1B for this business? You're going to barely get your money back. If you were able to negotiate for $400M vs. $500M? That's the difference between a 5x and a 4x.
 
@@ -63,7 +63,7 @@ There are plenty of examples where a company could have taken a lower valuation.
 
 I think about this scene from Silicon Valley all the time. Richard is trying to decide if he should take what feels like a crazy valuation. He talks to another founder, Javeed, who took a high price, failed to meet milestones, had to take a down round, and settled for a bad acquisition. He asks Javeed if he could have taken less money. Javeed realizes that could have stopped his spiral into a bad outcome and loses his mind.
 
-![Season 2, Episode 1 in case you want to watch it. Apparently it isn't funny enough to be a standalone YouTube clip because I couldn't find it anywhere.](images/valuations-04042244.png)
+![Season 2, Episode 1 in case you want to watch it. Apparently it isn't funny enough to be a standalone YouTube clip because I couldn't find it anywhere.](/images/valuations-04042244.png)
 
 ### What Story Do You Choose to Believe?
 
@@ -109,11 +109,11 @@ Don't get me wrong. I think all these companies and tons of great later-stage te
 
 Think about the companies she mentioned in the TikTok. What are their most recent valuations? What does a typical salary look like? Let's say just for an entry level engineer as a benchmark.
 
-![Super rough estimates and only assuming the clearing price to make that initial equity grant worth $1M; not considering salary or future equity grants](images/valuations-ee4b24c0.png)
+![Super rough estimates and only assuming the clearing price to make that initial equity grant worth $1M; not considering salary or future equity grants](/images/valuations-ee4b24c0.png)
 
 At these valuations, how long will it take for you to make a million dollars? You have to think like an investor "what do I have to believe for this company to be exceptional?
 
-![Big thanks to the folks atPavefor an awesome equity calculator](images/valuations-b67d53d3.png)
+![Big thanks to the folks atPavefor an awesome equity calculator](/images/valuations-b67d53d3.png)
 
 Databricks is the most highly valued company on our list at $38B. If you got the $65K of stock they're offering you would have to believe that Databricks will be a $600B+ company before that equity is worth $1M. There are only a few tech companies that have ever achieved that kind of valuation.
 
@@ -153,7 +153,7 @@ The reason people don't learn more effectively is because when they're right the
 
 Post-mortems are great opportunities to learn and are used far too rarely in investing. **One valuable learning from this period? Why have some companies fared worse than others?** In the dot-com almost every public tech company was little more than a money-burning festival with no real business model or fundamentals. Today is different. The companies that have gone public are real businesses. Why have some dropped more than others?
 
-![](images/valuations-e833ad8a.png)
+![](/images/valuations-e833ad8a.png)
 
 > "**Companies big and small will be [re-]examined through the lens of growth narratives driven by product diversity.** It’s no longer good enough to just handle online storage, or to just facilitate online meetings, or to just empower consumers to freely trade securities. The public markets will likely reward those companies who can diversify their product lines into messaging, analytics, gaming, and more — **those special companies and business leaders who continue to bundle value into their platforms.**" ([Semil Shah](https://semilshah.com/2022/01/29/the-market-is-the-greatest-critic/))
 

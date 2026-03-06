@@ -7,19 +7,19 @@ slug: "hype-deflation-and-inflation"
 type: "newsletter"
 ---
 
-![](images/hype-deflation-and-inflation-b46683dc.png)
+![](/images/hype-deflation-and-inflation-b46683dc.png)
 
 ---
 
 In a previous life, I briefly lived in Seattle, and I was a big fan of the city. I grew up in New Mexico, so I’ve had about as much sun as I need for one lifetime. Seattle’s rainy streets were a respite. While walking through downtown Seattle, I would often see these glass tiles embedded into certain parts of the sidewalk.
 
-![](images/hype-deflation-and-inflation-0330913b.jpg)
+![](/images/hype-deflation-and-inflation-0330913b.jpg)
 
 You could see through the sidewalks, though down into what I wasn’t sure. I didn’t think much of it until after a few months of living in Seattle my parents came to visit and I was googling around looking for things for us to do. That’s when I stumbled onto the story of the [Seattle Underground](https://en.wikipedia.org/wiki/Seattle_Underground).
 
 After a massive fire in 1889, big parts of the city were rebuilt and the sidewalks were regraded two stories up, leaving a massive underground network where the original sidewalks used to be. That was what I’d been staring into while walking the streets around Pioneer Square.
 
-![](images/hype-deflation-and-inflation-9c54df25.jpg)
+![](/images/hype-deflation-and-inflation-9c54df25.jpg)
 
 It was fascinating that one world was built on top of a previous world, and then left below without most people even realizing it. But the more you think about it, the more you realize most of life is built on the left behind remnants of past experiences. We're all shaped by experiences that happened to us as kids, and all through growing up, but we don't often stop to think about that foundation.
 
@@ -45,7 +45,7 @@ Fred Wilson [talked](https://www.theblock.co/post/236076/union-square-ventures-f
 
 That idea of a "trough of disillusionment” is highlighted in [Gartner's Hype Cycle framework](https://en.wikipedia.org/wiki/Gartner_hype_cycle).
 
-![](images/hype-deflation-and-inflation-dba3c5e0.png)
+![](/images/hype-deflation-and-inflation-dba3c5e0.png)
 
 I think the most important takeaway from this framework is that when you look at both the highest part of the peak of expectations, and the lowest point of the trough of disillusionment; neither of them are at the level of the plateau of productivity. **Neither the highest highs, nor the lowest lows represent the reality of eventual outcomes.**
 

@@ -7,7 +7,7 @@ slug: "performative-failure"
 type: "newsletter"
 ---
 
-![](images/performative-failure-390f49f7.png)
+![](/images/performative-failure-390f49f7.png)
 
 I'm a day late on hitting publish and probably a week late on sleep. You would think that by the fourth kid we would have figured it out, but turns out they're all difficult in their own unique way. They find unique ways to be upset, to not sleep, to have unknowable preferences. Their own magic little bundle of things to unpack.
 

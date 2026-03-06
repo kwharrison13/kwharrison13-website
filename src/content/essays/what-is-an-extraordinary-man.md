@@ -7,7 +7,7 @@ slug: "what-is-an-extraordinary-man"
 type: "newsletter"
 ---
 
-![Wanderer above the Sea of Fog, Caspar David Friedrich](images/what-is-an-extraordinary-man-247043d5.png)
+![Wanderer above the Sea of Fog, Caspar David Friedrich](/images/what-is-an-extraordinary-man-247043d5.png)
 
 ---
 
@@ -89,7 +89,7 @@ Again, I'm not talking about lazy, entitled, administrative, do-nothing pencil p
 
 And there's data to back that up. From 1980 to 2005, we saw a [massive decline](https://www.ddorn.net/papers/Autor-Dorn-LowSkillServices-Polarization.pdf) in middle-skill, routine jobs, especially in manufacturing and clerical work. Instead, jobs started to bifurcate into either high-skill (e.g. professional, technical) or low-skill (service-oriented) jobs.
 
-![Source:American Economic Review](images/what-is-an-extraordinary-man-91c79e05.png)
+![Source:American Economic Review](/images/what-is-an-extraordinary-man-91c79e05.png)
 
 What's more, from 1991 to 2015, the portion of solid jobs held by people that hadn't gone to college [dropped](https://goodjobsdata.org/wp-content/uploads/Good-Jobs-wo-BA-final.pdf) from 60% to 45%. Increasingly, you saw this idealistic role start to disappear. The high school graduate who could get a good paying job building the world around them, while making enough as a single-income home to afford a house, 2-4 kids, and a car. That, by and large, doesn't exist for people anymore.
 
@@ -113,7 +113,7 @@ That has also manifested in what kids attach their north star to in life. [I've 
 
 You have a 1 in 578,508 [chance](https://www.titlemax.com/discovery-center/your-odds-of-becoming-a-millionaire/?u) of becoming a billionaire. Is that the only ambition people should have? Usage of the word ‘millionaire’ peaked in 1904, shortly after the Gilded Age. Adjusting for inflation, thats ~$37M today. Usage of the word 'billionaire' is peaking now.
 
-![Source:Twitter](images/what-is-an-extraordinary-man-68ef9276.png)
+![Source:Twitter](/images/what-is-an-extraordinary-man-68ef9276.png)
 
 While people have increasingly placed their focus on wealth as an ambition worth dedicating your life to, its not to say that American's haven't sought prosperity. Becoming a billionaire may be setting unrealistic expectations for what qualifies as "ambition," but becoming a millionaire is more tenable; that's a 1 in 15 [chance](https://money.howstuffworks.com/personal-finance/financial-planning/how-many-millionaires-in-the-us.htm). And there's something about the American spirit that has always embraced those odds. There's a great [quote](https://www.reddit.com/r/QuotesPorn/comments/jotijb/john_steinbeck_once_said_that_socialism_never/) from John Steinbeck where he said:
 
@@ -145,7 +145,7 @@ Through the Great Depression, George F. made a commitment that they wouldn't fir
 
 By crazy coincidence, when I was reading the story in the WSJ earlier this month about how much people were struggling, I happened to realize that the setting of the town where these struggling people lived? Endicott, NY.
 
-![](images/what-is-an-extraordinary-man-278441cf.png)
+![](/images/what-is-an-extraordinary-man-278441cf.png)
 
 The Endicott-Johnson Shoe Company eventually gave way to globalization and couldn't survive the shifting landscape around it. But during the time the company was poised for success, it took care of the people working for them.
 
@@ -161,7 +161,7 @@ What's more, Jack Welch's philosophy bred in the corporate mindset like a virus,
 
 While the capital allocation mentality of Jack Welch has been cried down, his mentality about how to treat workers is alive and well. These days, massive teams in tech are, as Bucco Capital [puts it](https://x.com/buccocapital/status/1902498759650558109), "all waiting to be harvested for earnings during a downturn." And harvested they have been. You've seen companies dramatically reduce headcount.
 
-![Source:Twitter](images/what-is-an-extraordinary-man-7adb315d.png)
+![Source:Twitter](/images/what-is-an-extraordinary-man-7adb315d.png)
 
 You hear [stories](https://x.com/Duderichy/status/1923208066213773577) about people being laid off after working hard, often 60+ hours a week for 25 years, without much consideration. The tech industry is getting more [cutthroat](https://x.com/gergelyorosz/status/1916512695542575244?s=46) and, as some people point out, the idea of loyalty doesn't really exist among companies either.
 
@@ -197,7 +197,7 @@ This is nonsensical. Who made you the arbiter of greatness?
 
 In our money-drenched status-obsessed world, we often equate greatness with professional success. Try as they might, that is not the reality. As Dharmesh Shah, the co-founder and CTO of Hubspot [explains](https://www.linkedin.com/posts/dharmesh_wanting-work-life-balance-is-ok-wanting-activity-7301861815838273536-l-CW?utm_source=share&utm_medium=member_desktop&rcm=ACoAABByfa8BHgjJyo8D6-6i0J4eXAjpzmriu-c), your pursuit of greatness can entail work-life balance. It can also entail breakthrough startup success. Either of those can make up your value system. The important reality though, is that you can rarely have both.
 
-![Source:Linkedin](images/what-is-an-extraordinary-man-c5078f1c.png)
+![Source:Linkedin](/images/what-is-an-extraordinary-man-c5078f1c.png)
 
 Some values are mutually exclusive. That's why it's so important to understand that when I say you must first determine your value system, you can't default to what most people think your value system *should* be. Because what you believe your value system is, and what others believe it should be may very well be mutually exclusive.
 
@@ -237,7 +237,7 @@ Muhammad Ali and Scottie Scheffler seem to focus the measure of their lives on a
 
 In some cases, people look for balance. As Josh Kushner [puts it](https://x.com/JoshuaKushner/status/1944388157828718893), there is an opportunity to measure your life in terms of balancing the mission at home and the mission at work:
 
-![](images/what-is-an-extraordinary-man-9819a63c.png)
+![](/images/what-is-an-extraordinary-man-9819a63c.png)
 
 For others, it can be the pursuit of something that drives them and determines their value system.
 
@@ -281,7 +281,7 @@ There are lots of people who are quick to [criticize](https://x.com/dhh/status/1
 
 DHH, and his co-founder Jason Fried, consistently rag on the Silicon Valley Grind Porn like this:
 
-![Source:Twitter](images/what-is-an-extraordinary-man-710d1486.png)
+![Source:Twitter](/images/what-is-an-extraordinary-man-710d1486.png)
 
 So in some cases, your value system may lead you to optimize for putting your dent in the universe rather than completely owning it. And that's okay too.
 
@@ -343,7 +343,7 @@ Stating that quest is a critical element of pursuing it. This past year, Timothe
 
 Some people criticized Chalamet, [saying](https://www.tiktok.com/@moviemanmanman/video/7475515302973836587?_d=secCgYIASAHKAESPgo8dEIxPPtULluh5VK%2F1azttzX5pU%2FoxLWfgvHJbc8vVql2S9L2Q5aMXm5phkxCW%2FD0txver1QuC6ubtjj3GgA%3D&_r=1&share_app_id=1233&share_item_id=7475515302973836587&timestamp=1740548051&u_code=diakeclcl09eeg&utm_campaign=client_share&utm_source=short_fallback) "that should have stayed in your journal. Those are inside thoughts. Be humble!" But his pursuit of greatness is an example of that raw emotion that consumes those who, themselves, have been consumed by the pursuit of greatness. Similar to the value system of finding joy in the journey, the danger is that the Quest may end up consuming your everything.
 
-![Source:Twitter](images/what-is-an-extraordinary-man-a1a5d26e.png)
+![Source:Twitter](/images/what-is-an-extraordinary-man-a1a5d26e.png)
 
 The danger of the all-consuming mission is if it subsumes everything about you. The Quest is the mechanism through which you focus your mind. But the Mission is the Why. Why do you do what you do? What do you hope to accomplish? Some would say making the world a better place. But what does that entail?
 
@@ -361,7 +361,7 @@ The final [tweet](https://x.com/MartinSkold2/status/1888075084016824503) that ex
 
 A few months later, I saw a [tweet](https://x.com/ahmedshubber25/status/1958591499547156499) from Ahmed Shubber, the founder of Lumina, expressing the same sentiment:
 
-![Source:Twitter](images/what-is-an-extraordinary-man-d9c7cf34.png)
+![Source:Twitter](/images/what-is-an-extraordinary-man-d9c7cf34.png)
 
 Fame, knowledge, money. All means to the end of power. But Ahmed brings it full circle. "I want the power to do good in the world." Which brings us, again, to the moral reality that it is not bad to work hard. It is not bad to be single-mindedly fueled by a mission. It is not bad to want power. The pursuit of greatness is inherently a pursuit of power. **But the overarching value system of** ***why*** **do you do what you do? In pursuit of what outcomes? That is the fundamental reality of true greatness.**
 
@@ -371,7 +371,7 @@ For some, a belief in the reality of greatness leads them to believe that greatn
 
 There was a tweet that blew up recently of an early stage CEO dragging a candidate because they passed on a job offer, saying that they "value work life balance."
 
-![Source:Twitter](images/what-is-an-extraordinary-man-22266d25.png)
+![Source:Twitter](/images/what-is-an-extraordinary-man-22266d25.png)
 
 For some, [this was](https://x.com/growing_daniel/status/1960868944425967901) quintessential mediocrity. "At 22, work life balance means you're lazy."
 
@@ -381,7 +381,7 @@ For others, this mentality from the founder was [indicative](https://x.com/max_s
 
 One of the responses that I thought was most salient (and, based on the likes, so did much of Twitter), touched on the differentiation of people.
 
-![Source:Twitter](images/what-is-an-extraordinary-man-312bc044.png)
+![Source:Twitter](/images/what-is-an-extraordinary-man-312bc044.png)
 
 "Your life should be the company's mission." As if its default true. Regardless of the mission, or the role, or the ownership. **Just because greatness exists does not mean YOU are great. Or the mission that you pursue is worthy of the life force of someone else.** It seems like a generation of builders who have had the definitions of what greatness really means warped around a sense of money and generic "mission," making them incapable of differentiating between a mission worth dedicating your life to.
 

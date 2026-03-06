@@ -7,7 +7,7 @@ slug: "learning-to-dream"
 type: "newsletter"
 ---
 
-![](images/learning-to-dream-9e5fa713.jpg)
+![](/images/learning-to-dream-9e5fa713.jpg)
 
 Bit of a delayed post this week because I spent some time with my family in Disneyland over the last few days. Getting to go to Disneyland has always had a special place in my heart. Not just because I’m a sucker for over-priced churros and cartoons. But because I've had a strange obsession with city building since I was pretty young.
 
@@ -65,7 +65,7 @@ For Walt Disney? Those ideas often came from the World's Fair:
 
 > *"A century before there was Disneyland, there were World’s Fairs. Walt was influenced by World’s Fairs, and he in turn influenced a number of these major global events. **His experience with World’s Fairs helped feed his interest and understanding of city planning**; many elements of the Disney theme park experience are rooted in these spectacular temporary international events."*
 
-![](images/learning-to-dream-5b619b9b.jpg)
+![](/images/learning-to-dream-5b619b9b.jpg)
 
 There is a shortage of breath taking collections of the world's best ideas. Honestly, one of the best places for this is on Twitter or TikTok where you can often be exposed to the best (and worst) things that people are working on.
 
@@ -75,7 +75,7 @@ Some people are setting out to create new experiences to curate the best ideas t
 
 Dreaming the dream is often done most poorly **when it starts where we** ***wish*** **people were, rather than where they are.** You can design all the idealistic utopian dreams to your hearts desire. You can pave that path, but the question is whether people will walk down it?
 
-![](images/learning-to-dream-53f532ff.png)
+![](/images/learning-to-dream-53f532ff.png)
 
 People will walk where it most suits them. The job of imagining the world is fitting progress around the very human (and imperfect) behavior of the average person. Many people would point to Walt Disney's visions for a city as "too impractical," or something that no one would want. But look at some of the things we was most focused on. One example? Cars. While he [certainly wasn't against automobiles](https://en.wikipedia.org/wiki/Autopia), he recognized even in the 60's that they became too pervasive too quickly.
 
@@ -83,11 +83,11 @@ People will walk where it most suits them. The job of imagining the world is fit
 
 In the designs for EPCOT, he built a hub-and-spoke model with public transit throughout. People could live in an outer circle, shop in a middle circle, and work in an inner circle, using "People Movers" to get anywhere in the city.
 
-![](images/learning-to-dream-81194be3.jpg)
+![](/images/learning-to-dream-81194be3.jpg)
 
 Any automobile traffic would happen underground, away from pedestrian traffic. I don't know about you, but when I think about how today's cities work, I think that dream sounds pretty appealing.
 
-![Source:Rex Woodbury](images/learning-to-dream-bc283cd0.png)
+![Source:Rex Woodbury](/images/learning-to-dream-bc283cd0.png)
 
 # What Does This Mean For Venture?
 

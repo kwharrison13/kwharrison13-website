@@ -7,7 +7,7 @@ slug: "the-outcome-distortion-complex"
 type: "newsletter"
 ---
 
-![](images/the-outcome-distortion-complex-36a397b9.png)
+![](/images/the-outcome-distortion-complex-36a397b9.png)
 
 ## The Regrets of a Tiger Mom
 
@@ -49,7 +49,7 @@ When you look at a company like Tesla, the reality is they've produced more cars
 
 The reality of capitalism may be that there isn't much you can do to change this. More investors, regulators, founders, and employees should try to hold companies accountable for the good and the bad that they produce. **But if the outcome is making people money most of the time "the ends justify the means."**
 
-![](images/the-outcome-distortion-complex-23d949ab.png)
+![](/images/the-outcome-distortion-complex-23d949ab.png)
 
 **As an individual investor I can't change that that's how a large swath of the world works. But I can take that into account when I determine my own priorities and values.** I can focus on my own [circle of influence](https://www.lifehack.org/927324/circles-of-control). I can work hard to make sure that my efforts are focused not just on the ends, but also understanding and feeling good about the means.
 
@@ -63,4 +63,4 @@ There is a "[Good -> Better -> Best](https://www.churchofjesuschrist.org/study/g
 
 **The world needs more [conviction-driven investors.](https://contrary.com/team)** Investors who aren't focused on what other people are doing or just on what can make money. Imagine the world you believe should exist, and then wonder whether the companies you're investing in will make that world more realistic or not.
 
-![](images/the-outcome-distortion-complex-0f0af6a6.jpg)
+![](/images/the-outcome-distortion-complex-0f0af6a6.jpg)

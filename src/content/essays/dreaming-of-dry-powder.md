@@ -7,7 +7,7 @@ slug: "dreaming-of-dry-powder"
 type: "newsletter"
 ---
 
-![](images/dreaming-of-dry-powder-9c3d2283.png)
+![](/images/dreaming-of-dry-powder-9c3d2283.png)
 
 My sons are 6 and 3 years old. That age gap presents some interesting similarities and differences. Similarities? They both love playgrounds. Differences? My 6-year old is way better at convincing my 3-year old of things, and my 3-year old is way worse at knowing when his brother is wrong.
 
@@ -15,7 +15,7 @@ At one point, they were playing at a playground where there was a winding slide.
 
 Unfortunately, my 3-year old misjudged two things: (1) winding slides are pretty hard to navigate when you haven't developed all of your motor skills, and (2) my 6-year old has no idea how to catch his little brother.
 
-![](images/dreaming-of-dry-powder-42b49e33.gif)
+![](/images/dreaming-of-dry-powder-42b49e33.gif)
 
 He took off, slamming into just about every turn on the way down. When he came to the end, looking expectedly for the safety net of his brothers arms, my 6-year old had his arms up in the air, and was 5 feet from the bottom of the slide. My 3-year old was certainly not going to clear the distance, and was headed down, not up. His only landing was the ground.
 
@@ -27,7 +27,7 @@ As a quick primer on how venture funds work, let's talk about fund lifecycles. A
 
 Over the course of the first few years, you’ll start making large capital calls so that you can make investments. After the first 2-3 years, that pace will slow down, you’ll be making fewer investments, or mostly just making follow-on investments. By year 6-7 for that fund, it's just a waiting game. You’ve probably raised another fund and am deploying that, so for my previous fund I'm just helping and waiting for exits.
 
-![](images/dreaming-of-dry-powder-ba6fa5a4.png)
+![](/images/dreaming-of-dry-powder-ba6fa5a4.png)
 
 What's most important to understand about this is the incentives that exist in that fund. To keep raising funds, VCs need to demonstrate to LPs that they've generated returns, whether on paper, or cash returned. A lot of [investors talk about](https://twitter.com/trengriffin/status/1388546900203229188?s=20) the focus being on distributed to paid-in capital (DPI), which is actual cash returned to LPs.
 
@@ -71,7 +71,7 @@ Over a year ago, I wrote a piece called [A Tale of Two Markets](https://investin
 
 At the time, I talked mostly about valuations and how the best companies were being rewarded differently. But the same will increasingly be true of where venture capital is invested. Think about [charts](https://www.opportunityinstitute.org/research/post/economic-update-wealth-inequality/) you've seen illustrating the growing wealth gap between individuals.
 
-![](images/dreaming-of-dry-powder-b955ae6b.png)
+![](/images/dreaming-of-dry-powder-b955ae6b.png)
 
 Now just apply that same dichotomy to private companies, and assume its like we're in ~2011-2012. **The more pressure there is on capital, the less fluid it is**, and the more dramatic people's expectations are for what kinds of companies will get capital.
 

@@ -7,7 +7,7 @@ slug: "legible-to-yourself"
 type: "newsletter"
 ---
 
-![Source:A Woman I Once Knew](images/legible-to-yourself-043cec56.png)
+![Source:A Woman I Once Knew](/images/legible-to-yourself-043cec56.png)
 
 ---
 

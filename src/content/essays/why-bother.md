@@ -7,7 +7,7 @@ slug: "why-bother"
 type: "newsletter"
 ---
 
-![](images/why-bother-a6f22e5a.png)
+![](/images/why-bother-a6f22e5a.png)
 
 ---
 
@@ -65,7 +65,7 @@ If you’re building a business, you don’t have to sell to every addressable c
 
 I recently saw a tweet from Anjney Midha at a16z. He was taking a dig at VCs for talking like insurance analysts:
 
-![Source:Twitter](images/why-bother-b0b83e4e.png)
+![Source:Twitter](/images/why-bother-b0b83e4e.png)
 
 [My response](https://x.com/kwharrison13/status/1975206517608776071) was that, while this is a funny joke, its a misunderstanding of the meaning of words. “Underwriting” is just a boring word for a familiar phrase: “what do you have to believe?” I tried to [start a conversation](https://x.com/kwharrison13/status/1975232465800446350) with Anjney, but didn’t get a response yet. My question was what was the most common reason he passed on investments. If you say, “quality of founder” then what that means is “I don’t believe this founder is good enough.” In other words? “I can’t underwrite this founder’s ability to succeed.”
 

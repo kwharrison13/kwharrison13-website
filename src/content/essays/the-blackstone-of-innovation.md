@@ -7,7 +7,7 @@ slug: "the-blackstone-of-innovation"
 type: "newsletter"
 ---
 
-![](images/the-blackstone-of-innovation-346632b9.png)
+![](/images/the-blackstone-of-innovation-346632b9.png)
 
 Biographies can be incredibly humanizing. You take these people that feel larger than life, and hear about their mistakes and embarrassments. One story that I enjoyed comes from the book "[What It Takes](https://www.amazon.com/What-Takes-Lessons-Pursuit-Excellence/dp/1501158147)," by Stephen Schwarzman, the founder of Blackstone.
 
@@ -23,7 +23,7 @@ Stephen Schwarzman has a net worth today of $26 billion, and even he made stupid
 
 Another way to put it? If you ask someone in one of these investment firms that seem to be exploding in AUM, "are you in the private equity business? The venture capital business? The debt business?" The answer? "Neither."
 
-![Breaking Bad](images/the-blackstone-of-innovation-2a74592f.png)
+![Breaking Bad](/images/the-blackstone-of-innovation-2a74592f.png)
 
 # 2% of Anything
 
@@ -33,7 +33,7 @@ I raise $1B from endowments, pension funds, and sovereign wealth funds. I go inv
 
 A fund's life can often be 7-10 years, and all along the way you're collecting fees. The big money is in the payout at the end, though that's all dependent on that 3x return. And again, that return might take 7+ years to materialize. By then most firms will likely have raised a new fund, maybe several.
 
-![](images/the-blackstone-of-innovation-b5fd8444.png)
+![](/images/the-blackstone-of-innovation-b5fd8444.png)
 
 Along the way, what you've gotten is a pretty powerful law of large numbers in asset management. If you raise larger and larger funds, two things happen: (1) the dollar value of the annual fees you're collecting gets much bigger, and (2) your possible return threshold gets lower. It's much harder to 3x a $1B fund than it is to 3x a $100M fund. But if you're managing $20B instead of $1B, you're collecting $400M in fees each year instead of $20M. You start to see the opportunity that exists in raising more and more money.
 
@@ -47,7 +47,7 @@ At its core, venture is an asset management industry. Some firms, like Homebrew,
 
 I don't mean to imply that no VC is founder-focused, many are. Many are building unique models to best serve the needs of founders who are inventing the future. **But I think it's important to reflect on the reality that, despite the marketing, founders are not a VC's customer.** **LPs are.** The real customers are where the revenue comes from, and both (1) fees, and (2) carry come to VCs through LPs.
 
-![](images/the-blackstone-of-innovation-e50ab13c.png)
+![](/images/the-blackstone-of-innovation-e50ab13c.png)
 
 Some people will point out, "well, but the carry is earned off the return that the founders create. So half of the business model revolves around founders." And that's true. But VCs only have access to the carry because the LPs agreed to give it to them.
 
@@ -63,7 +63,7 @@ And this reality can be true to varying degrees depending on the firm. But if yo
 
 You have [the whales](https://twitter.com/pitdesi/status/1511339120752177152) raising massive funds: a16z ($5B), Insight ($20B), Tiger ($12B). But raising billion dollar funds isn't just the strategy of the few largest firms. It's becoming quite common. As of June 2022, there were nearly 30 different firms that had raised $1B+ funds. **The craziness of how many firms are raising $1B+ funds reminds me of when a "unicorn" valuation became the average for some venture rounds in 2021.**
 
-![Source:Twitter](images/the-blackstone-of-innovation-573f32b8.png)
+![Source:Twitter](/images/the-blackstone-of-innovation-573f32b8.png)
 
 So why is this happening? We can turn again to a quote from Schwarzman about his philosophy in building Blackstone for some perspective:
 
@@ -113,7 +113,7 @@ That concentration is a big part of what drove valuations higher and higher in 2
 
 There's also something to be said about how, as larger funds get larger it sucks the oxygen out of the LP market for other funds, making it harder for smaller funds to exist. Not only do smaller funds often generate [higher returns](https://blog.francescoperticarari.com/why-new-vc-funds-offer-the-greatest-opportunities-in-venture-capital#heading-1-young-funds-invest-particularly-early) than larger funds, but founders' optionality is more limited if they just have the Unilever or General Mills of venture to choose from.
 
-![](images/the-blackstone-of-innovation-121c4841.png)
+![](/images/the-blackstone-of-innovation-121c4841.png)
 
 [I've written before](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital) about the strength of individual investor brands. And I feel strongly that, the more each investor is responsible for more clearly articulating their own [value proposition](https://investing1012dot0.substack.com/p/productization) and "vibes," the better off founders will be in finding the right partner.
 

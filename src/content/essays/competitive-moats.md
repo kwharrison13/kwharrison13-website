@@ -7,7 +7,7 @@ slug: "competitive-moats"
 type: "newsletter"
 ---
 
-![Source:Fat Baby Funds](images/competitive-moats-26a2b538.png)
+![Source:Fat Baby Funds](/images/competitive-moats-26a2b538.png)
 
 A few years ago, my wife and I got super into a BBC show called "[Luther](http://bit.ly/3ZwmT0e)," about a police detective in London living on the edge, often confronted with sociopaths. One surprise while watching the show was the result, I realized later, of being an American. This cop would walk into what felt like ridiculously dangerous situations *with no gun*.
 
@@ -83,15 +83,15 @@ Now, I'm no public analyst. So lot's of people would fight me on this. But just 
 
 Microsoft, on the other hand, feels like a company that has evolved dramatically over and over again (granted, they have plenty of their own monopolies). The transition from shipping physical disks to universalizing Windows to the Office suite to Azure, and now while they're old in years, but young in spirit, we get to watch them go through an AI evolution with OpenAI. Sometimes it feels like watching your elderly uncle reinvent himself. But it's still transformative.
 
-![](images/competitive-moats-78512d4c.gif)
+![](/images/competitive-moats-78512d4c.gif)
 
 You can visualize the Microsoft product suite, and you start to realize how extensive it is across not only Windows and Office, but Xbox, Linkedin, GitHub, Bing, and more.
 
-![](images/competitive-moats-3cde81d4.png)
+![](/images/competitive-moats-3cde81d4.png)
 
 Most of the very best companies have these same types of visualizations to demonstrate their product velocity. They ship a huge amount of product extendability to ensure customer satisfaction and stickiness (e.g. that $Y stays as high as possible for as long as possible.)
 
-![Datadog is another example](images/competitive-moats-7271b57e.png)
+![Datadog is another example](/images/competitive-moats-7271b57e.png)
 
 When I think about core pillars of the software world, like Salesforce, ServiceNow, or Adobe, they've all extended their product capabilities pretty dramatically. In [a great post](https://mslotnick.substack.com/p/a-unified-theory-of-lowno-code-middleware?utm_source=%2Fsearch%2Fsalesforce&utm_medium=reader2) on the future of enterprise applications, Matt Slotnick uses Salesforce as an example, and explains their product extendability this way:
 
@@ -117,7 +117,7 @@ One of the biggest prophets of competitive moats is [Warren Buffett himself](htt
 
 Elad Gil [recently put together](https://blog.eladgil.com/p/defensibility-and-competition) a pretty extensive list of typical moats including things like network effects, platform effects, product velocity, complex sales, regulation, and scale. Similarly, McKinsey has a broad framework for the sources of competitive advantage:
 
-![Source:Twitter](images/competitive-moats-fe791497.png)
+![Source:Twitter](/images/competitive-moats-fe791497.png)
 
 There's a lot of interesting literature here, all of it with merit. For my perspective, I agree with Elon Musk and Fat Baby Funds (boy, that's an interesting sentence, huh?) **I think that competitive moats can be powerful. But if you believe that they're enough to save you from an ever-increasing pace of innovation in every category, I think you're delusional.**
 

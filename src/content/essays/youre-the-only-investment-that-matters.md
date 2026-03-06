@@ -7,7 +7,7 @@ slug: "youre-the-only-investment-that-matters"
 type: "newsletter"
 ---
 
-![](images/youre-the-only-investment-that-matters-4cccc2ad.png)
+![](/images/youre-the-only-investment-that-matters-4cccc2ad.png)
 
 > *Today's post will be brief. I'm working on a lot of things that I'm really excited about around the storytelling of investing and decision-making in venture. Stay tuned!*
 >

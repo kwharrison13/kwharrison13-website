@@ -7,7 +7,7 @@ slug: "little-sister-syndrome"
 type: "newsletter"
 ---
 
-![](images/little-sister-syndrome-6a4e8752.png)
+![](/images/little-sister-syndrome-6a4e8752.png)
 
 If there's one thing most human beings are terrible at, it's estimating. We're exceptional at underestimating, or even overestimating. **But when it comes to making correct estimates? The only right guess is that we'll be wrong.**
 
@@ -55,7 +55,7 @@ The same arm-in-arm encouragement Doug Leone offered Pat Grady had historically 
 
 Once again Sequoia was deliberately executing, what the Power Law calls, a "familiar pattern" where "the unknown and homegrown had been promoted." You see the lift continuing. Pat Grady and Sonya Houang are working directly together to build their podcast, [Training Data](https://www.youtube.com/watch?v=m3niSE-8ZvE&t=1277s).
 
-![](images/little-sister-syndrome-3483c762.png)
+![](/images/little-sister-syndrome-3483c762.png)
 
 # The Guess Behind The Curtain
 
@@ -63,7 +63,7 @@ VCs talk all the time about their "[pattern recognition](https://investing1012do
 
 It makes me think about when Walmart got caught trying to pass normal prices off as "Black Friday Sales." If they could just anchor their customers to thinking they're getting a deal, they could keep their same prices while still hopefully driving some hype. Boy, were they wrong.
 
-![Source:Reddit](images/little-sister-syndrome-90f6bf39.png)
+![Source:Reddit](/images/little-sister-syndrome-90f6bf39.png)
 
 # "When The Facts Change"
 

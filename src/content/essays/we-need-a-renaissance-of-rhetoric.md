@@ -7,7 +7,7 @@ slug: "we-need-a-renaissance-of-rhetoric"
 type: "newsletter"
 ---
 
-![Norman Rockwell’s Four Freedoms](images/we-need-a-renaissance-of-rhetoric-6c665517.png)
+![Norman Rockwell’s Four Freedoms](/images/we-need-a-renaissance-of-rhetoric-6c665517.png)
 
 ---
 
@@ -31,7 +31,7 @@ My oldest son, Dax, is 9 years old. One of the extracurriculars recommended by s
 
 So I sought out a program for my kids. On Friday, Dax had his first speech class. The very first lesson got to the heart of classical rhetoric: ethos, pathos, and logos. His first debate? Pro vs. anti homework.
 
-![The Rhetorical Triangle](images/we-need-a-renaissance-of-rhetoric-e649a43a.png)
+![The Rhetorical Triangle](/images/we-need-a-renaissance-of-rhetoric-e649a43a.png)
 
 Rhetoric strikes me as a singularly powerful mechanism. In fact, all that [I’ve written about](https://investing101.substack.com/p/the-storytelling-of-investing) my love for storytelling really, at its core, stems more from a sense of awe for the power of rhetoric more than just characters and narratives. [I’ve written before](https://investing101.substack.com/p/the-ethos-of-nuance) about rhetoric. One of, if not my most impactful, “[Quake Books](https://kwharrison13.com/bookshelf)“ is a biography of John Quincy Adams. In one chapter, it talks about how much Adams loved the art of rhetoric, and even became a professor of it at Harvard:
 
@@ -167,7 +167,7 @@ My takeaway from the onslaught of the debates we *do* see is that most have devo
 
 ## The Age of Pathos
 
-![](images/we-need-a-renaissance-of-rhetoric-b68299eb.png)
+![](/images/we-need-a-renaissance-of-rhetoric-b68299eb.png)
 
 **Political rhetoric has become incredibly exhausting and incredibly effective for the same reason. It’s highly emotional.**
 
@@ -193,11 +193,11 @@ In other words, rhetoric may be the “how” but thymos is the “why.” Weak 
 
 The good news is the spark is already lit. I saw [multiple](https://x.com/aelfred_D/status/2011949883670876351?s=20) [instances](https://x.com/PaulAnleitner/status/2012160519986164197) recently of Kai Cenat, a famous streamer, making commitments to read out loud for 20 minutes a day or looking up words he didn’t know as he was reading. It [inspired](https://x.com/mkhammer/status/2011935090490675321) another popular streamer, Rakai, to do the same.
 
-![](images/we-need-a-renaissance-of-rhetoric-d479cdb0.png)
+![](/images/we-need-a-renaissance-of-rhetoric-d479cdb0.png)
 
 Another, similarly surprising, spark of intellectual discourse is the fact that Dua Lipa actually has one of the best book club podcasts around.
 
-![Source:Twitter](images/we-need-a-renaissance-of-rhetoric-f8cb35e5.png)
+![Source:Twitter](/images/we-need-a-renaissance-of-rhetoric-f8cb35e5.png)
 
 This is a powerful component of a movement to rekindle the most basic tenants of rhetoric — education. And I’m not talking about the hollowed-out factory-farmed ideologue assembly line I talked about earlier. I mean education in its purest form. Personal education. Less than [half](https://x.com/bookbeduion/status/2012170900125499654?s=46) of Americans read even a single book in the last 12 months. Seeing more mainstream influencers embracing the need for intellectual enrichment may be just the fan this flame needs.
 

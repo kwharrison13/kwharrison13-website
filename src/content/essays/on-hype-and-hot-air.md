@@ -7,7 +7,7 @@ slug: "on-hype-and-hot-air"
 type: "newsletter"
 ---
 
-![](images/on-hype-and-hot-air-a9691aa1.png)
+![](/images/on-hype-and-hot-air-a9691aa1.png)
 
 If you haven’t watched [Breaking Bad](https://en.wikipedia.org/wiki/Breaking_Bad), or the prequel show, [Better Call Saul](https://en.wikipedia.org/wiki/Better_Call_Saul), then you should. They're both exceptional shows, one exploring an apparent good guy, who is actually bad. And an obvious bad guy, who underneath is just trying to be good.
 
@@ -15,7 +15,7 @@ In [one episode](https://www.netflix.com/watch/81590916?trackId=255824129&tctx=0
 
 For most people, reflecting on the past only really invokes pride, or pain. One of my least favorite genres of clickbait is what I sometimes call "regret porn." It's this almost self-inflicted regret of "what if you had done this? What if you had done that?"
 
-![](images/on-hype-and-hot-air-ed8c6d1f.png)
+![](/images/on-hype-and-hot-air-ed8c6d1f.png)
 
 But as powerful as the pain or pride that reflection can cause you, it is almost never coupled with instruction. Investing is meant to be one of the most learning-heavy disciplines precisely because we **don't** have a time machine. We can't live the same markets or opportunities over again, so all we can do is learn from it. But investing is so often mired in rewritten history and unlearned lessons.
 
@@ -45,11 +45,11 @@ So where's the opportunity for learning?
 
 This week I've seen the desire for retrospection come up several times. The first was [from Sar Haribhakti](https://twitter.com/sarthakgh/status/1658586430019448834?s=20). In addition to being the inspiration for my writing this week, the comments on this post are also where I [got the title](https://twitter.com/TomJWhiteIV/status/1658589897119105024?s=20) for this week's piece from [Tom White](https://twitter.com/TomJWhiteIV).
 
-![](images/on-hype-and-hot-air-63784d84.png)
+![](/images/on-hype-and-hot-air-63784d84.png)
 
 Next, I saw a similar sentiment [from Michael Dempsey](https://twitter.com/mhdempsey/status/1659371523482742785?s=20) at [Compound](https://www.compound.vc/). Side note: Compound is a firm I have huge respect for because they tout themselves specifically as a "thesis-driven, research-centric investment firm." They do a good job of putting their thinking on the line, and letting the chips fall where they may.
 
-![](images/on-hype-and-hot-air-df3bbf3d.png)
+![](/images/on-hype-and-hot-air-df3bbf3d.png)
 
 Both of these requests are slightly different, but the core is the same: "I wish more VCs would articulate what they thought was right, why they got it wrong, and what they learned from it." There are certainly isolated instances where a VC might reflect on something in a blog post. But there is rarely an entire overview, and certainly not when the VC is still invested in companies that were the result of that thesis.
 
@@ -67,7 +67,7 @@ When I first started thinking about an example of Warren Buffett acknowledging, 
 
 One [really interesting analysis](https://www.washingtonpost.com/business/what-you-can-learn-from-warren-buffetts-mistakes/2023/02/25/080d6d9a-b53e-11ed-94a0-512954d75716_story.html) from Justin Fox at Bloomberg looked at all the times in all of Buffett's annual letters he had used the word "mistake." You can almost see a statistical correlation between how often he's admitting mistakes and his investment performance.
 
-![](images/on-hype-and-hot-air-b96f5cec.png)
+![](/images/on-hype-and-hot-air-b96f5cec.png)
 
 One of the best introductions to Buffett's philosophy on mistakes comes from the [1985 Berkshire Hathaway annual letter](https://www.berkshirehathaway.com/letters/1985.html):
 

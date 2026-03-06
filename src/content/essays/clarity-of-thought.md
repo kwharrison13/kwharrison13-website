@@ -7,7 +7,7 @@ slug: "clarity-of-thought"
 type: "newsletter"
 ---
 
-![](images/clarity-of-thought-1338f4fe.png)
+![](/images/clarity-of-thought-1338f4fe.png)
 
 I'm a voracious notetaker. I have a tick that may be the limiting factor on [my greatness](https://x.com/WillManidis/status/1924545357901361373). I feel compelled to record things. In addition to logs of the books I've read, the dialogues I've had, and the spiritual impressions I've received, I have also kept notes on every company meeting I've had since I started investing in 2014. In the last ~11 years I have had 2,851 meetings with founders. In that time, I have worked at five different venture firms and have been a part of deploying nearly $3B of capital. **Across that entire corpus of experience, if there is one phrase that has come up over and over and over again in the pursuit of excellent founders, it is "clarity of thought."**
 

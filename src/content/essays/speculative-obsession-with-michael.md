@@ -7,7 +7,7 @@ slug: "speculative-obsession-with-michael"
 type: "podcast"
 ---
 
-![](images/speculative-obsession-with-michael-4146cb1f.png)
+![](/images/speculative-obsession-with-michael-4146cb1f.png)
 
 I love research. That may be obvious now, given I've written 170 blog posts over the last 3.5 years and built [Contrary Research](https://research.contrary.com/), producing millions of words on private companies. But that wasn't always clear. I felt like research was an attempt to wrap my arms around something. Reading, talking, thinking, writing -- it was all in pursuit of something. I didn't have great words to articulate that until I stumbled on a quote mentioned on [Compound's website](https://www.compound.vc/):
 

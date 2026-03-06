@@ -7,7 +7,7 @@ slug: "my-cup-runneth-over"
 type: "newsletter"
 ---
 
-![](images/my-cup-runneth-over-4551dec5.png)
+![](/images/my-cup-runneth-over-4551dec5.png)
 
 In many ways, I feel extremely blessed. The title of this piece comes from [Psalm 23](https://www.churchofjesuschrist.org/study/scriptures/ot/ps/23?lang=eng) as an expression of gratitude. But the term came to mind when it came to grappling with the overwhelming flow of constant information.
 
@@ -57,7 +57,7 @@ Your ability to state the arguments for and against your position; that is the b
 
 So as you form the index of your beliefs, what does that end up looking like? A big thank you to Tyler Hogge because it was one of his posts that made me frame the problem this way:
 
-![Source:Twitter](images/my-cup-runneth-over-a538d6ee.png)
+![Source:Twitter](/images/my-cup-runneth-over-a538d6ee.png)
 
 What Tyler did is, I think, the end result of indexing your ideas. Having them clearly articulated enough to rank them, and back them up with specific components.
 
@@ -69,7 +69,7 @@ Before you set out to index your ideas, you'd be well served by revisiting an id
 
 One [example](https://bedrockcap.com/letter) of how to avoid falling in-line with the popular narrative comes from Bedrock, whose entire brand revolves around finding narrative violations.
 
-![](images/my-cup-runneth-over-7ff2e2fa.png)
+![](/images/my-cup-runneth-over-7ff2e2fa.png)
 
 A simple shorthand could be **"do I think this company or solution is the best first-principles approach to something? Or do I think it is what** ***most people*** **think is the right approach to something?”**
 

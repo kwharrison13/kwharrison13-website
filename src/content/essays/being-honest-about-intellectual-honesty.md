@@ -7,7 +7,7 @@ slug: "being-honest-about-intellectual-honesty"
 type: "newsletter"
 ---
 
-![The battle between intellectual honesty and dishonesty in meme form](images/being-honest-about-intellectual-honesty-f3f5bbf9.png)
+![The battle between intellectual honesty and dishonesty in meme form](/images/being-honest-about-intellectual-honesty-f3f5bbf9.png)
 
 Today's post will be brief. I've got some exciting things coming in the next few weeks, but I wanted to take some time to think through a conversation I've now had with several people over the last week or so: intellectual honesty
 

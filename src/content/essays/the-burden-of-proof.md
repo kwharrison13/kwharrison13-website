@@ -7,7 +7,7 @@ slug: "the-burden-of-proof"
 type: "newsletter"
 ---
 
-!["Philosopher in Meditation" by Rembrandt](images/the-burden-of-proof-680209b4.png)
+!["Philosopher in Meditation" by Rembrandt](/images/the-burden-of-proof-680209b4.png)
 
 Every once in a while I have a conversation that causes my ears to perk up. I hear something that I either strongly disagree with or strongly agree with and I have a visceral reaction. I feel obligated to respond. To come to blows with the voices I disagree with or go to bat for the ideas I agree with.
 
@@ -67,13 +67,13 @@ Right from the jump when I started reading about telepathy in autistic kids, I c
 
 Facilitated Communication, for example, is a parent holding up a letter board and having the kids point at the letters to spell out the answer.
 
-![Source:The Telepathy Tapes](images/the-burden-of-proof-2486c717.png)
+![Source:The Telepathy Tapes](/images/the-burden-of-proof-2486c717.png)
 
 Studies into these phenomenon with non-verbal autistics dates back to the 1990s. Researchers have described an effect that is similar to how Ouija boards work. The [ideomotor effect](https://en.wikipedia.org/wiki/Ideomotor_phenomenon) can cause small, unconscious motor movements based on what the adult is thinking. The child, especially if they’ve been trained to respond to subtle prompts, may then type or point at the "correct" answer. The parent may swear up and down that they're not influencing the placement of the board, but a number of studies have shown that, even if unconsciously, they are.
 
 Another story that struck me was a boy who could type his supposedly telepathically received information on an iPad without any assistance from the parent. But when you see [the video](https://www.dropbox.com/scl/fo/0j6e45vgps2l7p8odqhjw/APA-KmicHYlYOPnsCBkNyEw/Telepathy%20Tests?dl=0&preview=RANDOM+WORD+GENERATOR.mp4&rlkey=p7deuh2c1lns0snqwavwjzy8j&subfolder_nav_tracking=1) of those interactions, you see what seem like clear micro-influence from the parent. One critic pointed out that if you watch the Mom's hand, its almost like there is a string attached from her hand to the boys. That could easily be the boys learned ability to pay hyper-attention to the Mom's movements.
 
-![Source:FCIsNotScience](images/the-burden-of-proof-51477504.png)
+![Source:FCIsNotScience](/images/the-burden-of-proof-51477504.png)
 
 ## The Lack of Skeptical Perspectives
 

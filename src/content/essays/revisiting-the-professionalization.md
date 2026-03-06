@@ -7,7 +7,7 @@ slug: "revisiting-the-professionalization"
 type: "newsletter"
 ---
 
-![](images/revisiting-the-professionalization-2c126795.png)
+![](/images/revisiting-the-professionalization-2c126795.png)
 
 *I started writing consistently at the beginning of 2022 with only one goal: that I wouldn't miss a week. Since then, I've written 110+ pieces. In all of that time, I've written a lot of pieces that reflected important parts of my thinking. But they didn't always get the attention I thought they deserved, often because I wrote them early on before I had as many subscribers.*
 
@@ -30,7 +30,7 @@ Most university graduate programs didn't have a computer like the one Bill Gates
 
 One in a million high-school-age students attended the high school that had the combination of cash and foresight to buy a computer. **Bill Gates happened to be one of them.**Bill Gates has even said, “If there wasn’t a Lakeside there wouldn’t be a Microsoft.”
 
-![](images/revisiting-the-professionalization-4e346bde.png)
+![](/images/revisiting-the-professionalization-4e346bde.png)
 
 How crazy that we've gone from a one-in-a-million chance to even have access to a computer 50 years ago to now having [85% of adults](https://www.pewresearch.org/internet/fact-sheet/mobile/) in the US with a smart phone in their pockets [one million times more powerful](https://www.zmescience.com/science/news-science/smartphone-power-compared-to-apollo-432/) than anything baby Bill Gates ever had.
 
@@ -38,11 +38,11 @@ With the dramatic race forward in technology you’ve seen an explosion in the n
 
 In 1970 you had a <1% chance of stumbling on someone working in tech. As the industry was just getting started in the mainstream during the 70s there was a total of [450K](https://www.census.gov/newsroom/press-releases/2016/cb16-139.html) people working in the industry out of a population of [203M](https://en.wikipedia.org/wiki/1970_United_States_census). Today? There are [9.4M](https://www.comptia.org/content/research/state-of-the-tech-workforce), even despite [500K of layoffs](https://layoffs.fyi/) since 2022. Nearly [2 million](https://companiesmarketcap.com/tech/largest-tech-companies-by-number-of-employees/) workers in tech are employed by Amazon, Microsoft, Google, and Apple alone! (At least now you have a [~3%](https://www.worldometers.info/world-population/us-population/) chance of running into someone working in tech.)
 
-![Source:CompTIA, October 2023](images/revisiting-the-professionalization-7f857e1b.png)
+![Source:CompTIA, October 2023](/images/revisiting-the-professionalization-7f857e1b.png)
 
 The odds of working with someone who has built technology at massive scale has historically been quite low. In large part because we're only just coming into massive scale. Even 10 years ago the largest tech companies were only seeing ~$200B of aggregate revenue. Today? North of ***$1*** ***trillion*** ***dollars*** of revenue.
 
-![Source: Koyfin](images/revisiting-the-professionalization-0443d110.png)
+![Source: Koyfin](/images/revisiting-the-professionalization-0443d110.png)
 
 The number of people with experience building, scaling, and selling SaaS has only really taken off in the last 10 years or so. In one of the first investing roles I had, we did both later stage growth investments and small buyouts of software companies. The buyouts we did were often of old-school companies that we could help improve. **The fact that even in 2016 one of our investment themes was "the company has made good progress in transitioning from on-prem to SaaS" is crazy to me.**
 
@@ -58,11 +58,11 @@ Here's just one example within product-led growth.
 
 Today product-led growth is one of peoples favorite business models to talk about. Tons of well-known companies claim it. Datadog, Stripe, Github, and Mailchimp. In September 2023, [~91%](https://productled.com/blog/saas-growth-benchmarks-and-product-led-trends) of companies planned to increase investment in product-led growth. Sales has progressed from being directed by CIOs to org-specific execs and today is being driven by the end-user.
 
-![Source:OpenView](images/revisiting-the-professionalization-664dc89b.png)
+![Source:OpenView](/images/revisiting-the-professionalization-664dc89b.png)
 
 PLG has really come into vogue over the last few years. Companies like Adobe or Shopify have been offering some of their products self-serve since the early 2000s. But effectively balancing bottom-up PLG and top-down sales hasn't been common until recently.
 
-![](images/revisiting-the-professionalization-07ef9b10.png)
+![](/images/revisiting-the-professionalization-07ef9b10.png)
 
 When you look at enterprise sales it has historically still been heavily account-based. Only within the last 10 years or so have you seen companies like Slack, Dropbox, and Twilio pioneer the balance between PLG and enterprise sales.
 
@@ -78,7 +78,7 @@ As companies have started to figure out how to balance product-first building wi
 
 ## The People: Kyle Parrish; From Dropbox to Figma
 
-![](images/revisiting-the-professionalization-3f01a21d.png)
+![](/images/revisiting-the-professionalization-3f01a21d.png)
 
 Kyle Parrish started in one of the most traditional enterprise sales orgs: ADP. Big lumbering old-school software with massive teams dialing for dollars. As he was trying to find the kind of team and environment that would better resonate with him he got introduced to Dropbox. He joined in 2011 when the company was at around [$30M of revenue](https://techcrunch.com/2011/08/30/index-leads-4-billion-valuation-round-in-dropbox/).
 
@@ -86,7 +86,7 @@ You can definitely argue that Dropbox is one of the early pioneers in balancing 
 
 ## The Playbook: Figma's Approach
 
-![](images/revisiting-the-professionalization-f1498a75.png)
+![](/images/revisiting-the-professionalization-f1498a75.png)
 
 I'm always surprised to see how quickly something that was a novel hard-won idea at first becomes accepted as obvious fact. Today PLG feels like a no-brainer. From 2016 to 2022 the Forbes Cloud 100 went from being [~30% PLG companies](https://blog.toplyne.io/why-plg-companies-dominate-the-forbes-cloud-100-list/) to [~68%](https://gokulrangarajan.medium.com/plg-trends-in-forbes-2022-cloud-100-6c7383c9353d). But PLG wasn’t always so obvious.
 
@@ -108,23 +108,23 @@ There is a growing population of people that have learned the lessons of the las
 
 People who have spent years not just learning but *inventing* these playbooks and best-practices are **nodes within the collective knowledge base around building technology.** Just look at a sampling of some of the most impressive people within tech across payments, infrastructure, marketing, finance, and everything in-between.
 
-![](images/revisiting-the-professionalization-7cf09668.png)
+![](/images/revisiting-the-professionalization-7cf09668.png)
 
 *Update: I made these graphics in early 2022. In [February 2023](https://www.linkedin.com/in/alyssa-henry-0905692/), Alyssa became the CEO of the Square business within Block.*
 
-![](images/revisiting-the-professionalization-17652cee.png)
+![](/images/revisiting-the-professionalization-17652cee.png)
 
-![](images/revisiting-the-professionalization-3c1f994b.png)
+![](/images/revisiting-the-professionalization-3c1f994b.png)
 
-![](images/revisiting-the-professionalization-394640a1.png)
+![](/images/revisiting-the-professionalization-394640a1.png)
 
-![](images/revisiting-the-professionalization-d78f5f3a.png)
+![](/images/revisiting-the-professionalization-d78f5f3a.png)
 
 *Update: [Alex](https://www.linkedin.com/in/alexrosemblat/) stepped down as the CMO of Datadog in December 2023 after a 10 year run!*
 
-![](images/revisiting-the-professionalization-fa698184.png)
+![](/images/revisiting-the-professionalization-fa698184.png)
 
-![](images/revisiting-the-professionalization-077e4c7a.png)
+![](/images/revisiting-the-professionalization-077e4c7a.png)
 
 If you met one of these people at a party and looked them up afterwards you would brag about it to your friends. And this is just a tiny sample. There are hundreds of these types of people. **People who worked and struggled and whiteboarded and fought to create the models, and frameworks, and designs, and approaches that we all take for granted every day.**
 
@@ -140,7 +140,7 @@ The same is true in tech. For a long time we've looked at technology as the work
 
 The internet allows people to more effectively distribute their creativity and find their niche audiences. That is the same force that is impacting venture as people look for humans that they can understand and relate to who offer products that perfectly fit their needs. We're seeing the same appreciation start to grow in tech. **As important as the Elon Musks of the world are, people are starting to more fully appreciate the people behind the curtain, like [Gwynne Shotwell](https://en.wikipedia.org/wiki/Gwynne_Shotwell).**
 
-![](images/revisiting-the-professionalization-1ee5c40e.png)
+![](/images/revisiting-the-professionalization-1ee5c40e.png)
 
 Gwynne Shotwell is one of my heroes. The dreamers are important, but the world would make very little progress without [the doers:](https://fortune.com/worlds-greatest-leaders/2018/gwynne-shotwell/)
 
@@ -164,7 +164,7 @@ Unsustainable growth models are one of the prime examples of the sins of the las
 
 Instead of learning from past mistakes, many people will simply reframe those mistakes into new models of the same old sins. One example in the AI boom we're currently experiencing? "Experimental run-rate revenue."
 
-![Source:Twitter](images/revisiting-the-professionalization-170ae620.png)
+![Source:Twitter](/images/revisiting-the-professionalization-170ae620.png)
 
 People will frame massive revenue ramps as steady-state growth, when in reality, a huge swath of that revenue represents experimental budgets from excited customers trying to get their hands on AI. But the likelihood that these elevated levels of investment in AI capabilities remain in perpetuity is unlikely. What is more likely is that this is a function of AI companies that understand the narrative value of growth, and are able to articulate experimental revenue ramp as reality.
 

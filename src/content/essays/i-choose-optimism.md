@@ -7,11 +7,11 @@ slug: "i-choose-optimism"
 type: "newsletter"
 ---
 
-![](images/i-choose-optimism-8a33950d.jpg)
+![](/images/i-choose-optimism-8a33950d.jpg)
 
 As I reflect on what I wanted to write about this week, I thought about one of the best film trilogies I've ever seen: The Lord of The Rings. In the second movie, there is a conversation between Merry, Pippin, and Treebeard, while the Ent's are deciding if they'll go to war or not.
 
-![](images/i-choose-optimism-a4c4a1b4.png)
+![](/images/i-choose-optimism-a4c4a1b4.png)
 
 Treebeard decides they won't. "This is not our war." [Merry's frustration boils over](https://www.youtube.com/watch?v=AXgWZyb_HgE). **"But you're part of this world. Aren't you? You must help!"** The Ent's refuse to fight, until later when they stumble on a scene of destruction. A valley of trees that they thought of as "their world" had been destroyed. They decided to fight when they realized the impact this war had, not just on "the world," but on *their world.*
 

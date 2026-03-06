@@ -7,7 +7,7 @@ slug: "stewards-of-capital"
 type: "newsletter"
 ---
 
-![](images/stewards-of-capital-f04b054e.png)
+![](/images/stewards-of-capital-f04b054e.png)
 
 Stop me if you've heard this one before.
 
@@ -53,11 +53,11 @@ Some pushback to that idea is that each participant understands the risk. [90%](
 
 Talk about a sine wave. WeWork's valuation was a meteoric rise and fall from grace for a company that (at its core) was never materially different than a commercial real estate office company.
 
-![Source:Crunchbase](images/stewards-of-capital-07dd0487.png)
+![Source:Crunchbase](/images/stewards-of-capital-07dd0487.png)
 
 And see that orange speck at the far right? That's Neumann's newest company, Flow; valued at [$1B before launch](https://www.timesofisrael.com/what-the-flow-adam-neumanns-new-real-estate-startup-is-valued-at-1b-before-launch/). If I had to articulate what some people must be feeling in a meme, it would probably be this one.
 
-![](images/stewards-of-capital-02d6bad0.png)
+![](/images/stewards-of-capital-02d6bad0.png)
 
 ## Peloton
 
@@ -65,15 +65,15 @@ I'd hesitate to say the excess of Peloton was the same as the insanity at WeWork
 
 In January 2019, WeWork raised at a [$47B valuation](https://www.crunchbase.com/funding_round/wework-series-h--d79e588e) and they had ~$1.8B in revenue. At the beginning of 2021, Peloton was valued at ~$50B and had ~$2B of revenue. Not too far off. Both in the meteoric rise, and the dramatic fall.
 
-![Source:Koyfin](images/stewards-of-capital-f49d9338.png)
+![Source:Koyfin](/images/stewards-of-capital-f49d9338.png)
 
 When it comes to measuring the output of an [economic engine](https://investing1012dot0.substack.com/p/the-mysteries-of-an-economic-engine), one metric that can shed more light than just revenue scale and growth is the [cash conversion score](https://www.bvp.com/atlas/cash-conversion-score).
 
-![Source:Bessemer](images/stewards-of-capital-5f46dbfc.png)
+![Source:Bessemer](/images/stewards-of-capital-5f46dbfc.png)
 
 In simplest terms, this is the ARR that a company is able to generate from the cash they spend over their lifecycle.
 
-![Source:Bessemer](images/stewards-of-capital-10e7e1ab.png)
+![Source:Bessemer](/images/stewards-of-capital-10e7e1ab.png)
 
 So when we reflect on these sine waves that companies like WeWork and Peloton have experienced, how do they measure up in terms of cash conversion? It's not a perfect view for a few reasons: (1) neither business really generates true ARR, and (2) we don't have a perfect view of their total amount of capital raised. But we'll take a rough look at revenue and publicly available information.
 

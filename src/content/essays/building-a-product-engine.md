@@ -7,7 +7,7 @@ slug: "building-a-product-engine"
 type: "newsletter"
 ---
 
-![](images/building-a-product-engine-66475a71.png)
+![](/images/building-a-product-engine-66475a71.png)
 
 ## The Audacity
 
@@ -17,7 +17,7 @@ Now they tell you within a few short decades they'll have built the largest logi
 
 The story may be all too obvious, but this is effectively what happened with Amazon. I think all the time about the audacity of being able to buy into the vision of world domination for Amazon back in 1999. And a lot of people *didn't* buy it.
 
-![](images/building-a-product-engine-2dc9d7a8.png)
+![](/images/building-a-product-engine-2dc9d7a8.png)
 
 But when we look around at the market correction today I think a LOT about the necessity of not only having near-perfect execution but a massive vision that is anchored in a "right to win" that you're creating today. Amazon is a pretty phenomenal example of that. But first? Some context.
 
@@ -37,7 +37,7 @@ While this is most dramatically true of public investors who are seeking safety 
 
 Semil's most poignant example was Microsoft. It's insane to consider the fact that the same company responsible for Windows OS and Azure also own properties like Linkedin, Xbox, Activision (almost), and Github. Everyone is down but overall Microsoft has held up relatively well this year compared to the market.
 
-![](images/building-a-product-engine-e63299d8.png)
+![](/images/building-a-product-engine-e63299d8.png)
 
 Venture investors are reeling from this market correction because it [resets a lot of assumptions](https://twitter.com/bgurley/status/1520111743942418434?s=20&t=HcL5KoQxqbymaZGiYV0xDg) about the valuations they can pay since the size of the outcomes they have to look forward to have likely shrunk.
 
@@ -79,7 +79,7 @@ Most tech companies are stuck between a rock and a hard place along the journey 
 
 Tech companies naturally lend themselves to ubiquity. The bigger you are the more data you have to learn from, the more customers you have for distribution, and the more mindshare you have to attract employees and partners. Across consumer internet, software, and payments the largest revenue shares go to just a few companies.
 
-![Kinesic Capital; State of Tech Report](images/building-a-product-engine-0f1597b5.png)
+![Kinesic Capital; State of Tech Report](/images/building-a-product-engine-0f1597b5.png)
 
 **As much as companies pitch their long-term platform vision they have to contend with the existing ecosystem of players and their more natural center of gravity.** [I've written before](https://investing1012dot0.substack.com/p/cashkingmaker-or-killer?s=w) about the struggle for ubiquity in categories like productivity software:
 
@@ -109,7 +109,7 @@ Any consumer fintech business has demonstrate their "clear right to win" against
 
 The more likely outcome in neobanks is similar aggregation to what we've seen in traditional banking (like James points out; ~50% of deposits in top 4 banks.) You're already seeing this with the success of incumbent fintechs launching products that become dominant. Cash App is a great example.
 
-![](images/building-a-product-engine-1514c7d5.png)
+![](/images/building-a-product-engine-1514c7d5.png)
 
 Cash App has become a [cultural phenomenon](https://digitalnative.substack.com/p/the-rise-of-cash-app-?s=r) that no bank has experienced. Cash App as a standalone unit has continued to ship features and products that keep them relevant, but this is a reflection of the broader product velocity that Square has shown over the last 10 years.
 

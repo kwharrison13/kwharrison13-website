@@ -7,7 +7,7 @@ slug: "talent"
 type: "newsletter"
 ---
 
-![](images/talent-7bc9241c.png)
+![](/images/talent-7bc9241c.png)
 
 Talk of "The Great Resignation" is everywhere. 70 million people changed jobs in 2021 and [70% of that was voluntary](https://www.zippia.com/advice/employee-turnover-statistics/). People choosing to quit. "Two out of every five office workers are planning to resign within the next year, **alluding to growing disillusionment among employees.**" Think about your own company. How many flight risks do you know of? Something is changing in the world of talent.
 
@@ -19,7 +19,7 @@ Many VCs pride themselves on their pattern recognition. They've seen so many dif
 
 Every venture fund is in the hot seat right now to [clearly articulate their "product](https://investing1012dot0.substack.com/p/productization?utm_source=url).” Many of them have the same laundry list of "*unique* differentiating factors." But notice how talent is often one of many pillars, and typically seen as an afterthought by the average venture fund.
 
-![](images/talent-5edca6cc.png)
+![](/images/talent-5edca6cc.png)
 
 **The reality is talent is becoming one of the most critical and potentially limiting factors in a company's success.** As useful as VCs believe themselves to be the most significant thing anyone can do to make a company successful is to get the smartest people to tackle the right problems in the right way.
 
@@ -37,7 +37,7 @@ I’m not about to propose a unified theory of tech talent economics that would 
 
 ## The Unchecked Gut
 
-![](images/talent-b6688314.png)
+![](/images/talent-b6688314.png)
 
 I have a secret for you. **Very few investors have a good framework for what good talent looks like.** The problem with unchecked "gut-trusting" is that you leave yourself exposed to a whole host of psychological bias' and disconnected feedback loops. When you don't have a framework for how you invest or what "good" talent looks like you can't effectively learn from your own experience.
 
@@ -59,7 +59,7 @@ Every framework is not created equal so there is always going to be a good, bett
 
 ## The Trough of Analysis
 
-![](images/talent-a0415cb7.png)
+![](/images/talent-a0415cb7.png)
 
 You have to be careful with this one. *Every company should be diligenced and vetted.* Understanding fundamental mechanics of how a business works, how they acquire customers, how they go-to-market are all important. No one can accuse me of telling any investor not to do their homework.
 
@@ -69,7 +69,7 @@ One important note. Venture investing and growth-stage investing are two differe
 
 **Over time companies are supposed to be held more and more accountable.** They have time to pressure test their engine and eventually markets begin to hold those engines accountable. Analysis becomes an increasingly important part of the decision making process.
 
-![](images/talent-934e8aa2.png)
+![](/images/talent-934e8aa2.png)
 
 **But at the earlier stages an over-emphasis on analysis will almost always lead you to pass on the very best companies.** Because early on it's much more about the people than the metrics. Venture investors should be focused on identifying world class leaders and surrounding them with world class talent.
 

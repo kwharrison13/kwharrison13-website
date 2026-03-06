@@ -7,7 +7,7 @@ slug: "the-storytelling-of-investing"
 type: "newsletter"
 ---
 
-![](images/the-storytelling-of-investing-9c9b6bea.png)
+![](/images/the-storytelling-of-investing-9c9b6bea.png)
 
 Do you ever have the experience where you watch a movie, or read a book, and you wonder, "how is the whole world not obsessed with this?" The movie gets a 60% on Rotten Tomatoes. The book was on the bargain shelf. Certain stories can resonate with you more meaningfully than they do with other people for whatever reason. That happened to me in 2003.
 
@@ -111,7 +111,7 @@ Going out and talking with actual customers about their experience or with compe
 
 The danger in becoming over-dependent on anecdotal evidence is the often [incorrect extrapolation](https://twitter.com/behaviorgap/status/1474380667232346114?s=20&t=Y7xhBi5KKht4NM-nWLhhYg) that comes from those conversations. Very rarely can you talk to every customer past, present, and future. As a result you run the risk of assuming that a small sample size is representative of reality and then you're caught off guard. Maybe you talked to the 5 most negative customers and so you expect the company to trend downwards. And then you're surprised.
 
-![](images/the-storytelling-of-investing-844c1388.png)
+![](/images/the-storytelling-of-investing-844c1388.png)
 
 ### Synthesis
 

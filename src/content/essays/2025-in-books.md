@@ -7,7 +7,7 @@ slug: "2025-in-books"
 type: "newsletter"
 ---
 
-![](images/2025-in-books-0725aca4.png)
+![](/images/2025-in-books-0725aca4.png)
 
 ---
 
@@ -17,11 +17,11 @@ I started tracking my reading in [2016](https://kwharrison13.com/bookshelf). I s
 
 Just in my personal library of physical books, I have ~1K books or so. That doesn’t even scratch the surface on all the books I have in my “Books To Read” list. If I’ve read ~260 books in 10 years, that means it would take 40 years just to finish the books on my shelf.
 
-![Source:Personal Website](images/2025-in-books-148282db.png)
+![Source:Personal Website](/images/2025-in-books-148282db.png)
 
 The same is true with my writing. Despite having written consistently every week, averaging ~2.3K words per week, I often feel like I haven’t scratched the surface on what I want to say. Just for starters, I consistently have dozens of notes of things I want to write.
 
-![Source: My Apple Notes App](images/2025-in-books-5b2112ff.png)
+![Source: My Apple Notes App](/images/2025-in-books-5b2112ff.png)
 
 Every word I read or write feels dogged by the word left unread or unwritten. But then, this year, I came across something that changed my perspective. A friend of mine asked me, of all the books I read this year, which was my least favorite. I don’t think this is a bad book, but the one I struggled the most to get through was Nassim Taleb’s book, [The Black Swan](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X). But despite my lack of book-vibe fit, I found a quote that has come to encapsulate how I think about my book collection and, by extension, my reading habit:
 
@@ -29,13 +29,13 @@ Every word I read or write feels dogged by the word left unread or unwritten. Bu
 
 Another way of saying it is my defense to my wife every time I buy new books, despite how many I have that I haven’t read. Reading books and collecting books are two different hobbies. What Taleb is saying, in my opinion, is that the pursuit of knowledge exposes you to the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect). **As you realize just how ignorant you are, you will seek more knowledge. That means more books unread, more words left unwritten.**
 
-![](images/2025-in-books-a4ef37f2.png)
+![](/images/2025-in-books-a4ef37f2.png)
 
 That focus on an antilibrary as a source of pride is important for me as I wrestle with my own inadequacy. I’m not failing to make a dent in my bookshelf, I’m building the corpus of my own ignorant knowledge pursuit. I’m not failing to write what I want to say; I’m basking in the ignorance that I’m unpacking.
 
 ### Where My Time Goes
 
-![](images/2025-in-books-0cf0c329.png)
+![](/images/2025-in-books-0cf0c329.png)
 
 By way of update on my reading, I managed to stay away from the COVID trough of 10-15 books a year and keep it above 30, albeit a drop from last year. Last year, I [wrote about](https://investing101.substack.com/p/2024-in-books) the need to “Always Be Reading.” What Ryan Holiday [talks about](https://ryanholiday.net/heres-some-stuff-worth-carrying-with-you-everywhere) as just reading all the time. In 2024, I largely deleted any distracting app and spent all my time reading. I take pride in the fact that this year, despite seeing my Twitter addiction come raging back, I still managed to read 30+ books.
 
@@ -107,7 +107,7 @@ Finally, I continued to dig into books in and around Mormon Apologetics. I often
 
 Finally, I’ll include a section I’ve touched on each time I’ve done this annual Books in Review thing. What its like to try and put reading front and center in how I raise my kids.
 
-![](images/2025-in-books-25b3fe5a.png)
+![](/images/2025-in-books-25b3fe5a.png)
 
 I’ve frequently seen people point to claims like ones in [this 2010 study](https://www.sciencedaily.com/releases/2010/05/100520213116.htm), saying “Books in home as important as parents’ education in determining children’s education level.” Others [saying](https://www.educationworld.com/a_issues/chat/chat265.shtml) that even a modest number of books in the home, like 20, can have a material impact on a child’s educational outcomes. I haven’t dug into the data or methodology here so who knows.
 
@@ -117,4 +117,4 @@ So, as I reflect back on my reading from the past year, I do it with that in the
 
 **You can see the [full review of the books I read this year here](https://kwharrison13.com/bookshelf/2025-in-books) on my personal website.**
 
-![](images/2025-in-books-859b44f2.png)
+![](/images/2025-in-books-859b44f2.png)

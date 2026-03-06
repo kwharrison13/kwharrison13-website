@@ -7,7 +7,7 @@ slug: "eat-what-you-kill"
 type: "newsletter"
 ---
 
-![](images/eat-what-you-kill-c7354b10.png)
+![](/images/eat-what-you-kill-c7354b10.png)
 
 They say when you have two kids, the second is always more resilient than the first (and by "they" I mean [memes on the internet](https://www.tiktok.com/@therealduttonfam/video/7131549241402527022).) Well, that certainly proved to be the case with my kids. My two oldest are about 2.5 years apart, and my first-born has always been cautious as a cucumber (that's a thing people say, right?)
 
@@ -61,11 +61,11 @@ Unfortunately, for a lot of VCs, you have fast-moving diversified reactionaries 
 
 Venture funds are often rampant with short-term measurements for what should be long-term activities. Promotions, carry, power, and influence are all tied up in paper gains. At the end of the day, the best investors care about [DPI](https://www.moonfare.com/glossary/distributed-to-paid-in-capital-dpi) (aka cash returned to LPs). But the majority of people are too easily swayed by short-term measurements. And if you were measuring the short-term of the last 1.5 years, those measurements are all mostly down or in the red.
 
-![Source:Fortune](images/eat-what-you-kill-78db33c0.png)
+![Source:Fortune](/images/eat-what-you-kill-78db33c0.png)
 
 In a cultural organization set up to reward performance, you're now seeing a lot of frustration as the result of company valuations correcting, public markets getting wiped out, and portfolio markups going away. The strain of that reset can lead to some bad behavior.
 
-![Source:Twitter](images/eat-what-you-kill-301754a0.png)
+![Source:Twitter](/images/eat-what-you-kill-301754a0.png)
 
 So why are VCs acting that way?
 
@@ -77,7 +77,7 @@ But there is a misalignment in venture between when an activity occurs and when 
 
 The problem with that is that most of the realized value in a company's life doesn't happen in the first few years after investing (e.g. during the deployment period). Instead, it happens in the latter years of being invested (e.g. the harvest period). **But if you're measuring the success of the harvest by the metrics associated with deployment, you're bound to make a pretty weak judgement.**
 
-![](images/eat-what-you-kill-0aa9123b.png)
+![](/images/eat-what-you-kill-0aa9123b.png)
 
 As a result, people reward short-term behavior, like "getting deals done." [I've written](https://investing1012dot0.substack.com/p/fantasy-capital) about this dynamic before:
 
@@ -87,7 +87,7 @@ As a result, people reward short-term behavior, like "getting deals done." [I've
 
 I've always loved [this tweet from Josh Kopelman](https://twitter.com/joshk/status/1386679426021216256?s=20) about the limited reflection most investors have about their own processes.
 
-![](images/eat-what-you-kill-988d1b52.png)
+![](/images/eat-what-you-kill-988d1b52.png)
 
 So I wanted to take that advice, and step back to reflect. Should we do away with "eat what you kill?" Or is it simply in need of reframing?
 
@@ -113,7 +113,7 @@ Even the most successful venture investors aren't without flaws, but they've mad
 
 I mentioned how I've written before about [the productization of venture](https://investing1012dot0.substack.com/p/productization). And, rather than an AI system that tells you whether or not to invest, the reality of every venture fund is going to revolve around whether that firm can build a "product offering" that justifies its existence. And the measurement of that product should be whether it contributes to a replicable, disciplined, long-term success engine.
 
-![](images/eat-what-you-kill-8fa331b7.png)
+![](/images/eat-what-you-kill-8fa331b7.png)
 
 ## Investing Is An Apprenticeship Business
 
@@ -135,17 +135,17 @@ Frederik Gieschen has a [great interview](https://neckar.substack.com/p/the-lear
 
 Finally, we come to this question of building a partnership, the traditional venture capital monolith. The "eat what you kill" mentality very much gives credence to the idea of a "lone wolf" culture hunting for that kill. [I've written before](https://investing1012dot0.substack.com/p/fantasy-capital) about how "a lot of VCs would prefer to work in an effective team that can all trust each other and contribute to exceptional success."
 
-![Source:Twitter](images/eat-what-you-kill-fff361de.png)
+![Source:Twitter](/images/eat-what-you-kill-fff361de.png)
 
 Peter Fenton has [a great line](https://www.thetwentyminutevc.com/peter-fenton-new-relic/) about how "the venture firms that have fallen off the leader board are those who keep their partners in power after they pass the age of 55." The more top-down a venture firm is, the harder it is to build a collaborative and creative team. But there is also a chasm between specific breadwinners and how to bridge the rising stars from the decorated veterans. That's where the previous section on apprenticeship comes in.
 
 There are countless resources on [how to build a partnership](https://twitter.com/tylertringas/status/1536354196789858306?s=20), what [ways other teams have tried](https://twitter.com/susanfsu/status/1507458575362244608) to work more successfully in collaboration with each other, and how [remote work could have changed](https://twitter.com/almostcmb/status/1519079938174955520) the way partnership decisions are made. But at the end of the day, the partnership is just a shorthand for what some people think of as a VC's product: "their decision making engine."
 
-![Source:Twitter](images/eat-what-you-kill-5029cd88.png)
+![Source:Twitter](/images/eat-what-you-kill-5029cd88.png)
 
 For those partnerships that refuse to evolve, and focus on building replicable, disciplined, long-term success engines? Well, [in the words of Jeff Bezos](https://fortune.com/2012/11/16/amazons-jeff-bezos-the-ultimate-disrupter/), "your margin is my opportunity." I had a friend at another venture fund text me with a translation of something members of a partnership often say, and what it actually means.
 
-![](images/eat-what-you-kill-8f99fb71.png)
+![](/images/eat-what-you-kill-8f99fb71.png)
 
 Those are the kinds of partnerships that I intend to beat. Building a replicable, disciplined, long-term success engine is more than just "getting deals done." It's building a culture, product, institution, and mentality that drives towards success. **That's the kind of output that I want to measure, and that I want to be held accountable for building.**
 

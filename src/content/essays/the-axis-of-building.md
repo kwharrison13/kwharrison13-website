@@ -7,7 +7,7 @@ slug: "the-axis-of-building"
 type: "newsletter"
 ---
 
-![](images/the-axis-of-building-574a7bea.png)
+![](/images/the-axis-of-building-574a7bea.png)
 
 In an episode of Silicon Valley, Pied Piper has grown to a sizable company and now has an HR department run by a woman named Tracey. Gilfoyle, the self-proclaimed satanist anarcho-capitalist is falling behind in his programming backlog. In response, Gilfoyle says "I'm more concerned with being right than being fast." Tracey pushes him to bring on more people to help with him with his workload.
 
@@ -61,7 +61,7 @@ One of the best collections of impressive achievements with an emphasis on speed
 
 When it comes to entrepreneurship, the [lean startup methodology](https://theleanstartup.com/) has been fairly common. The idea of rapid prototyping and iteration. "[Move fast and break things](https://hbr.org/2019/01/the-era-of-move-fast-and-break-things-is-over)." The important of speed comes as no surprise to the startup initiated.
 
-![Source:Twitter](images/the-axis-of-building-aca5f1aa.png)
+![Source:Twitter](/images/the-axis-of-building-aca5f1aa.png)
 
 In many ways, I think the speed of experimentation is what makes a startup one of the most effective mediums for innovation. **But I think there's something to be learned for startups from the world of increasingly expensive government infrastructure projects.**
 
@@ -95,7 +95,7 @@ Companies that have been built on a glut of capital have similar habits of the U
 
 Final parting thought as I reflect on the axis of cost and speed. I think AI will present one of the greatest productivity unlocks we've seen in a long time. I came across this case study comparing a seasoned developer only writing their own code vs. a newer developer leveraging AI tools.
 
-![Source:Twitter](images/the-axis-of-building-4a8f67c8.png)
+![Source:Twitter](/images/the-axis-of-building-4a8f67c8.png)
 
 In the end, the code purist was going to be [13x slower, and 25x more expensive](https://twitter.com/advany/status/1664451819689639936?s=20) than the AI-enabled programmer. Granted, there are going to be complex applications that require more robust skillsets, and an AI-assisted output might just be too buggy to put in production. But that doesn't change the surface area of building that AI can address.
 

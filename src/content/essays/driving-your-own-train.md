@@ -7,7 +7,7 @@ slug: "driving-your-own-train"
 type: "newsletter"
 ---
 
-![](images/driving-your-own-train-6e6dc693.png)
+![](/images/driving-your-own-train-6e6dc693.png)
 
 Years ago, I was standing at a critical cross roads trying to make a big decision. I was considering leaving my job at a very established investment firm and joining as an early employee at an unproven startup. I talked to a number of people about the decision, but one conversation stood out to me more than any other.
 
@@ -23,6 +23,6 @@ Another way I had it described to me was as a pyramid. Most organizational hiera
 
 To fully uncap the top, or in other words open up the maximum potential, you also have to open up the bottom. You have to open up the possibility that you might fail. That your train might not run. And that's when you can start to really answer for the direction of your own life.
 
-![](images/driving-your-own-train-86c0fb91.png)
+![](/images/driving-your-own-train-86c0fb91.png)
 
 This week, I had the chance to sit down for a podcast where I talked about a lot of things, but [this framework](https://x.com/TheTylerCho/status/1771158115225932094?s=20) of deciding when to drive your own train, and control your own destiny, was the part of the conversation I enjoyed the most. Hope you like it. You can check out the full episode below.

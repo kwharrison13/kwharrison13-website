@@ -7,7 +7,7 @@ slug: "the-loudest-models-with-trace-cohen"
 type: "podcast"
 ---
 
-![](images/the-loudest-models-with-trace-cohen-cc0ca593.png)
+![](/images/the-loudest-models-with-trace-cohen-cc0ca593.png)
 
 ---
 

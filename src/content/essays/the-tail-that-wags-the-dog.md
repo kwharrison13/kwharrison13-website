@@ -7,7 +7,7 @@ slug: "the-tail-that-wags-the-dog"
 type: "newsletter"
 ---
 
-![Pavlov’s Dog](images/the-tail-that-wags-the-dog-920d5fb1.jpg)
+![Pavlov’s Dog](/images/the-tail-that-wags-the-dog-920d5fb1.jpg)
 
 We all crave individuality. We want to feel like we are our own person. A person with unique perspectives and charm. And I don't mean the grander argument about free will, I'm just talking about how most people want to see their own decision making capabilities. We all want to be non-conformists, just like everybody else.
 
@@ -15,11 +15,11 @@ I was reminded of [the scene from Life of Brian](https://www.youtube.com/watch?v
 
 People are like that. Seeking non-conformity through conformity. The more you pay attention to the way people make decisions, the more you see thousands of years of social creature / herd behavior rear its head. It may start to feel like the path to success is more likely to come from Forrest Gump's military strategy:
 
-![](images/the-tail-that-wags-the-dog-75d2b1fe.gif)
+![](/images/the-tail-that-wags-the-dog-75d2b1fe.gif)
 
 But after a while, the conformity starts to feel insane. You start to feel red pilled, and notice cracks in the reasons why people do things. The psychology behind everybody's beliefs can sometimes be much louder than the beliefs people are screaming on Twitter. Like Truman on The Truman Show starting to see the cracks in his reality.
 
-![](images/the-tail-that-wags-the-dog-201a4d2e.gif)
+![](/images/the-tail-that-wags-the-dog-201a4d2e.gif)
 
 You can start to feel trapped. You know you're being lied to, or things are being exaggerated. But in reality, starting to recognize the incentives that drive most people's behavior can be the most freeing thing available to you. **In fact, staying under the illusion that people are free to have whatever belief they want to believe in, independent of incentives; that's the strongest prison of all.**
 
@@ -39,7 +39,7 @@ One example from my own career. I had an acquaintance who was a fairly tenured i
 
 Rather than having developers write code, and then security folks look for vulnerabilities later, Snyk brings security into the code-writing process. This is called "[shift left security](https://snyk.io/learn/shift-left-security/)," because if you laid out the development lifecycle, security is shifting left, or earlier, in that development lifecycle.
 
-![Source:F5](images/the-tail-that-wags-the-dog-7e71c620.png)
+![Source:F5](/images/the-tail-that-wags-the-dog-7e71c620.png)
 
 And I'll tell ya. The fights I got in with this guy about Snyk. "Developers don't care about security! They just want to write code."
 
@@ -59,7 +59,7 @@ Nowhere is that more prevalent today than in AI. Not only is there haphazard wor
 
 This week, the fight that put a lot of VCs world views out in the open was [a post from John Luttig](https://blog.johnluttig.com/p/the-future-of-foundation-models-is), a partner at Founders Fund. In it, he took the stance open-source AI will ultimately be inferior to closed-source.
 
-![Source:Twitter](images/the-tail-that-wags-the-dog-8b82ad0a.png)
+![Source:Twitter](/images/the-tail-that-wags-the-dog-8b82ad0a.png)
 
 And people had uh 👏 pin 👏 yuns 👏. First off, the core of Johns argument is this:
 
@@ -85,7 +85,7 @@ Next, he points out that, while open-source AI has been able to reach some perfo
 
 And it's a fair point. While open models from Meta, Mistral, and a few others have occasionally gotten into the top of the performance leaderboard, of the top 10 models right now, only one of them isn't proprietary.
 
-![Source:Arena Leaderboard](images/the-tail-that-wags-the-dog-5fee849f.png)
+![Source:Arena Leaderboard](/images/the-tail-that-wags-the-dog-5fee849f.png)
 
 ## Security Risk
 
@@ -115,7 +115,7 @@ Once again, it's important to note that Vinod has been investing in OpenAI since
 
 Josh Wolfe, on the other hand, comes right out and says the quiet part out loud:
 
-![Source:Twitter](images/the-tail-that-wags-the-dog-2086a63a.png)
+![Source:Twitter](/images/the-tail-that-wags-the-dog-2086a63a.png)
 
 "Where you stand on the issue depends on where you sit on the cap table." And that's effectively what played out in the response to John's initial post.
 
@@ -123,7 +123,7 @@ Josh Wolfe, on the other hand, comes right out and says the quiet part out loud:
 
 In general, I feel like its rare that VCs come right out and take shots at each other for their company's positions. Granted, I just laid out the Khosla vs. Lux fight playing out on Twitter, so it's getting less rare. With AI, its boiling over more and more. For example, this was Martin Casado's response from a16z:
 
-![Source:Twitter](images/the-tail-that-wags-the-dog-69c647e7.png)
+![Source:Twitter](/images/the-tail-that-wags-the-dog-69c647e7.png)
 
 Martin has certainly been a vocal proponent of open-source AI and anti-AI doomerism and regulation.
 
@@ -155,7 +155,7 @@ My concern with this particular fire, instead, is the complex interweaving betwe
 
 Mike Solana put it a good way in response to the kerfuffle. Granted, I think he was taking a strong counter-positioned stance against the open-source AI folks given their response. But his last line rang true for me across both ends of the spectrum on this (and most other) arguments.
 
-![Source:Twitter](images/the-tail-that-wags-the-dog-128c8f75.png)
+![Source:Twitter](/images/the-tail-that-wags-the-dog-128c8f75.png)
 
 **"Almost nobody knows what they think, or why."** If there was one crux of what I'm trying to say today, it's this. This is the problem. There are merits to both open and closed AI, and we should have that debate out. We should build and fund companies that act as proxies in that battle, demonstrating the quality of their work and arguments.
 

@@ -7,7 +7,7 @@ slug: "the-apprenticeship-litmus-test"
 type: "newsletter"
 ---
 
-![](images/the-apprenticeship-litmus-test-8a61097f.png)
+![](/images/the-apprenticeship-litmus-test-8a61097f.png)
 
 I've always managed to straddle a myriad of typical lines between personalities and perspectives.
 
@@ -21,7 +21,7 @@ I grew up listening to country music (and [ska music](https://en.wikipedia.org/w
 
 I remember once in high school being at a WalMart flipping through the poster display case and I came across [a collection](https://www.etsy.com/listing/267004364/rap-legends-poster-top-rappers-collage) of the greatest rappers. My friends started naming each of them, and I nodded as if I had any idea what they were talking about. To my ignorant mind, I saw a lot of black guys and one white guy. So I assumed the white guy must be the worst one in the group. 🤷‍♂️
 
-![Source:Etsy](images/the-apprenticeship-litmus-test-c1298edc.png)
+![Source:Etsy](/images/the-apprenticeship-litmus-test-c1298edc.png)
 
 Fast forward to a group of my friends all hanging out after we had just been to our high school's talent show where a young white fella had tried his hand at rapping. He was *quite bad*. Some of my friends were commenting on it, and I said, thinking it would be a relevant contextual joke, "he's just as bad as Eminem."
 
@@ -35,7 +35,7 @@ In every in-group that I'm a part of, or even tangentially glance off of, there 
 
 I've written [several](https://investing1012dot0.substack.com/p/talent?utm_source=publication-search) [times](https://investing1012dot0.substack.com/p/fantasy-capital?utm_source=publication-search) [before](https://investing1012dot0.substack.com/p/eat-what-you-kill?utm_source=publication-search) about the idea of apprenticeship in venture capital. Recently, I've been sharing some of my favorite nuggets from my past writing on Twitter, and one such nugget struck a chord this week:
 
-![Source:Twitter](images/the-apprenticeship-litmus-test-70e48991.png)
+![Source:Twitter](/images/the-apprenticeship-litmus-test-70e48991.png)
 
 The first thing that [bothered people](https://x.com/rabois/status/1836039565213155389) was that management vs. apprenticeships are very different. And I agree with that to a point. But most VCs being bad at people management is a canary in the coal mine.
 
@@ -85,7 +85,7 @@ In a venture firm internal political power comes from "getting deals done." **W
 
 That "eat what you kill" lone-wolf culture exists in most venture funds. And its exacerbated by the emphasis most firms put on specific deal-makers. A lot of VCs would prefer to work in an effective team that can all trust each other and contribute to exceptional success.
 
-![Source:Twitter](images/the-apprenticeship-litmus-test-267f3ff2.png)
+![Source:Twitter](/images/the-apprenticeship-litmus-test-267f3ff2.png)
 
 But the sad reality of venture is that most investors struggle to trust each other. There is so much effort required to ensure you get credit for as much as possible that you always have to be hesitant of folks that might take any of your credit. [I've written before](https://investing1012dot0.substack.com/p/talent?s=w) about the struggle that venture firms face in trusting each other internally:
 

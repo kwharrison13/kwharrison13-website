@@ -7,7 +7,7 @@ slug: "player-different-stupider-games"
 type: "newsletter"
 ---
 
-![](images/player-different-stupider-games-ddd22db2.png)
+![](/images/player-different-stupider-games-ddd22db2.png)
 
 I'm not a sports guy. We are not a sports family. Growing up, my parents loved sports, and watched them a lot. But it wasn't my thing. That has reflected in my children. A few years ago when my oldest son tried soccer, we spent most of our time trying to get him to stop going up to the ref every few minutes asking, "hey, how much longer do we have to do this?"
 
@@ -47,7 +47,7 @@ I'll start first with an example that I talk about quite a bit when talking abou
 
 The important distinction is that within the AI landscape there are three distinct "games" being played, and failing to understand that those games are, in fact, *different* games is, in and of itself, a stupid game to play.
 
-![](images/player-different-stupider-games-91012d3a.png)
+![](/images/player-different-stupider-games-91012d3a.png)
 
 These buckets are completely made up by me, and I'm sure much smarter people would disagree entirely. But this is how I've thought about the different things playing out in AI:
 
@@ -59,7 +59,7 @@ Here's where the danger of stupider games comes into play. So many companies are
 
 Recently, Sam Altman said he felt bad about all the advice he gave when he was running YC because they ignored 90%+ of if in building OpenAI. But Garry Tan, the current president of YC, made this point about different games:
 
-![Source:Twitter](images/player-different-stupider-games-7276d3c5.png)
+![Source:Twitter](/images/player-different-stupider-games-7276d3c5.png)
 
 Don't get me wrong. OpenAI is an exceptional company. They've positioned themselves incredibly well in an AI boom, and that's what has allowed them to supposedly reach a [$1B revenue run rate](https://www.theinformation.com/articles/openai-passes-1-billion-revenue-pace-as-big-companies-boost-ai-spending?rc=ecjlpf) in just two years. But building a company like OpenAI is a dramatically different game than building Stripe, for example.
 
@@ -87,13 +87,13 @@ My primary subject in my writing is about the business model of venture capital:
 
 Venture capital, as an industry identifier, is not an effective catch-all. Different firms are playing (at least) one of three games. And failing to understand that those games are, in fact, *different* games is, in and of itself, a stupid game to play.
 
-![](images/player-different-stupider-games-efad7c92.png)
+![](/images/player-different-stupider-games-efad7c92.png)
 
 There are a myriad of ways you could segment any group of firms, and most firms have lots of different defining characteristics. None of these are necessarily bad. But understanding their business models are critical.
 
 In Ev's piece on Tiger, he has a similar dichotomy with a much starker takeaway:
 
-![Source:Playing Different Games](images/player-different-stupider-games-2a07959a.png)
+![Source:Playing Different Games](/images/player-different-stupider-games-2a07959a.png)
 
 Understanding the different approaches and models of different firms are instructive. Ev’s piece is still informative, even if he got his praise of Tiger wrong, he got his breakdown of the dichotomy in VC business models very right.
 
@@ -111,7 +111,7 @@ As a founder, at that entry price, you have now picked up the valuation stick. O
 
 Choosing your investors comes with a lot of structural baggage. Your investors have expectations that you may not have. Their game has certain forces at work that require certain outcomes. And if they don't get the outcomes they hope for? It can lead to bad behavior.
 
-![Source:Twitter](images/player-different-stupider-games-5d4c356a.png)
+![Source:Twitter](/images/player-different-stupider-games-5d4c356a.png)
 
 # The Greatest Game? Or The Greatest Con?
 
@@ -121,7 +121,7 @@ But back to Nate Bargatze's comment; "if you're confident, you can get away with
 
 Perhaps the Michael Jordan of confidence games is Mr. In The Arena himself.
 
-![Source:Twitter](images/player-different-stupider-games-e419fd8b.png)
+![Source:Twitter](/images/player-different-stupider-games-e419fd8b.png)
 
 I don't listen to the All-In podcast. I can't handle it. But when I saw that Chamath addressed the "man in the arena" meme-storm that happened this week, I listened to that section. And it perfectly crystalized the danger in playing different games. [Here's his response](https://youtu.be/F5UN2Yi_3AE?t=273):
 
@@ -133,11 +133,11 @@ Just remember. This was in response to people saying, "hey... we believed you. Y
 
 Also, it was hilarious to me that, when describing the meme-storm, Calacanis only showed a meme of Chamath superimposed on Russell Crowe in The Gladiator looking ✨so badass✨. I prefer this meme, which seems to more accurately reflect Chamath's response:
 
-![Source:Twitter](images/player-different-stupider-games-5fa68510.png)
+![Source:Twitter](/images/player-different-stupider-games-5fa68510.png)
 
 But he didn't cause losses on Twitter! These weren't memes, or hurt feelings. These were people who listened to a guy who said "trust me. Have confidence in me." And then listened, and lost their money. And he goes on to call them "f\*cking losers" if they're not trying things and ✨iterating✨.
 
-![](images/player-different-stupider-games-bfa36746.gif)
+![](/images/player-different-stupider-games-bfa36746.gif)
 
 But now we come back to the danger of playing different games. Because, as much as it makes me throw up all over myself, I have to say I agree with Chamath. He didn't cause losses *per se*. He played a game. And he played his game well. Did he screw hundreds, maybe thousands of people in the process? Yes. Did he make off like a bandit, while leaving employees, investors, and shareholders in the mud? Yes. **But he played his game.**
 

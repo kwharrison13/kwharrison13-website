@@ -17,7 +17,7 @@ type: "newsletter"
 
 ---
 
-![](images/the-puritans-of-venture-capital-6ce625d5.png)
+![](/images/the-puritans-of-venture-capital-6ce625d5.png)
 
 People like humble beginnings. I think its because they're easier to understand. It's easier to envision Steve Jobs and Steve Wozniak in a garage with a soldering iron and some microchips. It’s much harder to comprehend a $2.9 TRILLION company with $30 billion of cash, [2 billion active devices](https://www.macrumors.com/2023/02/02/apple-two-billion-active-devices/) and 161K employees.
 
@@ -35,19 +35,19 @@ There are some great books out there that have done a much better job outlining 
 
 In the grand scheme of private markets AUM globally in 2022, venture capital represented [just 22%](https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/mckinseys-private-markets-annual-review) across other asset classes like buyouts, private debt, and real estate.
 
-![Source:McKinsey](images/the-puritans-of-venture-capital-d0be1422.png)
+![Source:McKinsey](/images/the-puritans-of-venture-capital-d0be1422.png)
 
 Venture funding didn't even cross $10B a quarter until ~1999. Total venture capital deployed in the US hit [$100B](https://www.wsj.com/articles/SB977496982685663482) for the first time in 2000 during the first internet bubble.
 
-![Source:Wikipedia](images/the-puritans-of-venture-capital-3fb42ed8.png)
+![Source:Wikipedia](/images/the-puritans-of-venture-capital-3fb42ed8.png)
 
 Next, global venture funding peaked in 2021 at over [$600B](https://kpmg.com/xx/en/home/media/press-releases/2022/01/global-venture-capital-annual-investment-shatters-records-following-another-healthy-quarter.html#:~:text=Key%202021%20Annual%20Highlights,all%20regions%20of%20the%20world.).
 
-![Source:CB Insights](images/the-puritans-of-venture-capital-f132d996.png)
+![Source:CB Insights](/images/the-puritans-of-venture-capital-f132d996.png)
 
 Since then, funding amounts have come back to earth with [~$200B](https://www.wipo.int/global_innovation_index/en/gii-insights-blog/2023/venture-capital-2023.html) invested in 2023 compared to the $600B+ in 2021.
 
-![Source:Medium](images/the-puritans-of-venture-capital-ce237442.png)
+![Source:Medium](/images/the-puritans-of-venture-capital-ce237442.png)
 
 As a business, venture capital is deploying ~$200-300B a year globally. While the ramp has been volatile with spikes in 2000 and 2021, that trend will likely continue to grow. **So the broader question is HOW are those hundreds of billions being deployed?**
 
@@ -57,7 +57,7 @@ People often talk about how venture capital is a "[cottage industry](https://www
 
 As an industry, I don't think that's quite right. One of the most famous early venture investments was when Arthur Rock backed the [Traitorous Eight](https://en.wikipedia.org/wiki/Traitorous_eight) in building Fairchild Semiconductor. The money came from Sherman Fairchild, a millionaire businessman, with defense contracts from Raytheon, etc. It was more a function of big companies funding new ideas vs. a side-hustle they did from home.
 
-![Source:The Generalist](images/the-puritans-of-venture-capital-13a99b3a.png)
+![Source:The Generalist](/images/the-puritans-of-venture-capital-13a99b3a.png)
 
 Mario Gabriele explains how much value was produced from that group:
 
@@ -69,11 +69,11 @@ So right off the bat, we're dealing with big dollars, big egos, and big outcomes
 
 Historically, firms like Benchmark or Accel had teams of ~6-9 partners. For example, Accel in July 2006 had 9 in the US.
 
-![Source:Wayback Machine](images/the-puritans-of-venture-capital-13e80224.png)
+![Source:Wayback Machine](/images/the-puritans-of-venture-capital-13e80224.png)
 
 That was how just about every firm worked. There was a handful of people chasing founders and making decisions. Some were more egalitarian than others. Maybe there were senior vs. junior partners. The textbook example of a small partnership fund is Benchmark.
 
-![](images/the-puritans-of-venture-capital-3fac97e1.png)
+![](/images/the-puritans-of-venture-capital-3fac97e1.png)
 
 In a [2015 profile](https://www.forbes.com/sites/alexkonrad/2015/03/25/benchmark-makes-other-firms-look-outmatched/?sh=2b5944454006) of Benchmark, Forbes described them this way:
 
@@ -97,7 +97,7 @@ On top of the a16z vs. Benchmark rivalry, other firms like Sequoia and founders 
 
 Eventually, the changing operational forces in venture started to push firms to adopt new strategies and begin to segment themselves in new and unique ways. One framework to think about it [comes from Nikhil Trivedi](https://nbt.substack.com/p/agglomerators-vs-specialists), who coined the term "agglomerators," that [I like to use](https://investing1012dot0.substack.com/p/blaspheming-against-the-hype) as well. That framework saw firms draw lines across sector and stage.
 
-![Source:NBT](images/the-puritans-of-venture-capital-6a187fec.png)
+![Source:NBT](/images/the-puritans-of-venture-capital-6a187fec.png)
 
 Multi-sector and multi-stage firms, by definition, had to increase in fund size because they were chasing a dramatically larger subset of opportunities. That strategy shift was a real-time display of the idea that "your fund size is your strategy."
 
@@ -121,7 +121,7 @@ Other people, over the course of 2021, pointed out a hollowing of the middle. [I
 
 Again; his example of Tiger as the ideal "low-cost vendor" is wrong. Tiger isn't Walmart. Tiger is like Spirit, the Halloween store, but instead of buying seasonal costumes, they were selling out-of-season produce that quickly rotted. He used an image I think about all the time that I've changed to reflect who I think is the real "low-cost vendor."
 
-![Source:Ev Randle](images/the-puritans-of-venture-capital-c5076669.png)
+![Source:Ev Randle](/images/the-puritans-of-venture-capital-c5076669.png)
 
 Truly the anti-Benchmark.
 
@@ -151,7 +151,7 @@ If you'd invested $250M in the S&P 500 5-10 years ago you would have generated ~
 
 On the opposite side of the spectrum are the Puritans. The firms that have remained relatively unchanged for 20+ years. **Partnerships and funds both of a relatively humble size compared to capital agglomerators.** Just look, for comparison, at the AUM ramp of a firm like a16z (founded in 2009) vs. Union Square Ventures (founded in 2004).
 
-![Source: Crunchbase](images/the-puritans-of-venture-capital-82d71022.png)
+![Source: Crunchbase](/images/the-puritans-of-venture-capital-82d71022.png)
 
 One of the main characteristics of a Puritan fund is that they've refused to increase the size of the funds. These funds are typically anywhere from ~$200-500M but rarely get much bigger than that. Even for firms like Benchmark, who have returned [$22.6 BILLION (net of fees) to their investors over their eight funds. In the words of Christy Richardson, the director of private investments at the Hewlett Foundation, “They could raise as much money as they want, but they maximize for the opportunity, not their own pocketbooks."
 
@@ -210,7 +210,7 @@ Some of the other key battlegrounds get really fuzzy. [I've written before](http
 
 When I wrote about this topic previously, I used Instacart as an example. At the time of their IPO, every round since their Series C was under water when compared to the S&P 500.
 
-![Source:Twitter](images/the-puritans-of-venture-capital-9bbec548.png)
+![Source:Twitter](/images/the-puritans-of-venture-capital-9bbec548.png)
 
 > *"The company had raised a total of $2.9B in total funding, they had existing debt of $774M, and an ending cash balance of ~$1.8B. Roughly, that means the company had to burn ~$1.8B to get to the size of business they are today. **The reality is that you can't just "not raise" the capital post-Series B. Instacart, at least in its current state, needed at least ~$1.8B to generate that return for those early investors.**"*
 
@@ -228,7 +228,7 @@ Going forward, Cottage Keepers and Capital Agglomerators can't ignore each other
 
 Finally, I'll end on this point. As of Q1 2022, there were over [1K unicorns companies](https://www.cbinsights.com/research-unicorn-companies). One thousand companies worth more than $1B. That's a trillion dollars of paper value.
 
-![Source:CB Insights](images/the-puritans-of-venture-capital-850ba59e.png)
+![Source:CB Insights](/images/the-puritans-of-venture-capital-850ba59e.png)
 
 Are there really THAT many generational companies? **In the public markets, there are [~528](https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/?page=6) tech companies TOTAL worth more than $1B.** That includes Amazon, Meta, Alphabet, Microsoft, etc. I would argue that the vast majority of "unicorns" are going to be de-horned.
 
@@ -250,11 +250,11 @@ I've written about this expansion before:
 
 And people's reaction to that will be, "well that's a mistake." We've seen venture funds launch hedge funds, hedge funds launch venture funds, recruiting agencies launch venture funds, and mutual funds launch... [Benjamin Franklin-themed, meme-fueled... Bitcoin ETFs? \*shudders\*](https://twitter.com/FTI_US).
 
-![](images/the-puritans-of-venture-capital-c657e631.png)
+![](/images/the-puritans-of-venture-capital-c657e631.png)
 
 And I understand. A lot of those experiments have NOT worked. But just because some people have done it wrong, or at the wrong time, or for the wrong reasons, doesn't mean it can't work.
 
-![](images/the-puritans-of-venture-capital-5381e922.gif)
+![](/images/the-puritans-of-venture-capital-5381e922.gif)
 
 Blackstone is a testament to the ability to build a business in VERY different asset classes. [I've returned again and again](https://investing1012dot0.substack.com/p/the-blackstone-of-innovation) to this quote from Stephen Schwarzman, the founder of Blackstone:
 

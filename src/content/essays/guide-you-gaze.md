@@ -7,7 +7,7 @@ slug: "guide-you-gaze"
 type: "newsletter"
 ---
 
-![](images/guide-you-gaze-b9141cc1.jpg)
+![](/images/guide-you-gaze-b9141cc1.jpg)
 
 # Different Flavors of Writing
 
@@ -27,7 +27,7 @@ All three of those are pieces I'm proud of. That moment when the realization sin
 
 When we hike up a hill, we often find ourselves watching our feet. We need to make sure we don't trip. What we can miss is the beauty of the views around us. When I was 15 years old, I went on a 40-mile hike in the Pecos Wilderness where we crested a massive hill and caught sight of beautiful views to a lake down below.
 
-![](images/guide-you-gaze-2c7f24f0.png)
+![](/images/guide-you-gaze-2c7f24f0.png)
 
 I was shocked by the lake because I had been to focused on putting one foot in front of the other, I didn't even realize we had been in view of the lake for the better part of an hour.
 

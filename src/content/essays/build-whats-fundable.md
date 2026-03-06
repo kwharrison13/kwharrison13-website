@@ -7,7 +7,7 @@ slug: "build-whats-fundable"
 type: "newsletter"
 ---
 
-![](images/build-whats-fundable-3e915410.png)
+![](/images/build-whats-fundable-3e915410.png)
 
 ---
 
@@ -15,29 +15,29 @@ In 2014, I had just sold my first company. It wasn’t a lot of money, but at th
 
 I didn’t want to just start something for the sake of starting; I wanted it to mean something. To find a problem worth solving. In my search for meaningful problems, I stumbled upon Y Combinator’s “Request For Startups” in 2014. This is what it [looked like](https://web.archive.org/web/20150809071536/http://www.ycombinator.com/rfs) at the time:
 
-![Source:Y Combinator](images/build-whats-fundable-0f8ab31b.png)
+![Source:Y Combinator](/images/build-whats-fundable-0f8ab31b.png)
 
 I remember being so inspired by it. It felt like an ambitious problem-driven set of questions to be answered. The opportunity for new energy cheaper than anything thats come before. Robots to explore everything from space to the human body. Norman Borlaug-style innovations in food. It was collections of compelling visions like the RFS list that led my second company to focus on distributing solar power in Africa.
 
 One important caveat to this piece is that I never applied to YC. I’ve never been to YC’s Demo Day. I watched once during COVID when it was streamed. I’ve invested in a few companies that have done YC. I’ve only ever been in their building in Mountain View once. **For most of my career I have been neither a YC Stan nor a YC Detractor. They were just one piece of this big, beautiful world we call “tech.”** But then earlier this year I saw this tweet:
 
-![Source:Twitter](images/build-whats-fundable-b2e67dba.png)
+![Source:Twitter](/images/build-whats-fundable-b2e67dba.png)
 
 And it made me wonder: “how had the Request For Startups list held up, now 11 years later?” So I investigated. And what I found made me incredibly sad. **Dempsey was correct, at least as reflected in the shift of focus for the RFS list, moving from problem-first questions to more consensus-driven ideas**. This is what it [looks like now](https://www.ycombinator.com/rfs/):
 
-![Source:Y Combinator](images/build-whats-fundable-258b04bf.png)
+![Source:Y Combinator](/images/build-whats-fundable-258b04bf.png)
 
 *video generation multi-agent infrastructure ai-native enterprise SaaS with LLMs over government consulting forward-deployed agentic modular blah blah blah...*
 
 It was like a word cloud generated from getting fed a million tweets from VC twitter. There was one in particular that hurt my heart. Back in 2014, I remembered being struck by [YC’s entry](https://web.archive.org/web/20150809071536/http://www.ycombinator.com/rfs#million) on “One Million Jobs”:
 
-![Source:Y Combinator](images/build-whats-fundable-e08dc479.png)
+![Source:Y Combinator](/images/build-whats-fundable-e08dc479.png)
 
 Ever since seeing that, I had often thought about how, really, only Walmart in the US (and eventually Amazon) had employed 1M people. It’s hard to do! The prompt was meant to ask the question of what business models *can* employ a million people in a world where jobs are increasingly disappearing. Thought provoking!
 
 The Fall 2025 version of that? “The First 10-person, $100B Company.”
 
-![Source:Y Combinator](images/build-whats-fundable-11e9790f.png)
+![Source:Y Combinator](/images/build-whats-fundable-11e9790f.png)
 
 On first glance, this maybe feels similar. But its (1) the exact opposite (e.g. employ as *few* people as possible because AI!) and (2) this is basically saying the quiet part out loud. **“What problem will you solve? Who cares! But a lot of VCs are talking about how crazy some of these ‘revenue per employee’ numbers are getting so... you know... do that!”**
 
@@ -65,7 +65,7 @@ Here’s my perspective:
 
 # Technology’s On-Ramp
 
-![Source:Boring Business Nerd](images/build-whats-fundable-91337f29.jpg)
+![Source:Boring Business Nerd](/images/build-whats-fundable-91337f29.jpg)
 
 When you look back at the first YC batch in the [Summer of 2005](https://www.ycombinator.com/companies?batch=Summer%202005), you see reflected in the hopeful optimism of Paul Graham’s khaki shorts the desire to lift a rising generation. **YC’s original vision was to act as an on-ramp to a startup ecosystem that was anything but approachable.**
 
@@ -75,7 +75,7 @@ When Y Combinator started, there was a clear opportunity to help demystify the s
 
 I have no doubt that YC was an absolute net positive for the world for the first decade at least, if not more. **But somewhere along the way, the game changed. Startups were no longer as opaque; they became much more understood. YC couldn’t simply unmask; it had to mass produce**. Batch sizes exploded from 10-20 in the first few years to 100+ in 2015 to finally reaching a peak of 300-400 *per batch* in 2021 and 2022. While the number has come down, its still ~150 per batch.
 
-![Source:Y Combinator](images/build-whats-fundable-9911b1fb.png)
+![Source:Y Combinator](/images/build-whats-fundable-9911b1fb.png)
 
 My belief is that YC’s evolution came as the tech industry’s understandability changed. The more understandable the tech industry was, the less valuable YC would be in its original modus operandi. So YC leaned into the game. **If tech was an increasingly legible path, then YC would make it its mission to get as many people down that path as possible**.
 
@@ -99,19 +99,19 @@ A few days ago, I came across an [analysis](https://x.com/rrhoover/status/198686
 
 ### (1) Young: The average age of YC founders has decreased from 29-30 years to ~25 years now
 
-![Source:Jared Heyman](images/build-whats-fundable-11e9825b.png)
+![Source:Jared Heyman](/images/build-whats-fundable-11e9825b.png)
 
 ### (2) Educated Elites: The % of founders who went to a top 20 school increased from ~46% in 2015 to 55% now
 
-![Source:Jared Heyman](images/build-whats-fundable-d1a5da83.png)
+![Source:Jared Heyman](/images/build-whats-fundable-d1a5da83.png)
 
 ### (3) Boomerang Combinators: The number of founders with prior YC experience increased from ~7-9% to ~20%
 
-![Source:Jared Heyman](images/build-whats-fundable-feeacffc.png)
+![Source:Jared Heyman](/images/build-whats-fundable-feeacffc.png)
 
 ### (4) Bay Area Bound: The number of Bay Area-based YC founders is above even pre-Covid levels, now reaching 83%!
 
-![Source:Jared Heyman](images/build-whats-fundable-f1a43773.png)
+![Source:Jared Heyman](/images/build-whats-fundable-f1a43773.png)
 
 Reflecting on these dynamics, they’re just one piece of the broader story. YC has evolved from the on-ramp for an opaque category like technology to more of a consensus-shaping machine. One person [described it](https://x.com/RichardMCNgo/status/1987198373456453771?s=20) well:
 
@@ -121,11 +121,11 @@ Reflecting on these dynamics, they’re just one piece of the broader story. YC 
 
 It isn’t just the founders that are being consensus-shaped. Like I said earlier, you can literally see the batches in YC shaping around the consensus thing. As trends like voice agents hit the zeitgeist, you can see it reflected in the batch:
 
-![Source:Twitter](images/build-whats-fundable-faad9b9d.png)
+![Source:Twitter](/images/build-whats-fundable-faad9b9d.png)
 
 Ironically, Paul Graham describes the “Consensus” of the Consensus adherents as a logical reflection of the reality of technology:
 
-![Source:Twitter](images/build-whats-fundable-3a0e7065.png)
+![Source:Twitter](/images/build-whats-fundable-3a0e7065.png)
 
 And I’m sure that’s true. If you mapped any trend against the backdrop of the zeitgeist using YC as a lens, you would see similar ebbs and flows around social networks, marketplaces, D2C brands, etc. **But I think what’s different is that the consensus characteristics of what gets funded became the North Star of the whole operation, and that forces out what may, historically, have been more contrarian and off the beaten path.**
 
@@ -161,13 +161,13 @@ Venture capital, as a career, has these same characteristics of normativity. One
 
 YC has the same dynamic. Will Manidis [described](https://x.com/WillManidis/status/1988663286141972826?s=20) YC as an example of “striver culture” where its become more about the legible opportunity in a tried-and-true path rather than a supportive stop along the journey to building important companies.
 
-![Source:Twitter](images/build-whats-fundable-b138feca.png)
+![Source:Twitter](/images/build-whats-fundable-b138feca.png)
 
 Starting a startup, doing YC, raising venture, building a “unicorn.” It’s become the new-age version of go to a good school, get a good job, buy a house in the suburbs. It’s normative culture; the tried a true path. Social media and short-form video only exacerbate the [programmable](https://investing101.substack.com/p/the-bubble-brains-of-venture-capital?utm_source=publication-search) normativity because we see these hyperlegible paths. **The most dangerous thing about hyperlegible life paths is that they diminish the need for critical thinking across the population**. The thinking has been done for you, or so the logic goes.
 
 I saw a [great essay](https://x.com/aryxnsharma/status/1986629850808131646?s=20) on Twitter that, among other things, talked about “defining consensus.” It was criticizing a16z’s new media arm and describing the way media defines and propagates beliefs:
 
-![Source:Twitter](images/build-whats-fundable-8fc16e99.png)
+![Source:Twitter](/images/build-whats-fundable-8fc16e99.png)
 
 When I think about the true value of something, I often come back to Warren Buffett’s quote about the market. In the short term, its a voting machine; in the long-term it’s a weighing machine. **But the problem with an increasingly consensus-forming, or even consensus-manufacturing system, its that it becomes harder and harder to actually weigh the worth of anything**. That consensus formation invents the value of particular assets, backgrounds, and experiences.
 
@@ -205,7 +205,7 @@ Crusoe, on the other hand, strikes me as being built by true believers. They saw
 
 YC’s moniker has always been “build something people want.” And that’s sound advice. But, more importantly, is **build something worth building**. One of my portfolio companies, Base, [put it well](https://www.baseamerican.com/):
 
-![Source:Base](images/build-whats-fundable-0c62c070.png)
+![Source:Base](/images/build-whats-fundable-0c62c070.png)
 
 ## Choose Good Quests
 
@@ -217,7 +217,7 @@ But the vibe shift has kept shifting.
 
 Last week, YC [announced](https://x.com/ycombinator/status/1988366241460089118?s=20) one of its latest investments: Chad IDE: the brainrot code editor.
 
-![Source:Twitter](images/build-whats-fundable-a27fdc28.png)
+![Source:Twitter](/images/build-whats-fundable-a27fdc28.png)
 
 The product is a simple VSCode fork that integrates your social media, dating apps, or gambling apps, so that while you’re waiting for your prompts to load code, you can do other stuff. It’s fine, sure. Everyone knows we all context switch around on tasks and jump back and forth between mindless stuff and work.
 
@@ -239,15 +239,15 @@ A similar vibe rejection happened recently when Marc Andreessen \*checks notes\*
 
 First, Pope Leo posted what felt like an incredibly thoughtful take on technology:
 
-![Source:Twitter](images/build-whats-fundable-735c8ca1.png)
+![Source:Twitter](/images/build-whats-fundable-735c8ca1.png)
 
 If we’re building artificial super intelligence, I too would like us to demonstrate some moral discernment, right? Apparently, Pmarca disagreed and responded with an odd meme choice:
 
-![Source:Twitter](images/build-whats-fundable-40b10ee8.png)
+![Source:Twitter](/images/build-whats-fundable-40b10ee8.png)
 
 Daniel [responded](https://x.com/growing_daniel/status/1987072055326720244?s=20) with “don’t mock the Pope”, which was met with \*checks notes *again*\* the same… meme? After which, Daniel posted a direct criticism of a16z:
 
-![Source:Twitter](images/build-whats-fundable-b8053f12.png)
+![Source:Twitter](/images/build-whats-fundable-b8053f12.png)
 
 For those of us who spend *dramatically* too much time on Twitter, this was an incredibly odd series of choices from Marc Andreessen; someone who is generally a fairly adept poaster. In fact, Pmarca did something that is I think is unheard of for him and deleted all those tweets.
 
@@ -265,7 +265,7 @@ This distinction is the most critical aspect of choosing good quests: discernmen
 
 What’s more, the ability to criticize bad tech is a fundamental part of choosing good tech. Another response to the Pmarca mocking Pope Leo for asking for moral discernment came from John Coogan on TBPN, where [he said](https://x.com/tbpn/status/1987993943116841430?s=20): “I don’t think you should just throw ‘decel’ at someone who’s identifying a negative externality of a new technology. That’s not necessarily decelerationist.” Someone else retweeted that with a great excerpt from an [Astral Codex piece](https://www.astralcodexten.com/p/ye-olde-bay-area-house-party):
 
-![Source:Astral Codex](images/build-whats-fundable-ec288027.png)
+![Source:Astral Codex](/images/build-whats-fundable-ec288027.png)
 
 # Those Who Know
 

@@ -7,7 +7,7 @@ slug: "the-art-and-science-of-investing"
 type: "newsletter"
 ---
 
-![](images/the-art-and-science-of-investing-b0221110.png)
+![](/images/the-art-and-science-of-investing-b0221110.png)
 
 # The Calf Path
 
@@ -15,7 +15,7 @@ Over a decade ago I heard a poem that I think about all the time. When it comes 
 
 The poem is called "[The Calf Path](https://poets.org/poem/calf-path)," and it sheds some light on this exact question. The full poem is below, but the TLDR is this: a calf wanders through a forest going wherever he wants, no concern for straight or narrow paths. After the calf walked his path, a dog followed suit. Afterwards, a sheep, a carriage, and one pioneer after another. Fast forward 300 years, and the calf is obviously long dead. But an entire city has built its structure around the long-gone calf's wandering path: *"For thus such reverence is lent To well-established precedent. For men are prone to go it blind Along the calf-paths of the mind, And work away from sun to sun, To do what other men have done."*
 
-![Source](images/the-art-and-science-of-investing-92a970e9.png)
+![Source](/images/the-art-and-science-of-investing-92a970e9.png)
 
 [I've written before](https://investing1012dot0.substack.com/p/productization) about this idea of why we do the things we do.
 
@@ -23,7 +23,7 @@ The poem is called "[The Calf Path](https://poets.org/poem/calf-path)," and it s
 
 As I [reflect](https://investing1012dot0.substack.com/p/having-a-conversation-with-yourself) on a year of writing Investing 101, I'm reminded of what originally drew me to this title for my writing: [Investing 101 2.0](https://investing1012dot0.substack.com/). And I'll stop you right there. No one really likes the name. It's a mouth full, and the branding is pretty confusing. I usually just shorten it to "Investing 101." Maybe some day I'll change it, but for now I came back to what intrigued me about the name.
 
-![](images/the-art-and-science-of-investing-fdb3a42c.png)
+![](/images/the-art-and-science-of-investing-fdb3a42c.png)
 
 "Reinventing the practice in the process of learning it." There is something powerful about a beginners mind where you can revolutionize something most effectively as you learn the trade (and don't kid yourself; we're all learning--especially in a transition like we've had in the last year). I've [defined](https://investing1012dot0.substack.com/p/of-things-that-matter-most) investing as “the art and science of allocating finite resources to create an optimal outcome.”
 

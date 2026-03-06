@@ -7,7 +7,7 @@ slug: "the-reality-of-unrealistic-outliers"
 type: "newsletter"
 ---
 
-![Watching a rocket ship will never get old.](images/the-reality-of-unrealistic-outliers-a6951e8f.jpg)
+![Watching a rocket ship will never get old.](/images/the-reality-of-unrealistic-outliers-a6951e8f.jpg)
 
 # Internet Friends
 
@@ -37,7 +37,7 @@ Never at any point in my thread did I say, "look how right I was, aren't I a gen
 
 But if you believe me when I say I know I was wrong, and the numbers matching up are just a coincidence, it should hopefully become easier to believe that the story is true. Also? Because I have the "receipts" to prove it.
 
-![Receipts](images/the-reality-of-unrealistic-outliers-f5a988be.gif)
+![Receipts](/images/the-reality-of-unrealistic-outliers-f5a988be.gif)
 
 Beyond me feeling obligated to defend my honor, there is a much more interesting discussion to have on this topic. I wanted to dig more into one of the ideas I talked about in the post, and some of the thoughtful questions people had like, "what did you see in Figma that made you believe in such a big outcome?"
 
@@ -95,7 +95,7 @@ The way I describe a thesis is (1) what is the powerful tailwind that exists ind
 
 From the early days of Figma, the CEO Dylan Field, was already tapped into this idea of the increasing importance of design. He has a famous graphic that he [wrote about in 2017](https://techcrunch.com/2017/05/31/here-are-some-reasons-behind-techs-design-shortage/?fbclid=IwAR3_kFPSO85oGTTWS8BXAYZx8KzOtHdA1b5Gud_j17XcXzxyFrLXZMPz_us) where he shows how the ratio of designers to engineers was starting to shift. You see companies like IBM go from 1 designer for every 72 engineers down to 1 designer for every 8 engineers.
 
-![](images/the-reality-of-unrealistic-outliers-aea43fb8.png)
+![](/images/the-reality-of-unrealistic-outliers-aea43fb8.png)
 
 That genuine market wave is often illusive because it’s hard to see it coming until it smacks you in the face.
 
@@ -111,7 +111,7 @@ When you look at some of the [best acquisitions](https://www.acquired.fm/episode
 
 Or you have companies like Salesforce. From the time they went public in 2004 they had 14 quarters of 50%+ growth, and aside from a few quarters, **they have grown at least 20% every quarter for almost 20 years straight!**
 
-![Source:Koyfin](images/the-reality-of-unrealistic-outliers-653fbc62.png)
+![Source:Koyfin](/images/the-reality-of-unrealistic-outliers-653fbc62.png)
 
 # What is Conviction?
 

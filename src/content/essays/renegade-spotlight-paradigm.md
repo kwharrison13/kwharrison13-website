@@ -7,7 +7,7 @@ slug: "renegade-spotlight-paradigm"
 type: "newsletter"
 ---
 
-![](images/renegade-spotlight-paradigm-f8afa9d5.png)
+![](/images/renegade-spotlight-paradigm-f8afa9d5.png)
 
 ## Renegade Spotlights
 
@@ -25,7 +25,7 @@ In 2017 crypto was experiencing a real moment. [The price of bitcoin](https://ww
 
 Some might think the beginning of 2018 was a rough time to start a crypto-focused venture firm. That year bitcoin prices [dropped by 80%](https://www.coindesk.com/markets/2019/01/02/down-more-than-70-in-2018-bitcoin-closes-its-worst-year-on-record/) and we entered what many referred to as a "crypto winter."
 
-![](images/renegade-spotlight-paradigm-b7fcb015.png)
+![](/images/renegade-spotlight-paradigm-b7fcb015.png)
 
 But for Matt and Fred [it was a relief.](https://www.forbes.com/sites/alexkonrad/2020/10/18/these-young-investors-betting-big-on-crypto-are-taking-harvard-and-stanford-along-for-the-ride/?sh=3b7de1374212)
 
@@ -49,7 +49,7 @@ This fundamental immersion in the frontier of crypto required an entirely differ
 
 When they announced their latest fund, they pointed to a team of "domain experts around research, engineering, security, talent, communications and marketing, legal and policy." I've written before about [the traditional venture org chart](https://investing1012dot0.substack.com/p/the-renegades-of-venture-capital?s=w). At the top you have a group of investor partners who are God and dictate every component of the strategy to the firm. But at Paradigm they've built for expertise rather than control.
 
-![](images/renegade-spotlight-paradigm-e0e35777.png)
+![](/images/renegade-spotlight-paradigm-e0e35777.png)
 
 The way Paradigm has structured itself is fundamentally different than most venture firms. When you look at this structure it feels more like a company. Is the investing team important? Absolutely. But are they god dictating how everyone else works? Definitely not.
 

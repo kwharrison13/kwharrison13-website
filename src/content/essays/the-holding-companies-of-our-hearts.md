@@ -7,7 +7,7 @@ slug: "the-holding-companies-of-our-hearts"
 type: "newsletter"
 ---
 
-![](images/the-holding-companies-of-our-hearts-4e1e981f.png)
+![](/images/the-holding-companies-of-our-hearts-4e1e981f.png)
 
 Ever since I first [started writing](https://investing101.substack.com/p/roam-investing), I've revolved around this idea that "everyone is an allocator of something." As I've kept exploring the idea of allocation, I [come back](https://investing101.substack.com/p/of-things-that-matter-most?utm_source=publication-search) to this definition of investing: “The art and science of allocating finite resources to create an optimal outcome.” Last time I unpacked that quote in relation to everyone being an investor, I made this point:
 
@@ -21,7 +21,7 @@ For example, if you want to make a list of some of the best allocators in histor
 
 Another entry on the list of capital allocators is Jeff Bezos. Never mind his [seed investment](https://finance.yahoo.com/news/jeff-bezos-early-investor-google-185940547.html) in Google. I'm talking about AWS. In 2006, Amazon was generating [$10.5B](https://www.nbcnews.com/id/wbna15536386) in revenue selling books, clothes, and CDs online. But Jeff Bezos had a bigger idea. He wanted to rent out space on server racks stored in Amazon’s [10M](https://www.nbcnews.com/id/wbna15536386) square feet of warehouses to run other people’s websites. Wall Street’s [response](https://www.nbcnews.com/id/wbna15536386) was to “groan,” with a BusinessWeek headline reading “Wall Street wishes he would just mind the store.” Fast forward to today, AWS generated over [$107B](https://www.constellationr.com/blog-news/insights/aws-revenue-19-q4-amazon-results-shine) in revenue. An incredible business that has continued to compound.
 
-![Source:MoneyControl](images/the-holding-companies-of-our-hearts-da31cc2f.png)
+![Source:MoneyControl](/images/the-holding-companies-of-our-hearts-da31cc2f.png)
 
 VCs are, increasingly, so far removed from the strategic element of the capital they "allocate" that it can't even really be considered part of their equation. But I'll come back to just how far VCs have removed themselves from the art of capital allocation. When it comes to that art, beyond just the magic of capital allocation in pursuit of strategic operational pursuits, there is something special about organizations that can do it consistently.
 
@@ -37,7 +37,7 @@ Serial acquisition has its downsides too. I recently finished a book called [The
 
 But when done right, serial acquirers are exceptional businesses. Take Constellation Software for example. Since 2012 Constellation has grown from $890M to $10.3B in revenue acquiring over [500](https://quartr.com/insights/company-research/constellation-software-acquiring-and-empowering) companies and a stock price that has outperformed the S&P 500 almost 2x.
 
-![Source: Koyfin](images/the-holding-companies-of-our-hearts-2f4c3ba6.png)
+![Source: Koyfin](/images/the-holding-companies-of-our-hearts-2f4c3ba6.png)
 
 Berkshire Hathaway has also had an exceptional run. But one thing that is unique about Warren Buffett is that he seems to be good at two kinds of capital allocation: (1) strategic capital allocation, and (2) stock picking.
 
@@ -55,7 +55,7 @@ The newest angle? Enter AI.
 
 Over the last year or so you may have started to hear more about this idea of "AI rollups." It's an interesting exercise that I've seen play out a number of different ways. One core idea is that the "installation" phase of technology when new innovations are replacing old ones is what most people in tech are familiar with. But the reality of most industries is that the "deployment" phase where particular innovations reach broad social acceptance goes *much* slower.
 
-![Source: Carlota Perez; O’Shaughnessy Asset Management](images/the-holding-companies-of-our-hearts-acd801aa.png)
+![Source: Carlota Perez; O’Shaughnessy Asset Management](/images/the-holding-companies-of-our-hearts-acd801aa.png)
 
 As progress in AI has gotten faster and faster there has emerged this idea that has some DNA from the serial acquirers playbook. If your end customer is moving too slowly to deploy the technology, why not buy your end customer?
 

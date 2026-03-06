@@ -7,7 +7,7 @@ slug: "the-inescapable-debate-of-human-nature"
 type: "newsletter"
 ---
 
-![](images/the-inescapable-debate-of-human-nature-a0e350ce.png)
+![](/images/the-inescapable-debate-of-human-nature-a0e350ce.png)
 
 The more writing I do, the more I start to feel [a similar feeling](https://x.com/kwharrison13/status/1711764077637435753?s=20); this feeling of having threads of ideas made up of words I can't find a way to release. Today is one of those day.
 

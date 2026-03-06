@@ -7,7 +7,7 @@ slug: "introducing-foundations-and-frontiers"
 type: "newsletter"
 ---
 
-![](images/introducing-foundations-and-frontiers-896c800b.jpg)
+![](/images/introducing-foundations-and-frontiers-896c800b.jpg)
 
 In most of my writing, I focus on my thinking about a particular topic. I don’t as often touch on the specific ways I’m putting that into practice. However, all of the dynamics I’m unpacking about the evolving world of venture are a big part of my work at [Contrary](https://www.contrary.com/). I’ve [written before](https://investing1012dot0.substack.com/p/contrary-my-renegade-of-choice?utm_source=publication-search) about how Contrary is setup as a firm. And in September 2022, I [wrote about](https://investing1012dot0.substack.com/p/open-source-knowledge?utm_source=publication-search) the launch of [Contrary Research](https://research.contrary.com/).
 

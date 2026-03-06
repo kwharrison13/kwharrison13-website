@@ -7,11 +7,11 @@ slug: "the-unholy-trinity-of-venture-capital"
 type: "newsletter"
 ---
 
-![](images/the-unholy-trinity-of-venture-capital-a6677a69.png)
+![](/images/the-unholy-trinity-of-venture-capital-a6677a69.png)
 
 As a senior in high school I had an English teacher, Mr. Malone, who had a huge impact on me. His class was, I think, the first time I was exposed to the idea of literature for the sake of literature. Reading because you wanted to, not just because you had to. Absorbing the written word for the feeling, not the grade. It was in his class that I wrote the first [piece of writing](https://drive.google.com/file/d/1oozyb8VjH0GMGzaOUlyOmmj2s4W1HmXa/view?usp=sharing) that I was ever truly proud of. He was a very good guy and sadly [passed away](https://obits.mlive.com/us/obituaries/jackson/name/stephen-malone-obituary?id=18874612) in 2014.
 
-![](images/the-unholy-trinity-of-venture-capital-9bb66606.png)
+![](/images/the-unholy-trinity-of-venture-capital-9bb66606.png)
 
 It was in his class that I read Mary Shelley's [Frankenstein; or, The Modern Prometheus](https://en.wikipedia.org/wiki/Frankenstein) for the first time. While I only knew the Frankenstein story from the movies (particularly [Young Frankenstein](https://en.wikipedia.org/wiki/Young_Frankenstein)), I hadn't been exposed to the story as literature. I also learned about the richly tragic lives of Mary Shelley and her husband, Percy Bysshe Shelley, a poet. He's the author of an exceptional poem, [Ozymandias](https://en.wikipedia.org/wiki/Ozymandias) (also the name of one of the best [episodes](https://www.imdb.com/title/tt2301451/) of Breaking Bad).
 
@@ -25,7 +25,7 @@ In the movie, Carmen and Juni (the aforementioned Spy Kids) meet a scientist nam
 
 > *"Do you think God stays in heaven because he, too, lives in fear of what he's created?"*
 
-![](images/the-unholy-trinity-of-venture-capital-b7874aa2.png)
+![](/images/the-unholy-trinity-of-venture-capital-b7874aa2.png)
 
 Great literature can come in all shapes and forms.
 
@@ -57,13 +57,13 @@ Unfortunately, venture capital is uniquely resilient to this somewhat natural la
 
 [I've written before](https://investing1012dot0.substack.com/p/the-puritans-of-venture-capital) about a new type of firm: capital agglomerators. These are firms like a16z, General Catalyst, ICONIQ, Sequoia—firms that are raising billions of dollars at a time. Building out "[global investment companies](https://investing1012dot0.substack.com/p/different-strokes-for-different-folks)" that extend far beyond a simple venture fund.
 
-![](images/the-unholy-trinity-of-venture-capital-f26a25d3.png)
+![](/images/the-unholy-trinity-of-venture-capital-f26a25d3.png)
 
 And I've said before that there isn't necessarily anything wrong with these firms. Just like finding the stupider game, its not that these firms are stupider. It's that they're different. But the Unholy Trinity of Venture Capital isn't just the biggest three capital agglomerators. It's much more involved than that. But the existence of capital agglomerators is what invited the effect of the Unholy Trinity on venture. So that's where we'll start.
 
 ## Capital Agglomerators
 
-!["Fat on Fees"](images/the-unholy-trinity-of-venture-capital-716c503c.png)
+!["Fat on Fees"](/images/the-unholy-trinity-of-venture-capital-716c503c.png)
 
 Like I said before, capital agglomerators are the one piece of this unholy trinity that I've written about a fair bit, both in general in a piece called [The Blackstone of Innovation](https://investing1012dot0.substack.com/p/the-blackstone-of-innovation) and specifically in [The Puritans of Venture Capital](https://investing1012dot0.substack.com/p/the-puritans-of-venture-capital). In that latter piece, I described agglomerators this way:
 
@@ -81,11 +81,11 @@ As agglomerators have become more and more common, people's biggest question is 
 
 ## Capital Allocators
 
-!["Yield Farmers"](images/the-unholy-trinity-of-venture-capital-bbf4a454.png)
+!["Yield Farmers"](/images/the-unholy-trinity-of-venture-capital-bbf4a454.png)
 
 People are skeptical of who these LPs could possibly be is, in large part, because there is quite a bit of evidence to support the fact that larger funds consistently have lower returns than smaller funds. **In fact, smaller funds are 50% more likely to generate above a 2.5x return vs. a larger fund.**
 
-![Source:Institutional Investor](images/the-unholy-trinity-of-venture-capital-dd4a8c60.png)
+![Source:Institutional Investor](/images/the-unholy-trinity-of-venture-capital-dd4a8c60.png)
 
 So who are these LPs who are putting money into these capital agglomerators? They typically fall into two buckets.
 
@@ -122,7 +122,7 @@ Now if it was just a duality of capital agglomerators and capital allocators, th
 
 ## Capital Absorbers
 
-!["Hungry, Hungry Capital Hippos"](images/the-unholy-trinity-of-venture-capital-1aa3ee35.png)
+!["Hungry, Hungry Capital Hippos"](/images/the-unholy-trinity-of-venture-capital-1aa3ee35.png)
 
 There's a Bill Gurley quote from 2016 that I've used [over](https://investing1012dot0.substack.com/p/vc-contagion) and [over](https://investing1012dot0.substack.com/p/blaspheming-against-the-hype) again that hints at the emergence of these capital absorbers; the hungry, hungry hippos of raising money:
 
@@ -134,13 +134,13 @@ OpenAI [raising](https://www.reuters.com/technology/artificial-intelligence/open
 
 I've seen some hungry hippos in my day, but these hippos I can guarantee can't see their toes. This is a level of capital intensity that, in prior generations, [built nations](https://www.archives.gov/exhibits/american_originals/loupurch.html/) and [put people](https://www.planetary.org/space-missions/apollo-11) on the moon. Sam Altman said he needed [$7 TRILLION](https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0) and we said "whoa" but we didn't say "no."
 
-![](images/the-unholy-trinity-of-venture-capital-f0922944.png)
+![](/images/the-unholy-trinity-of-venture-capital-f0922944.png)
 
 Now, its important to note that I don't mean to crap on AI as a technology or category. But its an unavoidable reality that these massive core AI companies are playing a fundamentally different game. And that game requires igniting exorbitant volumes of Uncle Sam's salad to play. And it couldn't have come at a better time to complete our Unholy Trinity.
 
 # The Great Unification
 
-![](images/the-unholy-trinity-of-venture-capital-56bb278c.png)
+![](/images/the-unholy-trinity-of-venture-capital-56bb278c.png)
 
 And thus, the Unholy Trinity of Venture Capital was born.
 
@@ -186,4 +186,4 @@ To end, I'll return to Dr. Romero of Spy Kids fame. After his existential ponder
 
 > *"Stop looking at me like that. I'm no loon."*
 
-![](images/the-unholy-trinity-of-venture-capital-bf28af73.png)
+![](/images/the-unholy-trinity-of-venture-capital-bf28af73.png)

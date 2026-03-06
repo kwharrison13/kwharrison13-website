@@ -7,7 +7,7 @@ slug: "in-defense-of-disney"
 type: "newsletter"
 ---
 
-![](images/in-defense-of-disney-5b2dc66f.png)
+![](/images/in-defense-of-disney-5b2dc66f.png)
 
 ---
 
@@ -37,19 +37,19 @@ If it’s been completely optimized for adults or is, in fact “the most misera
 
 I found myself pondering this question while walking out of Tomorrowland as my family was deciding what to do next. “It’s A Small World?” someone suggested. I kind of groaned internally. What feels like the most basic and cliche ride; I wasn’t necessarily excited. But it was a 5 minute wait, so we went. And there, in the halls of a ride that [premiered](https://en.wikipedia.org/wiki/It%27s_a_Small_World) at the 1964 World’s Fair, I got my answer.
 
-![](images/in-defense-of-disney-5da3acbc.png)
+![](/images/in-defense-of-disney-5da3acbc.png)
 
 My three year old has probably never heard It’s A Small World. She didn’t see any recognizable IP she’s gotten exposed to during screen time. She wasn’t resonating with a story she had heard somewhere before. **She was simply going through a well-designed experience with colors, dancing, animatronics, and a beautiful song that struck something human inside of her. And it brought joy.**
 
-![](images/in-defense-of-disney-de229e8c.png)
+![](/images/in-defense-of-disney-de229e8c.png)
 
 We went on over a dozen different rides over the course of several days. But laying in bed late at night with my wife the night before we went home, reflecting on the trip, I knew immediately that watching my daughter feel that special feeling was the absolute highlight of the trip.
 
-![](images/in-defense-of-disney-3aa9fb41.png)
+![](/images/in-defense-of-disney-3aa9fb41.png)
 
 And, just like every other human being who has gone through that ride, that song was stuck in her head! Hours later when she was trying on Star Wars swag and trying to fight me with a lightsaber, she was still singing it under her breath.
 
-![](images/in-defense-of-disney-153e7ffa.png)
+![](/images/in-defense-of-disney-153e7ffa.png)
 
 # A Universal Experience
 
@@ -85,7 +85,7 @@ I was walking through Main Street in Disneyland as I was pushing my youngest in 
 > When we stand hand in hand   
 > It’s a small world after all.”*
 
-![](images/in-defense-of-disney-7d7fc787.png)
+![](/images/in-defense-of-disney-7d7fc787.png)
 
 Talk about a universal experience to tap into. The propaganda Disney peddled was fundamentally about humanity. It wasn’t always ideal or the most thoughtful. But it was, and is, at its core: human.
 
@@ -99,7 +99,7 @@ But that’s just the beginning of why Walt Disney offers something worth studyi
 
 On one of our days walking into Disneyland, I noticed a plaque at the top of the arch just before you walk into Main Street that I had never noticed before:
 
-![](images/in-defense-of-disney-e2878a52.png)
+![](/images/in-defense-of-disney-e2878a52.png)
 
 “We leave today.” Walt Disney was obsessed with offering something that took people out of the world they were living in. Like I mentioned before, his first medium for that was animation. His second was amusement parks. As the Progress City book puts it: “Timeless stories weren’t enough for Walt; he also wanted to create timeless places.”
 
@@ -117,15 +117,15 @@ In fact, Walt Disney didn’t just build a ride and say “isn’t that neat” 
 
 One idea was a disposable highway vehicle (we’re getting closer to that one with Carvana).
 
-![](images/in-defense-of-disney-15882f51.png)
+![](/images/in-defense-of-disney-15882f51.png)
 
 “Motion pictures while in motion” remind me of the size of the display screens on a Tesla.
 
-![](images/in-defense-of-disney-05875502.png)
+![](/images/in-defense-of-disney-05875502.png)
 
 Walt Disney’s magic wasn’t making cartoons. Nor was it making amusement parks. It was the flywheel that he put in motion to explore the human experience. So many people see the famous [Disney Flywheel](https://mickeyblog.com/2024/05/28/what-is-the-disney-flywheel-and-who-invented-it/) as an exercise in IP development and monetization.
 
-![](images/in-defense-of-disney-ff8261ef.png)
+![](/images/in-defense-of-disney-ff8261ef.png)
 
 But the reality is so much more than that. **What Walt Disney ultimately provided was a prototype for how we ought to seek to understand problems, dream up solutions, and then relentlessly execute to make those dreams into a reality.**
 
@@ -171,11 +171,11 @@ Moreover, a complete lack of imagination forces us to be stuck with worlds that 
 
 When I was growing up in Albuquerque, New Mexico, my family would spend every Christmas Eve in Old Town.
 
-![](images/in-defense-of-disney-1b0d1666.png)
+![](/images/in-defense-of-disney-1b0d1666.png)
 
 We would have sopapillas at the same [Mexican restaurant](https://www.google.com/maps/place/El+Sol+de+Mexico/@35.0965633,-106.6694613,3a,75y,90t/data=!3m8!1e2!3m6!1sCIABIhDljEZfAx0o6npT43apPnm2!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAC9h4nqaclBbXhvxtsg--xpPtJWLV4FKZJrGmGsNP4vk4mQlGdU4zgKsqT98qsw4ChDjneHVTkcZCG1o0yGXcltvMjFffkVwR7_W5FylNxLOuSHlrm-hJMlSc7UgDDCEQ3IpUeldDoAohVV2fzEW%3Dw86-h114-k-no!7i2576!8i3432!4m11!1m2!2m1!1smexican+food!3m7!1s0x87220d006bc07727:0xabae3dcfb0b63aff!8m2!3d35.0965276!4d-106.6693637!10e5!15sCgxtZXhpY2FuIGZvb2RaDiIMbWV4aWNhbiBmb29kkgESbWV4aWNhbl9yZXN0YXVyYW50mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJ1TTFwMVVtaG5SUkFCqgFaCggvbS8wMndibQoIL20vMDUxemsQASoQIgxtZXhpY2FuIGZvb2QoADIeEAEiGi42pU-guIVQJGWUrd6lZk2HTpTWciBTMppFMhAQAiIMbWV4aWNhbiBmb29k4AEA-gEFCJQBEEs!16s%2Fg%2F11v_8ml75x?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D), then walk around looking at the luminarias and the Christmas tree in Old Town Plaza.
 
-![](images/in-defense-of-disney-df58bc57.png)
+![](/images/in-defense-of-disney-df58bc57.png)
 
 From its origins in the 1500s through to its height as the center of Albuquerque in the 1800s, Old Town was the bastion of civic, economic, and social life for Albuquerque for literally hundreds of years. But my family didn’t go because it was still the same functional urban hub that it once was. **We go because it represents a historical and cultural homage to greatness.**
 

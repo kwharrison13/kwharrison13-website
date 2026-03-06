@@ -7,7 +7,7 @@ slug: "deep-tech-for-deep-minds-or-deep"
 type: "newsletter"
 ---
 
-![](images/deep-tech-for-deep-minds-or-deep-afe77559.png)
+![](/images/deep-tech-for-deep-minds-or-deep-afe77559.png)
 
 People love to talk about the founding myths of venture capital ([myself included](https://investing1012dot0.substack.com/p/the-puritans-of-venture-capital)). The [Traitorous Eight](https://en.wikipedia.org/wiki/Traitorous_eight), Arthur Rock, [Don Valentine](https://en.wikipedia.org/wiki/Don_Valentine). Books like [The Power Law](https://www.amazon.com/Power-Law-Venture-Capital-Making/dp/052555999X) by Sebastian Mallaby is a great overview.
 
@@ -17,7 +17,7 @@ The company the Traitorous Eight left? [A semiconductor manufacturer](https://en
 
 So while most people think the first great startup was Google, or Facebook, a lot of people rightfully pay respectful homage to the hardware manufacturers of the 50s. But the reality is, it goes back even further than that. Steve Blank has [a great presentation](https://steveblank.com/secret-history/) on the "secret history of silicon valley." While most people think "Silicon Valley" was just fruit orchards until the emergence of the likes of Fairchild Semiconductor in the 50s, the reality is the tech industry can trace its roots all the way back to the vacuum tubes of early radar development in the early 1900s.
 
-![Source:"Secret History" by Steve Blank](images/deep-tech-for-deep-minds-or-deep-13f551ea.png)
+![Source:"Secret History" by Steve Blank](/images/deep-tech-for-deep-minds-or-deep-13f551ea.png)
 
 Before it was "Cerebral Valley" or "Silicon Valley," it was "[Microwave Valley](https://www.inc.com/eric-schurenberg/inconvenient-history-of-silicon-valley.html)."
 
@@ -31,7 +31,7 @@ The [more complicated reasons](https://warsawequity.com/hardware-investments-und
 
 The lack of investment in hardware and manufacturing more broadly has, in part, exacerbated the off-shoring of American manufacturing capabilities. After the famous spike in manufacturing during World War II, the US saw a continuous (albeit volatile) rise to manufacturing employment that peaked around 1978. Since then, its been largely downhill.
 
-![Source:Bureau of Labor Statistics](images/deep-tech-for-deep-minds-or-deep-b647bec8.png)
+![Source:Bureau of Labor Statistics](/images/deep-tech-for-deep-minds-or-deep-b647bec8.png)
 
 That is, until ~2010. Since then, there has been steady increases in manufacturing employment. In 2022, [for the first time](https://www.axios.com/2023/03/07/us-manufacturing-growth-outpaced-world) in a very long time, US manufacturing growth outpaced the rest of the world.
 
@@ -51,7 +51,7 @@ But more than that, the AI explosion of the last few years shattered everyone's 
 
 The wake up call's loudest voice? Nvidia. As they shot from $27B to $61B in revenue in just one year. From that potential, to the global political threats to TSMC in Taiwan, its spurred some of the most ambitious to go chasing [trillions](https://frontline.thehindu.com/news/ai-chip-race-fears-grow-of-huge-financial-bubble-sam-altman-chatgpt-china/article67873967.ece#:~:text=OpenAI%20CEO%20Sam%20Altman%20wants,than%20the%20US%20federal%20budget.) for [new chip projects](https://techcrunch.com/2024/02/19/softbanks-masayoshi-son-is-reportedly-seeking-100b-to-build-a-new-ai-chip-venture/).
 
-![Source: Koyfin](images/deep-tech-for-deep-minds-or-deep-385151f6.png)
+![Source: Koyfin](/images/deep-tech-for-deep-minds-or-deep-385151f6.png)
 
 The fear, obviously, is how manic VCs have become around hype cycles. Now, hype cycles are something I've written about [over](https://investing1012dot0.substack.com/p/the-hype-cycles-of-venture-capital) and [over](https://investing1012dot0.substack.com/p/updating-the-hype-cycle) and [over](https://investing1012dot0.substack.com/p/blaspheming-against-the-hype) and [over](https://investing1012dot0.substack.com/p/on-hype-and-hot-air) again. And I can't help but think its just getting more manic, borderline foaming at the mouth.
 
@@ -61,7 +61,7 @@ One great illustration of the constant whiplash? [This DM](https://twitter.com/T
 
 From shitcoin Discord channels to AI wrappers to El Segundo power lifting sessions. And for those of you not in the know (or who perhaps have a healthy relationship with Twitter and dopamine levels in their brain), what's in El Segundo you ask? A lot.
 
-![Source:John Coogan](images/deep-tech-for-deep-minds-or-deep-81fb171e.png)
+![Source:John Coogan](/images/deep-tech-for-deep-minds-or-deep-81fb171e.png)
 
 Hard tech, deep tech, frontier tech, hardware, manufacturing — these represent the most recent emerging VC whiplash. And the danger is that complex physical manufacturing, interwoven with global supply chains, and reliant on healthy working capital dynamics… all of those are not great pump and dumps for VCs.
 

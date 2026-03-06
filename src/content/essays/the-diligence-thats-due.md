@@ -7,13 +7,13 @@ slug: "the-diligence-thats-due"
 type: "newsletter"
 ---
 
-![Source:Two Idiots, One Keyboard](images/the-diligence-thats-due-e738fa94.png)
+![Source:Two Idiots, One Keyboard](/images/the-diligence-thats-due-e738fa94.png)
 
 ---
 
 Everyone's first car-buying experience should be a hard lesson in negotiation, capitalism, and humility. I had always heard the traps that you can fall into buying a car, and I was laser focused on not getting screwed. The target? A Nissan Versa.
 
-![](images/the-diligence-thats-due-ccd3d399.png)
+![](/images/the-diligence-thats-due-ccd3d399.png)
 
 But I wasn't just going to walk in like some chump off the street. I knew two things: (1) dealerships will often offer "interest-free months" to bring in customers, and (2) they're trying to hit quotas, so they get real agreeable on the last day of the month. With that information, I waited.
 
@@ -45,7 +45,7 @@ In his attempt to reawaken free speech on Twitter, Elon Musk got a lot of flack 
 
 On top of Musk's seeming lack of any diligence, you then had pretty significant capital providers flooding in with the famous promise of "no additional work required."
 
-![Source:Twitter](images/the-diligence-thats-due-2b57f4a2.png)
+![Source:Twitter](/images/the-diligence-thats-due-2b57f4a2.png)
 
 Some people make the argument that this isn't the same as a typical venture round where none of the information is public. This is a publicly-traded company with all their financials available. Understandable. But somewhat naive. Large private equity firms like Apollo, Thoma Bravo, and others spent [$118B in take-private deals](https://www.forbes.com/sites/forbestechcouncil/2022/09/30/three-things-to-know-when-taking-a-public-company-private/?sh=61491147318d) last year. You can bet they're doing a lot more diligence than texting their friends, even though the company is public.
 
@@ -53,7 +53,7 @@ Some people make the argument that this isn't the same as a typical venture roun
 
 Next, we have the ridiculously well-covered and dramatic implosion of FTX. Most notably, FTX had raised [over $1B](https://www.crunchbase.com/organization/ftx-exchange/investor_financials) from some very notable investors including Sequoia, Tiger, Temasek, and a host of others.
 
-![Source:Twitter](images/the-diligence-thats-due-a00e7440.png)
+![Source:Twitter](/images/the-diligence-thats-due-a00e7440.png)
 
 A few of those firms have responded to what happened, most notably [Sequoia](https://twitter.com/sequoia/status/1590522718650499073?s=20&t=E9BjfVKKUsVAbNmAbwiGnA) and [Temasek](https://twitter.com/seikatsu/status/1593134187162513408?s=20&t=jGBvLebBxr7nOdIZWAzPcg). In both responses, these firms claimed to do "extensive research and thorough diligence." [Temasek's response](https://www.temasek.com.sg/en/news-and-resources/news-room/statements/2022/statement-FTX), in particular, was quite thorough. They're a ~$300B fund with 900 people investing across asset classes, and would live or die on their ability to conduct thorough due diligence.
 
@@ -129,7 +129,7 @@ In 1986, Warren Buffett wrote, [in his annual letter](https://www.berkshirehatha
 
 [I've written before](https://investing1012dot0.substack.com/p/the-mysteries-of-an-economic-engine) about this emphasis on understanding a company's underlying economic engine. [I've also written before](https://investing1012dot0.substack.com/p/markets-markets-and-markets) about the different kinds of focus an investor can have as they're investing over the course of a company's life, and how that focus can shift.
 
-![](images/the-diligence-thats-due-dc1b79d3.png)
+![](/images/the-diligence-thats-due-dc1b79d3.png)
 
 So when I talk about the emphasis on an economic engine, I'm not really talking about seed investing. They haven't built an engine. **But if you're investing $100M then you had better believe the company has an economic engine, even if that engine is built to just light money on fire to no reasonable end**.
 

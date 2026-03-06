@@ -7,7 +7,7 @@ slug: "everything-i-own"
 type: "newsletter"
 ---
 
-![](images/everything-i-own-7e488763.jpg)
+![](/images/everything-i-own-7e488763.jpg)
 
 ---
 

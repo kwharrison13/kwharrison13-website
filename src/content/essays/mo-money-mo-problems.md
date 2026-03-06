@@ -7,7 +7,7 @@ slug: "mo-money-mo-problems"
 type: "newsletter"
 ---
 
-![](images/mo-money-mo-problems-7f471c13.webp)
+![](/images/mo-money-mo-problems-7f471c13.webp)
 
 A few weeks ago I wrote about [The Siren Song of Raising a Venture Fund](https://investing1012dot0.substack.com/p/the-siren-song-of-raising-a-venture). In it, I talked about how I'm seeing more and more new venture firms pop up. This was something that, candidly, as the market hardened around everything except AI, I didn't expect to see.
 
@@ -17,7 +17,7 @@ In that piece I quoted Fred Wilson as saying, "We don't need a few firms managin
 
 After writing about it, the quote had stayed on my mind so I tweeted it out this past week.
 
-![Source:Twitter](images/mo-money-mo-problems-8f3c185c.png)
+![Source:Twitter](/images/mo-money-mo-problems-8f3c185c.png)
 
 The responses to the tweet were super interesting and got me thinking about a topic I've written about a lot, most notably in [The Puritans of Venture Capital](https://investing1012dot0.substack.com/p/the-puritans-of-venture-capital):
 
@@ -29,7 +29,7 @@ Both in the responses to my tweet, and in general, this can be a pretty polarizi
 
 For example, one of the most aggressive responses *against* this sentiment came from [Brett Adcock](https://x.com/adcock_brett), the CEO of Figure, an AI robotics company building humanoid robots.
 
-![Source:Twitter](images/mo-money-mo-problems-a3a67b92.png)
+![Source:Twitter](/images/mo-money-mo-problems-a3a67b92.png)
 
 No disrespect to Brett, he seems like a cool guy, and Figure seems awesome. But, in terms of where his incentives lies, he talks about how much Figure has raised right in his [Twitter bio.](https://x.com/adcock_brett)
 
@@ -65,7 +65,7 @@ The important thing to note here is that **these two profit drivers are driven o
 
 # The Size of My... AUM
 
-![Source:YouTube](images/mo-money-mo-problems-eb059677.png)
+![Source:YouTube](/images/mo-money-mo-problems-eb059677.png)
 
 Going back to Brett's argument about AUM, "big multi-billion dollar firms funded SpaceX, therefore the primary virtue is in that firm having a big AUM." Sarah's point is very correct. SpaceX *DID* get started with support from a relatively small fund. AUM is a nuanced number that most people don't understand very well.
 
@@ -105,7 +105,7 @@ But there is a fundamental bottleneck. Not every company can be a really big suc
 
 I think often of a [Twitter AMA](https://x.com/pmarca/status/1493447426878808066) that Marc Andreessen did a couple years ago. One of the questions, in particular, that has always stuck with me, was this one about bottlenecks:
 
-![Source:Twitter](images/mo-money-mo-problems-5e01275e.png)
+![Source:Twitter](/images/mo-money-mo-problems-5e01275e.png)
 
 *"One of the most important questions in the world."* I couldn't agree more. But even before we can get to this incredibly important question, there is a necessary premise to accept; that there *are* bottlenecks to "10x'ing the number of exceptional startups!"
 
@@ -167,7 +167,7 @@ Fewer LPs investing in the asset class is a much surer way to make it harder to 
 
 Do I want more innovation? Absolutely! Do I want bigger and bolder ambition, chasing everything from preventing aging to colonizing the stars to giving everyone all the food, shelter, and happiness they can stand? Undeniably.
 
-![Source:Twitter](images/mo-money-mo-problems-2636fb20.png)
+![Source:Twitter](/images/mo-money-mo-problems-2636fb20.png)
 
 But doing *too much* of anything in pursuit of something good will often lead to the exact opposite of the result you were hoping for.
 

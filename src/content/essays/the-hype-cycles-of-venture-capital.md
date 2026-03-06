@@ -7,13 +7,13 @@ slug: "the-hype-cycles-of-venture-capital"
 type: "newsletter"
 ---
 
-![](images/the-hype-cycles-of-venture-capital-eda819f2.png)
+![](/images/the-hype-cycles-of-venture-capital-eda819f2.png)
 
 Before we had NFTs, the cultural image collecting the world was obsessed with was Pokemon cards. In the early 2000's, I was caught up, like most people my age, collecting them. I had probably spent over $100 (representing a whole lot of mowed lawns and washed cars) to amass a collection of over 500 cards.
 
 One thing I hadn't seen in my career as a Pokemon collector? A holographic card. A kid at school happened to have a holographic Ninetales and was bragging to everyone. How could anyone compete with that?
 
-![](images/the-hype-cycles-of-venture-capital-22288d45.png)
+![](/images/the-hype-cycles-of-venture-capital-22288d45.png)
 
 The fame of this holographic card started to grow as more people heard about it. Apparently, I wasn't the only one that hadn't really seen holographic Pokemon cards before. When I looked at my cards, I realized their brilliance had dimmed in comparison. I couldn't stop thinking about that Ninetales. I had to have it.
 
@@ -31,7 +31,7 @@ Let's reminisce on some hype cycles.
 
 In 2017, companies like Lime and Bird were founded to revolutionize the world of micro-mobility. Seemingly over night, major cities were starting to see armies of electric scooters available for every day users.
 
-![](images/the-hype-cycles-of-venture-capital-57f2c80a.png)
+![](/images/the-hype-cycles-of-venture-capital-57f2c80a.png)
 
 Within a few years these companies had [raised billions](https://www.crunchbase.com/organization/limebike/company_financials/funding_rounds) of dollars from firms like Sequoia, Index, CRV, Coatue, and a16z. Everyone had a thesis on the space; some people making it a big part of their profile as an investor where they were investing in the future of transportation.
 
@@ -39,13 +39,13 @@ In late 2021, amidst the SPAC boom (another trend that became [some investors pe
 
 The company had a valuation of [$2.3B](https://www.pymnts.com/news/ipo/2021/bird-seeks-public-offering-via-spac-2-billion-dollar-valuation/) at IPO. Since then, the company has traded down to a market cap of $96M, 10% of the $800M+ that they raised over the last few years (though still 8x+ their $11M in gross profit). That's a 95%+ drop in one year.
 
-![](images/the-hype-cycles-of-venture-capital-7ef3bb2c.png)
+![](/images/the-hype-cycles-of-venture-capital-7ef3bb2c.png)
 
 ## Social Audio
 
 During the pandemic everyone was trapped at home baking bread and sinking into existential pits. But then a whisper of hope appeared in the Twittersphere. Something better than gold was starting to make the rounds. An invite to [Clubhouse](https://www.clubhouse.com/). The latest social app was listening in on live audio sessions. And if you didn't have an invite? You were missing out on Oprah Winfrey and Ashton Kutcher chatting about who knows what! Some people were [paying $125+](https://medium.datadriveninvestor.com/clubhouse-everything-to-know-about-the-invite-only-social-network-6563cfb019d) just to get an invite to the app.
 
-![](images/the-hype-cycles-of-venture-capital-41b1e016.png)
+![](/images/the-hype-cycles-of-venture-capital-41b1e016.png)
 
 The prospect of a new social platform was exciting; nothing new had really come on the scene since Snap was founded in 2011. And that excitement led to one of the hottest venture rounds anyone had seen in a while. VCs were tripping over each other to invest, calling in favors to celebrities (Obama himself got a call.) It all culminated in a16z leading the company's Series C at a [$4B valuation](https://techcrunch.com/2021/04/19/clubhouse/) in April 2021.
 
@@ -53,7 +53,7 @@ There were some people who saw the hype, and couldn't help but lay out the bear 
 
 Talk about calling your shots. Over the course of the rest of 2021, Clubhouse plummeted in user interest. Other than a massive spike during the summer of 2021 when they finally released an Android app, the download interest hasn’t been nearly as massive.
 
-![Source:Influencer Marketing Hub](images/the-hype-cycles-of-venture-capital-f2c51b51.png)
+![Source:Influencer Marketing Hub](/images/the-hype-cycles-of-venture-capital-f2c51b51.png)
 
 # A Massive Caveat
 
@@ -85,7 +85,7 @@ There is a lot to be said about investors "predicting the future." (Spoiler aler
 
 Like spotting the rise of Mariah Carey's "[All I Want For Christmas](https://www.youtube.com/watch?v=aAkMkVFwAoo)" on October 30th each year.
 
-![](images/the-hype-cycles-of-venture-capital-35f515f6.png)
+![](/images/the-hype-cycles-of-venture-capital-35f515f6.png)
 
 For some people, that's just seeing trends that anyone can see. And in many cases, that's true. There are things that feel obvious to everyone ([like Quibi's target market being skeptical before it even comes out](https://investing1012dot0.substack.com/p/natural-selection-among-startups).) But finding the things that most people don't believe, understanding them better than anyone so that you **can** believe in them, and then investing behind them? That's a magical place.
 

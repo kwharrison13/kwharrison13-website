@@ -7,7 +7,7 @@ slug: "the-renegades-of-venture-capital"
 type: "newsletter"
 ---
 
-![](images/the-renegades-of-venture-capital-7c2871a0.png)
+![](/images/the-renegades-of-venture-capital-7c2871a0.png)
 
 ## Defining The Renegades
 

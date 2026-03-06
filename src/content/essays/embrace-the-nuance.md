@@ -7,7 +7,7 @@ slug: "embrace-the-nuance"
 type: "newsletter"
 ---
 
-![](images/embrace-the-nuance-b04284fb.png)
+![](/images/embrace-the-nuance-b04284fb.png)
 
 I remember being in high school in my English class where we were doing speech and debate. The topic had turned political and one person in particular was taking a very firm stance: "George W. Bush was the greatest president in American history."
 
@@ -59,7 +59,7 @@ Often I think about this idea of the importance of an informed electorate. Peopl
 
 **But the reason Democrats have been so humbled by this election is because of the 20% in the middle who are swayable.** Some will dismiss the swaying as "the other side is more racist than I thought."
 
-![Source:Twitter](images/embrace-the-nuance-302026bf.png)
+![Source:Twitter](/images/embrace-the-nuance-302026bf.png)
 
 But, again, it's more nuanced than that. And BOY were the people in the middle swayed. Across basically every [state](https://x.com/alexisohanian/status/1854163168853098520) and [demographic](https://x.com/asanwal/status/1854299227436056738). Those people who were swayed are the "informed electorate" that leveraged the engine to reflect their will. Thinking about this reminded me of a book, [The Death of Expertise](https://www.amazon.com/Death-Expertise-Campaign-Established-Knowledge/dp/0190469412), that makes this point:
 
@@ -103,7 +103,7 @@ And I think a lot of people may have similar perspectives. They don't like Trump
 
 Joe Rogan is probably the best and loudest example of this.
 
-![](images/embrace-the-nuance-08ce6d6e.png)
+![](/images/embrace-the-nuance-08ce6d6e.png)
 
 After Joe Rogan played a meaningful part in helping to push Trump over the edge, there [were calls](https://x.com/ElieNYC/status/1854095373783990295) for liberals to "build their own Joe Rogan." But Ryan Broderick had a [great thread](https://x.com/broderick/status/1854635794020888916) on how that fundamentally misses the point of who Joe Rogan is.
 

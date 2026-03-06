@@ -7,7 +7,7 @@ slug: "the-value-chain-of-capital"
 type: "newsletter"
 ---
 
-![](images/the-value-chain-of-capital-9fd002a3.png)
+![](/images/the-value-chain-of-capital-9fd002a3.png)
 
 Andrew Stanton, one of the filmmakers at Pixar known for directing Finding Nemo, WALL-E, and more, gave a [TED Talk in 2012](https://youtu.be/KxDwieKpawg?t=14) where he talked about storytelling. At the beginning he tells a story about how an old Scottish man came by his colorful nickname. Now, I won't repeat the story, cause my Mom reads this blog. But give it a listen. And just think about what's in a name, and the story behind it.
 
@@ -21,7 +21,7 @@ Last week, Instacart went public at a $9.9B valuation, down from an all-time-hig
 
 In that video, he shared this break down of the equity return from each of Instacart's funding rounds:
 
-![Source:Twitter](images/the-value-chain-of-capital-a9e3079f.png)
+![Source:Twitter](/images/the-value-chain-of-capital-a9e3079f.png)
 
 The takeaway was that every investment round from the Series C in 2015 to the $39B Series I in 2021 has failed to beat the S&P 500 in terms of returns. And every round since 2018 is basically flat or negative.
 
@@ -31,13 +31,13 @@ But here's the dependency. All of Instacart's funding up to and including the Se
 
 Now, this is just a rough estimate because we don't have visibility into all the cash inflows and outflows over the business's life. But as of yesterday, the company had raised a total of $2.9B in total funding, they had existing debt of $774M, and an ending cash balance of ~$1.8B. **Roughly, that means the company had to burn ~$1.8B to get to the size of business they are today.**
 
-![Source: Koyfin; Crunchbase](images/the-value-chain-of-capital-4e65b87a.png)
+![Source: Koyfin; Crunchbase](/images/the-value-chain-of-capital-4e65b87a.png)
 
 Granted, Instacart also hit [free cash flow positive](https://app.koyfin.com/fa/00000000-1c82-4912-88c6-8689b285ac75/41-h17umz) for the first time in 2022. So I don't even want to make the argument of this business being a cash inferno like others I've written about (like [WeWork](https://investing1012dot0.substack.com/p/the-rise-of-the-cash-man) or [Hopin](https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater)). Instead, the reality is that you can't just "not raise" the capital post-Series B. **Instacart, at least in its current state, needed at least ~$1.8B to generate that return for those early investors.**
 
 The headlines will talk about investors like Sequoia, who invested in Instacart's $8.5M Series A in 2013 at a $75M valuation. That position at the IPO is worth ~$1B (not accounting for dilution and future purchases.) Exceptional by any and every standard! But that's not the whole story. Sequoia has invested [$300M](https://www.cnbc.com/2023/09/15/sequoia-andreessen-set-to-take-massive-hit-on-2021-instacart-investment.html) total to generate a total [~$1.4B](https://www.forbes.com/sites/dereksaul/2023/09/19/here-are-the-big-investor-winners-in-instacarts-11-billion-ipo-debut-and-the-losers/?sh=4f3e15eb4e61) stake. Still a great 5x return. But for that Series I investment at $39B? Not as great in isolation.
 
-![](images/the-value-chain-of-capital-2d4facef.png)
+![](/images/the-value-chain-of-capital-2d4facef.png)
 
 Now, again, I'm not criticizing Sequoia's investment in Instacart. A 5x return on $300M of capital is what dreams are made of. But Sequoia illustrates two things about the value chain of capital that I'll explore more below:
 
@@ -50,7 +50,7 @@ And that's not just true for one excessive 2021 round. Remember that up to the S
 
 # Capital Dependency
 
-![](images/the-value-chain-of-capital-fd22f195.gif)
+![](/images/the-value-chain-of-capital-fd22f195.gif)
 
 A lot of people like to use language like "passing the bag" and "bag holders" to describe the "capital value chain" that I'm outlining. But that isn't necessarily quite right. In crypto, bag holders are often people who are left with nothing, whose investments are the only driver of enrichment for earlier participants in the chain. But that isn't always the case in venture.
 
@@ -72,11 +72,11 @@ During times of economic plenty, you start to feel free from everything. Public 
 
 Early in 2022, when the markets started to correct, I remember seeing [this tweet](https://x.com/mattturck/status/1486733725392117760?s=20) from Matt Turck and it perfectly summed up a lot of the confusion that persisted in the world of venture funding.
 
-![Source:Twitter](images/the-value-chain-of-capital-5be536d0.png)
+![Source:Twitter](/images/the-value-chain-of-capital-5be536d0.png)
 
 This drives home another point of the capital value chain. In a world of plentiful capital, most VCs weren't as focused on what could raise follow on capital. If a psycho with a commercial real estate business can raise $20B, then anyone can raise anything! **But the sudden constraint on capital made VCs realize just how dependent they are on downstream capital.**
 
-![](images/the-value-chain-of-capital-6302677a.png)
+![](/images/the-value-chain-of-capital-6302677a.png)
 
 This dynamic reminded me of a quote that I can't find, but I think is a Charlie Munger-ism. The idea that in public markets, you're not trying to predict what the market will do. You're trying to predict what other people predict the market will do. Howard Marks has [written about this idea](https://www.oaktreecapital.com/insights/memo/the-illusion-of-knowledge) quite a bit, that every forecast would have to account for the reactions of every participant in a market (which is why he hates forecasts):
 
@@ -84,7 +84,7 @@ This dynamic reminded me of a quote that I can't find, but I think is a Charlie 
 
 In venture, the same dynamic exists. But its much less constrained than the entire public market. In private markets, you're primarily focused on understanding what a VC would be willing to pay. And VCs are sort of lemmings; all using the same decision-making heuristics to determine what something is worth.
 
-![Source:Twitter](images/the-value-chain-of-capital-f7b4e800.png)
+![Source:Twitter](/images/the-value-chain-of-capital-f7b4e800.png)
 
 The resulting constraint in capital during this market correction has meant that VCs are becoming more and more “bubble-minded,” focusing on what the next stage of capital will want, not necessarily what the best business might be in the long-run.
 

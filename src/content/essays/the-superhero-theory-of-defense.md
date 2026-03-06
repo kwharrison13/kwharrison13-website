@@ -7,7 +7,7 @@ slug: "the-superhero-theory-of-defense"
 type: "newsletter"
 ---
 
-![](images/the-superhero-theory-of-defense-e0754c2d.png)
+![](/images/the-superhero-theory-of-defense-e0754c2d.png)
 
 In 11th grade, I got punched in the face. I remember vividly walking through the crowded halls of my high school. I saw a kid approaching me who I knew and had even sat next to in my physics class. He was almost skipping towards me. Before I knew it, I was simultaneously hearing him say, "I don't like you motherf\*cker" and seeing his fist connect with the side of my face.
 
@@ -21,7 +21,7 @@ As I am so [wont to do](https://investing1012dot0.substack.com/p/the-hits-busine
 
 # Vision's Conflict Equation
 
-![](images/the-superhero-theory-of-defense-4e3d8bf2.png)
+![](/images/the-superhero-theory-of-defense-4e3d8bf2.png)
 
 I started thinking about unpacking my thoughts here after watching The Incredibles 2 with my daughter (more on that later). But where I landed for my first anchor point was remembering a line from Captain America: Civil War. The governments of the world have proposed mandating oversight of the Avengers in light of some missions gone awry. The line [comes](https://youtu.be/JmjRhmk800U?t=31) from Vision:
 
@@ -99,7 +99,7 @@ See, infrastructure can be used to address conflicts that are understandable and
 
 # Watch The World Burn
 
-![](images/the-superhero-theory-of-defense-dfb546a5.png)
+![](/images/the-superhero-theory-of-defense-dfb546a5.png)
 
 [The Dark Knight](https://en.wikipedia.org/wiki/The_Dark_Knight) is another exceptional example of unpacking particular conflict psychology. In Batman's conflict with the Gotham Mob, they turn to the Joker. Bruce Wayne's analysis of the situation elicits this exceptional conversation with Alfred:
 
@@ -127,7 +127,7 @@ This is not business as usual.
 
 Take Taiwan as just one example. Given the central failure point of the entire semiconductor industry in Taiwan, the economic implications are almost literally unquantifiable. One estimate put the cost of a war over Taiwan at [$10 trillion](https://www.bloomberg.com/news/features/2024-01-09/if-china-invades-taiwan-it-would-cost-world-economy-10-trillion), dwarfing previous economic crashes like the financial crisis or Covid.
 
-![Source:Bloomberg](images/the-superhero-theory-of-defense-859b3329.png)
+![Source:Bloomberg](/images/the-superhero-theory-of-defense-859b3329.png)
 
 As a result, it's clear that "infrastructure" isn't going to cut it in the current conflict environment that we're facing. Economic sanctions against Russia are [pushing them](https://carnegieendowment.org/russia-eurasia/politika/2024/07/china-russia-metal-partners?lang=en) into the arms of the Chinese. Tariffs against Chinese imports or restrictions on things like chips into China are raising tensions. And while some still think we're in the "infrastructure can deal with these matters" territory, I don't think we are. On a panel in January 2024, retired Major General Cameron Holt [said](https://www.youtube.com/watch?v=fONNuTVZHog&t=2s) **“there’s a lot of talk in the press about China. There’s a lot of good speeches about it, [but] frankly, I still don’t believe we’re on a wartime footing.”**
 
@@ -139,7 +139,7 @@ Reflecting on what superheroes like Iron Man, Vision, Mr. Incredible, and Batman
 
 Don't get me wrong, when it comes to veterans, Americans have pretty consistently [held the belief](https://ropercenter.cornell.edu/heros-welcome-american-public-and-attitudes-toward-veterans) that, not only are they heroes, but they deserve more than they get. But the US military, as an amorphous institution, [trust](https://news.gallup.com/poll/509189/confidence-military-lowest-two-decades.aspx) in that institution hasn't been as low as it is now since 1988.
 
-![Source:Gallup](images/the-superhero-theory-of-defense-0fcb0c1c.png)
+![Source:Gallup](/images/the-superhero-theory-of-defense-0fcb0c1c.png)
 
 But the reality goes back to the point that Palmer Luckey made [earlier](https://soundcloud.com/anatomyofnext/palmer-luckey-a-new-defense):
 

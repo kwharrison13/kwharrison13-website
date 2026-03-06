@@ -7,7 +7,7 @@ slug: "contrary-my-renegade-of-choice"
 type: "newsletter"
 ---
 
-![](images/contrary-my-renegade-of-choice-b94883b5.png)
+![](/images/contrary-my-renegade-of-choice-b94883b5.png)
 
 I'm excited to announce that I’m joining Contrary as a General Partner to build out a later stage investing practice. The world of venture is changing and I’m excited to work with the team at Contrary to be a part of that change.
 
@@ -31,7 +31,7 @@ Contrary was built around a key insight **that you can build** **[a lifelong pla
 
 The evolution of venture has bent towards [individuals](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital?s=w). **By building that people-centric platform Contrary can change the way people think about investing in future innovation.**
 
-![](images/contrary-my-renegade-of-choice-d0c3b504.png)
+![](/images/contrary-my-renegade-of-choice-d0c3b504.png)
 
 What does that look like in practice? Contrary represents a community of hundreds of the brightest people in tech everywhere from undergrads to operators with 10+ years of experience. This isn't a scout network. This isn't an internship. **This is a life-long community of people with a bent towards building.**
 
@@ -63,7 +63,7 @@ The creation of Contrary's product offering has revolved around talent, communit
 
 I've written before about the ways that almost every venture fund pitches an offering that all [feel the same.](https://investing1012dot0.substack.com/p/productization?s=w) Having an articulate vision of what we are (and sometimes what we aren't) is how we focus our efforts. **Contrary has a specific flywheel that is built around the points at which we identify the best and brightest.**
 
-![](images/contrary-my-renegade-of-choice-e7a0827d.png)
+![](/images/contrary-my-renegade-of-choice-e7a0827d.png)
 
 Everything we do is about better identifying the brightest people and building product offerings for different phases of their career to most effectively support them. If founders just want cash? We're probably not the best fit. **We think of the members of the Contrary community as our customers just as much as we do our portfolio company founders. Why? Because one day we hope they’ll be both.**
 
@@ -79,4 +79,4 @@ The dynamics of the startup market are forever changing. My decision to join Con
 
 Founders have access to an increasingly detailed collection of best practices. What will always be a difficult process is identifying the right people and helping them find the right problems they're most suited to solve. Regardless of stage or sector. And Contrary is building towards that vision. **It takes a bold builder to tackle the hardest problems. But that isn't a problem for us. We back the bold.**
 
-![](images/contrary-my-renegade-of-choice-ec14bf44.png)
+![](/images/contrary-my-renegade-of-choice-ec14bf44.png)

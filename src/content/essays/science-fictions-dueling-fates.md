@@ -9,11 +9,11 @@ type: "newsletter"
 
 *Quick Announcement: [Contrary Research](https://research.contrary.com/) is hiring for a [Research Analyst](https://contrary.notion.site/Research-Analyst-August-2024-8d3918fd774d418991505ea09f7543bb?pvs=4). To apply, reach out to research@contrary.com. Alright,* on with the show!
 
-![](images/science-fictions-dueling-fates-f06cd285.png)
+![](/images/science-fictions-dueling-fates-f06cd285.png)
 
 I have been coming back to science fiction more and more lately. I first really dug into my thinking in one of my favorite (though not most popular) pieces, [Historical Futurism](https://investing1012dot0.substack.com/p/historical-futurism?utm_source=publication-search) in July 2023. I laid out how I saw the way dreaming about the future shaped the way we lived today. Next, in [Life Imitates Art](https://investing1012dot0.substack.com/p/life-imitates-art?utm_source=publication-search) in April 2024, I reacted to a new sci-fi movie trailer that had bothered me for a movie called [Atlas](https://www.rottentomatoes.com/m/atlas_2024). The movie hadn't come out yet, but my expectations were pretty much met when it did.
 
-![Source:Rotten Tomatoes](images/science-fictions-dueling-fates-8e55eece.png)
+![Source:Rotten Tomatoes](/images/science-fictions-dueling-fates-8e55eece.png)
 
 Today, I'm back at it again. I recently noticed a sci-fi trailer for a movie called [Subservience](https://www.youtube.com/watch?v=z6DLdqf0Bs0). As I was watching it, I realized the plot was very similar to a movie from 1999 that I really like; [Bicentennial Man](https://www.imdb.com/title/tt0182789/). Both start with a family being intrigued by a lifelike new robot that can help around the house. But that's about where the vibes take a dramatic shift.
 
@@ -33,7 +33,7 @@ This stark juxtaposition of these two movies taking a similar concept in *very* 
 
 > *"We're no strangers to dystopian nightmares in our literature. During World War II and the Cold War, there was a fertile ground for dystopian storytelling. But from the 80s to the early 2000s, we took a break from nightmares and lived a pretty good life. Then, things started to change."*
 
-![Source:Electric Lit](images/science-fictions-dueling-fates-51084178.png)
+![Source:Electric Lit](/images/science-fictions-dueling-fates-51084178.png)
 
 I think about this chart all the time. Where we had been slowly recovering fiction from the grips of the dystopian boom during WWII and the Cold War, it suddenly shot back up. This chart correlates the rise to 9/11, and maybe that's the case. In 2016, after Donald Trump's election, books like 1984, Brave New World, It Can't Happen Here, and The Handmaid's Tale all [topped](https://electricliterature.com/the-rise-of-dystopian-fiction-from-soviet-dissidents-to-70s-paranoia-to-murakami/) the charts.
 
@@ -94,7 +94,7 @@ Then, a few years later, I came across [Rainmaker](https://www.linkedin.com/comp
 
 Where's the fiction that is taking practical reality and using that to solve actual problems? "We can't solve XYZ problem because we don't have the money." Can't we at least start by *dreaming* the solution? And granted, we've been inspired by plenty of science fiction. But not always the best versions of it.
 
-![Source:Twitter](images/science-fictions-dueling-fates-fe94bd92.png)
+![Source:Twitter](/images/science-fictions-dueling-fates-fe94bd92.png)
 
 But what about solving actual problems? I read two books this year that represent versions of realistic fiction, though both acting more as cautionary tales, are [Nuclear War: a Scenario](https://www.amazon.com/Nuclear-War-Scenario-Annie-Jacobsen-ebook/dp/B0CBGWMFSN/ref=sr_1_1?crid=35CF1V4YLAPZE&dib=eyJ2IjoiMSJ9.btPtnXTnYHlwft9pjcT5zCYWMErCcM1cl2_bVdZ8lAJRUO8rPXEcx7k3K7HpfgyEQXFd2eCdF8nmmsd5CaLMUhvhHj2_frXc1dgRVGxEBbHWFA74u4Ja7yh6oWYVLA4zaxrWm5OVfu89lBC_dFnRtqv41WsFBiztKXxP1bopAFjaUaACxplOFbCF5PGBpSe_h7mju_kZypCLQsTY-UTrJUL-74QqYqku4kJUCO_rPYE.RIDWpFzRWpQju9dhB4XED6EGtuUgQUtMigkzUs-HNSA&dib_tag=se&keywords=nuclear+war+annie+jacobsen&qid=1723905820&s=books&sprefix=nuclear+war%2Cstripbooks%2C133&sr=1-1) and [2034: A Novel of the Next World War](https://www.amazon.com/2034-Novel-Next-World-War/dp/1984881256). Both are super interesting fictional representations of real world environments; both attached to global conflict.
 
@@ -120,17 +120,17 @@ And make it realistic. Study it out. What *would* it take to execute the "lobbyi
 
 # "I Just Want Us To Be Better"
 
-![Source:Twitter](images/science-fictions-dueling-fates-07d0c411.png)
+![Source:Twitter](/images/science-fictions-dueling-fates-07d0c411.png)
 
 As I was pondering how to end this piece my mind kept coming back to this tweet (or... xeet?) from Mike Solana. I just want us to be amazing. I want us to be better than we are. To dream up amazing fiction to inspire an amazing reality.
 
 I appreciate more and more seeing important people in tech criticize the lack of dreaming going on in our fiction. From Sam Altman decrying Oppenheimer's missed opportunity to inspire a generation of physicists:
 
-![Source:Twitter](images/science-fictions-dueling-fates-3ebe3dab.png)
+![Source:Twitter](/images/science-fictions-dueling-fates-3ebe3dab.png)
 
 To Beff Jezos acknowledging the threat posed by "doomers and their art."
 
-![Source:Twitter](images/science-fictions-dueling-fates-a274128f.png)
+![Source:Twitter](/images/science-fictions-dueling-fates-a274128f.png)
 
 We can dream up better solutions. We can spend more time leveraging fiction, with all its unfettered intellectual capabilities, to tackle the problems facing our world. **I want Tolkien-level world-building. His [Legendarium](https://en.wikipedia.org/wiki/Tolkien%27s_legendarium) alone, which was just his expositional world-building resource, was 1.5 million words!** More than 10% of Tolkien's writing was *just* to add thoughtful context to his work.
 

@@ -7,7 +7,7 @@ slug: "the-sine-waves-of-creativity"
 type: "newsletter"
 ---
 
-![](images/the-sine-waves-of-creativity-73aaa1df.png)
+![](/images/the-sine-waves-of-creativity-73aaa1df.png)
 
 This week marks the 126th week in a row I've written something on Substack. And I'm the first person to say they're not all winners. But when I started writing at the beginning of 2022, I knew that I would fail if I was too focused on the quality of writing, or the response online. So I set only one goal. Don't miss a week. And thus far I haven't.
 
@@ -17,7 +17,7 @@ My pattern is consistent, albeit wanting. Every week, I help put together the [C
 
 This week was no different. I was sort of dreading figuring out what I was going to write. I wandered through a massive list of topics I’ve wanted to cover.
 
-![](images/the-sine-waves-of-creativity-9ad4a000.png)
+![](/images/the-sine-waves-of-creativity-9ad4a000.png)
 
 And while I was wandering I found a topic I'd had on my list for quite a while. I started to dig into some of the links and videos I'd saved. And I realized that this was actually a topic I happened to write about once a year, every year, right around this time of year! And it really was something I'd been thinking a lot about the last few weeks. It was fascinating to see that my brain had these patterns.
 

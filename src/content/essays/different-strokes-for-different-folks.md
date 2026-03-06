@@ -7,7 +7,7 @@ slug: "different-strokes-for-different-folks"
 type: "newsletter"
 ---
 
-![](images/different-strokes-for-different-folks-4c5a2e10.png)
+![](/images/different-strokes-for-different-folks-4c5a2e10.png)
 
 This week, two new fund announcements caught my eye.
 

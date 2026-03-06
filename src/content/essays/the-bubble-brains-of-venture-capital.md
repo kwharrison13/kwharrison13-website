@@ -7,7 +7,7 @@ slug: "the-bubble-brains-of-venture-capital"
 type: "newsletter"
 ---
 
-![](images/the-bubble-brains-of-venture-capital-5cd6edd8.png)
+![](/images/the-bubble-brains-of-venture-capital-5cd6edd8.png)
 
 I recently stumbled on a new Netflix show called "[The Fall of the House of Usher](https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries))." I haven't finished the show, so I can't speak to the whole series. But one interaction really struck me.
 
@@ -55,7 +55,7 @@ Inputs can be anything from the media you read, watch, or listen to, to the conv
 
 Take just one, albeit incredibly volatile and controversial, example of an input: TikTok. I really appreciated a thread I saw a few weeks ago from Jeff Morris as he tried to understand the feelings that a lot of young Americans are having about Hamas and Israel.
 
-![Source:Twitter](images/the-bubble-brains-of-venture-capital-26f31df0.png)
+![Source:Twitter](/images/the-bubble-brains-of-venture-capital-26f31df0.png)
 
 The first trigger for me was [this statistic](https://x.com/jmj/status/1717404576096166290?s=20): "51% of Americans ages 18-24 believe Hamas (terrorists who raped & murdered innocent women & children) believe Hamas was justified." If that doesn’t make you want to question and change things, I don’t know what will. Jeff makes the point that TikTok has become the primary search engine and source of news for younger people. When you consider the implications of that, it's terrifying.
 

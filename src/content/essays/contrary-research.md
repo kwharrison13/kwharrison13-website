@@ -7,7 +7,7 @@ slug: "contrary-research"
 type: "newsletter"
 ---
 
-![](images/contrary-research-e95eb444.jpg)
+![](/images/contrary-research-e95eb444.jpg)
 
 Back in September [I announced](https://investing1012dot0.substack.com/p/open-source-knowledge) the launch of a new project I had been building: [Contrary Research](http://research.contrary.com). **This past week, less than 6 months in, we hit a big milestone! We launched our 100th memo.** We’ve written about companies like [OpenAI](https://research.contrary.com/reports/openai), [Ramp](https://research.contrary.com/reports/ramp), [Hugging Face](https://research.contrary.com/reports/hugging-face), [Anduril](https://research.contrary.com/reports/anduril) and a ton more. You can see all of our reports [here](https://research.contrary.com/reports).
 
@@ -22,6 +22,6 @@ Each week we share a couple of different things:
 - A rundown of the most interesting research, analysis, and commentary that we’ve been reading
 - The latest events from Contrary Research (including an [upcoming webinar](https://lu.ma/s7xz0t9z) on Building Customer Love with panelists from Sourcegraph, Vercel, and HashiCorp)
 
-![](images/contrary-research-f3fad5f6.jpg)
+![](/images/contrary-research-f3fad5f6.jpg)
 
 Either way, you can still expect a weekly post from me on the art and science of building and investing in tech companies. But would love to share our work with you from Contrary Research as well!

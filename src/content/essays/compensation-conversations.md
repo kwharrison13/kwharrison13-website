@@ -7,7 +7,7 @@ slug: "compensation-conversations"
 type: "newsletter"
 ---
 
-![](images/compensation-conversations-6348256c.png)
+![](/images/compensation-conversations-6348256c.png)
 
 In 2006 Facebook was two years old and had only just expanded [beyond college students](https://www.britannica.com/topic/Facebook). Google was eight years old but had only barely crossed [200 billlion searches](https://www.internetlivestats.com/google-search-statistics/) (vs 2 trillion today). That same year a well-known marketing expert named Clive Humbly gave [a talk](https://ana.blogs.com/maestros/2006/11/data_is_the_new.html) called "Data is the new oil."
 
@@ -27,7 +27,7 @@ If data is the new oil then the "oil industry" is booming. Companies are estimat
 
 In the simplest sense when you think about the types of data a tech company requires to be successful they typically fall into a few internal and external buckets.
 
-![](images/compensation-conversations-4a445e18.png)
+![](/images/compensation-conversations-4a445e18.png)
 
 First, you typically have a product. So internally you need to understand how your product is built and performing, and externally you need to understand how your users are interacting with it. When it comes to the operations of your business you're tracking data around your financial performance (typically non-person related) and the humans involved in building your business (very person related).
 
