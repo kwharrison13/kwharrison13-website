@@ -9,6 +9,10 @@ const interests = [
 ---
 
 <BaseLayout title="About" currentPage="about">
+  <div class="about-banner">
+    <img src="/family.webp" alt="The Harrison family" loading="lazy" />
+  </div>
+
   <h1 class="page-title">About</h1>
   <p class="page-subtitle">Research · Capital · Ideas</p>
 
@@ -33,9 +37,5 @@ const interests = [
     <div class="badge-row">
       {interests.map((t) => <span class="badge">{t}</span>)}
     </div>
-  </div>
-
-  <div class="about-photo">
-    <img src="/family.webp" alt="The Harrison family" loading="lazy" />
   </div>
 </BaseLayout>

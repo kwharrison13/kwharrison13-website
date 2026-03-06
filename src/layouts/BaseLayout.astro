@@ -185,6 +185,18 @@ const { title, currentPage } = Astro.props;
         sidebar.classList.toggle('open');
       });
     }
+
+    // ─── Quote Carousel ──────────────────────────────
+    const carousel = document.getElementById('epigraph-carousel');
+    if (carousel) {
+      const quotes = carousel.querySelectorAll('.epigraph');
+      let current = 0;
+      setInterval(() => {
+        quotes[current].classList.remove('active');
+        current = (current + 1) % quotes.length;
+        quotes[current].classList.add('active');
+      }, 6000);
+    }
   </script>
 </body>
 </html>
