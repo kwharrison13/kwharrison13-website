@@ -4,9 +4,11 @@ const essays = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
-    date: z.string(),
-    tag: z.string(),
-    excerpt: z.string(),
+    date: z.coerce.string(),
+    tags: z.array(z.string()).optional(),
+    excerpt: z.string().optional(),
+    slug: z.string().optional(),
+    type: z.string().optional(),
   }),
 });
 
