@@ -11,34 +11,17 @@ import booksData from '../data/books.json';
   </p>
   <div class="section-divider"></div>
 
-  {booksData.map((book) => (
-    <div class="book-item" data-isbn={book.isbn} data-title={book.title}>
-      <img
-        class="book-cover-img"
-        src=""
-        alt={book.title}
-        loading="lazy"
-      />
+  {booksData.map((book, i) => (
+    <div class="book-item">
+      {book.cover ? (
+        <img class="book-cover-img" src={book.cover} alt={book.title} loading="lazy" />
+      ) : (
+        <div class="book-cover" style={`background: linear-gradient(135deg, hsl(${355 + i * 20}, 55%, 38%) 0%, hsl(${355 + i * 20}, 45%, 25%) 100%);`}></div>
+      )}
       <div>
         <div class="book-title">{book.title}</div>
         <div class="book-author">{book.author}</div>
       </div>
     </div>
   ))}
-
-  <script is:inline>
-    document.querySelectorAll('.book-item[data-isbn]').forEach(async (el) => {
-      const isbn = el.dataset.isbn;
-      const title = el.dataset.title;
-      const img = el.querySelector('.book-cover-img');
-      const query = isbn ? `isbn:${isbn}` : encodeURIComponent(title);
-      try {
-        const res = await fetch(`https://www.googleapis.com/books/v1/volumes?q=${query}&maxResults=1`);
-        const data = await res.json();
-        if (data.items && data.items[0]?.volumeInfo?.imageLinks?.thumbnail) {
-          img.src = data.items[0].volumeInfo.imageLinks.thumbnail.replace('http://', 'https://');
-        }
-      } catch {}
-    });
-  </script>
 </BaseLayout>

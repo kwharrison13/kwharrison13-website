@@ -1,8 +1,8 @@
 [
-  { "title": "John Quincy Adams: Militant Spirit", "author": "James Traub", "isbn": "9780465028276" },
-  { "title": "Poor Charlie's Almanack", "author": "Peter Kaufman (Editor)", "isbn": "9781578645015" },
-  { "title": "Reinventing Knowledge: From Alexandria to the Internet", "author": "Ian F. McNeely & Lisa Wolverton", "isbn": "9780393065060" },
-  { "title": "The Courage To Be Disliked", "author": "Ichiro Kishimi & Fumitake Koga", "isbn": "9781501197277" },
-  { "title": "The Good Earth", "author": "Pearl S. Buck", "isbn": "9781476735474" },
-  { "title": "Leap of Faith", "author": "Bob Bennett", "isbn": "9781609079901" }
+  { "title": "John Quincy Adams: Militant Spirit", "author": "James Traub", "cover": "https://books.google.com/books/content?id=aRWECgAAQBAJ&printsec=frontcover&img=1&zoom=1" },
+  { "title": "Poor Charlie's Almanack", "author": "Peter Kaufman (Editor)", "cover": "https://books.google.com/books/content?id=O6hbzgEACAAJ&printsec=frontcover&img=1&zoom=1" },
+  { "title": "Reinventing Knowledge: From Alexandria to the Internet", "author": "Ian F. McNeely & Lisa Wolverton", "cover": "https://books.google.com/books/content?id=9DhFDwAAQBAJ&printsec=frontcover&img=1&zoom=1" },
+  { "title": "The Courage To Be Disliked", "author": "Ichiro Kishimi & Fumitake Koga", "cover": "https://books.google.com/books/content?id=ZZtKDwAAQBAJ&printsec=frontcover&img=1&zoom=1" },
+  { "title": "The Good Earth", "author": "Pearl S. Buck", "cover": "https://books.google.com/books/content?id=2SMqCgAAQBAJ&printsec=frontcover&img=1&zoom=1" },
+  { "title": "Leap of Faith", "author": "Bob Bennett", "cover": "https://books.google.com/books/content?id=yfomtAEACAAJ&printsec=frontcover&img=1&zoom=1" }
 ]
