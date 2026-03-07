@@ -12,10 +12,10 @@ import booksData from '../data/books.json';
   <div class="section-divider"></div>
 
   {booksData.map((book) => (
-    <div class="book-item">
+    <div class="book-item" data-isbn={book.isbn} data-title={book.title}>
       <img
         class="book-cover-img"
-        src={book.isbn ? `https://covers.openlibrary.org/b/isbn/${book.isbn}-M.jpg` : `https://covers.openlibrary.org/b/title/${encodeURIComponent(book.title)}-M.jpg`}
+        src=""
         alt={book.title}
         loading="lazy"
       />
@@ -25,4 +25,20 @@ import booksData from '../data/books.json';
       </div>
     </div>
   ))}
+
+  <script is:inline>
+    document.querySelectorAll('.book-item[data-isbn]').forEach(async (el) => {
+      const isbn = el.dataset.isbn;
+      const title = el.dataset.title;
+      const img = el.querySelector('.book-cover-img');
+      const query = isbn ? `isbn:${isbn}` : encodeURIComponent(title);
+      try {
+        const res = await fetch(`https://www.googleapis.com/books/v1/volumes?q=${query}&maxResults=1`);
+        const data = await res.json();
+        if (data.items && data.items[0]?.volumeInfo?.imageLinks?.thumbnail) {
+          img.src = data.items[0].volumeInfo.imageLinks.thumbnail.replace('http://', 'https://');
+        }
+      } catch {}
+    });
+  </script>
 </BaseLayout>
