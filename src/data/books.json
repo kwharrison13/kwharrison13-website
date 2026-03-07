@@ -1,8 +1,8 @@
 [
-  { "title": "John Quincy Adams: Militant Spirit", "author": "James Traub", "cover": "https://books.google.com/books/content?id=aRWECgAAQBAJ&printsec=frontcover&img=1&zoom=1" },
-  { "title": "Poor Charlie's Almanack", "author": "Peter Kaufman (Editor)", "cover": "https://books.google.com/books/content?id=O6hbzgEACAAJ&printsec=frontcover&img=1&zoom=1" },
-  { "title": "Reinventing Knowledge: From Alexandria to the Internet", "author": "Ian F. McNeely & Lisa Wolverton", "cover": "https://books.google.com/books/content?id=9DhFDwAAQBAJ&printsec=frontcover&img=1&zoom=1" },
-  { "title": "The Courage To Be Disliked", "author": "Ichiro Kishimi & Fumitake Koga", "cover": "https://books.google.com/books/content?id=ZZtKDwAAQBAJ&printsec=frontcover&img=1&zoom=1" },
-  { "title": "The Good Earth", "author": "Pearl S. Buck", "cover": "https://books.google.com/books/content?id=2SMqCgAAQBAJ&printsec=frontcover&img=1&zoom=1" },
-  { "title": "Leap of Faith", "author": "Bob Bennett", "cover": "https://books.google.com/books/content?id=yfomtAEACAAJ&printsec=frontcover&img=1&zoom=1" }
+  { "title": "John Quincy Adams: Militant Spirit", "author": "James Traub", "cover": "/images/books/john quincy adams.jpeg" },
+  { "title": "Poor Charlie's Almanack", "author": "Peter Kaufman (Editor)", "cover": "/images/books/poor charlies almanack.webp" },
+  { "title": "Reinventing Knowledge: From Alexandria to the Internet", "author": "Ian F. McNeely & Lisa Wolverton", "cover": "/images/books/reinventing knkowledge.jpeg" },
+  { "title": "The Courage To Be Disliked", "author": "Ichiro Kishimi & Fumitake Koga", "cover": "/images/books/courage to be disliked.webp" },
+  { "title": "The Good Earth", "author": "Pearl S. Buck", "cover": "/images/books/good earth.jpeg" },
+  { "title": "Leap of Faith", "author": "Bob Bennett", "cover": "/images/books/leap of faith.jpeg" }
 ]
