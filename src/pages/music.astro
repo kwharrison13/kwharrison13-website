@@ -1,8 +1,363 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import PlaceholderPage from '../components/PlaceholderPage.astro';
 ---
 
 <BaseLayout title="Music" currentPage="music">
-  <PlaceholderPage icon="♫" pageTitle="Music" description="Playlists and albums that fuel the work." />
+  <h1 class="page-title">My Music</h1>
+  <p class="page-subtitle">
+    Not that kind of music. This is an archive of my guiding principles — the ideas that are true regardless of my circumstances.
+  </p>
+
+  <!-- Origin Story -->
+  <div class="music-origin">
+    <p class="music-prose">
+      When I was finishing up a mission for <a href="https://www.churchofjesuschrist.org/" target="_blank" rel="noreferrer">The Church of Jesus Christ of Latter-Day Saints</a>, I was listening to a sermon when I heard this phrase:
+    </p>
+    <blockquote class="music-blockquote">
+      "Don't die with your music still in you."
+    </blockquote>
+    <div class="music-video">
+      <iframe
+        width="100%"
+        height="400"
+        src="https://www.youtube.com/embed/fJH2xgLMkPg"
+        title="The Power of the Priesthood in the Boy"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        style="border-radius: var(--radius);"
+      ></iframe>
+    </div>
+    <p class="music-prose">
+      That phrase has always stuck with me no matter what experience is taking up the focus of my life. I walked away from that with an intense desire to take what I've learned and make sure it gets heard. Not just for me to make sure I get my moment, but to leave what I've learned to future generations.
+    </p>
+    <p class="music-prose">
+      This page is an opportunity for me to look back at the times when I've captured "my music," the things I want to leave behind for others. This is also an archive for me to capture the ideas that are true regardless of my circumstances. My guiding principles.
+    </p>
+  </div>
+
+  <div class="section-divider"></div>
+
+  <!-- My Principles -->
+  <h2 class="section-heading">My Principles</h2>
+  <div class="section-divider"></div>
+
+  <!-- Principle 1 -->
+  <div class="principle-card">
+    <div class="principle-quote">"Whatever you are, be a good one."</div>
+    <div class="principle-attribution">— Abraham Lincoln</div>
+    <p class="principle-context">
+      The first time I heard this was actually in <a href="https://www.youtube.com/watch?v=ZMBJMsHEmQA" target="_blank" rel="noreferrer">a joke by Mike Birbiglia</a> <em>specifically</em> pointing out how it was a stupid quote. But the more I've thought about it, the more it resonates with me. I don't want to be the person who has biased expectations of what people should or shouldn't be. Whatever you want to be, you should strive to excel at that thing and become the very best you can.
+    </p>
+    <a class="tweet-card" href="https://x.com/MrBeast/status/1768431267505213672" target="_blank" rel="noreferrer">
+      <div class="tweet-header">
+        <div class="tweet-avatar">🟣</div>
+        <div class="tweet-user">
+          <span class="tweet-name">MrBeast</span>
+          <span class="tweet-handle">@MrBeast</span>
+        </div>
+        <svg class="tweet-x-logo" viewBox="0 0 24 24" width="18" height="18"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" fill="currentColor"/></svg>
+      </div>
+      <p class="tweet-text">It's painful to see people quit their job/drop out of school to make content full time before they're ready. For every person like me that makes it, thousands don't. Keep that in mind and be smart plz</p>
+      <span class="tweet-date">5:17 PM · Mar 14, 2024</span>
+    </a>
+  </div>
+
+  <!-- Principle 2 -->
+  <div class="principle-card">
+    <div class="principle-quote">"Don't rain on somebody's hustle."</div>
+    <div class="principle-attribution">— Alex Spencer</div>
+    <p class="principle-context">
+      I wrote an article called <a href="/essays/building-customer-love">Is The Lean Startup a Stupid Way to Start a Company?</a> where I critiqued a book that I disagreed with. A friend of mine, Alex Spencer, mentioned that he didn't disagree with me, but that he tried never to "rain on someone's hustle" when they're working hard towards something. Interesting debate between constructive criticism vs. "raining on someone's hustle."
+    </p>
+  </div>
+
+  <!-- Principle 3 -->
+  <div class="principle-card">
+    <div class="principle-quote">"You don't have to blow out the other person's candle to let your own shine."</div>
+    <div class="principle-attribution">— Larry H. Miller</div>
+    <p class="principle-context">
+      First read this in Larry H. Miller's autobiography, <em>Driven</em>. Similar to the one above, but it goes deeper into the "why" behind not feeling like life is a zero sum game. Much of life is, in fact, a non-zero sum game. Something I've <a href="/essays/the-non-zero-sum-game-of-ambition">written about before</a>.
+    </p>
+  </div>
+
+  <!-- Principle 4 -->
+  <div class="principle-card">
+    <div class="principle-quote">"Prepare for the worst, and expect the best to come from it."</div>
+    <div class="principle-attribution">— Lori Harrison</div>
+    <p class="principle-context">
+      When I was a senior in high school I ran for Student Body President. My Mom helped me work hard to prepare, to campaign, to talk with people, and position myself well. The result of the election was going to be announced in a big assembly in front of the whole school. My Mom told me that if I lost, I could just slip out the back and we could go to lunch. That wasn't a lack of faith in my ability to win. It was a conscious decision to understand all the possible outcomes and put in place a good plan.
+    </p>
+    <blockquote class="music-blockquote" style="margin-top: 16px;">
+      "Anticipating problems and figuring out how to solve them is actually the opposite of worrying: it's productive."
+      <span class="blockquote-attr">— Chris Hadfield</span>
+    </blockquote>
+    <a class="tweet-card" href="https://x.com/paulg/status/1376078468681715712" target="_blank" rel="noreferrer">
+      <div class="tweet-header">
+        <div class="tweet-avatar">🟠</div>
+        <div class="tweet-user">
+          <span class="tweet-name">Paul Graham</span>
+          <span class="tweet-handle">@paulg</span>
+        </div>
+        <svg class="tweet-x-logo" viewBox="0 0 24 24" width="18" height="18"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" fill="currentColor"/></svg>
+      </div>
+      <p class="tweet-text">"Hope for the best and plan for the worst" is a good principle but a bit too passive for startup founders. For founders it should be more like "Try for the best but be prepared for the worst that can happen en route."</p>
+      <span class="tweet-date">12:47 AM · Mar 28, 2021</span>
+    </a>
+  </div>
+
+  <!-- Principle 5 -->
+  <div class="principle-card">
+    <div class="principle-quote">"Don't look for a partner in someone who completes you or who needs you to complete them. Be two complete people who love being around each other."</div>
+    <div class="principle-attribution">— Lori Harrison</div>
+    <p class="principle-context">
+      I have seen this be true both in finding a spouse and in working relationships.
+    </p>
+  </div>
+
+  <!-- Principle 6 -->
+  <div class="principle-card">
+    <div class="principle-quote">"Don't look to complain. Look to improve."</div>
+    <div class="principle-attribution">— Clint Topham</div>
+
+    <a class="tweet-card" href="https://x.com/Austen/status/1379937235022225408" target="_blank" rel="noreferrer">
+      <div class="tweet-header">
+        <div class="tweet-avatar">🔵</div>
+        <div class="tweet-user">
+          <span class="tweet-name">Austen Allred</span>
+          <span class="tweet-handle">@Austen</span>
+        </div>
+        <svg class="tweet-x-logo" viewBox="0 0 24 24" width="18" height="18"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" fill="currentColor"/></svg>
+      </div>
+      <p class="tweet-text">Saying, "We need to get rid of x; it's bad" is very easy.
+
+Coming up with a superior replacement for x is usually incredibly difficult.</p>
+      <span class="tweet-date">4:20 PM · Apr 7, 2021</span>
+    </a>
+
+    <a class="tweet-card" href="https://x.com/BrentBeshore/status/1688881144865886208" target="_blank" rel="noreferrer">
+      <div class="tweet-header">
+        <div class="tweet-avatar">🟢</div>
+        <div class="tweet-user">
+          <span class="tweet-name">Brent Beshore</span>
+          <span class="tweet-handle">@BrentBeshore</span>
+        </div>
+        <svg class="tweet-x-logo" viewBox="0 0 24 24" width="18" height="18"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" fill="currentColor"/></svg>
+      </div>
+      <p class="tweet-text">C Players: "This is broken. Someone should fix it."
+
+B Players: "This is broken. Do you want me to start working on fixing it?"
+
+A Players: "This broke. I fixed it, recruited someone to be responsible for it, and created a process for others to more easily fix it in the future."</p>
+      <span class="tweet-date">4:53 AM · Aug 8, 2023</span>
+    </a>
+
+    <a class="tweet-card" href="https://x.com/terronk/status/1683940737451454464" target="_blank" rel="noreferrer">
+      <div class="tweet-header">
+        <div class="tweet-avatar">🟤</div>
+        <div class="tweet-user">
+          <span class="tweet-name">Lee Edwards</span>
+          <span class="tweet-handle">@terronk</span>
+        </div>
+        <svg class="tweet-x-logo" viewBox="0 0 24 24" width="18" height="18"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" fill="currentColor"/></svg>
+      </div>
+      <p class="tweet-text">Me: Here's an idea.
+Dumbass: What about this downside/cost?
+M: That's real. Do you think it's worse than the upside?
+DA: No
+M: Do you have an alternative?
+DA: No
+M: Does the problem need a solution?
+DA: Yes
+M: …
+
+There needs to be a word for this particular kind of stfu.</p>
+      <span class="tweet-date">1:42 PM · Jul 25, 2023</span>
+    </a>
+
+    <a class="tweet-card" href="https://x.com/ValaAfshar/status/1808166096752586894" target="_blank" rel="noreferrer">
+      <div class="tweet-header">
+        <div class="tweet-avatar">⚪</div>
+        <div class="tweet-user">
+          <span class="tweet-name">Vala Afshar</span>
+          <span class="tweet-handle">@ValaAfshar</span>
+        </div>
+        <svg class="tweet-x-logo" viewBox="0 0 24 24" width="18" height="18"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" fill="currentColor"/></svg>
+      </div>
+      <p class="tweet-text">Complaining is not a strategy.</p>
+      <span class="tweet-date">8:49 AM · Jul 2, 2024</span>
+    </a>
+  </div>
+
+  <!-- Principle 7 -->
+  <div class="principle-card">
+    <div class="principle-quote">"How many times have you done it? If it isn't millions, it isn't enough."</div>
+    <div class="principle-attribution">— Dax Harrison</div>
+    <p class="principle-context">
+      When I talk to my kids, we often talk about how many times you have to try something before you get good at it. Dax settled on the number "millions," so that's how we stay resilient.
+    </p>
+    <a class="tweet-card" href="https://x.com/visakanv/status/1330984685992722433" target="_blank" rel="noreferrer">
+      <div class="tweet-header">
+        <div class="tweet-avatar">🟡</div>
+        <div class="tweet-user">
+          <span class="tweet-name">Visakan Veerasamy</span>
+          <span class="tweet-handle">@visakanv</span>
+        </div>
+        <svg class="tweet-x-logo" viewBox="0 0 24 24" width="18" height="18"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" fill="currentColor"/></svg>
+      </div>
+      <p class="tweet-text">1. Do it 100 times.
+
+Write 100 songs, cook 100 omelettes, talk to 100 people. It never seems like a huge deal until you try it yourself. It's manageable, and yet it stretches you, and you'll be observably different at the end of it.
+
+Effective way to get a foothold on a new thing</p>
+      <span class="tweet-date">1:24 PM · Nov 23, 2020</span>
+    </a>
+  </div>
+
 </BaseLayout>
+
+<style>
+  /* Music page prose */
+  .music-prose {
+    font-size: 15px;
+    color: var(--text-secondary);
+    line-height: 1.7;
+    margin-bottom: 16px;
+  }
+  .music-prose a {
+    color: var(--accent);
+    text-decoration: underline;
+  }
+
+  /* Blockquote */
+  .music-blockquote {
+    border-left: 3px solid var(--accent);
+    padding: 12px 20px;
+    margin: 20px 0;
+    font-family: var(--font-display);
+    font-size: 20px;
+    font-style: italic;
+    color: var(--text);
+    line-height: 1.5;
+  }
+  .blockquote-attr {
+    display: block;
+    font-size: 14px;
+    font-style: normal;
+    color: var(--text-tertiary);
+    margin-top: 8px;
+    font-family: var(--font-body);
+  }
+
+  /* YouTube embed */
+  .music-video {
+    margin: 24px 0;
+    border-radius: var(--radius);
+    overflow: hidden;
+    border: 1px solid var(--border);
+  }
+  .music-video iframe {
+    display: block;
+  }
+
+  /* Principle cards */
+  .principle-card {
+    padding: 24px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .principle-card:last-child {
+    border-bottom: none;
+  }
+  .principle-quote {
+    font-family: var(--font-display);
+    font-size: 19px;
+    font-weight: 500;
+    color: var(--text);
+    line-height: 1.4;
+    margin-bottom: 4px;
+  }
+  .principle-attribution {
+    font-size: 13px;
+    color: var(--text-tertiary);
+    margin-bottom: 12px;
+  }
+  .principle-context {
+    font-size: 14.5px;
+    color: var(--text-secondary);
+    line-height: 1.7;
+    margin-bottom: 16px;
+  }
+  .principle-context a {
+    color: var(--accent);
+    text-decoration: underline;
+  }
+  .principle-context em {
+    font-style: italic;
+  }
+
+  /* Fake tweet cards */
+  .tweet-card {
+    display: block;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px;
+    margin: 12px 0;
+    text-decoration: none;
+    color: var(--text);
+    transition: all 0.15s ease;
+    cursor: pointer;
+  }
+  .tweet-card:hover {
+    border-color: var(--accent);
+    box-shadow: var(--shadow-md);
+  }
+  .tweet-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+  .tweet-avatar {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: var(--tag-bg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    flex-shrink: 0;
+  }
+  .tweet-user {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-width: 0;
+  }
+  .tweet-name {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text);
+    line-height: 1.2;
+  }
+  .tweet-handle {
+    font-size: 13px;
+    color: var(--text-tertiary);
+  }
+  .tweet-x-logo {
+    color: var(--text-tertiary);
+    flex-shrink: 0;
+  }
+  .tweet-text {
+    font-size: 14.5px;
+    color: var(--text);
+    line-height: 1.55;
+    white-space: pre-line;
+    margin-bottom: 8px;
+  }
+  .tweet-date {
+    font-size: 12.5px;
+    color: var(--text-tertiary);
+  }
+</style>
