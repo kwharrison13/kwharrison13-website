@@ -1,8 +1,77 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import PlaceholderPage from '../components/PlaceholderPage.astro';
 ---
 
 <BaseLayout title="Videos" currentPage="videos">
-  <PlaceholderPage icon="▶" pageTitle="Videos" description="Talks, interviews, and visual essays." />
+  <h1 class="page-title">Videos</h1>
+  <p class="page-subtitle">
+    Making videos is a critical part of my story. I was never very good at making them but I wouldn't be where I am without them.
+  </p>
+  <div class="section-divider"></div>
+
+  <div class="video-grid">
+    <div class="video-item">
+      <div class="video-embed">
+        <iframe
+          src="https://www.youtube.com/embed/BLSiw66Ak1g"
+          title="Video 1"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </div>
+
+    <div class="video-item">
+      <div class="video-embed">
+        <iframe
+          src="https://www.youtube.com/embed/HW7VOWU-CM0"
+          title="Video 2"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </div>
+
+    <div class="video-item">
+      <div class="video-embed">
+        <iframe
+          src="https://www.youtube.com/embed/AEP7Vh6Rwk4"
+          title="Video 3"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </div>
+  </div>
+
 </BaseLayout>
+
+<style>
+  .video-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+  .video-item {
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    background: var(--bg-card);
+  }
+  .video-embed {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+  }
+  .video-embed iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
