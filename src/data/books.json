@@ -1,8 +1,54 @@
-[
-  { "title": "John Quincy Adams: Militant Spirit", "author": "James Traub", "cover": "/images/books/john quincy adams.jpeg" },
-  { "title": "Poor Charlie's Almanack", "author": "Peter Kaufman (Editor)", "cover": "/images/books/poor charlies almanack.webp" },
-  { "title": "Reinventing Knowledge: From Alexandria to the Internet", "author": "Ian F. McNeely & Lisa Wolverton", "cover": "/images/books/reinventing knkowledge.jpeg" },
-  { "title": "The Courage To Be Disliked", "author": "Ichiro Kishimi & Fumitake Koga", "cover": "/images/books/courage to be disliked.webp" },
-  { "title": "The Good Earth", "author": "Pearl S. Buck", "cover": "/images/books/good earth.jpeg" },
-  { "title": "Leap of Faith", "author": "Bob Bennett", "cover": "/images/books/leap of faith.jpeg" }
-]
+{
+  "quake_books": [
+    {
+      "title": "John Quincy Adams: Militant Spirit",
+      "author": "James Traub",
+      "cover": "/images/books/john quincy adams.jpeg",
+      "year_read": 2023,
+      "tags": []
+    },
+    {
+      "title": "Poor Charlie's Almanack",
+      "author": "Peter Kaufman (Editor)",
+      "cover": "/images/books/poor charlies almanack.webp",
+      "year_read": 2020,
+      "tags": []
+    },
+    {
+      "title": "Reinventing Knowledge: From Alexandria to the Internet",
+      "author": "Ian F. McNeely & Lisa Wolverton",
+      "cover": "/images/books/reinventing knkowledge.jpeg",
+      "year_read": 2022,
+      "tags": []
+    },
+    {
+      "title": "The Courage To Be Disliked",
+      "author": "Ichiro Kishimi & Fumitake Koga",
+      "cover": "/images/books/courage to be disliked.webp",
+      "year_read": 2021,
+      "tags": []
+    },
+    {
+      "title": "The Good Earth",
+      "author": "Pearl S. Buck",
+      "cover": "/images/books/good earth.jpeg",
+      "year_read": 2019,
+      "tags": []
+    },
+    {
+      "title": "Leap of Faith",
+      "author": "Bob Bennett",
+      "cover": "/images/books/leap of faith.jpeg",
+      "year_read": 2018,
+      "tags": []
+    }
+  ],
+  "library": {
+    "2025": [],
+    "2024": [],
+    "2023": [],
+    "2022": [],
+    "2021": [],
+    "2020": []
+  }
+}
