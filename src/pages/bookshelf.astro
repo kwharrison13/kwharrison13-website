@@ -3,13 +3,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import booksData from '../data/books.json';
 
 const quakeBooks = booksData.quake_books;
-const library = booksData.library;
+const library = booksData.library as Record<string, any[]>;
 const yearKeys = Object.keys(library).sort((a, b) => Number(b) - Number(a));
 
-// Collect all tags across all books in all years
 const allTags: Record<string, { title: string; author: string; year: string }[]> = {};
 for (const [year, books] of Object.entries(library)) {
-  for (const book of books as any[]) {
+  for (const book of books) {
     if (book.tags) {
       for (const tag of book.tags) {
         if (!allTags[tag]) allTags[tag] = [];
@@ -18,39 +17,34 @@ for (const [year, books] of Object.entries(library)) {
     }
   }
 }
-// Sort tags by count descending
 const sortedTags = Object.entries(allTags).sort((a, b) => b[1].length - a[1].length);
-
-// Total book count
-const totalBooks = Object.values(library).reduce((sum, books) => sum + (books as any[]).length, 0);
-const yearsWithBooks = yearKeys.filter(y => (library[y as keyof typeof library] as any[]).length > 0);
+const totalBooks = Object.values(library).reduce((sum, books) => sum + books.length, 0);
+const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
 ---
 
 <BaseLayout title="Bookshelf" currentPage="bookshelf">
   <h1 class="page-title">Bookshelf</h1>
   <p class="page-subtitle">
-    {totalBooks > 0 ? `${totalBooks} books across ${yearsWithBooks.length} years. ` : ''}The <span style="color: var(--accent); font-weight: 600;">quake books</span> are the ones that changed how I think.
+    {totalBooks} books across {yearsWithBooks.length} years. The <span style="color: var(--accent); font-weight: 600;">quake books</span> are the ones that changed how I think.
   </p>
 
-  <!-- View Toggle -->
   <div class="bookshelf-tabs">
     <button class="bookshelf-tab active" data-view="quake">Quake Books</button>
     <button class="bookshelf-tab" data-view="library">Full Library</button>
     <button class="bookshelf-tab" data-view="topics">By Topic</button>
   </div>
 
-  <!-- QUAKE BOOKS VIEW -->
   <div class="bookshelf-view" id="view-quake">
     <p class="view-intro">
       These are the books that fundamentally shifted my worldview — the ones I return to and reference constantly. Not the best books I've read, but the ones that left the deepest mark.
     </p>
     <div class="quake-list">
-      {quakeBooks.map((book, i) => (
+      {quakeBooks.map((book: any, i: number) => (
         <div class="quake-item">
           {book.cover ? (
             <img class="quake-cover" src={book.cover} alt={book.title} loading="lazy" />
           ) : (
-            <div class="quake-cover-placeholder" style={`background: linear-gradient(135deg, hsl(${355 + i * 20}, 55%, 38%) 0%, hsl(${355 + i * 20}, 45%, 25%) 100%);`}></div>
+            <div class="quake-cover-placeholder" style={`background: linear-gradient(135deg, hsl(${355 + i * 25}, 55%, 38%) 0%, hsl(${355 + i * 25}, 45%, 25%) 100%);`}></div>
           )}
           <div class="quake-info">
             <div class="quake-title">{book.title}</div>
@@ -62,46 +56,39 @@ const yearsWithBooks = yearKeys.filter(y => (library[y as keyof typeof library] 
     </div>
   </div>
 
-  <!-- FULL LIBRARY VIEW -->
   <div class="bookshelf-view" id="view-library" style="display: none;">
-    <!-- Year Pills -->
     <div class="year-pills">
-      {yearKeys.map((year, i) => (
+      {yearKeys.map((year: string, i: number) => (
         <button class={`year-pill ${i === 0 ? 'active' : ''}`} data-year={year}>
-          {year} <span class="year-count">({(library[year as keyof typeof library] as any[]).length})</span>
+          {year} <span class="year-count">({library[year].length})</span>
         </button>
       ))}
     </div>
 
-    <!-- Year Content (one per year, toggle visibility) -->
-    {yearKeys.map((year, yi) => {
-      const books = library[year as keyof typeof library] as any[];
+    {yearKeys.map((year: string, yi: number) => {
+      const books = library[year];
       const quakeCount = books.filter((b: any) => b.quake).length;
       const avgRating = books.length > 0 ? (books.reduce((sum: number, b: any) => sum + (b.rating || 0), 0) / books.length).toFixed(1) : '—';
       const yearTags = [...new Set(books.flatMap((b: any) => b.tags || []))].sort() as string[];
       return (
         <div class={`year-content ${yi === 0 ? 'active' : ''}`} data-year-content={year}>
-          {/* Stats Bar */}
-          {books.length > 0 && (
-            <div class="year-stats">
-              <div class="stat">
-                <div class="stat-number">{books.length}</div>
-                <div class="stat-label">Books</div>
-              </div>
-              <div class="stat-divider"></div>
-              <div class="stat">
-                <div class="stat-number" style="color: var(--accent);">{quakeCount}</div>
-                <div class="stat-label">Quake</div>
-              </div>
-              <div class="stat-divider"></div>
-              <div class="stat">
-                <div class="stat-number">{avgRating}</div>
-                <div class="stat-label">Avg Rating</div>
-              </div>
+          <div class="year-stats">
+            <div class="stat">
+              <div class="stat-number">{books.length}</div>
+              <div class="stat-label">Books</div>
             </div>
-          )}
+            <div class="stat-divider"></div>
+            <div class="stat">
+              <div class="stat-number" style="color: var(--accent);">{quakeCount}</div>
+              <div class="stat-label">Quake</div>
+            </div>
+            <div class="stat-divider"></div>
+            <div class="stat">
+              <div class="stat-number">{avgRating}</div>
+              <div class="stat-label">Avg Rating</div>
+            </div>
+          </div>
 
-          {/* Tag Filter */}
           {yearTags.length > 0 && (
             <div class="year-tag-filter">
               <button class="tag-pill active" data-filter-tag="all">All</button>
@@ -111,97 +98,76 @@ const yearsWithBooks = yearKeys.filter(y => (library[y as keyof typeof library] 
             </div>
           )}
 
-          {/* Book List */}
-          {books.length > 0 ? (
-            <div class="library-list">
-              {books.map((book: any) => (
-                <div class="library-item" data-tags={JSON.stringify(book.tags || [])}>
-                  <div class="rating-dots">
-                    {[1,2,3,4,5].map((star) => (
-                      <div class={`rating-dot ${star <= (book.rating || 0) ? 'filled' : ''}`}></div>
-                    ))}
-                  </div>
-                  <div class="library-info">
-                    <div class="library-title-row">
-                      <span class="library-title">{book.title}</span>
-                      {book.quake && <span class="quake-badge">◆ QUAKE</span>}
-                    </div>
-                    <div class="library-author">{book.author}</div>
-                  </div>
-                  <div class="library-tags">
-                    {(book.tags || []).slice(0, 2).map((tag: string) => (
-                      <span class="library-tag">{tag}</span>
-                    ))}
-                  </div>
+          <div class="library-list">
+            {books.map((book: any) => (
+              <div class="library-item" data-tags={JSON.stringify(book.tags || [])}>
+                <div class="rating-dots">
+                  {[1,2,3,4,5].map((star: number) => (
+                    <div class={`rating-dot ${star <= (book.rating || 0) ? 'filled' : ''}`}></div>
+                  ))}
                 </div>
-              ))}
-            </div>
-          ) : (
-            <div class="empty-year">
-              <p>No books added for {year} yet.</p>
-            </div>
-          )}
+                <div class="library-info">
+                  <div class="library-title-row">
+                    <span class="library-title">{book.title}</span>
+                    {book.quake && <span class="quake-badge">◆ QUAKE</span>}
+                  </div>
+                  <div class="library-author">{book.author}</div>
+                </div>
+                <div class="library-tags">
+                  {(book.tags || []).slice(0, 2).map((tag: string) => (
+                    <span class="library-tag">{tag}</span>
+                  ))}
+                </div>
+              </div>
+            ))}
+          </div>
         </div>
       );
     })}
   </div>
 
-  <!-- BY TOPIC VIEW -->
   <div class="bookshelf-view" id="view-topics" style="display: none;">
     <p class="view-intro">
-      Every book tagged by topic — this is what feeds into the Portfolio Ideas pages.
+      Every book tagged by topic — this is what feeds into the <a href="/portfolio" style="color: var(--accent); text-decoration: underline;">Portfolio Ideas</a> pages.
     </p>
-    {sortedTags.length > 0 ? (
-      <div class="topics-list">
-        {sortedTags.map(([tag, books]) => (
-          <div class="topic-group">
-            <div class="topic-header">
-              <span class="topic-name">{tag}</span>
-              <span class="topic-count">({books.length})</span>
-              <div class="topic-line"></div>
-            </div>
-            <div class="topic-books">
-              {books.map((book) => (
-                <div class="topic-book-chip">
-                  <div class="topic-book-title">{book.title}</div>
-                  <div class="topic-book-author">{book.author}</div>
-                </div>
-              ))}
-            </div>
+    <div class="topics-list">
+      {sortedTags.map(([tag, books]) => (
+        <div class="topic-group">
+          <div class="topic-header">
+            <a href={`/portfolio/${tag}`} class="topic-name">{tag}</a>
+            <span class="topic-count">({books.length})</span>
+            <div class="topic-line"></div>
           </div>
-        ))}
-      </div>
-    ) : (
-      <div class="empty-year">
-        <p>Add books with tags to your library to see them organized by topic.</p>
-      </div>
-    )}
+          <div class="topic-books">
+            {books.map((book) => (
+              <div class="topic-book-chip">
+                <div class="topic-book-title">{book.title}</div>
+                <div class="topic-book-author">{book.author}</div>
+              </div>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
   </div>
 
   <script is:inline>
-    // View switching
     document.querySelectorAll('.bookshelf-tab').forEach(tab => {
       tab.addEventListener('click', () => {
         document.querySelectorAll('.bookshelf-tab').forEach(t => t.classList.remove('active'));
         tab.classList.add('active');
-        const view = tab.dataset.view;
         document.querySelectorAll('.bookshelf-view').forEach(v => v.style.display = 'none');
-        document.getElementById('view-' + view).style.display = 'block';
+        document.getElementById('view-' + tab.dataset.view).style.display = 'block';
       });
     });
-
-    // Year switching
     document.querySelectorAll('.year-pill').forEach(pill => {
       pill.addEventListener('click', () => {
         document.querySelectorAll('.year-pill').forEach(p => p.classList.remove('active'));
         pill.classList.add('active');
-        const year = pill.dataset.year;
         document.querySelectorAll('.year-content').forEach(c => c.classList.remove('active'));
-        document.querySelector(`[data-year-content="${year}"]`)?.classList.add('active');
+        document.querySelector('[data-year-content="' + pill.dataset.year + '"]')?.classList.add('active');
       });
     });
-
-    // Tag filtering within a year
     document.querySelectorAll('.tag-pill').forEach(pill => {
       pill.addEventListener('click', () => {
         const parent = pill.closest('.year-content');
@@ -209,9 +175,8 @@ const yearsWithBooks = yearKeys.filter(y => (library[y as keyof typeof library] 
         pill.classList.add('active');
         const tag = pill.dataset.filterTag;
         parent.querySelectorAll('.library-item').forEach(item => {
-          if (tag === 'all') {
-            item.style.display = '';
-          } else {
+          if (tag === 'all') { item.style.display = ''; }
+          else {
             const tags = JSON.parse(item.dataset.tags || '[]');
             item.style.display = tags.includes(tag) ? '' : 'none';
           }
@@ -222,302 +187,65 @@ const yearsWithBooks = yearKeys.filter(y => (library[y as keyof typeof library] 
 </BaseLayout>
 
 <style>
-  /* Tab navigation */
-  .bookshelf-tabs {
-    display: flex;
-    gap: 0;
-    border-bottom: 1px solid var(--border);
-    margin-bottom: 24px;
-  }
-  .bookshelf-tab {
-    background: none;
-    border: none;
-    color: var(--text-tertiary);
-    font-family: var(--font-body);
-    font-size: 13px;
-    font-weight: 600;
-    padding: 12px 18px;
-    cursor: pointer;
-    border-bottom: 2px solid transparent;
-    transition: all 0.15s ease;
-  }
+  .bookshelf-tabs { display: flex; gap: 0; border-bottom: 1px solid var(--border); margin-bottom: 24px; }
+  .bookshelf-tab { background: none; border: none; color: var(--text-tertiary); font-family: var(--font-body); font-size: 13px; font-weight: 600; padding: 12px 18px; cursor: pointer; border-bottom: 2px solid transparent; transition: all 0.15s ease; }
   .bookshelf-tab:hover { color: var(--text-secondary); }
-  .bookshelf-tab.active {
-    color: var(--text);
-    border-bottom-color: var(--accent);
-  }
+  .bookshelf-tab.active { color: var(--text); border-bottom-color: var(--accent); }
+  .view-intro { color: var(--text-secondary); font-size: 14px; line-height: 1.7; margin-bottom: 24px; max-width: 560px; }
 
-  .view-intro {
-    color: var(--text-secondary);
-    font-size: 14px;
-    line-height: 1.7;
-    margin-bottom: 24px;
-    max-width: 560px;
-  }
-
-  /* Quake Books */
-  .quake-list {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-  }
-  .quake-item {
-    display: flex;
-    align-items: center;
-    gap: 16px;
-    padding: 14px 16px;
-    background: var(--bg-card);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    transition: border-color 0.15s ease;
-  }
+  .quake-list { display: flex; flex-direction: column; gap: 10px; }
+  .quake-item { display: flex; align-items: center; gap: 16px; padding: 14px 16px; background: var(--bg-card); border: 1px solid var(--border); border-radius: 10px; transition: border-color 0.15s ease; }
   .quake-item:hover { border-color: var(--accent); }
-  .quake-cover {
-    width: 48px;
-    height: 64px;
-    object-fit: cover;
-    border-radius: 4px;
-    flex-shrink: 0;
-  }
-  .quake-cover-placeholder {
-    width: 48px;
-    height: 64px;
-    border-radius: 4px;
-    flex-shrink: 0;
-  }
+  .quake-cover { width: 48px; height: 64px; object-fit: cover; border-radius: 4px; flex-shrink: 0; }
+  .quake-cover-placeholder { width: 48px; height: 64px; border-radius: 4px; flex-shrink: 0; }
   .quake-info { flex: 1; }
-  .quake-title {
-    font-family: var(--font-display);
-    font-size: 15px;
-    font-weight: 500;
-    color: var(--text);
-    line-height: 1.3;
-  }
-  .quake-author {
-    font-size: 12.5px;
-    color: var(--text-tertiary);
-    margin-top: 2px;
-  }
-  .quake-diamond {
-    color: var(--accent);
-    font-size: 16px;
-    flex-shrink: 0;
-  }
+  .quake-title { font-family: var(--font-display); font-size: 15px; font-weight: 500; color: var(--text); line-height: 1.3; }
+  .quake-author { font-size: 12.5px; color: var(--text-tertiary); margin-top: 2px; }
+  .quake-diamond { color: var(--accent); font-size: 16px; flex-shrink: 0; }
 
-  /* Year Pills */
-  .year-pills {
-    display: flex;
-    gap: 6px;
-    margin-bottom: 20px;
-    flex-wrap: wrap;
-  }
-  .year-pill {
-    background: var(--tag-bg);
-    border: 1px solid var(--border);
-    color: var(--text-secondary);
-    font-family: var(--font-body);
-    font-size: 13px;
-    font-weight: 600;
-    padding: 8px 16px;
-    border-radius: 8px;
-    cursor: pointer;
-    transition: all 0.15s ease;
-  }
+  .year-pills { display: flex; gap: 6px; margin-bottom: 20px; flex-wrap: wrap; }
+  .year-pill { background: var(--tag-bg); border: 1px solid var(--border); color: var(--text-secondary); font-family: var(--font-body); font-size: 13px; font-weight: 600; padding: 8px 16px; border-radius: 8px; cursor: pointer; transition: all 0.15s ease; }
   .year-pill:hover { border-color: var(--text-tertiary); }
-  .year-pill.active {
-    background: var(--accent);
-    border-color: var(--accent);
-    color: white;
-  }
+  .year-pill.active { background: var(--accent); border-color: var(--accent); color: white; }
   .year-count { opacity: 0.6; font-size: 11px; margin-left: 2px; }
 
-  /* Year content */
   .year-content { display: none; }
   .year-content.active { display: block; }
 
-  /* Stats bar */
-  .year-stats {
-    display: flex;
-    gap: 16px;
-    padding: 12px 16px;
-    background: var(--bg-card);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    margin-bottom: 16px;
-  }
-  .stat-number {
-    font-size: 20px;
-    font-weight: 700;
-    color: var(--text);
-  }
-  .stat-label {
-    font-size: 10px;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: var(--text-tertiary);
-  }
-  .stat-divider {
-    width: 1px;
-    background: var(--border);
-  }
+  .year-stats { display: flex; gap: 16px; padding: 12px 16px; background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px; margin-bottom: 16px; }
+  .stat-number { font-size: 20px; font-weight: 700; color: var(--text); }
+  .stat-label { font-size: 10px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-tertiary); }
+  .stat-divider { width: 1px; background: var(--border); }
 
-  /* Tag filter */
-  .year-tag-filter {
-    display: flex;
-    gap: 4px;
-    flex-wrap: wrap;
-    margin-bottom: 16px;
-  }
-  .tag-pill {
-    background: transparent;
-    border: 1px solid var(--border);
-    color: var(--text-tertiary);
-    font-family: var(--font-body);
-    font-size: 11px;
-    padding: 4px 8px;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: all 0.15s ease;
-  }
+  .year-tag-filter { display: flex; gap: 4px; flex-wrap: wrap; margin-bottom: 16px; }
+  .tag-pill { background: transparent; border: 1px solid var(--border); color: var(--text-tertiary); font-family: var(--font-body); font-size: 11px; padding: 4px 8px; border-radius: 4px; cursor: pointer; transition: all 0.15s ease; }
   .tag-pill:hover { color: var(--text-secondary); }
-  .tag-pill.active {
-    background: var(--tag-bg);
-    color: var(--text);
-    border-color: var(--text-tertiary);
-  }
+  .tag-pill.active { background: var(--tag-bg); color: var(--text); border-color: var(--text-tertiary); }
 
-  /* Library list */
-  .library-list {
-    display: flex;
-    flex-direction: column;
-    gap: 4px;
-  }
-  .library-item {
-    display: flex;
-    align-items: center;
-    gap: 14px;
-    padding: 10px 14px;
-    background: var(--bg-card);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    transition: border-color 0.15s ease;
-  }
+  .library-list { display: flex; flex-direction: column; gap: 4px; }
+  .library-item { display: flex; align-items: center; gap: 14px; padding: 10px 14px; background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px; transition: border-color 0.15s ease; }
   .library-item:hover { border-color: var(--text-tertiary); }
-
-  .rating-dots {
-    display: flex;
-    gap: 3px;
-    flex-shrink: 0;
-    width: 52px;
-  }
-  .rating-dot {
-    width: 7px;
-    height: 7px;
-    border-radius: 2px;
-    background: var(--border);
-  }
+  .rating-dots { display: flex; gap: 3px; flex-shrink: 0; width: 52px; }
+  .rating-dot { width: 7px; height: 7px; border-radius: 2px; background: var(--border); }
   .rating-dot.filled { background: var(--accent); }
-
   .library-info { flex: 1; min-width: 0; }
-  .library-title-row {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  .library-title {
-    font-size: 13px;
-    font-weight: 500;
-    color: var(--text);
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }
-  .quake-badge {
-    color: var(--accent);
-    font-size: 10px;
-    font-weight: 700;
-    flex-shrink: 0;
-  }
-  .library-author {
-    font-size: 11px;
-    color: var(--text-tertiary);
-    margin-top: 1px;
-  }
-  .library-tags {
-    display: flex;
-    gap: 4px;
-    flex-shrink: 0;
-  }
-  .library-tag {
-    font-size: 9px;
-    color: var(--text-tertiary);
-    background: var(--tag-bg);
-    border: 1px solid var(--border);
-    padding: 2px 6px;
-    border-radius: 3px;
-  }
+  .library-title-row { display: flex; align-items: center; gap: 8px; }
+  .library-title { font-size: 13px; font-weight: 500; color: var(--text); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .quake-badge { color: var(--accent); font-size: 10px; font-weight: 700; flex-shrink: 0; }
+  .library-author { font-size: 11px; color: var(--text-tertiary); margin-top: 1px; }
+  .library-tags { display: flex; gap: 4px; flex-shrink: 0; }
+  .library-tag { font-size: 9px; color: var(--text-tertiary); background: var(--tag-bg); border: 1px solid var(--border); padding: 2px 6px; border-radius: 3px; }
 
-  .empty-year {
-    padding: 48px 0;
-    text-align: center;
-    color: var(--text-tertiary);
-    font-size: 14px;
-  }
+  .topics-list { display: flex; flex-direction: column; gap: 20px; }
+  .topic-header { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; }
+  .topic-name { font-size: 14px; font-weight: 600; color: var(--accent); text-decoration: none; }
+  .topic-name:hover { text-decoration: underline; }
+  .topic-count { font-size: 11px; color: var(--text-tertiary); }
+  .topic-line { flex: 1; height: 1px; background: var(--border); }
+  .topic-books { display: flex; gap: 8px; flex-wrap: wrap; }
+  .topic-book-chip { background: var(--bg-card); border: 1px solid var(--border); border-radius: 6px; padding: 8px 12px; max-width: 200px; }
+  .topic-book-title { font-size: 12px; font-weight: 500; color: var(--text); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .topic-book-author { font-size: 10px; color: var(--text-tertiary); margin-top: 2px; }
 
-  /* By Topic */
-  .topics-list {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-  }
-  .topic-header {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    margin-bottom: 10px;
-  }
-  .topic-name {
-    font-size: 14px;
-    font-weight: 600;
-    color: var(--text);
-  }
-  .topic-count {
-    font-size: 11px;
-    color: var(--text-tertiary);
-  }
-  .topic-line {
-    flex: 1;
-    height: 1px;
-    background: var(--border);
-  }
-  .topic-books {
-    display: flex;
-    gap: 8px;
-    flex-wrap: wrap;
-  }
-  .topic-book-chip {
-    background: var(--bg-card);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    padding: 8px 12px;
-    max-width: 200px;
-  }
-  .topic-book-title {
-    font-size: 12px;
-    font-weight: 500;
-    color: var(--text);
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }
-  .topic-book-author {
-    font-size: 10px;
-    color: var(--text-tertiary);
-    margin-top: 2px;
-  }
-
-  @media (max-width: 640px) {
-    .library-tags { display: none; }
-    .year-stats { gap: 12px; }
-  }
+  @media (max-width: 640px) { .library-tags { display: none; } .year-stats { gap: 12px; } }
 </style>

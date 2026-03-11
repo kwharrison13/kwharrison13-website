@@ -1,54 +1,2514 @@
 {
   "quake_books": [
     {
-      "title": "John Quincy Adams: Militant Spirit",
-      "author": "James Traub",
-      "cover": "/images/books/john quincy adams.jpeg",
-      "year_read": 2023,
-      "tags": []
-    },
-    {
-      "title": "Poor Charlie's Almanack",
-      "author": "Peter Kaufman (Editor)",
-      "cover": "/images/books/poor charlies almanack.webp",
-      "year_read": 2020,
-      "tags": []
-    },
-    {
-      "title": "Reinventing Knowledge: From Alexandria to the Internet",
-      "author": "Ian F. McNeely & Lisa Wolverton",
-      "cover": "/images/books/reinventing knkowledge.jpeg",
-      "year_read": 2022,
-      "tags": []
-    },
-    {
-      "title": "The Courage To Be Disliked",
-      "author": "Ichiro Kishimi & Fumitake Koga",
-      "cover": "/images/books/courage to be disliked.webp",
-      "year_read": 2021,
-      "tags": []
-    },
-    {
-      "title": "The Good Earth",
-      "author": "Pearl S. Buck",
-      "cover": "/images/books/good earth.jpeg",
-      "year_read": 2019,
-      "tags": []
-    },
-    {
       "title": "Leap of Faith",
       "author": "Bob Bennett",
       "cover": "/images/books/leap of faith.jpeg",
       "year_read": 2018,
-      "tags": []
+      "tags": [
+        "religious-intellectualism",
+        "ideological-family-tree"
+      ]
+    },
+    {
+      "title": "John Quincy Adams",
+      "author": "James Traub",
+      "cover": "/images/books/john quincy adams.jpeg",
+      "year_read": 2019,
+      "tags": [
+        "historical-futurism",
+        "language-of-discourse"
+      ]
+    },
+    {
+      "title": "Red Rising",
+      "author": "Pierce Brown",
+      "cover": "",
+      "year_read": 2019,
+      "tags": [
+        "historical-futurism"
+      ]
+    },
+    {
+      "title": "Poor Charlie's Almanack",
+      "author": "Charles T. Munger, Peter Kauffman",
+      "cover": "/images/books/poor charlies almanack.webp",
+      "year_read": 2020,
+      "tags": [
+        "capital-allocation",
+        "company-building",
+        "open-source-knowledge"
+      ]
+    },
+    {
+      "title": "Reinventing Knowledge: From Alexandria To The Internet",
+      "author": "Ian F. McNeely, Lisa Wolverton",
+      "cover": "/images/books/reinventing knkowledge.jpeg",
+      "year_read": 2021,
+      "tags": [
+        "historical-futurism",
+        "republic-of-letters",
+        "open-source-knowledge"
+      ]
+    },
+    {
+      "title": "The Man Who Broke Capitalism",
+      "author": "David Gelles",
+      "cover": "",
+      "year_read": 2025,
+      "tags": [
+        "company-building",
+        "historical-futurism"
+      ]
+    },
+    {
+      "title": "Crime & Punishment",
+      "author": "Fyodor Dostoevsky",
+      "cover": "",
+      "year_read": 2025,
+      "tags": [
+        "religious-intellectualism"
+      ]
+    },
+    {
+      "title": "The Courage To Be Disliked",
+      "author": "Ichiro Kishimi, Fumitake Koga",
+      "cover": "/images/books/courage to be disliked.webp",
+      "year_read": 2025,
+      "tags": [
+        "religious-intellectualism",
+        "ideological-family-tree"
+      ]
     }
   ],
   "library": {
-    "2025": [],
-    "2024": [],
-    "2023": [],
-    "2022": [],
-    "2021": [],
-    "2020": []
+    "2016": [
+      {
+        "title": "Made To Stick",
+        "author": "Chip Heath, Dan Heath",
+        "rating": 3,
+        "tags": [
+          "company-building",
+          "language-of-discourse"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Venture Deals",
+        "author": "Brad Feld, Jason Mendelson",
+        "rating": 3,
+        "tags": [
+          "capital-allocation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Innovator's Dilemma",
+        "author": "Clayton M. Christensen",
+        "rating": 5,
+        "tags": [
+          "technological-innovation",
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Big Short",
+        "author": "Michael Lewis",
+        "rating": 5,
+        "tags": [
+          "capital-allocation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "7 Tipping Points That Saved The World",
+        "author": "Chris Stewart, Ted Stewart",
+        "rating": 4,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Walt Disney: The Triumph of The American Imagination",
+        "author": "Neal Gabler",
+        "rating": 5,
+        "tags": [
+          "company-building",
+          "city-building",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "1776",
+        "author": "David McCullough",
+        "rating": 4,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "John Adams",
+        "author": "David McCullough",
+        "rating": 5,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "rating": 3,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "What Da Vinci Didn't Know",
+        "author": "Richard Holzapfel, Andrew Skinner, Thomas Wayment",
+        "rating": 3,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Nail It Then Scale It",
+        "author": "Nathan Furr, Paul Ahlstrom",
+        "rating": 2,
+        "tags": [
+          "technological-innovation",
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Zero To One",
+        "author": "Peter Thiel, Blake Masters",
+        "rating": 5,
+        "tags": [
+          "capital-allocation",
+          "technological-innovation",
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Brigham Young: American Moses",
+        "author": "Leonard J. Arrington",
+        "rating": 4,
+        "tags": [
+          "religious-intellectualism",
+          "city-building",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Humans of New York: Stories",
+        "author": "Brandon Stanton",
+        "rating": 3,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "The 7 Habits of Highly Effective People",
+        "author": "Stephen R. Covey",
+        "rating": 4,
+        "tags": [
+          "company-building",
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Lean Startup",
+        "author": "Eric Ries",
+        "rating": 2,
+        "tags": [
+          "technological-innovation",
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Life-Changing Magic of Tidying Up",
+        "author": "Marie Kondo",
+        "rating": 2,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "Naked Economics",
+        "author": "Charles Wheelan",
+        "rating": 3,
+        "tags": [
+          "capital-allocation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Innovator's Solution",
+        "author": "Clayton M. Christensen, Michael E. Raynor",
+        "rating": 2,
+        "tags": [
+          "technological-innovation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "What The Scriptures Teach Us About Prosperity",
+        "author": "S. Michael Wilcox",
+        "rating": 2,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Getting Beyond Better",
+        "author": "Roger L. Martin, Sally R. Osberg",
+        "rating": 2,
+        "tags": [
+          "people-over-politics"
+        ],
+        "quake": false
+      }
+    ],
+    "2017": [
+      {
+        "title": "Alibaba: The House That Jack Ma Built",
+        "author": "Duncan Clark",
+        "rating": 3,
+        "tags": [
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Design of Everyday Things",
+        "author": "Don Norman",
+        "rating": 4,
+        "tags": [
+          "technological-innovation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Poor Economics: A Radical Rethinking of The Way To Fight Global Poverty",
+        "author": "Abhijit V. Banerjee, Esther Duflo",
+        "rating": 3,
+        "tags": [
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Misbehaving: The Making of Behavioral Economics",
+        "author": "Richard H. Thaler",
+        "rating": 3,
+        "tags": [
+          "capital-allocation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "In Defense of a Liberal Education",
+        "author": "Fareed Zakaria",
+        "rating": 4,
+        "tags": [
+          "language-of-discourse",
+          "republic-of-letters"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Predictably Irrational",
+        "author": "Dan Ariely",
+        "rating": 2,
+        "tags": [
+          "capital-allocation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Elements of Journalism",
+        "author": "Bill Kovach, Tom Rosenstiel",
+        "rating": 3,
+        "tags": [
+          "language-of-discourse",
+          "republic-of-letters"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Playing To Win",
+        "author": "A.G. Lafley, Roger L. Martin",
+        "rating": 2,
+        "tags": [
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Islam & The Future of Tolerance",
+        "author": "Sam Harris, Maajid Nawaz",
+        "rating": 2,
+        "tags": [
+          "religious-intellectualism",
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Smartest Kids in The World",
+        "author": "Amanda Ripley",
+        "rating": 4,
+        "tags": [
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+        "author": "Ashlee Vance",
+        "rating": 4,
+        "tags": [
+          "technological-innovation",
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "What You Should Know About Politics... But Don't",
+        "author": "Jessamyn Conrad",
+        "rating": 2,
+        "tags": [
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Last Lecture",
+        "author": "Randy Pausch",
+        "rating": 4,
+        "tags": [
+          "language-of-discourse"
+        ],
+        "quake": false
+      },
+      {
+        "title": "That Start-Up of You",
+        "author": "Reid Hoffman, Ben Casnocha",
+        "rating": 2,
+        "tags": [
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The American Spirit",
+        "author": "David McCullough",
+        "rating": 3,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Winston Churchill's War Leadership",
+        "author": "Martin Gilbert",
+        "rating": 3,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The New New Thing",
+        "author": "Michael Lewis",
+        "rating": 3,
+        "tags": [
+          "technological-innovation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Alexander Hamilton",
+        "author": "Ron Chernow",
+        "rating": 4,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Hillbilly Elegy",
+        "author": "J.D. Vance",
+        "rating": 3,
+        "tags": [
+          "city-building",
+          "people-over-politics",
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "How Will You Measure Your Life?",
+        "author": "Clayton M. Christensen",
+        "rating": 5,
+        "tags": [
+          "company-building",
+          "language-of-discourse",
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Nickel & Dimed",
+        "author": "Barbara Ehrenreich",
+        "rating": 4,
+        "tags": [
+          "city-building",
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Ready Player One",
+        "author": "Ernest Cline",
+        "rating": 5,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Nudge",
+        "author": "Richard H. Thaler, Cass R. Sunstein",
+        "rating": 3,
+        "tags": [
+          "capital-allocation",
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Deep Work",
+        "author": "Cal Newport",
+        "rating": 4,
+        "tags": [
+          "company-building",
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Death of Dulgath",
+        "author": "Michael J. Sullivan",
+        "rating": 3,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "rating": 2,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "rating": 4,
+        "tags": [
+          "historical-futurism",
+          "language-of-discourse"
+        ],
+        "quake": false
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "rating": 5,
+        "tags": [
+          "historical-futurism",
+          "language-of-discourse"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Philosophy 101 By Socrates",
+        "author": "Peter Kreeft",
+        "rating": 3,
+        "tags": [
+          "religious-intellectualism",
+          "open-source-knowledge"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Parent's Guide to Boys",
+        "author": "Abigail Norfleet James",
+        "rating": 3,
+        "tags": [
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Speeches That Changed The World",
+        "author": "Simon Sebag Montefiore",
+        "rating": 4,
+        "tags": [
+          "language-of-discourse"
+        ],
+        "quake": false
+      },
+      {
+        "title": "How To Thrive in the Next Economy",
+        "author": "John Thackara",
+        "rating": 2,
+        "tags": [
+          "city-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Origins of Creativity",
+        "author": "Edward O. Wilson",
+        "rating": 3,
+        "tags": [
+          "republic-of-letters",
+          "open-source-knowledge"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Magnolia Story",
+        "author": "Chip Gaines, Joanna Gaines",
+        "rating": 2,
+        "tags": [
+          "company-building"
+        ],
+        "quake": false
+      }
+    ],
+    "2018": [
+      {
+        "title": "Turnaround",
+        "author": "Mitt Romney",
+        "rating": 3,
+        "tags": [
+          "company-building",
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Way to Be!",
+        "author": "Gordon B. Hinckley",
+        "rating": 3,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Greatest Miracle in the World",
+        "author": "Og Mandino",
+        "rating": 3,
+        "tags": [
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Dumbing Us Down",
+        "author": "John Taylor Gatto",
+        "rating": 4,
+        "tags": [
+          "people-over-politics",
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "How to Build a Business Warren Buffett Would Buy",
+        "author": "Jeff Benedict",
+        "rating": 3,
+        "tags": [
+          "capital-allocation",
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Walden",
+        "author": "Henry David Thoreau",
+        "rating": 3,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Outliers",
+        "author": "Malcolm Gladwell",
+        "rating": 3,
+        "tags": [
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Autobiography of Benjamin Franklin",
+        "author": "Benjamin Franklin",
+        "rating": 5,
+        "tags": [
+          "historical-futurism",
+          "open-source-knowledge"
+        ],
+        "quake": false
+      },
+      {
+        "title": "No Apology",
+        "author": "Mitt Romney",
+        "rating": 3,
+        "tags": [
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "All The Pretty Horses",
+        "author": "Cormac McCarthy",
+        "rating": 4,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "Leap of Faith",
+        "author": "Bob Bennett",
+        "rating": 5,
+        "tags": [
+          "religious-intellectualism",
+          "ideological-family-tree"
+        ],
+        "quake": true
+      },
+      {
+        "title": "What I Found in a Thousand Towns",
+        "author": "Dar Williams",
+        "rating": 2,
+        "tags": [
+          "city-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "rating": 5,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Lessons From Private Equity Any Company Can Use",
+        "author": "Orit Gadiesh, Hugh MacArthur",
+        "rating": 2,
+        "tags": [
+          "capital-allocation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Man's Search For Meaning",
+        "author": "Victor E. Frankl",
+        "rating": 4,
+        "tags": [
+          "religious-intellectualism",
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Janesville",
+        "author": "Amy Goldstein",
+        "rating": 4,
+        "tags": [
+          "city-building",
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Child of God",
+        "author": "Cormac McCarthy",
+        "rating": 3,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "Praise To The Man",
+        "author": "",
+        "rating": 4,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Power of Everyday Missionaries",
+        "author": "Clayton M. Christensen",
+        "rating": 4,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Me and Earl and The Dying Girl",
+        "author": "Jesse Andrews",
+        "rating": 3,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "Blink",
+        "author": "Malcolm Gladwell",
+        "rating": 3,
+        "tags": [
+          "capital-allocation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Weapons of Math Destruction",
+        "author": "Cathy O'Neil",
+        "rating": 3,
+        "tags": [
+          "technological-innovation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "No Country For Old Men",
+        "author": "Cormac McCarthy",
+        "rating": 4,
+        "tags": [
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Lost Continent",
+        "author": "Bill Bryson",
+        "rating": 4,
+        "tags": [
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Education Nation",
+        "author": "Milton Chen",
+        "rating": 2,
+        "tags": [
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Screwtape Letters",
+        "author": "C.S. Lewis",
+        "rating": 5,
+        "tags": [
+          "religious-intellectualism",
+          "language-of-discourse"
+        ],
+        "quake": false
+      },
+      {
+        "title": "So You've Been Publicly Shamed",
+        "author": "Jon Ronson",
+        "rating": 4,
+        "tags": [
+          "language-of-discourse"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Evicted",
+        "author": "Matthew Desmond",
+        "rating": 4,
+        "tags": [
+          "city-building",
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "My Bookstore",
+        "author": "Ronald Rice",
+        "rating": 3,
+        "tags": [
+          "republic-of-letters"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Buffett: The Biography",
+        "author": "Roger Lowenstein",
+        "rating": 3,
+        "tags": [
+          "capital-allocation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Educated",
+        "author": "Tara Westover",
+        "rating": 3,
+        "tags": [
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Dear White People",
+        "author": "Justin Simien",
+        "rating": 3,
+        "tags": [
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Barbarians at the Gate",
+        "author": "Bryan Burrough, John Helyar",
+        "rating": 4,
+        "tags": [
+          "capital-allocation",
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Righteous Mind",
+        "author": "Jonathan Haidt",
+        "rating": 4,
+        "tags": [
+          "people-over-politics",
+          "language-of-discourse"
+        ],
+        "quake": false
+      },
+      {
+        "title": "My Brilliant Friend",
+        "author": "Elena Ferrante",
+        "rating": 4,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "Essentialism",
+        "author": "Greg McKeown",
+        "rating": 3,
+        "tags": [
+          "company-building",
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "My Story",
+        "author": "Elizabeth Smart",
+        "rating": 3,
+        "tags": [
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Saints: The Standard of Truth",
+        "author": "",
+        "rating": 4,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Undoing Project",
+        "author": "Michael Lewis",
+        "rating": 3,
+        "tags": [
+          "capital-allocation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Innovation Blind Spot",
+        "author": "Ross Baird",
+        "rating": 2,
+        "tags": [
+          "technological-innovation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Profiles in Courage",
+        "author": "John F. Kennedy",
+        "rating": 4,
+        "tags": [
+          "people-over-politics",
+          "historical-futurism"
+        ],
+        "quake": false
+      }
+    ],
+    "2019": [
+      {
+        "title": "Benjamin Franklin",
+        "author": "Walter Isaacson",
+        "rating": 4,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Expertise Economy",
+        "author": "Kelly Palmer, David Blake",
+        "rating": 2,
+        "tags": [
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Leviathan Wakes",
+        "author": "James S. A. Corey",
+        "rating": 3,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Battle Hymn of The Tiger Mother",
+        "author": "Amy Chua",
+        "rating": 2,
+        "tags": [
+          "people-over-politics",
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Recession Proof",
+        "author": "Jason Schenker",
+        "rating": 1,
+        "tags": [
+          "capital-allocation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Urban Crisis",
+        "author": "Richard Florida",
+        "rating": 3,
+        "tags": [
+          "city-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Messy Marketplace",
+        "author": "Brent Beshore",
+        "rating": 3,
+        "tags": [
+          "capital-allocation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Water Knife",
+        "author": "Paolo Bacigalupi",
+        "rating": 3,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "John Quincy Adams",
+        "author": "James Traub",
+        "rating": 5,
+        "tags": [
+          "historical-futurism",
+          "language-of-discourse"
+        ],
+        "quake": true
+      },
+      {
+        "title": "Our Towns",
+        "author": "James Fallows, Deborah Fallows",
+        "rating": 3,
+        "tags": [
+          "city-building",
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Art of War",
+        "author": "Sun Tzu",
+        "rating": 4,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Becoming",
+        "author": "Michelle Obama",
+        "rating": 3,
+        "tags": [
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "I, Robot",
+        "author": "Isaac Asimov",
+        "rating": 4,
+        "tags": [
+          "technological-innovation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Measure What Matters",
+        "author": "John Doerr",
+        "rating": 3,
+        "tags": [
+          "technological-innovation",
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "How To Be a Capitalist Without Any Capital",
+        "author": "Nathan Latka",
+        "rating": 1,
+        "tags": [
+          "capital-allocation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Republic of Cicero",
+        "author": "Marcus Tullius Cicero",
+        "rating": 3,
+        "tags": [
+          "language-of-discourse"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Faith is Not Blind",
+        "author": "Bruce C. Hafen, Marie K. Hafen",
+        "rating": 3,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Shortest Way Home",
+        "author": "Pete Buttigieg",
+        "rating": 3,
+        "tags": [
+          "city-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Utopia For Realists",
+        "author": "Rutger Bregman",
+        "rating": 3,
+        "tags": [
+          "city-building",
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Catastrophic Care",
+        "author": "David Goldhill",
+        "rating": 3,
+        "tags": [
+          "city-building",
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Selected Writings of Ralph Waldo Emerson",
+        "author": "Ralph Waldo Emerson",
+        "rating": 4,
+        "tags": [
+          "language-of-discourse",
+          "republic-of-letters"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Invention of Russia",
+        "author": "Arkady Ostrovsky",
+        "rating": 2,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Digital Minimalism",
+        "author": "Cal Newport",
+        "rating": 3,
+        "tags": [
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Homo Deus",
+        "author": "Yuval Noah Harari",
+        "rating": 3,
+        "tags": [
+          "technological-innovation",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Gordon B. Hinckley: Go Forward With Faith",
+        "author": "Sheri L. Dew",
+        "rating": 4,
+        "tags": [
+          "religious-intellectualism",
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Howard W. Hunter",
+        "author": "Eleanor Knowles",
+        "rating": 2,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "American Sphinx",
+        "author": "Joseph J. Ellis",
+        "rating": 2,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Lock In",
+        "author": "John Scalzi",
+        "rating": 2,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "TED Talks: The Official TED Guide to Public Speaking",
+        "author": "Chris Anderson",
+        "rating": 2,
+        "tags": [
+          "language-of-discourse",
+          "republic-of-letters"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Netflixed",
+        "author": "Gina Keating",
+        "rating": 3,
+        "tags": [
+          "technological-innovation",
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Range",
+        "author": "David Epstein",
+        "rating": 3,
+        "tags": [
+          "republic-of-letters",
+          "open-source-knowledge"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Founders' Son",
+        "author": "Richard Brookhiser",
+        "rating": 3,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "21 Lessons for the 21st Century",
+        "author": "Yuval Noah Harari",
+        "rating": 2,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Red Rising",
+        "author": "Pierce Brown",
+        "rating": 5,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": true
+      },
+      {
+        "title": "Golden Son",
+        "author": "Pierce Brown",
+        "rating": 5,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Morning Star",
+        "author": "Pierce Brown",
+        "rating": 4,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The War on Normal People",
+        "author": "Andrew Yang",
+        "rating": 3,
+        "tags": [
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Stories I Only Tell My Friends",
+        "author": "Rob Lowe",
+        "rating": 2,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "Law of the Harvest",
+        "author": "David G. Stewart",
+        "rating": 3,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Iron Gold",
+        "author": "Pierce Brown",
+        "rating": 3,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      }
+    ],
+    "2020": [
+      {
+        "title": "Leonardo Da Vinci",
+        "author": "Walter Isaacson",
+        "rating": 4,
+        "tags": [
+          "technological-innovation",
+          "open-source-knowledge"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Product Led Growth: The End User Era",
+        "author": "OpenView Partners",
+        "rating": 2,
+        "tags": [
+          "capital-allocation",
+          "technological-innovation",
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Walt Disney and the Promise of Progress City",
+        "author": "Sam Gennawey",
+        "rating": 4,
+        "tags": [
+          "company-building",
+          "city-building",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "What It Takes",
+        "author": "Stephen A. Schwarzman",
+        "rating": 3,
+        "tags": [
+          "capital-allocation",
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Next Mormons",
+        "author": "Jana Riess",
+        "rating": 2,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Joseph Smith: Rough Stone Rolling",
+        "author": "Richard Lyman Bushman",
+        "rating": 5,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Brigham Young: Pioneer Prophet",
+        "author": "John G. Turner",
+        "rating": 3,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Life of John Taylor",
+        "author": "B. H. Roberts",
+        "rating": 3,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Poor Charlie's Almanack",
+        "author": "Charles T. Munger, Peter Kauffman",
+        "rating": 5,
+        "tags": [
+          "capital-allocation",
+          "company-building",
+          "open-source-knowledge"
+        ],
+        "quake": true
+      },
+      {
+        "title": "Berkshire Hathaway Annual Letters",
+        "author": "Warren Buffett",
+        "rating": 4,
+        "tags": [
+          "capital-allocation",
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Remote: Office Not Required",
+        "author": "Jason Fried, David Heinemeir Hansson",
+        "rating": 2,
+        "tags": [
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "rating": 4,
+        "tags": [
+          "company-building",
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Working in Public",
+        "author": "Nadia Eghbal",
+        "rating": 5,
+        "tags": [
+          "technological-innovation",
+          "republic-of-letters",
+          "open-source-knowledge"
+        ],
+        "quake": false
+      },
+      {
+        "title": "How To Take Smart Notes",
+        "author": "Sonke Ahrens",
+        "rating": 4,
+        "tags": [
+          "republic-of-letters",
+          "open-source-knowledge"
+        ],
+        "quake": false
+      }
+    ],
+    "2021": [
+      {
+        "title": "The Death of Expertise",
+        "author": "Tom Nichols",
+        "rating": 4,
+        "tags": [
+          "language-of-discourse",
+          "republic-of-letters"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Self-Driven Child",
+        "author": "William Stixrud, Ned Johnson",
+        "rating": 4,
+        "tags": [
+          "company-building",
+          "people-over-politics",
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Jeff Bezos and The Age of Amazon",
+        "author": "Brad Stone",
+        "rating": 4,
+        "tags": [
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Amazon Unbound",
+        "author": "Brad Stone",
+        "rating": 4,
+        "tags": [
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "How To Read a Book",
+        "author": "Mortimer J. Adler, Charles Van Doren",
+        "rating": 4,
+        "tags": [
+          "ideological-family-tree",
+          "republic-of-letters",
+          "open-source-knowledge"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Mistborn: The Final Empire",
+        "author": "Brandon Sanderson",
+        "rating": 5,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "The Well of Ascension",
+        "author": "Brandon Sanderson",
+        "rating": 4,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "The Hero of Ages",
+        "author": "Brandon Sanderson",
+        "rating": 4,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "The Alloy of Law",
+        "author": "Brandon Sanderson",
+        "rating": 4,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "Shadow of Self",
+        "author": "Brandon Sanderson",
+        "rating": 4,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "The Bands of Mourning",
+        "author": "Brandon Sanderson",
+        "rating": 4,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "The Great Mental Models Volume 1: General Thinking Concepts",
+        "author": "Shane Parrish",
+        "rating": 3,
+        "tags": [
+          "open-source-knowledge"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Reinventing Knowledge: From Alexandria To The Internet",
+        "author": "Ian F. McNeely, Lisa Wolverton",
+        "rating": 5,
+        "tags": [
+          "historical-futurism",
+          "republic-of-letters",
+          "open-source-knowledge"
+        ],
+        "quake": true
+      },
+      {
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel",
+        "rating": 5,
+        "tags": [
+          "capital-allocation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Saints: No Unhallowed Hand",
+        "author": "",
+        "rating": 4,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      }
+    ],
+    "2022": [
+      {
+        "title": "Mistborn: Secret History",
+        "author": "Brandon Sanderson",
+        "rating": 4,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "2034: A Novel of the Next World War",
+        "author": "Elliot Ackerman, Admiral James Stavridis",
+        "rating": 4,
+        "tags": [
+          "technological-innovation",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "How To Avoid a Climate Disaster",
+        "author": "Bill Gates",
+        "rating": 3,
+        "tags": [
+          "technological-innovation",
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Warbreaker",
+        "author": "Brandon Sanderson",
+        "rating": 3,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "Elantris",
+        "author": "Brandon Sanderson",
+        "rating": 4,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "The Crucible of Doubt",
+        "author": "Terryl Givens, Fiona Givens",
+        "rating": 4,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "China in Ten Words",
+        "author": "Yu Hua",
+        "rating": 3,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Greatest Minds and Ideas of All Time",
+        "author": "Will Durant",
+        "rating": 4,
+        "tags": [
+          "historical-futurism",
+          "open-source-knowledge"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Way of Kings",
+        "author": "Brandon Sanderson",
+        "rating": 5,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "The Priesthood Power of Women",
+        "author": "Barbara Morgan Gardner",
+        "rating": 4,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Ride of a Lifetime",
+        "author": "Robert Iger",
+        "rating": 3,
+        "tags": [
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Founders",
+        "author": "Jimmy Soni",
+        "rating": 4,
+        "tags": [
+          "company-building"
+        ],
+        "quake": false
+      }
+    ],
+    "2023": [
+      {
+        "title": "Words of Radiance",
+        "author": "Brandon Sanderson",
+        "rating": 4,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "The Power Law: Venture Capital & the Making of the New Future",
+        "author": "Sebastian Mallaby",
+        "rating": 5,
+        "tags": [
+          "capital-allocation",
+          "republic-of-letters"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Edgedancer",
+        "author": "Brandon Sanderson",
+        "rating": 3,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "Oathbringer",
+        "author": "Brandon Sanderson",
+        "rating": 4,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "The Lost Metal",
+        "author": "Brandon Sanderson",
+        "rating": 4,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "Talent",
+        "author": "Tyler Cowen, Daniel Gross",
+        "rating": 3,
+        "tags": [
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Dawnshard",
+        "author": "Brandon Sanderson",
+        "rating": 4,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "Rhythm of War",
+        "author": "Brandon Sanderson",
+        "rating": 4,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "Saints: Boldly, Nobly, and Independent",
+        "author": "",
+        "rating": 4,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Ballad of Songbirds & Snakes",
+        "author": "Suzanne Collins",
+        "rating": 3,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Almanack of Naval Ravikant",
+        "author": "Eric Jorgenson",
+        "rating": 4,
+        "tags": [
+          "capital-allocation",
+          "republic-of-letters",
+          "open-source-knowledge"
+        ],
+        "quake": false
+      }
+    ],
+    "2024": [
+      {
+        "title": "Leap of Faith",
+        "author": "Bob Bennett",
+        "rating": 5,
+        "tags": [
+          "religious-intellectualism",
+          "ideological-family-tree"
+        ],
+        "quake": true
+      },
+      {
+        "title": "Skunk Works",
+        "author": "Ben R. Rich",
+        "rating": 4,
+        "tags": [
+          "technological-innovation",
+          "company-building",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Kill Chain",
+        "author": "Christian Brose",
+        "rating": 4,
+        "tags": [
+          "technological-innovation",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Alcatraz vs. The Evil Librarians",
+        "author": "Brandon Sanderson",
+        "rating": 3,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "Snow Crash",
+        "author": "Neal Stephenson",
+        "rating": 4,
+        "tags": [
+          "technological-innovation",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "A Witness and a Warning",
+        "author": "Ezra Taft Benson",
+        "rating": 3,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "A Walk in the Woods",
+        "author": "Bill Bryson",
+        "rating": 5,
+        "tags": [
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "2034: A Novel of the Next World War",
+        "author": "Elliot Ackerman, Admiral James Stavridis",
+        "rating": 4,
+        "tags": [
+          "technological-innovation",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Boy Who Was Raised as a Dog",
+        "author": "Bruce D. Perry, Maia Szalavitz",
+        "rating": 4,
+        "tags": [
+          "people-over-politics",
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "2054",
+        "author": "Elliot Ackerman, Admiral James Stavridis",
+        "rating": 3,
+        "tags": [
+          "technological-innovation",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Demon Copperhead",
+        "author": "Barbara Kingsolver",
+        "rating": 5,
+        "tags": [
+          "people-over-politics",
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Braving The Wilderness",
+        "author": "Brene Brown",
+        "rating": 3,
+        "tags": [
+          "people-over-politics",
+          "language-of-discourse"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Crypto Confidential",
+        "author": "Nat Eliason",
+        "rating": 4,
+        "tags": [
+          "capital-allocation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Boy, The Mole, The Fox, and The Horse",
+        "author": "Charlie Mackery",
+        "rating": 3,
+        "tags": [
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Nuclear War: a Scenario",
+        "author": "Annie Jacobsen",
+        "rating": 5,
+        "tags": [
+          "technological-innovation",
+          "people-over-politics",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Hell Yeah or No",
+        "author": "Derek Sivers",
+        "rating": 4,
+        "tags": [
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Stop Asking Questions",
+        "author": "Andrew Warner",
+        "rating": 2,
+        "tags": [
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Driven",
+        "author": "Larry H. Miller",
+        "rating": 4,
+        "tags": [
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The BFG",
+        "author": "Roald Dahl",
+        "rating": 3,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "The Faith of a Scientist",
+        "author": "Henry Eyring",
+        "rating": 3,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Idea Factory",
+        "author": "Jon Gertner",
+        "rating": 5,
+        "tags": [
+          "technological-innovation",
+          "company-building",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Lonesome Dove",
+        "author": "Larry McMurtry",
+        "rating": 5,
+        "tags": [
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Discipline Is Destiny",
+        "author": "Ryan Holiday",
+        "rating": 4,
+        "tags": [
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Blood Meridian",
+        "author": "Cormac McCarthy",
+        "rating": 4,
+        "tags": [
+          "language-of-discourse"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Brave New World",
+        "author": "Alduous Huxley",
+        "rating": 4,
+        "tags": [
+          "historical-futurism",
+          "language-of-discourse"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Brave New World Revisited",
+        "author": "Alduous Huxley",
+        "rating": 3,
+        "tags": [
+          "historical-futurism",
+          "language-of-discourse"
+        ],
+        "quake": false
+      },
+      {
+        "title": "A Wrinkle In Time",
+        "author": "Madeleine L'Engle",
+        "rating": 3,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Romney: A Reckoning",
+        "author": "McKay Coppins",
+        "rating": 5,
+        "tags": [
+          "people-over-politics",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Patriot Games",
+        "author": "Tom Clancy",
+        "rating": 4,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "The Man From The Future",
+        "author": "Ananyo Bhattacharya",
+        "rating": 4,
+        "tags": [
+          "technological-innovation",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Without Remorse",
+        "author": "Tom Clancy",
+        "rating": 4,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "Chip War",
+        "author": "Chris Miller",
+        "rating": 5,
+        "tags": [
+          "technological-innovation",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Wicked",
+        "author": "Gregory Maguire",
+        "rating": 3,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "Restoration: God's Call To The 21st Century",
+        "author": "Patrick Q. Mason",
+        "rating": 3,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "All Systems Red",
+        "author": "Martha Wells",
+        "rating": 4,
+        "tags": [
+          "technological-innovation",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Streets of Laredo",
+        "author": "Larry McMurtry",
+        "rating": 3,
+        "tags": [
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Scrivener's Bones",
+        "author": "Brandon Sanderson",
+        "rating": 3,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "In This Economy?",
+        "author": "Kyla Scanlon",
+        "rating": 3,
+        "tags": [
+          "capital-allocation",
+          "people-over-politics"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Stretching The Heavens",
+        "author": "Terry L. Givens",
+        "rating": 5,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Poisonwood Bible",
+        "author": "Barbara Kingsolver",
+        "rating": 4,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Amusing Ourselves To Death",
+        "author": "Neil Postman",
+        "rating": 4,
+        "tags": [
+          "historical-futurism",
+          "language-of-discourse"
+        ],
+        "quake": false
+      }
+    ],
+    "2025": [
+      {
+        "title": "The Man Who Broke Capitalism",
+        "author": "David Gelles",
+        "rating": 5,
+        "tags": [
+          "company-building",
+          "historical-futurism"
+        ],
+        "quake": true
+      },
+      {
+        "title": "Flying Blind",
+        "author": "Peter Robison",
+        "rating": 4,
+        "tags": [
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "George F. Johnson and His Industrial Democracy",
+        "author": "William Inglis",
+        "rating": 4,
+        "tags": [
+          "company-building",
+          "city-building",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Boom: Bubbles & The End of Stagnation",
+        "author": "Byrne Hobart, Tobias Huber",
+        "rating": 4,
+        "tags": [
+          "capital-allocation",
+          "technological-innovation",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Wind and Truth",
+        "author": "Brandon Sanderson",
+        "rating": 4,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "Crime & Punishment",
+        "author": "Fyodor Dostoevsky",
+        "rating": 5,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": true
+      },
+      {
+        "title": "Metamorphosis",
+        "author": "Franz Kafka",
+        "rating": 3,
+        "tags": [
+          "language-of-discourse"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Red Rising",
+        "author": "Pierce Brown",
+        "rating": 5,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": true
+      },
+      {
+        "title": "Golden Son",
+        "author": "Pierce Brown",
+        "rating": 5,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Morning Star",
+        "author": "Pierce Brown",
+        "rating": 4,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Iron Gold",
+        "author": "Pierce Brown",
+        "rating": 3,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Dark Age",
+        "author": "Pierce Brown",
+        "rating": 4,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Artificial Condition",
+        "author": "Martha Wells",
+        "rating": 3,
+        "tags": [
+          "technological-innovation",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Rogue Protocol",
+        "author": "Martha Wells",
+        "rating": 3,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Exit Strategy",
+        "author": "Martha Wells",
+        "rating": 3,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Network Effect",
+        "author": "Martha Wells",
+        "rating": 3,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Fugitive Telemetry",
+        "author": "Martha Wells",
+        "rating": 3,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "System Collapse",
+        "author": "Martha Wells",
+        "rating": 3,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Foundation",
+        "author": "Isaac Asimov",
+        "rating": 4,
+        "tags": [
+          "technological-innovation",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Foundation & Empire",
+        "author": "Isaac Asimov",
+        "rating": 4,
+        "tags": [
+          "technological-innovation",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Project Hail Mary",
+        "author": "Andy Weir",
+        "rating": 5,
+        "tags": [
+          "technological-innovation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Time Machine",
+        "author": "H.G. Wells",
+        "rating": 3,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Sunrise on the Reaping",
+        "author": "Suzanne Collins",
+        "rating": 4,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Story of Your Life",
+        "author": "Ted Chiang",
+        "rating": 4,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Anthem",
+        "author": "Ayn Rand",
+        "rating": 4,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Courage To Be Disliked",
+        "author": "Ichiro Kishimi, Fumitake Koga",
+        "rating": 5,
+        "tags": [
+          "religious-intellectualism",
+          "ideological-family-tree"
+        ],
+        "quake": true
+      },
+      {
+        "title": "How To Live",
+        "author": "Derek Sivers",
+        "rating": 4,
+        "tags": [
+          "ideological-family-tree"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Black Swan",
+        "author": "Nassim Nicholas Taleb",
+        "rating": 3,
+        "tags": [
+          "capital-allocation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Greatest Sentence Ever Written",
+        "author": "Walter Isaacson",
+        "rating": 3,
+        "tags": [
+          "religious-intellectualism",
+          "republic-of-letters"
+        ],
+        "quake": false
+      },
+      {
+        "title": "American Zion",
+        "author": "Benjamin Park",
+        "rating": 4,
+        "tags": [
+          "religious-intellectualism",
+          "city-building",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Leonard J. Arrington & The Writing of Mormon History",
+        "author": "Gregory Prince",
+        "rating": 4,
+        "tags": [
+          "religious-intellectualism",
+          "republic-of-letters"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Book of Mormon",
+        "author": "",
+        "rating": 5,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Insider's View of Mormon Origin",
+        "author": "Grant H. Palmer",
+        "rating": 1,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      }
+    ]
   }
 }
