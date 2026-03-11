@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ideasData from '../../data/portfolio-ideas.json';
+import booksData from '../../data/books.json';
 
 export function getStaticPaths() {
   return ideasData.map((idea: any) => ({
@@ -10,215 +11,348 @@ export function getStaticPaths() {
 }
 
 const { idea } = Astro.props;
+
+// Gather books tagged with this idea
+const library = booksData.library as Record<string, any[]>;
+const ideaBooks: { title: string; author: string; rating: number; year: string }[] = [];
+for (const [year, books] of Object.entries(library)) {
+  for (const book of books) {
+    if (book.tags && book.tags.includes(idea.id)) {
+      ideaBooks.push({ title: book.title, author: book.author, rating: book.rating, year });
+    }
+  }
+}
+// Sort by rating desc, then year desc
+ideaBooks.sort((a, b) => b.rating - a.rating || Number(b.year) - Number(a.year));
+
+// Top-rated books for overview preview (rating 5 first)
+const topBooks = ideaBooks.filter(b => b.rating >= 5).slice(0, 5);
+const previewBooks = topBooks.length > 0 ? topBooks : ideaBooks.slice(0, 5);
+
+// Essays and feed from the idea data
+const ideaEssays = idea.essays || [];
+const ideaFeed = idea.feed || [];
 ---
 
 <BaseLayout title={idea.title} currentPage="portfolio">
+  <!-- Hero -->
   <div class="idea-hero">
     <a href="/portfolio" class="back-link">← Portfolio Ideas</a>
     <h1 class="page-title">{idea.title}</h1>
     <p class="idea-tagline">{idea.tagline}</p>
     <p class="idea-description">{idea.description}</p>
-  </div>
-
-  <div class="section-divider"></div>
-
-  <!-- Essays Section -->
-  <div class="idea-section">
-    <h2 class="section-heading">Essays <span class="dash">— {idea.essays.length > 0 ? idea.essays.length : 'none yet'}</span></h2>
-    {idea.essays.length > 0 ? (
-      <div class="idea-essays">
-        {idea.essays.map((slug: string) => (
-          <a href={`/essays/${slug}`} class="idea-essay-link">{slug.replace(/-/g, ' ')}</a>
-        ))}
+    <div class="idea-stats">
+      <div class="idea-stat">
+        <span class="idea-stat-number">{ideaEssays.length}</span>
+        <span class="idea-stat-label">Essays</span>
       </div>
-    ) : (
-      <p class="empty-note">Essays will be linked here as they're tagged to this idea.</p>
-    )}
-  </div>
-
-  <!-- Books Section -->
-  <div class="idea-section">
-    <h2 class="section-heading">Books <span class="dash">— {idea.books.length > 0 ? idea.books.length : 'none yet'}</span></h2>
-    {idea.books.length > 0 ? (
-      <div class="idea-books">
-        {idea.books.map((book: any) => (
-          <div class="idea-book-item">
-            <div class="idea-book-title">{book.title}</div>
-            <div class="idea-book-author">{book.author}</div>
-          </div>
-        ))}
+      <div class="idea-stat-divider"></div>
+      <div class="idea-stat">
+        <span class="idea-stat-number">{ideaBooks.length}</span>
+        <span class="idea-stat-label">Books</span>
       </div>
-    ) : (
-      <p class="empty-note">Books will appear here once tagged from the Bookshelf.</p>
-    )}
+      <div class="idea-stat-divider"></div>
+      <div class="idea-stat">
+        <span class="idea-stat-number">{ideaFeed.length}</span>
+        <span class="idea-stat-label">Saved</span>
+      </div>
+    </div>
   </div>
 
-  <!-- Feed Section -->
-  <div class="idea-section">
-    <h2 class="section-heading">Feed <span class="dash">— {idea.feed.length > 0 ? idea.feed.length : 'none yet'}</span></h2>
-    {idea.feed.length > 0 ? (
-      <div class="idea-feed">
-        {idea.feed.map((item: any) => (
-          <div class="feed-item">
-            <div class="feed-meta">
-              <span class="feed-type">{item.type}</span>
-              <span class="feed-source">{item.source}</span>
-              <span class="feed-date">{item.date}</span>
+  <!-- Tabs -->
+  <div class="idea-tabs">
+    <button class="idea-tab active" data-tab="overview">Overview</button>
+    <button class="idea-tab" data-tab="essays">Essays ({ideaEssays.length})</button>
+    <button class="idea-tab" data-tab="books">Books ({ideaBooks.length})</button>
+    <button class="idea-tab" data-tab="feed">Feed ({ideaFeed.length})</button>
+  </div>
+
+  <!-- OVERVIEW -->
+  <div class="idea-tab-content active" id="tab-overview">
+    <!-- Essays preview -->
+    <div class="idea-section">
+      <div class="idea-section-header">
+        <span class="idea-section-title">Recent Essays</span>
+        <button class="idea-section-link" data-switch-tab="essays">View all →</button>
+      </div>
+      {ideaEssays.length > 0 ? (
+        ideaEssays.slice(0, 3).map((slug: string) => (
+          <a href={`/essays/${slug}`} class="idea-essay-card">
+            <span class="idea-essay-title">{slug.replace(/-/g, ' ')}</span>
+          </a>
+        ))
+      ) : (
+        <p class="idea-empty">Essays will be linked here as they're tagged to this idea.</p>
+      )}
+    </div>
+
+    <!-- Books preview -->
+    <div class="idea-section">
+      <div class="idea-section-header">
+        <span class="idea-section-title">Key Books</span>
+        <button class="idea-section-link" data-switch-tab="books">View all →</button>
+      </div>
+      {previewBooks.length > 0 ? (
+        <div class="idea-books-scroll">
+          {previewBooks.map((book, i: number) => (
+            <div class="idea-book-card">
+              <div class="idea-book-cover" style={`background: linear-gradient(135deg, hsl(${15 + i * 40}, 55%, 38%) 0%, hsl(${15 + i * 40}, 45%, 25%) 100%);`}></div>
+              <div class="idea-book-card-title">{book.title}</div>
+              <div class="idea-book-card-author">{book.author}</div>
             </div>
-            <div class="feed-content">{item.content}</div>
-            {item.tags && item.tags.length > 0 && (
-              <div class="feed-tags">
-                {item.tags.map((tag: string) => (
-                  <span class="feed-tag">{tag}</span>
-                ))}
+          ))}
+        </div>
+      ) : (
+        <p class="idea-empty">Books will appear here once tagged from the Bookshelf.</p>
+      )}
+    </div>
+
+    <!-- Feed preview -->
+    <div class="idea-section">
+      <div class="idea-section-header">
+        <span class="idea-section-title">Latest Saved</span>
+        <button class="idea-section-link" data-switch-tab="feed">View all →</button>
+      </div>
+      {ideaFeed.length > 0 ? (
+        ideaFeed.slice(0, 3).map((item: any) => (
+          <div class="idea-feed-item">
+            <span class="idea-feed-icon">{item.type === 'tweet' ? '𝕏' : item.type === 'article' ? '📰' : item.type === 'podcast' ? '🎧' : '📖'}</span>
+            <div class="idea-feed-body">
+              <div class="idea-feed-meta">
+                <span class="idea-feed-source">{item.source}</span>
+                <span class="idea-feed-date">{item.date}</span>
               </div>
-            )}
+              <div class="idea-feed-content">{item.content}</div>
+            </div>
+          </div>
+        ))
+      ) : (
+        <p class="idea-empty">Saved tweets, articles, podcasts, and notes will accumulate here over time.</p>
+      )}
+    </div>
+  </div>
+
+  <!-- ESSAYS -->
+  <div class="idea-tab-content" id="tab-essays" style="display:none;">
+    {ideaEssays.length > 0 ? (
+      <div class="idea-essay-list">
+        {ideaEssays.map((slug: string) => (
+          <a href={`/essays/${slug}`} class="idea-essay-card">
+            <span class="idea-essay-title">{slug.replace(/-/g, ' ')}</span>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <p class="idea-empty">Essays will be linked here as they're tagged to this idea.</p>
+    )}
+  </div>
+
+  <!-- BOOKS -->
+  <div class="idea-tab-content" id="tab-books" style="display:none;">
+    {ideaBooks.length > 0 ? (
+      <div class="idea-book-list">
+        {ideaBooks.map((book) => (
+          <div class="idea-book-row">
+            <div class="idea-book-dots">
+              {[1,2,3,4,5].map((star: number) => (
+                <div class={`idea-dot ${star <= book.rating ? 'filled' : ''}`}></div>
+              ))}
+            </div>
+            <div class="idea-book-info">
+              <span class="idea-book-title">{book.title}</span>
+              <span class="idea-book-author">{book.author}</span>
+            </div>
+            <span class="idea-book-year">{book.year}</span>
           </div>
         ))}
       </div>
     ) : (
-      <p class="empty-note">Saved tweets, articles, podcasts, and notes will accumulate here over time.</p>
+      <p class="idea-empty">Books will appear here once tagged from the Bookshelf.</p>
     )}
   </div>
+
+  <!-- FEED -->
+  <div class="idea-tab-content" id="tab-feed" style="display:none;">
+    {ideaFeed.length > 0 ? (
+      <div class="idea-feed-list">
+        {ideaFeed.map((item: any) => (
+          <div class="idea-feed-item-full">
+            <div class="idea-feed-icon-box">
+              {item.type === 'tweet' ? '𝕏' : item.type === 'article' ? '📰' : item.type === 'podcast' ? '🎧' : '📖'}
+            </div>
+            <div class="idea-feed-body">
+              <div class="idea-feed-meta">
+                <span class="idea-feed-type">{item.type}</span>
+                <span class="idea-feed-source">{item.source}</span>
+                <span class="idea-feed-date">{item.date}</span>
+              </div>
+              <div class="idea-feed-content">{item.content}</div>
+            </div>
+          </div>
+        ))}
+      </div>
+    ) : (
+      <div class="idea-feed-empty-box">
+        <div class="idea-feed-empty-title">This feed is empty for now</div>
+        <div class="idea-feed-empty-desc">The daily dump workflow will populate this section over time. Paste tweets, articles, and notes into Claude, and they'll be classified and added here.</div>
+      </div>
+    )}
+  </div>
+
+  <script is:inline>
+    // Tab switching
+    document.querySelectorAll('.idea-tab').forEach(tab => {
+      tab.addEventListener('click', () => {
+        document.querySelectorAll('.idea-tab').forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        document.querySelectorAll('.idea-tab-content').forEach(c => c.style.display = 'none');
+        const target = tab.dataset.tab;
+        const el = document.getElementById('tab-' + target);
+        if (el) { el.style.display = 'block'; el.classList.add('active'); }
+      });
+    });
+    // "View all" links in overview
+    document.querySelectorAll('[data-switch-tab]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const target = btn.dataset.switchTab;
+        const tab = document.querySelector(`.idea-tab[data-tab="${target}"]`);
+        if (tab) tab.click();
+      });
+    });
+  </script>
 </BaseLayout>
 
 <style>
-  .idea-hero {
-    margin-bottom: 8px;
-  }
+  .idea-hero { margin-bottom: 0; }
   .back-link {
-    font-size: 12px;
-    color: var(--text-tertiary);
-    text-decoration: none;
-    display: inline-block;
-    margin-bottom: 16px;
-    transition: color 0.15s ease;
+    font-size: 12px; color: var(--text-tertiary); text-decoration: none;
+    display: inline-block; margin-bottom: 16px; transition: color 0.15s ease;
   }
-  .back-link:hover {
-    color: var(--accent);
-  }
+  .back-link:hover { color: var(--accent); }
   .idea-tagline {
-    font-family: var(--font-display);
-    font-style: italic;
-    color: var(--accent);
-    font-size: 15px;
-    margin-bottom: 16px;
-    margin-top: -2px;
+    font-family: var(--font-display); font-style: italic; color: var(--accent);
+    font-size: 15px; margin-bottom: 16px; margin-top: -2px;
   }
   .idea-description {
-    font-size: 14px;
-    color: var(--text-secondary);
-    line-height: 1.7;
-    max-width: 600px;
+    font-size: 14px; color: var(--text-secondary); line-height: 1.7; max-width: 600px;
   }
-  .idea-section {
-    margin-bottom: 32px;
+  .idea-stats {
+    display: flex; gap: 16px; margin-top: 20px;
   }
-  .empty-note {
-    font-size: 13px;
-    color: var(--text-tertiary);
-    font-style: italic;
-    padding: 16px 0;
+  .idea-stat { display: flex; align-items: center; gap: 6px; }
+  .idea-stat-number { color: var(--accent); font-size: 18px; font-weight: 700; }
+  .idea-stat-label { color: var(--text-tertiary); font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; }
+  .idea-stat-divider { width: 1px; background: var(--border); align-self: stretch; }
+
+  /* Tabs */
+  .idea-tabs {
+    display: flex; gap: 0; border-bottom: 1px solid var(--border);
+    margin: 24px 0 0; padding: 0;
+  }
+  .idea-tab {
+    background: none; border: none; color: var(--text-tertiary);
+    font-family: var(--font-body); font-size: 13px; font-weight: 600;
+    padding: 12px 18px; cursor: pointer;
+    border-bottom: 2px solid transparent; transition: all 0.15s ease;
+  }
+  .idea-tab:hover { color: var(--text-secondary); }
+  .idea-tab.active { color: var(--text); border-bottom-color: var(--accent); }
+
+  .idea-tab-content { padding-top: 24px; }
+
+  /* Sections in overview */
+  .idea-section { margin-bottom: 32px; }
+  .idea-section-header {
+    display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px;
+  }
+  .idea-section-title {
+    color: var(--text-secondary); font-size: 12px; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 0.06em;
+  }
+  .idea-section-link {
+    background: none; border: none; color: var(--accent);
+    font-size: 12px; cursor: pointer; font-family: inherit;
+  }
+  .idea-empty {
+    font-size: 13px; color: var(--text-tertiary); font-style: italic; padding: 16px 0;
   }
 
-  /* Essay links */
-  .idea-essays {
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
+  /* Essay cards */
+  .idea-essay-card {
+    display: block; text-decoration: none;
+    background: var(--bg-card); border: 1px solid var(--border); border-radius: 10px;
+    padding: 14px; margin-bottom: 8px; transition: border-color 0.15s ease;
   }
-  .idea-essay-link {
-    font-size: 14px;
-    color: var(--text);
-    text-decoration: none;
-    padding: 10px 14px;
-    background: var(--bg-card);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    text-transform: capitalize;
+  .idea-essay-card:hover { border-color: var(--accent); }
+  .idea-essay-title {
+    color: var(--text); font-size: 14px; font-weight: 500; text-transform: capitalize;
+  }
+  .idea-essay-list { display: flex; flex-direction: column; gap: 8px; }
+
+  /* Book cards in overview */
+  .idea-books-scroll { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 4px; }
+  .idea-book-card {
+    min-width: 140px; background: var(--bg-card); border: 1px solid var(--border);
+    border-radius: 10px; padding: 14px; text-align: center; flex-shrink: 0;
+  }
+  .idea-book-cover {
+    width: 40px; height: 56px; border-radius: 3px;
+    margin: 0 auto 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  }
+  .idea-book-card-title { color: var(--text); font-size: 12px; font-weight: 500; line-height: 1.3; }
+  .idea-book-card-author { color: var(--text-tertiary); font-size: 10px; margin-top: 4px; }
+
+  /* Book list in books tab */
+  .idea-book-list { display: flex; flex-direction: column; gap: 4px; }
+  .idea-book-row {
+    display: flex; align-items: center; gap: 14px; padding: 10px 14px;
+    background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px;
     transition: border-color 0.15s ease;
   }
-  .idea-essay-link:hover {
-    border-color: var(--accent);
-  }
-
-  /* Book items */
-  .idea-books {
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-  }
-  .idea-book-item {
-    padding: 10px 14px;
-    background: var(--bg-card);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-  }
+  .idea-book-row:hover { border-color: var(--text-tertiary); }
+  .idea-book-dots { display: flex; gap: 3px; flex-shrink: 0; width: 52px; }
+  .idea-dot { width: 7px; height: 7px; border-radius: 2px; background: var(--border); }
+  .idea-dot.filled { background: var(--accent); }
+  .idea-book-info { flex: 1; min-width: 0; }
   .idea-book-title {
-    font-size: 14px;
-    font-weight: 500;
-    color: var(--text);
+    font-size: 13px; font-weight: 500; color: var(--text);
+    display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
   }
-  .idea-book-author {
-    font-size: 12px;
-    color: var(--text-tertiary);
-    margin-top: 2px;
-  }
+  .idea-book-author { font-size: 11px; color: var(--text-tertiary); display: block; margin-top: 1px; }
+  .idea-book-year { font-size: 11px; color: var(--text-tertiary); flex-shrink: 0; font-family: var(--font-mono); }
 
   /* Feed items */
-  .idea-feed {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
+  .idea-feed-item, .idea-feed-item-full {
+    display: flex; gap: 12px; align-items: flex-start;
+    background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px;
+    padding: 12px; margin-bottom: 6px;
   }
-  .feed-item {
-    padding: 12px 14px;
-    background: var(--bg-card);
-    border: 1px solid var(--border);
-    border-radius: 8px;
+  .idea-feed-icon { font-size: 16px; flex-shrink: 0; margin-top: 1px; }
+  .idea-feed-icon-box {
+    width: 36px; height: 36px; border-radius: 8px; background: var(--tag-bg);
+    display: flex; align-items: center; justify-content: center; font-size: 16px; flex-shrink: 0;
   }
-  .feed-meta {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    margin-bottom: 6px;
+  .idea-feed-body { flex: 1; min-width: 0; }
+  .idea-feed-meta { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
+  .idea-feed-type {
+    font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em;
+    color: var(--accent); background: var(--nav-active); padding: 2px 6px; border-radius: 3px;
   }
-  .feed-type {
-    font-size: 10px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-    color: var(--accent);
-    background: var(--nav-active);
-    padding: 2px 6px;
-    border-radius: 3px;
+  .idea-feed-source { color: var(--text-secondary); font-size: 12px; font-weight: 500; }
+  .idea-feed-date { color: var(--text-tertiary); font-size: 11px; margin-left: auto; }
+  .idea-feed-content { color: var(--text); font-size: 13px; line-height: 1.5; }
+  .idea-feed-list { display: flex; flex-direction: column; gap: 8px; }
+
+  /* Empty feed box */
+  .idea-feed-empty-box {
+    background: var(--nav-active); border: 1px solid var(--accent);
+    border-radius: 10px; padding: 16px; opacity: 0.7;
   }
-  .feed-source {
-    font-size: 12px;
-    color: var(--text-secondary);
-    font-weight: 500;
-  }
-  .feed-date {
-    font-size: 11px;
-    color: var(--text-tertiary);
-    margin-left: auto;
-  }
-  .feed-content {
-    font-size: 13px;
-    color: var(--text);
-    line-height: 1.5;
-  }
-  .feed-tags {
-    display: flex;
-    gap: 4px;
-    margin-top: 8px;
-  }
-  .feed-tag {
-    font-size: 10px;
-    color: var(--text-tertiary);
-    background: var(--tag-bg);
-    border: 1px solid var(--border);
-    padding: 2px 6px;
-    border-radius: 3px;
+  .idea-feed-empty-title { color: var(--accent); font-size: 13px; font-weight: 600; margin-bottom: 6px; }
+  .idea-feed-empty-desc { color: var(--text-secondary); font-size: 12px; line-height: 1.6; }
+
+  @media (max-width: 640px) {
+    .idea-book-year { display: none; }
+    .idea-stats { gap: 12px; }
   }
 </style>
