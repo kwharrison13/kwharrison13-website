@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ideasData from '../../data/portfolio-ideas.json';
 import booksData from '../../data/books.json';
+import { getCollection } from 'astro:content';
 
 export function getStaticPaths() {
   return ideasData.map((idea: any) => ({
@@ -22,15 +23,36 @@ for (const [year, books] of Object.entries(library)) {
     }
   }
 }
-// Sort by rating desc, then year desc
 ideaBooks.sort((a, b) => b.rating - a.rating || Number(b.year) - Number(a.year));
 
-// Top-rated books for overview preview (rating 5 first)
 const topBooks = ideaBooks.filter(b => b.rating >= 5).slice(0, 5);
 const previewBooks = topBooks.length > 0 ? topBooks : ideaBooks.slice(0, 5);
 
-// Essays and feed from the idea data
-const ideaEssays = idea.essays || [];
+// Resolve essay slugs to real titles and dates from the content collection
+const allEssays = await getCollection('essays');
+const essaySlugs = idea.essays || [];
+const ideaEssays: { slug: string; title: string; date: string; excerpt: string }[] = [];
+for (const slug of essaySlugs) {
+  const found = allEssays.find((e: any) => e.slug === slug || e.id === slug || e.id === slug + '.md');
+  if (found) {
+    ideaEssays.push({
+      slug: found.slug || found.id.replace(/\.md$/, ''),
+      title: found.data.title || slug.replace(/-/g, ' '),
+      date: found.data.date || '',
+      excerpt: found.data.excerpt || '',
+    });
+  } else {
+    ideaEssays.push({ slug, title: slug.replace(/-/g, ' '), date: '', excerpt: '' });
+  }
+}
+// Sort essays by date descending
+ideaEssays.sort((a, b) => {
+  if (!a.date && !b.date) return 0;
+  if (!a.date) return 1;
+  if (!b.date) return -1;
+  return new Date(b.date).getTime() - new Date(a.date).getTime();
+});
+
 const ideaFeed = idea.feed || [];
 ---
 
@@ -76,9 +98,13 @@ const ideaFeed = idea.feed || [];
         <button class="idea-section-link" data-switch-tab="essays">View all →</button>
       </div>
       {ideaEssays.length > 0 ? (
-        ideaEssays.slice(0, 3).map((slug: string) => (
-          <a href={`/essays/${slug}`} class="idea-essay-card">
-            <span class="idea-essay-title">{slug.replace(/-/g, ' ')}</span>
+        ideaEssays.slice(0, 3).map((essay: any) => (
+          <a href={`/essays/${essay.slug}`} class="idea-essay-card">
+            <div class="idea-essay-header">
+              <span class="idea-essay-title">{essay.title}</span>
+              {essay.date && <span class="idea-essay-date">{new Date(essay.date).toLocaleDateString('en-US', { year: 'numeric', month: 'short' })}</span>}
+            </div>
+            {essay.excerpt && <div class="idea-essay-excerpt">{essay.excerpt.slice(0, 120)}...</div>}
           </a>
         ))
       ) : (
@@ -136,9 +162,13 @@ const ideaFeed = idea.feed || [];
   <div class="idea-tab-content" id="tab-essays" style="display:none;">
     {ideaEssays.length > 0 ? (
       <div class="idea-essay-list">
-        {ideaEssays.map((slug: string) => (
-          <a href={`/essays/${slug}`} class="idea-essay-card">
-            <span class="idea-essay-title">{slug.replace(/-/g, ' ')}</span>
+        {ideaEssays.map((essay: any) => (
+          <a href={`/essays/${essay.slug}`} class="idea-essay-card">
+            <div class="idea-essay-header">
+              <span class="idea-essay-title">{essay.title}</span>
+              {essay.date && <span class="idea-essay-date">{new Date(essay.date).toLocaleDateString('en-US', { year: 'numeric', month: 'short' })}</span>}
+            </div>
+            {essay.excerpt && <div class="idea-essay-excerpt">{essay.excerpt.slice(0, 160)}...</div>}
           </a>
         ))}
       </div>
@@ -284,9 +314,12 @@ const ideaFeed = idea.feed || [];
     padding: 14px; margin-bottom: 8px; transition: border-color 0.15s ease;
   }
   .idea-essay-card:hover { border-color: var(--accent); }
+  .idea-essay-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; }
   .idea-essay-title {
-    color: var(--text); font-size: 14px; font-weight: 500; text-transform: capitalize;
+    color: var(--text); font-size: 14px; font-weight: 500;
   }
+  .idea-essay-date { color: var(--text-tertiary); font-size: 11px; flex-shrink: 0; white-space: nowrap; margin-top: 2px; }
+  .idea-essay-excerpt { color: var(--text-secondary); font-size: 12px; line-height: 1.5; margin-top: 6px; }
   .idea-essay-list { display: flex; flex-direction: column; gap: 8px; }
 
   /* Book cards in overview */
