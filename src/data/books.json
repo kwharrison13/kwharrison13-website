@@ -23,7 +23,7 @@
     {
       "title": "Red Rising",
       "author": "Pierce Brown",
-      "cover": "",
+      "cover": "/images/books/red-rising.jpeg",
       "year_read": 2019,
       "tags": [
         "historical-futurism"
@@ -54,7 +54,7 @@
     {
       "title": "The Man Who Broke Capitalism",
       "author": "David Gelles",
-      "cover": "",
+      "cover": "/images/books/man-who-broke-capitalism.jpeg",
       "year_read": 2025,
       "tags": [
         "company-building",
@@ -64,7 +64,7 @@
     {
       "title": "Crime & Punishment",
       "author": "Fyodor Dostoevsky",
-      "cover": "",
+      "cover": "/images/books/crime-and-punishment.jpeg",
       "year_read": 2025,
       "tags": [
         "religious-intellectualism"
