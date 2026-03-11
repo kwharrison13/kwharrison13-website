@@ -1,41 +1,31 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-
-const ideas = [
-  {
-    title: "Investing 101 2.0",
-    slug: "investing-101",
-    desc: "The art of investing is taking finite resources (time, energy, money, attention) and employing them to optimize an outcome. I'm fascinated by the first principles of what it means to simultaneously learn to become a great investor while reinventing the art form."
-  },
-  {
-    title: "Live The Library",
-    slug: "live-the-library",
-    desc: "\"When you find a writer whose words enter your mind with deep impact and influence, pay attention.\" I constantly look to collect ideas from the people who most effectively inspire me."
-  },
-  {
-    title: "Historical Futurism",
-    slug: "historical-futurism",
-    desc: "Ever since I came across the Institute For The Future, I've been fascinated with how people predict the future — and how we can look at previous predictions to understand it."
-  },
-  {
-    title: "Open-Source Knowledge",
-    slug: "open-source-knowledge",
-    desc: "More people should treat their ideas like software that is open source, and in active development. Instead, people treat their ideas like a bridge; stable, but slowly decaying."
-  },
-];
+import ideasData from '../data/portfolio-ideas.json';
 ---
 
 <BaseLayout title="Portfolio Ideas" currentPage="portfolio">
   <h1 class="page-title">Portfolio Ideas</h1>
-  <p class="page-subtitle">Big ideas worth taking seriously.</p>
+  <p class="page-subtitle">
+    What are the conditions — institutional, technological, cultural, financial, physical, ideological — under which humans build things that compound across generations?
+  </p>
   <div class="section-divider"></div>
 
-  {ideas.map((p) => (
-    <a href={`/portfolio/${p.slug}`} style="text-decoration: none; color: inherit;">
-      <div class="idea-card">
-        <h3>{p.title} <span style="font-size: 14px; color: var(--text-tertiary);">→</span></h3>
-        <p>{p.desc}</p>
-      </div>
+  {ideasData.map((idea: any) => (
+    <a href={`/portfolio/${idea.id}`} class="idea-card" style="text-decoration: none; display: block;">
+      <h3>{idea.title}</h3>
+      <p class="idea-tagline">{idea.tagline}</p>
+      <p>{idea.description.length > 200 ? idea.description.slice(0, 200) + '...' : idea.description}</p>
     </a>
   ))}
 </BaseLayout>
+
+<style>
+  .idea-tagline {
+    font-family: var(--font-display);
+    font-style: italic;
+    color: var(--accent);
+    font-size: 13px;
+    margin-bottom: 8px;
+    margin-top: -4px;
+  }
+</style>

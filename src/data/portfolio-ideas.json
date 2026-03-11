@@ -1,0 +1,101 @@
+[
+  {
+    "id": "capital-allocation",
+    "title": "Capital Allocation",
+    "tagline": "How money shapes what gets built",
+    "description": "The mechanisms through which capital flows determine what exists in the world — from venture backing of startups to public market investment to debt structures to government spending. Encompasses the psychology of investing (hype cycles, groupthink, bubbles), frameworks for calculating ROI across different asset classes, and the comparative effectiveness of different capital deployment mechanisms.",
+    "essays": [],
+    "books": [],
+    "feed": []
+  },
+  {
+    "id": "technological-innovation",
+    "title": "Technological Innovation",
+    "tagline": "How breakthroughs happen and propagate",
+    "description": "The study of how technology advances, what makes a breakthrough (vs. incremental improvement), and how markets, social behavior, and institutional structures shape the pace and direction of innovation. Includes analysis of specific technologies and sectors, identification of emerging trends, and understanding the interplay between invention (technical possibility) and adoption (market/social reality).",
+    "essays": [],
+    "books": [],
+    "feed": []
+  },
+  {
+    "id": "company-building",
+    "title": "Company Building",
+    "tagline": "The architecture of organizational excellence",
+    "description": "How companies are built as enduring organizations — including organizational structure, employee incentives, cultural norms, and operational systems. Extends beyond conventional startups to innovation institutions (Bell Labs, Disney's Imagineers, IBM's Wild Ducks, Edison's Muckers) and alternative ownership/incentive models. The question is always: what makes an organization capable of sustained excellence?",
+    "essays": [],
+    "books": [],
+    "feed": []
+  },
+  {
+    "id": "religious-intellectualism",
+    "title": "Religious Intellectualism",
+    "tagline": "Faith, reason, and the search for ultimate meaning",
+    "description": "The pursuit of religious truth through rigorous intellectual inquiry, including Mormon apologetics and philosophy, Christian apologetics more broadly, and the reconciliation of faith and science. The core interest is treating religious questions with the same intellectual seriousness as any other domain — not faith vs. reason, but faith through reason.",
+    "essays": [],
+    "books": [],
+    "feed": []
+  },
+  {
+    "id": "city-building",
+    "title": "City Building",
+    "tagline": "The design of human flourishing at scale",
+    "description": "What makes cities work as engines of human potential — quality of life, effective services, vibrant culture, economic opportunity, all delivered through competent governance. Includes the study of visionary city projects (Walt Disney's EPCOT, Joseph Smith's Nauvoo, modern New Cities like California Forever), and the question of whether cities can be built intentionally around companies.",
+    "essays": [],
+    "books": [],
+    "feed": []
+  },
+  {
+    "id": "people-over-politics",
+    "title": "People Over Politics",
+    "tagline": "Policy through the lens of human outcomes",
+    "description": "An attempt to understand policy divorced from partisan tribalism — focused instead on what actually works to solve problems like crime, homelessness, inflation, unemployment, immigration, and energy. The belief that good solutions exist and can be identified through honest evaluation of evidence and human impact.",
+    "essays": [],
+    "books": [],
+    "feed": []
+  },
+  {
+    "id": "historical-futurism",
+    "title": "Historical Futurism",
+    "tagline": "Learning from how the past imagined tomorrow",
+    "description": "The study of history not as a static record but as a laboratory of attempted futures — how did people in the past envision progress, what solutions did they try, what worked, what failed, and what remains relevant? Encompasses classic histories, the history of ideas through science fiction, and the mining of old proposals for insights applicable now.",
+    "essays": [],
+    "books": [],
+    "feed": []
+  },
+  {
+    "id": "language-of-discourse",
+    "title": "The Language of Discourse",
+    "tagline": "Rhetoric, persuasion, and the mechanics of shared understanding",
+    "description": "How language shapes collective action — the study of rhetoric (Cicero, John Quincy Adams), the mechanics of persuasion (manifestos, vision statements, rallying cries), and the darker arts of manipulation and propaganda. The goal is to understand both how to communicate truth effectively and how to recognize when language is being weaponized against truth.",
+    "essays": [],
+    "books": [],
+    "feed": []
+  },
+  {
+    "id": "ideological-family-tree",
+    "title": "Ideological Family Tree",
+    "tagline": "Preserving and transmitting wisdom across generations",
+    "description": "The commitment to creating a multi-generational record of ideas, stories, and wisdom through systematic documentation — weekly letters to children, personal journaling, interviews with family members, and the curation of a family intellectual history. The belief that ideas and values compound across generations only if they're deliberately preserved and transmitted.",
+    "essays": [],
+    "books": [],
+    "feed": []
+  },
+  {
+    "id": "republic-of-letters",
+    "title": "The Republic of Letters 2.0",
+    "tagline": "The new infrastructure of distributed intellectual production",
+    "description": "The transformation of knowledge creation from institutionally-gatekept to distributed networks of independent thinkers. Historically, the Republic of Letters bypassed official institutions through correspondence networks that catalyzed the Enlightenment. Today, the internet enables a similar dynamic at scale. The questions are: What are the new social technologies for intellectual exchange? How do credibility and quality emerge without formal gatekeeping?",
+    "essays": [],
+    "books": [],
+    "feed": []
+  },
+  {
+    "id": "open-source-knowledge",
+    "title": "Open-Source Knowledge",
+    "tagline": "Ideas as infrastructure, not artifacts",
+    "description": "The belief that knowledge should be treated like open-source software — living, interconnected, forkable, and in continuous development — rather than static publications that slowly decay. This encompasses the study and construction of knowledge management systems, collaborative knowledge platforms, and the philosophy that ideas compound fastest when they're publicly legible, modular, and built to be extended by others.",
+    "essays": [],
+    "books": [],
+    "feed": []
+  }
+]

@@ -1,0 +1,224 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ideasData from '../../data/portfolio-ideas.json';
+
+export function getStaticPaths() {
+  return ideasData.map((idea: any) => ({
+    params: { slug: idea.id },
+    props: { idea },
+  }));
+}
+
+const { idea } = Astro.props;
+---
+
+<BaseLayout title={idea.title} currentPage="portfolio">
+  <div class="idea-hero">
+    <a href="/portfolio" class="back-link">← Portfolio Ideas</a>
+    <h1 class="page-title">{idea.title}</h1>
+    <p class="idea-tagline">{idea.tagline}</p>
+    <p class="idea-description">{idea.description}</p>
+  </div>
+
+  <div class="section-divider"></div>
+
+  <!-- Essays Section -->
+  <div class="idea-section">
+    <h2 class="section-heading">Essays <span class="dash">— {idea.essays.length > 0 ? idea.essays.length : 'none yet'}</span></h2>
+    {idea.essays.length > 0 ? (
+      <div class="idea-essays">
+        {idea.essays.map((slug: string) => (
+          <a href={`/essays/${slug}`} class="idea-essay-link">{slug.replace(/-/g, ' ')}</a>
+        ))}
+      </div>
+    ) : (
+      <p class="empty-note">Essays will be linked here as they're tagged to this idea.</p>
+    )}
+  </div>
+
+  <!-- Books Section -->
+  <div class="idea-section">
+    <h2 class="section-heading">Books <span class="dash">— {idea.books.length > 0 ? idea.books.length : 'none yet'}</span></h2>
+    {idea.books.length > 0 ? (
+      <div class="idea-books">
+        {idea.books.map((book: any) => (
+          <div class="idea-book-item">
+            <div class="idea-book-title">{book.title}</div>
+            <div class="idea-book-author">{book.author}</div>
+          </div>
+        ))}
+      </div>
+    ) : (
+      <p class="empty-note">Books will appear here once tagged from the Bookshelf.</p>
+    )}
+  </div>
+
+  <!-- Feed Section -->
+  <div class="idea-section">
+    <h2 class="section-heading">Feed <span class="dash">— {idea.feed.length > 0 ? idea.feed.length : 'none yet'}</span></h2>
+    {idea.feed.length > 0 ? (
+      <div class="idea-feed">
+        {idea.feed.map((item: any) => (
+          <div class="feed-item">
+            <div class="feed-meta">
+              <span class="feed-type">{item.type}</span>
+              <span class="feed-source">{item.source}</span>
+              <span class="feed-date">{item.date}</span>
+            </div>
+            <div class="feed-content">{item.content}</div>
+            {item.tags && item.tags.length > 0 && (
+              <div class="feed-tags">
+                {item.tags.map((tag: string) => (
+                  <span class="feed-tag">{tag}</span>
+                ))}
+              </div>
+            )}
+          </div>
+        ))}
+      </div>
+    ) : (
+      <p class="empty-note">Saved tweets, articles, podcasts, and notes will accumulate here over time.</p>
+    )}
+  </div>
+</BaseLayout>
+
+<style>
+  .idea-hero {
+    margin-bottom: 8px;
+  }
+  .back-link {
+    font-size: 12px;
+    color: var(--text-tertiary);
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 16px;
+    transition: color 0.15s ease;
+  }
+  .back-link:hover {
+    color: var(--accent);
+  }
+  .idea-tagline {
+    font-family: var(--font-display);
+    font-style: italic;
+    color: var(--accent);
+    font-size: 15px;
+    margin-bottom: 16px;
+    margin-top: -2px;
+  }
+  .idea-description {
+    font-size: 14px;
+    color: var(--text-secondary);
+    line-height: 1.7;
+    max-width: 600px;
+  }
+  .idea-section {
+    margin-bottom: 32px;
+  }
+  .empty-note {
+    font-size: 13px;
+    color: var(--text-tertiary);
+    font-style: italic;
+    padding: 16px 0;
+  }
+
+  /* Essay links */
+  .idea-essays {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .idea-essay-link {
+    font-size: 14px;
+    color: var(--text);
+    text-decoration: none;
+    padding: 10px 14px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    text-transform: capitalize;
+    transition: border-color 0.15s ease;
+  }
+  .idea-essay-link:hover {
+    border-color: var(--accent);
+  }
+
+  /* Book items */
+  .idea-books {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .idea-book-item {
+    padding: 10px 14px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+  }
+  .idea-book-title {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--text);
+  }
+  .idea-book-author {
+    font-size: 12px;
+    color: var(--text-tertiary);
+    margin-top: 2px;
+  }
+
+  /* Feed items */
+  .idea-feed {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .feed-item {
+    padding: 12px 14px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+  }
+  .feed-meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 6px;
+  }
+  .feed-type {
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--accent);
+    background: var(--nav-active);
+    padding: 2px 6px;
+    border-radius: 3px;
+  }
+  .feed-source {
+    font-size: 12px;
+    color: var(--text-secondary);
+    font-weight: 500;
+  }
+  .feed-date {
+    font-size: 11px;
+    color: var(--text-tertiary);
+    margin-left: auto;
+  }
+  .feed-content {
+    font-size: 13px;
+    color: var(--text);
+    line-height: 1.5;
+  }
+  .feed-tags {
+    display: flex;
+    gap: 4px;
+    margin-top: 8px;
+  }
+  .feed-tag {
+    font-size: 10px;
+    color: var(--text-tertiary);
+    background: var(--tag-bg);
+    border: 1px solid var(--border);
+    padding: 2px 6px;
+    border-radius: 3px;
+  }
+</style>
