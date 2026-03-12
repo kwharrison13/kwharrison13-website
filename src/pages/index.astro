@@ -20,7 +20,6 @@ const featuredEssays = featured.essays
       blurb: fe.blurb,
       icon: fe.icon,
       tag: fe.tag,
-      type: 'essay',
     };
   });
 
@@ -34,14 +33,10 @@ const featuredIdeas = featured.portfolioIdeas
     tagline: idea.tagline,
     description: idea.description,
     essayCount: idea.essays?.length ?? 0,
-    type: 'portfolio',
   }));
 
 // Posts (tweets, links, etc.) — empty for now
-const featuredPosts = (featured.posts ?? []).map((p: any) => ({
-  ...p,
-  type: 'post',
-}));
+const featuredPosts = (featured.posts ?? []);
 
 // Serialize pools for client-side random selection
 const pools = {
@@ -88,11 +83,12 @@ const pools = {
   </div>
 
   <div style="margin-top: 40px;">
-    <h2 class="section-heading">Featured <span class="dash" id="featured-dash">— spotlight</span></h2>
+    <h2 class="section-heading">Featured</h2>
     <div class="section-divider"></div>
 
-    <!-- Essay spotlight (hidden by default, revealed by JS) -->
-    <div class="featured-slot" id="slot-essay" style="display:none;">
+    <!-- Essay spotlight — always shows, random pick on each load -->
+    <div class="featured-section" id="section-essay" style="display:none;">
+      <div class="featured-section-label">✎ Essay Spotlight</div>
       <a class="update-card" id="essay-card" href="#" style="text-decoration:none; color:inherit;">
         <div class="update-icon" id="essay-icon">📝</div>
         <div class="update-content">
@@ -106,13 +102,10 @@ const pools = {
       </a>
     </div>
 
-    <!-- Portfolio idea spotlight (hidden by default) -->
-    <div class="featured-slot" id="slot-portfolio" style="display:none;">
+    <!-- Portfolio idea spotlight — always shows, random pick on each load -->
+    <div class="featured-section" id="section-portfolio" style="display:none;">
+      <div class="featured-section-label">◈ Portfolio Idea</div>
       <a class="featured-idea-card" id="portfolio-card" href="#">
-        <div class="featured-idea-header">
-          <span class="featured-idea-icon">◈</span>
-          <span class="featured-idea-label">Portfolio Idea</span>
-        </div>
         <h3 class="featured-idea-title" id="portfolio-title"></h3>
         <p class="featured-idea-tagline" id="portfolio-tagline"></p>
         <p class="featured-idea-desc" id="portfolio-desc"></p>
@@ -123,11 +116,11 @@ const pools = {
       </a>
     </div>
 
-    <!-- Post/tweet spotlight (hidden by default, only appears if posts exist) -->
-    <div class="featured-slot" id="slot-post" style="display:none;">
+    <!-- Post/tweet spotlight — only shows if posts exist -->
+    <div class="featured-section" id="section-post" style="display:none;">
+      <div class="featured-section-label">💬 Post</div>
       <div class="featured-post-card" id="post-card">
         <div class="featured-post-header">
-          <span class="featured-post-icon">💬</span>
           <span class="featured-post-label" id="post-source">Post</span>
           <span class="featured-post-date" id="post-date"></span>
         </div>
@@ -135,18 +128,23 @@ const pools = {
         <a class="featured-post-link" id="post-link" href="#" target="_blank" rel="noopener">View original →</a>
       </div>
     </div>
-
-    <!-- Empty state fallback -->
-    <div class="featured-slot" id="slot-empty" style="display:none;">
-      <div class="placeholder" style="height: 120px;">
-        <span class="placeholder-icon">✦</span>
-        <span>More coming soon.</span>
-      </div>
-    </div>
   </div>
 </BaseLayout>
 
 <style>
+  /* Section labels */
+  .featured-section {
+    margin-bottom: 24px;
+  }
+  .featured-section-label {
+    font-size: 10.5px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-tertiary);
+    margin-bottom: 10px;
+  }
+
   /* Featured idea card */
   .featured-idea-card {
     display: block;
@@ -162,23 +160,6 @@ const pools = {
   .featured-idea-card:hover {
     box-shadow: var(--shadow-md);
     border-color: var(--accent);
-  }
-  .featured-idea-header {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    margin-bottom: 10px;
-  }
-  .featured-idea-icon {
-    font-size: 14px;
-    color: var(--accent);
-  }
-  .featured-idea-label {
-    font-size: 10.5px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: var(--text-tertiary);
   }
   .featured-idea-title {
     font-family: var(--font-display);
@@ -229,9 +210,6 @@ const pools = {
     gap: 8px;
     margin-bottom: 12px;
   }
-  .featured-post-icon {
-    font-size: 14px;
-  }
   .featured-post-label {
     font-size: 10.5px;
     font-weight: 600;
@@ -260,8 +238,8 @@ const pools = {
     text-decoration: underline;
   }
 
-  /* Fade-in for selected slot */
-  .featured-slot.active {
+  /* Fade-in */
+  .featured-section.active {
     display: block !important;
     animation: featuredFadeIn 0.35s ease;
   }
@@ -276,45 +254,30 @@ const pools = {
   document.addEventListener('DOMContentLoaded', () => {
     const { essays, ideas, posts } = pools;
 
-    // Build available slot types (posts only included if non-empty)
-    const slotTypes = [];
-    if (essays.length > 0) slotTypes.push('essay');
-    if (ideas.length > 0) slotTypes.push('portfolio');
-    if (posts.length > 0) slotTypes.push('post');
-
-    // If nothing at all, show empty
-    if (slotTypes.length === 0) {
-      document.getElementById('slot-empty').classList.add('active');
-      return;
-    }
-
-    // Pick a random slot type
-    const chosen = slotTypes[Math.floor(Math.random() * slotTypes.length)];
-    const dash = document.getElementById('featured-dash');
-
-    if (chosen === 'essay') {
+    // Essay spotlight — always show one random essay
+    if (essays.length > 0) {
       const essay = essays[Math.floor(Math.random() * essays.length)];
       document.getElementById('essay-icon').textContent = essay.icon;
       document.getElementById('essay-title').textContent = essay.title;
       document.getElementById('essay-blurb').textContent = essay.blurb;
       document.getElementById('essay-tag').textContent = essay.tag;
       document.getElementById('essay-card').href = '/essays/' + essay.slug;
-      document.getElementById('slot-essay').classList.add('active');
-      dash.textContent = '— essay spotlight';
+      document.getElementById('section-essay').classList.add('active');
     }
 
-    else if (chosen === 'portfolio') {
+    // Portfolio idea spotlight — always show one random idea
+    if (ideas.length > 0) {
       const idea = ideas[Math.floor(Math.random() * ideas.length)];
       document.getElementById('portfolio-title').textContent = idea.title;
       document.getElementById('portfolio-tagline').textContent = idea.tagline;
       document.getElementById('portfolio-desc').textContent = idea.description;
       document.getElementById('portfolio-count').textContent = idea.essayCount + ' essays';
       document.getElementById('portfolio-card').href = '/portfolio/' + idea.id;
-      document.getElementById('slot-portfolio').classList.add('active');
-      dash.textContent = '— portfolio idea';
+      document.getElementById('section-portfolio').classList.add('active');
     }
 
-    else if (chosen === 'post') {
+    // Post spotlight — only show if posts exist
+    if (posts.length > 0) {
       const post = posts[Math.floor(Math.random() * posts.length)];
       document.getElementById('post-text').textContent = post.text || '';
       document.getElementById('post-source').textContent = post.source || 'Post';
@@ -325,8 +288,7 @@ const pools = {
       } else {
         document.getElementById('post-link').style.display = 'none';
       }
-      document.getElementById('slot-post').classList.add('active');
-      dash.textContent = '— post';
+      document.getElementById('section-post').classList.add('active');
     }
   });
 </script>
