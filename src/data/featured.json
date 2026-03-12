@@ -1,0 +1,45 @@
+{
+  "essays": [
+    {
+      "slug": "hijacking-the-hucksters-hypebook",
+      "icon": "📝",
+      "blurb": "Dissecting 300 years of fundraising fraud to reverse-engineer a playbook for founders building real things.",
+      "tag": "Investing 101"
+    },
+    {
+      "slug": "the-superhero-theory-of-defense",
+      "icon": "🛡️",
+      "blurb": "Why the best defense posture borrows more from superhero mythology than Cold War doctrine.",
+      "tag": "Defense"
+    },
+    {
+      "slug": "historical-futurism",
+      "icon": "🔭",
+      "blurb": "Using science fiction as a laboratory for inventing the future — and why the best futurists are historians.",
+      "tag": "Culture"
+    },
+    {
+      "slug": "science-fictions-dueling-fates",
+      "icon": "📚",
+      "blurb": "Two dramatically different worlds painted in our collective imaginations — and what they mean for what we build.",
+      "tag": "Culture"
+    },
+    {
+      "slug": "dr-tokens-or-how-i-learned-to-stop",
+      "icon": "🤖",
+      "blurb": "How I learned to stop worrying and love (or at least understand) the AI investment bubble.",
+      "tag": "AI"
+    }
+  ],
+  "portfolioIdeas": [
+    "capital-allocation",
+    "technological-innovation",
+    "company-building",
+    "historical-futurism",
+    "language-of-discourse",
+    "ideological-family-tree",
+    "republic-of-letters",
+    "open-source-knowledge"
+  ],
+  "posts": []
+}

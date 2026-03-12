@@ -1,5 +1,54 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import featured from '../data/featured.json';
+import ideasData from '../data/portfolio-ideas.json';
+import { getCollection } from 'astro:content';
+
+const allEssays = await getCollection('essays');
+
+// Build essay lookup by slug
+const essayMap = new Map(allEssays.map(e => [e.slug, e]));
+
+// Resolve featured essays with full frontmatter
+const featuredEssays = featured.essays
+  .filter(fe => essayMap.has(fe.slug))
+  .map(fe => {
+    const essay = essayMap.get(fe.slug)!;
+    return {
+      slug: fe.slug,
+      title: essay.data.title,
+      blurb: fe.blurb,
+      icon: fe.icon,
+      tag: fe.tag,
+      type: 'essay',
+    };
+  });
+
+// Resolve featured portfolio ideas with full data
+const featuredIdeas = featured.portfolioIdeas
+  .map(id => ideasData.find((i: any) => i.id === id))
+  .filter(Boolean)
+  .map((idea: any) => ({
+    id: idea.id,
+    title: idea.title,
+    tagline: idea.tagline,
+    description: idea.description,
+    essayCount: idea.essays?.length ?? 0,
+    type: 'portfolio',
+  }));
+
+// Posts (tweets, links, etc.) — empty for now
+const featuredPosts = (featured.posts ?? []).map((p: any) => ({
+  ...p,
+  type: 'post',
+}));
+
+// Serialize pools for client-side random selection
+const pools = {
+  essays: featuredEssays,
+  ideas: featuredIdeas,
+  posts: featuredPosts,
+};
 ---
 
 <BaseLayout title="Home" currentPage="home">
@@ -39,34 +88,245 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   </div>
 
   <div style="margin-top: 40px;">
-    <h2 class="section-heading">Updates <span class="dash">— recent</span></h2>
+    <h2 class="section-heading">Featured <span class="dash" id="featured-dash">— spotlight</span></h2>
     <div class="section-divider"></div>
 
-    <div class="update-card">
-      <div class="update-icon">📝</div>
-      <div class="update-content">
-        <div class="update-title">Hijacking The Huckster's Hypebook</div>
-        <div class="update-excerpt">An analytical essay on the repeatable fundraising playbook used by charismatic founders — from outright fraud to "righteous hucksters" who delivered real results.</div>
-        <div class="update-meta"><span class="update-tag">Investing 101</span> In progress</div>
+    <!-- Essay spotlight (hidden by default, revealed by JS) -->
+    <div class="featured-slot" id="slot-essay" style="display:none;">
+      <a class="update-card" id="essay-card" href="#" style="text-decoration:none; color:inherit;">
+        <div class="update-icon" id="essay-icon">📝</div>
+        <div class="update-content">
+          <div class="update-title" id="essay-title"></div>
+          <div class="update-excerpt" id="essay-blurb"></div>
+          <div class="update-meta">
+            <span class="update-tag" id="essay-tag"></span>
+            <span>Essay</span>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <!-- Portfolio idea spotlight (hidden by default) -->
+    <div class="featured-slot" id="slot-portfolio" style="display:none;">
+      <a class="featured-idea-card" id="portfolio-card" href="#">
+        <div class="featured-idea-header">
+          <span class="featured-idea-icon">◈</span>
+          <span class="featured-idea-label">Portfolio Idea</span>
+        </div>
+        <h3 class="featured-idea-title" id="portfolio-title"></h3>
+        <p class="featured-idea-tagline" id="portfolio-tagline"></p>
+        <p class="featured-idea-desc" id="portfolio-desc"></p>
+        <div class="featured-idea-footer">
+          <span class="update-tag" id="portfolio-count"></span>
+          <span class="featured-idea-cta">Explore →</span>
+        </div>
+      </a>
+    </div>
+
+    <!-- Post/tweet spotlight (hidden by default, only appears if posts exist) -->
+    <div class="featured-slot" id="slot-post" style="display:none;">
+      <div class="featured-post-card" id="post-card">
+        <div class="featured-post-header">
+          <span class="featured-post-icon">💬</span>
+          <span class="featured-post-label" id="post-source">Post</span>
+          <span class="featured-post-date" id="post-date"></span>
+        </div>
+        <p class="featured-post-text" id="post-text"></p>
+        <a class="featured-post-link" id="post-link" href="#" target="_blank" rel="noopener">View original →</a>
       </div>
     </div>
 
-    <div class="update-card">
-      <div class="update-icon">🔬</div>
-      <div class="update-content">
-        <div class="update-title">Contrary Research: CR100 Framework</div>
-        <div class="update-excerpt">Building a systematic coverage framework focused on 100 key companies across the Contrary portfolio and pipeline.</div>
-        <div class="update-meta"><span class="update-tag">Contrary</span> Ongoing</div>
-      </div>
-    </div>
-
-    <div class="update-card">
-      <div class="update-icon">🤖</div>
-      <div class="update-content">
-        <div class="update-title">AI-Proof SaaS Scoring System</div>
-        <div class="update-excerpt">Applying a framework across 74 SaaS companies to identify defensible businesses at distressed valuations in an AI-disrupted landscape.</div>
-        <div class="update-meta"><span class="update-tag">Research</span> 2024–25</div>
+    <!-- Empty state fallback -->
+    <div class="featured-slot" id="slot-empty" style="display:none;">
+      <div class="placeholder" style="height: 120px;">
+        <span class="placeholder-icon">✦</span>
+        <span>More coming soon.</span>
       </div>
     </div>
   </div>
 </BaseLayout>
+
+<style>
+  /* Featured idea card */
+  .featured-idea-card {
+    display: block;
+    padding: 20px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.2s ease;
+    cursor: pointer;
+  }
+  .featured-idea-card:hover {
+    box-shadow: var(--shadow-md);
+    border-color: var(--accent);
+  }
+  .featured-idea-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .featured-idea-icon {
+    font-size: 14px;
+    color: var(--accent);
+  }
+  .featured-idea-label {
+    font-size: 10.5px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-tertiary);
+  }
+  .featured-idea-title {
+    font-family: var(--font-display);
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 4px;
+    color: var(--text);
+  }
+  .featured-idea-tagline {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: 13.5px;
+    color: var(--accent);
+    margin-bottom: 10px;
+  }
+  .featured-idea-desc {
+    font-size: 13px;
+    color: var(--text-secondary);
+    line-height: 1.55;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .featured-idea-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 14px;
+  }
+  .featured-idea-cta {
+    font-size: 12.5px;
+    font-weight: 500;
+    color: var(--accent);
+  }
+
+  /* Featured post card */
+  .featured-post-card {
+    padding: 20px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    transition: all 0.2s ease;
+  }
+  .featured-post-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+  .featured-post-icon {
+    font-size: 14px;
+  }
+  .featured-post-label {
+    font-size: 10.5px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-tertiary);
+  }
+  .featured-post-date {
+    margin-left: auto;
+    font-size: 11.5px;
+    color: var(--text-tertiary);
+  }
+  .featured-post-text {
+    font-size: 14.5px;
+    line-height: 1.6;
+    color: var(--text);
+    margin-bottom: 12px;
+  }
+  .featured-post-link {
+    font-size: 12.5px;
+    font-weight: 500;
+    color: var(--accent);
+    text-decoration: none;
+  }
+  .featured-post-link:hover {
+    text-decoration: underline;
+  }
+
+  /* Fade-in for selected slot */
+  .featured-slot.active {
+    display: block !important;
+    animation: featuredFadeIn 0.35s ease;
+  }
+
+  @keyframes featuredFadeIn {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>
+
+<script define:vars={{ pools }}>
+  document.addEventListener('DOMContentLoaded', () => {
+    const { essays, ideas, posts } = pools;
+
+    // Build available slot types (posts only included if non-empty)
+    const slotTypes = [];
+    if (essays.length > 0) slotTypes.push('essay');
+    if (ideas.length > 0) slotTypes.push('portfolio');
+    if (posts.length > 0) slotTypes.push('post');
+
+    // If nothing at all, show empty
+    if (slotTypes.length === 0) {
+      document.getElementById('slot-empty').classList.add('active');
+      return;
+    }
+
+    // Pick a random slot type
+    const chosen = slotTypes[Math.floor(Math.random() * slotTypes.length)];
+    const dash = document.getElementById('featured-dash');
+
+    if (chosen === 'essay') {
+      const essay = essays[Math.floor(Math.random() * essays.length)];
+      document.getElementById('essay-icon').textContent = essay.icon;
+      document.getElementById('essay-title').textContent = essay.title;
+      document.getElementById('essay-blurb').textContent = essay.blurb;
+      document.getElementById('essay-tag').textContent = essay.tag;
+      document.getElementById('essay-card').href = '/essays/' + essay.slug;
+      document.getElementById('slot-essay').classList.add('active');
+      dash.textContent = '— essay spotlight';
+    }
+
+    else if (chosen === 'portfolio') {
+      const idea = ideas[Math.floor(Math.random() * ideas.length)];
+      document.getElementById('portfolio-title').textContent = idea.title;
+      document.getElementById('portfolio-tagline').textContent = idea.tagline;
+      document.getElementById('portfolio-desc').textContent = idea.description;
+      document.getElementById('portfolio-count').textContent = idea.essayCount + ' essays';
+      document.getElementById('portfolio-card').href = '/portfolio/' + idea.id;
+      document.getElementById('slot-portfolio').classList.add('active');
+      dash.textContent = '— portfolio idea';
+    }
+
+    else if (chosen === 'post') {
+      const post = posts[Math.floor(Math.random() * posts.length)];
+      document.getElementById('post-text').textContent = post.text || '';
+      document.getElementById('post-source').textContent = post.source || 'Post';
+      document.getElementById('post-date').textContent = post.date || '';
+      if (post.url) {
+        document.getElementById('post-link').href = post.url;
+        document.getElementById('post-link').style.display = 'inline';
+      } else {
+        document.getElementById('post-link').style.display = 'none';
+      }
+      document.getElementById('slot-post').classList.add('active');
+      dash.textContent = '— post';
+    }
+  });
+</script>
