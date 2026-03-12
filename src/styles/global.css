@@ -736,6 +736,15 @@ h1.page-title em {
 
 .prose p { margin-bottom: 16px; }
 
+.prose img {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+  margin: 16px auto;
+  display: block;
+  box-sizing: border-box;
+}
+
 .prose a {
   color: var(--accent);
   text-decoration: underline;
