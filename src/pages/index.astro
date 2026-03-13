@@ -292,3 +292,19 @@ const pools = {
     }
   });
 </script>
+
+<script is:inline>
+  // Auto-fit epigraph quotes to one line
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.epigraph p').forEach(p => {
+      const container = p.closest('.epigraph-carousel');
+      if (!container) return;
+      const maxWidth = container.clientWidth - 20; // account for border + padding
+      let size = 15;
+      while (p.scrollWidth > maxWidth && size > 10) {
+        size -= 0.5;
+        p.style.fontSize = size + 'px';
+      }
+    });
+  });
+</script>

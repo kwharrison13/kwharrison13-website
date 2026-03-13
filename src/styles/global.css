@@ -491,7 +491,8 @@ h1.page-title em {
 .epigraph-carousel {
   margin: 28px 0 12px;
   position: relative;
-  min-height: 72px;
+  min-height: 52px;
+  overflow: hidden;
 }
 
 .epigraph {
@@ -519,6 +520,7 @@ h1.page-title em {
   line-height: 1.6;
   color: var(--text);
   margin-bottom: 4px;
+  white-space: nowrap;
 }
 
 .epigraph cite {
