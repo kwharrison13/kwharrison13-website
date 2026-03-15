@@ -137,9 +137,31 @@ const pools = {
       </div>
     </div>
   </div>
+
+  <div class="site-credit">
+    The design of this website was inspired by <a href="https://sj.land" target="_blank" rel="noopener">sj.land</a> by SJ Zhang.
+  </div>
 </BaseLayout>
 
 <style>
+  /* Site credit */
+  .site-credit {
+    margin-top: 60px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border);
+    font-size: 11.5px;
+    color: var(--text-tertiary);
+    line-height: 1.5;
+  }
+  .site-credit a {
+    color: var(--text-tertiary);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .site-credit a:hover {
+    color: var(--accent);
+  }
+
   /* Focus list */
   .focus-list {
     list-style: none;
