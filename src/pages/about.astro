@@ -1,11 +1,12 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import ideasData from '../data/portfolio-ideas.json';
 
-const interests = [
-  "Technological Innovation", "Capital Allocation", "Company Building",
-  "Religious Intellectualism", "City Building", "People Over Politics",
-  "Historical Futurism", "The Language of Discourse", "Ideological Family Trees"
-];
+// Pull interests directly from portfolio ideas so links always match
+const interests = ideasData.map((idea: any) => ({
+  title: idea.title,
+  href: `/portfolio/${idea.id}`,
+}));
 ---
 
 <BaseLayout title="About" currentPage="about">
@@ -25,8 +26,8 @@ const interests = [
         Investing 101 on Substack ↗
       </a>
     </span>
-    <span class="info-label">Location</span>
-    <span class="info-value">San Francisco, CA</span>
+    <span class="info-label">Location(s)</span>
+    <span class="info-value">San Francisco, CA / Portland, OR / Salt Lake City, UT / Albuquerque, NM</span>
     <span class="info-label">Background</span>
     <span class="info-value">Investing @ Contrary. Invested @ Index Ventures, Coatue, TCV. Built @ Sandbox Creations, Go Solar</span>
   </div>
@@ -35,7 +36,21 @@ const interests = [
     <h2 class="section-heading">Interests</h2>
     <div class="section-divider"></div>
     <div class="badge-row">
-      {interests.map((t) => <span class="badge">{t}</span>)}
+      {interests.map((i) => <a href={i.href} class="badge badge-link">{i.title}</a>)}
     </div>
   </div>
 </BaseLayout>
+
+<style>
+  .badge-link {
+    text-decoration: none;
+    color: var(--text-secondary);
+    transition: all 0.15s ease;
+    cursor: pointer;
+  }
+  .badge-link:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+    background: var(--accent-soft);
+  }
+</style>

@@ -125,7 +125,8 @@
       "venture-capital-doesnt-exist"
     ],
     "books": [],
-    "feed": []
+    "feed": [],
+    "projects": []
   },
   {
     "id": "technological-innovation",
@@ -153,7 +154,8 @@
       "venture-capital-doesnt-exist"
     ],
     "books": [],
-    "feed": []
+    "feed": [],
+    "projects": []
   },
   {
     "id": "company-building",
@@ -228,7 +230,8 @@
       "venture-capital-doesnt-exist"
     ],
     "books": [],
-    "feed": []
+    "feed": [],
+    "projects": []
   },
   {
     "id": "religious-intellectualism",
@@ -245,7 +248,8 @@
       "who-is-my-neighbor"
     ],
     "books": [],
-    "feed": []
+    "feed": [],
+    "projects": []
   },
   {
     "id": "city-building",
@@ -258,7 +262,8 @@
       "the-rise-of-the-cash-man"
     ],
     "books": [],
-    "feed": []
+    "feed": [],
+    "projects": []
   },
   {
     "id": "people-over-politics",
@@ -274,7 +279,8 @@
       "who-is-my-neighbor"
     ],
     "books": [],
-    "feed": []
+    "feed": [],
+    "projects": []
   },
   {
     "id": "historical-futurism",
@@ -302,7 +308,8 @@
       "hijacking-the-hucksters-hypebook"
     ],
     "books": [],
-    "feed": []
+    "feed": [],
+    "projects": []
   },
   {
     "id": "language-of-discourse",
@@ -349,7 +356,8 @@
       "hijacking-the-hucksters-hypebook"
     ],
     "books": [],
-    "feed": []
+    "feed": [],
+    "projects": []
   },
   {
     "id": "ideological-family-tree",
@@ -408,7 +416,8 @@
       "youre-the-only-investment-that-matters"
     ],
     "books": [],
-    "feed": []
+    "feed": [],
+    "projects": []
   },
   {
     "id": "republic-of-letters",
@@ -435,7 +444,8 @@
       "why-bother"
     ],
     "books": [],
-    "feed": []
+    "feed": [],
+    "projects": []
   },
   {
     "id": "open-source-knowledge",
@@ -456,6 +466,7 @@
       "the-wrath-of-reading-and-writing"
     ],
     "books": [],
-    "feed": []
+    "feed": [],
+    "projects": []
   }
 ]

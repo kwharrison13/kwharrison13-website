@@ -51,7 +51,7 @@ const pools = {
     Mapping the <em>architecture</em> of compounding human potential.
   </h1>
   <p class="page-subtitle">
-    General Partner @ Contrary. Founder @ Contrary Research. Father of 4.
+    General Partner @ <a href="https://contrary.com/" target="_blank" rel="noreferrer" style="color: var(--accent); text-decoration: underline; text-underline-offset: 2px;">Contrary</a>. Founder @ <a href="https://research.contrary.com/" target="_blank" rel="noreferrer" style="color: var(--accent); text-decoration: underline; text-underline-offset: 2px;">Contrary Research</a>. Father of 4.
     Member of The Church of Jesus Christ of Latter-Day Saints.
   </p>
 
@@ -75,9 +75,17 @@ const pools = {
     </div>
   </div>
 
-  <div class="info-grid">
+  <div class="info-grid" style="grid-template-columns: 100px 1fr;">
     <span class="info-label">Focus</span>
-    <span class="info-value">AI disruption of vertical software — which moats survive, and which don't.</span>
+    <span class="info-value">
+      <ul class="focus-list">
+        <li>Identifying the best early stage founders who are building the world I want to live in.</li>
+        <li>Finally publishing <em>The Anduril Thesis</em>; a book on Anduril I've been working on for years.</li>
+        <li>Weave AI into every aspect of my life as best I can.</li>
+        <li>Help my 9-year old son build a curriculum that will inspire him to change the world.</li>
+        <li>Build interactive software to maintain the knowledge management I've spent years cataloguing.</li>
+      </ul>
+    </span>
     <span class="info-label">Background</span>
     <span class="info-value">Index Ventures · Coatue · TCV · Former Founder</span>
   </div>
@@ -132,6 +140,34 @@ const pools = {
 </BaseLayout>
 
 <style>
+  /* Focus list */
+  .focus-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .focus-list li {
+    position: relative;
+    padding-left: 16px;
+    font-size: 13.5px;
+    line-height: 1.5;
+    color: var(--text);
+  }
+  .focus-list li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: var(--accent);
+    font-size: 12px;
+  }
+  .focus-list em {
+    font-style: italic;
+    color: var(--accent);
+  }
+
   /* Section labels */
   .featured-section {
     margin-bottom: 24px;

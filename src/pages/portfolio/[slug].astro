@@ -54,6 +54,7 @@ ideaEssays.sort((a, b) => {
 });
 
 const ideaFeed = idea.feed || [];
+const ideaProjects = idea.projects || [];
 ---
 
 <BaseLayout title={idea.title} currentPage="portfolio">
@@ -78,6 +79,11 @@ const ideaFeed = idea.feed || [];
         <span class="idea-stat-number">{ideaFeed.length}</span>
         <span class="idea-stat-label">Saved</span>
       </div>
+      <div class="idea-stat-divider"></div>
+      <div class="idea-stat">
+        <span class="idea-stat-number">{ideaProjects.length}</span>
+        <span class="idea-stat-label">Projects</span>
+      </div>
     </div>
   </div>
 
@@ -87,6 +93,7 @@ const ideaFeed = idea.feed || [];
     <button class="idea-tab" data-tab="essays">Essays ({ideaEssays.length})</button>
     <button class="idea-tab" data-tab="books">Books ({ideaBooks.length})</button>
     <button class="idea-tab" data-tab="feed">Feed ({ideaFeed.length})</button>
+    <button class="idea-tab" data-tab="projects">Projects ({ideaProjects.length})</button>
   </div>
 
   <!-- OVERVIEW -->
@@ -225,6 +232,30 @@ const ideaFeed = idea.feed || [];
       <div class="idea-feed-empty-box">
         <div class="idea-feed-empty-title">This feed is empty for now</div>
         <div class="idea-feed-empty-desc">The daily dump workflow will populate this section over time. Paste tweets, articles, and notes into Claude, and they'll be classified and added here.</div>
+      </div>
+    )}
+  </div>
+
+  <!-- PROJECTS -->
+  <div class="idea-tab-content" id="tab-projects" style="display:none;">
+    {ideaProjects.length > 0 ? (
+      <div class="idea-projects-grid">
+        {ideaProjects.map((project: any) => (
+          <div class="idea-project-card">
+            <div class="idea-project-icon">{project.icon || '🔧'}</div>
+            <div class="idea-project-info">
+              <div class="idea-project-title">{project.title}</div>
+              <div class="idea-project-desc">{project.description}</div>
+              {project.status && <span class={`idea-project-status ${project.status === 'active' ? 'status-active' : project.status === 'shipped' ? 'status-shipped' : 'status-planned'}`}>{project.status}</span>}
+            </div>
+            {project.url && <a href={project.url} class="idea-project-link" target="_blank" rel="noopener">View →</a>}
+          </div>
+        ))}
+      </div>
+    ) : (
+      <div class="idea-feed-empty-box">
+        <div class="idea-feed-empty-title">No projects yet</div>
+        <div class="idea-feed-empty-desc">Interactive widgets and project builds related to this portfolio idea will appear here.</div>
       </div>
     )}
   </div>
@@ -388,6 +419,35 @@ const ideaFeed = idea.feed || [];
   }
   .idea-feed-empty-title { color: var(--accent); font-size: 13px; font-weight: 600; margin-bottom: 6px; }
   .idea-feed-empty-desc { color: var(--text-secondary); font-size: 12px; line-height: 1.6; }
+
+  /* Projects */
+  .idea-projects-grid { display: flex; flex-direction: column; gap: 10px; }
+  .idea-project-card {
+    display: flex; gap: 14px; align-items: flex-start;
+    background: var(--bg-card); border: 1px solid var(--border); border-radius: 10px;
+    padding: 16px; transition: border-color 0.15s ease;
+  }
+  .idea-project-card:hover { border-color: var(--accent); }
+  .idea-project-icon {
+    width: 40px; height: 40px; border-radius: 10px; background: var(--tag-bg);
+    border: 1px solid var(--border); display: flex; align-items: center; justify-content: center;
+    font-size: 18px; flex-shrink: 0;
+  }
+  .idea-project-info { flex: 1; min-width: 0; }
+  .idea-project-title { font-size: 14px; font-weight: 500; color: var(--text); margin-bottom: 4px; }
+  .idea-project-desc { font-size: 12.5px; color: var(--text-secondary); line-height: 1.5; }
+  .idea-project-status {
+    display: inline-block; margin-top: 8px; font-size: 10px; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 0.04em; padding: 2px 8px; border-radius: 3px;
+  }
+  .status-active { color: #2d7d46; background: rgba(45, 125, 70, 0.1); }
+  .status-shipped { color: var(--accent); background: var(--accent-soft); }
+  .status-planned { color: var(--text-tertiary); background: var(--tag-bg); }
+  .idea-project-link {
+    font-size: 12px; font-weight: 500; color: var(--accent); text-decoration: none;
+    flex-shrink: 0; align-self: center;
+  }
+  .idea-project-link:hover { text-decoration: underline; }
 
   @media (max-width: 640px) {
     .idea-book-year { display: none; }
