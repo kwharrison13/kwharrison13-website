@@ -263,7 +263,14 @@
     ],
     "books": [],
     "feed": [],
-    "projects": []
+    "projects": [
+      {
+        "icon": "\ud83c\udfd9\ufe0f",
+        "title": "Prosperable",
+        "description": "Building a universal benchmark to make every community the best place to live.",
+        "status": "in development"
+      }
+    ]
   },
   {
     "id": "people-over-politics",

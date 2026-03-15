@@ -246,7 +246,7 @@ const ideaProjects = idea.projects || [];
             <div class="idea-project-info">
               <div class="idea-project-title">{project.title}</div>
               <div class="idea-project-desc">{project.description}</div>
-              {project.status && <span class={`idea-project-status ${project.status === 'active' ? 'status-active' : project.status === 'shipped' ? 'status-shipped' : 'status-planned'}`}>{project.status}</span>}
+              {project.status && <span class={`idea-project-status ${project.status === 'active' ? 'status-active' : project.status === 'shipped' ? 'status-shipped' : project.status === 'in development' ? 'status-dev' : 'status-planned'}`}>{project.status}</span>}
             </div>
             {project.url && <a href={project.url} class="idea-project-link" target="_blank" rel="noopener">View →</a>}
           </div>
@@ -441,6 +441,7 @@ const ideaProjects = idea.projects || [];
     text-transform: uppercase; letter-spacing: 0.04em; padding: 2px 8px; border-radius: 3px;
   }
   .status-active { color: #2d7d46; background: rgba(45, 125, 70, 0.1); }
+  .status-dev { color: #b8860b; background: rgba(184, 134, 11, 0.1); }
   .status-shipped { color: var(--accent); background: var(--accent-soft); }
   .status-planned { color: var(--text-tertiary); background: var(--tag-bg); }
   .idea-project-link {
