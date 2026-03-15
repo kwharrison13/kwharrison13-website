@@ -2,33 +2,39 @@
   "essays": [
     {
       "slug": "hijacking-the-hucksters-hypebook",
-      "icon": "📝",
+      "icon": "\ud83d\udcdd",
       "blurb": "Dissecting 300 years of fundraising fraud to reverse-engineer a playbook for founders building real things.",
       "tag": "Investing 101"
     },
     {
       "slug": "the-superhero-theory-of-defense",
-      "icon": "🛡️",
+      "icon": "\ud83d\udee1\ufe0f",
       "blurb": "Why the best defense posture borrows more from superhero mythology than Cold War doctrine.",
       "tag": "Defense"
     },
     {
       "slug": "historical-futurism",
-      "icon": "🔭",
-      "blurb": "Using science fiction as a laboratory for inventing the future — and why the best futurists are historians.",
+      "icon": "\ud83d\udd2d",
+      "blurb": "Using science fiction as a laboratory for inventing the future \u2014 and why the best futurists are historians.",
       "tag": "Culture"
     },
     {
       "slug": "science-fictions-dueling-fates",
-      "icon": "📚",
-      "blurb": "Two dramatically different worlds painted in our collective imaginations — and what they mean for what we build.",
+      "icon": "\ud83d\udcda",
+      "blurb": "Two dramatically different worlds painted in our collective imaginations \u2014 and what they mean for what we build.",
       "tag": "Culture"
     },
     {
       "slug": "dr-tokens-or-how-i-learned-to-stop",
-      "icon": "🤖",
+      "icon": "\ud83e\udd16",
       "blurb": "How I learned to stop worrying and love (or at least understand) the AI investment bubble.",
       "tag": "AI"
+    },
+    {
+      "slug": "venture-capital-doesnt-exist",
+      "icon": "\ud83d\udc80",
+      "blurb": "What we call 'venture capital' is actually four different things. Continuing to pretend otherwise does a disservice to everyone involved.",
+      "tag": "Investing 101"
     }
   ],
   "portfolioIdeas": [
