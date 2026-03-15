@@ -738,6 +738,23 @@ h1.page-title em {
 
 .prose p { margin-bottom: 16px; }
 
+.prose ul,
+.prose ol {
+  margin: 20px 0;
+  padding-left: 28px;
+}
+
+.prose ul { list-style-type: disc; }
+.prose ol { list-style-type: decimal; }
+
+.prose li {
+  margin-bottom: 10px;
+  line-height: 1.7;
+  color: var(--text);
+}
+
+.prose li:last-child { margin-bottom: 0; }
+
 .prose img {
   max-width: 100%;
   height: auto;
