@@ -125,7 +125,44 @@
       "venture-capital-doesnt-exist"
     ],
     "books": [],
-    "feed": [],
+    "feed": [
+      {
+        "type": "tweet",
+        "source": "@MeghanKReynolds",
+        "author": "Meghan Reynolds",
+        "handle": "@MeghanKReynolds",
+        "date": "Mar 14, 2026",
+        "content": "Heard from LPs this week: The past 9 months have felt like groundhog's day - a very small set of deals dominating all LP convos. The fever pitch to access rounds of OpenAI and Anthropic by LPs (and even GPs calling us) at times - has reached levels I've never seen...",
+        "url": "https://x.com/MeghanKReynolds/status/2032964834640408965"
+      },
+      {
+        "type": "tweet",
+        "source": "@100baggerhunt",
+        "author": "Kevin",
+        "handle": "@100baggerhunt",
+        "date": "Sep 2, 2025",
+        "content": "This man achieved 921% returns while the market made 117%. He retired at 45 after making investors $2 billion. Yet you've probably never heard of him because he refused every interview and turned away new money. Here's Nick Sleep's secret to finding 100-baggers.",
+        "url": "https://x.com/100baggerhunt/status/1962916193444237502"
+      },
+      {
+        "type": "tweet",
+        "source": "@eriktorenberg",
+        "author": "Erik Torenberg",
+        "handle": "@eriktorenberg",
+        "date": "Aug 9, 2020",
+        "content": "Book notes from Thomas Piketty's \"Capital in the 21st Century\" \u2014 Curious to hear critiques & responses to the book.",
+        "url": "https://x.com/eriktorenberg/status/1292517144656322562"
+      },
+      {
+        "type": "tweet",
+        "source": "@RamBhupatiraju",
+        "author": "Ram Bhupatiraju",
+        "handle": "@RamBhupatiraju",
+        "date": "Feb 24, 2020",
+        "content": "ROIC is one of the most important concepts in Investing. Excellent article with a deep dive on that topic with couple of examples, and also some terrific links at the end.",
+        "url": "https://x.com/RamBhupatiraju/status/1231803865563095042"
+      }
+    ],
     "projects": []
   },
   {
@@ -154,7 +191,26 @@
       "venture-capital-doesnt-exist"
     ],
     "books": [],
-    "feed": [],
+    "feed": [
+      {
+        "type": "tweet",
+        "source": "@Meer_AIIT",
+        "author": "Meer | AI Tools & News",
+        "handle": "@Meer_AIIT",
+        "date": "Sep 3, 2025",
+        "content": "This guy literally scraped 25,000 comments to uncover which AI tools are actually making people money (and saving hours).",
+        "url": "https://x.com/Meer_AIIT/status/1963240044468240714"
+      },
+      {
+        "type": "tweet",
+        "source": "@bkavoussi",
+        "author": "Bonnie Kavoussi",
+        "handle": "@bkavoussi",
+        "date": "Feb 27, 2020",
+        "content": "Peter Thiel argues that science was \"decentralized\" and \"healthy\" before the New Deal; then after the atomic bomb, it became too centralized and bureaucratized to innovate. Before, we had \"science as discovery,\" now we have \"science as governance.\"",
+        "url": "https://x.com/bkavoussi/status/1232886329438015488"
+      }
+    ],
     "projects": []
   },
   {
@@ -230,7 +286,26 @@
       "venture-capital-doesnt-exist"
     ],
     "books": [],
-    "feed": [],
+    "feed": [
+      {
+        "type": "tweet",
+        "source": "@joelgascoigne",
+        "author": "Joel Gascoigne",
+        "handle": "@joelgascoigne",
+        "date": "Apr 30, 2020",
+        "content": "I've been focused on getting Buffer through this period as unscathed as possible. One debt I believe is building in companies right now is burnout. To lessen that impact at Buffer, we'll try a 4-day workweek (at full pay) for May.",
+        "url": "https://x.com/joelgascoigne/status/1255992460473327616"
+      },
+      {
+        "type": "tweet",
+        "source": "@briannekimmel",
+        "author": "Brianne Kimmel",
+        "handle": "@briannekimmel",
+        "date": "Feb 24, 2020",
+        "content": "One of the most challenging exercises for early stage companies is defining your initial GTM strategy. Shares his playbook as the first Head of Sales & Customer Success at Typeform and Notion.",
+        "url": "https://x.com/briannekimmel/status/1232001943569981441"
+      }
+    ],
     "projects": []
   },
   {
@@ -315,7 +390,17 @@
       "hijacking-the-hucksters-hypebook"
     ],
     "books": [],
-    "feed": [],
+    "feed": [
+      {
+        "type": "tweet",
+        "source": "@david_perell",
+        "author": "David Perell",
+        "handle": "@david_perell",
+        "date": "Mar 1, 2020",
+        "content": "If you're looking for new ideas about the future, I recommend The Sovereign Individual. I've never seen a book with so many correct predictions, and it's inspired a generation of builders, entrepreneurs, and technologists.",
+        "url": "https://x.com/david_perell/status/1234138593360318465"
+      }
+    ],
     "projects": []
   },
   {
@@ -363,7 +448,17 @@
       "hijacking-the-hucksters-hypebook"
     ],
     "books": [],
-    "feed": [],
+    "feed": [
+      {
+        "type": "tweet",
+        "source": "@paulg",
+        "author": "Paul Graham",
+        "handle": "@paulg",
+        "date": "Feb 21, 2020",
+        "content": "How to Write Usefully \u2014 paulgraham.com/useful.html",
+        "url": "https://x.com/paulg/status/1230780485883846658"
+      }
+    ],
     "projects": []
   },
   {
@@ -451,7 +546,17 @@
       "why-bother"
     ],
     "books": [],
-    "feed": [],
+    "feed": [
+      {
+        "type": "tweet",
+        "source": "@lolitataub",
+        "author": "Lolita Taub",
+        "handle": "@lolitataub",
+        "date": "Aug 7, 2020",
+        "content": "Founders: @ycombinator just launched the YC Startup Library for you! It includes +15 years worth of: videos, podcasts, essays.",
+        "url": "https://x.com/lolitataub/status/1291591947920932864"
+      }
+    ],
     "projects": []
   },
   {
@@ -473,7 +578,26 @@
       "the-wrath-of-reading-and-writing"
     ],
     "books": [],
-    "feed": [],
+    "feed": [
+      {
+        "type": "tweet",
+        "source": "@george__mack",
+        "author": "George Mack",
+        "handle": "@george__mack",
+        "date": "Aug 8, 2020",
+        "content": "Josh Waitzkin might be the most INTERESTING person alive. He doesn't have Twitter. And he barely uses the internet. I've compiled my favorite 5 MENTAL MODELS of his below.",
+        "url": "https://x.com/george__mack/status/1292206014746558471"
+      },
+      {
+        "type": "tweet",
+        "source": "@david_perell",
+        "author": "David Perell",
+        "handle": "@david_perell",
+        "date": "Feb 24, 2020",
+        "content": "\"There should be a good online class that anyone can take on ANY topic, and right now, there isn't. That, to me, is just criminal.\" \u2014 Tyler Cowen",
+        "url": "https://x.com/david_perell/status/1232085537332322305"
+      }
+    ],
     "projects": []
   }
 ]
