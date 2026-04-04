@@ -7,13 +7,13 @@ slug: "2023-in-books"
 type: "newsletter"
 ---
 
-![](/images/2023-in-books-023ece8b.jpg)
+![Header image for 2023 In Books](/images/2023-in-books-023ece8b.jpg)
 
 # From Reading To Writing And Beyond
 
 [In 2019](https://kwharrison13.com/bookshelf/2019-in-books), I read 40 books, and only ~5 of them were audiobooks. In 2023, I read 11 books and 7 of them were audiobooks. Suffice it to say, my reading habits have changed dramatically. It’s very clear that COVID was the trend disruption.
 
-![](/images/2023-in-books-4deee3a7.png)
+![Illustration for From Reading To Writing And Beyond section](/images/2023-in-books-4deee3a7.png)
 
 For a few years there, I was reading ~30-40 books per year, and I attribute a lot of that to having a pretty consistent 30-40 minute commute each way. Once I started working from home, I lost that reading time. And I never ended up finding another space for it in my life.
 
@@ -21,7 +21,7 @@ For a long time, I was focused on the volume of reading. Granted, I’d like to 
 
 Before I start reflecting on the change in my reading habits, its first important to clearly state how important reading is to me. In particular, as a parent, reading hits home.
 
-![](/images/2023-in-books-06fc2bd7.png)
+![Illustration for From Reading To Writing And Beyond section](/images/2023-in-books-06fc2bd7.png)
 
 I enjoy every time I see my kids reading. Everywhere we go, every day out we have, I try to make a stop at a bookstore. I’m not too sharp, smart, or smooth, but the best I can do is expose my kids to as many ideas as possible.
 

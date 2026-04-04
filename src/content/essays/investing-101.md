@@ -7,7 +7,7 @@ slug: "investing-101"
 type: "newsletter"
 ---
 
-![](/images/investing-101-eb9f1063.png)
+![Header image for Investing 101](/images/investing-101-eb9f1063.png)
 
 ---
 
@@ -21,7 +21,7 @@ Contrary is my primary life’s work right now. I didn’t start the firm, but I
 
 **Investing. Family. Contrary. I’m in a position where a lot of my life is now in my control and at the mercy of my own systems and structure**. Bill Gates once [said](https://www.goodreads.com/quotes/302999-most-people-overestimate-what-they-can-do-in-one-year) “most people overestimate what they can do in one year and underestimate what they can do in ten years.” After I sold my first company, I had a hill I would walk down frequently. I called it my “10 Year Hill.”
 
-![](/images/investing-101-72b44838.png)
+![Quote card from Investing 101](/images/investing-101-72b44838.png)
 
 I would stand at the top of it looking out and wondering where I would be in 10 years. Now, over a decade later, I’ve worked at four different investment firms, helped deploy billions of dollars into companies like Databricks, ServiceTitan, Figma, Robinhood, and a whole host of others. And I can tell you one thing; I didn’t see any of that when I stood at the top of my 10 Year Hill. Now, here I am, trying to build a new venture firm based on a decade of observing venture capital and how it’s evolving. And I find myself again wondering, what will the next decade hold?
 
@@ -61,7 +61,7 @@ Across that top of funnel from reading, my focus isn’t direction. It’s bread
 
 On the one hand, I have a topical collection of resources that I want to use to go deeper alongisde utilitarian outcomes. Everything from random courses that I’ve saved to going deep on more technical aspects of AI to things as simple as better building a following as distribution becomes more and more important.
 
-![](/images/investing-101-c804ea82.png)
+![Tweet referenced in Research section](/images/investing-101-c804ea82.png)
 
 On the other hand, I also want to keep my mind open to the ideas that I get exposed to, whether from my top-of-funnel reading or my broader Twitter addiction.
 
@@ -97,7 +97,7 @@ Sometimes, it will just be a micro essay version of my full piece in a given wee
 
 The blog post that it started it all! When I first created this Substack, it was to publish a piece back in 2021 where I unpacked my investment research process. Roam Research, as a tool, was a central part of the process. **But really the critical element was unpacking how my ideas connected to each other. Hence the title; “networked conviction.”** Since then, I’ve gotten a few requests for more detail around my research and investment process:
 
-![](/images/investing-101-c137d3ac.png)
+![Framework diagram for networked conviction: my investing journal](/images/investing-101-c137d3ac.png)
 
 So I’ve decided to launch a new paid part of this Substack.
 
@@ -113,19 +113,19 @@ This may evolve over time, but my thinking is that entries in Networked Convicti
 
 ### Portfolio
 
-![](/images/investing-101-8131f895.png)
+![Framework diagram for portfolio](/images/investing-101-8131f895.png)
 
 From nuclear energy to defense to robotics, a significant amount of my thinking revolves around the companies I invest in. So, first and foremost, my plan is to spend time reflecting on those companies as a lens to the ideas I’ve already gone deep on.
 
 ### Request For Startups
 
-![](/images/investing-101-68cd1807.png)
+![Quote card from Request For Startups section](/images/investing-101-68cd1807.png)
 
 [I wrote a few weeks ago](https://investing101.substack.com/p/build-whats-fundable) about the impact that YC’s Request For Startups had for me. So often, the reading and thinking and rabbit holing results in an directional idea of an opportunity that feels like it exists. So the plan is to use Networked Conviction as an outlet for sharing those as they develop.
 
 ### Idea Journal
 
-![](/images/investing-101-c6880ae4.png)
+![Quote card from Idea Journal section](/images/investing-101-c6880ae4.png)
 
 Finally, the Idea Journal is a catch all for frameworks, templates, mental models, market maps, advice, and any other investing-related ideas that resonated with me in a particular week. I see those artifacts as the nudges
 

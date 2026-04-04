@@ -45,7 +45,7 @@ I've seen countless examples of VCs who are immediately skeptical if a founder d
 
 Most VCs have developed a sort of Pavlovian conditioning. Like a bell means dinner, a founder who ignores you or puts you off usually correlates directly with the quality of a deal. The meaner the founder is to you, the more likely it is the company is the next Google. So what happens when a founder says, "I'd love to find a way to work with you?" A VC's reaction is immediate:
 
-![](/images/the-trough-of-feedback-76175869.gif)
+![Animated GIF related to a club that would accept me as a member?](/images/the-trough-of-feedback-76175869.gif)
 
 *"Why? What's wrong with your business? Did everyone else pass? Why would you want to work with me?"*
 
@@ -77,7 +77,7 @@ Even one of the better known exercises in "we were wrong" admissions, [Bessemer'
 
 **Leslie's comment didn't make me think a lack of feedback was a universal or systemic problem. Instead, its a spectrum, or a trough.** The trough is typically a VC's level of freedom. When you’re the best in the world you can probably give more direct feedback because you have very little to gain. When you’re new, or in the bottom tier of what you do then you can give direct feedback because you have very little to lose.
 
-![](/images/the-trough-of-feedback-016fe81f.png)
+![Framework diagram for the trough of feedback](/images/the-trough-of-feedback-016fe81f.png)
 
 The same can be true of your relationship. If we barely have a relationship, maybe I can be somewhat honest, or if we have a really good relationship. But if we're somewhere in the "building a relationship" phase, honest feedback becomes much harder.
 

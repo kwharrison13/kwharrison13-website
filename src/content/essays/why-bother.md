@@ -7,7 +7,7 @@ slug: "why-bother"
 type: "newsletter"
 ---
 
-![](/images/why-bother-a6f22e5a.png)
+![Header image for Why Bother?](/images/why-bother-a6f22e5a.png)
 
 ---
 

@@ -7,7 +7,7 @@ slug: "the-age-of-incumbents"
 type: "newsletter"
 ---
 
-![](/images/the-age-of-incumbents-e6987ad3.png)
+![Header image for The Age of Incumbents](/images/the-age-of-incumbents-e6987ad3.png)
 
 Technology is a versatile little word. It can mean a whole host of things. Some people think technology began with computers, or software, or the internet. Other people think technology didn't really get going until ChatGPT came out.
 
@@ -37,7 +37,7 @@ But even with that video, when you get to ~2012 you notice how much the change s
 
 One aspect of the early internet revolution was that it was just that: a revolution. There were old ways of doing things and now there were new ways of doing things. When you think about the biggest platforms, they were either replacing dinosaurs, or inventing an entirely new thing.
 
-![](/images/the-age-of-incumbents-9013efe5.png)
+![Screenshot demonstrating revolution & replacement](/images/the-age-of-incumbents-9013efe5.png)
 
 You can paint hundreds of similar pictures:
 

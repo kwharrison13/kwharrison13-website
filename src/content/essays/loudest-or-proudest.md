@@ -7,7 +7,7 @@ slug: "loudest-or-proudest"
 type: "newsletter"
 ---
 
-![](/images/loudest-or-proudest-c7299bc2.png)
+![Header image for Loudest or Proudest](/images/loudest-or-proudest-c7299bc2.png)
 
 I've written [over](https://investing1012dot0.substack.com/p/the-storytelling-of-investing?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/open-source-knowledge) and [over](https://investing1012dot0.substack.com/p/learning-to-dream) and [over](https://investing1012dot0.substack.com/p/the-meme-economy?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/historical-futurism) and [over](https://investing1012dot0.substack.com/p/the-bubble-brains-of-venture-capital) and [over](https://investing1012dot0.substack.com/p/the-glass-half-war-empty-or-full) and [over](https://investing1012dot0.substack.com/p/oh-say-what-is-truth) and [over](https://investing1012dot0.substack.com/p/cultivating-cults?utm_source=publication-search) again about storytelling.
 
@@ -23,7 +23,7 @@ Unbelievable progress is made through the consistent back and forth of two steps
 
 Imagine yourself taking massive steps. You make a big promise. That's one step. You manage to pull off a big payoff. That's another step. Promise and payoff. Promise and payoff. **But too often, people become obsessed with just one step: the promise. They end up spreading themselves wider and wider, all on one leg.**
 
-![](/images/loudest-or-proudest-a7b72640.png)
+![Quote card from Loudest or Proudest](/images/loudest-or-proudest-a7b72640.png)
 
 # Big Promises
 

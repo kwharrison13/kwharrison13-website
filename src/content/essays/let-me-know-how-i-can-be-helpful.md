@@ -7,7 +7,7 @@ slug: "let-me-know-how-i-can-be-helpful"
 type: "newsletter"
 ---
 
-![](/images/let-me-know-how-i-can-be-helpful-77c5a052.png)
+![Header image for Let Me Know How I Can Be Helpful](/images/let-me-know-how-i-can-be-helpful-77c5a052.png)
 
 I am not good at playing guitar. That's not false humility. That is an honest to goodness fact. But when you're younger, there is an appeal of the aura of certain activities that can exist regardless of your commitment to the activity.
 
@@ -17,7 +17,7 @@ In our collective imagination we could harmonize and riff, but in reality you ju
 
 When I was at Coatue, I had the privilege of working with [Matt Mazzeo](https://twitter.com/Mazzeo). He was not only a funny guy and a great human being, he also had an incredible network. I once bought him a golden plunger to thank him for always being to able to unblock us when we couldn't get in touch with a company.
 
-![](/images/let-me-know-how-i-can-be-helpful-6843c8dc.png)
+![Tweet referenced in Let Me Know How I Can Be Helpful](/images/let-me-know-how-i-can-be-helpful-6843c8dc.png)
 
 But one of my favorite memories, and something that I still do to this day (and think of him every time I do it) is jam sessions. Reminiscent of my youthful musical collaborations, **Mazz was the best at taking what could feel like a formal exchange of information and turn it into a casual meeting of collaborative minds. A jam session.**
 
@@ -73,13 +73,13 @@ Venture investing is a sort of insane asset class when you think about it. The p
 
 Most private equity firms or stock pickers stay in fairly specific swim lanes and look for replicable companies that fit their checklist. Generalist venture investors are primarily in the business of looking for outliers, so they're spread much further, both in terms of their potential skillset and the type of company they might apply that skillset to.
 
-![](/images/let-me-know-how-i-can-be-helpful-328493cb.png)
+![Chart illustrating correlating confidence with competence](/images/let-me-know-how-i-can-be-helpful-328493cb.png)
 
 [I've written before](https://investing1012dot0.substack.com/p/productization) about how much venture firms want to try and be everything to everyone. But one of the dangers of such a broad set of use cases a firm can offer is that it opens you up to the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect). The main idea is the disconnect that exists between someone who is bad at something vs. how good they think they are at it. The more things you’re doing, the more likely you are to be bad at them but *think* you’re good at them.
 
 Another framing for this idea is that, at first, when your competence is quite low, you can have pretty high confidence until experience has had the opportunity to punch you in the mouth.
 
-![](/images/let-me-know-how-i-can-be-helpful-b16092e2.png)
+![Chart illustrating correlating confidence with competence](/images/let-me-know-how-i-can-be-helpful-b16092e2.png)
 
 For venture investors who want to be helpful, there is an opportunity to avoid this over-inflated ego of competence. Competence is not a mindset. It is, in the words of Jeff Bezos' leadership principles, "a calculated risk." No matter how capable you actually are (or how capable you may think you are), there is always a possibility that your expertise could lead you and the company astray.
 

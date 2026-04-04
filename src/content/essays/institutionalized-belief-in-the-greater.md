@@ -29,7 +29,7 @@ COVID happened, and the company exploded. From November 2020 to August 2021, **t
 
 And then, wouldn't you know it, COVID restrictions started to lift, people could travel again, and Hopin's usefulness **dropped from 15K events per month to 158.** After several rounds of layoffs, Boufarhat announced he was stepping down and **the company's flagship virtual events product was being sold to RingCentral for [$15 million in cash with $35 million in potential performance-based earn outs](https://www.sec.gov/Archives/edgar/data/1384905/000138490523000032/rng-20230630.htm).** The acquisition was barely a footnote for RingCentral, with the CFO [saying they](https://meetings.skift.com/hopin-events-and-session-products-sold-for-15-illion/) “expect the acquisition [of Hopin’s assets] to have an immaterial impact on our revenue and expenses in 2023."
 
-![](/images/institutionalized-belief-in-the-greater-8ac15c02.gif)
+![Animated GIF about man, oh man. so much to unpack here.](/images/institutionalized-belief-in-the-greater-8ac15c02.gif)
 
 Man, oh man. So much to unpack here.
 
@@ -81,7 +81,7 @@ During COVID, when investors whipped themselves into a frenzy, they would have d
 
 A common refrain in the world of startups is that 90% of them fail. It's just the cost of doing business. In other words? You have to crack a few eggs to make an omelette. And I agree with that. But there is the natural rate of failure, and then there is what most people call "unforced errors." Things that you look back on and say "it didn't have to be this way." That idea is perfectly summed up by this meme.
 
-![](/images/institutionalized-belief-in-the-greater-837d97b2.png)
+![Illustration for The Reality of Capital Destruction section](/images/institutionalized-belief-in-the-greater-837d97b2.png)
 
 A piece came out in the Wall Street Journal this week entitled "[Startups Are Dying, and Venture Investors Aren’t Saving Them](https://www.wsj.com/articles/startups-are-dying-amid-drought-in-venture-funding-a9005ad2?mod=Searchresults_pos1&page=1)." In it, my friend, and reliable critic, Hunter Walk, described the funding environment that we're facing:
 
@@ -111,7 +111,7 @@ Earlier this year, I wrote a piece called "[VC Contagion](https://investing1012d
 
 Venture capital is meant to enable companies to do unsustainable things in pursuit of scale that will eventually enable sustainability. But what if sustainability never comes?
 
-![](/images/institutionalized-belief-in-the-greater-51334415.png)
+![Illustration for Venture Predators section](/images/institutionalized-belief-in-the-greater-51334415.png)
 
 In the piece, *Venture Predation*, the abstract contains a gut-punching line:
 

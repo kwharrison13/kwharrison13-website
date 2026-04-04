@@ -93,11 +93,11 @@ Now, I'm no public analyst. So lot's of people would fight me on this. But just 
 
 Microsoft, on the other hand, feels like a company that has evolved dramatically over and over again (granted, they have plenty of their own monopolies). The transition from shipping physical disks to universalizing Windows to the Office suite to Azure, and now while they're old in years, but young in spirit, we get to watch them go through an AI evolution with OpenAI. Sometimes it feels like watching your elderly uncle reinvent himself. But it's still transformative.
 
-![](/images/revisiting-competitive-moats-70397a35.webp)
+![Screenshot demonstrating vying for velocity](/images/revisiting-competitive-moats-70397a35.webp)
 
 You can visualize the Microsoft product suite, and you start to realize how extensive it is across not only Windows and Office, but Xbox, Linkedin, GitHub, Bing, and more.
 
-![](/images/revisiting-competitive-moats-0871be87.png)
+![Screenshot demonstrating vying for velocity](/images/revisiting-competitive-moats-0871be87.png)
 
 Most of the very best companies have these same types of visualizations to demonstrate their product velocity. They ship a huge amount of product extendability to ensure customer satisfaction and stickiness (e.g. that $Y stays as high as possible for as long as possible.)
 

@@ -36,7 +36,7 @@ As I look at my peers, whether people I grew up with or got to know later in lif
 
 # My 20-Year Hill
 
-![](/images/decades-d018b8ce.jpg)
+![Illustration for My 20-Year Hill section](/images/decades-d018b8ce.jpg)
 
 By 2014 I had started college, dropped out, started a company, and gone back to school. I was in the process of studying pretty hard to try and finish college, teaching classes in the BYU business school, and stumbling my way through the process of selling my first company. As a result, I found myself in the BYU library into the wee hours of the morning. When I would walk home in the dark, I would stop at [the top of a hill](https://www.google.com/maps/@40.2453914,-111.6515123,3a,75y,225.08h,89.56t/data=!3m6!1e1!3m4!1sAF1QipP6Qy_dsXYEZZD0zXFFJ6htFPXKIiNWlxjTngAT!2e10!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D) that overlooked the bulk of Provo and stare out into the twinkling lights and get a little pensive.
 

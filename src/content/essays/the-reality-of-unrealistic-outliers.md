@@ -95,7 +95,7 @@ The way I describe a thesis is (1) what is the powerful tailwind that exists ind
 
 From the early days of Figma, the CEO Dylan Field, was already tapped into this idea of the increasing importance of design. He has a famous graphic that he [wrote about in 2017](https://techcrunch.com/2017/05/31/here-are-some-reasons-behind-techs-design-shortage/?fbclid=IwAR3_kFPSO85oGTTWS8BXAYZx8KzOtHdA1b5Gud_j17XcXzxyFrLXZMPz_us) where he shows how the ratio of designers to engineers was starting to shift. You see companies like IBM go from 1 designer for every 72 engineers down to 1 designer for every 8 engineers.
 
-![](/images/the-reality-of-unrealistic-outliers-aea43fb8.png)
+![Quote card from Addressing an Unaddressable Market section](/images/the-reality-of-unrealistic-outliers-aea43fb8.png)
 
 That genuine market wave is often illusive because it’s hard to see it coming until it smacks you in the face.
 

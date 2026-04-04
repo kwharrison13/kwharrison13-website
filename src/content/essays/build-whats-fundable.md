@@ -7,7 +7,7 @@ slug: "build-whats-fundable"
 type: "newsletter"
 ---
 
-![](/images/build-whats-fundable-3e915410.png)
+![Header image for “Build What’s Fundable”](/images/build-whats-fundable-3e915410.png)
 
 ---
 

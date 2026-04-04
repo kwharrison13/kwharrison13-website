@@ -7,7 +7,7 @@ slug: "stewards-of-capital"
 type: "newsletter"
 ---
 
-![](/images/stewards-of-capital-f04b054e.png)
+![Header image for Stewards of Capital](/images/stewards-of-capital-f04b054e.png)
 
 Stop me if you've heard this one before.
 
@@ -57,7 +57,7 @@ Talk about a sine wave. WeWork's valuation was a meteoric rise and fall from gra
 
 And see that orange speck at the far right? That's Neumann's newest company, Flow; valued at [$1B before launch](https://www.timesofisrael.com/what-the-flow-adam-neumanns-new-real-estate-startup-is-valued-at-1b-before-launch/). If I had to articulate what some people must be feeling in a meme, it would probably be this one.
 
-![](/images/stewards-of-capital-02d6bad0.png)
+![Illustration: Peloton](/images/stewards-of-capital-02d6bad0.png)
 
 ## Peloton
 

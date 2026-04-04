@@ -9,7 +9,7 @@ type: "newsletter"
 
 *Quick Announcement: [Contrary Research](https://research.contrary.com/) is hiring for a [Research Analyst](https://contrary.notion.site/Research-Analyst-August-2024-8d3918fd774d418991505ea09f7543bb?pvs=4). To apply, reach out to research@contrary.com. Alright,* on with the show!
 
-![](/images/science-fictions-dueling-fates-f06cd285.png)
+![Header image for Science Fiction's Dueling Fates](/images/science-fictions-dueling-fates-f06cd285.png)
 
 I have been coming back to science fiction more and more lately. I first really dug into my thinking in one of my favorite (though not most popular) pieces, [Historical Futurism](https://investing1012dot0.substack.com/p/historical-futurism?utm_source=publication-search) in July 2023. I laid out how I saw the way dreaming about the future shaped the way we lived today. Next, in [Life Imitates Art](https://investing1012dot0.substack.com/p/life-imitates-art?utm_source=publication-search) in April 2024, I reacted to a new sci-fi movie trailer that had bothered me for a movie called [Atlas](https://www.rottentomatoes.com/m/atlas_2024). The movie hadn't come out yet, but my expectations were pretty much met when it did.
 

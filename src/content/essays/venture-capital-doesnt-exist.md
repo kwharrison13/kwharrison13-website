@@ -6,7 +6,7 @@ excerpt: "What we call 'venture capital' is actually four different things — s
 tags: ['capital-allocation', 'company-building', 'technological-innovation']
 ---
 
-![](/images/venture-capital-doesnt-exist-header.png)
+![Header image for Venture Capital Doesn't Exist](/images/venture-capital-doesnt-exist-header.png)
 
 This is a free weekly newsletter about the art and science of building and investing in tech companies. To receive Investing 101 in your inbox each week, subscribe here:
 

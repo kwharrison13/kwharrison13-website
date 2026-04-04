@@ -9,7 +9,7 @@ type: "newsletter"
 
 *I’m quite late today on two accounts. First? I’m about 27 hours later than usual because I was enjoying a weekend with the very talented community in Contrary at our annual retreat. So this piece is dedicated to all those folks whose company I got to enjoy this weekend.*
 
-![](/images/unions-unions-everywhere-27923e59.png)
+![Header image for Unions, Unions Everywhere](/images/unions-unions-everywhere-27923e59.png)
 
 *I’m also about a week and 27 hours late because I wanted to write this piece the Saturday before Labor Day. This piece represents almost 10 years of me collecting notes and thoughts on unions, and labor, and work. Unfortunately, even with a near 10 year runway, I still couldn’t land the plane just right. But I imagine I’ll look back on this piece each Labor Day from now on. And after 9 different labor days coming and going, leaving me disappointed that I didn’t write this piece, I can now feel a bit satisfied.*
 
@@ -17,7 +17,7 @@ type: "newsletter"
 
 ---
 
-![](/images/unions-unions-everywhere-81001788.png)
+![Illustration: The Podcast That Started It All](/images/unions-unions-everywhere-81001788.png)
 
 # The Podcast That Started It All
 

@@ -7,7 +7,7 @@ slug: "renegade-spotlight-synthesis"
 type: "newsletter"
 ---
 
-![](/images/renegade-spotlight-synthesis-b8dc8751.png)
+![Header image for Renegade Spotlight: Synthesis](/images/renegade-spotlight-synthesis-b8dc8751.png)
 
 ## Renegade Spotlights
 

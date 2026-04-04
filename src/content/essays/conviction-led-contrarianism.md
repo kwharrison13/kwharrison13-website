@@ -7,7 +7,7 @@ slug: "conviction-led-contrarianism"
 type: "newsletter"
 ---
 
-![](/images/conviction-led-contrarianism-cba65dad.png)
+![Header image for Conviction-Led Contrarianism](/images/conviction-led-contrarianism-cba65dad.png)
 
 There is a story of a large village on the coast. The coast was relentlessly demanding in the way that only nature can be. From an intensely dry climate to a raging storm season. Up and down that coast, it was a constant threat to the people. But the people of this particular village felt they were in pure control of their environment. With the weapons of irrigation, cloud seeding, ocean walls, and genetically-modified seeds, they had defied the very laws of nature in order to survive. **Where other communities shriveled away, their community thrived. They had conquered nature**.
 
@@ -57,7 +57,7 @@ One [fear](https://x.com/zebriez/status/1912124786593186017) that Brie Wolfson e
 
 I loved the sentiment from Kache [recently](https://x.com/yacineMTB/status/1923743833482813632) that "if this isn't you at least once a week i'm sad to say that you weren't chosen for greatness."
 
-![](/images/conviction-led-contrarianism-d6dfccea.png)
+![Quote card from The Spirit of Contrarianism section](/images/conviction-led-contrarianism-d6dfccea.png)
 
 When you're meeting a new friend or casually chatting up someone at church or absentmindedly joining a pickleball league, there is plenty of room to optimize for likability. **But contrarianism and deviance hold a special place in the plight of human progress, and they can't be ignored.**
 

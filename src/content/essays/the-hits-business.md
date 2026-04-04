@@ -7,7 +7,7 @@ slug: "the-hits-business"
 type: "newsletter"
 ---
 
-![](/images/the-hits-business-64266c6a.png)
+![Header image for The Hits Business](/images/the-hits-business-64266c6a.png)
 
 Movies are my thing. From the age of 10 to 19 all I wanted to do was go to Hollywood. I voraciously consumed the Coen Brothers, Quentin Tarantino, Christopher Nolan, Martin Scorsese, Rian Johnson. I was inspired by stories like Jared Hess, a fellow BYU grad, writing and directing [Napoleon Dynamite](https://en.wikipedia.org/wiki/Napoleon_Dynamite) for $400K and making $46M.
 
@@ -171,7 +171,7 @@ Even Steven Spielberg, as generational of a talent as he is, doesn't always fit 
 
 Wikipedia has always been my go-to for movie information, more so than IMDB, because I'm as interested in the context as I am the details. I want to read the stories about how movies are created. And I often found myself *loving* it when I saw movies where the same person played 2-3 or more roles at the top of the page. Director, writer, producer, actor, editor, etc. **People who own so much of a creative experience.**
 
-![](/images/the-hits-business-b374328b.png)
+![Chart illustrating defining auteurs](/images/the-hits-business-b374328b.png)
 
 Once again, Mario illustrates how A24 embodies this emphasis on finding and backing these types of artists. He [tells](https://www.generalist.com/briefing/a24) a great story about how A24 came to distribute the 2016 film, "[Swiss Army Man](https://en.wikipedia.org/wiki/Swiss_Army_Man), the debut of directing duo Daniel Kwan and Daniel Scheinert."
 

@@ -145,7 +145,7 @@ Through the Great Depression, George F. made a commitment that they wouldn't fir
 
 By crazy coincidence, when I was reading the story in the WSJ earlier this month about how much people were struggling, I happened to realize that the setting of the town where these struggling people lived? Endicott, NY.
 
-![](/images/what-is-an-extraordinary-man-278441cf.png)
+![Market landscape map for lower-class success](/images/what-is-an-extraordinary-man-278441cf.png)
 
 The Endicott-Johnson Shoe Company eventually gave way to globalization and couldn't survive the shifting landscape around it. But during the time the company was poised for success, it took care of the people working for them.
 
@@ -237,7 +237,7 @@ Muhammad Ali and Scottie Scheffler seem to focus the measure of their lives on a
 
 In some cases, people look for balance. As Josh Kushner [puts it](https://x.com/JoshuaKushner/status/1944388157828718893), there is an opportunity to measure your life in terms of balancing the mission at home and the mission at work:
 
-![](/images/what-is-an-extraordinary-man-9819a63c.png)
+![Illustration for How Will You Measure Your Life? section](/images/what-is-an-extraordinary-man-9819a63c.png)
 
 For others, it can be the pursuit of something that drives them and determines their value system.
 

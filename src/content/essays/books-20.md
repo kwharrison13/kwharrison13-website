@@ -13,11 +13,11 @@ type: "newsletter"
 
 *Let's dig into it.*
 
-![](/images/books-20-0bb1671f.png)
+![Header image for Books 2.0](/images/books-20-0bb1671f.png)
 
 Have you ever seen something so cute, you can't stand it? The cuteness elicits an overwhelming physical response. Babies, puppies, meerkats. Whatever floats your boat. Just the cutest thing in the world? So cute that you can't help but feeling like you just want to eat it! "I could just eat you up" *(read in your most babyish grandma voice)*.
 
-![](/images/books-20-9b143276.png)
+![Illustration from Books 2.0](/images/books-20-9b143276.png)
 
 Well, it turns out that feeling actually has a name: [cute aggression](https://en.wikipedia.org/wiki/Cute_aggression). And not just a name, but several pieces of academic literature unpacking the phenomenon.
 
@@ -123,11 +123,11 @@ So, as other mediums have pushed in to take our attention, that's had an overall
 
 Books are starting to blend together. In some cases, they literally look the same. Whether its the colorful abstract fiction novel...
 
-![](/images/books-20-627f00ff.png)
+![Illustration for The Business of Books section](/images/books-20-627f00ff.png)
 
 Or the sterile white / off-white academic-ey non-fiction book.
 
-![](/images/books-20-e9441df1.png)
+![Framework diagram for the business of books](/images/books-20-e9441df1.png)
 
 Don't get me wrong, I've read several of these books and really liked them. But often these are the exceptions, not the rule. Some people have pointed to the increasing prevalence of pop psychology books. These books that come across as fairly scientific, but are often crafted to be the most attention grabbing. The clickbait or gossip magazines of the book world.
 
@@ -175,7 +175,7 @@ A core fundamental truth that I gained from using Roam, and taking more notes, a
 
 In Roam, I can keep track of quotes that resonate with me. Each of those quotes is one atomic thought. For example, this quote from F. Scott Fitzgerald: "The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function." If you've heard that quote before, its a loose connection in your brain. For me, I can see all nine references of where I've connected that quote before. For example, you can see I used it in my pieces on [Post-Mortems](https://investing1012dot0.substack.com/p/whats-in-a-post-mortem), [The Meme Economy](https://investing1012dot0.substack.com/p/the-meme-economy), and [what to build](https://investing1012dot0.substack.com/p/its-time-to-build-but-build-what).
 
-![](/images/books-20-4fd64d5e.png)
+![Tweet referenced in The Practice: Note-taking section](/images/books-20-4fd64d5e.png)
 
 Now, to each their own on the system or process you use. But **the key idea is creating the ability in every piece of information you ingest, from books to TikToks to Tweets / xeets to articles to podcasts, to identify (1) the atomic thoughts in that piece of content, and (2) the connections to other atomic thoughts you've come across.** Andy discusses this exact practice in [his overview](https://andymatuschak.org/books/) on the weaknesses of books:
 

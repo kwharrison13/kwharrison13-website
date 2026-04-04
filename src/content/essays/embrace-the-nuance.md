@@ -7,7 +7,7 @@ slug: "embrace-the-nuance"
 type: "newsletter"
 ---
 
-![](/images/embrace-the-nuance-b04284fb.png)
+![Header image for Embrace The Nuance](/images/embrace-the-nuance-b04284fb.png)
 
 I remember being in high school in my English class where we were doing speech and debate. The topic had turned political and one person in particular was taking a very firm stance: "George W. Bush was the greatest president in American history."
 
@@ -103,7 +103,7 @@ And I think a lot of people may have similar perspectives. They don't like Trump
 
 Joe Rogan is probably the best and loudest example of this.
 
-![](/images/embrace-the-nuance-08ce6d6e.png)
+![Illustration for A Test of First-Rate Intelligence section](/images/embrace-the-nuance-08ce6d6e.png)
 
 After Joe Rogan played a meaningful part in helping to push Trump over the edge, there [were calls](https://x.com/ElieNYC/status/1854095373783990295) for liberals to "build their own Joe Rogan." But Ryan Broderick had a [great thread](https://x.com/broderick/status/1854635794020888916) on how that fundamentally misses the point of who Joe Rogan is.
 

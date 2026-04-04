@@ -7,7 +7,7 @@ slug: "relationship-liquidity"
 type: "newsletter"
 ---
 
-![](/images/relationship-liquidity-53cb046f.png)
+![Header image for Relationship Liquidity](/images/relationship-liquidity-53cb046f.png)
 
 [They say](https://www.ellevatenetwork.com/articles/9895-you-are-the-average-of-the-five-people-you-spend-time-with) we’re the average of the 5 people we spend the most time with. The same is true of the content we consume. You are the average of the 5 writers, 5 albums, or 5 artists that you spend the most time with.
 
@@ -59,7 +59,7 @@ Even just "communicating your vibe online" is a form of allowing someone to "kno
 
 Whether you know someone as a friend from childhood, or from a previous job, or church, or an event—every person represents a marketplace sitting in between any number of people you know and any number of people you know that other people you know would like to also know.
 
-![](/images/relationship-liquidity-014192c6.png)
+![Tweet referenced in Everyone Is A Marketplace section](/images/relationship-liquidity-014192c6.png)
 
 The question isn't really "are you a marketplace?" You are. Everyone has participants sitting on either side of them, and they're the only middle ground. **So-and-so might never meet such-and-such unless I facilitate the relationship.** The question, instead, is how good of a marketplace are you?
 
@@ -91,7 +91,7 @@ Curiosity, though, has its limitations. One person, however endlessly curious th
 
 While it's true there are limitations to these types of "stable relationships" with all the interpersonal political context, that is more a subsection of your network of relationships, rather than the limitations. Instead, many people think about their relationships as concentric circles.
 
-![](/images/relationship-liquidity-12c5bc52.png)
+![Illustration for Natural Curiosity section](/images/relationship-liquidity-12c5bc52.png)
 
 For the inner circle? My friend [Sam Hinkie](https://twitter.com/samhinkie) describes how he thinks about the people he wants to be the closest to: "Am I the first person they call after they find out they're having a baby? Or getting fired from their job? Or moving to a new city?"
 
@@ -107,7 +107,7 @@ When I was 19 years old, I [served a mission](https://newsroom.churchofjesuschri
 
 And granted, I believe that everyone, not just religious people, exist on a spectrum when it comes to their own opinions. Most people exist somewhere between converting or convincing people. What most critics think of missionaries as doing is convincing. Going out to argue people into submission; pushing them to believe in a different God. And some do. But in reality, the most successful way to bring people to see what you see and believe what you believe is to convert them.
 
-![](/images/relationship-liquidity-05a897bf.png)
+![Quote card from "Start Where They Are" section](/images/relationship-liquidity-05a897bf.png)
 
 Maybe this feels like semantics, but I think it’s important to every relationship, because everyone has a point of view, not just about religion. You believe something about which companies are exceptional, which causes are worthwhile, what behavior is appropriate, and on and on. [The stories we tell](https://investing1012dot0.substack.com/p/the-meme-economy) are justifications for what we choose to believe.
 
@@ -155,8 +155,8 @@ Charting the adoption of different technology and understanding their evolution 
 
 > *“In the Curiosity Phase of an emerging technology, Founders must at times ignore the seemingly endless user demand and instead litigate each decision they make with a lens for building long-term defensibility and value.”*
 
-![](/images/relationship-liquidity-602213ef.png)
+![Chart illustrating company building in the curiosity phase of](/images/relationship-liquidity-602213ef.png)
 
 He shared these charts demonstrating where the curiosity phase exists along several adoption curves for new technology, and I think it’s pretty illustrative of the moment in time. A while go my friend [Mark Valdez](https://twitter.com/_markvaldez) turned me onto a similar concept.
 
-![](/images/relationship-liquidity-d6c4fbbb.png)
+![Chart illustrating company building in the curiosity phase of](/images/relationship-liquidity-d6c4fbbb.png)

@@ -41,7 +41,7 @@ And wealth begets wealth. Only 15% of families in the bottom 20% of income earne
 
 Skewed exposure to equity markets is a leading contributor to income inequality in America. This is what makes the recent boom in retail investing so exciting: [15% of the retail investors](https://mr-mag.com/a-large-chunk-of-the-retail-investing-crowd-got-their-start-during-the-pandemic/) active today got their start in 2020. We saw this surge in the meme stock mania of 2021 and in the staggering growth of communities like r/WallStreetBets (now at 12.2 million members).
 
-![](/images/grabbing-the-bear-by-the-horns-d377d19d.jpg)
+![Tweet referenced in Meet: Generation Investor section](/images/grabbing-the-bear-by-the-horns-d377d19d.jpg)
 
 The emerging group of young investors has been called “Generation Investor” and they’re unlike any generation we’ve seen before. A NASDAQ [survey](https://www.nasdaq.com/docs/etps-empowering-next-generation-of-investors) [found that](https://www.nasdaq.com/articles/gen-z%3A-what-to-know-about-the-next-generation-of-investors) 48% of Gen Z investors check their portfolios multiple times a day, while 24% check once a day. That compares to 39% and 22% for Millennials, 16% and 19% for Gen X, and 10% and 12% for Baby Boomers. Generation Investor is also more active: 34% of Gen Zs make trades a few times a week, compared to 26% of Millennials, 19% of Gen Xers, and 7% of Baby Boomers.
 
@@ -168,15 +168,15 @@ The list goes on. Of course, a key question here is: which of these assets are s
 
 But this a fascinating shift because, for the first time, new asset classes are available as wealth-creating opportunities for more people. Take Masterworks, which argues that the fine art market boasts better returns than the stock market:
 
-![](/images/grabbing-the-bear-by-the-horns-2db1f870.png)
+![Chart illustrating everyone is (still) an investor](/images/grabbing-the-bear-by-the-horns-2db1f870.png)
 
 Masterworks buys art directly, then securitizes that art and sells shares in it.
 
-![](/images/grabbing-the-bear-by-the-horns-9cbc6520.png)
+![Chart illustrating everyone is (still) an investor](/images/grabbing-the-bear-by-the-horns-9cbc6520.png)
 
 If you can’t shell out hundreds of thousands for a Warhol or Banksy, you can buy a share of one and potentially earn double-digit annual returns:
 
-![](/images/grabbing-the-bear-by-the-horns-73b9ef6c.png)
+![Chart illustrating everyone is (still) an investor](/images/grabbing-the-bear-by-the-horns-73b9ef6c.png)
 
 The risk-reward calculus differs greatly among all of the various asset classes outlined above. And, of course, nothing should replace thorough research, patience, and above all, diversification in one’s portfolio.
 

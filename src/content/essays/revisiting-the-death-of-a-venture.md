@@ -7,7 +7,7 @@ slug: "revisiting-the-death-of-a-venture"
 type: "newsletter"
 ---
 
-![](/images/revisiting-the-death-of-a-venture-a2405004.png)
+![Header image for Revisiting The Death of a Venture Fund](/images/revisiting-the-death-of-a-venture-a2405004.png)
 
 I know a lot of people who were obsessed with Game of Thrones. And I know a lot of people who were disappointed by the ending. I never watched the show, but I know that one of the things a lot of fans came to expect was a slew of surprising deaths.
 

@@ -7,7 +7,7 @@ slug: "the-bubble-brains-of-venture-capital"
 type: "newsletter"
 ---
 
-![](/images/the-bubble-brains-of-venture-capital-5cd6edd8.png)
+![Header image for The Bubble Brains of Silicon Valley](/images/the-bubble-brains-of-venture-capital-5cd6edd8.png)
 
 I recently stumbled on a new Netflix show called "[The Fall of the House of Usher](https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries))." I haven't finished the show, so I can't speak to the whole series. But one interaction really struck me.
 

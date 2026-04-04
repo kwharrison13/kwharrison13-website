@@ -13,7 +13,7 @@ type: "newsletter"
 
 Everyone's first car-buying experience should be a hard lesson in negotiation, capitalism, and humility. I had always heard the traps that you can fall into buying a car, and I was laser focused on not getting screwed. The target? A Nissan Versa.
 
-![](/images/the-diligence-thats-due-ccd3d399.png)
+![Illustration from The Diligence That's Due](/images/the-diligence-thats-due-ccd3d399.png)
 
 But I wasn't just going to walk in like some chump off the street. I knew two things: (1) dealerships will often offer "interest-free months" to bring in customers, and (2) they're trying to hit quotas, so they get real agreeable on the last day of the month. With that information, I waited.
 
@@ -129,7 +129,7 @@ In 1986, Warren Buffett wrote, [in his annual letter](https://www.berkshirehatha
 
 [I've written before](https://investing1012dot0.substack.com/p/the-mysteries-of-an-economic-engine) about this emphasis on understanding a company's underlying economic engine. [I've also written before](https://investing1012dot0.substack.com/p/markets-markets-and-markets) about the different kinds of focus an investor can have as they're investing over the course of a company's life, and how that focus can shift.
 
-![](/images/the-diligence-thats-due-dc1b79d3.png)
+![Illustration for Emphasizing The Economic Engine section](/images/the-diligence-thats-due-dc1b79d3.png)
 
 So when I talk about the emphasis on an economic engine, I'm not really talking about seed investing. They haven't built an engine. **But if you're investing $100M then you had better believe the company has an economic engine, even if that engine is built to just light money on fire to no reasonable end**.
 

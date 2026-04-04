@@ -9,7 +9,7 @@ type: "newsletter"
 
 *Quick Disclosure: Views expressed in this post are my own and not the views of Contrary LLC or any affiliate. None of the content should be construed or relied upon in any manner as investment, legal, tax, or other advice. You should consult your own advisers as to these matters. Certain information has been obtained from third party sources and has not been independently verified. See <https://contrary.com/legal> for additional important information.*
 
-![](/images/where-have-all-the-good-ones-gone-d69792b7.png)
+![Header image for Where Have All The Good Ones Gone?](/images/where-have-all-the-good-ones-gone-d69792b7.png)
 
 Telling your kids about Santa Claus is such a tricky minefield. Is it fun pretending Santa is real? Sure. But are you lying to your kids? [Oh, most definitely](https://getyarn.io/yarn-clip/d24e8a7f-7c72-4244-9ed2-621374b1f76c). And kids are so easy to trick. So easy. It's crazy. The plausibility of the tooth fairy, Santa Claus, all of it just slips right under the radar. I have three kids, ages 6, 3, and 1 so they're at various levels of "trickability." (Side note: The 1 year old is the hardest to trick. I say "look over there, a unicorn" and she just drools 🤷)
 
@@ -23,13 +23,13 @@ This is the other side of the storytelling coin that I find myself [talking abou
 
 This week has been a real humdinger for bummers. But let's start with the one that had the most impact on me mentally. Already, I couldn't help but notice that fintech has had a... rough couple of months. Where companies like Robinhood, Coinbase, and Affirm used to be worth $30-40B+ *each*, in a basket of recently IPO'ed fintech companies the aggregate value isn't even worth $30B.
 
-![](/images/where-have-all-the-good-ones-gone-22e5db97.png)
+![Illustration for Cash App: Too Good To Be True? section](/images/where-have-all-the-good-ones-gone-22e5db97.png)
 
 Block (the artist formerly known as Square) has been one of the bastions of the fintech world, held up as an example of success where most others stumble. Then yesterday, Block hit a bit of a Hindenburg moment. A short seller firm (appropriately named Hindenburg Research) published a report on the company.
 
 In it, they characterized Block in a not-so-great light. In Hindenburg's words, "the magic behind [Block] has not been innovation, but its willingness to mislead investors, facilitate fraud, avoid regulation & dress up predatory products as revolutionary tech." As a result (at least in part), Block saw $10B of market cap get wiped out.
 
-![](/images/where-have-all-the-good-ones-gone-5a56ca6b.png)
+![Framework diagram for cash app: too good to be true?](/images/where-have-all-the-good-ones-gone-5a56ca6b.png)
 
 Now, it's important to note that I don't have any inside information or perspective that would make me an informed commentator on Block. Hindenburg Research also has an obvious bias: their business model is to short the stock of companies they believe to be engaging in fraudulent behavior, and then profiting when their reports drive the company's stock price down.
 
@@ -119,7 +119,7 @@ I’ve always liked [this quote](https://www.goodreads.com/quotes/58081-to-put-t
 
 Finally, let's return to that age-old drug: optimism. It can often feel like choosing to be optimistic is just choosing to be the greater fool. Closing your eyes, and letting the world take advantage of you.
 
-![](/images/where-have-all-the-good-ones-gone-f62ead79.png)
+![Framework diagram for putting optimism & pessimism to work](/images/where-have-all-the-good-ones-gone-f62ead79.png)
 
 Geoff Lewis, a not-VC at Bedrock, [shared](https://www.nytimes.com/2019/11/18/business/media/streaming-hollywood-revolution.html) a great framework yesterday around optimism vs. pessimism that has been updated to adjust for the current macroeconomic environment. He also credited Patrick Collison for helping to push his thinking:
 

@@ -7,7 +7,7 @@ slug: "the-siren-song-of-raising-a-venture"
 type: "newsletter"
 ---
 
-![](/images/the-siren-song-of-raising-a-venture-a4aead8c.png)
+![Header image for The Siren Song of Raising a Venture Fund](/images/the-siren-song-of-raising-a-venture-a4aead8c.png)
 
 # The Death of Venture?
 

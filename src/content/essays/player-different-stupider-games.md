@@ -7,7 +7,7 @@ slug: "player-different-stupider-games"
 type: "newsletter"
 ---
 
-![](/images/player-different-stupider-games-ddd22db2.png)
+![Header image for Playing Different (Stupider) Games](/images/player-different-stupider-games-ddd22db2.png)
 
 I'm not a sports guy. We are not a sports family. Growing up, my parents loved sports, and watched them a lot. But it wasn't my thing. That has reflected in my children. A few years ago when my oldest son tried soccer, we spent most of our time trying to get him to stop going up to the ref every few minutes asking, "hey, how much longer do we have to do this?"
 
@@ -47,7 +47,7 @@ I'll start first with an example that I talk about quite a bit when talking abou
 
 The important distinction is that within the AI landscape there are three distinct "games" being played, and failing to understand that those games are, in fact, *different* games is, in and of itself, a stupid game to play.
 
-![](/images/player-different-stupider-games-91012d3a.png)
+![Market landscape map for company building games](/images/player-different-stupider-games-91012d3a.png)
 
 These buckets are completely made up by me, and I'm sure much smarter people would disagree entirely. But this is how I've thought about the different things playing out in AI:
 
@@ -87,7 +87,7 @@ My primary subject in my writing is about the business model of venture capital:
 
 Venture capital, as an industry identifier, is not an effective catch-all. Different firms are playing (at least) one of three games. And failing to understand that those games are, in fact, *different* games is, in and of itself, a stupid game to play.
 
-![](/images/player-different-stupider-games-efad7c92.png)
+![Framework diagram for capital allocation games](/images/player-different-stupider-games-efad7c92.png)
 
 There are a myriad of ways you could segment any group of firms, and most firms have lots of different defining characteristics. None of these are necessarily bad. But understanding their business models are critical.
 
@@ -137,7 +137,7 @@ Also, it was hilarious to me that, when describing the meme-storm, Calacanis onl
 
 But he didn't cause losses on Twitter! These weren't memes, or hurt feelings. These were people who listened to a guy who said "trust me. Have confidence in me." And then listened, and lost their money. And he goes on to call them "f\*cking losers" if they're not trying things and ✨iterating✨.
 
-![](/images/player-different-stupider-games-bfa36746.gif)
+![Tweet referenced in The Greatest Game? Or The Greatest Con? section](/images/player-different-stupider-games-bfa36746.gif)
 
 But now we come back to the danger of playing different games. Because, as much as it makes me throw up all over myself, I have to say I agree with Chamath. He didn't cause losses *per se*. He played a game. And he played his game well. Did he screw hundreds, maybe thousands of people in the process? Yes. Did he make off like a bandit, while leaving employees, investors, and shareholders in the mud? Yes. **But he played his game.**
 

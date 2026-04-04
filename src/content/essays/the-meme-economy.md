@@ -7,7 +7,7 @@ slug: "the-meme-economy"
 type: "newsletter"
 ---
 
-![](/images/the-meme-economy-767f8fa1.jpg)
+![Header image for The Meme Economy](/images/the-meme-economy-767f8fa1.jpg)
 
 # A Return To Storytelling
 

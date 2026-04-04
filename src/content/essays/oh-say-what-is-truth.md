@@ -7,15 +7,15 @@ slug: "oh-say-what-is-truth"
 type: "newsletter"
 ---
 
-![](/images/oh-say-what-is-truth-77510971.png)
+![Header image for Oh Say, What is Truth?](/images/oh-say-what-is-truth-77510971.png)
 
 In 2014, I spent some time at Cambridge and, while sitting in a coffee shop, saw an ad come up on my phone for [Wikimania](https://wikimania2014.wikimedia.org/wiki/Wikimania), which was being held just south of me in London. So, I went down, slept on my cousin's couch, and decided to check it out.
 
-![](/images/oh-say-what-is-truth-6b424011.png)
+![Data chart from Oh Say, What is Truth?](/images/oh-say-what-is-truth-6b424011.png)
 
 Randomly (having never even edited Wikipedia) I attended a multi-day conference of Wikipedia nerds. Unfortunately, the only photographic proof I have of the actual event is like a [Lemony Snicket photo](https://images.app.goo.gl/MZYc2QNve3gpDXfK7) where you're not really sure who he is. 🤷‍♂️
 
-![](/images/oh-say-what-is-truth-a6f0a952.png)
+![Data chart from Oh Say, What is Truth?](/images/oh-say-what-is-truth-a6f0a952.png)
 
 But randomly attending that conference awoke in me a love for the vision of what Wikipedia hoped to be. "The largest collection of human knowledge ever assembled." Many of the [criticisms of Wikipedia](https://news.ycombinator.com/item?id=2580096) cite the limitations of the human editors, proper incentive systems, and editing controversies. Ironically, one of the best overviews of most of the controversies that have occurred in editing Wikipedia is [the article about Wikipedia controversies ON Wikipedia](https://en.wikipedia.org/wiki/List_of_Wikipedia_controversies).
 

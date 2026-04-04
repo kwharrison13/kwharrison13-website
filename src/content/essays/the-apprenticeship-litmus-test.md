@@ -7,7 +7,7 @@ slug: "the-apprenticeship-litmus-test"
 type: "newsletter"
 ---
 
-![](/images/the-apprenticeship-litmus-test-8a61097f.png)
+![Header image for The Apprenticeship Litmus Test](/images/the-apprenticeship-litmus-test-8a61097f.png)
 
 I've always managed to straddle a myriad of typical lines between personalities and perspectives.
 

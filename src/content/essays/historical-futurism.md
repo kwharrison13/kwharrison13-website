@@ -7,21 +7,21 @@ slug: "historical-futurism"
 type: "newsletter"
 ---
 
-![](/images/historical-futurism-e28752a0.png)
+![Header image for Historical Futurism](/images/historical-futurism-e28752a0.png)
 
 ---
 
 When I worked at TCV, our office used to be in downtown Palo Alto at the corner of Emerson and University. Every day, we would go to lunch at the Palo Alto Creamery, or the Sweetgreen on Ramona (or Nobu if Howie got his way). Regardless of which option we chose, we always ended up walking past the corner of Emerson and Hamilton.
 
-![](/images/historical-futurism-dc8593ac.png)
+![Illustration from Historical Futurism](/images/historical-futurism-dc8593ac.png)
 
 Across the street from the Creamery, I would walk past the windows of [The Institute For The Future](https://www.iftf.org/). I would see displays showing off trinkets of the past: Walkman, Gameboys, and other 80s and 90s paraphernalia. I had no idea what the organization did, but I was always fascinated seeing gear like this:
 
-![](/images/historical-futurism-92afeaa2.png)
+![Illustration from Historical Futurism](/images/historical-futurism-92afeaa2.png)
 
 One day, I got curious enough that I went inside to learn more about what they did. I don't know what I expected (time machine manufacturing, maybe?) But turned out the business was pretty normal. Advisory services, partnerships, and a pretty cool [10-year forecast](https://www.iftf.org/ten-year-forecast/) that they've been doing for 50 years! I still have the flyer they gave me when I walked in.
 
-![](/images/historical-futurism-3b7ea515.png)
+![Data chart from Historical Futurism](/images/historical-futurism-3b7ea515.png)
 
 Turns out, the IFTF was a spin-off from the RAND Corporation setup in 1968 to help organizations with "[future studies](https://en.wikipedia.org/wiki/Futures_studies)." In the original mission statement of the organization, they laid out three key focuses:
 
@@ -47,7 +47,7 @@ In a [Quora AMA](https://quorasessionwithmattcohler.quora.com/You-were-quoted-i
 
 So first? We see the present clearly. Then? We see around corners. But as important as it is to turn the next corner, that's something ants can do too. **If you want to make meaningful changes to how the future plays out, you need to be able to zoom out.**
 
-![](/images/historical-futurism-f197ee6d.gif)
+![Animated GIF from Historical Futurism](/images/historical-futurism-f197ee6d.gif)
 
 So today I want to unpack the art and science of futurism, the literature of dreaming, and try and make sense of how best to apply those principles to investing, company building, and generally trying to make the world a better place.
 
@@ -65,7 +65,7 @@ But when you look at [the lessons from previous epidemics](https://investoramnes
 
 If a lot of history is about appreciating the force of gravity that forces things to stay the same, there is plenty of optimism that people feel about the future and how things may *not* stay the same. You look at predictions from the late 1800s and they saw [an exciting future](https://twitter.com/DigiVictorian/status/1539715206020042754?s=20). We have [artists renditions predicting](https://news.artnet.com/art-world/french-artist-predicted-the-year-2000-2008650) the year 2000 from the year 1900.
 
-![](/images/historical-futurism-59579c91.png)
+![Quote card from What Is Historical Futurism? section](/images/historical-futurism-59579c91.png)
 
 Another example, Arthur C. Clarke's timeline of predictions for the 21st century that he wrote in the 1960s. He optimistically laid out a rapid evolution from the lunar landing to colonizing planets by the year 2000. He thought fusion power would come in the 80s or 90s.
 
@@ -79,7 +79,7 @@ In fact, there was a lot of changing forces to the powers of optimism that happe
 
 > *“You’ve just had a big weekend in Las Vegas… you contemplate the drive back to Los Angeles. **Then you remember: This is the year 2050, and you don’t have to drive back LA. Instead, you can take Amtrak’s 300-mph bullet train… you’ll be home in an hour**.”*
 
-![](/images/historical-futurism-c9a90a20.png)
+![Illustration for What Is Historical Futurism? section](/images/historical-futurism-c9a90a20.png)
 
 But [looking back](https://twitter.com/stan_okl/status/1668098178145718272?s=20) on that vision, you might feel more bummed than excited because you're more likely to see 20 years of committee squabbling just to build one more parking garage or [shade structure](https://twitter.com/Austen/status/1660177103185391617?s=20), rather than achieve high-speed rail. You have predictions like [The Long Boom in Wired, July 1997](https://twitter.com/GreatDismal/status/1532944750155681792?s=20). That piece predicted a new Cold War between China and the US, Russia devolving into a kleptocracy, a new pandemic, crime and terrorism leading to de-globalization, and on and on. Shockingly spot on.
 
@@ -217,7 +217,7 @@ Though they've been met with some controversy based on their choice of sponsors,
 
 **We need a new recipe for inspiring dreamers, whether they dream in fact or fiction.** And no matter how hard you try, I don't think its going to come from improved math textbooks. That inspiration can only come from wonder.
 
-![](/images/historical-futurism-bc1a9cf9.png)
+![Chart illustrating the feedback loop of futurism](/images/historical-futurism-bc1a9cf9.png)
 
 But dreaming is the preface to action. The cycle I've described up until now is a sort of practice; practicing the art of imagination:
 

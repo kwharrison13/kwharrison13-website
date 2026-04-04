@@ -7,7 +7,7 @@ slug: "is-now-a-bad-time-to-be-a-vc"
 type: "newsletter"
 ---
 
-![](/images/is-now-a-bad-time-to-be-a-vc-c45803bd.png)
+![Header image for Is Now a Bad Time To Be a VC?](/images/is-now-a-bad-time-to-be-a-vc-c45803bd.png)
 
 ## "We're Just People"
 

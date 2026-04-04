@@ -7,7 +7,7 @@ slug: "surviving-the-death-of-venture-capital"
 type: "newsletter"
 ---
 
-![](/images/surviving-the-death-of-venture-capital-a7fa0c45.png)
+![Header image for Surviving The Death of Venture Capital](/images/surviving-the-death-of-venture-capital-a7fa0c45.png)
 
 [I've said it before](https://investing1012dot0.substack.com/p/according-to-plan), and I'll say it again. In 2008 one of the most important experiences in my life was making sure I argued with all of my friends about which movie was better; The Dark Knight? Or Iron Man? Meanwhile the world was experiencing one of the five worst financial crises in history that led to a [$2 trillion loss globally](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008#:~:text=It%20was%20among%20the%20five,during%202008%2C%20reaching%20%2410.5%20trillion.).
 
@@ -15,7 +15,7 @@ But when I think back, I still think The Dark Knight was a better movie. One sce
 
 The perpetrator of the bomb switcharoo? The Joker. He tells each boat that if they blow up the other boat, then they'll live. If neither pulls the trigger? He'll blow both of them up. Pretty fascinating experiment in human nature. But the MVP of the experiment? This guy.
 
-![](/images/surviving-the-death-of-venture-capital-da9c87ac.png)
+![Illustration from Surviving The Death of Venture Capital](/images/surviving-the-death-of-venture-capital-da9c87ac.png)
 
 The guards on the prisoner boat don't want to pull the trigger, but they don't know what to do. The prisoners are starting to get ansy. Walking up to the guard holding the detonator, this guy offers a solution:
 
@@ -84,7 +84,7 @@ The reality is private equity, as an industry, has attempted to hide behind an i
 
 On a chart meant to demonstrate the balance between returns and volatility, the footnote says "From 1Q86 to 4Q20 where data is available, deemphasizing 2008 and 2009 returns at one-third the weight due to the extreme volatility and wide range of performance, which skewed results."
 
-![](/images/surviving-the-death-of-venture-capital-9aac8d0a.gif)
+![Animated GIF related to yes... but](/images/surviving-the-death-of-venture-capital-9aac8d0a.gif)
 
 The reality is every asset class is filled with storytelling and financial massaging. **Every skeleton has closest, so lets talk about where those are buried for the venture world.**
 
@@ -112,7 +112,7 @@ This is the guy who invested [$12 million](https://www.businessinsider.com/ventu
 
 I say again...
 
-![](/images/surviving-the-death-of-venture-capital-9aac8d0a.gif)
+![Animated GIF about venture capital deserves to change](/images/surviving-the-death-of-venture-capital-9aac8d0a.gif)
 
 # Venture Capital Deserves To Change
 
@@ -140,6 +140,6 @@ Inhumanely subsidized labor, monopoly price gouging, over-paid lobbyists, the se
 
 Companies like Udemy with [$400M](https://x.com/gaganbiyani/status/1720518710631526509?s=20) of revenue can see their stock price jump 38% in one day, just for crossing the threshold from unprofitable to profitable.
 
-![](/images/surviving-the-death-of-venture-capital-0d3328a1.png)
+![Framework diagram for the survival guide](/images/surviving-the-death-of-venture-capital-0d3328a1.png)
 
 So if you want to survive in the ever-changing world of funding innovation, there are a lot of things you can do. But one thing is for sure: the only thing that is certain? Change. Get used to it.

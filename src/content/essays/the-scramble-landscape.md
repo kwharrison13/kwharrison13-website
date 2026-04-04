@@ -7,7 +7,7 @@ slug: "the-scramble-landscape"
 type: "newsletter"
 ---
 
-![](/images/the-scramble-landscape-56f5f983.jpg)
+![Header image for The Scramble Landscape](/images/the-scramble-landscape-56f5f983.jpg)
 
 Musical chairs is exactly the kind of game that feels very casual, but with the right people and enough competitive fervor, musical chairs can become a violent melee.
 
@@ -31,7 +31,7 @@ Second, this week has shaped up to be an eventful one for micro news. The kind o
 
 The first one that caught my attention was the acquisition of X1 by Robinhood.
 
-![](/images/the-scramble-landscape-97f30680.jpg)
+![Illustration for Robinhood & X1 section](/images/the-scramble-landscape-97f30680.jpg)
 
 One ZIRP was the ever-increasing supply of different types of cards, and X1 was one of them.
 
@@ -45,7 +45,7 @@ This is also an example of a Big + Small startup that I talked about when I wrot
 
 The opportunity for larger company with distribution (Robinhood) to acquire a smaller company with a particular product (X1) makes it easier for both to have more success than they likely would on their own.
 
-![](/images/the-scramble-landscape-e5020590.jpg)
+![Quote card from Robinhood & X1 section](/images/the-scramble-landscape-e5020590.jpg)
 
 Other acquisitions like Brex’s purchases of Pry Financial offer similar product expansion for larger companies that possess existing distribution.
 
@@ -53,7 +53,7 @@ Other acquisitions like Brex’s purchases of Pry Financial offer similar produc
 
 In other news, a former buzzy unicorn shutdown this week. After raising $200M at a valuation of $1.2B, the company has shutdown after an investigation discovered that 95% of their users were fake.
 
-![](/images/the-scramble-landscape-0c5c8e1c.jpg)
+![Chart illustrating the shutdown of irl](/images/the-scramble-landscape-0c5c8e1c.jpg)
 
 Was all of consumer social a ZIRP? Outside of TikTok, everything from the metaverse to BeReal that promised to capture consumer attention has faltered.
 
@@ -61,15 +61,7 @@ On the one hand, this is a further indictment of the shortage of due diligence t
 
 It also speaks to something I want to write a full post about, unpacking this idea of “playing different games.” That phrase came into my conceptual lexicon after reading a great piece from Everett Randle about Tiger’s strategy. The fact that the strategy was a ZIRP doesn’t make the piece any less insightful.
 
-![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2c7619db-90ee-4fa6-a46f-ee4d3d570583_400x400.png)The Valley of Dunning-Kruger
-
-Playing Different Games
-
-The Tiger Phenomenon Somewhere, right now, in Silicon Valley… “So how about these Tiger guys eh?” “Hah! You’re telling me — I heard they did [Deal X] in 24 hours after only getting a P&L for diligence and came in 25% over the founder’s asking price…
-
-Read more
-
-5 years ago · 251 likes · 53 comments · Everett Randle](https://randle.substack.com/p/playing-different-games?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+[![Playing Different Games by Everett Randle](/images/the-scramble-landscape-randle.png)](https://randle.substack.com/p/playing-different-games)
 
 One aspect of the broader discussion I want to unpack is how Microsoft + OpenAI is not a game everyone can play. But consumer social represents another aspect of it.
 
@@ -83,13 +75,13 @@ The moment in time is certainly one aspect of the argument. But obviously the ri
 
 Reddit announced a round of layoffs and a reduced hiring plan. Just one in a long line of tech companies cutting back, right?
 
-![](/images/the-scramble-landscape-7aa148bb.jpg)
+![Framework diagram for the reddit rager](/images/the-scramble-landscape-7aa148bb.jpg)
 
 Well Reddit has actually had a much more complicated past few months. The company decided to start charging for access to its API and the roll out has been a nightmare. Turns out when you don’t make many changes to your product for decades, and then suddenly make a dramatic change, your PR muscle might be a little weak.
 
 A big driver behind the decision is the encroachment of AI companies using Reddits data to train their language models. We unpacked some of the details in a thread for Contrary Research.
 
-![](/images/the-scramble-landscape-5f12f278.jpg)
+![Framework diagram for the reddit rager](/images/the-scramble-landscape-5f12f278.jpg)
 
 As the world gets more complex, figuring out how to manage a massive community, a changing macroeconomic climate, and increasing pressure to make money—it can feel nearly impossible.
 

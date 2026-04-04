@@ -7,7 +7,7 @@ slug: "complaining-is-the-mind-killer"
 type: "newsletter"
 ---
 
-![](/images/complaining-is-the-mind-killer-16f08505.png)
+![Header image for Complaining Is The Mind Killer](/images/complaining-is-the-mind-killer-16f08505.png)
 
 ---
 

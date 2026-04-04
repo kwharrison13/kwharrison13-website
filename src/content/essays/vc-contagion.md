@@ -9,7 +9,7 @@ type: "newsletter"
 
 *This piece [originally appeared as a guest post](https://www.newcomer.co/p/guest-essay-vc-contagion) in Newcomer. You can also [check out this podcast episode](https://www.youtube.com/watch?v=f9v01qT-uaE) where Eric Newcomer and I go deeper into some of the themes I touch on in the piece.*
 
-![](/images/vc-contagion-fd1fb1cf.png)
+![Header image for VC Contagion](/images/vc-contagion-fd1fb1cf.png)
 
 **Sometimes you get a song stuck in your head.**
 
@@ -35,7 +35,7 @@ Together these perverse appetites form their own sort of sentient murder plant. 
 
 Apple, Google, Facebook, Amazon, Salesforce, and so many others are companies that operated unsustainably for a while with the help of funding, in order to reach scale and become cash generating machines, with billions in annual cash flows today.
 
-![](/images/vc-contagion-d7307055.png)
+![Framework diagram for the first generation of vc subsidies](/images/vc-contagion-d7307055.png)
 
 But any good thing taken to excess can become problematic. The same is true with capital. There are a number of businesses that have yet to demonstrate their ability to consistently turn a profit. That doesn’t mean they are bad businesses, but they’ve certainly been beneficiaries of exorbitant amounts of capital that may hide the less-than-economical aspects of their businesses.
 
@@ -71,13 +71,13 @@ What was previously a pretty subsidized offering (by VCs and the company's willi
 
 Granted, Airbnb has done a fair bit better job than Uber taking that subsidized commodity, and turning it into more of a cash-generative business. The question then becomes how consistently, and sustainably can Airbnb keep it up and grow that business?
 
-![](/images/vc-contagion-72bf1e47.png)
+![Illustration: Netflix: What's Old Is New](/images/vc-contagion-72bf1e47.png)
 
 ## **Netflix: What's Old Is New**
 
 Finally, we have Netflix. Older than Uber or Airbnb (founded in 1997, compared to the other two in 2009 and 2008 respectively.) When the company [started streaming](https://www.makeuseof.com/how-when-netflix-start-brief-company-history/) in 2007, one of the main ideas was to provide subscription-based access to entire seasons all at once, effectively inventing the term [binge-watching](https://www.viaccess-orca.com/blog/binge-watching-changed-way-watch-produce-television).
 
-![](/images/vc-contagion-bcff37f5.png)
+![Illustration for Netflix: What's Old Is New section](/images/vc-contagion-bcff37f5.png)
 
 From 2015 to 2019, Netflix was spending dramatically on their vision of building an entertainment empire, burning [$9B+](https://app.koyfin.com/fa/00000000-1c82-4912-88c6-8689b285ac75/eq-k0d1vn) in cash. In 2021 alone, the company spent [$17B+](https://www.statista.com/statistics/964789/netflix-content-spend-worldwide/#:~:text=The%20content%20spending%20of%20Netflix,billion%20U.S.%20dollars%20on%20content.) on content, racking up ~$27B of debt in the process.
 
@@ -97,7 +97,7 @@ There's a famous [quote](https://quoteinvestigator.com/2011/08/09/remain-solvent
 
 I think the same idea exists for businesses whose models prove to be currently unsustainable. The market will act like a frustrated Mom waiting for her son to move out of the basement. She’s only going to put up with so much before she kicks him to the curb. In other words? **What happens if the capital (or the market's patience for your unsustainability) runs out before you get sustainable?**
 
-![](/images/vc-contagion-3ed1991d.png)
+![Framework diagram for netflix: what's old is new](/images/vc-contagion-3ed1991d.png)
 
 # **The Unavoidable Weight Of Business Gravity**
 
@@ -105,7 +105,7 @@ I think the same idea exists for businesses whose models prove to be currently u
 
 It is a reality that the vast majority of funded companies start their lives as unsustainable engines. They burn cash in pursuit of a future [economic engine](https://investing1012dot0.substack.com/p/the-mysteries-of-an-economic-engine) that will spit off cash. **But as capital became more, and more plentiful it has enabled unsustainability to persist for much longer.**
 
-![](/images/vc-contagion-4d9b53cc.png)
+![Framework diagram for the unavoidable weight of business gravity](/images/vc-contagion-4d9b53cc.png)
 
 **When the inevitable weight of business gravity smashes into the face of an unsuspecting subsidy darling, it can get ugly.** That is happening more and more as the subsidy subsides, the cash funnel shuts off, and companies have their lack of sustainability exposed. In the [words](https://fortune.com/2022/10/03/warren-buffett-famous-quotes-swimming-naked-interest-rates-debt-zombies/) of **Warren Buffett**, “only when the tide goes out do you learn who has been swimming naked.”
 
@@ -177,7 +177,7 @@ That “dream the dream” premium started to become a nightmare. Klarna, at one
 
 The reality is that some of those companies are exceptional companies that will someday surpass their all-time highs, while some of them may not make it out of 2023 alive. But venture capital did very few favors to these companies as they pushed them deeper, and deeper into unsustainability with very little visibility into the path forward.
 
-![](/images/vc-contagion-d078dd99.png)
+![Chart showing is venture capital killing itself?](/images/vc-contagion-d078dd99.png)
 
 # **Is Venture Capital Killing Itself?**
 

@@ -7,7 +7,7 @@ slug: "its-time-to-build-but-build-what"
 type: "newsletter"
 ---
 
-![](/images/its-time-to-build-but-build-what-9fd434e4.png)
+![Header image for It's Time To Build... But Build What?](/images/its-time-to-build-but-build-what-9fd434e4.png)
 
 COVID created a real time warp. It might shock you to hear that in a few months, it will have been four years since lockdowns started in the US. There is someone out there who was just starting high school when we went remote, and now they're gearing up to graduate.
 

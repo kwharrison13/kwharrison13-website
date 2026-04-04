@@ -43,7 +43,7 @@ There are a lot of different reasons why a company will be successful. **But th
 
 Not every company can be AWS. And not every company will be directly leveraged to cloud adoption the way many of the biggest winners in the public markets are today. But what does a good company look like?
 
-Every year KeyBanc puts out the results of their [private SaaS company survey.](https://www.key.com/kco/images/kbcm_saas_suvey_9-22-1_2.pdf) Rather than showing the very best they show, by definition, what an "average" software company looks like.
+Every year KeyBanc puts out the results of their private SaaS company survey. Rather than showing the very best they show, by definition, what an "average" software company looks like.
 
 
 

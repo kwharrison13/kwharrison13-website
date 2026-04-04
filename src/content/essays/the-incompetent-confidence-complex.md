@@ -7,7 +7,7 @@ slug: "the-incompetent-confidence-complex"
 type: "newsletter"
 ---
 
-![](/images/the-incompetent-confidence-complex-75acbcfc.png)
+![Header image for The Incompetent Confidence Complex](/images/the-incompetent-confidence-complex-75acbcfc.png)
 
 ---
 

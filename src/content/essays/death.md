@@ -7,7 +7,7 @@ slug: "death"
 type: "newsletter"
 ---
 
-![](/images/death-72afb8b8.png)
+![Header image for The Death of a Venture Fund](/images/death-72afb8b8.png)
 
 ## Only The Paranoid Survive
 
@@ -71,7 +71,7 @@ If VCs are too afraid to venture into contrarian categories with big risks they 
 
 **VCs are facing the "Big Budget Effect" that is plaguing Hollywood studios right now.** In the year 2000 you had just three movies that had made $1B+. Titanic, Jurassic Park, and Star Wars Episode I. [Today you have 45+ movies](https://en.wikipedia.org/wiki/List_of_highest-grossing_films#Highest-grossing_films) that have made over $1B, and some of them have made $2B+ like Avengers and Avatar.
 
-![](/images/death-600b8767.png)
+![Framework diagram for fear of the unknown](/images/death-600b8767.png)
 
 As a result of these much larger outcomes we've built a movie-making system that is focused on big hits because the business model can't really absorb too many massive flops. So you get sequels, prequels, and spin-offs. Established IP and bankable stars. No big risks. **And you don't get nearly as much experimentation, innovation, or creativity.**
 

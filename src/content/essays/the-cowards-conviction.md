@@ -7,7 +7,7 @@ slug: "the-cowards-conviction"
 type: "newsletter"
 ---
 
-![](/images/the-cowards-conviction-75a9e763.png)
+![Header image for The Coward's Conviction](/images/the-cowards-conviction-75a9e763.png)
 
 If you've read enough of my writing, you'll know that the majority of my personality and frameworks for my life come from movies. I'm obsessed with stories. When I sat down to think about courage, two stories came to mind.
 

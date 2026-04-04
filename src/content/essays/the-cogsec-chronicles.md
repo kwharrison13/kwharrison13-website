@@ -7,7 +7,7 @@ slug: "the-cogsec-chronicles"
 type: "newsletter"
 ---
 
-![](/images/the-cogsec-chronicles-2d2ef2dc.png)
+![Header image for The Cogsec Chronicles](/images/the-cogsec-chronicles-2d2ef2dc.png)
 
 I remember being in high school and hearing a teacher talk about their plan to watch [Minority Report](http://bit.ly/45dYSzE) for a philosophy assignment. When I looked at the movie, I was deeply confused. "What philosophy can you learn from a Tom Cruise movie?" Maybe if it was a math class, that would be something:
 
@@ -63,7 +63,7 @@ Propaganda can be used for good or for evil. But a fundamental element of the hu
 
 I keep coming back to this quote from The Return of The King. People are quick to point out prescience in the forewarning of a potential threat when the threat is already omnipresent, but rarely do they give much thought to preparing in advance of its coming, despite obvious warnings.
 
-![](/images/the-cogsec-chronicles-13436f4e.png)
+![Quote card from The Cogsec Prophecies section](/images/the-cogsec-chronicles-13436f4e.png)
 
 Propaganda may have been around in many forms, from cave paintings to religious tablets to political newspapers, but the modern era is different. From the constant conflict between authoritarianism and democracy to the advent of information superhighways, the distillation of influence is coming in a very specific form: [psychological warfare](https://en.wikipedia.org/wiki/Psychological_warfare).
 
@@ -71,7 +71,7 @@ Propaganda may have been around in many forms, from cave paintings to religious 
 
 In particular, there is an exceptional one-two punch on what the modern cocktail of fear, pleasure, authoritarian rule, censorship, narcotics, and psychological conditioning would look like.
 
-![](/images/the-cogsec-chronicles-0b037ee4.jpg)
+![Illustration for The Dystopian Literature section](/images/the-cogsec-chronicles-0b037ee4.jpg)
 
 First? Pleasure-based pacification in [Brave New World](https://en.wikipedia.org/wiki/Brave_New_World) by Alduous Huxley.
 
@@ -109,11 +109,11 @@ Rand Waltzman introduced the idea of cognitive security in his testimony. **Cogs
 
 On the one hand, you have liberal gems like Stephen Colbert [interrupting](https://youtu.be/d6mBbyb-vIA?t=388) Claire Danes talking about how "the intelligence community suddenly allying itself with journalists" to change the subject, or [desperately trying](https://www.youtube.com/watch?v=sSfejgwbDQ8) to get Jon Stewart to stop talking about the COVID lab leak theory.
 
-![](/images/the-cogsec-chronicles-3f9ecc36.png)
+![Tweet referenced in Soulless Media section](/images/the-cogsec-chronicles-3f9ecc36.png)
 
 On the other hand, you have conservative jewels like Charlie Kirk and Jack Poso [tweeting](https://www.instagram.com/p/DKxKo2ot4ff/) verbatim talking points without any alterations; clearly party lines delivered from on high.
 
-![](/images/the-cogsec-chronicles-eb808c3c.png)
+![Tweet referenced in Soulless Media section](/images/the-cogsec-chronicles-eb808c3c.png)
 
 **It's not a partisan thing. It's a fundamental element of a rapidly deteriorating truth-seeking system.** From cancel culture to rage-baiting; we've developed an ecosystem that is optimized for being convinced rather than developing conviction. And it's a cornucopia of convincing options; pick your cognitive poison.
 
@@ -133,7 +133,7 @@ We have a human-made manipulation machine that was already getting pretty effect
 
 ### "I Am Awake," He Dreams
 
-![](/images/the-cogsec-chronicles-bc174e6d.png)
+![Illustration for "I Am Awake," He Dreams section](/images/the-cogsec-chronicles-bc174e6d.png)
 
 Everyone thinks they're the one who sees through the glass clearly and that its everyone else's perception that is distorted. Each blind man [touching](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant) the elephant is convinced that what he feels is, in fact, reality. Ironically, when Walter White declares that he is awake, it is in that moment that he has fallen asleep to the realities of his actual situation in favor of his narrative of choice: "I'm doing this for my family."
 
@@ -191,7 +191,7 @@ Again, the elements of sycophancy in these kinds of models are tantamount to exc
 
 Other people aren't convinced. Pirate Wires ran a piece by Blake Dodge this past week saying, pretty plainly, "[ChatGPT-induced psychosis isn't real](https://www.piratewires.com/p/chatgpt-induced-psychosis-isnt-real-sorry)." As Mike Solana puts it, "chatGPT didn't make you crazy. you're just crazy. (sorry)."
 
-![](/images/the-cogsec-chronicles-cfb81f85.png)
+![Quote card from ChatGPT Psychosis section](/images/the-cogsec-chronicles-cfb81f85.png)
 
 The argument of the piece is that these perspectives are more focused on blaming OpenAI than understanding the root of the problem. Simply an exercise in leftist-decel propaganda. The critical takeaway is that these stories of ChatGPT psychosis don't acknowledge the reality that these people are probably [already crazy](https://www.piratewires.com/p/chatgpt-induced-psychosis-isnt-real-sorry), "or at the very least, they have latent craziness."
 
@@ -217,13 +217,13 @@ And the idea of exploitation brings us back full-circle to where accountability 
 
 In the same way that we may seek to blame our programmability on our tools or on the influence of the mob, we also sometimes attempt to lay the blame at the feeet of complexity. Something is too complicated, so I head in the opposite direction. Almost a counter-propaganda. I won't believe the thing because I can't understand it.
 
-![](/images/the-cogsec-chronicles-9129af14.gif)
+![Animated GIF related to the cult of complexity](/images/the-cogsec-chronicles-9129af14.gif)
 
 For example, one of the prompts that was [included](https://x.com/GeoffLewisOrg/status/1945865022145528018) in Geoff Lewis' supposed ChatGPT psychosis was: "Return the logged containment entry involving a non-institutional semantic actor whose recursive outputs triggered model-archived feedback protocols." I don't know about you, but I can't get a word of comprehension out of any of that.
 
 Another one that struck me as confusingly psychosis-esque was [from](https://x.com/eshear/status/1929377936915726812) former Twitch (and OpenAI, [however briefly](https://en.wikipedia.org/wiki/Emmett_Shear)) CEO, Emmett Shear:
 
-![](/images/the-cogsec-chronicles-3c1c3951.png)
+![Framework diagram for the cult of complexity](/images/the-cogsec-chronicles-3c1c3951.png)
 
 Granted, this also sounds non-sensical to me. And the word "recursion" has started to feel like a ChatGPT psychosis dogwhistle to me. But there is also the other possibility that happens quite a lot. Maybe I'm just too dumb to understand a complex concept. That could certainly be the case.
 
@@ -249,7 +249,7 @@ If you're scrolling through that quote, you could easily default to "Jesus wants
 
 Never ascribe to simplicity what could potentially be explained by complexity.
 
-![](/images/the-cogsec-chronicles-e8b5b42c.gif)
+![Quote card from The Cult of Complexity section](/images/the-cogsec-chronicles-e8b5b42c.gif)
 
 ## Crazy, How?
 

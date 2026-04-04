@@ -7,7 +7,7 @@ slug: "beliefs-blockbusters-and-boyhood"
 type: "newsletter"
 ---
 
-![](/images/beliefs-blockbusters-and-boyhood-b6c94514.png)
+![Header image for Beliefs, Blockbusters, and Boyhood](/images/beliefs-blockbusters-and-boyhood-b6c94514.png)
 
 ---
 
@@ -61,7 +61,7 @@ Conviction in something is measured by your willingness to maintain that belief,
 
 The second nugget is the massive [$320M](https://www.hindustantimes.com/entertainment/hollywood/netflixs-most-expensive-film-the-electric-state-budget-avatar-the-avengers-rejected-by-universal-320-million-flop-101742564043311.html) flop that is Netflix's new movie, The Electric State. Seemingly unconnected, but when I think about beliefs, I think about incentives. And the most powerful incentive is money.
 
-![](/images/beliefs-blockbusters-and-boyhood-4b383403.png)
+![Illustration for The Hits Business Strikes Back section](/images/beliefs-blockbusters-and-boyhood-4b383403.png)
 
 I've written before about [The Hits Business](https://investing101.substack.com/p/the-hits-business?utm_source=publication-search), where venture has taken on similar characteristics to the blockbuster business. Movie makers increasingly saw these $1B+ blockbuster hits, and swarmed programmatically around the characteristics that most often lead to that — established IP, sequels, reboots.
 

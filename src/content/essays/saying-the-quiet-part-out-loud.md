@@ -7,7 +7,7 @@ slug: "saying-the-quiet-part-out-loud"
 type: "newsletter"
 ---
 
-![](/images/saying-the-quiet-part-out-loud-86671c7f.png)
+![Header image for Saying The Quiet Part Out Loud](/images/saying-the-quiet-part-out-loud-86671c7f.png)
 
 ---
 
@@ -73,7 +73,7 @@ Ramp has always been a company that is playing to win; that’s what makes them 
 
 Classic winner behavior; keep focusing on winning.
 
-![](/images/saying-the-quiet-part-out-loud-56e405de.jpg)
+![Chart illustrating playing to win](/images/saying-the-quiet-part-out-loud-56e405de.jpg)
 
 It was a hard-fought competition over the course of many years, and Ramp has won in terms of becoming a larger company with more revenue, more customers, and a better product. There were many, many people at Brex who were *also* playing to win, but they lost in the sense that they had less revenue, fewer customers, and a worse product. But that’s the game. Winning is only sweet because you *could* have lost.
 

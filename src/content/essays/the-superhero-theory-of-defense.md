@@ -7,7 +7,7 @@ slug: "the-superhero-theory-of-defense"
 type: "newsletter"
 ---
 
-![](/images/the-superhero-theory-of-defense-e0754c2d.png)
+![Header image for The Superhero Theory of Defense](/images/the-superhero-theory-of-defense-e0754c2d.png)
 
 In 11th grade, I got punched in the face. I remember vividly walking through the crowded halls of my high school. I saw a kid approaching me who I knew and had even sat next to in my physics class. He was almost skipping towards me. Before I knew it, I was simultaneously hearing him say, "I don't like you motherf\*cker" and seeing his fist connect with the side of my face.
 
@@ -21,7 +21,7 @@ As I am so [wont to do](https://investing1012dot0.substack.com/p/the-hits-busine
 
 # Vision's Conflict Equation
 
-![](/images/the-superhero-theory-of-defense-4e3d8bf2.png)
+![Illustration for Vision's Conflict Equation section](/images/the-superhero-theory-of-defense-4e3d8bf2.png)
 
 I started thinking about unpacking my thoughts here after watching The Incredibles 2 with my daughter (more on that later). But where I landed for my first anchor point was remembering a line from Captain America: Civil War. The governments of the world have proposed mandating oversight of the Avengers in light of some missions gone awry. The line [comes](https://youtu.be/JmjRhmk800U?t=31) from Vision:
 
@@ -99,7 +99,7 @@ See, infrastructure can be used to address conflicts that are understandable and
 
 # Watch The World Burn
 
-![](/images/the-superhero-theory-of-defense-dfb546a5.png)
+![Illustration for Watch The World Burn section](/images/the-superhero-theory-of-defense-dfb546a5.png)
 
 [The Dark Knight](https://en.wikipedia.org/wiki/The_Dark_Knight) is another exceptional example of unpacking particular conflict psychology. In Batman's conflict with the Gotham Mob, they turn to the Joker. Bruce Wayne's analysis of the situation elicits this exceptional conversation with Alfred:
 

@@ -6,7 +6,7 @@ excerpt: "Anyone who is invested in public tech stocks has been feeling a lot of
 ---
 
 *
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1b3a4e60-5840-430f-b562-4ee499de91c2_640x370.jpeg)
+![Header image for I Love The Taste of Pain in the Morning](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1b3a4e60-5840-430f-b562-4ee499de91c2_640x370.jpeg)
 
 # What Pain Tastes Like
 
@@ -22,7 +22,7 @@ In 2000 I was just getting started in little league and in 2008 I knew more abou
 
 Like a lot of investors today, be they the professional, YOLO, FinTwit, or TikTok variety, I haven't seen a significant financial correction in my career. Though that doesn't stop me from sitting on my porch, smoking a pipe, and telling my children stories of the March 2020 bear market.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf2ca5c1-7931-4839-a497-9ea190206eff_612x408.jpeg)
+![Illustration for What Pain Tastes Like section](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf2ca5c1-7931-4839-a497-9ea190206eff_612x408.jpeg)
 
 [I don't want anyone to lose their life savings](https://twitter.com/plantmath1/status/1479684251951972356?s=20) but I welcome a game that is more difficult to win. I believe it was Warren Buffett [whose TikTok account popularized the strategy](https://twitter.com/TikTokInvestors/status/1350854473598558213?s=20) of "when the stock goes up, buy the stock." Don’t get me wrong, the democratization of investing is one of the most exciting trends [I've seen recently](https://nbt.substack.com/p/democratizing-access). But a market that never goes down [hides a multitude of sins.](https://twitter.com/cobie/status/1478373491464355848?s=20) I want everyone to be an investor, but I don’t want everyone to be an investor [who is convinced they’re a genius.](https://twitter.com/nikitabier/status/1479948877864177664?s=20)
 

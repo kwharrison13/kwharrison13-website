@@ -17,7 +17,7 @@ type: "newsletter"
 
 ---
 
-![](/images/the-puritans-of-venture-capital-6ce625d5.png)
+![Header image for The Puritans of Venture Capital](/images/the-puritans-of-venture-capital-6ce625d5.png)
 
 People like humble beginnings. I think its because they're easier to understand. It's easier to envision Steve Jobs and Steve Wozniak in a garage with a soldering iron and some microchips. It’s much harder to comprehend a $2.9 TRILLION company with $30 billion of cash, [2 billion active devices](https://www.macrumors.com/2023/02/02/apple-two-billion-active-devices/) and 161K employees.
 
@@ -73,7 +73,7 @@ Historically, firms like Benchmark or Accel had teams of ~6-9 partners. For exam
 
 That was how just about every firm worked. There was a handful of people chasing founders and making decisions. Some were more egalitarian than others. Maybe there were senior vs. junior partners. The textbook example of a small partnership fund is Benchmark.
 
-![](/images/the-puritans-of-venture-capital-3fac97e1.png)
+![Illustration for The Venture Partnership section](/images/the-puritans-of-venture-capital-3fac97e1.png)
 
 In a [2015 profile](https://www.forbes.com/sites/alexkonrad/2015/03/25/benchmark-makes-other-firms-look-outmatched/?sh=2b5944454006) of Benchmark, Forbes described them this way:
 
@@ -250,11 +250,11 @@ I've written about this expansion before:
 
 And people's reaction to that will be, "well that's a mistake." We've seen venture funds launch hedge funds, hedge funds launch venture funds, recruiting agencies launch venture funds, and mutual funds launch... [Benjamin Franklin-themed, meme-fueled... Bitcoin ETFs? \*shudders\*](https://twitter.com/FTI_US).
 
-![](/images/the-puritans-of-venture-capital-c657e631.png)
+![Illustration for The Power Law section](/images/the-puritans-of-venture-capital-c657e631.png)
 
 And I understand. A lot of those experiments have NOT worked. But just because some people have done it wrong, or at the wrong time, or for the wrong reasons, doesn't mean it can't work.
 
-![](/images/the-puritans-of-venture-capital-5381e922.gif)
+![Quote card from The Power Law section](/images/the-puritans-of-venture-capital-5381e922.gif)
 
 Blackstone is a testament to the ability to build a business in VERY different asset classes. [I've returned again and again](https://investing1012dot0.substack.com/p/the-blackstone-of-innovation) to this quote from Stephen Schwarzman, the founder of Blackstone:
 

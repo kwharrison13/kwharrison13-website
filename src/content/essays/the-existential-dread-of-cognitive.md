@@ -7,7 +7,7 @@ slug: "the-existential-dread-of-cognitive"
 type: "newsletter"
 ---
 
-![](/images/the-existential-dread-of-cognitive-2fff1bcb.png)
+![Header image for The Existential Dread of Cognitive Dissonance](/images/the-existential-dread-of-cognitive-2fff1bcb.png)
 
 When I was in 10th grade, I had to do a writing assignment. Over the course of the year we were supposed to read two books by the same author, and identify common themes and style choices that say something about the author.
 
@@ -17,7 +17,7 @@ I assumed everyone would blow this off until the last second, which is what I pr
 
 Still constituting a "book," but dramatically shorter. Perfect! The librarian led me to a few books she thought would be just the right fit for me. The books? [Notes From Underground](https://en.wikipedia.org/wiki/Notes_from_Underground), and [The Gambler](https://bit.ly/3rf1Jbe) by [Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky). Both shorter than 200 pages, exactly what I was looking for.
 
-![](/images/the-existential-dread-of-cognitive-b8c73bb8.png)
+![Quote card from The Existential Dread of Cognitive Dissonance](/images/the-existential-dread-of-cognitive-b8c73bb8.png)
 
 I don't remember what I got on the assignment. I actually still have [the paper I wrote](https://docs.google.com/document/d/1JS1O3-wJACt3-VE2Pjk_gMFKd8v__6s6/edit?usp=sharing&ouid=106496738941809884077&rtpof=true&sd=true), and reading it makes me think I probably didn't get a great grade. But that chance encounter with Dostoevsky was my introduction to existentialism, and Russian literature more broadly. I discovered books like Crime and Punishment and Anna Karenina that would become some of my favorite books.
 

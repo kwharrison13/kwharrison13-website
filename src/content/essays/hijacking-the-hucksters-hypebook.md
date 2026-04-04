@@ -6,7 +6,7 @@ excerpt: "Dissecting 300 years of fundraising fraud to reverse-engineer a playbo
 tags: ['capital-allocation', 'language-of-discourse', 'historical-futurism', 'company-building']
 ---
 
-![](/images/hijacking-the-hucksters-hypebook-bee5b90bdcd6.png)
+![Header image for Hijacking The Huckster's Hypebook](/images/hijacking-the-hucksters-hypebook-bee5b90bdcd6.png)
 
 This is a free weekly newsletter about the art and science of building and investing in tech companies. To receive Investing 101 in your inbox each week, subscribe here:
 
@@ -156,7 +156,7 @@ In the same way that we can anecdotally learn from the list of Horrendous Huckst
 
 ## We Don't Need The Secrecy
 
-![](/images/hijacking-the-hucksters-hypebook-721a158a1594.png)
+![Illustration for We Don't Need The Secrecy section](/images/hijacking-the-hucksters-hypebook-721a158a1594.png)
 
 If there's one element of the huckster's playbook that I think has much less to teach the Honest Huckster, its secrecy. Granted, there are plenty of examples of trade secret protections or defense-related clearance. But one key example is the fact that Elon Musk famously open-sourced all of Tesla's patents back in 2014! Anduril *loves* to talk about the products and projects its putting out when it can (barring secrecy requirements from the DOD).
 

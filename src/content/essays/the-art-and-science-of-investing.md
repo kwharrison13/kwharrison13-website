@@ -7,7 +7,7 @@ slug: "the-art-and-science-of-investing"
 type: "newsletter"
 ---
 
-![](/images/the-art-and-science-of-investing-b0221110.png)
+![Header image for The Art and Science of Investing](/images/the-art-and-science-of-investing-b0221110.png)
 
 # The Calf Path
 
@@ -23,7 +23,7 @@ The poem is called "[The Calf Path](https://poets.org/poem/calf-path)," and it s
 
 As I [reflect](https://investing1012dot0.substack.com/p/having-a-conversation-with-yourself) on a year of writing Investing 101, I'm reminded of what originally drew me to this title for my writing: [Investing 101 2.0](https://investing1012dot0.substack.com/). And I'll stop you right there. No one really likes the name. It's a mouth full, and the branding is pretty confusing. I usually just shorten it to "Investing 101." Maybe some day I'll change it, but for now I came back to what intrigued me about the name.
 
-![](/images/the-art-and-science-of-investing-fdb3a42c.png)
+![Illustration for The Calf Path section](/images/the-art-and-science-of-investing-fdb3a42c.png)
 
 "Reinventing the practice in the process of learning it." There is something powerful about a beginners mind where you can revolutionize something most effectively as you learn the trade (and don't kid yourself; we're all learning--especially in a transition like we've had in the last year). I've [defined](https://investing1012dot0.substack.com/p/of-things-that-matter-most) investing as “the art and science of allocating finite resources to create an optimal outcome.”
 

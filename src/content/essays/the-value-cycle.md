@@ -7,7 +7,7 @@ slug: "the-value-cycle"
 type: "newsletter"
 ---
 
-![](/images/the-value-cycle-59020b33.png)
+![Header image for The Value Cycle](/images/the-value-cycle-59020b33.png)
 
 [I've written before](https://investing1012dot0.substack.com/p/the-cowards-conviction?utm_source=publication-search) about how movies are a big part of my personality. I have a myriad of random references hard-coded into my psychology where, sometimes, I'm surprised they're even there. That happened this week as I was thinking about the idea of value creation, and value capture. I was reminded of a particular scene.
 
@@ -28,7 +28,7 @@ Understanding the Value Cycle, and being able to answer which, if any, of the fo
 
 # What Is Value?
 
-![](/images/the-value-cycle-c5d4af44.png)
+![Illustration for What Is Value? section](/images/the-value-cycle-c5d4af44.png)
 
 I remember taking my first finance class in college, and learning about the primary principle of "[maximizing shareholder value](https://www.investopedia.com/terms/s/shareholder-value.asp)." Creating value is the primary driver of capitalism. For better, or worse, economic growth is predicated on creating value.
 
@@ -82,7 +82,7 @@ In simplest terms, [Value Conversion](https://en.wikipedia.org/wiki/Value_conver
 
 I've written before about building a sustainable business in a piece called "[Building an Actual Unicorn](xx)." In it, I shared a Twitter exchange that I love:
 
-![](/images/the-value-cycle-72ca2be2.png)
+![Tweet referenced in Value Conversion section](/images/the-value-cycle-72ca2be2.png)
 
 Source: [Twitter](https://twitter.com/aashaysanghvi_/status/1591520201010544641?s=20)
 

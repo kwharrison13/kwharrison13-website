@@ -7,13 +7,13 @@ slug: "regret-porn"
 type: "newsletter"
 ---
 
-![](/images/regret-porn-dedc56c8.png)
+![Header image for Regret Porn](/images/regret-porn-dedc56c8.png)
 
 Regret is a powerful force in life. It can certainly be instructive. One example I think of often is regret's informative influence on the mindset of "better safe than sorry." In my neighborhood the trash pickup happens every week, but recycling pickup only happens every two weeks. By the end of the two weeks my wife and I have filled the large blue trash can with relics of our Amazon obsession and Diet Coke fetish. Cans and cardboard as far as the eye can see.
 
 The problem is that as easily as we fill up the can every two weeks, its also not always easy for me to remember which week the recycling came. Did it come last week and I forgot to put it out? Is it coming this week? And I've noticed I'm not the only one. I can see everyone up and down the street using the social proof of "did anyone else put their blue can out?" to decide if this week is the week. Often, we’re all wrong.
 
-![](/images/regret-porn-96dc26f4.jpg)
+![Illustration from Regret Porn](/images/regret-porn-96dc26f4.jpg)
 
 In the summer of 2023 I had a bad run of independence, believing I knew which week recycling was coming, and everyone else was dumb for getting it wrong. Unfortunately, I got it wrong. I missed three different pickups. That's 1.5 months of recycling buildup. We had more boxes than we had garage. It was an epidemic of cardboard. Every time I walked through our garage I regretted my missteps with the recycling. So, sheepishly, I learned my lesson. "Better safe than sorry." Now, I put it out just about every week.
 
@@ -21,7 +21,7 @@ But regret, often, will teach you the wrong lessons. And if you dwell on it enou
 
 # Lessons To Be Learned
 
-![](/images/regret-porn-7c7bb5aa.gif)
+![Quote card from Lessons To Be Learned section](/images/regret-porn-7c7bb5aa.gif)
 
 As instructive as regret like my missteps with the recycling can be, regret most certainly does not have a perfect instructive hit rate. I think often of [the quote](https://gretchenrubin.com/podcast/little-happier-what-we-can-learn-from-mark-twains-cat/) from Mark Twain:
 
@@ -53,7 +53,7 @@ I end up thinking the same thing about my own family. I could go back to certain
 
 Now, if you don't know what I mean by "regret porn, it's actually something [I've written about before](https://investing1012dot0.substack.com/p/on-hype-and-hot-air?utm_source=publication-search). In fact, in May 2023 I wrote a piece that had a very relevant section, even using the same Mark Twain quote I used above, and the section was titled "The Lessons To Learn, And The Lessons To Leave." In that same piece, I caught this image of click-baity regret porn:
 
-![](/images/regret-porn-f4d7f87a.png)
+![Quote card from Identifying Regret Porn section](/images/regret-porn-f4d7f87a.png)
 
 These feelings of "what if you had just done this?" The quintessential "shoulda, coulda, woulda." And sometimes in the abstract, this can just feel like a silly passing thought of "isn't that crazy xyz has done so well?" People can even make some pretty funny [jokes about it](https://www.reddit.com/r/TikTokCringe/comments/174jcr8/ah_yes_if_only_i_invested_while_i_was_8_years_old/) like "why wasn't I buying all the housing in 2008 instead of playing with legos?"
 
@@ -61,7 +61,7 @@ But regret can start to really hurt when it becomes intensely personal. Regret a
 
 ## Geopolitics in 2014
 
-![](/images/regret-porn-d6d58c72.png)
+![Illustration for Geopolitics in 2014 section](/images/regret-porn-d6d58c72.png)
 
 In 2014, I had a friend who had majored in Russian and History. We had a conversation about how Putin was, effectively, playing Hitler's game, but more intelligently. When you look at what has happened today with Ukraine, that feels more obvious. We're staring down the barrel of Russian aggression to take back a lot of Eastern Europe. But back then it was far from obvious. My friend just happened to be very smart.
 
@@ -69,7 +69,7 @@ Now, what was I supposed to do with that information in my early 20's? It's an e
 
 ## Bitcoin in 2015
 
-![](/images/regret-porn-4b4bed01.png)
+![Screenshot demonstrating bitcoin in 2015](/images/regret-porn-4b4bed01.png)
 
 Speaking of Bitcoin pizzas. In January 2015 I was just getting started in venture, and I had a company pitch me on an app to make it easier way for people to buy and sell Bitcoin. Coinbase was 2.5 years old at that point, so they were effectively a competitor. Bitcoin was at [$217.46](https://www.statmuse.com/money/ask/bitcoin-price-january-2015). I even *remember* the company talking about the recent crater in the price of Bitcoin as a good opportunity for more people to get in.
 
@@ -79,7 +79,7 @@ I declined the demo.
 
 ## Nvidia in 2022
 
-![](/images/regret-porn-5c39e1ae.png)
+![Illustration for Nvidia in 2022 section](/images/regret-porn-5c39e1ae.png)
 
 In late 2022 / early 2023, I would often catch myself making the joke (and eventually completely serious comment) whenever someone asked me what I thought the best way to ride the AI hype was. I would just say "buy Nvidia." Now, to my credit on this one, I did buy Nvidia in 2022. But I should have sold everything I had, re-mortgaged my house, and put all of it in Nvidia.
 
@@ -87,7 +87,7 @@ You can see how the regret porn starts to get away from you, no matter what.
 
 # Lessons To Leave, Lessons To Learn
 
-![](/images/regret-porn-3de5e9e4.png)
+![Illustration for Lessons To Leave, Lessons To Learn section](/images/regret-porn-3de5e9e4.png)
 
 I think having regrets about what I should have bought 10 or 20 years ago, or what I should have done in certain instances, or wishing I knew then what I know now. **All of those things keep us anchored in the past.** And, in the words of Rafiki, you can either run from the past or learn from it. Now, obviously not all of us can run from our decision to not buy Bitcoin by eating bugs in the wilderness. The way I see more people running from their past, rather than learning from it, is by embracing FOMO.
 

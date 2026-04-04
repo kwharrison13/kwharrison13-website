@@ -13,7 +13,7 @@ type: "newsletter"
 
 *Onwards.*
 
-![](/images/cultivating-cults-8d531887.png)
+![Header image for Cultivating Cults](/images/cultivating-cults-8d531887.png)
 
 "What do you have to believe?"
 
@@ -45,7 +45,7 @@ That relationship between beliefs and results form what I call...
 
 ## The Trough of Results
 
-![](/images/cultivating-cults-6e183f57.png)
+![Illustration for The Trough of Results section](/images/cultivating-cults-6e183f57.png)
 
 Any belief you start out holding that is deviant or contrarian puts you lower in the eyes of the world. You're weirder than the typical normie. Then you set out to act on your heretical beliefs and people think you're dumber and dumber. You blow up rockets ([lots](https://www.space.com/every-spacex-starship-explosion-lessons-learned) of rockets). You get [shat on](https://youtu.be/y8NbGIkI6KA?t=54) by American heroes. It sucks. **But you don't yet have the results to show for it, so you take it.**
 
@@ -106,7 +106,7 @@ I've come across other evangelists that represent a unique perspective that can 
 
 Another example is [Ana Lorena Fabrega](https://x.com/anafabrega11?lang=en), the Chief Evangelist at [Synthesis School](https://investing1012dot0.substack.com/p/renegade-spotlight-synthesis?utm_source=publication-search). Synthesis is a much earlier stage company than Databricks, and Chrisman (the CEO) is absolutely evangelizing the company in a meaningful way. But her [experience](https://www.readtheprofile.com/p/ana-lorena-fabrega) attending 10 different schools in seven different countries before she was 15 years old set her on a path to forever evangelize better ways to educate kids. **From becoming a teacher to joining Synthesis, she has lived the story she tells every day.**
 
-![](/images/cultivating-cults-ecc18745.png)
+![Chart illustrating founder-level storytelling](/images/cultivating-cults-ecc18745.png)
 
 So while the storytelling needs to be founder-level, it doesn't come exclusively from the founder. But a key component of the story any founder is telling is the ability to "get away with it."
 
@@ -219,7 +219,7 @@ My experience is probably pretty similar to a lot of people who find themselves 
 
 That's when I stumbled onto [Roam Research](https://roamresearch.com/). Twitter came first, as a lockdown discovery for me, followed by an indoctrination into the Roam community. I fell in love with the way Roam treated each bullet point like an atomic unit of thought. I could connect each idea across my entire network of notes and records, and then see where I'd used that thought in other places. If I had a favorite quote by F. Scott Fitzgerald, for example, I could see all 9 different places I'd referenced it.
 
-![](/images/cultivating-cults-07e3fea5.png)
+![Tweet referenced in #RoamCult section](/images/cultivating-cults-07e3fea5.png)
 
 From using Roam, I stumbled onto [Roam Twitter](https://x.com/search?q=kwharrison13%20roam&src=typed_query). I ended up doing [Roam Tours](https://x.com/kwharrison13/status/1371843694106718220) where I would do video calls with people and talk about our Roam setups. I've mentioned before, but the first blog I wrote on this Substack was about [how I use Roam in my investing research](https://investing1012dot0.substack.com/p/roam-investing?utm_source=publication-search). To simplify the discovery experience for Roam users on Twitter we all started using the #RoamCult hashtag. There were [Apostles of Roam](https://x.com/kwharrison13/status/1299521134124134400). You could buy a lifetime membership to the software by paying for the "[Believer Plan](https://roamresearch.com/)."
 

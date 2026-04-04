@@ -7,7 +7,7 @@ slug: "back-to-the-grass"
 type: "newsletter"
 ---
 
-![](/images/back-to-the-grass-43742af9.jpg)
+![Header image for Back To The Grass](/images/back-to-the-grass-43742af9.jpg)
 
 The title of this piece is not, as it may first appear, an apology for my latest relapse in my marijuana habit. It is, instead, a call back to a previous piece I wrote a few months ago.
 

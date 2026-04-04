@@ -7,7 +7,7 @@ slug: "the-state-of-startup-media"
 type: "newsletter"
 ---
 
-![](/images/the-state-of-startup-media-95374067.png)
+![Header image for The State of Startup Media](/images/the-state-of-startup-media-95374067.png)
 
 # Startup Storytelling
 
@@ -272,7 +272,7 @@ But the work has only just begun.
 
 Across 2,500 years, six such institutions arose in sequence, each forged during a period of upheaval that exposed the limits of the previous one:
 
-![](/images/the-state-of-startup-media-3855cd48.png)
+![Screenshot of recurring patterns](/images/the-state-of-startup-media-3855cd48.png)
 
 **Recurring Patterns**
 

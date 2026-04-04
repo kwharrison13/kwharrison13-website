@@ -7,7 +7,7 @@ slug: "barking-in-public"
 type: "newsletter"
 ---
 
-![](/images/barking-in-public-65e74c40.png)
+![Header image for Barking in Public](/images/barking-in-public-65e74c40.png)
 
 Have you ever seen [The Big Sick?](https://en.wikipedia.org/wiki/The_Big_Sick) It's an exceptional 2017 romantic comedy about a guy who finds himself in a stressful situation with demanding parents, an on-again-off-again girlfriend, and a health crisis. Classic setup, but charmingly unique execution. It helps that [Kumail Nanjiani](https://en.wikipedia.org/wiki/Kumail_Nanjiani) is a real gem.
 
@@ -87,7 +87,7 @@ The cultural norm is going bowling with the bumpers up. It's playing Mario Kart 
 
 > *"Most organizational hierarchies are structured like a pyramid. Lots of people at the bottom, a few people at the top. And a lot of people like that structure, because the bottom is capped. But that, by design, means the top is capped too. **To fully uncap the top, or in other words open up the maximum potential, you also have to open up the bottom. You have to open up the possibility that you might fail**."*
 
-![](/images/barking-in-public-4488543f.png)
+![Framework diagram for start barking](/images/barking-in-public-4488543f.png)
 
 Uncapping the bottom, taking off the bumpers, turning off the Smart Steering. In fact, I think even framing it as "daring to fail" is a smidge overdramatic. **It's not just about being willing to fail. It's being willing to be deviant.**
 
@@ -126,13 +126,13 @@ The % of American's who felt satisfied with things in the US peaked in 1999 at 7
 
 The decline has continued ever so slightly over the last 12 years, hitting ~20% in January 2025. Today, the deviant view feels like being willing to say America is, actually, still the greatest country on earth. In fact, John Coogan [masterfully used](https://x.com/johncoogan/status/1808942688890466757) the meme format of that Newsroom clip to express that sentiment:
 
-![](/images/barking-in-public-eea7ee48.png)
+![Illustration: What a Contrarian](/images/barking-in-public-eea7ee48.png)
 
 # What a Contrarian
 
 Now, what I'm not describing is being contrarian for the sake of being contrarian. When I asked ChatGPT for "contrarian" ideas I feel like it was drinking from the poisoned well of nonsensical contrarian-for-contrarian's-sake ideas that a lot of hucksters and jabronis keep feeding it:
 
-![](/images/barking-in-public-fa49092c.png)
+![Illustration for What a Contrarian section](/images/barking-in-public-fa49092c.png)
 
 I don't mean to be combative, counterpositioned, or difficult to talk to just because.
 

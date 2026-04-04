@@ -7,7 +7,7 @@ slug: "you-dont-want-my-value-add"
 type: "newsletter"
 ---
 
-![](/images/you-dont-want-my-value-add-076043c0.png)
+![Header image for You Don’t Want My Value Add](/images/you-dont-want-my-value-add-076043c0.png)
 
 I'm a big Seinfeld fan. Perhaps one of [my favorite scenes](https://www.youtube.com/watch?v=JBBQdFSvvTE) has Elaine on a trans-Atlantic flight with her boyfriend Puddy. As they settle into the flight, Elaine pulls out a book and Puddy stares ahead.
 
@@ -43,7 +43,7 @@ I've written plenty of times about the VC meme of "let me know how I can be help
 
 The first piece I wrote about this was "[The Productization of Venture Capital](https://investing1012dot0.substack.com/p/productization)." I wrote about how, increasingly, venture firms are going to be forced to clearly articulate their product. Their value proposition. Why should founders hire your money? When I asked 90+ investors what their offerings were, the vast majority of the responses fit into a few key buckets:
 
-![](/images/you-dont-want-my-value-add-8ac896f7.png)
+![Quote card from VC Product SKUs section](/images/you-dont-want-my-value-add-8ac896f7.png)
 
 So these are, at the very least, the most common forms of "value add" that most investors offer. Every once in a while you see a new one, like simply [buying GPUs and offering them to founders](https://www.businessinsider.com/nvidia-gpu-venture-capitalists-buying-for-startups-2023-6). But by and large what most investors can offer falls into one of these buckets.
 
@@ -95,7 +95,7 @@ I've been investing for nearly 10 years, and in that time I’ve come across sev
 
 I would email the founder saying "what I can do to help?" Then I would hate myself for days thinking, "you're the VC meme!"
 
-![](/images/you-dont-want-my-value-add-c169f35a.gif)
+![Animated GIF related to you're just gonna sit there?](/images/you-dont-want-my-value-add-c169f35a.gif)
 
 Then I follow up, "what's top of mind for you? Customers or candidates?" No response.
 
@@ -109,7 +109,7 @@ I take a shot in the dark, and start cold sourcing on Linkedin to find who I thi
 
 "Hey CEO, I recently chatted with so-and-so, the C-suite exec that would be interested in seeing if becoming a customer of yours makes sense. Can I intro you?" No response.
 
-![](/images/you-dont-want-my-value-add-785d1fb5.gif)
+![Quote card from You're Just Gonna Sit There? section](/images/you-dont-want-my-value-add-785d1fb5.gif)
 
 # The Sound of Silence
 

@@ -7,13 +7,13 @@ slug: "the-unbundling-of-venture-capital"
 type: "newsletter"
 ---
 
-![](/images/the-unbundling-of-venture-capital-caeced98.png)
+![Header image for The Unbundling of Venture Capital](/images/the-unbundling-of-venture-capital-caeced98.png)
 
 ## What's In a Brand?
 
 In the 1950s when brands had their Don Draper-drenched hey day people [used brand recognition](https://99designs.com/blog/design-history-movements/history-of-branding/) as a short-hand to recognize quality and trust. We drove our Ford Mustang to McDonalds for a Coca-Cola.
 
-![](/images/the-unbundling-of-venture-capital-c58b2785.png)
+![Illustration for What's In a Brand? section](/images/the-unbundling-of-venture-capital-c58b2785.png)
 
 Fast forward through Vietnam, Watergate, Chernobyl, the Gulf War, and #FreeBritney we're all feeling pretty bummed out. [Less than 35%](https://news.gallup.com/poll/352316/americans-confidence-major-institutions-dips.aspx) of people have confidence in institutions and the default trust we gave to brands has been diminished.
 
@@ -67,7 +67,7 @@ We're seeing the professionalization of startup investing as an asset class. The
 
 A lot of investors wish they could back to the way things were (again, probably not out loud.) A time when founders would flock to them, pay the gate tax, and thank them profusely.
 
-![](/images/the-unbundling-of-venture-capital-8a657207.png)
+![Chart illustrating breaking down the gates](/images/the-unbundling-of-venture-capital-8a657207.png)
 
 One of the simplest examples of the diminishing power of VC's gatekeeping abilities? 50 years ago Sequoia set up shop at 2800 Sand Hill Road. One of their core principles? “If we can’t ride a bicycle to [the company], we won’t invest.”
 
@@ -81,13 +81,13 @@ The trends are early and venture still operates in much the same way as it has f
 
 While Naked Brands is primarily focused on celebrities, influencers, and creators I believe there is an underlying element of truth that is impacting venture just as much. The reallocation of trust from brands to individuals is impacting the way founders view the types of investors they want to invite into their companies. The influence within venture has progressively decentralized away from the core brand into renegades leveraging the power of their own brand.
 
-![](/images/the-unbundling-of-venture-capital-4f1f88d3.png)
+![Illustration: Monolithic Brands](/images/the-unbundling-of-venture-capital-4f1f88d3.png)
 
 ### Monolithic Brands
 
 For the longest time people thought often of VC funds as “The Firm.” These amorphous blobs that judged you harshly and spit out cash. Just look at almost every pop culture reference to VCs. In The Social Network [you don't even see the VCs](https://www.youtube.com/watch?v=jynTRc8vcIA) that Zuckerberg tells off. You don't need to. You know the gist. Long board room. Stuffy suits. Money pushers.
 
-![](/images/the-unbundling-of-venture-capital-e8c0aa55.png)
+![Illustration for Monolithic Brands section](/images/the-unbundling-of-venture-capital-e8c0aa55.png)
 
 This isn't to say that the individual investors didn't make a huge difference for their companies, or win over founders based on their relationships. **But the overall influence that VCs had over the market came largely from the sway of their firm’s brands.**
 

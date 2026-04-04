@@ -7,7 +7,7 @@ slug: "becoming-a-cult-leader"
 type: "newsletter"
 ---
 
-![](/images/becoming-a-cult-leader-32d218a9.png)
+![Header image for Becoming a Cult Leader](/images/becoming-a-cult-leader-32d218a9.png)
 
 ---
 

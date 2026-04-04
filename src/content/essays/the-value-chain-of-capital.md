@@ -7,7 +7,7 @@ slug: "the-value-chain-of-capital"
 type: "newsletter"
 ---
 
-![](/images/the-value-chain-of-capital-9fd002a3.png)
+![Header image for The Value Chain of Capital](/images/the-value-chain-of-capital-9fd002a3.png)
 
 Andrew Stanton, one of the filmmakers at Pixar known for directing Finding Nemo, WALL-E, and more, gave a [TED Talk in 2012](https://youtu.be/KxDwieKpawg?t=14) where he talked about storytelling. At the beginning he tells a story about how an old Scottish man came by his colorful nickname. Now, I won't repeat the story, cause my Mom reads this blog. But give it a listen. And just think about what's in a name, and the story behind it.
 
@@ -37,7 +37,7 @@ Granted, Instacart also hit [free cash flow positive](https://app.koyfin.com/fa/
 
 The headlines will talk about investors like Sequoia, who invested in Instacart's $8.5M Series A in 2013 at a $75M valuation. That position at the IPO is worth ~$1B (not accounting for dilution and future purchases.) Exceptional by any and every standard! But that's not the whole story. Sequoia has invested [$300M](https://www.cnbc.com/2023/09/15/sequoia-andreessen-set-to-take-massive-hit-on-2021-instacart-investment.html) total to generate a total [~$1.4B](https://www.forbes.com/sites/dereksaul/2023/09/19/here-are-the-big-investor-winners-in-instacarts-11-billion-ipo-debut-and-the-losers/?sh=4f3e15eb4e61) stake. Still a great 5x return. But for that Series I investment at $39B? Not as great in isolation.
 
-![](/images/the-value-chain-of-capital-2d4facef.png)
+![Chart illustrating what is the venture capital value chain?](/images/the-value-chain-of-capital-2d4facef.png)
 
 Now, again, I'm not criticizing Sequoia's investment in Instacart. A 5x return on $300M of capital is what dreams are made of. But Sequoia illustrates two things about the value chain of capital that I'll explore more below:
 
@@ -50,7 +50,7 @@ And that's not just true for one excessive 2021 round. Remember that up to the S
 
 # Capital Dependency
 
-![](/images/the-value-chain-of-capital-fd22f195.gif)
+![Animated GIF related to capital dependency](/images/the-value-chain-of-capital-fd22f195.gif)
 
 A lot of people like to use language like "passing the bag" and "bag holders" to describe the "capital value chain" that I'm outlining. But that isn't necessarily quite right. In crypto, bag holders are often people who are left with nothing, whose investments are the only driver of enrichment for earlier participants in the chain. But that isn't always the case in venture.
 
@@ -76,7 +76,7 @@ Early in 2022, when the markets started to correct, I remember seeing [this twee
 
 This drives home another point of the capital value chain. In a world of plentiful capital, most VCs weren't as focused on what could raise follow on capital. If a psycho with a commercial real estate business can raise $20B, then anyone can raise anything! **But the sudden constraint on capital made VCs realize just how dependent they are on downstream capital.**
 
-![](/images/the-value-chain-of-capital-6302677a.png)
+![Quote card from "What's It Worth?" section](/images/the-value-chain-of-capital-6302677a.png)
 
 This dynamic reminded me of a quote that I can't find, but I think is a Charlie Munger-ism. The idea that in public markets, you're not trying to predict what the market will do. You're trying to predict what other people predict the market will do. Howard Marks has [written about this idea](https://www.oaktreecapital.com/insights/memo/the-illusion-of-knowledge) quite a bit, that every forecast would have to account for the reactions of every participant in a market (which is why he hates forecasts):
 

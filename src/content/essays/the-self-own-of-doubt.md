@@ -7,7 +7,7 @@ slug: "the-self-own-of-doubt"
 type: "newsletter"
 ---
 
-![](/images/the-self-own-of-doubt-691d1cd5.png)
+![Header image for The Self-Own of Doubt](/images/the-self-own-of-doubt-691d1cd5.png)
 
 ---
 
@@ -77,7 +77,7 @@ You can be in control of your own doubts. The only doubt you should find accepta
 
 Doubt from without is fine. Why? Because it’s not your task. One of the most important books I’ve ever read was [The Courage To Be Disliked](https://www.amazon.com/Courage-Be-Disliked-Phenomenon-Happiness/dp/1501197274). In it, the summary takeaway could be that all of your problems are interpersonal problems. And interpersonal problems come from failing to separate tasks.
 
-![](/images/the-self-own-of-doubt-954e3ca3.png)
+![Chart illustrating leave doubt out](/images/the-self-own-of-doubt-954e3ca3.png)
 
 When considering the doubt from without, we believe that the people doubting you hold the power; it’s their doubt! As the book describes:
 
@@ -93,7 +93,7 @@ You are in control.
 
 # Doubt Your Doubts
 
-![](/images/the-self-own-of-doubt-120c80db.jpg)
+![Quote card from Doubt Your Doubts section](/images/the-self-own-of-doubt-120c80db.jpg)
 
 I’ll end with a phrase from a man who I believe is a prophet, seer, and revelator alive today, akin to Moses: Dieter F. Uchtdorf. This esteemed former pilot planted a confidence seed in my soul 13 years ago when [he said](https://www.youtube.com/watch?v=APwBCEjvSJQ):
 

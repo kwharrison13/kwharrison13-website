@@ -7,7 +7,7 @@ slug: "little-sister-syndrome"
 type: "newsletter"
 ---
 
-![](/images/little-sister-syndrome-6a4e8752.png)
+![Header image for Little Sister Syndrome](/images/little-sister-syndrome-6a4e8752.png)
 
 If there's one thing most human beings are terrible at, it's estimating. We're exceptional at underestimating, or even overestimating. **But when it comes to making correct estimates? The only right guess is that we'll be wrong.**
 
@@ -55,7 +55,7 @@ The same arm-in-arm encouragement Doug Leone offered Pat Grady had historically 
 
 Once again Sequoia was deliberately executing, what the Power Law calls, a "familiar pattern" where "the unknown and homegrown had been promoted." You see the lift continuing. Pat Grady and Sonya Houang are working directly together to build their podcast, [Training Data](https://www.youtube.com/watch?v=m3niSE-8ZvE&t=1277s).
 
-![](/images/little-sister-syndrome-3483c762.png)
+![Framework diagram: The Guess Behind The Curtain](/images/little-sister-syndrome-3483c762.png)
 
 # The Guess Behind The Curtain
 

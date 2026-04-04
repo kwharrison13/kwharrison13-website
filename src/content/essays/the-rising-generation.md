@@ -7,13 +7,13 @@ slug: "the-rising-generation"
 type: "newsletter"
 ---
 
-![](/images/the-rising-generation-089d71ec.png)
+![Header image for The Rising Generation](/images/the-rising-generation-089d71ec.png)
 
 There are a few things that stick in my mind so much it feels like they're a fundamental part of my personal source code. Movies, songs, sayings, quotes, commercials for Campbell's chicken noodle soup. One such entry in my repo is the 2006 movie [Night at the Museum](https://en.wikipedia.org/wiki/Night_at_the_Museum). But the part of the movie that made the cut might surprise you. I think all the time about the first 7 minutes of the movie.
 
 At the beginning, Larry (the main character) goes to pick up his son from his ex-wife's house, and chats with her goober fiancé, Don. Don is a bond trader who wears a beeper, cell phone, and Blackberry attached to his belt like a Wall Street Batman (2006 was a simpler time). After Larry takes his son, Nicky, to his hockey game, they're walking through Central Park.
 
-![](/images/the-rising-generation-18fc4db0.png)
+![Quote card from The Rising Generation](/images/the-rising-generation-18fc4db0.png)
 
 His Dad is telling him what a good job he did, and how the NHL might be a serious possibility.
 
@@ -99,7 +99,7 @@ Again, John Quincy Adams had tons of flaws. After he served as President, he for
 
 That also reminds me of this exam from 1912 I saw [on Twitter](https://twitter.com/creation247/status/1643629389328834560?s=20) that was for 8th graders!
 
-![](/images/the-rising-generation-0aa58eb1.png)
+![Tweet referenced in The Capabilities of Kids section](/images/the-rising-generation-0aa58eb1.png)
 
 To some extent, we've lost sight of what young people are capable of. The average age of Hollywood stars goes up by [0.75](https://twitter.com/rev_cap/status/1647237620852838403?s=20) years every year. CEOs at the age they were hired [has gone from](https://twitter.com/rev_cap/status/1647237620852838403?s=20) ~45 in 2005 to ~68 in 2019.
 
@@ -187,4 +187,4 @@ Then he paused for a bit.
 
 I'm proud of him. We'll see how his ninja aspirations play out. **But even more than that, I'm proud that his first thought is to ask the question "how" do I get what I want?** That's a good first step towards appreciating the journey as much as the destination.
 
-![](/images/the-rising-generation-f05d9afd.jpg)
+![Chart illustrating let's ask dax](/images/the-rising-generation-f05d9afd.jpg)

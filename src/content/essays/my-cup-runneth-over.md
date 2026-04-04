@@ -7,7 +7,7 @@ slug: "my-cup-runneth-over"
 type: "newsletter"
 ---
 
-![](/images/my-cup-runneth-over-4551dec5.png)
+![Header image for My Cup Runneth Over](/images/my-cup-runneth-over-4551dec5.png)
 
 In many ways, I feel extremely blessed. The title of this piece comes from [Psalm 23](https://www.churchofjesuschrist.org/study/scriptures/ot/ps/23?lang=eng) as an expression of gratitude. But the term came to mind when it came to grappling with the overwhelming flow of constant information.
 
@@ -69,7 +69,7 @@ Before you set out to index your ideas, you'd be well served by revisiting an id
 
 One [example](https://bedrockcap.com/letter) of how to avoid falling in-line with the popular narrative comes from Bedrock, whose entire brand revolves around finding narrative violations.
 
-![](/images/my-cup-runneth-over-7ff2e2fa.png)
+![Illustration for Narrative Violations & Birthing Hype Cycles section](/images/my-cup-runneth-over-7ff2e2fa.png)
 
 A simple shorthand could be **"do I think this company or solution is the best first-principles approach to something? Or do I think it is what** ***most people*** **think is the right approach to something?”**
 

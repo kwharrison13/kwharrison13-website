@@ -5,7 +5,7 @@ tag: "Startups"
 excerpt: "This semester, I’ve had the opportunity to work as a co-instructor in an instructional psychology & technology class focused on EdTech startups. The class is broken up into three parts, (1) intro to c..."
 ---
 
-![](https://miro.medium.com/max/940/1*LCPmzth_9taF--xBm_CUbw.jpeg)
+![Header image for Is The Lean Startup a Stupid Way to Start a Company?](https://miro.medium.com/max/940/1*LCPmzth_9taF--xBm_CUbw.jpeg)
 
 This semester, I’ve had the opportunity to work as a co-instructor in an instructional psychology & technology class focused on EdTech startups. The class is broken up into three parts, (1) intro to creativity and innovation, (2) design thinking workshop, and (3) lean startup bootcamp. I teach the third part. At the beginning of one of our first classes, I had some casual small talk with the students transition into an assault on most of what I’ve spent the last 3 years learning.
 
@@ -13,7 +13,7 @@ This semester, I’ve had the opportunity to work as a co-instructor in an instr
 
 This was an 8 AM class; I didn’t come prepared for a boxing match. Now, as we all know, the learning environment is supposed to be a safe place. A place of open discourse. A place to challenge your beliefs.
 
-![](https://miro.medium.com/max/550/1*3ulDGGpL7UGboXnM09bYPw.gif)
+![Animated GIF from Is The Lean Startup a Stupid Way to Start a Company?](https://miro.medium.com/max/550/1*3ulDGGpL7UGboXnM09bYPw.gif)
 
 But for reals, everyone is welcome to their opinion. Even Peter Thiel throws down on lean startups in his book [‘Zero to One.’](http://gsl.mit.edu/media/programs/south-africa-summer-2015/materials/0to1.pdf)
 

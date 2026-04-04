@@ -7,7 +7,7 @@ slug: "life-imitates-art"
 type: "newsletter"
 ---
 
-![](/images/life-imitates-art-656cc762.png)
+![Header image for Life Imitates Art](/images/life-imitates-art-656cc762.png)
 
 # But First, A Movie Rant
 

@@ -7,7 +7,7 @@ slug: "the-7-deadly-sins-of-venture-capital"
 type: "podcast"
 ---
 
-![](/images/the-7-deadly-sins-of-venture-capital-07092210.png)
+![Header image for The 7 Deadly Sins of Venture Capital (with Dan Gray)](/images/the-7-deadly-sins-of-venture-capital-07092210.png)
 
 This was a heck of a conversation; I hope you enjoy it as much as I did. This week, I got to sit down with [Dan Gray](https://x.com/credistick), the Head of Insights at Equidam, a startup valuation platform.
 

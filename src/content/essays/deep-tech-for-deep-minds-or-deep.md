@@ -7,7 +7,7 @@ slug: "deep-tech-for-deep-minds-or-deep"
 type: "newsletter"
 ---
 
-![](/images/deep-tech-for-deep-minds-or-deep-afe77559.png)
+![Header image for Deep Tech For Deep Minds? Or Deep Pockets?](/images/deep-tech-for-deep-minds-or-deep-afe77559.png)
 
 People love to talk about the founding myths of venture capital ([myself included](https://investing1012dot0.substack.com/p/the-puritans-of-venture-capital)). The [Traitorous Eight](https://en.wikipedia.org/wiki/Traitorous_eight), Arthur Rock, [Don Valentine](https://en.wikipedia.org/wiki/Don_Valentine). Books like [The Power Law](https://www.amazon.com/Power-Law-Venture-Capital-Making/dp/052555999X) by Sebastian Mallaby is a great overview.
 

@@ -7,7 +7,7 @@ slug: "eat-what-you-kill"
 type: "newsletter"
 ---
 
-![](/images/eat-what-you-kill-c7354b10.png)
+![Header image for Eat What You Kill](/images/eat-what-you-kill-c7354b10.png)
 
 They say when you have two kids, the second is always more resilient than the first (and by "they" I mean [memes on the internet](https://www.tiktok.com/@therealduttonfam/video/7131549241402527022).) Well, that certainly proved to be the case with my kids. My two oldest are about 2.5 years apart, and my first-born has always been cautious as a cucumber (that's a thing people say, right?)
 
@@ -77,7 +77,7 @@ But there is a misalignment in venture between when an activity occurs and when 
 
 The problem with that is that most of the realized value in a company's life doesn't happen in the first few years after investing (e.g. during the deployment period). Instead, it happens in the latter years of being invested (e.g. the harvest period). **But if you're measuring the success of the harvest by the metrics associated with deployment, you're bound to make a pretty weak judgement.**
 
-![](/images/eat-what-you-kill-0aa9123b.png)
+![Chart illustrating getting out of their own way](/images/eat-what-you-kill-0aa9123b.png)
 
 As a result, people reward short-term behavior, like "getting deals done." [I've written](https://investing1012dot0.substack.com/p/fantasy-capital) about this dynamic before:
 
@@ -87,7 +87,7 @@ As a result, people reward short-term behavior, like "getting deals done." [I've
 
 I've always loved [this tweet from Josh Kopelman](https://twitter.com/joshk/status/1386679426021216256?s=20) about the limited reflection most investors have about their own processes.
 
-![](/images/eat-what-you-kill-988d1b52.png)
+![Tweet referenced in Getting Out Of Their Own Way section](/images/eat-what-you-kill-988d1b52.png)
 
 So I wanted to take that advice, and step back to reflect. Should we do away with "eat what you kill?" Or is it simply in need of reframing?
 
@@ -113,7 +113,7 @@ Even the most successful venture investors aren't without flaws, but they've mad
 
 I mentioned how I've written before about [the productization of venture](https://investing1012dot0.substack.com/p/productization). And, rather than an AI system that tells you whether or not to invest, the reality of every venture fund is going to revolve around whether that firm can build a "product offering" that justifies its existence. And the measurement of that product should be whether it contributes to a replicable, disciplined, long-term success engine.
 
-![](/images/eat-what-you-kill-8fa331b7.png)
+![Chart showing investing is an apprenticeship business](/images/eat-what-you-kill-8fa331b7.png)
 
 ## Investing Is An Apprenticeship Business
 
@@ -145,7 +145,7 @@ There are countless resources on [how to build a partnership](https://twitter.co
 
 For those partnerships that refuse to evolve, and focus on building replicable, disciplined, long-term success engines? Well, [in the words of Jeff Bezos](https://fortune.com/2012/11/16/amazons-jeff-bezos-the-ultimate-disrupter/), "your margin is my opportunity." I had a friend at another venture fund text me with a translation of something members of a partnership often say, and what it actually means.
 
-![](/images/eat-what-you-kill-8f99fb71.png)
+![Screenshot demonstrating perfecting the partnership](/images/eat-what-you-kill-8f99fb71.png)
 
 Those are the kinds of partnerships that I intend to beat. Building a replicable, disciplined, long-term success engine is more than just "getting deals done." It's building a culture, product, institution, and mentality that drives towards success. **That's the kind of output that I want to measure, and that I want to be held accountable for building.**
 

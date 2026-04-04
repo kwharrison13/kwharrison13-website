@@ -7,7 +7,7 @@ slug: "building-mighty-small-businesses"
 type: "newsletter"
 ---
 
-![](/images/building-mighty-small-businesses-c9f639d1.png)
+![Header image for Building Mighty Small Businesses](/images/building-mighty-small-businesses-c9f639d1.png)
 
 # What Is The American Dream?
 
@@ -32,7 +32,7 @@ Immigrants and natural-born US citizens alike took to self-employment as a key c
 
 While the number of people who are self-employed has been trending down, you also had a sort of downward-to-stable trend of new firms being created, at least until Covid.
 
-![](/images/building-mighty-small-businesses-23020d15.png)
+![Illustration: Source: FRED](/images/building-mighty-small-businesses-23020d15.png)
 
 Source: [FRED](https://fred.stlouisfed.org/series/BABATOTALSAUS#)
 
@@ -60,7 +60,7 @@ Now, when you're a VC with a portfolio. That's fine. It used to be 3 in 10 would
 
 This image is insane:
 
-![](/images/building-mighty-small-businesses-1c36450a.png)
+![Tweet referenced in The Leavings of a VC's Playtime section](/images/building-mighty-small-businesses-1c36450a.png)
 
 I once [tweeted](https://x.com/kwharrison13/status/1848397584530014356) this image and said "We should build a monument of this image as a memory to an age of hubris and excess." And I meant it. But not as a way to throw shade at the founders of these companies, but shade at the investors who set this system up.
 

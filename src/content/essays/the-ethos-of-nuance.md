@@ -7,7 +7,7 @@ slug: "the-ethos-of-nuance"
 type: "newsletter"
 ---
 
-![](/images/the-ethos-of-nuance-c97332a5.png)
+![Header image for The Ethos of Nuance](/images/the-ethos-of-nuance-c97332a5.png)
 
 ---
 

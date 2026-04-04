@@ -13,7 +13,7 @@ type: "newsletter"
 
 ***[Check out the full deep dive here](https://research.contrary.com/reports/the-openness-of-ai). To get a taste, here’s just the first section: The Rise of OpenAI.***
 
-![](/images/the-openness-of-ai-3d8c0abb.jpg)
+![Header image for The Openness of AI](/images/the-openness-of-ai-3d8c0abb.jpg)
 
 ## **The Rise of OpenAI**
 

@@ -7,7 +7,7 @@ slug: "the-axis-of-building"
 type: "newsletter"
 ---
 
-![](/images/the-axis-of-building-574a7bea.png)
+![Header image for The Axis of Building](/images/the-axis-of-building-574a7bea.png)
 
 In an episode of Silicon Valley, Pied Piper has grown to a sizable company and now has an HR department run by a woman named Tracey. Gilfoyle, the self-proclaimed satanist anarcho-capitalist is falling behind in his programming backlog. In response, Gilfoyle says "I'm more concerned with being right than being fast." Tracey pushes him to bring on more people to help with him with his workload.
 

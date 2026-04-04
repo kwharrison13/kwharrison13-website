@@ -23,7 +23,7 @@ The level of consensus-driven investing feels rabid, and we can often put off th
 
 We talked about a piece that Rex wrote called [Play It Cool: Chasing Heat vs. Being Contrarian in Venture Capital](https://www.digitalnative.tech/p/play-it-cool-chasing-heat-vs-being) that outlines this idea that, in reality, the most important companies that get built in a given year are rarely aligned to the trend that was "hottest." The deals that people were fighting for "access" to.
 
-![](/images/a-return-to-artisanal-venture-with-0a047d3b.png)
+![Tweet referenced in A Return To Artisanal Venture (with Rex Woodbury)](/images/a-return-to-artisanal-venture-with-0a047d3b.png)
 
 From there, we touch on how [small funds](https://x.com/pitdesi/status/1904173322545332330) can compound capital so aggressively, how even the biggest M&A outcomes in history might only [return 1/3](https://x.com/bryce/status/1902861663243735451) of a massive fund, and how CEO ownership at IPO vs. bootstrapping is materially different.
 

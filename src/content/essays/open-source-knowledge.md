@@ -29,7 +29,7 @@ Open-source knowledge has become one of my biggest [portfolio ideas](https://kwh
 
 # Introducing Contrary Research
 
-![](/images/open-source-knowledge-c937f99f.jpg)
+![Illustration for Introducing Contrary Research section](/images/open-source-knowledge-c937f99f.jpg)
 
 At [Contrary](http://Contrary.com), we're laser focused on identifying the sharpest people in the world, and supporting them relentlessly throughout their life and careers. We support a community of over 400 talented engineers, operators, founders, and future-founders.
 
@@ -37,7 +37,7 @@ Sharp people want to tackle hard problems, and often the solutions to those prob
 
 [Contrary Research](https://research.contrary.com/reports/contrary-research-launch) is a way for us to better help tell those stories. We build on a foundation of what we call light memos; brief introductions to a wide variety of private tech companies. We then use those introductions as a foundation to go deeper. We find where the stories of these companies converge, and dive in.
 
-![](/images/open-source-knowledge-d541673e.png)
+![Illustration for Introducing Contrary Research section](/images/open-source-knowledge-d541673e.png)
 
 Learning about, and understanding, private companies is difficult. There's no one source of information that will give you the entire picture. Our goal in launching Contrary Research has a few components:
 

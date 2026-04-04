@@ -7,7 +7,7 @@ slug: "the-holding-companies-of-our-hearts"
 type: "newsletter"
 ---
 
-![](/images/the-holding-companies-of-our-hearts-4e1e981f.png)
+![Header image for The Holding Companies of Our Hearts](/images/the-holding-companies-of-our-hearts-4e1e981f.png)
 
 Ever since I first [started writing](https://investing101.substack.com/p/roam-investing), I've revolved around this idea that "everyone is an allocator of something." As I've kept exploring the idea of allocation, I [come back](https://investing101.substack.com/p/of-things-that-matter-most?utm_source=publication-search) to this definition of investing: “The art and science of allocating finite resources to create an optimal outcome.” Last time I unpacked that quote in relation to everyone being an investor, I made this point:
 

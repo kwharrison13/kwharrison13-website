@@ -7,7 +7,7 @@ slug: "the-future-of-investing-101"
 type: "newsletter"
 ---
 
-![](/images/the-future-of-investing-101-7c5032de.png)
+![Header image for The Future of Investing 101](/images/the-future-of-investing-101-7c5032de.png)
 
 # Where Did I Come From?
 

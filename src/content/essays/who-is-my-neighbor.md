@@ -7,7 +7,7 @@ slug: "who-is-my-neighbor"
 type: "newsletter"
 ---
 
-![](/images/who-is-my-neighbor-39272645.png)
+![Header image for Who Is My Neighbor?](/images/who-is-my-neighbor-39272645.png)
 
 I've written a handful of times about why I write. I've often pointed to the quote "I write because I don't know what I think until I read what I say." I've [talked](https://investing1012dot0.substack.com/p/from-digital-sandbox-to-digital-garden?utm_source=publication-search) about my writing as a "secret public journal" and the [driver](https://investing1012dot0.substack.com/p/the-inescapable-debate-of-human-nature?utm_source=publication-search) behind my writing:
 
@@ -33,7 +33,7 @@ In Utah, the state requires each county to have winter plans for homeless people
 
 When the county started looking for solutions, one person thought he had a good suggestion. Don Kraftt, the leader of a Presbyterian church called Mountain Road Church, offered up his church building for the site. Much to Kraftt's surprise, he was met with "intense backlash, and fear, from his neighbors," **which made him feel obligated to back out of his commitment. A decision that, when announced at a city meeting, was met with "a round of applause from the crowd**."
 
-![](/images/who-is-my-neighbor-e23342cc.png)
+![Illustration: What's The Catch?](/images/who-is-my-neighbor-e23342cc.png)
 
 # What's The Catch?
 

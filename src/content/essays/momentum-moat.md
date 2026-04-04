@@ -7,7 +7,7 @@ slug: "momentum-moat"
 type: "newsletter"
 ---
 
-![](/images/momentum-moat-abf97499.png)
+![Header image for Momentum != Moat](/images/momentum-moat-abf97499.png)
 
 ---
 

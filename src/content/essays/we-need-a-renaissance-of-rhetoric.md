@@ -167,7 +167,7 @@ My takeaway from the onslaught of the debates we *do* see is that most have devo
 
 ## The Age of Pathos
 
-![](/images/we-need-a-renaissance-of-rhetoric-b68299eb.png)
+![Chart illustrating the age of pathos](/images/we-need-a-renaissance-of-rhetoric-b68299eb.png)
 
 **Political rhetoric has become incredibly exhausting and incredibly effective for the same reason. It’s highly emotional.**
 
@@ -193,7 +193,7 @@ In other words, rhetoric may be the “how” but thymos is the “why.” Weak 
 
 The good news is the spark is already lit. I saw [multiple](https://x.com/aelfred_D/status/2011949883670876351?s=20) [instances](https://x.com/PaulAnleitner/status/2012160519986164197) recently of Kai Cenat, a famous streamer, making commitments to read out loud for 20 minutes a day or looking up words he didn’t know as he was reading. It [inspired](https://x.com/mkhammer/status/2011935090490675321) another popular streamer, Rakai, to do the same.
 
-![](/images/we-need-a-renaissance-of-rhetoric-d479cdb0.png)
+![Chart illustrating rekindle the flame](/images/we-need-a-renaissance-of-rhetoric-d479cdb0.png)
 
 Another, similarly surprising, spark of intellectual discourse is the fact that Dua Lipa actually has one of the best book club podcasts around.
 

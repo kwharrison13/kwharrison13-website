@@ -7,7 +7,7 @@ slug: "venture-capital-unbundled"
 type: "newsletter"
 ---
 
-![](/images/venture-capital-unbundled-17cfd838.png)
+![Header image for Venture Capital Unbundled](/images/venture-capital-unbundled-17cfd838.png)
 
 Over the course of 2021, I was starting to notice a rising trend. It put an itch in my brain so intense that I decided to start a blog so that I could write about this specific force. Since then, I've written every week for three years. But that original idea?
 

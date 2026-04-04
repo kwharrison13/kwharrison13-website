@@ -170,7 +170,7 @@ The purpose of a checklist is not to make you a dumb algorithm just checking box
 
 Roam is uniquely perfect for this kind of networked thought. You have a common repo of questions, frameworks, checklists, and categories. By easily being able to pop them open, apply them to your current research, and see where else they've been used effectively, you can become a powerhouse.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2902854e-8cf3-4daf-9e11-ba35470e872a_1500x760.jpeg)
+![Header image for Networked Conviction: Roam + Investing](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2902854e-8cf3-4daf-9e11-ba35470e872a_1500x760.jpeg)
 
 ## **Information Ingestion**
 

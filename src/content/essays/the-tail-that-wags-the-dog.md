@@ -15,11 +15,11 @@ I was reminded of [the scene from Life of Brian](https://www.youtube.com/watch?v
 
 People are like that. Seeking non-conformity through conformity. The more you pay attention to the way people make decisions, the more you see thousands of years of social creature / herd behavior rear its head. It may start to feel like the path to success is more likely to come from Forrest Gump's military strategy:
 
-![](/images/the-tail-that-wags-the-dog-75d2b1fe.gif)
+![Tweet referenced in The Tail That Wags The Dog](/images/the-tail-that-wags-the-dog-75d2b1fe.gif)
 
 But after a while, the conformity starts to feel insane. You start to feel red pilled, and notice cracks in the reasons why people do things. The psychology behind everybody's beliefs can sometimes be much louder than the beliefs people are screaming on Twitter. Like Truman on The Truman Show starting to see the cracks in his reality.
 
-![](/images/the-tail-that-wags-the-dog-201a4d2e.gif)
+![Tweet referenced in The Tail That Wags The Dog](/images/the-tail-that-wags-the-dog-201a4d2e.gif)
 
 You can start to feel trapped. You know you're being lied to, or things are being exaggerated. But in reality, starting to recognize the incentives that drive most people's behavior can be the most freeing thing available to you. **In fact, staying under the illusion that people are free to have whatever belief they want to believe in, independent of incentives; that's the strongest prison of all.**
 
@@ -45,7 +45,7 @@ And I'll tell ya. The fights I got in with this guy about Snyk. "Developers don'
 
 I tried to lay out the conversations we'd had with developers that proved otherwise. "They're telling you what they want to hear."
 
-I explained how [67% of developers](https://discover.securecodewarrior.com/rs/126-FZY-662/images/WHITEPAPER_The_challenges_and_opportunities_to_improve_software_security_FINAL.pdf?mkt_tok=MTI2LUZaWS02NjIAAAGEeOsSeATJ7ZQ_2DFx7fGDY5LsiG5PtFqIgj7WRRC2n-LDi0GuwpRYs72YkFh43kW2kbVhhg92vOeQLvzp5MYCatmyvrZbGFHnFPEMlO6CaFs) have shipped code with known vulnerabilities. "They'll never catch everything! You have to have established security to catch problems anyways, why would you slow down development for security?"
+I explained how 67% of developers have shipped code with known vulnerabilities. "They'll never catch everything! You have to have established security to catch problems anyways, why would you slow down development for security?"
 
 That went on for years. From Snyk's [$1B valuation](https://www.crunchbase.com/funding_round/snyk-series-c--57155319) in 2020 until they were [valued at $7.5B](https://www.crunchbase.com/funding_round/snyk-series-g--a0c23f97) in 2022. Then, around this time I heard from someone else at this guy's firm that he was on the war path internally. "How could we have missed Snyk? We need to do a post-mortem to understand this clear mishap."
 

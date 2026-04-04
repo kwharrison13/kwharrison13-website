@@ -7,7 +7,7 @@ slug: "the-volume-of-your-inaccuracy"
 type: "newsletter"
 ---
 
-![](/images/the-volume-of-your-inaccuracy-8607f2ad.png)
+![Header image for The Volume of Your Inaccuracy](/images/the-volume-of-your-inaccuracy-8607f2ad.png)
 
 I've been thinking a lot about the correlation between volume and power.
 

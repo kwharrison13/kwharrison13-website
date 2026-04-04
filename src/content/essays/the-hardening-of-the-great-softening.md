@@ -7,7 +7,7 @@ slug: "the-hardening-of-the-great-softening"
 type: "newsletter"
 ---
 
-![](/images/the-hardening-of-the-great-softening-bae5162b.png)
+![Header image for The Hardening Of The Great Softening](/images/the-hardening-of-the-great-softening-bae5162b.png)
 
 *Apologies for the delayed send out. After 2.5 years, I've come the second closest to missing a week in my writing that I’ve come due to a busy work week, a retreat in San Diego, and a reunion. The last time was in [October 2023](https://investing1012dot0.substack.com/p/the-pace-of-fomo-cycles) when I got deathly sick. Alrighty. Onward.*
 
@@ -59,7 +59,7 @@ The first thing I was reminded of as I started to unpack my feelings on this top
 
 I don't remember where I first read this poem, but I have often thought about it when I find myself stopping to reflect. When I've mowed half a lawn, or reached the peak of a hike but still have to get back down. I feel exerted, and spent, but still pleasantly tense with the expectation of further work to do.
 
-![](/images/the-hardening-of-the-great-softening-04f072b9.png)
+![Illustration for Miles To Go Before We Sleep section](/images/the-hardening-of-the-great-softening-04f072b9.png)
 
 I think of the impatient horse focused on the work, and the reflective narrator pondering the snow. The beauty that the work horse misses in its impatience to get to a farm, and out of the snow, is what was worth noticing. **It’s the snow storm that makes the forest beautiful. The shelter needs the storm to be relevant. Life’s difficulties and complexities are what makes it important**.
 
@@ -81,7 +81,7 @@ Capitalism, for all it accomplishes, is a system that can easily emphasize enric
 
 > *"Most organizational hierarchies are structured like a pyramid. Lots of people at the bottom, a few people at the top. And a lot of people like that structure, because the bottom is capped. But that, by design, means the top is capped too. To fully uncap the top, or in other words open up the maximum potential, you also have to open up the bottom. You have to open up the possibility that you might fail."*
 
-![](/images/the-hardening-of-the-great-softening-e952113b.png)
+![Quote card from What's Old Is New section](/images/the-hardening-of-the-great-softening-e952113b.png)
 
 For many people, that uncapped upside is worth every risk or externality. Ambitious people often see themselves as "[temporarily embarrassed millionaires](https://www.reddit.com/r/QuotesPorn/comments/jotijb/john_steinbeck_once_said_that_socialism_never/)." Success is not a question of if, but when. But for many people who see less and less success for them or people like them, there is a deep rooted frustration. And that frustration softens the ambition people feel, or the willingness they have to endure hard work.
 
