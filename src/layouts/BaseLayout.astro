@@ -7,9 +7,20 @@ import '../styles/global.css';
 interface Props {
   title: string;
   currentPage: string;
+  description?: string;
+  ogImage?: string;
+  ogType?: string;
+  article?: { publishedTime?: string; tags?: string[] };
 }
 
-const { title, currentPage } = Astro.props;
+const { title, currentPage, description, ogImage, ogType, article } = Astro.props;
+
+const siteTitle = 'Kyle Harrison';
+const defaultDescription = 'General Partner at Contrary. Writing about venture capital, startups, and compounding human potential.';
+const metaDescription = description || defaultDescription;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const socialImage = ogImage || new URL('/family.webp', Astro.site).toString();
+const pageType = ogType || 'website';
 ---
 
 <!DOCTYPE html>
@@ -17,8 +28,33 @@ const { title, currentPage } = Astro.props;
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{title} · Kyle Harrison</title>
+  <title>{title} · {siteTitle}</title>
+  <meta name="description" content={metaDescription} />
+  <link rel="canonical" href={canonicalURL} />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content={`${title} · ${siteTitle}`} />
+  <meta property="og:description" content={metaDescription} />
+  <meta property="og:image" content={socialImage} />
+  <meta property="og:url" content={canonicalURL} />
+  <meta property="og:type" content={pageType} />
+  <meta property="og:site_name" content={siteTitle} />
+  <meta property="og:locale" content="en_US" />
+  {article?.publishedTime && <meta property="article:published_time" content={article.publishedTime} />}
+  {article?.tags?.map(tag => <meta property="article:tag" content={tag} />)}
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@kwharrison13" />
+  <meta name="twitter:title" content={`${title} · ${siteTitle}`} />
+  <meta name="twitter:description" content={metaDescription} />
+  <meta name="twitter:image" content={socialImage} />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=DM+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" />
 </head>
 <body>
   <div class="app-shell" id="app-shell">

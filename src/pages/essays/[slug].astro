@@ -12,11 +12,39 @@ export async function getStaticPaths() {
 
 const { essay } = Astro.props;
 const { Content } = await essay.render();
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": essay.data.title,
+  "datePublished": essay.data.date,
+  "author": {
+    "@type": "Person",
+    "name": "Kyle Harrison",
+    "url": "https://kwharrison13.com/about"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Kyle Harrison"
+  },
+  "description": essay.data.excerpt || "",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": `https://kwharrison13.com/essays/${essay.slug}`
+  }
+};
 ---
 
-<BaseLayout title={essay.data.title} currentPage="essays">
+<BaseLayout
+  title={essay.data.title}
+  currentPage="essays"
+  description={essay.data.excerpt || `Essay by Kyle Harrison: ${essay.data.title}`}
+  ogType="article"
+  article={{ publishedTime: essay.data.date, tags: essay.data.tags }}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <div style="margin-bottom: 8px;">
-    <span class="update-tag">{essay.data.tag}</span>
+    <span class="update-tag">{essay.data.tags?.[0]}</span>
     <span style="font-size: 12px; color: var(--text-tertiary); margin-left: 8px;">{new Date(essay.data.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</span>
   </div>
   <h1 class="page-title">{essay.data.title}</h1>
