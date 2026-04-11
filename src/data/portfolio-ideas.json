@@ -320,6 +320,27 @@
         "date": "Feb 24, 2020",
         "content": "One of the most challenging exercises for early stage companies is defining your initial GTM strategy. Shares his playbook as the first Head of Sales & Customer Success at Typeform and Notion.",
         "url": "https://x.com/briannekimmel/status/1232001943569981441"
+      },
+      {
+        "type": "tweet",
+        "source": "@zanehengsperger",
+        "author": "Zane Hengsperger",
+        "handle": "@zanehengsperger",
+        "date": "Apr 11, 2026",
+        "content": "You probably have not heard the names of 90% of Lockheed Martins suppliers.\n\nNever ignore the small shops in middle America. They are the defense industrial base.\n\n>$6.9B/year goes to 7,100+ small businesses alone\n>Lockheed won the SBA's Dwight D. Eisenhower Award for Excellence, the most prestigious honor for large prime contractors working with small businesses\n>$36B/year flows to 13,000+ suppliers across all 50 states\n>93% of those suppliers are American\n>The F-35 has 2,100+ suppliers. Nearly half are small businesses\n>Lockheed's Orion spacecraft: 2,900 suppliers. 50% small business\n>These aren't subcontractors in name only. These are machine shops in PA, ceramics labs in LA, precision engineers in MA, painting companies in AR, castings foundries in NH\n>One small shop in Cleveland runs the only 50,000-ton forging press on earth. Makes F-35 bulkheads in a single piece of titanium\n>Every F-35 carries 920 lbs of rare earths. China refines 90% of the global supply\n>The Pentagon once discovered Chinese alloys in the F-35 through a 4-layer game of telephone: Lockheed > Honeywell > pump supplier > magnet supplier > \"that's from China\"\n>There's a 2027 deadline to eliminate Chinese rare earths from all US weapons systems",
+        "url": "https://x.com/zanehengsperger/status/2042762679207485721",
+        "media": [
+          {
+            "kind": "image",
+            "src": "/images/tweets/zanehengsperger-2042762679207485721-1.jpg",
+            "alt": "Lockheed Martin Missiles and Fire Control recognizes 2020 Outstanding Suppliers \u2014 list of ~18 small-business suppliers across the US (A.F. Technologies, Aerobotix, Area-I, Beacon Industries, CVD Ceramics, Defense Suppliers of Electronic Components, E.F. Precision, Extreme Engineering Solutions, Reynolds Systems, SeyTec, Sunshine Aero, The Bernd Group, Uni-Cast, Veterans Trading, Villa Machine, Weston & Associates, and others)."
+          },
+          {
+            "kind": "image",
+            "src": "/images/tweets/zanehengsperger-2042762679207485721-2.png",
+            "alt": "F-35 LRIP 12-14 Fact Sheet. Unit costs by lot: F-35A $82.4M \u2192 $79.2M \u2192 $77.9M (-12.8%), F-35B $108.0M \u2192 $104.8M \u2192 $101.3M (-12.3%), F-35C $103.1M \u2192 $98.1M \u2192 $94.4M (-13.2%). 12.8% price reduction from Lot 11-14. 5th Gen capability at less than 4th Gen cost. Quantities by variant: A 351, B 86, C 41. By operator: US 291, International Partners 127, Foreign Military Sales 60. Total: 478."
+          }
+        ]
       }
     ],
     "projects": []
