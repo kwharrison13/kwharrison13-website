@@ -1,6 +1,11 @@
 ---
 title: "Leonard Arrington and the Writing of Mormon History"
-author: "Gregory A Prince"
+author: "Gregory Prince"
+year_read: 2025
+rating: 4
+tags:
+  - "religious-intellectualism"
+  - "republic-of-letters"
 last_imported: "2026-04-11"
 key_takeaways_status: pending
 ---

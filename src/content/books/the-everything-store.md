@@ -1,6 +1,10 @@
 ---
 title: "The Everything Store"
 author: "Brad Stone"
+year_read: 2021
+rating: 4
+tags:
+  - "company-building"
 last_imported: "2026-04-11"
 key_takeaways_status: pending
 ---
