@@ -147,7 +147,10 @@ const ideaProjects = idea.projects || [];
         <button class="idea-section-link" data-switch-tab="feed">View all →</button>
       </div>
       {ideaFeed.length > 0 ? (
-        ideaFeed.slice(0, 3).map((item: any) => (
+        ideaFeed.slice(0, 3).map((item: any) => {
+          const isLong = (item.content || '').length > 280;
+          const media = Array.isArray(item.media) ? item.media : [];
+          return (
           <a class="tweet-card" href={item.url} target="_blank" rel="noopener noreferrer">
             <div class="tweet-header">
               <div class="tweet-avatar">{(item.author || item.source || '?').replace('@','').charAt(0).toUpperCase()}</div>
@@ -157,10 +160,26 @@ const ideaProjects = idea.projects || [];
               </div>
               <svg class="tweet-x-logo" viewBox="0 0 24 24" width="18" height="18"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" fill="currentColor"/></svg>
             </div>
-            <p class="tweet-text">{item.content}</p>
+            <p class={`tweet-text${isLong ? ' tweet-text-collapsible' : ''}`}>{item.content}</p>
+            {isLong && <button type="button" class="tweet-expand-btn">Show more</button>}
+            {media.length > 0 && (
+              <div class={`tweet-media tweet-media-${Math.min(media.length, 4)}`}>
+                {media.slice(0, 4).map((m: any) => (
+                  <div class={`tweet-media-item${m.kind === 'video' ? ' has-video' : ''}`}>
+                    <img src={m.src} alt={m.alt || ''} loading="lazy" />
+                    {m.kind === 'video' && (
+                      <div class="tweet-media-play" aria-hidden="true">
+                        <svg viewBox="0 0 24 24" width="24" height="24"><path d="M8 5v14l11-7z" fill="currentColor"/></svg>
+                      </div>
+                    )}
+                  </div>
+                ))}
+              </div>
+            )}
             <span class="tweet-date">{item.date}</span>
           </a>
-        ))
+          );
+        })
       ) : (
         <p class="idea-empty">Saved tweets, articles, podcasts, and notes will accumulate here over time.</p>
       )}
@@ -214,7 +233,10 @@ const ideaProjects = idea.projects || [];
   <div class="idea-tab-content" id="tab-feed" style="display:none;">
     {ideaFeed.length > 0 ? (
       <div class="idea-feed-list">
-        {ideaFeed.map((item: any) => (
+        {ideaFeed.map((item: any) => {
+          const isLong = (item.content || '').length > 280;
+          const media = Array.isArray(item.media) ? item.media : [];
+          return (
           <a class="tweet-card" href={item.url} target="_blank" rel="noopener noreferrer">
             <div class="tweet-header">
               <div class="tweet-avatar">{(item.author || item.source || '?').replace('@','').charAt(0).toUpperCase()}</div>
@@ -224,10 +246,26 @@ const ideaProjects = idea.projects || [];
               </div>
               <svg class="tweet-x-logo" viewBox="0 0 24 24" width="18" height="18"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" fill="currentColor"/></svg>
             </div>
-            <p class="tweet-text">{item.content}</p>
+            <p class={`tweet-text${isLong ? ' tweet-text-collapsible' : ''}`}>{item.content}</p>
+            {isLong && <button type="button" class="tweet-expand-btn">Show more</button>}
+            {media.length > 0 && (
+              <div class={`tweet-media tweet-media-${Math.min(media.length, 4)}`}>
+                {media.slice(0, 4).map((m: any) => (
+                  <div class={`tweet-media-item${m.kind === 'video' ? ' has-video' : ''}`}>
+                    <img src={m.src} alt={m.alt || ''} loading="lazy" />
+                    {m.kind === 'video' && (
+                      <div class="tweet-media-play" aria-hidden="true">
+                        <svg viewBox="0 0 24 24" width="24" height="24"><path d="M8 5v14l11-7z" fill="currentColor"/></svg>
+                      </div>
+                    )}
+                  </div>
+                ))}
+              </div>
+            )}
             <span class="tweet-date">{item.date}</span>
           </a>
-        ))}
+          );
+        })}
       </div>
     ) : (
       <div class="idea-feed-empty-box">
@@ -279,6 +317,17 @@ const ideaProjects = idea.projects || [];
         const target = btn.dataset.switchTab;
         const tab = document.querySelector(`.idea-tab[data-tab="${target}"]`);
         if (tab) tab.click();
+      });
+    });
+    // Tweet "Show more / Show less" expand toggle
+    document.querySelectorAll('.tweet-expand-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        const text = btn.previousElementSibling;
+        if (!text) return;
+        const expanded = text.classList.toggle('expanded');
+        btn.textContent = expanded ? 'Show less' : 'Show more';
       });
     });
   </script>
@@ -455,6 +504,81 @@ const ideaProjects = idea.projects || [];
     white-space: pre-line;
     margin: 0 0 8px;
   }
+  .tweet-text-collapsible {
+    max-height: calc(1.55em * 5);
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 4px;
+  }
+  .tweet-text-collapsible::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 1.6em;
+    background: linear-gradient(to bottom, transparent, var(--bg-card));
+    pointer-events: none;
+  }
+  .tweet-text-collapsible.expanded {
+    max-height: none;
+    overflow: visible;
+  }
+  .tweet-text-collapsible.expanded::after { display: none; }
+  .tweet-expand-btn {
+    background: none;
+    border: none;
+    color: var(--accent);
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 0;
+    margin: 0 0 10px;
+    font-family: inherit;
+  }
+  .tweet-expand-btn:hover { text-decoration: underline; }
+  .tweet-media {
+    display: grid;
+    gap: 4px;
+    margin: 4px 0 10px;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+  }
+  .tweet-media-1 { grid-template-columns: 1fr; }
+  .tweet-media-2 { grid-template-columns: 1fr 1fr; }
+  .tweet-media-3 { grid-template-columns: 1fr 1fr; }
+  .tweet-media-3 .tweet-media-item:first-child { grid-row: span 2; }
+  .tweet-media-4 { grid-template-columns: 1fr 1fr; }
+  .tweet-media-item {
+    position: relative;
+    background: var(--tag-bg);
+    min-height: 0;
+  }
+  .tweet-media-item img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    max-height: 400px;
+    object-fit: cover;
+  }
+  .tweet-media-1 .tweet-media-item img { max-height: 500px; }
+  .tweet-media-play {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.72);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    pointer-events: none;
+  }
+  .tweet-media-play svg { margin-left: 3px; }
   .tweet-date {
     font-size: 12.5px;
     color: var(--text-tertiary);
