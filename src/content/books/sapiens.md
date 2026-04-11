@@ -1,0 +1,78 @@
+---
+title: "Sapiens"
+author: "Yuval Noah Harari"
+year_read: 2017
+rating: 2
+tags:
+  - "historical-futurism"
+last_imported: "2026-04-11"
+key_takeaways_status: pending
+---
+
+## Key Takeaways
+
+<!-- key-takeaways -->
+_Under Consideration — to be added._
+<!-- /key-takeaways -->
+
+## Interconnections
+
+<!-- interconnections -->
+_Under Consideration — to be added._
+<!-- /interconnections -->
+
+## Highlights
+
+- There are no gods in the universe, no nations, no money, no human rights, no laws, and no justice outside the common imagination of human beings. <!--rwid:rwid-3693f41e43a0-->
+- But nobody realised what was happening. Every generation continued to live like the previous generation, making only small improvements here and there in the way things were done. Paradoxically, a series of ‘improvements’, each of which was meant to make life easier, added up to a millstone around the necks of these farmers. <!--rwid:rwid-fb3bc3aa73bc-->
+- One of history’s few iron laws is that luxuries tend to become necessities and to spawn new obligations. <!--rwid:rwid-038b1c1625d6-->
+- But Göbekli Tepe suggests that the temple may have been built first, and that a village later grew up around it. <!--rwid:rwid-baca408c9fbe-->
+- The contented rhinoceros is no less content for being among the last of its kind. The numerical success of the calf’s species is little consolation for the suffering the individual endures. <!--rwid:rwid-7a2c8d748ee8-->
+- History is something that very few people have been doing while everyone else was ploughing fields and carrying water buckets. <!--rwid:rwid-7cba1032add1-->
+- The two texts present us with an obvious dilemma. Both the Code of Hammurabi and the American Declaration of Independence claim to outline universal and eternal principles of justice, but according to the Americans all people are equal, whereas according to the Babylonians people are decidedly unequal. <!--rwid:rwid-3903a32edcfb-->
+- ‘Created equal’ should therefore be translated into ‘evolved differently’. <!--rwid:rwid-22e4b30784d5-->
+- This is why cynics don’t build empires and why an imagined order can be maintained only if large segments of the population – and in particular large segments of the elite and the security forces – truly believe in it. <!--rwid:rwid-392c9b52ae6c-->
+- It is telling that the first recorded name in history belongs to an accountant, rather than a prophet, a poet or a great conqueror.1 <!--rwid:rwid-c31827a5ff74-->
+- A person who wishes to influence the decisions of governments, organisations and companies must therefore learn to speak in numbers. Experts do their best to translate even ideas such as ‘poverty’, ‘happiness’ and ‘honesty’ into numbers (‘the poverty line’, ‘subjective well-being levels’, ‘credit rating’). <!--rwid:rwid-6c437ca1c005-->
+- Modern Westerners are taught to scoff at the idea of racial hierarchy. They are shocked by laws prohibiting blacks to live in white neighbourhoods, or to study in white schools, or to be treated in white hospitals. But the hierarchy of rich and poor – which mandates that rich people live in separate and more luxurious neighbourhoods, study in separate and more prestigious schools, and receive medical treatment in separate and better-equipped facilities – seems perfectly sensible to many Americans and Europeans. Yet it’s a proven fact that most rich people are rich for the simple reason that they were born into a rich family, while most poor people will remain poor throughout their lives simply because they were born into a poor family. <!--rwid:rwid-a43e5b3ef0ea-->
+- Unjust discrimination often gets worse, not better, with time. Money comes to money, and poverty to poverty. Education comes to education, and ignorance to ignorance. <!--rwid:rwid-18e3b0a6ed2b-->
+- Ever since the French Revolution, people throughout the world have gradually come to see both social equality and individual freedom as fundamental values. Yet the two values contradict each other. Equality can be ensured only by curtailing the freedoms of those who are better off. Guaranteeing that every individual will be free to do as he wishes inevitably short-changes equality. <!--rwid:rwid-f13797b5c542-->
+- Consistency is the playground of dull minds. <!--rwid:rwid-1cbed2d9f5df-->
+- For thousands of years, philosophers, thinkers and prophets have besmirched money and called it the root of all evil. Be that as it may, money is also the apogee of human tolerance. Money is more open-minded than language, state laws, cultural codes, religious beliefs and social habits. Money is the only trust system created by humans that can bridge almost any cultural gap, and that does not discriminate on the basis of religion, gender, race, age or sexual orientation. <!--rwid:rwid-78b0f05e0fe1-->
+- When everything is convertible, and when trust depends on anonymous coins and cowry shells, it corrodes local traditions, intimate relations and human values, replacing them with the cold laws of supply and demand. <!--rwid:rwid-6dbff13cb9a5-->
+- they run out of coins, we run out of trust. <!--rwid:rwid-a11e74d23591-->
+- century, <!--rwid:rwid-adcc9606e083-->
+- These practices train the mind to focus all its attention on the question, ‘What am I experiencing now?’ rather than on ‘What would I rather be experiencing?’ It is difficult to achieve this state of mind, but not impossible. <!--rwid:rwid-730a0eb2d689-->
+- is an iron rule of history that what looks inevitable in hindsight was far from obvious at the time. <!--rwid:rwid-e594ff13c31a-->
+- Unlike physics or economics, history is not a means for making accurate predictions. We study history not to know the future but to widen our horizons, to understand that our present situation is neither natural nor inevitable, and that we consequently have many more possibilities before us than we imagine. <!--rwid:rwid-ce46b497c8c5-->
+- The willingness to admit ignorance has made modern science more dynamic, supple and inquisitive than any previous tradition of knowledge. This has hugely expanded our capacity to understand how the world works and our ability to invent new technologies. But it presents us with a serious problem that most of our ancestors did not have to cope with. Our current assumption that we do not know everything, and that even the knowledge we possess is tentative, extends to the shared myths that enable millions of strangers to cooperate effectively. <!--rwid:rwid-53458b308654-->
+- In 1620 Francis Bacon published a scientific manifesto titled The New Instrument. In it he argued that ‘knowledge is power’. The real test of ‘knowledge’ is not whether it is true, but whether it empowers us. <!--rwid:rwid-0851f0f5f8c2-->
+- truth is a poor test for knowledge. The real test is utility. A theory that enables us to do new things constitutes knowledge. <!--rwid:rwid-e32807d2e290-->
+- if the proper funding were unavailable, no intellectual brilliance could have compensated for that. <!--rwid:rwid-ce6745fc3dd7-->
+- The feedback loop between science, empire and capital has arguably been history’s chief engine for the past 500 years. <!--rwid:rwid-d2235ac04f86-->
+- ‘Don’t believe a single word these people are telling you. They have come to steal your lands.’ <!--rwid:rwid-8b473e407ed7-->
+- in terms of historical differences between cultures rather than biological differences between races. <!--rwid:rwid-f1562293a178-->
+- The problem in previous eras was not that no one had the idea or knew how to use it. It was that people seldom wanted to extend much credit because they didn’t trust that the future would be better than the present. They generally believed that times past had been better than their own times and that the future would be worse, or at best much the same. <!--rwid:rwid-2fa05002cbd9-->
+- Smith’s claim that the selfish human urge to increase private profits is the basis for collective wealth is one of the most revolutionary ideas in human history – revolutionary not just from an economic perspective, but even more so from a moral and political perspective. What Smith says is, in fact, that greed is good, and that by becoming richer I benefit everybody, not just myself. Egoism is altruism. <!--rwid:rwid-0e1f7fdd54ce-->
+- capitalism gradually became far more than just an economic doctrine. It now encompasses an ethic – a set of teachings about how people should behave, educate their children and even think. Its principal tenet is that economic growth is the supreme good, or at least a proxy for the supreme good, because justice, freedom and even happiness all depend on economic growth. Ask a capitalist how to bring justice and political freedom to a place like Zimbabwe or Afghanistan, and you are likely to get a lecture on how economic affluence and a thriving middle class are essential for stable democratic institutions, and about the need therefore to inculcate Afghan tribesmen in the values of free enterprise, thrift and self-reliance. <!--rwid:rwid-f131c43ed859-->
+- When growth becomes a supreme good, unrestricted by any other ethical considerations, it can easily lead to catastrophe. <!--rwid:rwid-ebe7da71e1a9-->
+- capitalism has created a world that nobody but a capitalist is capable of running. The only serious attempt to manage the world differently – Communism – was so much worse in almost every conceivable way that nobody has the stomach to try again. In 8500 BC one could cry bitter tears over the Agricultural Revolution, but it was too late to give up agriculture. Similarly, we may not like capitalism, but we cannot live without it. <!--rwid:rwid-c1f375bb2e00-->
+- Just as the Atlantic slave trade did not stem from hatred towards Africans, so the modern animal industry is not motivated by animosity. Again, it is fuelled by indifference. <!--rwid:rwid-daf83f6aefc1-->
+- Consumerism sees the consumption of ever more products and services as a positive thing. It encourages people to treat themselves, spoil themselves, and even kill themselves slowly by overconsumption. Frugality is a disease to be cured. <!--rwid:rwid-9585f0d92984-->
+- We are all good consumers. We buy countless products that we don’t really need, and that until yesterday we didn’t know existed. Manufacturers deliberately design short-term goods and invent new and unnecessary models of perfectly satisfactory products that we must purchase in order to stay ‘in’. Shopping has become a favourite pastime, <!--rwid:rwid-4dfaa6b2d51b-->
+- The capitalist and consumerist ethics are two sides of the same coin, a merger of two commandments. The supreme commandment of the rich is ‘Invest!’ The supreme commandment of the rest of us is ‘Buy!’ <!--rwid:rwid-f9f1db52f24b-->
+- The history of ethics is a sad tale of wonderful ideals that nobody can live up to. Most Christians did not imitate Christ, most Buddhists failed to follow Buddha, and most Confucians would have caused Confucius a temper tantrum. <!--rwid:rwid-249d0932edee-->
+- Ecological degradation is not the same as resource scarcity. As we saw in the previous chapter, the resources available to humankind are constantly increasing, and are likely to continue to do so. That’s why doomsday prophesies of resource scarcity are probably misplaced. <!--rwid:rwid-75e4d3649d9e-->
+- The Industrial Revolution brought about dozens of major upheavals in human society. Adapting to industrial time is just one of them. Other notable examples include urbanisation, the disappearance of the peasantry, the rise of the industrial proletariat, the empowerment of the common person, democratisation, youth culture and the disintegration of patriarchy. <!--rwid:rwid-db33fa72d5d2-->
+- Romantic literature often presents the individual as somebody caught in a struggle against the state and the market. Nothing could be further from the truth. The state and the market are the mother and father of the individual, and the individual can survive only thanks to them. <!--rwid:rwid-798ed5479b77-->
+- Millions of years of evolution have designed us to live and think as community members. Within a mere two centuries we have become alienated individuals. Nothing testifies better to the awesome power of culture. <!--rwid:rwid-5d275118ac42-->
+- Consumerism and nationalism work extra hours to make us imagine that millions of strangers belong to the same community as ourselves, that we all have a common past, common interests and a common future. This isn’t a lie. It’s imagination. <!--rwid:rwid-0eb85d6c2932-->
+  - Whether or not something is true doesnt impact whether you believe it
+- People tended to reconcile themselves to the status quo, declaring that ‘this is how it always was, and this is how it always will be’. Over the last two centuries, the pace of change became so quick that the social order acquired a dynamic and malleable nature. It now exists in a state of permanent flux. <!--rwid:rwid-425b84dfed56-->
+- Nuclear weapons have turned war between superpowers into collective suicide, and made it impossible to seek world domination by force of arms. <!--rwid:rwid-62ab5f447532-->
+- If economic growth and self-reliance do not make people happier, what’s the benefit of Capitalism? What if it turns out that the subjects of large empires are generally happier than the citizens of independent states and that, for example, Ghanaians were happier under British colonial rule than under their own homegrown dictators? What would that say about the process of decolonisation and the value of national self-determination? <!--rwid:rwid-e52457fa3607-->
+- A lot of evidence indicates that we are destroying the foundations of human prosperity in an orgy of reckless consumption. <!--rwid:rwid-051831cdb1ae-->
+- We tend to believe that if we could just change our workplace, get married, finish writing that novel, buy a new car or repay the mortgage, we would be on top of the world. Yet when we get what we desire we don’t seem to be any happier. Buying cars and writing novels do not change our biochemistry. They can startle it for a fleeting moment, but it is soon back to its set point. <!--rwid:rwid-818e4f42d144-->
+- happiness is not the surplus of pleasant over unpleasant moments. Rather, happiness consists in seeing one’s life in its entirety as meaningful and worthwhile. <!--rwid:rwid-b36980f22170-->
+- If the curtain is indeed about to drop on Sapiens history, we members of one of its final generations should devote some time to answering one last question: what do we want to become? This question, sometimes known as the Human Enhancement question, dwarfs the debates that currently preoccupy politicians, philosophers, scholars and ordinary people. After all, today’s debate between today’s religions, ideologies, nations and classes will in all likelihood disappear along with Homo sapiens. If <!--rwid:rwid-d621f0dafa85-->
+- The only thing we can try to do is to influence the direction scientists are taking. But since we might soon be able to engineer our desires too, the real question facing us is not ‘What do we want to become?’, but ‘What do we want to want?’ Those who are not spooked by this question probably haven’t given it enough thought. <!--rwid:rwid-9dfb034fda43-->

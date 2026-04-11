@@ -71,18 +71,115 @@ function flattenLibrary(booksData) {
   return out;
 }
 
-function findBookMeta(allBooks, title) {
+function normalizeTitle(s) {
+  return (s || '')
+    .toLowerCase()
+    // strip common suffixes/prefixes that differ between sources
+    .replace(/\s*\[illustrated\]\s*$/i, '')
+    .replace(/^the\s+/, '')
+    .replace(/[:\-—]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function authorsOverlap(candidateAuthor, readwiseAuthor) {
+  if (!readwiseAuthor) return true;   // no signal → don't filter
+  if (!candidateAuthor) return true;
+  const ca = candidateAuthor.toLowerCase();
+  const ra = readwiseAuthor.toLowerCase();
+  if (ca === ra) return true;
+  const firstCa = ca.split(/,|\band\b|&/)[0].trim();
+  const firstRa = ra.split(/,|\band\b|&/)[0].trim();
+  if (firstCa && firstRa && (firstCa === firstRa)) return true;
+  // last-name fallback ("Richard L. Bushman" vs "Bushman")
+  const lastCa = firstCa.split(' ').pop();
+  const lastRa = firstRa.split(' ').pop();
+  if (lastCa && lastRa && lastCa === lastRa) return true;
+  // substring either way
+  if (firstCa && firstRa && (ca.includes(firstRa) || ra.includes(firstCa))) return true;
+  return false;
+}
+
+function findBookMeta(allBooks, title, author) {
   const target = bookSlug(title);
-  // 1. exact title
-  const exact = allBooks.find(b => b.title === title);
-  if (exact) return exact;
-  // 2. case-insensitive
-  const ci = allBooks.find(b => b.title.toLowerCase() === title.toLowerCase());
-  if (ci) return ci;
-  // 3. slug match
-  const bySlug = allBooks.find(b => bookSlug(b.title) === target);
-  if (bySlug) return bySlug;
+  const targetLower = title.toLowerCase();
+  const targetNorm = normalizeTitle(title);
+
+  // 1. exact title — if unique, skip the author check entirely (handles
+  //    co-author variations like "Skunk Works by Leo Janos" vs books.json's
+  //    "Skunk Works by Ben R. Rich", or romanization differences like
+  //    "Sunzi" vs "Sun Tzu").
+  let cands = allBooks.filter(b => b.title === title);
+  if (cands.length === 1) return cands[0];
+  if (cands.length > 1) {
+    const filtered = cands.filter(b => authorsOverlap(b.author, author));
+    return pickBest(filtered.length ? filtered : cands, author);
+  }
+
+  // 2. case-insensitive — same unique-match logic
+  cands = allBooks.filter(b => b.title.toLowerCase() === targetLower);
+  if (cands.length === 1) return cands[0];
+  if (cands.length > 1) {
+    const filtered = cands.filter(b => authorsOverlap(b.author, author));
+    return pickBest(filtered.length ? filtered : cands, author);
+  }
+
+  // 3. slug match — same
+  cands = allBooks.filter(b => bookSlug(b.title) === target);
+  if (cands.length === 1) return cands[0];
+  if (cands.length > 1) {
+    const filtered = cands.filter(b => authorsOverlap(b.author, author));
+    return pickBest(filtered.length ? filtered : cands, author);
+  }
+
+  // 4. normalized match (strip "The", punctuation, "[Illustrated]")
+  cands = allBooks.filter(b => normalizeTitle(b.title) === targetNorm);
+  if (cands.length === 1) return cands[0];
+  if (cands.length > 1) {
+    const filtered = cands.filter(b => authorsOverlap(b.author, author));
+    return pickBest(filtered.length ? filtered : cands, author);
+  }
+
+  // 5. books.json title "Foo: Bar" or "Foo Volume 1" starts with the
+  //    Readwise title "Foo". Requires author check to avoid false positives
+  //    like "Boom" matching "Boom Town".
+  cands = allBooks.filter(b => {
+    const bt = b.title.toLowerCase();
+    return (bt.startsWith(targetLower + ':') ||
+            bt.startsWith(targetLower + ' -') ||
+            bt.startsWith(targetLower + ' —') ||
+            bt.startsWith(targetLower + ' ')) &&
+           authorsOverlap(b.author, author);
+  });
+  if (cands.length) return pickBest(cands, author);
+
+  // 6. Readwise title "Foo: Bar" starts with books.json title "Foo"
+  cands = allBooks.filter(b => {
+    const bt = b.title.toLowerCase();
+    return (targetLower.startsWith(bt + ':') ||
+            targetLower.startsWith(bt + ' -') ||
+            targetLower.startsWith(bt + ' —') ||
+            targetLower.startsWith(bt + ' ')) &&
+           authorsOverlap(b.author, author);
+  });
+  if (cands.length) return pickBest(cands, author);
+
   return null;
+}
+
+// Among multiple candidates, prefer the one whose author matches most
+// precisely — this disambiguates cases like "Brigham Young" (two biographies
+// by different authors) when the Readwise file says who wrote it.
+function pickBest(cands, author) {
+  if (cands.length === 1) return cands[0];
+  if (!author) return cands[0];
+  const ra = author.toLowerCase();
+  const exact = cands.find(c => (c.author || '').toLowerCase() === ra);
+  if (exact) return exact;
+  const firstRa = ra.split(/,|\band\b|&/)[0].trim();
+  const byLast = cands.find(c => (c.author || '').toLowerCase().includes(firstRa));
+  if (byLast) return byLast;
+  return cands[0];
 }
 
 // ---------- Readwise parser ----------
@@ -438,9 +535,13 @@ function main() {
       console.warn(`! skip (no title): ${file}`);
       continue;
     }
-    const slug = bookSlug(parsed.title);
+    const meta = findBookMeta(allBooks, parsed.title, parsed.author);
+    // When we find a match, the books.json title is the canonical one —
+    // use it for both the page slug and the frontmatter so the Bookshelf's
+    // slug-based auto-linking picks it up.
+    const canonicalTitle = meta ? meta.title : parsed.title;
+    const slug = bookSlug(canonicalTitle);
     const target = path.join(BOOKS_DIR, `${slug}.md`);
-    const meta = findBookMeta(allBooks, parsed.title);
     if (!meta) {
       report.unmatched.push(parsed.title);
     }
@@ -454,8 +555,8 @@ function main() {
     }
 
     const frontmatterMeta = {
-      title: parsed.title,
-      author: parsed.author || (meta && meta.author) || existingFmObj.author || 'Unknown',
+      title: canonicalTitle,
+      author: (meta && meta.author) || parsed.author || existingFmObj.author || 'Unknown',
       cover: (meta && meta.cover) || existingFmObj.cover,
       year_read: (meta && meta.year_read) || coerceFmNumber(existingFmObj.year_read) || existingFmObj.year_read,
       rating: (meta && meta.rating) ?? coerceFmNumber(existingFmObj.rating),

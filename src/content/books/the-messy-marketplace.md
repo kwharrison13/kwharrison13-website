@@ -1,0 +1,55 @@
+---
+title: "The Messy Marketplace"
+author: "Brent Beshore"
+year_read: 2019
+rating: 3
+tags:
+  - "capital-allocation"
+last_imported: "2026-04-11"
+key_takeaways_status: pending
+---
+
+## Key Takeaways
+
+<!-- key-takeaways -->
+_Under Consideration — to be added._
+<!-- /key-takeaways -->
+
+## Interconnections
+
+<!-- interconnections -->
+_Under Consideration — to be added._
+<!-- /interconnections -->
+
+## Highlights
+
+- As Warren Buffett’s long-time business partner Charlie Munger once said, “How do you get a good spouse? Deserve it.” I’d suggest the same. Be a seller that attracts a great buyer. <!--rwid:rwid-4b23242fc972-->
+- The biggest issue most businesses face is reliance on ownership. The owner holds the top relationships, leads strategy, makes the investment decisions, and holds the bulk of the expertise. The more reliant on ownership, the lower the purchase price and likelihood of sale. Leadership development and systems-building should be a focus for anyone looking to exit. <!--rwid:rwid-dac4a82fc1ee-->
+- Most owners will go through a period of working more after the transaction, not less, which can be counterintuitive and confusing. You likely have decades of institutional knowledge to sift through and transfer to the new ownership. And, depending on your post-close role, you may still have day-to-day responsibilities to your team. The first year in transition is always challenging, with trust being established and miscommunication happening often. It requires an extraordinary amount of time to transition well. Rest assured it won’t go on forever, but prepare your family that it’s not a “get the money and run” situation. <!--rwid:rwid-a66356a1038b-->
+- This strict schedule has upside and downside for your company and employees. Decisions will necessarily be short-term oriented and focused on generating the highest possible return over that period of time. In fact, the private equity firm has a fiduciary duty to do so. Strategies often include installing new executive leadership, automating processes, expanding product lines, and reducing costs. <!--rwid:rwid-efc7e185389e-->
+- EBITDA is a proxy, but far from a perfect one. All businesses require reinvestment merely to maintain market position. Therefore, EBITDA never represents cash flow to owners. Investors will not accept EBITDA as presented. They will dig into the financials and adjustments to determine the true underlying earnings available to ownership. <!--rwid:rwid-1056321fa7b2-->
+- Debt is also one of the few ways to put a great company in peril, significantly reducing the margin for error and bad luck. Think about debt as an amplifier. It doesn’t change the odds of success, but greatly changes the magnitude. With debt you will make more money if things go right and will lose more money if things go wrong. <!--rwid:rwid-2a3a40a6359f-->
+- Fundless sponsors (or “independent” sponsors) operate similarly to private equity groups in how they acquire, hold, and manage businesses, but without dedicated capital. They source capital on a deal-by-deal basis, which adds complication to how deals are structured and makes them far less likely to close. It is estimated that only one in ten fundless sponsor deals close after a signed letter of intent, compared to around a quarter of deals generally. Typically, fundless sponsors come in two flavors, with the first being former private equity staffers. <!--rwid:rwid-dd70487cd8b5-->
+- What control does the sponsor have relative to his investors? What if they disagree on strategy? <!--rwid:rwid-a7a2941cc00d-->
+- There are some very talented, well-connected, and reliable fundless sponsors, but most talk a bigger game than they can deliver. <!--rwid:rwid-e05a85e7c1ac-->
+- Great advisors are incredibly helpful, will shepherd you across the finish line, are worth a ton, and should be compensated well. Terrible advisors are incredibly damaging, will screw up an otherwise good situation, and often still get paid well. Bar none, picking a great team of advisors is the most important transaction decision you’ll make. <!--rwid:rwid-c288847deb4b-->
+- But as a word of caution, if you’ve never participated in, nor completed, a transaction of this nature, you’re likely lacking a helpful knowledge base. As Mark Twain wrote: “A man who carries a cat by the tail learns something he can learn in no other way.” <!--rwid:rwid-ed0f2e03d22f-->
+- “There are numerous profitable smaller firms in traditional industries with established business models and moderate growth prospects that routinely sell for EBITDA multiples of 4X to 5X.” —The Market for Smaller Firms (Harvard) <!--rwid:rwid-3decc1cef788-->
+- Resources used to build this table include: Pepperdine University’s Private Capital Markets Project, Pitchbook, Pratt’s Stats, The Business Reference Guide, and studies by Harvard University and Stanford University. <!--rwid:rwid-0fd9d967dd67-->
+- It is common for less than 100% of the equity to be sold, and for the seller to have a portion of the price paid out of future earnings, called an earnout, and/or a loan given to the buyer by the seller, called a seller note. <!--rwid:rwid-aa68c11d9963-->
+- Earnouts can be tied to virtually any metric, or event, including pre-tax earnings, EBITDA, gross profit, revenue, add-on acquisitions, employee retention, customer retention, owner’s employment duration, cost reductions, or the achievement of other milestones. If it can be measured, it can be structured in an earnout. <!--rwid:rwid-0bca5842784e-->
+- Unless the options are both dollar-weighted and time-weighted, meaning that both the return on invested capital (ROIC) and internal rate of return (IRR) matter, they can produce perverse consequences for owners. <!--rwid:rwid-c8302063eed8-->
+- Some prospective buyers will give you an opportunity to tell them what your transaction priorities are. You can always be forthcoming about your priorities in both marketing documents and on management calls. In my experience, transparency around expectations and goals aids in expediting negotiation and helps both parties avoid wasting time on a poor fit. <!--rwid:rwid-5f13019a2805-->
+- There are no hard rules in valuation. A buyer doesn’t have to match another buyer’s offer, accept your presented adjustments, or meet your demands on timeline or payment structure in their offer. And, you don’t have to sell. Every value and formula is negotiable. <!--rwid:rwid-eccda2019ca7-->
+- Investors don’t buy things to lose money. They expect a financial return. So, while you should be paid for what you’ve created, if you cannot make an argument for how the buyer will earn a decent return, your valuation is unlikely to hold up to scrutiny. Roughly, smaller private equity funds, search funds, fundless sponsors, and wealthy individuals will likely expect between a 20-35% return, depending on strategy and opportunity costs. <!--rwid:rwid-86c05de028a8-->
+- It is customary for a buyer to create the documents, which typically include a purchase agreement, operating agreement, employment agreements, seller note, seller-owned real estate lease, and bank documents if there’s a lender involved. Because of the expense and time commitment, the drafting party will want to delay drafting until completing the bulk of exploratory due diligence. In fact, a great signal for the progression of the deal is the involvement of legal counsel and the delivery of first drafts. A buyer delaying legal engagement is a buyer still deciding whether to move forward on the deal. <!--rwid:rwid-0df153620b32-->
+- As in other industries, there are groups trying to disrupt the traditional legal engagement framework, so you may find something unusual in your search. However, I would caution you to seek level-headed experience above all else. This is one of the times where “innovation” isn’t particularly helpful. <!--rwid:rwid-13cefcbd2023-->
+- The workload required by an intermediary to close a deal does not differ tremendously based on the size of the transaction, and actually can be less work for larger companies considering the increased access to resources. <!--rwid:rwid-cf8d2b9d8720-->
+- Buyers reject businesses all the time. For most, it’s the norm to pass on an opportunity after only reviewing the teaser. As discussed in Types of Buyers, good investors often recognize quickly when something is not the right fit. When a group passes, it is not necessarily a judgment on the quality of your company. Some groups will pass for cause. They may say, “Your client concentration is too high,” or point out some other flaw. While being judged is never fun, try to take it for what it is: constructive feedback from the market. <!--rwid:rwid-50fcdd4acf9a-->
+- These valuations serve as market readings, and, as a seller, are much more valuable to you than any “professional valuation” you can purchase. After all, something is only worth what someone else is willing to pay for it. <!--rwid:rwid-f5aa4f5851cd-->
+- If they are a fundless sponsor or search fund, ask for written proof of investor interest in providing the capital for the deal under the agreed upon terms. With an individual investor or owner/operator, especially if they are seeking SBA financing, you will want a statement from their financial institution certifying their financial capacity. <!--rwid:rwid-67789968c414-->
+- As a general rule, talk to people face-to-face when you can. <!--rwid:rwid-e3b0214050d0-->
+- You should want your buyer to be wildly successful with your company and take it to new heights. If you think you’ll struggle with seeing them succeed, please don’t sell your company. <!--rwid:rwid-50030235be5b-->
+- Owner Earnings: n. What “sticks” to the owners; the pre-tax net profit of the business as defined by earnings less capital expenditures, operating interest (e.g. interest on line of credit), and active owner normalized compensation At adventur.es, we base our valuations on a multiple of owner earnings. <!--rwid:rwid-5e99f21e169f-->
+- Due diligence is a grueling process, and intentionally so. No one sane is going to pay millions of dollars for something they have not verified to be valuable. That is the purpose of due diligence. <!--rwid:rwid-8c94e638b9bf-->
+- “If one could open the lid, so to speak, and see what was in the head of the experienced decision maker, one would find that he had at his disposal repertoires of possible actions; that he had checklists of things to think about before he acted.” —Herbert Simon, American economist <!--rwid:rwid-07763b21c6eb-->
