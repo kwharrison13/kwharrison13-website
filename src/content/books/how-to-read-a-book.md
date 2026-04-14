@@ -7,7 +7,7 @@ tags:
   - "ideological-family-tree"
   - "republic-of-letters"
   - "open-source-knowledge"
-last_imported: "2026-04-11"
+last_imported: "2026-04-14"
 key_takeaways_status: pending
 ---
 

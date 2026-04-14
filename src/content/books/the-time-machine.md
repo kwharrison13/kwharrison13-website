@@ -5,7 +5,7 @@ year_read: 2025
 rating: 3
 tags:
   - "historical-futurism"
-last_imported: "2026-04-11"
+last_imported: "2026-04-14"
 key_takeaways_status: pending
 ---
 

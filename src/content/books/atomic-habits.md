@@ -6,7 +6,7 @@ rating: 4
 tags:
   - "company-building"
   - "ideological-family-tree"
-last_imported: "2026-04-11"
+last_imported: "2026-04-14"
 key_takeaways_status: pending
 ---
 

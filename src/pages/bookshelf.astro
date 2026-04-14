@@ -1,16 +1,19 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import SearchBar from '../components/SearchBar.astro';
 import booksData from '../data/books.json';
-import { getCollection } from 'astro:content';
 import { bookSlug } from '../lib/bookSlug';
-
-const bookEntries = await getCollection('books');
-const bookSlugs = new Set(bookEntries.map((b: any) => b.slug));
-const hasPage = (title: string) => bookSlugs.has(bookSlug(title));
 
 const quakeBooks = booksData.quake_books;
 const library = booksData.library as Record<string, any[]>;
-const yearKeys = Object.keys(library).sort((a, b) => Number(b) - Number(a));
+// Sort numeric years descending, "pre-2016" goes last
+const yearKeys = Object.keys(library).sort((a, b) => {
+  const na = Number(a), nb = Number(b);
+  if (isNaN(na) && isNaN(nb)) return 0;
+  if (isNaN(na)) return 1;
+  if (isNaN(nb)) return -1;
+  return nb - na;
+});
 
 const allTags: Record<string, { title: string; author: string; year: string }[]> = {};
 for (const [year, books] of Object.entries(library)) {
@@ -34,6 +37,8 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
     {totalBooks} books across {yearsWithBooks.length} years. The <span style="color: var(--accent); font-weight: 600;">quake books</span> are the ones that changed how I think.
   </p>
 
+  <SearchBar />
+
   <div class="bookshelf-tabs">
     <button class="bookshelf-tab active" data-view="quake">Quake Books</button>
     <button class="bookshelf-tab" data-view="library">Full Library</button>
@@ -45,29 +50,20 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
       These are the books that fundamentally shifted my worldview — the ones I return to and reference constantly. Not the best books I've read, but the ones that left the deepest mark.
     </p>
     <div class="quake-list">
-      {quakeBooks.map((book: any, i: number) => {
-        const slug = bookSlug(book.title);
-        const linkable = bookSlugs.has(slug);
-        const inner = (
-          <>
-            {book.cover ? (
-              <img class="quake-cover" src={book.cover} alt={book.title} loading="lazy" />
-            ) : (
-              <div class="quake-cover-placeholder" style={`background: linear-gradient(135deg, hsl(${355 + i * 25}, 55%, 38%) 0%, hsl(${355 + i * 25}, 45%, 25%) 100%);`}></div>
-            )}
-            <div class="quake-info">
-              <div class="quake-title">{book.title}</div>
-              <div class="quake-author">{book.author}</div>
-            </div>
-            <div class="quake-diamond">◆</div>
-          </>
-        );
-        return linkable ? (
-          <a href={`/books/${slug}`} class="quake-item quake-item-link">{inner}</a>
-        ) : (
-          <div class="quake-item">{inner}</div>
-        );
-      })}
+      {quakeBooks.map((book: any, i: number) => (
+        <a href={`/books/${bookSlug(book.title)}`} class="quake-item quake-item-link">
+          {book.cover ? (
+            <img class="quake-cover" src={book.cover} alt={book.title} loading="lazy" />
+          ) : (
+            <div class="quake-cover-placeholder" style={`background: linear-gradient(135deg, hsl(${355 + i * 25}, 55%, 38%) 0%, hsl(${355 + i * 25}, 45%, 25%) 100%);`}></div>
+          )}
+          <div class="quake-info">
+            <div class="quake-title">{book.title}</div>
+            <div class="quake-author">{book.author}</div>
+          </div>
+          <div class="quake-diamond">◆</div>
+        </a>
+      ))}
     </div>
   </div>
 
@@ -114,36 +110,27 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
           )}
 
           <div class="library-list">
-            {books.map((book: any) => {
-              const slug = bookSlug(book.title);
-              const linkable = bookSlugs.has(slug);
-              const inner = (
-                <>
-                  <div class="rating-dots">
-                    {[1,2,3,4,5].map((star: number) => (
-                      <div class={`rating-dot ${star <= (book.rating || 0) ? 'filled' : ''}`}></div>
-                    ))}
+            {books.map((book: any) => (
+              <a href={`/books/${bookSlug(book.title)}`} class="library-item library-item-link" data-tags={JSON.stringify(book.tags || [])}>
+                <div class="rating-dots">
+                  {[1,2,3,4,5].map((star: number) => (
+                    <div class={`rating-dot ${star <= (book.rating || 0) ? 'filled' : ''}`}></div>
+                  ))}
+                </div>
+                <div class="library-info">
+                  <div class="library-title-row">
+                    <span class="library-title">{book.title}</span>
+                    {book.quake && <span class="quake-badge">◆ QUAKE</span>}
                   </div>
-                  <div class="library-info">
-                    <div class="library-title-row">
-                      <span class="library-title">{book.title}</span>
-                      {book.quake && <span class="quake-badge">◆ QUAKE</span>}
-                    </div>
-                    <div class="library-author">{book.author}</div>
-                  </div>
-                  <div class="library-tags">
-                    {(book.tags || []).slice(0, 2).map((tag: string) => (
-                      <span class="library-tag">{tag}</span>
-                    ))}
-                  </div>
-                </>
-              );
-              return linkable ? (
-                <a href={`/books/${slug}`} class="library-item library-item-link" data-tags={JSON.stringify(book.tags || [])}>{inner}</a>
-              ) : (
-                <div class="library-item" data-tags={JSON.stringify(book.tags || [])}>{inner}</div>
-              );
-            })}
+                  <div class="library-author">{book.author}</div>
+                </div>
+                <div class="library-tags">
+                  {(book.tags || []).slice(0, 2).map((tag: string) => (
+                    <span class="library-tag">{tag}</span>
+                  ))}
+                </div>
+              </a>
+            ))}
           </div>
         </div>
       );
@@ -163,21 +150,12 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
             <div class="topic-line"></div>
           </div>
           <div class="topic-books">
-            {books.map((book) => {
-              const slug = bookSlug(book.title);
-              const linkable = bookSlugs.has(slug);
-              const inner = (
-                <>
-                  <div class="topic-book-title">{book.title}</div>
-                  <div class="topic-book-author">{book.author}</div>
-                </>
-              );
-              return linkable ? (
-                <a href={`/books/${slug}`} class="topic-book-chip topic-book-chip-link">{inner}</a>
-              ) : (
-                <div class="topic-book-chip">{inner}</div>
-              );
-            })}
+            {books.map((book) => (
+              <a href={`/books/${bookSlug(book.title)}`} class="topic-book-chip topic-book-chip-link">
+                <div class="topic-book-title">{book.title}</div>
+                <div class="topic-book-author">{book.author}</div>
+              </a>
+            ))}
           </div>
         </div>
       ))}

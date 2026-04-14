@@ -12,9 +12,6 @@ export function getStaticPaths() {
   }));
 }
 
-const bookEntries = await getCollection('books');
-const bookPageSlugs = new Set(bookEntries.map((b: any) => b.slug));
-
 const { idea } = Astro.props;
 
 // Gather books tagged with this idea
@@ -131,22 +128,13 @@ const ideaProjects = idea.projects || [];
       </div>
       {previewBooks.length > 0 ? (
         <div class="idea-books-scroll">
-          {previewBooks.map((book, i: number) => {
-            const slug = bookSlug(book.title);
-            const linkable = bookPageSlugs.has(slug);
-            const inner = (
-              <>
-                <div class="idea-book-cover" style={`background: linear-gradient(135deg, hsl(${15 + i * 40}, 55%, 38%) 0%, hsl(${15 + i * 40}, 45%, 25%) 100%);`}></div>
-                <div class="idea-book-card-title">{book.title}</div>
-                <div class="idea-book-card-author">{book.author}</div>
-              </>
-            );
-            return linkable ? (
-              <a href={`/books/${slug}`} class="idea-book-card idea-book-card-link">{inner}</a>
-            ) : (
-              <div class="idea-book-card">{inner}</div>
-            );
-          })}
+          {previewBooks.map((book, i: number) => (
+            <a href={`/books/${bookSlug(book.title)}`} class="idea-book-card idea-book-card-link">
+              <div class="idea-book-cover" style={`background: linear-gradient(135deg, hsl(${15 + i * 40}, 55%, 38%) 0%, hsl(${15 + i * 40}, 45%, 25%) 100%);`}></div>
+              <div class="idea-book-card-title">{book.title}</div>
+              <div class="idea-book-card-author">{book.author}</div>
+            </a>
+          ))}
         </div>
       ) : (
         <p class="idea-empty">Books will appear here once tagged from the Bookshelf.</p>
@@ -222,29 +210,20 @@ const ideaProjects = idea.projects || [];
   <div class="idea-tab-content" id="tab-books" style="display:none;">
     {ideaBooks.length > 0 ? (
       <div class="idea-book-list">
-        {ideaBooks.map((book) => {
-          const slug = bookSlug(book.title);
-          const linkable = bookPageSlugs.has(slug);
-          const inner = (
-            <>
-              <div class="idea-book-dots">
-                {[1,2,3,4,5].map((star: number) => (
-                  <div class={`idea-dot ${star <= book.rating ? 'filled' : ''}`}></div>
-                ))}
-              </div>
-              <div class="idea-book-info">
-                <span class="idea-book-title">{book.title}</span>
-                <span class="idea-book-author">{book.author}</span>
-              </div>
-              <span class="idea-book-year">{book.year}</span>
-            </>
-          );
-          return linkable ? (
-            <a href={`/books/${slug}`} class="idea-book-row idea-book-row-link">{inner}</a>
-          ) : (
-            <div class="idea-book-row">{inner}</div>
-          );
-        })}
+        {ideaBooks.map((book) => (
+          <a href={`/books/${bookSlug(book.title)}`} class="idea-book-row idea-book-row-link">
+            <div class="idea-book-dots">
+              {[1,2,3,4,5].map((star: number) => (
+                <div class={`idea-dot ${star <= book.rating ? 'filled' : ''}`}></div>
+              ))}
+            </div>
+            <div class="idea-book-info">
+              <span class="idea-book-title">{book.title}</span>
+              <span class="idea-book-author">{book.author}</span>
+            </div>
+            <span class="idea-book-year">{book.year}</span>
+          </a>
+        ))}
       </div>
     ) : (
       <p class="idea-empty">Books will appear here once tagged from the Bookshelf.</p>

@@ -1,62 +1,100 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import booksData from '../../data/books.json';
 import ideasData from '../../data/portfolio-ideas.json';
+import { bookSlug } from '../../lib/bookSlug';
 
 export async function getStaticPaths() {
-  const books = await getCollection('books');
-  return books.map(book => ({
-    params: { slug: book.slug },
-    props: { book },
-  }));
+  // Flatten ALL books from books.json
+  const allBooks: { title: string; author: string; rating?: number; tags?: string[]; cover?: string; quake?: boolean; year: string }[] = [];
+  for (const b of booksData.quake_books as any[]) {
+    allBooks.push({ ...b, year: String(b.year_read || '') });
+  }
+  for (const [year, books] of Object.entries(booksData.library as Record<string, any[]>)) {
+    for (const b of books) {
+      allBooks.push({ ...b, year });
+    }
+  }
+
+  // Dedupe by slug (quake books are also in the library)
+  const seen = new Set<string>();
+  const unique: typeof allBooks = [];
+  for (const b of allBooks) {
+    const slug = bookSlug(b.title);
+    if (!seen.has(slug)) { seen.add(slug); unique.push(b); }
+  }
+
+  // Build a map from slug → content collection entry (for books with highlights)
+  const contentBooks = await getCollection('books');
+  const contentMap = new Map<string, typeof contentBooks[0]>();
+  for (const entry of contentBooks) contentMap.set(entry.slug, entry);
+
+  return unique.map(b => {
+    const slug = bookSlug(b.title);
+    return {
+      params: { slug },
+      props: {
+        bookMeta: b,
+        contentEntry: contentMap.get(slug) || null,
+      },
+    };
+  });
 }
 
-const { book } = Astro.props;
-const { Content } = await book.render();
-const tags: string[] = book.data.tags || [];
+const { bookMeta, contentEntry } = Astro.props;
+const tags: string[] = bookMeta.tags || [];
+const rating = bookMeta.rating || 0;
+
+// Render content if available
+let Content: any = null;
+if (contentEntry) {
+  const rendered = await contentEntry.render();
+  Content = rendered.Content;
+}
 
 // Auto interconnections — essays that share at least one tag
 const allEssays = await getCollection('essays');
-const relatedEssays = allEssays
-  .filter((e: any) => (e.data.tags || []).some((t: string) => tags.includes(t)))
-  .map((e: any) => ({
-    slug: e.slug || (e.id || '').replace(/\.md$/, ''),
-    title: e.data.title,
-    date: e.data.date || '',
-    excerpt: e.data.excerpt || '',
-  }))
-  .sort((a, b) => {
-    if (!a.date && !b.date) return 0;
-    if (!a.date) return 1;
-    if (!b.date) return -1;
-    return new Date(b.date).getTime() - new Date(a.date).getTime();
-  })
-  .slice(0, 6);
+const relatedEssays = tags.length > 0
+  ? allEssays
+      .filter((e: any) => (e.data.tags || []).some((t: string) => tags.includes(t)))
+      .map((e: any) => ({
+        slug: e.slug || (e.id || '').replace(/\.md$/, ''),
+        title: e.data.title,
+        date: e.data.date || '',
+        excerpt: e.data.excerpt || '',
+      }))
+      .sort((a, b) => {
+        if (!a.date && !b.date) return 0;
+        if (!a.date) return 1;
+        if (!b.date) return -1;
+        return new Date(b.date).getTime() - new Date(a.date).getTime();
+      })
+      .slice(0, 6)
+  : [];
 
 // Auto interconnections — portfolio ideas whose id matches a book tag
 const relatedIdeas = (ideasData as any[])
   .filter(i => tags.includes(i.id))
   .map(i => ({ id: i.id, title: i.title, tagline: i.tagline }));
-
-const rating = book.data.rating || 0;
 ---
 
 <BaseLayout
-  title={book.data.title}
+  title={bookMeta.title}
   currentPage="bookshelf"
-  description={`Highlights and notes from ${book.data.title} by ${book.data.author}.`}
+  description={`Highlights and notes from ${bookMeta.title} by ${bookMeta.author}.`}
 >
   <a href="/bookshelf" class="back-link">← Bookshelf</a>
 
   <div class="book-hero">
-    {book.data.cover ? (
-      <img class="book-hero-cover" src={book.data.cover} alt={book.data.title} />
+    {bookMeta.cover ? (
+      <img class="book-hero-cover" src={bookMeta.cover} alt={bookMeta.title} />
     ) : (
       <div class="book-hero-cover-placeholder"></div>
     )}
     <div class="book-hero-info">
-      <h1 class="book-hero-title">{book.data.title}</h1>
-      <div class="book-hero-author">{book.data.author}</div>
+      <h1 class="book-hero-title">{bookMeta.title}</h1>
+      <div class="book-hero-author">{bookMeta.author}</div>
       <div class="book-hero-meta">
         {rating > 0 && (
           <div class="rating-dots">
@@ -65,8 +103,8 @@ const rating = book.data.rating || 0;
             ))}
           </div>
         )}
-        {book.data.year_read && <span class="book-hero-year">Read {book.data.year_read}</span>}
-        {book.data.quake && <span class="quake-badge">◆ QUAKE</span>}
+        {bookMeta.year && <span class="book-hero-year">Read {bookMeta.year}</span>}
+        {bookMeta.quake && <span class="quake-badge">◆ QUAKE</span>}
       </div>
       {tags.length > 0 && (
         <div class="book-hero-tags">
@@ -113,9 +151,19 @@ const rating = book.data.rating || 0;
     </div>
   )}
 
-  <div class="prose book-prose">
-    <Content />
-  </div>
+  {Content ? (
+    <div class="prose book-prose">
+      <Content />
+    </div>
+  ) : (
+    <div class="no-highlights">
+      <div class="no-highlights-icon">📖</div>
+      <div class="no-highlights-title">No highlights yet</div>
+      <div class="no-highlights-desc">
+        When Readwise highlights are imported for this book, they'll appear here along with Key Takeaways and Interconnections.
+      </div>
+    </div>
+  )}
 </BaseLayout>
 
 <style>
@@ -244,6 +292,15 @@ const rating = book.data.rating || 0;
   .idea-essay-title { color: var(--text); font-size: 13px; font-weight: 500; }
   .idea-essay-date { color: var(--text-tertiary); font-size: 11px; flex-shrink: 0; white-space: nowrap; }
   .idea-essay-excerpt { color: var(--text-secondary); font-size: 12px; line-height: 1.5; margin-top: 6px; }
+
+  .no-highlights {
+    text-align: center;
+    padding: 48px 16px;
+    color: var(--text-tertiary);
+  }
+  .no-highlights-icon { font-size: 32px; margin-bottom: 12px; }
+  .no-highlights-title { font-size: 15px; font-weight: 600; color: var(--text-secondary); margin-bottom: 6px; }
+  .no-highlights-desc { font-size: 13px; line-height: 1.6; max-width: 400px; margin: 0 auto; }
 
   .book-prose :global(h2) {
     font-family: var(--font-display);

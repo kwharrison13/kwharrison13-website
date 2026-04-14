@@ -1,7 +1,8 @@
 ---
-title: "Vc"
+title: "VC"
 author: "Tom Nicholas"
-last_imported: "2026-04-11"
+rating: 0
+last_imported: "2026-04-14"
 key_takeaways_status: pending
 ---
 

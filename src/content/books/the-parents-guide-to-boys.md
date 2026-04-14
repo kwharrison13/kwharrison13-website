@@ -1,7 +1,8 @@
 ---
 title: "The Parents' Guide to Boys"
-author: "Abigail Norfleet James Ph.D."
-last_imported: "2026-04-11"
+author: "Abigail Norfleet James"
+rating: 0
+last_imported: "2026-04-14"
 key_takeaways_status: pending
 ---
 
