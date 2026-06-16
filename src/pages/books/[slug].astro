@@ -6,40 +6,46 @@ import ideasData from '../../data/portfolio-ideas.json';
 import { bookSlug } from '../../lib/bookSlug';
 
 export async function getStaticPaths() {
-  // Flatten ALL books from books.json
-  const allBooks: { title: string; author: string; rating?: number; tags?: string[]; cover?: string; quake?: boolean; year: string }[] = [];
+  // Aggregate books by slug, collecting ALL years a book was read.
+  // Re-reads (same slug across multiple years) get all their years preserved.
+  // Quake status is unioned (true if ANY read marked it quake).
+  type BookMeta = { title: string; author: string; rating?: number; tags?: string[]; cover?: string; quake?: boolean; years: string[] };
+  const bySlug = new Map<string, BookMeta>();
+
+  const ingest = (b: any, year: string) => {
+    const slug = bookSlug(b.title);
+    const existing = bySlug.get(slug);
+    if (existing) {
+      if (year && !existing.years.includes(year)) existing.years.push(year);
+      if (b.quake) existing.quake = true;
+    } else {
+      bySlug.set(slug, { ...b, years: year ? [year] : [] });
+    }
+  };
+
   for (const b of booksData.quake_books as any[]) {
-    allBooks.push({ ...b, year: String(b.year_read || '') });
+    ingest(b, String(b.year_read || ''));
   }
   for (const [year, books] of Object.entries(booksData.library as Record<string, any[]>)) {
-    for (const b of books) {
-      allBooks.push({ ...b, year });
-    }
+    for (const b of books) ingest(b, year);
   }
 
-  // Dedupe by slug (quake books are also in the library)
-  const seen = new Set<string>();
-  const unique: typeof allBooks = [];
-  for (const b of allBooks) {
-    const slug = bookSlug(b.title);
-    if (!seen.has(slug)) { seen.add(slug); unique.push(b); }
-  }
+  // Sort each book's years chronologically (pre-2016 first, then numeric ascending)
+  const yearOrder = (y: string) => y === 'pre-2016' ? -1 : (parseInt(y, 10) || 0);
+  for (const b of bySlug.values()) b.years.sort((a, b) => yearOrder(a) - yearOrder(b));
 
   // Build a map from slug → content collection entry (for books with highlights)
   const contentBooks = await getCollection('books');
   const contentMap = new Map<string, typeof contentBooks[0]>();
   for (const entry of contentBooks) contentMap.set(entry.slug, entry);
 
-  return unique.map(b => {
-    const slug = bookSlug(b.title);
-    return {
-      params: { slug },
-      props: {
-        bookMeta: b,
-        contentEntry: contentMap.get(slug) || null,
-      },
-    };
-  });
+  return Array.from(bySlug.entries()).map(([slug, b]) => ({
+    params: { slug },
+    props: {
+      bookMeta: b,
+      contentEntry: contentMap.get(slug) || null,
+    },
+  }));
 }
 
 const { bookMeta, contentEntry } = Astro.props;
@@ -103,7 +109,9 @@ const relatedIdeas = (ideasData as any[])
             ))}
           </div>
         )}
-        {bookMeta.year && <span class="book-hero-year">Read {bookMeta.year}</span>}
+        {bookMeta.years && bookMeta.years.length > 0 && (
+          <span class="book-hero-year">Read {bookMeta.years.join(', ')}</span>
+        )}
         {bookMeta.quake && <span class="quake-badge">◆ QUAKE</span>}
       </div>
       {tags.length > 0 && (
