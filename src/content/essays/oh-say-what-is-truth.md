@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/oh-say-what-is-truth"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Alexander Hamilton](/books/alexander-hamilton)
-
-**Essays:** [Open-Source Knowledge](/essays/open-source-knowledge), [Contrary Research](/essays/contrary-research), [2022 in Books](/essays/2022-in-books), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [The Meme Economy](/essays/the-meme-economy), [Renegade Spotlight: Lowercarbon](/essays/lowercarbon), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [Hype Deflation & Inflation](/essays/hype-deflation-and-inflation)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/alexander-hamilton">Alexander Hamilton</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/open-source-knowledge">Open-Source Knowledge</a>, <a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/2022-in-books">2022 in Books</a>, <a href="/essays/the-inescapable-debate-of-human-nature">The Inescapable Debate of Human Nature</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/the-meme-economy">The Meme Economy</a>, <a href="/essays/lowercarbon">Renegade Spotlight: Lowercarbon</a>, <a href="/essays/its-time-to-build-but-build-what">It's Time To Build... But Build What?</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a>, <a href="/essays/institutionalized-belief-in-the-greater">Institutionalized Belief In The Greater Fool</a>, <a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a>, <a href="/essays/hype-deflation-and-inflation">Hype Deflation & Inflation</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Oh Say, What is Truth?](/images/oh-say-what-is-truth-77510971.png)
 

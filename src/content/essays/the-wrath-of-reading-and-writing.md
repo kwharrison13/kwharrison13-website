@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-wrath-of-reading-and-writing"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Networked Conviction](/essays/roam-investing), [Competitive Moats](/essays/competitive-moats), [2022 in Books](/essays/2022-in-books)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/roam-investing">Networked Conviction</a>, <a href="/essays/competitive-moats">Competitive Moats</a>, <a href="/essays/2022-in-books">2022 in Books</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Source:Writer's HQ](/images/the-wrath-of-reading-and-writing-98b76597.png)
 

@@ -24,7 +24,7 @@ Annie Jacobsen's book read purely as a sourcing exercise — all five notes are 
 The book is being read as raw material, not as a thinking-vehicle. Synthesis lives in whatever defense-tech writing these notes feed into.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Kill Chain](/books/the-kill-chain) — direct sibling on present-tense defense risk.

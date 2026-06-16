@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/we-need-a-renaissance-of-rhetoric"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [John Quincy Adams](/books/john-quincy-adams)
-
-**Essays:** [The Storytelling of Investing](/essays/the-storytelling-of-investing), [The Ethos of Nuance](/essays/the-ethos-of-nuance), [Clarity of Thought](/essays/clarity-of-thought), [Momentum != Moat](/essays/momentum-moat), [Embrace The Nuance](/essays/embrace-the-nuance), [The Openness of AI](/essays/the-openness-of-ai), [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/john-quincy-adams">John Quincy Adams</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/the-ethos-of-nuance">The Ethos of Nuance</a>, <a href="/essays/clarity-of-thought">Clarity of Thought</a>, <a href="/essays/momentum-moat">Momentum != Moat</a>, <a href="/essays/embrace-the-nuance">Embrace The Nuance</a>, <a href="/essays/the-openness-of-ai">The Openness of AI</a>, <a href="/essays/conviction-led-contrarianism">Conviction-Led Contrarianism</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Norman Rockwell’s Four Freedoms](/images/we-need-a-renaissance-of-rhetoric-6c665517.png)
 

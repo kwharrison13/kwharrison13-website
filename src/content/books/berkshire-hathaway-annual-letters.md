@@ -35,7 +35,7 @@ Reading this less as passive consumption and more as building out an investment 
 This is the most professionally-aligned book in the library — Buffett as scaffolding for an in-progress investment thesis. Essentially the substrate of the Investing 101 2.0 essay-in-progress.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — repeatedly cross-referenced in both directions. The Buffett-Munger partnership is the spine across both reads. Munger appears throughout the letters; the two books read as a single corpus.

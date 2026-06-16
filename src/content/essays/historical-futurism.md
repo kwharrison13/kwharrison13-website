@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/historical-futurism"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [I, Robot](/books/i-robot), [The Road](/books/the-road), [Ready Player One](/books/ready-player-one)
-
-**Essays:** [Markets, Markets, and Markets](/essays/markets-markets-and-markets), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Open-Source Knowledge](/essays/open-source-knowledge), [Learning To Dream](/essays/learning-to-dream), [The Gospel of ARK Invest](/essays/the-gospel-of-ark-invest), [The Openness of AI](/essays/the-openness-of-ai)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/i-robot">I, Robot</a>, <a href="/books/the-road">The Road</a>, <a href="/books/ready-player-one">Ready Player One</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/markets-markets-and-markets">Markets, Markets, and Markets</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/open-source-knowledge">Open-Source Knowledge</a>, <a href="/essays/learning-to-dream">Learning To Dream</a>, <a href="/essays/the-gospel-of-ark-invest">The Gospel of ARK Invest</a>, <a href="/essays/the-openness-of-ai">The Openness of AI</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Historical Futurism](/images/historical-futurism-e28752a0.png)
 

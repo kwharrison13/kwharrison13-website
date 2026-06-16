@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/death"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Productization of Venture Capital](/essays/productization), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [Why Most VCs Suck At Talent](/essays/talent), [The Professionalization of Startups](/essays/the-professionalization-of-startups), [The Renegades of Venture Capital](/essays/the-renegades-of-venture-capital), [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/productization">The Productization of Venture Capital</a>, <a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/talent">Why Most VCs Suck At Talent</a>, <a href="/essays/the-professionalization-of-startups">The Professionalization of Startups</a>, <a href="/essays/the-renegades-of-venture-capital">The Renegades of Venture Capital</a>, <a href="/essays/contrary-my-renegade-of-choice">Contrary: My Renegade of Choice</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Death of a Venture Fund](/images/death-72afb8b8.png)
 

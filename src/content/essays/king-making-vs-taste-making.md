@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/king-making-vs-taste-making"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Storytelling of Investing](/essays/the-storytelling-of-investing), [What's In a Post-Mortem?](/essays/whats-in-a-post-mortem), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [Historical Futurism](/essays/historical-futurism)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/whats-in-a-post-mortem">What's In a Post-Mortem?</a>, <a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/historical-futurism">Historical Futurism</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for King-Making vs. Taste-Making](/images/king-making-vs-taste-making-fce04923.png)
 

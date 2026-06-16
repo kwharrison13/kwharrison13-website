@@ -24,7 +24,7 @@ Sam Gennawey's book on Walt Disney's EPCOT vision read as historical-futurism â€
 A side observation worth flagging: the Robert Moses / Jane Jacobs feud as the recurring case study someone should book-length. The structural tension between top-down city-building and bottom-up urbanism.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Power Law](/books/the-power-law) â€” institutional bet-making parallel.

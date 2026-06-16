@@ -5,11 +5,12 @@ tag: "Education"
 excerpt: "This article was written by Kyle Harrison, as a result of the intellectual rigor of a Junto, with Clark Brimhall, Erik Hansen, Megumi DeMond, and Christina Muhlestein"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [In Defense of a Liberal Education](/books/in-defense-of-a-liberal-education), [Dumbing Us Down](/books/dumbing-us-down), [John Quincy Adams](/books/john-quincy-adams)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/in-defense-of-a-liberal-education">In Defense of a Liberal Education</a>, <a href="/books/dumbing-us-down">Dumbing Us Down</a>, <a href="/books/john-quincy-adams">John Quincy Adams</a></span></div>
+</aside>
+<!-- connections-end -->
 
 [](https://miro.medium.com/max/750/0*frVobqDYMSTvlQ8x.)
 

@@ -31,7 +31,7 @@ Bhattacharya's biography of John von Neumann read as Anduril-thesis source mater
 The "literally and figuratively we are running out of room" frame from von Neumann's 1955 Fortune essay closes the read — the question of whether technology can outrun its own destabilizing effects is treated as still open.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Skunk Works](/books/skunk-works) — same defense-tech innovation arc, slightly later era.

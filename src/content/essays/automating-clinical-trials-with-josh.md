@@ -8,11 +8,12 @@ type: "podcast"
 substack_url: "https://investing101.substack.com/p/automating-clinical-trials-with-josh"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Life Imitates Art](/essays/life-imitates-art), [Science Fiction's Dueling Fates](/essays/science-fictions-dueling-fates), [Back To The Future](/essays/back-to-the-future), [Historical Futurism](/essays/historical-futurism), [Long Enough To Matter](/essays/long-enough-to-matter)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/life-imitates-art">Life Imitates Art</a>, <a href="/essays/science-fictions-dueling-fates">Science Fiction's Dueling Fates</a>, <a href="/essays/back-to-the-future">Back To The Future</a>, <a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/long-enough-to-matter">Long Enough To Matter</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Automating Clinical Trials (with Josh Pacini @ Valinor)](/images/automating-clinical-trials-with-josh-79d7d942.png)
 

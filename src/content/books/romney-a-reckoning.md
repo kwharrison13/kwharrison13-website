@@ -33,7 +33,7 @@ McKay Coppins's Romney biography read with explicit admiration — and with a po
 A side observation worth flagging: the response here is unusually approving relative to the rest of the library. Most reads carry skepticism or active disagreement; this one is closer to advocacy.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Death of Expertise](/books/the-death-of-expertise) — sister book on democratic-electorate epistemology. Romney is what Nichols's argument looks like in practice.

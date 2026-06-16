@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/conviction-capitalists"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [The 7 Deadly Sins of Venture Capital (with Dan Gray)](/essays/the-7-deadly-sins-of-venture-capital), [Stewards of Capital](/essays/stewards-of-capital), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [The Value Chain of Capital](/essays/the-value-chain-of-capital), [Contrary Research](/essays/contrary-research), [What Is An Extraordinary Man?](/essays/what-is-an-extraordinary-man), [The Ethos of Nuance](/essays/the-ethos-of-nuance)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a>, <a href="/essays/the-7-deadly-sins-of-venture-capital">The 7 Deadly Sins of Venture Capital (with Dan Gray)</a>, <a href="/essays/stewards-of-capital">Stewards of Capital</a>, <a href="/essays/institutionalized-belief-in-the-greater">Institutionalized Belief In The Greater Fool</a>, <a href="/essays/the-value-chain-of-capital">The Value Chain of Capital</a>, <a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/what-is-an-extraordinary-man">What Is An Extraordinary Man?</a>, <a href="/essays/the-ethos-of-nuance">The Ethos of Nuance</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Conviction Capitalists](/images/conviction-capitalists-6184887a.png)
 

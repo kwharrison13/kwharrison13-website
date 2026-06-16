@@ -15,7 +15,7 @@ key_takeaways_status: "written"
 _Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Self-Driven Child](/books/the-self-driven-child) — primary parenting cluster.

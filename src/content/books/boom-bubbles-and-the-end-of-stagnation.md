@@ -22,7 +22,7 @@ Hobart and Huber's pro-bubble book read with two specific framings worth holding
 2. **The thinking-machine-as-eschatology.** "Soon became an eschatological project" — the AI-as-religion frame that maps onto the Mormon Transhumanist Association thread. Tagged accordingly.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Power Law](/books/the-power-law) — adjacent on capital-and-ambition frame.

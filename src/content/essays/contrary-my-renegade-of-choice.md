@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/contrary-my-renegade-of-choice"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [I Love The Taste of Pain in the Morning](/essays/pain), [Renegade Spotlight: Paradigm](/essays/renegade-spotlight-paradigm), [The Professionalization of Startups](/essays/the-professionalization-of-startups), [The Talent Vortex: Mafias and Magnets](/essays/talent-vortex), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Renegades of Venture Capital](/essays/the-renegades-of-venture-capital), [Fantasy Capital](/essays/fantasy-capital), [The Productization of Venture Capital](/essays/productization)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/pain">I Love The Taste of Pain in the Morning</a>, <a href="/essays/renegade-spotlight-paradigm">Renegade Spotlight: Paradigm</a>, <a href="/essays/the-professionalization-of-startups">The Professionalization of Startups</a>, <a href="/essays/talent-vortex">The Talent Vortex: Mafias and Magnets</a>, <a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/the-renegades-of-venture-capital">The Renegades of Venture Capital</a>, <a href="/essays/fantasy-capital">Fantasy Capital</a>, <a href="/essays/productization">The Productization of Venture Capital</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Contrary: My Renegade of Choice](/images/contrary-my-renegade-of-choice-b94883b5.png)
 

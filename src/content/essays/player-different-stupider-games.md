@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/player-different-stupider-games"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Leonardo Da Vinci](/books/leonardo-da-vinci)
-
-**Essays:** [What's In a Valuation?](/essays/valuations), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Productization of Venture Capital](/essays/productization), [Why Most VCs Suck At Talent](/essays/talent), [The Renegades of Venture Capital](/essays/the-renegades-of-venture-capital), [Eat What You Kill](/essays/eat-what-you-kill), [VC Contagion](/essays/vc-contagion), [The Death of a Venture Fund](/essays/death), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype), [The Reality of Unrealistic Outliers](/essays/the-reality-of-unrealistic-outliers)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/leonardo-da-vinci">Leonardo Da Vinci</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/valuations">What's In a Valuation?</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a>, <a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/productization">The Productization of Venture Capital</a>, <a href="/essays/talent">Why Most VCs Suck At Talent</a>, <a href="/essays/the-renegades-of-venture-capital">The Renegades of Venture Capital</a>, <a href="/essays/eat-what-you-kill">Eat What You Kill</a>, <a href="/essays/vc-contagion">VC Contagion</a>, <a href="/essays/death">The Death of a Venture Fund</a>, <a href="/essays/blaspheming-against-the-hype">Blaspheming Against The Hype</a>, <a href="/essays/the-reality-of-unrealistic-outliers">The Reality of Unrealistic Outliers</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Playing Different (Stupider) Games](/images/player-different-stupider-games-ddd22db2.png)
 

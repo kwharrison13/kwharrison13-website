@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-inescapable-debate-of-human-nature"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [John Adams](/books/john-adams)
-
-**Essays:** [Touch Some Grass](/essays/touch-some-grass), [King-Making vs. Taste-Making](/essays/king-making-vs-taste-making), [All According To The [Terrible] Plan](/essays/according-to-plan), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype), [The Meme Economy](/essays/the-meme-economy), [The Value Chain of Capital](/essays/the-value-chain-of-capital), [The Hype Cycles of Venture Capital](/essays/the-hype-cycles-of-venture-capital), [Stewards of Capital](/essays/stewards-of-capital), [Playing Different (Stupider) Games](/essays/player-different-stupider-games)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/john-adams">John Adams</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/touch-some-grass">Touch Some Grass</a>, <a href="/essays/king-making-vs-taste-making">King-Making vs. Taste-Making</a>, <a href="/essays/according-to-plan">All According To The [Terrible] Plan</a>, <a href="/essays/blaspheming-against-the-hype">Blaspheming Against The Hype</a>, <a href="/essays/the-meme-economy">The Meme Economy</a>, <a href="/essays/the-value-chain-of-capital">The Value Chain of Capital</a>, <a href="/essays/the-hype-cycles-of-venture-capital">The Hype Cycles of Venture Capital</a>, <a href="/essays/stewards-of-capital">Stewards of Capital</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Inescapable Debate of Human Nature](/images/the-inescapable-debate-of-human-nature-a0e350ce.png)
 

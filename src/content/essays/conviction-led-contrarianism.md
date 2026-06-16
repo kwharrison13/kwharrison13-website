@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/conviction-led-contrarianism"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Courage To Be Disliked](/books/the-courage-to-be-disliked), [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism)
-
-**Essays:** [Cultivating Cults](/essays/cultivating-cults), [Barking in Public](/essays/barking-in-public), [The Levers of Innovation](/essays/the-levers-of-innovation), [Intellectual Seat Belts](/essays/intellectual-seat-belts), [The Meme Economy](/essays/the-meme-economy), [The Coward's Conviction](/essays/the-cowards-conviction), [Back To The Future](/essays/back-to-the-future), [The Volume of Your Inaccuracy](/essays/the-volume-of-your-inaccuracy), [Creativity as Connectivity](/essays/creativity-as-connectivity), [Pondering The Grass](/essays/pondering-the-grass), [Panic Writing](/essays/panic-writing), [Oh Say, What is Truth?](/essays/oh-say-what-is-truth), [Historical Futurism](/essays/historical-futurism), [Open-Source Knowledge](/essays/open-source-knowledge), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-courage-to-be-disliked">The Courage To Be Disliked</a>, <a href="/books/the-man-who-broke-capitalism">The Man Who Broke Capitalism</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/cultivating-cults">Cultivating Cults</a>, <a href="/essays/barking-in-public">Barking in Public</a>, <a href="/essays/the-levers-of-innovation">The Levers of Innovation</a>, <a href="/essays/intellectual-seat-belts">Intellectual Seat Belts</a>, <a href="/essays/the-meme-economy">The Meme Economy</a>, <a href="/essays/the-cowards-conviction">The Coward's Conviction</a>, <a href="/essays/back-to-the-future">Back To The Future</a>, <a href="/essays/the-volume-of-your-inaccuracy">The Volume of Your Inaccuracy</a>, <a href="/essays/creativity-as-connectivity">Creativity as Connectivity</a>, <a href="/essays/pondering-the-grass">Pondering The Grass</a>, <a href="/essays/panic-writing">Panic Writing</a>, <a href="/essays/oh-say-what-is-truth">Oh Say, What is Truth?</a>, <a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/open-source-knowledge">Open-Source Knowledge</a>, <a href="/essays/its-time-to-build-but-build-what">It's Time To Build... But Build What?</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Conviction-Led Contrarianism](/images/conviction-led-contrarianism-cba65dad.png)
 

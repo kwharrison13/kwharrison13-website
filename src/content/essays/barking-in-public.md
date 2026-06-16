@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/barking-in-public"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Meme Economy](/essays/the-meme-economy), [Intellectual Seat Belts](/essays/intellectual-seat-belts), [The Levers of Innovation](/essays/the-levers-of-innovation), [Cultivating Cults](/essays/cultivating-cults), [Driving Your Own Train](/essays/driving-your-own-train)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-meme-economy">The Meme Economy</a>, <a href="/essays/intellectual-seat-belts">Intellectual Seat Belts</a>, <a href="/essays/the-levers-of-innovation">The Levers of Innovation</a>, <a href="/essays/cultivating-cults">Cultivating Cults</a>, <a href="/essays/driving-your-own-train">Driving Your Own Train</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Barking in Public](/images/barking-in-public-65e74c40.png)
 

@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/cashkingmaker-or-killer"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Natural Selection Among Startups](/essays/natural-selection-among-startups)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/natural-selection-among-startups">Natural Selection Among Startups</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Cash—Kingmaker or Killer?](/images/cashkingmaker-or-killer-070255dc.png)
 

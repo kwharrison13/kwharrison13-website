@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/on-hype-and-hot-air"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Power Law: Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future)
-
-**Essays:** [What's In a Post-Mortem?](/essays/whats-in-a-post-mortem), [Eat What You Kill](/essays/eat-what-you-kill), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-power-law-venture-capital-and-the-making-of-the-new-future">The Power Law: Venture Capital & the Making of the New Future</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/whats-in-a-post-mortem">What's In a Post-Mortem?</a>, <a href="/essays/eat-what-you-kill">Eat What You Kill</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for On Hype And Hot Air](/images/on-hype-and-hot-air-a9691aa1.png)
 

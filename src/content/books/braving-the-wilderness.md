@@ -23,7 +23,7 @@ Brené Brown's book read with attention to the nuance-and-honesty discipline. Th
 3. **Persistence in the wilderness as the actual practice.** "Put one foot in front of the other enough times" — the lonely-good-faith stance that eventually finds others doing the same.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Death of Expertise](/books/the-death-of-expertise) — democratic-discourse frame.

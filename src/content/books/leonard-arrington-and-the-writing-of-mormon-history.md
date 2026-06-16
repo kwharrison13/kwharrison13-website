@@ -27,7 +27,7 @@ Greg Prince's biography of the LDS Church's first official historian read as a s
 A side observation: Arrington's deflection on titles ("titles were not important to him") — the leadership style that gets the work done without making the work about the leader. Pairs with the broader Whatever You Are Be A Good One frame.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — Bushman's later work that Arrington's institutional setup made possible.

@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/whats-in-a-post-mortem"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Psychology of Money](/books/the-psychology-of-money), [How To Take Smart Notes](/books/how-to-take-smart-notes), [The Great Mental Models Volume 1: General Thinking Concepts](/books/the-great-mental-models-volume-1-general-thinking-concepts)
-
-**Essays:** [The Outcome Distortion Complex](/essays/the-outcome-distortion-complex), [The Death of a Venture Fund](/essays/death), [Building a Product Engine](/essays/building-a-product-engine)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-psychology-of-money">The Psychology of Money</a>, <a href="/books/how-to-take-smart-notes">How To Take Smart Notes</a>, <a href="/books/the-great-mental-models-volume-1-general-thinking-concepts">The Great Mental Models Volume 1: General Thinking Concepts</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-outcome-distortion-complex">The Outcome Distortion Complex</a>, <a href="/essays/death">The Death of a Venture Fund</a>, <a href="/essays/building-a-product-engine">Building a Product Engine</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for What's In a Post-Mortem?](/images/whats-in-a-post-mortem-91de3e67.png)
 

@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/according-to-plan"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Zero To One](/books/zero-to-one)
-
-**Essays:** [I Love The Taste of Pain in the Morning](/essays/pain), [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer), [Natural Selection Among Startups](/essays/natural-selection-among-startups)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/zero-to-one">Zero To One</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/pain">I Love The Taste of Pain in the Morning</a>, <a href="/essays/cashkingmaker-or-killer">Cash—Kingmaker or Killer?</a>, <a href="/essays/natural-selection-among-startups">Natural Selection Among Startups</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for All According To The Terrible Plan](/images/according-to-plan-32b3f7c9.png)
 

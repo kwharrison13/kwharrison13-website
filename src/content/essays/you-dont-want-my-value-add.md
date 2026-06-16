@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/you-dont-want-my-value-add"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Productization of Venture Capital](/essays/productization), [The Tales of Usefulness Have Been Greatly Exaggerated](/essays/the-tales-of-their-usefulness-have), [Let Me Know How I Can Be Helpful](/essays/let-me-know-how-i-can-be-helpful)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/productization">The Productization of Venture Capital</a>, <a href="/essays/the-tales-of-their-usefulness-have">The Tales of Usefulness Have Been Greatly Exaggerated</a>, <a href="/essays/let-me-know-how-i-can-be-helpful">Let Me Know How I Can Be Helpful</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for You Don’t Want My Value Add](/images/you-dont-want-my-value-add-076043c0.png)
 

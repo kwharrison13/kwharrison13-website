@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/oops-i-did-it-again"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Becoming An Allocator](/essays/becoming-an-allocator), [On Writing](/essays/on-writing), [Contrary Research](/essays/contrary-research)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/becoming-an-allocator">Becoming An Allocator</a>, <a href="/essays/on-writing">On Writing</a>, <a href="/essays/contrary-research">Contrary Research</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Oops, I Did It Again](/images/oops-i-did-it-again-ad008e41.jpg)
 

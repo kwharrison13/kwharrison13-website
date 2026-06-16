@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/revisiting-competitive-moats"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Competitive Moats](/essays/competitive-moats), [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The 7 Deadly Sins of Venture Capital (with Dan Gray)](/essays/the-7-deadly-sins-of-venture-capital)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/competitive-moats">Competitive Moats</a>, <a href="/essays/cashkingmaker-or-killer">Cash—Kingmaker or Killer?</a>, <a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/the-7-deadly-sins-of-venture-capital">The 7 Deadly Sins of Venture Capital (with Dan Gray)</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Source:Fat Baby Funds](/images/revisiting-competitive-moats-cbbced7e.png)
 

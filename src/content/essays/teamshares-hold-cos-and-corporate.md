@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/teamshares-hold-cos-and-corporate"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Learning To Dream](/essays/learning-to-dream), [The Coward's Conviction](/essays/the-cowards-conviction), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/learning-to-dream">Learning To Dream</a>, <a href="/essays/the-cowards-conviction">The Coward's Conviction</a>, <a href="/essays/the-rise-of-the-cash-man">The Rise of The Cash Man</a>, <a href="/essays/institutionalized-belief-in-the-greater">Institutionalized Belief In The Greater Fool</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Me & Kevin Shiiba (Teamshares Co-Founder)
 

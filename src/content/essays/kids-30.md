@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/kids-30"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Leonardo Da Vinci](/books/leonardo-da-vinci), [How To Take Smart Notes](/books/how-to-take-smart-notes), [The Almanack of Naval Ravikant](/books/the-almanack-of-naval-ravikant)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/leonardo-da-vinci">Leonardo Da Vinci</a>, <a href="/books/how-to-take-smart-notes">How To Take Smart Notes</a>, <a href="/books/the-almanack-of-naval-ravikant">The Almanack of Naval Ravikant</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Kids 3.0](/images/kids-30-b4842c43.jpg)
 

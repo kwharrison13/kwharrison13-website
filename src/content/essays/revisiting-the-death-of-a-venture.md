@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/revisiting-the-death-of-a-venture"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Death of a Venture Fund](/essays/death), [What's In a Valuation?](/essays/valuations), [The Professionalization of Startups](/essays/the-professionalization-of-startups), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [You Don’t Want My Value Add](/essays/you-dont-want-my-value-add), [The Productization of Venture Capital](/essays/productization), [Surviving The Death of Venture Capital](/essays/surviving-the-death-of-venture-capital)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/death">The Death of a Venture Fund</a>, <a href="/essays/valuations">What's In a Valuation?</a>, <a href="/essays/the-professionalization-of-startups">The Professionalization of Startups</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a>, <a href="/essays/you-dont-want-my-value-add">You Don’t Want My Value Add</a>, <a href="/essays/productization">The Productization of Venture Capital</a>, <a href="/essays/surviving-the-death-of-venture-capital">Surviving The Death of Venture Capital</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Revisiting The Death of a Venture Fund](/images/revisiting-the-death-of-a-venture-a2405004.png)
 

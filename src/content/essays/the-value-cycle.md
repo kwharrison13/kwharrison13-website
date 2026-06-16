@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-value-cycle"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Coward's Conviction](/essays/the-cowards-conviction), [Hype Deflation & Inflation](/essays/hype-deflation-and-inflation), [The Outcome Distortion Complex](/essays/the-outcome-distortion-complex), [The Mysteries of an Economic Engine](/essays/the-mysteries-of-an-economic-engine), [Historical Futurism](/essays/historical-futurism), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what), [Deep Tech For Deep Minds? Or Deep Pockets?](/essays/deep-tech-for-deep-minds-or-deep), [Oh Say, What is Truth?](/essays/oh-say-what-is-truth), [Building an Actual Unicorn](/essays/building-an-actual-unicorn), [Contrary Research](/essays/contrary-research), [The Age of Incumbents](/essays/the-age-of-incumbents)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-cowards-conviction">The Coward's Conviction</a>, <a href="/essays/hype-deflation-and-inflation">Hype Deflation & Inflation</a>, <a href="/essays/the-outcome-distortion-complex">The Outcome Distortion Complex</a>, <a href="/essays/the-mysteries-of-an-economic-engine">The Mysteries of an Economic Engine</a>, <a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/its-time-to-build-but-build-what">It's Time To Build... But Build What?</a>, <a href="/essays/deep-tech-for-deep-minds-or-deep">Deep Tech For Deep Minds? Or Deep Pockets?</a>, <a href="/essays/oh-say-what-is-truth">Oh Say, What is Truth?</a>, <a href="/essays/building-an-actual-unicorn">Building an Actual Unicorn</a>, <a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/the-age-of-incumbents">The Age of Incumbents</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Value Cycle](/images/the-value-cycle-59020b33.png)
 

@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/pondering-the-grass"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Panic Writing](/essays/panic-writing), [Contrary Research](/essays/contrary-research), [Touch Some Grass](/essays/touch-some-grass), [Back To The Grass](/essays/back-to-the-grass)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/panic-writing">Panic Writing</a>, <a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/touch-some-grass">Touch Some Grass</a>, <a href="/essays/back-to-the-grass">Back To The Grass</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Pondering The Grass](/images/pondering-the-grass-d1cc265f.jpg)
 

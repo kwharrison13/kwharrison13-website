@@ -30,7 +30,7 @@ Eghbal's book on open-source maintenance read as a serious source for the Invest
 The book functions as the conceptual underpinning for the recurring Open Source Knowledge tag across the library — what does it actually take to make knowledge open AND maintained?
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Death of Expertise](/books/the-death-of-expertise) — open-source-knowledge thread; both treat democratized expertise as the structural question.

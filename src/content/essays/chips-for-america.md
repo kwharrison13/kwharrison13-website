@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/chips-for-america"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [America](/essays/america), [An American Optimism](/essays/an-american-optimism)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/america">America</a>, <a href="/essays/an-american-optimism">An American Optimism</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Chips For America](/images/chips-for-america-431b3363.png)
 

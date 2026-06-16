@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/seek-sunlight"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Courage To Be Disliked](/books/the-courage-to-be-disliked)
-
-**Essays:** [Touch Some Grass](/essays/touch-some-grass), [Back To The Grass](/essays/back-to-the-grass), [Taking a Breath](/essays/taking-a-breath), [Guide Your Gaze](/essays/guide-you-gaze), [Pondering The Grass](/essays/pondering-the-grass), [The Groucho Marx Mandate](/essays/the-groucho-marx-mandate)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-courage-to-be-disliked">The Courage To Be Disliked</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/touch-some-grass">Touch Some Grass</a>, <a href="/essays/back-to-the-grass">Back To The Grass</a>, <a href="/essays/taking-a-breath">Taking a Breath</a>, <a href="/essays/guide-you-gaze">Guide Your Gaze</a>, <a href="/essays/pondering-the-grass">Pondering The Grass</a>, <a href="/essays/the-groucho-marx-mandate">The Groucho Marx Mandate</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Seek Sunlight](/images/seek-sunlight-b53c0268.png)
 

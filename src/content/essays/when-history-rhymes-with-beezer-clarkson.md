@@ -8,11 +8,12 @@ type: "podcast"
 substack_url: "https://investing101.substack.com/p/when-history-rhymes-with-beezer-clarkson"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Loudest Models (with Trace Cohen)](/essays/the-loudest-models-with-trace-cohen), [The Unholy Trinity of Venture Capital](/essays/the-unholy-trinity-of-venture-capital), [Venture Capital Unbundled](/essays/venture-capital-unbundled), [Hype Deflation & Inflation](/essays/hype-deflation-and-inflation), [Mo' Money, Mo' Problems](/essays/mo-money-mo-problems), [The Productization of Venture Capital](/essays/productization), [The Bubble Brains of Silicon Valley](/essays/the-bubble-brains-of-venture-capital), [The Value Chain of Capital](/essays/the-value-chain-of-capital)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-loudest-models-with-trace-cohen">The Loudest Models (with Trace Cohen)</a>, <a href="/essays/the-unholy-trinity-of-venture-capital">The Unholy Trinity of Venture Capital</a>, <a href="/essays/venture-capital-unbundled">Venture Capital Unbundled</a>, <a href="/essays/hype-deflation-and-inflation">Hype Deflation & Inflation</a>, <a href="/essays/mo-money-mo-problems">Mo' Money, Mo' Problems</a>, <a href="/essays/productization">The Productization of Venture Capital</a>, <a href="/essays/the-bubble-brains-of-venture-capital">The Bubble Brains of Silicon Valley</a>, <a href="/essays/the-value-chain-of-capital">The Value Chain of Capital</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for When History Rhymes (with Beezer Clarkson)](/images/when-history-rhymes-with-beezer-clarkson-cc0ca593.png)
 

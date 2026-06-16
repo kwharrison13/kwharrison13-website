@@ -16,7 +16,7 @@ key_takeaways_status: "written"
 One note: Evan Spiegel's "people are going to copy your product if you build great stuff" — tagged "Ironic" given Snapchat's later trajectory. The principle is right but the speaker is the wrong avatar for it.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Founders](/books/the-founders) — adjacent on Silicon Valley personalities.

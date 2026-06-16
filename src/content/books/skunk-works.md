@@ -36,7 +36,7 @@ Reads as a case study for the modern defense-tech opportunity — heavy explicit
 Tactical observations also flagged: team size (Skunk Works ran with ~150 people), the importance of investing in self-funded R&D, and the parallel between Lockheed's drone investment and Anduril's product investment pattern.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Kill Chain](/books/the-kill-chain) — parallel thesis on military innovation collapse. The two books read as a single argument: Skunk Works tells the historical version, Kill Chain tells the present-tense version.

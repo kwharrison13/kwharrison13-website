@@ -16,7 +16,7 @@ key_takeaways_status: "written"
 One note: Buttigieg on generational sentiment about civic renewal — "everyone needs that benchmarking." The marker of when a community recognizes it needs change comes before any specific change.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Romney — A Reckoning](/books/romney-a-reckoning) — character-driven political memoir parallel.

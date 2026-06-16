@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/becoming-an-allocator"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [On Writing](/essays/on-writing), [Of Things That Matter Most](/essays/of-things-that-matter-most)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/on-writing">On Writing</a>, <a href="/essays/of-things-that-matter-most">Of Things That Matter Most</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Becoming An Allocator](/images/becoming-an-allocator-d564d66d.png)
 

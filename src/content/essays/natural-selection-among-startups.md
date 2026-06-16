@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/natural-selection-among-startups"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Black Swan](/books/the-black-swan)
-
-**Essays:** [I Love The Taste of Pain in the Morning](/essays/pain), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [Renegade Spotlight: Homebrew](/essays/homebrew)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-black-swan">The Black Swan</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/pain">I Love The Taste of Pain in the Morning</a>, <a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/homebrew">Renegade Spotlight: Homebrew</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Natural Selection Among Startups](/images/natural-selection-among-startups-9e7b6a96.png)
 

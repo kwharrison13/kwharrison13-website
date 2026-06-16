@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-state-of-startup-media"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Reinventing Knowledge: From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet)
-
-**Essays:** [The Meme Economy](/essays/the-meme-economy), [Contrary Research](/essays/contrary-research), [Building Informational Leverage (with Evan Armstrong)](/essays/building-informational-leverage-with)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/reinventing-knowledge-from-alexandria-to-the-internet">Reinventing Knowledge: From Alexandria To The Internet</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-meme-economy">The Meme Economy</a>, <a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/building-informational-leverage-with">Building Informational Leverage (with Evan Armstrong)</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The State of Startup Media](/images/the-state-of-startup-media-95374067.png)
 

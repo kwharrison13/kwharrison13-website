@@ -22,7 +22,7 @@ Grant H. Palmer's revisionist Mormon history read with active disagreement — m
 3. **The grand-conspiracy assumption.** Palmer imagines all the witnesses and inner-circle figures held to a fabrication "despite unending suffering." A conspiracy theory at scale that requires more believing than the alternative.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — same primary subject, Bushman's more rigorous treatment.

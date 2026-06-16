@@ -10,8 +10,8 @@
  * Behavior:
  *   - Walks ~/kwharrison13-wiki/wiki/books/*.md
  *   - For each book where frontmatter.publish === true:
- *     - Parses the wiki page (Key Takeaways / Public Interconnections /
- *       Private Interconnections / Highlights structure)
+ *     - Parses the wiki page (Key Takeaways / Public Connections /
+ *       Private Connections / Highlights structure)
  *     - Computes the website slug (matches src/lib/bookSlug)
  *     - Reads the existing website file (if any) to preserve website-only
  *       frontmatter fields (cover, readwise_url, readwise_book_id)
@@ -19,9 +19,9 @@
  *         * frontmatter: title, author, cover?, year_read, rating, quake?,
  *           tags, readwise_url?, readwise_book_id?, last_imported (today),
  *           key_takeaways_status: 'written'
- *         * body: ## Key Takeaways, ## Interconnections, ## Highlights
- *         * Private Interconnections section is dropped
- *         * [[wikilinks]] in Interconnections → [Title](/books/slug)
+ *         * body: ## Key Takeaways, ## Connections, ## Highlights
+ *         * Private Connections section is dropped
+ *         * [[wikilinks]] in Connections → [Title](/books/slug)
  *         * [[wikilinks]] elsewhere → unwrapped to plain text
  *
  * No third-party dependencies. Node ≥ 18.
@@ -236,7 +236,7 @@ function syncBook(wikiFile) {
   // Parse wiki body into sections
   const sections = parseSections(wbody);
   const keyTakeaways = sections['Key Takeaways'] || '_Under Consideration — to be added._';
-  const publicInter = sections['Public Interconnections'] || '_No cross-book interconnections identified yet._';
+  const publicInter = sections['Public Connections'] || '_No cross-book interconnections identified yet._';
 
   // Preserve the existing Highlights section verbatim — import-readwise.mjs owns
   // that with rwid block-ref dedup, and overwriting it here would orphan those
@@ -255,7 +255,7 @@ function syncBook(wikiFile) {
     unwrapWikilinks(keyTakeaways),
     '<!-- /key-takeaways -->',
     '',
-    '## Interconnections',
+    '## Connections',
     '',
     '<!-- interconnections -->',
     transformInterconnectionLinks(publicInter),

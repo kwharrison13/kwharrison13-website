@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-self-own-of-doubt"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Courage To Be Disliked](/books/the-courage-to-be-disliked)
-
-**Essays:** [The Incompetent Confidence Complex](/essays/the-incompetent-confidence-complex), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [Embrace The Nuance](/essays/embrace-the-nuance)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-courage-to-be-disliked">The Courage To Be Disliked</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-incompetent-confidence-complex">The Incompetent Confidence Complex</a>, <a href="/essays/the-inescapable-debate-of-human-nature">The Inescapable Debate of Human Nature</a>, <a href="/essays/embrace-the-nuance">Embrace The Nuance</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Self-Own of Doubt](/images/the-self-own-of-doubt-691d1cd5.png)
 

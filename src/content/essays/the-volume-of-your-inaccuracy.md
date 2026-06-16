@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-volume-of-your-inaccuracy"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Loudest Models (with Trace Cohen)](/essays/the-loudest-models-with-trace-cohen), [The Rising Generation](/essays/the-rising-generation), [Building Mighty Small Businesses](/essays/building-mighty-small-businesses), [The 7 Deadly Sins of Venture Capital (with Dan Gray)](/essays/the-7-deadly-sins-of-venture-capital), [Oh Say, What is Truth?](/essays/oh-say-what-is-truth), [The Bubble Brains of Silicon Valley](/essays/the-bubble-brains-of-venture-capital), [The Tail That Wags The Dog](/essays/the-tail-that-wags-the-dog)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-loudest-models-with-trace-cohen">The Loudest Models (with Trace Cohen)</a>, <a href="/essays/the-rising-generation">The Rising Generation</a>, <a href="/essays/building-mighty-small-businesses">Building Mighty Small Businesses</a>, <a href="/essays/the-7-deadly-sins-of-venture-capital">The 7 Deadly Sins of Venture Capital (with Dan Gray)</a>, <a href="/essays/oh-say-what-is-truth">Oh Say, What is Truth?</a>, <a href="/essays/the-bubble-brains-of-venture-capital">The Bubble Brains of Silicon Valley</a>, <a href="/essays/the-tail-that-wags-the-dog">The Tail That Wags The Dog</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Volume of Your Inaccuracy](/images/the-volume-of-your-inaccuracy-8607f2ad.png)
 

@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/controlling-your-own-destiny"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Sapiens](/books/sapiens)
-
-**Essays:** [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Open-Source Knowledge](/essays/open-source-knowledge), [Having a Conversation With Yourself: 2022](/essays/having-a-conversation-with-yourself), [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/sapiens">Sapiens</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/open-source-knowledge">Open-Source Knowledge</a>, <a href="/essays/having-a-conversation-with-yourself">Having a Conversation With Yourself: 2022</a>, <a href="/essays/being-honest-about-intellectual-honesty">Being Honest About Intellectual Honesty</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Controlling Your Own Destiny](/images/controlling-your-own-destiny-0498618e.png)
 

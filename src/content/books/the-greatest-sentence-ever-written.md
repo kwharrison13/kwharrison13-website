@@ -17,7 +17,7 @@ key_takeaways_status: "written"
 One note: "the concept common ground has always been part of humanity's struggle to create a good society" tagged `Pluribus` — the e-pluribus-unum frame as the recurring American-political question.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Romney — A Reckoning](/books/romney-a-reckoning) — political-character thread.

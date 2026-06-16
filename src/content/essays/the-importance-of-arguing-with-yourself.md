@@ -5,11 +5,12 @@ tag: "Ideas"
 excerpt: "This article is a result of the intellectual rigor of a Junto, inspired by Benjamin Franklin’s club for mutual improvement of the same name, between the author, Tim Riser, Minna Wang, Nikita Singaredd..."
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Blink](/books/blink), [Benjamin Franklin](/books/benjamin-franklin), [The Righteous Mind](/books/the-righteous-mind)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/blink">Blink</a>, <a href="/books/benjamin-franklin">Benjamin Franklin</a>, <a href="/books/the-righteous-mind">The Righteous Mind</a></span></div>
+</aside>
+<!-- connections-end -->
 
 *This article is a result of the intellectual rigor of a Junto, inspired by [Benjamin Franklin’s club for mutual improvement](https://en.wikipedia.org/wiki/Junto_%28club%29) of the same name, between the author, [Tim Riser](https://www.linkedin.com/in/timothyriser), [Minna Wang](https://www.linkedin.com/in/minnawang/), [Nikita Singareddy](https://www.linkedin.com/in/nikita-m-s/), and [Bryce* DeFigueiredo*.*](https://www.linkedin.com/in/bdefig/)
 

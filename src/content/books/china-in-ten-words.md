@@ -20,7 +20,7 @@ Yu Hua's essay collection read with two specific structural frames. Two threads:
 2. **Leverage as monetary policy vs. as risk management.** The financial-domain note about leverage as a specific economic mechanism — tagged `#Storytelling`, suggesting the book's framing matters more than the technical content.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Death of Expertise](/books/the-death-of-expertise) — voice-of-the-people thread.

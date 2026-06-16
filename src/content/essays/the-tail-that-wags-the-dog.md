@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-tail-that-wags-the-dog"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Bubble Brains of Silicon Valley](/essays/the-bubble-brains-of-venture-capital), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [Intellectual Seat Belts](/essays/intellectual-seat-belts), [Oh Say, What is Truth?](/essays/oh-say-what-is-truth), [Sharing The Indie Era of Startups](/essays/sharing-the-indie-era-of-startups), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what), [Renegade Spotlight: Lowercarbon](/essays/lowercarbon)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-bubble-brains-of-venture-capital">The Bubble Brains of Silicon Valley</a>, <a href="/essays/the-inescapable-debate-of-human-nature">The Inescapable Debate of Human Nature</a>, <a href="/essays/intellectual-seat-belts">Intellectual Seat Belts</a>, <a href="/essays/oh-say-what-is-truth">Oh Say, What is Truth?</a>, <a href="/essays/sharing-the-indie-era-of-startups">Sharing The Indie Era of Startups</a>, <a href="/essays/its-time-to-build-but-build-what">It's Time To Build... But Build What?</a>, <a href="/essays/lowercarbon">Renegade Spotlight: Lowercarbon</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Pavlov’s Dog](/images/the-tail-that-wags-the-dog-920d5fb1.jpg)
 

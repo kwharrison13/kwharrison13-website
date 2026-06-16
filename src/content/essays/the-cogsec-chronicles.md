@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-cogsec-chronicles"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Brave New World](/books/brave-new-world), [Amusing Ourselves To Death](/books/amusing-ourselves-to-death), [John Adams](/books/john-adams)
-
-**Essays:** [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [The Bubble Brains of Silicon Valley](/essays/the-bubble-brains-of-venture-capital), [The Openness of AI](/essays/the-openness-of-ai), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [The Wrath of Reading & Writing](/essays/the-wrath-of-reading-and-writing), [On Writing](/essays/on-writing), [Creativity as Connectivity](/essays/creativity-as-connectivity)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/brave-new-world">Brave New World</a>, <a href="/books/amusing-ourselves-to-death">Amusing Ourselves To Death</a>, <a href="/books/john-adams">John Adams</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-inescapable-debate-of-human-nature">The Inescapable Debate of Human Nature</a>, <a href="/essays/the-bubble-brains-of-venture-capital">The Bubble Brains of Silicon Valley</a>, <a href="/essays/the-openness-of-ai">The Openness of AI</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/the-wrath-of-reading-and-writing">The Wrath of Reading & Writing</a>, <a href="/essays/on-writing">On Writing</a>, <a href="/essays/creativity-as-connectivity">Creativity as Connectivity</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Cogsec Chronicles](/images/the-cogsec-chronicles-2d2ef2dc.png)
 

@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/eat-what-you-kill"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Productization of Venture Capital](/essays/productization), [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice), [The Renegades of Venture Capital](/essays/the-renegades-of-venture-capital), [Why Most VCs Suck At Talent](/essays/talent), [Fantasy Capital](/essays/fantasy-capital), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Let Me Know How I Can Be Helpful](/essays/let-me-know-how-i-can-be-helpful), [The Hype Cycles of Venture Capital](/essays/the-hype-cycles-of-venture-capital)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/productization">The Productization of Venture Capital</a>, <a href="/essays/contrary-my-renegade-of-choice">Contrary: My Renegade of Choice</a>, <a href="/essays/the-renegades-of-venture-capital">The Renegades of Venture Capital</a>, <a href="/essays/talent">Why Most VCs Suck At Talent</a>, <a href="/essays/fantasy-capital">Fantasy Capital</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/let-me-know-how-i-can-be-helpful">Let Me Know How I Can Be Helpful</a>, <a href="/essays/the-hype-cycles-of-venture-capital">The Hype Cycles of Venture Capital</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Eat What You Kill](/images/eat-what-you-kill-c7354b10.png)
 

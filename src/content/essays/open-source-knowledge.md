@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/open-source-knowledge"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Elements of Journalism](/books/the-elements-of-journalism), [Working in Public](/books/working-in-public), [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city)
-
-**Essays:** [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Contrary Research](/essays/contrary-research)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-elements-of-journalism">The Elements of Journalism</a>, <a href="/books/working-in-public">Working in Public</a>, <a href="/books/walt-disney-and-the-promise-of-progress-city">Walt Disney and the Promise of Progress City</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/being-honest-about-intellectual-honesty">Being Honest About Intellectual Honesty</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/contrary-research">Contrary Research</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Neurons firing in the brain](/images/open-source-knowledge-1d077c7b.png)
 

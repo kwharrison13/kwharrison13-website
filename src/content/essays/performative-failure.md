@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/performative-failure"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [Science Fiction's Dueling Fates](/essays/science-fictions-dueling-fates), [Different Strokes For Different Folks](/essays/different-strokes-for-different-folks), [King-Making vs. Taste-Making](/essays/king-making-vs-taste-making)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a>, <a href="/essays/science-fictions-dueling-fates">Science Fiction's Dueling Fates</a>, <a href="/essays/different-strokes-for-different-folks">Different Strokes For Different Folks</a>, <a href="/essays/king-making-vs-taste-making">King-Making vs. Taste-Making</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Performative Failure](/images/performative-failure-390f49f7.png)
 

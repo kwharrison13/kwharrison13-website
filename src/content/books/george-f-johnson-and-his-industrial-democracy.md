@@ -22,7 +22,7 @@ William Inglis's history of Endicott-Johnson's experiment in "industrial democra
 2. **The "no union, but premium pay" middle path.** Endicott-Johnson as neither open-shop nor closed-shop. The actual model worth studying for contemporary alternative-work-structure discussions.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [[Working Toward

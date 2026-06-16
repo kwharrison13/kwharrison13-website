@@ -7,13 +7,13 @@ tags: ['capital-allocation', 'language-of-discourse', 'historical-futurism', 'co
 substack_url: "https://investing101.substack.com/p/hijacking-the-hucksters-hypebook"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Big Short](/books/the-big-short)
-
-**Essays:** [Dr. Tokens or: How I Learned to Stop Worrying and Love the AI Bubble](/essays/dr-tokens-or-how-i-learned-to-stop), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [Revisiting Clarity of Thought](/essays/revisiting-clarity-of-thought), [Cultivating Cults](/essays/cultivating-cults)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-big-short">The Big Short</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/dr-tokens-or-how-i-learned-to-stop">Dr. Tokens or: How I Learned to Stop Worrying and Love the AI Bubble</a>, <a href="/essays/institutionalized-belief-in-the-greater">Institutionalized Belief In The Greater Fool</a>, <a href="/essays/revisiting-clarity-of-thought">Revisiting Clarity of Thought</a>, <a href="/essays/cultivating-cults">Cultivating Cults</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Hijacking The Huckster's Hypebook](/images/hijacking-the-hucksters-hypebook-bee5b90bdcd6.png)
 

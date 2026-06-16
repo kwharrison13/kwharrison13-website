@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/valuations"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [I Love The Taste of Pain in the Morning](/essays/pain)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/pain">I Love The Taste of Pain in the Morning</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for What's In a Valuation?](/images/valuations-bd8e22b9.png)
 

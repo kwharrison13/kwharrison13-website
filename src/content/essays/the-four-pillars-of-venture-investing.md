@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-four-pillars-of-venture-investing"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Of Things That Matter Most](/essays/of-things-that-matter-most), [The Talent Vortex: Mafias and Magnets](/essays/talent-vortex), [The Groucho Marx Mandate](/essays/the-groucho-marx-mandate), [The Pace of FOMO Cycles](/essays/the-pace-of-fomo-cycles), [The Bubble Brains of Silicon Valley](/essays/the-bubble-brains-of-venture-capital), [You Don’t Want My Value Add](/essays/you-dont-want-my-value-add), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [Venture Capital Unbundled](/essays/venture-capital-unbundled)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/of-things-that-matter-most">Of Things That Matter Most</a>, <a href="/essays/talent-vortex">The Talent Vortex: Mafias and Magnets</a>, <a href="/essays/the-groucho-marx-mandate">The Groucho Marx Mandate</a>, <a href="/essays/the-pace-of-fomo-cycles">The Pace of FOMO Cycles</a>, <a href="/essays/the-bubble-brains-of-venture-capital">The Bubble Brains of Silicon Valley</a>, <a href="/essays/you-dont-want-my-value-add">You Don’t Want My Value Add</a>, <a href="/essays/the-rise-of-the-cash-man">The Rise of The Cash Man</a>, <a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a>, <a href="/essays/venture-capital-unbundled">Venture Capital Unbundled</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Four Pillars of Venture Investing](/images/the-four-pillars-of-venture-investing-88756680.png)
 

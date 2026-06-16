@@ -33,7 +33,7 @@ Almost every Munger sentence becomes a hook for an adjacent thought — the dens
 Standalone threads worth flagging: the recurring `Roam Research` tag (notes functioning as a personal knowledge graph being built in real time); reading biographies as a learning method; and a side observation about deciding what books to read based on how much the author got paid.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — explicit, repeated cross-referencing in both directions. The Buffett-Munger partnership is the spine across both reads. "Febezzlement" appears in both.

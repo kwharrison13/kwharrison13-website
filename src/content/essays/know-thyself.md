@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/know-thyself"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Venture Capital Doesn't Exist](/essays/venture-capital-doesnt-exist), [Crafting Your Average](/essays/crafting-your-average), [What Is An Extraordinary Man?](/essays/what-is-an-extraordinary-man), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/venture-capital-doesnt-exist">Venture Capital Doesn't Exist</a>, <a href="/essays/crafting-your-average">Crafting Your Average</a>, <a href="/essays/what-is-an-extraordinary-man">What Is An Extraordinary Man?</a>, <a href="/essays/the-inescapable-debate-of-human-nature">The Inescapable Debate of Human Nature</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Know Thyself](/images/know-thyself-a0879bb7.png)
 

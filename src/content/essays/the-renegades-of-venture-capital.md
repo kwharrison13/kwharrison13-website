@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-renegades-of-venture-capital"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Innovator's Dilemma](/books/the-innovator-s-dilemma)
-
-**Essays:** [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Productization of Venture Capital](/essays/productization), [Why Most VCs Suck At Talent](/essays/talent), [Renegade Spotlight: Homebrew](/essays/homebrew), [Renegade Spotlight: Lowercarbon](/essays/lowercarbon)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-innovator-s-dilemma">The Innovator's Dilemma</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/productization">The Productization of Venture Capital</a>, <a href="/essays/talent">Why Most VCs Suck At Talent</a>, <a href="/essays/homebrew">Renegade Spotlight: Homebrew</a>, <a href="/essays/lowercarbon">Renegade Spotlight: Lowercarbon</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Renegades of Venture Capital](/images/the-renegades-of-venture-capital-7c2871a0.png)
 

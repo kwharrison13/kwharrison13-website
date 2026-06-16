@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/against-your-own-self-interest"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what), [Science Fiction's Dueling Fates](/essays/science-fictions-dueling-fates), [Mo' Money, Mo' Problems](/essays/mo-money-mo-problems), [Playing Different (Stupider) Games](/essays/player-different-stupider-games)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/its-time-to-build-but-build-what">It's Time To Build... But Build What?</a>, <a href="/essays/science-fictions-dueling-fates">Science Fiction's Dueling Fates</a>, <a href="/essays/mo-money-mo-problems">Mo' Money, Mo' Problems</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Source:YouTube](/images/against-your-own-self-interest-7add25a6.png)
 

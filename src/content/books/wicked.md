@@ -15,7 +15,7 @@ key_takeaways_status: "written"
 One note: the Witch's "is it only in youth that evil is interesting?" line tagged `Extraordinary Person Philosophy` — the frame that moral seriousness is a quality of the unusual mind, not a default disposition.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Courage To Be Disliked](/books/the-courage-to-be-disliked) — identity-and-virtue thread.

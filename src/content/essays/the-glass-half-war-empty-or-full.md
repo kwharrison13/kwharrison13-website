@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-glass-half-war-empty-or-full"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Taking a Breath](/essays/taking-a-breath), [I Choose Optimism](/essays/i-choose-optimism), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [The Meme Economy](/essays/the-meme-economy), [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty), [Historical Futurism](/essays/historical-futurism), [The Gospel of ARK Invest](/essays/the-gospel-of-ark-invest), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/taking-a-breath">Taking a Breath</a>, <a href="/essays/i-choose-optimism">I Choose Optimism</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/the-meme-economy">The Meme Economy</a>, <a href="/essays/being-honest-about-intellectual-honesty">Being Honest About Intellectual Honesty</a>, <a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/the-gospel-of-ark-invest">The Gospel of ARK Invest</a>, <a href="/essays/its-time-to-build-but-build-what">It's Time To Build... But Build What?</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Glass-Half War: Empty or Full?](/images/the-glass-half-war-empty-or-full-ce6ea9e1.png)
 

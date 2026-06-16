@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-great-circle-of-life"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Golden Son](/books/golden-son)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/golden-son">Golden Son</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![The Great Circle of Life](/images/the-great-circle-of-life-d8accaae.png)
 

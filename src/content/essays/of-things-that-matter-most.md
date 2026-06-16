@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/of-things-that-matter-most"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [How Will You Measure Your Life?](/books/how-will-you-measure-your-life)
-
-**Essays:** [Kids 3.0](/essays/kids-30), [You're The Only Investment That Matters](/essays/youre-the-only-investment-that-matters), [Toil We Must](/essays/toil-we-must)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/how-will-you-measure-your-life">How Will You Measure Your Life?</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/kids-30">Kids 3.0</a>, <a href="/essays/youre-the-only-investment-that-matters">You're The Only Investment That Matters</a>, <a href="/essays/toil-we-must">Toil We Must</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Seattle 2016; the first place my wife and I lived away from family](/images/of-things-that-matter-most-e44782a5.jpg)
 

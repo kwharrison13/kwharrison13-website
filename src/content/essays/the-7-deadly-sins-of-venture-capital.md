@@ -8,11 +8,12 @@ type: "podcast"
 substack_url: "https://investing101.substack.com/p/the-7-deadly-sins-of-venture-capital"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Value Chain of Capital](/essays/the-value-chain-of-capital), [Venture Capital Unbundled](/essays/venture-capital-unbundled), [The Unholy Trinity of Venture Capital](/essays/the-unholy-trinity-of-venture-capital), [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer), [Mo' Money, Mo' Problems](/essays/mo-money-mo-problems), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-value-chain-of-capital">The Value Chain of Capital</a>, <a href="/essays/venture-capital-unbundled">Venture Capital Unbundled</a>, <a href="/essays/the-unholy-trinity-of-venture-capital">The Unholy Trinity of Venture Capital</a>, <a href="/essays/cashkingmaker-or-killer">Cash—Kingmaker or Killer?</a>, <a href="/essays/mo-money-mo-problems">Mo' Money, Mo' Problems</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a>, <a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The 7 Deadly Sins of Venture Capital (with Dan Gray)](/images/the-7-deadly-sins-of-venture-capital-07092210.png)
 

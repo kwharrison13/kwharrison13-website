@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/you-sit-on-a-throne-of-lies"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Red Rising](/books/red-rising)
-
-**Essays:** [Oh Say, What is Truth?](/essays/oh-say-what-is-truth), [The Volume of Your Inaccuracy](/essays/the-volume-of-your-inaccuracy), [The Burden of Proof](/essays/the-burden-of-proof), [The Meme Economy](/essays/the-meme-economy), [The Ethos of Nuance](/essays/the-ethos-of-nuance), [Embrace The Nuance](/essays/embrace-the-nuance), [Cultivating Cults](/essays/cultivating-cults), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [The Cogsec Chronicles](/essays/the-cogsec-chronicles)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/red-rising">Red Rising</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/oh-say-what-is-truth">Oh Say, What is Truth?</a>, <a href="/essays/the-volume-of-your-inaccuracy">The Volume of Your Inaccuracy</a>, <a href="/essays/the-burden-of-proof">The Burden of Proof</a>, <a href="/essays/the-meme-economy">The Meme Economy</a>, <a href="/essays/the-ethos-of-nuance">The Ethos of Nuance</a>, <a href="/essays/embrace-the-nuance">Embrace The Nuance</a>, <a href="/essays/cultivating-cults">Cultivating Cults</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/the-cogsec-chronicles">The Cogsec Chronicles</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Source:Elf](/images/you-sit-on-a-throne-of-lies-158ca2ee.png)
 

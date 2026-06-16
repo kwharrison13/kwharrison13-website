@@ -30,7 +30,7 @@ Ryan Holiday's Stoic discipline book read with a heavy LDS overlay — Spencer W
 The throughline: discipline isn't a moral position, it's a system of small choices that produces a self over time. The religious and Stoic vocabularies map onto the same underlying mechanism.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Essentialism](/books/essentialism) — direct pair. Essentialism on what to say no to; Discipline on how to say yes to the chosen yes.

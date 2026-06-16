@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/dreaming-of-dry-powder"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [A Tale of Two Markets](/essays/a-tale-of-two-markets)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/a-tale-of-two-markets">A Tale of Two Markets</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Dreaming Of Dry Powder](/images/dreaming-of-dry-powder-9c3d2283.png)
 

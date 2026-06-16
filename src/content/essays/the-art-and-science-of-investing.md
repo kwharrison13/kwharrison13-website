@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-art-and-science-of-investing"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Productization of Venture Capital](/essays/productization), [Having a Conversation With Yourself: 2022](/essays/having-a-conversation-with-yourself), [Investing 101 2.0](/essays/coming-soon), [Of Things That Matter Most](/essays/of-things-that-matter-most), [The Mysteries of an Economic Engine](/essays/the-mysteries-of-an-economic-engine), [The Diligence That's Due](/essays/the-diligence-thats-due), [The Tales of Usefulness Have Been Greatly Exaggerated](/essays/the-tales-of-their-usefulness-have), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [Stewards of Capital](/essays/stewards-of-capital), [Fantasy Capital](/essays/fantasy-capital), [The Reality of Unrealistic Outliers](/essays/the-reality-of-unrealistic-outliers), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [Markets, Markets, and Markets](/essays/markets-markets-and-markets)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/productization">The Productization of Venture Capital</a>, <a href="/essays/having-a-conversation-with-yourself">Having a Conversation With Yourself: 2022</a>, <a href="/essays/coming-soon">Investing 101 2.0</a>, <a href="/essays/of-things-that-matter-most">Of Things That Matter Most</a>, <a href="/essays/the-mysteries-of-an-economic-engine">The Mysteries of an Economic Engine</a>, <a href="/essays/the-diligence-thats-due">The Diligence That's Due</a>, <a href="/essays/the-tales-of-their-usefulness-have">The Tales of Usefulness Have Been Greatly Exaggerated</a>, <a href="/essays/the-rise-of-the-cash-man">The Rise of The Cash Man</a>, <a href="/essays/stewards-of-capital">Stewards of Capital</a>, <a href="/essays/fantasy-capital">Fantasy Capital</a>, <a href="/essays/the-reality-of-unrealistic-outliers">The Reality of Unrealistic Outliers</a>, <a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/markets-markets-and-markets">Markets, Markets, and Markets</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Art and Science of Investing](/images/the-art-and-science-of-investing-b0221110.png)
 

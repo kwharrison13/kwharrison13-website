@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/2024-in-books"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Lonesome Dove](/books/lonesome-dove), [Leap of Faith](/books/leap-of-faith), [The Idea Factory](/books/the-idea-factory), [Streets of Laredo](/books/streets-of-laredo), [Brave New World](/books/brave-new-world), [Stretching The Heavens](/books/stretching-the-heavens), [Demon Copperhead](/books/demon-copperhead), [Patriot Games](/books/patriot-games), [Braving The Wilderness](/books/braving-the-wilderness), [A Walk in the Woods](/books/a-walk-in-the-woods), [Chip War](/books/chip-war), [The Man From The Future](/books/the-man-from-the-future), [Without Remorse](/books/without-remorse), [Skunk Works](/books/skunk-works), [The Kill Chain](/books/the-kill-chain), [The BFG](/books/the-bfg), [Nuclear War: a Scenario](/books/nuclear-war-a-scenario), [Blood Meridian](/books/blood-meridian)
-
-**Essays:** [2022 in Books](/essays/2022-in-books), [2023 In Books](/essays/2023-in-books), [Contrary Research](/essays/contrary-research)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/lonesome-dove">Lonesome Dove</a>, <a href="/books/leap-of-faith">Leap of Faith</a>, <a href="/books/the-idea-factory">The Idea Factory</a>, <a href="/books/streets-of-laredo">Streets of Laredo</a>, <a href="/books/brave-new-world">Brave New World</a>, <a href="/books/stretching-the-heavens">Stretching The Heavens</a>, <a href="/books/demon-copperhead">Demon Copperhead</a>, <a href="/books/patriot-games">Patriot Games</a>, <a href="/books/braving-the-wilderness">Braving The Wilderness</a>, <a href="/books/a-walk-in-the-woods">A Walk in the Woods</a>, <a href="/books/chip-war">Chip War</a>, <a href="/books/the-man-from-the-future">The Man From The Future</a>, <a href="/books/without-remorse">Without Remorse</a>, <a href="/books/skunk-works">Skunk Works</a>, <a href="/books/the-kill-chain">The Kill Chain</a>, <a href="/books/the-bfg">The BFG</a>, <a href="/books/nuclear-war-a-scenario">Nuclear War: a Scenario</a>, <a href="/books/blood-meridian">Blood Meridian</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/2022-in-books">2022 in Books</a>, <a href="/essays/2023-in-books">2023 In Books</a>, <a href="/essays/contrary-research">Contrary Research</a></span></div>
+</aside>
+<!-- connections-end -->
 
 *I originally posted this [on my personal website](https://kwharrison13.com/15489f3ce1af801dbd92d2ad17ec283a) where you can see the full list of the books I read this year and my broader library.*
 

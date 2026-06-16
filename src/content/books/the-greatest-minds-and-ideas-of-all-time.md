@@ -21,7 +21,7 @@ Will Durant's compressed intellectual history, read for two specific frames. Two
 2. **Progress can't be defined by one tradition.** Durant's insistence on a non-parochial definition — tagged `Progress Studies`. The structural problem of evaluating "progress" without privileging the evaluator's tradition.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Death of Expertise](/books/the-death-of-expertise) — educated-electorate thread.

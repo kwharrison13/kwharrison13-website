@@ -26,7 +26,7 @@ Bushman's landmark biography read with a specific tension in view: prophets are 
 5. **"Be up and doing."** The aphorism from Nehemiah; the Nauvoo-era frame on
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [[American

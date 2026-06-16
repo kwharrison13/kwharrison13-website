@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-meme-economy"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Controlling Your Own Destiny](/essays/controlling-your-own-destiny), [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty), [Open-Source Knowledge](/essays/open-source-knowledge), [Learning To Dream](/essays/learning-to-dream), [Markets, Markets, and Markets](/essays/markets-markets-and-markets), [The Talent Vortex: Mafias and Magnets](/essays/talent-vortex), [The Professionalization of Startups](/essays/the-professionalization-of-startups), [Fantasy Capital](/essays/fantasy-capital), [What's In a Valuation?](/essays/valuations)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/controlling-your-own-destiny">Controlling Your Own Destiny</a>, <a href="/essays/being-honest-about-intellectual-honesty">Being Honest About Intellectual Honesty</a>, <a href="/essays/open-source-knowledge">Open-Source Knowledge</a>, <a href="/essays/learning-to-dream">Learning To Dream</a>, <a href="/essays/markets-markets-and-markets">Markets, Markets, and Markets</a>, <a href="/essays/talent-vortex">The Talent Vortex: Mafias and Magnets</a>, <a href="/essays/the-professionalization-of-startups">The Professionalization of Startups</a>, <a href="/essays/fantasy-capital">Fantasy Capital</a>, <a href="/essays/valuations">What's In a Valuation?</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Meme Economy](/images/the-meme-economy-767f8fa1.jpg)
 

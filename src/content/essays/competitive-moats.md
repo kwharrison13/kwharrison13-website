@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/competitive-moats"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/cashkingmaker-or-killer">Cash—Kingmaker or Killer?</a>, <a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Source:Fat Baby Funds](/images/competitive-moats-26a2b538.png)
 

@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/mo-money-mo-problems"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Siren Song of Raising a Venture Fund](/essays/the-siren-song-of-raising-a-venture), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [Natural Selection Among Startups](/essays/natural-selection-among-startups), [I Love The Taste of Pain in the Morning](/essays/pain), [The Hits Business](/essays/the-hits-business)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-siren-song-of-raising-a-venture">The Siren Song of Raising a Venture Fund</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a>, <a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a>, <a href="/essays/natural-selection-among-startups">Natural Selection Among Startups</a>, <a href="/essays/pain">I Love The Taste of Pain in the Morning</a>, <a href="/essays/the-hits-business">The Hits Business</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Mo' Money, Mo' Problems](/images/mo-money-mo-problems-7f471c13.webp)
 

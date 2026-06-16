@@ -17,7 +17,7 @@ key_takeaways_status: "written"
 _Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Poor Charlie's Almanack](/books/poor-charlie-s-almanack), [The Great Mental Models Volume 1 — General Thinking Concepts](/books/the-great-mental-models-volume-1-general-thinking-concepts) — multidisciplinary-thinking cluster.

@@ -34,7 +34,7 @@ Adler and Van Doren's classic, read with constant religious-text overlay and exp
 A side thread worth flagging: the question of whether reading FICTION can stretch the mind in the same way as non-fiction. The notes register a respectful disagreement with Adler — the West Wing references, the analogy work, the imaginative range fiction provides aren't trivial.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Death of Expertise](/books/the-death-of-expertise) — explicit cross-reference multiple times. Active reading is the antidote Nichols implicitly argues for.

@@ -16,7 +16,7 @@ key_takeaways_status: "written"
 One note: Jefferson on cities — "they all live in cities, together, and can act in a body readily and at all times" — with the present-tense update: "and then they got the internet." The pro-urban argument that anticipated digital cohesion-at-distance.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) — city-building thread.

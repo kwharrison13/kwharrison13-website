@@ -24,7 +24,7 @@ Fried and Heinemeier Hansson's pre-COVID remote-work argument read in mid-2020s 
 The book reads as a foundational text whose specific recommendations matter less now than the structural shift it predicted. The interesting question isn't whether to be remote — it's what other office-era assumptions are still load-bearing that shouldn't be.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Working in Public](/books/working-in-public) — open-source thread; "what other types of work can you open source?"

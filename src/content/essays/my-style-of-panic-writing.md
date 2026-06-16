@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/my-style-of-panic-writing"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Panic Writing](/essays/panic-writing), [Be Still](/essays/be-still), [Touch Some Grass](/essays/touch-some-grass), [Back To The Grass](/essays/back-to-the-grass), [Taking a Breath](/essays/taking-a-breath), [Guide Your Gaze](/essays/guide-you-gaze), [Pondering The Grass](/essays/pondering-the-grass), [Of Things That Matter Most](/essays/of-things-that-matter-most), [The Pace of FOMO Cycles](/essays/the-pace-of-fomo-cycles), [Contrary Research](/essays/contrary-research), [Becoming An Allocator](/essays/becoming-an-allocator), [The Value Chain of Capital](/essays/the-value-chain-of-capital), [Oops, I Did It Again](/essays/oops-i-did-it-again), [Surviving The Death of Venture Capital](/essays/surviving-the-death-of-venture-capital), [The Sine Waves of Creativity](/essays/the-sine-waves-of-creativity), [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening), [Cultivating Cults](/essays/cultivating-cults)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/panic-writing">Panic Writing</a>, <a href="/essays/be-still">Be Still</a>, <a href="/essays/touch-some-grass">Touch Some Grass</a>, <a href="/essays/back-to-the-grass">Back To The Grass</a>, <a href="/essays/taking-a-breath">Taking a Breath</a>, <a href="/essays/guide-you-gaze">Guide Your Gaze</a>, <a href="/essays/pondering-the-grass">Pondering The Grass</a>, <a href="/essays/of-things-that-matter-most">Of Things That Matter Most</a>, <a href="/essays/the-pace-of-fomo-cycles">The Pace of FOMO Cycles</a>, <a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/becoming-an-allocator">Becoming An Allocator</a>, <a href="/essays/the-value-chain-of-capital">The Value Chain of Capital</a>, <a href="/essays/oops-i-did-it-again">Oops, I Did It Again</a>, <a href="/essays/surviving-the-death-of-venture-capital">Surviving The Death of Venture Capital</a>, <a href="/essays/the-sine-waves-of-creativity">The Sine Waves of Creativity</a>, <a href="/essays/the-hardening-of-the-great-softening">The Hardening Of The Great Softening</a>, <a href="/essays/cultivating-cults">Cultivating Cults</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for My Style of Panic Writing](/images/my-style-of-panic-writing-ef4a2e3c.jpg)
 

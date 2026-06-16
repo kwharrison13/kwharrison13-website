@@ -24,7 +24,7 @@ J.D. Vance's memoir read with attention to structural-trap dynamics in declining
 A standalone note: "students don't expect much from themselves, because the people around them don't do very much. The internet changes that." A cautiously optimistic counter to Vance's pessimism — the assumption that local environment fully determines aspiration is increasingly weak.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Janesville](/books/janesville) _(stub)_ — adjacent on industrial-decline community dynamics.

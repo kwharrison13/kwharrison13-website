@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/saying-the-quiet-part-out-loud"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Playing To Win](/books/playing-to-win)
-
-**Essays:** [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [“Build What’s Fundable”](/essays/build-whats-fundable), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [Playing Different (Stupider) Games](/essays/player-different-stupider-games)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/playing-to-win">Playing To Win</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a>, <a href="/essays/build-whats-fundable">“Build What’s Fundable”</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Saying The Quiet Part Out Loud](/images/saying-the-quiet-part-out-loud-86671c7f.png)
 

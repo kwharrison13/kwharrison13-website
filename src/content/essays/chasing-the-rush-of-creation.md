@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/chasing-the-rush-of-creation"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [John Quincy Adams](/books/john-quincy-adams)
-
-**Essays:** [Contrary Research](/essays/contrary-research), [Kids 3.0](/essays/kids-30), [You're The Only Investment That Matters](/essays/youre-the-only-investment-that-matters), [Touch Some Grass](/essays/touch-some-grass), [The Storytelling of Investing](/essays/the-storytelling-of-investing)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/john-quincy-adams">John Quincy Adams</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/kids-30">Kids 3.0</a>, <a href="/essays/youre-the-only-investment-that-matters">You're The Only Investment That Matters</a>, <a href="/essays/touch-some-grass">Touch Some Grass</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Source:Alexa Kayman](/images/chasing-the-rush-of-creation-de1a4dec.png)
 

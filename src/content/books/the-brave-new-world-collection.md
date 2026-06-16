@@ -27,7 +27,7 @@ Huxley's novel + the later essays (*Brave New World Revisited*) read with active
 The throughline: Huxley got the alarm right but the diagnosis wrong. The interesting work is figuring out which of his warnings still hold and which were artifacts of his own decade.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Death of Expertise](/books/the-death-of-expertise) — educated-electorate argument extends here.

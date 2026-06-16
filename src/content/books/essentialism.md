@@ -31,7 +31,7 @@ McKeown's book read in story-cataloging mode — most notes start with "Story:" 
 The story-collection mode is itself revealing — the book is being read primarily as parable inventory, not as a system to install whole-cloth. Stories travel.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Discipline Is Destiny](/books/discipline-is-destiny) — pairs naturally. Essentialism on saying no, Discipline on saying yes to a single self.

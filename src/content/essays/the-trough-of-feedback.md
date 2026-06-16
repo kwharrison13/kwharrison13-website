@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-trough-of-feedback"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [On Hype And Hot Air](/essays/on-hype-and-hot-air), [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty), [What's In a Post-Mortem?](/essays/whats-in-a-post-mortem), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Let Me Know How I Can Be Helpful](/essays/let-me-know-how-i-can-be-helpful)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/on-hype-and-hot-air">On Hype And Hot Air</a>, <a href="/essays/being-honest-about-intellectual-honesty">Being Honest About Intellectual Honesty</a>, <a href="/essays/whats-in-a-post-mortem">What's In a Post-Mortem?</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/let-me-know-how-i-can-be-helpful">Let Me Know How I Can Be Helpful</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Source:Scrubs](/images/the-trough-of-feedback-8a0a9351.png)
 

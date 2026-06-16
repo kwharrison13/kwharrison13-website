@@ -26,7 +26,7 @@ The Givens's book on doubt-and-faith read alongside a sustained tension about cr
 A side thread worth flagging: the recurring question of contemporary Church practice ("then why do we excommunicate people who think women should get the Priesthood?") — the book is being read with active willingness to apply its arguments back against the institution that produced it.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Faith of a Scientist](/books/the-faith-of-a-scientist) _(stub)_ — adjacent on the psychology-and-religion intersection.

@@ -36,7 +36,7 @@ Read primarily as a parent — but with constant overlay between developmental n
 The throughline: parenting is less about producing outcomes and more about building the psychology behind being good at things.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Battle Hymn of the Tiger Mother](/books/battle-hymn-of-the-tiger-mother) — explicit anti-thesis. The Tiger Mother approach removes autonomy; this book argues autonomy IS the developmental mechanism.

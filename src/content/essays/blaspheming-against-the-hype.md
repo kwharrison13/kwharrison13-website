@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/blaspheming-against-the-hype"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Hype Cycles of Venture Capital](/essays/the-hype-cycles-of-venture-capital), [Updating The Hype Cycle](/essays/updating-the-hype-cycle), [What's In a Valuation?](/essays/valuations), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [Eat What You Kill](/essays/eat-what-you-kill)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-hype-cycles-of-venture-capital">The Hype Cycles of Venture Capital</a>, <a href="/essays/updating-the-hype-cycle">Updating The Hype Cycle</a>, <a href="/essays/valuations">What's In a Valuation?</a>, <a href="/essays/the-rise-of-the-cash-man">The Rise of The Cash Man</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a>, <a href="/essays/eat-what-you-kill">Eat What You Kill</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![The Stoning of Stephen](/images/blaspheming-against-the-hype-bb456bf8.png)
 

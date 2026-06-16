@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/guide-you-gaze"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Of Things That Matter Most](/essays/of-things-that-matter-most), [Touch Some Grass](/essays/touch-some-grass), [Back To The Grass](/essays/back-to-the-grass), [The Pace of FOMO Cycles](/essays/the-pace-of-fomo-cycles), [Taking a Breath](/essays/taking-a-breath), [Panic Writing](/essays/panic-writing), [Becoming An Allocator](/essays/becoming-an-allocator), [The Value Chain of Capital](/essays/the-value-chain-of-capital), [Oops, I Did It Again](/essays/oops-i-did-it-again), [Surviving The Death of Venture Capital](/essays/surviving-the-death-of-venture-capital), [The Sine Waves of Creativity](/essays/the-sine-waves-of-creativity), [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/of-things-that-matter-most">Of Things That Matter Most</a>, <a href="/essays/touch-some-grass">Touch Some Grass</a>, <a href="/essays/back-to-the-grass">Back To The Grass</a>, <a href="/essays/the-pace-of-fomo-cycles">The Pace of FOMO Cycles</a>, <a href="/essays/taking-a-breath">Taking a Breath</a>, <a href="/essays/panic-writing">Panic Writing</a>, <a href="/essays/becoming-an-allocator">Becoming An Allocator</a>, <a href="/essays/the-value-chain-of-capital">The Value Chain of Capital</a>, <a href="/essays/oops-i-did-it-again">Oops, I Did It Again</a>, <a href="/essays/surviving-the-death-of-venture-capital">Surviving The Death of Venture Capital</a>, <a href="/essays/the-sine-waves-of-creativity">The Sine Waves of Creativity</a>, <a href="/essays/the-hardening-of-the-great-softening">The Hardening Of The Great Softening</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Guide Your Gaze](/images/guide-you-gaze-b9141cc1.jpg)
 

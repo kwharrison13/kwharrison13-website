@@ -22,7 +22,7 @@ Harari's near-future book read with active counter-argument throughout. Three th
 3. **Why-do-good for God or for self.** "Don't do the right thing because God wants you to. But God does want you to do the right thing because he recognizes the good it does for you." A theological reframe that resolves Harari's apparent religion-vs-self-interest dichotomy.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Homo Deus](/books/homo-deus) — direct predecessor.

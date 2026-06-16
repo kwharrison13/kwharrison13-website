@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/vcs-beyond-the-meme"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [How can I be helpful vs. Is this helpful?](/essays/how-can-i-be-helpful-vs-is-this-helpful), [The Tales of Usefulness Have Been Greatly Exaggerated](/essays/the-tales-of-their-usefulness-have), [Let Me Know How I Can Be Helpful](/essays/let-me-know-how-i-can-be-helpful), [You Don’t Want My Value Add](/essays/you-dont-want-my-value-add), [What Is An Investor?](/essays/what-is-an-investor), [The Trough of Feedback](/essays/the-trough-of-feedback), [Cultivating Cults](/essays/cultivating-cults), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [The Meme Economy](/essays/the-meme-economy), [The Bubble Brains of Silicon Valley](/essays/the-bubble-brains-of-venture-capital), [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism), [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty), [Playing Different (Stupider) Games](/essays/player-different-stupider-games)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/how-can-i-be-helpful-vs-is-this-helpful">How can I be helpful vs. Is this helpful?</a>, <a href="/essays/the-tales-of-their-usefulness-have">The Tales of Usefulness Have Been Greatly Exaggerated</a>, <a href="/essays/let-me-know-how-i-can-be-helpful">Let Me Know How I Can Be Helpful</a>, <a href="/essays/you-dont-want-my-value-add">You Don’t Want My Value Add</a>, <a href="/essays/what-is-an-investor">What Is An Investor?</a>, <a href="/essays/the-trough-of-feedback">The Trough of Feedback</a>, <a href="/essays/cultivating-cults">Cultivating Cults</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a>, <a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a>, <a href="/essays/the-meme-economy">The Meme Economy</a>, <a href="/essays/the-bubble-brains-of-venture-capital">The Bubble Brains of Silicon Valley</a>, <a href="/essays/conviction-led-contrarianism">Conviction-Led Contrarianism</a>, <a href="/essays/being-honest-about-intellectual-honesty">Being Honest About Intellectual Honesty</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for VCs Beyond The Meme](/images/vcs-beyond-the-meme-a3b26812.png)
 

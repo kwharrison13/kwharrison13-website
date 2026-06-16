@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/index-bets-from-products-to-people"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Death of Expertise](/books/the-death-of-expertise)
-
-**Essays:** [Renegade Spotlight: Synthesis](/essays/renegade-spotlight-synthesis), [Why Most VCs Suck At Talent](/essays/talent), [The Talent Vortex: Mafias and Magnets](/essays/talent-vortex)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-death-of-expertise">The Death of Expertise</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/renegade-spotlight-synthesis">Renegade Spotlight: Synthesis</a>, <a href="/essays/talent">Why Most VCs Suck At Talent</a>, <a href="/essays/talent-vortex">The Talent Vortex: Mafias and Magnets</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Index Bets: From Products to People](/images/index-bets-from-products-to-people-a427e7bf.png)
 

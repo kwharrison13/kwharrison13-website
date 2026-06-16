@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-storytelling-of-investing"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Sapiens](/books/sapiens), [The Everything Store](/books/the-everything-store), [Amazon Unbound](/books/amazon-unbound)
-
-**Essays:** [What's In a Valuation?](/essays/valuations), [Renegade Spotlight: The General Partnership](/essays/thegp), [Tailwinds: What's in a Thesis?](/essays/tailwinds-whats-in-a-thesis)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/sapiens">Sapiens</a>, <a href="/books/the-everything-store">The Everything Store</a>, <a href="/books/amazon-unbound">Amazon Unbound</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/valuations">What's In a Valuation?</a>, <a href="/essays/thegp">Renegade Spotlight: The General Partnership</a>, <a href="/essays/tailwinds-whats-in-a-thesis">Tailwinds: What's in a Thesis?</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Storytelling of Investing](/images/the-storytelling-of-investing-9c9b6bea.png)
 

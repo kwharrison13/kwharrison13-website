@@ -16,7 +16,7 @@ key_takeaways_status: "written"
 One note: "whether or not something is true doesn't impact whether you believe it." Harari's recurring constructed-narrative frame applied to consumerism-and-nationalism specifically.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Homo Deus](/books/homo-deus) — direct sequel.

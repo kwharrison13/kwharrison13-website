@@ -24,7 +24,7 @@ Three threads recur:
 Adjacent themes that surface: "creative wandering" as the engineering posture Bezos trusts; "disagree and commit" only working when the disagreement actually happens first (the Fire Phone failure mode where no one challenged the obstinate leader); hiring as active outreach rather than waiting for inbound; and the importance of using external metrics to validate radical behavior without becoming dependent on them.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Founders](/books/the-founders) — both treat Bezos and Musk as parallel founder archetypes. The Founders quotes Musk explicitly pitching X.com as "the Amazon of financial services," and both books circle the same questions about how a single founder's operating philosophy propagates through a company's machinery.

@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/homebrew"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Productization of Venture Capital](/essays/productization)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/productization">The Productization of Venture Capital</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Renegade Spotlight: Homebrew](/images/homebrew-b032e344.png)
 

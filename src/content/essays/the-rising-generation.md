@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-rising-generation"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Hell Yeah or No](/books/hell-yeah-or-no), [The Power Law: Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future), [John Adams](/books/john-adams), [John Quincy Adams](/books/john-quincy-adams)
-
-**Essays:** [Learning To Dream](/essays/learning-to-dream), [The Renaissance of Rise and Grind](/essays/the-renaissance-of-rise-and-grind), [Playing Different (Stupider) Games](/essays/player-different-stupider-games)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/hell-yeah-or-no">Hell Yeah or No</a>, <a href="/books/the-power-law-venture-capital-and-the-making-of-the-new-future">The Power Law: Venture Capital & the Making of the New Future</a>, <a href="/books/john-adams">John Adams</a>, <a href="/books/john-quincy-adams">John Quincy Adams</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/learning-to-dream">Learning To Dream</a>, <a href="/essays/the-renaissance-of-rise-and-grind">The Renaissance of Rise and Grind</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Rising Generation](/images/the-rising-generation-089d71ec.png)
 

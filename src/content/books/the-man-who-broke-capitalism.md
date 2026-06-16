@@ -22,7 +22,7 @@ The Gelles thesis — financialization of the economy as the diagnosis — regis
 The quake flag despite the sparse in-text response is notable: the book mattered even if the response on the page was minimal. The thinking may have happened off-page or in conversation. Worth a re-read with a more annotated pass if the financialization frame is going to do real work — particularly given the heavy engagement with the operational-discipline counter-thesis in Berkshire Hathaway Annual Letters.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — direct thematic opposite. Buffett's entire frame is about operational discipline over financial engineering, holding companies long-term, refusing to financialize what should remain operating businesses. Worth reading the two side by side.

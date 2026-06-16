@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/building-a-product-engine"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Everything Store](/books/the-everything-store), [Amazon Unbound](/books/amazon-unbound)
-
-**Essays:** [What's In a Valuation?](/essays/valuations), [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-everything-store">The Everything Store</a>, <a href="/books/amazon-unbound">Amazon Unbound</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/valuations">What's In a Valuation?</a>, <a href="/essays/cashkingmaker-or-killer">Cash—Kingmaker or Killer?</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Building a Product Engine](/images/building-a-product-engine-66475a71.png)
 

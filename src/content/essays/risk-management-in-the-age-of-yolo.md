@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/risk-management-in-the-age-of-yolo"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Art and Science of Investing](/essays/the-art-and-science-of-investing), [Learnable Empathy](/essays/learnable-empathy), [Learning To Dream](/essays/learning-to-dream), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [What's In a Post-Mortem?](/essays/whats-in-a-post-mortem), [Stewards of Capital](/essays/stewards-of-capital), [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-art-and-science-of-investing">The Art and Science of Investing</a>, <a href="/essays/learnable-empathy">Learnable Empathy</a>, <a href="/essays/learning-to-dream">Learning To Dream</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/whats-in-a-post-mortem">What's In a Post-Mortem?</a>, <a href="/essays/stewards-of-capital">Stewards of Capital</a>, <a href="/essays/cashkingmaker-or-killer">Cash—Kingmaker or Killer?</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Risk Management In The Age Of YOLO](/images/risk-management-in-the-age-of-yolo-7c779105.png)
 

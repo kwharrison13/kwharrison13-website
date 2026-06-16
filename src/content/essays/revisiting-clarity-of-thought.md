@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/revisiting-clarity-of-thought"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [How To Take Smart Notes](/books/how-to-take-smart-notes)
-
-**Essays:** [Clarity of Thought](/essays/clarity-of-thought), [We Need a Renaissance of Rhetoric](/essays/we-need-a-renaissance-of-rhetoric), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism), [The Storytelling of Investing](/essays/the-storytelling-of-investing)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/how-to-take-smart-notes">How To Take Smart Notes</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/clarity-of-thought">Clarity of Thought</a>, <a href="/essays/we-need-a-renaissance-of-rhetoric">We Need a Renaissance of Rhetoric</a>, <a href="/essays/the-inescapable-debate-of-human-nature">The Inescapable Debate of Human Nature</a>, <a href="/essays/conviction-led-contrarianism">Conviction-Led Contrarianism</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Boy Jesus in the Temple (Christ in the Temple) by Heinrich Hofman](/images/revisiting-clarity-of-thought-9232aff7.jpg)
 

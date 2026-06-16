@@ -21,7 +21,7 @@ Al Gore's book on the decline of public reason, read with active counter-argumen
 3. **The discipline of accepting being wrong.** The Orwell quote about "impudently twisting the facts" — the actual skill is admitting error, which is rare in any era.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Death of Expertise](/books/the-death-of-expertise) — democratic-epistemology overlap.

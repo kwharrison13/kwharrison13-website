@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/creativity-as-connectivity"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [The Wrath of Reading & Writing](/essays/the-wrath-of-reading-and-writing), [On Writing](/essays/on-writing), [Panic Writing](/essays/panic-writing), [The Value Chain of Capital](/essays/the-value-chain-of-capital)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a>, <a href="/essays/institutionalized-belief-in-the-greater">Institutionalized Belief In The Greater Fool</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a>, <a href="/essays/the-wrath-of-reading-and-writing">The Wrath of Reading & Writing</a>, <a href="/essays/on-writing">On Writing</a>, <a href="/essays/panic-writing">Panic Writing</a>, <a href="/essays/the-value-chain-of-capital">The Value Chain of Capital</a></span></div>
+</aside>
+<!-- connections-end -->
 
 !["The Tree of Life" by Gustav Klimt (1909)
 

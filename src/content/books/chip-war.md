@@ -31,7 +31,7 @@ Read primarily as Anduril-thesis source material — 30+ of the 50 notes are sim
 The book is less digested-and-synthesized than the other reads in this batch — it's been used as a quarry. The synthesis lives in whatever Anduril thesis these notes are feeding into.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Skunk Works](/books/skunk-works) — defense-tech context; Kelly Johnson era contrasted with TSMC era.

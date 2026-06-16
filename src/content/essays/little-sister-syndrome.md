@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/little-sister-syndrome"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Power Law: Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future)
-
-**Essays:** [Eat What You Kill](/essays/eat-what-you-kill), [Why Most VCs Suck At Talent](/essays/talent)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-power-law-venture-capital-and-the-making-of-the-new-future">The Power Law: Venture Capital & the Making of the New Future</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/eat-what-you-kill">Eat What You Kill</a>, <a href="/essays/talent">Why Most VCs Suck At Talent</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Little Sister Syndrome](/images/little-sister-syndrome-6a4e8752.png)
 

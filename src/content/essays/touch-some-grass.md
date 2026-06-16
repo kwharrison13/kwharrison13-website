@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/touch-some-grass"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Benjamin Franklin](/books/benjamin-franklin)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/benjamin-franklin">Benjamin Franklin</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Touch Some Grass](/images/touch-some-grass-e041f85c.png)
 

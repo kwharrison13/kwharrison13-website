@@ -32,7 +32,7 @@ Gertner's history of Bell Labs read as a case study in what happens when an orga
 Bell Labs functioning as the implicit benchmark for what could exist again — and the question of why the modern equivalent doesn't.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Skunk Works](/books/skunk-works) — sister case study. Both are "what does great industrial R&D look like?" pieces. Bell Labs is the civilian analog.

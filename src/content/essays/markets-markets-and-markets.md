@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/markets-markets-and-markets"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [What's In a Valuation?](/essays/valuations), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/valuations">What's In a Valuation?</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/being-honest-about-intellectual-honesty">Being Honest About Intellectual Honesty</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Markets, Markets, and Markets](/images/markets-markets-and-markets-22d8bd71.png)
 

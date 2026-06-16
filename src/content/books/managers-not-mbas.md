@@ -15,7 +15,7 @@ key_takeaways_status: "written"
 One note: "the school of hard knocks" entrepreneur frame as the gap in MBA training — "this is what we could offer in helping with startup bureaucracy." Practitioner-knowledge as the actual scarce input.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Power Law](/books/the-power-law) — VC structure parallel.

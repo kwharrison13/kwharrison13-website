@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-apprenticeship-litmus-test"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Why Most VCs Suck At Talent](/essays/talent), [Fantasy Capital](/essays/fantasy-capital), [Eat What You Kill](/essays/eat-what-you-kill), [Little Sister Syndrome](/essays/little-sister-syndrome)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/talent">Why Most VCs Suck At Talent</a>, <a href="/essays/fantasy-capital">Fantasy Capital</a>, <a href="/essays/eat-what-you-kill">Eat What You Kill</a>, <a href="/essays/little-sister-syndrome">Little Sister Syndrome</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Apprenticeship Litmus Test](/images/the-apprenticeship-litmus-test-8a61097f.png)
 

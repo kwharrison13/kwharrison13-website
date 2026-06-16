@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/have-kids-or-dont-but-have-kids"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Historical Futurism](/essays/historical-futurism), [Embrace The Nuance](/essays/embrace-the-nuance)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/embrace-the-nuance">Embrace The Nuance</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Have Kids. Or Don't. But Have Kids.](/images/have-kids-or-dont-but-have-kids-e127f121.png)
 

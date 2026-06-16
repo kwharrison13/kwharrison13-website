@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/its-time-to-build-but-build-what"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Axis of Building](/essays/the-axis-of-building), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [Stewards of Capital](/essays/stewards-of-capital), [Surviving The Death of Venture Capital](/essays/surviving-the-death-of-venture-capital), [Where Have All The Good Ones Gone?](/essays/where-have-all-the-good-ones-gone), [The Renaissance of Rise and Grind](/essays/the-renaissance-of-rise-and-grind)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-axis-of-building">The Axis of Building</a>, <a href="/essays/the-rise-of-the-cash-man">The Rise of The Cash Man</a>, <a href="/essays/the-inescapable-debate-of-human-nature">The Inescapable Debate of Human Nature</a>, <a href="/essays/stewards-of-capital">Stewards of Capital</a>, <a href="/essays/surviving-the-death-of-venture-capital">Surviving The Death of Venture Capital</a>, <a href="/essays/where-have-all-the-good-ones-gone">Where Have All The Good Ones Gone?</a>, <a href="/essays/the-renaissance-of-rise-and-grind">The Renaissance of Rise and Grind</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for It's Time To Build... But Build What?](/images/its-time-to-build-but-build-what-9fd434e4.png)
 

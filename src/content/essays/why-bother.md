@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/why-bother"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Crime & Punishment](/books/crime-and-punishment)
-
-**Essays:** [What Is An Extraordinary Man?](/essays/what-is-an-extraordinary-man), [The Siren Song of Raising a Venture Fund](/essays/the-siren-song-of-raising-a-venture)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/crime-and-punishment">Crime & Punishment</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/what-is-an-extraordinary-man">What Is An Extraordinary Man?</a>, <a href="/essays/the-siren-song-of-raising-a-venture">The Siren Song of Raising a Venture Fund</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Why Bother?](/images/why-bother-a6f22e5a.png)
 

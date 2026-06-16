@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/back-to-the-future"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Science Fiction's Dueling Fates](/essays/science-fictions-dueling-fates), [Life Imitates Art](/essays/life-imitates-art), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what), [Historical Futurism](/essays/historical-futurism)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/science-fictions-dueling-fates">Science Fiction's Dueling Fates</a>, <a href="/essays/life-imitates-art">Life Imitates Art</a>, <a href="/essays/its-time-to-build-but-build-what">It's Time To Build... But Build What?</a>, <a href="/essays/historical-futurism">Historical Futurism</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Back To The Future](/images/back-to-the-future-31590085.png)
 

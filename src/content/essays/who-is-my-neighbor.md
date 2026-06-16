@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/who-is-my-neighbor"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [From Digital Sandbox To Digital Garden](/essays/from-digital-sandbox-to-digital-garden), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [The Unholy Trinity of Venture Capital](/essays/the-unholy-trinity-of-venture-capital), [Books 2.0](/essays/books-20), [Historical Futurism](/essays/historical-futurism), [The Renaissance of Rise and Grind](/essays/the-renaissance-of-rise-and-grind), [Embrace The Nuance](/essays/embrace-the-nuance)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/from-digital-sandbox-to-digital-garden">From Digital Sandbox To Digital Garden</a>, <a href="/essays/the-inescapable-debate-of-human-nature">The Inescapable Debate of Human Nature</a>, <a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a>, <a href="/essays/the-unholy-trinity-of-venture-capital">The Unholy Trinity of Venture Capital</a>, <a href="/essays/books-20">Books 2.0</a>, <a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/the-renaissance-of-rise-and-grind">The Renaissance of Rise and Grind</a>, <a href="/essays/embrace-the-nuance">Embrace The Nuance</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Who Is My Neighbor?](/images/who-is-my-neighbor-39272645.png)
 

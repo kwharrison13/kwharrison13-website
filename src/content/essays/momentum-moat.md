@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/momentum-moat"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Revisiting Competitive Moats](/essays/revisiting-competitive-moats), [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer), [King-Making vs. Taste-Making](/essays/king-making-vs-taste-making), [The Loudest Models (with Trace Cohen)](/essays/the-loudest-models-with-trace-cohen)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/revisiting-competitive-moats">Revisiting Competitive Moats</a>, <a href="/essays/cashkingmaker-or-killer">Cash—Kingmaker or Killer?</a>, <a href="/essays/king-making-vs-taste-making">King-Making vs. Taste-Making</a>, <a href="/essays/the-loudest-models-with-trace-cohen">The Loudest Models (with Trace Cohen)</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Momentum != Moat](/images/momentum-moat-abf97499.png)
 

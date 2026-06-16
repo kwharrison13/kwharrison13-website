@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-superhero-theory-of-defense"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Hits Business](/essays/the-hits-business)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-hits-business">The Hits Business</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Superhero Theory of Defense](/images/the-superhero-theory-of-defense-e0754c2d.png)
 

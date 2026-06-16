@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/what-is-an-investor"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Power Law: Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future)
-
-**Essays:** [Of Things That Matter Most](/essays/of-things-that-matter-most), [The Diligence That's Due](/essays/the-diligence-thats-due), [What's In a Valuation?](/essays/valuations), [The Productization of Venture Capital](/essays/productization), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-power-law-venture-capital-and-the-making-of-the-new-future">The Power Law: Venture Capital & the Making of the New Future</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/of-things-that-matter-most">Of Things That Matter Most</a>, <a href="/essays/the-diligence-thats-due">The Diligence That's Due</a>, <a href="/essays/valuations">What's In a Valuation?</a>, <a href="/essays/productization">The Productization of Venture Capital</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for What Is An Investor?](/images/what-is-an-investor-b92cbfde.png)
 

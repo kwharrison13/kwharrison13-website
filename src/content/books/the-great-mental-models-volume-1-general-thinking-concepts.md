@@ -28,7 +28,7 @@ Parrish's mental-models book read as a structured complement to the Munger mater
 A standalone observation worth flagging: "we embrace all truth, no matter the source" — the religious frame on the same epistemic openness mental models is implicitly trying to teach.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — direct progenitor. Parrish explicitly trying to organize what Munger argued for.

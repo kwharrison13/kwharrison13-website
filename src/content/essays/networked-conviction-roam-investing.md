@@ -5,13 +5,13 @@ tag: "Ideas"
 excerpt: "Investing, in simplest terms, is taking one finite resource and trying to allocate it to maximize for an ideal outcome. Whether you're allocating money, time, energy, or attention. Everyone is an allo..."
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city)
-
-**Essays:** [Investing 101 2.0](/essays/coming-soon)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/walt-disney-and-the-promise-of-progress-city">Walt Disney and the Promise of Progress City</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/coming-soon">Investing 101 2.0</a></span></div>
+</aside>
+<!-- connections-end -->
 
 Investing, in simplest terms, is taking one finite resource and trying to allocate it to maximize for an ideal outcome. Whether you're allocating money, time, energy, or attention. Everyone is an allocator of something. Investing is an opportunity to evaluate what you believe. To gain conviction. And then to act on that conviction.
 

@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-groucho-marx-mandate"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Trough of Feedback](/essays/the-trough-of-feedback)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-trough-of-feedback">The Trough of Feedback</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Groucho Marx Mandate](/images/the-groucho-marx-mandate-528c4e83.png)
 

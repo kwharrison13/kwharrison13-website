@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-1b-rorschach-test"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [Saying The Quiet Part Out Loud](/essays/saying-the-quiet-part-out-loud)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a>, <a href="/essays/saying-the-quiet-part-out-loud">Saying The Quiet Part Out Loud</a></span></div>
+</aside>
+<!-- connections-end -->
 
 I have three sons, but only two of them are conversational (so far). Of the two chatty ones, they approach life a little differently. Dax is a rule follower, always looking for the right answer. Jed, on the other hand? His life is lived through a lens that none of us can see. Imagination station is the only station his train stops at.
 

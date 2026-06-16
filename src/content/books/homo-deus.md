@@ -25,7 +25,7 @@ Harari's sequel to Sapiens, read with active religious counter-argument througho
 A standalone observation worth flagging: "religions that lose touch with the technological realities of the day forfeit their ability even to understand the questions being asked." Tagged as `Living Revelation` — the necessary religious response to historical change.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Sapiens](/books/sapiens) _(stub)_ — direct predecessor.

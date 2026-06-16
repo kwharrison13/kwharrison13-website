@@ -35,7 +35,7 @@ Brose's present-tense companion to Skunk Works — diagnosing how the US lost th
 The implicit thesis: this isn't a budget problem. It's an incentive-structure problem. Reward risk, kill bureaucracy, trust the customer to know the problem (not the solution), and the system fixes itself.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Skunk Works](/books/skunk-works) — sister book. The Skunk Works version is the historical setup; Kill Chain is the present-tense crisis. Read together for the full arc.

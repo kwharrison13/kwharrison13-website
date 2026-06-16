@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-tales-of-their-usefulness-have"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Productization of Venture Capital](/essays/productization), [Natural Selection Among Startups](/essays/natural-selection-among-startups), [Why Most VCs Suck At Talent](/essays/talent), [How can I be helpful vs. Is this helpful?](/essays/how-can-i-be-helpful-vs-is-this-helpful), [Renegade Spotlight: The General Partnership](/essays/thegp)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/productization">The Productization of Venture Capital</a>, <a href="/essays/natural-selection-among-startups">Natural Selection Among Startups</a>, <a href="/essays/talent">Why Most VCs Suck At Talent</a>, <a href="/essays/how-can-i-be-helpful-vs-is-this-helpful">How can I be helpful vs. Is this helpful?</a>, <a href="/essays/thegp">Renegade Spotlight: The General Partnership</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Tales of Usefulness Have Been Greatly Exaggerated](/images/the-tales-of-their-usefulness-have-c5b048e6.png)
 

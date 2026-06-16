@@ -22,7 +22,7 @@ Cowen and Gross's talent-evaluation book read as practical guidance with cross-r
 3. **Environment frames aspiration.** "Consider how much genius and achievement have been..." — environment as a multiplier or suppressor on raw ability.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Founders](/books/the-founders) — talent-vortex parallel; PayPal Mafia as Cowen-Gross case study.

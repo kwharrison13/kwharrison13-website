@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/2022-in-books"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Founders](/books/the-founders), [The Ride of a Lifetime](/books/the-ride-of-a-lifetime), [The Greatest Minds and Ideas of All Time](/books/the-greatest-minds-and-ideas-of-all-time)
-
-**Essays:** [Investing 101](/essays/investing-101), [Kids 3.0](/essays/kids-30), [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [What's In a Valuation?](/essays/valuations)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-founders">The Founders</a>, <a href="/books/the-ride-of-a-lifetime">The Ride of a Lifetime</a>, <a href="/books/the-greatest-minds-and-ideas-of-all-time">The Greatest Minds and Ideas of All Time</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/investing-101">Investing 101</a>, <a href="/essays/kids-30">Kids 3.0</a>, <a href="/essays/contrary-my-renegade-of-choice">Contrary: My Renegade of Choice</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/valuations">What's In a Valuation?</a></span></div>
+</aside>
+<!-- connections-end -->
 
 *I originally posted this [on my personal website](https://kwharrison13.com/ad17f7d516334a96b42ad8da486887e6) with links to my past reading lists and thoughts.*
 

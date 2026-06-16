@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/unions-unions-everywhere"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Smartest Kids in The World](/books/the-smartest-kids-in-the-world), [Amazon Unbound](/books/amazon-unbound)
-
-**Essays:** [Networked Conviction](/essays/roam-investing), [Learning To Dream](/essays/learning-to-dream), [Teamshares, Hold Co's, & Corporate Cities](/essays/teamshares-hold-cos-and-corporate), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what), [The Renaissance of Rise and Grind](/essays/the-renaissance-of-rise-and-grind), [Toil We Must](/essays/toil-we-must), [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening), [The Hits Business](/essays/the-hits-business), [Surviving The Death of Venture Capital](/essays/surviving-the-death-of-venture-capital), [The Bubble Brains of Silicon Valley](/essays/the-bubble-brains-of-venture-capital), [The Tail That Wags The Dog](/essays/the-tail-that-wags-the-dog), [The Value Cycle](/essays/the-value-cycle)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-smartest-kids-in-the-world">The Smartest Kids in The World</a>, <a href="/books/amazon-unbound">Amazon Unbound</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/roam-investing">Networked Conviction</a>, <a href="/essays/learning-to-dream">Learning To Dream</a>, <a href="/essays/teamshares-hold-cos-and-corporate">Teamshares, Hold Co's, & Corporate Cities</a>, <a href="/essays/its-time-to-build-but-build-what">It's Time To Build... But Build What?</a>, <a href="/essays/the-renaissance-of-rise-and-grind">The Renaissance of Rise and Grind</a>, <a href="/essays/toil-we-must">Toil We Must</a>, <a href="/essays/the-hardening-of-the-great-softening">The Hardening Of The Great Softening</a>, <a href="/essays/the-hits-business">The Hits Business</a>, <a href="/essays/surviving-the-death-of-venture-capital">Surviving The Death of Venture Capital</a>, <a href="/essays/the-bubble-brains-of-venture-capital">The Bubble Brains of Silicon Valley</a>, <a href="/essays/the-tail-that-wags-the-dog">The Tail That Wags The Dog</a>, <a href="/essays/the-value-cycle">The Value Cycle</a></span></div>
+</aside>
+<!-- connections-end -->
 
 *I’m quite late today on two accounts. First? I’m about 27 hours later than usual because I was enjoying a weekend with the very talented community in Contrary at our annual retreat. So this piece is dedicated to all those folks whose company I got to enjoy this weekend.*
 

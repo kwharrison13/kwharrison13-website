@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/compensation-conversations"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [What's In a Valuation?](/essays/valuations), [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice), [The Talent Vortex: Mafias and Magnets](/essays/talent-vortex), [Building a Product Engine](/essays/building-a-product-engine)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/valuations">What's In a Valuation?</a>, <a href="/essays/contrary-my-renegade-of-choice">Contrary: My Renegade of Choice</a>, <a href="/essays/talent-vortex">The Talent Vortex: Mafias and Magnets</a>, <a href="/essays/building-a-product-engine">Building a Product Engine</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Compensation Conversations](/images/compensation-conversations-6348256c.png)
 

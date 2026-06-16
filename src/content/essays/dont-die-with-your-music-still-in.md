@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/dont-die-with-your-music-still-in"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [My Cup Runneth Over](/essays/my-cup-runneth-over)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/my-cup-runneth-over">My Cup Runneth Over</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Don't Die With Your Music Still in You](/images/dont-die-with-your-music-still-in-1d65fde9.png)
 

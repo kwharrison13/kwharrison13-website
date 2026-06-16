@@ -24,7 +24,7 @@ Peter Robison's Boeing book read primarily as Anduril-context — Boeing's colla
 A side thread: same era, same forces produced both Boeing's decline and McNamara-era defense bloat. The Skunk Works / The Kill Chain / Chip War trilogy and Flying Blind read as a single argument about American industrial decay.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism) — direct thesis sibling. Welch-era financialization applied here.

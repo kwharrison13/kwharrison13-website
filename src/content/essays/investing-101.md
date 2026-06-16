@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/investing-101"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Book of Mormon](/books/the-book-of-mormon)
-
-**Essays:** [Contrary Research](/essays/contrary-research), [A Latticework of Knowledge](/essays/a-latticework-of-knowledge), [My Style of Panic Writing](/essays/my-style-of-panic-writing), [“Build What’s Fundable”](/essays/build-whats-fundable), [VCs Beyond The Meme](/essays/vcs-beyond-the-meme)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-book-of-mormon">The Book of Mormon</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/a-latticework-of-knowledge">A Latticework of Knowledge</a>, <a href="/essays/my-style-of-panic-writing">My Style of Panic Writing</a>, <a href="/essays/build-whats-fundable">“Build What’s Fundable”</a>, <a href="/essays/vcs-beyond-the-meme">VCs Beyond The Meme</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Investing 101](/images/investing-101-eb9f1063.png)
 

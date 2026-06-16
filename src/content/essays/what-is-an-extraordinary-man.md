@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/what-is-an-extraordinary-man"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Courage To Be Disliked](/books/the-courage-to-be-disliked), [Crime & Punishment](/books/crime-and-punishment), [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism), [Skunk Works](/books/skunk-works)
-
-**Essays:** [The Existential Dread of Cognitive Dissonance](/essays/the-existential-dread-of-cognitive), [Toil We Must](/essays/toil-we-must), [The Renaissance of Rise and Grind](/essays/the-renaissance-of-rise-and-grind), [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening), [The Rising Generation](/essays/the-rising-generation), [Unions, Unions Everywhere](/essays/unions-unions-everywhere), [Seek Sunlight](/essays/seek-sunlight), [Cultivating Cults](/essays/cultivating-cults), [Performative Failure](/essays/performative-failure)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-courage-to-be-disliked">The Courage To Be Disliked</a>, <a href="/books/crime-and-punishment">Crime & Punishment</a>, <a href="/books/the-man-who-broke-capitalism">The Man Who Broke Capitalism</a>, <a href="/books/skunk-works">Skunk Works</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-existential-dread-of-cognitive">The Existential Dread of Cognitive Dissonance</a>, <a href="/essays/toil-we-must">Toil We Must</a>, <a href="/essays/the-renaissance-of-rise-and-grind">The Renaissance of Rise and Grind</a>, <a href="/essays/the-hardening-of-the-great-softening">The Hardening Of The Great Softening</a>, <a href="/essays/the-rising-generation">The Rising Generation</a>, <a href="/essays/unions-unions-everywhere">Unions, Unions Everywhere</a>, <a href="/essays/seek-sunlight">Seek Sunlight</a>, <a href="/essays/cultivating-cults">Cultivating Cults</a>, <a href="/essays/performative-failure">Performative Failure</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Wanderer above the Sea of Fog, Caspar David Friedrich](/images/what-is-an-extraordinary-man-247043d5.png)
 

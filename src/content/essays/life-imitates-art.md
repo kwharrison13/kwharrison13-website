@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/life-imitates-art"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [I, Robot](/books/i-robot)
-
-**Essays:** [Historical Futurism](/essays/historical-futurism), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/i-robot">I, Robot</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/its-time-to-build-but-build-what">It's Time To Build... But Build What?</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Life Imitates Art](/images/life-imitates-art-656cc762.png)
 

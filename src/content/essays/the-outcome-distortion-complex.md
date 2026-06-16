@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-outcome-distortion-complex"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Battle Hymn of The Tiger Mother](/books/battle-hymn-of-the-tiger-mother)
-
-**Essays:** [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/battle-hymn-of-the-tiger-mother">Battle Hymn of The Tiger Mother</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/cashkingmaker-or-killer">Cash—Kingmaker or Killer?</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Outcome Distortion Complex](/images/the-outcome-distortion-complex-36a397b9.png)
 

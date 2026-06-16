@@ -24,7 +24,7 @@ B.H. Roberts's biography of the third LDS president read with attention to the a
 A standalone observation: "I was not born a slave! I cannot, will not be a slave." Taylor's freedom-instinct as the structural disposition that made him receptive to Mormonism's then-radical agency claims.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — same era, same circle.

@@ -29,7 +29,7 @@ Bill Gates's climate framework read with a recurring `Nuclear Energy` tag (7 of 
 A standalone curiosity worth flagging: the speculation about battery-laden space stations dropping batteries via Falcon-style remote landings. Speculative but the kind of unconstrained-physical-engineering thinking the climate problem actually rewards.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Skunk Works](/books/skunk-works) — engineering-as-mission frame applied to a different problem.

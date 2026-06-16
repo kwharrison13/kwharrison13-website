@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/surviving-the-death-of-venture-capital"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [All According To The [Terrible] Plan](/essays/according-to-plan), [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice), [What Is An Investor?](/essays/what-is-an-investor), [The Diligence That's Due](/essays/the-diligence-thats-due), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [Saying The Quiet Part Out Loud](/essays/saying-the-quiet-part-out-loud), [VC Contagion](/essays/vc-contagion), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype), [The Mysteries of an Economic Engine](/essays/the-mysteries-of-an-economic-engine)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/according-to-plan">All According To The [Terrible] Plan</a>, <a href="/essays/contrary-my-renegade-of-choice">Contrary: My Renegade of Choice</a>, <a href="/essays/what-is-an-investor">What Is An Investor?</a>, <a href="/essays/the-diligence-thats-due">The Diligence That's Due</a>, <a href="/essays/institutionalized-belief-in-the-greater">Institutionalized Belief In The Greater Fool</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a>, <a href="/essays/saying-the-quiet-part-out-loud">Saying The Quiet Part Out Loud</a>, <a href="/essays/vc-contagion">VC Contagion</a>, <a href="/essays/blaspheming-against-the-hype">Blaspheming Against The Hype</a>, <a href="/essays/the-mysteries-of-an-economic-engine">The Mysteries of an Economic Engine</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Surviving The Death of Venture Capital](/images/surviving-the-death-of-venture-capital-a7fa0c45.png)
 

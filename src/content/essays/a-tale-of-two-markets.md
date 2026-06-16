@@ -5,13 +5,13 @@ tag: "Venture Capital"
 excerpt: "In the late 80s, early 90s my Dad was in almost exactly the same phase of life as I am now. We're both in our 30s and about to have our 3rd kids. In just that generation the world has changed dramatic..."
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Road](/books/the-road)
-
-**Essays:** [What's In a Valuation?](/essays/valuations), [The Productization of Venture Capital](/essays/productization)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-road">The Road</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/valuations">What's In a Valuation?</a>, <a href="/essays/productization">The Productization of Venture Capital</a></span></div>
+</aside>
+<!-- connections-end -->
 
 In the late 80s, early 90s my Dad was in almost exactly the same phase of life as I am now. We're both in our 30s and about to have our 3rd kids. In just that generation the world has changed dramatically. [Technology went from 9% to 20%](https://www.dws.com/globalassets/merill-lynch/pdfs/cio_view_sp_500_sector_composition.pdf) of the S&P 500 between 1980 and 2020. In [2011](https://future.a16z.com/software-is-eating-the-world/) we realized "software was eating the world" and [in 2021 we decided](https://pitchbook.com/news/articles/us-unicorns-2021-venture-capital-valuations) we'll see unicorns as often as we see cows on a roadtrip. Technology has become inevitable in almost every facet of our lives.
 

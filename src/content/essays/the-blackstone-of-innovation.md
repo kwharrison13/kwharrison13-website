@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-blackstone-of-innovation"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [What It Takes](/books/what-it-takes), [Lock In](/books/lock-in)
-
-**Essays:** [Renegade Spotlight: Homebrew](/essays/homebrew), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Productization of Venture Capital](/essays/productization), [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice), [Contrary Research](/essays/contrary-research)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/what-it-takes">What It Takes</a>, <a href="/books/lock-in">Lock In</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/homebrew">Renegade Spotlight: Homebrew</a>, <a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/productization">The Productization of Venture Capital</a>, <a href="/essays/contrary-my-renegade-of-choice">Contrary: My Renegade of Choice</a>, <a href="/essays/contrary-research">Contrary Research</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Blackstone of Innovation](/images/the-blackstone-of-innovation-346632b9.png)
 

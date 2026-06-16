@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/venture-capital-unbundled"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Power Law: Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future)
-
-**Essays:** [Little Sister Syndrome](/essays/little-sister-syndrome), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Unholy Trinity of Venture Capital](/essays/the-unholy-trinity-of-venture-capital), [Revisiting The Death of a Venture Fund](/essays/revisiting-the-death-of-a-venture), [Renegade Spotlight: Homebrew](/essays/homebrew), [Playing Different (Stupider) Games](/essays/player-different-stupider-games)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-power-law-venture-capital-and-the-making-of-the-new-future">The Power Law: Venture Capital & the Making of the New Future</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/little-sister-syndrome">Little Sister Syndrome</a>, <a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a>, <a href="/essays/the-unholy-trinity-of-venture-capital">The Unholy Trinity of Venture Capital</a>, <a href="/essays/revisiting-the-death-of-a-venture">Revisiting The Death of a Venture Fund</a>, <a href="/essays/homebrew">Renegade Spotlight: Homebrew</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Venture Capital Unbundled](/images/venture-capital-unbundled-17cfd838.png)
 

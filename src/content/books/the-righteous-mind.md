@@ -21,7 +21,7 @@ Jonathan Haidt's moral-psychology book read with explicit cross-reference to the
 2. **Atheism as a luxury of efficient society.** "Society operates so efficiently that communities are preferences rather than necessity." A specific structural explanation for the post-religious turn that doesn't require treating religion as merely irrational.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Sapiens](/books/sapiens) _(stub)_ — directly cross-referenced.

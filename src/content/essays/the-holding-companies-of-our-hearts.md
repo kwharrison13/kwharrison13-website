@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-holding-companies-of-our-hearts"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism)
-
-**Essays:** [Networked Conviction](/essays/roam-investing), [Of Things That Matter Most](/essays/of-things-that-matter-most), [Teamshares, Hold Co's, & Corporate Cities](/essays/teamshares-hold-cos-and-corporate), [The Value Chain of Capital](/essays/the-value-chain-of-capital)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-man-who-broke-capitalism">The Man Who Broke Capitalism</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/roam-investing">Networked Conviction</a>, <a href="/essays/of-things-that-matter-most">Of Things That Matter Most</a>, <a href="/essays/teamshares-hold-cos-and-corporate">Teamshares, Hold Co's, & Corporate Cities</a>, <a href="/essays/the-value-chain-of-capital">The Value Chain of Capital</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Holding Companies of Our Hearts](/images/the-holding-companies-of-our-hearts-4e1e981f.png)
 

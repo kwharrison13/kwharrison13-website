@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/even-more-a-father"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Decades](/essays/decades), [Kids 3.0](/essays/kids-30), [Becoming An Allocator](/essays/becoming-an-allocator)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/decades">Decades</a>, <a href="/essays/kids-30">Kids 3.0</a>, <a href="/essays/becoming-an-allocator">Becoming An Allocator</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Even More a Father](/images/even-more-a-father-86298e35.png)
 

@@ -30,7 +30,7 @@ Taleb's foundational book on tail risk read with a recurring focus on epistemic 
 The throughline: most of what humans confidently know is wrong in a way that's invisible until the moment it matters most, and the right response isn't more confidence but more optionality.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Death of Expertise](/books/the-death-of-expertise) — directly cross-referenced in the notes. Taleb supplies the structural argument.

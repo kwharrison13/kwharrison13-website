@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-gospel-of-ark-invest"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [On Hype And Hot Air](/essays/on-hype-and-hot-air)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/on-hype-and-hot-air">On Hype And Hot Air</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Shoutout to my brother Chad, who is like my Midjourney chatbot when I need more complex images. If you're looking to buy3D printed Dungeons & Dragons paraphernalia, he's your guy!](/images/the-gospel-of-ark-invest-539d80b7.png)
 

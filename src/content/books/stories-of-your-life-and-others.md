@@ -15,7 +15,7 @@ key_takeaways_status: "written"
 One note: the heptapods' free-but-bound paradox tagged `Pluribus` — Ted Chiang's frame on agency and predestination as not-mutually-exclusive. Resonates with the "opposition in all things" thread from Homo Deus.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Homo Deus](/books/homo-deus) — agency-and-determinism overlap.

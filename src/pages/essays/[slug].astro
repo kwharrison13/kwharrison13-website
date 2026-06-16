@@ -71,4 +71,55 @@ const jsonLd = {
     text-underline-offset: 2px;
   }
   .originally-published a:hover { text-decoration-color: var(--accent); }
+
+  /* Wiki Connections callout — :global() because the aside is rendered
+     by markdown <Content />, which scoped class hashing doesn't reach. */
+  .prose :global(.wiki-connections) {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    border-radius: 8px;
+    padding: 14px 18px 16px;
+    margin: 0 0 32px;
+  }
+  .prose :global(.wiki-connections-label) {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    font-weight: 600;
+    color: var(--text-tertiary);
+    margin-bottom: 10px;
+  }
+  .prose :global(.wiki-connections-row) {
+    font-size: 14.5px;
+    line-height: 1.6;
+    color: var(--text-secondary);
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .prose :global(.wiki-connections-row + .wiki-connections-row) {
+    margin-top: 6px;
+  }
+  .prose :global(.wiki-connections-kind) {
+    flex: 0 0 auto;
+    font-weight: 600;
+    color: var(--text);
+    font-size: 13px;
+    min-width: 48px;
+  }
+  .prose :global(.wiki-connections-items) {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+  .prose :global(.wiki-connections a) {
+    color: var(--accent);
+    text-decoration: underline;
+    text-decoration-color: color-mix(in srgb, var(--accent) 30%, transparent);
+    text-underline-offset: 2px;
+  }
+  .prose :global(.wiki-connections a:hover) {
+    text-decoration-color: var(--accent);
+  }
 </style>

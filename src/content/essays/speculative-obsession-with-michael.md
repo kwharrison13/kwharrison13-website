@@ -8,11 +8,12 @@ type: "podcast"
 substack_url: "https://investing101.substack.com/p/speculative-obsession-with-michael"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Contrary Research](/essays/contrary-research), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Speculative Obsession (with Michael Dempsey)](/images/speculative-obsession-with-michael-4146cb1f.png)
 

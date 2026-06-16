@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/being-honest-about-intellectual-honesty"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [So You've Been Publicly Shamed](/books/so-you-ve-been-publicly-shamed)
-
-**Essays:** [The Storytelling of Investing](/essays/the-storytelling-of-investing), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [Toil We Must](/essays/toil-we-must)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/so-you-ve-been-publicly-shamed">So You've Been Publicly Shamed</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/the-rise-of-the-cash-man">The Rise of The Cash Man</a>, <a href="/essays/toil-we-must">Toil We Must</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![The battle between intellectual honesty and dishonesty in meme form](/images/being-honest-about-intellectual-honesty-f3f5bbf9.png)
 

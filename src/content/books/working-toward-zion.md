@@ -29,7 +29,7 @@ Lucas and Woodworth's LDS-economics book read with a pointedly practical eye —
 A side thread worth flagging: the "you don't start by donating all your property — line upon line" frame on consecration. Practical commitment over heroic gestures.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — shareholder-value tension. Buffett's discipline is the secular version of what this book argues for theologically.

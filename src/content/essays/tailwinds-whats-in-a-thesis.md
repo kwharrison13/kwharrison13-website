@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/tailwinds-whats-in-a-thesis"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Index Bets: From Products to People](/essays/index-bets-from-products-to-people), [Networked Conviction](/essays/roam-investing)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/index-bets-from-products-to-people">Index Bets: From Products to People</a>, <a href="/essays/roam-investing">Networked Conviction</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Tailwinds: What's in a Thesis?](/images/tailwinds-whats-in-a-thesis-29916718.png)
 

@@ -29,7 +29,7 @@ Clear's book read with explicit cross-references to other operating frameworks i
 A side observation: the secret to getting results that last is to never stop making improvements — which pairs with the Munger compounding frame: don't interrupt compounding unnecessarily.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Discipline Is Destiny](/books/discipline-is-destiny) — direct pair. Stoic discipline as the values-frame; atomic habits as the mechanism.

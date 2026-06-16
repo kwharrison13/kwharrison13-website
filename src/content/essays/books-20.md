@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/books-20"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Working in Public](/books/working-in-public), [Snow Crash](/books/snow-crash)
-
-**Essays:** [Long Enough To Matter](/essays/long-enough-to-matter), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [Eat What You Kill](/essays/eat-what-you-kill), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [Open-Source Knowledge](/essays/open-source-knowledge), [Networked Conviction](/essays/roam-investing), [What's In a Post-Mortem?](/essays/whats-in-a-post-mortem), [The Meme Economy](/essays/the-meme-economy), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what), [Building the Global Knowledge Graph](/essays/building-the-global-knowledge-graph)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/working-in-public">Working in Public</a>, <a href="/books/snow-crash">Snow Crash</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/long-enough-to-matter">Long Enough To Matter</a>, <a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a>, <a href="/essays/eat-what-you-kill">Eat What You Kill</a>, <a href="/essays/institutionalized-belief-in-the-greater">Institutionalized Belief In The Greater Fool</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a>, <a href="/essays/open-source-knowledge">Open-Source Knowledge</a>, <a href="/essays/roam-investing">Networked Conviction</a>, <a href="/essays/whats-in-a-post-mortem">What's In a Post-Mortem?</a>, <a href="/essays/the-meme-economy">The Meme Economy</a>, <a href="/essays/its-time-to-build-but-build-what">It's Time To Build... But Build What?</a>, <a href="/essays/building-the-global-knowledge-graph">Building the Global Knowledge Graph</a></span></div>
+</aside>
+<!-- connections-end -->
 
 *A few weeks ago, [I wrote about](https://investing1012dot0.substack.com/p/long-enough-to-matter) ~20 different ideas that I've been thinking about touching on this year. Rather than start to randomly prioritize, I thought I'd ask my readers (you) what you were most interested in. [The Puritans of Venture Capital](https://investing1012dot0.substack.com/p/the-puritans-of-venture-capital) was the top pick. Second up? This one:*
 

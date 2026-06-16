@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/panic-writing"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Having a Conversation With Yourself: 2023](/essays/having-a-conversation-with-yourself-f29), [On Writing](/essays/on-writing), [Becoming An Allocator](/essays/becoming-an-allocator), [The Value Chain of Capital](/essays/the-value-chain-of-capital), [Oops, I Did It Again](/essays/oops-i-did-it-again), [Surviving The Death of Venture Capital](/essays/surviving-the-death-of-venture-capital), [Books 2.0](/essays/books-20)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/having-a-conversation-with-yourself-f29">Having a Conversation With Yourself: 2023</a>, <a href="/essays/on-writing">On Writing</a>, <a href="/essays/becoming-an-allocator">Becoming An Allocator</a>, <a href="/essays/the-value-chain-of-capital">The Value Chain of Capital</a>, <a href="/essays/oops-i-did-it-again">Oops, I Did It Again</a>, <a href="/essays/surviving-the-death-of-venture-capital">Surviving The Death of Venture Capital</a>, <a href="/essays/books-20">Books 2.0</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Panic Writing](/images/panic-writing-49c03fbc.png)
 

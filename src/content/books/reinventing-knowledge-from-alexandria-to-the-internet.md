@@ -31,7 +31,7 @@ McNeely & Wolverton's institutional history reads as a present-day diagnostic. S
 6. **Apprenticeship and active engagement against the death of expertise.** Pietists vs. shallow extensive readers. "Learning by teaching." The university as a natural network node. Specialization producing "I know a lot about a little." An implicit critique of vocational/quantitative metrics replacing meaningful pedagogy.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Death of Expertise](/books/the-death-of-expertise) — directly cross-referenced. The "I know nothing → I know a little → I know a lot about a little" formula is an attempt to fit Nichols's argument into the historical arc McNeely traces.

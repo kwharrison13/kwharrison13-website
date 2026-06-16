@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/2025-in-books"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Black Swan](/books/the-black-swan), [Morning Star](/books/morning-star), [Crime & Punishment](/books/crime-and-punishment), [The Time Machine](/books/the-time-machine), [Flying Blind](/books/flying-blind), [Foundation & Empire](/books/foundation-and-empire), [Artificial Condition](/books/artificial-condition), [American Zion](/books/american-zion), [Dark Age](/books/dark-age), [System Collapse](/books/system-collapse), [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism), [Fugitive Telemetry](/books/fugitive-telemetry), [Wind and Truth](/books/wind-and-truth), [Story of Your Life](/books/story-of-your-life), [How To Live](/books/how-to-live), [Sunrise on the Reaping](/books/sunrise-on-the-reaping), [Iron Gold](/books/iron-gold), [Project Hail Mary](/books/project-hail-mary), [Exit Strategy](/books/exit-strategy), [Network Effect](/books/network-effect), [Golden Son](/books/golden-son), [The Courage To Be Disliked](/books/the-courage-to-be-disliked), [Red Rising](/books/red-rising), [The Book of Mormon](/books/the-book-of-mormon), [Rogue Protocol](/books/rogue-protocol)
-
-**Essays:** [2024 in Books](/essays/2024-in-books), [Unions, Unions Everywhere](/essays/unions-unions-everywhere), [Historical Futurism](/essays/historical-futurism)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-black-swan">The Black Swan</a>, <a href="/books/morning-star">Morning Star</a>, <a href="/books/crime-and-punishment">Crime & Punishment</a>, <a href="/books/the-time-machine">The Time Machine</a>, <a href="/books/flying-blind">Flying Blind</a>, <a href="/books/foundation-and-empire">Foundation & Empire</a>, <a href="/books/artificial-condition">Artificial Condition</a>, <a href="/books/american-zion">American Zion</a>, <a href="/books/dark-age">Dark Age</a>, <a href="/books/system-collapse">System Collapse</a>, <a href="/books/the-man-who-broke-capitalism">The Man Who Broke Capitalism</a>, <a href="/books/fugitive-telemetry">Fugitive Telemetry</a>, <a href="/books/wind-and-truth">Wind and Truth</a>, <a href="/books/story-of-your-life">Story of Your Life</a>, <a href="/books/how-to-live">How To Live</a>, <a href="/books/sunrise-on-the-reaping">Sunrise on the Reaping</a>, <a href="/books/iron-gold">Iron Gold</a>, <a href="/books/project-hail-mary">Project Hail Mary</a>, <a href="/books/exit-strategy">Exit Strategy</a>, <a href="/books/network-effect">Network Effect</a>, <a href="/books/golden-son">Golden Son</a>, <a href="/books/the-courage-to-be-disliked">The Courage To Be Disliked</a>, <a href="/books/red-rising">Red Rising</a>, <a href="/books/the-book-of-mormon">The Book of Mormon</a>, <a href="/books/rogue-protocol">Rogue Protocol</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/2024-in-books">2024 in Books</a>, <a href="/essays/unions-unions-everywhere">Unions, Unions Everywhere</a>, <a href="/essays/historical-futurism">Historical Futurism</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for 2025 in Books](/images/2025-in-books-0725aca4.png)
 

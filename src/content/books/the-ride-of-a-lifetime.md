@@ -24,7 +24,7 @@ Bob Iger's Disney memoir read with explicit cross-reference to the Lily Pads of 
 A specific aphorism worth holding: "Don't say 'this sucks,' say 'this is how this could be better.'" The Relentless Pursuit of Perfection framing as a daily operating practice.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) _(stub)_ — same company, different era; complementary reads.

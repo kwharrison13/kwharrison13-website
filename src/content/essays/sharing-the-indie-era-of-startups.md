@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/sharing-the-indie-era-of-startups"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [Why Most VCs Suck At Talent](/essays/talent), [Fantasy Capital](/essays/fantasy-capital), [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty), [Eat What You Kill](/essays/eat-what-you-kill), [Building an Actual Unicorn](/essays/building-an-actual-unicorn), [Controlling Your Own Destiny](/essays/controlling-your-own-destiny)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-inescapable-debate-of-human-nature">The Inescapable Debate of Human Nature</a>, <a href="/essays/talent">Why Most VCs Suck At Talent</a>, <a href="/essays/fantasy-capital">Fantasy Capital</a>, <a href="/essays/being-honest-about-intellectual-honesty">Being Honest About Intellectual Honesty</a>, <a href="/essays/eat-what-you-kill">Eat What You Kill</a>, <a href="/essays/building-an-actual-unicorn">Building an Actual Unicorn</a>, <a href="/essays/controlling-your-own-destiny">Controlling Your Own Destiny</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Sharing The Indie Era of Startups](/images/sharing-the-indie-era-of-startups-f582444a.webp)
 

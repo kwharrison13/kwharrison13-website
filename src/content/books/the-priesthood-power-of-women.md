@@ -16,7 +16,7 @@ key_takeaways_status: "written"
 One note: Joseph Smith's Relief Society purpose as "to save souls" (not just relieve poverty). Linked to Bishop Daniel's "alleviate suffering" framing — the wider purpose of welfare work as ultimately soteriological.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [[Working Toward

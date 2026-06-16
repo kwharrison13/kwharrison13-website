@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/loudest-or-proudest"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Open-Source Knowledge](/essays/open-source-knowledge), [Learning To Dream](/essays/learning-to-dream), [The Meme Economy](/essays/the-meme-economy), [Historical Futurism](/essays/historical-futurism), [The Bubble Brains of Silicon Valley](/essays/the-bubble-brains-of-venture-capital), [The Glass-Half War: Empty or Full?](/essays/the-glass-half-war-empty-or-full), [Oh Say, What is Truth?](/essays/oh-say-what-is-truth), [Cultivating Cults](/essays/cultivating-cults), [The Hype Cycles of Venture Capital](/essays/the-hype-cycles-of-venture-capital), [Updating The Hype Cycle](/essays/updating-the-hype-cycle), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype), [On Hype And Hot Air](/essays/on-hype-and-hot-air), [Hype Deflation & Inflation](/essays/hype-deflation-and-inflation), [The Talent Vortex: Mafias and Magnets](/essays/talent-vortex), [The Gospel of ARK Invest](/essays/the-gospel-of-ark-invest), [Contrary Research](/essays/contrary-research)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/open-source-knowledge">Open-Source Knowledge</a>, <a href="/essays/learning-to-dream">Learning To Dream</a>, <a href="/essays/the-meme-economy">The Meme Economy</a>, <a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/the-bubble-brains-of-venture-capital">The Bubble Brains of Silicon Valley</a>, <a href="/essays/the-glass-half-war-empty-or-full">The Glass-Half War: Empty or Full?</a>, <a href="/essays/oh-say-what-is-truth">Oh Say, What is Truth?</a>, <a href="/essays/cultivating-cults">Cultivating Cults</a>, <a href="/essays/the-hype-cycles-of-venture-capital">The Hype Cycles of Venture Capital</a>, <a href="/essays/updating-the-hype-cycle">Updating The Hype Cycle</a>, <a href="/essays/blaspheming-against-the-hype">Blaspheming Against The Hype</a>, <a href="/essays/on-hype-and-hot-air">On Hype And Hot Air</a>, <a href="/essays/hype-deflation-and-inflation">Hype Deflation & Inflation</a>, <a href="/essays/talent-vortex">The Talent Vortex: Mafias and Magnets</a>, <a href="/essays/the-gospel-of-ark-invest">The Gospel of ARK Invest</a>, <a href="/essays/contrary-research">Contrary Research</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Loudest or Proudest](/images/loudest-or-proudest-c7299bc2.png)
 

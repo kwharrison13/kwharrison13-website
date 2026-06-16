@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-bubble-brains-of-venture-capital"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Learnable Empathy](/essays/learnable-empathy), [Dreaming Of Dry Powder](/essays/dreaming-of-dry-powder), [The Value Chain of Capital](/essays/the-value-chain-of-capital), [The Professionalization of Startups](/essays/the-professionalization-of-startups), [The Meme Economy](/essays/the-meme-economy), [All According To The [Terrible] Plan](/essays/according-to-plan), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Controlling Your Own Destiny](/essays/controlling-your-own-destiny), [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty), [What's In a Valuation?](/essays/valuations), [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer), [Fantasy Capital](/essays/fantasy-capital), [Learning To Dream](/essays/learning-to-dream), [Open-Source Knowledge](/essays/open-source-knowledge), [VC Contagion](/essays/vc-contagion), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [Surviving The Death of Venture Capital](/essays/surviving-the-death-of-venture-capital)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/learnable-empathy">Learnable Empathy</a>, <a href="/essays/dreaming-of-dry-powder">Dreaming Of Dry Powder</a>, <a href="/essays/the-value-chain-of-capital">The Value Chain of Capital</a>, <a href="/essays/the-professionalization-of-startups">The Professionalization of Startups</a>, <a href="/essays/the-meme-economy">The Meme Economy</a>, <a href="/essays/according-to-plan">All According To The [Terrible] Plan</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/controlling-your-own-destiny">Controlling Your Own Destiny</a>, <a href="/essays/being-honest-about-intellectual-honesty">Being Honest About Intellectual Honesty</a>, <a href="/essays/valuations">What's In a Valuation?</a>, <a href="/essays/cashkingmaker-or-killer">Cash—Kingmaker or Killer?</a>, <a href="/essays/fantasy-capital">Fantasy Capital</a>, <a href="/essays/learning-to-dream">Learning To Dream</a>, <a href="/essays/open-source-knowledge">Open-Source Knowledge</a>, <a href="/essays/vc-contagion">VC Contagion</a>, <a href="/essays/blaspheming-against-the-hype">Blaspheming Against The Hype</a>, <a href="/essays/institutionalized-belief-in-the-greater">Institutionalized Belief In The Greater Fool</a>, <a href="/essays/surviving-the-death-of-venture-capital">Surviving The Death of Venture Capital</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Bubble Brains of Silicon Valley](/images/the-bubble-brains-of-venture-capital-5cd6edd8.png)
 

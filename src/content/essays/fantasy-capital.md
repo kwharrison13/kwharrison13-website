@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/fantasy-capital"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [What's In a Valuation?](/essays/valuations), [The Renegades of Venture Capital](/essays/the-renegades-of-venture-capital), [Renegade Spotlight: Synthesis](/essays/renegade-spotlight-synthesis), [The Talent Vortex: Mafias and Magnets](/essays/talent-vortex), [Renegade Spotlight: Paradigm](/essays/renegade-spotlight-paradigm), [Why Most VCs Suck At Talent](/essays/talent)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/valuations">What's In a Valuation?</a>, <a href="/essays/the-renegades-of-venture-capital">The Renegades of Venture Capital</a>, <a href="/essays/renegade-spotlight-synthesis">Renegade Spotlight: Synthesis</a>, <a href="/essays/talent-vortex">The Talent Vortex: Mafias and Magnets</a>, <a href="/essays/renegade-spotlight-paradigm">Renegade Spotlight: Paradigm</a>, <a href="/essays/talent">Why Most VCs Suck At Talent</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Fantasy Capital](/images/fantasy-capital-813b9896.png)
 

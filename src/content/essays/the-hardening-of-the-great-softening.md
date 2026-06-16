@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-hardening-of-the-great-softening"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Pace of FOMO Cycles](/essays/the-pace-of-fomo-cycles), [Toil We Must](/essays/toil-we-must), [The Renaissance of Rise and Grind](/essays/the-renaissance-of-rise-and-grind), [Driving Your Own Train](/essays/driving-your-own-train), [The Tales of Usefulness Have Been Greatly Exaggerated](/essays/the-tales-of-their-usefulness-have), [The Glass-Half War: Empty or Full?](/essays/the-glass-half-war-empty-or-full), [The Non-Zero-Sum Game of Ambition](/essays/the-non-zero-sum-game-of-ambition), [Oh Say, What is Truth?](/essays/oh-say-what-is-truth), [Life Imitates Art](/essays/life-imitates-art), [The Existential Dread of Cognitive Dissonance](/essays/the-existential-dread-of-cognitive), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [The Tail That Wags The Dog](/essays/the-tail-that-wags-the-dog), [Controlling Your Own Destiny](/essays/controlling-your-own-destiny)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-pace-of-fomo-cycles">The Pace of FOMO Cycles</a>, <a href="/essays/toil-we-must">Toil We Must</a>, <a href="/essays/the-renaissance-of-rise-and-grind">The Renaissance of Rise and Grind</a>, <a href="/essays/driving-your-own-train">Driving Your Own Train</a>, <a href="/essays/the-tales-of-their-usefulness-have">The Tales of Usefulness Have Been Greatly Exaggerated</a>, <a href="/essays/the-glass-half-war-empty-or-full">The Glass-Half War: Empty or Full?</a>, <a href="/essays/the-non-zero-sum-game-of-ambition">The Non-Zero-Sum Game of Ambition</a>, <a href="/essays/oh-say-what-is-truth">Oh Say, What is Truth?</a>, <a href="/essays/life-imitates-art">Life Imitates Art</a>, <a href="/essays/the-existential-dread-of-cognitive">The Existential Dread of Cognitive Dissonance</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a>, <a href="/essays/the-tail-that-wags-the-dog">The Tail That Wags The Dog</a>, <a href="/essays/controlling-your-own-destiny">Controlling Your Own Destiny</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Hardening Of The Great Softening](/images/the-hardening-of-the-great-softening-bae5162b.png)
 

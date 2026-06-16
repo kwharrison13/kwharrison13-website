@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/clarity-of-thought"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [How To Take Smart Notes](/books/how-to-take-smart-notes)
-
-**Essays:** [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism), [The Storytelling of Investing](/essays/the-storytelling-of-investing)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/how-to-take-smart-notes">How To Take Smart Notes</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-inescapable-debate-of-human-nature">The Inescapable Debate of Human Nature</a>, <a href="/essays/conviction-led-contrarianism">Conviction-Led Contrarianism</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Clarity of Thought](/images/clarity-of-thought-1338f4fe.png)
 

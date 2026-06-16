@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/hype-deflation-and-inflation"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Hype Cycles of Venture Capital](/essays/the-hype-cycles-of-venture-capital), [Updating The Hype Cycle](/essays/updating-the-hype-cycle), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype), [On Hype And Hot Air](/essays/on-hype-and-hot-air), [The Pace of FOMO Cycles](/essays/the-pace-of-fomo-cycles), [Renegade Spotlight: Paradigm](/essays/renegade-spotlight-paradigm)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-hype-cycles-of-venture-capital">The Hype Cycles of Venture Capital</a>, <a href="/essays/updating-the-hype-cycle">Updating The Hype Cycle</a>, <a href="/essays/blaspheming-against-the-hype">Blaspheming Against The Hype</a>, <a href="/essays/on-hype-and-hot-air">On Hype And Hot Air</a>, <a href="/essays/the-pace-of-fomo-cycles">The Pace of FOMO Cycles</a>, <a href="/essays/renegade-spotlight-paradigm">Renegade Spotlight: Paradigm</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Hype Deflation & Inflation](/images/hype-deflation-and-inflation-b46683dc.png)
 

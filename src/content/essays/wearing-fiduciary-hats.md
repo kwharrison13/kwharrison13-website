@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/wearing-fiduciary-hats"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [The Four Pillars of Venture Investing](/essays/the-four-pillars-of-venture-investing)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a>, <a href="/essays/the-four-pillars-of-venture-investing">The Four Pillars of Venture Investing</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Wearing Fiduciary Hats](/images/wearing-fiduciary-hats-364e33e2.png)
 

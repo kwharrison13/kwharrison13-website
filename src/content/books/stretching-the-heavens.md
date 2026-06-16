@@ -22,7 +22,7 @@ Terryl Givens's biography of Eugene England read with a recurring tension about 
 3. **Ultimate universalism.** "Wait, what?! We are actually ultimate Universalists." The Charlotte Haven anecdote about progression even in the lowest kingdom — a Joseph Smith doctrinal thread that the modern Church doesn't emphasize but that runs through the foundational sources.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Crucible of Doubt](/books/the-crucible-of-doubt) — Givens-on-doubt frame; same author cluster.

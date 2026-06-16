@@ -23,7 +23,7 @@ Postman's media-ecology argument read with a recurring contemporary update — p
 3. **Educated populace as the structural defense.** Same `Educated Electorate` and `Voice of the People` threads that run through The Death of Expertise and Romney — A Reckoning.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Death of Expertise](/books/the-death-of-expertise) — same democratic-epistemology question.

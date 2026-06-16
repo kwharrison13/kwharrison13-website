@@ -26,7 +26,7 @@ Three other patterns surface:
 Tactical patterns also flagged: post-mortems as paid education (Peter Thiel on Smart Calendar); "follow people" as a career heuristic (Musk → Nicholson → Scotiabank); urgency as a recruiting weapon; first-principles thinking compensating for non-domain-experts (Bhargava's random-deposit innovation).
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Elon Musk (Vance)](/books/elon-musk-vance) — same Musk persona, different chapter of his career. The Founders' coverage stops where Vance's begins (the X.com / PayPal years end with the boardroom coup; SpaceX and Tesla start the next morning, in Vance's telling).

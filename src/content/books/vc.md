@@ -21,7 +21,7 @@ Tom Nicholas's history of venture capital read with the Investing 101 2.0 and Bi
 3. **VC mechanics haven't changed in 50 years.** Will they? When? The question the The Power Law book also raises and doesn't quite answer.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Power Law](/books/the-power-law) — direct sibling; both books treat VC as an institution worth examining.

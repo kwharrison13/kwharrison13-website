@@ -26,7 +26,7 @@ Three notes total, each mapping an Adlerian concept to a vocabulary outside the 
 Read together, the three notes suggest a translator's exercise — mapping Adlerian psychology onto other vocabularies (tiger-mother concepts, religious internalization, civic virtue) rather than absorbing it as a self-contained system. The quake flag despite the sparse in-text response suggests the thinking happened off-page or in conversation.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Righteous Mind](/books/the-righteous-mind) — adjacent moral-psychology concerns; overlapping interest in how virtue gets internalized.

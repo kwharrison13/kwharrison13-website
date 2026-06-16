@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/embrace-the-nuance"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Braving The Wilderness](/books/braving-the-wilderness), [The Death of Expertise](/books/the-death-of-expertise), [The Psychology of Money](/books/the-psychology-of-money), [Demon Copperhead](/books/demon-copperhead), [Hillbilly Elegy](/books/hillbilly-elegy)
-
-**Essays:** [Performative Failure](/essays/performative-failure), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/braving-the-wilderness">Braving The Wilderness</a>, <a href="/books/the-death-of-expertise">The Death of Expertise</a>, <a href="/books/the-psychology-of-money">The Psychology of Money</a>, <a href="/books/demon-copperhead">Demon Copperhead</a>, <a href="/books/hillbilly-elegy">Hillbilly Elegy</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/performative-failure">Performative Failure</a>, <a href="/essays/the-inescapable-debate-of-human-nature">The Inescapable Debate of Human Nature</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Embrace The Nuance](/images/embrace-the-nuance-b04284fb.png)
 

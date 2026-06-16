@@ -20,7 +20,7 @@ Henry Eyring's collection on science and religion read with two structural obser
 2. **Space-as-the-thing-moving frame.** A Star Trek-adjacent reframe of celestial mechanics that the book uses to make abstract physics intuitive.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Crucible of Doubt](/books/the-crucible-of-doubt) — same religion-and-doubt intersection.

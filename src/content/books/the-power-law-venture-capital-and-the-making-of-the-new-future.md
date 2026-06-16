@@ -29,7 +29,7 @@ Mallaby's history of VC read with active skepticism about the industry the book 
 The book is treated with more wariness than its subject usually gets — appropriate skepticism toward the industry the reader works in.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — direct counterpoint. Buffett's investment philosophy as the alternative to the VC model this book describes.

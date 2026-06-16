@@ -5,11 +5,12 @@ tag: "Startups"
 excerpt: "This semester, I’ve had the opportunity to work as a co-instructor in an instructional psychology & technology class focused on EdTech startups. The class is broken up into three parts, (1) intro to c..."
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Lean Startup](/books/the-lean-startup)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-lean-startup">The Lean Startup</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Is The Lean Startup a Stupid Way to Start a Company?](https://miro.medium.com/max/940/1*LCPmzth_9taF--xBm_CUbw.jpeg)
 

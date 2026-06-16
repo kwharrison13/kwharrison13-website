@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/what-wicked-taught-me-about-b2b-sales"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Wicked](/books/wicked), [Red Rising](/books/red-rising)
-
-**Essays:** [The Hits Business](/essays/the-hits-business), [Long Enough To Matter](/essays/long-enough-to-matter), [Fantasy Capital](/essays/fantasy-capital), [The Rising Generation](/essays/the-rising-generation), [Science Fiction's Dueling Fates](/essays/science-fictions-dueling-fates)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/wicked">Wicked</a>, <a href="/books/red-rising">Red Rising</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-hits-business">The Hits Business</a>, <a href="/essays/long-enough-to-matter">Long Enough To Matter</a>, <a href="/essays/fantasy-capital">Fantasy Capital</a>, <a href="/essays/the-rising-generation">The Rising Generation</a>, <a href="/essays/science-fictions-dueling-fates">Science Fiction's Dueling Fates</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for What Wicked Taught Me About B2B Sales](/images/what-wicked-taught-me-about-b2b-sales-0f88eb56.jpg)
 

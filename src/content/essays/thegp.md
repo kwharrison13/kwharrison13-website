@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/thegp"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Renegades of Venture Capital](/essays/the-renegades-of-venture-capital), [Renegade Spotlight: Homebrew](/essays/homebrew), [Renegade Spotlight: Lowercarbon](/essays/lowercarbon), [Renegade Spotlight: Paradigm](/essays/renegade-spotlight-paradigm), [The Productization of Venture Capital](/essays/productization), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Professionalization of Startups](/essays/the-professionalization-of-startups)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-renegades-of-venture-capital">The Renegades of Venture Capital</a>, <a href="/essays/homebrew">Renegade Spotlight: Homebrew</a>, <a href="/essays/lowercarbon">Renegade Spotlight: Lowercarbon</a>, <a href="/essays/renegade-spotlight-paradigm">Renegade Spotlight: Paradigm</a>, <a href="/essays/productization">The Productization of Venture Capital</a>, <a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/the-professionalization-of-startups">The Professionalization of Startups</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Renegade Spotlight: The General Partnership](/images/thegp-b58dfe51.png)
 

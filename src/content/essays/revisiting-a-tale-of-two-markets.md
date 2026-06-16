@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/revisiting-a-tale-of-two-markets"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Road](/books/the-road)
-
-**Essays:** [Networked Conviction](/essays/roam-investing), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Productization of Venture Capital](/essays/productization), [The Talent Vortex: Mafias and Magnets](/essays/talent-vortex), [Index Bets: From Products to People](/essays/index-bets-from-products-to-people)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-road">The Road</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/roam-investing">Networked Conviction</a>, <a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/productization">The Productization of Venture Capital</a>, <a href="/essays/talent-vortex">The Talent Vortex: Mafias and Magnets</a>, <a href="/essays/index-bets-from-products-to-people">Index Bets: From Products to People</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Revisiting A Tale of Two Markets](/images/revisiting-a-tale-of-two-markets-37e86aa3.png)
 

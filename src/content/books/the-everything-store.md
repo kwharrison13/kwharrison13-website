@@ -34,7 +34,7 @@ Stone's earlier Amazon book — the prequel to Amazon Unbound — read with expl
 The thesis the notes circle: Amazon is the cleanest available case study for what a holding-company-or-VC-fund-as-operating-system would look like, with Bezos as the operating CEO.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Amazon Unbound](/books/amazon-unbound) — direct sequel. The two books read as a single corpus; the notes repeatedly anticipate later Amazon developments.

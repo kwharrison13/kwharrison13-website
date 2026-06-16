@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/contrary-research"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Open-Source Knowledge](/essays/open-source-knowledge)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/open-source-knowledge">Open-Source Knowledge</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Contrary Research](/images/contrary-research-e95eb444.jpg)
 

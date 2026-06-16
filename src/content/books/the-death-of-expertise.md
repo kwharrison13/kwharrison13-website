@@ -33,7 +33,7 @@ Nichols on the collapse of trust in expertise, read primarily through two recurr
 A specific marginal frame worth keeping: "Our personal identities and our areas of expertise are not interchangeable" — the problem isn't credentialing, it's people confusing their own identity with their domain mastery (or lack of it).
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [How To Read a Book](/books/how-to-read-a-book) — sister book on active reading; explicit cross-reference. Adler's discipline is the antidote Nichols can't quite articulate.

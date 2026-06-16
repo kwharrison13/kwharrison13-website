@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/introducing-foundations-and-frontiers"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice), [Open-Source Knowledge](/essays/open-source-knowledge), [Contrary Research](/essays/contrary-research)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/contrary-my-renegade-of-choice">Contrary: My Renegade of Choice</a>, <a href="/essays/open-source-knowledge">Open-Source Knowledge</a>, <a href="/essays/contrary-research">Contrary Research</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Foundations & Frontiers](/images/introducing-foundations-and-frontiers-896c800b.jpg)
 

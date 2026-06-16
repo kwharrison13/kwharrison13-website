@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/on-writing"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Crime & Punishment](/books/crime-and-punishment)
-
-**Essays:** [The Existential Dread of Cognitive Dissonance](/essays/the-existential-dread-of-cognitive), [Networked Conviction](/essays/roam-investing), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/crime-and-punishment">Crime & Punishment</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-existential-dread-of-cognitive">The Existential Dread of Cognitive Dissonance</a>, <a href="/essays/roam-investing">Networked Conviction</a>, <a href="/essays/institutionalized-belief-in-the-greater">Institutionalized Belief In The Greater Fool</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for On Writing](/images/on-writing-3a1aa5a6.png)
 

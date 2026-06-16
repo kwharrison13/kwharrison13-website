@@ -8,11 +8,12 @@ type: "podcast"
 substack_url: "https://investing101.substack.com/p/the-horse-the-jockey-or-the-whole"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [The Unholy Trinity of Venture Capital](/essays/the-unholy-trinity-of-venture-capital), [Building Mighty Small Businesses](/essays/building-mighty-small-businesses), [Playing Different (Stupider) Games](/essays/player-different-stupider-games)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a>, <a href="/essays/the-unholy-trinity-of-venture-capital">The Unholy Trinity of Venture Capital</a>, <a href="/essays/building-mighty-small-businesses">Building Mighty Small Businesses</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Horse, The Jockey, or The Whole Race?](/images/the-horse-the-jockey-or-the-whole-04c5eacf.png)
 

@@ -26,7 +26,7 @@ Benjamin E. Park's history of the LDS Church read with explicit interest in the 
 Cross-references: McKay Coppins's biography of Romney is referenced explicitly — same author's earlier work on the same tradition.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — same institutional history, earlier era.

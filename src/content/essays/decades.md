@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/decades"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Idea Factory](/books/the-idea-factory), [The Road](/books/the-road)
-
-**Essays:** [The Rising Generation](/essays/the-rising-generation), [The Natural Selection of Time](/essays/the-natural-selection-of-time)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-idea-factory">The Idea Factory</a>, <a href="/books/the-road">The Road</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-rising-generation">The Rising Generation</a>, <a href="/essays/the-natural-selection-of-time">The Natural Selection of Time</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Source:Steinberg](/images/decades-eb4cfec8.png)
 

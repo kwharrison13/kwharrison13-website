@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/deep-tech-for-deep-minds-or-deep"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [The Power Law: Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future)
-
-**Essays:** [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [The Hype Cycles of Venture Capital](/essays/the-hype-cycles-of-venture-capital), [Updating The Hype Cycle](/essays/updating-the-hype-cycle), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype), [On Hype And Hot Air](/essays/on-hype-and-hot-air), [Revisiting The Death of a Venture Fund](/essays/revisiting-the-death-of-a-venture)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-power-law-venture-capital-and-the-making-of-the-new-future">The Power Law: Venture Capital & the Making of the New Future</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a>, <a href="/essays/the-hype-cycles-of-venture-capital">The Hype Cycles of Venture Capital</a>, <a href="/essays/updating-the-hype-cycle">Updating The Hype Cycle</a>, <a href="/essays/blaspheming-against-the-hype">Blaspheming Against The Hype</a>, <a href="/essays/on-hype-and-hot-air">On Hype And Hot Air</a>, <a href="/essays/revisiting-the-death-of-a-venture">Revisiting The Death of a Venture Fund</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Deep Tech For Deep Minds? Or Deep Pockets?](/images/deep-tech-for-deep-minds-or-deep-afe77559.png)
 

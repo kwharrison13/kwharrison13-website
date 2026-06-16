@@ -26,7 +26,7 @@ Turner's biography of Brigham Young read with explicit willingness to register b
 A standalone thread: the influence of Brigham's sermons that "still influence us, however consciously or unconsciously." The institution's voice is downstream of his even where it doesn't recognize the inheritance.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — direct predecessor in subject and arc.

@@ -16,7 +16,7 @@ key_takeaways_status: pending
 _Under Consideration — to be added._
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 _Under Consideration — to be added._

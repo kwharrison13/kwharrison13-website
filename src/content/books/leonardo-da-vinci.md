@@ -27,7 +27,7 @@ Isaacson's biography read as a how-to-think-like-a-genius case study with consta
 A side observation: "if you are able to accomplish everything of which you dream then you are not dreaming big enough." Leonardo's unfinished works as evidence of ambition that outran capacity — a virtue, not a failing.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Founders](/books/the-founders) — talent-vortex / scenius parallel. Leonardo's Florentine context as a different-era version.

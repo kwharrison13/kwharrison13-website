@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/building-customer-love"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Contrary Research](/essays/contrary-research), [Competitive Moats](/essays/competitive-moats)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/competitive-moats">Competitive Moats</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Building Customer Love](/images/building-customer-love-d632be13.jpg)
 

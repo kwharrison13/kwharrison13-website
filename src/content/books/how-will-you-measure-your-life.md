@@ -22,7 +22,7 @@ Clayton Christensen's values-as-strategy book read with two specific applied les
 2. **Use strategy process to find career fulfillment.** Christensen's actual recipe — apply business-strategy frameworks to personal direction. The methodological move that the rest of the book elaborates on.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [Amazon Unbound](/books/amazon-unbound) and [The Everything Store](/books/the-everything-store) — Bezos's long-term-orientation lineage.

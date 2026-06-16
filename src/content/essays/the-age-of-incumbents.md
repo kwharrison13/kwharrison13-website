@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-age-of-incumbents"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Professionalization of Startups](/essays/the-professionalization-of-startups)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-professionalization-of-startups">The Professionalization of Startups</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Age of Incumbents](/images/the-age-of-incumbents-e6987ad3.png)
 

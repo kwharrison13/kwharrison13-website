@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-non-zero-sum-game-of-ambition"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Historical Futurism](/essays/historical-futurism), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [The Renaissance of Rise and Grind](/essays/the-renaissance-of-rise-and-grind), [Risk Management In The Age Of YOLO](/essays/risk-management-in-the-age-of-yolo), [The Rising Generation](/essays/the-rising-generation), [Renegade Spotlight: Lowercarbon](/essays/lowercarbon), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a>, <a href="/essays/the-renaissance-of-rise-and-grind">The Renaissance of Rise and Grind</a>, <a href="/essays/risk-management-in-the-age-of-yolo">Risk Management In The Age Of YOLO</a>, <a href="/essays/the-rising-generation">The Rising Generation</a>, <a href="/essays/lowercarbon">Renegade Spotlight: Lowercarbon</a>, <a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Source: Cinema Sugar](/images/the-non-zero-sum-game-of-ambition-c9978974.png)
 

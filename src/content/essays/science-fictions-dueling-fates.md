@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/science-fictions-dueling-fates"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Nuclear War: a Scenario](/books/nuclear-war-a-scenario), [2034: A Novel of the Next World War](/books/2034-a-novel-of-the-next-world-war), [Brave New World](/books/brave-new-world)
-
-**Essays:** [Contrary Research](/essays/contrary-research), [Historical Futurism](/essays/historical-futurism), [Life Imitates Art](/essays/life-imitates-art), [The Value Cycle](/essays/the-value-cycle), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [The Hits Business](/essays/the-hits-business), [Panic Writing](/essays/panic-writing)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/nuclear-war-a-scenario">Nuclear War: a Scenario</a>, <a href="/books/2034-a-novel-of-the-next-world-war">2034: A Novel of the Next World War</a>, <a href="/books/brave-new-world">Brave New World</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/life-imitates-art">Life Imitates Art</a>, <a href="/essays/the-value-cycle">The Value Cycle</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a>, <a href="/essays/the-hits-business">The Hits Business</a>, <a href="/essays/panic-writing">Panic Writing</a></span></div>
+</aside>
+<!-- connections-end -->
 
 *Quick Announcement: [Contrary Research](https://research.contrary.com/) is hiring for a [Research Analyst](https://contrary.notion.site/Research-Analyst-August-2024-8d3918fd774d418991505ea09f7543bb?pvs=4). To apply, reach out to research@contrary.com. Alright,* on with the show!
 

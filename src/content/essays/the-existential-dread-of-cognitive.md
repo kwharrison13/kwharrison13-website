@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-existential-dread-of-cognitive"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Scramble Landscape](/essays/the-scramble-landscape), [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [I Choose Optimism](/essays/i-choose-optimism), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-scramble-landscape">The Scramble Landscape</a>, <a href="/essays/contrary-my-renegade-of-choice">Contrary: My Renegade of Choice</a>, <a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/i-choose-optimism">I Choose Optimism</a>, <a href="/essays/the-rise-of-the-cash-man">The Rise of The Cash Man</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Existential Dread of Cognitive Dissonance](/images/the-existential-dread-of-cognitive-2fff1bcb.png)
 

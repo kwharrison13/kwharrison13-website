@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/intellectual-seat-belts"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [The Renaissance of Rise and Grind](/essays/the-renaissance-of-rise-and-grind), [The Meme Economy](/essays/the-meme-economy), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what), [Having a Conversation With Yourself: 2023](/essays/having-a-conversation-with-yourself-f29), [Books 2.0](/essays/books-20), [I Choose Optimism](/essays/i-choose-optimism), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [What's In a Post-Mortem?](/essays/whats-in-a-post-mortem), [Natural Selection Among Startups](/essays/natural-selection-among-startups)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-renaissance-of-rise-and-grind">The Renaissance of Rise and Grind</a>, <a href="/essays/the-meme-economy">The Meme Economy</a>, <a href="/essays/its-time-to-build-but-build-what">It's Time To Build... But Build What?</a>, <a href="/essays/having-a-conversation-with-yourself-f29">Having a Conversation With Yourself: 2023</a>, <a href="/essays/books-20">Books 2.0</a>, <a href="/essays/i-choose-optimism">I Choose Optimism</a>, <a href="/essays/the-inescapable-debate-of-human-nature">The Inescapable Debate of Human Nature</a>, <a href="/essays/whats-in-a-post-mortem">What's In a Post-Mortem?</a>, <a href="/essays/natural-selection-among-startups">Natural Selection Among Startups</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Intellectual Seat Belts](/images/intellectual-seat-belts-9d01cab7.png)
 

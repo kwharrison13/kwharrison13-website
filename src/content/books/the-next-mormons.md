@@ -16,7 +16,7 @@ key_takeaways_status: "written"
 One note: Jamie's openness-led-to-doubts arc reframed — "who taught her she needed to find fault with other people's belief system?" The John Taylor "bring all the good you have and let us see if we can add to it" frame as the lost alternative posture.
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [The Life of John Taylor](/books/the-life-of-john-taylor) — direct quote reference.

@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/learnable-empathy"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Amazon Unbound](/books/amazon-unbound)
-
-**Essays:** [Why Most VCs Suck At Talent](/essays/talent), [The Death of a Venture Fund](/essays/death)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/amazon-unbound">Amazon Unbound</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/talent">Why Most VCs Suck At Talent</a>, <a href="/essays/death">The Death of a Venture Fund</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for Learnable Empathy](/images/learnable-empathy-10f32a9f.png)
 

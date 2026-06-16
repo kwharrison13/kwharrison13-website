@@ -13,11 +13,11 @@
  *   - Looks up the book in src/data/books.json to seed metadata
  *     (cover, rating, tags, year_read, quake).
  *   - If src/content/books/<slug>.md does NOT exist: writes a fresh file
- *     using the standard template with Key Takeaways / Interconnections /
+ *     using the standard template with Key Takeaways / Connections /
  *     Highlights sections.
  *   - If it DOES exist: dedupes new highlights against existing ones using
  *     the ^rwid-<id> block-ref tokens, appends only what's new, and never
- *     touches the Key Takeaways or Interconnections sections.
+ *     touches the Key Takeaways or Connections sections.
  *
  * No third-party dependencies. Node ≥ 18.
  */
@@ -439,7 +439,7 @@ function buildFreshBody(highlights) {
 _Under Consideration — to be added._
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 _Under Consideration — to be added._
@@ -453,7 +453,7 @@ ${hlBlock}
 
 // Replace just the "## Highlights" section of an existing file body.
 // Anything before that heading is left untouched (Key Takeaways /
-// Interconnections / any other sections Kyle has written).
+// Connections / any other sections Kyle has written).
 function spliceHighlightsSection(body, newHighlightsBlock) {
   const idx = body.search(/^##\s+Highlights\s*$/m);
   if (idx === -1) {

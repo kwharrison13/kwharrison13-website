@@ -16,7 +16,7 @@ key_takeaways_status: "written"
 _Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
-## Interconnections
+## Connections
 
 <!-- interconnections -->
 - [2034 — A Novel of the Next World War](/books/2034-a-novel-of-the-next-world-war) _(stub)_, [2054](/books/2054) _(stub)_ — speculative-fiction frame.

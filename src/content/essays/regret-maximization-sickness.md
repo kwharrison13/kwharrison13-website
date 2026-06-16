@@ -8,11 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/regret-maximization-sickness"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Essays:** [Regret Porn](/essays/regret-porn), [The Hits Business](/essays/the-hits-business), [The Superhero Theory of Defense](/essays/the-superhero-theory-of-defense)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/regret-porn">Regret Porn</a>, <a href="/essays/the-hits-business">The Hits Business</a>, <a href="/essays/the-superhero-theory-of-defense">The Superhero Theory of Defense</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Source:Clark Kelley Price](/images/regret-maximization-sickness-040e4dc2.png)
 

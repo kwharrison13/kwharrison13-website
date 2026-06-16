@@ -8,13 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-rise-of-the-cash-man"
 ---
 
-<!-- interconnections-start -->
-## Interconnections
-
-**Books:** [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city)
-
-**Essays:** [The Outcome Distortion Complex](/essays/the-outcome-distortion-complex)
-<!-- interconnections-end -->
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/walt-disney-and-the-promise-of-progress-city">Walt Disney and the Promise of Progress City</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-outcome-distortion-complex">The Outcome Distortion Complex</a></span></div>
+</aside>
+<!-- connections-end -->
 
 ![Header image for The Rise of The Cash Man](/images/the-rise-of-the-cash-man-8e75d193.png)
 
