@@ -3,22 +3,33 @@ title: "Joseph Smith: Rough Stone Rolling"
 author: "Richard Lyman Bushman"
 year_read: 2020
 rating: 5
+quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Bushman's landmark biography read with a specific tension in view: prophets are fallible humans operating in fallen systems, and the institution they build has to be evaluated on that basis rather than against a perfect ideal. Six threads:
+
+1. **City-building as a Mormon competency.** Nauvoo means "ideal place" / "beautiful situation with rest." Joseph and the early Saints saw themselves as a city-building people; the Far West attempt was the first chance to construct from scratch. Connects to a broader City Building interest across the library.
+
+2. **Prophets are not protected from failure.** A recurring reframe across the notes. Joseph was overwhelmed at Kirtland; Moses wandered 40 years partly because of the people, not just his own failings. "There are no promises that he's protected from failure, especially when people's greed are more supportive than their faith."
+
+3. **Mob rule and vox populi.** The Missouri persecution as the formative encounter with majoritarian violence. "If a majority may crush any religious sect with impunity, any religion could suffer." The political education that converted Joseph from idealist to skeptic of unchecked democratic power.
+
+4. **Tension on creeds.** Some Saints liked the improvisational character of early missionary preaching; others wanted defined boundaries. Joseph's resistance to creeds was both principled ("they say thus far and no further") and pragmatic — but the contemporary Church drifted toward enforcement that Joseph himself might have resisted.
+
+5. **"Be up and doing."** The aphorism from Nehemiah; the Nauvoo-era frame on
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [[American
 <!-- /interconnections -->
 
 ## Highlights

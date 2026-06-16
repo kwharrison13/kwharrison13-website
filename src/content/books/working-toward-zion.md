@@ -1,21 +1,43 @@
 ---
 title: "Working Toward Zion"
 author: "James W. Lucas"
+year_read: "pre-2016"
 rating: 0
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+quake: false
+tags: []
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Lucas and Woodworth's LDS-economics book read with a pointedly practical eye — not as theology, but as a blueprint for what business done differently might actually look like. Six threads:
+
+1. **United Order as an unfinished experiment, not a sealed history.** The doctrine is presented as a still-live framework for ordering economic life — applicable today, but requiring institutional infrastructure (UOPIEs, cooperative banks, the Mondragon model) that the modern Church hasn't built.
+
+2. **The biggest obstacle to consecration is finding "men who know what to do with it."** Brigham Young's "I am laboring under a certain embarrassment" line surfaces twice. The point: consecration without capable stewards just transfers wealth without transferring productive capability. BYU business students should be the answer to this problem — this is what the school's exists for.
+
+3. **"Maximizing shareholder wealth" cannot be the terminal goal of business.** Any means is justified if the end is important enough — so the end has to be morally bounded, or every means becomes acceptable. Capitalism's moral foundations (freedom + honesty) are conditional, not given.
+
+4. **Capitalism vs. Socialism vs. United Order as three distinct frameworks.** Not "capitalism with charity added on." A genuinely different organizing principle for economic life — Mondragon, Grameen, Value Added Ventures as contemporary instances.
+
+5. **Quantifying human capital.** Skilled, well-motivated employees as a company's most important asset, even though they don't appear on the balance sheet. The argument the book makes that modern accounting misses the load-bearing variable.
+
+6. **The Church can't keep relying on rich American members to subsidize Third World growth.** "I'll get rich and then help the Church" isn't a sustainable global model. The Church has to build sound economic endeavors locally, not import wealth.
+
+A side thread worth flagging: the "you don't start by donating all your property — line upon line" frame on consecration. Practical commitment over heroic gestures.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — shareholder-value tension. Buffett's discipline is the secular version of what this book argues for theologically.
+- [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism) — direct anti-thesis to financialization. Same diagnosis, different vocabulary.
+- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — "what survives civilizational collapse" question; institutional knowledge.
+- [Skunk Works](/books/skunk-works) — meritocracy-vs-managed-monopoly thread.
+- [How Will You Measure Your Life_](/books/how-will-you-measure-your-life) — values-as-strategy framing in the same religious-economic register.
+- [The Power Law](/books/the-power-law) — VC as a structural force the book implicitly critiques.
 <!-- /interconnections -->
 
 ## Highlights

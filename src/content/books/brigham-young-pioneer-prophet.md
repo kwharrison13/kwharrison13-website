@@ -3,22 +3,34 @@ title: "Brigham Young: Pioneer Prophet"
 author: "John G. Turner"
 year_read: 2020
 rating: 3
+quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Turner's biography of Brigham Young read with explicit willingness to register both the institutional accomplishments and the durable problems Young set in motion. Four threads:
+
+1. **"No one is safe until the end."** Young's recurring rebuke of those satisfied with progress already achieved. The opening note's frame applied to leadership generally — Mormon institutional life as a series of unfinished commitments.
+
+2. **Joseph's policy ≠ Brigham's policy.** "Much of Joseph's policy in temporal things was different from my ideas of the way to manage the kingdom." Brigham himself acknowledged. The notes flag this honestly — these are two different operating systems, and the smoothing-over in subsequent Church narrative misses the actual texture.
+
+3. **The durable problems Brigham set in motion.** "Racial discomfort, ideological discrimination, social cohesion, and elitism — all negative realities of modern Mormonism seem to stem directly from Brigham Young." A direct, uncomfortable note that the modern Church inherits these threads whether it acknowledges them or not.
+
+4. **The handcart episode as a failed experiment.** "His disregard for prudence turned what should have been a cautious experiment into a poorly organized mass movement." The story usually told as heroic suffering reframed as preventable institutional failure.
+
+A standalone thread: the influence of Brigham's sermons that "still influence us, however consciously or unconsciously." The institution's voice is downstream of his even where it doesn't recognize the inheritance.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — direct predecessor in subject and arc.
+- [[Working Toward
 <!-- /interconnections -->
 
 ## Highlights

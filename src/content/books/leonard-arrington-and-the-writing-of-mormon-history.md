@@ -3,23 +3,37 @@ title: "Leonard Arrington and the Writing of Mormon History"
 author: "Gregory Prince"
 year_read: 2025
 rating: 4
+quake: false
 tags:
   - "religious-intellectualism"
   - "republic-of-letters"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Greg Prince's biography of the LDS Church's first official historian read as a study in the institutional-vs-scholarly tension that shapes religious historiography. Four threads:
+
+1. **Practitioners vs. Priesthood.** "With N. Eldon Tanner, the Church began more to raise up those experts in the building of the kingdom vs subjecting them under the priesthood's authority." A structural shift in how the institution related to professional expertise — the gap between subject-matter competence and ecclesiastical authority became something the Church had to actively manage.
+
+2. **Spencer W. Kimball was misjudged.** Multiple notes returning to this — Kimball assumed old, traditional, unlikely to do much, then revealed as substantially more transformative than predicted. The pattern compared explicitly to Russell M. Nelson — the same pattern of underestimation, the same surprise.
+
+3. **The legacy of the question-asking tradition.** "We have a heritage of deep question asking that started with a seminal question: 'which of all these churches is true?' Should we not honor the history of question askers by pursuing dogmatically as satisfying a truth as we can acquire, leaving only mysteries to God?" The institutional Church's relationship with its own founding posture.
+
+4. **The Knopf revision episode.** Arrington's manuscript required extensive revision because chapters were seen as "too pro-Church" — the ideal scenario of nuance and compromise. A model for how religious-history work can find the line between hagiography and reductionism.
+
+A side observation: Arrington's deflection on titles ("titles were not important to him") — the leadership style that gets the work done without making the work about the leader. Pairs with the broader Whatever You Are Be A Good One frame.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — Bushman's later work that Arrington's institutional setup made possible.
+- [Brigham Young — Pioneer Prophet](/books/brigham-young-pioneer-prophet) — same scholarly tradition.
+- [The Life of John Taylor](/books/the-life-of-john-taylor) — counter-example; the apologetic style Arrington tried to move past.
+- [[American
 <!-- /interconnections -->
 
 ## Highlights

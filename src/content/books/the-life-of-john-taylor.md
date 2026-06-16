@@ -3,22 +3,35 @@ title: "The Life of John Taylor"
 author: "B. H. Roberts"
 year_read: 2020
 rating: 3
+quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+B.H. Roberts's biography of the third LDS president read with attention to the apologetic-vs-truth-seeking tension that runs through the Mormon historiographical tradition. Three threads:
+
+1. **The Upton Sinclair quote.** "It is difficult to get a man to understand something, when his salary depends on his not understanding it." Surfaces here as the structural critique of institutional defensiveness — including, implicitly, the institutional defensiveness that produced the book itself.
+
+2. **"Bring all the truth you have and let us see if we can add to it."** The Taylor frame for engaging non-Mormon religious thought. A model of generous theological exchange, distinct from later more defensive postures.
+
+3. **The seeker frame.** Taylor's pre-conversion path through Methodism, "successful" preaching and many converts, before Mormonism. The arc reads as evidence for taking seekers seriously rather than dismissing their pre-conversion lives as preparation-for-the-real-thing.
+
+A standalone observation: "I was not born a slave! I cannot, will not be a slave." Taylor's freedom-instinct as the structural disposition that made him receptive to Mormonism's then-radical agency claims.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — same era, same circle.
+- [Brigham Young — Pioneer Prophet](/books/brigham-young-pioneer-prophet) — direct contemporary.
+- [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — the historiographical context for evaluating books like this one.
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — apologetics-vs-truth question.
+- [[Working Toward
 <!-- /interconnections -->
 
 ## Highlights

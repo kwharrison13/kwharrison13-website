@@ -3,23 +3,40 @@ title: "The Power Law: Venture Capital & the Making of the New Future"
 author: "Sebastian Mallaby"
 year_read: 2023
 rating: 5
+quake: false
 tags:
   - "capital-allocation"
   - "republic-of-letters"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Mallaby's history of VC read with active skepticism about the industry the book documents. Five threads:
+
+1. **VC as long-term charade rather than long-term bet.** The standout note: "Venture capital isn't a long-term bet, it's often a long-term charade of passing the bag." A surprisingly cynical frame for an industry the rest of the corpus engages with seriously — and worth holding alongside the more constructive Investing 101 2.0 thread.
+
+2. **"The prepared mind" as the actual investment thesis.** Accel's framework: rather than looking everywhere for opportunities, develop a structured view of where the next ones will come from. Pairs with the Contrary Research thread — preparation-as-strategy beats reactivity.
+
+3. **Pricing as the single highest-leverage decision.** Horowitz: "There is no single decision you will make that will impact your company value more than the pricing." Already a refrain elsewhere in the library; the venture context sharpens it.
+
+4. **Khosla's failure framing.** "If Pat fails, what was the message?" — making failure structurally permissible rather than just verbally encouraged. Distinct from the standard "fail fast" mantra in that it requires actual institutional follow-through.
+
+5. **Forecasting as the central VC delusion.** Multiple notes flagging the forecasting failure mode — "huge amount of energy spent on forecasting the future" by people who systematically can't. The contrast with how rare it is to find investors who hold their priors loosely.
+
+The book is treated with more wariness than its subject usually gets — appropriate skepticism toward the industry the reader works in.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — direct counterpoint. Buffett's investment philosophy as the alternative to the VC model this book describes.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — Munger's investment-management critique applied to VC.
+- [The Founders](/books/the-founders) — talent vortex inside the VC-funded company.
+- [The Everything Store](/books/the-everything-store) — operating philosophy as the actual VC differentiator.
+- [How To Avoid a Climate Disaster](/books/how-to-avoid-a-climate-disaster) — Breakthrough Energy as alternative VC structure.
 <!-- /interconnections -->
 
 ## Highlights

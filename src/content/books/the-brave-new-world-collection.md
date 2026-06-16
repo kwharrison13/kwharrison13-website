@@ -1,21 +1,41 @@
 ---
 title: "The Brave New World Collection"
 author: "Aldous Huxley"
+year_read: "pre-2016"
 rating: 0
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+quake: false
+tags: []
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Huxley's novel + the later essays (*Brave New World Revisited*) read with active counter-argument — the book's predictions repeatedly tested against present-day evidence, often unfavorably for Huxley. Five threads:
+
+1. **Growth doesn't cause authoritarianism — its byproducts do.** The notes push back firmly: "The fear is that growth leads to authoritarian states, but the reality is that authoritarian states are born from problems. Growth can cause some of those problems, but authoritarianism is a response to byproducts, not to growth directly." Champions of growth aren't trying to strain the system — they're trying to revolutionize past it.
+
+2. **Educated electorate as the structural defense.** Four separate notes return to this — Jefferson, Mill, the implicit Huxley conclusion. The democratic-defense argument that pre-dates and outlasts whatever specific authoritarian shape the present takes.
+
+3. **The Borg as the wrong frame for social organization.** "Men cannot create a social organism, they can only create an organization." The tension: in trying to create organism-like cohesion, you end up with machine-like uniformity. Brave New World's central failure mode.
+
+4. **B.F. Skinner determinism rejected.** Multiple notes returning to the same disagreement — the genetic/environmental contribution to individual variation can't be wished away by behaviorist models. "Crime and punishment" as the recurring tag for the freedom-and-responsibility question.
+
+5. **Huxley's empirical wrongness on demography.** "The world's poor got worse off from 1907 to 1957? I feel like this can't possibly be true." The notes register the gap between Huxley's pessimism about overpopulation and the actual development trajectory of the second half of the 20th century. A book that earned its reputation on a prediction it largely missed.
+
+The throughline: Huxley got the alarm right but the diagnosis wrong. The interesting work is figuring out which of his warnings still hold and which were artifacts of his own decade.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Death of Expertise](/books/the-death-of-expertise) — educated-electorate argument extends here.
+- [Homo Deus](/books/homo-deus) — Harari's adjacent civilizational-trajectory frame.
+- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — same "what survives civilizational stress" question.
+- [Animal Farm](/books/animal-farm) _(stub)_ — Orwell-Huxley dystopia comparison.
+- [1984](/books/1984) _(stub)_ — same.
+- [The Righteous Mind](/books/the-righteous-mind) _(stub)_ — adjacent moral-psychology framing.
 <!-- /interconnections -->
 
 ## Highlights

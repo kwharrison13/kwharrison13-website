@@ -3,23 +3,37 @@ title: "Homo Deus"
 author: "Yuval Noah Harari"
 year_read: 2019
 rating: 3
+quake: false
 tags:
   - "technological-innovation"
   - "historical-futurism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Harari's sequel to Sapiens, read with active religious counter-argument throughout. Three threads:
+
+1. **Liberalism / humanism as "ultimate selfishness."** Harari's frame that humans have become the source of meaning gets a sharp counter — "the worst response that mainstream Christianity chose to offer was 'no, he's just quiet.' We declare that he speaks, though not everyone will love what he has to say." Living revelation as the actual response to the death-of-God problem.
+
+2. **Souls cannot be ruled out by evolution alone.** Harari argues souls don't fit evolution because evolution requires change. The note pushes back — "just like a soul can't be seen with physical means, it doesn't change by physical standards. That doesn't mean it doesn't change." A category error in Harari's argument rather than a knockdown counter to religion.
+
+3. **The shared-bond requirement for democracy.** "People feel bound by democratic elections only when they share a basic bond with most other voters. If the experience of being a citizen becomes nothing more than abstract..." Already true and getting truer in the US. Connects directly to the educated-electorate thread from The Death of Expertise.
+
+A standalone observation worth flagging: "religions that lose touch with the technological realities of the day forfeit their ability even to understand the questions being asked." Tagged as `Living Revelation` — the necessary religious response to historical change.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Sapiens](/books/sapiens) _(stub)_ — direct predecessor.
+- [21 Lessons for the 21st Century](/books/21-lessons-for-the-21st-century) _(stub)_ — Harari's sequel.
+- [The Brave New World Collection](/books/the-brave-new-world-collection) — adjacent civilizational-trajectory frame.
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious-engagement counter to humanism.
+- [The Self-Driven Child](/books/the-self-driven-child) — Harari on self-will referenced there.
+- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institutional-history adjacent.
 <!-- /interconnections -->
 
 ## Highlights

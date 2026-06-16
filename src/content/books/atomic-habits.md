@@ -3,23 +3,41 @@ title: "Atomic Habits"
 author: "James Clear"
 year_read: 2020
 rating: 4
+quake: false
 tags:
   - "company-building"
   - "ideological-family-tree"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Clear's book read with explicit cross-references to other operating frameworks in the library — habits as the substrate other systems compound on. Five threads:
+
+1. **"You don't rise to the level of your goals. You fall to the level of your systems."** The thesis that tags as Systems Thinking across the notes. Systems vs. goals as the actual distinction. The purpose of building systems is to continue playing the game, not to win it.
+
+2. **Identity-driven behavior change.** "The more sacred an idea is to us — that is, the more deeply it is tied to our identity — the more strongly we will defend it against criticism." The handle for both habit formation (build identity that produces the behavior) and habit destruction (challenge identity that produces the wrong behavior).
+
+3. **Technology that augments vs. distracts.** Multiple notes returning to this frame — "the greatest minds of our generation are figuring out how to get more people to click on an ad." The implicit demand: augmentation tools that don't exploit the same dopamine loops as distraction tools. A specific design ethic worth holding people to.
+
+4. **"You have to want the consequences of the things you want."** Cross-referenced (Nibley?) — the recurring frame across the library that desire alone is insufficient; you have to be willing to take what comes with it. Pairs naturally with the Self-Driven Child material on intrinsic motivation.
+
+5. **"The lily pads of your career" / what gives you energy.** Tagged here in the context of mastery — "the mark of whether you are made for a task is not whether you love it but whether you can handle the difficulty." Connects to the recurring Interest Discovery frame from The Self-Driven Child.
+
+A side observation: the secret to getting results that last is to never stop making improvements — which pairs with the Munger compounding frame: don't interrupt compounding unnecessarily.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Discipline Is Destiny](/books/discipline-is-destiny) — direct pair. Stoic discipline as the values-frame; atomic habits as the mechanism.
+- [Essentialism](/books/essentialism) — same focus-and-tradeoff family, different vocabulary.
+- [The Self-Driven Child](/books/the-self-driven-child) — intrinsic motivation and identity formation in the child-development register.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — Munger's compounding frame; "don't interrupt unnecessarily."
+- [Deep Work](/books/deep-work) _(stub)_ — adjacent focus discipline.
+- [The Great Mental Models Volume 1: General Thinking Concepts](/books/the-great-mental-models-volume-1-general-thinking-concepts) — systems thinking and feedback loops.
 <!-- /interconnections -->
 
 ## Highlights

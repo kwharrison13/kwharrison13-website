@@ -3,22 +3,35 @@ title: "Flying Blind"
 author: "Peter Robison"
 year_read: 2025
 rating: 4
+quake: false
 tags:
   - "company-building"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Peter Robison's Boeing book read primarily as Anduril-context — Boeing's collapse as the case-in-chief for what happens when industrial cultures get hollowed out. Three threads:
+
+1. **The Reagan-era corporate America thesis.** Robison's framing: shareholder primacy and post-Cold-War financialization ushered in the conditions that produced 737 MAX. Connects directly to The Man Who Broke Capitalism — same diagnosis, applied to a specific company.
+
+2. **Outsourced profits as the systematic failure pattern.** John Hart-Smith's "Out-Sourced Profits — the Cornerstone of Successful Subcontracting" paper. Boeing's decision to push manufacturing costs (and risk) to subcontractors looked good on the income statement and was structurally suicidal for the engineering culture.
+
+3. **"People didn't spontaneously grow less loyal. Companies systematically stopped being loyal to employees."** The standout line. Employee disloyalty isn't a cultural mystery — it's a downstream effect of measurable institutional choices.
+
+A side thread: same era, same forces produced both Boeing's decline and McNamara-era defense bloat. The Skunk Works / The Kill Chain / Chip War trilogy and Flying Blind read as a single argument about American industrial decay.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism) — direct thesis sibling. Welch-era financialization applied here.
+- [Skunk Works](/books/skunk-works) — defense-industrial-base parallel.
+- [The Kill Chain](/books/the-kill-chain) — present-tense companion.
+- [Chip War](/books/chip-war) — semiconductor side of the same story.
+- [The Idea Factory](/books/the-idea-factory) — Bell Labs as the era's positive case.
 <!-- /interconnections -->
 
 ## Highlights

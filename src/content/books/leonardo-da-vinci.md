@@ -3,23 +3,38 @@ title: "Leonardo Da Vinci"
 author: "Walter Isaacson"
 year_read: 2020
 rating: 4
+quake: false
 tags:
   - "technological-innovation"
   - "open-source-knowledge"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Isaacson's biography read as a how-to-think-like-a-genius case study with constant reference back to the reader's own thinking habits. Four threads:
+
+1. **Masters are made by obsession, not skill.** A recurring frame — Leonardo's anatomical drawings going far beyond what painting required because the curiosity itself was the engine.
+
+2. **"The things you DO push you towards the things you LOVE."** The reverse of the conventional career advice. Leonardo's anatomical work started for painting accuracy and became its own pursuit. Action-first, identity-second.
+
+3. **Refinement as the actual practice.** "What am I continuously refining?" — the question the notes return to. Leonardo went back to drawings years later to add details others wouldn't have noticed. Mastery as iterative attention rather than initial talent.
+
+4. **Vision and teamwork.** The Last Supper as collective production. "Vision and teamwork" — the rejection of solo-genius mythology that runs through the The Founders talent-vortex thread as well.
+
+A side observation: "if you are able to accomplish everything of which you dream then you are not dreaming big enough." Leonardo's unfinished works as evidence of ambition that outran capacity — a virtue, not a failing.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Founders](/books/the-founders) — talent-vortex / scenius parallel. Leonardo's Florentine context as a different-era version.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — multidisciplinary thinking frame.
+- [The Great Mental Models Volume 1: General Thinking Concepts](/books/the-great-mental-models-volume-1-general-thinking-concepts) — Leonardo's habit of model-building from observation.
+- [How To Read a Book](/books/how-to-read-a-book) — the master-explainer / Da Vinci "learn the rules to break them" cross-reference.
+- [Discipline Is Destiny](/books/discipline-is-destiny) — Stoic discipline on daily practice.
 <!-- /interconnections -->
 
 ## Highlights

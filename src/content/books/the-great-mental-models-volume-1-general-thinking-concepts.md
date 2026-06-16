@@ -3,22 +3,40 @@ title: "The Great Mental Models Volume 1: General Thinking Concepts"
 author: "Shane Parrish"
 year_read: 2021
 rating: 3
+quake: false
 tags:
   - "open-source-knowledge"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Parrish's mental-models book read as a structured complement to the Munger material — same latticework thesis, organized into a curriculum. Five threads:
+
+1. **Map vs. territory as the load-bearing distinction.** "We run into problems when our knowledge becomes of the map, rather than the actual underlying territory it describes." The implication: every model degrades unless updated against real-world feedback. Feedback loops as the actual mechanism by which models stay useful.
+
+2. **Circle of competence — and its incentive distortions.** Building one takes years of mistakes. But the deeper problem is honest self-assessment about where the circle ends — "the problem of incentives can really skew how much you can rely on someone else's circle of competence." Spirit of humility as the prerequisite skill.
+
+3. **Hanlon's Razor and the Evil Genius Default.** Most badness in the world is stupidity, not malice. The framing the book argues for: when something looks wrong, look first for confusion rather than conspiracy. The Evil Genius Default is the political-discourse failure mode.
+
+4. **Counter-factual and semi-factual thinking.** Historical alternates as a structured method, not just a thought experiment. "If Y happened instead of X, what would the outcome have been?" Applied especially to climate-policy and other chaotic-system evaluation problems.
+
+5. **Self-feedback via journaling.** "The easiest and most private way to give self-feedback." Step outside your own perspective long enough to spot patterns. Pairs with the Charles Darwin discipline of writing down disconfirming evidence.
+
+A standalone observation worth flagging: "we embrace all truth, no matter the source" — the religious frame on the same epistemic openness mental models is implicitly trying to teach.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — direct progenitor. Parrish explicitly trying to organize what Munger argued for.
+- [The Death of Expertise](/books/the-death-of-expertise) — circle-of-competence overlap; spirit-of-humility thread.
+- [The Black Swan](/books/the-black-swan) — adjacent on the limits of forecasting and the brittleness of models under tail events.
+- [How To Read a Book](/books/how-to-read-a-book) — active reading is the discipline that builds the latticework.
+- [Discipline Is Destiny](/books/discipline-is-destiny) — Stoic / Epictetus on humility.
+- [Atomic Habits](/books/atomic-habits) — systems-thinking and feedback-loop overlap.
 <!-- /interconnections -->
 
 ## Highlights

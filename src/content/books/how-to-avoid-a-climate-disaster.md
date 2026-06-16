@@ -3,23 +3,40 @@ title: "How To Avoid a Climate Disaster"
 author: "Bill Gates"
 year_read: 2022
 rating: 3
+quake: false
 tags:
   - "technological-innovation"
   - "people-over-politics"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Bill Gates's climate framework read with a recurring `Nuclear Energy` tag (7 of 19 notes) and a venture-investor's eye on what gets funded and why. Five threads:
+
+1. **Climate poverty as the moral center.** "Irresponsible energy consumption by richer countries has mortgaged the progress of poorer countries and used the proceeds for their own gain leaving poor countries to bear the burden." Bangladesh as the recurring example — rising seas hitting the population least able to absorb the cost.
+
+2. **Nuclear energy as the unmissable carbon-free baseload.** Tagged 7 times. TerraPower as the specific bet. The book is treated as making the strongest available case for nuclear-by-the-numbers (kills far fewer people than fossil fuels, runs 24/7, fuel-flexible) and the implicit conclusion is that political opposition is mostly emotional rather than empirical.
+
+3. **First-principles energy economics.** "Compare to Elon Musk breaking down the cost of battery components." Treat clean-energy economics like a SpaceX cost analysis — strip the price down to component costs and find where the leverage actually is.
+
+4. **Force energy producers to recognize the environmental costs of the energy their customers consume.** The carbon-price argument in its most direct form. Fossil fuels are cheap because the true cost isn't priced in; correct the pricing and the substitution happens organically.
+
+5. **Filter for investments that could remove ≥500M tons/year if successful.** Tagged `#Natural Selection Among Startups`. The Breakthrough Energy quantified filter — explicit threshold for what justifies attention. A useful frame for VC sectoral discipline more broadly: don't fund what can't matter at scale.
+
+A standalone curiosity worth flagging: the speculation about battery-laden space stations dropping batteries via Falcon-style remote landings. Speculative but the kind of unconstrained-physical-engineering thinking the climate problem actually rewards.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Skunk Works](/books/skunk-works) — engineering-as-mission frame applied to a different problem.
+- [Chip War](/books/chip-war) — industrial-policy parallel; both books treat infrastructure decisions as civilizational.
+- [The Man From The Future](/books/the-man-from-the-future) — von Neumann's self-replicating-systems thread maps onto climate-scale manufacturing.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — first-principles thinking and incentive design.
+- [The Power Law](/books/the-power-law) — VC structure question; how climate gets funded vs. consumer apps.
 <!-- /interconnections -->
 
 ## Highlights

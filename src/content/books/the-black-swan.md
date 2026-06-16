@@ -3,22 +3,42 @@ title: "The Black Swan"
 author: "Nassim Nicholas Taleb"
 year_read: 2025
 rating: 3
+quake: false
 tags:
   - "capital-allocation"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Taleb's foundational book on tail risk read with a recurring focus on epistemic humility and the failure modes of categorical thinking. Six threads:
+
+1. **The death-of-expertise overlap.** "Our inability to predict in environments subjected to the Black Swan, coupled with a general lack of awareness." Tagged directly to the The Death of Expertise thread — Taleb supplies the math, Nichols supplies the political consequence.
+
+2. **Categorization as the source of error.** "Categorizing is necessary for humans, but it becomes pathological when the category is seen as definitive." Nuance gets crushed under labels. Connects to the "beliefs as leading vs. lagging indicators of group membership" frame from the Romney — A Reckoning read.
+
+3. **Stories displace stories.** "You need a story to displace a story. Metaphors and stories are far more potent than ideas." A specific operational claim about how persuasion actually works — and a warning about the asymmetry between data and narrative.
+
+4. **The turkey problem and the Lindy paradox.** The life of a turkey, observed only by the turkey, looks safest exactly when it's most at risk. The micro data set is the trap. Pairs with the SALY principle from the mental-models reading — pattern extrapolation breaks at exactly the moment when it most matters.
+
+5. **Globalization creates interlocking fragility.** Contagion risk. Big capital agglomerators reduce volatility most days while concentrating it for the rare bad day. The structural critique that runs alongside the philosophical one.
+
+6. **"Your only job is to not get knocked out of the game."** Stay in Extremistan; never let yourself face complete extinction. The Munger "don't go broke" rule in different vocabulary — applied to careers, investments, organizations.
+
+The throughline: most of what humans confidently know is wrong in a way that's invisible until the moment it matters most, and the right response isn't more confidence but more optionality.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Death of Expertise](/books/the-death-of-expertise) — directly cross-referenced in the notes. Taleb supplies the structural argument.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — Munger overlap on cognitive bias and inversion.
+- [The Great Mental Models Volume 1: General Thinking Concepts](/books/the-great-mental-models-volume-1-general-thinking-concepts) — map-vs-territory and SALY threads.
+- [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — Buffett's "don't go broke" applied to investing.
+- [Skunk Works](/books/skunk-works) — anti-platform / decentralization argument structurally similar to Taleb's anti-fragility.
+- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — civilization-fragility parallel.
 <!-- /interconnections -->
 
 ## Highlights

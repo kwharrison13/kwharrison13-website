@@ -3,22 +3,35 @@ title: "The Ride of a Lifetime"
 author: "Robert Iger"
 year_read: 2022
 rating: 3
+quake: false
 tags:
   - "company-building"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Bob Iger's Disney memoir read with explicit cross-reference to the Lily Pads of Your Career and Natural Selection of Time frames. Three threads:
+
+1. **Career inflection points are quiet, not dramatic.** Iger's recurring observation that the moments that mattered weren't the obvious ones. Pairs with the Interest Discovery frame from The Self-Driven Child — recognition of significance is itself a learnable skill.
+
+2. **"Say yes to every opportunity" as career strategy.** "My instinct throughout my career has always been to say yes." Tagged as garden-variety ambition but treated as more — surface area for unpredictable upside. The natural-selection-of-time argument.
+
+3. **Intellectual honesty as the rare leadership virtue.** "They should both have known that it couldn't work, but they willfully avoided asking the hard questions." The Iger version of "disagree and commit only works if disagreement actually happens first" from Amazon Unbound.
+
+A specific aphorism worth holding: "Don't say 'this sucks,' say 'this is how this could be better.'" The Relentless Pursuit of Perfection framing as a daily operating practice.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) _(stub)_ — same company, different era; complementary reads.
+- [Amazon Unbound](/books/amazon-unbound) — operating-discipline overlap; "disagree and commit" thread.
+- [The Self-Driven Child](/books/the-self-driven-child) — interest-discovery and lily-pads-of-career frame.
+- [Atomic Habits](/books/atomic-habits) — daily-improvement discipline.
+- [Essentialism](/books/essentialism) — focus discipline.
 <!-- /interconnections -->
 
 ## Highlights

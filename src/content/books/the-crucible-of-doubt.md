@@ -3,22 +3,38 @@ title: "The Crucible of Doubt"
 author: "Terryl Givens, Fiona Givens"
 year_read: 2022
 rating: 4
+quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+The Givens's book on doubt-and-faith read alongside a sustained tension about creeds, certainty, and how Mormon thought handles disagreement. Four threads:
+
+1. **Doubt as faith-building, not faith-eroding.** Bonhoeffer's "cheap grace is the mortal enemy of the church" surfaces here — easy faith doesn't stick. The Joseph Smith line "no church that does not demand the sacrifice of its members" sits alongside.
+
+2. **Heroes as the human propensity to be exploited.** Dostoevsky's "for nothing has been more unbearable for a man and a human society than freedom" — the readiness with which people surrender agency to hero figures. Connects to the "I want no man to follow me" Joseph F. Smith frame from Discipline Is Destiny.
+
+3. **The God-shaped hole.** "Everyone has a God-shaped hole in their heart that they're trying to fill with anything BUT God." A foundational claim the book operates on without arguing for; the notes treat it as a working hypothesis worth holding.
+
+4. **Empathy leads to suffering.** Nicholas Wolterstorff cited — "we all suffer. For we all prize and love." A moral-psychology frame that pushes back against the Stoic strategy of detachment, and aligns with the Adlerian "be of use" thread from The Courage To Be Disliked.
+
+A side thread worth flagging: the recurring question of contemporary Church practice ("then why do we excommunicate people who think women should get the Priesthood?") — the book is being read with active willingness to apply its arguments back against the institution that produced it.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Faith of a Scientist](/books/the-faith-of-a-scientist) _(stub)_ — adjacent on the psychology-and-religion intersection.
+- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — same doubt-and-doctrine question; Joseph's own creed skepticism.
+- [The Courage To Be Disliked](/books/the-courage-to-be-disliked) — religious-internalization thread.
+- [Discipline Is Destiny](/books/discipline-is-destiny) — "I want no man to follow me" frame.
+- [Crime & Punishment](/books/crime-and-punishment) _(stub)_ — Dostoevsky direct reference.
+- [[Working Toward
 <!-- /interconnections -->
 
 ## Highlights
