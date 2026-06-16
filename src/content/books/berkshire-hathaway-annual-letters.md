@@ -3,23 +3,50 @@ title: "Berkshire Hathaway Annual Letters"
 author: "Warren Buffett"
 year_read: 2020
 rating: 4
+quake: false
 tags:
   - "capital-allocation"
   - "company-building"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Reading this less as passive consumption and more as building out an investment philosophy in real time, with Buffett's letters as scaffolding. 277 notes across 538 highlights — the densest engagement in the library. Eight recurring threads:
+
+1. **Long-term thinking and capital allocation as the core discipline.** Tagged repeatedly. Buffett's frame — "Every investment should be approached as if it were a Buy and Never Sell investment" — surfaces as an operating premise. "The decision to retain earnings is the same as evaluating a new investment."
+
+2. **The Family of Companies / Holding Co model.** Berkshire treated as a model for VC fund structure — a portfolio that holds and compounds rather than churns. "Funds or collections of shareholders, if assembled correctly, could much more effectively be leveraged as a collaborative body."
+
+3. **The Bifurcation of Investing.** A conceptual framework hammered out across the notes. As funds grow they're forced to move upmarket, leaving a long tail of smaller opportunities. Tracy Britt-Cole's departure from Berkshire as the recurring case study.
+
+4. **Working with people you respect; finding multipliers.** Multiple notes circle the same observation — both in business partnership and (explicitly) in marriage. "Don't look for someone you can fix, or whose glaring flaws you think you can patch over with your own strengths. Find people who will excel with or without you." Tag: `Two Complete People`.
+
+5. **Forecasting and post-mortems.** The "fearful when others are greedy" inversion recurs. Multiple notes flag hindsight error. Even Buffett acknowledged as falling victim to "this time it will be different" — used as the basis for post-mortems on past portfolio decisions (Scalefactor as a recurring example).
+
+6. **Competitive moats and capital efficiency are not the same as financial performance.** Repeated distinction. Three Berkshire competitive advantages crystallize across the notes: flexibility, culture, "let opportunities thrive." "Become your own devil's advocate" as a rule.
+
+7. **The Mormon-investment framing.** Sodalicious as a culture case study. Spencer W. Kimball cited on action over knowledge. Wilford Woodruff on personal history. Religious frameworks and investing frameworks treated as substitutable vocabularies for the same underlying questions about character, longevity, and trust.
+
+8. **Specific portfolio bets, in real time.** References to a working portfolio populate the notes: Shopify (recurring), Costco, Amazon, Apple Store, Tiny Capital, Constellation Software, Lambda, Primer, Scalefactor, Marqeta, Twilio/Segment, WeWork. Reading notes doing double duty as a private memo on live deals.
+
+This is the most professionally-aligned book in the library — Buffett as scaffolding for an in-progress investment thesis. Essentially the substrate of the Investing 101 2.0 essay-in-progress.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — repeatedly cross-referenced in both directions. The Buffett-Munger partnership is the spine across both reads. Munger appears throughout the letters; the two books read as a single corpus.
+- [Buffett: The Biography](/books/buffett-the-biography) — primary biographical source on the same subject.
+- [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism) — direct thematic opposite. Worth holding in tension.
+- [The Almanack of Naval Ravikant](/books/the-almanack-of-naval-ravikant) — adjacent compound-knowledge framing.
+- [Talent](/books/talent) — the people-multiplier thesis surfaces in both.
+- [The Power Law](/books/the-power-law) — the alternative-VC frame; Berkshire as VC-shaped-differently.
+- [Skunk Works](/books/skunk-works) — culture-as-competitive-moat overlap.
+- [The Founders](/books/the-founders) — talent-vortex / scenius overlap; PayPal as a network of multipliers.
+- [How to Read a Book](/books/how-to-read-a-book) — the active-reading discipline these notes exemplify.
 <!-- /interconnections -->
 
 ## Highlights

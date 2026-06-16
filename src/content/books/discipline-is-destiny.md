@@ -3,22 +3,42 @@ title: "Discipline Is Destiny"
 author: "Ryan Holiday"
 year_read: 2024
 rating: 4
+quake: false
 tags:
   - "ideological-family-tree"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Ryan Holiday's Stoic discipline book read with a heavy LDS overlay — Spencer W. Kimball, Joseph F. Smith, Hinckley, "righteous in the dark." Six threads:
+
+1. **"Whatever you are, be a good one."** The Lincoln-via-Munger refrain, returning a fourth time across the corpus. Surfaces multiple times in this read alone.
+
+2. **"Don't die with your music in you."** Tagged twice, literally — and the literal interpretation matters here. The Stoic urgency frame ("decide TODAY who you will be") meets the religious urgency frame on the same ground.
+
+3. **Forget yourself and go to work.** The opening religious quote turned into operating principle. Paired with "consider the lilies of the field" — the discipline isn't anxiety, it's quiet competence done daily.
+
+4. **Self-talk as a discipline.** Tagged twice. Negative self-talk isn't a personality trait; it's a system that can be observed, interrupted, and rewritten — the same frame as The Self-Driven Child but applied to the adult version of the self.
+
+5. **The lift-the-supporting-players frame.** Michael Jordan with Dennis Rodman. "Don't try to force people to be Michael Jordan. Help them be their best." The leadership analog to "whatever you are, be a good one" — applied to the people you work with rather than to yourself.
+
+6. **Daily Schedule and SALY ("Same as Last Year") principle.** The Stoic insistence on the daily over the dramatic. "Everything you do is cumulative" (Alan Rickman). The Topham "continuous improvement" frame. Decide today; do it tomorrow; do it the day after.
+
+The throughline: discipline isn't a moral position, it's a system of small choices that produces a self over time. The religious and Stoic vocabularies map onto the same underlying mechanism.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Essentialism](/books/essentialism) — direct pair. Essentialism on what to say no to; Discipline on how to say yes to the chosen yes.
+- [Atomic Habits](/books/atomic-habits) — habit-design overlap; identity-compounds frame.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — Munger's Epictetus references; spirit-of-humility thread.
+- [The Self-Driven Child](/books/the-self-driven-child) — adult-self version of the autonomy/self-talk arguments.
+- [How Will You Measure Your Life_](/books/how-will-you-measure-your-life) — adjacent on values-as-strategy framing.
+- [Way to Be](/books/way-to-be) _(stub)_ — Hinckley's adjacent collection.
 <!-- /interconnections -->
 
 ## Highlights

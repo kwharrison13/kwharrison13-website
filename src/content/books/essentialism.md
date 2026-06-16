@@ -3,23 +3,43 @@ title: "Essentialism"
 author: "Greg McKeown"
 year_read: 2018
 rating: 3
+quake: false
 tags:
   - "company-building"
   - "ideological-family-tree"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+McKeown's book read in story-cataloging mode — most notes start with "Story:" — using the book as a source of parables and worked examples for personal-operating-system development. Six threads:
+
+1. **Multiple priorities is illogical.** The single sharpest reframe: the word "priority" was singular for 500 years before becoming a plural in the 20th century. Having multiple priorities waters down execution.
+
+2. **Tradeoffs as the actual method.** Not "do less" — make explicit choices between big things. The parents who helped their kid trade off competing commitments; the J&J customer-recall principle; the Southwest Airlines simplicity bet. Tradeoff design as a teachable skill.
+
+3. **Monk mode and zero-interruption time.** Multiple stories about extreme lengths to protect focus. The first-Monday-unplugged practice. The importance of keeping a journal. The reading-and-thinking-no-matter-how-busy discipline.
+
+4. **Understanding the constraints of the problem you're actually solving.** Multiple journalist stories — the one who didn't seem to be listening, the one who worked to understand the web of interrelated details, the one who wasn't really addressing the question being asked. Problem framing as the bottleneck.
+
+5. **Extreme criteria for filtering options.** The shelf company that won't hire unless someone is a perfect fit. Limit the search as much as you limit results. The matrix of essential intent. The reverse pilot. The zero-based budget.
+
+6. **Concrete intent over mission-statement words.** "It is the concrete intent, not the words, that matter in a mission statement." The "digital champion" example — clear and essential intent expressed in three syllables rather than three paragraphs.
+
+The story-collection mode is itself revealing — the book is being read primarily as parable inventory, not as a system to install whole-cloth. Stories travel.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Discipline Is Destiny](/books/discipline-is-destiny) — pairs naturally. Essentialism on saying no, Discipline on saying yes to a single self.
+- [Atomic Habits](/books/atomic-habits) — habit-design overlap; the "small change, compounded" frame.
+- [Deep Work](/books/deep-work) — direct overlap on focus protection.
+- [How To Read a Book](/books/how-to-read-a-book) — active-reading discipline overlap.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — Munger's circle-of-competence is the investing-domain version of essentialism.
+- [How to Take Smart Notes](/books/how-to-take-smart-notes) _(stub)_ — notetaking discipline overlap.
 <!-- /interconnections -->
 
 ## Highlights

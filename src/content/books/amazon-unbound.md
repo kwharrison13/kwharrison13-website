@@ -3,22 +3,31 @@ title: "Amazon Unbound"
 author: "Brad Stone"
 year_read: 2021
 rating: 4
+quake: false
 tags:
   - "company-building"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Three threads recur:
+
+1. **A culture of writing and a culture of reading must be coupled.** Bezos banned PowerPoint in favor of six-page narratives, but the discipline only works because the reading culture meets it — Bezos himself "reads every Friday-night two-pizza-team update." Where the reading culture fails to catch what the writing culture produces (the Onetto air-conditioning incident, where a proposal "no one had understood" later exploded into a media crisis), the framework breaks down.
+
+2. **Decentralization needs a north star.** The two-pizza team architecture, single-threaded leaders, OP1 goals — these only work when paired with a unifying strategy document. The notes consistently flag the failure mode of fiefdoms-without-direction.
+
+3. **Shipping is the only real form of experimentation.** "Builds a flow of feedback that drives iteration. Experimentation isn't actually possible without running tests in the real world."
+
+Adjacent themes that surface: "creative wandering" as the engineering posture Bezos trusts; "disagree and commit" only working when the disagreement actually happens first (the Fire Phone failure mode where no one challenged the obstinate leader); hiring as active outreach rather than waiting for inbound; and the importance of using external metrics to validate radical behavior without becoming dependent on them.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Founders](/books/the-founders) — both treat Bezos and Musk as parallel founder archetypes. The Founders quotes Musk explicitly pitching X.com as "the Amazon of financial services," and both books circle the same questions about how a single founder's operating philosophy propagates through a company's machinery.
 <!-- /interconnections -->
 
 ## Highlights

@@ -3,25 +3,47 @@ title: "Poor Charlie's Almanack"
 author: "Charles T. Munger, Peter Kauffman"
 cover: "/images/books/poor charlies almanack.webp"
 year_read: 2020
+rating: 5
 quake: true
 tags:
   - "capital-allocation"
   - "company-building"
   - "open-source-knowledge"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Almost every Munger sentence becomes a hook for an adjacent thought — the densest reading-and-note-taking on any book in the library. Six recurring threads:
+
+1. **Multidisciplinary thinking as a personal mandate.** The "latticework of mental models" thesis dominates. Repeated annotations on fox vs. hedgehog, jack of all trades, "big ideas across big disciplines." An explicit position: "You can't really say 'I'm not interested in math, physics, etc.'"
+
+2. **"Whatever you are, be a good one."** Surfaces as a refrain — Lincoln via Munger. Pairs with "Don't die with your music in you" to form a complete instruction: pick something, commit, finish.
+
+3. **Inversion and spirit of humility as core disciplines.** Charles Darwin's habit of writing down disconfirming evidence; Mark Twain's "what he knows for certain that just ain't so"; Epictetus's "It is impossible to begin to learn that which one thinks one already knows." Self-reflection treated as a measurable skill, not a disposition. "You are not suited to strongly hold an opinion until you can make the counter-argument more effectively than the people who want to argue with you."
+
+4. **Incentives and gaming.** Federal Express, sales rep comp, "gaming systems" — many notes circle the same observation: human behavior is downstream of incentive design, and incentive design is harder than it looks.
+
+5. **The investing lens.** Munger's investment-management critique gets repeatedly tagged with `Venture Returns` — applying it to VC specifically. "Compare to the Innovator's University; not everyone should be Harvard, and not everyone should be Sequoia."
+
+6. **The religious-philosophical translation.** Munger's secular psychology gets read against an LDS framework — connecting his cognitive biases to Book of Mormon verses, Joseph Smith, Gordon B. Hinckley, Spencer Kimball, Thomas S. Monson. The pattern: Munger is reading the same human-nature material scripture has been reading, with different vocabulary.
+
+Standalone threads worth flagging: the recurring `Roam Research` tag (notes functioning as a personal knowledge graph being built in real time); reading biographies as a learning method; and a side observation about deciding what books to read based on how much the author got paid.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — explicit, repeated cross-referencing in both directions. The Buffett-Munger partnership is the spine across both reads. "Febezzlement" appears in both.
+- [Buffett: The Biography](/books/buffett-the-biography) — biography of Munger's partner; more context on the partnership these notes keep reframing.
+- [The Great Mental Models](/books/the-great-mental-models) — Shane Parrish's explicit attempt to organize the latticework Munger argues for. The notes ask "How does Shane Parrish think about this?"
+- [The Black Swan](/books/the-black-swan) — overlapping cognitive-biases material; system-fragility framing.
+- [The Death of Expertise](/books/the-death-of-expertise) — directly referenced regarding the tension between domain expertise and outside-the-box overrides.
+- [How to Read a Book](/books/how-to-read-a-book) — the reading-as-discipline frame appears in both.
+- [Discipline Is Destiny](/books/discipline-is-destiny) — Stoic / Epictetus overlap; the spirit-of-humility thread.
+- [Atomic Habits](/books/atomic-habits) — habit/incentive-design overlap.
 <!-- /interconnections -->
 
 ## Highlights

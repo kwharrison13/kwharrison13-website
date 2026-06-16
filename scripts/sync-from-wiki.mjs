@@ -199,11 +199,15 @@ function syncBook(wikiFile) {
   const raw = fs.readFileSync(wikiFile, 'utf8');
   const { frontmatter: wfm, body: wbody } = parseFrontmatter(raw);
 
+  // Wiki filenames are now title-case (e.g. "Berkshire Hathaway Annual Letters.md").
+  // Derive the website's kebab-case slug from the frontmatter title.
+  const wikiBasename = path.basename(wikiFile, '.md');
+  const slug = wfm.title ? bookSlug(wfm.title) : bookSlug(wikiBasename);
+
   if (wfm.publish !== true) {
-    return { slug: path.basename(wikiFile, '.md'), action: 'skipped', reason: 'publish: false' };
+    return { slug, action: 'skipped', reason: 'publish: false' };
   }
 
-  const slug = path.basename(wikiFile, '.md');
   const targetPath = path.join(WEBSITE_BOOKS, `${slug}.md`);
 
   // Preserve website-only frontmatter fields from existing file

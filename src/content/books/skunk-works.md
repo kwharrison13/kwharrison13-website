@@ -3,24 +3,48 @@ title: "Skunk Works"
 author: "Ben R. Rich"
 year_read: 2024
 rating: 4
+quake: false
 tags:
   - "technological-innovation"
   - "company-building"
   - "historical-futurism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Reads as a case study for the modern defense-tech opportunity — heavy explicit tagging back to Anduril, Palmer Luckey, and the "what would a new skunk works look like today" question. Eight recurring threads:
+
+1. **Founder-led innovation vs. managed monopoly.** Boeing's drift from "engineering org" to "good bottom line business" is the cautionary arc. Founder-mode (Kelly Johnson) and missionary-mentality work; the descent into "build for the buck rather than the mission" is the failure mode.
+
+2. **Speed of delivery as the competitive advantage.** 6 months → 3 months → 5 weeks at peak Skunk Works. The last great speed-of-delivery feat was 1977. Today's defense primes can't operate at that cadence; that's the gap Anduril is built into.
+
+3. **"Trust the customer to know the problem but not the solution."** Recurs 4-5 times across the notes — the single most repeated principle. Build to the mission, not to the spec.
+
+4. **Built to spec vs. built to mission.** Built-to-spec rewards adherence to bureaucracy and produces "exquisite platforms" — impressive single-points-of-failure that get invalidated when warfare evolves around them.
+
+5. **The evolution-of-warfare framework.** Soldiers → planes/tanks → radar/missiles → stealth → drones. The arms race between offensive and defensive technology is the actual structure of military history. Stealth dominated until it didn't. What comes after?
+
+6. **McNamara as the inflection point.** Cost-cutting + later Last Supper consolidation gutted the founder-led innovation era. Increased scrutiny = increased costs. The system that's hardest to escape is the one that punishes risk and rewards bureaucracy.
+
+7. **Anduril as modern skunk works.** Off-the-shelf where possible, custom where it has to be, decentralized lattice, attritable assets. The thesis: defense primes structurally CAN'T do this anymore; an outsider can.
+
+8. **Meritocracy vs. managed monopoly.** Anti-Darwinian competitive behavior. The big-egos-big-platforms-low-risk equilibrium is exactly what blocks lower-cost, higher-volume innovation. The fact that we have new big-power confrontations (China, Russia) while still being stuck in the cost-cutting-managed-monopoly mode is the central tension.
+
+Tactical observations also flagged: team size (Skunk Works ran with ~150 people), the importance of investing in self-funded R&D, and the parallel between Lockheed's drone investment and Anduril's product investment pattern.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Kill Chain](/books/the-kill-chain) — parallel thesis on military innovation collapse. The two books read as a single argument: Skunk Works tells the historical version, Kill Chain tells the present-tense version.
+- [Chip War](/books/chip-war) — the semiconductor side of the same story. Together with Kill Chain and Skunk Works, the three read as a defense-tech trilogy.
+- [The Idea Factory](/books/the-idea-factory) — Bell Labs analog. Same "what does great industrial R&D look like" question, different era.
+- [Flying Blind](/books/flying-blind) — the Boeing decline arc in detail; complements the "engineering org → bottom-line business" theme.
+- [The Founders](/books/the-founders) — talent-vortex parallel. Skunk Works was a talent vortex inside Lockheed.
+- [Boom — Bubbles and the End of Stagnation](/books/boom-bubbles-and-the-end-of-stagnation) _(stub)_ — same "where did the speed go?" question, broader framing.
 <!-- /interconnections -->
 
 ## Highlights

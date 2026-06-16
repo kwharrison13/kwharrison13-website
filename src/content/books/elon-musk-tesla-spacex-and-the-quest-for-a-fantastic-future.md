@@ -3,23 +3,26 @@ title: "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future"
 author: "Ashlee Vance"
 year_read: 2017
 rating: 4
+quake: false
 tags:
   - "technological-innovation"
   - "company-building"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+_Light-engagement read; no notes to synthesize._
+
+This biography sits in the library as a reference for the Musk persona, but the source has zero `**Note:**` blocks — not a book where the in-text response went deep. The highlights below stand on their own as Vance's portrait. For Musk's PayPal-era story (more heavily annotated), see The Founders.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Founders](/books/the-founders) — the Musk content here picks up where Soni's PayPal coverage ends. Vance covers the SpaceX/Tesla doubling-down years; The Founders covers the X.com/PayPal years that immediately precede them.
 <!-- /interconnections -->
 
 ## Highlights

@@ -3,24 +3,51 @@ title: "The Self-Driven Child"
 author: "William Stixrud, Ned Johnson"
 year_read: 2021
 rating: 4
+quake: false
 tags:
   - "company-building"
   - "people-over-politics"
   - "ideological-family-tree"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Read primarily as a parent — but with constant overlay between developmental neuroscience and an LDS framework on agency and self-mastery. Eight recurring threads:
+
+1. **Stress isn't always bad — but parental control usually is.** Controlled, age-appropriate stress (sleep training as the canonical example) builds resilience. Yelling and tight control are ego-driven attempts to regain leverage, not responses to the child's actual needs. Treat kids like adults and expect them to act like kids — not vice versa.
+
+2. **Decouple outcomes from worth.** Accountability ≠ outcomes. Working hard is more important than what you're working toward. "Be able to detach your value from your environment — not just talking less about outcomes, but actually being less focused on them to be genuine."
+
+3. **Intrinsic motivation over extrinsic rewards.** "I am capable of doing this" → "I love this." The progression matters; reverse it and you produce strivers who don't actually want the thing.
+
+4. **"Doing nothing is the most important something."** Daydreaming, downtime, the Default Mode Network as cognitive nutrition. The Buffett quote about "the ability to sit quietly in a room" surfaces here too. Don't overschedule, especially early.
+
+5. **Self-reflection as a teachable skill.** The "observant self" (Happiness Trap). Training kids to observe their own mental state — including their negative self-talk — instead of identifying with it. "You are not necessarily who you think you are."
+
+6. **Religious framing in productive tension with secular neuroscience.** Joseph Smith's "let them govern themselves" rhymes with the book's autonomy thesis. The "righteous in the dark" overlay; patriarchal-blessing-style transparency about your reasons; "we're not earning heaven, we're learning heaven." Gospel-backed trends go further in the secular world (meditation, family history).
+
+7. **"Whatever you are, be a good one."** The Lincoln-via-Munger refrain returns — applied to interest discovery and committing to a path.
+
+8. **Interest discovery is the actual parenting job.** Expose them to people whose lives they can idolize and learn from. "Focus on becoming useful" (John Adams). Lily pads of a career; "what gives you energy?" The Thiel Fellowship and trade school as valid paths.
+
+The throughline: parenting is less about producing outcomes and more about building the psychology behind being good at things.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Battle Hymn of the Tiger Mother](/books/battle-hymn-of-the-tiger-mother) — explicit anti-thesis. The Tiger Mother approach removes autonomy; this book argues autonomy IS the developmental mechanism.
+- [How Will You Measure Your Life_](/books/how-will-you-measure-your-life) — Christensen's "how will you measure your life" frame is invoked directly in the notes.
+- [Discipline Is Destiny](/books/discipline-is-destiny) — overlapping interest in self-talk, agency, daily structure. Reads as the adult-self version of what this book argues for kids.
+- [How to Take Smart Notes](/books/how-to-take-smart-notes) — explicit chapter cross-reference; the "knowledge work practice" thread.
+- [Atomic Habits](/books/atomic-habits) — identity-formation overlap.
+- [Homo Deus](/books/homo-deus) — Harari on self-will referenced directly.
+- [Sapiens](/books/sapiens) — same Harari context.
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious-internalization overlap.
+- [Way to Be](/books/way-to-be) — Hinckley's framing on internalized standards.
 <!-- /interconnections -->
 
 ## Highlights

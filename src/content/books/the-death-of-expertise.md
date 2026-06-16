@@ -3,23 +3,46 @@ title: "The Death of Expertise"
 author: "Tom Nichols"
 year_read: 2021
 rating: 4
+quake: false
 tags:
   - "language-of-discourse"
   - "republic-of-letters"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Nichols on the collapse of trust in expertise, read primarily through two recurring frames: the Voice of the People essay-in-progress and the Spirit of Humility concept. Seven threads:
+
+1. **"Voice of the People."** Tagged 5+ times — this is the essay/concept being developed across this read. The book is supplying empirical scaffolding for a piece on democratic-electorate epistemology.
+
+2. **Increasing confidence without increasing accuracy.** Recurring frame. The Dunning-Kruger version, expressed as a measurable failure mode rather than a meme. Make a section explicitly about this — note in the margins.
+
+3. **Spirit of Humility.** Tagged 4+ times. The character disposition the book implicitly argues for, mapped against the religious-virtue tradition. Not just "be modest" — be unable to begin learning until you've internalized that there's something you don't know.
+
+4. **Educated electorate as social contract.** The accountability loop only closes when voters can evaluate expertise. The Newt Gingrich "I'll go with how people feel" quote is the failure-mode marker.
+
+5. **Hedgehogs and foxes.** Berlin's distinction surfaces here. The notes line up with the Adler reading on triangulation — the fox approach as the antidote to monocular expertise.
+
+6. **Translating academic research.** David Perell tweet referenced — the opportunity to translate domain expertise into everyday language. The bridge that's missing in the academy.
+
+7. **Open Source Knowledge as the structural response.** Tagged repeatedly. Websites never die — online information is pervasive in a way books never were. That changes the epistemic baseline for what "knowing" means.
+
+A specific marginal frame worth keeping: "Our personal identities and our areas of expertise are not interchangeable" — the problem isn't credentialing, it's people confusing their own identity with their domain mastery (or lack of it).
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [How To Read a Book](/books/how-to-read-a-book) — sister book on active reading; explicit cross-reference. Adler's discipline is the antidote Nichols can't quite articulate.
+- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institutional history of expertise; "I know nothing → I know a lot about a little" overlap.
+- [Working in Public](/books/working-in-public) — open-source-knowledge thread.
+- [Romney — A Reckoning](/books/romney-a-reckoning) — adjacent on educated-electorate question.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — Spirit of Humility frame surfaces in both.
+- [The Righteous Mind](/books/the-righteous-mind) _(stub)_ — moral-psychology adjacent.
+- [Talent](/books/talent) — adjacent on what genuine domain expertise looks like.
 <!-- /interconnections -->
 
 ## Highlights

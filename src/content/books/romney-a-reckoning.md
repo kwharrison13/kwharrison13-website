@@ -3,23 +3,45 @@ title: "Romney: A Reckoning"
 author: "McKay Coppins"
 year_read: 2024
 rating: 5
+quake: false
 tags:
   - "people-over-politics"
   - "historical-futurism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+McKay Coppins's Romney biography read with explicit admiration — and with a politics-of-character thesis that emerges across the notes. Seven threads:
+
+1. **Beliefs as leading vs. lagging indicators of group membership.** The single sharpest insight in the notes. The post-2016 GOP shift inverted the relationship — beliefs became downstream of tribe rather than upstream. Romney as the counter-example.
+
+2. **Data over dogma.** Tagged explicitly. Policy through the lens of human outcomes, not partisan signaling. "Truth, obscured by nuance and buried under trifles" — the failure mode.
+
+3. **Politics will always fetter language.** A recurring frustration. Language reduced to signal, not content. The Newt Gingrich pattern from The Death of Expertise resurfaces.
+
+4. **"Live your life so that your children will live their lives hoping to make you proud."** The single most quoted line, treated as the actual rubric. Tagg's letter to his father is the emotional center of the notes.
+
+5. **Educated and informed electorate.** Cross-reference to The Death of Expertise. Romney's basic premise: voters can be trusted with hard truths if they're presented as truths. The fact that this premise is now contested is the diagnosis.
+
+6. **"What you take pride in defines you as a person."** Identity is downstream of what you choose to honor, not what you happen to be. Connects to The Self-Driven Child's identity-formation thread.
+
+7. **Incrementalism > stagnation or decline.** The implicit political philosophy — small forward steps beat both the maximalist revolution and the resigned drift.
+
+A side observation worth flagging: the response here is unusually approving relative to the rest of the library. Most reads carry skepticism or active disagreement; this one is closer to advocacy.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Death of Expertise](/books/the-death-of-expertise) — sister book on democratic-electorate epistemology. Romney is what Nichols's argument looks like in practice.
+- [No Apology](/books/no-apology) — Romney's earlier book; same author-as-subject corpus.
+- [Turnaround](/books/turnaround) — Romney's Olympics turnaround book; operational discipline that maps to his political career.
+- [The Founders](/books/the-founders) — adjacent on character-of-leadership questions, very different domain.
+- [Profiles in Courage](/books/profiles-in-courage) — JFK's analog frame, same character-over-tribe thesis.
+- [Shortest Way Home](/books/shortest-way-home) — Buttigieg's adjacent character-driven political memoir.
 <!-- /interconnections -->
 
 ## Highlights

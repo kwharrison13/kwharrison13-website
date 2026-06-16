@@ -3,23 +3,47 @@ title: "The Kill Chain"
 author: "Christian Brose"
 year_read: 2024
 rating: 4
+quake: false
 tags:
   - "technological-innovation"
   - "historical-futurism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Brose's present-tense companion to Skunk Works — diagnosing how the US lost the speed advantage and what it would take to get it back. Eight recurring threads:
+
+1. **Urgency as the missing variable.** China is the consistent rhyme — military buildup since 1993, intellectual property pressure, the kill-chain inversion (our planes flying away from China, not toward it). The book's whole frame is "you don't have the time you think you have."
+
+2. **Anti-platform warfare and decentralized decision systems.** The exquisite-platform paradigm (carriers, bombers, F-35) is the wrong shape for the next conflict. The right shape is lots of cheaper, more autonomous nodes networked into a lattice — Anduril's whole thesis, treated as the obvious endpoint of the argument.
+
+3. **Consumerization of the enterprise.** The commercial sector outpaced government on software, autonomy, computer vision, networking. The military's procurement model can't access it.
+
+4. **The founder-led innovation era ended with McNamara cost-cutting and Last Supper consolidation.** Connects directly back to Skunk Works: Schriever and Kelly Johnson worked because Eisenhower-era patrons protected risk-taking; that protection is gone.
+
+5. **Hubris about reshaping Russia and China.** The biggest geopolitical mistake was assuming the US could mold them. They had their own civilizational gravity.
+
+6. **War games as the actual policy input.** Repeatedly flagged. The fact that current war games keep ending badly for the US should be more central to defense allocation than it is.
+
+7. **Future surface areas.** Space, quantum computing, BCIs, hypersonic, directed-energy weapons, biological augmentation (not just disease). Each gets a brief flag; together they form a sketch of where defense innovation has to go.
+
+8. **Automation and accountability — together, not separately.** Autonomous systems aren't about removing humans, they're about expanding human capacity. But explainable AI is load-bearing for the trust required to actually deploy them. "Any ethical person who understands data should WANT to get rid of humans driving cars" — Kyle's frame on the automation case.
+
+The implicit thesis: this isn't a budget problem. It's an incentive-structure problem. Reward risk, kill bureaucracy, trust the customer to know the problem (not the solution), and the system fixes itself.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Skunk Works](/books/skunk-works) — sister book. The Skunk Works version is the historical setup; Kill Chain is the present-tense crisis. Read together for the full arc.
+- [Chip War](/books/chip-war) — semiconductor side of the same story. Together they form a defense-tech trilogy.
+- [Flying Blind](/books/flying-blind) — Boeing decline as a microcosm of the broader defense industrial base collapse.
+- [Nuclear War — A Scenario](/books/nuclear-war-a-scenario) _(stub)_ — adjacent on the "we don't take this seriously enough" front.
+- [The Founders](/books/the-founders) — talent vortex parallel; Anduril as the modern PayPal Mafia.
+- [The Power Law](/books/the-power-law) — alternative-VC view; how defense capital is structured matters.
 <!-- /interconnections -->
 
 ## Highlights

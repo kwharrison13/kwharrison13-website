@@ -3,24 +3,38 @@ title: "The Courage To Be Disliked"
 author: "Ichiro Kishimi, Fumitake Koga"
 cover: "/images/books/courage to be disliked.webp"
 year_read: 2025
+rating: 5
 quake: true
 tags:
   - "religious-intellectualism"
   - "ideological-family-tree"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Three notes total, each mapping an Adlerian concept to a vocabulary outside the book itself:
+
+1. **Inferiority/superiority as parenting frame.** The Adlerian point that the feeling of inferiority is a stimulant to growth (not a disease) connects to Amy Chua's notion of feeling simultaneously chosen and rejected — a single coherent thought about how identity formation requires both pressures.
+
+2. **Internalization over external reward.** Adler's critique of reward/punishment pedagogy glosses as "Learning to be righteous in the dark" — a religiously inflected reframe.
+
+3. **Contribution without visible recognition.** The Adlerian "feel of use to someone" concept translates to "It's like putting away your shopping cart. You feel good because you're contributing even if no one sees you." Civic virtue as worth regardless of observation.
+
+Read together, the three notes suggest a translator's exercise — mapping Adlerian psychology onto other vocabularies (tiger-mother concepts, religious internalization, civic virtue) rather than absorbing it as a self-contained system. The quake flag despite the sparse in-text response suggests the thinking happened off-page or in conversation.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Righteous Mind](/books/the-righteous-mind) — adjacent moral-psychology concerns; overlapping interest in how virtue gets internalized.
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — same religious-internalization theme; "righteous in the dark" reads as a Givens-style frame.
+- [The Faith of a Scientist](/books/the-faith-of-a-scientist) — same intersection of psychology and religious framing.
+- [Discipline Is Destiny](/books/discipline-is-destiny) — internalization of virtue in Stoic vocabulary instead of Adlerian.
+- [Atomic Habits](/books/atomic-habits) — small-actions-create-identity overlap with "putting away your shopping cart."
+- [Way to Be](/books/way-to-be) — Hinckley's framing of internalized standards.
 <!-- /interconnections -->
 
 ## Highlights

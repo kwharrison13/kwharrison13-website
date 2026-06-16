@@ -3,23 +3,42 @@ title: "Chip War"
 author: "Chris Miller"
 year_read: 2024
 rating: 5
+quake: false
 tags:
   - "technological-innovation"
   - "historical-futurism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Read primarily as Anduril-thesis source material — 30+ of the 50 notes are simply tagged `#Anduril`, with the book functioning as evidence collection for a defense-tech investment frame rather than as a self-contained semiconductor history. Six threads:
+
+1. **Anduril sourcing as the dominant use.** The single most frequent annotation is `#Anduril`. The book is being mined for facts that support a thesis already forming: civil-military fusion, attritable assets, sensor fusion, the case for verticalized defense-tech. Reading-as-due-diligence rather than reading-for-its-own-sake.
+
+2. **Monopolies as innovation engines.** Bell Labs, TSMC. Central planning fails at the cutting edge, but a single dominant private actor with deep capital and technical patience (TSMC) can do what fragmented competitors can't. Tension with US antitrust instinct.
+
+3. **The semiconductor manufacturing offshoring was a choice, not destiny.** "It wasn't just cheap overseas labor. We could have done more to keep the processes here." The implicit thesis: industrial policy actually matters; "let the market sort it" left the US dependent on geopolitically fragile supply chains.
+
+4. **TI's Innovator's Dilemma moment.** Morris Chang leaving Texas Instruments to found TSMC. Could TI have become TSMC if he stayed? A canonical case study of org-structure preventing innovation that walks away to find a better home.
+
+5. **Civil-Military Fusion as China's strategic doctrine.** A specific term to remember — the deliberate integration of commercial and military technology development, which the US fragments by design.
+
+6. **"Growth may order the meal but profit will always have to pay the check."** A standalone aphorism that surfaces here. The reminder that valuation eventually has to ground itself in operating economics — the AI-overinvestment question the notes flag adjacently.
+
+The book is less digested-and-synthesized than the other reads in this batch — it's been used as a quarry. The synthesis lives in whatever Anduril thesis these notes are feeding into.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Skunk Works](/books/skunk-works) — defense-tech context; Kelly Johnson era contrasted with TSMC era.
+- [The Kill Chain](/books/the-kill-chain) — present-tense companion. Chip War supplies the supply-chain piece of the same argument.
+- [Flying Blind](/books/flying-blind) — industrial-decline parallel in aviation.
+- [The Idea Factory](/books/the-idea-factory) — Bell Labs reference appears in both.
+- [The Power Law](/books/the-power-law) — VC structure and how defense/hard-tech capital gets allocated.
 <!-- /interconnections -->
 
 ## Highlights

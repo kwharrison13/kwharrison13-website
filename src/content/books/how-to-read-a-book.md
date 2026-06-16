@@ -3,24 +3,47 @@ title: "How To Read a Book"
 author: "Mortimer J. Adler, Charles Van Doren"
 year_read: 2021
 rating: 4
+quake: false
 tags:
   - "ideological-family-tree"
   - "republic-of-letters"
   - "open-source-knowledge"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Adler and Van Doren's classic, read with constant religious-text overlay and explicit cross-reference to the Learning, No Greater Responsibility essay-in-progress. Seven recurring threads:
+
+1. **"Learning, no greater responsibility."** Tagged 6+ times — clearly an essay/concept being developed in the margins of this read. The book is being used to substantiate that frame.
+
+2. **"Therefore, what?"** The repeated active-reading prompt. It is not enough to know — we must do. The discipline isn't reading more; it's interrogating what you read for action.
+
+3. **Religious texts as the model for active reading.** D&C 50:21-22 surfaces multiple times. Joseph Smith's "god works by words." Russell M. Nelson on spiritual survival. The argument: scripture has been doing what Adler describes for millennia, and the techniques transfer.
+
+4. **Triangulation and progressive summarization.** Multi-source reading as the actual method. Cross-referencing across books. "He is wise who knows where something is written" — knowing-where-it's-stored beats remembering.
+
+5. **"Live the librarian's library."** A recurring frame — read what others have already curated rather than start fresh. Portfolio ideas come from exploring rather than picking; same principle.
+
+6. **Relational vs. hierarchical ideas.** Direct connection to Roam Research; ideas as networked rather than tree-structured. Block references as the modern equivalent of scriptural verse references.
+
+7. **Never read a book that is less than a year old.** Time-filter heuristic that recurs. Old material has earned its place; new material hasn't proven itself. Counter-pressure against the news cycle and Twitter discourse.
+
+A side thread worth flagging: the question of whether reading FICTION can stretch the mind in the same way as non-fiction. The notes register a respectful disagreement with Adler — the West Wing references, the analogy work, the imaginative range fiction provides aren't trivial.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Death of Expertise](/books/the-death-of-expertise) — explicit cross-reference multiple times. Active reading is the antidote Nichols implicitly argues for.
+- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — same Republic-of-Letters thread; the institutional context for active reading.
+- [Working in Public](/books/working-in-public) — open-source-knowledge tag overlap.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — Munger's reading-as-discipline frame; latticework of mental models.
+- [Atomic Habits](/books/atomic-habits) — habit-of-reading overlap.
+- [Deep Work](/books/deep-work) — adjacent concern with focused intellectual work.
+- [The Great Mental Models](/books/the-great-mental-models) — adjacent reading-for-models frame.
 <!-- /interconnections -->
 
 ## Highlights

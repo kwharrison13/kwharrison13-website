@@ -3,25 +3,43 @@ title: "Reinventing Knowledge: From Alexandria To The Internet"
 author: "Ian F. McNeely, Lisa Wolverton"
 cover: "/images/books/reinventing knkowledge.jpeg"
 year_read: 2021
+rating: 5
 quake: true
 tags:
   - "historical-futurism"
   - "republic-of-letters"
   - "open-source-knowledge"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+McNeely & Wolverton's institutional history reads as a present-day diagnostic. Six recurring threads:
+
+1. **The wisdom-knowledge gap.** T.S. Eliot's "Where is the wisdom we have lost in knowledge?" surfaces at the beginning AND end of the read, framing the whole arc. The hypothesis: when knowledge becomes too easy to acquire, it gets diluted. The same logic that "religion that doesn't require faith will never last" — easy access can hollow out the thing accessed.
+
+2. **Institution builders over great thinkers.** The book argues that historical shifts came from reorganizing institutions, not from solitary geniuses. This thread runs deep — the repeated question "where are the institution builders today?" The framing: "Mediocre idea with strong institutional support vs. strong idea with mediocre support" — infrastructure beats raw insight.
+
+3. **The Republic of Letters as a model for the present.** The single most recurring framing. Decentralized, secular, transnational scholarly network that emerged when politicized religion fractured institutions. Explicitly mapped to Twitter, Substack, GitHub, SciHub — "Republic of Letters 2.0" — and to the DM as the modern letter. The implicit question: what would a deliberate Republic of Letters 2.0 actually look like, and who would build it?
+
+4. **Two survival models through civilizational stress.** Monasteries (defensive retraction) vs. Republic of Letters (exploratory engagement). The repeated questions: "what would survive the next collapse?" and "what are the modern monasteries?"
+
+5. **The talent-marketplace cycle.** Multicultural competition (Ptolemies, Abbasid House of Wisdom) vs. violent unification (Qin, Rome, Alexander). Sketches a "global pride cycle": globalization → prosperity → equality → suspicion → nationalism → tribalism → war. America positioned as Greek-philosophical-democratic and therefore inherently combative.
+
+6. **Apprenticeship and active engagement against the death of expertise.** Pietists vs. shallow extensive readers. "Learning by teaching." The university as a natural network node. Specialization producing "I know a lot about a little." An implicit critique of vocational/quantitative metrics replacing meaningful pedagogy.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Death of Expertise](/books/the-death-of-expertise) — directly cross-referenced. The "I know nothing → I know a little → I know a lot about a little" formula is an attempt to fit Nichols's argument into the historical arc McNeely traces.
+- [Working in Public](/books/working-in-public) — open-source-knowledge tag overlap; both treat decentralized intellectual production as the modern Republic of Letters.
+- [How to Read a Book](/books/how-to-read-a-book) — the active-vs-passive-reading thread surfaces in both; Adler is implicitly the lens being applied to the institutional history.
+- [Sapiens](/books/sapiens) and [Homo Deus](/books/homo-deus) — the civilizational-arc framing overlaps; the "global pride cycle" sketch is a Harari-style move applied to knowledge institutions.
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious-intellectualism overlap; the "what is our new religion?" question recurs in both.
+- [Stretching the Heavens](/books/stretching-the-heavens) — same religious-intellectual thread, applied to a single career.
 <!-- /interconnections -->
 
 ## Highlights
