@@ -7,7 +7,8 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "readwise:import": "node scripts/import-readwise.mjs"
+    "readwise:import": "node scripts/import-readwise.mjs",
+    "wiki:sync": "node scripts/sync-from-wiki.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.2",
