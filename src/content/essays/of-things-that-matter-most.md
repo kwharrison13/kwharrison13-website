@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/of-things-that-matter-most"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [How Will You Measure Your Life?](/books/how-will-you-measure-your-life)
+
+**Essays:** [Kids 3.0](/essays/kids-30), [You're The Only Investment That Matters](/essays/youre-the-only-investment-that-matters), [Toil We Must](/essays/toil-we-must)
+<!-- interconnections-end -->
+
 ![Seattle 2016; the first place my wife and I lived away from family](/images/of-things-that-matter-most-e44782a5.jpg)
 
 Across my several ramblings I often talk about this idea that compels me to enjoy investing so much, and why most of writing is a sort of study of investing:

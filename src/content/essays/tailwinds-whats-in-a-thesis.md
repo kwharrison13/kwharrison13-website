@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/tailwinds-whats-in-a-thesis"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Index Bets: From Products to People](/essays/index-bets-from-products-to-people), [Networked Conviction](/essays/roam-investing)
+<!-- interconnections-end -->
+
 ![Header image for Tailwinds: What's in a Thesis?](/images/tailwinds-whats-in-a-thesis-29916718.png)
 
 Time for an entertaining and only slightly relevant anecdote. In 1964 the film Mary Poppins was wildly successful. After watching it as a kid it [stuck this phrase](https://www.youtube.com/watch?v=SSfGBskfthg) in my brain:

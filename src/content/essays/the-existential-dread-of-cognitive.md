@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-existential-dread-of-cognitive"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Scramble Landscape](/essays/the-scramble-landscape), [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [I Choose Optimism](/essays/i-choose-optimism), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man)
+<!-- interconnections-end -->
+
 ![Header image for The Existential Dread of Cognitive Dissonance](/images/the-existential-dread-of-cognitive-2fff1bcb.png)
 
 When I was in 10th grade, I had to do a writing assignment. Over the course of the year we were supposed to read two books by the same author, and identify common themes and style choices that say something about the author.

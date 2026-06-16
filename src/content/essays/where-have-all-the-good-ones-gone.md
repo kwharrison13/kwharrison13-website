@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/where-have-all-the-good-ones-gone"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Meme Economy](/essays/the-meme-economy), [The Mysteries of an Economic Engine](/essays/the-mysteries-of-an-economic-engine), [The Storytelling of Investing](/essays/the-storytelling-of-investing)
+<!-- interconnections-end -->
+
 *Quick Disclosure: Views expressed in this post are my own and not the views of Contrary LLC or any affiliate. None of the content should be construed or relied upon in any manner as investment, legal, tax, or other advice. You should consult your own advisers as to these matters. Certain information has been obtained from third party sources and has not been independently verified. See <https://contrary.com/legal> for additional important information.*
 
 ![Header image for Where Have All The Good Ones Gone?](/images/where-have-all-the-good-ones-gone-d69792b7.png)

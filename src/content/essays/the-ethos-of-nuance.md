@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-ethos-of-nuance"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [John Quincy Adams](/books/john-quincy-adams)
+
+**Essays:** [Learning To Dream](/essays/learning-to-dream), [Embrace The Nuance](/essays/embrace-the-nuance), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [What Is An Extraordinary Man?](/essays/what-is-an-extraordinary-man)
+<!-- interconnections-end -->
+
 ![Header image for The Ethos of Nuance](/images/the-ethos-of-nuance-c97332a5.png)
 
 ---

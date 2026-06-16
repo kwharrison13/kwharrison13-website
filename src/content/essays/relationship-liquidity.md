@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/relationship-liquidity"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [You Know Who You Should Talk To?](/essays/you-know-who-you-should-talk-to), [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice), [Touch Some Grass](/essays/touch-some-grass), [Learning To Dream](/essays/learning-to-dream), [The Meme Economy](/essays/the-meme-economy), [The Renaissance of Rise and Grind](/essays/the-renaissance-of-rise-and-grind), [The Productization of Venture Capital](/essays/productization)
+<!-- interconnections-end -->
+
 ![Header image for Relationship Liquidity](/images/relationship-liquidity-53cb046f.png)
 
 [They say](https://www.ellevatenetwork.com/articles/9895-you-are-the-average-of-the-five-people-you-spend-time-with) we’re the average of the 5 people we spend the most time with. The same is true of the content we consume. You are the average of the 5 writers, 5 albums, or 5 artists that you spend the most time with.

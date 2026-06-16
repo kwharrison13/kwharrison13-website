@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/taking-a-breath"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Panic Writing](/essays/panic-writing), [Touch Some Grass](/essays/touch-some-grass), [Back To The Grass](/essays/back-to-the-grass)
+<!-- interconnections-end -->
+
 ![Header image for Taking a Breath](/images/taking-a-breath-e5f001ba.jpg)
 
 I’ve written before about how my friend, [Rex Woodbury](https://twitter.com/rex_woodbury), was my inspiration for writing every week. And he and I have both been very consistent, him for longer than I have. But this week, we were talking about how difficult it can be to write weekly. I feel that.

@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/talent"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Productization of Venture Capital](/essays/productization)
+<!-- interconnections-end -->
+
 ![Header image for Why Most VCs Suck At Talent](/images/talent-7bc9241c.png)
 
 Talk of "The Great Resignation" is everywhere. 70 million people changed jobs in 2021 and [70% of that was voluntary](https://www.zippia.com/advice/employee-turnover-statistics/). People choosing to quit. "Two out of every five office workers are planning to resign within the next year, **alluding to growing disillusionment among employees.**" Think about your own company. How many flight risks do you know of? Something is changing in the world of talent.

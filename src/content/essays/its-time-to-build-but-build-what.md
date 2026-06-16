@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/its-time-to-build-but-build-what"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Axis of Building](/essays/the-axis-of-building), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [Stewards of Capital](/essays/stewards-of-capital), [Surviving The Death of Venture Capital](/essays/surviving-the-death-of-venture-capital), [Where Have All The Good Ones Gone?](/essays/where-have-all-the-good-ones-gone), [The Renaissance of Rise and Grind](/essays/the-renaissance-of-rise-and-grind)
+<!-- interconnections-end -->
+
 ![Header image for It's Time To Build... But Build What?](/images/its-time-to-build-but-build-what-9fd434e4.png)
 
 COVID created a real time warp. It might shock you to hear that in a few months, it will have been four years since lockdowns started in the US. There is someone out there who was just starting high school when we went remote, and now they're gearing up to graduate.

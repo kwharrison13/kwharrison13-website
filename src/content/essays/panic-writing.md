@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/panic-writing"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Having a Conversation With Yourself: 2023](/essays/having-a-conversation-with-yourself-f29), [On Writing](/essays/on-writing), [Becoming An Allocator](/essays/becoming-an-allocator), [The Value Chain of Capital](/essays/the-value-chain-of-capital), [Oops, I Did It Again](/essays/oops-i-did-it-again), [Surviving The Death of Venture Capital](/essays/surviving-the-death-of-venture-capital), [Books 2.0](/essays/books-20)
+<!-- interconnections-end -->
+
 ![Header image for Panic Writing](/images/panic-writing-49c03fbc.png)
 
 [When I looked back](https://investing1012dot0.substack.com/p/having-a-conversation-with-yourself-f29) over recurring themes in my writing over the course of 2023, one of the ones that stuck out to me was my method of "panic writing." I first started describing my process of writing this way when people would ask me how I'm so consistent. The first time I put it in my writing, I believe, was in September 2023 for a piece called "[On Writing](https://investing1012dot0.substack.com/p/on-writing)":

@@ -7,6 +7,14 @@ tags: ['capital-allocation', 'language-of-discourse', 'historical-futurism', 'co
 substack_url: "https://investing101.substack.com/p/hijacking-the-hucksters-hypebook"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Big Short](/books/the-big-short)
+
+**Essays:** [Dr. Tokens or: How I Learned to Stop Worrying and Love the AI Bubble](/essays/dr-tokens-or-how-i-learned-to-stop), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [Revisiting Clarity of Thought](/essays/revisiting-clarity-of-thought), [Cultivating Cults](/essays/cultivating-cults)
+<!-- interconnections-end -->
+
 ![Header image for Hijacking The Huckster's Hypebook](/images/hijacking-the-hucksters-hypebook-bee5b90bdcd6.png)
 
 This is a free weekly newsletter about the art and science of building and investing in tech companies. To receive Investing 101 in your inbox each week, subscribe here:

@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-art-and-science-of-investing"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Productization of Venture Capital](/essays/productization), [Having a Conversation With Yourself: 2022](/essays/having-a-conversation-with-yourself), [Investing 101 2.0](/essays/coming-soon), [Of Things That Matter Most](/essays/of-things-that-matter-most), [The Mysteries of an Economic Engine](/essays/the-mysteries-of-an-economic-engine), [The Diligence That's Due](/essays/the-diligence-thats-due), [The Tales of Usefulness Have Been Greatly Exaggerated](/essays/the-tales-of-their-usefulness-have), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [Stewards of Capital](/essays/stewards-of-capital), [Fantasy Capital](/essays/fantasy-capital), [The Reality of Unrealistic Outliers](/essays/the-reality-of-unrealistic-outliers), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [Markets, Markets, and Markets](/essays/markets-markets-and-markets)
+<!-- interconnections-end -->
+
 ![Header image for The Art and Science of Investing](/images/the-art-and-science-of-investing-b0221110.png)
 
 # The Calf Path

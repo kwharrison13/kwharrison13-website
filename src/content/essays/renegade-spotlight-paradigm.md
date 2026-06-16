@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/renegade-spotlight-paradigm"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Renegades of Venture Capital](/essays/the-renegades-of-venture-capital), [Renegade Spotlight: Homebrew](/essays/homebrew), [Renegade Spotlight: Lowercarbon](/essays/lowercarbon), [The Productization of Venture Capital](/essays/productization)
+<!-- interconnections-end -->
+
 ![Header image for Renegade Spotlight: Paradigm](/images/renegade-spotlight-paradigm-f8afa9d5.png)
 
 ## Renegade Spotlights

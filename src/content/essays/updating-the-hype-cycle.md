@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/updating-the-hype-cycle"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Talent](/books/talent)
+
+**Essays:** [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty), [The Hype Cycles of Venture Capital](/essays/the-hype-cycles-of-venture-capital), [The Storytelling of Investing](/essays/the-storytelling-of-investing)
+<!-- interconnections-end -->
+
 ![Header image for Updating The Hype Cycle](/images/updating-the-hype-cycle-21756d98.png)
 
 Warren Buffett and Charlie Munger are two rich philosopher kings whose purchases of candy stores and Coca-Cola shares have spawned aphorisms on life, psychology, and investing that are the closest thing to a modern day Ben Franklin that we have.

@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/let-me-know-how-i-can-be-helpful"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Tales of Usefulness Have Been Greatly Exaggerated](/essays/the-tales-of-their-usefulness-have), [The Productization of Venture Capital](/essays/productization), [What Is An Investor?](/essays/what-is-an-investor)
+<!-- interconnections-end -->
+
 ![Header image for Let Me Know How I Can Be Helpful](/images/let-me-know-how-i-can-be-helpful-77c5a052.png)
 
 I am not good at playing guitar. That's not false humility. That is an honest to goodness fact. But when you're younger, there is an appeal of the aura of certain activities that can exist regardless of your commitment to the activity.

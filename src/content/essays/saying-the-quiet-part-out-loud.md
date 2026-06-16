@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/saying-the-quiet-part-out-loud"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Playing To Win](/books/playing-to-win)
+
+**Essays:** [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [“Build What’s Fundable”](/essays/build-whats-fundable), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [Playing Different (Stupider) Games](/essays/player-different-stupider-games)
+<!-- interconnections-end -->
+
 ![Header image for Saying The Quiet Part Out Loud](/images/saying-the-quiet-part-out-loud-86671c7f.png)
 
 ---

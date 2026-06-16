@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-renegades-of-venture-capital"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Innovator's Dilemma](/books/the-innovator-s-dilemma)
+
+**Essays:** [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Productization of Venture Capital](/essays/productization), [Why Most VCs Suck At Talent](/essays/talent), [Renegade Spotlight: Homebrew](/essays/homebrew), [Renegade Spotlight: Lowercarbon](/essays/lowercarbon)
+<!-- interconnections-end -->
+
 ![Header image for The Renegades of Venture Capital](/images/the-renegades-of-venture-capital-7c2871a0.png)
 
 ## Defining The Renegades

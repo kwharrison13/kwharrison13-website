@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/decades"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Idea Factory](/books/the-idea-factory), [The Road](/books/the-road)
+
+**Essays:** [The Rising Generation](/essays/the-rising-generation), [The Natural Selection of Time](/essays/the-natural-selection-of-time)
+<!-- interconnections-end -->
+
 ![Source:Steinberg](/images/decades-eb4cfec8.png)
 
 In 1995, Bill Gates was 40 years old and had been running Microsoft as a public company for just 9 years. The company was worth [$50 billion](https://companiesmarketcap.com/microsoft/marketcap/). That same year, he wrote a book called [The Road Ahead](https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0670859133). If you were to read the 1995 edition of that book now, you would notice that there was one glaring thing missing: the internet.

@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/valuations"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [I Love The Taste of Pain in the Morning](/essays/pain)
+<!-- interconnections-end -->
+
 ![Header image for What's In a Valuation?](/images/valuations-bd8e22b9.png)
 
 As everyone with a brokerage account braces for [emotional trauma](https://investing1012dot0.substack.com/p/pain) they've rarely if ever experienced before it has been interesting to watch public and private investors react. There are aspects of public and private investing that I have always thought are unnecessarily divided.

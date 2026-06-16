@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-unholy-trinity-of-venture-capital"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Controlling Your Own Destiny](/essays/controlling-your-own-destiny), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [Different Strokes For Different Folks](/essays/different-strokes-for-different-folks), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [VC Contagion](/essays/vc-contagion), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype)
+<!-- interconnections-end -->
+
 ![Header image for The Unholy Trinity of Venture Capital](/images/the-unholy-trinity-of-venture-capital-a6677a69.png)
 
 As a senior in high school I had an English teacher, Mr. Malone, who had a huge impact on me. His class was, I think, the first time I was exposed to the idea of literature for the sake of literature. Reading because you wanted to, not just because you had to. Absorbing the written word for the feeling, not the grade. It was in his class that I wrote the first [piece of writing](https://drive.google.com/file/d/1oozyb8VjH0GMGzaOUlyOmmj2s4W1HmXa/view?usp=sharing) that I was ever truly proud of. He was a very good guy and sadly [passed away](https://obits.mlive.com/us/obituaries/jackson/name/stephen-malone-obituary?id=18874612) in 2014.

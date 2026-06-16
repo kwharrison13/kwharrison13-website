@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-apprenticeship-litmus-test"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Why Most VCs Suck At Talent](/essays/talent), [Fantasy Capital](/essays/fantasy-capital), [Eat What You Kill](/essays/eat-what-you-kill), [Little Sister Syndrome](/essays/little-sister-syndrome)
+<!-- interconnections-end -->
+
 ![Header image for The Apprenticeship Litmus Test](/images/the-apprenticeship-litmus-test-8a61097f.png)
 
 I've always managed to straddle a myriad of typical lines between personalities and perspectives.

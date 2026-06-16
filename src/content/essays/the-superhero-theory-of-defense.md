@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-superhero-theory-of-defense"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Hits Business](/essays/the-hits-business)
+<!-- interconnections-end -->
+
 ![Header image for The Superhero Theory of Defense](/images/the-superhero-theory-of-defense-e0754c2d.png)
 
 In 11th grade, I got punched in the face. I remember vividly walking through the crowded halls of my high school. I saw a kid approaching me who I knew and had even sat next to in my physics class. He was almost skipping towards me. Before I knew it, I was simultaneously hearing him say, "I don't like you motherf\*cker" and seeing his fist connect with the side of my face.

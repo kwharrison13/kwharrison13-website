@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/revisiting-competitive-moats"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Competitive Moats](/essays/competitive-moats), [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The 7 Deadly Sins of Venture Capital (with Dan Gray)](/essays/the-7-deadly-sins-of-venture-capital)
+<!-- interconnections-end -->
+
 ![Source:Fat Baby Funds](/images/revisiting-competitive-moats-cbbced7e.png)
 
 *In March 2023, I wrote a piece called "[Competitive Moats](https://investing101.substack.com/p/competitive-moats)." Since then, the conversation has really shifted from "GPT wrappers have no moat" to "foundation models have no moat." So I decided to revisit the original piece.*

@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/science-fictions-dueling-fates"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Nuclear War: a Scenario](/books/nuclear-war-a-scenario), [2034: A Novel of the Next World War](/books/2034-a-novel-of-the-next-world-war), [Brave New World](/books/brave-new-world)
+
+**Essays:** [Contrary Research](/essays/contrary-research), [Historical Futurism](/essays/historical-futurism), [Life Imitates Art](/essays/life-imitates-art), [The Value Cycle](/essays/the-value-cycle), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [The Hits Business](/essays/the-hits-business), [Panic Writing](/essays/panic-writing)
+<!-- interconnections-end -->
+
 *Quick Announcement: [Contrary Research](https://research.contrary.com/) is hiring for a [Research Analyst](https://contrary.notion.site/Research-Analyst-August-2024-8d3918fd774d418991505ea09f7543bb?pvs=4). To apply, reach out to research@contrary.com. Alright,* on with the show!
 
 ![Header image for Science Fiction's Dueling Fates](/images/science-fictions-dueling-fates-f06cd285.png)

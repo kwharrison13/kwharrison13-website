@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/oops-i-did-it-again"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Becoming An Allocator](/essays/becoming-an-allocator), [On Writing](/essays/on-writing), [Contrary Research](/essays/contrary-research)
+<!-- interconnections-end -->
+
 ![Header image for Oops, I Did It Again](/images/oops-i-did-it-again-ad008e41.jpg)
 
 *[I’ve written before](https://investing1012dot0.substack.com/p/becoming-an-allocator) about how I occasionally do this thing where I bite off more than I can chew. I reserve a few hours each Saturday morning for [panic writing](https://investing1012dot0.substack.com/p/on-writing) my posts. I almost never really have time throughout the week to spend any time on it. But if I ever try and tackle a bigger topic, I often run out of time before I have to sprint off to a busy Saturday of playdates, Tennis practice, and errands to run.*

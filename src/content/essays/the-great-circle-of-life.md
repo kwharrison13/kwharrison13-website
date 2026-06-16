@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-great-circle-of-life"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Golden Son](/books/golden-son)
+<!-- interconnections-end -->
+
 ![The Great Circle of Life](/images/the-great-circle-of-life-d8accaae.png)
 
 > "Death begets death begets death." (Lorn au Arcos; Golden Son)

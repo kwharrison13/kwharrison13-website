@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/chips-for-america"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [America](/essays/america), [An American Optimism](/essays/an-american-optimism)
+<!-- interconnections-end -->
+
 ![Header image for Chips For America](/images/chips-for-america-431b3363.png)
 
 I’ve written [over](https://investing101.substack.com/p/america) and [over](https://investing101.substack.com/p/an-american-optimism) again about how much I love the United States of America. That, despite all of the weaknesses and mistakes the US has made, “it doesn't change the fact that America is a unique bastion of freedom, opportunity, and achievement that represents a critical role in human progress.” Instead of shaming or doom-pilling, I prefer to reflect on solutions.

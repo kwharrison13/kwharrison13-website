@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/2023-in-books"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Power Law: Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future)
+
+**Essays:** [The Wrath of Reading & Writing](/essays/the-wrath-of-reading-and-writing), [On Writing](/essays/on-writing), [2022 in Books](/essays/2022-in-books), [The Professionalization of Startups](/essays/the-professionalization-of-startups)
+<!-- interconnections-end -->
+
 ![Header image for 2023 In Books](/images/2023-in-books-023ece8b.jpg)
 
 # From Reading To Writing And Beyond

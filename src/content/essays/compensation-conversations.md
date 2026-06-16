@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/compensation-conversations"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [What's In a Valuation?](/essays/valuations), [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice), [The Talent Vortex: Mafias and Magnets](/essays/talent-vortex), [Building a Product Engine](/essays/building-a-product-engine)
+<!-- interconnections-end -->
+
 ![Header image for Compensation Conversations](/images/compensation-conversations-6348256c.png)
 
 In 2006 Facebook was two years old and had only just expanded [beyond college students](https://www.britannica.com/topic/Facebook). Google was eight years old but had only barely crossed [200 billlion searches](https://www.internetlivestats.com/google-search-statistics/) (vs 2 trillion today). That same year a well-known marketing expert named Clive Humbly gave [a talk](https://ana.blogs.com/maestros/2006/11/data_is_the_new.html) called "Data is the new oil."

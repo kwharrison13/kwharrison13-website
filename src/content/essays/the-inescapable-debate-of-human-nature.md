@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-inescapable-debate-of-human-nature"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [John Adams](/books/john-adams)
+
+**Essays:** [Touch Some Grass](/essays/touch-some-grass), [King-Making vs. Taste-Making](/essays/king-making-vs-taste-making), [All According To The [Terrible] Plan](/essays/according-to-plan), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype), [The Meme Economy](/essays/the-meme-economy), [The Value Chain of Capital](/essays/the-value-chain-of-capital), [The Hype Cycles of Venture Capital](/essays/the-hype-cycles-of-venture-capital), [Stewards of Capital](/essays/stewards-of-capital), [Playing Different (Stupider) Games](/essays/player-different-stupider-games)
+<!-- interconnections-end -->
+
 ![Header image for The Inescapable Debate of Human Nature](/images/the-inescapable-debate-of-human-nature-a0e350ce.png)
 
 The more writing I do, the more I start to feel [a similar feeling](https://x.com/kwharrison13/status/1711764077637435753?s=20); this feeling of having threads of ideas made up of words I can't find a way to release. Today is one of those day.

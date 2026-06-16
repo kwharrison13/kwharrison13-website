@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/kids-30"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Leonardo Da Vinci](/books/leonardo-da-vinci), [How To Take Smart Notes](/books/how-to-take-smart-notes), [The Almanack of Naval Ravikant](/books/the-almanack-of-naval-ravikant)
+<!-- interconnections-end -->
+
 ![Header image for Kids 3.0](/images/kids-30-b4842c43.jpg)
 
 My wife and I welcomed baby number 3 into the family this week. Dax, Jed, and our newest addition: Eve. We're big into 3-letter names. So with plenty to keep me busy enjoying our new addition I wrote a shorter post than usual, mostly to keep up with my goal of writing every week. In between feeding, crying (me, not Eve), and sleeping (Eve, not me) I've had plenty of time for casual reflection.

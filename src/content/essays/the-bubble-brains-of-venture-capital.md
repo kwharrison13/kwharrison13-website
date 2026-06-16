@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-bubble-brains-of-venture-capital"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Learnable Empathy](/essays/learnable-empathy), [Dreaming Of Dry Powder](/essays/dreaming-of-dry-powder), [The Value Chain of Capital](/essays/the-value-chain-of-capital), [The Professionalization of Startups](/essays/the-professionalization-of-startups), [The Meme Economy](/essays/the-meme-economy), [All According To The [Terrible] Plan](/essays/according-to-plan), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Controlling Your Own Destiny](/essays/controlling-your-own-destiny), [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty), [What's In a Valuation?](/essays/valuations), [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer), [Fantasy Capital](/essays/fantasy-capital), [Learning To Dream](/essays/learning-to-dream), [Open-Source Knowledge](/essays/open-source-knowledge), [VC Contagion](/essays/vc-contagion), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [Surviving The Death of Venture Capital](/essays/surviving-the-death-of-venture-capital)
+<!-- interconnections-end -->
+
 ![Header image for The Bubble Brains of Silicon Valley](/images/the-bubble-brains-of-venture-capital-5cd6edd8.png)
 
 I recently stumbled on a new Netflix show called "[The Fall of the House of Usher](https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries))." I haven't finished the show, so I can't speak to the whole series. But one interaction really struck me.

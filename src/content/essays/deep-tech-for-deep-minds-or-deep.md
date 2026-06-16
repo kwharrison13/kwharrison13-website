@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/deep-tech-for-deep-minds-or-deep"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Power Law: Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future)
+
+**Essays:** [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [The Hype Cycles of Venture Capital](/essays/the-hype-cycles-of-venture-capital), [Updating The Hype Cycle](/essays/updating-the-hype-cycle), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype), [On Hype And Hot Air](/essays/on-hype-and-hot-air), [Revisiting The Death of a Venture Fund](/essays/revisiting-the-death-of-a-venture)
+<!-- interconnections-end -->
+
 ![Header image for Deep Tech For Deep Minds? Or Deep Pockets?](/images/deep-tech-for-deep-minds-or-deep-afe77559.png)
 
 People love to talk about the founding myths of venture capital ([myself included](https://investing1012dot0.substack.com/p/the-puritans-of-venture-capital)). The [Traitorous Eight](https://en.wikipedia.org/wiki/Traitorous_eight), Arthur Rock, [Don Valentine](https://en.wikipedia.org/wiki/Don_Valentine). Books like [The Power Law](https://www.amazon.com/Power-Law-Venture-Capital-Making/dp/052555999X) by Sebastian Mallaby is a great overview.

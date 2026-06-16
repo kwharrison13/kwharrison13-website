@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/stewards-of-capital"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [John Adams](/books/john-adams)
+
+**Essays:** [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [The Mysteries of an Economic Engine](/essays/the-mysteries-of-an-economic-engine)
+<!-- interconnections-end -->
+
 ![Header image for Stewards of Capital](/images/stewards-of-capital-f04b054e.png)
 
 Stop me if you've heard this one before.

@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/being-honest-about-intellectual-honesty"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [So You've Been Publicly Shamed](/books/so-you-ve-been-publicly-shamed)
+
+**Essays:** [The Storytelling of Investing](/essays/the-storytelling-of-investing), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [Toil We Must](/essays/toil-we-must)
+<!-- interconnections-end -->
+
 ![The battle between intellectual honesty and dishonesty in meme form](/images/being-honest-about-intellectual-honesty-f3f5bbf9.png)
 
 Today's post will be brief. I've got some exciting things coming in the next few weeks, but I wanted to take some time to think through a conversation I've now had with several people over the last week or so: intellectual honesty

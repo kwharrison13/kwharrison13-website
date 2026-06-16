@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/in-defense-of-disney"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city)
+
+**Essays:** [Kids 3.0](/essays/kids-30), [Even More a Father](/essays/even-more-a-father), [Learning To Dream](/essays/learning-to-dream)
+<!-- interconnections-end -->
+
 ![Header image for In Defense of Disney](/images/in-defense-of-disney-5b2dc66f.png)
 
 ---

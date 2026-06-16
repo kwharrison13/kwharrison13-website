@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/roam-investing"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city)
+
+**Essays:** [Investing 101 2.0](/essays/coming-soon)
+<!-- interconnections-end -->
+
 ![Header image for Networked Conviction](/images/roam-investing-ddbbfe26.png)
 
 Investing, in simplest terms, is taking one finite resource and trying to allocate it to maximize for an ideal outcome. Whether you're allocating money, time, energy, or attention. Everyone is an allocator of something. Investing is an opportunity to evaluate what you believe. To gain conviction. And then to act on that conviction.

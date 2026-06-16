@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/seek-sunlight"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Courage To Be Disliked](/books/the-courage-to-be-disliked)
+
+**Essays:** [Touch Some Grass](/essays/touch-some-grass), [Back To The Grass](/essays/back-to-the-grass), [Taking a Breath](/essays/taking-a-breath), [Guide Your Gaze](/essays/guide-you-gaze), [Pondering The Grass](/essays/pondering-the-grass), [The Groucho Marx Mandate](/essays/the-groucho-marx-mandate)
+<!-- interconnections-end -->
+
 ![Header image for Seek Sunlight](/images/seek-sunlight-b53c0268.png)
 
 Over the course of the last few years, I've written something each week. Consistency was my one goal when I set out and boy have I stuck to that because my quality of writing has ebbed and flowed dramatically. If you've read much of my writing you'll know they're not all winners.

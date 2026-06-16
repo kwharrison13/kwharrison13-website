@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/life-imitates-art"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [I, Robot](/books/i-robot)
+
+**Essays:** [Historical Futurism](/essays/historical-futurism), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what)
+<!-- interconnections-end -->
+
 ![Header image for Life Imitates Art](/images/life-imitates-art-656cc762.png)
 
 # But First, A Movie Rant

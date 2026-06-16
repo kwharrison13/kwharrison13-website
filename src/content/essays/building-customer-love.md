@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/building-customer-love"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Contrary Research](/essays/contrary-research), [Competitive Moats](/essays/competitive-moats)
+<!-- interconnections-end -->
+
 ![Header image for Building Customer Love](/images/building-customer-love-d632be13.jpg)
 
 *This is a brief post sharing more about an upcoming [Contrary Research](http://research.contrary.com) event I'm helping host.*

@@ -8,6 +8,12 @@ type: "podcast"
 substack_url: "https://investing101.substack.com/p/the-loudest-models-with-trace-cohen"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Venture Capital Unbundled](/essays/venture-capital-unbundled), [The Unholy Trinity of Venture Capital](/essays/the-unholy-trinity-of-venture-capital), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [The Value Chain of Capital](/essays/the-value-chain-of-capital)
+<!-- interconnections-end -->
+
 ![Header image for The Loudest Models (with Trace Cohen)](/images/the-loudest-models-with-trace-cohen-cc0ca593.png)
 
 ---

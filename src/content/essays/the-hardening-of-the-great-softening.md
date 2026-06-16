@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-hardening-of-the-great-softening"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Pace of FOMO Cycles](/essays/the-pace-of-fomo-cycles), [Toil We Must](/essays/toil-we-must), [The Renaissance of Rise and Grind](/essays/the-renaissance-of-rise-and-grind), [Driving Your Own Train](/essays/driving-your-own-train), [The Tales of Usefulness Have Been Greatly Exaggerated](/essays/the-tales-of-their-usefulness-have), [The Glass-Half War: Empty or Full?](/essays/the-glass-half-war-empty-or-full), [The Non-Zero-Sum Game of Ambition](/essays/the-non-zero-sum-game-of-ambition), [Oh Say, What is Truth?](/essays/oh-say-what-is-truth), [Life Imitates Art](/essays/life-imitates-art), [The Existential Dread of Cognitive Dissonance](/essays/the-existential-dread-of-cognitive), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [The Tail That Wags The Dog](/essays/the-tail-that-wags-the-dog), [Controlling Your Own Destiny](/essays/controlling-your-own-destiny)
+<!-- interconnections-end -->
+
 ![Header image for The Hardening Of The Great Softening](/images/the-hardening-of-the-great-softening-bae5162b.png)
 
 *Apologies for the delayed send out. After 2.5 years, I've come the second closest to missing a week in my writing that I’ve come due to a busy work week, a retreat in San Diego, and a reunion. The last time was in [October 2023](https://investing1012dot0.substack.com/p/the-pace-of-fomo-cycles) when I got deathly sick. Alrighty. Onward.*

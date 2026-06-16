@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/do-nothing-and-do-everything"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [“Build What’s Fundable”](/essays/build-whats-fundable)
+<!-- interconnections-end -->
+
 ![Impression, Sunrise by Claude Monet](/images/do-nothing-and-do-everything-72701d03.png)
 
 ---

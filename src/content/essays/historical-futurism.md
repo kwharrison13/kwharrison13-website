@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/historical-futurism"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [I, Robot](/books/i-robot), [The Road](/books/the-road), [Ready Player One](/books/ready-player-one)
+
+**Essays:** [Markets, Markets, and Markets](/essays/markets-markets-and-markets), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Open-Source Knowledge](/essays/open-source-knowledge), [Learning To Dream](/essays/learning-to-dream), [The Gospel of ARK Invest](/essays/the-gospel-of-ark-invest), [The Openness of AI](/essays/the-openness-of-ai)
+<!-- interconnections-end -->
+
 ![Header image for Historical Futurism](/images/historical-futurism-e28752a0.png)
 
 ---

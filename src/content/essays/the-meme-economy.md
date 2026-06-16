@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-meme-economy"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Controlling Your Own Destiny](/essays/controlling-your-own-destiny), [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty), [Open-Source Knowledge](/essays/open-source-knowledge), [Learning To Dream](/essays/learning-to-dream), [Markets, Markets, and Markets](/essays/markets-markets-and-markets), [The Talent Vortex: Mafias and Magnets](/essays/talent-vortex), [The Professionalization of Startups](/essays/the-professionalization-of-startups), [Fantasy Capital](/essays/fantasy-capital), [What's In a Valuation?](/essays/valuations)
+<!-- interconnections-end -->
+
 ![Header image for The Meme Economy](/images/the-meme-economy-767f8fa1.jpg)
 
 # A Return To Storytelling

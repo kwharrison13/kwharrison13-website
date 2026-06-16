@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-blackstone-of-innovation"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [What It Takes](/books/what-it-takes), [Lock In](/books/lock-in)
+
+**Essays:** [Renegade Spotlight: Homebrew](/essays/homebrew), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Productization of Venture Capital](/essays/productization), [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice), [Contrary Research](/essays/contrary-research)
+<!-- interconnections-end -->
+
 ![Header image for The Blackstone of Innovation](/images/the-blackstone-of-innovation-346632b9.png)
 
 Biographies can be incredibly humanizing. You take these people that feel larger than life, and hear about their mistakes and embarrassments. One story that I enjoyed comes from the book "[What It Takes](https://www.amazon.com/What-Takes-Lessons-Pursuit-Excellence/dp/1501158147)," by Stephen Schwarzman, the founder of Blackstone.

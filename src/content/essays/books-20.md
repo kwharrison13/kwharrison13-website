@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/books-20"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Working in Public](/books/working-in-public), [Snow Crash](/books/snow-crash)
+
+**Essays:** [Long Enough To Matter](/essays/long-enough-to-matter), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [Eat What You Kill](/essays/eat-what-you-kill), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [Open-Source Knowledge](/essays/open-source-knowledge), [Networked Conviction](/essays/roam-investing), [What's In a Post-Mortem?](/essays/whats-in-a-post-mortem), [The Meme Economy](/essays/the-meme-economy), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what), [Building the Global Knowledge Graph](/essays/building-the-global-knowledge-graph)
+<!-- interconnections-end -->
+
 *A few weeks ago, [I wrote about](https://investing1012dot0.substack.com/p/long-enough-to-matter) ~20 different ideas that I've been thinking about touching on this year. Rather than start to randomly prioritize, I thought I'd ask my readers (you) what you were most interested in. [The Puritans of Venture Capital](https://investing1012dot0.substack.com/p/the-puritans-of-venture-capital) was the top pick. Second up? This one:*
 
 ***Books 2.0**: Books are the LEAST effective way for information transfer, yet they remain one of the most popular. There's got to be a better way to design systems of information.*

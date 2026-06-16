@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-hype-cycles-of-venture-capital"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Natural Selection Among Startups](/essays/natural-selection-among-startups), [The Storytelling of Investing](/essays/the-storytelling-of-investing)
+<!-- interconnections-end -->
+
 ![Header image for The Hype Cycles of Venture Capital](/images/the-hype-cycles-of-venture-capital-eda819f2.png)
 
 Before we had NFTs, the cultural image collecting the world was obsessed with was Pokemon cards. In the early 2000's, I was caught up, like most people my age, collecting them. I had probably spent over $100 (representing a whole lot of mowed lawns and washed cars) to amass a collection of over 500 cards.

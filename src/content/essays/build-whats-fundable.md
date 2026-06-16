@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/build-whats-fundable"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [VCs Beyond The Meme](/essays/vcs-beyond-the-meme), [Revisiting The Professionalization of Startups](/essays/revisiting-the-professionalization), [The Age of Incumbents](/essays/the-age-of-incumbents), [The Siren Song of Raising a Venture Fund](/essays/the-siren-song-of-raising-a-venture), [The Bubble Brains of Silicon Valley](/essays/the-bubble-brains-of-venture-capital), [Founder Ideology](/essays/founder-ideology), [Cultivating Cults](/essays/cultivating-cults), [The Existential Dread of Cognitive Dissonance](/essays/the-existential-dread-of-cognitive), [I Choose Optimism](/essays/i-choose-optimism), [A Fungible Worldview](/essays/a-fungible-worldview)
+<!-- interconnections-end -->
+
 ![Header image for “Build What’s Fundable”](/images/build-whats-fundable-3e915410.png)
 
 ---

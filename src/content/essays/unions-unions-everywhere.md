@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/unions-unions-everywhere"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Smartest Kids in The World](/books/the-smartest-kids-in-the-world), [Amazon Unbound](/books/amazon-unbound)
+
+**Essays:** [Networked Conviction](/essays/roam-investing), [Learning To Dream](/essays/learning-to-dream), [Teamshares, Hold Co's, & Corporate Cities](/essays/teamshares-hold-cos-and-corporate), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what), [The Renaissance of Rise and Grind](/essays/the-renaissance-of-rise-and-grind), [Toil We Must](/essays/toil-we-must), [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening), [The Hits Business](/essays/the-hits-business), [Surviving The Death of Venture Capital](/essays/surviving-the-death-of-venture-capital), [The Bubble Brains of Silicon Valley](/essays/the-bubble-brains-of-venture-capital), [The Tail That Wags The Dog](/essays/the-tail-that-wags-the-dog), [The Value Cycle](/essays/the-value-cycle)
+<!-- interconnections-end -->
+
 *I’m quite late today on two accounts. First? I’m about 27 hours later than usual because I was enjoying a weekend with the very talented community in Contrary at our annual retreat. So this piece is dedicated to all those folks whose company I got to enjoy this weekend.*
 
 ![Header image for Unions, Unions Everywhere](/images/unions-unions-everywhere-27923e59.png)

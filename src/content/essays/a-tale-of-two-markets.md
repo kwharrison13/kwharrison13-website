@@ -5,6 +5,14 @@ tag: "Venture Capital"
 excerpt: "In the late 80s, early 90s my Dad was in almost exactly the same phase of life as I am now. We're both in our 30s and about to have our 3rd kids. In just that generation the world has changed dramatic..."
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Road](/books/the-road)
+
+**Essays:** [What's In a Valuation?](/essays/valuations), [The Productization of Venture Capital](/essays/productization)
+<!-- interconnections-end -->
+
 In the late 80s, early 90s my Dad was in almost exactly the same phase of life as I am now. We're both in our 30s and about to have our 3rd kids. In just that generation the world has changed dramatically. [Technology went from 9% to 20%](https://www.dws.com/globalassets/merill-lynch/pdfs/cio_view_sp_500_sector_composition.pdf) of the S&P 500 between 1980 and 2020. In [2011](https://future.a16z.com/software-is-eating-the-world/) we realized "software was eating the world" and [in 2021 we decided](https://pitchbook.com/news/articles/us-unicorns-2021-venture-capital-valuations) we'll see unicorns as often as we see cows on a roadtrip. Technology has become inevitable in almost every facet of our lives.
 
 **So for those of us who work in tech (as founders, employees, or investors) the ubiquity of technology can also start to feel like the ubiquity of success.** If you're a founder today you're constantly bombarded with podcasts, thought pieces and VC twitter threads about how "it's a seller's market" and how "there's never been a better time to be a founder."

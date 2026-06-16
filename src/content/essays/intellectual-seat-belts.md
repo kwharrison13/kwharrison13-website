@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/intellectual-seat-belts"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Renaissance of Rise and Grind](/essays/the-renaissance-of-rise-and-grind), [The Meme Economy](/essays/the-meme-economy), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what), [Having a Conversation With Yourself: 2023](/essays/having-a-conversation-with-yourself-f29), [Books 2.0](/essays/books-20), [I Choose Optimism](/essays/i-choose-optimism), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [What's In a Post-Mortem?](/essays/whats-in-a-post-mortem), [Natural Selection Among Startups](/essays/natural-selection-among-startups)
+<!-- interconnections-end -->
+
 ![Header image for Intellectual Seat Belts](/images/intellectual-seat-belts-9d01cab7.png)
 
 Two years ago, my partner [Will Robbins](https://twitter.com/whrobbins) told me a story about Peter Thiel. In a [New Yorker profile](https://www.newyorker.com/magazine/2011/11/28/no-death-no-taxes) in 2011, Thiel made this point:

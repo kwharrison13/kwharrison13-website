@@ -8,6 +8,12 @@ type: "podcast"
 substack_url: "https://investing101.substack.com/p/when-history-rhymes-with-beezer-clarkson"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Loudest Models (with Trace Cohen)](/essays/the-loudest-models-with-trace-cohen), [The Unholy Trinity of Venture Capital](/essays/the-unholy-trinity-of-venture-capital), [Venture Capital Unbundled](/essays/venture-capital-unbundled), [Hype Deflation & Inflation](/essays/hype-deflation-and-inflation), [Mo' Money, Mo' Problems](/essays/mo-money-mo-problems), [The Productization of Venture Capital](/essays/productization), [The Bubble Brains of Silicon Valley](/essays/the-bubble-brains-of-venture-capital), [The Value Chain of Capital](/essays/the-value-chain-of-capital)
+<!-- interconnections-end -->
+
 ![Header image for When History Rhymes (with Beezer Clarkson)](/images/when-history-rhymes-with-beezer-clarkson-cc0ca593.png)
 
 If you're using the bird app formerly known as Twitter correctly, you'll start to find your kindred spirits. You're talking about the same things, exploring the same ideas, getting in the same arguments.

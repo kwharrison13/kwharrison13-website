@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/learning-to-dream"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city), [Leonardo Da Vinci](/books/leonardo-da-vinci)
+
+**Essays:** [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty), [The Mysteries of an Economic Engine](/essays/the-mysteries-of-an-economic-engine), [The Storytelling of Investing](/essays/the-storytelling-of-investing)
+<!-- interconnections-end -->
+
 ![Header image for Learning To Dream](/images/learning-to-dream-9e5fa713.jpg)
 
 Bit of a delayed post this week because I spent some time with my family in Disneyland over the last few days. Getting to go to Disneyland has always had a special place in my heart. Not just because I’m a sucker for over-priced churros and cartoons. But because I've had a strange obsession with city building since I was pretty young.

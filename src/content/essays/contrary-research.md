@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/contrary-research"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Open-Source Knowledge](/essays/open-source-knowledge)
+<!-- interconnections-end -->
+
 ![Header image for Contrary Research](/images/contrary-research-e95eb444.jpg)
 
 Back in September [I announced](https://investing1012dot0.substack.com/p/open-source-knowledge) the launch of a new project I had been building: [Contrary Research](http://research.contrary.com). **This past week, less than 6 months in, we hit a big milestone! We launched our 100th memo.** We’ve written about companies like [OpenAI](https://research.contrary.com/reports/openai), [Ramp](https://research.contrary.com/reports/ramp), [Hugging Face](https://research.contrary.com/reports/hugging-face), [Anduril](https://research.contrary.com/reports/anduril) and a ton more. You can see all of our reports [here](https://research.contrary.com/reports).

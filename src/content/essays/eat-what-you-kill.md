@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/eat-what-you-kill"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Productization of Venture Capital](/essays/productization), [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice), [The Renegades of Venture Capital](/essays/the-renegades-of-venture-capital), [Why Most VCs Suck At Talent](/essays/talent), [Fantasy Capital](/essays/fantasy-capital), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Let Me Know How I Can Be Helpful](/essays/let-me-know-how-i-can-be-helpful), [The Hype Cycles of Venture Capital](/essays/the-hype-cycles-of-venture-capital)
+<!-- interconnections-end -->
+
 ![Header image for Eat What You Kill](/images/eat-what-you-kill-c7354b10.png)
 
 They say when you have two kids, the second is always more resilient than the first (and by "they" I mean [memes on the internet](https://www.tiktok.com/@therealduttonfam/video/7131549241402527022).) Well, that certainly proved to be the case with my kids. My two oldest are about 2.5 years apart, and my first-born has always been cautious as a cucumber (that's a thing people say, right?)

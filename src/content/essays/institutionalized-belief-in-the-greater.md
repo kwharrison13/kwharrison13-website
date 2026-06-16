@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/institutionalized-belief-in-the-greater"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [Stewards of Capital](/essays/stewards-of-capital), [The Hype Cycles of Venture Capital](/essays/the-hype-cycles-of-venture-capital), [Where Have All The Good Ones Gone?](/essays/where-have-all-the-good-ones-gone), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Historical Futurism](/essays/historical-futurism), [VC Contagion](/essays/vc-contagion), [Contrary Research](/essays/contrary-research)
+<!-- interconnections-end -->
+
 ![The Last Unicornis one of those ridiculously weird movies that I remember from my childhood, but very few people have seen. But in retrospect, a movie with imagery like a flaming bull chasing a unicorn? It's crazy I haven't used it before.](/images/institutionalized-belief-in-the-greater-72dda9db.jpg)
 
 If you've been reading my writing for a while, you'll know that I'm far from a venture capital [stan](https://www.urbandictionary.com/define.php?term=Stan). I'm a pragmatic observer of my own craft, and as much as you can learn from success, there is also a lot to be learned from bad behavior.

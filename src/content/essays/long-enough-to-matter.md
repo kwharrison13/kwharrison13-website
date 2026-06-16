@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/long-enough-to-matter"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Rising Generation](/essays/the-rising-generation)
+<!-- interconnections-end -->
+
 ![Header image for Long Enough To Matter](/images/long-enough-to-matter-581e94de.png)
 
 [I've written before](https://investing1012dot0.substack.com/p/the-rising-generation) about the myriad of things that make up my internal source code:

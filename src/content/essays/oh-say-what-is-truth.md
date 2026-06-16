@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/oh-say-what-is-truth"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Alexander Hamilton](/books/alexander-hamilton)
+
+**Essays:** [Open-Source Knowledge](/essays/open-source-knowledge), [Contrary Research](/essays/contrary-research), [2022 in Books](/essays/2022-in-books), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [The Meme Economy](/essays/the-meme-economy), [Renegade Spotlight: Lowercarbon](/essays/lowercarbon), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [Hype Deflation & Inflation](/essays/hype-deflation-and-inflation)
+<!-- interconnections-end -->
+
 ![Header image for Oh Say, What is Truth?](/images/oh-say-what-is-truth-77510971.png)
 
 In 2014, I spent some time at Cambridge and, while sitting in a coffee shop, saw an ad come up on my phone for [Wikimania](https://wikimania2014.wikimedia.org/wiki/Wikimania), which was being held just south of me in London. So, I went down, slept on my cousin's couch, and decided to check it out.

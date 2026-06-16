@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/a-latticework-of-knowledge"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [From Digital Sandbox To Digital Garden](/essays/from-digital-sandbox-to-digital-garden), [Contrary Research](/essays/contrary-research), [Cultivating Cults](/essays/cultivating-cults), [Panic Writing](/essays/panic-writing)
+<!-- interconnections-end -->
+
 ![Header image for A Latticework of Knowledge](/images/a-latticework-of-knowledge-f164bbbb.png)
 
 ---

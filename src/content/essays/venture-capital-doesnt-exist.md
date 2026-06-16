@@ -7,6 +7,12 @@ tags: ['capital-allocation', 'company-building', 'technological-innovation']
 substack_url: "https://investing101.substack.com/p/venture-capital-doesnt-exist"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [“Build What’s Fundable”](/essays/build-whats-fundable), [Playing Different (Stupider) Games](/essays/player-different-stupider-games)
+<!-- interconnections-end -->
+
 ![Header image for Venture Capital Doesn't Exist](/images/venture-capital-doesnt-exist-header.png)
 
 This is a free weekly newsletter about the art and science of building and investing in tech companies. To receive Investing 101 in your inbox each week, subscribe here:

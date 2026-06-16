@@ -5,6 +5,12 @@ tag: "Startups"
 excerpt: "This semester, I’ve had the opportunity to work as a co-instructor in an instructional psychology & technology class focused on EdTech startups. The class is broken up into three parts, (1) intro to c..."
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Lean Startup](/books/the-lean-startup)
+<!-- interconnections-end -->
+
 ![Header image for Is The Lean Startup a Stupid Way to Start a Company?](https://miro.medium.com/max/940/1*LCPmzth_9taF--xBm_CUbw.jpeg)
 
 This semester, I’ve had the opportunity to work as a co-instructor in an instructional psychology & technology class focused on EdTech startups. The class is broken up into three parts, (1) intro to creativity and innovation, (2) design thinking workshop, and (3) lean startup bootcamp. I teach the third part. At the beginning of one of our first classes, I had some casual small talk with the students transition into an assault on most of what I’ve spent the last 3 years learning.

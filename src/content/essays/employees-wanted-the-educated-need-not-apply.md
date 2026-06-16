@@ -5,6 +5,12 @@ tag: "Education"
 excerpt: "This article was written by Kyle Harrison, as a result of the intellectual rigor of a Junto, with Clark Brimhall, Erik Hansen, Megumi DeMond, and Christina Muhlestein"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [In Defense of a Liberal Education](/books/in-defense-of-a-liberal-education), [Dumbing Us Down](/books/dumbing-us-down), [John Quincy Adams](/books/john-quincy-adams)
+<!-- interconnections-end -->
+
 [](https://miro.medium.com/max/750/0*frVobqDYMSTvlQ8x.)
 
 *This article was written by Kyle Harrison, as a result of the intellectual rigor of a Junto, with [Clark Brimhall](https://www.linkedin.com/in/m-clark-brimhall-a9181667/), [Erik Hansen](https://www.linkedin.com/in/erik-hansen-0a998a7a/), [Megumi DeMond](https://www.linkedin.com/in/megumi-demond-44504586/), and [Christina Muhlestein](https://www.linkedin.com/in/christina-muhlestein/)*

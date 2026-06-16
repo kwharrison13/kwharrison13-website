@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-diligence-thats-due"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Stewards of Capital](/essays/stewards-of-capital), [The Mysteries of an Economic Engine](/essays/the-mysteries-of-an-economic-engine), [Markets, Markets, and Markets](/essays/markets-markets-and-markets), [The Professionalization of Startups](/essays/the-professionalization-of-startups)
+<!-- interconnections-end -->
+
 ![Source:Two Idiots, One Keyboard](/images/the-diligence-thats-due-e738fa94.png)
 
 ---

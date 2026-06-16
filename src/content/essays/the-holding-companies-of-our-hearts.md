@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-holding-companies-of-our-hearts"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism)
+
+**Essays:** [Networked Conviction](/essays/roam-investing), [Of Things That Matter Most](/essays/of-things-that-matter-most), [Teamshares, Hold Co's, & Corporate Cities](/essays/teamshares-hold-cos-and-corporate), [The Value Chain of Capital](/essays/the-value-chain-of-capital)
+<!-- interconnections-end -->
+
 ![Header image for The Holding Companies of Our Hearts](/images/the-holding-companies-of-our-hearts-4e1e981f.png)
 
 Ever since I first [started writing](https://investing101.substack.com/p/roam-investing), I've revolved around this idea that "everyone is an allocator of something." As I've kept exploring the idea of allocation, I [come back](https://investing101.substack.com/p/of-things-that-matter-most?utm_source=publication-search) to this definition of investing: “The art and science of allocating finite resources to create an optimal outcome.” Last time I unpacked that quote in relation to everyone being an investor, I made this point:

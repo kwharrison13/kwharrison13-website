@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-professionalization-of-startups"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Psychology of Money](/books/the-psychology-of-money)
+
+**Essays:** [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital)
+<!-- interconnections-end -->
+
 ![Header image for The Professionalization of Startups](/images/the-professionalization-of-startups-a9caa02b.png)
 
 In [Morgan Housel](https://twitter.com/morganhousel)'s book, "[The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681)," he tells the story of Bill Gates' one-in-a-million life. And he wasn't talking about being a billionaire. Or starting a successful company. He was talking about having access to a computer in 1968.

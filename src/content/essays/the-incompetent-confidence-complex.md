@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-incompetent-confidence-complex"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Big Short](/books/the-big-short)
+
+**Essays:** [Playing Different (Stupider) Games](/essays/player-different-stupider-games)
+<!-- interconnections-end -->
+
 ![Header image for The Incompetent Confidence Complex](/images/the-incompetent-confidence-complex-75acbcfc.png)
 
 ---

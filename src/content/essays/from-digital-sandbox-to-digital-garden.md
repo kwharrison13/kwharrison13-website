@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/from-digital-sandbox-to-digital-garden"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Networked Conviction](/essays/roam-investing), [On Writing](/essays/on-writing), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [Historical Futurism](/essays/historical-futurism), [Open-Source Knowledge](/essays/open-source-knowledge), [Learning To Dream](/essays/learning-to-dream), [Back To The Grass](/essays/back-to-the-grass), [The Rising Generation](/essays/the-rising-generation)
+<!-- interconnections-end -->
+
 ![Header image for From Digital Sandbox To Digital Garden](/images/from-digital-sandbox-to-digital-garden-c14f2407.png)
 
 For those of you that have followed my writing for a while, you'll probably know that I'm a pretty exorbitant note taking nerd. In fact, my very first post on this blog was "[Networked Conviction](https://investing1012dot0.substack.com/p/roam-investing)," an overview of how I use [Roam Research](https://roamresearch.com/) for taking notes on investing. But Roam isn't where my obsession started. I started using Twitter at the beginning of COVID lockdowns, which is where I found Roam. But my documentation hunger goes much deeper than that.

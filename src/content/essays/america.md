@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/america"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Tail That Wags The Dog](/essays/the-tail-that-wags-the-dog)
+<!-- interconnections-end -->
+
 ![Header image for America](/images/america-c4959b9d.webp)
 
 [In 2017](https://kwharrison13.com/bookshelf/2017-in-books) I read a book about education called "The Smartest Kids in the World" by Amanda Ripley. When I wrote about it in my end of the year book review, this is how I started out:

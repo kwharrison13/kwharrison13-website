@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/why-bother"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Crime & Punishment](/books/crime-and-punishment)
+
+**Essays:** [What Is An Extraordinary Man?](/essays/what-is-an-extraordinary-man), [The Siren Song of Raising a Venture Fund](/essays/the-siren-song-of-raising-a-venture)
+<!-- interconnections-end -->
+
 ![Header image for Why Bother?](/images/why-bother-a6f22e5a.png)
 
 ---

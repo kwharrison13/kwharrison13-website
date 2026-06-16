@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/sharing-the-indie-era-of-startups"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [Why Most VCs Suck At Talent](/essays/talent), [Fantasy Capital](/essays/fantasy-capital), [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty), [Eat What You Kill](/essays/eat-what-you-kill), [Building an Actual Unicorn](/essays/building-an-actual-unicorn), [Controlling Your Own Destiny](/essays/controlling-your-own-destiny)
+<!-- interconnections-end -->
+
 ![Header image for Sharing The Indie Era of Startups](/images/sharing-the-indie-era-of-startups-f582444a.webp)
 
 I’m a big fan of nuance. When I meet people who read my writing, I often get compliments about how I “tell it like it is,” or “speak truth to power.” In reality, I think my main differentiator is that I’m willing to accept nuance.

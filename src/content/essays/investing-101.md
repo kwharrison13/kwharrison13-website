@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/investing-101"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Book of Mormon](/books/the-book-of-mormon)
+
+**Essays:** [Contrary Research](/essays/contrary-research), [A Latticework of Knowledge](/essays/a-latticework-of-knowledge), [My Style of Panic Writing](/essays/my-style-of-panic-writing), [“Build What’s Fundable”](/essays/build-whats-fundable), [VCs Beyond The Meme](/essays/vcs-beyond-the-meme)
+<!-- interconnections-end -->
+
 ![Header image for Investing 101](/images/investing-101-eb9f1063.png)
 
 ---

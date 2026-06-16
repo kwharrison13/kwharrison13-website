@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/founder-ideology"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Cultivating Cults](/essays/cultivating-cults)
+<!-- interconnections-end -->
+
 ![Header image for Founder Ideology](/images/founder-ideology-db77c391.png)
 
 ---

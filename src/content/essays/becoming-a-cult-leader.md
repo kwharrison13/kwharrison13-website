@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/becoming-a-cult-leader"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Cultivating Cults](/essays/cultivating-cults), [Founder Ideology](/essays/founder-ideology)
+<!-- interconnections-end -->
+
 ![Header image for Becoming a Cult Leader](/images/becoming-a-cult-leader-32d218a9.png)
 
 ---

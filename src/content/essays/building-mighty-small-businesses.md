@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/building-mighty-small-businesses"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [The Unholy Trinity of Venture Capital](/essays/the-unholy-trinity-of-venture-capital), [The Loudest Models (with Trace Cohen)](/essays/the-loudest-models-with-trace-cohen), [When History Rhymes (with Beezer Clarkson)](/essays/when-history-rhymes-with-beezer-clarkson), [The Bubble Brains of Silicon Valley](/essays/the-bubble-brains-of-venture-capital)
+<!-- interconnections-end -->
+
 ![Header image for Building Mighty Small Businesses](/images/building-mighty-small-businesses-c9f639d1.png)
 
 # What Is The American Dream?

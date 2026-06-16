@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/hype-deflation-and-inflation"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Hype Cycles of Venture Capital](/essays/the-hype-cycles-of-venture-capital), [Updating The Hype Cycle](/essays/updating-the-hype-cycle), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype), [On Hype And Hot Air](/essays/on-hype-and-hot-air), [The Pace of FOMO Cycles](/essays/the-pace-of-fomo-cycles), [Renegade Spotlight: Paradigm](/essays/renegade-spotlight-paradigm)
+<!-- interconnections-end -->
+
 ![Header image for Hype Deflation & Inflation](/images/hype-deflation-and-inflation-b46683dc.png)
 
 ---

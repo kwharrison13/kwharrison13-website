@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-techno-solutionist-commitment"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Art and Science of Investing](/essays/the-art-and-science-of-investing), [Hijacking The Huckster's Hypebook](/essays/hijacking-the-hucksters-hypebook), [Dr. Tokens or: How I Learned to Stop Worrying and Love the AI Bubble](/essays/dr-tokens-or-how-i-learned-to-stop), [Complaining Is The Mind Killer](/essays/complaining-is-the-mind-killer), [Oh Say, What is Truth?](/essays/oh-say-what-is-truth)
+<!-- interconnections-end -->
+
 ![The Techno-Solutionist Commitment](/images/the-techno-solutionist-commitment-6d45b694.png)
 
 On the Apollo 13 mission, an onboard explosion and mechanical failures meant that the ship's CO2 filter was malfunctioning and could have killed the astronauts. In [the movie](https://www.imdb.com/title/tt0112384/), there is a scene where a team at NASA dumps boxes of random items that represent everything the astronauts have onboard, saying "we need to find a way to make this round filter fit in this square hole."

@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-rising-generation"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Hell Yeah or No](/books/hell-yeah-or-no), [The Power Law: Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future), [John Adams](/books/john-adams), [John Quincy Adams](/books/john-quincy-adams)
+
+**Essays:** [Learning To Dream](/essays/learning-to-dream), [The Renaissance of Rise and Grind](/essays/the-renaissance-of-rise-and-grind), [Playing Different (Stupider) Games](/essays/player-different-stupider-games)
+<!-- interconnections-end -->
+
 ![Header image for The Rising Generation](/images/the-rising-generation-089d71ec.png)
 
 There are a few things that stick in my mind so much it feels like they're a fundamental part of my personal source code. Movies, songs, sayings, quotes, commercials for Campbell's chicken noodle soup. One such entry in my repo is the 2006 movie [Night at the Museum](https://en.wikipedia.org/wiki/Night_at_the_Museum). But the part of the movie that made the cut might surprise you. I think all the time about the first 7 minutes of the movie.

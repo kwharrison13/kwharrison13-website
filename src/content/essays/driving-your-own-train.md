@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/driving-your-own-train"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice)
+<!-- interconnections-end -->
+
 ![Header image for Driving Your Own Train](/images/driving-your-own-train-6e6dc693.png)
 
 Years ago, I was standing at a critical cross roads trying to make a big decision. I was considering leaving my job at a very established investment firm and joining as an early employee at an unproven startup. I talked to a number of people about the decision, but one conversation stood out to me more than any other.

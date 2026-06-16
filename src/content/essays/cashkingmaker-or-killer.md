@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/cashkingmaker-or-killer"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Natural Selection Among Startups](/essays/natural-selection-among-startups)
+<!-- interconnections-end -->
+
 ![Header image for Cash—Kingmaker or Killer?](/images/cashkingmaker-or-killer-070255dc.png)
 
 *Bonus second article this week. Originally published as a [guest post on Napkin Math](https://every.to/napkin-math/cash-kingmaker-or-killer), I also wanted to share it with all my loyal subscribers 😉*

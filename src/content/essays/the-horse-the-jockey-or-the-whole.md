@@ -8,6 +8,12 @@ type: "podcast"
 substack_url: "https://investing101.substack.com/p/the-horse-the-jockey-or-the-whole"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [The Unholy Trinity of Venture Capital](/essays/the-unholy-trinity-of-venture-capital), [Building Mighty Small Businesses](/essays/building-mighty-small-businesses), [Playing Different (Stupider) Games](/essays/player-different-stupider-games)
+<!-- interconnections-end -->
+
 ![Header image for The Horse, The Jockey, or The Whole Race?](/images/the-horse-the-jockey-or-the-whole-04c5eacf.png)
 
 Have you ever had that feeling when you have a thought and then you chuckle to yourself? Then you think about it again and you do some googling? Then your googling turns into a data gathering exercise and a chart? Then you post that chart on Twitter? And then [half a million](https://x.com/kwharrison13/status/1911938090786234475) people see it and you realize you maybe should have spent more than 6 minutes making it?

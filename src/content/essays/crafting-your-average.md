@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/crafting-your-average"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Almanack of Naval Ravikant](/books/the-almanack-of-naval-ravikant)
+
+**Essays:** [Long Enough To Matter](/essays/long-enough-to-matter), [The Rising Generation](/essays/the-rising-generation), [Markets, Markets, and Markets](/essays/markets-markets-and-markets), [Building an Actual Unicorn](/essays/building-an-actual-unicorn), [All According To The [Terrible] Plan](/essays/according-to-plan), [What Is An Investor?](/essays/what-is-an-investor), [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice), [The Talent Vortex: Mafias and Magnets](/essays/talent-vortex), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype), [On Hype And Hot Air](/essays/on-hype-and-hot-air), [Updating The Hype Cycle](/essays/updating-the-hype-cycle), [The Hype Cycles of Venture Capital](/essays/the-hype-cycles-of-venture-capital)
+<!-- interconnections-end -->
+
 *I'll be covering a bunch of topics [you all voted on](https://investing1012dot0.substack.com/p/long-enough-to-matter) in the coming weeks, from Books 2.0 to Tastemakers to The Death of ESG. But, as is so often my modus operandi, I can't help but write each week about what is most on my mind. So, in the words of mouthy 16-year old Kyle when he's talking to his Mom about cleaning his room, "I'll get to it when I get to it."*
 
 ![Header image for Crafting Your Average](/images/crafting-your-average-a7e14fd4.png)

@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/age-of-acquisition"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [I Love The Taste of Pain in the Morning](/essays/pain), [The Death of a Venture Fund](/essays/death), [The Productization of Venture Capital](/essays/productization)
+<!-- interconnections-end -->
+
 ![Header image for The Age of Acquisition](/images/age-of-acquisition-8ef3ef13.png)
 
 Let me take you back to a time before the iPhone came out. [Mr. Brightside by The Killers](https://www.youtube.com/watch?v=gGdGFtwCNBE) had just come out, and most people my age were getting their social anxiety kick from determining who our top 5 friends on Myspace would be. I would rush home from school, get some Taco Bell and [Dad's Root Beer](https://www.dadsrootbeer.com/), and spend the next few hours in front of the computer world building.

@@ -8,6 +8,12 @@ type: "podcast"
 substack_url: "https://investing101.substack.com/p/automating-clinical-trials-with-josh"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Life Imitates Art](/essays/life-imitates-art), [Science Fiction's Dueling Fates](/essays/science-fictions-dueling-fates), [Back To The Future](/essays/back-to-the-future), [Historical Futurism](/essays/historical-futurism), [Long Enough To Matter](/essays/long-enough-to-matter)
+<!-- interconnections-end -->
+
 ![Header image for Automating Clinical Trials (with Josh Pacini @ Valinor)](/images/automating-clinical-trials-with-josh-79d7d942.png)
 
 I write a lot about science fiction. I've written about using science fiction as a [product roadmap](https://investing101.substack.com/p/life-imitates-art?utm_source=publication-search). I've unpacked the [dueling fates](https://investing101.substack.com/p/science-fictions-dueling-fates?utm_source=publication-search) of science fiction as a force for optimism or pessimism. I've talked about Palmer Luckey's [framework](https://investing101.substack.com/p/back-to-the-future?utm_source=publication-search) for looking back at past imagined futures for clues to what we should be building today. But my favorite piece I've written on the topic is called [Historical Futurism](https://investing101.substack.com/p/historical-futurism?utm_source=publication-search).

@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/have-kids-or-dont-but-have-kids"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Historical Futurism](/essays/historical-futurism), [Embrace The Nuance](/essays/embrace-the-nuance)
+<!-- interconnections-end -->
+
 ![Header image for Have Kids. Or Don't. But Have Kids.](/images/have-kids-or-dont-but-have-kids-e127f121.png)
 
 I had an interesting experience this week. I was scrolling the artist formerly known as the Bird App, as anyone with a dopamine addiction is wont to do, and I saw a tweet from Delian at Founders Fund that made me stop and think.

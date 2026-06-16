@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-rise-of-the-cash-man"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city)
+
+**Essays:** [The Outcome Distortion Complex](/essays/the-outcome-distortion-complex)
+<!-- interconnections-end -->
+
 ![Header image for The Rise of The Cash Man](/images/the-rise-of-the-cash-man-8e75d193.png)
 
 I think it will surprise no one to find that the best place to start writing about a venture-backed Adam Neumann fever dream is with Disneyland. 😉

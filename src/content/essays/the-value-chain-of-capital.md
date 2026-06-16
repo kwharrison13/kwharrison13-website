@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-value-chain-of-capital"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [On Hype And Hot Air](/essays/on-hype-and-hot-air), [Stewards of Capital](/essays/stewards-of-capital), [VC Contagion](/essays/vc-contagion), [Revisiting A Tale of Two Markets](/essays/revisiting-a-tale-of-two-markets), [The Mysteries of an Economic Engine](/essays/the-mysteries-of-an-economic-engine), [Controlling Your Own Destiny](/essays/controlling-your-own-destiny), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer)
+<!-- interconnections-end -->
+
 ![Header image for The Value Chain of Capital](/images/the-value-chain-of-capital-9fd002a3.png)
 
 Andrew Stanton, one of the filmmakers at Pixar known for directing Finding Nemo, WALL-E, and more, gave a [TED Talk in 2012](https://youtu.be/KxDwieKpawg?t=14) where he talked about storytelling. At the beginning he tells a story about how an old Scottish man came by his colorful nickname. Now, I won't repeat the story, cause my Mom reads this blog. But give it a listen. And just think about what's in a name, and the story behind it.

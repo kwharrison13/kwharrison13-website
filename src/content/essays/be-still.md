@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/be-still"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Panic Writing](/essays/panic-writing)
+<!-- interconnections-end -->
+
 ![Header image for Be Still](/images/be-still-35b278cd.png)
 
 This week, I set out to write a piece that is multi-faceted and complex. It touched on ideas I've covered before, from human nature to propaganda and storytelling. The implications of the story are, unlike some of the more banal "business strategy" explorations I sometimes go on, felt like it had real measurable implications.

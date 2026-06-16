@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/contrary-my-renegade-of-choice"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [I Love The Taste of Pain in the Morning](/essays/pain), [Renegade Spotlight: Paradigm](/essays/renegade-spotlight-paradigm), [The Professionalization of Startups](/essays/the-professionalization-of-startups), [The Talent Vortex: Mafias and Magnets](/essays/talent-vortex), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Renegades of Venture Capital](/essays/the-renegades-of-venture-capital), [Fantasy Capital](/essays/fantasy-capital), [The Productization of Venture Capital](/essays/productization)
+<!-- interconnections-end -->
+
 ![Header image for Contrary: My Renegade of Choice](/images/contrary-my-renegade-of-choice-b94883b5.png)
 
 I'm excited to announce that I’m joining Contrary as a General Partner to build out a later stage investing practice. The world of venture is changing and I’m excited to work with the team at Contrary to be a part of that change.

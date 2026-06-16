@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/renegade-spotlight-synthesis"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Renegades of Venture Capital](/essays/the-renegades-of-venture-capital), [Renegade Spotlight: Homebrew](/essays/homebrew), [Renegade Spotlight: Lowercarbon](/essays/lowercarbon), [Renegade Spotlight: Paradigm](/essays/renegade-spotlight-paradigm), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital)
+<!-- interconnections-end -->
+
 ![Header image for Renegade Spotlight: Synthesis](/images/renegade-spotlight-synthesis-b8dc8751.png)
 
 ## Renegade Spotlights

@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-future-of-investing-101"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Networked Conviction](/essays/roam-investing), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Value Chain of Capital](/essays/the-value-chain-of-capital), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [VC Contagion](/essays/vc-contagion), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [Surviving The Death of Venture Capital](/essays/surviving-the-death-of-venture-capital), [The Hype Cycles of Venture Capital](/essays/the-hype-cycles-of-venture-capital), [Updating The Hype Cycle](/essays/updating-the-hype-cycle), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype), [On Hype And Hot Air](/essays/on-hype-and-hot-air), [Hype Deflation & Inflation](/essays/hype-deflation-and-inflation), [The Renaissance of Rise and Grind](/essays/the-renaissance-of-rise-and-grind), [Toil We Must](/essays/toil-we-must), [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening), [The Wrath of Reading & Writing](/essays/the-wrath-of-reading-and-writing), [On Writing](/essays/on-writing), [Panic Writing](/essays/panic-writing), [From Digital Sandbox To Digital Garden](/essays/from-digital-sandbox-to-digital-garden)
+<!-- interconnections-end -->
+
 ![Header image for The Future of Investing 101](/images/the-future-of-investing-101-7c5032de.png)
 
 # Where Did I Come From?

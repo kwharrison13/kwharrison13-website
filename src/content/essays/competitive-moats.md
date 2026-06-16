@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/competitive-moats"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation)
+<!-- interconnections-end -->
+
 ![Source:Fat Baby Funds](/images/competitive-moats-26a2b538.png)
 
 A few years ago, my wife and I got super into a BBC show called "[Luther](http://bit.ly/3ZwmT0e)," about a police detective in London living on the edge, often confronted with sociopaths. One surprise while watching the show was the result, I realized later, of being an American. This cop would walk into what felt like ridiculously dangerous situations *with no gun*.

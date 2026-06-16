@@ -8,6 +8,12 @@ type: "podcast"
 substack_url: "https://investing101.substack.com/p/the-inevitability-of-advertising"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Future of Investing 101](/essays/the-future-of-investing-101), [Contrary Research](/essays/contrary-research), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation)
+<!-- interconnections-end -->
+
 ## An Update on The Evolution of Investing 101
 
 *Before I dive into my post this week, I wanted to share a few updates on some of the things I wrote about last week in [The Future of Investing 101](https://investing101.substack.com/p/the-future-of-investing-101). First, you might notice I updated my domain from the atrocious investing1012dot0.substack.com to the slim and sexier, investing101.substack.com.*

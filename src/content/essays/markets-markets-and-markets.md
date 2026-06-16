@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/markets-markets-and-markets"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [What's In a Valuation?](/essays/valuations), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty)
+<!-- interconnections-end -->
+
 ![Header image for Markets, Markets, and Markets](/images/markets-markets-and-markets-22d8bd71.png)
 
 When I was in 4th grade, I remember learning what a [googol](https://en.wikipedia.org/wiki/Googol) is (the digit 1 with 100 zeros after it). I could see zeros running through my head, and it was hard to conceptualize the number. I remember it so vividly, I could take you back to the exact sidewalk I was walking down after school, trying to understand what that even meant in the context of the numbers I already knew.

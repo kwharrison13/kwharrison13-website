@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/i-wish-i-knew-how-to-quit-roam-research"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Building the Global Knowledge Graph](/essays/building-the-global-knowledge-graph)
+<!-- interconnections-end -->
+
 ![Header image for I Wish I Knew How To Quit Roam Research](/images/i-wish-i-knew-how-to-quit-roam-research-2252e021.png)
 
 ---

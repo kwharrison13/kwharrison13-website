@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/know-thyself"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Venture Capital Doesn't Exist](/essays/venture-capital-doesnt-exist), [Crafting Your Average](/essays/crafting-your-average), [What Is An Extraordinary Man?](/essays/what-is-an-extraordinary-man), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature)
+<!-- interconnections-end -->
+
 ![Know Thyself](/images/know-thyself-a0879bb7.png)
 
 For whatever reason, I've been thinking about [The Matrix](https://investing101.substack.com/p/venture-capital-doesnt-exist) a lot lately. The particular [scene](https://www.youtube.com/watch?v=svfDdcPmELk) that came to mind this week is when Neo is talking to the Oracle about whether he's The One. She points his attention to a sign that reads "Know Thyself" in Latin. She follows up with "I'm going to let you in on a little secret. Being The One is just like being in love. No one can tell you you're in love. You just know it. Through and through. Balls to bones."

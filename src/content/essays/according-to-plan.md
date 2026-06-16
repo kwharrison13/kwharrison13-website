@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/according-to-plan"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Zero To One](/books/zero-to-one)
+
+**Essays:** [I Love The Taste of Pain in the Morning](/essays/pain), [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer), [Natural Selection Among Startups](/essays/natural-selection-among-startups)
+<!-- interconnections-end -->
+
 ![Header image for All According To The Terrible Plan](/images/according-to-plan-32b3f7c9.png)
 
 In 2008 one of the most important experiences in my life was making sure I argued with all of my friends about which movie was better; The Dark Knight? Or Iron Man. Meanwhile the world was experiencing one of the five worst financial crises in history that led to a [$2 trillion loss globally](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008#:~:text=It%20was%20among%20the%20five,during%202008%2C%20reaching%20%2410.5%20trillion.).

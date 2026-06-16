@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-cogsec-chronicles"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Brave New World](/books/brave-new-world), [Amusing Ourselves To Death](/books/amusing-ourselves-to-death), [John Adams](/books/john-adams)
+
+**Essays:** [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [The Bubble Brains of Silicon Valley](/essays/the-bubble-brains-of-venture-capital), [The Openness of AI](/essays/the-openness-of-ai), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [The Wrath of Reading & Writing](/essays/the-wrath-of-reading-and-writing), [On Writing](/essays/on-writing), [Creativity as Connectivity](/essays/creativity-as-connectivity)
+<!-- interconnections-end -->
+
 ![Header image for The Cogsec Chronicles](/images/the-cogsec-chronicles-2d2ef2dc.png)
 
 I remember being in high school and hearing a teacher talk about their plan to watch [Minority Report](http://bit.ly/45dYSzE) for a philosophy assignment. When I looked at the movie, I was deeply confused. "What philosophy can you learn from a Tom Cruise movie?" Maybe if it was a math class, that would be something:

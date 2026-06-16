@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/touch-some-grass"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Benjamin Franklin](/books/benjamin-franklin)
+<!-- interconnections-end -->
+
 ![Header image for Touch Some Grass](/images/touch-some-grass-e041f85c.png)
 
 I enjoy a good biography as much as the next person, maybe more so. I love reading the stories of Benjamin Franklin, Katharine Graham, Warren Buffett, and others who have lived pretty extraordinary lives, and accomplished significant things. Anytime I enter a bookstore, I head for the biographies section first

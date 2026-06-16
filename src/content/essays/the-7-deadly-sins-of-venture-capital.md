@@ -8,6 +8,12 @@ type: "podcast"
 substack_url: "https://investing101.substack.com/p/the-7-deadly-sins-of-venture-capital"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Value Chain of Capital](/essays/the-value-chain-of-capital), [Venture Capital Unbundled](/essays/venture-capital-unbundled), [The Unholy Trinity of Venture Capital](/essays/the-unholy-trinity-of-venture-capital), [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer), [Mo' Money, Mo' Problems](/essays/mo-money-mo-problems), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital)
+<!-- interconnections-end -->
+
 ![Header image for The 7 Deadly Sins of Venture Capital (with Dan Gray)](/images/the-7-deadly-sins-of-venture-capital-07092210.png)
 
 This was a heck of a conversation; I hope you enjoy it as much as I did. This week, I got to sit down with [Dan Gray](https://x.com/credistick), the Head of Insights at Equidam, a startup valuation platform.

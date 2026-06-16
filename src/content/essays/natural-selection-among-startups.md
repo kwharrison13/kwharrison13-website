@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/natural-selection-among-startups"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Black Swan](/books/the-black-swan)
+
+**Essays:** [I Love The Taste of Pain in the Morning](/essays/pain), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [Renegade Spotlight: Homebrew](/essays/homebrew)
+<!-- interconnections-end -->
+
 ![Header image for Natural Selection Among Startups](/images/natural-selection-among-startups-9e7b6a96.png)
 
 Starting a company isn't that hard. You fill out some forms to incorporate. But that's about the last easy thing you'll do. Building a company that lasts the test of time is default one of the hardest things to succeed at. Only 50% of companies [make it to their fifth birthday](https://twitter.com/emollick/status/1502680738390548481). Consistently only ~10% of companies [survive past 10 years](https://www.investopedia.com/articles/personal-finance/040915/how-many-startups-fail-and-why.asp).

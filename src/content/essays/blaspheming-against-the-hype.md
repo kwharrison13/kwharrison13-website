@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/blaspheming-against-the-hype"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Hype Cycles of Venture Capital](/essays/the-hype-cycles-of-venture-capital), [Updating The Hype Cycle](/essays/updating-the-hype-cycle), [What's In a Valuation?](/essays/valuations), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [Eat What You Kill](/essays/eat-what-you-kill)
+<!-- interconnections-end -->
+
 ![The Stoning of Stephen](/images/blaspheming-against-the-hype-bb456bf8.png)
 
 *Sort of a heavy place to start for a venture capital blog, but we're gonna get into religion a bit today because I can't stop thinking about the psycho-religious dynamics that exist in funding hype in general, and AI specifically right now. So stick with me, I promise this isn't a preach piece.*

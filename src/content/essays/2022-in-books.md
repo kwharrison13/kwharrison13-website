@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/2022-in-books"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Founders](/books/the-founders), [The Ride of a Lifetime](/books/the-ride-of-a-lifetime), [The Greatest Minds and Ideas of All Time](/books/the-greatest-minds-and-ideas-of-all-time)
+
+**Essays:** [Investing 101](/essays/investing-101), [Kids 3.0](/essays/kids-30), [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [What's In a Valuation?](/essays/valuations)
+<!-- interconnections-end -->
+
 *I originally posted this [on my personal website](https://kwharrison13.com/ad17f7d516334a96b42ad8da486887e6) with links to my past reading lists and thoughts.*
 
 ![Header image for 2022 in Books](/images/2022-in-books-37da130a.jpg)

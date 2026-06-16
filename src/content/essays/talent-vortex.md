@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/talent-vortex"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Founders](/books/the-founders), [The Everything Store](/books/the-everything-store), [Benjamin Franklin](/books/benjamin-franklin)
+
+**Essays:** [The Importance of Arguing With Yourself](/essays/the-importance-of-arguing-with-yourself)
+<!-- interconnections-end -->
+
 ![Header image for The Talent Vortex: Mafias and Magnets](/images/talent-vortex-61073055.png)
 
 ## The Association of the Like-Minded

@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-wrath-of-reading-and-writing"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Networked Conviction](/essays/roam-investing), [Competitive Moats](/essays/competitive-moats), [2022 in Books](/essays/2022-in-books)
+<!-- interconnections-end -->
+
 ![Source:Writer's HQ](/images/the-wrath-of-reading-and-writing-98b76597.png)
 
 This is not what I wanted to be writing today. Have you heard the phrase, "my eyes were too big for my stomach?" I've felt that a lot lately, only rather than loading up on a hefty plate of food my body could never consume, I instead tackle these concepts that are meaty beyond my capacity to tackle them, whether in time, talent, or energy.

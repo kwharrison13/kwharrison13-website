@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/who-is-my-neighbor"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [From Digital Sandbox To Digital Garden](/essays/from-digital-sandbox-to-digital-garden), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [The Unholy Trinity of Venture Capital](/essays/the-unholy-trinity-of-venture-capital), [Books 2.0](/essays/books-20), [Historical Futurism](/essays/historical-futurism), [The Renaissance of Rise and Grind](/essays/the-renaissance-of-rise-and-grind), [Embrace The Nuance](/essays/embrace-the-nuance)
+<!-- interconnections-end -->
+
 ![Header image for Who Is My Neighbor?](/images/who-is-my-neighbor-39272645.png)
 
 I've written a handful of times about why I write. I've often pointed to the quote "I write because I don't know what I think until I read what I say." I've [talked](https://investing1012dot0.substack.com/p/from-digital-sandbox-to-digital-garden?utm_source=publication-search) about my writing as a "secret public journal" and the [driver](https://investing1012dot0.substack.com/p/the-inescapable-debate-of-human-nature?utm_source=publication-search) behind my writing:

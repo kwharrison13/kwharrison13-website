@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/mo-money-mo-problems"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Siren Song of Raising a Venture Fund](/essays/the-siren-song-of-raising-a-venture), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [Natural Selection Among Startups](/essays/natural-selection-among-startups), [I Love The Taste of Pain in the Morning](/essays/pain), [The Hits Business](/essays/the-hits-business)
+<!-- interconnections-end -->
+
 ![Header image for Mo' Money, Mo' Problems](/images/mo-money-mo-problems-7f471c13.webp)
 
 A few weeks ago I wrote about [The Siren Song of Raising a Venture Fund](https://investing1012dot0.substack.com/p/the-siren-song-of-raising-a-venture). In it, I talked about how I'm seeing more and more new venture firms pop up. This was something that, candidly, as the market hardened around everything except AI, I didn't expect to see.

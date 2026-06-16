@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/chasing-the-rush-of-creation"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [John Quincy Adams](/books/john-quincy-adams)
+
+**Essays:** [Contrary Research](/essays/contrary-research), [Kids 3.0](/essays/kids-30), [You're The Only Investment That Matters](/essays/youre-the-only-investment-that-matters), [Touch Some Grass](/essays/touch-some-grass), [The Storytelling of Investing](/essays/the-storytelling-of-investing)
+<!-- interconnections-end -->
+
 ![Source:Alexa Kayman](/images/chasing-the-rush-of-creation-de1a4dec.png)
 
 *I'm working on a monster deep dive for [Contrary Research](research.contrary.com) into the world of open source AI. When we publish it I'll be sure to share a piece of it here. But with how much time that piece is taking up, today is just a brief piece on one of the most interesting conversations I've had in a long time.*

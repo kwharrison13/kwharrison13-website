@@ -5,6 +5,12 @@ tag: "Ideas"
 excerpt: "This article is a result of the intellectual rigor of a Junto, inspired by Benjamin Franklin’s club for mutual improvement of the same name, between the author, Tim Riser, Minna Wang, Nikita Singaredd..."
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Blink](/books/blink), [Benjamin Franklin](/books/benjamin-franklin), [The Righteous Mind](/books/the-righteous-mind)
+<!-- interconnections-end -->
+
 *This article is a result of the intellectual rigor of a Junto, inspired by [Benjamin Franklin’s club for mutual improvement](https://en.wikipedia.org/wiki/Junto_%28club%29) of the same name, between the author, [Tim Riser](https://www.linkedin.com/in/timothyriser), [Minna Wang](https://www.linkedin.com/in/minnawang/), [Nikita Singareddy](https://www.linkedin.com/in/nikita-m-s/), and [Bryce* DeFigueiredo*.*](https://www.linkedin.com/in/bdefig/)
 
 The purpose of a [Junto](https://medium.com/thejunto) is to provide a group of people with whom to reflect on things going on in the world. But sometimes the most important reflecting we can do is when we reflect on ourselves.

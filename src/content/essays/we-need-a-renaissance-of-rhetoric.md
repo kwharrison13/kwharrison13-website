@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/we-need-a-renaissance-of-rhetoric"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [John Quincy Adams](/books/john-quincy-adams)
+
+**Essays:** [The Storytelling of Investing](/essays/the-storytelling-of-investing), [The Ethos of Nuance](/essays/the-ethos-of-nuance), [Clarity of Thought](/essays/clarity-of-thought), [Momentum != Moat](/essays/momentum-moat), [Embrace The Nuance](/essays/embrace-the-nuance), [The Openness of AI](/essays/the-openness-of-ai), [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism)
+<!-- interconnections-end -->
+
 ![Norman Rockwell’s Four Freedoms](/images/we-need-a-renaissance-of-rhetoric-6c665517.png)
 
 ---

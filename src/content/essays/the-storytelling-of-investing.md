@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-storytelling-of-investing"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Sapiens](/books/sapiens), [The Everything Store](/books/the-everything-store), [Amazon Unbound](/books/amazon-unbound)
+
+**Essays:** [What's In a Valuation?](/essays/valuations), [Renegade Spotlight: The General Partnership](/essays/thegp), [Tailwinds: What's in a Thesis?](/essays/tailwinds-whats-in-a-thesis)
+<!-- interconnections-end -->
+
 ![Header image for The Storytelling of Investing](/images/the-storytelling-of-investing-9c9b6bea.png)
 
 Do you ever have the experience where you watch a movie, or read a book, and you wonder, "how is the whole world not obsessed with this?" The movie gets a 60% on Rotten Tomatoes. The book was on the bargain shelf. Certain stories can resonate with you more meaningfully than they do with other people for whatever reason. That happened to me in 2003.

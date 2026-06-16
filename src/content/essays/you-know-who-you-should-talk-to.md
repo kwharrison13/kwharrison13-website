@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/you-know-who-you-should-talk-to"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Tailwinds: What's in a Thesis?](/essays/tailwinds-whats-in-a-thesis)
+<!-- interconnections-end -->
+
 ![Header image for You Know Who You Should Talk To?](/images/you-know-who-you-should-talk-to-8a165f68.png)
 
 In 2017, I was working at a fund where (for whatever reason) we lumped company coverage for every company in Australia and New Zealand into one category, and I happened to cover that category. I was spending time thinking about unique ways to hear about companies in those geos, and I stumbled upon the Linkedin profile for [Jacinda Ardern](https://www.linkedin.com/in/jacindaardern/), who had recently become Prime Minister of New Zealand.

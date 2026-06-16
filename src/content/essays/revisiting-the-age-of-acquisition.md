@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/revisiting-the-age-of-acquisition"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Age of Acquisition](/essays/age-of-acquisition), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [What's In a Valuation?](/essays/valuations), [Contrary Research](/essays/contrary-research), [The Death of a Venture Fund](/essays/death), [The Productization of Venture Capital](/essays/productization)
+<!-- interconnections-end -->
+
 ![Header image for Revisiting The Age of Acquisition](/images/revisiting-the-age-of-acquisition-de8bcf62.png)
 
 Almost exactly a year ago, I wrote a piece called "[The Age of Acquisition](https://investing1012dot0.substack.com/p/age-of-acquisition)."

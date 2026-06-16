@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-axis-of-building"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Controlling Your Own Destiny](/essays/controlling-your-own-destiny), [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer), [Building an Actual Unicorn](/essays/building-an-actual-unicorn), [What's In a Post-Mortem?](/essays/whats-in-a-post-mortem), [Stewards of Capital](/essays/stewards-of-capital), [The Mysteries of an Economic Engine](/essays/the-mysteries-of-an-economic-engine), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [The Outcome Distortion Complex](/essays/the-outcome-distortion-complex), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype)
+<!-- interconnections-end -->
+
 ![Header image for The Axis of Building](/images/the-axis-of-building-574a7bea.png)
 
 In an episode of Silicon Valley, Pied Piper has grown to a sizable company and now has an HR department run by a woman named Tracey. Gilfoyle, the self-proclaimed satanist anarcho-capitalist is falling behind in his programming backlog. In response, Gilfoyle says "I'm more concerned with being right than being fast." Tracey pushes him to bring on more people to help with him with his workload.

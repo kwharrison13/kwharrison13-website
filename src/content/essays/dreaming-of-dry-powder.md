@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/dreaming-of-dry-powder"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [A Tale of Two Markets](/essays/a-tale-of-two-markets)
+<!-- interconnections-end -->
+
 ![Header image for Dreaming Of Dry Powder](/images/dreaming-of-dry-powder-9c3d2283.png)
 
 My sons are 6 and 3 years old. That age gap presents some interesting similarities and differences. Similarities? They both love playgrounds. Differences? My 6-year old is way better at convincing my 3-year old of things, and my 3-year old is way worse at knowing when his brother is wrong.

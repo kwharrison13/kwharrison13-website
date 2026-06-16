@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/vc-contagion"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer), [The Reality of Unrealistic Outliers](/essays/the-reality-of-unrealistic-outliers), [The Mysteries of an Economic Engine](/essays/the-mysteries-of-an-economic-engine), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [Controlling Your Own Destiny](/essays/controlling-your-own-destiny), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype)
+<!-- interconnections-end -->
+
 *This piece [originally appeared as a guest post](https://www.newcomer.co/p/guest-essay-vc-contagion) in Newcomer. You can also [check out this podcast episode](https://www.youtube.com/watch?v=f9v01qT-uaE) where Eric Newcomer and I go deeper into some of the themes I touch on in the piece.*
 
 ![Header image for VC Contagion](/images/vc-contagion-fd1fb1cf.png)

@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-reality-of-unrealistic-outliers"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Networked Conviction](/essays/roam-investing), [Contrary Research](/essays/contrary-research)
+<!-- interconnections-end -->
+
 ![Watching a rocket ship will never get old.](/images/the-reality-of-unrealistic-outliers-a6951e8f.jpg)
 
 # Internet Friends

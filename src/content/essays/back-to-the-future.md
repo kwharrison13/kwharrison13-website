@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/back-to-the-future"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Science Fiction's Dueling Fates](/essays/science-fictions-dueling-fates), [Life Imitates Art](/essays/life-imitates-art), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what), [Historical Futurism](/essays/historical-futurism)
+<!-- interconnections-end -->
+
 ![Header image for Back To The Future](/images/back-to-the-future-31590085.png)
 
 I love science fiction. I have always been a highly committed daydreamer. In fact, I think daydreaming was a key input that made me initially want to go into filmmaking. I could see the stories in my mind and I wanted to make them a reality. **But technology represents the next logical step. First you dream the story, then you tell the story, then you live the story**.

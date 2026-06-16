@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/revisiting-the-death-of-a-venture"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Death of a Venture Fund](/essays/death), [What's In a Valuation?](/essays/valuations), [The Professionalization of Startups](/essays/the-professionalization-of-startups), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [You Don’t Want My Value Add](/essays/you-dont-want-my-value-add), [The Productization of Venture Capital](/essays/productization), [Surviving The Death of Venture Capital](/essays/surviving-the-death-of-venture-capital)
+<!-- interconnections-end -->
+
 ![Header image for Revisiting The Death of a Venture Fund](/images/revisiting-the-death-of-a-venture-a2405004.png)
 
 I know a lot of people who were obsessed with Game of Thrones. And I know a lot of people who were disappointed by the ending. I never watched the show, but I know that one of the things a lot of fans came to expect was a slew of surprising deaths.

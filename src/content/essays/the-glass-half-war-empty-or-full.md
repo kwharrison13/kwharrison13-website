@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-glass-half-war-empty-or-full"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Taking a Breath](/essays/taking-a-breath), [I Choose Optimism](/essays/i-choose-optimism), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [The Meme Economy](/essays/the-meme-economy), [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty), [Historical Futurism](/essays/historical-futurism), [The Gospel of ARK Invest](/essays/the-gospel-of-ark-invest), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what)
+<!-- interconnections-end -->
+
 ![Header image for The Glass-Half War: Empty or Full?](/images/the-glass-half-war-empty-or-full-ce6ea9e1.png)
 
 *Well, I am once again too distracted to write about Hype Deflation like [I said I wanted to](https://investing1012dot0.substack.com/p/taking-a-breath) last week. But I promise I'll get there.*

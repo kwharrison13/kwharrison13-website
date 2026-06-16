@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-four-pillars-of-venture-investing"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Of Things That Matter Most](/essays/of-things-that-matter-most), [The Talent Vortex: Mafias and Magnets](/essays/talent-vortex), [The Groucho Marx Mandate](/essays/the-groucho-marx-mandate), [The Pace of FOMO Cycles](/essays/the-pace-of-fomo-cycles), [The Bubble Brains of Silicon Valley](/essays/the-bubble-brains-of-venture-capital), [You Don’t Want My Value Add](/essays/you-dont-want-my-value-add), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [Venture Capital Unbundled](/essays/venture-capital-unbundled)
+<!-- interconnections-end -->
+
 ![Header image for The Four Pillars of Venture Investing](/images/the-four-pillars-of-venture-investing-88756680.png)
 
 Life is filled with trade-offs. I've [written before](https://investing101.substack.com/p/of-things-that-matter-most) about how everyone is an allocator of something "because they’re allocating finite things in their lives: money, attention, time, effort, love."

@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-puritans-of-venture-capital"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Power Law: Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future), [Benjamin Franklin](/books/benjamin-franklin)
+
+**Essays:** [Long Enough To Matter](/essays/long-enough-to-matter), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [The Value Chain of Capital](/essays/the-value-chain-of-capital)
+<!-- interconnections-end -->
+
 *Last week, [I wrote about](https://investing1012dot0.substack.com/p/long-enough-to-matter) ~20 different ideas that I've been thinking about touching on this year. Rather than starting to randomly prioritize, I thought I'd ask my readers (you) what you were most interested in. I very quickly realized I'd made a critical mistake. I should have sent out a survey or something, because inviting responses to the email invited hundreds of replies into my inbox / Twitter DMs that I had to manually review one by one. Live and learn! But after tallying the results, the topic you were most interested was this one:*
 
 ***The Puritans of Venture Capital:** Venture used to be a cottage industry. Some firms are still practicing as if nothing really changed. Can they survive? Will capital agglomerators eat their lunch? Or can they co-exist?*

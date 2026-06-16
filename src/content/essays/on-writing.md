@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/on-writing"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Crime & Punishment](/books/crime-and-punishment)
+
+**Essays:** [The Existential Dread of Cognitive Dissonance](/essays/the-existential-dread-of-cognitive), [Networked Conviction](/essays/roam-investing), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater)
+<!-- interconnections-end -->
+
 ![Header image for On Writing](/images/on-writing-3a1aa5a6.png)
 
 [I've written before](https://investing1012dot0.substack.com/p/the-existential-dread-of-cognitive) about my introduction to Russian literature. That experience eventually led me to [Crime & Punishment](https://en.wikipedia.org/wiki/Crime_and_Punishment), which became one of my favorite books. Later, I would have my first moment of writing pride by pseudo-plagiarizing my favorite book for a school paper. Some would just call it "inspired by", so we'll just say that.

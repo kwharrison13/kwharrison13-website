@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/whats-in-a-post-mortem"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Psychology of Money](/books/the-psychology-of-money), [How To Take Smart Notes](/books/how-to-take-smart-notes), [The Great Mental Models Volume 1: General Thinking Concepts](/books/the-great-mental-models-volume-1-general-thinking-concepts)
+
+**Essays:** [The Outcome Distortion Complex](/essays/the-outcome-distortion-complex), [The Death of a Venture Fund](/essays/death), [Building a Product Engine](/essays/building-a-product-engine)
+<!-- interconnections-end -->
+
 ![Header image for What's In a Post-Mortem?](/images/whats-in-a-post-mortem-91de3e67.png)
 
 ## Death Is Only The Beginning

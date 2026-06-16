@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/open-source-knowledge"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Elements of Journalism](/books/the-elements-of-journalism), [Working in Public](/books/working-in-public), [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city)
+
+**Essays:** [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Contrary Research](/essays/contrary-research)
+<!-- interconnections-end -->
+
 ![Neurons firing in the brain](/images/open-source-knowledge-1d077c7b.png)
 
 Books are dead.

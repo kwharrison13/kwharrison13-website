@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-trough-of-feedback"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [On Hype And Hot Air](/essays/on-hype-and-hot-air), [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty), [What's In a Post-Mortem?](/essays/whats-in-a-post-mortem), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Let Me Know How I Can Be Helpful](/essays/let-me-know-how-i-can-be-helpful)
+<!-- interconnections-end -->
+
 ![Source:Scrubs](/images/the-trough-of-feedback-8a0a9351.png)
 
 Stop me if you've heard this one before.

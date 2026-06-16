@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/what-is-an-extraordinary-man"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Courage To Be Disliked](/books/the-courage-to-be-disliked), [Crime & Punishment](/books/crime-and-punishment), [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism), [Skunk Works](/books/skunk-works)
+
+**Essays:** [The Existential Dread of Cognitive Dissonance](/essays/the-existential-dread-of-cognitive), [Toil We Must](/essays/toil-we-must), [The Renaissance of Rise and Grind](/essays/the-renaissance-of-rise-and-grind), [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening), [The Rising Generation](/essays/the-rising-generation), [Unions, Unions Everywhere](/essays/unions-unions-everywhere), [Seek Sunlight](/essays/seek-sunlight), [Cultivating Cults](/essays/cultivating-cults), [Performative Failure](/essays/performative-failure)
+<!-- interconnections-end -->
+
 ![Wanderer above the Sea of Fog, Caspar David Friedrich](/images/what-is-an-extraordinary-man-247043d5.png)
 
 ---

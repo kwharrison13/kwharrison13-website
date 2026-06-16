@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-non-zero-sum-game-of-ambition"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Historical Futurism](/essays/historical-futurism), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [The Renaissance of Rise and Grind](/essays/the-renaissance-of-rise-and-grind), [Risk Management In The Age Of YOLO](/essays/risk-management-in-the-age-of-yolo), [The Rising Generation](/essays/the-rising-generation), [Renegade Spotlight: Lowercarbon](/essays/lowercarbon), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital)
+<!-- interconnections-end -->
+
 ![Source: Cinema Sugar](/images/the-non-zero-sum-game-of-ambition-c9978974.png)
 
 # Misunderstood on Arrival

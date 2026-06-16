@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/against-your-own-self-interest"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what), [Science Fiction's Dueling Fates](/essays/science-fictions-dueling-fates), [Mo' Money, Mo' Problems](/essays/mo-money-mo-problems), [Playing Different (Stupider) Games](/essays/player-different-stupider-games)
+<!-- interconnections-end -->
+
 ![Source:YouTube](/images/against-your-own-self-interest-7add25a6.png)
 
 I have a confession to make. I like Nickelback. I had not one, but several of their CDs in high school. I remember the day I learned this was a controversial opinion. Some interesting internet lore; in 2010 there was a website called "Dear Blank, Please Blank." People would submit funny entries and other people would waste ungodly amounts of time scrolling through them.

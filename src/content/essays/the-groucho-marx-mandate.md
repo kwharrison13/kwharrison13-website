@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-groucho-marx-mandate"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Trough of Feedback](/essays/the-trough-of-feedback)
+<!-- interconnections-end -->
+
 ![Header image for The Groucho Marx Mandate](/images/the-groucho-marx-mandate-528c4e83.png)
 
 If there's one trope that is common throughout teen angst its the idea that if you want someone to like you, treat them like dirt. Woven into that is a myriad of teenage psychological trauma, but it also isn't new. There's a common thread that represents a part of humanity. The best comedians capture aspects of what it means to be human, and this time is no exception. The person to capture this little nugget is Groucho Marx.

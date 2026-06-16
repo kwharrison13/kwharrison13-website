@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/creativity-as-connectivity"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [The Wrath of Reading & Writing](/essays/the-wrath-of-reading-and-writing), [On Writing](/essays/on-writing), [Panic Writing](/essays/panic-writing), [The Value Chain of Capital](/essays/the-value-chain-of-capital)
+<!-- interconnections-end -->
+
 !["The Tree of Life" by Gustav Klimt (1909)
 
 Whenever I meet someone who has read my writing, the main compliment they give is "I'm really impressed with the consistency." And my response is always the same. "Well, they're not all gems."

@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/barking-in-public"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Meme Economy](/essays/the-meme-economy), [Intellectual Seat Belts](/essays/intellectual-seat-belts), [The Levers of Innovation](/essays/the-levers-of-innovation), [Cultivating Cults](/essays/cultivating-cults), [Driving Your Own Train](/essays/driving-your-own-train)
+<!-- interconnections-end -->
+
 ![Header image for Barking in Public](/images/barking-in-public-65e74c40.png)
 
 Have you ever seen [The Big Sick?](https://en.wikipedia.org/wiki/The_Big_Sick) It's an exceptional 2017 romantic comedy about a guy who finds himself in a stressful situation with demanding parents, an on-again-off-again girlfriend, and a health crisis. Classic setup, but charmingly unique execution. It helps that [Kumail Nanjiani](https://en.wikipedia.org/wiki/Kumail_Nanjiani) is a real gem.

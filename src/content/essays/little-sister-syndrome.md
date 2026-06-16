@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/little-sister-syndrome"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Power Law: Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future)
+
+**Essays:** [Eat What You Kill](/essays/eat-what-you-kill), [Why Most VCs Suck At Talent](/essays/talent)
+<!-- interconnections-end -->
+
 ![Header image for Little Sister Syndrome](/images/little-sister-syndrome-6a4e8752.png)
 
 If there's one thing most human beings are terrible at, it's estimating. We're exceptional at underestimating, or even overestimating. **But when it comes to making correct estimates? The only right guess is that we'll be wrong.**

@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/becoming-an-allocator"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [On Writing](/essays/on-writing), [Of Things That Matter Most](/essays/of-things-that-matter-most)
+<!-- interconnections-end -->
+
 ![Header image for Becoming An Allocator](/images/becoming-an-allocator-d564d66d.png)
 
 This week's post will be brief. This happens every once in a while where I attempt to bite off more than I can chew. I get an ambitious topic that I want to dig into and I just can't do it justice in the small window of time I reserve for [panic writing](https://investing1012dot0.substack.com/p/on-writing) my posts.

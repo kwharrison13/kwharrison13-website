@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-levers-of-innovation"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Unholy Trinity of Venture Capital](/essays/the-unholy-trinity-of-venture-capital), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Value Chain of Capital](/essays/the-value-chain-of-capital), [VC Contagion](/essays/vc-contagion), [The Age of Incumbents](/essays/the-age-of-incumbents), [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening), [Intellectual Seat Belts](/essays/intellectual-seat-belts), [The Coward's Conviction](/essays/the-cowards-conviction), [The Meme Economy](/essays/the-meme-economy), [Cultivating Cults](/essays/cultivating-cults), [The Rising Generation](/essays/the-rising-generation), [Even More a Father](/essays/even-more-a-father)
+<!-- interconnections-end -->
+
 ![Header image for The Levers of Innovation](/images/the-levers-of-innovation-4903fd8e.png)
 
 What makes anything happen? Increasingly, there are no simple answers to that question.

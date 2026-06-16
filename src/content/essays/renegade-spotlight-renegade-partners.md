@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/renegade-spotlight-renegade-partners"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [John Quincy Adams](/books/john-quincy-adams)
+
+**Essays:** [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Productization of Venture Capital](/essays/productization), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Renegades of Venture Capital](/essays/the-renegades-of-venture-capital), [Renegade Spotlight: Homebrew](/essays/homebrew), [Renegade Spotlight: Lowercarbon](/essays/lowercarbon), [Renegade Spotlight: Paradigm](/essays/renegade-spotlight-paradigm), [Renegade Spotlight: The General Partnership](/essays/thegp), [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice), [The Rising Generation](/essays/the-rising-generation), [Oh Say, What is Truth?](/essays/oh-say-what-is-truth)
+<!-- interconnections-end -->
+
 ![Header image for Renegade Spotlight: Renegade Partners](/images/renegade-spotlight-renegade-partners-1a56d50b.png)
 
 # Renegade Spotlights

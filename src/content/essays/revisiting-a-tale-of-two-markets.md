@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/revisiting-a-tale-of-two-markets"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Road](/books/the-road)
+
+**Essays:** [Networked Conviction](/essays/roam-investing), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Productization of Venture Capital](/essays/productization), [The Talent Vortex: Mafias and Magnets](/essays/talent-vortex), [Index Bets: From Products to People](/essays/index-bets-from-products-to-people)
+<!-- interconnections-end -->
+
 ![Header image for Revisiting A Tale of Two Markets](/images/revisiting-a-tale-of-two-markets-37e86aa3.png)
 
 I started writing consistently at the beginning of 2022. I had written [one piece](https://investing1012dot0.substack.com/p/roam-investing) on Substack before that, so I had ~200 subscribers. When I started writing, I had a few core ideas that I had thought about a lot, so that's what I wrote about. Some of them, like [The Unbundling of Venture Capital](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital), took off, and are still some of my most read pieces even though I've grown my subscriber count by 90x.

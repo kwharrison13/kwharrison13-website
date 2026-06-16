@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/thegp"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Renegades of Venture Capital](/essays/the-renegades-of-venture-capital), [Renegade Spotlight: Homebrew](/essays/homebrew), [Renegade Spotlight: Lowercarbon](/essays/lowercarbon), [Renegade Spotlight: Paradigm](/essays/renegade-spotlight-paradigm), [The Productization of Venture Capital](/essays/productization), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Professionalization of Startups](/essays/the-professionalization-of-startups)
+<!-- interconnections-end -->
+
 ![Header image for Renegade Spotlight: The General Partnership](/images/thegp-b58dfe51.png)
 
 ## Renegade Spotlights

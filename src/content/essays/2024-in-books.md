@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/2024-in-books"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Lonesome Dove](/books/lonesome-dove), [Leap of Faith](/books/leap-of-faith), [The Idea Factory](/books/the-idea-factory), [Streets of Laredo](/books/streets-of-laredo), [Brave New World](/books/brave-new-world), [Stretching The Heavens](/books/stretching-the-heavens), [Demon Copperhead](/books/demon-copperhead), [Patriot Games](/books/patriot-games), [Braving The Wilderness](/books/braving-the-wilderness), [A Walk in the Woods](/books/a-walk-in-the-woods), [Chip War](/books/chip-war), [The Man From The Future](/books/the-man-from-the-future), [Without Remorse](/books/without-remorse), [Skunk Works](/books/skunk-works), [The Kill Chain](/books/the-kill-chain), [The BFG](/books/the-bfg), [Nuclear War: a Scenario](/books/nuclear-war-a-scenario), [Blood Meridian](/books/blood-meridian)
+
+**Essays:** [2022 in Books](/essays/2022-in-books), [2023 In Books](/essays/2023-in-books), [Contrary Research](/essays/contrary-research)
+<!-- interconnections-end -->
+
 *I originally posted this [on my personal website](https://kwharrison13.com/15489f3ce1af801dbd92d2ad17ec283a) where you can see the full list of the books I read this year and my broader library.*
 
 ![Header image for 2024 in Books](/images/2024-in-books-b682510e.webp)

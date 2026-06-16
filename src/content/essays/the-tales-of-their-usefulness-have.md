@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-tales-of-their-usefulness-have"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Productization of Venture Capital](/essays/productization), [Natural Selection Among Startups](/essays/natural-selection-among-startups), [Why Most VCs Suck At Talent](/essays/talent), [How can I be helpful vs. Is this helpful?](/essays/how-can-i-be-helpful-vs-is-this-helpful), [Renegade Spotlight: The General Partnership](/essays/thegp)
+<!-- interconnections-end -->
+
 ![Header image for The Tales of Usefulness Have Been Greatly Exaggerated](/images/the-tales-of-their-usefulness-have-c5b048e6.png)
 
 I've been told I can get overly clever with titles and headings so I'll explain the joke. In 1897 Mark Twain traveled to London and while away rumors began to circulate that he was on his death bed, or possibly dead already. When a journalist reached out to inquire if he was, in fact, dead Twain responded ([sort of](https://www.mentalfloss.com/article/562400/reports-mark-twains-quote-about-mark-twains-death-are-greatly-exaggerated)) "the reports of my death have been greatly exaggerated." 😉

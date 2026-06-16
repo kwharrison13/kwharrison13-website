@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/dont-die-with-your-music-still-in"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [My Cup Runneth Over](/essays/my-cup-runneth-over)
+<!-- interconnections-end -->
+
 ![Header image for Don't Die With Your Music Still in You](/images/dont-die-with-your-music-still-in-1d65fde9.png)
 
 Knowledge is a burden. But, like any productive effort, we often carry a burden for a reason. We carry it towards something.

@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/you-dont-want-my-value-add"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Productization of Venture Capital](/essays/productization), [The Tales of Usefulness Have Been Greatly Exaggerated](/essays/the-tales-of-their-usefulness-have), [Let Me Know How I Can Be Helpful](/essays/let-me-know-how-i-can-be-helpful)
+<!-- interconnections-end -->
+
 ![Header image for You Don’t Want My Value Add](/images/you-dont-want-my-value-add-076043c0.png)
 
 I'm a big Seinfeld fan. Perhaps one of [my favorite scenes](https://www.youtube.com/watch?v=JBBQdFSvvTE) has Elaine on a trans-Atlantic flight with her boyfriend Puddy. As they settle into the flight, Elaine pulls out a book and Puddy stares ahead.

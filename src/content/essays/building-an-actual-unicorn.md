@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/building-an-actual-unicorn"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [I Love The Taste of Pain in the Morning](/essays/pain), [Cash—Kingmaker or Killer?](/essays/cashkingmaker-or-killer), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [The Mysteries of an Economic Engine](/essays/the-mysteries-of-an-economic-engine), [The Storytelling of Investing](/essays/the-storytelling-of-investing)
+<!-- interconnections-end -->
+
 ![Header image for Building an Actual Unicorn](/images/building-an-actual-unicorn-351ec880.png)
 
 ---

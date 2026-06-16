@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/even-more-a-father"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Decades](/essays/decades), [Kids 3.0](/essays/kids-30), [Becoming An Allocator](/essays/becoming-an-allocator)
+<!-- interconnections-end -->
+
 ![Header image for Even More a Father](/images/even-more-a-father-86298e35.png)
 
 Forgive me if I wax poetic and a bit theological this week. I'm feeling, [once again](https://investing1012dot0.substack.com/p/decades), quite reflective. I started my blog almost three years ago. Not long after I started it, I wrote [Kids 3.0](https://investing1012dot0.substack.com/p/kids-30) after my wife and I had our third kid. At the time, I made a web3 joke. I don't have a 4.0 joke, so all I can say is my wife and I welcomed our fourth kid to the family this week!

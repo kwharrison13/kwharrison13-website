@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-age-of-incumbents"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Professionalization of Startups](/essays/the-professionalization-of-startups)
+<!-- interconnections-end -->
+
 ![Header image for The Age of Incumbents](/images/the-age-of-incumbents-e6987ad3.png)
 
 Technology is a versatile little word. It can mean a whole host of things. Some people think technology began with computers, or software, or the internet. Other people think technology didn't really get going until ChatGPT came out.

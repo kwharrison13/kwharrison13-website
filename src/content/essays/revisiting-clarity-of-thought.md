@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/revisiting-clarity-of-thought"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [How To Take Smart Notes](/books/how-to-take-smart-notes)
+
+**Essays:** [Clarity of Thought](/essays/clarity-of-thought), [We Need a Renaissance of Rhetoric](/essays/we-need-a-renaissance-of-rhetoric), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism), [The Storytelling of Investing](/essays/the-storytelling-of-investing)
+<!-- interconnections-end -->
+
 ![Boy Jesus in the Temple (Christ in the Temple) by Heinrich Hofman](/images/revisiting-clarity-of-thought-9232aff7.jpg)
 
 ---

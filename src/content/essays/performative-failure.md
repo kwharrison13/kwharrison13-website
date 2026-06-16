@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/performative-failure"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [Science Fiction's Dueling Fates](/essays/science-fictions-dueling-fates), [Different Strokes For Different Folks](/essays/different-strokes-for-different-folks), [King-Making vs. Taste-Making](/essays/king-making-vs-taste-making)
+<!-- interconnections-end -->
+
 ![Header image for Performative Failure](/images/performative-failure-390f49f7.png)
 
 I'm a day late on hitting publish and probably a week late on sleep. You would think that by the fourth kid we would have figured it out, but turns out they're all difficult in their own unique way. They find unique ways to be upset, to not sleep, to have unknowable preferences. Their own magic little bundle of things to unpack.

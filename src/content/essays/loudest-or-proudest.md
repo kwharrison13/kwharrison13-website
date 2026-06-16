@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/loudest-or-proudest"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Storytelling of Investing](/essays/the-storytelling-of-investing), [Open-Source Knowledge](/essays/open-source-knowledge), [Learning To Dream](/essays/learning-to-dream), [The Meme Economy](/essays/the-meme-economy), [Historical Futurism](/essays/historical-futurism), [The Bubble Brains of Silicon Valley](/essays/the-bubble-brains-of-venture-capital), [The Glass-Half War: Empty or Full?](/essays/the-glass-half-war-empty-or-full), [Oh Say, What is Truth?](/essays/oh-say-what-is-truth), [Cultivating Cults](/essays/cultivating-cults), [The Hype Cycles of Venture Capital](/essays/the-hype-cycles-of-venture-capital), [Updating The Hype Cycle](/essays/updating-the-hype-cycle), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype), [On Hype And Hot Air](/essays/on-hype-and-hot-air), [Hype Deflation & Inflation](/essays/hype-deflation-and-inflation), [The Talent Vortex: Mafias and Magnets](/essays/talent-vortex), [The Gospel of ARK Invest](/essays/the-gospel-of-ark-invest), [Contrary Research](/essays/contrary-research)
+<!-- interconnections-end -->
+
 ![Header image for Loudest or Proudest](/images/loudest-or-proudest-c7299bc2.png)
 
 I've written [over](https://investing1012dot0.substack.com/p/the-storytelling-of-investing?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/open-source-knowledge) and [over](https://investing1012dot0.substack.com/p/learning-to-dream) and [over](https://investing1012dot0.substack.com/p/the-meme-economy?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/historical-futurism) and [over](https://investing1012dot0.substack.com/p/the-bubble-brains-of-venture-capital) and [over](https://investing1012dot0.substack.com/p/the-glass-half-war-empty-or-full) and [over](https://investing1012dot0.substack.com/p/oh-say-what-is-truth) and [over](https://investing1012dot0.substack.com/p/cultivating-cults?utm_source=publication-search) again about storytelling.

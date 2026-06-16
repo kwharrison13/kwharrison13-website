@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/death"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Productization of Venture Capital](/essays/productization), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [Why Most VCs Suck At Talent](/essays/talent), [The Professionalization of Startups](/essays/the-professionalization-of-startups), [The Renegades of Venture Capital](/essays/the-renegades-of-venture-capital), [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice)
+<!-- interconnections-end -->
+
 ![Header image for The Death of a Venture Fund](/images/death-72afb8b8.png)
 
 ## Only The Paranoid Survive

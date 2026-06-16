@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/is-now-a-bad-time-to-be-a-vc"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice), [Natural Selection Among Startups](/essays/natural-selection-among-startups), [I Love The Taste of Pain in the Morning](/essays/pain), [The Talent Vortex: Mafias and Magnets](/essays/talent-vortex)
+<!-- interconnections-end -->
+
 ![Header image for Is Now a Bad Time To Be a VC?](/images/is-now-a-bad-time-to-be-a-vc-c45803bd.png)
 
 ## "We're Just People"

@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/venture-capital-unbundled"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Power Law: Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future)
+
+**Essays:** [Little Sister Syndrome](/essays/little-sister-syndrome), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Unholy Trinity of Venture Capital](/essays/the-unholy-trinity-of-venture-capital), [Revisiting The Death of a Venture Fund](/essays/revisiting-the-death-of-a-venture), [Renegade Spotlight: Homebrew](/essays/homebrew), [Playing Different (Stupider) Games](/essays/player-different-stupider-games)
+<!-- interconnections-end -->
+
 ![Header image for Venture Capital Unbundled](/images/venture-capital-unbundled-17cfd838.png)
 
 Over the course of 2021, I was starting to notice a rising trend. It put an itch in my brain so intense that I decided to start a blog so that I could write about this specific force. Since then, I've written every week for three years. But that original idea?

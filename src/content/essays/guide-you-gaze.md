@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/guide-you-gaze"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Of Things That Matter Most](/essays/of-things-that-matter-most), [Touch Some Grass](/essays/touch-some-grass), [Back To The Grass](/essays/back-to-the-grass), [The Pace of FOMO Cycles](/essays/the-pace-of-fomo-cycles), [Taking a Breath](/essays/taking-a-breath), [Panic Writing](/essays/panic-writing), [Becoming An Allocator](/essays/becoming-an-allocator), [The Value Chain of Capital](/essays/the-value-chain-of-capital), [Oops, I Did It Again](/essays/oops-i-did-it-again), [Surviving The Death of Venture Capital](/essays/surviving-the-death-of-venture-capital), [The Sine Waves of Creativity](/essays/the-sine-waves-of-creativity), [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening)
+<!-- interconnections-end -->
+
 ![Header image for Guide Your Gaze](/images/guide-you-gaze-b9141cc1.jpg)
 
 # Different Flavors of Writing

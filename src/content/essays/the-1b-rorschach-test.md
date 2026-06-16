@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-1b-rorschach-test"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [Saying The Quiet Part Out Loud](/essays/saying-the-quiet-part-out-loud)
+<!-- interconnections-end -->
+
 I have three sons, but only two of them are conversational (so far). Of the two chatty ones, they approach life a little differently. Dax is a rule follower, always looking for the right answer. Jed, on the other hand? His life is lived through a lens that none of us can see. Imagination station is the only station his train stops at.
 
 When it comes to coloring, Dax is a sort of neoclassicist. How is it *supposed* to be done? Jed, though, is an impressionist. Painting with all the colors of the wind. And regardless of the shape of his drawing, he shows me the drawing, locks eyes with me, and expectantly asks, "what do you see Dad?" His tone of voice indicates there is clearly a right answer.

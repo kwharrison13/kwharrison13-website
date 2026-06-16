@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/teamshares-hold-cos-and-corporate"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Learning To Dream](/essays/learning-to-dream), [The Coward's Conviction](/essays/the-cowards-conviction), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater)
+<!-- interconnections-end -->
+
 ![Me & Kevin Shiiba (Teamshares Co-Founder)
 
 I'm fascinated by an idea that I've never been able to put a word to. At different times that interest has manifested as a fascination with city building, urban development, communities, co-operatives, [Juntos](https://en.wikipedia.org/wiki/Junto_(club))[,](https://en.wikipedia.org/wiki/Junto_(club)),) holding companies, and conglomerates.

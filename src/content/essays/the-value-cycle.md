@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-value-cycle"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Coward's Conviction](/essays/the-cowards-conviction), [Hype Deflation & Inflation](/essays/hype-deflation-and-inflation), [The Outcome Distortion Complex](/essays/the-outcome-distortion-complex), [The Mysteries of an Economic Engine](/essays/the-mysteries-of-an-economic-engine), [Historical Futurism](/essays/historical-futurism), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what), [Deep Tech For Deep Minds? Or Deep Pockets?](/essays/deep-tech-for-deep-minds-or-deep), [Oh Say, What is Truth?](/essays/oh-say-what-is-truth), [Building an Actual Unicorn](/essays/building-an-actual-unicorn), [Contrary Research](/essays/contrary-research), [The Age of Incumbents](/essays/the-age-of-incumbents)
+<!-- interconnections-end -->
+
 ![Header image for The Value Cycle](/images/the-value-cycle-59020b33.png)
 
 [I've written before](https://investing1012dot0.substack.com/p/the-cowards-conviction?utm_source=publication-search) about how movies are a big part of my personality. I have a myriad of random references hard-coded into my psychology where, sometimes, I'm surprised they're even there. That happened this week as I was thinking about the idea of value creation, and value capture. I was reminded of a particular scene.

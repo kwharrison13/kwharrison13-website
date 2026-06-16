@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/conviction-led-contrarianism"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Courage To Be Disliked](/books/the-courage-to-be-disliked), [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism)
+
+**Essays:** [Cultivating Cults](/essays/cultivating-cults), [Barking in Public](/essays/barking-in-public), [The Levers of Innovation](/essays/the-levers-of-innovation), [Intellectual Seat Belts](/essays/intellectual-seat-belts), [The Meme Economy](/essays/the-meme-economy), [The Coward's Conviction](/essays/the-cowards-conviction), [Back To The Future](/essays/back-to-the-future), [The Volume of Your Inaccuracy](/essays/the-volume-of-your-inaccuracy), [Creativity as Connectivity](/essays/creativity-as-connectivity), [Pondering The Grass](/essays/pondering-the-grass), [Panic Writing](/essays/panic-writing), [Oh Say, What is Truth?](/essays/oh-say-what-is-truth), [Historical Futurism](/essays/historical-futurism), [Open-Source Knowledge](/essays/open-source-knowledge), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what)
+<!-- interconnections-end -->
+
 ![Header image for Conviction-Led Contrarianism](/images/conviction-led-contrarianism-cba65dad.png)
 
 There is a story of a large village on the coast. The coast was relentlessly demanding in the way that only nature can be. From an intensely dry climate to a raging storm season. Up and down that coast, it was a constant threat to the people. But the people of this particular village felt they were in pure control of their environment. With the weapons of irrigation, cloud seeding, ocean walls, and genetically-modified seeds, they had defied the very laws of nature in order to survive. **Where other communities shriveled away, their community thrived. They had conquered nature**.

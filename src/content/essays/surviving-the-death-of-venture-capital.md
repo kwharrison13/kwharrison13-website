@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/surviving-the-death-of-venture-capital"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [All According To The [Terrible] Plan](/essays/according-to-plan), [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice), [What Is An Investor?](/essays/what-is-an-investor), [The Diligence That's Due](/essays/the-diligence-thats-due), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [Saying The Quiet Part Out Loud](/essays/saying-the-quiet-part-out-loud), [VC Contagion](/essays/vc-contagion), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype), [The Mysteries of an Economic Engine](/essays/the-mysteries-of-an-economic-engine)
+<!-- interconnections-end -->
+
 ![Header image for Surviving The Death of Venture Capital](/images/surviving-the-death-of-venture-capital-a7fa0c45.png)
 
 [I've said it before](https://investing1012dot0.substack.com/p/according-to-plan), and I'll say it again. In 2008 one of the most important experiences in my life was making sure I argued with all of my friends about which movie was better; The Dark Knight? Or Iron Man? Meanwhile the world was experiencing one of the five worst financial crises in history that led to a [$2 trillion loss globally](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008#:~:text=It%20was%20among%20the%20five,during%202008%2C%20reaching%20%2410.5%20trillion.).

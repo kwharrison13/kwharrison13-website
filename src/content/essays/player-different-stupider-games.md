@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/player-different-stupider-games"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Leonardo Da Vinci](/books/leonardo-da-vinci)
+
+**Essays:** [What's In a Valuation?](/essays/valuations), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Productization of Venture Capital](/essays/productization), [Why Most VCs Suck At Talent](/essays/talent), [The Renegades of Venture Capital](/essays/the-renegades-of-venture-capital), [Eat What You Kill](/essays/eat-what-you-kill), [VC Contagion](/essays/vc-contagion), [The Death of a Venture Fund](/essays/death), [Blaspheming Against The Hype](/essays/blaspheming-against-the-hype), [The Reality of Unrealistic Outliers](/essays/the-reality-of-unrealistic-outliers)
+<!-- interconnections-end -->
+
 ![Header image for Playing Different (Stupider) Games](/images/player-different-stupider-games-ddd22db2.png)
 
 I'm not a sports guy. We are not a sports family. Growing up, my parents loved sports, and watched them a lot. But it wasn't my thing. That has reflected in my children. A few years ago when my oldest son tried soccer, we spent most of our time trying to get him to stop going up to the ref every few minutes asking, "hey, how much longer do we have to do this?"

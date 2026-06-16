@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/vcs-beyond-the-meme"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [How can I be helpful vs. Is this helpful?](/essays/how-can-i-be-helpful-vs-is-this-helpful), [The Tales of Usefulness Have Been Greatly Exaggerated](/essays/the-tales-of-their-usefulness-have), [Let Me Know How I Can Be Helpful](/essays/let-me-know-how-i-can-be-helpful), [You Don’t Want My Value Add](/essays/you-dont-want-my-value-add), [What Is An Investor?](/essays/what-is-an-investor), [The Trough of Feedback](/essays/the-trough-of-feedback), [Cultivating Cults](/essays/cultivating-cults), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [The Meme Economy](/essays/the-meme-economy), [The Bubble Brains of Silicon Valley](/essays/the-bubble-brains-of-venture-capital), [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism), [Being Honest About Intellectual Honesty](/essays/being-honest-about-intellectual-honesty), [Playing Different (Stupider) Games](/essays/player-different-stupider-games)
+<!-- interconnections-end -->
+
 ![Header image for VCs Beyond The Meme](/images/vcs-beyond-the-meme-a3b26812.png)
 
 The power of a meme is in its truthfulness. "There is a little bit of truth in every JK." In fact, memes are increasingly extending past truthfulness into [economic power](https://kyla.substack.com/p/trump-mamdani-and-cluely). One of the memes that hits closest to home in my own life is "let me know how I can be helpful."

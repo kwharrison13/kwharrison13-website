@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/regret-porn"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Back To The Future](/essays/back-to-the-future), [On Hype And Hot Air](/essays/on-hype-and-hot-air), [The Wrath of Reading & Writing](/essays/the-wrath-of-reading-and-writing), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [Intellectual Seat Belts](/essays/intellectual-seat-belts), [The Tail That Wags The Dog](/essays/the-tail-that-wags-the-dog), [What's In a Post-Mortem?](/essays/whats-in-a-post-mortem)
+<!-- interconnections-end -->
+
 ![Header image for Regret Porn](/images/regret-porn-dedc56c8.png)
 
 Regret is a powerful force in life. It can certainly be instructive. One example I think of often is regret's informative influence on the mindset of "better safe than sorry." In my neighborhood the trash pickup happens every week, but recycling pickup only happens every two weeks. By the end of the two weeks my wife and I have filled the large blue trash can with relics of our Amazon obsession and Diet Coke fetish. Cans and cardboard as far as the eye can see.

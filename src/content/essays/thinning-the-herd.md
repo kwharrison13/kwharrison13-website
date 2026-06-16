@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/thinning-the-herd"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Diligence That's Due](/essays/the-diligence-thats-due)
+<!-- interconnections-end -->
+
 ![Header image for Thinning The Herd](/images/thinning-the-herd-bfa180bc.png)
 
 I'm not very good at planning and setting goals. But I have an incredible imagination😉. Which often leaves me subject to disappointment. A few days ago, I was tossing and turning in bed, feeling overwhelmed by all the categories of things I didn't feel I was doing well enough at. But in my mind, a plan started to weave. I had this vision of what I would do, how I would lay out my goals, actions, outcomes, and finally get on top of my seemingly overwhelming to do list.

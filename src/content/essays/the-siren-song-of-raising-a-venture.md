@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-siren-song-of-raising-a-venture"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Tales of Usefulness Have Been Greatly Exaggerated](/essays/the-tales-of-their-usefulness-have), [The Death of a Venture Fund](/essays/death), [Revisiting The Death of a Venture Fund](/essays/revisiting-the-death-of-a-venture), [Surviving The Death of Venture Capital](/essays/surviving-the-death-of-venture-capital), [The Age of Acquisition](/essays/age-of-acquisition), [Revisiting The Age of Acquisition](/essays/revisiting-the-age-of-acquisition), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Productization of Venture Capital](/essays/productization)
+<!-- interconnections-end -->
+
 ![Header image for The Siren Song of Raising a Venture Fund](/images/the-siren-song-of-raising-a-venture-a4aead8c.png)
 
 # The Death of Venture?

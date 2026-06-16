@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/embrace-the-nuance"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Braving The Wilderness](/books/braving-the-wilderness), [The Death of Expertise](/books/the-death-of-expertise), [The Psychology of Money](/books/the-psychology-of-money), [Demon Copperhead](/books/demon-copperhead), [Hillbilly Elegy](/books/hillbilly-elegy)
+
+**Essays:** [Performative Failure](/essays/performative-failure), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature)
+<!-- interconnections-end -->
+
 ![Header image for Embrace The Nuance](/images/embrace-the-nuance-b04284fb.png)
 
 I remember being in high school in my English class where we were doing speech and debate. The topic had turned political and one person in particular was taking a very firm stance: "George W. Bush was the greatest president in American history."

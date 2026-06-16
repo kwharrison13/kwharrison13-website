@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/lowercarbon"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [How To Avoid a Climate Disaster](/books/how-to-avoid-a-climate-disaster)
+
+**Essays:** [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Productization of Venture Capital](/essays/productization), [Renegade Spotlight: Homebrew](/essays/homebrew), [Natural Selection Among Startups](/essays/natural-selection-among-startups)
+<!-- interconnections-end -->
+
 ![Header image for Renegade Spotlight: Lowercarbon](/images/lowercarbon-c426075a.png)
 
 ## Renegade Spotlights

@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/revisiting-the-professionalization"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Psychology of Money](/books/the-psychology-of-money)
+
+**Essays:** [The Professionalization of Startups](/essays/the-professionalization-of-startups), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [The Mysteries of an Economic Engine](/essays/the-mysteries-of-an-economic-engine)
+<!-- interconnections-end -->
+
 ![Header image for Revisiting The Professionalization of Startups](/images/revisiting-the-professionalization-2c126795.png)
 
 *I started writing consistently at the beginning of 2022 with only one goal: that I wouldn't miss a week. Since then, I've written 110+ pieces. In all of that time, I've written a lot of pieces that reflected important parts of my thinking. But they didn't always get the attention I thought they deserved, often because I wrote them early on before I had as many subscribers.*

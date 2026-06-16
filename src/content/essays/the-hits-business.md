@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-hits-business"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Ready Player One](/books/ready-player-one), [The Power Law: Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future)
+
+**Essays:** [Life Imitates Art](/essays/life-imitates-art), [The Non-Zero-Sum Game of Ambition](/essays/the-non-zero-sum-game-of-ambition), [Regret Porn](/essays/regret-porn), [The Existential Dread of Cognitive Dissonance](/essays/the-existential-dread-of-cognitive), [The Value Cycle](/essays/the-value-cycle), [The Rising Generation](/essays/the-rising-generation), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [The Death of a Venture Fund](/essays/death), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [Playing Different (Stupider) Games](/essays/player-different-stupider-games), [Learning To Dream](/essays/learning-to-dream), [Sharing The Indie Era of Startups](/essays/sharing-the-indie-era-of-startups)
+<!-- interconnections-end -->
+
 ![Header image for The Hits Business](/images/the-hits-business-64266c6a.png)
 
 Movies are my thing. From the age of 10 to 19 all I wanted to do was go to Hollywood. I voraciously consumed the Coen Brothers, Quentin Tarantino, Christopher Nolan, Martin Scorsese, Rian Johnson. I was inspired by stories like Jared Hess, a fellow BYU grad, writing and directing [Napoleon Dynamite](https://en.wikipedia.org/wiki/Napoleon_Dynamite) for $400K and making $46M.

@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/what-wicked-taught-me-about-b2b-sales"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [Wicked](/books/wicked), [Red Rising](/books/red-rising)
+
+**Essays:** [The Hits Business](/essays/the-hits-business), [Long Enough To Matter](/essays/long-enough-to-matter), [Fantasy Capital](/essays/fantasy-capital), [The Rising Generation](/essays/the-rising-generation), [Science Fiction's Dueling Fates](/essays/science-fictions-dueling-fates)
+<!-- interconnections-end -->
+
 ![Header image for What Wicked Taught Me About B2B Sales](/images/what-wicked-taught-me-about-b2b-sales-0f88eb56.jpg)
 
 Before the Linkedin haters come after me, the title is a joke. It made me chuckle. And for those of you that love Linkedin (and B2B sales) unfortunately for you, the subtitle of this piece is a lot more the point than the title is.

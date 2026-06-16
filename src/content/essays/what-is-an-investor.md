@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/what-is-an-investor"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Power Law: Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future)
+
+**Essays:** [Of Things That Matter Most](/essays/of-things-that-matter-most), [The Diligence That's Due](/essays/the-diligence-thats-due), [What's In a Valuation?](/essays/valuations), [The Productization of Venture Capital](/essays/productization), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation)
+<!-- interconnections-end -->
+
 ![Header image for What Is An Investor?](/images/what-is-an-investor-b92cbfde.png)
 
 Stop me if you've heard this one before. Two college students have been studying in the library late at night. On their way home, they stop at a Taco Bell for sustenance. They get home around the time that late becomes early, but they're not ready for bed. So they start to talk.

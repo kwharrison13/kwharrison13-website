@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-renaissance-of-rise-and-grind"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Books:** [The Founders](/books/the-founders)
+
+**Essays:** [The Meme Economy](/essays/the-meme-economy), [Risk Management In The Age Of YOLO](/essays/risk-management-in-the-age-of-yolo), [Toil We Must](/essays/toil-we-must), [Contrary: My Renegade of Choice](/essays/contrary-my-renegade-of-choice), [Learning To Dream](/essays/learning-to-dream)
+<!-- interconnections-end -->
+
 ![Header image for The Renaissance of Rise and Grind](/images/the-renaissance-of-rise-and-grind-66587832.png)
 
 In politics, there is this concept of a "[third rail](http://bit.ly/3LKPU4I)." On a subway, there are two rails that the train runs on, and then the third rail is charged with electricity to power the trains. Touching that third rail typically results in certain death. So in politics, the "third rail" consists of topics whose discussion may result in political death.

@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-gospel-of-ark-invest"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Storytelling of Investing](/essays/the-storytelling-of-investing), [On Hype And Hot Air](/essays/on-hype-and-hot-air)
+<!-- interconnections-end -->
+
 ![Shoutout to my brother Chad, who is like my Midjourney chatbot when I need more complex images. If you're looking to buy3D printed Dungeons & Dragons paraphernalia, he's your guy!](/images/the-gospel-of-ark-invest-539d80b7.png)
 
 Everyone has someone (or several someones) who they just do not like. Hearing their voice makes you grind your teeth. Every time they say anything, or do anything, you hate it and everything associated with it. Sometimes it starts to feel like part of your personality is just detesting that person and everything they stand for.

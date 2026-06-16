@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-burden-of-proof"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Intellectual Seat Belts](/essays/intellectual-seat-belts), [The Groucho Marx Mandate](/essays/the-groucho-marx-mandate), [Embrace The Nuance](/essays/embrace-the-nuance), [Oh Say, What is Truth?](/essays/oh-say-what-is-truth), [The Value Chain of Capital](/essays/the-value-chain-of-capital)
+<!-- interconnections-end -->
+
 !["Philosopher in Meditation" by Rembrandt](/images/the-burden-of-proof-680209b4.png)
 
 Every once in a while I have a conversation that causes my ears to perk up. I hear something that I either strongly disagree with or strongly agree with and I have a visceral reaction. I feel obligated to respond. To come to blows with the voices I disagree with or go to bat for the ideas I agree with.

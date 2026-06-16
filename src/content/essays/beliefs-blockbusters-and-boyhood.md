@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/beliefs-blockbusters-and-boyhood"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Hits Business](/essays/the-hits-business)
+<!-- interconnections-end -->
+
 ![Header image for Beliefs, Blockbusters, and Boyhood](/images/beliefs-blockbusters-and-boyhood-b6c94514.png)
 
 ---

@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/a-fungible-worldview"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [Crafting Your Average](/essays/crafting-your-average), [The Blackstone of Innovation](/essays/the-blackstone-of-innovation), [The Puritans of Venture Capital](/essays/the-puritans-of-venture-capital), [The Unholy Trinity of Venture Capital](/essays/the-unholy-trinity-of-venture-capital), [The Horse, The Jockey, or The Whole Race?](/essays/the-horse-the-jockey-or-the-whole), [The Rise of The Cash Man](/essays/the-rise-of-the-cash-man), [Institutionalized Belief In The Greater Fool](/essays/institutionalized-belief-in-the-greater), [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism), [Panic Writing](/essays/panic-writing)
+<!-- interconnections-end -->
+
 ![Header image for A Fungible Worldview](/images/a-fungible-worldview-5fbfd7c9.png)
 
 [I've written before](https://investing101.substack.com/p/crafting-your-average) about the fact that you can only think about one thing at a time. No matter how fast you try and run, no matter how much content you try and consume, no matter how much capital you seek to deploy — all of it can only happen one thought at a time.

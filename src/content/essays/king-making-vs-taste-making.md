@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/king-making-vs-taste-making"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Storytelling of Investing](/essays/the-storytelling-of-investing), [What's In a Post-Mortem?](/essays/whats-in-a-post-mortem), [The Unbundling of Venture Capital](/essays/the-unbundling-of-venture-capital), [Historical Futurism](/essays/historical-futurism)
+<!-- interconnections-end -->
+
 ![Header image for King-Making vs. Taste-Making](/images/king-making-vs-taste-making-fce04923.png)
 
 Power has, historically, been able to operate in a vacuum. Whoever has the largest army, or the most resources can largely control the world. "Whoever has the gold makes the rules." I'm no historian, but it seems that for the majority of human history there was a fairly limited role for "personal preference" to play in how things are governed.

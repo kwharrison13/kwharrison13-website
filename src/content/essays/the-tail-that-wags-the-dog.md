@@ -8,6 +8,12 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-tail-that-wags-the-dog"
 ---
 
+<!-- interconnections-start -->
+## Interconnections
+
+**Essays:** [The Bubble Brains of Silicon Valley](/essays/the-bubble-brains-of-venture-capital), [The Inescapable Debate of Human Nature](/essays/the-inescapable-debate-of-human-nature), [Intellectual Seat Belts](/essays/intellectual-seat-belts), [Oh Say, What is Truth?](/essays/oh-say-what-is-truth), [Sharing The Indie Era of Startups](/essays/sharing-the-indie-era-of-startups), [It's Time To Build... But Build What?](/essays/its-time-to-build-but-build-what), [Renegade Spotlight: Lowercarbon](/essays/lowercarbon)
+<!-- interconnections-end -->
+
 ![Pavlov’s Dog](/images/the-tail-that-wags-the-dog-920d5fb1.jpg)
 
 We all crave individuality. We want to feel like we are our own person. A person with unique perspectives and charm. And I don't mean the grander argument about free will, I'm just talking about how most people want to see their own decision making capabilities. We all want to be non-conformists, just like everybody else.
