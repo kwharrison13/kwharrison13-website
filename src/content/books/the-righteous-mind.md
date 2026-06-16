@@ -3,23 +3,31 @@ title: "The Righteous Mind"
 author: "Jonathan Haidt"
 year_read: 2018
 rating: 4
+quake: false
 tags:
   - "people-over-politics"
   - "language-of-discourse"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Jonathan Haidt's moral-psychology book read with explicit cross-reference to the recurring narrative-and-cohesion thread. Two threads:
+
+1. **Narrative as the substrate of social cohesion.** Tomasello's ultra-sociality argument tracks with Sapiens's narrative-as-glue thesis — the role stories play in binding humans into cooperative groups.
+
+2. **Atheism as a luxury of efficient society.** "Society operates so efficiently that communities are preferences rather than necessity." A specific structural explanation for the post-religious turn that doesn't require treating religion as merely irrational.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Sapiens](/books/sapiens) _(stub)_ — directly cross-referenced.
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious-cohesion thread.
+- [The Death of Expertise](/books/the-death-of-expertise) — moral-psychology adjacent.
+- [Homo Deus](/books/homo-deus) — civilizational-trajectory parallel.
 <!-- /interconnections -->
 
 ## Highlights

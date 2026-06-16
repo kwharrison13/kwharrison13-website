@@ -3,23 +3,25 @@ title: "Our Towns"
 author: "James Fallows, Deborah Fallows"
 year_read: 2019
 rating: 3
+quake: false
 tags:
   - "city-building"
   - "people-over-politics"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+_Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [What I Found in a Thousand Towns](/books/what-i-found-in-a-thousand-towns), [Janesville](/books/janesville) _(stub)_ — community-vitality cluster.
+- [Hillbilly Elegy](/books/hillbilly-elegy) — counter-narrative.
 <!-- /interconnections -->
 
 ## Highlights

@@ -3,24 +3,37 @@ title: "American Zion"
 author: "Benjamin Park"
 year_read: 2025
 rating: 4
+quake: false
 tags:
   - "religious-intellectualism"
   - "city-building"
   - "historical-futurism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Benjamin E. Park's history of the LDS Church read with explicit interest in the institutional-vs-political tension — particularly David O. McKay's instincts on Ezra Taft Benson's radical politics. Three threads:
+
+1. **McKay's decisiveness on Benson.** "You should turn the offer down." A leadership moment where the President of the Church recognized a likely-bad outcome and resisted being swayed. The note treats this as the canonical example of prophetic intuition correctly applied.
+
+2. **"Then why did God let him become the prophet?"** A directly honest question raised in the notes about Benson's subsequent presidency. The book doesn't resolve it; the tension is left to sit.
+
+3. **The "apostles should focus on gospel principles" line.** First Presidency formally pushing back on political activism from within. The institutional defense against the politicization of doctrine.
+
+Cross-references: McKay Coppins's biography of Romney is referenced explicitly — same author's earlier work on the same tradition.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — same institutional history, earlier era.
+- [Brigham Young — Pioneer Prophet](/books/brigham-young-pioneer-prophet) — same tradition, post-Joseph chapter.
+- [Romney — A Reckoning](/books/romney-a-reckoning) — McKay Coppins reference; political-and-faith intersection.
+- [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — historiographical context.
+- [[Working Toward
 <!-- /interconnections -->
 
 ## Highlights

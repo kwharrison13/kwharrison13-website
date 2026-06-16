@@ -3,22 +3,24 @@ title: "How To Be a Capitalist Without Any Capital"
 author: "Nathan Latka"
 year_read: 2019
 rating: 1
+quake: false
 tags:
   - "capital-allocation"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+One note: Evan Spiegel's "people are going to copy your product if you build great stuff" — tagged "Ironic" given Snapchat's later trajectory. The principle is right but the speaker is the wrong avatar for it.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Founders](/books/the-founders) — adjacent on Silicon Valley personalities.
+- [The Everything Store](/books/the-everything-store) — original-vs-copycat thread.
 <!-- /interconnections -->
 
 ## Highlights

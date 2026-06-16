@@ -1,21 +1,32 @@
 ---
 title: "The Assault on Reason"
 author: "Al Gore"
+year_read: "pre-2016"
 rating: 0
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+quake: false
+tags: []
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Al Gore's book on the decline of public reason, read with active counter-argument — the notes push back on the romanticization of pre-television public discourse. Three threads:
+
+1. **The pre-television public wasn't actually that reasonable.** "When you read the reactions of people in the Hamilton and Adams biography, I don't necessarily are well-balanced, rational, informed decision making." Gore's nostalgia for an earlier rational era is treated as historically suspect.
+
+2. **Psychological manipulation predates broadcast.** "Has been part of it all along." Gore's framing as electronic-media disruption is too narrow.
+
+3. **The discipline of accepting being wrong.** The Orwell quote about "impudently twisting the facts" — the actual skill is admitting error, which is rare in any era.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Death of Expertise](/books/the-death-of-expertise) — democratic-epistemology overlap.
+- [Amusing Ourselves To Death](/books/amusing-ourselves-to-death) — same media-ecology critique, sharper instrument.
+- [The Brave New World Collection](/books/the-brave-new-world-collection) — propaganda/manipulation thread.
 <!-- /interconnections -->
 
 ## Highlights

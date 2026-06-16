@@ -3,20 +3,22 @@ title: "Wicked"
 author: "Gregory Maguire"
 year_read: 2024
 rating: 3
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+quake: false
+tags: []
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+One note: the Witch's "is it only in youth that evil is interesting?" line tagged `Extraordinary Person Philosophy` — the frame that moral seriousness is a quality of the unusual mind, not a default disposition.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Courage To Be Disliked](/books/the-courage-to-be-disliked) — identity-and-virtue thread.
 <!-- /interconnections -->
 
 ## Highlights

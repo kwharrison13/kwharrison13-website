@@ -3,22 +3,31 @@ title: "An Insider's View of Mormon Origins"
 author: "Grant H. Palmer"
 year_read: 2025
 rating: 1
+quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Grant H. Palmer's revisionist Mormon history read with active disagreement — most notes flag a logical gap or historiographical flaw rather than accept Palmer's conclusions. Three threads:
+
+1. **The genealogy fallacy.** "If he was faking stone looking to find money and he used a stone to translate then he must have been faking translation?" The form-of-argument problem: methodological resemblance doesn't establish equivalence of intent.
+
+2. **Ideas compatible with science should sound increasingly modern, not ancient.** A reasonable inversion — if the Book of Abraham's cosmology were a fabrication keyed to early-1800s science, it would be aging well rather than poorly. The aging-poorly pattern is itself evidence.
+
+3. **The grand-conspiracy assumption.** Palmer imagines all the witnesses and inner-circle figures held to a fabrication "despite unending suffering." A conspiracy theory at scale that requires more believing than the alternative.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — same primary subject, Bushman's more rigorous treatment.
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — same doubt-and-doctrine question.
+- [[American
 <!-- /interconnections -->
 
 ## Highlights

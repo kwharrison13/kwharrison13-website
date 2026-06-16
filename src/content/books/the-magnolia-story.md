@@ -3,22 +3,23 @@ title: "The Magnolia Story"
 author: "Chip Gaines, Joanna Gaines"
 year_read: 2017
 rating: 2
+quake: false
 tags:
   - "company-building"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+_Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [How Will You Measure Your Life?](/books/how-will-you-measure-your-life) — values-as-strategy register.
 <!-- /interconnections -->
 
 ## Highlights

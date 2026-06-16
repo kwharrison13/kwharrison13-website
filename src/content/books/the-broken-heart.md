@@ -1,21 +1,25 @@
 ---
 title: "The Broken Heart"
 author: "Bruce C. Hafen"
+year_read: "pre-2016"
 rating: 0
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+quake: false
+tags: []
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+_Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious-engagement parallel.
+- [The Faith of a Scientist](/books/the-faith-of-a-scientist) — adjacent on faith-and-experience.
 <!-- /interconnections -->
 
 ## Highlights

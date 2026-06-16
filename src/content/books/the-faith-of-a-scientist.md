@@ -3,22 +3,29 @@ title: "The Faith of a Scientist"
 author: "Henry Eyring"
 year_read: 2024
 rating: 3
+quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Henry Eyring's collection on science and religion read with two structural observations. Two threads:
+
+1. **Pasteur's "two men in each one of us."** The scientist and the believer as complementary rather than competing — the framing the book operates on without quite arguing for.
+
+2. **Space-as-the-thing-moving frame.** A Star Trek-adjacent reframe of celestial mechanics that the book uses to make abstract physics intuitive.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — same religion-and-doubt intersection.
+- [Stretching The Heavens](/books/stretching-the-heavens) — Eugene England's parallel thinking.
+- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — doctrinal foundation.
 <!-- /interconnections -->
 
 ## Highlights

@@ -1,21 +1,24 @@
 ---
 title: "Stories of Your Life and Others"
 author: "Ted Chiang"
+year_read: "pre-2016"
 rating: 0
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+quake: false
+tags: []
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+One note: the heptapods' free-but-bound paradox tagged `Pluribus` — Ted Chiang's frame on agency and predestination as not-mutually-exclusive. Resonates with the "opposition in all things" thread from Homo Deus.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Homo Deus](/books/homo-deus) — agency-and-determinism overlap.
 <!-- /interconnections -->
 
 ## Highlights

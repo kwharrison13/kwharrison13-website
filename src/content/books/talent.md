@@ -3,22 +3,32 @@ title: "Talent"
 author: "Tyler Cowen, Daniel Gross"
 year_read: 2023
 rating: 3
+quake: false
 tags:
   - "company-building"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Cowen and Gross's talent-evaluation book read as practical guidance with cross-references to other thinking-tool books. Three threads:
+
+1. **Talent is hard to find and mobilize, not absent.** The recurring problem: not "where is the talent" but "what stops the talent from being used." Maintenance-vs-creation tension overlaps with Working in Public.
+
+2. **Triangulation as the evaluation discipline.** "In which areas might this work? Might this not work? When does this work or not work?" — pairs with the How To Read a Book triangulation thread.
+
+3. **Environment frames aspiration.** "Consider how much genius and achievement have been..." — environment as a multiplier or suppressor on raw ability.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Founders](/books/the-founders) — talent-vortex parallel; PayPal Mafia as Cowen-Gross case study.
+- [The Idea Factory](/books/the-idea-factory) — Bell Labs talent-identification thread.
+- [Working in Public](/books/working-in-public) — talent + maintenance overlap.
+- [How To Read a Book](/books/how-to-read-a-book) — triangulation discipline.
 <!-- /interconnections -->
 
 ## Highlights

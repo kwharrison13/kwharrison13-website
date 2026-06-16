@@ -3,22 +3,32 @@ title: "Stretching The Heavens"
 author: "Terry L. Givens"
 year_read: 2024
 rating: 5
+quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Terryl Givens's biography of Eugene England read with a recurring tension about institutional Mormonism's relationship with its own thinkers. Three threads:
+
+1. **"Learning to be righteous in the dark."** The frame from Discipline Is Destiny resurfaces here — England's instinct that constant divine contact "moves towards the devil's plan" rather than the saint's. Internalization over scaffolding.
+
+2. **The branch breaking from the tree.** A repeated framing: each Christian sect that separates and calls itself "the true tree" loses the connection to the broader tradition. England's framework was unusually open to Catholic critique of Protestant breakage.
+
+3. **Ultimate universalism.** "Wait, what?! We are actually ultimate Universalists." The Charlotte Haven anecdote about progression even in the lowest kingdom — a Joseph Smith doctrinal thread that the modern Church doesn't emphasize but that runs through the foundational sources.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — Givens-on-doubt frame; same author cluster.
+- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — doctrinal-source overlap on progression and creeds.
+- [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — same scholar-vs-institution tension.
+- [[Working Toward
 <!-- /interconnections -->
 
 ## Highlights

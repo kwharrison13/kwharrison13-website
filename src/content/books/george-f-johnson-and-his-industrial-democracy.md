@@ -3,24 +3,29 @@ title: "George F. Johnson and His Industrial Democracy"
 author: "William Inglis"
 year_read: 2025
 rating: 4
+quake: false
 tags:
   - "company-building"
   - "city-building"
   - "historical-futurism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+William Inglis's history of Endicott-Johnson's experiment in "industrial democracy" read for echoes in modern owner-mentality and unions discussions. Two threads:
+
+1. **Owner mentality in a manager.** Workers offered a premium for industry responding with energy — the classic alignment-of-incentives case study. Recurring frame in Berkshire Hathaway Annual Letters applied at the production-line level.
+
+2. **The "no union, but premium pay" middle path.** Endicott-Johnson as neither open-shop nor closed-shop. The actual model worth studying for contemporary alternative-work-structure discussions.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [[Working Toward
 <!-- /interconnections -->
 
 ## Highlights

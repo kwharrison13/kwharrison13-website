@@ -3,24 +3,33 @@ title: "Nuclear War: a Scenario"
 author: "Annie Jacobsen"
 year_read: 2024
 rating: 5
+quake: false
 tags:
   - "technological-innovation"
   - "people-over-politics"
   - "historical-futurism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Annie Jacobsen's book read purely as a sourcing exercise — all five notes are "add to [warfare-type] section" tags for Anduril-thesis-adjacent material. Two threads:
+
+1. **Subterranean and space warfare as understudied surfaces.** North Korea's UGFs, the satellite-as-warhead scenario, EMP risk via space. The notes tag these as new surface areas for the defense-tech thesis being developed across Skunk Works, The Kill Chain, and Chip War.
+
+2. **Chemical warfare as a present-tense risk.** Several thousand metric tons of CW agents in North Korea — the kind of fact that doesn't get policy attention proportional to its severity.
+
+The book is being read as raw material, not as a thinking-vehicle. Synthesis lives in whatever defense-tech writing these notes feed into.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Kill Chain](/books/the-kill-chain) — direct sibling on present-tense defense risk.
+- [Skunk Works](/books/skunk-works), [Chip War](/books/chip-war) — defense-tech trilogy.
+- [Flying Blind](/books/flying-blind) — adjacent on US industrial-base capacity to respond.
 <!-- /interconnections -->
 
 ## Highlights

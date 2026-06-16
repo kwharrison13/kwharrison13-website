@@ -3,23 +3,25 @@ title: "Range"
 author: "David Epstein"
 year_read: 2019
 rating: 3
+quake: false
 tags:
   - "republic-of-letters"
   - "open-source-knowledge"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+_Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack), [The Great Mental Models Volume 1 — General Thinking Concepts](/books/the-great-mental-models-volume-1-general-thinking-concepts) — multidisciplinary-thinking cluster.
+- [The Death of Expertise](/books/the-death-of-expertise) — specialist-vs-generalist thread.
 <!-- /interconnections -->
 
 ## Highlights

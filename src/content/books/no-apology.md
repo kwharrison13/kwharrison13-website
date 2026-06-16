@@ -3,22 +3,24 @@ title: "No Apology"
 author: "Mitt Romney"
 year_read: 2018
 rating: 3
+quake: false
 tags:
   - "people-over-politics"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+_Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Turnaround](/books/turnaround), [Romney — A Reckoning](/books/romney-a-reckoning) — Romney corpus.
+- [The Death of Expertise](/books/the-death-of-expertise) — democratic-discourse parallel.
 <!-- /interconnections -->
 
 ## Highlights

@@ -3,22 +3,24 @@ title: "Shortest Way Home"
 author: "Pete Buttigieg"
 year_read: 2019
 rating: 3
+quake: false
 tags:
   - "city-building"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+One note: Buttigieg on generational sentiment about civic renewal — "everyone needs that benchmarking." The marker of when a community recognizes it needs change comes before any specific change.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Romney — A Reckoning](/books/romney-a-reckoning) — character-driven political memoir parallel.
+- [Janesville](/books/janesville) _(stub)_ — community-recovery adjacent.
 <!-- /interconnections -->
 
 ## Highlights

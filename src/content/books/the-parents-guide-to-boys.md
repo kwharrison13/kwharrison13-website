@@ -1,21 +1,25 @@
 ---
 title: "The Parents' Guide to Boys"
 author: "Abigail Norfleet James"
+year_read: "pre-2016"
 rating: 0
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+quake: false
+tags: []
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+_Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Self-Driven Child](/books/the-self-driven-child) — primary parenting cluster.
+- [The Boy Who Was Raised as a Dog](/books/the-boy-who-was-raised-as-a-dog) _(stub)_ — developmental-psychology adjacent.
 <!-- /interconnections -->
 
 ## Highlights

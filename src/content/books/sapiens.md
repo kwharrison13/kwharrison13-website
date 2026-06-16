@@ -3,22 +3,25 @@ title: "Sapiens"
 author: "Yuval Noah Harari"
 year_read: 2017
 rating: 2
+quake: false
 tags:
   - "historical-futurism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+One note: "whether or not something is true doesn't impact whether you believe it." Harari's recurring constructed-narrative frame applied to consumerism-and-nationalism specifically.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Homo Deus](/books/homo-deus) — direct sequel.
+- [21 Lessons for the 21st Century](/books/21-lessons-for-the-21st-century) — same Harari trilogy.
+- [The Righteous Mind](/books/the-righteous-mind) — narrative-and-cohesion overlap.
 <!-- /interconnections -->
 
 ## Highlights

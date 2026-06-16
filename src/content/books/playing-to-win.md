@@ -3,22 +3,24 @@ title: "Playing To Win"
 author: "A.G. Lafley, Roger L. Martin"
 year_read: 2017
 rating: 2
+quake: false
 tags:
   - "company-building"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+One note: Febreze as "a product technology in search of a job to be done" — with the counter "not always bad." Product-first development isn't always the failure mode the JTBD framework suggests; sometimes the technology arrives before the use case clarifies.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Founders](/books/the-founders) — product-vs-platform thread.
+- [The Everything Store](/books/the-everything-store) — same operating-philosophy register.
 <!-- /interconnections -->
 
 ## Highlights

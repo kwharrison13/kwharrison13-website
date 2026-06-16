@@ -3,23 +3,25 @@ title: "The Greatest Sentence Ever Written"
 author: "Walter Isaacson"
 year_read: 2025
 rating: 3
+quake: false
 tags:
   - "religious-intellectualism"
   - "republic-of-letters"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+One note: "the concept common ground has always been part of humanity's struggle to create a good society" tagged `Pluribus` — the e-pluribus-unum frame as the recurring American-political question.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Romney — A Reckoning](/books/romney-a-reckoning) — political-character thread.
+- [The Death of Expertise](/books/the-death-of-expertise) — democratic-discourse overlap.
 <!-- /interconnections -->
 
 ## Highlights

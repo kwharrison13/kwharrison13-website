@@ -3,23 +3,25 @@ title: "The Boy Who Was Raised as a Dog"
 author: "Bruce D. Perry, Maia Szalavitz"
 year_read: 2024
 rating: 4
+quake: false
 tags:
   - "people-over-politics"
   - "ideological-family-tree"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+_Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Self-Driven Child](/books/the-self-driven-child) — developmental-psychology cluster.
+- [The Parents' Guide to Boys](/books/the-parents-guide-to-boys) — adjacent on child development.
 <!-- /interconnections -->
 
 ## Highlights

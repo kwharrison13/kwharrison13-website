@@ -3,22 +3,23 @@ title: "The Priesthood Power of Women"
 author: "Barbara Morgan Gardner"
 year_read: 2022
 rating: 4
+quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+One note: Joseph Smith's Relief Society purpose as "to save souls" (not just relieve poverty). Linked to Bishop Daniel's "alleviate suffering" framing — the wider purpose of welfare work as ultimately soteriological.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [[Working Toward
 <!-- /interconnections -->
 
 ## Highlights

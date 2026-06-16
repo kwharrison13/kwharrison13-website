@@ -1,21 +1,32 @@
 ---
 title: "VC"
 author: "Tom Nicholas"
+year_read: "pre-2016"
 rating: 0
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+quake: false
+tags: []
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Tom Nicholas's history of venture capital read with the Investing 101 2.0 and Bifurcation of Investing threads explicitly in view. Three threads:
+
+1. **Information asymmetry as the structural moat.** What happens if you remove it — distribution of playbooks, democratization of customer access, data-sharing on best companies? The implicit thesis of Contrary Research and the broader open-source-knowledge thread.
+
+2. **The family tree of venture funds.** Specific research question the notes pose — who worked where, founded what after what experience. Treats VC as a generational craft passed down through specific lineages.
+
+3. **VC mechanics haven't changed in 50 years.** Will they? When? The question the The Power Law book also raises and doesn't quite answer.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Power Law](/books/the-power-law) — direct sibling; both books treat VC as an institution worth examining.
+- [The Founders](/books/the-founders) — talent-vortex on the company side of the same equation.
+- [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — alternative investment structure.
 <!-- /interconnections -->
 
 ## Highlights

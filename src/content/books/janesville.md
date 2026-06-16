@@ -3,23 +3,25 @@ title: "Janesville"
 author: "Amy Goldstein"
 year_read: 2018
 rating: 4
+quake: false
 tags:
   - "city-building"
   - "people-over-politics"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+_Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Hillbilly Elegy](/books/hillbilly-elegy), [Our Towns](/books/our-towns) — community-decline cluster.
+- [Flying Blind](/books/flying-blind) — industrial-decline parallel.
 <!-- /interconnections -->
 
 ## Highlights

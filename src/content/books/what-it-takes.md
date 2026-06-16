@@ -3,23 +3,25 @@ title: "What It Takes"
 author: "Stephen A. Schwarzman"
 year_read: 2020
 rating: 3
+quake: false
 tags:
   - "capital-allocation"
   - "company-building"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+_Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters), [The Power Law](/books/the-power-law) — adjacent on private-equity/finance.
+- [The Founders](/books/the-founders) — operating-philosophy parallel.
 <!-- /interconnections -->
 
 ## Highlights

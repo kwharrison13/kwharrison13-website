@@ -3,22 +3,24 @@ title: "The Expertise Economy"
 author: "Kelly Palmer, David Blake"
 year_read: 2019
 rating: 2
+quake: false
 tags:
   - "people-over-politics"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+_Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Death of Expertise](/books/the-death-of-expertise) — direct title-rhyme; expertise as the structural question.
+- [Working in Public](/books/working-in-public) — open-source-knowledge thread.
 <!-- /interconnections -->
 
 ## Highlights

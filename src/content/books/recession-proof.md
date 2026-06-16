@@ -3,22 +3,24 @@ title: "Recession Proof"
 author: "Jason Schenker"
 year_read: 2019
 rating: 1
+quake: false
 tags:
   - "capital-allocation"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+_Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Power Law](/books/the-power-law) — investment-structure parallel.
+- [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — cash-discipline thread.
 <!-- /interconnections -->
 
 ## Highlights

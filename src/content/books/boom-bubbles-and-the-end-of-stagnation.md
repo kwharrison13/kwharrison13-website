@@ -3,24 +3,33 @@ title: "Boom: Bubbles & The End of Stagnation"
 author: "Byrne Hobart, Tobias Huber"
 year_read: 2025
 rating: 4
+quake: false
 tags:
   - "capital-allocation"
   - "technological-innovation"
   - "historical-futurism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Hobart and Huber's pro-bubble book read with two specific framings worth holding. Two threads:
+
+1. **World's Fair as the inspirational deadline.** "One of the other advantages of a World's Fair was the inspirational timelines it offered people to build towards." Public-deadline as cultural-coordination mechanism. The pattern the book argues is structurally missing now.
+
+2. **The thinking-machine-as-eschatology.** "Soon became an eschatological project" — the AI-as-religion frame that maps onto the Mormon Transhumanist Association thread. Tagged accordingly.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Power Law](/books/the-power-law) — adjacent on capital-and-ambition frame.
+- [Skunk Works](/books/skunk-works) — speed-of-delivery thread.
+- [The Idea Factory](/books/the-idea-factory) — Bell Labs as the era's positive case.
+- [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) — ambitious-timeline city-building.
+- [How To Avoid a Climate Disaster](/books/how-to-avoid-a-climate-disaster) — Gates's structurally similar bet-making.
 <!-- /interconnections -->
 
 ## Highlights

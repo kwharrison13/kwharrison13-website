@@ -3,24 +3,33 @@ title: "Hillbilly Elegy"
 author: "J.D. Vance"
 year_read: 2017
 rating: 3
+quake: false
 tags:
   - "city-building"
   - "people-over-politics"
   - "ideological-family-tree"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+J.D. Vance's memoir read with attention to structural-trap dynamics in declining communities. Two threads:
+
+1. **Housing as the trap.** "As jobs disappear in a given area, declining home values trap people in certain neighborhoods." The mobility-suppression mechanism the book documents.
+
+2. **Even recovery creates exodus.** "If you bring back the jobs, you have to worry about the mass exodus at the slightest sign of rising home prices." The reverse-trap that gentrification dynamics produce.
+
+A standalone note: "students don't expect much from themselves, because the people around them don't do very much. The internet changes that." A cautiously optimistic counter to Vance's pessimism — the assumption that local environment fully determines aspiration is increasingly weak.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Janesville](/books/janesville) _(stub)_ — adjacent on industrial-decline community dynamics.
+- [Our Towns](/books/our-towns) _(stub)_ — the counter-narrative; what works.
+- [The Self-Driven Child](/books/the-self-driven-child) — aspiration-and-environment thread.
 <!-- /interconnections -->
 
 ## Highlights

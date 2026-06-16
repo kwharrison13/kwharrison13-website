@@ -3,22 +3,24 @@ title: "The Time Machine"
 author: "H.G. Wells"
 year_read: 2025
 rating: 3
+quake: false
 tags:
   - "historical-futurism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+_Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [2034 — A Novel of the Next World War](/books/2034-a-novel-of-the-next-world-war) _(stub)_, [2054](/books/2054) _(stub)_ — speculative-fiction frame.
+- [The Brave New World Collection](/books/the-brave-new-world-collection) — dystopia parallel.
 <!-- /interconnections -->
 
 ## Highlights

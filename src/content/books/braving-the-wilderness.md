@@ -3,23 +3,33 @@ title: "Braving The Wilderness"
 author: "Brene Brown"
 year_read: 2024
 rating: 3
+quake: false
 tags:
   - "people-over-politics"
   - "language-of-discourse"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Brené Brown's book read with attention to the nuance-and-honesty discipline. Three threads:
+
+1. **Holding tension as the skill.** "Is there tension and vulnerability in supporting both the police and the activists? Hell, yes. It's the wilderness." The discipline isn't picking a side — it's holding the tension long enough to find a real answer.
+
+2. **Bullshit as the abandonment of shared truth.** "When we're bullshitting, we aren't interested in the truth as a shared starting point." Easier to say no than yes, because no doesn't commit to a shared starting point.
+
+3. **Persistence in the wilderness as the actual practice.** "Put one foot in front of the other enough times" — the lonely-good-faith stance that eventually finds others doing the same.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Death of Expertise](/books/the-death-of-expertise) — democratic-discourse frame.
+- [Romney — A Reckoning](/books/romney-a-reckoning) — character-and-tension in politics.
+- [The Courage To Be Disliked](/books/the-courage-to-be-disliked) — same internalization-over-validation thread.
+- [Discipline Is Destiny](/books/discipline-is-destiny) — daily practice in the face of social cost.
 <!-- /interconnections -->
 
 ## Highlights

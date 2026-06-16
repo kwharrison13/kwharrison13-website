@@ -3,22 +3,32 @@ title: "21 Lessons for the 21st Century"
 author: "Yuval Noah Harari"
 year_read: 2019
 rating: 2
+quake: false
 tags:
   - "historical-futurism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Harari's near-future book read with active counter-argument throughout. Three threads:
+
+1. **Fatalism about human change is wrong.** "This feels fatalistic / final. Can't people who used to be angry on the road change?" Harari's evolutionary-pressure framing flattens the actual possibility of psychological transformation.
+
+2. **Mass identities don't have to be fictions.** "Isn't American identity crafted around the story of the Revolution? That's not a fiction." Harari's frame that all mass identities are "imagined" elides the difference between fabrication and shared-narrative-of-actual-events.
+
+3. **Why-do-good for God or for self.** "Don't do the right thing because God wants you to. But God does want you to do the right thing because he recognizes the good it does for you." A theological reframe that resolves Harari's apparent religion-vs-self-interest dichotomy.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Homo Deus](/books/homo-deus) — direct predecessor.
+- [Sapiens](/books/sapiens) _(stub)_ — earliest in the trilogy.
+- [The Brave New World Collection](/books/the-brave-new-world-collection) — adjacent civilizational-trajectory frame.
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious counter to Harari's secular frame.
 <!-- /interconnections -->
 
 ## Highlights

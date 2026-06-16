@@ -3,24 +3,32 @@ title: "How Will You Measure Your Life?"
 author: "Clayton M. Christensen"
 year_read: 2017
 rating: 5
+quake: false
 tags:
   - "company-building"
   - "language-of-discourse"
   - "ideological-family-tree"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Clayton Christensen's values-as-strategy book read with two specific applied lessons. Two threads:
+
+1. **Short-term-metric bias as the systemic failure.** "This is exactly why Amazon ignores short term metrics." The Christensen frame as direct ancestor of the Bezos discipline documented in The Everything Store and Amazon Unbound.
+
+2. **Use strategy process to find career fulfillment.** Christensen's actual recipe — apply business-strategy frameworks to personal direction. The methodological move that the rest of the book elaborates on.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Amazon Unbound](/books/amazon-unbound) and [The Everything Store](/books/the-everything-store) — Bezos's long-term-orientation lineage.
+- [The Self-Driven Child](/books/the-self-driven-child) — explicit cross-reference; "how will you measure your life" appears in those notes too.
+- [Discipline Is Destiny](/books/discipline-is-destiny) — values-as-strategy register.
+- [Essentialism](/books/essentialism) — focus discipline overlap.
 <!-- /interconnections -->
 
 ## Highlights

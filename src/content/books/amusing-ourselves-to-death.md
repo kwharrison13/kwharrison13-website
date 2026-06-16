@@ -3,23 +3,32 @@ title: "Amusing Ourselves To Death"
 author: "Neil Postman"
 year_read: 2024
 rating: 4
+quake: false
 tags:
   - "historical-futurism"
   - "language-of-discourse"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Postman's media-ecology argument read with a recurring contemporary update — print culture vs. social-media culture mapped onto the original print-vs-television frame. Three threads:
+
+1. **Coherence collapses without print discipline.** Postman's argument that print structures public discourse around logic and coherence gets a sharp present-tense update: social-media culture is structured around loudness and conflict instead. Lying or self-contradiction is *ideal* in that environment because agreement and disagreement both amplify reach.
+
+2. **Information abundance has inverted the comprehensibility-of-the-world feeling.** Typography's spread once kindled hope that the world could be comprehended; the internet's explosion kindled the opposite despair.
+
+3. **Educated populace as the structural defense.** Same `Educated Electorate` and `Voice of the People` threads that run through The Death of Expertise and Romney — A Reckoning.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Death of Expertise](/books/the-death-of-expertise) — same democratic-epistemology question.
+- [The Brave New World Collection](/books/the-brave-new-world-collection) — Huxley/Postman pairing on entertainment-as-control.
+- [Romney — A Reckoning](/books/romney-a-reckoning) — educated-electorate thread.
 <!-- /interconnections -->
 
 ## Highlights

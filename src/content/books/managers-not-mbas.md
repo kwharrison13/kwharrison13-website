@@ -1,21 +1,25 @@
 ---
 title: "Managers Not MBAs"
 author: "Henry Mintzberg"
+year_read: "pre-2016"
 rating: 0
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+quake: false
+tags: []
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+One note: "the school of hard knocks" entrepreneur frame as the gap in MBA training — "this is what we could offer in helping with startup bureaucracy." Practitioner-knowledge as the actual scarce input.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Power Law](/books/the-power-law) — VC structure parallel.
+- [Working in Public](/books/working-in-public) — creation-vs-maintenance thread.
 <!-- /interconnections -->
 
 ## Highlights

@@ -3,22 +3,24 @@ title: "Restoration: God's Call To The 21st Century"
 author: "Patrick Q. Mason"
 year_read: 2024
 rating: 3
+quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+_Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Crucible of Doubt](/books/the-crucible-of-doubt), [Stretching The Heavens](/books/stretching-the-heavens) — religious-engagement cluster.
+- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — institutional history.
 <!-- /interconnections -->
 
 ## Highlights

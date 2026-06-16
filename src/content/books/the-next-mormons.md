@@ -3,22 +3,25 @@ title: "The Next Mormons"
 author: "Jana Riess"
 year_read: 2020
 rating: 2
+quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+One note: Jamie's openness-led-to-doubts arc reframed — "who taught her she needed to find fault with other people's belief system?" The John Taylor "bring all the good you have and let us see if we can add to it" frame as the lost alternative posture.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Life of John Taylor](/books/the-life-of-john-taylor) — direct quote reference.
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — same doubt-and-doctrine question.
+- [[American
 <!-- /interconnections -->
 
 ## Highlights

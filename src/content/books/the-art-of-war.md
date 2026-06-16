@@ -3,22 +3,24 @@ title: "The Art of War"
 author: "Sun Tzu"
 year_read: 2019
 rating: 4
+quake: false
 tags:
   - "historical-futurism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+_Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Kill Chain](/books/the-kill-chain), [Skunk Works](/books/skunk-works) — strategy-and-warfare cluster.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — adjacent on strategic thinking.
 <!-- /interconnections -->
 
 ## Highlights

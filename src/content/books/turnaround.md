@@ -3,23 +3,25 @@ title: "Turnaround"
 author: "Mitt Romney"
 year_read: 2018
 rating: 3
+quake: false
 tags:
   - "company-building"
   - "people-over-politics"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+_Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [No Apology](/books/no-apology) _(stub)_, [Romney — A Reckoning](/books/romney-a-reckoning) — Romney corpus.
+- [Skunk Works](/books/skunk-works) — operational-discipline thread.
 <!-- /interconnections -->
 
 ## Highlights

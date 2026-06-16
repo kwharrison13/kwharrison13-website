@@ -3,24 +3,34 @@ title: "Walt Disney and the Promise of Progress City"
 author: "Sam Gennawey"
 year_read: 2020
 rating: 4
+quake: false
 tags:
   - "company-building"
   - "city-building"
   - "historical-futurism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Sam Gennawey's book on Walt Disney's EPCOT vision read as historical-futurism — what does it look like when ambitious city-building actually gets attempted? Two threads:
+
+1. **Looking back to see what predictions came true.** The historical-futurist lens — Walt's 1960s predictions evaluated 50+ years later. Useful exercise for any contemporary "future of cities" thinking.
+
+2. **3D-printed housing as the contemporary echo.** The Monsanto House of the Future as predecessor to current additive-manufacturing housing experiments.
+
+A side observation worth flagging: the Robert Moses / Jane Jacobs feud as the recurring case study someone should book-length. The structural tension between top-down city-building and bottom-up urbanism.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Power Law](/books/the-power-law) — institutional bet-making parallel.
+- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institution-building thread.
+- [Boom — Bubbles & The End of Stagnation](/books/boom-bubbles-and-the-end-of-stagnation) — same "future of cities" frame.
+- [The Ride of a Lifetime](/books/the-ride-of-a-lifetime) — Disney company history.
 <!-- /interconnections -->
 
 ## Highlights

@@ -3,22 +3,29 @@ title: "China in Ten Words"
 author: "Yu Hua"
 year_read: 2022
 rating: 3
+quake: false
 tags:
   - "historical-futurism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+Yu Hua's essay collection read with two specific structural frames. Two threads:
+
+1. **Loss of "the people" as a sense.** "In America it feels like we have lost our sense of 'the people.'" Yu Hua's frame on Chinese collective experience as a comparison that highlights what the US has lost.
+
+2. **Leverage as monetary policy vs. as risk management.** The financial-domain note about leverage as a specific economic mechanism — tagged `#Storytelling`, suggesting the book's framing matters more than the technical content.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [The Death of Expertise](/books/the-death-of-expertise) — voice-of-the-people thread.
+- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — Chinese vs Western institutional frames.
+- [Chip War](/books/chip-war) — China-context adjacent.
 <!-- /interconnections -->
 
 ## Highlights

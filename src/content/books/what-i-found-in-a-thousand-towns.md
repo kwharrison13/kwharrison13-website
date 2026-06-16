@@ -3,22 +3,24 @@ title: "What I Found in a Thousand Towns"
 author: "Dar Williams"
 year_read: 2018
 rating: 2
+quake: false
 tags:
   - "city-building"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+_Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Our Towns](/books/our-towns) _(stub)_, [Janesville](/books/janesville) _(stub)_ — community-vitality cluster.
+- [Hillbilly Elegy](/books/hillbilly-elegy) — adjacent on local-community dynamics.
 <!-- /interconnections -->
 
 ## Highlights

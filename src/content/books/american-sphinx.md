@@ -3,22 +3,25 @@ title: "American Sphinx"
 author: "Joseph J. Ellis"
 year_read: 2019
 rating: 2
+quake: false
 tags:
   - "historical-futurism"
-last_imported: "2026-04-14"
-key_takeaways_status: pending
+last_imported: "2026-06-16"
+key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Under Consideration — to be added._
+One note: Jefferson on cities — "they all live in cities, together, and can act in a body readily and at all times" — with the present-tense update: "and then they got the internet." The pro-urban argument that anticipated digital cohesion-at-distance.
 <!-- /key-takeaways -->
 
 ## Interconnections
 
 <!-- interconnections -->
-_Under Consideration — to be added._
+- [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) — city-building thread.
+- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — Republic of Letters parallel.
+- [Janesville](/books/janesville) _(stub)_ — community dynamics.
 <!-- /interconnections -->
 
 ## Highlights
