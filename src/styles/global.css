@@ -718,6 +718,7 @@ h1.page-title em {
   line-height: 1.75;
   color: var(--text);
   max-width: 640px;
+  overflow-wrap: anywhere;
 }
 
 .prose h2 {
