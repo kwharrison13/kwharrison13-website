@@ -19,7 +19,11 @@ const books = defineCollection({
     title: z.string(),
     author: z.string(),
     cover: z.string().optional(),
-    year_read: z.union([z.string(), z.number()]).optional(),
+    year_read: z.union([
+      z.string(),
+      z.number(),
+      z.array(z.union([z.string(), z.number()])),
+    ]).optional(),
     rating: z.number().optional(),
     quake: z.boolean().optional(),
     tags: z.array(z.string()).optional(),

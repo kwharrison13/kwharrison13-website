@@ -1,0 +1,18 @@
+# Electronics in Space
+
+- **Channel:** Y Combinator
+- **Uploaded:** 2026-04-23
+- **Duration:** 0:47
+- **URL:** https://www.youtube.com/watch?v=pAV8f4Snx7Q
+
+---
+
+*Philip Johnston (co-founder and CEO, Star Cloud):*
+
+Hello, my name is Philip Johnston, and I am the co-founder and CEO of Star Cloud, building data centers in space. The broad category of startup idea that I would like to see is electronics in space.
+
+So we are about to see an absolutely huge increase in the capacity that humanity has to put things in space because of reusable rockets from SpaceX and Stoke Space. This means that we're going to need enormous amounts of new compute capacity in space.
+
+The particular electronics space I would like to see is inference chips. There's going to be an absolutely enormous market for inference chips in space, and what I mean by chips in space is something that is slightly optimized for mass, slightly optimized for thermal, and slightly optimized for radiation.
+
+If you are working at SpaceX or Nvidia and you've been spending time doing chip design, then Y Combinator would love to hear from you.

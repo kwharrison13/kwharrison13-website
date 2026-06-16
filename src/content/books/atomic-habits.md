@@ -31,7 +31,7 @@ _Under Consideration — to be added._
 - The fields I draw on—biology, neuroscience, philosophy, psychology, and more—have been around for many years. What I offer you is a synthesis of the best ideas smart people figured out a long time ago as well as the most compelling discoveries scientists have made recently. <!--rwid:rwid-82090568edfe-->
 - The backbone of this book is my four-step model of habits—cue, craving, response, and reward—and the four laws of behavior change that evolve out of these steps. Readers with a psychology background may recognize some of these terms from operant conditioning, which was first proposed as “stimulus, response, reward” by B. F. Skinner in the 1930s and has been popularized more recently as “cue, routine, reward” in The Power of Habit by Charles Duhigg. <!--rwid:rwid-48ce0c6f9af3-->
 - Brailsford had been hired to put British Cycling on a new trajectory. What made him different from previous coaches was his relentless commitment to a strategy that he referred to as “the aggregation of marginal gains,” which was the philosophy of searching for a tiny margin of improvement in everything you do. Brailsford said, “The whole principle came from the idea that if you broke down everything you could think of that goes into riding a bike, and then improve it by 1 percent, you will get a significant increase when you put them all together.” <!--rwid:rwid-d0d21ce21a9f-->
-  - By small and simple things...
+  > **Kyle:** *By small and simple things...*
 - Too often, we convince ourselves that massive success requires massive action. Whether it is losing weight, building a business, writing a book, winning a championship, or achieving any other goal, we put pressure on ourselves to make some earth-shattering improvement that everyone will talk about. <!--rwid:rwid-9eecf497ff2b-->
 - Habits are the compound interest of self-improvement. The same way that money multiplies through compound interest, the effects of your habits multiply as you repeat them. They seem to make little difference on any given day and yet the impact they deliver over the months and years can be enormous. It is only when looking back two, five, or perhaps ten years later that the value of good habits and the cost of bad ones becomes strikingly apparent. <!--rwid:rwid-a3aa0fcdd494-->
 - You should be far more concerned with your current trajectory than with your current results. <!--rwid:rwid-7136afd581c8-->
@@ -46,9 +46,9 @@ _Under Consideration — to be added._
 - Fix the inputs and the outputs will fix themselves. <!--rwid:rwid-0c4cf9e67fd3-->
 - When you fall in love with the process rather than the product, you don’t have to wait to give yourself permission to be happy. You can be satisfied anytime your system is running. <!--rwid:rwid-e6f1d13437fc-->
 - The purpose of setting goals is to win the game. The purpose of building systems is to continue playing the game. True long-term thinking is goal-less thinking. It’s not about any single accomplishment. It is about the cycle of endless refinement and continuous improvement. Ultimately, it is your commitment to the process that will determine your progress. <!--rwid:rwid-35c0bb8c1368-->
-  - God is not as focused on the destination as he is the journey. “The destination will take care of itself.”
+  > **Kyle:** *God is not as focused on the destination as he is the journey. “The destination will take care of itself.”*
 - You do not rise to the level of your goals. You fall to the level of your systems. <!--rwid:rwid-0651efbd4cac-->
-  - [[Systems Thinking]]
+  > **Kyle:** *[[Systems Thinking]]*
 - Few things can have a more powerful impact on your life than improving your daily habits. <!--rwid:rwid-df009f9ae269-->
 - Habits like exercise, meditation, journaling, and cooking are reasonable for a day or two and then become a hassle. <!--rwid:rwid-7a12b5ed2321-->
 - With outcome-based habits, the focus is on what you want to achieve. With identity-based habits, the focus is on who you wish to become. <!--rwid:rwid-232f0ecee3bd-->
@@ -94,7 +94,7 @@ _Under Consideration — to be added._
 - For this reason, a small change in what you see can lead to a big shift in what you do. <!--rwid:rwid-9fa3f59cde97-->
 - Here are a few ways you can redesign your environment and make the cues for your preferred habits more obvious: <!--rwid:rwid-31a6c7fbdc51-->
 - If you want to remember to send more thank-you notes, keep a stack of stationery on your desk. <!--rwid:rwid-005b7daa8c28-->
-  - Pre-design your process so you don’t have to think. You just slip right into it.
+  > **Kyle:** *Pre-design your process so you don’t have to think. You just slip right into it.*
 - Be the designer of your world and not merely the consumer of it. <!--rwid:rwid-254d8b49524a-->
 - Over time, subjects began to associate the context of their bed with the action of sleeping, and it became easier to quickly fall asleep when they climbed in bed. Their brains learned that sleeping—not browsing on their phones, not watching television, not staring at the clock—was the only action that happened in that room. <!--rwid:rwid-6e34e198054a-->
 - habits can be easier to change in a new environment. <!--rwid:rwid-0fbc1a5475bb-->
@@ -102,22 +102,22 @@ _Under Consideration — to be added._
 - Create a separate space for work, study, exercise, entertainment, and cooking. The mantra I find useful is “One space, one use.” <!--rwid:rwid-4a0ef4059d90-->
 - If your space is limited, divide your room into activity zones: a chair for reading, a desk for writing, a table for eating. You can do the same with your digital spaces. I know a writer who uses his computer only for writing, his tablet only for reading, and his phone only for social media and texting. Every habit should have a home. <!--rwid:rwid-debbcfa4ebd3-->
 - Robins found that when soldiers who had been heroin users returned home, only 5 percent of them became re-addicted within a year, and just 12 percent relapsed within three years. In other words, approximately nine out of ten soldiers who used heroin in Vietnam eliminated their addiction nearly overnight. <!--rwid:rwid-612644cd2656-->
-  - Connect to behavioral health clinics - Value Transitions
+  > **Kyle:** *Connect to behavioral health clinics - Value Transitions*
 - Typically, 90 percent of heroin users become re-addicted once they return home from rehab. <!--rwid:rwid-3450fe7ac06d-->
 - The idea that a little bit of discipline would solve all our problems is deeply embedded in our culture. <!--rwid:rwid-076899499fba-->
-  - Connect to the idea that self-control is a finite resource in Poor Economics maybe?
+  > **Kyle:** *Connect to the idea that self-control is a finite resource in Poor Economics maybe?*
 - Instead, “disciplined” people are better at structuring their lives in a way that does not require heroic willpower and self-control. In other words, they spend less time in tempting situations. <!--rwid:rwid-a93c7cbf81d6-->
 - So, yes, perseverance, grit, and willpower are essential to success, but the way to improve these qualities is not by wishing you were a more disciplined person, but by creating a more disciplined environment. <!--rwid:rwid-4f19743ca9e4-->
-  - Connect to the ideas from Duckworth on Grit; is this true for children? Should we avoid putting them in situations where they even have to avoid marshmallows?
+  > **Kyle:** *Connect to the ideas from Duckworth on Grit; is this true for children? Should we avoid putting them in situations where they even have to avoid marshmallows?*
 - Bad habits are autocatalytic: the process feeds itself. They foster the feelings they try to numb. <!--rwid:rwid-f993fd557756-->
 - Self-control is a short-term strategy, not a long-term one. You may be able to resist temptation once or twice, but it’s unlikely you can muster the willpower to override your desires every time. <!--rwid:rwid-d910327a337c-->
 - Instead of summoning a new dose of willpower whenever you want to do the right thing, your energy would be better spent optimizing your environment. <!--rwid:rwid-2dcbf3620dd7-->
 - As Stephan Guyenet, a neuroscientist who specializes in eating behavior and obesity, says, “We’ve gotten too good at pushing our own buttons.” <!--rwid:rwid-c3d9546002b3-->
-  - The greatest minds of our generation are figuring out how to get more people to click on an ad.
+  > **Kyle:** *The greatest minds of our generation are figuring out how to get more people to click on an ad.*
 - Habits are a dopamine-driven feedback loop. Every behavior that is highly habit-forming—taking drugs, eating junk food, playing video games, browsing social media—is associated with higher levels of dopamine. The same can be said for our most basic habitual behaviors like eating food, drinking water, having sex, and interacting socially. <!--rwid:rwid-8ec7c8db43fd-->
-  - Connect to technology that augments us instead of distressed us
+  > **Kyle:** *Connect to technology that augments us instead of distressed us*
 - Desire is the engine that drives behavior. Every action is taken because of the anticipation that precedes it. It is the craving that leads to the response. <!--rwid:rwid-bc6759d80045-->
-  - Connect to quote about “you have to want the consequences of the things you want” - Nibley?
+  > **Kyle:** *Connect to quote about “you have to want the consequences of the things you want” - Nibley?*
 - Laszlo Polgar <!--rwid:rwid-d45f484b52a1-->
 - “A genius is not born, but is educated and trained.” <!--rwid:rwid-1b4e41f8fb08-->
 - The childhood of the Polgar sisters was atypical, to say the least. And yet, if you ask them about it, they claim their lifestyle was attractive, even enjoyable. In interviews, the sisters talk about their childhood as entertaining rather than grueling. They loved playing chess. They couldn’t get enough of it. Once, Laszlo reportedly found Sofia playing chess in the bathroom in the middle of the night. Encouraging her to go back to sleep, he said, “Sofia, leave the pieces alone!” To which she replied, “Daddy, they won’t leave me alone!” <!--rwid:rwid-375feae57a34-->
@@ -128,9 +128,9 @@ _Under Consideration — to be added._
 - Similarly, one study found that the higher your best friend’s IQ at age eleven or twelve, the higher your IQ would be at age fifteen, even after controlling for natural levels of intelligence. <!--rwid:rwid-76eb19a2452f-->
 - We soak up the qualities and practices of those around us. <!--rwid:rwid-ef31db027d92-->
 - The normal behavior of the tribe often overpowers the desired behavior of the individual. For example, one study found that when a chimpanzee learns an effective way to crack nuts open as a member of one group and then switches to a new group that uses a less effective strategy, it will avoid using the superior nut cracking method just to blend in with the rest of the chimps. <!--rwid:rwid-b54fa67401ea-->
-  - Connect to investing 101 2.0 quotes about needing to do things differently
+  > **Kyle:** *Connect to investing 101 2.0 quotes about needing to do things differently*
 - The reward of being accepted is often greater than the reward of winning an argument, looking smart, or finding truth. Most days, we’d rather be wrong with the crowd than be right by ourselves. <!--rwid:rwid-a8b80f5024b6-->
-  - Contrarianism.
+  > **Kyle:** *Contrarianism.*
 - One of the most effective things you can do to build better habits is to join a culture where (1) your desired behavior is the normal behavior and (2) you already have something in common with the group. <!--rwid:rwid-0e16e8a76b82-->
 - Your habits are modern-day solutions to ancient desires. New versions of old vices. <!--rwid:rwid-6399e5948ffd-->
 - As the neuroscientist Antonio Damasio explains, “It is emotion that allows you to mark things as good, bad, or indifferent.” <!--rwid:rwid-960e6b4d89c3-->
@@ -141,7 +141,7 @@ _Under Consideration — to be added._
 - If you want to master a habit, the key is to start with repetition, not perfection. <!--rwid:rwid-c08ddef9a49e-->
 - Energy is precious, and the brain is wired to conserve it whenever possible. It is human nature to follow the Law of Least Effort, which states that when deciding between two similar options, people will naturally gravitate toward the option that requires the least amount of work.* <!--rwid:rwid-8f6f48f5e386-->
 - Habits like scrolling on our phones, checking email, and watching television steal so much of our time because they can be performed almost without effort. They are remarkably convenient. <!--rwid:rwid-96834d7aa2b1-->
-  - Technology that augments instead of distracts
+  > **Kyle:** *Technology that augments instead of distracts*
 - The idea behind make it easy is not to only do easy things. The idea is to make it as easy as possible in the moment to do things that payoff in the long run. <!--rwid:rwid-de8d0dce88c8-->
 - In an article published in the New Yorker titled “Better All the Time,” James Suroweicki writes: “Japanese firms emphasized what came to be known as ‘lean production,’ relentlessly looking to remove waste of all kinds from the production process, down to redesigning workspaces, so workers didn’t have to waste time twisting and turning to reach their tools. The result was that Japanese factories were more efficient and Japanese products were more reliable than American ones. In 1974, service calls for American-made color televisions were five times as common as for Japanese televisions. By 1979, it took American workers three times as long to assemble their sets.” <!--rwid:rwid-79e45abd329c-->
 - Whenever possible, I leave my phone in a different room until lunch. When it’s right next to me, I’ll check it all morning for no reason at all. But when it is in another room, I rarely think about it. And the friction is high enough that I won’t go get it without a reason. As a result, I get three to four hours each morning when I can work without interruption. <!--rwid:rwid-7f9625035835-->
@@ -152,11 +152,11 @@ _Under Consideration — to be added._
 - The best way to break a bad habit is to make it impractical to do. Increase the friction until you don’t even have the option to act. <!--rwid:rwid-e7a177176cb3-->
 - As mathematician and philosopher Alfred North Whitehead wrote, “Civilization advances by extending the number of operations we can perform without thinking about them.” <!--rwid:rwid-8b57a1177dd2-->
 - Technology creates a level of convenience that enables you to act on your smallest whims and desires. <!--rwid:rwid-6e0964cfc707-->
-  - Technology that augments rather than distracts
+  > **Kyle:** *Technology that augments rather than distracts*
 - Stories like these are evidence of the Cardinal Rule of Behavior Change: What is rewarded is repeated. What is punished is avoided. <!--rwid:rwid-2d8201f5ea46-->
 - The French economist Frédéric Bastiat explained the problem clearly when he wrote, “It almost always happens that when the immediate consequence is favorable, the later consequences are disastrous, and vice versa. . . . Often, the sweeter the first fruit of a habit, the more bitter are its later fruits.” <!--rwid:rwid-13fd73950807-->
 - Our preference for instant gratification reveals an important truth about success: because of how we are wired, most people will spend all day chasing quick hits of satisfaction. The road less traveled is the road of delayed gratification. If you’re willing to wait for the rewards, you’ll face less competition and often get a bigger payoff. As the saying goes, the last mile is always the least crowded. <!--rwid:rwid-06a61ea31a0f-->
-  - Self-control is a finite resource.
+  > **Kyle:** *Self-control is a finite resource.*
 - Dyrsmid began each morning with two jars on his desk. One was filled with 120 paper clips. The other was empty. As soon as he settled in each day, he would make a sales call. Immediately after, he would move one paper clip from the full jar to the empty jar and the process would begin again. “Every morning I would start with 120 paper clips in one jar and I would keep dialing the phone until I had moved them all to the second jar,” he told me. Within eighteen months, Dyrsmid was bringing in $5 million to the firm. By age twenty-four, he was making $75,000 per year—the equivalent of $125,000 today. Not long after, he landed a six-figure job with another company. I like to refer to this technique as the Paper Clip Strategy and, over the years, I’ve heard from readers who have employed it in a variety of ways. One woman shifted a hairpin from one container to another whenever she wrote a page of her book. Another man moved a marble from one bin to the next after each set of push-ups. <!--rwid:rwid-a1698b63746c-->
 - Countless people have tracked their habits, but perhaps the most famous was Benjamin Franklin. Beginning at age twenty, Franklin carried a small booklet everywhere he went and used it to track thirteen personal virtues. This list included goals like “Lose no time. Be always employed in something useful” and “Avoid trifling conversation.” At the end of each day, Franklin would open his booklet and record his progress. <!--rwid:rwid-f11c48905ba6-->
 - Jerry Seinfeld reportedly uses a habit tracker to stick with his streak of writing jokes. In the documentary Comedian, he explains that his goal is simply to “never break the chain” of writing jokes every day. In other words, he is not focused on how good or bad a particular joke is or how inspired he feels. He is simply focused on showing up and adding to his streak. <!--rwid:rwid-52dfaf6d00a9-->
@@ -165,7 +165,7 @@ _Under Consideration — to be added._
 - The problem is not slipping up; the problem is thinking that if you can’t do something perfectly, then you shouldn’t do it at all. <!--rwid:rwid-c9e09ea11576-->
 - As Charlie Munger says, “The first rule of compounding: Never interrupt it unnecessarily.” <!--rwid:rwid-110c48cc2a93-->
 - The dark side of tracking a particular behavior is that we become driven by the number rather than the purpose behind it. If your success is measured by quarterly earnings, you will optimize sales, revenue, and accounting for quarterly earnings. If your success is measured by a lower number on the scale, you will optimize for a lower number on the scale, even if that means embracing crash diets, juice cleanses, and fat-loss pills. The human mind wants to “win” whatever game is being played. <!--rwid:rwid-df83bb6855c6-->
-  - You get what you measure
+  > **Kyle:** *You get what you measure*
 - In short, we optimize for what we measure. When we choose the wrong measurement, we get the wrong behavior. <!--rwid:rwid-61e2c1243703-->
 - When the consequences are severe, people learn quickly. <!--rwid:rwid-dcfe4c18e303-->
 - There is, of course, a limit to this. If you’re going to rely on punishment to change behavior, then the strength of the punishment must match the relative strength of the behavior it is trying to correct. <!--rwid:rwid-32d0d4125c6d-->
@@ -177,7 +177,7 @@ _Under Consideration — to be added._
 - In the beginning of a new activity, there should be a period of exploration. In relationships, it’s called dating. In college, it’s called the liberal arts. In business, it’s called split testing. The goal is to try out many possibilities, research a broad range of ideas, and cast a wide net. <!--rwid:rwid-7dd2279fd69a-->
 - If you are currently winning, you exploit, exploit, exploit. If you are currently losing, you continue to explore, explore, explore. <!--rwid:rwid-528a05df66e2-->
 - What feels like fun to me, but work to others? The mark of whether you are made for a task is not whether you love it but whether you can handle the pain of the task easier than most people. When are you enjoying yourself while other people are complaining? The work that hurts you less than it hurts others is the work you were made to do. <!--rwid:rwid-5c565a263e6c-->
-  - The lily pads of your career; what gives you energy? What takes it away?
+  > **Kyle:** *The lily pads of your career; what gives you energy? What takes it away?*
 - What makes me lose track of time? Flow is the mental state you enter when you are so focused on the task at hand that the rest of the world fades away. This blend of happiness and peak performance is what athletes and performers experience when they are “in the zone.” It is nearly impossible to experience a flow state and not find the task satisfying at least to some degree. <!--rwid:rwid-ad461d3f0ea6-->
 - Where do I get greater returns than the average person? We are continually comparing ourselves to those around us, and a behavior is more likely to be satisfying when the comparison is in our favor. When I started writing at jamesclear.com, my email list grew very quickly. I wasn’t quite sure what I was doing well, but I knew that results seemed to be coming faster for me than for some of my colleagues, which motivated me to keep writing. <!--rwid:rwid-e6839d806089-->
 - What comes naturally to me? For just a moment, ignore what you have been taught. Ignore what society has told you. Ignore what others expect of you. Look inside yourself and ask, “What feels natural to me? When have I felt alive? When have I felt like the real me?” No internal judgments or people-pleasing. No second-guessing or self-criticism. Just feelings of engagement and enjoyment. Whenever you feel authentic and genuine, you are headed in the right direction. <!--rwid:rwid-002770c2da7d-->
@@ -189,7 +189,7 @@ _Under Consideration — to be added._
 - The Goldilocks Rule states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities. Not too hard. Not too easy. Just right. <!--rwid:rwid-35049fedac44-->
 - “What’s the difference between the best athletes and everyone else?” I asked. “What do the really successful people do that most don’t?” He mentioned the factors you might expect: genetics, luck, talent. But then he said something I wasn’t expecting: “At some point it comes down to who can handle the boredom of training every day, doing the same lifts over and over and over.” <!--rwid:rwid-e19dbf9243da-->
 - Mastery requires practice. But the more you practice something, the more boring and routine it becomes. Once the beginner gains have been made and we learn what to expect, our interest starts to fade. <!--rwid:rwid-62a2a4f2bec2-->
-  - Beginners mindset.
+  > **Kyle:** *Beginners mindset.*
 - As Machiavelli noted, “Men desire novelty to such an extent that those who are doing well wish for a change as much as those who are doing badly.” <!--rwid:rwid-89e30d351b77-->
 - Variable rewards or not, no habit will stay interesting forever. At some point, everyone faces the same challenge on the journey of self-improvement: you have to fall in love with boredom. <!--rwid:rwid-9db9a36711c7-->
 - Professionals stick to the schedule; amateurs let life get in the way. Professionals know what is important to them and work toward it with purpose; amateurs get pulled off course by the urgencies of life. <!--rwid:rwid-2e0133f7d133-->
@@ -200,7 +200,7 @@ _Under Consideration — to be added._
 - Personally, I employ two primary modes of reflection and review. Each December, I perform an Annual Review, in which I reflect on the previous year. I tally my habits for the year by counting up how many articles I published, how many workouts I put in, how many new places I visited, and more.* Then, I reflect on my progress (or lack thereof) by answering three questions: What went well this year? What didn’t go so well this year? What did I learn? <!--rwid:rwid-1ccb11c68997-->
 - Six months later, when summer rolls around, I conduct an Integrity Report. Like everyone, I make a lot of mistakes. My Integrity Report helps me realize where I went wrong and motivates me to get back on course. I use it as a time to revisit my core values and consider whether I have been living in accordance with them. This is when I reflect on my identity and how I can work toward being the type of person I wish to become.* My yearly Integrity Report answers three questions: What are the core values that drive my life and work? How am I living and working with integrity right now? How can I set a higher standard in the future? <!--rwid:rwid-ebfe305bf36d-->
 - The more sacred an idea is to us—that is, the more deeply it is tied to our identity—the more strongly we will defend it against criticism. You see this in every industry. The schoolteacher who ignores innovative teaching methods and sticks with her tried-and-true lesson plans. The veteran manager who is committed to doing things “his way.” The surgeon who dismisses the ideas of her younger colleagues. The band who produces a mind-blowing first album and then gets stuck in a rut. The tighter we cling to an identity, the harder it becomes to grow beyond it. <!--rwid:rwid-efe6aba6ba71-->
-  - Connect to disagreement quote with Charles Darwin
+  > **Kyle:** *Connect to disagreement quote with Charles Darwin*
 - One solution is to avoid making any single aspect of your identity an overwhelming portion of who you are. In the words of investor Paul Graham, “keep your identity small.” The more you let a single belief define you, the less capable you are of adapting when life challenges you. If you tie everything up in being the point guard or the partner at the firm or whatever else, then the loss of that facet of your life will wreck you. <!--rwid:rwid-92e6f6515872-->
 - When you cling too tightly to one identity, you become brittle. Lose that one thing and you lose yourself. <!--rwid:rwid-3d3b801d73d5-->
 - When chosen effectively, an identity can be flexible rather than brittle. Like water flowing around an obstacle, your identity works with the changing circumstances rather than against them. <!--rwid:rwid-f6c744e9326f-->
@@ -208,7 +208,7 @@ _Under Consideration — to be added._
 - Sorites Paradox,* which talks about the effect one small action can have when repeated enough times. One formulation of the paradox goes as follows: Can one coin make a person rich? If you give a person a pile of ten coins, you wouldn’t claim that he or she is rich. But what if you add another? And another? And another? At some point, you will have to admit that no one can be rich unless one coin can make him or her so. We can say the same about atomic habits. Can one tiny change transform your life? It’s unlikely you would say so. But what if you made another? And another? And another? At some point, you will have to admit that your life was transformed by one small change. <!--rwid:rwid-58ad191db48a-->
 - Success is not a goal to reach or a finish line to cross. It is a system to improve, an endless process to refine. <!--rwid:rwid-dac7c72be9f4-->
 - The secret to getting results that last is to never stop making improvements. It’s remarkable what you can build if you just don’t stop. <!--rwid:rwid-0ec5a5ef0e27-->
-  - Connect to munger quote on compounding; don’t interrupt compounding unnecessarily
+  > **Kyle:** *Connect to munger quote on compounding; don’t interrupt compounding unnecessarily*
 - Small habits don’t add up. They compound. <!--rwid:rwid-4e9632d469b3-->
 - As Caed Budris says, “Happiness is the space between one desire being fulfilled and a new desire forming.” <!--rwid:rwid-94c29b350490-->
 - Friedrich Nietzsche, the German philosopher and poet, famously wrote, “He who has a why to live for can bear almost any how.” <!--rwid:rwid-f432a5e2a1cf-->

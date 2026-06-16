@@ -30,7 +30,7 @@ _Under Consideration — to be added._
 - A choice to serve everyone, everywhere—or to simply serve all comers—is a losing choice. <!--rwid:rwid-927962aaef73-->
 - “We don’t give lip service to consumer understanding. We dig deep. We immerse ourselves in people’s day-to-day lives. We work hard to find the tensions that we can help resolve. From those tensions come insights that lead to big ideas.” <!--rwid:rwid-28babbb8f5af-->
 - Ultimately, Febreze was a product technology in search of a job to be done. <!--rwid:rwid-5aff5bbb6d51-->
-  - Not always bad
+  > **Kyle:** *Not always bad*
 - “Let’s go to a white sheet of paper,” she told her team, “keeping the consumer in mind. Let’s find out what those consumers actually need and build that diaper. You only build what they need; you don’t build all the bells and whistles that only consumers in developed markets expect.” <!--rwid:rwid-bcf335eb30e7-->
 - powerful and sustainable competitive advantage is unlikely to arise from any one capability (e.g., having the best sales force in the industry or the best technology in the industry), but rather from a set of capabilities that both fit with one another (i.e., that don’t conflict with one another) and actually reinforce one another (i.e., that make each other stronger than they would be alone). <!--rwid:rwid-4bb1cff245bf-->
 - A strategy discussion is not an idea review. A strategy discussion is not a budget or a forecast review. A strategy discussion is how we are going to accomplish our growth objectives in the next three to five years. We really wanted to engage in a discussion.” <!--rwid:rwid-95a5ebdb75ed-->

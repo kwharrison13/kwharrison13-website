@@ -258,7 +258,11 @@ function parseBulletFormat(lines, title) {
       if (/^##\s+/.test(line)) break;
       const top = line.match(/^-\s+(.*)$/);
       const indented = line.match(/^(?:\s{2,}|\t)-\s+(.*)$/);
-      if (top && !indented) {
+      // Kyle notes can appear in two formats:
+      //   (legacy) "  - <note>"  — produced by older versions of this script
+      //   (current) "  > **Kyle:** *<note>*"  — current convention, visually distinct
+      const noteBlockquote = line.match(/^(?:\s{2,}|\t)>\s+\*\*Kyle:\*\*\s+\*?(.*?)\*?\s*$/);
+      if (top && !indented && !noteBlockquote) {
         if (current) highlights.push(current);
         const text = top[1];
         let blockRef = null;
@@ -272,6 +276,8 @@ function parseBulletFormat(lines, title) {
           rwid: blockRef || rwidFor(cleanText, locUrl),
           notes: [],
         };
+      } else if (noteBlockquote && current) {
+        current.notes.push(noteBlockquote[1]);
       } else if (indented && current) {
         current.notes.push(indented[1]);
       }
@@ -412,10 +418,13 @@ function buildFrontmatter(meta) {
 
 function renderHighlight(h) {
   // The rwid is embedded as an HTML comment so the markdown renderer
-  // strips it entirely from the rendered page, but we can still find it
-  // on re-import for dedup.
+  // strips it entirely from the rendered page (via remarkStripRwid in
+  // astro.config.mjs), but we can still find it on re-import for dedup.
   const out = [`- ${h.text} <!--rwid:${h.rwid}-->`];
-  for (const n of h.notes) out.push(`  - ${n}`);
+  // Kyle's notes render as nested blockquote callouts ("> **Kyle:** *...*")
+  // for clear visual distinction from the parent highlight. Pure CommonMark,
+  // works in Obsidian + VSCode + Astro.
+  for (const n of h.notes) out.push(`  > **Kyle:** *${n}*`);
   return out.join('\n');
 }
 

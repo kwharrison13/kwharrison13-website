@@ -1,7 +1,7 @@
 ---
 title: "2034: A Novel of the Next World War"
 author: "Elliot Ackerman, Admiral James Stavridis"
-year_read: 2022
+year_read: [2022, 2024]
 rating: 4
 tags:
   - "technological-innovation"

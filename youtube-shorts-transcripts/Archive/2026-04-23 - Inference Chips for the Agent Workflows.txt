@@ -1,0 +1,17 @@
+Most AI ships are designed for a world where inference means prompting response out.
+Agents don't work that way. They loop. Calling tools, branching, backtracking,
+holding contacts across dozens of steps. That's a completely different hardware problem.
+Current GPUs hit 30 to 40% of peak utilization on these workloads because the work is bursty,
+bouncing between memory bound model calls, IO bound tool use, and CPU bound orchestration.
+That gap is where purpose-built silicon wins.
+NVIDIA bought GROC for $20 billion because it saw this coming.
+Google built TPUv7 for inference specifically.
+But nobody's deciding for the agent loop itself.
+Fast contact switching between models, native speculative decoding,
+memory built for KB caches that persist across an entire execution graph.
+GROC's real insight wasn't the chip.
+It was the compiler that made the chip work.
+We think that will be true for whoever builds this next.
+If you understand both the chip architecture and how agents actually execute,
+this is a rare moment where both halves of that experience matter.
+If you're building inference silicon for Agentec AI, we'd love to hear from you.

@@ -30,11 +30,11 @@ _Under Consideration — to be added._
 - “There is nothing lower than the poor stealing from the poor. It’s hard enough as it is. We sure as hell don’t need to make it even harder on each other.” <!--rwid:rwid-f56af88817ba-->
 - Despite the setbacks, both of my grandparents had an almost religious faith in hard work and the American Dream. Neither was under any illusions that wealth or privilege didn’t matter in America. <!--rwid:rwid-0bbf1960f2bd-->
 - As jobs disappear in a given area, declining home values trap people in certain neighborhoods. <!--rwid:rwid-280676fb27e4-->
-  - And even if you bring back the jobs, you have to worry about the mass exodus at the slightest sign of rising home prices
+  > **Kyle:** *And even if you bring back the jobs, you have to worry about the mass exodus at the slightest sign of rising home prices*
 - “A lot of students just don’t understand what’s out there,” she told me, shaking her head. “You have the kids who plan on being baseball players but don’t even play on the high school team because the coach is <!--rwid:rwid-1e045ed5f6a3-->
 - mean to them. Then you have those who aren’t doing very well in school, and when you try to talk to them about what they’re going to do, they talk about AK. ‘Oh, I can get a job at AK. My uncle works there.’ It’s like they can’t make the connection between the situation in this town and the lack of jobs at AK.” My initial reaction was: How could these kids not understand what the world was like? Didn’t they notice their town changing before their very eyes? But then I realized: We didn’t, so why would they? <!--rwid:rwid-9740936430c3-->
 - Students don’t expect much from themselves, because the people around them don’t do very much. <!--rwid:rwid-cee9a389f4db-->
-  - The interenet changes that
+  > **Kyle:** *The interenet changes that*
 - I didn’t understand the difference between intelligence and knowledge. So I assumed I was an idiot. <!--rwid:rwid-cdfe96b4a4e9-->
 - In other words, despite all of the environmental pressures from my neighborhood and community, I received a different message at home. And that just might have saved me. <!--rwid:rwid-071140346e02-->
 - We talk about the value of hard work but tell ourselves that the reason we’re not working is some perceived unfairness: Obama shut down the coal mines, or all the jobs went to the Chinese. These are the lies we tell ourselves to solve the cognitive dissonance—the broken connection between the world we see and the values we preach. <!--rwid:rwid-b1c328b6a231-->

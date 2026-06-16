@@ -233,21 +233,33 @@ function syncBook(wikiFile) {
   const sections = parseSections(wbody);
   const keyTakeaways = sections['Key Takeaways'] || '_Under Consideration — to be added._';
   const publicInter = sections['Public Interconnections'] || '_No cross-book interconnections identified yet._';
-  const highlights = sections['Highlights'] || '';
+
+  // Preserve the existing Highlights section verbatim — import-readwise.mjs owns
+  // that with rwid block-ref dedup, and overwriting it here would orphan those
+  // refs and break future Readwise updates.
+  let existingHighlightsBlock = '';
+  if (fs.existsSync(targetPath)) {
+    const existingBody = parseFrontmatter(fs.readFileSync(targetPath, 'utf8')).body;
+    const m = existingBody.match(/^## Highlights\s*\n([\s\S]*)$/m);
+    if (m) existingHighlightsBlock = m[1].trim();
+  }
 
   const bodyParts = [
     '## Key Takeaways',
     '',
     '<!-- key-takeaways -->',
     unwrapWikilinks(keyTakeaways),
+    '<!-- /key-takeaways -->',
     '',
     '## Interconnections',
     '',
+    '<!-- interconnections -->',
     transformInterconnectionLinks(publicInter),
+    '<!-- /interconnections -->',
     '',
     '## Highlights',
     '',
-    unwrapWikilinks(highlights),
+    existingHighlightsBlock,
   ];
 
   const output = serializeFrontmatter(newFm) + '\n\n' + bodyParts.join('\n') + '\n';

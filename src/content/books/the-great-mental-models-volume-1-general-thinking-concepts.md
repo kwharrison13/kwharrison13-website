@@ -32,16 +32,16 @@ _Under Consideration — to be added._
 - The only way you’ll know the extent to which you understand reality is to put your ideas and understanding into action. <!--rwid:rwid-17a9b37b5057-->
 - Our failures to update from interacting with reality spring primarily from three things: not having the right perspective or vantage point, ego-induced denial, and distance from the consequences of our decisions. <!--rwid:rwid-e91d2f12f731-->
 - The first flaw is perspective. We have a hard time seeing any system that we are in. <!--rwid:rwid-f95005fe94b4-->
-  - We can’t overcome mortality while in mortality
+  > **Kyle:** *We can’t overcome mortality while in mortality*
 - The second flaw is ego. Many of us tend to have too much invested in our opinions of ourselves to see the world’s feedback—the feedback we need to update our beliefs about reality. <!--rwid:rwid-1efa0f257b03-->
-  - Charles Darwin
+  > **Kyle:** *Charles Darwin*
 - First, we’re so afraid about what others will say about us that we fail to put our ideas out there and subject them to criticism. This way we can always be right. Second, if we do put our ideas out there and they are criticized, our ego steps in to protect us. We become invested in defending instead of upgrading our ideas. <!--rwid:rwid-33d2caba4f05-->
 - The third flaw is distance. The further we are from the results of our decisions, the easier it is to keep our current views rather than update them. <!--rwid:rwid-aa9cfe9a0957-->
 - We also tend to undervalue the elementary ideas and overvalue the complicated ones. <!--rwid:rwid-0f769f79a9fd-->
 - Most geniuses—especially those who lead others—prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities. » Andy Benoit <!--rwid:rwid-52f69725ee5b-->
-  - Not just simple enough that people understand, but so simple that people can’t misunderstand
+  > **Kyle:** *Not just simple enough that people understand, but so simple that people can’t misunderstand*
 - Understanding only becomes useful when we adjust our behavior and actions accordingly. <!--rwid:rwid-2696c342bcf4-->
-  - It is not enormity just to know; we must do
+  > **Kyle:** *It is not enormity just to know; we must do*
 - We are afraid to learn and admit when we don’t know enough. This is the mindset that leads to poor decisions. They are a source of stress and anxiety, and consume massive amounts of time. <!--rwid:rwid-a28030f3a3a7-->
 - Rather than update our views, we double down our effort, accelerating our frustrations and anxiety. <!--rwid:rwid-8cfe1a43c3d8-->
 - We are passive, thinking these things just happened to us and not that we did something to cause them. This passivity means that we rarely reflect on our decisions and the outcomes. Without reflection we cannot learn. <!--rwid:rwid-839393dd8185-->
@@ -50,17 +50,17 @@ _Under Consideration — to be added._
 - Better models mean better thinking. <!--rwid:rwid-2e8c29dff887-->
 - Sometimes making good decisions boils down to avoiding bad ones. <!--rwid:rwid-ddef857be339-->
 - When it comes to applying mental models we tend to run into trouble either when our model of reality is wrong, that is, it doesn’t survive real world experience, or when our model is right and we apply it to a situation where it doesn’t belong. <!--rwid:rwid-8e3918ca3bb2-->
-  - Doesn’t survive real world experience = “everyone has a plan until they get punched in the face.”
+  > **Kyle:** *Doesn’t survive real world experience = “everyone has a plan until they get punched in the face.”*
 - Applied incorrectly: “to a person with a hammer, everything looks like a nail” <!--rwid:rwid-374c094bd762-->
 - Only by repeated testing of our models against reality and being open to feedback can we update our understanding of the world and change our thinking. <!--rwid:rwid-10b2ec5afd5e-->
 - Most of us study something specific and don’t get exposure to the big ideas of other disciplines. We don’t develop the multidisciplinary mindset that we need to accurately see a problem. And because we don’t have the right models to understand the situation, we overuse the models we do have and use them even when they don’t belong. <!--rwid:rwid-a1f8d29fa908-->
 - “Every statistician knows that a large, relevant sample size is their best friend. What are the three largest, most relevant sample sizes for identifying universal principles? Bucket number one is inorganic systems, which are 13.7 billion years in size. It’s all the laws of math and physics, the entire physical universe. Bucket number two is organic systems, 3.5 billion years of biology on Earth. And bucket number three is human history, you can pick your own number, I picked 20,000 years of recorded human behavior. Those are the three largest sample sizes we can access and the most relevant.” —Peter Kaufman <!--rwid:rwid-ac994fb87dec-->
-  - #History
+  > **Kyle:** *#History*
 - We have a tendency to think that how the world is, is how it always was. And so we get caught up validating our assumptions from what we find in the here and now. <!--rwid:rwid-545dc473d588-->
-  - #[[SALY Principle]]
+  > **Kyle:** *#[[SALY Principle]]*
 - Looking to the past can provide essential context for understanding where we are now. <!--rwid:rwid-7e7260570b3e-->
 - We’re much like the blind men in the classic parable of the elephant, going through life trying to explain everything through one limited lens. Too often that lens is driven by our particular field, be it economics, engineering, physics, mathematics, biology, chemistry, or something else entirely. Each of these disciplines holds some truth and yet none of them contain the whole truth. <!--rwid:rwid-56c4960549c1-->
-  - Find quote: “we embrace all truth, no matter the source”
+  > **Kyle:** *Find quote: “we embrace all truth, no matter the source”*
 - To increase your mental efficiency and reach your 400-horsepower potential, you need to use a latticework of mental models. <!--rwid:rwid-7c6f6060e936-->
 - The chief enemy of good decisions is a lack of sufficient perspectives on a problem. » Alain de Botton <!--rwid:rwid-04dcb86d8ce6-->
 - «Disciplines, like nations, are a necessary evil that enable human beings of bounded rationality to simplify their goals and reduce their choices to calculable limits. But parochialism is everywhere, and the world badly needs international and interdisciplinary travelers to carry new knowledge from one enclave to another.» Herbert Simon <!--rwid:rwid-54e52ae39339-->
@@ -73,14 +73,14 @@ _Under Consideration — to be added._
 - The truth is, the only way we can navigate the complexity of reality is through some sort of abstraction. <!--rwid:rwid-50f2abdfe40b-->
 - When we read the news, we’re consuming abstractions created by other people. The authors consumed vast amounts of information, reflected upon it, and drew some abstractions and conclusions that they share with us. But something is lost in the process. We can lose the specific and relevant details that were distilled into an abstraction. <!--rwid:rwid-fe030cfd146f-->
 - We run into problems when our knowledge becomes of the map, rather than the actual underlying territory it describes. <!--rwid:rwid-bbecd2154ca3-->
-  - Connect to The West Wing map episode and why our “abstractions” shape our view of reality
+  > **Kyle:** *Connect to The West Wing map episode and why our “abstractions” shape our view of reality*
 - Reality is messy and complicated, so our tendency to simplify it is understandable. However, if the aim becomes simplification rather than understanding we start to make bad decisions. <!--rwid:rwid-4bbb41628041-->
 - What is common to many is taken least care of, for all men have greater regard for what is their own than for what they possess in common with others. –Aristotle <!--rwid:rwid-a728684d5da9-->
 - we may think adherence to the map is more important than taking in new information about a territory. <!--rwid:rwid-64c26925fe90-->
-  - We seek out evidence that our beliefs or models are wrong
+  > **Kyle:** *We seek out evidence that our beliefs or models are wrong*
 - «Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful.» George Box <!--rwid:rwid-f8f89e1f6d40-->
 - We can and should update them based on our own experiences in the territory. That’s how good maps are built: feedback loops created by explorers. <!--rwid:rwid-b44d880e9d02-->
-  - The internet makes it so much easier to share their learnings and update everyone else’s map
+  > **Kyle:** *The internet makes it so much easier to share their learnings and update everyone else’s map*
 - Jane Jacobs in her groundbreaking work, The Death and Life of Great American Cities. <!--rwid:rwid-6babf9cf6e80-->
 - Jacobs’ book is, in part, a cautionary tale of what can happen when faith in the model influences the decisions we make in the territory. When we try to fit complexity into the simplification. <!--rwid:rwid-7b80ca37383d-->
 - I’m no genius. I’m smart in spots—but I stay around those spots. Thomas Watson1 <!--rwid:rwid-75e3bf83cd79-->
@@ -91,20 +91,20 @@ _Under Consideration — to be added._
 - «We shall be unable to turn natural advantage to account unless we make use of local guides.» Sun Tzu2 <!--rwid:rwid-855faa60b848-->
 - In Alexander Pope’s poem “An Essay on Criticism,” he writes: “A little learning is a dangerous thing; Drink deep, or taste not the Pierian spring: There shallow draughts intoxicate the brain, And drinking largely sobers us again.” <!--rwid:rwid-514da9fb5f47-->
 - Building a circle of competence takes years of experience, of making mistakes, and of actively seeking out better methods of practice and thought. <!--rwid:rwid-4be3b420d6a0-->
-  - Connect to David Perell talking about how knowledge workers should train like athletes
+  > **Kyle:** *Connect to David Perell talking about how knowledge workers should train like athletes*
 - There are three key practices needed in order to build and maintain a circle of competence: curiosity and a desire to learn, monitoring, and feedback. <!--rwid:rwid-eb181f459807-->
 - «Learn from the mistakes of others. You can’t live long enough to make them all yourself.» <!--rwid:rwid-7fc97e5d61e3-->
 - The reason we have such difficulty with overconfidence—as demonstrated in studies which show that most of us are much worse drivers, lovers, managers, traders (and many other things) than we think we are—is because we have a problem with honest self-reporting. <!--rwid:rwid-7ae53c96e2dd-->
 - Keeping a journal of your own performance is the easiest and most private way to give self-feedback. Journals allow you to step out of your automatic thinking and ask yourself: What went wrong? How could I do better? Monitoring your own performance allows you to see patterns that you simply couldn’t see before. This type of analysis is painful for the ego, which is also why it helps build a circle of competence. You can’t improve if you don’t know what you’re doing wrong. <!--rwid:rwid-3287d8de3f71-->
-  - When progress is measured vs when progress is measured and reported
+  > **Kyle:** *When progress is measured vs when progress is measured and reported*
 - A lot of professionals have an ego problem: their view of themselves does not line up with the way other people see them. Before people can change they need to know these outside views. We need to go to people we trust, who can give us honest feedback about our traits. These people are in a position to observe us operating within our circles, and are thus able to offer relevant perspectives on our competence. Another option is to hire a coach. <!--rwid:rwid-f772b5af7a0d-->
 - It takes courage to solicit external feedback, so if defensiveness starts to manifest, focus on the result you hope to achieve. <!--rwid:rwid-892699da1185-->
-  - Spirit of humility
+  > **Kyle:** *Spirit of humility*
 - There are three parts to successfully operating outside a circle of competence: Learn at least the basics of the realm you’re operating in, while acknowledging that you’re a Stranger, not a Lifer. However, keep in mind that basic information is easy to obtain and often gives the acquirer an unwarranted confidence. Talk to someone whose circle of competence in the area is strong. Take the time to do a bit of research to at least define questions you need to ask, and what information you need, to make a good decision. If you ask a person to answer the question for you, they’ll be giving you a fish. If you ask them detailed and thoughtful questions, you’ll learn how to fish. Furthermore, when you need the advice of others, especially in higher stakes situations, ask questions to probe the limits of their circles. Then ask yourself how the situation might influence the information they choose to provide you. Use a broad understanding of the basic mental models of the world to augment your limited understanding of the field in which you find yourself a Stranger. These will help you identify the foundational concepts that would be most useful. These then serve as a guide to help you navigate the situation you are in. <!--rwid:rwid-d80844cd3466-->
 - The problem of incentives can really skew how much you can rely on someone else’s circle of competence. This is particularly acute in the financial realm. <!--rwid:rwid-caeaabbb3e7c-->
-  - Incentives
+  > **Kyle:** *Incentives*
 - Elizabeth knew there were aspects of leading the country that were outside her circle of competence. She had an excellent education and had spent most of her life just trying to survive. Perhaps that is why she was able to identify and admit to what she didn’t know. <!--rwid:rwid-3cf8b6ebf1a8-->
-  - Spirit of humility
+  > **Kyle:** *Spirit of humility*
 - In her first speech as Queen, Elizabeth announced, “I mean to direct all my actions by good advice and counsel.”9 After outlining her intent upon becoming Queen, she proceeded to build her Privy Council—effectively the royal advisory board. She didn’t copy her immediate predecessors, filling her council with yes men or wealthy incompetents who happen to have the same religious values. She blended the old and the new to develop stability and achieve continuity. She kept the group small so that real discussions could happen. She wanted a variety of opinions that could be challenged and debated. <!--rwid:rwid-851fc8b69b77-->
 - There is only so much you can know with great depth of understanding. This is why being able to identify your circle, and knowing how to move around outside of it, is so important. <!--rwid:rwid-cab15d307da6-->
 - «Ignorance more often begets confidence than knowledge.» Charles Darwin11 <!--rwid:rwid-afe53084f3a2-->
@@ -130,7 +130,7 @@ _Under Consideration — to be added._
 - When we say “if money were no object” or “if you had all the time in the world,” we are asking someone to conduct a thought experiment because actually removing that variable (money or time) is physically impossible. <!--rwid:rwid-169913eebfe2-->
 - Re-imagining history: A familiar use of the thought experiment is to re-imagine history. <!--rwid:rwid-261e6da67281-->
 - These approaches are called the historical counter-factual and semi-factual. If Y happened instead of X, what would the outcome have been? Would the outcome have been the same? As popular—and generally useful—as counter- and semi-factuals are, they are also the areas of thought experiment with which we need to use the most caution. Why? Because history is what we call a chaotic system. A small change in the beginning conditions can cause a very different outcome down the line. This is where the rigor of the scientific method is indispensable if we want to draw conclusions that are actually useful. <!--rwid:rwid-6abf00f245c8-->
-  - Compare to the chaotic system you have to deal with when evaluating alternative methods to fighting climate change
+  > **Kyle:** *Compare to the chaotic system you have to deal with when evaluating alternative methods to fighting climate change*
 - Also the scene looking at if the Hindenburg hadn’t crashed - https://en.wikipedia.org/wiki/The_Never_War?wprov=sfti1 <!--rwid:rwid-b9c1f8db60b7-->
 - This experiment was first proposed in modern form by Philippa Foot in her paper “The Problem of Abortion and the Doctrine of the Double Effect,”3 and further considered extensively by Judith Jarvis Thomson in “The Trolley Problem.”4 <!--rwid:rwid-13672e5ab46c-->
 - An example of this is the famous “veil of ignorance” proposed by philosopher John Rawls in his influential Theory of Justice. In order to figure out the most fair and equitable way to structure society, he proposed that the designers of said society operate behind a veil of ignorance. This means that they could not know who they would be in the society they were creating. <!--rwid:rwid-2ecb37fdfbb0-->
@@ -139,12 +139,12 @@ _Under Consideration — to be added._
 - Second-order thinking is thinking farther ahead and thinking holistically. It requires us to not only consider our actions and their immediate consequences, but the subsequent effects of those actions as well. <!--rwid:rwid-0c0d10fff007-->
 - Very often, the second level of effects is not considered until it’s too late. This concept is often referred to as the “Law of Unintended Consequences” for this very reason. <!--rwid:rwid-6a9f3a647165-->
 - During their colonial rule of India, the British government began to worry about the number of venomous cobras in Delhi. To reduce the numbers, they instituted a reward for every dead snake brought to officials. In response, Indian citizens dutifully complied and began breeding the snakes to slaughter and bring to officials. The snake problem was worse than when it started because the British officials didn’t think at the second level. <!--rwid:rwid-5a499b570997-->
-  - Connect to Russia oil-drilling incentives creating more holes in the ground but less oil
+  > **Kyle:** *Connect to Russia oil-drilling incentives creating more holes in the ground but less oil*
 - «Stupidity is the same as evil if you judge by the results.» Margaret Atwood <!--rwid:rwid-3138e10c6d39-->
 - In 1963, the UC Santa Barbara ecologist and economist Garrett Hardin proposed his First Law of Ecology: “You can never merely do one thing.”3 We operate in a world of multiple, overlapping connections, like a web, with many significant, yet obscure and unpredictable, relationships. He developed second-order thinking into a tool, showing that if you don’t consider “the effects of the effects,” you can’t really claim to be doing any thinking at all. <!--rwid:rwid-8a61926259e8-->
-  - Connect to climate change; we can’t just solve one thing.
+  > **Kyle:** *Connect to climate change; we can’t just solve one thing.*
 - «When we try to pick out anything by itself, we find it hitched to everything else in the Universe.» John Muir4 <!--rwid:rwid-d8a1a3ebe21a-->
-  - You pick up one end of the stick and have to pick up the other
+  > **Kyle:** *You pick up one end of the stick and have to pick up the other*
 - Trust and trustworthiness are the results of multiple interactions. This is why second-order thinking is so useful and valuable. Going for the immediate payoff in our interactions with people, unless they are a win-win, almost always guarantees that interaction will be a one-off. Maximizing benefits is something that happens over time. Thus, considering the effects of the effects of our actions on others, or on our reputations, is critical to getting people to trust us, and to enjoy the benefits of cooperation that come with that. <!--rwid:rwid-e45ab54b212d-->
 - Life is filled with the need to be persuasive. Arguments are more effective when we demonstrate that we have considered the second-order effects and put effort into verifying that these are desirable as well. <!--rwid:rwid-c16e81e288bc-->
 - Second-order thinking, as valuable as it is, must be tempered in one important way: You can’t let it lead to the paralysis of the Slippery Slope Effect, the idea that if we start with action A, everything after is a slippery slope down to hell, with a chain of consequences B, C, D, E, and F. <!--rwid:rwid-0f68e0c0c07a-->
@@ -180,13 +180,13 @@ _Under Consideration — to be added._
 - Smartly, Gerstner realized that the simple approach was most likely to be the effective one. His famous reply was that “the last thing IBM needs right now is a vision.” What IBM actually needed to do was to serve its customers, compete for business in the here and now, and focus on businesses that were already profitable. It needed simple, tough-minded business execution. <!--rwid:rwid-c15d9ccb7db1-->
 - An explanation can be simplified only to the extent that it can still provide an accurate understanding. <!--rwid:rwid-fbe78270bafb-->
 - I need to listen well so that I hear what is not said. Thuli Madonsela1 <!--rwid:rwid-6bb0206cc483-->
-  - Listening
+  > **Kyle:** *Listening*
 - Hard to trace in its origin, Hanlon’s Razor states that we should not attribute to malice that which is more easily explained by stupidity. In a complex world, using this model helps us avoid paranoia and ideology. By not generally assuming that bad results are the fault of a bad actor, we look for options instead of missing opportunities. This model reminds us that people do make mistakes. It demands that we ask if there is another reasonable explanation for the events that have occurred. The explanation most likely to be right is the one that contains the least amount of intent. <!--rwid:rwid-c56d94c51738-->
 - The famous Linda problem, demonstrated by the psychologists Daniel Kahneman2 and Amos Tversky in a 1982 paper, is an illuminating example of how our minds work and why we need Hanlon’s Razor. It went like this: Linda is 31 years old, single, outspoken, and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations. Which is more probable? Linda is a bank teller. Linda is a bank teller and is active in the feminist movement. The majority of respondents chose option 2. Why? The wording used to describe her suggests Linda is feminist. But Linda could only be a bank teller, or a feminist and a bank teller. So naturally the majority of students concluded she was both. They didn’t know anything about what she did, but because they were led to believe she had to be a feminist they couldn’t reject that option, even though the math of statistics makes it more likely that a single condition is true instead of multiple conditions. <!--rwid:rwid-cb255444084d-->
 - They called it the “Fallacy of Conjunction.” <!--rwid:rwid-31fdf03a269e-->
 - we’re deeply affected by vivid, available evidence, to such a degree that we’re willing to make judgments that violate simple logic. We over-conclude based on the available information. <!--rwid:rwid-7346ca9053ed-->
 - What does this have to do with Hanlon’s Razor? The connection is this: When we see something we don’t like happen and which seems wrong, we assume it’s intentional. But it’s more likely that it’s completely unintentional. Assuming someone is doing wrong and doing it purposefully is like assuming Linda is more likely to be a bank teller and a feminist. Most people doing wrong are not bad people trying to be malicious. <!--rwid:rwid-9220026754cf-->
-  - The Evil Genius Default: people want to believe the world is messed up because of intentionally bad people but most of the time it’s because people are stupid
+  > **Kyle:** *The Evil Genius Default: people want to believe the world is messed up because of intentionally bad people but most of the time it’s because people are stupid*
 - Failing to prioritize stupidity over malice causes things like paranoia. Always assuming malice puts you at the center of everyone else’s world. This is an incredibly self-centered approach to life. In reality, for every act of malice, there is almost certainly far more ignorance, stupidity, and laziness. <!--rwid:rwid-7f5a2dc9efcd-->
 - When we assume someone is out to get us, our very natural instinct is to take actions to defend ourselves. It’s harder to take advantage of, or even see, opportunities while in this defensive mode because our priority is saving ourselves—which tends to reduce our vision to dealing with the perceived threat instead of examining the bigger picture. <!--rwid:rwid-024abe8f4228-->
 - Robert Heinlein’s character Doc Graves describes the Devil Fallacy in the 1941 sci-fi story “Logic of Empire”, as he explains the theory to another character: “I would say you’ve fallen into the commonest fallacy of all in dealing with social and economic subjects—the ‘devil’ theory. You have attributed conditions to villainy that simply result from stupidity…. You think bankers are scoundrels. They are not. Nor are company officials, nor patrons, nor the governing classes back on earth. Men are constrained by necessity and build up rationalizations to account for their acts.” <!--rwid:rwid-98aff09738b9-->
