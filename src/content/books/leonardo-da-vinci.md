@@ -14,17 +14,21 @@ key_takeaways_status: "written"
 ## Key Takeaways
 
 <!-- key-takeaways -->
-Isaacson's biography read as a how-to-think-like-a-genius case study with constant reference back to the reader's own thinking habits. Four threads:
+Isaacson's central move is to refuse the lightning-strike theory of genius. "Slapping the 'genius' label on Leonardo oddly minimizes him by making it seem as if he were touched by lightning. In fact, Leonardo's genius was a human one, wrought by his own will and ambition" — built from curiosity and intense observation, skills any of us can aspire to improve. The biography reads as a how-to-think manual, and the lessons sort into six threads.
 
-1. **Masters are made by obsession, not skill.** A recurring frame — Leonardo's anatomical drawings going far beyond what painting required because the curiosity itself was the engine.
+**1. Mindset.** The habits that fed Leonardo's mind were deliberate, not magical. He *procrastinated productively* — "Men of lofty genius sometimes accomplish the most when they work least" — but only after gathering every fact and letting the collection simmer. He *let himself get distracted*, chasing whatever shiny subject caught his eye until his mind was dense with connections: go down rabbit holes, see things unseen. Above all he *observed* — his greatest skill was acute attention, "not some magical gift but a product of his own effort." And he kept a *childlike sense of wonder*, never outgrowing the questions most people abandon by age ten (why is the sky blue, how do clouds form), the same trait he shared with Albert Einstein.
 
-2. **"The things you DO push you towards the things you LOVE."** The reverse of the conventional career advice. Leonardo's anatomical work started for painting accuracy and became its own pursuit. Action-first, identity-second.
+**2. Expertise.** Mastery came from a few transferable moves. *Think visually* — when we reduce a rule to a formula we stop visualizing how it works and lose our feel for the beauty beneath nature's laws. *Learn the rules, then break them* — once Leonardo understood perspective science he "became a master at fudging and distorting them." *Experiment first, reason after* — "my intention is to consult experience first and then with reasoning show why such experience is bound to operate in such a way." And learn only from what can be replicated: his genius was "of the type we can understand, even take lessons from."
 
-3. **Refinement as the actual practice.** "What am I continuously refining?" — the question the notes return to. Leonardo went back to drawings years later to add details others wouldn't have noticed. Mastery as iterative attention rather than initial talent.
+**3. Self-criticism.** Leonardo was a forerunner of observational science — when an experiment showed a theory was flawed, he abandoned it and sought a new one. The double-underlined line: *"One mark of a great mind is the willingness to change it. That willingness to surrender preconceptions was key to his creativity."* It rhymes with [Charles Darwin](/notes/charles-darwin) spending his life "thinking in reverse," trying to disprove his own best-loved ideas.
 
-4. **Vision and teamwork.** The Last Supper as collective production. "Vision and teamwork" — the rejection of solo-genius mythology that runs through the [The Founders](/books/the-founders) talent-vortex thread as well.
+**4. Collaboration.** "Innovation is a team sport. Creativity is a collaborative endeavor." The Last Supper and the Florence studio were collective productions; the better questions about a work are not "which is the original?" but "how did the collaboration occur? What was the nature of the team and the teamwork?" Solo brilliance was only ever the starting point — vision *and* execution were both required. (This is the talent-vortex / scenius thread that also runs through [The Founders](/books/the-founders).)
 
-A side observation: "if you are able to accomplish everything of which you dream then you are not dreaming big enough." Leonardo's unfinished works as evidence of ambition that outran capacity — a virtue, not a failing.
+**5. Learning in public (or not).** Leonardo's great failing was the inverse of his great gift: he "had no real understanding of the way in which the growth of knowledge was a cumulative and collaborative process." He pursued knowledge "for its own sake, and for his own personal joy," not to publish or build a name — which enriched his life but diminished his impact on history. A recurring counterfactual runs underneath: the disciplined partner (a Marcantonio, a [Luca Pacioli](/notes/luca-pacioli)) who might have helped him *ship*.
+
+**6. City building.** Thirty years after first imagining an ideal city in Milan, Leonardo returned to the dream at Romorantin — a utopian town built from scratch, streets and canals unified into a single circulation system, an upper level for beauty and pedestrian life and a hidden lower level for commerce, sanitation, and sewage.
+
+Underneath all six runs the line *"Vision without execution is hallucination. Skill without imagination is barren."* Leonardo's many unfinished works are the evidence — ambition that outran capacity, which Isaacson reads as a virtue rather than a failing. If you can accomplish everything you dream, you aren't dreaming big enough.
 <!-- /key-takeaways -->
 
 ## Connections
@@ -143,4 +147,5 @@ A side observation: "if you are able to accomplish everything of which you dream
 - Let the perfect be the enemy of the good. Eventually, Jobs embraced a countermaxim, "Real artists ship," which means that sometimes you ought to deliver a product even when there are still improvements that could be made. That is a good rule for daily life. But there are times when it's nice to be like Leonardo and not let go of something until it's perfect. <!--rwid:rwid-1308b48bebb6-->
 - Think visually. Too often, when we learn a formula or a rule-even one so simple as the method for multiplying numbers or mixing a paint color-we no longer visualize how it works. As a result, we lose our appreciation for the underlying beauty of nature's laws. <!--rwid:rwid-c1a8fe090c4c-->
 - Collaborate. Genius starts with individual brilliance. It requires singular vision. But executing it often entails working with others. Innovation is a team sport. Creativity is a collaborative endeavor. <!--rwid:rwid-d8f512d59d9b-->
+  > **Kyle:** *"Investing is not a team sport — company building is a team sport, but investing is an individual sport." — Chamath Palihapitiya*
 - Make lists. And be sure to put odd things on them. Leonardo's to-do lists may have been the greatest testaments to pure curiosity the world has ever seen. <!--rwid:rwid-2c2653c52a27-->
