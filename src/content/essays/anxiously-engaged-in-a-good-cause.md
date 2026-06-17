@@ -15,7 +15,7 @@ substack_url: "https://investing101.substack.com/p/anxiously-engaged-in-a-good-c
 </aside>
 <!-- connections-end -->
 
-![Header image for Anxiously Engaged in a Good Cause](/images/anxiously-engaged-in-a-good-cause-652578b7.png)
+![Header image for "Anxiously Engaged in a Good Cause"](/images/anxiously-engaged-in-a-good-cause-652578b7.png)
 
 ---
 

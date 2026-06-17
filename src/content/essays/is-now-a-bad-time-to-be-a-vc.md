@@ -2,7 +2,6 @@
 title: "Is Now a Bad Time To Be a VC?"
 date: 2022-06-02
 tags: ["startups", "investing"]
-excerpt: ""
 slug: "is-now-a-bad-time-to-be-a-vc"
 type: "newsletter"
 substack_url: "https://investing101.substack.com/p/is-now-a-bad-time-to-be-a-vc"

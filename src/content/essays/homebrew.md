@@ -2,7 +2,6 @@
 title: "Renegade Spotlight: Homebrew"
 date: 2022-03-02
 tags: ["spotlight", "startups"]
-excerpt: ""
 slug: "homebrew"
 type: "newsletter"
 substack_url: "https://investing101.substack.com/p/homebrew"

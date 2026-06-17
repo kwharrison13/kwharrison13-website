@@ -1,9 +1,9 @@
 ---
 title: "Venture Capital Doesn't Exist"
-subtitle: "People talking without speaking. People hearing without listening."
-date: "2026-03-14"
+date: 2026-03-14
+tags: ["capital-allocation", "company-building", "technological-innovation"]
 excerpt: "What we call 'venture capital' is actually four different things — seed investing, venture classic, supercharged growth, and private small caps. Continuing to pretend otherwise does a disservice to everyone involved."
-tags: ['capital-allocation', 'company-building', 'technological-innovation']
+slug: "venture-capital-doesnt-exist"
 substack_url: "https://investing101.substack.com/p/venture-capital-doesnt-exist"
 ---
 

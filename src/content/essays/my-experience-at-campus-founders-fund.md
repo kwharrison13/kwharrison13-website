@@ -1,8 +1,8 @@
 ---
 title: "My Experience at Campus Founders Fund"
-date: "2017-01-01"
-tag: "Personal"
+date: 2017-01-01
 excerpt: "In September 2014, I had just declared my major. Accounting. What did I want to do with that? Who knows, but it sure sounded stable. I was sitting in one of my business classes, desperately trying to ..."
+slug: "my-experience-at-campus-founders-fund"
 ---
 
 In September 2014, I had just declared my major. Accounting. What did I want to do with that? Who knows, but it sure sounded stable. I was sitting in one of my business classes, desperately trying to decide what I was going to be when I grow up. When I talk to a friend, he asks, “what are you passionate about?” My only response is, “I’m not sure, I just know I like helping people take their ideas and succeed.” “Well, that’s basically what venture capitalists do.”

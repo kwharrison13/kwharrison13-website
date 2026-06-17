@@ -2,7 +2,6 @@
 title: "The Death of a Venture Fund"
 date: 2022-05-27
 tags: ["venture-capital", "startups"]
-excerpt: ""
 slug: "death"
 type: "newsletter"
 substack_url: "https://investing101.substack.com/p/death"

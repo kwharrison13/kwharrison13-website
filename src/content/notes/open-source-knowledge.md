@@ -2,7 +2,7 @@
 title: "Open Source Knowledge"
 type: "concept"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-16"
 updated: "2026-06-16"
 last_updated_by: "agent"
@@ -11,20 +11,47 @@ sources:
   - "wiki/books/Remote — Office Not Required.md"
   - "wiki/books/The Death of Expertise.md"
   - "wiki/books/Working in Public.md"
-tags: []
+  - "wiki/books/The Man From The Future.md"
+tags:
+  - "open-source-knowledge"
+  - "republic-of-letters"
 aliases:
   - "Open Source Knowledge"
-related: []
-reference_count: 4
+related:
+  - "[[Open Source]]"
+  - "[[Active Reading]]"
+  - "[[Republic of Letters]]"
+  - "[[Investing 101 2.0]]"
+  - "[[Maintenance]]"
 ---
 
 # Open Source Knowledge
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **4** wiki pages._
+**One-line definition:** *The open sharing of learning, expertise, and knowledge artifacts in public — where information persists and compounds online — as distinct from the licensing model of open-source software.*
 
-## Where this appears
+> Distinguished from [Open Source](/notes/open-source): this concept is about knowledge, pedagogy, and learning in public; [Open Source](/notes/open-source) is about software licensing and development economics. Some material (von Neumann's patent suppression, code-as-living-knowledge) genuinely bridges both.
 
-- [How To Read a Book](/books/how-to-read-a-book)
-- [Remote — Office Not Required](/books/remote-office-not-required)
-- [The Death of Expertise](/books/the-death-of-expertise)
-- [Working in Public](/books/working-in-public)
+## How sources describe it
+
+- Online knowledge compounds in a way books never could — "websites never die," so information persists and accumulates rather than freezing at publication. [The Death of Expertise](/books/the-death-of-expertise)
+- Publication is the *start* of responsibility, not the end — the book-as-snapshot gives way to knowledge as a living repository that requires continuous tending. [Working in Public](/books/working-in-public)
+- "Community is the thing that gives value to the commodity" — knowledge artifacts derive value from ongoing engagement, not from being finished. [Working in Public](/books/working-in-public)
+- A Cold War open-source instinct: von Neumann deliberately kept his work "in the public domain" to accelerate the whole field rather than capture it. [The Man From The Future](/books/the-man-from-the-future)
+- Active, triangulated reading is the method — building on what others have already curated and cross-referencing across sources rather than starting from scratch. [How To Read a Book](/books/how-to-read-a-book)
+- Writing is the core skill of distributed knowledge work — the prompt "what other types of work can you open source?" reframes async, written communication as a way to share expertise openly. [Remote — Office Not Required](/books/remote-office-not-required)
+
+## Where it shows up
+
+- [The Death of Expertise](/books/the-death-of-expertise) — online knowledge as a persistent, compounding commons (with its failure modes).
+- [Working in Public](/books/working-in-public) — maintaining living knowledge; publication as the beginning of responsibility.
+- [The Man From The Future](/books/the-man-from-the-future) — von Neumann's deliberate public-domain strategy.
+- [How To Read a Book](/books/how-to-read-a-book) — active, triangulated reading as the discipline of building on shared knowledge.
+- [Remote — Office Not Required](/books/remote-office-not-required) — writing and async work as open knowledge-sharing.
+
+## Related concepts
+
+- [Open Source](/notes/open-source) — the software-licensing sibling of this concept.
+- [Active Reading](/notes/active-reading) — the consumption-side discipline.
+- [Republic of Letters](/notes/republic-of-letters) — the historical antecedent of an open knowledge commons.
+- [Investing 101 2.0](/notes/investing-101-2-0) — Kyle's own practice of learning in public.
+- [Maintenance](/notes/maintenance) — why open knowledge decays without active tending.

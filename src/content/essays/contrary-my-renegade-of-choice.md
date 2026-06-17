@@ -2,7 +2,6 @@
 title: "Contrary: My Renegade of Choice"
 date: 2022-05-13
 tags: ["investing", "career"]
-excerpt: ""
 slug: "contrary-my-renegade-of-choice"
 type: "newsletter"
 substack_url: "https://investing101.substack.com/p/contrary-my-renegade-of-choice"

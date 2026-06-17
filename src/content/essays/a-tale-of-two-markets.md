@@ -1,8 +1,8 @@
 ---
 title: "A Tale of Two Markets"
-date: "2022-02-08"
-tag: "Venture Capital"
+date: 2022-02-08
 excerpt: "In the late 80s, early 90s my Dad was in almost exactly the same phase of life as I am now. We're both in our 30s and about to have our 3rd kids. In just that generation the world has changed dramatic..."
+slug: "a-tale-of-two-markets"
 ---
 
 <!-- connections-start -->

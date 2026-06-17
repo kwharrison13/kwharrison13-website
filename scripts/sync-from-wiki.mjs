@@ -319,13 +319,19 @@ function syncBook(wikiFile) {
   const keyTakeaways = sections['Key Takeaways'] || '_Under Consideration — to be added._';
   const publicInter = sections['Public Connections'] || '_No cross-book interconnections identified yet._';
 
-  // Preserve the existing Highlights block (Readwise owns it via rwid dedup),
-  // but run it through the wikilink resolver so any [[X]] or #[[X]] Kyle wrote
-  // inside a note becomes a proper /notes/<slug> link on the public site.
-  // resolveWikilinks only touches wikilink syntax — rwid markers, Kyle blockquotes,
-  // and highlight text are all preserved unchanged.
+  // Highlights (incl. Kyle's `> **Kyle:**` notes) come from the WIKI page — the
+  // wiki is the single source of truth, so edits made in Obsidian propagate here.
+  // The `## Highlights` section is the last in a book page, so grab everything from
+  // that heading to EOF (a highlight quote could itself contain a `## ` line, which
+  // a section-splitter would wrongly cut). Run it through resolveWikilinks so any
+  // [[X]]/#[[X]] inside a note becomes a /notes link; rwid markers + blockquotes
+  // pass through untouched. Falls back to preserving the existing website block only
+  // if the wiki page has no Highlights (defensive — shouldn't happen for publish:true).
   let existingHighlightsBlock = '';
-  if (fs.existsSync(targetPath)) {
+  const wikiHl = wbody.match(/^## Highlights\s*\n([\s\S]*)$/m);
+  if (wikiHl) {
+    existingHighlightsBlock = resolveWikilinks(wikiHl[1].trim());
+  } else if (fs.existsSync(targetPath)) {
     const existingBody = parseFrontmatter(fs.readFileSync(targetPath, 'utf8')).body;
     const m = existingBody.match(/^## Highlights\s*\n([\s\S]*)$/m);
     if (m) existingHighlightsBlock = resolveWikilinks(m[1].trim());

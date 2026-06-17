@@ -2,7 +2,6 @@
 title: "Renegade Spotlight: Lowercarbon"
 date: 2022-03-24
 tags: ["spotlight", "investing"]
-excerpt: ""
 slug: "lowercarbon"
 type: "newsletter"
 substack_url: "https://investing101.substack.com/p/lowercarbon"

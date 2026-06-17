@@ -2,7 +2,6 @@
 title: "Why Most VCs Suck At Talent"
 date: 2022-03-10
 tags: ["career", "venture-capital"]
-excerpt: ""
 slug: "talent"
 type: "newsletter"
 substack_url: "https://investing101.substack.com/p/talent"

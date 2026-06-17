@@ -1,8 +1,8 @@
 ---
 title: "Employees Wanted, The Educated Need Not Apply"
-date: "2018-02-25"
-tag: "Education"
+date: 2018-02-25
 excerpt: "This article was written by Kyle Harrison, as a result of the intellectual rigor of a Junto, with Clark Brimhall, Erik Hansen, Megumi DeMond, and Christina Muhlestein"
+slug: "employees-wanted-the-educated-need-not-apply"
 ---
 
 <!-- connections-start -->

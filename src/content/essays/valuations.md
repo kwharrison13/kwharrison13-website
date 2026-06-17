@@ -2,7 +2,6 @@
 title: "What's In a Valuation?"
 date: 2022-02-01
 tags: ["investing"]
-excerpt: ""
 slug: "valuations"
 type: "newsletter"
 substack_url: "https://investing101.substack.com/p/valuations"

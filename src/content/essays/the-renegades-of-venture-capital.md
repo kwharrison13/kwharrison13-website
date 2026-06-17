@@ -2,7 +2,6 @@
 title: "The Renegades of Venture Capital"
 date: 2022-03-31
 tags: ["venture-capital", "startups"]
-excerpt: ""
 slug: "the-renegades-of-venture-capital"
 type: "newsletter"
 substack_url: "https://investing101.substack.com/p/the-renegades-of-venture-capital"

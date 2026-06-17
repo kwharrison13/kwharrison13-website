@@ -2,7 +2,6 @@
 title: "You're The Only Investment That Matters"
 date: 2022-07-14
 tags: ["investing"]
-excerpt: ""
 slug: "youre-the-only-investment-that-matters"
 type: "newsletter"
 substack_url: "https://investing101.substack.com/p/youre-the-only-investment-that-matters"

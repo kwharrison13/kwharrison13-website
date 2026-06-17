@@ -2,7 +2,6 @@
 title: "Renegade Spotlight: Synthesis"
 date: 2022-04-21
 tags: ["spotlight", "investing"]
-excerpt: ""
 slug: "renegade-spotlight-synthesis"
 type: "newsletter"
 substack_url: "https://investing101.substack.com/p/renegade-spotlight-synthesis"

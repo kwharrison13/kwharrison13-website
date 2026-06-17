@@ -2,7 +2,6 @@
 title: "Renegade Spotlight: Paradigm"
 date: 2022-04-08
 tags: ["spotlight", "investing"]
-excerpt: ""
 slug: "renegade-spotlight-paradigm"
 type: "newsletter"
 substack_url: "https://investing101.substack.com/p/renegade-spotlight-paradigm"

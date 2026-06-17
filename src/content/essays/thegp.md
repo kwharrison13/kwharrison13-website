@@ -2,7 +2,6 @@
 title: "Renegade Spotlight: The General Partnership"
 date: 2022-06-10
 tags: ["spotlight", "investing"]
-excerpt: ""
 slug: "thegp"
 type: "newsletter"
 substack_url: "https://investing101.substack.com/p/thegp"

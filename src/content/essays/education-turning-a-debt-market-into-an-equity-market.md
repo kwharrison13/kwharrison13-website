@@ -1,8 +1,8 @@
 ---
 title: "Education: Turning a Debt Market into an Equity Market"
-date: "2016-06-16"
-tag: "Education"
+date: 2016-06-16
 excerpt: "Here’s the thing. I don’t profess to be an economist (or a zoologist, but that’s for a different reason). I don’t know every issue that is wrong with education, but I think a conversation I had last w..."
+slug: "education-turning-a-debt-market-into-an-equity-market"
 ---
 
 Here’s the thing. I don’t profess to be an economist (or a zoologist, but that’s for a different reason). I don’t know every issue that is wrong with education, but I think a conversation I had last week included a thought worth thinking, and one worth saying (which are not always the same thing, some people could benefit in better understanding the difference.)

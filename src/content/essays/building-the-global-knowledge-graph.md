@@ -1,8 +1,8 @@
 ---
 title: "Building the Global Knowledge Graph"
-date: "2021-01-01"
-tag: "Ideas"
+date: 2021-01-01
 excerpt: "This essay first appeared on the RoamBrain blog."
+slug: "building-the-global-knowledge-graph"
 ---
 
 This essay first appeared on the [RoamBrain blog](https://www.roambrain.com/building-the-global-knowledge-graph/).

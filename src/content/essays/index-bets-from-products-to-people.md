@@ -2,7 +2,6 @@
 title: "Index Bets: From Products to People"
 date: 2022-04-26
 tags: ["investing"]
-excerpt: ""
 slug: "index-bets-from-products-to-people"
 type: "newsletter"
 substack_url: "https://investing101.substack.com/p/index-bets-from-products-to-people"

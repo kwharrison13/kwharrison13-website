@@ -2,7 +2,6 @@
 title: "All According To The [Terrible] Plan"
 date: 2022-05-19
 tags: ["markets"]
-excerpt: ""
 slug: "according-to-plan"
 type: "newsletter"
 substack_url: "https://investing101.substack.com/p/according-to-plan"

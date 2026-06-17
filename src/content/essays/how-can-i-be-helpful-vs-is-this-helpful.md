@@ -1,8 +1,8 @@
 ---
 title: "How can I be helpful vs. Is this helpful?"
-date: "2022-01-01"
-tag: "VC Behavior"
+date: 2022-01-01
 excerpt: "Investors hear tons and tons of pitches. They pass much more often than they fund a company so they have to think of a way to maintain a relationship without being able to invest."
+slug: "how-can-i-be-helpful-vs-is-this-helpful"
 ---
 
 ## "Let me know how I can be helpful"

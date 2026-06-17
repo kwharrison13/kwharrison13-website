@@ -1,8 +1,8 @@
 ---
 title: "You Don’t See Many Mothers These Days"
-date: "2017-05-13"
-tag: "Personal"
+date: 2017-05-13
 excerpt: "Appreciation is a funny thing. People say “the squeaky wheel gets the grease,” and that basically emphasizes that the things that call attention to themselves are the most successful in getting attent..."
+slug: "you-dont-see-many-mothers-these-days"
 ---
 
 # **The Mother of My Child**

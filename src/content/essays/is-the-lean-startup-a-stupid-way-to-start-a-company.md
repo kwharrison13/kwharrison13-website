@@ -1,8 +1,8 @@
 ---
 title: "Is The Lean Startup a Stupid Way to Start a Company?"
-date: "2017-01-25"
-tag: "Startups"
+date: 2017-01-25
 excerpt: "This semester, I’ve had the opportunity to work as a co-instructor in an instructional psychology & technology class focused on EdTech startups. The class is broken up into three parts, (1) intro to c..."
+slug: "is-the-lean-startup-a-stupid-way-to-start-a-company"
 ---
 
 <!-- connections-start -->

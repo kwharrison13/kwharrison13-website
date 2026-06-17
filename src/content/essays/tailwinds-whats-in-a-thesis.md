@@ -2,7 +2,6 @@
 title: "Tailwinds: What's in a Thesis?"
 date: 2022-07-09
 tags: ["investing"]
-excerpt: ""
 slug: "tailwinds-whats-in-a-thesis"
 type: "newsletter"
 substack_url: "https://investing101.substack.com/p/tailwinds-whats-in-a-thesis"

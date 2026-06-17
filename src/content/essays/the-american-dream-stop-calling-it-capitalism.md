@@ -1,8 +1,8 @@
 ---
 title: "The American Dream: Stop Calling it Capitalism"
-date: "2016-06-14"
-tag: "Ideas"
+date: 2016-06-14
 excerpt: "I want to make sure I offer this disclaimer, the things talked about in the conference were off the record and I’m just sharing some interesting thoughts that I had without any specific details from t..."
+slug: "the-american-dream-stop-calling-it-capitalism"
 ---
 
 *

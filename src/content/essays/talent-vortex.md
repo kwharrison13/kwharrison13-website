@@ -2,7 +2,6 @@
 title: "The Talent Vortex: Mafias and Magnets"
 date: 2022-04-14
 tags: ["career"]
-excerpt: ""
 slug: "talent-vortex"
 type: "newsletter"
 substack_url: "https://investing101.substack.com/p/talent-vortex"

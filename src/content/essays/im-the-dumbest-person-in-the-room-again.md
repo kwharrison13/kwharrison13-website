@@ -1,8 +1,8 @@
 ---
 title: "I’m the Dumbest Person in the Room. Again."
-date: "2017-05-02"
-tag: "Personal"
+date: 2017-05-02
 excerpt: "When I got to college, I knew just about nothing. I was going to major in film because I liked making stupid videos with my friends. I thought girls would like me for my “personality.” I took Beginnin..."
+slug: "im-the-dumbest-person-in-the-room-again"
 ---
 
 When I got to college, I knew just about nothing. I was going to major in film because I liked making stupid videos with my friends. I thought girls would like me for my “personality.” I took Beginning Piano because I thought college was about “exploring the world.” I used air quotes like they were going out of style (okay, maybe I still do that one.)

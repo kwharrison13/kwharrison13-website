@@ -1,8 +1,8 @@
 ---
 title: "The Importance of Arguing With Yourself"
-date: "2018-08-18"
-tag: "Ideas"
+date: 2018-08-18
 excerpt: "This article is a result of the intellectual rigor of a Junto, inspired by Benjamin Franklin’s club for mutual improvement of the same name, between the author, Tim Riser, Minna Wang, Nikita Singaredd..."
+slug: "the-importance-of-arguing-with-yourself"
 ---
 
 <!-- connections-start -->

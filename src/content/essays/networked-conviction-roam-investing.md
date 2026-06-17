@@ -1,8 +1,8 @@
 ---
 title: "Networked Conviction: Roam + Investing"
-date: "2021-03-16"
-tag: "Ideas"
+date: 2021-03-16
 excerpt: "Investing, in simplest terms, is taking one finite resource and trying to allocate it to maximize for an ideal outcome. Whether you're allocating money, time, energy, or attention. Everyone is an allo..."
+slug: "networked-conviction-roam-investing"
 ---
 
 <!-- connections-start -->
