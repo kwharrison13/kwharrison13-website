@@ -20,7 +20,7 @@ related:
 
 # Brown University
 
-**One-line definition:** *Ivy League university where [Banu Ozkazanc-Pan](/notes/banu-ozkazanc-pan) researches inclusion in investing and the #Future of Work.*
+**One-line definition:** *Ivy League university where [Banu Ozkazanc-Pan](/notes/banu-ozkazanc-pan) researches inclusion in investing and the #[Future of Work](/notes/future-of-work).*
 
 ## How sources describe it
 

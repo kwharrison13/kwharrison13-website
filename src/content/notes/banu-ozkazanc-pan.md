@@ -21,7 +21,7 @@ related:
 
 # Banu Ozkazanc-Pan
 
-**One-line:** *Researcher at [Brown University](/notes/brown-university) focused on inclusion in investing and the #Future of Work.*
+**One-line:** *Researcher at [Brown University](/notes/brown-university) focused on inclusion in investing and the #[Future of Work](/notes/future-of-work).*
 
 ## What we know
 

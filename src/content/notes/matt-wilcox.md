@@ -20,7 +20,7 @@ related:
 
 # Matt Wilcox
 
-**One-line:** *Land Acquisition Analyst at Toll Brothers.*
+**One-line:** *Land Acquisition Analyst at [Toll Brothers](/notes/toll-brothers).*
 
 ## What we know
 
