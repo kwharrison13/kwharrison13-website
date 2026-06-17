@@ -1,5 +1,5 @@
 ---
-title: "Whatever you are, be a good one"
+title: "Mosiah 5"
 type: "concept"
 publish: false
 confidence: "low"
@@ -10,12 +10,12 @@ sources:
   - "wiki/gospel-study/General Conference- October 2021.md"
 tags: []
 aliases:
-  - "Whatever you are, be a good one"
+  - "Mosiah 5"
 related: []
 reference_count: 1
 ---
 
-# Whatever you are, be a good one
+# Mosiah 5
 
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 

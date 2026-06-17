@@ -1,6 +1,6 @@
 ---
-title: "Whatever you are, be a good one"
-type: "concept"
+title: "Ronald A. Rasband"
+type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
@@ -10,12 +10,12 @@ sources:
   - "wiki/gospel-study/General Conference- October 2021.md"
 tags: []
 aliases:
-  - "Whatever you are, be a good one"
+  - "Ronald A. Rasband"
 related: []
 reference_count: 1
 ---
 
-# Whatever you are, be a good one
+# Ronald A. Rasband
 
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 

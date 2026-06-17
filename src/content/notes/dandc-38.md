@@ -1,5 +1,5 @@
 ---
-title: "Whatever you are, be a good one"
+title: "D&C 38"
 type: "concept"
 publish: false
 confidence: "low"
@@ -10,12 +10,12 @@ sources:
   - "wiki/gospel-study/General Conference- October 2021.md"
 tags: []
 aliases:
-  - "Whatever you are, be a good one"
+  - "D&C 38"
 related: []
 reference_count: 1
 ---
 
-# Whatever you are, be a good one
+# D&C 38
 
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 

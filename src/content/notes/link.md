@@ -1,5 +1,5 @@
 ---
-title: "Whatever you are, be a good one"
+title: "link"
 type: "concept"
 publish: false
 confidence: "low"
@@ -7,18 +7,18 @@ created: "2026-06-17"
 updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
-  - "wiki/gospel-study/General Conference- October 2021.md"
+  - "wiki/gospel-study/About Gospel Study.md"
 tags: []
 aliases:
-  - "Whatever you are, be a good one"
+  - "link"
 related: []
 reference_count: 1
 ---
 
-# Whatever you are, be a good one
+# link
 
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 
 ## Where this appears
 
-- [General Conference- October 2021](/notes/general-conference-october-2021)
+- [About Gospel Study](/notes/about-gospel-study)

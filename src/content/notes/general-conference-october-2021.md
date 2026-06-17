@@ -1,0 +1,459 @@
+---
+title: "General Conference — October 2021"
+type: "gospel-study"
+publish: false
+confidence: "high"
+created: "2026-06-17"
+updated: "2026-06-17"
+last_updated_by: "agent"
+sources:
+  - "raw/inbox/General Conference- October 2021.md"
+tags:
+  - "gospel-study"
+  - "general-conference"
+  - "lds"
+aliases:
+  - "General Conference — October 2021"
+  - "General Conference- October 2021"
+  - "General Conference October 2021"
+  - "October 2021 General Conference"
+related:
+  - "[[Russell M. Nelson]]"
+  - "[[Jeffrey R. Holland]]"
+  - "[[Henry B. Eyring]]"
+---
+
+# General Conference — October 2021
+
+Notes, highlights, and scripture references from the **October 2021 General Conference** of The Church of Jesus Christ of Latter-day Saints. Captured verbatim from Kyle's conference notes; speakers, scriptures, and recurring themes are wikilinked.
+
+The notes are organized in three layers (as in the source): **Key Highlights** (thematic synthesis Kyle drew across talks), **Notes** (session-by-session, talk-by-talk), and **Talks** (named addresses). Recurring threads Kyle traced across the weekend:
+
+- *"Lovest thou me more than these?"* — loving the Savior above the things of the world.
+- *"Doesn't God love us as we are?"* — divine love that refuses to leave us unchanged; repentance as the path of that love.
+- *The spirit of contention is not of Christ* — seeking personal peace amid division.
+- *Love God, then your neighbor, then yourself* — the order of the two great commandments.
+- *"Shall we not go on in so great a cause?"* ([D&C 128](/notes/dandc-128):22) — the recurring rallying scripture.
+- *How to receive revelation* — its rising urgency for spiritual survival.
+- *Saints can be happy under any circumstance* — joy tied to focus, not circumstance.
+
+---
+
+- Key Highlights::
+    - Do you love me more than these things of the world?
+        - Christoffel Golden Jr.
+            - "We live in a modern world full of great knowledge and great skill. However, these things too often camouflage the unstable founding on which they are built." #[Spirit of Humility](/notes/spirit-of-humility)
+        - M. Russell Ballard
+            - How would you answer the question: “Lovest thou me more than these?” Do we love the things of the world more than we love the Savior?
+        - Sharon Eubank
+            - "The essence of the gospel is contained in how we answer the question 'Do you love me?'"
+        - Brent H. Nielsen
+            - First we prayed for a miracle. Then we prayed that he wouldn't feel pain. Finally we prayed that he would pass quickly.
+        - Henry B. Eyring
+            - It takes faith to be obedient to the Lord's commandments. 
+            - "**Obedience to the gospel brings people into very close and intimate relationship with the Lord.** It establishes a close connection to our creator in the heavens. It brings a perfect confidence in the almighty." [George Q. Canon](/notes/george-q-canon) #[Find the Quote](/notes/find-the-quote)
+            - Ask Heavenly Father for the faith in Jesus Christ you need to make and keep the covenants that will allow you to have the Holy Ghost as your constant companion.
+    - Doesn't God love us as we are? #[Whatever you are, be a good one](/notes/whatever-you-are-be-a-good-one)
+        - Jeffrey R. Holland
+            - The Christian way is different: harder, and easier. Christ says "Give me All. I don't want so much of your time and so much of your money and so much of your work: I want You. I have not come to torment your natural self, but to kill it. **No half-measures are any good. I don't want to cut off a branch here and a branch there, I want to have the whole tree down.** I don't want to drill the tooth, or crown it, or stop it, but to have it out. Hand over the whole natural self, all the desires which you think innocent as well as the ones you think wicked—the whole outfit. **I will give you a new self instead. In fact, I will give you Myself: my own will shall become yours."** 
+        - D. Todd Christofferson
+            - **Because they love you they do not want to leave you just as you are.** Because they love you they want you to take the path to repent. But you must choose. And then they can more abundantly love you #[Find the Quote](/notes/find-the-quote)
+        - Ciro Schmeil
+            - **"You are called for what you can become."** [Russell M. Nelson](/notes/russell-m-nelson)
+            - **From such teachings we conclude that the Final Judgment is not just an evaluation of a sum total of good and evil acts—what we have** **done**. **It is an acknowledgment of the final effect of our acts and thoughts—what we have** **become**. It is not enough for anyone just to go through the motions. The commandments, ordinances, and covenants of the gospel are not a list of deposits required to be made in some heavenly account. The gospel of Jesus Christ is a plan that shows us how to become what our Heavenly Father desires us to become.
+        - Susan H. Porter
+            - "The more committed we become to patterning our life after his the purer our lives will become." [Russell M. Nelson](/notes/russell-m-nelson)
+        - Ronald A. Rasband
+            - "Try a little harder to be a little better." [Gordon B. Hinckley](/notes/gordon-b-hinckley) #[Find the Quote](/notes/find-the-quote)
+        - Brad Wilcox
+            - Some mistakenly receive the message that repentance and change are unnecessary. God teaches us that these are essential
+            - Christ's Atonement is all about change. 
+            - He loves us too much to leave us as we are. 
+        - Dieter F. Uchtdorf
+            - He knows your potential better than you possible could.
+        - Gerrit W. Gong
+            - Condemnation focus on the past. Forgiveness looks liberally into the future. 
+        - Michael A. Dunn
+            - The whole talk is about incremental improvements
+    - The spirit of contention is not of me
+        - Jeffrey R. Holland
+        - Someone else who referenced 4th Nephi? 
+        - Dale G. Renlund
+        - Quentin L. Cook
+            - In my lifetime, I have never seen a greater lack of civility. We are bombarded with angry contentious language and provocative, devastating actions that destroy peace and tranquility. But personal peace can be achieved despite division. It has never been more important to seek personal peace. 
+    - Love God, then your neighbor, then yourself
+        - Love God
+            - Jeffrey R. Holland
+                - First great commandment in the Universe
+                    - [Matthew 22](/notes/matthew-22):37 Jesus said unto him, **Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.**
+            - Quentin L. Cook
+                - "Love God, live His commandments, and forgive everyone."
+        - Love your neighbor
+            - Bonnie H. Cordon
+                - **"Anything we do to help people make and keep covenants, we are helping to gather Israel."** [Bonnie H. Cordon](/notes/bonnie-h-cordon) #[Gathering of Israel](/notes/gathering-of-israel)
+                - Come now. But don't come alone. 
+            - Ulisses Soares
+                - "As we potentially strive to incorporate a compassionate attitude into our way of life we'll become more sensitive to people's needs and love will permeate our every day actions."
+            - Gary E. Stevenson
+                - Care for those in need
+                - Invite all to receive the gospel
+            - Sharon Eubank
+                - "The Church of Jesus Christ is under divine mandate to care for the poor. **It’s one of the pillars of the plan of salvation."**
+                - “Prophets have charge for the whole earth, not just for members of the church. And I can report from my own experience how devotedly and personally the First Presidency takes that charge.”
+            - L. Todd Budge
+                - The principle of sacrifice and the connection to the two great commandments: love God, and love your neighbor
+        - Love yourself
+            - Jeffrey R. Holland
+                - First great truth in the Universe
+                    - God loves us that way now. Wholeheartedly without reservation.
+            - Bonnie H. Cordon
+                - The Savior's love for us is unfailing even when we fail. 
+            - Susan H. Porter
+                - "When you know and understand how completely you are loved as a child of God, it changes everything. It changes the way you feel about yourself when you make mistakes." 
+            - Erich W. Kopishke
+                - Jesus fully comprehends the pain and struggle that many experience as they live with a broad range of mental health challenges. Mental health can interfere with our perception of perfection.
+            - Ronald A. Rasband
+                - When we are heavy-laden with feelings of disappointment or sin think of the Savior's [Atonement](/notes/atonement)
+            - Brad Wilcox
+                - Spend less time hating yourself for what you have done and more time loving Christ for what he has done. 
+    - Shall we not go on in so great a cause?
+        - Christoffel Golden
+            - [D&C 128](/notes/dandc-128):22 Brethren, shall we not go on in so great a cause? Go forward and not backward. Courage, brethren; and on, on to the victory! Let your hearts rejoice, and be exceedingly glad. Let the earth break forth into singing. Let the dead speak forth anthems of eternal praise to the King Immanuel, who hath ordained, before the world was, that which would enable us to redeem them out of their prison; for the prisoners shall go free.
+        - Alfred Kyungu
+            - [D&C 128](/notes/dandc-128):22 Brethren, shall we not go on in so great a cause? Go forward and not backward. Courage, brethren; and on, on to the victory! Let your hearts rejoice, and be exceedingly glad. Let the earth break forth into singing. Let the dead speak forth anthems of eternal praise to the King Immanuel, who hath ordained, before the world was, that which would enable us to redeem them out of their prison; for the prisoners shall go free.
+    - How to receive revelation
+        - Russell M. Nelson
+            - Revelation has never been more important than it is right now. 
+                - **"In coming days, it will not be possible to survive spiritually without the guiding, directing, comforting, and constant influence of the Holy Ghost."** [Russell M. Nelson](/notes/russell-m-nelson)
+        - Ronald A. Rasband
+            - [JSH 1](/notes/jsh-1):12 **Never did any passage of scripture come with more power to the heart of man than this did at this time to mine. It seemed to enter with great force into every feeling of my heart. I reflected on it again and again**, knowing that if any person needed wisdom from God, I did; for how to act I did not know, and unless I could get more wisdom than I then had, I would never know; for the teachers of religion of the different sects understood the same passages of scripture so differently as to destroy all confidence in settling the question by an appeal to the Bible.
+        - Henry B. Eyring
+            - **"Answers will come to fit your needs and your spiritual preparations."**
+        - Vaiangina Sikahema
+            - “The Lord teaches us individually according to our capacity to learn and how we learn. Our growth is entirely dependent on our willingness, our natural curiosity, our level of faith, and understanding.” #[Find the Quote](/notes/find-the-quote) #[Learning, No Greater Responsibility](/notes/learning-no-greater-responsibility)
+            - [Spirit of Humility](/notes/spirit-of-humility) is essential before you can have a [Broken heart and a contrite spirit](/notes/broken-heart-and-a-contrite-spirit)
+    - Saints can be happy under any circumstance 
+        - Anthony D. Perkins
+            - "The joy we feel has little to do with the circumstances of our lives and everything to do with the focus of our lives. When the focus of our lives is on the Plan of Salvation and Jesus Christ and His gospel we can rebuild joy in our lives." [Russell M. Nelson](/notes/russell-m-nelson) #[Find the Quote](/notes/find-the-quote)
+        - Sean Douglas
+            - "Saints can be happy under every circumstance. We can feel joy even when having a bad day, a bad week, or even a bad year. It has little to do with the circumstances of our life .... [Russell M. Nelson](/notes/russell-m-nelson) #[Find the Quote](/notes/find-the-quote)
+- Notes::
+    - Saturday Morning Session
+        - [Russell M. Nelson](/notes/russell-m-nelson) - Welcome to Conference
+            - This will be a time of "revelation and reflection" if we will seek it 
+            - Revelation has never been more important than it is right now. 
+                - **"In coming days, it will not be possible to survive spiritually without the guiding, directing, comforting, and constant influence of the Holy Ghost."** [Russell M. Nelson](/notes/russell-m-nelson)
+            - Pure revelation to the questions in your heart 
+        - [Jeffrey R. Holland](/notes/jeffrey-r-holland)
+            - Being "all in"
+            - The Christian way is different: harder, and easier. Christ says "Give me All. I don't want so much of your time and so much of your money and so much of your work: I want You. I have not come to torment your natural self, but to kill it. **No half-measures are any good. I don't want to cut off a branch here and a branch there, I want to have the whole tree down.** I don't want to drill the tooth, or crown it, or stop it, but to have it out. Hand over the whole natural self, all the desires which you think innocent as well as the ones you think wicked—the whole outfit. **I will give you a new self instead. In fact, I will give you Myself: my own will shall become yours."** 
+            - [Luke 9](/notes/luke-9):62. And Jesus said unto him, **No man, having put his hand to the plough, and looking back, is fit for the kingdom of God.**
+            - "Quick, now, here, now, always— **A condition of complete simplicity (Costing not less than everything)** And all shall be well and All manner of thing shall be well When the tongues of flame are in-folded Into the crowned knot of fire And the fire and the rose are one." [T.S. Eliot](/notes/t-s-eliot)
+            - [Alma 5](/notes/alma-5):14 And now behold, I ask of you, my brethren of the church, have ye spiritually been born of God? Have ye received his image in your countenances? Have ye experienced this mighty change in your hearts?
+            - "Higher and holier life." 
+            - [4 Nephi 1](/notes/4-nephi-1):13,16-18
+                - 13 And it came to pass that there was no contention among all the people, in all the land; but there were mighty miracles wrought among the disciples of Jesus.
+                - 16 And there were no envyings, nor strifes, nor tumults, nor whoredoms, nor lyings, nor murders, nor any manner of lasciviousness; **and surely there could not be a happier people among all the people who had been created by the hand of God.**
+                - 17 There were no robbers, nor murderers, neither were there Lamanites, nor any manner of -ites; but they were in one, **the children of Christ**, and heirs to the kingdom of God.
+                - 18 And how blessed were they! For the Lord did bless them in all their doings; yea, even they were blessed and prospered until an hundred and ten years had passed away; and the first generation from Christ had passed away, and there was no contention in all the land.
+            - If we're filled with the love of God all these shallow labels pass away. They took on **one transcendent identity.**
+            - First great commandment in the Universe
+                - [Matthew 22](/notes/matthew-22):37 Jesus said unto him, **Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.**
+            - First great truth in the Universe
+                - God loves us that way now. Wholeheartedly without reservation.
+            - May we take up the cross of Christ regardless of how inconvenient it may be. #[Inconvenient Messiah](/notes/inconvenient-messiah)
+        - [Bonnie H. Cordon](/notes/bonnie-h-cordon)
+            - The Savior's love for us is unfailing even when we fail. 
+            - The most important thing youth need to understand is their divine identity and their purpose 
+            - "Our purpose is to come unto Christ and actively join him in His great work."
+            - **"Anything we do to help people make and keep covenants, we are helping to gather Israel."** [Bonnie H. Cordon](/notes/bonnie-h-cordon) #[Gathering of Israel](/notes/gathering-of-israel)
+            - Come now. But don't come alone. 
+                - [D&C 18](/notes/dandc-18):15 **And if it so be that you should labor all your days in crying repentance unto this people, and bring, save it be one soul unto me**, **how great shall be your joy with him in the kingdom of my Father!**
+            - The best way to help the world is to prepare the world to follow Christ.
+            - "Who will I bring to Christ?" 
+            - In your own home, will you pray and ask Heavenly Father how you can support your parents as they continue to come unto Christ? 
+        - [Ulisses Soares](/notes/ulisses-soares)
+            - “The Savior acted compassionately toward all who would come unto Him — without distinction — **and most especially toward those who most needed His help.”**
+            - "Compassion is a fundamental **characteristic** of those who strive for sanctification and this divine quality intertwines with other Christian traits such as mourning with those that mourn and having empathy, mercy and kindness."
+                - [Lecture 3: The Character of God](/notes/lecture-3-the-character-of-god)
+                    - 4 **Secondly, A correct idea of his character, perfections and attributes.**
+                    - 5 **Thirdly, An actual knowledge that the course of life which he is pursuing, is according to his will.** For without an acquaintance with these three important facts, the faith of every rational being must be imperfect and unproductive; but with this understanding, it can become perfect and fruitful, abounding in righteousness unto the praise and glory of God the Father, and the Lord Jesus Christ.
+            - "As we potentially strive to incorporate a compassionate attitude into our way of life we'll become more sensitive to people's needs and love will permeate our every day actions."
+            - "Jesus always looks on the heart and not on the appearance."
+        - [D. Todd Christofferson](/notes/d-todd-christofferson)
+            - "God's love is universal to all yet individual to each."
+            - Some people speak of God's love as "unconditional," which some take to mean that blessings and salvation of "unconditional."
+            - He cannot take any of us into His kingdom "just as we are." Our sins must first be resolved
+                - [Alma 40](/notes/alma-40):26 But behold, an awful death cometh upon the wicked; for they die as to things pertaining to things of righteousness; for they are unclean, and **no unclean thing can inherit the kingdom of God;** but they are cast out, and consigned to partake of the fruits of their labors or their works, which have been evil; and they drink the dregs of a bitter cup.
+            - "The Kingdom of God cannot endure if it indulges even the smallest sin." [Hugh Nibley](/notes/hugh-nibley)
+            - There is a difference between forgiving sin and condoning it, which he never did even once. [Jeffrey R. Holland](/notes/jeffrey-r-holland) #[Find the Quote](/notes/find-the-quote) #[Truth and Tolerance](/notes/truth-and-tolerance)
+            - Repentance and divine grace resolve the dilemma 
+            - Ours is not a religion of rationalization, or perfectionism. Ours is a religion of repentance. 
+            - "The Lord's servants do not want anyone to suffer the pains of sin." #[Find the Quote](/notes/find-the-quote) [D. Todd Christofferson](/notes/d-todd-christofferson)
+            - [Alma 13](/notes/alma-13):27, 29
+                - 27 **And now, my brethren, I wish from the inmost part of my heart, yea, with great anxiety even unto pain, that ye would hearken unto my words**, and cast off your sins, and not procrastinate the day of your repentance;
+                - 29 Having faith on the Lord; having a hope that ye shall receive eternal life; having the love of God always in your hearts, that ye may be lifted up at the last day and enter into his rest.
+            - **Because they love you they do not want to leave you just as you are.** Because they love you they want you to take the path to repent. But you must choose. And then they can more abundantly love you #[Find the Quote](/notes/find-the-quote)
+            - Our Father and Redeemer have blessed us with commandments. #Obedience
+        - Clark G. Gilbert
+        - Petricio M. Pufong
+        - [Dallin H. Oaks](/notes/dallin-h-oaks)
+    - Saturday Afternoon
+        - [David A. Bednar](/notes/david-a-bednar)
+            - "The greatest responsibility in this world that God has laid upon us is to seek after our dead." [Joseph Smith](/notes/joseph-smith) #[The King Follett Sermon](/notes/the-king-follett-sermon)
+                - https://www.ldsliving.com/four-unique-ideas-from-one-of-the-truly-remarkable-sermons-ever-preached-in-america-the-king-follett-discourse/94772
+            - ![Image](https://pbs.twimg.com/media/FAuKzLdX0AUCd7r?format=jpg&name=medium)
+        - [Ciro Schmeil](/notes/ciro-schmeil) of the Seventy
+            - **"You are called for what you can become."** [Russell M. Nelson](/notes/russell-m-nelson)
+            - You are called to become a better husband and father, and that can be accomplished through becoming a better disciple of Jesus Christ
+            - "To do anything well it requires hard work. Becoming a disciple of Jesus Christ is no exception." #[Find the Quote](/notes/find-the-quote) [Russell M. Nelson](/notes/russell-m-nelson)
+            - “**Acting** is another essential key to becoming a better disciple of Jesus Christ. As we act, He will guide and direct us along the way.” 
+            - “**Studying** is then another essential key to become a better disciple of Jesus Christ. Prayer and scripture study go hand in hand.” #[Scripture Study](/notes/scripture-study)
+            - [2 Nephi 32](/notes/2-nephi-32):3 **Angels speak by the power of the Holy Ghost; wherefore, they speak the words of Christ. Wherefore, I said unto you, feast upon the words of Christ;** for behold, the words of Christ will tell you all things what ye should do.
+            - **From such teachings we conclude that the Final Judgment is not just an evaluation of a sum total of good and evil acts—what we have** **done**. **It is an acknowledgment of the final effect of our acts and thoughts—what we have** **become**. It is not enough for anyone just to go through the motions. The commandments, ordinances, and covenants of the gospel are not a list of deposits required to be made in some heavenly account. The gospel of Jesus Christ is a plan that shows us how to become what our Heavenly Father desires us to become.
+        - [Susan H. Porter](/notes/susan-h-porter) - Primary General Presidency
+            - The love of God is not just shared with those who go to the tree. It is the motivation that brings people to the tree. #[Find the Quote](/notes/find-the-quote)
+            - [1 Nephi 11](/notes/1-nephi-11):21-23
+                - 21 And the angel said unto me: Behold the Lamb of God, yea, even the Son of the Eternal Father! **Knowest thou the meaning of the tree which thy father saw?**
+                - 22 And I answered him, saying: Yea, it is the love of God, which sheddeth itself abroad in the hearts of the children of men; wherefore, **it is the most desirable above all things.**
+                - 23 And he spake unto me, saying: Yea, and the most joyous to the soul.
+            - Best talk on the love of God scripture that [Clinton D. Topham](/notes/clinton-d-topham) asked [Spencer W. Zwick](/notes/spencer-w-zwick) about
+            - Not "how can I fulfill this calling," but rather "how can I show God's love through this calling?"
+            - "Transforming power of God's love."
+            - "The more committed we become to patterning our life after his the purer our lives will become." [Russell M. Nelson](/notes/russell-m-nelson)
+            - Even if you were the only person living on the earth, Christ would have suffered and died for you
+            - "God's love is not found in the circumstances of our lives, but in His presence in our lives."
+            - "When you know and understand how completely you are loved as a child of God, it changes everything. It changes the way you feel about yourself when you make mistakes." 
+        - [Erich W. Kopishke](/notes/erich-w-kopishke)
+            - Mental illness included in the scourges mentioned in the scriptures
+            - Jesus fully comprehends the pain and struggle that many experience as they live with a broad range of mental health challenges. Mental health can interfere with our perception of perfection.
+            - "Pray for your children. Hold onto them with your faith." [Orson F. Whitney](/notes/orson-f-whitney)
+            - "I want to do funny faces." [Dax Harrison](/notes/dax-harrison)
+                - 🤪⏩👀👌🏿🥰😀😀⏩⏩👉🙈🙈❤️❤️🙃❤️❤️🙃👏💕😀😀😃😄😁
+        - [Ronald A. Rasband](/notes/ronald-a-rasband)
+            - [2 Nephi 4](/notes/2-nephi-4):16 Behold, my soul delighteth in the things of the Lord; and my heart pondereth continually upon the things which I have seen and heard.
+            - What do you ponder? What are the things that matter to you? What do you ponder in your soul? 
+            - 14-year old Joseph Smith had a question in his soul:
+                - [JSH 1](/notes/jsh-1):12 **Never did any passage of scripture come with more power to the heart of man than this did at this time to mine. It seemed to enter with great force into every feeling of my heart. I reflected on it again and again**, knowing that if any person needed wisdom from God, I did; for how to act I did not know, and unless I could get more wisdom than I then had, I would never know; for the teachers of religion of the different sects understood the same passages of scripture so differently as to destroy all confidence in settling the question by an appeal to the Bible.
+            - **The things of my soul.** The things that prepare my heart to receive promptings. #[Why I Believe](/notes/why-i-believe)
+            - 7 Things
+                1. Love God
+                2. Love Thy Neighbor
+                3. Love Yourself
+                    - When we are heavy-laden with feelings of disappointment or sin think of the Savior's [Atonement](/notes/atonement)
+                4. Keep My Commandments
+                    - "Try a little harder to be a little better." [Gordon B. Hinckley](/notes/gordon-b-hinckley) #[Find the Quote](/notes/find-the-quote)
+                5. Be Worthy to Attend the Temple
+                6. Be Joyful and Cheerful
+                7. Follow God's Living Prophet
+                    - "Cut the ties that bind yourself to the Prophet of God and sink yourself to hell." [Brigham Young](/notes/brigham-young) #[Find the Quote](/notes/find-the-quote)
+                    - "You will **NEVER** be led astray. Never."
+                    - Don't risk missing blessings by picking and choosing what prophetic counsel you will follow
+            - [The Restoration of the Fulness of the Gospel of Jesus Christ](/notes/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ)
+        - [Christoffel Golden Jr.](/notes/christoffel-golden-jr)
+            - "No teaching, no miracle, and no appearance even of a heavenly angel... appears to have the persuasive power to convince some individuals to alter their course, outlook, or belief that something is true." 
+            - "True doctrine, understood, changes attitudes and behavior. The study of the doctrines of the gospel will improve behavior quicker than a study of behavior will improve behavior." [Boyd K. Packer](/notes/boyd-k-packer)
+            - [Alma 31](/notes/alma-31):5 **And now, as the preaching of the word had a great tendency to lead the people to do that which was just. yea, it had had more powerful effect upon the minds of the people than the sword, or anything else, which had happened unto them.** therefore Alma thought it was expedient that they should try the virtue of the word of God.
+            - [Amos 3](/notes/amos-3):7. Surely the Lord GOD will do nothing, **but he revealeth his secret unto his servants the prophets.**
+            - [2 Timothy 3](/notes/2-timothy-3):7. **Ever learning, and never able to come to the knowledge of the truth.**
+            - "We live in a modern world full of great knowledge and great skill. However, these things too often camouflage the unstable founding on which they are built." #[Spirit of Humility](/notes/spirit-of-humility)
+            - [D&C 128](/notes/dandc-128):22 Brethren, shall we not go on in so great a cause? Go forward and not backward. Courage, brethren; and on, on to the victory! Let your hearts rejoice, and be exceedingly glad. Let the earth break forth into singing. Let the dead speak forth anthems of eternal praise to the King Immanuel, who hath ordained, before the world was, that which would enable us to redeem them out of their prison; for the prisoners shall go free.
+                - https://twitter.com/maryfaith_m/status/1444413830235308033?s=20
+        - [Moises Villanueva](/notes/moises-villanueva)
+        - [Gary E. Stevenson](/notes/gary-e-stevenson)
+            - Key principles
+                1. Live the gospel of Jesus Christ
+                    - Much can be learned from miraculous outcomes brought through the simple application of simple gospel principles.
+                2. Care for those in need
+                3. Invite all to receive the gospel
+                4. Unite families for eternity 
+                    - "The Lord wants to see us in the temple often." 
+    - Saturday Evening Session
+        - [M. Russell Ballard](/notes/m-russell-ballard)
+            - Knowing that Jesus is the light, life, and hope of the world AND ACTING LIKE IT is the most important thing.
+            - How would you answer the question: “Lovest thou me more than these?” Do we love the things of the world more than we love the Savior?
+            - Israel = let God prevail. Are we willing to let God prevail in our lives?
+        - [Sharon Eubank](/notes/sharon-eubank), Relief Society Presidency
+            - "The Church of Jesus Christ is under divine mandate to care for the poor. **It’s one of the pillars of the plan of salvation."**
+            - “Prophets have charge for the whole earth, not just for members of the church. And I can report from my own experience how devotedly and personally the First Presidency takes that charge.”
+            - The Church had more than 1,500 COVID-19 projects over the last 18 months, but also responded to 933 natural disasters and refugee crises in 108 countries.
+            - Prayers are usually answered by God using other people. I pray that we will be the answers to other people's prayer 
+            - "The essence of the gospel is contained in how we answer the question 'Do you love me?'"
+        - [Brent H. Nielson](/notes/brent-h-nielson), Presidency of the Seventy #[But If Not...](/notes/but-if-not)
+            - First we prayed for a miracle. Then we prayed that he wouldn't feel pain. Finally we prayed that he would pass quickly.
+            - [Jeremiah 8](/notes/jeremiah-8):22. Is there no balm in Gilead; is there no physician there? why then is not the health of the daughter of my people recovered?
+            - [Mark 2](/notes/mark-2):3-5
+                - 3. And they come unto him, bringing one sick of the palsy, which was borne of four.
+                - 4. **And when they could not come nigh unto him for the press, they uncovered the roof where he was**: and when they had broken it up, they let down the bed wherein the sick of the palsy lay.
+                - 5. **When Jesus saw their faith**, he said unto the sick of the palsy, Son, thy sins be forgiven thee.
+            - [Episode 6: "Indescribable Compassion"](/notes/episode-6-indescribable-compassion)
+                - **"Your faith is beautiful."**
+            - [Prosperity Gospel](/notes/prosperity-gospel)
+                - Would he have answered my prayer if I was more faithful? But then I had the thought, 'maybe he did.'
+            - I always wonder about the power of faith as a skill, not just a binary 'wondering' after God's will
+                - Story of [Hyrum Smith](/notes/hyrum-smith) being one in a circle of brethren who all tried to bless someone until finally he was able to #[Truman G. Madsen](/notes/truman-g-madsen) #[Find the Quote](/notes/find-the-quote)
+        - x
+        - [Brad Wilcox](/notes/brad-wilcox)
+            - Some mistakenly receive the message that repentance and change are unnecessary. God teaches us that these are essential
+            - Christ's Atonement is all about change. 
+            - He loves us too much to leave us as we are. 
+            - [Mosiah 5](/notes/mosiah-5):2 And they all cried with one voice, saying: Yea, we believe all the words which thou hast spoken unto us; and also, we know of their surety and truth, because of **the Spirit of the Lord Omnipotent, which has wrought a mighty change in us, or in our hearts, that we have no more disposition to do evil, but to do good continually.**
+            - Worthiness is not flawlessness. It is being honest about trying. 
+            - "Developing a Christ-like character requires patience and persistence more than it requires flawlessness." [Bruce C. Hafen](/notes/bruce-c-hafen)
+            - Trying over and over again to take steps to be better is not being a hypocrite. It is being a disciple
+            - When God speaks of weaknesses it is always with mercy. 
+            - Spend less time hating yourself for what you have done and more time loving Christ for what he has done. 
+            - "God does not need people who are flawless. He needs people to offer their heart and have a willing mind and He will make them perfect." [Dieter F. Uchtdorf](/notes/dieter-f-uchtdorf)
+        - [Alfred Kyungu](/notes/alfred-kyungu)
+            - [D&C 128](/notes/dandc-128):22 Brethren, shall we not go on in so great a cause? Go forward and not backward. Courage, brethren; and on, on to the victory! Let your hearts rejoice, and be exceedingly glad. Let the earth break forth into singing. Let the dead speak forth anthems of eternal praise to the King Immanuel, who hath ordained, before the world was, that which would enable us to redeem them out of their prison; for the prisoners shall go free.
+        - [Marcus B. Nash](/notes/marcus-b-nash)
+            - "Share the gospel. Follow spiritual promptings. Share your life openly and naturally. Invite others to come and see, and come and belong." 
+        - [Henry B. Eyring](/notes/henry-b-eyring)
+            - The way to receive revelation has been the same for every servant of God since the beginning of time.
+            - Joseph Smith had a question and he sought answers. The way he received answers encouraged him to continue looking for answers
+                - [JSH 1](/notes/jsh-1):12 **Never did any passage of scripture come with more power to the heart of man than this did at this time to mine. It seemed to enter with great force into every feeling of my heart. I reflected on it again and again**, knowing that if any person needed wisdom from God, I did; for how to act I did not know, and unless I could get more wisdom than I then had, I would never know; for the teachers of religion of the different sects understood the same passages of scripture so differently as to destroy all confidence in settling the question by an appeal to the Bible.
+            - **"Answers will come to fit your needs and your spiritual preparations."**
+            - [1 Kings 19](/notes/1-kings-19):11-12
+                - 11. And he said, Go forth, and stand upon the mount before the LORD. And, behold, the LORD passed by, and a great and strong wind rent the mountains, and brake in pieces the rocks before the LORD; **but the LORD was not in the wind: and after the wind an earthquake; but the LORD was not in the earthquake:**
+                - 12. And after the earthquake a fire; but the LORD was not in the fire: **and after the fire a still small voice.**
+            - It takes faith to be obedient to the Lord's commandments. 
+            - It takes faith to go out and teach his gospel who may not feel the voice of whispering. 
+            - Trials have long been a sea bed for the growth of faith. 
+            - "**Obedience to the gospel brings people into very close and intimate relationship with the Lord.** It establishes a close connection to our creator in the heavens. It brings a perfect confidence in the almighty." [George Q. Canon](/notes/george-q-canon) #[Find the Quote](/notes/find-the-quote)
+            - Ask Heavenly Father for the faith in Jesus Christ you need to make and keep the covenants that will allow you to have the Holy Ghost as your constant companion.
+    - Sunday Morning Session
+        - [Dieter F. Uchtdorf](/notes/dieter-f-uchtdorf)
+            - He knows your potential better than you possible could.
+        - Primary General President
+        - [Dale G. Renlund](/notes/dale-g-renlund)
+            - "If I'm quick to take offense, or respond to disagreement by becoming angry or judgmental, I have failed the spiritual stress test."
+            - 1. "Contention weakens our collective witness to the world of Jesus Christ..." 2. "Contention is spiritually unhealthy for us as individuals. We are robbed of peace, joy, and rest, and our ability to feel the Spirit is compromised."
+            - "When we contend with anger against each other, Satan laughs and the God of Heaven weeps."
+            - "Each put his discipleship of the Savior first."
+            - [4 Nephi 1](/notes/4-nephi-1):15-17
+                - 15 And it came to pass that there was no contention in the land, because of the love of God which did dwell in the hearts of the people.
+                - 16 And there were no envyings, nor strifes, nor tumults, nor whoredoms, nor lyings, nor murders, nor any manner of lasciviousness; **and surely there could not be a happier people among all the people who had been created by the hand of God.**
+                - 17 There were no robbers, nor murderers, neither were there Lamanites, nor any manner of -ites; but they were in one, **the children of Christ**, and heirs to the kingdom of God.
+            - We don’t talk enough about real examples of people who’ve worked through serious disagreements in the church; we too often pretend they don’t happen. Which doesn’t help.
+                - https://twitter.com/janariess/status/1444706565165096964?s=20
+                - Examples of great contenders (e.g. [Ruth Bader Ginsburg](/notes/ruth-bader-ginsburg) and [Anton Scalia](/notes/anton-scalia)). People who could successfully disagree and still respect each other
+        - [Vaiangina Sikahema](/notes/vaiangina-sikahema) of the Seventy
+            - Former BYU football player 
+            - "As we study, learn, and live the gospel of Jesus Christ **sequence often is instructive**. Consider the examples we learn from the order of events as the fulness of the gospel was restored."
+                - First vision: Teach the nature and character of God
+                - Moroni: Importance of the Book of Mormon
+            - “The Lord teaches us individually according to our capacity to learn and how we learn. Our growth is entirely dependent on our willingness, our natural curiosity, our level of faith, and understanding.” #[Find the Quote](/notes/find-the-quote) #[Learning, No Greater Responsibility](/notes/learning-no-greater-responsibility)
+            - [1 Corinthians 3](/notes/1-corinthians-3):2. I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able.
+            - Milk before meat. Walk before you run. These are sequential. 
+            - [Spirit of Humility](/notes/spirit-of-humility) is essential before you can have a [Broken heart and a contrite spirit](/notes/broken-heart-and-a-contrite-spirit)
+        - [Quentin L. Cook](/notes/quentin-l-cook)
+            - Adversity is not a witness of the Lord’s displeasure, nor the withdrawal of His favor.
+            - [D&C 121](/notes/dandc-121):7-8
+                - 7 **My son, peace be unto thy soul; thine adversity and thine afflictions shall be but a small moment;**
+                - 8 **And then, if thou endure it well, God shall exalt thee on high; thou shalt triumph over all thy foes.**
+            - In my lifetime, I have never seen a greater lack of civility. We are bombarded with angry contentious language and provocative, devastating actions that destroy peace and tranquility. But personal peace can be achieved despite division. It has never been more important to seek personal peace. 
+            - [D&C 59](/notes/dandc-59):23 But learn that he who doeth the works of righteousness shall receive his reward, **even peace in this world and eternal life in the world to come.**
+            - "Love God, live His commandments, and forgive everyone."
+            - 1) Love God, live His commandments and forgive everyone.
+              2) Bear others' burden.
+              3) Exercise Agency to choose Righteousness
+              4) Build Zion in our hearts and homes.
+              5) Follow the current admonitions of the Lord's prophet
+        - [Russell M. Nelson](/notes/russell-m-nelson)
+            - It is now time that we each implement extraordinary measures, perhaps measures we have never taken before to strengthen our personal spiritual foundations.
+                - **"In coming days, it will not be possible to survive spiritually without the guiding, directing, comforting, and constant influence of the Holy Ghost."** [Russell M. Nelson](/notes/russell-m-nelson)
+            - "Oh how we will need His power in the days ahead"
+            - [D&C 38](/notes/dandc-38):30 I tell you these things because of your prayers; wherefore, treasure up wisdom in your bosoms, lest the wickedness of men reveal these things unto you by their wickedness, in a manner which shall speak in your ears with a voice louder than that which shall shake the earth; but **if ye are prepared ye shall not fear.**
+            - "You need not succumb to the unique anxieties of this era." 
+            - “Ongoing restoration requires ongoing revelation.”
+    - Sunday Afternoon Session
+        - [Gerrit W. Gong](/notes/gerrit-w-gong)
+            - "When trust is broken we wonder how to trust again." 
+            - Be more forgiving of ourselves and each other. 
+            - Trust can be undermined or broken when someone isn't truthful or takes advantage of us.
+            - "God is a God of truth and cannot lie."
+            - Truth is a knowledge of things that are to come
+            - Trust becomes real when we do hard things with faith. 
+            - "You do not have to wonder whom you can safely trust." [Russell M. Nelson](/notes/russell-m-nelson)
+            - [Mosiah 3](/notes/mosiah-3):19 For the natural man is an enemy to God, and has been from the fall of Adam, and will be, forever and ever, **unless he yields to the enticings of the Holy Spirit, and putteth off the natural man and** **becometh a saint through the atonement of Christ the Lord, and becometh as a child**, submissive, meek, humble, patient, full of love, willing to submit to all things which the Lord seeth fit to inflict upon him, even as a child doth submit to his father.
+            - Condemnation focus on the past. Forgiveness looks liberally into the future. 
+            - Only we can hide our face from God's love
+                - [Isaiah 59](/notes/isaiah-59):2 But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear.
+        - L. Todd Budge
+            - There are 82M forcibly displaced people in the world
+            - The principle of sacrifice and the connection to the two great commandments: love God, and love your neighbor
+            - Sacrifice: Used to mean more like "making something or someone holy"
+                - Sacer: Holy
+                - x: To make
+            - I desire faith instead of sacrifice
+            - Offer a [Broken heart and a contrite spirit](/notes/broken-heart-and-a-contrite-spirit) as a sacrifice 
+            - When we give TO GOD we no longer look for recognition or appreciation. The act of giving becomes enough of a reward. 
+        - Anthony D. Perkins
+            - How can you endure the unique suffering that comes to each of us? 
+            - [Hope](/notes/hope)
+                1. Suffering Does Not Mean God Is Displeased With Your Life
+                    - [John 9](/notes/john-9):2-3
+                        - 2. And his disciples asked him, saying, Master, **who did sin**, this man, or his parents, that he was born blind?
+                        - 3. Jesus answered, Neither hath this man sinned, nor his parents: but **that the works of God should be made manifest in him.**
+                    - [1 Nephi 20](/notes/1-nephi-20):10 For, behold, I have refined thee, **I have chosen thee in the furnace of affliction.**
+                2. Christ Is Uniquely Aware of Your Suffering
+                    - [D&C 121](/notes/dandc-121):1-2, 6-8
+                        - 1 **O GOD, where art thou? And where is the pavilion that covereth thy hiding place?**
+                        - 2 **How long shall thy hand be stayed, and thine eye, yea thy pure eye, behold from the eternal heavens the wrongs of thy people and of thy servants, and thine ear be penetrated with their cries?**
+                        - 6 **Remember thy suffering saints, O our God; and thy servants will rejoice in thy name forever.**
+                        - 7 **My son, peace be unto thy soul; thine adversity and thine afflictions shall be but a small moment;**
+                        - 8 **And then, if thou endure it well, God shall exalt thee on high; thou shalt triumph over all thy foes.**
+                3. x
+                    - The Savior's infinite supply of power to strengthen your soul 
+                    - [Alma 7](/notes/alma-7):12 And he will take upon him death, that he may loose the bands of death which bind his people; **and he will take upon him their infirmities, that his bowels may be filled with mercy, according to the flesh, that he may know according to the flesh how to succor his people according to their infirmities.**
+                    - Strength comes from spiritual reassurances of an eternal family received during regular temple worship
+                4. Choose To Find Joy Each Day
+                    - "The joy we feel has little to do with the circumstances of our lives and everything to do with the focus of our lives. When the focus of our lives is on the Plan of Salvation and Jesus Christ and His gospel we can rebuild joy in our lives." [Russell M. Nelson](/notes/russell-m-nelson) #[Find the Quote](/notes/find-the-quote)
+        - Michael A. Dunn
+            - "The aggregation of marginal gains." #[Continuous Improvement](/notes/continuous-improvement) 
+                - Quote the cycling guy 
+                - Try a little harder to be a little better [Gordon B. Hinckley](/notes/gordon-b-hinckley)
+            - "Walking circumspectly" - Samuel the Lamanite
+            - If you broke down everything that goes into riding a bike and improved it by 1 percent you get a dramatic improvement - #[Find the Quote](/notes/find-the-quote) 
+            - Narrow our focus even as we broadened it? 
+            - If you improve something by 1% each day you will be 37x better after a year 
+            - Myriad of "micro-betterments" #[Line upon line, precept upon precept](/notes/line-upon-line-precept-upon-precept)
+            - For small gains to aggregate there must be a consistent daily commitment
+            - "Nothing is more liberating, more enobling, than is a regular daily focus on repentance." [Russell M. Nelson](/notes/russell-m-nelson)
+                - [Brigham Young](/notes/brigham-young) quote on repentance every 5 minutes 
+            - We should reorient our patterns of improvement incrementally. That's especially true if you're feeling overwhelmed or discouraged 
+            - Small steady steps - [David A. Bednar](/notes/david-a-bednar) #[Find the Quote](/notes/find-the-quote)
+            - Not sporadic 
+            - [D&C 93](/notes/dandc-93):13 And he received not of the fulness at first, but continued from grace to grace, until he received a fulness;
+            - "Each assertion of a righteous desire, each act of service adds to our spiritual ... [Neal A. Maxwell](/notes/neal-a-maxwell) #[Find the Quote](/notes/find-the-quote)
+        - Sean Douglas
+            - "Saints can be happy under every circumstance. We can feel joy even when having a bad day, a bad week, or even a bad year. It has little to do with the circumstances of our life .... [Russell M. Nelson](/notes/russell-m-nelson) #[Find the Quote](/notes/find-the-quote)
+                - Same quote as before 
+            - "If you want to be happy keep the commandments." 
+            - "I know the Savior will hold my hand." 
+            - "Only your unbelief will keep God from blessing you with miracles to move the mountains in your lives." 
+                - {{[video](/notes/video): https://www.youtube.com/watch?v=xdN8rfwW3SI}}
+        - Carlos G. Revillo
+        - Alvin F. Meredith
+            - "Focusing on the things that are most important, especially those things that are down the road, the eternal things, is the key to maneuvering this life."
+            - [Matthew 14](/notes/matthew-14):28-31
+                - 28 And Peter answered him and said, **Lord, if it be thou, bid me come unto thee on the water.**
+                - 29 **And he said, Come.** And when Peter was come down out of the ship, he walked on the water, to go to Jesus.
+                - **30 But when he saw the wind boisterous, he was afraid**; and beginning to sink, he cried, saying, Lord, save me.
+                - 31 And immediately Jesus stretched forth his hand, and caught him, and said unto him, **O thou of little faith, wherefore didst thou doubt?**
+            - While Peter was focused on the Savior he was able to walk on the water but when he got distracted by the wind he lost his ability to progress. 
+            - "The only thing necessary for the triumph of evil is for good people to do nothing." #[Find the Quote](/notes/find-the-quote)
+        - [Neil L. Anderson](/notes/neil-l-anderson)
+            - The doctrine of Christ is eternal and everlasting. But other steps are revealed at different times .... #[Find the Quote](/notes/find-the-quote)
+            - "The restoration is a process. Not an event." [Russell M. Nelson](/notes/russell-m-nelson)
+            - Mormon is a prophet but he didn't die for my sins. #[Find the Quote](/notes/find-the-quote)
+        - [Russell M. Nelson](/notes/russell-m-nelson)
+            - We've been given our charge for the next 6 months. Now the question is "how will we be different?"
+            - If most of the information you get comes from social media your ability to feel the spirit will be diminished
+            - If you're not reading and praying you leave yourself vulnerable to philosophies that are intriguing but not true
+            - Spirit speaks of things as they really are and as they really shall be. 
+                - Connect to previous mention of truth 
+            - HE WILL LEAD AND GUIDE YOU **IF** YOU MAKE TIME FOR HIM IN YOUR PERSONAL LIFE EACH AND EVERY DAY
+                - Prophetic promise that I am NOT currently taking advantage of 
+- Talks::
+    - [Pure Truth, Pure Doctrine, and Pure Revelation](/notes/pure-truth-pure-doctrine-and-pure-revelation) by [Russell M. Nelson](/notes/russell-m-nelson)
