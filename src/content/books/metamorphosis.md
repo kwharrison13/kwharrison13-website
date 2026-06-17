@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "language-of-discourse"
-last_imported: "2026-06-16"
+last_imported: "2026-06-17"
 key_takeaways_status: "written"
 ---
 

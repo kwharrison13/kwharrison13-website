@@ -8,7 +8,7 @@ tags:
   - "capital-allocation"
   - "technological-innovation"
   - "historical-futurism"
-last_imported: "2026-06-16"
+last_imported: "2026-06-17"
 key_takeaways_status: "written"
 ---
 
