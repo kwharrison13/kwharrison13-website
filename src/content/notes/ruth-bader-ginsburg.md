@@ -1,6 +1,6 @@
 ---
 title: "Ruth Bader Ginsburg"
-type: "concept"
+type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"

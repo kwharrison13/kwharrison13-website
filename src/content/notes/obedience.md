@@ -1,6 +1,6 @@
 ---
-title: "Brad Wilcox"
-type: "person"
+title: "Obedience"
+type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
@@ -10,15 +10,15 @@ sources:
   - "wiki/gospel-study/General Conference- October 2021.md"
 tags: []
 aliases:
-  - "Brad Wilcox"
+  - "Obedience"
 related: []
 reference_count: 1
 ---
 
-# Brad Wilcox
+# Obedience
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+_Stub page — auto-generated from a #hashtag reference. Not yet written. Referenced in **1** wiki page._
 
 ## Where this appears
 
-- [General Conference- October 2021](/notes/general-conference-october-2021)
+- [General Conference — October 2021](/notes/general-conference-october-2021)

@@ -1,6 +1,6 @@
 ---
 title: "Vaiangina Sikahema"
-type: "concept"
+type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"

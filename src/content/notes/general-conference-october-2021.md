@@ -432,7 +432,7 @@ The notes are organized in three layers (as in the source): **Key Highlights** (
             - "If you want to be happy keep the commandments." 
             - "I know the Savior will hold my hand." 
             - "Only your unbelief will keep God from blessing you with miracles to move the mountains in your lives." 
-                - {{[video](/notes/video): https://www.youtube.com/watch?v=xdN8rfwW3SI}}
+                - [video](https://www.youtube.com/watch?v=xdN8rfwW3SI)
         - Carlos G. Revillo
         - Alvin F. Meredith
             - "Focusing on the things that are most important, especially those things that are down the road, the eternal things, is the key to maneuvering this life."

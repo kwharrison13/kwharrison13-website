@@ -1,5 +1,310 @@
 [
   {
+    "title": "A Matter of Degrees",
+    "full_title": "A Matter of Degrees: What Temperature Reveals About the Past and Future of Our Species, Planet, and Universe",
+    "author": "Gino Segre",
+    "published": "2002",
+    "pages": 300,
+    "amazon_url": "https://www.amazon.com/s?k=A+Matter+of+Degrees%3A+What+Temperature+Reveals+About+the+Past+and+Future+of+Our+Species%2C+Planet%2C+and+Universe+Gino+Segre",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [],
+    "slug": "a-matter-of-degrees"
+  },
+  {
+    "title": "Deep Simplicity",
+    "full_title": "Deep Simplicity: Bringing Order to Chaos and Complexity",
+    "author": "John Gribbin",
+    "published": "2004",
+    "pages": 275,
+    "amazon_url": "https://www.amazon.com/s?k=Deep+Simplicity%3A+Bringing+Order+to+Chaos+and+Complexity+John+Gribbin",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [],
+    "slug": "deep-simplicity"
+  },
+  {
+    "title": "F.I.A.S.C.O.",
+    "full_title": "F.I.A.S.C.O.: Blood in the Water on Wall Street",
+    "author": "Frank Partnoy",
+    "published": "1997",
+    "pages": 256,
+    "amazon_url": "https://www.amazon.com/s?k=F.I.A.S.C.O.%3A+Blood+in+the+Water+on+Wall+Street+Frank+Partnoy",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [
+      "capital-allocation"
+    ],
+    "slug": "f-i-a-s-c-o"
+  },
+  {
+    "title": "Genome",
+    "full_title": "Genome: The Autobiography of a Species in 23 Chapters",
+    "author": "Matt Ridley",
+    "published": "1999",
+    "pages": 344,
+    "amazon_url": "https://www.amazon.com/s?k=Genome%3A+The+Autobiography+of+a+Species+in+23+Chapters+Matt+Ridley",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [],
+    "slug": "genome"
+  },
+  {
+    "title": "Getting to Yes",
+    "full_title": "Getting to Yes: Negotiating Agreement Without Giving In",
+    "author": "Roger Fisher, William Ury, and Bruce Patton",
+    "published": "1981",
+    "pages": 162,
+    "amazon_url": "https://www.amazon.com/s?k=Getting+to+Yes%3A+Negotiating+Agreement+Without+Giving+In+Roger+Fisher%2C+William+Ury%2C+and+Bruce+Patton",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [
+      "language-of-discourse"
+    ],
+    "slug": "getting-to-yes"
+  },
+  {
+    "title": "Guns, Germs, and Steel",
+    "full_title": "Guns, Germs, and Steel: The Fates of Human Societies",
+    "author": "Jared Diamond",
+    "published": "1997",
+    "pages": 480,
+    "amazon_url": "https://www.amazon.com/s?k=Guns%2C+Germs%2C+and+Steel%3A+The+Fates+of+Human+Societies+Jared+Diamond",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [
+      "historical-futurism"
+    ],
+    "slug": "guns-germs-and-steel"
+  },
+  {
+    "title": "How the Scots Invented the Modern World",
+    "full_title": "How the Scots Invented the Modern World: The True Story of How Western Europe's Poorest Nation Created Our World and Everything in It",
+    "author": "Arthur Herman",
+    "published": "2001",
+    "pages": 472,
+    "amazon_url": "https://www.amazon.com/s?k=How+the+Scots+Invented+the+Modern+World%3A+The+True+Story+of+How+Western+Europe%27s+Poorest+Nation+Created+Our+World+and+Everything+in+It+Arthur+Herman",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [
+      "historical-futurism",
+      "ideological-family-tree"
+    ],
+    "slug": "how-the-scots-invented-the-modern-world"
+  },
+  {
+    "title": "Ice Age",
+    "full_title": "Ice Age: The Theory That Came In from the Cold",
+    "author": "John Gribbin and Mary Gribbin",
+    "published": "2001",
+    "pages": 112,
+    "amazon_url": "https://www.amazon.com/s?k=Ice+Age%3A+The+Theory+That+Came+In+from+the+Cold+John+Gribbin+and+Mary+Gribbin",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [],
+    "slug": "ice-age"
+  },
+  {
+    "title": "Influence",
+    "full_title": "Influence: The Psychology of Persuasion",
+    "author": "Robert Cialdini",
+    "published": "1984",
+    "pages": 320,
+    "amazon_url": "https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+Cialdini",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [
+      "language-of-discourse"
+    ],
+    "slug": "influence"
+  },
+  {
+    "title": "Les Schwab: Pride in Performance",
+    "full_title": "Les Schwab Pride in Performance: Keep It Going!",
+    "author": "Les Schwab",
+    "published": "1986",
+    "pages": 228,
+    "amazon_url": "https://www.amazon.com/s?k=Les+Schwab+Pride+in+Performance%3A+Keep+It+Going%21+Les+Schwab",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [
+      "company-building"
+    ],
+    "slug": "les-schwab-pride-in-performance"
+  },
+  {
+    "title": "Living Within Limits",
+    "full_title": "Living Within Limits: Ecology, Economics, and Population Taboos",
+    "author": "Garrett Hardin",
+    "published": "1993",
+    "pages": 339,
+    "amazon_url": "https://www.amazon.com/s?k=Living+Within+Limits%3A+Ecology%2C+Economics%2C+and+Population+Taboos+Garrett+Hardin",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [
+      "historical-futurism"
+    ],
+    "slug": "living-within-limits"
+  },
+  {
+    "title": "Men and Rubber",
+    "full_title": "Men and Rubber: The Story of Business",
+    "author": "Harvey S. Firestone",
+    "published": "1926",
+    "pages": 279,
+    "amazon_url": "https://www.amazon.com/s?k=Men+and+Rubber%3A+The+Story+of+Business+Harvey+S.+Firestone",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [
+      "company-building"
+    ],
+    "slug": "men-and-rubber"
+  },
+  {
+    "title": "Men to Match My Mountains",
+    "full_title": "Men to Match My Mountains: The Opening of the Far West, 1840-1900",
+    "author": "Irving Stone",
+    "published": "1956",
+    "pages": 459,
+    "amazon_url": "https://www.amazon.com/s?k=Men+to+Match+My+Mountains%3A+The+Opening+of+the+Far+West%2C+1840-1900+Irving+Stone",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [
+      "city-building",
+      "historical-futurism"
+    ],
+    "slug": "men-to-match-my-mountains"
+  },
+  {
+    "title": "Models of My Life",
+    "full_title": "Models of My Life",
+    "author": "Herbert Simon",
+    "published": "1991",
+    "pages": 415,
+    "amazon_url": "https://www.amazon.com/s?k=Models+of+My+Life+Herbert+Simon",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [],
+    "slug": "models-of-my-life"
+  },
+  {
+    "title": "No Two Alike",
+    "full_title": "No Two Alike: Human Nature and Human Individuality",
+    "author": "Judith Rich Harris",
+    "published": "2006",
+    "pages": 322,
+    "amazon_url": "https://www.amazon.com/s?k=No+Two+Alike%3A+Human+Nature+and+Human+Individuality+Judith+Rich+Harris",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [],
+    "slug": "no-two-alike"
+  },
+  {
     "title": "The Power Broker",
     "full_title": "The Power Broker: Robert Moses and the Fall of New York",
     "author": "Robert A. Caro",
@@ -28,6 +333,128 @@
       "language-of-discourse"
     ],
     "slug": "the-power-broker"
+  },
+  {
+    "title": "The Selfish Gene",
+    "full_title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "published": "1976",
+    "pages": 224,
+    "amazon_url": "https://www.amazon.com/s?k=The+Selfish+Gene+Richard+Dawkins",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [],
+    "slug": "the-selfish-gene"
+  },
+  {
+    "title": "The Third Chimpanzee",
+    "full_title": "The Third Chimpanzee: The Evolution and Future of the Human Animal",
+    "author": "Jared Diamond",
+    "published": "1991",
+    "pages": 360,
+    "amazon_url": "https://www.amazon.com/s?k=The+Third+Chimpanzee%3A+The+Evolution+and+Future+of+the+Human+Animal+Jared+Diamond",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [],
+    "slug": "the-third-chimpanzee"
+  },
+  {
+    "title": "The Warren Buffett Portfolio",
+    "full_title": "The Warren Buffett Portfolio: Mastering the Power of the Focus Investment Strategy",
+    "author": "Robert Hagstrom",
+    "published": "1999",
+    "pages": 246,
+    "amazon_url": "https://www.amazon.com/s?k=The+Warren+Buffett+Portfolio%3A+Mastering+the+Power+of+the+Focus+Investment+Strategy+Robert+Hagstrom",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [
+      "capital-allocation"
+    ],
+    "slug": "the-warren-buffett-portfolio"
+  },
+  {
+    "title": "The Wealth and Poverty of Nations",
+    "full_title": "The Wealth and Poverty of Nations: Why Some Are So Rich and Some So Poor",
+    "author": "David Landes",
+    "published": "1998",
+    "pages": 650,
+    "amazon_url": "https://www.amazon.com/s?k=The+Wealth+and+Poverty+of+Nations%3A+Why+Some+Are+So+Rich+and+Some+So+Poor+David+Landes",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [
+      "capital-allocation",
+      "historical-futurism"
+    ],
+    "slug": "the-wealth-and-poverty-of-nations"
+  },
+  {
+    "title": "Three Scientists and Their Gods",
+    "full_title": "Three Scientists and Their Gods: Looking for Meaning in an Age of Information",
+    "author": "Robert Wright",
+    "published": "1988",
+    "pages": 342,
+    "amazon_url": "https://www.amazon.com/s?k=Three+Scientists+and+Their+Gods%3A+Looking+for+Meaning+in+an+Age+of+Information+Robert+Wright",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [],
+    "slug": "three-scientists-and-their-gods"
+  },
+  {
+    "title": "Titan",
+    "full_title": "Titan: The Life of John D. Rockefeller, Sr.",
+    "author": "Ron Chernow",
+    "published": "1998",
+    "pages": 774,
+    "amazon_url": "https://www.amazon.com/s?k=Titan%3A+The+Life+of+John+D.+Rockefeller%2C+Sr.+Ron+Chernow",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [
+      "capital-allocation",
+      "company-building"
+    ],
+    "slug": "titan"
   },
   {
     "title": "Where Is My Flying Car?",
