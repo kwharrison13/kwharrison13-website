@@ -181,6 +181,26 @@ function main() {
     console.log(`\nslug collisions: ${collisions.length}`);
     for (const c of collisions.slice(0, 20)) console.log(`  - ${c}`);
   }
+
+  // Orphan warning: this sync only WRITES files — it never prunes. If an essay's
+  // website_slug changes (or is newly added), the old title-slugged file is left
+  // behind and the site serves two URLs for one essay (image-poor stale copy +
+  // canonical). Flag any website essay file whose slug no wiki essay produces, so
+  // the orphan gets a redirect (astro.config.mjs) and is deleted before it ships.
+  if (fs.existsSync(WEBSITE_ESSAYS)) {
+    const orphans = [];
+    for (const f of fs.readdirSync(WEBSITE_ESSAYS)) {
+      if (!f.endsWith('.md') || f.startsWith('.')) continue;
+      const { frontmatter } = parseFrontmatter(fs.readFileSync(path.join(WEBSITE_ESSAYS, f), 'utf8'));
+      const slug = frontmatter.slug || path.basename(f, '.md');
+      if (!seen.has(slug)) orphans.push(`${f} (slug: ${slug})`);
+    }
+    if (orphans.length) {
+      console.log(`\n⚠️  orphan website essays (no wiki source — stale dupes or website-only): ${orphans.length}`);
+      for (const o of orphans) console.log(`  - ${o}`);
+      console.log('  → add a redirect in astro.config.mjs and `git rm` the file, or restore it to the wiki.');
+    }
+  }
 }
 
 main();
