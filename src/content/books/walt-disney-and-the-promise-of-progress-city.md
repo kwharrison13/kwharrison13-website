@@ -15,7 +15,7 @@ key_takeaways_status: "written"
 ## Key Takeaways
 
 <!-- key-takeaways -->
-**Synthesis (context).** Sam Gennawey reconstructs Walt Disney's most ambitious and least-understood project: EPCOT — the Experimental Prototype Community of Tomorrow — not the theme park it became, but the real city of ~20,000 residents Walt intended to build on virgin Florida land. The book reads Disney as an urban planner: Disneyland's Main Street, hub-and-spoke plan, monorail, and PeopleMover were all prototypes for a transit-oriented, mixed-use, pedestrian-first city meant to "solve the problems of our cities." Gennawey threads Walt's vision through Christopher Alexander's "timeless way of building" and its "quality without a name," Victor Gruen's cellular theory of the city (the only urban-planning book in Walt's office was Gruen's *The Heart of Our Cities*), and the New Urbanism movement that later echoed the unbuilt 1966 plans almost point-for-point. The unresolved tension at the center: Walt's utopia required near-total corporate control — no landowners, no voting residents, no retirees, nobody staying longer than ~nine months — because "you can't experiment with people's lives." Walt died before ground broke; his team, uninterested in city-building, quietly collapsed the dream into a vacation resort. Buzz Price's verdict: had it been built, "EPCOT would have been more famous than Walt Disney World."
+**Synthesis (context).** Sam Gennawey reconstructs Walt Disney's most ambitious and least-understood project: EPCOT — the Experimental Prototype Community of Tomorrow — not the theme park it became, but the real city of ~20,000 residents Walt intended to build on virgin Florida land. The book reads Disney as an urban planner: Disneyland's Main Street, hub-and-spoke plan, monorail, and PeopleMover were all prototypes for a transit-oriented, mixed-use, pedestrian-first city meant to "solve the problems of our cities." Gennawey threads Walt's vision through [Christopher Alexander](/notes/christopher-alexander)'s "timeless way of building" and its "quality without a name," [Victor Gruen](/notes/victor-gruen)'s cellular theory of the city (the only urban-planning book in Walt's office was Gruen's *[The Heart of Our Cities](/notes/the-heart-of-our-cities)*), and the [New Urbanism](/notes/new-urbanism) movement that later echoed the unbuilt 1966 plans almost point-for-point. The unresolved tension at the center: Walt's utopia required near-total corporate control — no landowners, no voting residents, no retirees, nobody staying longer than ~nine months — because "you can't experiment with people's lives." Walt died before ground broke; his team, uninterested in city-building, quietly collapsed the dream into a vacation resort. Buzz Price's verdict: had it been built, "EPCOT would have been more famous than Walt Disney World."
 
 The historical-futurist lens (grading Walt's 1960s predictions 50+ years on) and the Monsanto House of the Future as ancestor to today's 3D-printed housing are two live contemporary echoes. The [Robert Moses](/notes/robert-moses) / [Jane Jacobs](/notes/jane-jacobs) feud sits underneath as the recurring case study of top-down master-planning vs. bottom-up urbanism — the structural tension Walt's "benign, paternalistic" model never resolved.
 
@@ -23,23 +23,23 @@ The historical-futurist lens (grading Walt's 1960s predictions 50+ years on) and
 
 ### Kyle's framework: How to Build a City
 
-**Be observant.** Walt's best solutions came after a great deal of observation (a lesson from Jack Lindquist in *In Service to the Mouse*). He studied how people move at museums to design around "museum feet," visited dozens of parks, and brought ideas home from every trip abroad. #Be Observant
+**Be observant.** Walt's best solutions came after a great deal of observation (a lesson from [Jack Lindquist](/notes/jack-lindquist) in *[In Service to the Mouse](/notes/in-service-to-the-mouse)*). He studied how people move at museums to design around "museum feet," visited dozens of parks, and brought ideas home from every trip abroad. #[Be Observant](/notes/be-observant)
 
 **Build what people actually want — revolutionarily — don't shove "progress" down their throats.** "I don't believe in going out to the extreme blue-sky stuff that some architects do. I believe that people still want to live like human beings." Walt wasn't anti-automobile; he just wanted to put the pedestrian back at the center.
 
-**Experiment — use what you already run as the testbed.** Disneyland's monorail and PeopleMover were live durability tests for systems Walt wanted in EPCOT. The counter-voice (Ward Kimball): "you can't experiment with people's lives." #Experimentation
+**Experiment — use what you already run as the testbed.** Disneyland's monorail and PeopleMover were live durability tests for systems Walt wanted in EPCOT. The counter-voice (Ward Kimball): "you can't experiment with people's lives." #[Experimentation](/notes/experimentation)
 
-**Transportation is the backbone.** The proven monorail-plus-PeopleMover transit system is the principal reason Walt thought EPCOT could work as a city. Apartment dwellers wouldn't even get parking — transit, short-range EVs, or rentals only. The pedestrian shed (a convenient transit stop a few steps from home) is "the secret to EPCOT's success." #Transportation
+**Transportation is the backbone.** The proven monorail-plus-PeopleMover transit system is the principal reason Walt thought EPCOT could work as a city. Apartment dwellers wouldn't even get parking — transit, short-range EVs, or rentals only. The pedestrian shed (a convenient transit stop a few steps from home) is "the secret to EPCOT's success." #[Transportation](/notes/transportation)
 
-**Tap into universal feelings.** Christopher Alexander's research: ~90% of human feeling is shared, only ~10% idiosyncratic. Walt's gift was designing for the shared 90% — the Plaza Hub "bridges every culture and speaks a universal language."
+**Tap into universal feelings.** [Christopher Alexander](/notes/christopher-alexander)'s research: ~90% of human feeling is shared, only ~10% idiosyncratic. Walt's gift was designing for the shared 90% — the Plaza Hub "bridges every culture and speaks a universal language."
 
 **Design for the "quality without a name."** The moment "apprehension turns into awe and delight" — when you enter a space that feels right but can't quite say why. Hench: "the order here works on people... they feel more content here in a way they can't explain. You find strangers talking to each other without fear."
 
-**Space-making is a discipline.** "Architecture is the thoughtful making of space" (Louis Kahn). Engage all five senses (down to the Smellitzers pumping cookie scent); design human-scale streets; and crucially, *include places to pause and do nothing* — the intimacy big parks lose when they scale. → *Open question: How do you maintain neighborhood closeness as a city scales to the largest in the world?* #Space Making #Community
+**Space-making is a discipline.** "Architecture is the thoughtful making of space" ([Louis Kahn](/notes/louis-kahn)). Engage all five senses (down to the Smellitzers pumping cookie scent); design human-scale streets; and crucially, *include places to pause and do nothing* — the intimacy big parks lose when they scale. → *Open question: How do you maintain neighborhood closeness as a city scales to the largest in the world?* #[Space Making](/notes/space-making) #[Community](/notes/community)
 
 **Are you building a place to reside, or a place to truly _live_?** Walt to Billy Graham: "the fantasy isn't here. The Park is reality... The fantasy is out there, outside the gates, where people have hatreds and prejudices."
 
-**Expose yourself to the best ideas available.** World's Fairs fed Walt's city-planning instincts; he kept a booklet on Stockholm's satellite towns in his office and clearly modeled EPCOT's pods on them. "Walt would synthesize the best of other people's ideas and create something not only better, but wholly unique."
+**Expose yourself to the best ideas available.** World's Fairs fed Walt's city-planning instincts; he kept a booklet on [Stockholm](/notes/stockholm)'s satellite towns in his office and clearly modeled EPCOT's pods on them. "Walt would synthesize the best of other people's ideas and create something not only better, but wholly unique."
 
 **Pick an over-arching model.** The radial hub-and-spoke ("centers arise in space") plus Gruen's cellular city (mixed-use cells that scale "as small as a home or as large as a metropolis," the CBD as a high-vitality heart). → *Centrality is what keeps people there, whatever first drew them: "if you lose the center, the community is soon to be lost as well."*
 
@@ -47,11 +47,11 @@ The historical-futurist lens (grading Walt's 1960s predictions 50+ years on) and
 
 ### What do cities get built around?
 
-Cities form around natural resources, universities, large employers, or opportunities for technological display. For Walt, EPCOT was a stage for American industry to "show how technology, creative thinking, and hard work could change the world" — built from scratch on virgin land, heeding Henry Ford: "We shall solve the City Problem by leaving the City." But the *why* must never get lost: a living laboratory "planned for people — not for the architecture magazines and the critics." #[City Building](/notes/city-building)
+Cities form around natural resources, universities, large employers, or opportunities for technological display. For Walt, EPCOT was a stage for American industry to "show how technology, creative thinking, and hard work could change the world" — built from scratch on virgin land, heeding [Henry Ford](/notes/henry-ford): "We shall solve the City Problem by leaving the City." But the *why* must never get lost: a living laboratory "planned for people — not for the architecture magazines and the critics." #[City Building](/notes/city-building)
 
 ### What is a Utopia?
 
-Walt's was **problematic** (technological utopianism is "compelling as history, problematic as policy"), **hierarchical** (control requires eliminating the voting community), **collaborative** (counting on American industry's best thinking), **invented**, and — when you peel it back — **conventional**: tied to already-existing construction technology and existing communities. *And the deeper test: most visionaries can build a vision by brute force — how many build one that outlasts them?* Walt couldn't; the rest of his team only ever wanted another theme park. #Utopia #Democracy
+Walt's was **problematic** (technological utopianism is "compelling as history, problematic as policy"), **hierarchical** (control requires eliminating the voting community), **collaborative** (counting on American industry's best thinking), **invented**, and — when you peel it back — **conventional**: tied to already-existing construction technology and existing communities. *And the deeper test: most visionaries can build a vision by brute force — how many build one that outlasts them?* Walt couldn't; the rest of his team only ever wanted another theme park. #[Utopia](/notes/utopia) #[Democracy](/notes/democracy)
 
 ### Open-source knowledge
 
@@ -65,7 +65,7 @@ A city's purpose is to bring people together to "exchange goods and ideas withou
 - **Long-term thinking.** "Think beyond your lifetime if you want to accomplish something truly worthwhile." #[Long Term Thinking](/notes/long-term-thinking)
 - **Vision.** Burnham: "Make no little plans; they have no magic to stir men's blood." Had EPCOT been built, Walt "really could have changed the world."
 
-> **Kyle:** *[Disney ($DIS)](/notes/disney-dis) needs a [Walt Disney](/notes/walt-disney)-caliber CEO, and then they need to partner with Tesla ($TSLA). I used to say Disney should buy Tesla — but maybe Tesla should buy Disney.*
+> **Kyle:** *[Disney ($DIS)](/notes/disney-dis) needs a [Walt Disney](/notes/walt-disney)-caliber CEO, and then they need to partner with [Tesla ($TSLA)](/notes/tesla-tsla). I used to say Disney should buy Tesla — but maybe Tesla should buy Disney.*
 <!-- /key-takeaways -->
 
 ## Connections
