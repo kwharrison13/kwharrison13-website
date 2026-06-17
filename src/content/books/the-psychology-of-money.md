@@ -21,11 +21,11 @@ _Highlights captured below. Synthesis pending — write takeaways from the Highl
 <!-- interconnections -->
 Books referenced in the highlights:
 
-- The Intelligent Investor — Housel praises it as full of wisdom but questionable as a how-to guide; source of Graham's Margin of Safety concept.
-- Thinking, Fast and Slow — Kahneman's book; Housel relays Zweig's "I have no sunk costs" anecdote from their work together.
-- Fooled by Randomness — Taleb on the high-water-mark fallacy (the Nile, Fukushima).
-- The Rational Optimist — Matt Ridley on the constant drumbeat of pessimism.
-- Factfulness — Hans Rosling on people overestimating how frightening the world is.
+- [The Intelligent Investor](/notes/the-intelligent-investor) — Housel praises it as full of wisdom but questionable as a how-to guide; source of Graham's [Margin of Safety](/notes/margin-of-safety) concept.
+- [Thinking, Fast and Slow](/notes/thinking-fast-and-slow) — Kahneman's book; Housel relays Zweig's "I have no sunk costs" anecdote from their work together.
+- [Fooled by Randomness](/notes/fooled-by-randomness) — Taleb on the high-water-mark fallacy (the Nile, Fukushima).
+- [The Rational Optimist](/notes/the-rational-optimist) — Matt Ridley on the constant drumbeat of pessimism.
+- [Factfulness](/notes/factfulness) — Hans Rosling on people overestimating how frightening the world is.
 - [Sapiens](/books/sapiens) — connects to Housel's argument that shared narratives are the most powerful force in the economy.
 <!-- /interconnections -->
 
@@ -96,7 +96,7 @@ Books referenced in the highlights:
 - A plan is only useful if it can survive reality. And a future filled with unknowns is everyone’s reality.
 - The more you need specific elements of a plan to be true, the more fragile your financial life becomes.
   > **Kyle:** *Margin of safety. “What do I have to believe?”*
-- Room for error—often called margin of safety—is one of the most underappreciated forces in finance. It comes in many forms: A frugal budget, flexible thinking, and a loose timeline—anything that lets you live happily with a range of outcomes. #Margin of Safety
+- Room for error—often called margin of safety—is one of the most underappreciated forces in finance. It comes in many forms: A frugal budget, flexible thinking, and a loose timeline—anything that lets you live happily with a range of outcomes. #[Margin of Safety](/notes/margin-of-safety)
 - A barbelled personality—optimistic about the future, but paranoid about what will prevent you from getting to the future—is vital.
 - Sensible optimism is a belief that the odds are in your favor, and over time things will balance out to a good outcome even if what happens in between is filled with misery.
 - By age 20 the average person can lose roughly half the synaptic connections they had in their brain at age two, as inefficient and redundant neural pathways are cleared out. But the average 20-year-old is much smarter than the average two-year-old. Destruction in the face of progress is not only possible, but an efficient way to get rid of excess.
@@ -111,7 +111,7 @@ Books referenced in the highlights:
 - Napoleon’s definition of a military genius was, “The man who can do the average thing when all those around him are going crazy.” It’s the same in investing.
 - There is the old pilot quip that their jobs are “hours and hours of boredom punctuated by moments of sheer terror.” It’s the same in investing. Your success as an investor will be determined by how you respond to punctuated moments of terror, not the years spent on cruise control.
 - Something I’ve learned from both investors and entrepreneurs is that no one makes good decisions all the time. The most impressive people are packed full of horrendous ideas that are often acted upon.
-- Part of why this isn’t intuitive is because in most fields we only see the finished product, not the losses incurred that led to the tail-success product. #Post-Mortems
+- Part of why this isn’t intuitive is because in most fields we only see the finished product, not the losses incurred that led to the tail-success product. #[Post-Mortems](/notes/post-mortems)
 - “It’s not whether you’re right or wrong that’s important,” George Soros once said, “but how much money you make when you’re right and how much you lose when you’re wrong.”
 - The highest form of wealth is the ability to wake up every morning and say, “I can do whatever I want today.”
 - The most powerful common denominator of happiness was simple. Campbell summed it up: Having a strong sense of controlling one’s life is a more dependable predictor of positive feelings of wellbeing than any of the objective conditions of life we have considered.

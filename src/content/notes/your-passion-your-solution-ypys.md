@@ -46,7 +46,7 @@ Lucas Li's 2014 business plan for **YPYS (Your Passion, Your Solution)**, a not-
 - Social Innovation and Social Entrepreneurship are the conceptual load-bearing ideas — YPYS is essentially a platform for teaching and practicing both simultaneously.
 - The Young Entrepreneurs Academy (documented in Appendix D) is the closest comparable — YPYS studied it as a reference model. Key difference: YEA! is school-embedded; YPYS is a standalone nonprofit that partners with schools.
 - The incubator model is explicitly drawn from InfoDev's Mixed-use Incubator Handbook (Appendix F), specifically the "HUB/Venture Incubator" (mixed BAM + virtual) model.
-- The thesis that early engagement produces lifetime social leaders maps to what Paul Graham has written about intrinsic motivation: the sooner an identity forms around doing something meaningful, the more durable it is.
+- The thesis that early engagement produces lifetime social leaders maps to what [Paul Graham](/notes/paul-graham) has written about intrinsic motivation: the sooner an identity forms around doing something meaningful, the more durable it is.
 
 ---
 
