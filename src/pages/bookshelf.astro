@@ -341,7 +341,8 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
   .antilib-count { font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-tertiary); white-space: nowrap; }
 
   .antilib-table { display: flex; flex-direction: column; border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
-  .antilib-row { display: grid; grid-template-columns: minmax(180px, 2.2fr) 1.1fr 78px 60px 1.5fr 1.6fr 78px; gap: 14px; align-items: start; padding: 12px 16px; border-bottom: 1px solid var(--border); }
+  .antilib-row { display: grid; grid-template-columns: minmax(160px, 2.1fr) 1fr 70px 56px 1.7fr 1.7fr 70px; gap: 14px; align-items: start; padding: 12px 16px; border-bottom: 1px solid var(--border); }
+  .antilib-row > span { min-width: 0; }
   .antilib-row:last-child { border-bottom: none; }
   .antilib-row:not(.antilib-head):hover { background: var(--bg-card); }
   .antilib-head { background: var(--bg-card); font-size: 10px; text-transform: uppercase; letter-spacing: 0.07em; font-weight: 700; color: var(--text-tertiary); position: sticky; top: 0; }
