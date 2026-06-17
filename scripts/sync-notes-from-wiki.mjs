@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 /**
- * Wiki concepts + people → src/content/notes sync.
+ * Wiki concepts + people + articles → src/content/notes sync.
  *
- * Mirrors EVERY page in ~/kwharrison13-wiki/wiki/concepts/ and wiki/people/
+ * Mirrors EVERY page in ~/kwharrison13-wiki/wiki/{concepts,people,articles}/
  * into src/content/notes/<slug>.md (regardless of publish state) so URLs
  * always resolve. The /notes/[slug].astro route then decides whether to show
  * the full content (publish: true) or a "private note" landing (publish: false).
@@ -29,6 +29,7 @@ const WIKI_ROOT = path.join(os.homedir(), 'kwharrison13-wiki');
 const WIKI_DIRS = [
   path.join(WIKI_ROOT, 'wiki', 'concepts'),
   path.join(WIKI_ROOT, 'wiki', 'people'),
+  path.join(WIKI_ROOT, 'wiki', 'articles'),
 ];
 const WIKI_BOOKS = path.join(WIKI_ROOT, 'wiki', 'books');
 const WIKI_ESSAYS = path.join(WIKI_ROOT, 'wiki', 'essays');
@@ -112,8 +113,7 @@ function mergeMaps(...maps) {
 const resolver = mergeMaps(
   indexCollection(WIKI_BOOKS, 'books'),
   indexCollection(WIKI_ESSAYS, 'essays'),
-  indexCollection(WIKI_DIRS[0], 'notes'),
-  indexCollection(WIKI_DIRS[1], 'notes'),
+  ...WIKI_DIRS.map((dir) => indexCollection(dir, 'notes')),
 );
 
 // slug → kind, with book > essay > notes priority (resolver insertion order),
