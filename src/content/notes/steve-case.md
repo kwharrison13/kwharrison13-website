@@ -22,11 +22,11 @@ related:
 
 # Steve Case
 
-**One-line:** *Billionaire co-founder of AOL; CEO/chairman of Revolution and creator of the Rise of the Rest seed fund focused on startups outside Silicon Valley, NYC, and Boston.*
+**One-line:** *Billionaire co-founder of AOL; CEO/chairman of Revolution and creator of the [Rise of the Rest](/notes/rise-of-the-rest) seed fund focused on startups outside Silicon Valley, NYC, and Boston.*
 
 ## What we know
 
-- Built Rise of the Rest from four years of touring 33 cities over six tours; teamed with J.D. Vance ("Hillbilly Elegy") on a $150M seed fund backed by Jeff Bezos, Howard Schultz, Henry Kravis, and others.
+- Built [Rise of the Rest](/notes/rise-of-the-rest) from four years of touring 33 cities over six tours; teamed with J.D. Vance ("Hillbilly Elegy") on a $150M seed fund backed by Jeff Bezos, Howard Schultz, Henry Kravis, and others.
 - The fund is a catalyst investor — won't lead rounds or take board seats — aiming for its $150M to leverage into over $1B as it draws follow-on capital; thesis is lower valuations and great founders outside the three states that capture ~75% of VC.
 - Sees a "third wave" of the internet (healthcare, farming, education) where domain expertise and proximity to partners favor regional hubs (Baltimore, Cleveland, St. Louis, Lincoln, Louisville); views blockchain as foundational but counsels caution on the Bitcoin/ICO mania, echoing the Dot Com bubble.
 

@@ -29,7 +29,7 @@ related:
 
 # The Eleven Talks of Poor Charlie's Almanack
 
-These are Kyle's long-form notes that sit alongside his book notes on [Poor Charlie's Almanack](https://www.kwharrison13.com/books/poor-charlie-s-almanack) ([Poor Charlie's Almanack](/books/poor-charlie-s-almanack)).
+These are Kyle's long-form notes that sit alongside his book notes on [Poor Charlie's Almanack](/books/poor-charlie-s-almanack).
 
 **Chapter Four of Poor Charlie's Almanack is itself a collection of eleven talks** — speeches and addresses [Charlie Munger](/notes/charlie-munger) delivered between 1986 and 2000, gathered and annotated by Peter Kaufman. Rather than fold them into the single book page, each talk gets its own long-form note here so the highlights and annotations can stand on their own and cross-link freely.
 
