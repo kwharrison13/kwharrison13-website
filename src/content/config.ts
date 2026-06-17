@@ -40,6 +40,7 @@ const notes = defineCollection({
     title: z.string(),
     type: z.enum(['concept', 'person', 'meeting', 'article', 'essay-research']).optional(),
     publish: z.boolean().default(false),
+    excerpt: z.string().optional(),
     confidence: z.enum(['low', 'medium', 'high']).optional(),
     created: z.string().optional(),
     updated: z.string().optional(),
