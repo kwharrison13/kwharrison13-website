@@ -1,0 +1,146 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { getBacklinks } from '../../lib/backlinks';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('learning');
+  return pages.map((page) => ({
+    params: { slug: page.slug },
+    props: { page },
+  }));
+}
+
+const { page } = Astro.props;
+const { Content } = await page.render();
+const backlinks = await getBacklinks(`/learning/${page.slug}`);
+---
+
+<BaseLayout
+  title={page.data.title}
+  currentPage="learning"
+  description={page.data.description || `Learning resource: ${page.data.title}`}
+  ogType="article"
+>
+  <div style="margin-bottom: 8px;">
+    <span class="kind-tag">{page.data.format || page.data.type || 'learning'}</span>
+  </div>
+
+  <h1 class="page-title">{page.data.title}</h1>
+
+  {page.data.description && (
+    <p class="page-description">{page.data.description}</p>
+  )}
+
+  <div class="prose learning-content">
+    <Content />
+  </div>
+
+  {backlinks.length > 0 && (
+    <div class="backlinks">
+      <p class="backlinks-title">Referenced in</p>
+      <ul class="backlinks-list">
+        {backlinks.map((bl) => (
+          <li>
+            <a href={bl.url}>{bl.title}</a>
+            <span class="backlinks-kind">{bl.kind}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
+</BaseLayout>
+
+<style>
+  .page-description {
+    font-size: 16px;
+    color: var(--text-secondary);
+    margin: 0 0 32px;
+    max-width: 640px;
+    line-height: 1.6;
+  }
+
+  .learning-content {
+    max-width: 720px;
+  }
+
+  .kind-tag {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-tertiary);
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 2px 8px;
+  }
+
+  .backlinks {
+    margin-top: 48px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+    max-width: 640px;
+  }
+  .backlinks-title {
+    font-family: var(--font-display);
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--text);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin: 0 0 14px;
+  }
+  .backlinks-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: 6px;
+  }
+  .backlinks-list li {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    font-size: 14.5px;
+  }
+  .backlinks-list a {
+    color: var(--accent);
+    text-decoration: underline;
+    text-decoration-color: color-mix(in srgb, var(--accent) 30%, transparent);
+    text-underline-offset: 2px;
+  }
+  .backlinks-list a:hover { text-decoration-color: var(--accent); }
+  .backlinks-kind {
+    font-size: 11px;
+    color: var(--text-tertiary);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  .prose :global(h2) {
+    font-family: var(--font-display);
+    font-size: 20px;
+    font-weight: 700;
+    margin: 40px 0 12px;
+    color: var(--text);
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 6px;
+  }
+  .prose :global(h3) {
+    font-size: 15px;
+    font-weight: 600;
+    margin: 24px 0 8px;
+    color: var(--text);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .prose :global(ul) { padding-left: 20px; margin: 8px 0; }
+  .prose :global(li) { margin: 4px 0; font-size: 15px; line-height: 1.6; }
+  .prose :global(p) { margin: 12px 0; font-size: 15px; line-height: 1.7; }
+  .prose :global(a) { color: var(--accent); }
+  .prose :global(strong) { font-weight: 600; color: var(--text); }
+  .prose :global(em) { color: var(--text-secondary); }
+  .prose :global(hr) { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
+</style>
