@@ -30,6 +30,7 @@ const WIKI_DIRS = [
   path.join(WIKI_ROOT, 'wiki', 'concepts'),
   path.join(WIKI_ROOT, 'wiki', 'people'),
   path.join(WIKI_ROOT, 'wiki', 'long-forms'),
+  path.join(WIKI_ROOT, 'wiki', 'books-to-read'),
 ];
 const WIKI_BOOKS = path.join(WIKI_ROOT, 'wiki', 'books');
 const WIKI_ESSAYS = path.join(WIKI_ROOT, 'wiki', 'essays');
