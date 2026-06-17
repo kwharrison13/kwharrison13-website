@@ -1,12 +1,14 @@
 ---
-title: "Crime & Punishment"
-author: "Fyodor Dostoevsky"
-cover: "/images/books/crime-and-punishment.jpeg"
-year_read: 2025
+title: "Leap of Faith"
+author: "Bob Bennett"
+year_read:
+  - 2018
+  - 2024
 rating: 5
 quake: true
 tags:
   - "religious-intellectualism"
+  - "ideological-family-tree"
 last_imported: "2026-06-17"
 key_takeaways_status: "written"
 ---
@@ -14,7 +16,7 @@ key_takeaways_status: "written"
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Auto-synthesis pending — to be derived from Kyle's `**Note:**` blocks in the source via a follow-up `/ingest` pass on this slug._
+_No highlights captured in `raw/books/` for this book. Metadata is from `raw/books.json`. Add a Readwise export to `raw/books/leap-of-faith.md` and re-ingest, or write takeaways manually._
 <!-- /key-takeaways -->
 
 ## Connections
@@ -25,4 +27,4 @@ _No cross-book interconnections identified yet._
 
 ## Highlights
 
-_Highlights from this book will appear here once imported from Readwise._
+_No source highlights captured._
