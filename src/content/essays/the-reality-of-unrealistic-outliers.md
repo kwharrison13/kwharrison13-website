@@ -11,7 +11,7 @@ substack_url: "https://investing101.substack.com/p/the-reality-of-unrealistic-ou
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/roam-investing">Networked Conviction</a>, <a href="/essays/contrary-research">Contrary Research</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/networked-conviction-roam-investing">Networked Conviction: Roam + Investing</a>, <a href="/essays/contrary-research">Contrary Research</a></span></div>
 </aside>
 <!-- connections-end -->
 

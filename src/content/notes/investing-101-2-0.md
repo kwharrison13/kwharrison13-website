@@ -48,7 +48,7 @@ related:
 
 - [Networked Conviction — Roam + Investing](/essays/networked-conviction-roam-investing) — the foundational essay: process, tools, and the case for publishing investment thinking.
 - [The Art and Science of Investing](/essays/the-art-and-science-of-investing) — the philosophy and naming behind the brand.
-- [Networked Conviction](/essays/roam-investing) — the Substack and sandbox alongside portfolio-ideas.
+- [Networked Conviction](/essays/networked-conviction-roam-investing) — the Substack and sandbox alongside portfolio-ideas.
 - [The Power Law — Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC's power law as a 2.0 case study / counterpoint.
 - [The Everything Store](/books/the-everything-store) — Amazon as a venture-strategy case study.
 - [VC](/books/vc) — examining the removal of information asymmetry in venture.
@@ -59,6 +59,6 @@ related:
 ## Related concepts
 
 - [Open Source Knowledge](/notes/open-source-knowledge) — the broader practice this publication instantiates.
-- [Networked Conviction](/essays/roam-investing), [Roam Research](/notes/roam-research) — the method and the tool behind it.
+- [Networked Conviction](/essays/networked-conviction-roam-investing), [Roam Research](/notes/roam-research) — the method and the tool behind it.
 - [Portfolio Ideas](/notes/portfolio-ideas) — the output: companies surfaced by the process.
 - [Republic of Letters](/notes/republic-of-letters) — the thinking-in-public lineage.

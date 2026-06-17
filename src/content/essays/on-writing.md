@@ -12,7 +12,7 @@ substack_url: "https://investing101.substack.com/p/on-writing"
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
   <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/crime-and-punishment">Crime & Punishment</a></span></div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-existential-dread-of-cognitive">The Existential Dread of Cognitive Dissonance</a>, <a href="/essays/roam-investing">Networked Conviction</a>, <a href="/essays/institutionalized-belief-in-the-greater">Institutionalized Belief In The Greater Fool</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-existential-dread-of-cognitive">The Existential Dread of Cognitive Dissonance</a>, <a href="/essays/networked-conviction-roam-investing">Networked Conviction: Roam + Investing</a>, <a href="/essays/institutionalized-belief-in-the-greater">Institutionalized Belief In The Greater Fool</a></span></div>
 </aside>
 <!-- connections-end -->
 

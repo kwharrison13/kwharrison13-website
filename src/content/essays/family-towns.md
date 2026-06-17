@@ -11,7 +11,7 @@ substack_url: "https://investing101.substack.com/p/family-towns"
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/learning-to-dream">Learning To Dream</a>, <a href="/essays/in-defense-of-disney">In Defense of Disney</a>, <a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/the-rise-of-the-cash-man">The Rise of The Cash Man</a>, <a href="/essays/roam-investing">Networked Conviction</a>, <a href="/essays/touch-some-grass">Touch Some Grass</a>, <a href="/essays/back-to-the-grass">Back To The Grass</a>, <a href="/essays/taking-a-breath">Taking a Breath</a>, <a href="/essays/pondering-the-grass">Pondering The Grass</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/learning-to-dream">Learning To Dream</a>, <a href="/essays/in-defense-of-disney">In Defense of Disney</a>, <a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/the-rise-of-the-cash-man">The Rise of The Cash Man</a>, <a href="/essays/networked-conviction-roam-investing">Networked Conviction: Roam + Investing</a>, <a href="/essays/touch-some-grass">Touch Some Grass</a>, <a href="/essays/back-to-the-grass">Back To The Grass</a>, <a href="/essays/taking-a-breath">Taking a Breath</a>, <a href="/essays/pondering-the-grass">Pondering The Grass</a></span></div>
 </aside>
 <!-- connections-end -->
 

@@ -24,6 +24,12 @@ function remarkStripRwid() {
 export default defineConfig({
   site: 'https://kwharrison13.com',
   integrations: [sitemap()],
+  // Collapsed the duplicate "Networked Conviction" essay (was published at both
+  // /essays/roam-investing and /essays/networked-conviction-roam-investing).
+  // The full-title slug is canonical; preserve the old URL so inbound links survive.
+  redirects: {
+    '/essays/roam-investing': '/essays/networked-conviction-roam-investing',
+  },
   markdown: {
     remarkPlugins: [remarkStripRwid],
   },

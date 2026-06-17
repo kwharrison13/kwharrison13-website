@@ -11,7 +11,7 @@ substack_url: "https://investing101.substack.com/p/from-digital-sandbox-to-digit
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/roam-investing">Networked Conviction</a>, <a href="/essays/on-writing">On Writing</a>, <a href="/essays/the-inescapable-debate-of-human-nature">The Inescapable Debate of Human Nature</a>, <a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/open-source-knowledge">Open-Source Knowledge</a>, <a href="/essays/learning-to-dream">Learning To Dream</a>, <a href="/essays/back-to-the-grass">Back To The Grass</a>, <a href="/essays/the-rising-generation">The Rising Generation</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/networked-conviction-roam-investing">Networked Conviction: Roam + Investing</a>, <a href="/essays/on-writing">On Writing</a>, <a href="/essays/the-inescapable-debate-of-human-nature">The Inescapable Debate of Human Nature</a>, <a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/open-source-knowledge">Open-Source Knowledge</a>, <a href="/essays/learning-to-dream">Learning To Dream</a>, <a href="/essays/back-to-the-grass">Back To The Grass</a>, <a href="/essays/the-rising-generation">The Rising Generation</a></span></div>
 </aside>
 <!-- connections-end -->
 

@@ -12,7 +12,7 @@ substack_url: "https://investing101.substack.com/p/the-holding-companies-of-our-
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
   <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-man-who-broke-capitalism">The Man Who Broke Capitalism</a></span></div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/roam-investing">Networked Conviction</a>, <a href="/essays/of-things-that-matter-most">Of Things That Matter Most</a>, <a href="/essays/teamshares-hold-cos-and-corporate">Teamshares, Hold Co's, & Corporate Cities</a>, <a href="/essays/the-value-chain-of-capital">The Value Chain of Capital</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/networked-conviction-roam-investing">Networked Conviction: Roam + Investing</a>, <a href="/essays/of-things-that-matter-most">Of Things That Matter Most</a>, <a href="/essays/teamshares-hold-cos-and-corporate">Teamshares, Hold Co's, & Corporate Cities</a>, <a href="/essays/the-value-chain-of-capital">The Value Chain of Capital</a></span></div>
 </aside>
 <!-- connections-end -->
 
