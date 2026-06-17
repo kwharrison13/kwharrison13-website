@@ -1,5 +1,5 @@
 ---
-title: "Richard Feynman"
+title: "Beff Jezos"
 type: "person"
 publish: false
 confidence: "low"
@@ -10,16 +10,19 @@ sources:
   - "wiki/essays-research/It's Time To Build... But Build What - Research.md"
 tags:
   - "technological-innovation"
+  - "ideological-family-tree"
 aliases:
-  - "Richard Feynman"
-  - "Feynman"
+  - "Beff Jezos"
+  - "Beff"
+  - "Guillaume Verdon"
+  - "BasedBeffJezos"
 related:
-  - "[[The Death of Knowledge Communities]]"
+  - "[[Effective Accelerationism]]"
 ---
 
-# Richard Feynman
+# Beff Jezos
 
-**One-line:** *Physicist quoted in the Techno-Optimist Manifesto: "Science is the belief in the ignorance of experts."*
+**One-line:** *Pseudonym of Guillaume Verdon, co-originator of [Effective Accelerationism](/notes/effective-accelerationism) (e/acc). Drew on Jeremy England's dissipative-driven adaptation to frame the market as physics rewarding rapid growth.*
 
 _Stub page — created from It's Time To Build... But Build What - Research. Expand on a future pass._
 

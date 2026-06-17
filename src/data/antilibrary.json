@@ -1,0 +1,54 @@
+[
+  {
+    "title": "The Power Broker",
+    "full_title": "The Power Broker: Robert Moses and the Fall of New York",
+    "author": "Robert A. Caro",
+    "published": "1974",
+    "pages": 1296,
+    "amazon_url": "https://www.amazon.com/s?k=The+Power+Broker+Robert+Moses+and+the+Fall+of+New+York+Robert+A.+Caro",
+    "where_seen": [
+      "Perennial recommendation in city-building / power circles; flagged as the canonical study of how unelected power actually gets built and wielded."
+    ],
+    "connections": [
+      {
+        "title": "City Building",
+        "url": "/notes/city-building"
+      },
+      {
+        "title": "The New City",
+        "url": "/notes/the-new-city"
+      },
+      {
+        "title": "Walt Disney and the Promise of Progress City",
+        "url": "/books/walt-disney-and-the-promise-of-progress-city"
+      }
+    ],
+    "tags": [
+      "city-building",
+      "language-of-discourse"
+    ],
+    "slug": "the-power-broker"
+  },
+  {
+    "title": "Where Is My Flying Car?",
+    "full_title": "Where Is My Flying Car? A Memoir of Future Past",
+    "author": "J. Storrs Hall",
+    "published": "2021",
+    "pages": 480,
+    "amazon_url": "https://www.amazon.com/s?k=Where+Is+My+Flying+Car+A+Memoir+of+Future+Past+J.+Storrs+Hall",
+    "where_seen": [
+      "Stripe Press; widely cited in the progress-studies / technological-stagnation discourse Kyle follows."
+    ],
+    "connections": [
+      {
+        "title": "Historical Futurists",
+        "url": "/notes/historical-futurists"
+      }
+    ],
+    "tags": [
+      "historical-futurism",
+      "technological-innovation"
+    ],
+    "slug": "where-is-my-flying-car"
+  }
+]

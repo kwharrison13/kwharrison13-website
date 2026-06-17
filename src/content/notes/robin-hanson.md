@@ -1,5 +1,5 @@
 ---
-title: "F. Scott Fitzgerald"
+title: "Robin Hanson"
 type: "person"
 publish: false
 confidence: "low"
@@ -9,17 +9,18 @@ last_updated_by: "agent"
 sources:
   - "wiki/essays-research/It's Time To Build... But Build What - Research.md"
 tags:
-  - "language-of-discourse"
+  - "technological-innovation"
+  - "ideological-family-tree"
 aliases:
-  - "F. Scott Fitzgerald"
-  - "Fitzgerald"
-  - "Scott Fitzgerald"
-related: []
+  - "Robin Hanson"
+  - "Hanson"
+related:
+  - "[[Techno-Optimism]]"
 ---
 
-# F. Scott Fitzgerald
+# Robin Hanson
 
-**One-line:** *American novelist. His line on first-rate intelligence — holding two opposed ideas in mind at once — is Kyle's closing frame for embracing nuance.*
+**One-line:** *Economist (Overcoming Bias); his "Which Political Axis?" piece responds to the techno-optimism debate.*
 
 _Stub page — created from It's Time To Build... But Build What - Research. Expand on a future pass._
 

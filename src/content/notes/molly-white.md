@@ -1,5 +1,5 @@
 ---
-title: "F. Scott Fitzgerald"
+title: "Molly White"
 type: "person"
 publish: false
 confidence: "low"
@@ -10,16 +10,18 @@ sources:
   - "wiki/essays-research/It's Time To Build... But Build What - Research.md"
 tags:
   - "language-of-discourse"
+  - "people-over-politics"
 aliases:
-  - "F. Scott Fitzgerald"
-  - "Fitzgerald"
-  - "Scott Fitzgerald"
-related: []
+  - "Molly White"
+  - "Molly White"
+related:
+  - "[[Effective Accelerationism]]"
+  - "[[Effective Altruism]]"
 ---
 
-# F. Scott Fitzgerald
+# Molly White
 
-**One-line:** *American novelist. His line on first-rate intelligence — holding two opposed ideas in mind at once — is Kyle's closing frame for embracing nuance.*
+**One-line:** *Writer behind Citation Needed; her "effective obfuscation" critique argues both EA and e/acc can be used to justify nearly any course of action an adherent wants to take.*
 
 _Stub page — created from It's Time To Build... But Build What - Research. Expand on a future pass._
 

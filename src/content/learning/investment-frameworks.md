@@ -189,7 +189,7 @@ A curated library of investment frameworks, checklists, and mental models from l
 - Excellent management
 - Good governance
 
-## Bill Gurley: Effectiveness of an Online Marketplace
+## [Bill Gurley](/notes/bill-gurley): Effectiveness of an Online Marketplace
 
 *[Source](http://abovethecrowd.com/2012/11/13/our-most-recent-marketplace-investment-dogvacay-from-los-angeles/)*
 
@@ -679,7 +679,7 @@ A curated library of investment frameworks, checklists, and mental models from l
 - Does the management talk freely to investors about its affairs when things are going well but "clam up" when troubles occur?
 - Does the company have a management of unquestionable integrity?
 
-## Marc Andreessen (pmarca)'s "Layers of Risk for a High-Tech Startup"
+## [Marc Andreessen](/notes/marc-andreessen) (pmarca)'s "Layers of Risk for a High-Tech Startup"
 
 *[Source](https://pmarchive.com/)*
 

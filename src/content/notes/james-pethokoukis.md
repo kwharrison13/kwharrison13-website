@@ -1,5 +1,5 @@
 ---
-title: "F. Scott Fitzgerald"
+title: "James Pethokoukis"
 type: "person"
 publish: false
 confidence: "low"
@@ -9,17 +9,18 @@ last_updated_by: "agent"
 sources:
   - "wiki/essays-research/It's Time To Build... But Build What - Research.md"
 tags:
-  - "language-of-discourse"
+  - "technological-innovation"
+  - "historical-futurism"
 aliases:
-  - "F. Scott Fitzgerald"
-  - "Fitzgerald"
-  - "Scott Fitzgerald"
-related: []
+  - "James Pethokoukis"
+  - "Pethokoukis"
+related:
+  - "[[Techno-Optimism]]"
 ---
 
-# F. Scott Fitzgerald
+# James Pethokoukis
 
-**One-line:** *American novelist. His line on first-rate intelligence — holding two opposed ideas in mind at once — is Kyle's closing frame for embracing nuance.*
+**One-line:** *Author of "The Conservative Futurist"; part of the techno-optimism conversation Kyle surveys.*
 
 _Stub page — created from It's Time To Build... But Build What - Research. Expand on a future pass._
 

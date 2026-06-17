@@ -1,5 +1,5 @@
 ---
-title: "F. Scott Fitzgerald"
+title: "Joshua Gans"
 type: "person"
 publish: false
 confidence: "low"
@@ -9,17 +9,17 @@ last_updated_by: "agent"
 sources:
   - "wiki/essays-research/It's Time To Build... But Build What - Research.md"
 tags:
-  - "language-of-discourse"
+  - "technological-innovation"
 aliases:
-  - "F. Scott Fitzgerald"
-  - "Fitzgerald"
-  - "Scott Fitzgerald"
-related: []
+  - "Joshua Gans"
+  - "Gans"
+related:
+  - "[[Techno-Optimism]]"
 ---
 
-# F. Scott Fitzgerald
+# Joshua Gans
 
-**One-line:** *American novelist. His line on first-rate intelligence — holding two opposed ideas in mind at once — is Kyle's closing frame for embracing nuance.*
+**One-line:** *Economist; wrote a response to Marc Andreessen's techno-optimism.*
 
 _Stub page — created from It's Time To Build... But Build What - Research. Expand on a future pass._
 

@@ -52,3 +52,7 @@ None within source set. The interesting open question: does the vortex *cause* t
 
 - [Founders Mentality](/notes/founders-mentality) — the operating culture inside a sustained talent vortex
 - [Storytelling as Leadership](/notes/storytelling-as-leadership) — the recruiting mechanism that pulls people into the vortex
+- [Tech Mafias](/notes/tech-mafias) — the *output* of a talent vortex; the [PayPal Mafia](/notes/paypal-mafia) is the canonical case
+- [Barrels and Ammunition](/notes/barrels-and-ammunition) and [Scope Expansion](/notes/scope-expansion) — [Keith Rabois](/notes/keith-rabois)'s frameworks for finding and growing the people who sustain a vortex
+- [The Professionalization of Startups](/essays/the-professionalization-of-startups) — how the young-hungry / seasoned-exec mix matures
+- See the published essay [The Talent Vortex — Mafias and Magnets](/essays/talent-vortex) and its research companion The Talent Vortex - Research (operator survey across [Stripe](/notes/stripe), [Dropbox](/notes/dropbox), [Plaid](/notes/plaid)).

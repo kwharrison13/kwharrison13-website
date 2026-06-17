@@ -1,5 +1,5 @@
 ---
-title: "F. Scott Fitzgerald"
+title: "Josh Wolfe"
 type: "person"
 publish: false
 confidence: "low"
@@ -9,17 +9,19 @@ last_updated_by: "agent"
 sources:
   - "wiki/essays-research/It's Time To Build... But Build What - Research.md"
 tags:
-  - "language-of-discourse"
+  - "capital-allocation"
+  - "technological-innovation"
 aliases:
-  - "F. Scott Fitzgerald"
-  - "Fitzgerald"
-  - "Scott Fitzgerald"
-related: []
+  - "Josh Wolfe"
+  - "Wolfe"
+  - "Joshua Wolfe"
+related:
+  - "[[Techno-Optimism]]"
 ---
 
-# F. Scott Fitzgerald
+# Josh Wolfe
 
-**One-line:** *American novelist. His line on first-rate intelligence — holding two opposed ideas in mind at once — is Kyle's closing frame for embracing nuance.*
+**One-line:** *Co-founder of Lux Capital; his threads on "science fact vs. science fiction" feature in the techno-optimism conversation.*
 
 _Stub page — created from It's Time To Build... But Build What - Research. Expand on a future pass._
 

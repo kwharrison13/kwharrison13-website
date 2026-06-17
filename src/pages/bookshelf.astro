@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import SearchBar from '../components/SearchBar.astro';
 import booksData from '../data/books.json';
+import antilibrary from '../data/antilibrary.json';
 import { bookSlug } from '../lib/bookSlug';
 
 const quakeBooks = booksData.quake_books;
@@ -43,6 +44,7 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
     <button class="bookshelf-tab active" data-view="quake">Quake Books</button>
     <button class="bookshelf-tab" data-view="library">Full Library</button>
     <button class="bookshelf-tab" data-view="topics">By Topic</button>
+    <button class="bookshelf-tab" data-view="antilibrary">Anti-Library</button>
   </div>
 
   <div class="bookshelf-view" id="view-quake">
@@ -162,6 +164,52 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
     </div>
   </div>
 
+  <div class="bookshelf-view" id="view-antilibrary" style="display: none;">
+    <blockquote class="antilib-quote">
+      <p>A private library is not an ego-boosting appendage but a research tool. Read books are far less valuable than unread ones. The library should contain as much of what you do not know as your financial means, mortgage rates, and the currently tight real-estate market allow you to put there. You will accumulate more knowledge and more books as you grow older, and the growing number of unread books on the shelves will look at you menacingly. Indeed, the more you know, the larger the rows of unread books. Let us call this collection of unread books an antilibrary.</p>
+      <footer>— Umberto Eco (<a href="/books/the-black-swan">Black Swan</a>)</footer>
+    </blockquote>
+
+    <div class="antilib-toolbar">
+      <input type="text" id="antilib-search" class="antilib-search" placeholder="Search the anti-library by title or author…" autocomplete="off" />
+      <span class="antilib-count">{antilibrary.length} unread</span>
+    </div>
+
+    {antilibrary.length === 0 ? (
+      <p class="view-intro">Nothing here yet. Tag an inbox source <code>#books-to-read</code> and run <code>/ingest</code> to populate the anti-library.</p>
+    ) : (
+      <div class="antilib-table" role="table">
+        <div class="antilib-row antilib-head" role="row">
+          <span role="columnheader">Title</span>
+          <span role="columnheader">Author</span>
+          <span role="columnheader">Published</span>
+          <span role="columnheader">Pages</span>
+          <span role="columnheader">Connections</span>
+          <span role="columnheader">Where I saw it</span>
+          <span role="columnheader">Buy</span>
+        </div>
+        {antilibrary.map((b: any) => (
+          <div class="antilib-row" role="row" data-search={`${b.title} ${b.full_title} ${b.author}`.toLowerCase()}>
+            <span class="al-title" role="cell"><a href={`/notes/${b.slug}`}>{b.full_title || b.title}</a></span>
+            <span class="al-author" role="cell" data-label="Author">{b.author || '—'}</span>
+            <span class="al-pub" role="cell" data-label="Published">{b.published || '—'}</span>
+            <span class="al-pages" role="cell" data-label="Pages">{b.pages ?? '—'}</span>
+            <span class="al-conn" role="cell" data-label="Connections">
+              {b.connections.length === 0 ? <span class="al-muted">—</span> : b.connections.map((c: any) => (
+                <a class="al-chip" href={c.url}>{c.title}</a>
+              ))}
+            </span>
+            <span class="al-seen" role="cell" data-label="Where I saw it">{b.where_seen.length ? b.where_seen.join(' · ') : <span class="al-muted">—</span>}</span>
+            <span class="al-buy" role="cell" data-label="Buy">
+              {b.amazon_url ? <a href={b.amazon_url} target="_blank" rel="noopener noreferrer">Amazon ↗</a> : <span class="al-muted">—</span>}
+            </span>
+          </div>
+        ))}
+        <div class="antilib-empty" id="antilib-empty" style="display: none;">No unread books match that search.</div>
+      </div>
+    )}
+  </div>
+
   <script is:inline>
     document.querySelectorAll('.bookshelf-tab').forEach(tab => {
       tab.addEventListener('click', () => {
@@ -194,6 +242,21 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
         });
       });
     });
+    const antilibSearch = document.getElementById('antilib-search');
+    if (antilibSearch) {
+      antilibSearch.addEventListener('input', () => {
+        const q = antilibSearch.value.trim().toLowerCase();
+        let visible = 0;
+        document.querySelectorAll('.antilib-row:not(.antilib-head)').forEach(row => {
+          const hay = row.dataset.search || '';
+          const show = q === '' || hay.includes(q);
+          row.style.display = show ? '' : 'none';
+          if (show) visible++;
+        });
+        const empty = document.getElementById('antilib-empty');
+        if (empty) empty.style.display = visible === 0 ? '' : 'none';
+      });
+    }
   </script>
 </BaseLayout>
 
@@ -264,4 +327,41 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
   .topic-book-author { font-size: 10px; color: var(--text-tertiary); margin-top: 2px; }
 
   @media (max-width: 640px) { .library-tags { display: none; } .year-stats { gap: 12px; } }
+
+  /* ── Anti-Library ── */
+  .antilib-quote { margin: 0 0 28px; padding: 18px 22px; background: var(--bg-card); border: 1px solid var(--border); border-left: 3px solid var(--accent); border-radius: 8px; max-width: 760px; }
+  .antilib-quote p { font-family: var(--font-display); font-size: 15px; line-height: 1.75; color: var(--text-secondary); font-style: italic; margin: 0; }
+  .antilib-quote footer { margin-top: 12px; font-size: 13px; color: var(--text-tertiary); font-style: normal; }
+  .antilib-quote footer a { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
+
+  .antilib-toolbar { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
+  .antilib-search { flex: 1; max-width: 420px; background: var(--bg-card); border: 1px solid var(--border); color: var(--text); font-family: var(--font-body); font-size: 13px; padding: 9px 14px; border-radius: 8px; }
+  .antilib-search:focus { outline: none; border-color: var(--accent); }
+  .antilib-search::placeholder { color: var(--text-tertiary); }
+  .antilib-count { font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-tertiary); white-space: nowrap; }
+
+  .antilib-table { display: flex; flex-direction: column; border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
+  .antilib-row { display: grid; grid-template-columns: minmax(180px, 2.2fr) 1.1fr 78px 60px 1.5fr 1.6fr 78px; gap: 14px; align-items: start; padding: 12px 16px; border-bottom: 1px solid var(--border); }
+  .antilib-row:last-child { border-bottom: none; }
+  .antilib-row:not(.antilib-head):hover { background: var(--bg-card); }
+  .antilib-head { background: var(--bg-card); font-size: 10px; text-transform: uppercase; letter-spacing: 0.07em; font-weight: 700; color: var(--text-tertiary); position: sticky; top: 0; }
+  .al-title a { font-family: var(--font-display); font-size: 14px; font-weight: 500; color: var(--text); text-decoration: none; line-height: 1.35; }
+  .al-title a:hover { color: var(--accent); }
+  .al-author, .al-pub, .al-pages, .al-seen { font-size: 12.5px; color: var(--text-secondary); }
+  .al-pages { font-variant-numeric: tabular-nums; }
+  .al-seen { font-size: 11.5px; color: var(--text-tertiary); line-height: 1.5; }
+  .al-conn { display: flex; flex-wrap: wrap; gap: 5px; }
+  .al-chip { font-size: 10.5px; color: var(--text-secondary); background: var(--tag-bg); border: 1px solid var(--border); padding: 2px 7px; border-radius: 4px; text-decoration: none; white-space: nowrap; }
+  .al-chip:hover { border-color: var(--accent); color: var(--accent); }
+  .al-buy a { font-size: 11.5px; color: var(--accent); text-decoration: none; white-space: nowrap; }
+  .al-buy a:hover { text-decoration: underline; }
+  .al-muted { color: var(--text-tertiary); }
+  .antilib-empty { padding: 24px 16px; text-align: center; font-size: 13px; color: var(--text-tertiary); }
+
+  @media (max-width: 760px) {
+    .antilib-head { display: none; }
+    .antilib-row { grid-template-columns: 1fr; gap: 6px; padding: 14px 16px; }
+    .antilib-row:not(.antilib-head) span[data-label]::before { content: attr(data-label) ": "; font-size: 10px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-tertiary); font-weight: 600; }
+    .antilib-row:not(.antilib-head):hover { background: transparent; }
+  }
 </style>

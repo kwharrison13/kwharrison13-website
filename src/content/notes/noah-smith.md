@@ -1,5 +1,5 @@
 ---
-title: "F. Scott Fitzgerald"
+title: "Noah Smith"
 type: "person"
 publish: false
 confidence: "low"
@@ -9,17 +9,20 @@ last_updated_by: "agent"
 sources:
   - "wiki/essays-research/It's Time To Build... But Build What - Research.md"
 tags:
+  - "technological-innovation"
   - "language-of-discourse"
 aliases:
-  - "F. Scott Fitzgerald"
-  - "Fitzgerald"
-  - "Scott Fitzgerald"
-related: []
+  - "Noah Smith"
+  - "Noah"
+  - "Noahpinion"
+related:
+  - "[[Techno-Optimism]]"
+  - "[[The Axis of Building]]"
 ---
 
-# F. Scott Fitzgerald
+# Noah Smith
 
-**One-line:** *American novelist. His line on first-rate intelligence — holding two opposed ideas in mind at once — is Kyle's closing frame for embracing nuance.*
+**One-line:** *Economist and writer (Noahpinion). His "Thoughts on techno-optimism" and "build-nothing country" framing anchor Kyle's case for normative, whole-of-society techno-optimism.*
 
 _Stub page — created from It's Time To Build... But Build What - Research. Expand on a future pass._
 
