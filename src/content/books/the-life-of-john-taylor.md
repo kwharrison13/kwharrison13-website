@@ -31,7 +31,7 @@ A standalone observation: "I was not born a slave! I cannot, will not be a slave
 - [Brigham Young — Pioneer Prophet](/books/brigham-young-pioneer-prophet) — direct contemporary.
 - [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — the historiographical context for evaluating books like this one.
 - [The Crucible of Doubt](/books/the-crucible-of-doubt) — apologetics-vs-truth question.
-- [[Working Toward
+- [Working Toward Zion](/books/working-toward-zion) — same theological-economic tradition.
 <!-- /interconnections -->
 
 ## Highlights

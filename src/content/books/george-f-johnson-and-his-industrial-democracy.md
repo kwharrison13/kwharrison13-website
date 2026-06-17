@@ -25,7 +25,10 @@ William Inglis's history of Endicott-Johnson's experiment in "industrial democra
 ## Connections
 
 <!-- interconnections -->
-- [[Working Toward
+- [Working Toward Zion](/books/working-toward-zion) — same human-capital-as-undervalued frame.
+- [Skunk Works](/books/skunk-works) — founder-mentality at industrial scale.
+- [The Idea Factory](/books/the-idea-factory) — Bell Labs as the analogous case for knowledge work.
+- [Flying Blind](/books/flying-blind) — Boeing's loyalty-collapse as the negative case.
 <!-- /interconnections -->
 
 ## Highlights

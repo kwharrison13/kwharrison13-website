@@ -63,7 +63,7 @@ What really broke down in Google’s original vision is the incentive system the
 
 One functional problem with organizing the world’s information is the ingestion point. Google search can only access what people have put on a website and made public. They get closer when they ingest email and Google Docs. But a key difference is the user’s process of creation: we create raw text in all these Google apps but they don’t have very much context.
 
-Roam has created an interface that users resonate with. It becomes their default “thinking” interface. That leads to more meaningful usage that is creating [[relationships]] right in the process of thinking.
+Roam has created an interface that users resonate with. It becomes their default “thinking” interface. That leads to more meaningful usage that is creating `[[relationships]]` right in the process of thinking.
 
 If Roam continues to succeed at empowering the individual user, becoming the platform for shared public thoughts, and organizing all of that information into a shared index of knowledge, then you start to see Roam transition from a tool to a utility, sort of like the internet.
 
@@ -91,7 +91,7 @@ Now imagine a living breathing Roam graph for the most important collections in 
 
 
 
-Imagine you’re a cancer researcher in Chicago. You’re poring over a query showing every time [[carboplatin]] has come up in relation to [[oxaliplatin]] without references to [[melatonin]]. You see one small unlinked reference in the notes of a marine biologist in Oslo who has been studying cancer cells in whales. She uses a term you’ve never heard of before. She also references the work of a nuclear physicist in Moscow who has spent 30 years writing about cellular decay and he is the world’s leading expert on a chemical you were totally unaware of. **You don’t know it yet but you just cured cancer.**
+Imagine you’re a cancer researcher in Chicago. You’re poring over a query showing every time `[[carboplatin]]` has come up in relation to `[[oxaliplatin]]` without references to `[[melatonin]]`. You see one small unlinked reference in the notes of a marine biologist in Oslo who has been studying cancer cells in whales. She uses a term you’ve never heard of before. She also references the work of a nuclear physicist in Moscow who has spent 30 years writing about cellular decay and he is the world’s leading expert on a chemical you were totally unaware of. **You don’t know it yet but you just cured cancer.**
 
 # **Building the Global Knowledge Graph**
 

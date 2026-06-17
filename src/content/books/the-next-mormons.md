@@ -21,7 +21,7 @@ One note: Jamie's openness-led-to-doubts arc reframed — "who taught her she ne
 <!-- interconnections -->
 - [The Life of John Taylor](/books/the-life-of-john-taylor) — direct quote reference.
 - [The Crucible of Doubt](/books/the-crucible-of-doubt) — same doubt-and-doctrine question.
-- [[American
+- [American Zion](/books/american-zion) — institutional context.
 <!-- /interconnections -->
 
 ## Highlights

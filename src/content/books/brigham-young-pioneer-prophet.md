@@ -30,7 +30,10 @@ A standalone thread: the influence of Brigham's sermons that "still influence us
 
 <!-- interconnections -->
 - [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — direct predecessor in subject and arc.
-- [[Working Toward
+- [Working Toward Zion](/books/working-toward-zion) — United Order arguments that came directly out of Brigham's era.
+- [American Zion](/books/american-zion) _(stub)_ — broader American Mormon historiography.
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — adjacent on the willingness to engage hard questions about Church history.
+- [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — the historiographical lens.
 <!-- /interconnections -->
 
 ## Highlights

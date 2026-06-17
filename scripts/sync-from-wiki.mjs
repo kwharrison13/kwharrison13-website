@@ -160,12 +160,15 @@ function quoteIfNeeded(s) {
 // ---------- section parser ----------
 
 function parseSections(body) {
-  // Strip leading H1 (drop everything before the first `## `).
+  // Split on H2 headings. The capture group keeps each heading's text, so
+  // parts = [preamble, heading1, content1, heading2, content2, ...].
+  // NOTE: the previous implementation used /...(?=^## |\Z)/ — but JS regex has
+  // no \Z anchor, so it degraded to a literal "Z" and silently truncated every
+  // section at its first capital Z (e.g. "[[American Zion]]" → "[[American ").
   const sections = {};
-  const re = /^## (.+?)\r?\n([\s\S]*?)(?=^## |\Z)/gm;
-  let match;
-  while ((match = re.exec(body)) !== null) {
-    sections[match[1].trim()] = match[2].trim();
+  const parts = body.split(/^## (.+)$/m);
+  for (let i = 1; i < parts.length; i += 2) {
+    sections[parts[i].trim()] = (parts[i + 1] || '').trim();
   }
   return sections;
 }

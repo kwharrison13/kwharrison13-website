@@ -34,7 +34,7 @@ A side thread worth flagging: the recurring question of contemporary Church prac
 - [The Courage To Be Disliked](/books/the-courage-to-be-disliked) — religious-internalization thread.
 - [Discipline Is Destiny](/books/discipline-is-destiny) — "I want no man to follow me" frame.
 - [Crime & Punishment](/books/crime-and-punishment) _(stub)_ — Dostoevsky direct reference.
-- [[Working Toward
+- [Working Toward Zion](/books/working-toward-zion) — adjacent on Mormon engagement with secular ideas.
 <!-- /interconnections -->
 
 ## Highlights

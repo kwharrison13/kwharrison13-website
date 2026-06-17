@@ -33,7 +33,9 @@ A side observation: Arrington's deflection on titles ("titles were not important
 - [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — Bushman's later work that Arrington's institutional setup made possible.
 - [Brigham Young — Pioneer Prophet](/books/brigham-young-pioneer-prophet) — same scholarly tradition.
 - [The Life of John Taylor](/books/the-life-of-john-taylor) — counter-example; the apologetic style Arrington tried to move past.
-- [[American
+- [American Zion](/books/american-zion) _(stub)_ — same historiographical lens applied broadly.
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — the question-asking tradition the notes invoke.
+- [Working Toward Zion](/books/working-toward-zion) — practitioners-vs-priesthood thread, in the economic-policy domain.
 <!-- /interconnections -->
 
 ## Highlights

@@ -19,7 +19,8 @@ One note: Joseph Smith's Relief Society purpose as "to save souls" (not just rel
 ## Connections
 
 <!-- interconnections -->
-- [[Working Toward
+- [Working Toward Zion](/books/working-toward-zion) — same welfare-and-purpose thread.
+- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — primary-source context.
 <!-- /interconnections -->
 
 ## Highlights

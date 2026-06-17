@@ -28,7 +28,7 @@ Terryl Givens's biography of Eugene England read with a recurring tension about 
 - [The Crucible of Doubt](/books/the-crucible-of-doubt) — Givens-on-doubt frame; same author cluster.
 - [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — doctrinal-source overlap on progression and creeds.
 - [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — same scholar-vs-institution tension.
-- [[Working Toward
+- [Working Toward Zion](/books/working-toward-zion) — Mormon-thinker engaged with secular intellectual life.
 <!-- /interconnections -->
 
 ## Highlights

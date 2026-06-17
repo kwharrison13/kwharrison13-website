@@ -23,13 +23,22 @@ Bushman's landmark biography read with a specific tension in view: prophets are 
 
 4. **Tension on creeds.** Some Saints liked the improvisational character of early missionary preaching; others wanted defined boundaries. Joseph's resistance to creeds was both principled ("they say thus far and no further") and pragmatic — but the contemporary Church drifted toward enforcement that Joseph himself might have resisted.
 
-5. **"Be up and doing."** The aphorism from Nehemiah; the Nauvoo-era frame on
+5. **"Be up and doing."** The aphorism from Nehemiah; the Nauvoo-era frame on Zion. Activity, not contemplation, as the religious mode. Builds on the Jewish/American frontier tradition Joseph was steeped in.
+
+6. **"Gods in embryo. Gods in training."** The King Follett doctrines as profoundly American — "every man a god and a king fulfilled democratic aspirations to a degree unknown in any other land." The doctrine isn't ornamental; it's the structural answer to the political question of human worth.
+
+Throughout, the notes register an unusual willingness to ask hard questions about Church history without surrendering the underlying claim — the "house of order" frame, taken seriously, demands engagement with the messiness of how that order was actually built.
 <!-- /key-takeaways -->
 
 ## Connections
 
 <!-- interconnections -->
-- [[American
+- [American Zion](/books/american-zion) _(stub — pending)_ — direct companion. American religious history with overlapping subject.
+- [Brigham Young — Pioneer Prophet](/books/brigham-young-pioneer-prophet) — the next chapter; how the institution sustained without Joseph.
+- [The Life of John Taylor](/books/the-life-of-john-taylor) — same era, different perspective from a contemporary apostle.
+- [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — historiographical companion; how this book was made possible.
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — the doubt-and-doctrine question; how to hold faith and history together.
+- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institution-building parallel from secular history.
 <!-- /interconnections -->
 
 ## Highlights

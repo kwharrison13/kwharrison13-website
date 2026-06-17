@@ -33,7 +33,7 @@ Cross-references: McKay Coppins's biography of Romney is referenced explicitly �
 - [Brigham Young — Pioneer Prophet](/books/brigham-young-pioneer-prophet) — same tradition, post-Joseph chapter.
 - [Romney — A Reckoning](/books/romney-a-reckoning) — McKay Coppins reference; political-and-faith intersection.
 - [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — historiographical context.
-- [[Working Toward
+- [Working Toward Zion](/books/working-toward-zion) — economic-political thread in the same tradition.
 <!-- /interconnections -->
 
 ## Highlights

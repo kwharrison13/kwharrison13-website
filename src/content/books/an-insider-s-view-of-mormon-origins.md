@@ -27,7 +27,8 @@ Grant H. Palmer's revisionist Mormon history read with active disagreement — m
 <!-- interconnections -->
 - [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — same primary subject, Bushman's more rigorous treatment.
 - [The Crucible of Doubt](/books/the-crucible-of-doubt) — same doubt-and-doctrine question.
-- [[American
+- [American Zion](/books/american-zion) — broader institutional context.
+- [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — historiographical lens.
 <!-- /interconnections -->
 
 ## Highlights
