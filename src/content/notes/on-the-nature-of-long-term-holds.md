@@ -1,6 +1,7 @@
 ---
 title: "On the Nature of Long-Term Holds"
-type: "article"
+type: "longform"
+format: "article"
 publish: true
 excerpt: "Yale case (2020) on why holding a business for decades beats flipping it: compounding, the friction of trade (taxes, fees, idle cash, redeployment risk), and why MOIC beats IRR."
 confidence: "high"

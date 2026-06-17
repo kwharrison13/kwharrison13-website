@@ -1,6 +1,7 @@
 ---
 title: "How to Trick Investors and VCs"
-type: "article"
+type: "longform"
+format: "article"
 publish: true
 excerpt: "OnlyCFO walks through the accounting shenanigans that let startups deceive investors — from capitalized sales commissions and internal-use software to burn multiple games — and explains why VCs are particularly easy to fool."
 confidence: "high"

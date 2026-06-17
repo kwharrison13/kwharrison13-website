@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 /**
- * Wiki concepts + people + articles → src/content/notes sync.
+ * Wiki concepts + people + long-forms → src/content/notes sync.
  *
- * Mirrors EVERY page in ~/kwharrison13-wiki/wiki/{concepts,people,articles}/
+ * Mirrors EVERY page in ~/kwharrison13-wiki/wiki/{concepts,people,long-forms}/
  * into src/content/notes/<slug>.md (regardless of publish state) so URLs
  * always resolve. The /notes/[slug].astro route then decides whether to show
  * the full content (publish: true) or a "private note" landing (publish: false).
@@ -29,7 +29,7 @@ const WIKI_ROOT = path.join(os.homedir(), 'kwharrison13-wiki');
 const WIKI_DIRS = [
   path.join(WIKI_ROOT, 'wiki', 'concepts'),
   path.join(WIKI_ROOT, 'wiki', 'people'),
-  path.join(WIKI_ROOT, 'wiki', 'articles'),
+  path.join(WIKI_ROOT, 'wiki', 'long-forms'),
 ];
 const WIKI_BOOKS = path.join(WIKI_ROOT, 'wiki', 'books');
 const WIKI_ESSAYS = path.join(WIKI_ROOT, 'wiki', 'essays');
@@ -169,7 +169,7 @@ function transformLinks(text) {
 function serializeFrontmatter(fm) {
   const lines = ['---'];
   const ordered = [
-    'title', 'type', 'publish', 'excerpt', 'confidence', 'created', 'updated',
+    'title', 'type', 'format', 'publish', 'excerpt', 'confidence', 'created', 'updated',
     'last_updated_by', 'sources', 'tags', 'aliases', 'related', 'reference_count',
   ];
   for (const k of ordered) {

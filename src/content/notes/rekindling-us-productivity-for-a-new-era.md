@@ -1,6 +1,7 @@
 ---
 title: "Rekindling US Productivity for a New Era"
-type: "article"
+type: "longform"
+format: "article"
 publish: true
 excerpt: "McKinsey Global Institute argues that regaining historical rates of productivity growth (2.2% annually) would add $10 trillion to US GDP — and outlines why the past 15 years of digital technology have paradoxically produced a productivity slowdown."
 confidence: "high"

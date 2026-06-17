@@ -1,6 +1,7 @@
 ---
 title: "Infinite Games"
-type: "article"
+type: "longform"
+format: "article"
 publish: true
 excerpt: "Jack Raines applies James Carse's finite vs. infinite games framework to the way we live — arguing that optimizing for achievements (finite play) is a trap, and that the better life is spent in pursuit of things you actually enjoy pursuing."
 confidence: "high"

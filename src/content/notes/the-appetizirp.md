@@ -1,6 +1,7 @@
 ---
 title: "The AppetiZIRP"
-type: "article"
+type: "longform"
+format: "article"
 publish: true
 excerpt: "Packy McCormick argues that ZIRP-era phenomena (creator economy, NFTs, elaborate lifestyle content) were just appetizers — previews of a much stranger world where automation shrinks the workforce and UBI-style abundance changes what humans do with their time."
 confidence: "high"

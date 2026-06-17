@@ -1,6 +1,7 @@
 ---
 title: "Todd McKinnon — Creating and Defining a New Market Category"
-type: "article"
+type: "longform"
+format: "podcast"
 publish: true
 excerpt: "Patrick O'Shaughnessy interviews Okta co-founder/CEO Todd McKinnon: leaving Salesforce to bet on the cloud, the painful early years, how you create and become the default name in a new market category, and the frameworks for innovating as a public company."
 confidence: "high"

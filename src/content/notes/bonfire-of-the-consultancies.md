@@ -1,6 +1,7 @@
 ---
 title: "Bonfire of the Consultancies"
-type: "article"
+type: "longform"
+format: "article"
 publish: true
 excerpt: "Lionel Barber reviews two books that strip away the aura of respectability from management consulting — exposing conflicts of interest, fee-driven avarice, and work for despotic regimes that contrast sharply with the industry's 'thought leader' self-image."
 confidence: "high"

@@ -1,6 +1,7 @@
 ---
 title: "What Is ChatGPT Doing and Why Does It Work?"
-type: "article"
+type: "longform"
+format: "article"
 publish: true
 excerpt: "Stephen Wolfram walks through the mechanics of how ChatGPT generates text — from next-word probability to neural nets to the remarkable fact that meaningful human language may have more structure and simplicity than we ever knew."
 confidence: "high"

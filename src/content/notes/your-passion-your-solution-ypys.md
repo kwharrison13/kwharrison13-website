@@ -1,6 +1,7 @@
 ---
 title: "Your Passion, Your Solution (YPYS)"
-type: "article"
+type: "longform"
+format: "business-plan"
 publish: false
 excerpt: "Kyle's 2014 business plan for YPYS, a not-for-profit that connects college students to social ventures, high schools for fundraising, and local sponsors — with a HUB/Venture incubator model."
 confidence: "high"

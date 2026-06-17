@@ -1,6 +1,7 @@
 ---
 title: "The Build-Nothing Country"
-type: "article"
+type: "longform"
+format: "article"
 publish: true
 excerpt: "Noah Smith argues that America's failure to build housing, transit, and green energy isn't a money problem — it's a broken permitting, land use, and development system exploited by entrenched local interests."
 confidence: "high"

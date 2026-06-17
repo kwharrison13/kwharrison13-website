@@ -1,6 +1,7 @@
 ---
 title: "To Save America, Restore Our Frontier"
-type: "article"
+type: "longform"
+format: "article"
 publish: true
 excerpt: "Joe Lonsdale argues that America's national greatness was always tied to Frontier conditions — falsifiable, accountable environments that harden ideas and people — and that restoring the Frontier mindset is the antidote to bureaucratic dysfunction, not fighting cultural sideshows."
 confidence: "high"

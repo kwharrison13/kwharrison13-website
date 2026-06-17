@@ -1,6 +1,7 @@
 ---
 title: "We're Selling Entrepreneurship Short"
-type: "article"
+type: "longform"
+format: "article"
 publish: true
 excerpt: "Bryce Roberts argues that the venture model's obsession with $50B+ outcomes — where 15 companies drive 95% of the industry's value — has crowded out a huge population of profitable, founder-controlled businesses that represent a better path for most entrepreneurs."
 confidence: "high"
