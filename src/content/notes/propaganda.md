@@ -1,21 +1,21 @@
 ---
-title: "Bertrand Russell"
+title: "Propaganda"
 type: "concept"
 publish: false
 confidence: "low"
-created: "2026-06-16"
+created: "2026-06-17"
 updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Brave New World Revisited.md"
 tags: []
 aliases:
-  - "Bertrand Russell"
+  - "Propaganda"
 related: []
 reference_count: 1
 ---
 
-# Bertrand Russell
+# Propaganda
 
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 

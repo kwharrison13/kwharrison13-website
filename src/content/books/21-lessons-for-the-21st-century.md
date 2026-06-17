@@ -27,7 +27,7 @@ Harari's near-future book read with active counter-argument throughout. Three th
 <!-- interconnections -->
 - [Homo Deus](/books/homo-deus) — direct predecessor.
 - [Sapiens](/books/sapiens) _(stub)_ — earliest in the trilogy.
-- [The Brave New World Collection](/books/the-brave-new-world-collection) — adjacent civilizational-trajectory frame.
+- [Brave New World Revisited](/books/brave-new-world-revisited) — adjacent civilizational-trajectory frame.
 - [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious counter to Harari's secular frame.
 <!-- /interconnections -->
 

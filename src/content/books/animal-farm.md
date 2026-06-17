@@ -20,7 +20,7 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [The Brave New World Collection](/books/the-brave-new-world-collection), [Anthem](/books/anthem) — dystopia cluster.
+- [Brave New World](/books/brave-new-world), [Anthem](/books/anthem) — dystopia cluster.
 - [1984](/books/1984) _(stub)_ — companion Orwell.
 <!-- /interconnections -->
 

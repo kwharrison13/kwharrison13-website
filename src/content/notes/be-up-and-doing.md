@@ -1,24 +1,24 @@
 ---
-title: "Bertrand Russell"
+title: "Be Up and Doing"
 type: "concept"
 publish: false
 confidence: "low"
-created: "2026-06-16"
+created: "2026-06-17"
 updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
-  - "wiki/books/Brave New World Revisited.md"
+  - "wiki/books/Joseph Smith — Rough Stone Rolling.md"
 tags: []
 aliases:
-  - "Bertrand Russell"
+  - "Be Up and Doing"
 related: []
 reference_count: 1
 ---
 
-# Bertrand Russell
+# Be Up and Doing
 
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 
 ## Where this appears
 
-- [Brave New World Revisited](/books/brave-new-world-revisited)
+- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling)

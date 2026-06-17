@@ -4,15 +4,16 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
-  - "wiki/books/The Brave New World Collection.md"
+  - "wiki/books/Brave New World Revisited.md"
+  - "wiki/books/Brave New World.md"
 tags: []
 aliases:
   - "Aldous Huxley"
 related: []
-reference_count: 1
+reference_count: 2
 ---
 
 # Aldous Huxley
@@ -21,4 +22,5 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 
 ## Where this appears
 
-- [The Brave New World Collection](/books/the-brave-new-world-collection)
+- [Brave New World Revisited](/books/brave-new-world-revisited)
+- [Brave New World](/books/brave-new-world)

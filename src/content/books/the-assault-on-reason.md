@@ -26,7 +26,7 @@ Al Gore's book on the decline of public reason, read with active counter-argumen
 <!-- interconnections -->
 - [The Death of Expertise](/books/the-death-of-expertise) — democratic-epistemology overlap.
 - [Amusing Ourselves To Death](/books/amusing-ourselves-to-death) — same media-ecology critique, sharper instrument.
-- [The Brave New World Collection](/books/the-brave-new-world-collection) — propaganda/manipulation thread.
+- [Brave New World Revisited](/books/brave-new-world-revisited) — propaganda/manipulation thread.
 <!-- /interconnections -->
 
 ## Highlights

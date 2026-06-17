@@ -10,7 +10,7 @@ sources:
   - "wiki/books/Amusing Ourselves To Death.md"
   - "wiki/books/Homo Deus.md"
   - "wiki/books/Romney — A Reckoning.md"
-  - "wiki/books/The Brave New World Collection.md"
+  - "wiki/books/Brave New World Revisited.md"
   - "wiki/books/The Death of Expertise.md"
   - "wiki/books/The Greatest Minds and Ideas of All Time.md"
 tags:
@@ -36,7 +36,7 @@ related:
 - Print culture made an educated electorate possible by demanding sustained attention and logical reasoning; "more than any other device, the printed book released people from the domination of the immediate and the local." [Amusing Ourselves To Death](/books/amusing-ourselves-to-death)
 - Democratic legitimacy depends on a shared world: people feel bound by elections only when they share a basic bond with other voters, a bond now fragmenting. [Homo Deus](/books/homo-deus)
 - Education in the classical sense is "ennobling intimacy with great men" — formation of judgment, not job training. [The Greatest Minds and Ideas of All Time](/books/the-greatest-minds-and-ideas-of-all-time)
-- Jefferson's "elementary republics of the wards" presupposed informed local participation as the unit of self-rule. [The Brave New World Collection](/books/the-brave-new-world-collection)
+- Jefferson's "elementary republics of the wards" presupposed informed local participation as the unit of self-rule. [Brave New World Revisited](/books/brave-new-world-revisited)
 - Read as the implicit premise of Romney's career — that voters can be trusted with hard truths if those truths are presented honestly. [Romney — A Reckoning](/books/romney-a-reckoning)
 
 ## Where it shows up
@@ -45,7 +45,7 @@ related:
 - [Amusing Ourselves To Death](/books/amusing-ourselves-to-death) — the print culture that trained the electorate, and its erosion by entertainment media.
 - [Homo Deus](/books/homo-deus) — the fragmentation of shared reality undermining the preconditions for democratic consent.
 - [The Greatest Minds and Ideas of All Time](/books/the-greatest-minds-and-ideas-of-all-time) — education as formation of judgment (Durant).
-- [The Brave New World Collection](/books/the-brave-new-world-collection) — Jefferson's ward republics as the form that assumed educated participation.
+- [Brave New World Revisited](/books/brave-new-world-revisited) — Jefferson's ward republics as the form that assumed educated participation.
 - [Romney — A Reckoning](/books/romney-a-reckoning) — testing whether voters can still be trusted with the truth.
 
 ## Related concepts

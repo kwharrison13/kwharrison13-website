@@ -19,7 +19,7 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [The Brave New World Collection](/books/the-brave-new-world-collection) — dystopia-adjacent.
+- [Brave New World](/books/brave-new-world) — dystopia-adjacent.
 <!-- /interconnections -->
 
 ## Highlights

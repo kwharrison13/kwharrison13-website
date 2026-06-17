@@ -30,7 +30,7 @@ A standalone observation worth flagging: "religions that lose touch with the tec
 <!-- interconnections -->
 - [Sapiens](/books/sapiens) _(stub)_ — direct predecessor.
 - [21 Lessons for the 21st Century](/books/21-lessons-for-the-21st-century) _(stub)_ — Harari's sequel.
-- [The Brave New World Collection](/books/the-brave-new-world-collection) — adjacent civilizational-trajectory frame.
+- [Brave New World Revisited](/books/brave-new-world-revisited) — adjacent civilizational-trajectory frame.
 - [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious-engagement counter to humanism.
 - [The Self-Driven Child](/books/the-self-driven-child) — Harari on self-will referenced there.
 - [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institutional-history adjacent.

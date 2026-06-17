@@ -27,7 +27,7 @@ Postman's media-ecology argument read with a recurring contemporary update — p
 
 <!-- interconnections -->
 - [The Death of Expertise](/books/the-death-of-expertise) — same democratic-epistemology question.
-- [The Brave New World Collection](/books/the-brave-new-world-collection) — Huxley/Postman pairing on entertainment-as-control.
+- [Brave New World](/books/brave-new-world) — Huxley/Postman pairing on entertainment-as-control.
 - [Romney — A Reckoning](/books/romney-a-reckoning) — educated-electorate thread.
 <!-- /interconnections -->
 
