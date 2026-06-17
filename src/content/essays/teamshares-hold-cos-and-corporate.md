@@ -15,9 +15,9 @@ substack_url: "https://investing101.substack.com/p/teamshares-hold-cos-and-corpo
 </aside>
 <!-- connections-end -->
 
-![Me & Kevin Shiiba (Teamshares Co-Founder)
+![Me & Kevin Shiiba (Teamshares Co-Founder)](/images/teamshares-hold-cos-and-corporate-885c516d.png)
 
-I'm fascinated by an idea that I've never been able to put a word to. At different times that interest has manifested as a fascination with city building, urban development, communities, co-operatives, [Juntos](https://en.wikipedia.org/wiki/Junto_(club))[,](https://en.wikipedia.org/wiki/Junto_(club)),) holding companies, and conglomerates.
+I'm fascinated by an idea that I've never been able to put a word to. At different times that interest has manifested as a fascination with city building, urban development, communities, co-operatives, [Juntos](https://en.wikipedia.org/wiki/Junto_(club)), holding companies, and conglomerates.
 
 Early in my life I thought about city building. I had written a business plan on a napkin when I was about 12 years old that outlined how I would build a city shaped around a unified experience.
 
