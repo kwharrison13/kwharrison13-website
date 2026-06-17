@@ -217,7 +217,7 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
             </span>
             <span class="al-seen" role="cell" data-label="Where I saw it">{b.where_seen.length ? b.where_seen.join(' · ') : <span class="al-muted">—</span>}</span>
             <span class="al-buy" role="cell" data-label="Buy">
-              {b.amazon_url ? <a href={b.amazon_url} target="_blank" rel="noopener noreferrer">Amazon ↗</a> : <span class="al-muted">—</span>}
+              {b.amazon_url ? <a href={b.amazon_url} target="_blank" rel="noopener noreferrer" title="Buy on Amazon" aria-label={`Buy ${b.title} on Amazon`}>↗</a> : <span class="al-muted">—</span>}
             </span>
           </div>
         ))}
@@ -403,9 +403,9 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
   .antilib-count { font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-tertiary); white-space: nowrap; }
 
   .antilib-table { display: flex; flex-direction: column; border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
-  .antilib-row { display: grid; grid-template-columns: 64px minmax(150px, 2fr) 0.9fr 74px 58px 1.6fr 1.7fr 74px; align-items: stretch; border-bottom: 1px solid var(--border); }
+  .antilib-row { display: grid; grid-template-columns: 56px minmax(140px, 1.9fr) 1.15fr 92px 56px 1.7fr 1.6fr 46px; align-items: stretch; border-bottom: 1px solid var(--border); }
   .antilib-row > span, .antilib-row > button { min-width: 0; overflow: hidden; padding: 12px 12px; border-right: 1px solid var(--border); }
-  .antilib-row > :last-child { border-right: none; }
+  .antilib-row > :last-child { border-right: none; padding-left: 6px; padding-right: 6px; }
   .antilib-row:last-child { border-bottom: none; }
   .antilib-row:not(.antilib-head):hover { background: var(--bg-card); }
   .antilib-head { background: var(--bg-card); font-size: 10px; text-transform: uppercase; letter-spacing: 0.07em; font-weight: 700; color: var(--text-tertiary); position: sticky; top: 0; }
@@ -423,8 +423,9 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
   .al-conn { display: flex; flex-wrap: wrap; align-content: start; gap: 5px; }
   .al-chip { font-size: 10.5px; color: var(--text-secondary); background: var(--tag-bg); border: 1px solid var(--border); padding: 2px 7px; border-radius: 4px; text-decoration: none; max-width: 100%; min-width: 0; white-space: normal; overflow-wrap: anywhere; word-break: break-word; }
   .al-chip:hover { border-color: var(--accent); color: var(--accent); }
-  .al-buy a { font-size: 11.5px; color: var(--accent); text-decoration: none; white-space: nowrap; }
-  .al-buy a:hover { text-decoration: underline; }
+  .al-buy, .antilib-head > span:last-child { text-align: center; }
+  .al-buy a { font-size: 16px; font-weight: 600; color: var(--accent); text-decoration: none; line-height: 1; }
+  .al-buy a:hover { opacity: 0.7; }
   .al-muted { color: var(--text-tertiary); }
   .antilib-empty { padding: 24px 16px; text-align: center; font-size: 13px; color: var(--text-tertiary); }
 
