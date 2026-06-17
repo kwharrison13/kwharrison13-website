@@ -4,6 +4,7 @@ type: "longform"
 format: "article"
 publish: true
 excerpt: "Yale case (2020) on why holding a business for decades beats flipping it: compounding, the friction of trade (taxes, fees, idle cash, redeployment risk), and why MOIC beats IRR."
+source_published: "2020-05-28"
 confidence: "high"
 created: "2026-06-16"
 updated: "2026-06-16"

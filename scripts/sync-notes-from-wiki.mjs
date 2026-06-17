@@ -169,7 +169,8 @@ function transformLinks(text) {
 function serializeFrontmatter(fm) {
   const lines = ['---'];
   const ordered = [
-    'title', 'type', 'format', 'publish', 'excerpt', 'confidence', 'created', 'updated',
+    'title', 'type', 'format', 'publish', 'excerpt', 'author', 'url', 'source_published',
+    'confidence', 'created', 'updated',
     'last_updated_by', 'sources', 'tags', 'aliases', 'related', 'reference_count',
   ];
   for (const k of ordered) {
@@ -179,6 +180,10 @@ function serializeFrontmatter(fm) {
       if (v.length === 0) { lines.push(`${k}: []`); continue; }
       lines.push(`${k}:`);
       for (const item of v) lines.push(`  - ${quote(String(item))}`);
+    } else if (k === 'source_published') {
+      // Always a string in the schema — a bare YAML year (e.g. 2014) parses as a
+      // number, so coerce + quote to avoid an InvalidContentEntryData build break.
+      lines.push(`${k}: ${quote(String(v))}`);
     } else if (typeof v === 'boolean' || typeof v === 'number') {
       lines.push(`${k}: ${v}`);
     } else {

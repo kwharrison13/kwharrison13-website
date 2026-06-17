@@ -4,6 +4,7 @@ type: "longform"
 format: "business-plan"
 publish: false
 excerpt: "Kyle's 2014 business plan for YPYS, a not-for-profit that connects college students to social ventures, high schools for fundraising, and local sponsors — with a HUB/Venture incubator model."
+source_published: "2014"
 confidence: "high"
 created: "2026-06-17"
 updated: "2026-06-17"

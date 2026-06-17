@@ -4,12 +4,15 @@ type: "longform"
 format: "article"
 publish: true
 excerpt: "Lionel Barber reviews two books that strip away the aura of respectability from management consulting — exposing conflicts of interest, fee-driven avarice, and work for despotic regimes that contrast sharply with the industry's 'thought leader' self-image."
+author: "Lionel Barber"
+url: "https://www.prospectmagazine.co.uk/culture/60493/bonfire-of-the-consultancies"
+source_published: "2023-03-01"
 confidence: "high"
 created: "2026-06-17"
 updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
-  - "https://www.prospectmagazine.co.uk/arts-and-books/bonfire-of-the-consultancies-lionel-barber"
+  - "https://www.prospectmagazine.co.uk/culture/60493/bonfire-of-the-consultancies"
 tags:
   - "company-building"
   - "language-of-discourse"
