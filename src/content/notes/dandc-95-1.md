@@ -1,5 +1,5 @@
 ---
-title: "Boom — Bubbles and the End of Stagnation"
+title: "D&C 95:1"
 type: "concept"
 publish: false
 confidence: "low"
@@ -7,18 +7,18 @@ created: "2026-06-16"
 updated: "2026-06-16"
 last_updated_by: "agent"
 sources:
-  - "wiki/books/Skunk Works.md"
+  - "wiki/concepts/Chad's Big Quote Book.md"
 tags: []
 aliases:
-  - "Boom — Bubbles and the End of Stagnation"
+  - "D&C 95:1"
 related: []
 reference_count: 1
 ---
 
-# Boom — Bubbles and the End of Stagnation
+# D&C 95:1
 
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 
 ## Where this appears
 
-- [Skunk Works](/books/skunk-works)
+- [Chad's Big Quote Book](/notes/chad-s-big-quote-book)

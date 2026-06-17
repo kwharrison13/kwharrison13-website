@@ -116,6 +116,11 @@ const resolver = mergeMaps(
   indexCollection(WIKI_DIRS[1], 'notes'),
 );
 
+// slug → kind, with book > essay > notes priority (resolver insertion order),
+// so a target that matches no name can still route to the canonical owner by slug.
+const slugToKind = new Map();
+for (const { slug, kind } of resolver.values()) if (!slugToKind.has(slug)) slugToKind.set(slug, kind);
+
 function transformLinks(text) {
   // Defensive: strip backticks directly around a wikilink so it resolves into a
   // real link instead of rendering as inline code (mirrors sync-from-wiki.mjs).
@@ -128,18 +133,29 @@ function transformLinks(text) {
   // its slug syntax exposed inside the code box.
   const _code = [];
   text = text.replace(/`[^`]*`/g, (m) => { _code.push(m); return `\x00${_code.length - 1}\x00`; });
+  // Resolve a target: exact name/alias first, then fall back to its normalized slug
+  // so punctuation/conjunction variants (e.g. "Boom — Bubbles and the End of
+  // Stagnation" vs the book "Boom: Bubbles & The End of Stagnation") route to the
+  // canonical owner (book > essay > notes).
+  const lookup = (target) => {
+    const hit = resolver.get(target.toLowerCase().trim());
+    if (hit) return hit;
+    const slug = slugify(target);
+    const kind = slugToKind.get(slug);
+    return kind ? { slug, kind } : null;
+  };
   // [[Target|Display]] or [[Target]] → [Display](/<kind>/<slug>)
   // Unresolved → just unwrap to the display text (no broken link)
   text = text.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, target, alias) => {
     const display = alias || target;
-    const hit = resolver.get(target.toLowerCase().trim());
+    const hit = lookup(target);
     if (!hit) return display;
     return `[${display}](/${hit.kind}/${hit.slug})`;
   });
   // #[[Tag]] (Roam-style hashtag wikilink) → same
   text = text.replace(/#\[\[([^\]]+)\]\]/g, (_, target) => {
     const display = target;
-    const hit = resolver.get(target.toLowerCase().trim());
+    const hit = lookup(target);
     if (!hit) return display;
     return `[${display}](/${hit.kind}/${hit.slug})`;
   });

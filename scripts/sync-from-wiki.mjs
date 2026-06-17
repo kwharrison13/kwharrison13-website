@@ -253,14 +253,26 @@ function resolveWikilinks(text) {
     if (!correct || correct === kind) return full;
     return `](/${correct}/${slug})`;
   });
+  // Resolve a wikilink target: exact name/alias first, then fall back to its
+  // normalized slug. The fallback lets punctuation/conjunction variants (e.g.
+  // "Boom — Bubbles and the End of Stagnation" vs the book "Boom: Bubbles & The
+  // End of Stagnation") route to the canonical owner (book > essay > notes), since
+  // bookSlug() collapses both forms to the same slug.
+  const lookup = (target) => {
+    const hit = r.get(target.toLowerCase().trim());
+    if (hit) return hit;
+    const slug = bookSlug(target);
+    const kind = slugToKind.get(slug);
+    return kind ? { kind, slug } : null;
+  };
   text = text.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, target, alias) => {
     const display = alias || target;
-    const hit = r.get(target.toLowerCase().trim());
+    const hit = lookup(target);
     if (!hit) return display;
     return `[${display}](/${hit.kind}/${hit.slug})`;
   });
   text = text.replace(/#\[\[([^\]]+)\]\]/g, (_, target) => {
-    const hit = r.get(target.toLowerCase().trim());
+    const hit = lookup(target);
     if (!hit) return target;
     return `[${target}](/${hit.kind}/${hit.slug})`;
   });

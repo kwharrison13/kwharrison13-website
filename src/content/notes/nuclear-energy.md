@@ -8,6 +8,7 @@ updated: "2026-06-16"
 last_updated_by: "agent"
 sources:
   - "wiki/books/How To Avoid a Climate Disaster.md"
+  - "wiki/meetings/Watershed Climate Diligence — 2021.md"
 tags: []
 aliases:
   - "Nuclear Energy"
@@ -22,3 +23,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - [How To Avoid a Climate Disaster](/books/how-to-avoid-a-climate-disaster)
+- Watershed Climate Diligence — 2021 — Watershed Climate Series B diligence (Index Ventures, 2021).

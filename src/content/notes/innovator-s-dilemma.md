@@ -1,5 +1,5 @@
 ---
-title: "Innovator’s Dilemma"
+title: "Innovator's Dilemma"
 type: "concept"
 publish: false
 confidence: "low"
@@ -10,15 +10,21 @@ sources:
   - "wiki/books/Berkshire Hathaway Annual Letters.md"
 tags: []
 aliases:
+  - "Innovator's Dilemma"
   - "Innovator’s Dilemma"
-related: []
-reference_count: 1
+related:
+  - "[[The Innovator's Dilemma]]"
+reference_count: 5
 ---
 
-# Innovator’s Dilemma
+# Innovator's Dilemma
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **5** wiki pages. See also the book [The Innovator's Dilemma](/books/the-innovator-s-dilemma) by Clayton Christensen._
 
 ## Where this appears
 
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters)
+- [Chip War](/books/chip-war)
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack)
+- [Skunk Works](/books/skunk-works)
+- [The Everything Store](/books/the-everything-store)

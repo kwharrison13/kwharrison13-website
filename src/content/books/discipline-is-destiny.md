@@ -37,8 +37,8 @@ The throughline: discipline isn't a moral position, it's a system of small choic
 - [Atomic Habits](/books/atomic-habits) — habit-design overlap; identity-compounds frame.
 - [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — Munger's Epictetus references; spirit-of-humility thread.
 - [The Self-Driven Child](/books/the-self-driven-child) — adult-self version of the autonomy/self-talk arguments.
-- How Will You Measure Your Life_ — adjacent on values-as-strategy framing.
-- [Way to Be](/notes/way-to-be) _(stub)_ — Hinckley's adjacent collection.
+- [How Will You Measure Your Life](/books/how-will-you-measure-your-life) — adjacent on values-as-strategy framing.
+- [Way to Be!](/books/way-to-be) — Hinckley's adjacent collection.
 <!-- /interconnections -->
 
 ## Highlights

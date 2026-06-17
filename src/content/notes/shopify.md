@@ -6,10 +6,12 @@ confidence: "low"
 created: "2026-06-16"
 updated: "2026-06-16"
 last_updated_by: "agent"
-sources: []
+sources:
+  - "wiki/meetings/Watershed Climate Diligence — 2021.md"
 tags: []
 aliases:
   - "Shopify"
+  - "Shopify ($SHOP)"
 related: []
 ---
 
@@ -24,3 +26,4 @@ _(nothing yet — placeholder)_
 ## Where it shows up
 
 _(auto-populated by lint)_
+- Watershed Climate Diligence — 2021 — Watershed Climate Series B diligence (Index Ventures, 2021).

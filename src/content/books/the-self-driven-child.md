@@ -40,14 +40,14 @@ The throughline: parenting is less about producing outcomes and more about build
 
 <!-- interconnections -->
 - [Battle Hymn of the Tiger Mother](/books/battle-hymn-of-the-tiger-mother) — explicit anti-thesis. The Tiger Mother approach removes autonomy; this book argues autonomy IS the developmental mechanism.
-- How Will You Measure Your Life_ — Christensen's "how will you measure your life" frame is invoked directly in the notes.
+- [How Will You Measure Your Life_](/books/how-will-you-measure-your-life) — Christensen's "how will you measure your life" frame is invoked directly in the notes.
 - [Discipline Is Destiny](/books/discipline-is-destiny) — overlapping interest in self-talk, agency, daily structure. Reads as the adult-self version of what this book argues for kids.
 - [How to Take Smart Notes](/books/how-to-take-smart-notes) — explicit chapter cross-reference; the "knowledge work practice" thread.
 - [Atomic Habits](/books/atomic-habits) — identity-formation overlap.
 - [Homo Deus](/books/homo-deus) — Harari on self-will referenced directly.
 - [Sapiens](/books/sapiens) — same Harari context.
 - [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious-internalization overlap.
-- [Way to Be](/notes/way-to-be) — Hinckley's framing on internalized standards.
+- [Way to Be](/books/way-to-be) — Hinckley's framing on internalized standards.
 <!-- /interconnections -->
 
 ## Highlights

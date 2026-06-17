@@ -1,0 +1,962 @@
+---
+title: "Chad's Big Quote Book"
+type: "article"
+publish: false
+confidence: "high"
+created: "2026-06-16"
+updated: "2026-06-16"
+last_updated_by: "agent"
+sources:
+  - "raw/inbox/Chad's Big Quote Book.md"
+tags:
+  - "religious-intellectualism"
+aliases:
+  - "Chad's Big Quote Book"
+related: []
+---
+
+# Chad's Big Quote Book
+
+_A verbatim personal collection of LDS / gospel quotations, given to Kyle by his brother Chad. Source preserved as-is; attributions linked to wiki pages._
+
+- A collection of quotations that aided my gospel understanding. These are taken both from my scholarly and poetic collections.
+- ## “A Book of Quotes, Ruminations, and Thoughts Miscellany
+- For the purpose of Entertaining the Mind, Rejuvenating the Spirit, and Enlightening The Soul” 
+- ### Note from Chad
+    “Hey Brother!
+    Quotes were a really important part of my mission. They were really helpful to me as I learned and grew, to see the way that a good teacher can condense truth down to something even a child can understand. I strove to be that kind of teacher in my missionary work.
+    The first half of this book is a version of my quote book, with quotes that gave me strength and understanding in Scotland. Some are inspiring, some make you think and some are just really cool, funny, or strange. They mean a lot to me, and I hope they mean a lot to you to.
+    But the more important half of this book is the second one. Now, I know its not really pocket-sized, and those are the best kinds of quote books because you can jot things down as you hear them. So you should probably get one of those too. But hopefully this can be sort of your long-term storage. It’s printed on good paper.
+    Additionally, I want you to know how cool I think you are. I really look up to you, even though you’re my little brother. You’re smart and funny, and also courageous. You’ve got one of the most impressive testimonies I’ve ever seen. And you have glorious cheekbones to boot! Thank you for your example and your friendship in my life. I know that you will serve the Lord with honor in Pennsylvania.
+    Remember that Heavenly Father is counting on you, that he’s on your side, and that with Him you can do anything.
+    Choose the right.
+    Love,
+    Chad
+- ### Beginning of Chad’s collection of quotes.
+- -Page 1-
+- Let cowards find their false content
+  In that poor word “environment.”
+  But spirit scorns that it is free!
+  It conquers time, it masters space,
+  It cows the boastful trickster “chance,”
+  And bids the tyrant “circumstance,”
+  Uncrowned, to fill a servant’s place.
+  The human will, that force unseen,
+  The offspring of a deathless soul,
+  Can hew its way to any goal
+  Though walls of granite intervene.
+  "The Soul" by [Hugh B. Brown](/notes/hugh-b-brown)
+- “Man is no less free than are the angels except as he has fettered himself with the bonds of sin and forfeited his power of will and force of soul.” [James E. Talmage](/notes/james-e-talmage)
+- “When obedience ceases to become an irritant and becomes our quest, in that moment God will endow [us] with power.” [Ezra Taft Benson](/notes/ezra-taft-benson)
+- -Page 2-
+- “All objections…hinge on…whether the Book of Mormon is true.” [Ezra Taft Benson](/notes/ezra-taft-benson)
+- “We don’t see things as they really are; we see things as we really are.” [Robert Millet](/notes/robert-l-millet)
+- “We would be lonely living anywhere but in the presence of God.” [Henry B. Eyring](/notes/henry-b-eyring)
+- “There is no reward for half-hearted obedience. We must become vigorous and enthusiastic about living our religion, for God commands that we serve Him with all our heart, with all our might, with all our strength, and with the very best of our intelligence. With Him there can be no halfway measures. We must be fully with Him or we may be classes with those who are against Him. ‘Then what shall we do? Put on the armor of God. That is what we are to do.’” [Mark E. Peterson](/notes/mark-e-peterson)
+- -Page 3-
+- “If something goes well, thank Heaven. If something goes wrong, look inside.” [David A. Bednar](/notes/david-a-bednar)
+- “Love is one of the chief characteristics of Deity, and ought to be manifested by those who aspire to be the sons of God. A man filled wit hthe love of God, is not conent with blessing his family alone, but ranges through the whole world anxious to bless the whole human race – this has bee nyour feelings and caused you to forgo the pleasures of home, that you might be a blessing to others, who are candidates for immortality, but strangers to truth, and for so doing, I pray that heaven’s choicest blessings may rest upon you.” [Joseph Smith](/notes/joseph-smith)
+- “I will know what you are if you tell me what you think about when you don’t have to think.” [David O. McKay](/notes/david-o-mckay)
+- “If you cross to the devil’s side of the line one inch, you are in the tempter’s power, and, if he is successful, you will not be able to think or even reason properly, because you will have lost the Spirit of the Lord.” [George Albert Smith](/notes/george-albert-smith)
+- -Page 4-
+- “There are certain fundamental, simple rules and laws that govern in the realm of science, and however far you may go in that field you still have to abide by the law of two times two. And in this other realm (if there’s a difference) where you’re going to appropriate this other power [from God], you must abide by certain fundamental rules and laws. For it is an irrevocable pronouncement from God our Father that every blessing is predicated upon obedience to law. And if you will obey the law, you may release the power that is in the human soul” (D&C 130: 20-21). [Hugh B. Brown](/notes/hugh-b-brown)
+    - [D&C 130](/notes/dandc-130):20-21
+        - 20 **There is a law, irrevocably decreed in heaven before the foundations of this world, upon which all blessings are predicated-**
+        - 21 **And when we obtain any blessing from God, it is by obedience to that law upon which it is predicated.**
+- “We do not say that all of the Saints will be spared and saved from the coming day of desolation. But we do say that there is no promise of safety and no promise of security except for those who love the Lord and who are seeking to do all that He commands. It may be, for instance, that nothing except the power of faith and the authority of the priesthood can save individuals and congregations from the atomic holocausts that surely shall be.” [Bruce R. McConkie](/notes/bruce-r-mcconkie)
+- “Stop seeking out the storms and please, enjoy more fully the sunlight.” [Gordon B. Hinckley](/notes/gordon-b-hinckley)
+- -Page 5-
+- “The work of the world is not done by intellectual geniuses. It is done by men and women of ordinary capacity who use their abilities in an extraordinary way.” [Gordon B. Hinckley](/notes/gordon-b-hinckley)
+- “For nearly six thousand years, God has held you in reserve to make your appearance in the final days before the second coming of the Lord. God has saved for the final inning some of his strongest children, who will help bear off the kingdom triumphantly. And that is where you come in, for you are the generation that must be prepared to meet your God.” [Ezra Taft Benson](/notes/ezra-taft-benson)
+- “Trials, disappointments, sadness, and heartache come to us from two basically different sources. Those who transgress the laws of God will always have those challenges. The other reason for adversity is to accomplish the Lord's own purposes in our life that we may receive the refinement that comes from testing. . . . [Some trials] are evidence that the Lord feels you are prepared to grow more.” [Richard G. Scott](/notes/richard-g-scott)
+- -Page 6-
+- “My standing in this church is worth more to me than this life- ten thousand times. For in this I have life everlasting.” [Joseph Fielding Smith](/notes/joseph-fielding-smith)
+- “Every time you kick ‘Mormonism’ you kick it up stairs; you never kick it downstairs. The Lord Almighty so orders it.” [Brigham Young](/notes/brigham-young)
+- “I have believed all my life that, that which was worth doing is worth doing well, and have considered it as much a part of my religion to do honest, reliable work, such as wood indoor, for those who employed me, as to attend to the services of God's worship on the Sabbath” [Brigham Young](/notes/brigham-young)
+- “Life was never intended to be easy. Rather, it is a. Of proving and gross. It is interwoven with difficulties, challenges, and burdens... Yet these very forces, if squarely faced, provide opportunities for tremendous personal growth and development. The conquering of adversity produces strength of character, forges self-confidence, engenders self-respect, and assures success in righteous endeavor.” [Richard G. Scott](/notes/richard-g-scott)
+- -Page 7-
+- “There is no peace and reflecting on the pain of old wounds” [Gordon B. Hinckley](/notes/gordon-b-hinckley)
+- “If you tiptoe around giving a commitment, then the spirit will tiptoe to tell them that it’s true.” Anonymous
+- “Can you imagine what would happen with an increasing number of copies of the Book of Mormon in the hands of an increasing number of missionaries who know how to use it and who have been born of God? When that happens, we will get the bounteous Harvest of souls that the Lord has promised.” [Ezra Taft Benson](/notes/ezra-taft-benson)
+- “Combined with the Spirit of the Lord, The Book of Mormon is the greatest single tool which God has given us to convert the world. If we are to have the harvest of souls that He expects, then we must use the instrument which God has designed for the task: The Book of Mormon.” [Ezra Taft Benson](/notes/ezra-taft-benson)
+- -Page 8-
+- “Forgiveness... allows the love of God to purge your heart and mind of the poison of hate. It cleanses your consciousness of the desire for revenge. It makes place for the purifying, healing, restoring love of the Lord.” [Richard G. Scott](/notes/richard-g-scott)
+- “Never be discouraged. If I were sunk in the lowest coalpit of Nova Scotia, with the Rocky Mountains piled on me, I would hang on, exercise faith, and keep up good courage, and I would come out on top.” [Joseph Smith](/notes/joseph-smith)
+- “The Latter Day Saints do not do things because they happen to be printed in a book. They do not do things because God told the Jews to do them; nor do they do or leave undone anything because of instructions that Christ gave to the Nephites. Whatever is done by this church is because God speaking from heaven in our day has commanded this church to do it. No book presides over this church and no book lies at its foundation. You cannot pile books enough to take the place of God's priesthood inspired by the power of the Holy Ghost.” [Orson F. Whitney](/notes/orson-f-whitney)
+- -Page 9-
+- “I find myself hungering and thirsting for just a word of appreciation or of honest evaluation from my superiors and my peers. I want no praise, no flattery. I am seeking only to know if what I gave was acceptable.” [Spencer W. Kimball](/notes/spencer-w-kimball)
+- “If Christ came to you tonight, what would he say? He’d say, ‘Elder, your purpose is to invite others to come unto Me through faith in Me and My atonement, repentance, baptism, receiving the gift of the Holy Ghost, and enduring to the end.’ And then he disappeared. Did you learn anything new? No! You already knew that! So you already know what is expedient in the Lord! You just have to have the faith to do it! And that might be harder for you than it was for Moses part the sea.” [Richard I. Winwood](/notes/richard-i-winwood)
+- “I promise, if we’ll just follow all the rules and plans, the Harvest will increase. And wouldn't that make missionary work more fun?” [Thomas C. Frederick](/notes/thomas-c-frederick)
+- -Page 10-
+- “Not only should we know what history and faith-promoting stories it contains, but we should understand its teachings... I have noted within the Church a difference in discernment, insight, conviction, and spirit between those who know and love the Book of Mormon and those who do not. That book is a great sifter.” [Ezra Taft Benson](/notes/ezra-taft-benson)
+- “True conversion is not born of contention or debate. The things of God are known only by revelation from the spirit of God. To gain a knowledge of the truth men must abide the law which enables them to gain personal revelation from the Lord. They must desire to know of the divinity of the message, must learn what is being taught, must practice its principles, and must pray in faith for guidance and direction from on high.” [Bruce R. McConkie](/notes/bruce-r-mcconkie)
+- “We must learn by doing. One cannot learn... by merely listening, but must be given experience.” [Spencer W. Kimball](/notes/spencer-w-kimball)
+- “Profound spiritual truth cannot simply be poured from one mind and heart to another. It takes faith and diligent effort. Precious truth comes a small piece at a time through faith, with great exertion, and at times wrenching struggles. The Lord intends it to be that way so we can mature and progress.” [Richard G. Scott](/notes/richard-g-scott)
+- -Page 11-
+- “It is an easy thing to throw a dollar at a man, but it requires sympathy and a heart to take an interest in him and try to plan for his welfare and benefit. And it is a principle of the gospel of Jesus Christ, now, as it always has been, to help every man to help himself – to help every child of our [Heavenly Father] to work out his own salvation, both temporally and spiritually. “I desire to call attention to a statement made by President Brigham Young: ‘My experience has taught me, and it has become a principle with me, that it is never any benefit to give out and out, to man or woman, money, food, clothing, or anything else, if they are able-bodied and can work and earn what they need, when there is anything on earth for them to do. This is my principle and I try to act upon it. To pursue a contrary course would ruin any community in the world and make them idlers.’ “And what would ruin a community would ruin a state, and I might incidentally remark, a nation also.” [Heber J. Grant](/notes/heber-j-grant)
+- -Page 12-
+- “How does D&C 4 end? I hear some of you muttering. ‘Ask and ye shall receive, knock and it shall be opened unto you.’ Do you know how many times it appears in the scriptures? 120 times. More than any other scripture from Genesis to the Pearl of Great Price, and more than any other set of promises. Is it conceivable, brethren, that God really means this? Maybe we should stop quoting it and start living it.
+- — [Jeffrey R. Holland](/notes/jeffrey-r-holland)
+- “It is the first principle of the gospel to know of a certainty the character of God.”
+- — [Joseph Smith](/notes/joseph-smith)
+- “Cut the threads that tie you to the Prophet of God, and sink yourselves to hell.”
+- — [Brigham Young](/notes/brigham-young)
+- “If you are not with us (your priesthood and ecclesiastical leaders), then you are against us.”
+- — [Christian Lucas](/notes/christian-lucas)
+- -Page 13-
+- “I have have given much advice to the Latter-Day Saints in my time, and one of the principle items was never to criticize anyone but ourselves. I believe in fault-finding for breakfast, dinner, and supper, but only with our dear own selves.”
+- — [Heber J. Grant](/notes/heber-j-grant)
+- -Page 14-
+- FORGIVENESS
+- “Some years ago a prominent man was excommunicated from the Church. He, years later, pleaded for baptism. President John Taylor referred the question of his baptism to the apostles, stating [in a letter] that if they unanimously consented to his baptism, he could be baptized, but that if there was one dissenting vote, he should not be admitted into the Church. As I remember the vote, it was five for baptism and seven against. A year or so later the question came up again, and it was eight for baptism and four against. Later it came up again and it was ten for baptism and two against. Finally all of the Council of the Apostles, with the exception of your humble servant, consented that this man be baptized and I was then next to the junior member of the quorum. Later I was in the office of the president and he said:
+- — [Heber J. Grant](/notes/heber-j-grant)
+- -Page 20-
+- “The more beautiful the music by which false doctrine is sung, the more dangerous it becomes. I appeal to all Latter-Day Saints, and especially to our choirs, never to sing the words of a song, no matter how beautiful and inspiring the music may be, where the teachings are not in perfect accord with the truths of the gospel. . . Our songs should be in very deed ‘prayers unto the Lord.’ If we are careful to sing only such songs, then we are sure of the blessings which are promised by the Lord.”
+- — [Heber J. Grant](/notes/heber-j-grant)
+- “There is but one path of safety for the Latter-day Saints, and that is the path of duty. It is not a testimony only; it is not marvelous manifestations; it is not knowing that the gospel of Jesus Christ is true, that it is the plan of salvation—it is not actually knowing that that Savior is the Redeemer, and that Joseph Smith was his prophet, that will save you and me; but it is the keeping of the commandments of God, living the life of a Latter-Day Saint.”
+- — [Heber J. Grant](/notes/heber-j-grant)
+- “Teach the people that repentance hurts.”
+- — [Henry B. Eyring](/notes/henry-b-eyring)
+- -Page 21-
+- “Verily, thus saith the Lord unto you whom I love, and whom I love I also chasten that their sins may be forgiven.”
+- — [D&C 95:1](/notes/dandc-95-1)
+- “This agency has always been the heritage of man under the rule and government of God. He possessed it in the heaven of heavens before the world was, and the lord maintained and defended it there against the aggression of Lucifer and those that took sides with him, to the overthrow of Lucifer and one-third part of the heavenly hosts. By virtue of this agency you and I and all mankind are made responsible beings, responsible for the course we pursue, the lives we live, the deeds we do in the body.”
+- — [Wilford Woodruff](/notes/wilford-woodruff)
+- “So fundamental in man’s eternal progress is his inherent right to choose, that the Lord would defend it even at the price of war.”
+- — [David O. McKay](/notes/david-o-mckay)
+- -Page 22-
+- “In rendering. . . strict obedience, are we made slaves? No, it is the only way on the face of the earth for you and me to become free, and we shall become the slaves of our own passions, and of the wicked one, and servants to the devil, if we take any other course, and we shall be eventually cast into hell with the devils. Now to say that I do not enjoy the volition of my own will just as much when I pray as I would to swear, is a false principle, it is false ground to take. You take the man who swears, and he has no more freedom, and acts no more on his own will than the man who prays; and the man who yields strict obedience to the requirements of Heaven, acts upon the volition of his own will and exercises his freedom just as much as when he was a slave to passion; and I think it is much better and more honorable for us, whether children or adults, youthful, middle-aged or old, it is better to live by and better to die by, to have our hearts pure, and to yield strict obedience to the principles of life which the Lord has revealed, than to be a slave to sin and wickedness.”
+- — [Brigham Young](/notes/brigham-young)
+- “He commenced his observations by remarking that the kindness of our Heavenly Father called for our heartfelt gratitude. He then observed that Satan was generally blamed for the evils which we did, but if he was the cause of all our wickedness, men could not be condemned. The devil could not compel mankind to do evil; all was voluntary. Those who resisted the Spirit of God, would be liable to be led into temptation, and then the association of heaven would be withdrawn from those who refused to be made partakers of such great glory. God would not exert any compulsory means, and the devil could not; and such ideas as were entertained [on these subjects] by many were absurd.”
+- — about [Joseph Smith Jr.](/notes/joseph-smith)
+- -Page 23-
+- “There are two influences ever present in the world. One is constructive and elevating and comes from our Heavenly Father; the other is destructive and debasing and comes from Lucifer. We have our agency and make our own choice in life subject to these unseen powers. There is a division line well defined that separates the Lord’s territory from Lucifer’s. If we live on the Lord’s side of the line, Lucifer cannot come there to influence us, but if we cross the line into his territory we are in his power. By keeping the commandments of the Lord we are safe on His side of the line, but if we disobey His teachings we voluntarily cross into the zone of temptation and invite the destruction that is ever present there. Knowing this, how anxious we should always be to live on the Lord’s side of the line.”
+- — [George Albert Smith](/notes/george-albert-smith)
+- -Page 24-
+- “Therefore I command you to repent—repent, lest I smite you by the rod of my mouth, and by my wrath, and by my anger, and your sufferings be sore—how sore you know not, how exquisite you know not, yea, how hard to bear you know not.
+- — [Henry B. Eyring](/notes/henry-b-eyring), speaking of an apostle’s talk
+- -Page 25-
+- “Man is a spiritual being, a soul, and at some period of his life everyone is possessed with an irresistible desire to know his relationship to the infinite. ... There is something within him which urges him to rise above himself to control his environment.”
+- — [David O. McKay](/notes/david-o-mckay)
+- “And when you are called to preach the gospel…, take a course to save every person. There is no man or woman within the pale of saving grace but that is worth saving. There is no intelligent being, except those who have sinned against the Holy Ghost, but that is worth, I may say, all the life efforts of an elder to save in the kingdom of God.”
+- — [Brigham Young](/notes/brigham-young)
+- “Our leisure, even our play, is a matter of serious concern. There is no neutral ground in the universe: every square inch, every split second, is claimed by God and counter-claimed by Satan.”
+- — [C.S. Lewis](/notes/c-s-lewis)
+- -Page 26-
+- “In the high jump, you can set the bar for 99; but if you only jump at 99, then you don’t make it over the bar, you hit it, and then you fail.”
+- — [Jeremiah Johnson](/notes/jeremiah-johnson)
+- “...nothing that is good denieth the Christ, but acknowledgeth that He is.”
+- — [Moroni 10:6](/notes/moroni-10-6)
+- “To some people work is the dullest of drudgery, but to others it is an exciting part of life. One way to enjoy life’s fullest benefits is to learn to love work.”
+- — [Gospel Principles Manual](/notes/gospel-principles-manual)
+- “Doing nothing is the hardest work of all, because one can never top to rest.”
+- — Anonymous
+- “The same God that placed that star in a precise orbit millennia before it appeared over Bethlehem in celebration of the birth of the babe, has given at least equal attention to the placement of each of us in a precise human orbit so that he may, if we will, illuminate the landscape of our individual lives so that our light may not only lead others, but warm them as well.”
+- — [Neal A. Maxwell](/notes/neal-a-maxwell)
+- -Page 27-
+- “In every situation, live the gospel.”
+- — [Alistair Martin](/notes/alistair-martin)
+- “When you’re building a bridge, don’t spend all your time building the approach.”
+- — [Alan McIntyre](/notes/alan-mcintyre)
+- “The inspiration you may draw from General Authorities…depends only partly on the effort they have expended in the preparation of their sermons. It depends much more considerably on what preparation you have made for their message.”
+- — [Body K. Packer](/notes/boyd-k-packer)
+- “Follow the brethren.”
+- — [Boyd K. Packer](/notes/boyd-k-packer)
+- -Page 28-
+- “In the Church of Jesus Christ of Latter-Day Saints there is no paid ministry, no professional clergy, as is common in other churches. But more significant than this is that there is no laity, no lay membership as such. For men are eligible to hold the priesthood and carry on the ministry of the church, and both men and women serve in many auxiliary capacities. Now this responsibility comes to men in all walks of life. And with this responsibility comes the authority. There are many who would deny, and others who would disregard it. Nevertheless, the measure of that authority does not depend on whether men sustain that authority, but rather depends on whether God will recognize and honor the authority.”
+- — [Boyd K. Packer](/notes/boyd-k-packer)
+- “[Some] among us are willing to sustain part of the leadership of the Church and question and criticize others of us. Some of us suppose that if we were called to a high office in the Church, immediately we would be loyal, and we would show ourselves valiant and show the dedication necessary and commit ourselves to this service. But you can put it down in your little black book that if you will not be loyal in the small things, you will not be loyal in the large things. If you will not respond to the so-called insignificant or menial tasks which need to be performed in the Church and kingdom, there will be no opportunity for service in the so-called greater challenges.”
+- — [Boyd K. Packer](/notes/boyd-k-packer)
+- -Page 29-
+- “A man who says he will sustain the President of the Church or the General Authorities but cannot sustain his own bishop is deceiving himself. The man who will not sustain the bishop of his ward and president of his stake will not support the President of the Church.”
+- — [Boyd K. Packer](/notes/boyd-k-packer)
+- “I was not born a slave. I cannot, I will not be a slave. I would not be a slave to God. I would be His servant, His friend, His son, I would go at His behest, but would not be His slave. I would rather be extinct than be a slave. His friend I feel I am, and He is mine; a slave, the manacles would pierce my very bones! The clanking chains would grate against my soul. A poor, lost, servile, crawling wretch, to lick the dust and fawn and smile upon the things that gave the lash; but stop. I am God’s free man. I will not, I cannot be a slave.”
+- — [John Taylor](/notes/john-taylor)
+- -Page 30-
+- “The Lord said, ‘If ye follow in my word,’ I repeat, ‘If ye follow… then are ye my disciple indeed. And ye shall know the truth, and the truth shall make you free.”
+- — [Boyd K. Packer](/notes/boyd-k-packer)
+- “testimonies do not come to us through osmosis, but through personal revelation from God.”
+- — [Thomas Cattell](/notes/thomas-cattell)
+- “Cynics do not contribute. Skeptics do not create. Doubters do not achieve.”
+- — [Gordon B. Hinckley](/notes/gordon-b-hinckley)
+- “One can see God’s handwriting in the sacred volume (the Bible), and he who reads it oftenest will like it best.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- “To me it is a significant and marvelous thing that in establishing and opening this dispensation Our Father did so with a revelation of Himself, and of His son Jesus Christ, as if to say to all the world that He was weary of the attempts of men, earnest though these attempts might have been, to define and describe Him. The experience of Joseph Smith in a few moments in the grove on a spring morning in 1820 brought more light and knowledge and understanding of the personality and reality and substance of God and His Beloved Son, than men had arrived at in centuries of speculation.”
+- — [Gordon B. Hinckley](/notes/gordon-b-hinckley)
+- -Page 31-
+- “If you work hard, you’ll be happy. If you don’t, you’ll go to hell.”
+- — [Brigham Young](/notes/brigham-young)
+- “Do not suppose that God willfully causes that which, for His own purposes, He permits.”
+- — [Boyd K. Packer](/notes/boyd-k-packer)
+- “This Church… is far more than a social organization where we gather to enjoy one another’s company… It is the kingdom of God on earth. It behooves us to act in a manner befitting membership in that kingdom.”
+- — [Gordon B. Hinckley](/notes/gordon-b-hinckley)
+- “Brethren, there stands the priesthood of God. They are just common sticks, like the rest of us. Some of them may even seem to be a little crooked. But the position they hold makes them what they are. If we step aside from the path they mark, we are lost.”
+- — [Karl G. Maeser](/notes/karl-g-maeser), regarding a series of sticks marking safe passage through the snowy Alps
+- -Page 32-
+- “’A lie is any communication with the intent to deceive.’ A lie can be effectively communicated without words ever being spoken. Sometimes a nod of the head or silence can deceive.”
+- — [Marvin J. Ashton](/notes/marvin-j-ashton)
+- “Pray always, lest you enter into temptation and lose your reward.”
+- — [D&C 31:12](/notes/dandc-31-12)
+- “Some are tested by poor health, some by a body that is deformed or homely. Others are tested by handsome and healthy bodies. Some by the passion of youth, others by the erosion of age. Some suffer disappointment in marriage, family problems. Others live in poverty and obscurity. Some, and perhaps this is the hardest test, find ease and luxury. All are part of the test, and there is more equality in this testing than sometimes we suspect.”
+- — [Boyd K. Packer](/notes/boyd-k-packer)
+- “If you want to be a leader, just lead.”
+- — [N. Eldon Tanner](/notes/n-eldon-tanner)
+- “I have made this my rule: when God commands, DO IT!”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- -Page 33-
+- “To be puffed up with knowledge, however useless, is not as serious as other forms of pride.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- “It takes deep to understand deep. And I wonder if any of us has the depth to comprehend [Joseph Smith].”
+- — [Truman G. Madsen](/notes/truman-g-madsen)
+- “One can harden, claiming integrity, on the past traditions, and become immune to living revelation.”
+- — [Truman G. Madsen](/notes/truman-g-madsen)
+- “I will bring forth evidence [to support the Book of Mormon].”
+- — The Lord to [Joseph Smith](/notes/joseph-smith)
+- “I have a subtle devil to deal with, and I can only curb him with humility.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- “The reason that we don’t have more of the secrets of the Lord revealed to us is that we reveal them! We tell them to everyone, even our enemies. I can keep a secret until Doomsday.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- -Page 34-
+- “Many of the [seemingly inappropriate] things I do, I do to break down superstition and tradition.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- “Would to God that I could unbosom my feelings once, my friends, but I feel that I never will in this life.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- “Any man who has a bow, and has it constantly strung tight, will soon lose the spring in his bow. The bow must be unstrung.”
+- — [Joseph Smith Jr.](/notes/joseph-smith) on being too serious
+- “I have become accustomed to swimming in deep water…for some strange reason the envy and wrath of man have been my common lot throughout my life. But every wave of adversity has only wafted me that much closer to divinity.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- “If you cannot endure persecution you cannot endure the glory of the Celestial Kingdom.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- “Many of you will yet be martyred for this work.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- -Page 35-
+- “Joseph Smith said, ‘No one will ever inherit the Celestial Kingdom unless he is strictly honest.’ There is a question about this, being honest in our dealings with our fellow men, in our temple recommend interview. In speaking with my own bishop, it is a question that is almost universally answered, ‘I try.’ Well, at some point, we are going to need to do more than just try.”
+- — paraphrase from [Truman G. Madsen](/notes/truman-g-madsen)
+- -Page 36-
+- “Never labor; only for Zion and your brethren.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- “If you will listen to the first promptings you will hit it right 9 times out of 10.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- “Any man who will not fight for his wife and children is a coward…one thing uglier than war is cowardice, and the refusal to stand for one’s loved ones in the breach.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- “Brother [Orrin Porter] Rockwell is an innocent boy, and my soul loves him.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- “If you will thank the Lord with all your heart, every night, for all the blessings of that day you will eventually find yourself exalted in the Kingdom of God. . . . He that receiveth all things with a grateful heart shall me made glorious, and the things of this earth shall be added unto him an hundred fold, yea, more.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- -Page 37-
+- “Don’t climb to the extreme branches of the tree, for there is danger of falling. Cling close to the trunk. . .  Avoid the vain mysteries and the discussion thereof, such as whether the pearly gates swing or roll, or whether or not we can know the condition of the sons of perdition.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- “You do not know me.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- Q: “Joseph, is the principle of self-aggrandizement wrong? Should we seek our own good?”
+- A: “Some people entirely denounce the principle of self-aggrandizement but it is a true principle. But it can only be exercised upon one plan of principle and that is that we seek to elevate and ennoble others also. If a man will seek to elevate others, the very work itself will tend to elevate him. Upon no other principle can a man justly and permanently aggrandize himself.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- Q: “Who are you (Joseph Smith)?”
+- A: “Noah came before the flood. I have come before the fire.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- -Page 38-
+- Q: “Will all but the Latter-Day Saints go to hell?”
+  A: “Yes, and a great many of them too if they don’t repent.”
+  [Joseph Smith](/notes/joseph-smith)
+- “Every man who has a calling to minister to the inhabitants of this earth was ordained to that calling in that Great Council before the Earth was. I suppose I was ordained to this very calling.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- “You’ll recall the Joseph Smith had a vision through the Urim and Thummim in which he saw that we (the Pratt brothers) and he (the Smiths) had a common ancestor only 5 generations back. Parley, I have been unable to forge this link. I hop you can.”
+- — Letter from [Orson](/notes/orson-pratt) to [Parley](/notes/parley-p-pratt)
+- __In 1930, it was discovered true of the Pratts, Brigham, Heber, Newel K. Whitney, Orson Hyde, Wilford Woodruff, and others. The whose who of the first generation of Mormonism came from the same stock.__
+- -Page 40-
+- “Wherefore, I the Lord ask you this question- unto what were ye ordained? To Preach My Gospel by the Spirit, even the comforter which was sent forth to teach the truth.”
+- — [D&C 50:13-14](/notes/dandc-50-13-14)
+- “We have to ask the Lord for help; we have to seek converts; we have to desire baptisms; we have to know that we receive according to our desires. If we desire to get such and such a thing, and have faith in the Lord, it is going to eventuate. ‘If thou canst believe, all things are possible to him that believeth.’”
+- — [Bruce R. McConkie](/notes/bruce-r-mcconkie)
+- “Now, very frankly, whether we gain many converts or few depends in large measure upon our frame of mind. Once a missionary has made the decision not to consider any excuses for his failure to baptize people, and has accepted the fact that whether or not he has success is dependent upon his attitude and desires, he is in a frame of mind to develop an absolute faith in his ability to see people join the church.”
+- — [Bruce R. McConkie](/notes/bruce-r-mcconkie)
+- “Brethren, the spirit of this work is urgency, and we must imbue our missionaries and our saints with the spirit of now, now. We are not just waiting for the natural slow process of brining people into the church. We must move more rapidly… put your shoulders to the wheel, lengthen your stride, heighten your reach, and increase your devotion and that of the missionaries so that we can begin to move the work along more rapidly.
+- — [Spencer W. Kimball](/notes/spencer-w-kimball)
+- -Page 41-
+- “What does the atonement have to do with missionary work? Any time we experience the blessings of the atonement in our lives, we can’t help but have a concern for the welfare of others… A great indicator of one’s conversion is the desire to share the gospel with others.”
+- — [Howard W. Hunter](/notes/howard-w-hunter)
+- “After all that has been said, the greatest and most important duty is to Preach the Gospel.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- -Page 42-
+- “Our duty is to preach the Gospel to all men… That is what God expects of us.”
+- — [John Taylor](/notes/john-taylor)
+- “We do not preach and teach in order to ‘bring people into the church’ or to increase the membership of the church. We do not preach and teach just to persuade people to better their lives. We preach and teach in order to baptize the children of God so that they can be saved in the Celestial Kingdom instead of being damned in a lesser kingdom. We invite all to come unto Christ by repentance and baptism and confirmation in order to open the door of the Celestial Kingdom to the sons and daughters of God. No one else can do this.”
+- — [Dallin H. Oaks](/notes/dallin-h-oaks)
+- “Your purpose is not only to cover the material, it is to help others come unto Christ through faith in Jesus Christ, repentance, baptism, receiving the gift of the Holy Ghost, and enduring to the end.”
+- — [Preach My Gospel](/notes/preach-my-gospel), pg. vi
+- “Preach my Gospel was composed on the other side of the veil and compiled on this one.”
+- — [Boyd K. Packer](/notes/boyd-k-packer)
+- -Page 43-
+- “When members invite the missionaries into their homes to teach them from ‘Preach my Gospel’ the harvest will begin.”
+- — [M. Russell Ballard](/notes/m-russell-ballard)
+- “When the manual that has become the guide to missionary service was published, we made only one mistake: instead of being called ‘Preach my Gospel’ it should have been called ‘Preach my Gospel and Baptize.”
+- — [M. Russell Ballard](/notes/m-russell-ballard)
+- “We will be held accountable for those we could have helped but did not.”
+- — [John Taylor](/notes/john-taylor)
+- “What is the purpose of life? BAPTISMILIZING!”
+- — Elder [Toby Halford](/notes/toby-halford)
+- -Page 44-
+- “Forget yourself and go to work!”
+- — President Hinckley’s father
+- Questions you must answer in order to be successful as a missionary:
+    - Why are you here?
+    - If it’s the wrong reason, will you change?
+    - Do you hunger and thirst to be the best missionary you can be?
+    - Are you willing to try?
+    - Are you willing to follow your leaders?
+    - Is your faith sufficient?
+    - Will you be obedient?
+    - Will you move out of your comfort zone?
+    - Will you focus totally on the work?
+    - Are you physically and mentally here?
+    - Do you have charity, the pure love of Christ?
+    - Will you follow Preach my Gospel?
+    - Will you follow the missionary handbook?
+    - Do you believe the words of the prophets?
+    - Will you find yourself by losing yourself?
+    - Will you forget about yourself and go to work?
+- -Page 45-
+- “You are invited to participate in the fulfillment of promises made by ancient and modern prophets, seers, and revelators.”
+- — President [Thomas C. Frederick](/notes/thomas-c-frederick)
+- “In this work there must be commitment. There must be devotion. We are engaged in a great eternal struggle that concerns the very souls of the sons and daughters of God. We are not losing. We are winning. We will continue to win if we will be faithful and true. We can do it. We must do it. We will do it. There is nothing the Lord has asked of us that in faith we cannot accomplish.”
+- — [Gordon B. Hinckley](/notes/gordon-b-hinckley)
+- “We’re not messing around here. This isn’t a game, it’s a war, as real as any war that we see going on right now. You have met the people who have died, and it is up to you to bring about their salvation.”
+- — [Jonathan F. Dippold](/notes/jonathan-f-dippold)
+- “The way that you show people that you love them is by asking them to change.”
+- — [Brad S. Stringfellow](/notes/brad-stringfellow)
+- -Page 46-
+- “We must move the work, not just mind it.”
+- — [Dieter F. Uchtdorf](/notes/dieter-f-uchtdorf)
+- “You are only constrained by the limits you place upon yourself.”
+- — [Christian Lucas](/notes/christian-lucas)
+- “Be a harvester, not just a gleaner.”
+- — [Dallin H. Oaks](/notes/dallin-h-oaks)
+- “We can expect the same results as the early missionaries when we live by the same principles.”
+- — [Gordon B. Hinckley](/notes/gordon-b-hinckley)
+- “Repent, all ye ends of the earth and be baptized in my name, that ye may be sanctified by the reception of the Holy Ghost.”
+- — [3 Nephi 27:20](/notes/3-nephi-27-20)
+- “All that is good that has happened to me has resulted from my service as a missionary.”
+- — [Gordon B. Hinckley](/notes/gordon-b-hinckley)
+- -Page 47-
+- “My mission means everything to me… As much as could happen to a young man in 24 months happened to me… Your mission is as close to ‘real life’ as you can get.”
+- — [Jeffrey R. Holland](/notes/jeffrey-r-holland)
+- “A missionary, in his or her life, never rises above the stature they care for themselves of their mission.”
+- — [Henry D. Moyle](/notes/henry-d-moyle)
+- “There is no mortal man that is so much interested in the success of an Elder when he is preaching the gospel as the Lord that sent him…”
+- — [Lorenzo Snow](/notes/lorenzo-snow)
+- “Dedicated missionaries learn how to relate to people, how to talk to people, how to help people. A mission is the greatest education in the world.”
+- — [M. Russell Ballard](/notes/m-russell-ballard)
+- -Page 48-
+- “Priesthood means service; bearing the priesthood means I will serve.”
+- — [Joseph B. Wirthlin](/notes/joseph-b-wirthlin)
+- “Not my will, but thine be done.”
+- — [Luke 22:42](/notes/luke-22-42)
+- “I would like to impress upon the minds of the brethren, that he who goes forth in the name of the Lord, trusting in Him with all his heart, will never want for wisdom to answer any question that is asked him, or to give any counsel that may be required to lead the people in the way of life and salvation, and he will never be confounded… Go in the name of the Lord, trust in the name of the Lord, lean upon the Lord, and call upon the Lord fervently and without ceasing, and pay no attention to the world. You will see plenty of the world- it will be before you all the time-but if you have live so as to possess the Holy Ghost you will be able to understand more in relation to it than you could in a dozen days without it, and you will see at once the difference between the wisdom of men and the wisdom of God.”
+- — [Brigham Young](/notes/brigham-young)
+- -Page 49-
+- “In offering counsel on good proselyting methods, President Monson urged: “Work from areas of strength outward. Then you build for strength and you have the membership to help you. They are your greatest asset.” The proper way to gain referrals, he added is to questions members on whom they know who might be mourning the loss of a loved one or who may be struggling with rearing a family- “that’s everybody in today’s world.” He also spoke of the importance of recent converts as resources in offering friendship and fellowship to investigators.”
+- — [Church News](/notes/church-news), June 25, 2007
+- “To be known, the truth must be stated and the clearer and more complete the statement is, the better the opportunity will the Holy Spirit have for testifying to the souls of men that the work is true.”
+- — [B.H. Roberts](/notes/b-h-roberts)
+- “May you stay with the context of the scripture and reduce it to understandable terms.” – Harold B. Lee-
+- “Page 50-
+- “Now you as teachers are not being sent out to teach new doctrine. You’re to teach the old doctrines, not so plain that they can just understand, but you must teach the doctrines of the church so plainly that no one can misunderstand.”
+- — [Harold B. Lee](/notes/harold-b-lee)
+- “The work of a missionary is everlasting in its consequences. Acceptance of the Gospel at the hands of a true and dedicated teacher affects not only the recipient, but also generations after the recipient.”
+- — [Gordon B. Hinckley](/notes/gordon-b-hinckley)
+- “A church which weds itself to the cultures of the day will be a widow within each passing age.”
+- — [Samuel Callum](/notes/samuel-callum)
+- “A lawyer never asks a question that he doesn’t already know the answer to. Neither should a missionary.”
+- — Elder [Brad Stringfellow](/notes/brad-stringfellow)
+- “Our problem is not that we shall offend with too-fervent a testimony, or make enemies by insisting on raising the warning voice. Our problem is one of personal timidity. Of being afraid to stand forth boldly and testify of those things which have been revealed to us… Let us remember that missionaries who are not valiant in the testimony of Jesus shall inherit not a Celestial but a terrestrial inheritance- Be valiant. Testify and warn the people.”
+- — [Bruce R. McConkie](/notes/bruce-r-mcconkie)
+- -Page 52-
+- “It has often appeared to me delightful, to be united to Christ; to have him for my head, and to be a member of his body; also to have Christ for my teacher and prophet. I very often think with sweetness, and longings, and pantings of soul, of being a little child, taking hold of Christ, to be led by him through the wilderness of this world. That by him through the wilderness of this world. That text, matt. 18:3, has often been sweet to me, except ye be converted and become as little children, etc. I love to think of coming to Christ, to receive salvation of him, poor in spirit, and quite empty of self, humbly exalting him alone; cut off entirely from my own root, in order to grow into, and out of Christ; to have God in Christ to be all in all; and to live by faith in the Son of God, and life of humble, unfeigned confidence in him. That scripture has often been sweet to me, Ps. 95:1, Not unto us, O Lord, not unto us, but unto thy name give glory, for thy mercy, and for they truth’s sake. And those words of Christ, Luke 10:21, In that hour Jesus rejoiced in spirit, and said, I thank thee, O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them unto babes: Even so, Father, for so it seemed good in thy sight. That sovereignty of God which Christ rejoiced in, seemed to me worthy of such joy; and that rejoicing seemed to show the excellency of Christ, and of what spirit he was.”
+- — [Johnathan Edwards](/notes/jonathan-edwards)
+- -Page 53-
+- “True education seeks to make men and women not only good mathematicians, proficient linguists, profound scientists, or brilliant literary lights, but also honest men with virtue, temperance, and brotherly love.”
+- — [David O. McKay](/notes/david-o-mckay)
+- “We might ask, when shall we cease to learn? I will give you my opinion about it; never, never . . . We shall never cease to learn, unless we apostatize from the religion of Jesus Christ.”
+- — [Brigham Young](/notes/brigham-young)
+- “Our education should be such as to improve our minds and fit us for increased usefulness; to make us of greater service to the human family.”
+- — [Brigham Young](/notes/brigham-young)
+- “Education is a good thing, and blessed is the man who has it, and can use it for the dissemination of the Gospel without being puffed up with pride.”
+- — [Brigham Young](/notes/brigham-young)
+- -Page 54-
+- “A man does not live for months or years in a particular position in an organization, exposed to some streams of communication, shielded from others, without the most profound effects on what he knows, believes, attends to, hopes, wishes, emphasizes, fears, and proposes.”
+- — [Herbert J. Simon](/notes/herbert-j-simon) –
+- “Love is a temporary madness; it erupts like volcanoes and then subsides. And when it subsides you have to make a decision. You have to work out whether your roots have so entwined together that it is inconceivable that you should ever part. Because this is what love is. Love is not breathlessness, it is not excitement, it is not the promulgation of eternal passion. That is just being in love, which any fool can do. Love itself is what is left over when being in love has burned away, and this is both an art and a fortunate accident. Those that truly love have roots that grow towards each other underground, and when all the pretty blossoms have fallen from their branches, they find that they are one tree and not two.”
+- — [Louis de Bernieres](/notes/louis-de-bernieres)
+- -Page 55-
+- The Oak Tree
+- A mighty wind blew night and day
+- It stole the oak tree’s leaves away
+- Then snapped its boughs and pulled its bark
+- Until the oak was tired and stark
+- But still the oak tree held its ground
+- While other trees fell all around
+- The weary wind gave up and spoke
+- How can you still be standing Oak?
+- The oak tree said, I know that you
+- Can break each branch of mine in two
+- Carry every leaf away
+- Shake my limbs, and make me sway
+- But I have roots stretched in the earth
+- Growing stronger since my birth
+- You’ll never touch them, for you see
+- They are the deepest part of me
+- Until today, I wasn’t sure
+- Of just how much I could endure
+- But now I’ve found, with thanks to you
+- I’m stronger than I ever knew
+- — [Johnny Ray Ryder Jr.](/notes/johnny-ray-ryder-jr)
+- **Beginning of long form quotes. I used the 2****nd**** half of Chad’s book to gather longer quotes than those kept in my smaller blue journal. **
+- -Page 57-
+- Born: A Spirit Child of God
+- “Our spirit matter was eternal and co-existent with God, but it was organized into spirit bodies by our Heavenly Father.”
+- — [Spencer W. Kimball](/notes/spencer-w-kimball)
+- “Through that birth process, self-existing intelligence was organized into individual spirit beings.”
+- — [Marion G. Romney](/notes/marion-g-romney)
+- “I want to tell you, each and every one of you, that you are well acquainted with God our Heavenly Father, or the great Elohim. You are well acquainted with him, for there is not a soul of you but what has lived in His house and dwelt with Him year after year; and yet you are seeking to become acquainted with Him, when the fact is, you have merely forgotten what you did know. There is not a person here today but what is a son or a daughter of that being. In the spirit world their spirits were first begotten and brought forth, and they lived there with their parents for ages before they came here. This, perhaps, is hard for many to believe, but it is the greatest nonsense in the world not to believe it. If you do not believe it, cease to call Him Father, and when you pray, pray to some other character!”
+- — [Brigham Young](/notes/brigham-young)
+- “Man as we have said is the offspring of Deity. The entire mystery of the past and future with regard to his existence is not yet solved by mortals. We first recognize Him, as an organized individual or intelligence, dwelling with His father in the eternal mansions. This organized spirit we call a body, because, although composed of the spiritual elements, it possesses every organ after the pattern, and in the likeness or similitude of the outward or fleshy tabernacle it is destined eventually to inhabit. Its organs of thought, speech, sight, hearing, tasting, smelling, feelings, etc., all exist in their order as in the physical body, the one being the exact similitude of the other. This individual, spiritual body, was begotten by the Heavenly Father, in His own likeness and image, and by the laws of procreation. It was born and matured in the heavenly mansions, trained in the school of love in the family circle, and amid the most tender embraces of parental and fraternal affection. In this primeval probation in its Heavenly home, it lived and moved as a free and rational intelligence, acting upon its own agency and, like all intelligence, independently in its own sphere. It was placed under certain laws and was responsible to its great Patriarchal Head.”
+- — [Parley P. Pratt](/notes/parley-p-pratt)
+- -Page 58-
+- “There is a natural birth, and there is a spiritual birth. The natural birth is to die as pertaining to premortal life, to leave the heavenly realms where all spirits dwell in the Divine Presence, and to begin a new life, a mortal life, a life here on earth. The natural birth creates a natural man, and the natural man is an enemy to God. In his fallen state he is carnal, sensual, and devilish by nature. Appetites and passions govern his life and he is alive -- acutely so -- to all that is evil and wicked in the world.”
+- — [Bruce R. McConkie](/notes/bruce-r-mcconkie)
+- Born Again: A Child of Christ
+- Part A: Change of Heart
+- “Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.” (John 3:3)
+- “The birth here spoken of [John 3:3] was not the gift of the Holy Ghost, which was promised after baptism, but was a portion of the Spirit, which attended the preaching of the gospel by the elders of the Church. The people wondered why they had not previously understood the plain declarations of scripture, as explained by the elder, as they had read them hundreds of times. When they read the Bible it was a new book to them. This was being born again to see the kingdom of God. They were not in it, but could see it from the outside, which they could not do until the Spirit of the Lord took the veil from their eyes. It was a change of heart, but not of state; they were converted, but were yet in their sins. Although Cornelius [Acts 10] had seen an holy angel, and on the preaching of Peter the Holy Ghost was poured out upon him and his household, they were only born again to see the kingdom of God. Had they not been baptized afterwards they would not have been saved.”
+- — [Joseph Smith](/notes/joseph-smith) via [Daniel Tyler](/notes/daniel-tyler)
+- -Page 59-
+- Part B: Baptism & the Holy Ghost
+- “Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.” (John 3:5)
+- “It is one thing to see the kingdom of God, and another thing to enter into it. We must have a change of heart to see the kingdom of God, and subscribe the articles of adoption to enter therein.”
+- — [Joseph Smith](/notes/joseph-smith)
+- “As members of the Church, if we chart a course leading to eternal life; if we begin the processes of spiritual rebirth, and are going in the right direction; if we chart a course of sanctifying our souls, and degree by degree are going in that direction; and if we chart a course of becoming perfect, and, step by step and phase by phase, are perfecting our souls by overcoming the world, then it is absolutely guaranteed—there is no question whatever about it—we shall gain eternal life. Even though we have spiritual rebirth ahead of us, perfection ahead of us, the full degree of sanctification ahead of us, if we chart a course and follow it to the best of our ability in this life, then when we go out of this life we’ll continue in exactly that same course.”
+- — [Bruce R. McConkie](/notes/bruce-r-mcconkie)
+- -Page 60-
+- “Men changed for Christ will be captained by Christ. Like Paul they will be asking, “Lord, what wilt thou have me to do?” (Acts 9:6.) Peter stated they will “follow his steps.” (1 Pet. 2:21.) John said they will “walk, even as he walked.” (1 Jn. 2:6.) Finally, men captained by Christ will be consumed in Christ. To paraphrase President Harold B. Lee, they set fire in others because they are on fire. (See Harold B. Lee, Stand Ye in Holy Places, Salt Lake City: Deseret Book Co., 1974, p. 192.) Their will is swallowed up in his will. (See John 5:30.) They do always those things that please the Lord. (See John 8:29.) Not only would they die for the Lord, but, more important, they want to live for Him. Enter their homes, and the pictures on their walls, the books on their shelves, the music in the air, their words and acts reveal them as Christians. They stand as witnesses of God at all times, and in all things, and in all places. (See Mosiah 18:9.) They have Christ on their minds, as they look unto Him in every thought. (See D&C 6:36.) They have Christ in their hearts as their affections are placed on Him forever. (See Alma 37:36.)”
+- — [Ezra Taft Benson](/notes/ezra-taft-benson)
+- “Our perfect Father does not expect us to be perfect children yet. He had only one such Child. Meanwhile, therefore, sometimes with smudges on our cheeks, dirt on our hands, and shoes untied, stammeringly but smilingly we present God with a dandelion--as if it were an orchid or a rose! If for now the dandelion is the best we have to offer, He receives it, knowing what we may later place on the altar. It is good to remember how young we are spiritually.”
+- — [Neal A. Maxwell](/notes/neal-a-maxwell)
+- “I do not believe that any man lives up to his ideals, but if we are striving, if we are working, if we are trying, to the best of our ability, to improve day by day, then we are in the line of our duty. If we are seeking to remedy our own defects, if we are so living that we can ask God for light, for knowledge, for intelligence, and above all for His Spirit, that we may overcome our weaknesses, then, I can tell you, we are in the straight and narrow path that leads to life eternal; then we need have no fear.”
+- — [Heber J. Grant](/notes/heber-j-grant)
+- -Page 61-
+- “Who is righteous? Anyone who is repenting. No matter how bad he has been, if he is repenting he is a righteous man. There is hope for him. And no matter how good he has been all his life, if he is not repenting, he is a wicked man. The difference is which way you are facing. The man on the top of the stairs facing down if much worse off than the man on the bottom step who is facing up. The direction we are facing, that is repentance; and that is what determines whether we are good or bad.”
+- — [Hugh Nibley](/notes/hugh-nibley)
+- “Everyone in the Church who is on the straight and narrow path, who is striving and struggling and desiring to do what is right, though is far from perfect in this life; if he passes out of this life while he's on the straight and narrow, he's going to go on to eternal reward in his Father's kingdom. We don't need to get a complex or get a feeling that you have to be perfect to be saved. You don't. There's only been one perfect person, and that's the Lord Jesus, but in order to be saved in the Kingdom of God and in order to pass the test of mortality, what you have to do is get on the straight and narrow path--thus charting a course leading to eternal life--and then, being on that path, pass out of this life in full fellowship. I'm not saying that you don't have to keep the commandments. I'm saying you don't have to be perfect to be saved. If you did, no one would be saved. The way it operates is this: you get on the path that's named the "straight and narrow." You do it by entering the gate of repentance and baptism. The straight and narrow path leads from the gate of repentance and baptism, a very great distance, to a reward that's called eternal life. If you're on that path and pressing forward, and you die, you'll never get off the path. There is no such thing as falling off the straight and narrow path in the life to come, and the reason is that this life is the time that is given to men to prepare for eternity. Now is the time and the day of your salvation, so if you're working zealously in this life-- though you haven't fully overcome the world and you haven't done all you hoped you might do--you're still going to be saved. You don't have to do what Jacob said, "Go beyond the mark." You don't have to live a life that's truer than true. You don't have to have an excessive zeal that becomes fanatical and becomes unbalancing. What you have to do is stay in the mainstream of the Church and live as upright and decent people live in the Church--keeping the commandments, paying your tithing, serving in the organizations of the Church, loving the Lord, staying on the straight and narrow path. If you're on that path when death comes--because this is the time and the day appointed, this the probationary estate--you'll never fall off from it, and, for all practical purposes, your calling and election is made sure.”
+- — [Bruce R. McConkie](/notes/bruce-r-mcconkie)
+- -Page 62-
+- “We must be careful, as we seek to become more and more godlike, that we do not become discouraged and lose hope. Becoming Christlike is a lifetime pursuit and very often involves growth and change that is slow, almost imperceptible. The scriptures record remarkable accounts of men whose lives changed dramatically, in an instant, as it were: Alma the Younger, Paul on the road to Damascus, Enos praying far into the night, King Lamoni. Such astonishing examples of the power to change even those steeped in sin give confidence that the Atonement can reach even those deepest in despair. But we must be cautious as we discuss these remarkable examples. Though they are real and powerful, they are the exception more than the rule. For every Paul, for every Enos, and for every King Lamoni, there are hundreds and thousands of people who find the process of repentance much more subtle, much more imperceptible. Day by day they move closer to the Lord, little realizing they are building a godlike life. They live quiet lives of goodness, service, and commitment. They are like the Lamanites, who the Lord said “were baptized with fire and with the Holy Ghost, and they knew it not.” (3 Ne. 9:20)”
+- — [Ezra Taft Benson](/notes/ezra-taft-benson)
+- -Page 63-
+- “A quick reading of the Book of Mormon, a few prayers, a shallow attempt at repentance, a casual regard for the covenants we’ve made—of course that is not enough. The scriptures use over and over again the word “steadiness” to describe faithful disciples of the Lord Jesus Christ . . . It’s in periods of that steadiness that I notice, almost in the way you are surprised at your wet shoes from the dew formed on the grass overnight, and look up and realize the Holy Ghost has been enlightening my mind and enlarging my heart.”
+- — [Henry B. Eyring](/notes/henry-b-eyring)
+- "Though imperfect, an improving person can actually know that the course of his life is generally acceptable to the Lord despite there being much distance yet to be covered."
+- — [Neal A. Maxwell](/notes/neal-a-maxwell)
+- Born Again: A Child of God’s Fullness
+- “It was never intended that we remain children forever—even the children of Christ. The gospel plan has been given that we might mature spiritually to the point where we become joint-heirs or co-inheritors, with Christ, and thus become sons and daughters of God, meaning the Father.”
+- — [Robert L. Millet](/notes/robert-l-millet)
+- -Page 64-
+- Death is a Blessing
+- “The only difference between the old and young dying is, one lives longer in heaven and eternal light and glory than the other, and is freed a little sooner from this miserable, wicked world.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- Death is not to be feared
+- “More painful to me are the thoughts of annihilation than death. If I have no expectation of seeing my father, mother, brothers, sisters and friends again, my heart would burst in a moment, and I should go down to my grave. The expectation of seeing my friends in the morning of the resurrection cheers my soul and makes me bear up against the evils of life. It is like their taking a long journey, and on their return we meet them with increased joy.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- Death is a release from mortality
+- “It would be tragic if a man, when he grew to be as old as our brother, were compelled to remain distressed and helpless in mortality, continuing on and on without the ability to longer enjoy life here. And so the Lord has decreed that we all come into the world in the same way, our time here being limited. We all have an opportunity to enjoy happiness in mortality, and then, if we have been wise, we pass on, prepared for eternal happiness in the celestial kingdom when this earth that we dwell upon shall be cleansed and purified by fire and will be presided over by our Heavenly Father and by our elder brother, Jesus Christ, as one of their dominions. With that assurance in our lives, death is not such a serious matter.”
+- — [George Albert Smith](/notes/george-albert-smith)
+- Death will be a great and glorious experience
+- “We shall turn round and look about upon it and think, when we have crossed it (the Valley of Death), why this is the greatest advantage of my whole existence, for I have passed from a state of sorrow, grief, mourning, woe, misery, pain, anguish and disappointment into a state of existence, where I can enjoy life to the fullest extent as far as that can be done without a body. My spirit is set free, I thirst no more, I want to sleep no more, I hunger no more, I tire no more, I run, I walk, I labor, I go, I come, I do this, I do that, whatever is required of me, nothing like pain or weariness, I am full of life, full of vigor, and I enjoy the presence of my Heavenly Father.”
+- — [Brigham Young](/notes/brigham-young)
+- -Page 65-
+- Death is only a short separation
+- “I know that my testimony is true; hence, when I talk to these mourners, what have they lost? Their relatives and friends are only separated from their bodies for a short season: their spirits which existed with God have left the tabernacle of clay only for a little moment, as it were; and they now exist in a place where they converse together the same as we do on the earth.”
+- — [Joseph Smith](/notes/joseph-smith)
+- How we die is unimportant
+- “God, in his eternal decrees, has ordained that all men must die, but as to the mode and manner of our exit, as I said before, it matters very little.”
+- — [John Taylor](/notes/john-taylor)
+- Death rewards the righteous
+- “When I see a man or a woman, a true and faithful Latter-day Saint pass away, I do not feel in my heart to mourn. Why should we mourn for the woman whose remains lie before us? She has been true and faithful to the sacred and holy covenants that she entered into with God her heavenly Father; she has received those ordinances in the house of God that will prepare her to go into the presence of the best men and women that have lived upon the earth; she has left a noble posterity to bear her name and to bear record of and to emulate her example; she is freed from pain and suffering and the anxieties of life, and is now beyond the power of the enemy of all righteousness; she has opened her eyes in the spirit world, among her relatives and friends and her own little ones, whose death caused her grief and pain; she has gone to enjoy the society of those who have washed their robes and made them white in the blood of the Lamb, and to inherit the blessings and glory of eternal life. No, I cannot feel to mourn for her. It is hard, of course, to part with our friends; but after all it is with regard to them, as one of old said. “It is better to go to the house of mourning, than the house of feasting.” It is natural for us to give expression to our feelings in tears in laying away the bodies of our beloved friends.”
+- — [Wilford Woodruff](/notes/wilford-woodruff)
+- -Page 66-
+- God is over all in life or death
+- “We know . . . that the issue of life and death and the welfare of the human family are in the hands of our great Creator, and that it should be so we realize as fully as any people that live upon the earth. The wisdom of the Almighty we begin to comprehend to such a drgree that we feel to leave all things in His hands after we have done our whole duty, after we have prayed and fasted and worked for the restoration of the sick. We feel that the Father is overall, and that by His power are the sick raised from their beds of affliction; and without His good pleasure we cannot realize the blessings that we in our finite wisdom think we ought to possess. It is proper that our Heavenly Father should hold within His grasp the welfare of His children in life and death; and he commands us, in cases of sickness, to call upon the elders of His church, that they may anoint with oil, and by the prayer of faith draw down His blessings. We receive the blessings always, whether in life or death; for He knows what is best for His children, and so we bow in humility before Him and acknowledge His hand in all things.”
+- — [Seymour B. Young](/notes/seymour-b-young)
+- Death of Infants
+- “The Lord takes many away, even in infancy, that they may escape the envy of man, and the sorrows and evils of this present world; they were too pure, too lovely, to live on earth; therefore, if rightly considered, instead of mourning we have reason to rejoice as they are delivered from evil, and we shall soon have them again.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- -Page 67-
+- On the loss of little ones
+- “There are many of our Latter-day Saint mothers who have mourned the loss of their little children, and many mothers have felt that they themselves had committed some great sin, else their little ones would not be taken from them. Now, to such mothers let me say, do not accuse the Lord of taking your little ones from you, nor feel that you have committed any great sin, that those little ones taken from you, because the Lord loves little children and he will not treat them unkindly, nor without mercy, for through the blood of his atonement they shall come forth in the morning of the resurrection with his saints, and they shall be glorified according to the words they would have accomplished in the earth had they lived.”
+- — [Hyrum G. Smith](/notes/hyrum-g-smith)
+- Death comes to all
+- “Who is there that can stay the hand of death? What talent, what ingenuity, what philosophy, religion, science or power of any kind? Who possesses that power, individually in this assembly or combined to say to the great monster death, Stand back, thou shalt not take thy victims? There is no such person, there is no such power, no such influence, such a principal does not exist, and it never will exist until the last enemy is destroyed, which the Scriptures tell us is death. But death shall be destroyed, and all then, even all the human family, shall burst the barriers of the tomb and come forth”
+- — [John Taylor](/notes/john-taylor)
+- -Page 68-
+- Beauty of the spirit world
+- “I can say with regard to parting with our friends, and going ourselves, that I have been near enough to understand eternity so that I have had to exercise a great deal more faith to desire to live than I ever exercised in my whole life to live . . . When we pass into the spirit world we shall possess a measure of his power. Here, we are continually troubled with ills and ailments of various kinds. In the spirit world we are free from all this and enjoy life, glory, and intelligence; and we have the Father to speak to us, Jesus to speak to us, and angels to speak to us, and we shall enjoy the society of the just and the pure who are in the spirit world until the resurrection.”
+- — [Brigham Young](/notes/brigham-young)
+- The spirits of all men go to the spirit world
+- “I will say that this nation and all nations, together with presidents, kings, emperors, judges, and all men, righteous and wicked, have got to go into the spirit world and stand before the bar of God. They have got to give an account of the deeds done in the body.”
+- — [Wilford Woodruff](/notes/wilford-woodruff)
+- Nature of those in the spirit world
+- “Flesh and blood cannot go there; but flesh and bones, quickened by the Spirit of God, can.”
+- — [Joseph Smith Jr.](/notes/joseph-smith)
+- Jesus and the spirit world
+- “Jesus himself set the example and pattern for others. While his body lay in the silent tomb, his noble spirit was not idle; hence, Peter says, that Jesus, being put to death in the flesh, was quickened by the spirit, by which also he went and preached to the spirits in prison that were sometime disobedient in the days of Noah, &c. Jesus entered the prison house of those persons who were destroyed in the mighty flood, and preached to them. Those antediluvian spirits had suffered in the prison some two thousand years, and upwards; they needed some information, and Jesus went to enlighten them.”
+- — [Orson Pratt](/notes/orson-pratt)
+- -Page 69-
+- Freedom of Faithful spirits
+- “As quickly as the spirit is unlocked from this house of clay, it is free to travel with lightning speed to any planet, or fixed star, or to the uttermost part of the earth, or to the depths of the sea, according to the will of Him who dictates. Every faithful man's labor will continue as long as the labor of Jesus, until all things are redeemed that can be redeemed, and presented to the Father.”
+- — [Brigham Young](/notes/brigham-young)
+- Preaching the gospel in the spirit world
+- “I believe, strongly too, that when the Gospel is preached to the spirits in prison, the success attending that preaching will be far greater than that attending the preaching of our Elders in this life. I believe there will be very few indeed of those spirits who will not gladly receive the Gospel when it is carried to them. The circumstances there will be a thousand times more favorable”
+- — [Lorenzo Snow](/notes/lorenzo-snow)
+- -Page 70-
+- Making Decisions The Lord’s Way
+- In the past I have tried to figure out whether I should go into business or into teaching or into the Arts or whatever. As I have begun to proceed along one path, having more or less gathered what facts I could, I have found that if that decision was wrong or was taking me down the wrong path - not necessarily an evil one, but one that was not right for me - without fail, the Lord has always let me know just this emphatically: “That is wrong, do not go that way. That is not for you!” On the other hand, there may have been two or three that I could have gone, any one of which would have been right and would have been in the general area providing the experience and means whereby I could fulfill the mission that the Lord had in mind for me. Because He knows we need to the growth, He generally does not point and say, ‘open that door and go 12 yards in that direction and; and then turn right and go 2 miles.’ But if it is wrong, he will let us know - we will feel it for sure. I am positive of that so rather than saying, ‘I will not move until I have this burning in my heart,’ let us turn it around and say ‘I will move unless I feel it is wrong;  and if it is wrong then I will not do it!’ By eliminating all of these wrong courses, very quickly you will find yourself going in that direction that you ought to be going, and then you receive the assurance: ‘yes, I am going in the right direction. I am doing what my Father in Heaven wants me to do because I am not doing the things he does not want me to do!’ And you can know that for sure. That is part of the growth process and part of accomplishing what our Father in Heaven has in mind for us.”
+- — [John H. Groberg](/notes/john-h-groberg)
+- Marriage
+- “I've heard a lot of young people from BYU and elsewhere say, ‘I've got to get a feeling of inspiration. I've got to get some revelation. I've got to fast and pray and get the Lord to manifest to me whom I should marry.’ Well, maybe it will be a little shock to you, but never in my life did I ask of the Lord whom I ought to marry. It never occurred to me to ask him. I went out and found the girl I wanted; she suited me; I evaluated and way to the proposition, and it just seemed a hundred percent to me as though this ought to be. Now, if I had done things perfectly, I'd have done some counseling with the Lord, which I didn't do, but all I did was pray to the Lord and ask for some guidance and direction in connection with the decision that I'd reached. A more perfect thing to have done would have been to counsel with him relative to the decision and get a spiritual confirmation that the conclusion, which I by my agency and faculties had arrived at, was the right one.”
+- — [Bruce R. McConkie](/notes/bruce-r-mcconkie)
+- -Page 71-
+- Blessings of the Promise: Oliver and Hyrum
+- The Prophet Joseph Smith conferred upon Hyrum Smith all the keys, Authority, and Gifts of the priesthood which he, The Prophet, held, and which were formerly held by Oliver Cowdery. The Lord also revealed to Hyrum Smith all that was necessary to make him completely, and to the whole degree, a witness with his brother Joseph, as a Prophet, Seer, Revelator and president of the Church, and to stand through all time and eternity at the head of this dispensation with his brother Joseph, A Witness for Christ. Thus, we see, Hyrum Smith became a president of the church with Joseph Smith, which place Oliver Cowdery might have held had he not wavered and fallen from his exalted station. I am firmly of the opinion that had Oliver Cowdery remained true to his covenants and obligations as a witness with Joseph Smith, and retained his authority and place, he, and not Hyrum Smith, would have gone with Joseph Smith as a prisoner and to martyrdom at Carthage. The sealing of the testimony through the shedding of blood would not have been complete in the death of the Prophet Joseph Smith alone; it required the death of Hyrum Smith who jointly held the keys of this dispensation it was needful that these Martyrs seal their testimony with their blood, that they ‘might be honored and the wicked might be condemned.’”
+- — [Joseph Fielding Smith](/notes/joseph-fielding-smith)
+- (Doctrines of Salvation, 1:218-219; see also D&C 136:35; Hebrews 9:16-17)
+- -Page 72-
+- The Calf Path
+- One day through the Primeval wood
+- a calf walk home as good calves should;
+- but made a trail all bent askew,
+-  A crooked Trail as all calves do.
+- Since then 300 years have passed,
+- And I infer the calf is dead.
+- But still he left behind his trail,
+- And thereby hangs my moral tale.
+- The trail was taken up next day
+- By a lone dog that passed that way
+- And then a wise Bellwether sheep
+- Pursued the trail o’er vale and steep,
+- And drew the stock behind him, too,
+- As good bellwethers always do.
+- And from that day, over Hill and Glade,
+- Through those old Woods a path was made.
+- And many men wound in and out,
+- And dodged and turned and bent about,
+- And uttered words of righteous wrath
+- Because ‘twas such a crooked path;
+- But still they followed -do not laugh-
+- The first migrations of that calf,
+- And though this winding wood-way stalked
+- Because he wobbled when he walked.
+-  this Forest path became a lane
+- That bent and turned and turned again;
+- This crooked lane became a road,
+- Where many a poor horse with his load
+- Toiled on beneath the burning sun,
+- And thus a century-and-a-half
+- They trod the footsteps of that calf.
+- The years passed on in swiftness sweet,
+- The road became a village street;
+- And this, before men were aware,
+- A city’s crowded thoroughfare.
+- And soon the central street was this
+- Of a renowned metropolis;
+- And men two centuries and a half
+- Trod in the footsteps of that calf.
+- Each day a hundred thousand route
+- Followed this zigzag calf about
+- And o’er his crooked journey went
+- The traffic of a continent.
+- A hundred thousand men were led
+- By one calf near three centuries dead.
+- They followed still his crooked way.
+- And lost one hundred years a day,
+- For thus such reverence is lent
+- To well-established precedent.
+- A moral lesson this might teach
+- Were I ordained and called to preach;
+- For men are prone to go it blind
+- Along the calf-paths of the mind,
+- And work away from sun to sun
+- To do what other men have done.
+- They follow in the the beaten track,
+- And out and in, and forth and back,
+- And still their devious course pursue,
+- To keep the path that others do.
+- They keep the path a sacred grove,
+- Along which all their lives they move;
+- But how the wise old woods-gods laugh,
+- Who saw the first primeval calf.
+- Ah, many things this tale might teach -
+- But I am not ordained to preach.
+- -Page 73-
+- The Children Who’ve Passed (John 11:25-26)
+- The little toy dog is covered with dust,
+- But sturdy and staunch he stands;
+- And the little toy soldier is red with rust,
+- And his musket molds in his hands.
+- Time was when the little toy dog was new,
+- And the soldier was passing fair,
+- And that was the time when our Little Boy Blue
+- Kissed them and put them there.
+- “Now don’t you go ‘til I come” he said
+- “And don’t you make any noise.”
+- So toddling off to his trundle-bed
+- He dreamt of the pretty toys.
+- And as he was dreaming, an angel song
+- Awakened our little boy blue –
+- Oh, the years are many, the years are long,
+- But the little toy friends are true!
+- Ay, faithful to Little Boy Blue they stand,
+- Each in the same old place,
+- Awaiting the touch of a little hand,
+- The smile of a little face,
+- And they wonder, as waiting these long years through,
+- In the dust of that little chair,
+- What has become of our little Boy Blue
+- Since he kissed them and put them there.
+- — [Eugene Field](/notes/eugene-field)
+- -Page 74-
+- “Another example is given of a man whose daughter came to him one evening and said, ‘Dad, may I use the care tonight?’ He replied, ‘It isn’t here.’
+- ‘What do you mean it isn’t here? Where is it?’
+- ‘I don’t know. I let a man borrow it.’
+- ‘Well, who is he?’
+- ‘I don’t know.’
+- ‘I don’t understand, when will he bring it back?’
+- The father then explained, saying, ‘You seem to be quite concerned about my car, and yet you don’t seem to appreciate my wanting to know about your dates – with whom and where you are going and when you will come back. I have far more interest in you and your welfare than in my automobile, and I hope you can understand now why I ask you these questions.
+- Children should understand and be made to feel the love and concern their parents have for them. If the proper relationship exists they will willingly confide their plans and be happy to have their friends and parents meet. When young people come to me for advice about courtship and marriage I usually suggest that they ask themselves the following questions:
+    - What kind of mother or father do I want my children to have?
+    - What kind of parent am I prepared to be?
+    - Do I want to associate with someone because of his popularity only, or do I look deeper for spiritual and moral qualities?
+    - Am I analyzing our similarities and difference in background, culture, and intellect?
+    - Am I prepared to adjust to these differences?
+    - Do I realize that such adjustments need to be made BEFORE marriage?
+- These considerations will certainly help in making a proper choice for a companion with whom one is prepared to spend eternity. Then after the marriage there are many responsibilities that cannot be taken lightly; but with each contracting party assuming his or her full share of the responsibility, there is nothing in this life that will bring greater satisfaction and happiness.
+- — [N. Eldon Tanner](/notes/n-eldon-tanner)
+- -Page 75-
+- Our Light
+- “I met a stranger in the night whose lamp had ceased to shine;
+- I paused and let him light his lamp from mine.
+- A tempest sprang up later on, and shook the world about,
+- And when the wind was gone, my lamp was out.
+- But back came to me the stranger – his lamp was glowing fine;
+- He held the precious flame and lighted mine”
+- “And I said to the man who stood at the gate of the year:
+- Give me a light, that I may tread safely into the unknown!
+- And he replied: Go out into the darkness and put your hand into the Hand of God.
+- That shall be to you better than light and safer than a known way.
+- So I went forth, and finding the Hand of God, trod gladly into the night.
+- And he led me towards the hills and the breaking of day in the lone East.”
+- — [Minnie Louise Haskins](/notes/minnie-louise-haskins)
+- (2 Corinthians 5:7)
+- -Page 76-
+- Constantly Listening
+- “When I was the president of Ricks College years ago, I remember having a man who was my priesthood leader come to my house each month to interview me about my home teaching. He brought with him a notebook in which he wrote notes. He recorded not only my report as a home teacher, but my observations about the gospel and life as well. I remember at first being very flattered. Then on Sunday he and I were visiting what was then called Junior Sunday School. He was a few rows in front of me. This speaker was a little girl no more than 6 or 7, probably not yet old enough to have the gift of the Holy Ghost. I glanced over at the man and noticed with surprise that he had that same notebook open. As the little girl spoke, he was writing with as much speed and intensity as he had in the study of my home. I learned a lesson from him that I haven't forgotten. He had faith that God could speak to him as clearly through a child as through the president of a college. I watched him over the years. He kept listening even to children and novices called to teach him. He may not even have kept the notes but he practiced listening, and he learned to hear. And so when he was desperate, as you and I will all someday be desperate, he could hear through the spirit the voice of comfort, direction, and then peace. “
+- — [Henry B. Eyring](/notes/henry-b-eyring)
+- How to Get the Help of the Holy Ghost
+- “If you want to obtain and keep the guidance of the spirit, you can do so by following this simple four-point program. First, pray. Pray diligently. Pray with each other. Pray in public in the proper places. Learn to talk to the Lord. Call upon his name in great faith and confidence. Second, study and learn the gospel. Third, live righteously. Repent of your sins by confessing them and forsaking them. Then conform to the teachings of the Gospel. Fourth, give service in the church. If you do these things, you will get the guidance of the Holy Spirit and you will go through this world successfully, regardless of what the people of the world say or do.”
+- — [Marion G. Romney](/notes/marion-g-romney)
+- -Page 77-
+- Assurance of Forgiveness
+- “I worked with a young man who had made great mistakes. I had long before forgiven him in the name of the church but he remembered that I had said ‘the Lord will forgive you in his own time and in his own way,’ and now he was deeply concerned. He came to my office and said ‘I need to know that I am forgiven. I am going to the temple to marry a wonderful girl I want to be the best I can be for her. I need to know that I am forgiven. Tell me how to find out.’ I asked Elder Kimball, how can he get that Revelation? How can he know? He said ‘tell me something about the young man; does he come to his priesthood meetings?’ Yes. ‘Does he come early?’ Yes. ‘Does he sit toward the front?’ Yes! Yes, he wasn't just at all his meetings, he was early, he was smiling, he was there not only with his whole heart, but with the broken heart of a little child, as he was every time the Lord asked anything of him. When I went back to the young man and told him what I now knew, he accepted it. But he may have simply had to take my word for it. You see, it's hard to feel that you are sufficiently humble.”
+- — [Henry B. Eyring](/notes/henry-b-eyring)
+- Conditions of Forgiveness
+- “To every forgiveness there is a condition. The plaster must be as wide as the sore. The fasting, the prayers, the humility must be equal to or greater than the sin. There must be a broken heart and a contrite spirit. There must be tears and genuine change of heart. There must be a conviction of this end, abandonment of the evil. There must be restitution and a confirmed, determined change of pace, direction, and destination. Conditions must be controlled and companionship corrected or changed. There must be a washing of robes to get them white and there must be a new consecration and devotion to the living of all of the laws of God. In short there must be an overcoming of self, of sin, and of the world!”
+- — [Spencer W. Kimball](/notes/spencer-w-kimball)
+- -Page 78-
+- The Other Side
+-  “A son of Bishop and Sister Wells (presiding Bishop at the time) was killed in a railroad accident on October 15th 1915. He was run over by a freight car. Sister Wells could not be consoled. She received no comfort during the funeral and continued her mourning after her son was laid to rest. Bishop Wells feared for her health, as she was in a state of deep anguish. One day, soon after the funeral, Sister Wells was lying on her bed in a state of mourning. The son appeared to her and said, ‘mother, do not mourn, do not cry. I am alright.’ Even related to her how the accident took place. Apparently there had been some question, even suspicion, about the accident because the young man was an experienced railroad man. But he told his mother that it was clearly an accident. Now note this: he also told her that as soon as he realized that he was in another sphere he had tried to reach his father but could not. His father was so busy with the details of his office and work that he could not respond to the promptings. Therefore, the son had come to his mother.”
+- The Eagle and the Serpent
+- “The story is told that some Shepherd's once saw an eagle soar out from a crag. It flew majestically far up into the sky, but by-and-by became unsteady and began to waver in its light. At length one wing dropped and then the other and the poor bird fell swiftly to the ground. The Shepherds sought the fallen bird and upon examination found that a little serpent had fastened itself upon it while it had been on the crag. The eagle did not know that the serpent was there, but it crawled through the feathers while the proud monarch was sweeping through the air and thrust his fangs into the Eagle’s flesh.”
+-  The Youth of Faith: Seekers
+- “The youth of the church are hungry for things of the spirit; they are eager to learn the gospel, and they want it straight, undiluted. They want to know about the fundamentals of our beliefs, they want to gain testimonies of the truth. They are not now doubters, but inquires, seekers after truth. Doubt must not be planted in their hearts. Great is the burden and the condemnation of any teacher who sows doubt in a trusting soul. These students crave the faith their parents have. They wish to be not only the beneficiaries of this faith, but they want to be themselves able to call it forth to work.”
+- — [J. Reuben Clark](/notes/j-reuben-clark)
+- -Page 79-
+- The Onion Patch
+- “Now, you have to know a bit about my father. His name was Henry Eyring. His work in chemistry was substantial enough to bring him many honors, but he was still a member of a ward of the church with his duty to do. To appreciate this story, you have to realize that this story occurred when he was nearly 80 and had bone cancer. The pain was great. Dad was the senior high councilor in his stake. An assignment was given to weed a field of onions, so Dad assigned himself. He never told me how hard it was, but I have met several people who were with him that day. They said that the pain was so great that Dad was pulling himself along on his stomach with his elbows. He couldn't kneel. When all the work was finished, someone said to him, ‘Henry, good Heavens! You didn't pull those weeds, did you? Those are sprayed two days ago, they were going to die anyway.’ Dad just roared! He thought that was the funniest thing. When Dad told me this story I knew how tough it was. So I asked, ‘Dad, how could you take it so pleasantly?’ He said something to me that I will never forget, and I hope you won't. He said, ‘Hal, I wasn't there for the weeds.’ Now, you'll be an onion patches most of your life. It will be hard to see the powers of Heaven magnifying us or our efforts. It may even be hard to see our work being of any value at all. But you didn't come for the weeds, you came for the Savior.”
+- — [Henry B. Eyring](/notes/henry-b-eyring)
+- The Simplicity of the Gospel
+- “When a teacher feels he must blend worldly sophistication and erudition to the simple principles of the Gospel so that his message will have more appeal he has compromised his message. We seldom impress people by this means and almost never convert them to the gospel. We encourage you to get your higher degrees and to further your education, but let us not forget the dissatisfaction from the gospel in the Lord's church was brought about in the past by the attempts to reconcile the pure gospel with the secular philosophies of men. Nominal Christianity outside the restored Church stands as an evidence that the blend between worldly philosophy and revealed truth leads to impotence. Likewise, you teachers will have no power if you attempt to do the same in your educational Pursuits and classroom teaching.”
+- — [Ezra Taft Benson](/notes/ezra-taft-benson)
+- -Page 80-
+- Our True Religion
+- “A lonely young Persian student was in Munich, struggling to find meaning to life in post-war Europe. He heard a knock at the door one day, and two Mormon missionaries stood before him. He was not the least interested in religion. The only thing that interested him about these two young men was their accent. He had mastered four languages, but English was not one of them. He invited them in, but as soon as they began their discussion, he cautioned, ‘I don’t want to hear about God, nor how your religion got started. I only want to know one thing: what do you people do for one another?’ He waited as the elders exchanged glances. Finally, one of them said softly, ‘We love one another.’ Nothing that missionary could have said would have been more electrifying than this simple utterance, for the Holy Ghost immediately bore witness that these missionaries were true servants of the Lord. Shortly thereafter, he was baptized into the church.”
+- — [James E. Faust](/notes/james-e-faust)
+- The Worth of a Teacher
+- “A traveler in the Easter country overtook an old gentleman walking towards a town, and asked him, ‘who is the great man of that little town? Who is your leading man? Who is the governor and controlling spirit of that little place?’ The old gentleman replied, ‘I am the king of that little town.’ ‘Really,’ says the traveler, ‘are you the leading man?’ ‘Yes sir, I am the king in that place, and reign as king.’ ‘How do you make this to appear? Are you in affluent circumstances?’ ‘No, I am poor; but in that little village there are so many children. All those children go to my school; I rule the children, and they rule their parents and that makes me king.”
+- — [Brigham Young](/notes/brigham-young)
+- “The Echo” By [C.C. Miller](/notes/c-c-miller)
+- “’Twas a sheep, not a lamb
+- That strayed away in the parable Jesus told.
+- A grown up sheep that strayed away
+- From the ninety and nine in the fold.
+- And why for the sheep should we seek and earnestly hope and pray?
+- Because there is danger when sheep go wrong: they lead the lambs astray.
+- When sheep go wrong,
+- It won’t take long
+- ‘Til the lambs are as wrong as they.
+- And so with the sheep we earnestly plead
+- For the sake of the lambs today,
+- For when the sheep are lost
+- What a terrible cost
+- The lambs will have to pay
+- -Page 81-
+- Learned Optimism (2 Ne. 4:17-30)
+- **A**dversity: Think of some adversity you have that has the potential to bring you down (e.g. I
+- failed a test.)
+- **B**elief: Be aware of what you think about the adversity (e.g. I tried so hard to study. I’m
+- probably the stupidest person in the class.)
+- **C**onsequences: Be aware of the consequences of your beliefs about the adversity. (e.g. If I
+- believe I’m the stupidest, I may be at risk of not studying at all, of feeling worthless)
+- **D**isputation: Question whether your beliefs are the only explanation for the adversity. What
+- is the evidence for my belief? Are there other possible explanations? What are the implications of believing this way? (e.g. does it help me at all to believe I’m the stupidest? Might I be able to study harder?)
+- **E**nergize: Be aware of new consequences, behavior, feelings, actions that do or could follow
+- from a different or more optimistic explanation (e.g. If I believe I could have studied harder I will be motivated to try.)
+- **F**inally, Pray!
+- Forget Me Not
+    - Forget not to be patient with yourself. He talked about how God’s fully aware of us and it is part of our mortal existence to have weakness.
+    - Forget not the difference between a good sacrifice and a foolish sacrifice. He talked about how some things are worth our time and others are not, like staying up with a sick child vs. making individualized pot-holders.
+    - Forget not to be happy now. This was all about finding joy in the journey. He mentioned Charlie and the Chocolate Factory, and how all the kids were looking for the golden tickets, thinking that when certain things happen, then we will be happy, but really we need to be happy now and enjoy the journey.
+    - Forget not the why of the gospel. He talked about how the gospel is not just a to-do list. It is not an obligation, but a pathway.
+    - Forget not that the Lord loves you. He then said, “as an apostle of the Lord, I convey with all the authority that I have that you are not forgotten.”
+- — [Dieter F. Uchtdorf](/notes/dieter-f-uchtdorf) (as interpreted by [Denise Harrison](/notes/denise-harrison))
+- Early Missionary Hardship
+- “In my early missions, when preaching in the Southern States I have waded through swamps and rivers and have walked seventy miles or more without eating. In those days we counted it as a blessing to go into a place where there was a Latter-Day Saint. I went once 150 miles to see one; and when I got there he had apostatized and tried to kill me. Then, after traveling 72 miles without food, I sat down to eat my meal with a Missouri mobocrat, and he damning and cursing me all the time.”
+- — [Wilford Woodruff](/notes/wilford-woodruff)
+- -Page 82-
+- The Spirits Converting Power
+- “President Heber J. Grant had a brother who was not active in the church, he was a good man but he kept poor company. One day the brother felt impressed after traveling around the world to come back to Salt Lake City and he came to the tabernacle during General Conference. President Grant was seated on the stand and saw his derelict brother walk in. President Grant said, “I didn’t know if I would be called upon to speak, but when I saw my brother I prayed that if I were called upon to speak that I would say something that would touch the heart of my brother.” He pulled out his ready reference and began preparing. He wanted to speak beyond his natural ability and so he prayed. President Grant was called upon to speak and he stood up and soon forgot that ready reference and simply bore testimony of the power of Christ that led to the restoration and that led the early saints across the plains and specifically he bore testimony to the prophetic glory of the Prophet Joseph Smith. There is nothing unusual about that talk; its just an ordinary collection of words. But when he finished speaking and sat down, he heard President George Q. Cannon say, “thank God for the power of that testimony.” President Grant put his head down and wept. Then, President Canon was called upon to speak. He said, “there are times when the Lord almighty inspires some speaker by the revelation of His spirit and he is so abundantly blessed by the inspiration of the living God that it is a mistake for anyone else to speak following him. One of those occasions has been today and I desire that this meeting b e dismissed without further remarks.” And so it was. The next day his brother came and said, “Heber, I heard you yesterday. You can’t speak that well. You spoke beyond your own natural ability.” He used the exact phrase. President Grant said, “does the Lord have to get a club and knock you down? What does it mean when I can’t speak that well except when I speak about the Master and Joseph Smith?” ‘You win,’ said his brother, and he became an active Latter-Day Saint.”
+- The Best of You
+- “If you can’t put a pine on top of a hill
+- Be a scrub in the valley.
+- But be the best little scrub by the side of the hill,
+- Be a bush if you can’t be a tree.
+- If you can’t be a muskie then just be a bass,
+- But the luckiest bass in the lake!
+- We can’t all be captains, some have to be crew,
+- There’s something for all of us here.
+- There’s big work to do and there’s lesser to do,
+- And the task you must do is the near.
+- If you can’t be a highway then just be a trail,
+- If you can’t be the sun, be the star;
+- It isn’t the size that you win or you fail,
+- Be the best of whatever you are.”
+- — [Douglas Malloch](/notes/douglas-malloch)
+- -Page 83-
+- Example
+- “A careful man I want to be
+- A little fellow fallows me.
+- I do not dare to go astray
+- For fear he’ll go the self-same way
+- I cannot escape his eyes
+- What e’er he sees me do he tries
+- Like me he says he’s going to be
+- The little chap that follows me.
+- He thinks that I am good and fine,
+- Believes in every work of mine
+- The base in me he must not see
+- The little chap who follows me.
+- I must remember as I go
+- Through summers sun and winters snow
+- I’m building for the years to be
+- The little chap who follows me.”
+- “I want no man to lean upon me, nor follow me, only so far as I am a consistent follower in the footsteps of the Master.”
+- — [Joseph F. Smith](/notes/joseph-f-smith), see LBQB pg. 193)
+- A Father’s Prayer
+- “Build me a son, O Lord, who will be strong enough to know when he is weak and brave enough to face himself when he is afraid; one who will be proud of unbending in honest defeat, and humble and gentle in victory.
+- Build me a son whose wishbone will not be where his backbone should be; a son who will know thee, and that to know himself is the foundation stone of knowledge.
+- Lead him, I pray, not in the path of ease and comfort, but under the stress and spur of difficulties and challenges; Here let him learn to stand up in the storm; Here let him learn compassion for those who feel.
+- Build me a son whose heart will be clean, whose goal will be high, a son who will master himself before he seeks to master men; one who will learn to laugh yet never forget how to weep; one who will reach into the future yet never forget the past.
+- After all these things are his, add, I pray, enough of a sense of humor, so that he may not always be serious, yet never take himself too serious. Give him humility so that he may always remember the simplicity of true greatness, the open mind of true wisdom, the meekness of true strength.
+- Then I, his father, will dare to whisper,
+- I have not lived in vain.
+- — General [Douglas MacArthur](/notes/douglas-macarthur)
+- -Page 84-
+- The Man in the Glass
+- “When you get what you want in your struggle for self,
+- And the world makes you king for a day
+- Then go to the mirror and look at yourself
+- And see, what the guy has to say.
+- For it isn’t a man’s father, or mother or wife,
+- Upon you whose judgment must pass.
+- The fellow whose verdict counts most in this life
+- Is the guy starring back from the glass.
+- He’s the fellow to please, never mind all the rest
+- For he’s with you clear up to the end.
+- And you’ve passed your most dangerous, difficult test
+- If the guy in the glass is your friend.
+- You may be like Jack Horner and “chisel” a plumb
+- And think you’re a wonderful guy.
+- But the man in the glass says you’re only a bum
+- If you can’t look him straight in the eye.
+- You can fool the whole world down the pathways of years
+- And get pats on the back as you pass.
+- But the final reward will be the heartache and tears
+- If you’ve cheated the man in the glass.
+- — [Joseph F. Smith](/notes/joseph-f-smith)
+- A Testimony’s Foundation
+- “From my boyhood I have desired to learn the principles of the gospel in such a way and to such an extent that it would matter not to me who might fall from the truth, who might make a mistake, who might fail to continue to follow the example of the master, my foundation would be sure and certain in the truths that I have learned, though all men else go astray and fail of obedience to them. We all have heard of people who have pinned their faith to the arm of flesh, who have felt that their belief, their confidence and their love for the principles of the gospel of Jesus Christ would be shattered, if their ideals-those possibly who first taught them the principles of the gospel-should make a mistake, falter, or fail.”
+- — [Joseph F. Smith](/notes/joseph-f-smith)
+- A Sublime Simplicity
+- “As soon as we convert our religion into a system of philosophy, none but philosophers can understand, appreciate, or enjoy it. God, in his revelation to man, has made his word so simple that the humblest of men, without special training, may enjoy great faith, comprehend the teachings of the gospel, and enjoy undisturbed their religious convictions.”
+- — [Joseph F. Smith](/notes/joseph-f-smith)
+- -Page 85-
+- Sacrifice Brings Forth the Blessings of Heaven
+- “A husband and father goes to work each day to provide for his family. The work is hard, but he sticks with it. Over time, things become nearly unbearable with his boss and his co-workers. Going to work each day is torture. He hunts for another job. He goes to the temple. He speaks with his Bishop. He does everything at his current job that he can think of to make things better. However, the torture continues year after year without relief. Things at work continue to get worse. Then, one day when he is attending the temple he is sitting in the celestial room praying about his suffering and his situation when he hears the spirit whisper, ‘it is enough.’ With this, the next day he quits his job. Because he has labored for years, there is not a new job forthcoming. He loses his home, his family is put under great strain as their poverty becomes worse. So, what did the Lord mean when he said, ‘it is enough’? Maybe the Lord meant the man’s sacrifice was noticed by God and it was an acceptable sacrifice. When we have made an acceptable sacrifice, God will strengthen us in our affliction, then, according to His will, He will free us.”
+- — Bishop [David Daniels](/notes/david-daniels)
+- The Blessed and Happy State
+- “It is held to be easy to sin, hard to do right. But if we could look at life as a whole, we should realize at once that to sin makes life much harder than being virtuous. Do you remember the first time you did some beastly thing? No one knew anything about it, you told no one, and no one found out. No one condemned you, but how your face flushed, your heart bent against your ribs, and maybe perspiration broke out on your brow as though what is really true. You whole bodily nature was saying ‘it is hard to do wrong. It is against nature. Life won’t work this way.’ You went to bed that night, you tied a bandage around the eyes of your soul, you built a little shelter in which to hide. You tried to sleep but no sleep came. You said to yourself, ‘other people do it, or I had to do it or no one else can ever find out.’ There were hands from the unseen world that came through the darkness and tore the bandage from the eyes of the soul and smashed down the little shelter you had made for your cowering spirit, and a voice came through the darkness that said to you, ‘man, man, why persecutes thou me? It is hard for thee to kick against the goad.’ You think sin is easy? Do you call that easy? Can anyone think life is easy when a man is plunged into that black depression of the soul that is far from God, and a darkness deeper than an night in hell?  On the other hand, do you remember that occasion when instead of following the lure of the downward track you keep up with your shoulders back, your eyes shining, your face to the mountains? You deliberately chose good and smashed it in the face of evil. What a sense of well-being came. What a peace fell over the heart. What a triumphant sense of victory. A calm of mind, a health of body, because it is easy to do right and hard to do wrong if only you look far enough ahead.”
+- — [Leslie Weatherhead](/notes/leslie-weatherhead)
+- -Page 86-
+- A ‘River of Water’
+- “I can still remember the scriptural awakening that came to me when a skillful and well-prepared seminary teacher, teaching that much read and, to us students, absolutely boring material from 1 Nephi. I can remember when he asked me, in class, why in 1 Nephi 2:6 the Book of Mormon records that Lehi ‘pitched his tent in a valley by the side of a river of water.’ Well, it was early in the year, only the first day or two of class, and as always, the teacher was still very much on trial. Being the smartaleck student I almost always was, I made some clever response about it being smarter to pitch a tent by the side of a river than in it… I knew I was a hit because the girls giggled. The teacher didn’t giggle. He smiled and he said wit the smile still on his face. ‘You’re not answering the question, Jeff, because you’re not reading the text. It doesn’t say that Lehi pitched his tent by the river or in the river; it says he pitched by a river of water. Why did he say a river of water Jeff? What other kinds of rivers are there?” The young student didn’t know what to say. What other kinds of rivers are there, anyway? The teacher went on to explain to the class that the deserts of Arabia have rivers of sand as well as rivers of water. Although you and I might have thought there are only rivers of water, Nephi knew differently.”
+- — [Jeffrey R. Holland](/notes/jeffrey-r-holland)
+- Consecration: Led Day to Day
+- “If the brethren who profess to be saints, and do wrong, would reveal the root of the matter, and tell the whole truth, it would be ‘I have a desire to do a great deal of good, but the devil’s always at my elbow, and I always like to keep the old gentleman near so that I can put my hand upon him, for I want to use him sometimes.’ That is the reason why men and women are overcome with evil. Again, I can charge you with what you will all plead guilty of, if you would confess the truth: you dare not quite give up all your hearts to God, and become sanctified throughout, and be led by the Holy Ghost from morning until evening, and from one years end to another. I know this is so, and yet few will acknowledge it. I know this feeling is in your hearts, as well as I know the sun shines… If you cleave to holy, godlike principles, you add more good to your organization… and the good spirit and influence which comes from the Father of lights, and from Jesus Christ, and from the holy angels adds good to it. And when you have been proved, and when you have labored and occupied sufficiently upon that, it will become in you what Brother Joseph Smith told Elder Taylor: if he would adhere to the spirit of the Lord strictly, it should become in him a fountain of revelation! That is true. After a while the Lord will say to such: ‘My son, you have been faithful, you have clung to good, and you love righteousness and hate iniquity from which you have turned away, now you shall have the blessing of the Holy Spirit to lead you, and be your constant companion, from this time henceforth and forever! Then the holy spirit becomes your property forever, it is given to you for a profit, and an eternal blessing. It tends to addition, extension and increase, to immortality and eternal life. Let us do the best we can, and if we make a mistake once, seven times, or seventy times seven in a day, and are honest in our confessions, we shall be forgiven freely. As we expect to obtain mercy, so let us have mercy upon each other. And when the evil spirit comes let him find no place in you.”
+- — [Brigham Young](/notes/brigham-young), Journal of Discourses 2:129-136)
+- -Page 87-
+- “O world of spring and autumn, birth and dying!
+- The endless cycle of idea and action, endless invention, endless experiment,
+- Brings knowledge of motion, but not of stillness;
+- Knowledge of speech, but not of silence;
+- Knowledge of words, and ignorance of the word.
+- All our knowledge brings us nearer to our ignorance,
+- All our knowledge brings us nearer to death,
+- But nearness to death, no nearer to God.
+- Where is the life we have lost in living?
+- Where is the wisdom we have lost in knowledge?
+- Where is the knowledge we have lost in information?
+- The cycles of Heaven in twenty centuries
+- Brings us farther from God and nearer to the dust.”
+- — [T.S. Elliot](/notes/t-s-eliot), choruses from ‘The Rock’
+- “As we depart form the simplicity of early days, we may naturally expect that this tendency will increase as young men may be restrained from offering marriage to young ladies unless they can give them something like as comfortable a home as they enjoy under their parent’s roof. Extravagant or luxuriant habits of training on the part of the girls will also have the effect to deter young men from marrying… the young of both sexes should be taught that it is not necessary to happiness in marriage to be in the possession of wealth. When the daughters of Zion are asked by the young men to join with them in marriage, instead of asking ‘has this man a fine brick house, a span of fine horses and a carriage?’ they should ask, ‘is he a man of God? Has he the spirit of God with him? Is he a Latter-Day Saint? Does he pray? Has he got the spirit upon him to qualify him to build up the kingdom?’ If he has that, never mind the carriage and the brick house, take hold and unite yourselves together according to the law of God.”
+- — [Wilford Woodruff](/notes/wilford-woodruff)
+- -Page 88-
+- The Color of Life
+- “There is an old story which told of the experience of a great artist who was engaged to paint a mural for the cathedral in a Sicilian town. The subject was the life of Christ. For many years the artist labored diligently, and finally the painting was finished except for the two most important figures, the Christ Child and Judas Iscariot. He searched far and wide for two models for these figures. One day while walking in an old part of the city he came upon some children playing in the street. Among them was a 12-year old boy whose face stirred the painters heart. It was the face of an angel—a very dirty one, perhaps, but the face he needed. The artist took the child home with him, and day after day the boy sat patiently until the face of the Christ Child was finished. But the painter failed to find a model for Judas. For years, haunted by the fear that his masterpiece would remain unfinished, he continued his search. One afternoon, in a tavern, the painter saw a gaunt and tattered figure stagger across the threshold and fall to the floor, begging for a glass of wine. The painter lifted him up and looked into a face that startled him. It seemed to bear the marks of every sin of mankind. ‘Come with me,’ the painter said, ‘I will give you wine, food, and clothing.’ Here at last was his model for Judas. For many days and parts of many nights the painter worked feverishly to complete his masterpiece. As the work went on, a change came over the model. A strange tension replaced the stuporous languor, and his blood shot eyes were fixed with horror on the painted likeness of himself. One day, perceiving his subject’s agitation, the painter paused in his work, saying, ‘My son, I’d like to help you. What troubles you so?’ The model sobbed and buried his face in his hands. After a long moment he lifted pleading eyes to the old painter’s face. ‘Do you not then remember me? Years ago I was your model for the Christ Child.’—Well, the story may be fact or fiction, but the lesson it teaches is true to life. The dissipated man made a wrong choice in his youth, and after seeking gratification in indulgence sank ever lower and lower until he wallowed in the gutter.”
+- — [David O. McKay](/notes/david-o-mckay)
+- A Longing Temptation
+- “All good things require effort. That which is worth having will cost part of your physical being, your intellectual power, and your soul power— “Ask, and it shall be given you; seek, and ye shall find; knock and it shall be opened unto you.” (Matt. 7:7). But you have to seek, you have to knock. On the other hand, SIN THRUSTS ITSELF UPON YOU. It walks beside you, it tempts you, it entices, it allures. You do not have to put forth effort… It is like the billboard advertising attracting you to drink and to smoke. It is like the message that comes into your very homes with the television and the radio… Evil seeks you, and it requires effort and fortitude to combat it. But truth and wisdom are gained only by seeking, by prayer, and by effort.”
+- — [David O. McKay](/notes/david-o-mckay)
+- -Page 89-
+- The Marriage Covenant
+- “First, that their married course begins in purity. The children who come to bless that union
+- are guaranteed a royal birth so far as inheriting a clean body is concerned.
+- Second, that their religious views are the same. The difficulty of rearing children properly is
+- aggravated when father and mother have divergent views regarding doctrine and church affiliation.
+- Third, that their vows are made with the idea of an eternal union, not to be broken by petty
+- misunderstandings or difficulties.
+- Fourth, that a covenant made in God’s presence and sealed by the Holy Priesthood is more
+- binding than any other bond.
+- Fifth, that a marriage thus commenced is as eternal as love, the divinest attribute of the
+- human soul.
+- Sixth, that the family unit will remain unbroken throughout eternity.”
+- — [David O. McKay](/notes/david-o-mckay)
+- Pride: Aspiration
+- “I have noticed some in my travels, those who, like the disciples of Jesus of old, evince a great desire for power, and manifest a very great disposition to know who among them shall be greatest. This is folly, for honor precedes not from office, but by a person magnifying his office and calling. If we have any honor proceeding from or through the priesthood, it comes from God, he ought to have the glory and not us, and our magnifying our calling is the only way or medium through which we can obtain honor or influence.”
+- — [John Taylor](/notes/john-taylor)
+- Living Revelation
+- “We require a living tree—a living fountain—living intelligence, proceeding from the living priesthood in heaven, through the living priesthood on earth… And from the time that Adam first received a communication from God, to the time that John, on the isle of Patmos, received his communication, or Joseph Smith had the heavens opened to him, it always required new revelations, adapted to the peculiar circumstances in which the churches or individuals were placed. Adam’s revelation did not instruct Noah to build his ark; nor did Noah’s revelation tell Lot to forsake Sodom; neither did either of these speak of the departure of the children of Israel from Egypt. These all had revelations for themselves, and so had Isaiah, Jeremiah, Ezekiel, Jesus, Peter, Paul, John, and Joseph. And so must we, or we shall make shipwreck.”
+- — [John Taylor](/notes/john-taylor)
+- -Page 90-
+- Unfinished Composition By: [Boyd K. Packer](/notes/boyd-k-packer)
+- 1992
+- “I had a thought the other night,
+- A thought profound and deep.
+- It came when I was too worn down,
+- Too tired to go to sleep.
+- I’d had a very busy day
+- And pondered on my fate.
+- The thought was this:
+- When I was young, I wasn’t 68!
+- I could walk without a limp;
+- I had no shoulder pain.
+- I could read a line through twice
+- And quote it back again.
+- I could work for endless hours
+- And hardly stop to breathe.
+- And things that now I cannot do
+- I mastered then with ease.
+- If I could now turn back the years,
+- If that were mine to choose,
+- I would not barter age for youth,
+- I’d have too much to lose.
+- I am quite content to move ahead,
+- To yield my youth, however grand.
+- The thing I’d lose if I went back
+- Is what I understand
+- 2002
+- Ten years have flown to who knows where
+- And with them much of pain.
+- A metal hip erased my limp;
+- I walk quite straight again.
+- Another plate holds neck bones fast
+- A wonderful creation!
+- It backed my polio away:
+- I’ve joined the stiff-necked generation.
+- The signs of aging can be seen.
+- Those things will not get better.
+- The only thing that grows in strength
+- With me is my forgetter.
+- You ask ‘Do I remember you?’
+- Of course, you’re much the same.
+- Now don’t go getting all upset
+- If I can’t recall your name.
+- I would agree I’ve learned some things
+- I did not want to know,
+- But age has brought those precious truths
+- That make the spirit grow.
+- Of al lthe blessings that have come
+- The best thing in my life
+- Is the companionship and comfort
+- I get from my dear wife.
+- Our children all have married well,
+- With families of their own,
+- With children and grandchildren
+- How soon they all have grown.
+- I have not changed my mind one bit
+- About regaining youth.
+- We’re meant to age for with it
+- Comes a knowledge of the truth.
+- You ask ‘what will the future bring?
+- Just what will be my fate?’
+- I’ll go along and not complain.
+- Ask when I’m 88!
+- 2012
+- And now, you see, I’m 88.
+- The years have flown so fast.
+- I walked, I limped, I held a cane.
+- And now I ride at last.
+- I take a nap now and again,
+- But Priesthood power remains.
+- For all the physical things I lack
+- There are great spiritual gains.
+- I have travelled the world a million miles
+- And another million too.
+- And with the help of satellites
+- My journeys are not through.
+- I now can say with all certainty
+- That I know and love the Lord.
+- I can testify with them of old
+- As I preach his holy word.
+- I know what He felt in Gethsemane
+- Is too much to comprehend.
+- I know He did it all for us;
+- We have no greater friend.
+- I know that He will come anew
+- With power and in glory.
+- I know I will see Him once again
+- At the end of my life’s story.
+- I’ll kneel before His wounded feet;
+- I’ll feel His spirit glow.
+- My whispering, quivering voice will say,
+- My Lord, My God, I know.”
+- -Page 91-
+- The Kingdom of God or Nothing
+- “In 1838, soon after his call to the Quorum of the Twelve, John Taylor travelled towards Far West, Missouri, to join the Saints. Along the way, he was scheduled to speak to a group near Columbus, Ohio. A little before the appointed time, some brethren brought news that a number of men had gathered at the meeting place and were plotting to tar and feather Elder Taylor. The brethren advised him to cancel the meeting because they were outnumbered and would not be able to protect him. However, Elder Taylor insisted he would go and preach as planned and would do so even if he had to go by himself. When he reached the large crowd assembled to hear him, he proceeded to speak first about his having recently come from countries ruled by monarchs. He told them of the honor he felt of standing on free soil. In reference to how that freedom was achieved, he said, “Gentlemen, I now stand among men whose fathers fought for and obtained one of the greatest blessings ever conferred upon the whole human family—the right to speak, to think, to write; the right to say who shall govern them, and the right to worship God according to the dictates of their own consciences—all of them sacred, human rights, and now guaranteed by the American Constitution. I see around me the sons of those noble sires, who, rather than bow to the behest of a tyrant, pledged their lives, fortunes, and sacred honors to burst those fetters, enjoy freedom themselves, bequeath it to their posterity, or die in the attempt.’ Elder Taylor then continued: “But, by thereby, I have been informed that you purpose to tar and feather me, for my religious opinions. Is this the boon you have inherited from your fathers? Is this the blessing they purchased with their dearest heart’s blood—this your liberty? If so, you now have a victim, and we will have an offering to the goddess of liberty.” Having said that he tore open his vest and exclaimed: “Gentlemen, come on with your tar and feathers, your victim is ready; and ye shades of the venerable patriots, gaze upon the deeds of your degenerate sons! Come on, gentlemen! Come on, I say, I am ready.” Elder Taylor paused for a few minutes, but no one would move or speak. He then continued his remarks and preached to the crowd with boldness and power for three hours.”
