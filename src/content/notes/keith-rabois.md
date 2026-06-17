@@ -20,7 +20,7 @@ reference_count: 1
 
 # Keith Rabois
 
-Ex-[PayPal](/notes/paypal) and Square executive; investor at [Founders Fund](/notes/founders-fund). Originated the **barrels vs. ammunition** and **scope expansion** hiring frameworks Kyle draws on.
+Ex-[PayPal](/notes/paypal) and [Square](/notes/square) executive; investor at [Founders Fund](/notes/founders-fund). Originated the **barrels vs. ammunition** and **scope expansion** hiring frameworks Kyle draws on.
 
 ## Where this appears
 

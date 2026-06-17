@@ -8,6 +8,7 @@ updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/It's Time To Build... But Build What - Research.md"
+  - "wiki/books/Utopia For Realists.md"
 tags:
   - "ideological-family-tree"
   - "people-over-politics"
@@ -28,3 +29,4 @@ _Stub page — created from It's Time To Build... But Build What - Research. Exp
 ## Where this appears
 
 - It's Time To Build... But Build What - Research
+- [Utopia For Realists](/books/utopia-for-realists) — the cash-transfer / RCT evidence base ([Esther Duflo](/notes/esther-duflo)) and "open borders as the highest-leverage anti-poverty move" thread.

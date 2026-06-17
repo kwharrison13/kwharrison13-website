@@ -1,5 +1,5 @@
 ---
-title: "Henry Ford"
+title: "Joseph Overton"
 type: "person"
 publish: false
 confidence: "low"
@@ -10,22 +10,22 @@ sources:
   - "wiki/books/Utopia For Realists.md"
 tags: []
 aliases:
-  - "Henry Ford"
-  - "Ford"
+  - "Joseph Overton"
+  - "Overton"
 related:
-  - "[[Utopia For Realists]]"
+  - "[[Overton Window]]"
   - "[[Utopia For Realists]]"
 ---
 
-# Henry Ford
+# Joseph Overton
 
-**One-line:** *Industrialist who found a shorter workweek raised productivity and called leisure a "cold business fact."*
+**One-line:** *Policy analyst who named the "Overton Window" — the band of ideas politically acceptable at a given moment.*
 
 _Stub page — created from [Utopia For Realists](/books/utopia-for-realists). Expand on a future pass._
 
 ## What we know
 
-- Used as the capitalist case that leisure is not lost time or a class privilege. (source: [Utopia For Realists](/books/utopia-for-realists))
+- His window is Bregman's mechanism for how the radical becomes reasonable. (source: [Utopia For Realists](/books/utopia-for-realists))
 
 ## Mentioned in
 

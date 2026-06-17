@@ -1,5 +1,5 @@
 ---
-title: "Henry Ford"
+title: "Albert Hirschman"
 type: "person"
 publish: false
 confidence: "low"
@@ -10,22 +10,22 @@ sources:
   - "wiki/books/Utopia For Realists.md"
 tags: []
 aliases:
-  - "Henry Ford"
-  - "Ford"
+  - "Albert Hirschman"
+  - "Hirschman"
 related:
-  - "[[Utopia For Realists]]"
+  - "[[Overton Window]]"
   - "[[Utopia For Realists]]"
 ---
 
-# Henry Ford
+# Albert Hirschman
 
-**One-line:** *Industrialist who found a shorter workweek raised productivity and called leisure a "cold business fact."*
+**One-line:** *Economist who argued reactionary arguments take three forms — futility, danger, perversity — and that utopias, once enacted, quickly look commonplace.*
 
 _Stub page — created from [Utopia For Realists](/books/utopia-for-realists). Expand on a future pass._
 
 ## What we know
 
-- Used as the capitalist case that leisure is not lost time or a class privilege. (source: [Utopia For Realists](/books/utopia-for-realists))
+- Frames how every utopian idea is first attacked. (source: [Utopia For Realists](/books/utopia-for-realists))
 
 ## Mentioned in
 

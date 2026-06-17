@@ -22,4 +22,4 @@ _Stub page — not yet written. Founder of Pirate Wires; chronicled the Musk-era
 
 ## Where this appears
 
-- The Renaissance of Rise and Grind - Research
+- [The Renaissance of Rise and Grind - Research](/notes/the-renaissance-of-rise-and-grind-research)

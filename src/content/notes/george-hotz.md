@@ -22,4 +22,4 @@ _Stub page — not yet written. Hacker/founder (comma.ai) whose brief Twitter in
 
 ## Where this appears
 
-- The Renaissance of Rise and Grind - Research
+- [The Renaissance of Rise and Grind - Research](/notes/the-renaissance-of-rise-and-grind-research)

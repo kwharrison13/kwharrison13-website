@@ -1,5 +1,5 @@
 ---
-title: "Henry Ford"
+title: "Guy Standing"
 type: "person"
 publish: false
 confidence: "low"
@@ -10,22 +10,22 @@ sources:
   - "wiki/books/Utopia For Realists.md"
 tags: []
 aliases:
-  - "Henry Ford"
-  - "Ford"
+  - "Guy Standing"
+  - "Standing"
 related:
-  - "[[Utopia For Realists]]"
+  - "[[The Precariat]]"
   - "[[Utopia For Realists]]"
 ---
 
-# Henry Ford
+# Guy Standing
 
-**One-line:** *Industrialist who found a shorter workweek raised productivity and called leisure a "cold business fact."*
+**One-line:** *British economist who coined "the precariat" — a growing class in low-wage, temporary work with no political voice.*
 
 _Stub page — created from [Utopia For Realists](/books/utopia-for-realists). Expand on a future pass._
 
 ## What we know
 
-- Used as the capitalist case that leisure is not lost time or a class privilege. (source: [Utopia For Realists](/books/utopia-for-realists))
+- Names the social class produced by the great decoupling of productivity from jobs. (source: [Utopia For Realists](/books/utopia-for-realists))
 
 ## Mentioned in
 

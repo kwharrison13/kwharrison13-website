@@ -1,5 +1,5 @@
 ---
-title: "Henry Ford"
+title: "Leon Festinger"
 type: "person"
 publish: false
 confidence: "low"
@@ -10,22 +10,22 @@ sources:
   - "wiki/books/Utopia For Realists.md"
 tags: []
 aliases:
-  - "Henry Ford"
-  - "Ford"
+  - "Leon Festinger"
+  - "Festinger"
 related:
-  - "[[Utopia For Realists]]"
+  - "[[Cognitive Dissonance]]"
   - "[[Utopia For Realists]]"
 ---
 
-# Henry Ford
+# Leon Festinger
 
-**One-line:** *Industrialist who found a shorter workweek raised productivity and called leisure a "cold business fact."*
+**One-line:** *Social psychologist; author of *When Prophecy Fails* and originator of "cognitive dissonance."*
 
 _Stub page — created from [Utopia For Realists](/books/utopia-for-realists). Expand on a future pass._
 
 ## What we know
 
-- Used as the capitalist case that leisure is not lost time or a class privilege. (source: [Utopia For Realists](/books/utopia-for-realists))
+- Frames why people recalibrate reality rather than amend convictions. (source: [Utopia For Realists](/books/utopia-for-realists))
 
 ## Mentioned in
 

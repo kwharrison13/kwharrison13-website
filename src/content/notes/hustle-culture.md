@@ -22,4 +22,4 @@ _Stub page — not yet written. The valorization of relentless work and the grin
 
 ## Where this appears
 
-- The Renaissance of Rise and Grind - Research
+- [The Renaissance of Rise and Grind - Research](/notes/the-renaissance-of-rise-and-grind-research)

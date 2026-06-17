@@ -1,5 +1,5 @@
 ---
-title: "Henry Ford"
+title: "David Graeber"
 type: "person"
 publish: false
 confidence: "low"
@@ -10,22 +10,22 @@ sources:
   - "wiki/books/Utopia For Realists.md"
 tags: []
 aliases:
-  - "Henry Ford"
-  - "Ford"
+  - "David Graeber"
+  - "Graeber"
 related:
-  - "[[Utopia For Realists]]"
+  - "[[Bullshit Jobs]]"
   - "[[Utopia For Realists]]"
 ---
 
-# Henry Ford
+# David Graeber
 
-**One-line:** *Industrialist who found a shorter workweek raised productivity and called leisure a "cold business fact."*
+**One-line:** *Anthropologist at the LSE; originator of the "Bullshit Jobs" thesis that a growing share of work is privately considered pointless even by those doing it.*
 
 _Stub page — created from [Utopia For Realists](/books/utopia-for-realists). Expand on a future pass._
 
 ## What we know
 
-- Used as the capitalist case that leisure is not lost time or a class privilege. (source: [Utopia For Realists](/books/utopia-for-realists))
+- His essay "On the Phenomenon of Bullshit Jobs" anchors Bregman's value-vs-pay inversion. (source: [Utopia For Realists](/books/utopia-for-realists))
 
 ## Mentioned in
 

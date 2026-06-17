@@ -8,6 +8,7 @@ updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/It's Time To Build... But Build What - Research.md"
+  - "wiki/books/Utopia For Realists.md"
 tags:
   - "language-of-discourse"
   - "people-over-politics"
@@ -27,3 +28,4 @@ _Stub page — created from It's Time To Build... But Build What - Research. Exp
 ## Where this appears
 
 - It's Time To Build... But Build What - Research
+- [Utopia For Realists](/books/utopia-for-realists) — quoted on motivated reasoning: smart people use their intellect to reach the answer they *want*, not the correct one.

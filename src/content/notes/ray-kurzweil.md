@@ -8,6 +8,7 @@ updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/It's Time To Build... But Build What - Research.md"
+  - "wiki/books/Utopia For Realists.md"
 tags:
   - "technological-innovation"
   - "historical-futurism"
@@ -27,3 +28,4 @@ _Stub page — created from It's Time To Build... But Build What - Research. Exp
 ## Where this appears
 
 - It's Time To Build... But Build What - Research
+- [Utopia For Realists](/books/utopia-for-realists) — Bregman cites his 2029/2045 singularity timeline, then cautions "computing power is not the same thing as intelligence."

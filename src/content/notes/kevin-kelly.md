@@ -1,5 +1,5 @@
 ---
-title: "Henry Ford"
+title: "Kevin Kelly"
 type: "person"
 publish: false
 confidence: "low"
@@ -10,22 +10,22 @@ sources:
   - "wiki/books/Utopia For Realists.md"
 tags: []
 aliases:
-  - "Henry Ford"
-  - "Ford"
+  - "Kevin Kelly"
+  - "Kevin Kelly"
 related:
-  - "[[Utopia For Realists]]"
+  - "[[GDP]]"
   - "[[Utopia For Realists]]"
 ---
 
-# Henry Ford
+# Kevin Kelly
 
-**One-line:** *Industrialist who found a shorter workweek raised productivity and called leisure a "cold business fact."*
+**One-line:** *Writer (founding *Wired* editor) quoted for "Productivity is for robots. Humans excel at wasting time, experimenting, playing, creating, and exploring."*
 
 _Stub page — created from [Utopia For Realists](/books/utopia-for-realists). Expand on a future pass._
 
 ## What we know
 
-- Used as the capitalist case that leisure is not lost time or a class privilege. (source: [Utopia For Realists](/books/utopia-for-realists))
+- Used against governing-by-numbers. (source: [Utopia For Realists](/books/utopia-for-realists))
 
 ## Mentioned in
 

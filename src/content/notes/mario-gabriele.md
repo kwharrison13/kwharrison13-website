@@ -30,4 +30,4 @@ related:
 
 ## Mentioned in
 
-- [The Hits Business](/essays/the-hits-business) / The Hits Business - Research
+- [The Hits Business](/essays/the-hits-business) / [The Hits Business - Research](/notes/the-hits-business-research)

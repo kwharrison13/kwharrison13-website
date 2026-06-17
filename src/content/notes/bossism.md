@@ -22,4 +22,4 @@ _Stub page — not yet written. John Ganz's term for an emergent tech worldview:
 
 ## Where this appears
 
-- The Renaissance of Rise and Grind - Research
+- [The Renaissance of Rise and Grind - Research](/notes/the-renaissance-of-rise-and-grind-research)

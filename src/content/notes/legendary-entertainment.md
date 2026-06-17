@@ -32,7 +32,7 @@ related:
 
 ## Where this appears
 
-- [The Hits Business](/essays/the-hits-business) / The Hits Business - Research — Kyle flags this as "a whole other piece I could write."
+- [The Hits Business](/essays/the-hits-business) / [The Hits Business - Research](/notes/the-hits-business-research) — Kyle flags this as "a whole other piece I could write."
 
 ## Related concepts
 

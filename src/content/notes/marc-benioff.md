@@ -22,4 +22,4 @@ _Stub page — not yet written. Salesforce CEO; criticized for telling employees
 
 ## Where this appears
 
-- The Renaissance of Rise and Grind - Research
+- [The Renaissance of Rise and Grind - Research](/notes/the-renaissance-of-rise-and-grind-research)

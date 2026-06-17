@@ -22,4 +22,4 @@ _Stub page — not yet written. Ben Horowitz's framing of leadership in crisis (
 
 ## Where this appears
 
-- The Renaissance of Rise and Grind - Research
+- [The Renaissance of Rise and Grind - Research](/notes/the-renaissance-of-rise-and-grind-research)
