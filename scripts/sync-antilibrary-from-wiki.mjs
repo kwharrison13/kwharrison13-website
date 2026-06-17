@@ -131,12 +131,21 @@ function resolveWikilink(raw) {
   return { title: display.trim(), url: `/${hit.kind}/${hit.slug}` };
 }
 
+// Strip [[wikilink]] syntax to readable display text (where_seen is prose, not a chip).
+function stripWikilinks(s) {
+  return String(s).replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, t, a) => (a || t).trim());
+}
+
 function buildEntry(filePath) {
   const { frontmatter: fm } = parseFrontmatter(fs.readFileSync(filePath, 'utf8'));
   const title = fm.title || path.basename(filePath, '.md');
   const related = Array.isArray(fm.related) ? fm.related : (fm.related ? [fm.related] : []);
   const where = Array.isArray(fm.where_seen) ? fm.where_seen : (fm.where_seen ? [fm.where_seen] : []);
   const tags = Array.isArray(fm.tags) ? fm.tags : (fm.tags ? [fm.tags] : []);
+  // recommendation_count: how many times this book has been dropped into books-to-read.
+  // Defaults to 1 when the field is absent (every entry counts as recommended at least once).
+  const recRaw = fm.recommendation_count;
+  const recommendations = recRaw != null ? (parseInt(recRaw, 10) || 1) : 1;
   return {
     title,
     full_title: fm.full_title || title,
@@ -144,8 +153,9 @@ function buildEntry(filePath) {
     published: fm.source_published != null ? String(fm.source_published) : '',
     pages: fm.page_count != null ? fm.page_count : null,
     amazon_url: fm.url || '',
-    where_seen: where,
+    where_seen: where.map(stripWikilinks),
     connections: related.map(resolveWikilink).filter(c => c.url),
+    recommendations,
     tags,
     slug: slugify(title),
   };

@@ -31,4 +31,4 @@ related:
 ## Mentioned in
 
 - [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — the Jobs/Ive "you're just really vain" anecdote.
-- Conviction-Led Contrarianism - Research — research notes.
+- [Conviction-Led Contrarianism - Research](/notes/conviction-led-contrarianism-research) — research notes.

@@ -31,7 +31,7 @@ related:
 ## Where it shows up
 
 - [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — the hype-countercyclical argument.
-- Conviction-Led Contrarianism - Research — research notes.
+- [Conviction-Led Contrarianism - Research](/notes/conviction-led-contrarianism-research) — research notes.
 
 ## Related concepts
 

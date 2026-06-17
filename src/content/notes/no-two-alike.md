@@ -22,7 +22,7 @@ related:
 
 # No Two Alike
 
-**Author:** Judith Rich Harris
+**Author:** [Judith Rich Harris](/notes/judith-rich-harris)
 
 **Why it's on the list:** *Proposes a theory of three mental systems to explain why individuals, even identical twins, develop distinct personalities beyond genes and upbringing.*
 

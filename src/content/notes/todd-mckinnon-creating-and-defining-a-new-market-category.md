@@ -38,7 +38,7 @@ related:
   - "[[GDPR]]"
 ---
 
-> Podcast episode from Patrick O'Shaughnessy's *Invest Like the Best* / Colossus. Host: Patrick O'Shaughnessy. Guest: Todd McKinnon, co-founder and CEO of [Okta ($OKTA)](/notes/okta-okta). Source: [joincolossus.com](https://www.joincolossus.com/episodes/97045634/mckinnon-creating-and-defining-a-new-market-category). Annotated by Kyle — his highlights (bold) and concept tags are preserved verbatim in the full transcript below.
+> Podcast episode from Patrick O'Shaughnessy's *Invest Like the Best* / Colossus. Host: [Patrick O'Shaughnessy](/notes/patrick-o-shaughnessy). Guest: Todd McKinnon, co-founder and CEO of [Okta ($OKTA)](/notes/okta-okta). Source: [joincolossus.com](https://www.joincolossus.com/episodes/97045634/mckinnon-creating-and-defining-a-new-market-category). Annotated by Kyle — his highlights (bold) and concept tags are preserved verbatim in the full transcript below.
 
 ## Key Takeaways
 

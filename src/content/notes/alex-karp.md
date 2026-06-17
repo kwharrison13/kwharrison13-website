@@ -33,7 +33,7 @@ related:
 ## Mentioned in
 
 - [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — his essay is a load-bearing source for the agreeableness-vs-creativity argument.
-- Conviction-Led Contrarianism - Research — research notes.
+- [Conviction-Led Contrarianism - Research](/notes/conviction-led-contrarianism-research) — research notes.
 
 ## Open questions
 

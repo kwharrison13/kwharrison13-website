@@ -287,7 +287,7 @@ A curated library of investment frameworks, checklists, and mental models from l
 - Do insiders own their own stock and are they buying back shares?
 - Does the company have a lot of debt? Any long list of numbers multiplied by zero is always zero.
 
-## Chase Coleman at Tiger Global Management on Managing an Investment Portfolio
+## Chase Coleman at [Tiger Global Management](/notes/tiger-global-management) on Managing an Investment Portfolio
 
 - **Maintain a simple investment philosophy and adhere to it at all times.** At Tiger Global, we seek to buy high-quality companies at attractive multiples of future free cash flow run by talented, shareholder-oriented management teams. Occasionally, we will purchase shares in a mediocre business trading at a steep discount to intrinsic value.
 - **The best risk management occurs at the individual idea level,** assuming that the overall portfolio is well-hedged, not over-leveraged, and reasonably diversified. Considerations:

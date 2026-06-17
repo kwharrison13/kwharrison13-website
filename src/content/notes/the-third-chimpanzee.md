@@ -22,7 +22,7 @@ related:
 
 # The Third Chimpanzee
 
-**Author:** Jared Diamond
+**Author:** [Jared Diamond](/notes/jared-diamond)
 
 **Why it's on the list:** *Examines how humans, genetically near-identical to chimpanzees, evolved unique traits like language and art while retaining destructive animal instincts.*
 

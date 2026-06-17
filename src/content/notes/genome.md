@@ -22,7 +22,7 @@ related:
 
 # Genome
 
-**Author:** Matt Ridley
+**Author:** [Matt Ridley](/notes/matt-ridley)
 
 **Why it's on the list:** *Tells the story of humanity by selecting one gene from each of the 23 chromosome pairs, exploring genetics, evolution, disease, and human nature.*
 

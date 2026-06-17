@@ -183,18 +183,29 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
     {antilibrary.length === 0 ? (
       <p class="view-intro">Nothing here yet. Tag an inbox source <code>#books-to-read</code> and run <code>/ingest</code> to populate the anti-library.</p>
     ) : (
-      <div class="antilib-table" role="table">
+      <div class="antilib-table" role="table" id="antilib-table">
         <div class="antilib-row antilib-head" role="row">
-          <span role="columnheader">Title</span>
-          <span role="columnheader">Author</span>
-          <span role="columnheader">Published</span>
-          <span role="columnheader">Pages</span>
+          <button type="button" class="antilib-sort" data-sort="recs" data-type="num" title="Number of times recommended into books-to-read"># Recs<span class="sort-ind"></span></button>
+          <button type="button" class="antilib-sort" data-sort="title" data-type="str">Title<span class="sort-ind"></span></button>
+          <button type="button" class="antilib-sort" data-sort="author" data-type="str">Author<span class="sort-ind"></span></button>
+          <button type="button" class="antilib-sort" data-sort="published" data-type="num">Published<span class="sort-ind"></span></button>
+          <button type="button" class="antilib-sort" data-sort="pages" data-type="num">Pages<span class="sort-ind"></span></button>
           <span role="columnheader">Connections</span>
           <span role="columnheader">Where I saw it</span>
           <span role="columnheader">Buy</span>
         </div>
         {antilibrary.map((b: any) => (
-          <div class="antilib-row" role="row" data-search={`${b.title} ${b.full_title} ${b.author}`.toLowerCase()}>
+          <div
+            class="antilib-row"
+            role="row"
+            data-search={`${b.title} ${b.full_title} ${b.author}`.toLowerCase()}
+            data-recs={b.recommendations ?? 1}
+            data-title={(b.full_title || b.title).toLowerCase()}
+            data-author={(b.author || '').toLowerCase()}
+            data-published={b.published ? parseInt(b.published, 10) : 0}
+            data-pages={b.pages ?? 0}
+          >
+            <span class="al-recs" role="cell" data-label="# Recs"><span class="al-recs-badge">{b.recommendations ?? 1}</span></span>
             <span class="al-title" role="cell"><a href={`/notes/${b.slug}`}>{b.full_title || b.title}</a></span>
             <span class="al-author" role="cell" data-label="Author">{b.author || '—'}</span>
             <span class="al-pub" role="cell" data-label="Published">{b.published || '—'}</span>
@@ -260,6 +271,35 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
         });
       });
     });
+    // Anti-library column sorting
+    const antilibTable = document.getElementById('antilib-table');
+    if (antilibTable) {
+      let sortState = { key: null, dir: 1 };
+      const sortBtns = Array.from(antilibTable.querySelectorAll('.antilib-sort'));
+      function applySort(key, type, dir) {
+        const rows = Array.from(antilibTable.querySelectorAll('.antilib-row:not(.antilib-head)'));
+        rows.sort((a, b) => {
+          let av = a.dataset[key], bv = b.dataset[key];
+          if (type === 'num') { av = parseFloat(av) || 0; bv = parseFloat(bv) || 0; return (av - bv) * dir; }
+          return String(av).localeCompare(String(bv)) * dir;
+        });
+        const empty = document.getElementById('antilib-empty');
+        rows.forEach(r => antilibTable.insertBefore(r, empty));
+        sortBtns.forEach(b => {
+          b.classList.toggle('sorted', b.dataset.sort === key);
+          const ind = b.querySelector('.sort-ind');
+          if (ind) ind.textContent = b.dataset.sort === key ? (dir === 1 ? '▲' : '▼') : '';
+        });
+      }
+      sortBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+          const key = btn.dataset.sort;
+          sortState.dir = sortState.key === key ? -sortState.dir : 1;
+          sortState.key = key;
+          applySort(key, btn.dataset.type, sortState.dir);
+        });
+      });
+    }
     const antilibSearch = document.getElementById('antilib-search');
     if (antilibSearch) {
       antilibSearch.addEventListener('input', () => {
@@ -363,12 +403,18 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
   .antilib-count { font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-tertiary); white-space: nowrap; }
 
   .antilib-table { display: flex; flex-direction: column; border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
-  .antilib-row { display: grid; grid-template-columns: minmax(150px, 2fr) 0.9fr 74px 58px 1.7fr 1.8fr 74px; align-items: stretch; border-bottom: 1px solid var(--border); }
-  .antilib-row > span { min-width: 0; overflow: hidden; padding: 12px 12px; border-right: 1px solid var(--border); }
-  .antilib-row > span:last-child { border-right: none; }
+  .antilib-row { display: grid; grid-template-columns: 64px minmax(150px, 2fr) 0.9fr 74px 58px 1.6fr 1.7fr 74px; align-items: stretch; border-bottom: 1px solid var(--border); }
+  .antilib-row > span, .antilib-row > button { min-width: 0; overflow: hidden; padding: 12px 12px; border-right: 1px solid var(--border); }
+  .antilib-row > :last-child { border-right: none; }
   .antilib-row:last-child { border-bottom: none; }
   .antilib-row:not(.antilib-head):hover { background: var(--bg-card); }
   .antilib-head { background: var(--bg-card); font-size: 10px; text-transform: uppercase; letter-spacing: 0.07em; font-weight: 700; color: var(--text-tertiary); position: sticky; top: 0; }
+  .antilib-sort { display: inline-flex; align-items: center; gap: 4px; background: none; border: none; border-right: 1px solid var(--border); font-family: var(--font-body); font-size: 10px; text-transform: uppercase; letter-spacing: 0.07em; font-weight: 700; color: var(--text-tertiary); cursor: pointer; text-align: left; transition: color 0.15s ease; }
+  .antilib-sort:hover { color: var(--text); }
+  .antilib-sort.sorted { color: var(--accent); }
+  .sort-ind { font-size: 8px; opacity: 0.7; }
+  .al-recs { display: flex; align-items: flex-start; justify-content: center; }
+  .al-recs-badge { font-size: 12px; font-weight: 700; font-variant-numeric: tabular-nums; color: var(--text-secondary); background: var(--tag-bg); border: 1px solid var(--border); border-radius: 6px; padding: 1px 8px; min-width: 22px; text-align: center; }
   .al-title a { font-family: var(--font-display); font-size: 14px; font-weight: 500; color: var(--text); text-decoration: none; line-height: 1.35; }
   .al-title a:hover { color: var(--accent); }
   .al-author, .al-pub, .al-pages, .al-seen { font-size: 12.5px; color: var(--text-secondary); }
@@ -386,6 +432,7 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
     .antilib-head { display: none; }
     .antilib-row { grid-template-columns: 1fr; gap: 6px; padding: 14px 16px; }
     .antilib-row > span { padding: 0; border-right: none; overflow: visible; }
+    .al-recs { justify-content: flex-start; align-items: center; gap: 6px; }
     .antilib-row:not(.antilib-head) span[data-label]::before { content: attr(data-label) ": "; font-size: 10px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-tertiary); font-weight: 600; }
     .antilib-row:not(.antilib-head):hover { background: transparent; }
   }

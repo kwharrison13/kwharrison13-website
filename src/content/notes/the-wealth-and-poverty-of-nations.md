@@ -24,7 +24,7 @@ related:
 
 # The Wealth and Poverty of Nations
 
-**Author:** David Landes
+**Author:** [David Landes](/notes/david-landes)
 
 **Why it's on the list:** *A sweeping economic history arguing that culture, climate, institutions, and openness to innovation explain the wealth gap between rich and poor nations.*
 
