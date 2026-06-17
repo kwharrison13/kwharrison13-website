@@ -23,11 +23,11 @@ related:
 
 # David Fidalgo
 
-**One-line:** *Technical consultant and occasional mobility investor at Y-Mobility, working with OEMs, Tier 1 suppliers, and startups.*
+**One-line:** *Technical consultant and occasional mobility investor at [Y-Mobility](/notes/y-mobility), working with OEMs, Tier 1 suppliers, and startups.*
 
 ## What we know
 
-- Y-Mobility helps OEMs/Tier 1s/startups understand market direction and product fit; active ~3 years, with an advisory board entrenched in automotive, telecom, transportation, and legal.
+- [Y-Mobility](/notes/y-mobility) helps OEMs/Tier 1s/startups understand market direction and product fit; active ~3 years, with an advisory board entrenched in automotive, telecom, transportation, and legal.
 - Helps close product-roadmap gaps, broker OEM↔Tier 1 partnerships, and map a company's internal innovation capability; most clients have raised at least a Series A.
 - Offered to introduce Kyle to Innova.
 

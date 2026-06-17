@@ -12,7 +12,9 @@ aliases:
   - "Charlie Munger"
   - "Charles T. Munger"
   - "Charles Munger"
-related: []
+related:
+  - "[[The Eleven Talks of Poor Charlie's Almanack]]"
+  - "[[Poor Charlie's Almanack]]"
 ---
 
 # Charlie Munger
