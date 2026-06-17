@@ -74,7 +74,7 @@ Brené Brown's book read with attention to the nuance-and-honesty discipline. Th
 - When we deny ourselves the right to be angry, we deny our pain. There are a lot of coded shame messages in the rhetoric of “Why so hostile?” “Don’t get hysterical,” “I’m sensing so much anger!” and “Don’t take it so personally.” All of these responses are normally code for Your emotion or opinion is making me uncomfortable or Suck it up and stay quiet. <!--rwid:rwid-b2c793c2d43d-->
 - We pay for hate with our lives, and that’s too big a price to pay. <!--rwid:rwid-e56a655fac3c-->
 - Is there tension and vulnerability in supporting both the police and the activists? Hell, yes. It’s the wilderness. But most of the criticism comes from people who are intent on forcing these false either/or dichotomies and shaming us for not hating the right people. It’s definitely messier taking a nuanced stance, but it’s also critically important to true belonging. <!--rwid:rwid-44845de1b133-->
-  > **Kyle:** *#[[Nuance]]*
+  > **Kyle:** *#[Nuance](/notes/nuance)*
 - “When you love a place like we love Penn [State], you fight to make it better, to own our problems and fix them. You don’t pretend that everything’s okay. That’s not loyalty or love, that’s fear.” <!--rwid:rwid-5a3a3bae758c-->
 - “I don’t want that. Thick skin doesn’t work anymore. I want to be transparent and translucent. For that to work, I won’t own other people’s shortcomings and criticisms. I won’t put what you say about me on my load.” <!--rwid:rwid-1d2008125ee5-->
 - I will not be a mystery to my daughter. She will know me and I will share my stories with her—the stories of failure, shame, and accomplishment. She will know she’s not alone in that wilderness. <!--rwid:rwid-dca3457d2726-->

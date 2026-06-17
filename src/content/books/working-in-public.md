@@ -117,7 +117,7 @@ The book functions as the conceptual underpinning for the recurring [Open Source
 - But when you have a group of strangers who are loosely affiliated with one another and excited to participate, and nobody is officially in charge, it’s more likely that a bunch of people will volunteer all at once. <!--rwid:rwid-af19b0db6519-->
 - Intrinsic motivation makes it easier for people to self-organize to achieve the same outcome. <!--rwid:rwid-eb1854f71d1e-->
 - A few of the conditions that Benkler identifies as necessary to pull off commons-based peer production are intrinsic motivation, modular and granular tasks, and low coordination costs. <!--rwid:rwid-0cd7aef7bfeb-->
-  > **Kyle:** *What is the #[[Playbook]] for creating this kind of project?*
+  > **Kyle:** *What is the #[Playbook](/notes/playbook) for creating this kind of project?*
 - Intrinsic motivation is the currency of the commons: members do the work because they want to do it. <!--rwid:rwid-1903216ec2f3-->
 - Benkler proposes that, in order to keep people motivated, tasks must be modular and granular: When a project of any size is broken up into little pieces, each of which can be performed by an individual in a short amount of time, the motivation necessary to get any given individual to contribute need only be very small. <!--rwid:rwid-aef657781677-->
 - Modularity refers to how the project is organized. Can it be broken into clear subcomponents, and do they fit easily back together? Granularity refers to the size of each module. It should be easy for anyone to jump in and complete the task without too much preexisting knowledge. <!--rwid:rwid-6698f32cd220-->

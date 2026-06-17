@@ -75,7 +75,7 @@ A standalone observation worth flagging: "we embrace all truth, no matter the so
 - “Every statistician knows that a large, relevant sample size is their best friend. What are the three largest, most relevant sample sizes for identifying universal principles? Bucket number one is inorganic systems, which are 13.7 billion years in size. It’s all the laws of math and physics, the entire physical universe. Bucket number two is organic systems, 3.5 billion years of biology on Earth. And bucket number three is human history, you can pick your own number, I picked 20,000 years of recorded human behavior. Those are the three largest sample sizes we can access and the most relevant.” —Peter Kaufman <!--rwid:rwid-ac994fb87dec-->
   > **Kyle:** *#History*
 - We have a tendency to think that how the world is, is how it always was. And so we get caught up validating our assumptions from what we find in the here and now. <!--rwid:rwid-545dc473d588-->
-  > **Kyle:** *#[[SALY Principle]]*
+  > **Kyle:** *#[SALY Principle](/notes/saly-principle)*
 - Looking to the past can provide essential context for understanding where we are now. <!--rwid:rwid-7e7260570b3e-->
 - We’re much like the blind men in the classic parable of the elephant, going through life trying to explain everything through one limited lens. Too often that lens is driven by our particular field, be it economics, engineering, physics, mathematics, biology, chemistry, or something else entirely. Each of these disciplines holds some truth and yet none of them contain the whole truth. <!--rwid:rwid-56c4960549c1-->
   > **Kyle:** *Find quote: “we embrace all truth, no matter the source”*

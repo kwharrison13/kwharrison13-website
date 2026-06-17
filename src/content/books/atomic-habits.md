@@ -66,7 +66,7 @@ A side observation: the secret to getting results that last is to never stop mak
 - The purpose of setting goals is to win the game. The purpose of building systems is to continue playing the game. True long-term thinking is goal-less thinking. It’s not about any single accomplishment. It is about the cycle of endless refinement and continuous improvement. Ultimately, it is your commitment to the process that will determine your progress. <!--rwid:rwid-35c0bb8c1368-->
   > **Kyle:** *God is not as focused on the destination as he is the journey. “The destination will take care of itself.”*
 - You do not rise to the level of your goals. You fall to the level of your systems. <!--rwid:rwid-0651efbd4cac-->
-  > **Kyle:** *[[Systems Thinking]]*
+  > **Kyle:** *[Systems Thinking](/notes/systems-thinking)*
 - Few things can have a more powerful impact on your life than improving your daily habits. <!--rwid:rwid-df009f9ae269-->
 - Habits like exercise, meditation, journaling, and cooking are reasonable for a day or two and then become a hassle. <!--rwid:rwid-7a12b5ed2321-->
 - With outcome-based habits, the focus is on what you want to achieve. With identity-based habits, the focus is on who you wish to become. <!--rwid:rwid-232f0ecee3bd-->

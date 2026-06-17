@@ -282,14 +282,16 @@ function syncBook(wikiFile) {
   const keyTakeaways = sections['Key Takeaways'] || '_Under Consideration — to be added._';
   const publicInter = sections['Public Connections'] || '_No cross-book interconnections identified yet._';
 
-  // Preserve the existing Highlights section verbatim — import-readwise.mjs owns
-  // that with rwid block-ref dedup, and overwriting it here would orphan those
-  // refs and break future Readwise updates.
+  // Preserve the existing Highlights block (Readwise owns it via rwid dedup),
+  // but run it through the wikilink resolver so any [[X]] or #[[X]] Kyle wrote
+  // inside a note becomes a proper /notes/<slug> link on the public site.
+  // resolveWikilinks only touches wikilink syntax — rwid markers, Kyle blockquotes,
+  // and highlight text are all preserved unchanged.
   let existingHighlightsBlock = '';
   if (fs.existsSync(targetPath)) {
     const existingBody = parseFrontmatter(fs.readFileSync(targetPath, 'utf8')).body;
     const m = existingBody.match(/^## Highlights\s*\n([\s\S]*)$/m);
-    if (m) existingHighlightsBlock = m[1].trim();
+    if (m) existingHighlightsBlock = resolveWikilinks(m[1].trim());
   }
 
   const bodyParts = [
