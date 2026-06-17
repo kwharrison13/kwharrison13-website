@@ -22,7 +22,7 @@ related:
 
 # Deep Simplicity
 
-**Author:** [John Gribbin](/notes/john-gribbin)
+**Author:** John Gribbin
 
 **Why it's on the list:** *Explains how complex, ordered systems arise from simple underlying rules, linking chaos theory, complexity, and self-organization across physics, biology, and the cosmos.*
 

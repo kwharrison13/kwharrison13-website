@@ -22,11 +22,11 @@ related:
 
 # Dan McMurtrie
 
-**One-line:** *Investor behind Tyro Partners (a.k.a. "SuperMugatu"); source of the "rivers and streams of different markets" framing Kyle quotes in [Open-Source Knowledge](/essays/open-source-knowledge).*
+**One-line:** *Investor behind [Tyro Partners](/notes/tyro-partners) (a.k.a. "SuperMugatu"); source of the "rivers and streams of different markets" framing Kyle quotes in [Open-Source Knowledge](/essays/open-source-knowledge).*
 
 ## What we know
 
-- Author of the Tyro Partners Q2 2021 Partner Letter, which lays out a four-level [memetic](/notes/memetics) model (Content → Reference → Advocacy → Community) and the idea that markets are now "metagames."
+- Author of the [Tyro Partners](/notes/tyro-partners) Q2 2021 Partner Letter, which lays out a four-level [memetic](/notes/memetics) model (Content → Reference → Advocacy → Community) and the idea that markets are now "metagames."
 - Described to Kyle the idea that every market has its own "main river" plus many smaller, under-appreciated talent pools — the basis for the "contributors" section of [Open-Source Knowledge](/essays/open-source-knowledge).
 
 ## Mentioned in

@@ -24,7 +24,7 @@ related:
 
 # Les Schwab: Pride in Performance
 
-**Author:** [Les Schwab](/notes/les-schwab)
+**Author:** Les Schwab
 
 **Why it's on the list:** *Tire entrepreneur Les Schwab's memoir on building a successful business from scratch by investing in and sharing profits with his employees.*
 

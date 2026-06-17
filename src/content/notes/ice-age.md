@@ -22,7 +22,7 @@ related:
 
 # Ice Age
 
-**Author:** [John Gribbin](/notes/john-gribbin) and [Mary Gribbin](/notes/mary-gribbin)
+**Author:** John Gribbin and Mary Gribbin
 
 **Why it's on the list:** *Recounts the scientific history and key personalities behind the discovery of ice ages and how glacial cycles shaped human evolution.*
 

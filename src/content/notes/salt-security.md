@@ -39,7 +39,7 @@ related:
 - Patented platform: no agents, no software changes, no inline code; deploys via traffic mirror; no impact on application performance.
 - Started agent-based, shifted to agentless/traffic-mirroring model prior to 2021 — critical shift that customers noted.
 - Key differentiator over [API Gateways](/notes/api-gateways): baselines normal API usage at scale; catches authenticated API attacks (95% of exploits happen on authenticated APIs). (Salt Security Diligence — 2021)
-- Integrations: [Kong](/notes/kong), [MuleSoft](/notes/mulesoft), [Splunk](/notes/splunk), Jira, Slack, PagerDuty.
+- Integrations: [Kong](/notes/kong), [MuleSoft](/notes/mulesoft), Splunk, Jira, Slack, PagerDuty.
 
 ## Funding & traction (as of October 2021)
 

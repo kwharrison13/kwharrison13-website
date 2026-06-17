@@ -21,7 +21,7 @@ related:
 
 # The Selfish Gene
 
-**Author:** [Richard Dawkins](/notes/richard-dawkins)
+**Author:** Richard Dawkins
 
 **Why it's on the list:** *Proposes a gene-centered view of evolution in which organisms are vehicles built by genes competing to replicate themselves, introducing the meme concept.*
 

@@ -24,9 +24,9 @@ related:
 
 # Andrew Carnegie by Joseph Frazier Wall
 
-**Author:** [Joseph Frazier Wall](/notes/joseph-frazier-wall)
+**Author:** Joseph Frazier Wall
 
-**Why it's on the list:** *The definitive, Bancroft Prize-winning biography of [Andrew Carnegie](/notes/andrew-carnegie) — tracing his rise from immigrant bobbin boy to steel titan and pioneering philanthropist.*
+**Why it's on the list:** *The definitive, Bancroft Prize-winning biography of Andrew Carnegie — tracing his rise from immigrant bobbin boy to steel titan and pioneering philanthropist.*
 
 **Where I saw it:** Recommended in [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — part of Charlie Munger's perennial reading list of books that build a latticework of multidisciplinary mental models.
 

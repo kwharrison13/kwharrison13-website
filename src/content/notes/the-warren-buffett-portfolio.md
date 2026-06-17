@@ -23,7 +23,7 @@ related:
 
 # The Warren Buffett Portfolio
 
-**Author:** [Robert Hagstrom](/notes/robert-hagstrom)
+**Author:** Robert Hagstrom
 
 **Why it's on the list:** *Argues for focus investing—concentrating a portfolio in a few thoroughly understood, high-quality businesses rather than diversifying broadly, drawing on Buffett's methods.*
 

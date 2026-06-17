@@ -37,4 +37,4 @@ related:
 ## Related concepts
 
 - [Patrick O'Shaughnessy](/notes/patrick-o-shaughnessy)
-- Stratechery
+- [Stratechery](/notes/stratechery)

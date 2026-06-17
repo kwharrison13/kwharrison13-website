@@ -21,7 +21,7 @@ related:
 
 # Models of My Life
 
-**Author:** [Herbert Simon](/notes/herbert-simon)
+**Author:** Herbert Simon
 
 **Why it's on the list:** *The autobiography of Nobel laureate Herbert Simon, tracing his interdisciplinary work across economics, psychology, artificial intelligence, and bounded rationality.*
 

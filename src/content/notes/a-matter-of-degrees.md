@@ -23,7 +23,7 @@ related:
 
 # A Matter of Degrees
 
-**Author:** [Gino Segre](/notes/gino-segre)
+**Author:** Gino Segre
 
 **Why it's on the list:** *Explores how temperature governs life, climate, geology, and cosmology, weaving science and history to show its central role across nature.*
 

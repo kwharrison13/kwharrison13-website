@@ -24,7 +24,7 @@ related:
 
 # Titan
 
-**Author:** [Ron Chernow](/notes/ron-chernow)
+**Author:** Ron Chernow
 
 **Why it's on the list:** *A comprehensive biography of John D. Rockefeller, tracing his rise to build Standard Oil, his ruthless business tactics, and later philanthropy.*
 

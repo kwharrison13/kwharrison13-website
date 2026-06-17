@@ -25,7 +25,7 @@ related:
 
 # Men to Match My Mountains
 
-**Author:** [Irving Stone](/notes/irving-stone)
+**Author:** Irving Stone
 
 **Why it's on the list:** *A narrative history of the American West's settlement from 1840–1900, chronicling the pioneers, prospectors, and builders who opened California, Nevada, Utah, and Colorado.*
 

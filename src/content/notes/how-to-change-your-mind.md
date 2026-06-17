@@ -28,9 +28,9 @@ related:
 
 **Why it's on the list:** *Michael Pollan's investigation of the new science of psychedelics — what they reveal about consciousness, mortality, addiction, depression, and transcendence.*
 
-**Where I saw it:** Recommended during the NCX partner presentation on [December 13th, 2021 — NCX Partner Presentation](/notes/december-13th-2021-ncx-partner-presentation).
+**Where I saw it:** Recommended during the NCX partner presentation on December 13th, 2021 — NCX Partner Presentation.
 
 ## Connections
 
 - [Braiding Sweetgrass](/notes/braiding-sweetgrass) — also recommended that day; companion read on the human relationship to the natural and inner worlds.
-- [December 13th, 2021 — NCX Partner Presentation](/notes/december-13th-2021-ncx-partner-presentation) — the call where it was recommended.
+- December 13th, 2021 — NCX Partner Presentation — the call where it was recommended.

@@ -21,11 +21,11 @@ related:
 
 # Ben Thompson
 
-**One-line:** *Writer behind Stratechery; Kyle's example of deep, subscription-funded analysis that "doesn't scale" the way bite-sized company intros need to.*
+**One-line:** *Writer behind [Stratechery](/notes/stratechery); Kyle's example of deep, subscription-funded analysis that "doesn't scale" the way bite-sized company intros need to.*
 
 ## What we know
 
-- Author of Stratechery.
+- Author of [Stratechery](/notes/stratechery).
 - Cited in the [Contrary Research](/essays/contrary-research) market-landscape notes: [Colossus](/notes/colossus) and Stratechery don't scale as well as light memos — "you need more bite-sized introductions to a company."
 
 ## Mentioned in
