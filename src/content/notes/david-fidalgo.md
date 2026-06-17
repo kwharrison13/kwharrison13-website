@@ -29,7 +29,7 @@ related:
 
 - [Y-Mobility](/notes/y-mobility) helps OEMs/Tier 1s/startups understand market direction and product fit; active ~3 years, with an advisory board entrenched in automotive, telecom, transportation, and legal.
 - Helps close product-roadmap gaps, broker OEM↔Tier 1 partnerships, and map a company's internal innovation capability; most clients have raised at least a Series A.
-- Offered to introduce Kyle to Innova.
+- Offered to introduce Kyle to [Innova](/notes/innova).
 
 ## Mentioned in
 
