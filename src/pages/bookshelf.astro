@@ -363,6 +363,7 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
   @media (max-width: 760px) {
     .antilib-head { display: none; }
     .antilib-row { grid-template-columns: 1fr; gap: 6px; padding: 14px 16px; }
+    .antilib-row > span { padding: 0; border-right: none; overflow: visible; }
     .antilib-row:not(.antilib-head) span[data-label]::before { content: attr(data-label) ": "; font-size: 10px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-tertiary); font-weight: 600; }
     .antilib-row:not(.antilib-head):hover { background: transparent; }
   }
