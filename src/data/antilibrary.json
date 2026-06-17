@@ -19,6 +19,28 @@
     "slug": "a-matter-of-degrees"
   },
   {
+    "title": "Andrew Carnegie by Joseph Frazier Wall",
+    "full_title": "Andrew Carnegie",
+    "author": "Joseph Frazier Wall",
+    "published": "1970",
+    "pages": 1137,
+    "amazon_url": "https://www.amazon.com/s?k=Andrew+Carnegie+Joseph+Frazier+Wall",
+    "where_seen": [
+      "Recommended in [[Poor Charlie's Almanack]] — part of Charlie Munger's reading list."
+    ],
+    "connections": [
+      {
+        "title": "Poor Charlie's Almanack",
+        "url": "/books/poor-charlie-s-almanack"
+      }
+    ],
+    "tags": [
+      "capital-allocation",
+      "company-building"
+    ],
+    "slug": "andrew-carnegie-by-joseph-frazier-wall"
+  },
+  {
     "title": "Deep Simplicity",
     "full_title": "Deep Simplicity: Bringing Order to Chaos and Complexity",
     "author": "John Gribbin",
