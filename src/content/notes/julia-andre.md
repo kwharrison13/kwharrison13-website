@@ -25,6 +25,7 @@ related: []
 ## Mentioned in
 
 - Watershed Climate Diligence — 2021 — Watershed Climate Series B diligence (Index Ventures, 2021).
+- December 13th, 2021 — NCX Partner Presentation — partner review of [NCX](/notes/ncx): found the landowner-acquisition approach unique and the marketplace compelling if the offset quality and supply scale hold up.
 
 ## Open questions
 
