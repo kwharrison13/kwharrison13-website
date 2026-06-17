@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SearchBar from '../../components/SearchBar.astro';
+import { getCollection } from 'astro:content';
+
+// Annotated articles live in the `notes` collection as type: article and render
+// at /notes/<slug>. This index lists the published ones, newest first.
+const articles = (await getCollection('notes'))
+  .filter((n) => n.data.type === 'article' && n.data.publish === true)
+  .sort((a, b) => {
+    const da = new Date(a.data.updated || a.data.created || 0).valueOf();
+    const db = new Date(b.data.updated || b.data.created || 0).valueOf();
+    return db - da;
+  });
+---
+
+<BaseLayout title="Articles" currentPage="articles" description="Long-form pieces Kyle has read and annotated — highlights, notes, and synthesis.">
+  <h1 class="page-title">Articles</h1>
+  <p class="page-subtitle">Long-form pieces I've read closely — with highlights, notes, and synthesis.</p>
+
+  <SearchBar context="essays" />
+
+  <div class="section-divider"></div>
+
+  {articles.length === 0 ? (
+    <p class="page-subtitle">No published articles yet.</p>
+  ) : articles.map((article) => (
+    <a href={`/notes/${article.slug}`} style="text-decoration: none; color: inherit;">
+      <div class="update-card">
+        <div class="update-content">
+          <div class="update-title">{article.data.title}</div>
+          {article.data.excerpt && <div class="update-excerpt">{article.data.excerpt}</div>}
+          <div class="update-meta">
+            <span class="update-tag">Article</span>
+            {(article.data.tags ?? []).slice(0, 3).join(" · ")}
+          </div>
+        </div>
+      </div>
+    </a>
+  ))}
+</BaseLayout>

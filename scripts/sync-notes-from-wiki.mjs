@@ -169,7 +169,7 @@ function transformLinks(text) {
 function serializeFrontmatter(fm) {
   const lines = ['---'];
   const ordered = [
-    'title', 'type', 'publish', 'confidence', 'created', 'updated',
+    'title', 'type', 'publish', 'excerpt', 'confidence', 'created', 'updated',
     'last_updated_by', 'sources', 'tags', 'aliases', 'related', 'reference_count',
   ];
   for (const k of ordered) {
