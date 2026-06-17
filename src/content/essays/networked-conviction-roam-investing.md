@@ -15,7 +15,7 @@ excerpt: "Investing, in simplest terms, is taking one finite resource and trying
 
 Investing, in simplest terms, is taking one finite resource and trying to allocate it to maximize for an ideal outcome. Whether you're allocating money, time, energy, or attention. Everyone is an allocator of something. Investing is an opportunity to evaluate what you believe. To gain conviction. And then to act on that conviction.
 
-I love investing because I love ideas. People sometimes talk about ideas as being "a dime a dozen." The limitation on any idea is the infrastructure that lets it expand. The processes I've laid out here are some of the ways I try to [let my ideas survive for as long as possible](https://kwharrison13.com/The-Natural-Selection-of-Time-Guess-what-You-re-Not-Busy-8fcb2461e06847b8886d22e4775e0740) and expand as much as possible before investing behind them.
+I love investing because I love ideas. People sometimes talk about ideas as being "a dime a dozen." The limitation on any idea is the infrastructure that lets it expand. The processes I've laid out here are some of the ways I try to [let my ideas survive for as long as possible](https://kwharrison13.com/essays/the-natural-selection-of-time) and expand as much as possible before investing behind them.
 
 [Investing 101 2.0](https://investing1012dot0.substack.com/) is my occasional home for reflecting on all things investing. The overall theme here is one of first-principles:  Learning the fundamentals of investing (101) while looking for the ways it's being reinvented (2.0). This article is super long, but it reads more like an evergreen reference guide you can return to over time as different tools become relevant to you.
 
