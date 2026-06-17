@@ -12,6 +12,7 @@ substack_url: "https://investing101.substack.com/p/roam-investing"
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
   <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/walt-disney-and-the-promise-of-progress-city">Walt Disney and the Promise of Progress City</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/coming-soon">Investing 101 2.0</a></span></div>
 </aside>
 <!-- connections-end -->
 
