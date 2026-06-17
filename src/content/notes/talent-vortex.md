@@ -29,7 +29,7 @@ related:
 
 **One-line definition:** *A self-reinforcing concentration of unusually talented people in a single place and moment — distinct from individual genius in that the talent and the surrounding "scene" (collectors, theorists, peers, infrastructure) compound on each other. [Brian Eno](/notes/brian-eno) coined "scenius" as the underlying intelligence of the operation as a whole.*
 
-> ⚠️ Concept attribution: Kyle annotated this term twice in [The Founders](/books/the-founders) as `#[Talent Vortex](/notes/talent-vortex)` — it's his preferred phrasing for what Eno calls "scenius" and what Soni calls "Bell-like constellations."
+> ⚠️ Concept attribution: Kyle annotated this term twice in [The Founders](/books/the-founders) as #[Talent Vortex](/notes/talent-vortex) — it's his preferred phrasing for what Eno calls "scenius" and what Soni calls "Bell-like constellations."
 
 ## How sources describe it
 

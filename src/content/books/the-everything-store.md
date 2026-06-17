@@ -17,7 +17,7 @@ Stone's earlier Amazon book — the prequel to [Amazon Unbound](/books/amazon-un
 
 1. **Decentralized decision-making as the actual competitive advantage.** "Communication = inefficiency. Decentralization instills a lack of need for coordination." The repeated reframe: it's not just spreading decisions geographically, it's getting decisions into the hands of the people closest to the problem, then incentivizing them effectively.
 
-2. **Building a differentiated long-term venture fund strategy.** Flagged repeatedly with the [Investing 101 2.0](/essays/investing-101-2-0) tag. The most important paragraph for VC strategy is "what is customer obsession to a venture capitalist?" — that's the unanswered question this book leaves open.
+2. **Building a differentiated long-term venture fund strategy.** Flagged repeatedly with the [Investing 101 2.0](/notes/investing-101-2-0) tag. The most important paragraph for VC strategy is "what is customer obsession to a venture capitalist?" — that's the unanswered question this book leaves open.
 
 3. **"Great Artists Steal" — case-study mining as a learning discipline.** Tagged 4+ times. Reading biographies and operating histories as raw material for portfolio thesis-building, not for entertainment.
 
@@ -65,7 +65,7 @@ The thesis the notes circle: Amazon is the cleanest available case study for wha
 - In Taleb’s book—which, incidentally, all Amazon senior executives had to read—the author stated that the way to avoid the narrative fallacy was to favor experimentation and clinical knowledge over storytelling and memory. <!--rwid:rwid-dc3a9f3870bf-->
   > **Kyle:** *What is the difference between memory and clinical knowledge?*
 - Shaw felt strongly that if DESCO was going to be a firm that pioneered new approaches to investing, the only way to maintain its lead was to keep its insights secret and avoid teaching competitors how to think about these new computer-guided frontiers. <!--rwid:rwid-75f890aa782d-->
-  > **Kyle:** *[Investing 101 2.0](/essays/investing-101-2-0) exposes these competitive advantages and allows people to learn by observing experimentation*
+  > **Kyle:** *[Investing 101 2.0](/notes/investing-101-2-0) exposes these competitive advantages and allows people to learn by observing experimentation*
 - “He was not concerned about what other people were thinking,” Chichilnisky says. “When you gave him a good solid intellectual issue, he would just chew on it and get it done.” <!--rwid:rwid-34e8f8f4ced9-->
 - Minor remembers that Bezos had closely studied several wealthy businessmen and that he particularly admired a man named Frank Meeks, a Virginia entrepreneur who had made a fortune owning Domino’s Pizza franchises. <!--rwid:rwid-b04924a133e0-->
   > **Kyle:** *#[Live the Library](/notes/live-the-library)*

@@ -1,5 +1,5 @@
 ---
-title: "Investing 101 2.0 Wiki"
+title: "Investing 101 2.0"
 type: "concept"
 publish: false
 confidence: "low"
@@ -10,12 +10,13 @@ sources:
   - "wiki/books/Berkshire Hathaway Annual Letters.md"
 tags: []
 aliases:
+  - "Investing 101 2.0"
   - "Investing 101 2.0 Wiki"
 related: []
 reference_count: 1
 ---
 
-# Investing 101 2.0 Wiki
+# Investing 101 2.0
 
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 

@@ -15,7 +15,7 @@ key_takeaways_status: "written"
 ## Key Takeaways
 
 <!-- key-takeaways -->
-Eghbal's book on open-source maintenance read as a serious source for the [Investing 101 2.0](/essays/investing-101-2-0) essay-in-progress — what does "production-grade knowledge work" actually mean economically? Five threads:
+Eghbal's book on open-source maintenance read as a serious source for the [Investing 101 2.0](/notes/investing-101-2-0) essay-in-progress — what does "production-grade knowledge work" actually mean economically? Five threads:
 
 1. **Creation vs. maintenance as the structural tension.** "Creation is an intrinsic motivator, maintenance usually requires extrinsic motivation." Repeated across multiple notes. Most knowledge-work systems underweight maintenance because no one's intrinsically motivated to do it. Connects to the Vonnegut quote on builders vs. caretakers.
 

@@ -204,8 +204,22 @@ function getResolver() {
   return _resolver;
 }
 
+// Build a reverse map slug → kind so we can heal stale links when a page
+// moves between collections (e.g. essay deleted, replaced by a concept note).
+let _slugToKind = null;
+function getSlugToKind() {
+  if (_slugToKind) return _slugToKind;
+  _slugToKind = new Map();
+  for (const { kind, slug } of getResolver().values()) {
+    if (!_slugToKind.has(slug)) _slugToKind.set(slug, kind);
+  }
+  return _slugToKind;
+}
+
 // Transform every [[Target]] and #[[Target]] to a markdown link if the target
-// resolves to a known wiki page, otherwise unwrap to plain display text.
+// resolves to a known wiki page, otherwise unwrap to plain display text. Also
+// heals existing /books/X /essays/X /notes/X markdown links whose page has
+// since moved to a different collection.
 // Used everywhere — Key Takeaways, Connections, and Highlights.
 function resolveWikilinks(text) {
   const r = getResolver();
@@ -213,6 +227,13 @@ function resolveWikilinks(text) {
   // habit produced `[[X]]` (inline code) which broke link rendering downstream.
   text = text.replace(/`(\[\[[^\]]+\]\])`/g, '$1');
   text = text.replace(/`(#\[\[[^\]]+\]\])`/g, '$1');
+  // Heal stale internal markdown links — re-route if slug now lives elsewhere.
+  const slugToKind = getSlugToKind();
+  text = text.replace(/\]\((\/(books|essays|notes)\/([a-z0-9-]+))\)/g, (full, _path, kind, slug) => {
+    const correct = slugToKind.get(slug);
+    if (!correct || correct === kind) return full;
+    return `](/${correct}/${slug})`;
+  });
   text = text.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, target, alias) => {
     const display = alias || target;
     const hit = r.get(target.toLowerCase().trim());

@@ -19,7 +19,7 @@ Fried and Heinemeier Hansson's pre-COVID remote-work argument read in mid-2020s 
 
 2. **Pay for talent, not location.** "Instead of thinking I can pay people from Kansas less than people from New York, you should think I can get amazing people." The GitLab salary calculator referenced explicitly — the structural alternative being built right now.
 
-3. **Contract work as the ease-in mechanism.** A practical observation worth holding: both sides can test the working relationship without commitment. Pairs naturally with the [Open Source Knowledge](/notes/open-source-knowledge) / [Investing 101 2.0](/essays/investing-101-2-0) threads on alternative work structures.
+3. **Contract work as the ease-in mechanism.** A practical observation worth holding: both sides can test the working relationship without commitment. Pairs naturally with the [Open Source Knowledge](/notes/open-source-knowledge) / [Investing 101 2.0](/notes/investing-101-2-0) threads on alternative work structures.
 
 The book reads as a foundational text whose specific recommendations matter less now than the structural shift it predicted. The interesting question isn't whether to be remote — it's what other office-era assumptions are still load-bearing that shouldn't be.
 <!-- /key-takeaways -->

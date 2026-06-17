@@ -12,7 +12,7 @@ key_takeaways_status: "written"
 ## Key Takeaways
 
 <!-- key-takeaways -->
-Tom Nicholas's history of venture capital read with the [Investing 101 2.0](/essays/investing-101-2-0) and [Bifurcation of Investing](/notes/bifurcation-of-investing) threads explicitly in view. Three threads:
+Tom Nicholas's history of venture capital read with the [Investing 101 2.0](/notes/investing-101-2-0) and [Bifurcation of Investing](/notes/bifurcation-of-investing) threads explicitly in view. Three threads:
 
 1. **Information asymmetry as the structural moat.** What happens if you remove it — distribution of playbooks, democratization of customer access, data-sharing on best companies? The implicit thesis of [Contrary Research](/essays/contrary-research) and the broader open-source-knowledge thread.
 
