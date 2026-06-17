@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SearchBar from '../../components/SearchBar.astro';
 import { getCollection } from 'astro:content';
+import { essayIconSvg } from '../../lib/essayIcon';
 
 // Load essays from content collection, sorted by date descending
 const essays = (await getCollection('essays')).sort(
@@ -20,7 +21,7 @@ const essays = (await getCollection('essays')).sort(
   {essays.map((essay) => (
     <a href={`/essays/${essay.slug}`} style="text-decoration: none; color: inherit;">
       <div class="update-card">
-        <div class="update-icon">✎</div>
+        <div class="update-icon" set:html={essayIconSvg(essay.data)} />
         <div class="update-content">
           <div class="update-title">{essay.data.title}</div>
           <div class="update-excerpt">{essay.data.excerpt}</div>
