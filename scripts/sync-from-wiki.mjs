@@ -245,6 +245,15 @@ function resolveWikilinks(text) {
     if (!hit) return target;
     return `[${target}](/${hit.kind}/${hit.slug})`;
   });
+  // Bare Roam-style hashtags: #reading, #books-to-read, #ThisIsMyTown.
+  // Match a # followed by a letter (not preceded by alnum/# so we don't catch
+  // C#, ##headings, numeric #1, etc.) and route through the resolver. Display
+  // text preserves the original casing Kyle wrote.
+  text = text.replace(/(?<![A-Za-z0-9#\[])#([A-Za-z][A-Za-z0-9_-]+)\b/g, (full, tag) => {
+    const hit = r.get(tag.toLowerCase().trim());
+    if (!hit) return full;
+    return `#[${tag}](/${hit.kind}/${hit.slug})`;
+  });
   return text;
 }
 

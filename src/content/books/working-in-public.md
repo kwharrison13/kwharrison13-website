@@ -163,9 +163,9 @@ The book functions as the conceptual underpinning for the recurring [Open Source
 - Activity that directly feeds back into “work done” (meaning, changes to the code) should weigh more heavily than issues and questions. The latter might help us measure a project’s popularity, but a project that’s all talk and no action (lots of discussion, but no commits) is not necessarily healthy. By contrast, “issue zero” and “pull request zero,” with a steady rate of issues and pull requests opened and closed, would suggest that a project is in comparatively better shape. <!--rwid:rwid-9ecbf8e8b46f-->
 - Looking at a project’s output, rather than its number of contributors, prompts a new question: What actually goes into those issues and pull requests? What is the work that maintainers need to do, beyond the initial authorship of a project? <!--rwid:rwid-668e555f07a5-->
 - In their book Understanding Knowledge as a Commons, Elinor Ostrom and Charlotte Hess define users as “those appropriating digital information at any point in time.” <!--rwid:rwid-136de41eaa89-->
-  > **Kyle:** *#books-to-read*
+  > **Kyle:** *#[books-to-read](/notes/books-to-read)*
 - Firstly, software, once written, is never really finished. It might be feature-complete, but, in order to continue running, software almost always requires some sort of ongoing maintenance. <!--rwid:rwid-4e0aa8e22821-->
-  > **Kyle:** *#Entropy*
+  > **Kyle:** *#[Entropy](/notes/entropy)*
 - Nathan Ensmenger, a professor of informatics and computing at Indiana University, suggests that “most computer programmers begin their careers doing software maintenance, and many never do anything but.” <!--rwid:rwid-16f01e235810-->
   > **Kyle:** *Kurt Bonnegut quote; building vs. maintaining*
 - The cost of maintenance, coupled with a lack of intrinsic motivation to maintain, is why large open source projects tend to become modular as they grow. <!--rwid:rwid-c630201afc65-->

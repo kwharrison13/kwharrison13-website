@@ -73,7 +73,7 @@ A standalone observation worth flagging: "we embrace all truth, no matter the so
 - Only by repeated testing of our models against reality and being open to feedback can we update our understanding of the world and change our thinking. <!--rwid:rwid-10b2ec5afd5e-->
 - Most of us study something specific and don’t get exposure to the big ideas of other disciplines. We don’t develop the multidisciplinary mindset that we need to accurately see a problem. And because we don’t have the right models to understand the situation, we overuse the models we do have and use them even when they don’t belong. <!--rwid:rwid-a1f8d29fa908-->
 - “Every statistician knows that a large, relevant sample size is their best friend. What are the three largest, most relevant sample sizes for identifying universal principles? Bucket number one is inorganic systems, which are 13.7 billion years in size. It’s all the laws of math and physics, the entire physical universe. Bucket number two is organic systems, 3.5 billion years of biology on Earth. And bucket number three is human history, you can pick your own number, I picked 20,000 years of recorded human behavior. Those are the three largest sample sizes we can access and the most relevant.” —Peter Kaufman <!--rwid:rwid-ac994fb87dec-->
-  > **Kyle:** *#History*
+  > **Kyle:** *#[History](/notes/history)*
 - We have a tendency to think that how the world is, is how it always was. And so we get caught up validating our assumptions from what we find in the here and now. <!--rwid:rwid-545dc473d588-->
   > **Kyle:** *#[SALY Principle](/notes/saly-principle)*
 - Looking to the past can provide essential context for understanding where we are now. <!--rwid:rwid-7e7260570b3e-->

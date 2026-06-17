@@ -40,7 +40,7 @@ A side thread worth flagging: the recurring question of contemporary Church prac
 ## Highlights
 
 - We all inhabit geographical, linguistic, and social worlds that shape our vision and our impressions of what is normal, what is real. Our worldview is a collective set of assumptions we carry with us that condition every question we ask. These “paradigms” make it possible to guide inquiry, but they can also limit and impede our inquiry. They can get us off on the wrong foot, obscure our line of sight, or simply misdirect our focus. This is because, all too often, we don’t realize the limiting assumptions with which we are working. <!--rwid:rwid-ed19a4c1500c-->
-  > **Kyle:** *#Heuristics*
+  > **Kyle:** *#[Heuristics](/notes/heuristics)*
 - Only when we have left a misguided assumption behind are we able to see it clearly. <!--rwid:rwid-addeb59d84ab-->
 - is only with hindsight that we can see the paradigms of the past for the intellectual straitjackets they were. <!--rwid:rwid-5b1ce609f4f0-->
 - Great Christian thinkers of the past have operated with assumptions—some of them deeply ingrained, sanctioned by long tradition, by ecclesiastical authority, and by scripture—that made answers difficult or impossible to obtain. At the least, such assumptions can delay prayerful responses to earnest questions, even by decades. <!--rwid:rwid-efecf876d5f2-->
