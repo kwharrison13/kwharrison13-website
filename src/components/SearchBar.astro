@@ -151,21 +151,35 @@ const { context = 'home' } = Astro.props;
 
     const data = await loadIndex();
     const qLower = query.toLowerCase();
-    const bookResults = [];
-    const essayResults = [];
+    let bookResults = [];
+    let essayResults = [];
+
+    // Score a title against the query so exact / prefix / substring matches outrank
+    // body- or author-only hits. Returns 0 when the title doesn't match at all.
+    function titleScore(title) {
+      const tl = title.toLowerCase();
+      if (tl === qLower) return 100;        // exact title
+      if (tl.startsWith(qLower)) return 80; // title starts with the query
+      if (tl.includes(qLower)) return 60;   // query appears in the title
+      return 0;
+    }
+    function timeOf(d) { const t = d ? Date.parse(d) : NaN; return isNaN(t) ? 0 : t; }
 
     for (const book of data.books) {
-      const titleMatch = book.title.toLowerCase().includes(qLower);
+      const tScore = titleScore(book.title);
       const authorMatch = book.author.toLowerCase().includes(qLower);
       const matchedHighlights = book.highlights.filter(h => h.toLowerCase().includes(qLower));
-      if (titleMatch || authorMatch || matchedHighlights.length > 0) {
-        bookResults.push({ ...book, titleMatch, authorMatch, matchedHighlights });
+      if (tScore || authorMatch || matchedHighlights.length > 0) {
+        const score = tScore || (authorMatch ? 40 : 20);
+        bookResults.push({ ...book, titleMatch: tScore > 0, authorMatch, matchedHighlights, _score: score });
       }
-      if (bookResults.length >= 8) break;
     }
+    // Title matches first; then author; then highlight-only. Ties broken by recency.
+    bookResults.sort((a, b) => b._score - a._score || timeOf(b.year) - timeOf(a.year));
+    bookResults = bookResults.slice(0, 8);
 
     for (const essay of data.essays) {
-      const titleMatch = essay.title.toLowerCase().includes(qLower);
+      const tScore = titleScore(essay.title);
       const bodySnippets = [];
       if (essay.body.toLowerCase().includes(qLower)) {
         const lower = essay.body.toLowerCase();
@@ -182,11 +196,14 @@ const { context = 'home' } = Astro.props;
           searchFrom = idx + qLower.length + 150;
         }
       }
-      if (titleMatch || bodySnippets.length > 0) {
-        essayResults.push({ ...essay, titleMatch, bodySnippets });
+      if (tScore || bodySnippets.length > 0) {
+        const score = tScore || 20; // title hits outrank body-only hits
+        essayResults.push({ ...essay, titleMatch: tScore > 0, bodySnippets, _score: score });
       }
-      if (essayResults.length >= 8) break;
     }
+    // Title matches first, then body-only; ties broken by most-recent date.
+    essayResults.sort((a, b) => b._score - a._score || timeOf(b.date) - timeOf(a.date));
+    essayResults = essayResults.slice(0, 8);
 
     if (bookResults.length === 0 && essayResults.length === 0) {
       dropdown.innerHTML = '<div class="search-empty">No results for \u201c' + esc(query) + '\u201d</div>';

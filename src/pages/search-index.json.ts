@@ -5,8 +5,14 @@ import { bookSlug } from '../lib/bookSlug';
 
 function stripMarkdown(md: string): string {
   return md
-    // strip HTML comments
+    // remove the wiki-connections aside entirely (the link list injected at the top of
+    // each essay) — match the whole block between its comment markers, content included,
+    // so neither the anchor HTML nor the connection link text ends up in the index
+    .replace(/<!--\s*connections-start\s*-->[\s\S]*?<!--\s*connections-end\s*-->/gi, '')
+    // strip any other HTML comments
     .replace(/<!--[\s\S]*?-->/g, '')
+    // strip remaining HTML tags (stray asides, divs, anchors) down to nothing
+    .replace(/<[^>]+>/g, ' ')
     // strip images
     .replace(/!\[.*?\]\(.*?\)/g, '')
     // convert links to text
@@ -21,6 +27,7 @@ function stripMarkdown(md: string): string {
     // strip frontmatter-like remnants
     .replace(/^-\s+/gm, '')
     // collapse whitespace
+    .replace(/[ \t]{2,}/g, ' ')
     .replace(/\n{3,}/g, '\n\n')
     .trim();
 }
