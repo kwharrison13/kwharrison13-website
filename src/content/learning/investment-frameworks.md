@@ -300,7 +300,7 @@ A curated library of investment frameworks, checklists, and mental models from l
 - **Maintain a healthy level of organizational paranoia.** Question your assumptions, understand the risks, be willing to transition when you "just don't know." If and when you believe you are wrong, do not incrementalize — move on quickly.
 - **Be aggressive when you find highly asymmetric risk/reward opportunities.** There is no better feeling than being early, being big, and being right.
 
-## Coatue Framework
+## [Coatue](/notes/coatue) Framework
 
 - Team
 - TAM

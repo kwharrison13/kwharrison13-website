@@ -61,7 +61,7 @@ related:
 - McKinnon's mistake of importing the Salesforce playbook wholesale, then correcting via [First Principles Thinking](/notes/first-principles-thinking) ("what's *different* about this situation"), is a clean case study for that concept.
 - The cloud-stack thesis (apps → collaboration → infrastructure all migrating) connects to Cloud Adoption, the [Subscription Economy](/notes/subscription-economy), and the [Consumerization of the Enterprise](/notes/consumerization-of-the-enterprise).
 - The digital-identity / GDPR discussion — how privacy regulation can hurt the small providers it was meant to protect, and Okta's ambition to set a standard rather than own every login — is a thread worth mining alongside Customer Identity & Access Management (CIAM).
-- The "fund risky, low-probability bets outside the normal budget" framework rhymes with how Amazon ($AMZN) / [AWS](/notes/aws)-style disruptions get incubated inside incumbents (the [Innovator's Dilemma](/notes/innovator-s-dilemma) problem, solved deliberately).
+- The "fund risky, low-probability bets outside the normal budget" framework rhymes with how [Amazon ($AMZN)](/notes/amazon-amzn) / [AWS](/notes/aws)-style disruptions get incubated inside incumbents (the [Innovator's Dilemma](/notes/innovator-s-dilemma) problem, solved deliberately).
 
 ## Highlights — Key Takeaways (Kyle's reading layer)
 

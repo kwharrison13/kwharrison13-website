@@ -4,9 +4,10 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
+  - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
   - "wiki/essays/Networked Conviction — Roam + Investing.md"
   - "wiki/essays/Networked Conviction.md"
   - "wiki/essays/The Art and Science of Investing.md"
@@ -62,3 +63,12 @@ related:
 - [Networked Conviction](/essays/networked-conviction-roam-investing), [Roam Research](/notes/roam-research) — the method and the tool behind it.
 - [Portfolio Ideas](/notes/portfolio-ideas) — the output: companies surfaced by the process.
 - [Republic of Letters](/notes/republic-of-letters) — the thinking-in-public lineage.
+
+
+## Quick Capture links — June 29th, 2021
+
+_Reading-list links from Kyle's June 29th, 2021 Roam daily-note "Quick Capture" log._
+
+- [Investing 101 2.0](/notes/investing-101-2-0) - https://www.wsj.com/articles/billionaires-secret-buyout-formula-110-instructions-and-an-intelligence-test-1531151197?eminfo=%7b%22EMAIL%22%3a%222iBDIHKg86%2bAqtp%2fUag3Qd6HGpWbRE2a%22%2c%22BRAND%22%3a%22FO%22%2c%22CONTENT%22%3a%22Newsletter%22%2c%22UID%22%3a%22FO_DTA_0EC45B5E-02EF-44E3-AA31-C66682746178%22%2c%22SUBID%22%3a%2271539857%22%2c%22JOBID%22%3a%22814789%22%2c%22NEWSLETTER%22%3a%22DATA_SHEET%22%2c%22ZIP%22%3a%22%22%2c%22COUNTRY%22%3a%22%22%7d
+
+**Related:** [Playbooks](/notes/playbooks)

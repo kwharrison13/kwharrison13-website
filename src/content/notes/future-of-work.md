@@ -7,6 +7,7 @@ created: "2026-06-17"
 updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
+  - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
   - "Roam Research daily-note export — May 16th, 2018 (networking/sourcing call log): ~/Downloads/May 16th, 2018.md"
 tags:
   - "future-of-work"
@@ -34,3 +35,23 @@ related:
 ## Related concepts
 
 - _None identified yet._
+
+
+## Quick Capture links — June 29th, 2021
+
+_Reading-list links from Kyle's June 29th, 2021 Roam daily-note "Quick Capture" log._
+
+- https://www.thersa.org/blog/2019/03/what-will-the-world-of-work-look-like-in-2035
+- https://www.hrdive.com/news/a-modern-take-on-apprenticeships-is-working-for-businesses/551686/
+- https://cacm.acm.org/careers/235357-faster-robots-demoralize-co-workers/fulltext
+- http://desklessworkforce2018.com/?utm_source=Kauffman%2BFellows%2BJournal&utm_campaign=ed45d7960c-EMAIL_CAMPAIGN_2019_03_08_08_12&utm_medium=email&utm_term=0_9d87896aa8-ed45d7960c-337859105&mc_cid=ed45d7960c&mc_eid=db77101ab2 - #[Deskless Workers](/notes/deskless-workers)
+- https://www.axios.com/newsletters/axios-future-9ca0c616-331c-4a1c-8e4d-f252680de962.html?chunk=2&utm_term=emshare#story2
+- https://www.linkedin.com/pulse/how-make-everybody-love-job-guy-kawasaki/?trk=eml-email_feed_ecosystem_digest_01-recommended_articles-12-Unknown&midToken=AQFrE5Q0IiglqQ&fromEmail=fromEmail&ut=1mkjJdX9n8DEE1
+- https://soundcloud.com/exponentialview/ai-automation-the-economy-jeff-sachs-in-conversation-with-azeem-azhar
+- https://www.cnbc.com/2019/02/26/sam-altman-on-ai-jobs-may-go-away-but-massive-abundance-likely.html
+- https://blog.fastforwardlabs.com/2019/02/28/causality-in-machine-learning.html
+- https://mattturck.com/scaling-ai-startups/
+- https://www.fastcompany.com/90329043/exclusive-google-asked-100000-employees-about-remote-work-this-is-what-they-learned?utm_source=pocket&utm_medium=email&utm_campaign=pockethits
+- https://www.worldnomads.com/
+
+**Related:** [Deskless Workers](/notes/deskless-workers)

@@ -4,9 +4,10 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
+  - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
   - "wiki/books/How To Read a Book.md"
   - "wiki/books/Remote — Office Not Required.md"
   - "wiki/books/The Death of Expertise.md"
@@ -55,3 +56,12 @@ related:
 - [Republic of Letters](/notes/republic-of-letters) — the historical antecedent of an open knowledge commons.
 - [Investing 101 2.0](/notes/investing-101-2-0) — Kyle's own practice of learning in public.
 - [Maintenance](/notes/maintenance) — why open knowledge decays without active tending.
+
+
+## Quick Capture links — June 29th, 2021
+
+_Reading-list links from Kyle's June 29th, 2021 Roam daily-note "Quick Capture" log._
+
+- https://docs.google.com/document/d/1Vb8WWbsVyEJzl66_qqtZfFr2uLL07Y7SJH5XKldjDPY/edit
+- https://willrobbins.org/questions/
+- https://www.ycombinator.com/rfs/

@@ -25,6 +25,7 @@ const WIKI_BOOKS = path.join(WIKI_ROOT, 'wiki', 'books');
 const WIKI_ESSAYS = path.join(WIKI_ROOT, 'wiki', 'essays');
 const WIKI_CONCEPTS = path.join(WIKI_ROOT, 'wiki', 'concepts');
 const WIKI_PEOPLE = path.join(WIKI_ROOT, 'wiki', 'people');
+const WIKI_GOSPEL = path.join(WIKI_ROOT, 'wiki', 'gospel-study');
 const LEARNING_DIR = path.join(WEBSITE_ROOT, 'src', 'content', 'learning');
 
 const args = process.argv.slice(2);
@@ -94,6 +95,7 @@ function buildResolver() {
   const notes = new Map([
     ...indexCollection(WIKI_CONCEPTS, 'notes'),
     ...indexCollection(WIKI_PEOPLE, 'notes'),
+    ...indexCollection(WIKI_GOSPEL, 'notes'),
   ]);
   return { books, essays, notes };
 }
