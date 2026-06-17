@@ -23,7 +23,7 @@ related:
   - "[[Poor Charlie's Almanack]]"
 ---
 
-A curated library of investment frameworks, checklists, and mental models from leading investors across venture capital and public markets. Organized by source. See also [Networked Conviction — Roam + Investing - Research](/notes/networked-conviction-roam-investing-research) for process notes on how Kyle uses these frameworks.
+A curated library of investment frameworks, checklists, and mental models from leading investors across venture capital and public markets. Organized by source. See also [Networked Conviction — Roam + Investing](/essays/networked-conviction-roam-investing) for process notes on how Kyle uses these frameworks.
 
 ---
 
