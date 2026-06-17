@@ -14,7 +14,7 @@ key_takeaways_status: "written"
 ## Key Takeaways
 
 <!-- key-takeaways -->
-Bhattacharya's biography of John von Neumann read as Anduril-thesis source material — 13 of 25 notes are tagged `#[Anduril](/notes/anduril)`. The von Neumann story functions as a deep historical precedent for civil-military fusion, RAND-style applied research, and self-replicating systems. Six threads:
+Bhattacharya's biography of John von Neumann read as Anduril-thesis source material — 13 of 25 notes are tagged #[Anduril](/notes/anduril). The von Neumann story functions as a deep historical precedent for civil-military fusion, RAND-style applied research, and self-replicating systems. Six threads:
 
 1. **Self-replicating systems as the load-bearing forgotten idea.** Von Neumann's *Theory of Self-Reproducing Automata*; the 1980 NASA SRS workshop on lunar self-replicating factories. The notes tag this #[Forgotten Ideas](/notes/forgotten-ideas) — work that was rigorous in its time and dropped not because it was wrong but because it was ahead of execution capability.
 

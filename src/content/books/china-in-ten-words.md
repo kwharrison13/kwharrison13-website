@@ -17,7 +17,7 @@ Yu Hua's essay collection read with two specific structural frames. Two threads:
 
 1. **Loss of "the people" as a sense.** "In America it feels like we have lost our sense of 'the people.'" Yu Hua's frame on Chinese collective experience as a comparison that highlights what the US has lost.
 
-2. **Leverage as monetary policy vs. as risk management.** The financial-domain note about leverage as a specific economic mechanism — tagged `#[Storytelling](/notes/storytelling-as-leadership)`, suggesting the book's framing matters more than the technical content.
+2. **Leverage as monetary policy vs. as risk management.** The financial-domain note about leverage as a specific economic mechanism — tagged #[Storytelling](/notes/storytelling-as-leadership), suggesting the book's framing matters more than the technical content.
 <!-- /key-takeaways -->
 
 ## Connections

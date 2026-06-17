@@ -234,6 +234,18 @@ function resolveWikilinks(text) {
   // habit produced `[[X]]` (inline code) which broke link rendering downstream.
   text = text.replace(/`(\[\[[^\]]+\]\])`/g, '$1');
   text = text.replace(/`(#\[\[[^\]]+\]\])`/g, '$1');
+  // Also strip backticks around a bare #hashtag, but ONLY when it resolves to a
+  // page — otherwise leave it as literal code (e.g. `#define`). Without this, a
+  // `#tag` written as inline code becomes `#[tag](/notes/tag)` (a markdown link
+  // trapped in backticks), which renders as literal code instead of a link.
+  text = text.replace(/`(#[A-Za-z][A-Za-z0-9_-]*)`/g, (full, tag) =>
+    r.get(tag.slice(1).toLowerCase().trim()) ? tag : full);
+  // Protect any remaining inline-code spans so a wikilink deliberately quoted as
+  // code (e.g. `#[[Roam Brainstorm]] - note`) is left verbatim rather than having
+  // its slug syntax exposed inside the code box. Lone wikilinks wrapped in backticks
+  // were already unwrapped above, so those still become real links.
+  const _code = [];
+  text = text.replace(/`[^`]*`/g, (m) => { _code.push(m); return `\x00${_code.length - 1}\x00`; });
   // Heal stale internal markdown links — re-route if slug now lives elsewhere.
   const slugToKind = getSlugToKind();
   text = text.replace(/\]\((\/(books|essays|notes)\/([a-z0-9-]+))\)/g, (full, _path, kind, slug) => {
@@ -261,6 +273,8 @@ function resolveWikilinks(text) {
     if (!hit) return full;
     return `#[${tag}](/${hit.kind}/${hit.slug})`;
   });
+  // Restore protected code spans.
+  text = text.replace(/\x00(\d+)\x00/g, (_, i) => _code[Number(i)]);
   return text;
 }
 

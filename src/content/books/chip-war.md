@@ -14,9 +14,9 @@ key_takeaways_status: "written"
 ## Key Takeaways
 
 <!-- key-takeaways -->
-Read primarily as Anduril-thesis source material — 30+ of the 50 notes are simply tagged `#[Anduril](/notes/anduril)`, with the book functioning as evidence collection for a defense-tech investment frame rather than as a self-contained semiconductor history. Six threads:
+Read primarily as Anduril-thesis source material — 30+ of the 50 notes are simply tagged #[Anduril](/notes/anduril), with the book functioning as evidence collection for a defense-tech investment frame rather than as a self-contained semiconductor history. Six threads:
 
-1. **Anduril sourcing as the dominant use.** The single most frequent annotation is `#[Anduril](/notes/anduril)`. The book is being mined for facts that support a thesis already forming: civil-military fusion, attritable assets, sensor fusion, the case for verticalized defense-tech. Reading-as-due-diligence rather than reading-for-its-own-sake.
+1. **Anduril sourcing as the dominant use.** The single most frequent annotation is #[Anduril](/notes/anduril). The book is being mined for facts that support a thesis already forming: civil-military fusion, attritable assets, sensor fusion, the case for verticalized defense-tech. Reading-as-due-diligence rather than reading-for-its-own-sake.
 
 2. **Monopolies as innovation engines.** Bell Labs, TSMC. Central planning fails at the cutting edge, but a single dominant private actor with deep capital and technical patience (TSMC) can do what fragmented competitors can't. Tension with US antitrust instinct.
 

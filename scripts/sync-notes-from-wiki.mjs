@@ -117,6 +117,17 @@ const resolver = mergeMaps(
 );
 
 function transformLinks(text) {
+  // Defensive: strip backticks directly around a wikilink so it resolves into a
+  // real link instead of rendering as inline code (mirrors sync-from-wiki.mjs).
+  // Without this, `[[X]]` / `#[[X]]` written as inline code becomes a markdown
+  // link trapped in backticks → renders as literal code, not a link.
+  text = text.replace(/`(\[\[[^\]]+\]\])`/g, '$1');
+  text = text.replace(/`(#\[\[[^\]]+\]\])`/g, '$1');
+  // Protect any remaining inline-code spans so a wikilink deliberately quoted as
+  // code (e.g. `#[[Roam Brainstorm]] - note`) is left verbatim rather than having
+  // its slug syntax exposed inside the code box.
+  const _code = [];
+  text = text.replace(/`[^`]*`/g, (m) => { _code.push(m); return `\x00${_code.length - 1}\x00`; });
   // [[Target|Display]] or [[Target]] → [Display](/<kind>/<slug>)
   // Unresolved → just unwrap to the display text (no broken link)
   text = text.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, target, alias) => {
@@ -134,6 +145,8 @@ function transformLinks(text) {
   });
   // Strip <!--rwid:--> markers if any leaked through
   text = text.replace(/<!--rwid:[^>]+-->/g, '');
+  // Restore protected code spans.
+  text = text.replace(/\x00(\d+)\x00/g, (_, i) => _code[Number(i)]);
   return text;
 }
 
