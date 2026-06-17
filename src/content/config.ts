@@ -57,4 +57,23 @@ const notes = defineCollection({
   }),
 });
 
-export const collections = { essays, books, notes };
+const learning = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    type: z.string().optional(),
+    format: z.string().optional(),
+    publish: z.boolean().default(false),
+    description: z.string().optional(),
+    created: z.string().optional(),
+    updated: z.string().optional(),
+    last_updated_by: z.string().optional(),
+    confidence: z.enum(['low', 'medium', 'high']).optional(),
+    sources: z.array(z.string()).optional(),
+    tags: z.array(z.string()).optional(),
+    aliases: z.array(z.string()).optional(),
+    related: z.array(z.string()).optional(),
+  }),
+});
+
+export const collections = { essays, books, notes, learning };
