@@ -24,11 +24,18 @@ function remarkStripRwid() {
 export default defineConfig({
   site: 'https://kwharrison13.com',
   integrations: [sitemap()],
-  // Collapsed the duplicate "Networked Conviction" essay (was published at both
-  // /essays/roam-investing and /essays/networked-conviction-roam-investing).
-  // The full-title slug is canonical; preserve the old URL so inbound links survive.
+  // Collapsed duplicate essays that the additive wiki→website sync left behind.
+  // Each essay had a stale title-slugged file (old import-essays.py schema, image-poor)
+  // alongside the canonical wiki-synced file (respects `website_slug`, has the images).
+  // The canonical slug is authoritative; preserve the old URLs so inbound links survive.
   redirects: {
     '/essays/roam-investing': '/essays/networked-conviction-roam-investing',
+    '/essays/the-productization-of-venture-capital': '/essays/productization',
+    '/essays/whats-in-a-valuation': '/essays/valuations',
+    '/essays/why-most-vcs-suck-at-talent': '/essays/talent',
+    '/essays/i-love-the-taste-of-pain-in-the-morning': '/essays/pain',
+    '/essays/renegade-spotlight-homebrew': '/essays/homebrew',
+    '/essays/renegade-spotlight-lowercarbon': '/essays/lowercarbon',
   },
   markdown: {
     remarkPlugins: [remarkStripRwid],
