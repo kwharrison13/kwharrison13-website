@@ -13,15 +13,19 @@ sources:
   - "wiki/books/Skunk Works.md"
   - "wiki/books/The Kill Chain.md"
   - "wiki/books/The Man From The Future.md"
+  - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
 tags:
   - "technological-innovation"
   - "company-building"
 aliases:
   - "Anduril"
+  - "Anduril Industries"
 related:
   - "[[Palmer Luckey]]"
   - "[[Kelly Johnson]]"
   - "[[Robert McNamara]]"
+  - "[[American Dynamism]]"
+  - "[[Dependencies]]"
 ---
 
 # Anduril
@@ -48,6 +52,7 @@ related:
 - [Flying Blind](/books/flying-blind) — Boeing as the anti-pattern of a hollowed-out industrial culture.
 - [The Man From The Future](/books/the-man-from-the-future) — historical roots of civil-military fusion and applied research.
 - [Nuclear War — a Scenario](/books/nuclear-war-a-scenario) — adjacent reference within the defense-tech frame.
+- [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — case study in navigating "Layer 3" (unavoidable) [Dependencies](/notes/dependencies): DoD buy-in, warfighter trust, Lattice integration, scaling 1K→50K employees. Solicit true believers; care about the 1% "ride or die." Countercyclical in 2017, later riding [American Dynamism](/notes/american-dynamism).
 
 ## Related concepts
 
