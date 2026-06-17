@@ -30,8 +30,8 @@ Have you ever seen something so cute, you can't stand it? The cuteness elicits a
 
 Well, it turns out that feeling actually has a name: [cute aggression](https://en.wikipedia.org/wiki/Cute_aggression). And not just a name, but several pieces of academic literature unpacking the phenomenon.
 
-![Source: Wikipedia (p.s. "young human." Wikipedia sure has a way with words)
-
+![Source: Wikipedia (p.s. "young human." Wikipedia sure has a way with words)](/images/books-20-35cdf40f.png)
+](/images/books-20-35cdf40f.png)
 But I think for a lot of people, it isn't just the intake of cute imagery that creates a physical response in us. How many times have you seen a movie where you almost can't speak afterwards? Or watched a play in a football game that leaves your jaw agape? Or felt the rush of adrenaline from dropping out of an airplane (I assume with a parachute, though to each their own) that made you feel inhuman?
 
 **What about reading a book that shakes you to your core?** Sometimes, sure, maybe you even want to eat it. It's just so all-encompassing. Something about that book impacted every aspect of you.

@@ -15,8 +15,8 @@ substack_url: "https://investing101.substack.com/p/creativity-as-connectivity"
 </aside>
 <!-- connections-end -->
 
-!["The Tree of Life" by Gustav Klimt (1909)
-
+!["The Tree of Life" by Gustav Klimt (1909)](/images/creativity-as-connectivity-3c2a5487.png)
+](/images/creativity-as-connectivity-3c2a5487.png)
 Whenever I meet someone who has read my writing, the main compliment they give is "I'm really impressed with the consistency." And my response is always the same. "Well, they're not all gems."
 
 This is the 167th week in a row I've written a piece. Honestly, I think maybe 5% of the times I've written have been high quality. But there are pieces that I feel quite proud of.

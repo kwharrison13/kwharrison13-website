@@ -54,8 +54,8 @@ A lot has changed in the last few years, but two big things have shifted startup
 
 In the old days starting a company had a massive capital outlay. Founders had to rack their own servers and build everything from scratch. [Even in 2012 Mark Suster](https://bothsidesofthetable.com/it-s-morning-in-venture-capital-ac539cd5f0e8) had made the observation that the cost of starting a company had dropped dramatically.
 
-![“It’s Morning In Venture Capital”(Mark Suster, 2012)
-
+![“It’s Morning In Venture Capital”(Mark Suster, 2012)](/images/the-unbundling-of-venture-capital-6174db3a.png)
+](/images/the-unbundling-of-venture-capital-6174db3a.png)
 The less capital required to start a company means there will be more companies. More shots on goal. And the number of winners didn't stay the same. There are more large-scale successes which means VCs have more and more companies to compete for.
 
 ### The Amount of Capital Available Got Bigger

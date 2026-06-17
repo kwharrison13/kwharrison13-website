@@ -55,8 +55,8 @@ If you step back and look at the breadth of startup experience that people have 
 
 Today product-led growth is one of peoples favorite business models to talk about. Tons of well-known companies claim it. Datadog, Twilio, Stripe, Github, and Mailchimp. OpenView listed over 300 companies in their [PLG market map](https://openviewpartners.com/blog/the-product-led-growth-market-map/#.YGKZzEhKjUI). Sales has progressed from being directed by CIOs to org-specific execs and today is being driven by the end-user.
 
-!["Product-Led Growth"(OpenView Partners)
-
+!["Product-Led Growth"(OpenView Partners)](/images/the-professionalization-of-startups-664dc89b.png)
+](/images/the-professionalization-of-startups-664dc89b.png)
 PLG has really come into vogue over the last few years. Companies like Adobe or Shopify have been offering some of their products self-serve since the early 2000s. But effectively balancing bottom-up PLG and top-down sales hasn't been common until recently.
 
 ![Illustration for The Process: Product-Led Growth section](/images/the-professionalization-of-startups-07ef9b10.png)

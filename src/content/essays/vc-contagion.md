@@ -173,8 +173,8 @@ The strategy has worked well for Brex in times of plenty. But the question still
 
 The fervor of the last few years has been driven by what I call a “dream the dream” premium. Investors continued to see larger and larger potential outcomes. In early 2021, some of the most highly valued companies—Snowflake, Cloudflare, Datadog, Crowdstrike—were trading at an average of 52.9x NTM revenue.
 
-![Source:Clouded Judgement(Feb. 5, 2021)
-
+![Source:Clouded Judgement(Feb. 5, 2021)](/images/vc-contagion-ffc0c4a2.png)
+](/images/vc-contagion-ffc0c4a2.png)
 Investors looked at that as the greatest driver of FOMO the world had ever seen. At the same time as companies were reaching absolute nosebleed valuations, VCs saw every single-digit million ARR fledgling startup as the next $100B company. Even if they missed by a few dozen billion, who cares about a $3M ARR company at $2B when it could be $40B? $50B? Venture funding shot up 100% YoY from [$171B](https://www.statista.com/statistics/277501/venture-capital-amount-invested-in-the-united-states-since-1995/) in 2020 to [$345B](https://www.statista.com/statistics/277501/venture-capital-amount-invested-in-the-united-states-since-1995/) in 2021.
 
 More capital chasing more startups competing for (supposedly) unlimited total addressable markets with more dollars on sales and marketing. Noisier distribution meant you went looking for any and all revenue you could get. But when “the tide went out,” you saw a lot of weakness or unsustainability.

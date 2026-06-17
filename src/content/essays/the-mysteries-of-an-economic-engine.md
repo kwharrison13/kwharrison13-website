@@ -93,8 +93,8 @@ CJ Gustafson did a great job [laying out different kinds of revenue](https://www
 
 Subscription revenue has been held up as the gold standard because it’s more predictable. But again, every company picks up one end of a business model stick (revenue) that will bring with it the other end of the stick (a cost structure). And that relationship is not always apples-to-apples across companies. Just because it's a subscription revenue business doesn't mean it's the same cost structure.
 
-![Source:Clouded Judgement (09.23.22)
-
+![Source:Clouded Judgement (09.23.22)](/images/the-mysteries-of-an-economic-engine-6b8b197e.png)
+](/images/the-mysteries-of-an-economic-engine-6b8b197e.png)
 You have software companies that take full advantage of the benefits of cloud computing and have very few costs of serving their revenue, like Autodesk as one random example. But then you have folks like Five9. What's different about their structure? Tomasz Tunguz [explains it](https://tomtunguz.com/not-all-revenue-dollars-are-created-equal/):
 
 > *"Five9 provides call center software and telephony software. Five9 buys telephone minutes from telephone companies and packages these minutes with their software so customers can make outbound calls through the Five9 software. **The fees Five9 pays to telephone companies is a Cost of Goods Sold.**"*
