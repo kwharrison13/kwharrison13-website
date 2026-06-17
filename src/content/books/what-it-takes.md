@@ -14,7 +14,12 @@ key_takeaways_status: "written"
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_Light-engagement read; no notes to synthesize. The highlights below stand on their own as the source's argument._
+- **Pursue only goals worthy of a life.** It's as hard to achieve big goals as small ones — and as hard to start a small business as a huge one. Since you can tackle only one personally defining effort at a time, choose one with the potential to be huge. #[Private Equity](/notes/private-equity)
+- **Education is a lifelong discipline, not a stop on the journey.** Its object is to learn how to think; once mastered, thinking is the tool for everything else — and we never stop learning until we die. [Education](/notes/education)
+- **Know whether you're in a training ground or an arena.** Go somewhere that will train you (Lehman) before you try to be a master (Lazard). Like the Beatles in Hamburg or Gates on the Washington computers, mastery in finance comes from repetitive practice before it yields its greatest rewards. #Theory of Masters · Outliers: The Story of Success
+- **Everyone needs the defining mistake that haunts them.** The typos, the botched deal book, the Edgcomb loss and the screaming investor — early failures teach rigor, risk-elimination, and asking for help. The best in finance grew up doing the fundamental analysis and suffering the indignity of their early mistakes.
+- **Adapt or die — refuse to define yourself too narrowly.** Keep asking "Why not?" There are no patents in finance; a great business today can be a poor one tomorrow, so build the capacity to move into any class where your strengths, network, and resources apply. #Bifurcation in Investing
+- **Depersonalize the investment process — decide as a team.** Never let one person single-handedly green-light a deal; involve all senior partners, argue it out, and own outcomes collectively. Run open Monday meetings, start on succession before your drive peaks, and tell people to just ask for help. #Build a Fund · #[Investing 101 2.0](/notes/investing-101-2-0)
 <!-- /key-takeaways -->
 
 ## Connections
@@ -85,6 +90,7 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 - Psychology would be one of my strengths as an investor. I didn’t need to remember each number in an analysis. I could watch and hear the people who knew the specifics and tell how they felt from their posture or tone of voice. <!--rwid:rwid-0b5771b78700-->
 - The same small groups of people, who know each other well, go over each investment applying the same rigorous standards. This unified approach to investing has become the backbone of the Blackstone way. <!--rwid:rwid-2cad2ab6cb8e-->
 - For all that was going on at Blackstone in its early years, the rest of my life didn’t stop. Ellen and I divorced in 1991, but we continued to raise our children, Zibby and Teddy, together. <!--rwid:rwid-6d718c527a3b-->
+  > **Kyle:** *"No other success can compensate for failure in the home." —[David O. McKay](/notes/david-o-mckay)*
 - When I stepped into his office for the first time, I made it clear that I wasn’t there for therapy. I just couldn’t make my mind up about divorce. He asked me what was holding me up. Four fears, I told him: the fear of losing my relationship with my children, the prospect of signing away half of what I had worked so hard to make, the fear of losing half my friends, and terror at having to date again. <!--rwid:rwid-22d09bf64c36-->
 - People often smile whenever they hear my number one rule for investing: Don’t. Lose. Money. I never understand the smirks, because it is just that simple. <!--rwid:rwid-28af8ec9dc02-->
 - We train our professionals to distill every individual investment opportunity down to the two or three major variables that will define the success of our investment case and create value. <!--rwid:rwid-cf898aaf68d0-->

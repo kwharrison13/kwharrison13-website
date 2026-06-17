@@ -10,7 +10,9 @@ sources: []
 tags: []
 aliases:
   - "Joseph Smith"
-related: []
+related:
+  - "[[Truman G. Madsen]]"
+  - "[[Joseph Smith Lecture 2 — Joseph's Personality and Character]]"
 ---
 
 # Joseph Smith
