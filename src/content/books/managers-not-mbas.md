@@ -18,7 +18,7 @@ One note: "the school of hard knocks" entrepreneur frame as the gap in MBA train
 ## Connections
 
 <!-- interconnections -->
-- [The Power Law](/books/the-power-law) — VC structure parallel.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC structure parallel.
 - [Working in Public](/books/working-in-public) — creation-vs-maintenance thread.
 <!-- /interconnections -->
 

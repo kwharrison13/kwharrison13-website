@@ -12,19 +12,19 @@ key_takeaways_status: "written"
 ## Key Takeaways
 
 <!-- key-takeaways -->
-Tom Nicholas's history of venture capital read with the Investing 101 2.0 and Bifurcation of Investing threads explicitly in view. Three threads:
+Tom Nicholas's history of venture capital read with the [Investing 101 2.0](/essays/investing-101-2-0) and [Bifurcation of Investing](/notes/bifurcation-of-investing) threads explicitly in view. Three threads:
 
-1. **Information asymmetry as the structural moat.** What happens if you remove it — distribution of playbooks, democratization of customer access, data-sharing on best companies? The implicit thesis of Contrary Research and the broader open-source-knowledge thread.
+1. **Information asymmetry as the structural moat.** What happens if you remove it — distribution of playbooks, democratization of customer access, data-sharing on best companies? The implicit thesis of [Contrary Research](/essays/contrary-research) and the broader open-source-knowledge thread.
 
 2. **The family tree of venture funds.** Specific research question the notes pose — who worked where, founded what after what experience. Treats VC as a generational craft passed down through specific lineages.
 
-3. **VC mechanics haven't changed in 50 years.** Will they? When? The question the The Power Law book also raises and doesn't quite answer.
+3. **VC mechanics haven't changed in 50 years.** Will they? When? The question the [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) book also raises and doesn't quite answer.
 <!-- /key-takeaways -->
 
 ## Connections
 
 <!-- interconnections -->
-- [The Power Law](/books/the-power-law) — direct sibling; both books treat VC as an institution worth examining.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — direct sibling; both books treat VC as an institution worth examining.
 - [The Founders](/books/the-founders) — talent-vortex on the company side of the same equation.
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — alternative investment structure.
 <!-- /interconnections -->

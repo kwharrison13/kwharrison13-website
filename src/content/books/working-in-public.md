@@ -15,19 +15,19 @@ key_takeaways_status: "written"
 ## Key Takeaways
 
 <!-- key-takeaways -->
-Eghbal's book on open-source maintenance read as a serious source for the Investing 101 2.0 essay-in-progress — what does "production-grade knowledge work" actually mean economically? Five threads:
+Eghbal's book on open-source maintenance read as a serious source for the [Investing 101 2.0](/essays/investing-101-2-0) essay-in-progress — what does "production-grade knowledge work" actually mean economically? Five threads:
 
 1. **Creation vs. maintenance as the structural tension.** "Creation is an intrinsic motivator, maintenance usually requires extrinsic motivation." Repeated across multiple notes. Most knowledge-work systems underweight maintenance because no one's intrinsically motivated to do it. Connects to the Vonnegut quote on builders vs. caretakers.
 
 2. **Code as commodity vs. code as community.** Apollo 11's code is static — a commodity, like lumber. Production code is alive — its value comes from continuous engagement. "Community is the thing that gives value to the commodity." The frame for thinking about what makes intellectual artifacts hold value over time.
 
-3. **"It is not enough to know, we must do." (Spencer W. Kimball).** The same active-reading frame from How To Read a Book resurfaces — applied here to ideas as software. The idea that gets put into production might break — but that's how your system of thinking improves.
+3. **"It is not enough to know, we must do." (Spencer W. Kimball).** The same active-reading frame from [How To Read a Book](/books/how-to-read-a-book) resurfaces — applied here to ideas as software. The idea that gets put into production might break — but that's how your system of thinking improves.
 
 4. **Free-rider problem and the marginal-cost balance.** Open source's central economic puzzle: how to limit the marginal cost while still creating a logical process for getting paid. The notes don't resolve this — they flag it as the actual open question.
 
 5. **Publication as the START of responsibility, not the end.** "Why Books Don't Work" referenced — the book-as-snapshot vs. book-as-living-repository tension. The fundamental challenge: most distribution systems are designed for static artifacts but the most valuable knowledge requires continuous tending.
 
-The book functions as the conceptual underpinning for the recurring Open Source Knowledge tag across the library — what does it actually take to make knowledge open AND maintained?
+The book functions as the conceptual underpinning for the recurring [Open Source Knowledge](/notes/open-source-knowledge) tag across the library — what does it actually take to make knowledge open AND maintained?
 <!-- /key-takeaways -->
 
 ## Connections
@@ -36,7 +36,7 @@ The book functions as the conceptual underpinning for the recurring Open Source 
 - [The Death of Expertise](/books/the-death-of-expertise) — open-source-knowledge thread; both treat democratized expertise as the structural question.
 - [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institution-building parallel; Republic of Letters 2.0 as the modern version.
 - [How To Read a Book](/books/how-to-read-a-book) — active-knowledge frame.
-- [The Power Law](/books/the-power-law) — VC structure and what does/doesn't get funded; adjacent on the maintenance-vs-creation incentive problem.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC structure and what does/doesn't get funded; adjacent on the maintenance-vs-creation incentive problem.
 - [Atomic Habits](/books/atomic-habits) — maintenance as habit-design problem.
 <!-- /interconnections -->
 

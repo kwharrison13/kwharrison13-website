@@ -36,8 +36,8 @@ A side thread worth flagging: the "you don't start by donating all your property
 - [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism) — direct anti-thesis to financialization. Same diagnosis, different vocabulary.
 - [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — "what survives civilizational collapse" question; institutional knowledge.
 - [Skunk Works](/books/skunk-works) — meritocracy-vs-managed-monopoly thread.
-- [How Will You Measure Your Life_](/books/how-will-you-measure-your-life) — values-as-strategy framing in the same religious-economic register.
-- [The Power Law](/books/the-power-law) — VC as a structural force the book implicitly critiques.
+- How Will You Measure Your Life_ — values-as-strategy framing in the same religious-economic register.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC as a structural force the book implicitly critiques.
 <!-- /interconnections -->
 
 ## Highlights

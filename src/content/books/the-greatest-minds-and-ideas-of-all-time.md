@@ -16,9 +16,9 @@ key_takeaways_status: "written"
 <!-- key-takeaways -->
 Will Durant's compressed intellectual history, read for two specific frames. Two threads:
 
-1. **Educated public as Confucian foundation.** "The illustrious ancients, when they wished to make clear and to propagate the highest virtues..." — the same educated-electorate frame that runs through The Death of Expertise and Romney — A Reckoning showing up in pre-modern thought.
+1. **Educated public as Confucian foundation.** "The illustrious ancients, when they wished to make clear and to propagate the highest virtues..." — the same educated-electorate frame that runs through [The Death of Expertise](/books/the-death-of-expertise) and [Romney — A Reckoning](/books/romney-a-reckoning) showing up in pre-modern thought.
 
-2. **Progress can't be defined by one tradition.** Durant's insistence on a non-parochial definition — tagged `Progress Studies`. The structural problem of evaluating "progress" without privileging the evaluator's tradition.
+2. **Progress can't be defined by one tradition.** Durant's insistence on a non-parochial definition — tagged `[Progress Studies](/notes/progress-studies)`. The structural problem of evaluating "progress" without privileging the evaluator's tradition.
 <!-- /key-takeaways -->
 
 ## Connections

@@ -20,7 +20,7 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 
 <!-- interconnections -->
 - [The Brave New World Collection](/books/the-brave-new-world-collection), [Animal Farm](/books/animal-farm) _(stub)_ — dystopia cluster.
-- [Atlas Shrugged](/books/atlas-shrugged) _(stub)_ — Rand canon.
+- [Atlas Shrugged](/notes/atlas-shrugged) _(stub)_ — Rand canon.
 <!-- /interconnections -->
 
 ## Highlights

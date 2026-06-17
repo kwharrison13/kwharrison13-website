@@ -37,6 +37,9 @@ const __dirname = path.dirname(__filename);
 const WEBSITE_ROOT = path.resolve(__dirname, '..');
 const WIKI_ROOT = path.join(os.homedir(), 'kwharrison13-wiki');
 const WIKI_BOOKS = path.join(WIKI_ROOT, 'wiki', 'books');
+const WIKI_ESSAYS = path.join(WIKI_ROOT, 'wiki', 'essays');
+const WIKI_CONCEPTS = path.join(WIKI_ROOT, 'wiki', 'concepts');
+const WIKI_PEOPLE = path.join(WIKI_ROOT, 'wiki', 'people');
 const WEBSITE_BOOKS = path.join(WEBSITE_ROOT, 'src', 'content', 'books');
 
 // ---------- args ----------
@@ -167,20 +170,57 @@ function parseSections(body) {
   return sections;
 }
 
-// ---------- wikilink transforms ----------
+// ---------- resolver-aware wikilink transform ----------
 
-function transformInterconnectionLinks(text) {
-  // [[Other Book|display]] or [[Other Book]] → [display](/books/slug)
-  return text.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, target, alias) => {
-    const display = alias || target;
-    const slug = bookSlug(target);
-    return `[${display}](/books/${slug})`;
-  });
+// Resolves [[Target]] across all wiki collections. Built lazily on first call
+// from filesystem state (filename + frontmatter title + aliases).
+let _resolver = null;
+function getResolver() {
+  if (_resolver) return _resolver;
+  _resolver = new Map();
+  const sources = [
+    [WIKI_BOOKS, 'books'],
+    [WIKI_ESSAYS, 'essays'],
+    [WIKI_CONCEPTS, 'notes'],
+    [WIKI_PEOPLE, 'notes'],
+  ];
+  for (const [dir, kind] of sources) {
+    if (!fs.existsSync(dir)) continue;
+    for (const f of fs.readdirSync(dir)) {
+      if (!f.endsWith('.md') || f.startsWith('.')) continue;
+      const full = path.join(dir, f);
+      const { frontmatter: fm } = parseFrontmatter(fs.readFileSync(full, 'utf8'));
+      const title = fm.title || f.replace(/\.md$/, '');
+      const slug = bookSlug(title);
+      const stem = f.replace(/\.md$/, '');
+      const names = new Set([stem, title]);
+      if (Array.isArray(fm.aliases)) for (const a of fm.aliases) names.add(a);
+      for (const n of names) {
+        const k = n.toLowerCase().trim();
+        if (!_resolver.has(k)) _resolver.set(k, { kind, slug });
+      }
+    }
+  }
+  return _resolver;
 }
 
-function unwrapWikilinks(text) {
-  // [[X|display]] → display; [[X]] → X
-  return text.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, target, alias) => alias || target);
+// Transform every [[Target]] and #[[Target]] to a markdown link if the target
+// resolves to a known wiki page, otherwise unwrap to plain display text.
+// Used everywhere — Key Takeaways, Connections, and Highlights.
+function resolveWikilinks(text) {
+  const r = getResolver();
+  text = text.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, target, alias) => {
+    const display = alias || target;
+    const hit = r.get(target.toLowerCase().trim());
+    if (!hit) return display;
+    return `[${display}](/${hit.kind}/${hit.slug})`;
+  });
+  text = text.replace(/#\[\[([^\]]+)\]\]/g, (_, target) => {
+    const hit = r.get(target.toLowerCase().trim());
+    if (!hit) return target;
+    return `[${target}](/${hit.kind}/${hit.slug})`;
+  });
+  return text;
 }
 
 // ---------- today (ISO date) ----------
@@ -252,13 +292,13 @@ function syncBook(wikiFile) {
     '## Key Takeaways',
     '',
     '<!-- key-takeaways -->',
-    unwrapWikilinks(keyTakeaways),
+    resolveWikilinks(keyTakeaways),
     '<!-- /key-takeaways -->',
     '',
     '## Connections',
     '',
     '<!-- interconnections -->',
-    transformInterconnectionLinks(publicInter),
+    resolveWikilinks(publicInter),
     '<!-- /interconnections -->',
     '',
     '## Highlights',

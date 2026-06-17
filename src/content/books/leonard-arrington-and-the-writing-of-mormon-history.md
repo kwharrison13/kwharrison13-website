@@ -24,7 +24,7 @@ Greg Prince's biography of the LDS Church's first official historian read as a s
 
 4. **The Knopf revision episode.** Arrington's manuscript required extensive revision because chapters were seen as "too pro-Church" — the ideal scenario of nuance and compromise. A model for how religious-history work can find the line between hagiography and reductionism.
 
-A side observation: Arrington's deflection on titles ("titles were not important to him") — the leadership style that gets the work done without making the work about the leader. Pairs with the broader Whatever You Are Be A Good One frame.
+A side observation: Arrington's deflection on titles ("titles were not important to him") — the leadership style that gets the work done without making the work about the leader. Pairs with the broader [Whatever You Are Be A Good One](/notes/whatever-you-are-be-a-good-one) frame.
 <!-- /key-takeaways -->
 
 ## Connections

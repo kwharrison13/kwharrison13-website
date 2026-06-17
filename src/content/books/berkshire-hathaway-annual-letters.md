@@ -22,7 +22,7 @@ Reading this less as passive consumption and more as building out an investment 
 
 3. **The Bifurcation of Investing.** A conceptual framework hammered out across the notes. As funds grow they're forced to move upmarket, leaving a long tail of smaller opportunities. Tracy Britt-Cole's departure from Berkshire as the recurring case study.
 
-4. **Working with people you respect; finding multipliers.** Multiple notes circle the same observation — both in business partnership and (explicitly) in marriage. "Don't look for someone you can fix, or whose glaring flaws you think you can patch over with your own strengths. Find people who will excel with or without you." Tag: `Two Complete People`.
+4. **Working with people you respect; finding multipliers.** Multiple notes circle the same observation — both in business partnership and (explicitly) in marriage. "Don't look for someone you can fix, or whose glaring flaws you think you can patch over with your own strengths. Find people who will excel with or without you." Tag: `[Two Complete People](/notes/two-complete-people)`.
 
 5. **Forecasting and post-mortems.** The "fearful when others are greedy" inversion recurs. Multiple notes flag hindsight error. Even Buffett acknowledged as falling victim to "this time it will be different" — used as the basis for post-mortems on past portfolio decisions (Scalefactor as a recurring example).
 
@@ -32,7 +32,7 @@ Reading this less as passive consumption and more as building out an investment 
 
 8. **Specific portfolio bets, in real time.** References to a working portfolio populate the notes: Shopify (recurring), Costco, Amazon, Apple Store, Tiny Capital, Constellation Software, Lambda, Primer, Scalefactor, Marqeta, Twilio/Segment, WeWork. Reading notes doing double duty as a private memo on live deals.
 
-This is the most professionally-aligned book in the library — Buffett as scaffolding for an in-progress investment thesis. Essentially the substrate of the Investing 101 2.0 essay-in-progress.
+This is the most professionally-aligned book in the library — Buffett as scaffolding for an in-progress investment thesis. Essentially the substrate of the [Investing 101 2.0](/essays/investing-101-2-0) essay-in-progress.
 <!-- /key-takeaways -->
 
 ## Connections
@@ -43,7 +43,7 @@ This is the most professionally-aligned book in the library — Buffett as scaff
 - [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism) — direct thematic opposite. Worth holding in tension.
 - [The Almanack of Naval Ravikant](/books/the-almanack-of-naval-ravikant) — adjacent compound-knowledge framing.
 - [Talent](/books/talent) — the people-multiplier thesis surfaces in both.
-- [The Power Law](/books/the-power-law) — the alternative-VC frame; Berkshire as VC-shaped-differently.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — the alternative-VC frame; Berkshire as VC-shaped-differently.
 - [Skunk Works](/books/skunk-works) — culture-as-competitive-moat overlap.
 - [The Founders](/books/the-founders) — talent-vortex / scenius overlap; PayPal as a network of multipliers.
 - [How to Read a Book](/books/how-to-read-a-book) — the active-reading discipline these notes exemplify.

@@ -15,7 +15,7 @@ key_takeaways_status: "written"
 <!-- key-takeaways -->
 Terryl Givens's biography of Eugene England read with a recurring tension about institutional Mormonism's relationship with its own thinkers. Three threads:
 
-1. **"Learning to be righteous in the dark."** The frame from Discipline Is Destiny resurfaces here — England's instinct that constant divine contact "moves towards the devil's plan" rather than the saint's. Internalization over scaffolding.
+1. **"Learning to be righteous in the dark."** The frame from [Discipline Is Destiny](/books/discipline-is-destiny) resurfaces here — England's instinct that constant divine contact "moves towards the devil's plan" rather than the saint's. Internalization over scaffolding.
 
 2. **The branch breaking from the tree.** A repeated framing: each Christian sect that separates and calls itself "the true tree" loses the connection to the broader tradition. England's framework was unusually open to Catholic critique of Protestant breakage.
 

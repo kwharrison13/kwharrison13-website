@@ -15,9 +15,9 @@ key_takeaways_status: "written"
 <!-- key-takeaways -->
 Cowen and Gross's talent-evaluation book read as practical guidance with cross-references to other thinking-tool books. Three threads:
 
-1. **Talent is hard to find and mobilize, not absent.** The recurring problem: not "where is the talent" but "what stops the talent from being used." Maintenance-vs-creation tension overlaps with Working in Public.
+1. **Talent is hard to find and mobilize, not absent.** The recurring problem: not "where is the talent" but "what stops the talent from being used." Maintenance-vs-creation tension overlaps with [Working in Public](/books/working-in-public).
 
-2. **Triangulation as the evaluation discipline.** "In which areas might this work? Might this not work? When does this work or not work?" — pairs with the How To Read a Book triangulation thread.
+2. **Triangulation as the evaluation discipline.** "In which areas might this work? Might this not work? When does this work or not work?" — pairs with the [How To Read a Book](/books/how-to-read-a-book) triangulation thread.
 
 3. **Environment frames aspiration.** "Consider how much genius and achievement have been..." — environment as a multiplier or suppressor on raw ability.
 <!-- /key-takeaways -->

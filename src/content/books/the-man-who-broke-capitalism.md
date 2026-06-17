@@ -17,9 +17,9 @@ key_takeaways_status: "written"
 <!-- key-takeaways -->
 Only one annotation on this read — a TODO-style question on Gelles's data point that financial services rose from "just under 5% of GDP in 1980 to nearly twice that in the years that followed": **"What is it today?"**
 
-The Gelles thesis — financialization of the economy as the diagnosis — registered as worth tracking, but didn't build sustained synthesis the way Berkshire Hathaway Annual Letters and Poor Charlie's Almanack did. The single note treats the headline data point as a stub for future research, not as a fully developed argument.
+The Gelles thesis — financialization of the economy as the diagnosis — registered as worth tracking, but didn't build sustained synthesis the way [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) and [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) did. The single note treats the headline data point as a stub for future research, not as a fully developed argument.
 
-The quake flag despite the sparse in-text response is notable: the book mattered even if the response on the page was minimal. The thinking may have happened off-page or in conversation. Worth a re-read with a more annotated pass if the financialization frame is going to do real work — particularly given the heavy engagement with the operational-discipline counter-thesis in Berkshire Hathaway Annual Letters.
+The quake flag despite the sparse in-text response is notable: the book mattered even if the response on the page was minimal. The thinking may have happened off-page or in conversation. Worth a re-read with a more annotated pass if the financialization frame is going to do real work — particularly given the heavy engagement with the operational-discipline counter-thesis in [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters).
 <!-- /key-takeaways -->
 
 ## Connections
@@ -29,7 +29,7 @@ The quake flag despite the sparse in-text response is notable: the book mattered
 - [Buffett: The Biography](/books/buffett-the-biography) — the personality opposite of what Gelles is critiquing (Jack Welch as Gelles's antagonist; Buffett as the counter-archetype).
 - [Catastrophic Care](/books/catastrophic-care) — same financial-logic-replacing-operational-logic dynamic, applied to healthcare.
 - [Skunk Works](/books/skunk-works) — operational excellence as alternative to financial engineering; engineering culture under siege.
-- [The Power Law](/books/the-power-law) — VC as another sector where financial logic has reshaped operating businesses.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC as another sector where financial logic has reshaped operating businesses.
 <!-- /interconnections -->
 
 ## Highlights

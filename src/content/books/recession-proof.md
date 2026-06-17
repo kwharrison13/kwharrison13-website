@@ -19,7 +19,7 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [The Power Law](/books/the-power-law) — investment-structure parallel.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — investment-structure parallel.
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — cash-discipline thread.
 <!-- /interconnections -->
 

@@ -16,7 +16,7 @@ key_takeaways_status: "written"
 <!-- key-takeaways -->
 Jonathan Haidt's moral-psychology book read with explicit cross-reference to the recurring narrative-and-cohesion thread. Two threads:
 
-1. **Narrative as the substrate of social cohesion.** Tomasello's ultra-sociality argument tracks with Sapiens's narrative-as-glue thesis — the role stories play in binding humans into cooperative groups.
+1. **Narrative as the substrate of social cohesion.** Tomasello's ultra-sociality argument tracks with [Sapiens](/books/sapiens)'s narrative-as-glue thesis — the role stories play in binding humans into cooperative groups.
 
 2. **Atheism as a luxury of efficient society.** "Society operates so efficiently that communities are preferences rather than necessity." A specific structural explanation for the post-religious turn that doesn't require treating religion as merely irrational.
 <!-- /key-takeaways -->

@@ -15,11 +15,11 @@ key_takeaways_status: "written"
 <!-- key-takeaways -->
 Fried and Heinemeier Hansson's pre-COVID remote-work argument read in mid-2020s hindsight — most of what the book predicted is now baseline. Three threads:
 
-1. **Writing as the core remote-work skill.** "Few people are born with an innate talent for writing; most get better through practice." The note recurs — async communication forces written discipline that office work never demands. Pairs with the Learning, No Greater Responsibility frame on reading.
+1. **Writing as the core remote-work skill.** "Few people are born with an innate talent for writing; most get better through practice." The note recurs — async communication forces written discipline that office work never demands. Pairs with the [Learning, No Greater Responsibility](/notes/learning-no-greater-responsibility) frame on reading.
 
 2. **Pay for talent, not location.** "Instead of thinking I can pay people from Kansas less than people from New York, you should think I can get amazing people." The GitLab salary calculator referenced explicitly — the structural alternative being built right now.
 
-3. **Contract work as the ease-in mechanism.** A practical observation worth holding: both sides can test the working relationship without commitment. Pairs naturally with the Open Source Knowledge / Investing 101 2.0 threads on alternative work structures.
+3. **Contract work as the ease-in mechanism.** A practical observation worth holding: both sides can test the working relationship without commitment. Pairs naturally with the [Open Source Knowledge](/notes/open-source-knowledge) / [Investing 101 2.0](/essays/investing-101-2-0) threads on alternative work structures.
 
 The book reads as a foundational text whose specific recommendations matter less now than the structural shift it predicted. The interesting question isn't whether to be remote — it's what other office-era assumptions are still load-bearing that shouldn't be.
 <!-- /key-takeaways -->
@@ -30,7 +30,7 @@ The book reads as a foundational text whose specific recommendations matter less
 - [Working in Public](/books/working-in-public) — open-source thread; "what other types of work can you open source?"
 - [Essentialism](/books/essentialism) — focus-protection overlap; "monk mode" as the remote-work disciplinary version.
 - [Deep Work](/books/deep-work) _(stub)_ — direct overlap on focused intellectual work.
-- [The Power Law](/books/the-power-law) — adjacent on what gets funded; remote-first companies as a category.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — adjacent on what gets funded; remote-first companies as a category.
 <!-- /interconnections -->
 
 ## Highlights

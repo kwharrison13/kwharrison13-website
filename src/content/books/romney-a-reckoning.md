@@ -20,13 +20,13 @@ McKay Coppins's Romney biography read with explicit admiration — and with a po
 
 2. **Data over dogma.** Tagged explicitly. Policy through the lens of human outcomes, not partisan signaling. "Truth, obscured by nuance and buried under trifles" — the failure mode.
 
-3. **Politics will always fetter language.** A recurring frustration. Language reduced to signal, not content. The Newt Gingrich pattern from The Death of Expertise resurfaces.
+3. **Politics will always fetter language.** A recurring frustration. Language reduced to signal, not content. The Newt Gingrich pattern from [The Death of Expertise](/books/the-death-of-expertise) resurfaces.
 
 4. **"Live your life so that your children will live their lives hoping to make you proud."** The single most quoted line, treated as the actual rubric. Tagg's letter to his father is the emotional center of the notes.
 
-5. **Educated and informed electorate.** Cross-reference to The Death of Expertise. Romney's basic premise: voters can be trusted with hard truths if they're presented as truths. The fact that this premise is now contested is the diagnosis.
+5. **Educated and informed electorate.** Cross-reference to [The Death of Expertise](/books/the-death-of-expertise). Romney's basic premise: voters can be trusted with hard truths if they're presented as truths. The fact that this premise is now contested is the diagnosis.
 
-6. **"What you take pride in defines you as a person."** Identity is downstream of what you choose to honor, not what you happen to be. Connects to The Self-Driven Child's identity-formation thread.
+6. **"What you take pride in defines you as a person."** Identity is downstream of what you choose to honor, not what you happen to be. Connects to [The Self-Driven Child](/books/the-self-driven-child)'s identity-formation thread.
 
 7. **Incrementalism > stagnation or decline.** The implicit political philosophy — small forward steps beat both the maximalist revolution and the resigned drift.
 

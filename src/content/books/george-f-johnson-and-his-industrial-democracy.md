@@ -17,7 +17,7 @@ key_takeaways_status: "written"
 <!-- key-takeaways -->
 William Inglis's history of Endicott-Johnson's experiment in "industrial democracy" read for echoes in modern owner-mentality and unions discussions. Two threads:
 
-1. **Owner mentality in a manager.** Workers offered a premium for industry responding with energy — the classic alignment-of-incentives case study. Recurring frame in Berkshire Hathaway Annual Letters applied at the production-line level.
+1. **Owner mentality in a manager.** Workers offered a premium for industry responding with energy — the classic alignment-of-incentives case study. Recurring frame in [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) applied at the production-line level.
 
 2. **The "no union, but premium pay" middle path.** Endicott-Johnson as neither open-shop nor closed-shop. The actual model worth studying for contemporary alternative-work-structure discussions.
 <!-- /key-takeaways -->

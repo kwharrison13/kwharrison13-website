@@ -22,7 +22,7 @@ Isaacson's biography read as a how-to-think-like-a-genius case study with consta
 
 3. **Refinement as the actual practice.** "What am I continuously refining?" — the question the notes return to. Leonardo went back to drawings years later to add details others wouldn't have noticed. Mastery as iterative attention rather than initial talent.
 
-4. **Vision and teamwork.** The Last Supper as collective production. "Vision and teamwork" — the rejection of solo-genius mythology that runs through the The Founders talent-vortex thread as well.
+4. **Vision and teamwork.** The Last Supper as collective production. "Vision and teamwork" — the rejection of solo-genius mythology that runs through the [The Founders](/books/the-founders) talent-vortex thread as well.
 
 A side observation: "if you are able to accomplish everything of which you dream then you are not dreaming big enough." Leonardo's unfinished works as evidence of ambition that outran capacity — a virtue, not a failing.
 <!-- /key-takeaways -->

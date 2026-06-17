@@ -15,9 +15,9 @@ key_takeaways_status: "written"
 <!-- key-takeaways -->
 Taleb's foundational book on tail risk read with a recurring focus on epistemic humility and the failure modes of categorical thinking. Six threads:
 
-1. **The death-of-expertise overlap.** "Our inability to predict in environments subjected to the Black Swan, coupled with a general lack of awareness." Tagged directly to the The Death of Expertise thread — Taleb supplies the math, Nichols supplies the political consequence.
+1. **The death-of-expertise overlap.** "Our inability to predict in environments subjected to the Black Swan, coupled with a general lack of awareness." Tagged directly to the [The Death of Expertise](/books/the-death-of-expertise) thread — Taleb supplies the math, Nichols supplies the political consequence.
 
-2. **Categorization as the source of error.** "Categorizing is necessary for humans, but it becomes pathological when the category is seen as definitive." Nuance gets crushed under labels. Connects to the "beliefs as leading vs. lagging indicators of group membership" frame from the Romney — A Reckoning read.
+2. **Categorization as the source of error.** "Categorizing is necessary for humans, but it becomes pathological when the category is seen as definitive." Nuance gets crushed under labels. Connects to the "beliefs as leading vs. lagging indicators of group membership" frame from the [Romney — A Reckoning](/books/romney-a-reckoning) read.
 
 3. **Stories displace stories.** "You need a story to displace a story. Metaphors and stories are far more potent than ideas." A specific operational claim about how persuasion actually works — and a warning about the asymmetry between data and narrative.
 

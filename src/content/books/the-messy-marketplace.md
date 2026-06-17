@@ -19,7 +19,7 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [The Power Law](/books/the-power-law), [VC](/books/vc) — investment-structure parallel.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future), [VC](/books/vc) — investment-structure parallel.
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — adjacent on private-business acquisition.
 <!-- /interconnections -->
 

@@ -14,7 +14,7 @@ key_takeaways_status: "written"
 ## Key Takeaways
 
 <!-- key-takeaways -->
-Bill Gates's climate framework read with a recurring `Nuclear Energy` tag (7 of 19 notes) and a venture-investor's eye on what gets funded and why. Five threads:
+Bill Gates's climate framework read with a recurring `[Nuclear Energy](/notes/nuclear-energy)` tag (7 of 19 notes) and a venture-investor's eye on what gets funded and why. Five threads:
 
 1. **Climate poverty as the moral center.** "Irresponsible energy consumption by richer countries has mortgaged the progress of poorer countries and used the proceeds for their own gain leaving poor countries to bear the burden." Bangladesh as the recurring example — rising seas hitting the population least able to absorb the cost.
 
@@ -24,7 +24,7 @@ Bill Gates's climate framework read with a recurring `Nuclear Energy` tag (7 of 
 
 4. **Force energy producers to recognize the environmental costs of the energy their customers consume.** The carbon-price argument in its most direct form. Fossil fuels are cheap because the true cost isn't priced in; correct the pricing and the substitution happens organically.
 
-5. **Filter for investments that could remove ≥500M tons/year if successful.** Tagged `#Natural Selection Among Startups`. The Breakthrough Energy quantified filter — explicit threshold for what justifies attention. A useful frame for VC sectoral discipline more broadly: don't fund what can't matter at scale.
+5. **Filter for investments that could remove ≥500M tons/year if successful.** Tagged `#[Natural Selection Among Startups](/essays/natural-selection-among-startups)`. The Breakthrough Energy quantified filter — explicit threshold for what justifies attention. A useful frame for VC sectoral discipline more broadly: don't fund what can't matter at scale.
 
 A standalone curiosity worth flagging: the speculation about battery-laden space stations dropping batteries via Falcon-style remote landings. Speculative but the kind of unconstrained-physical-engineering thinking the climate problem actually rewards.
 <!-- /key-takeaways -->
@@ -36,7 +36,7 @@ A standalone curiosity worth flagging: the speculation about battery-laden space
 - [Chip War](/books/chip-war) — industrial-policy parallel; both books treat infrastructure decisions as civilizational.
 - [The Man From The Future](/books/the-man-from-the-future) — von Neumann's self-replicating-systems thread maps onto climate-scale manufacturing.
 - [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — first-principles thinking and incentive design.
-- [The Power Law](/books/the-power-law) — VC structure question; how climate gets funded vs. consumer apps.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC structure question; how climate gets funded vs. consumer apps.
 <!-- /interconnections -->
 
 ## Highlights

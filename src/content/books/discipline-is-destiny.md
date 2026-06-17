@@ -21,7 +21,7 @@ Ryan Holiday's Stoic discipline book read with a heavy LDS overlay — Spencer W
 
 3. **Forget yourself and go to work.** The opening religious quote turned into operating principle. Paired with "consider the lilies of the field" — the discipline isn't anxiety, it's quiet competence done daily.
 
-4. **Self-talk as a discipline.** Tagged twice. Negative self-talk isn't a personality trait; it's a system that can be observed, interrupted, and rewritten — the same frame as The Self-Driven Child but applied to the adult version of the self.
+4. **Self-talk as a discipline.** Tagged twice. Negative self-talk isn't a personality trait; it's a system that can be observed, interrupted, and rewritten — the same frame as [The Self-Driven Child](/books/the-self-driven-child) but applied to the adult version of the self.
 
 5. **The lift-the-supporting-players frame.** Michael Jordan with Dennis Rodman. "Don't try to force people to be Michael Jordan. Help them be their best." The leadership analog to "whatever you are, be a good one" — applied to the people you work with rather than to yourself.
 
@@ -37,8 +37,8 @@ The throughline: discipline isn't a moral position, it's a system of small choic
 - [Atomic Habits](/books/atomic-habits) — habit-design overlap; identity-compounds frame.
 - [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — Munger's Epictetus references; spirit-of-humility thread.
 - [The Self-Driven Child](/books/the-self-driven-child) — adult-self version of the autonomy/self-talk arguments.
-- [How Will You Measure Your Life_](/books/how-will-you-measure-your-life) — adjacent on values-as-strategy framing.
-- [Way to Be](/books/way-to-be) _(stub)_ — Hinckley's adjacent collection.
+- How Will You Measure Your Life_ — adjacent on values-as-strategy framing.
+- [Way to Be](/notes/way-to-be) _(stub)_ — Hinckley's adjacent collection.
 <!-- /interconnections -->
 
 ## Highlights

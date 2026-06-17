@@ -15,7 +15,7 @@ key_takeaways_status: "written"
 ## Key Takeaways
 
 <!-- key-takeaways -->
-Adler and Van Doren's classic, read with constant religious-text overlay and explicit cross-reference to the Learning, No Greater Responsibility essay-in-progress. Seven recurring threads:
+Adler and Van Doren's classic, read with constant religious-text overlay and explicit cross-reference to the [Learning, No Greater Responsibility](/notes/learning-no-greater-responsibility) essay-in-progress. Seven recurring threads:
 
 1. **"Learning, no greater responsibility."** Tagged 6+ times — clearly an essay/concept being developed in the margins of this read. The book is being used to substantiate that frame.
 
@@ -43,7 +43,7 @@ A side thread worth flagging: the question of whether reading FICTION can stretc
 - [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — Munger's reading-as-discipline frame; latticework of mental models.
 - [Atomic Habits](/books/atomic-habits) — habit-of-reading overlap.
 - [Deep Work](/books/deep-work) — adjacent concern with focused intellectual work.
-- [The Great Mental Models](/books/the-great-mental-models) — adjacent reading-for-models frame.
+- [The Great Mental Models](/books/the-great-mental-models-volume-1-general-thinking-concepts) — adjacent reading-for-models frame.
 <!-- /interconnections -->
 
 ## Highlights

@@ -15,13 +15,13 @@ key_takeaways_status: "written"
 <!-- key-takeaways -->
 Peter Robison's Boeing book read primarily as Anduril-context — Boeing's collapse as the case-in-chief for what happens when industrial cultures get hollowed out. Three threads:
 
-1. **The Reagan-era corporate America thesis.** Robison's framing: shareholder primacy and post-Cold-War financialization ushered in the conditions that produced 737 MAX. Connects directly to The Man Who Broke Capitalism — same diagnosis, applied to a specific company.
+1. **The Reagan-era corporate America thesis.** Robison's framing: shareholder primacy and post-Cold-War financialization ushered in the conditions that produced 737 MAX. Connects directly to [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism) — same diagnosis, applied to a specific company.
 
 2. **Outsourced profits as the systematic failure pattern.** John Hart-Smith's "Out-Sourced Profits — the Cornerstone of Successful Subcontracting" paper. Boeing's decision to push manufacturing costs (and risk) to subcontractors looked good on the income statement and was structurally suicidal for the engineering culture.
 
 3. **"People didn't spontaneously grow less loyal. Companies systematically stopped being loyal to employees."** The standout line. Employee disloyalty isn't a cultural mystery — it's a downstream effect of measurable institutional choices.
 
-A side thread: same era, same forces produced both Boeing's decline and McNamara-era defense bloat. The Skunk Works / The Kill Chain / Chip War trilogy and Flying Blind read as a single argument about American industrial decay.
+A side thread: same era, same forces produced both Boeing's decline and McNamara-era defense bloat. The [Skunk Works](/books/skunk-works) / [The Kill Chain](/books/the-kill-chain) / [Chip War](/books/chip-war) trilogy and Flying Blind read as a single argument about American industrial decay.
 <!-- /key-takeaways -->
 
 ## Connections

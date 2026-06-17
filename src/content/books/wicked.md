@@ -12,7 +12,7 @@ key_takeaways_status: "written"
 ## Key Takeaways
 
 <!-- key-takeaways -->
-One note: the Witch's "is it only in youth that evil is interesting?" line tagged `Extraordinary Person Philosophy` — the frame that moral seriousness is a quality of the unusual mind, not a default disposition.
+One note: the Witch's "is it only in youth that evil is interesting?" line tagged `[Extraordinary Person Philosophy](/notes/extraordinary-person-philosophy)` — the frame that moral seriousness is a quality of the unusual mind, not a default disposition.
 <!-- /key-takeaways -->
 
 ## Connections

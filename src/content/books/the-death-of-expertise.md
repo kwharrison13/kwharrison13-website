@@ -14,7 +14,7 @@ key_takeaways_status: "written"
 ## Key Takeaways
 
 <!-- key-takeaways -->
-Nichols on the collapse of trust in expertise, read primarily through two recurring frames: the Voice of the People essay-in-progress and the Spirit of Humility concept. Seven threads:
+Nichols on the collapse of trust in expertise, read primarily through two recurring frames: the [Voice of the People](/notes/voice-of-the-people) essay-in-progress and the [Spirit of Humility](/notes/spirit-of-humility) concept. Seven threads:
 
 1. **"Voice of the People."** Tagged 5+ times — this is the essay/concept being developed across this read. The book is supplying empirical scaffolding for a piece on democratic-electorate epistemology.
 

@@ -26,11 +26,11 @@ Almost every Munger sentence becomes a hook for an adjacent thought — the dens
 
 4. **Incentives and gaming.** Federal Express, sales rep comp, "gaming systems" — many notes circle the same observation: human behavior is downstream of incentive design, and incentive design is harder than it looks.
 
-5. **The investing lens.** Munger's investment-management critique gets repeatedly tagged with `Venture Returns` — applying it to VC specifically. "Compare to the Innovator's University; not everyone should be Harvard, and not everyone should be Sequoia."
+5. **The investing lens.** Munger's investment-management critique gets repeatedly tagged with `[Venture Returns](/notes/venture-returns)` — applying it to VC specifically. "Compare to the Innovator's University; not everyone should be Harvard, and not everyone should be Sequoia."
 
 6. **The religious-philosophical translation.** Munger's secular psychology gets read against an LDS framework — connecting his cognitive biases to Book of Mormon verses, Joseph Smith, Gordon B. Hinckley, Spencer Kimball, Thomas S. Monson. The pattern: Munger is reading the same human-nature material scripture has been reading, with different vocabulary.
 
-Standalone threads worth flagging: the recurring `Roam Research` tag (notes functioning as a personal knowledge graph being built in real time); reading biographies as a learning method; and a side observation about deciding what books to read based on how much the author got paid.
+Standalone threads worth flagging: the recurring `[Roam Research](/notes/roam-research)` tag (notes functioning as a personal knowledge graph being built in real time); reading biographies as a learning method; and a side observation about deciding what books to read based on how much the author got paid.
 <!-- /key-takeaways -->
 
 ## Connections
@@ -38,7 +38,7 @@ Standalone threads worth flagging: the recurring `Roam Research` tag (notes func
 <!-- interconnections -->
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — explicit, repeated cross-referencing in both directions. The Buffett-Munger partnership is the spine across both reads. "Febezzlement" appears in both.
 - [Buffett: The Biography](/books/buffett-the-biography) — biography of Munger's partner; more context on the partnership these notes keep reframing.
-- [The Great Mental Models](/books/the-great-mental-models) — Shane Parrish's explicit attempt to organize the latticework Munger argues for. The notes ask "How does Shane Parrish think about this?"
+- [The Great Mental Models](/books/the-great-mental-models-volume-1-general-thinking-concepts) — Shane Parrish's explicit attempt to organize the latticework Munger argues for. The notes ask "How does Shane Parrish think about this?"
 - [The Black Swan](/books/the-black-swan) — overlapping cognitive-biases material; system-fragility framing.
 - [The Death of Expertise](/books/the-death-of-expertise) — directly referenced regarding the tension between domain expertise and outside-the-box overrides.
 - [How to Read a Book](/books/how-to-read-a-book) — the reading-as-discipline frame appears in both.

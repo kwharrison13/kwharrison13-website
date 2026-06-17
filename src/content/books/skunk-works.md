@@ -44,7 +44,7 @@ Tactical observations also flagged: team size (Skunk Works ran with ~150 people)
 - [The Idea Factory](/books/the-idea-factory) — Bell Labs analog. Same "what does great industrial R&D look like" question, different era.
 - [Flying Blind](/books/flying-blind) — the Boeing decline arc in detail; complements the "engineering org → bottom-line business" theme.
 - [The Founders](/books/the-founders) — talent-vortex parallel. Skunk Works was a talent vortex inside Lockheed.
-- [Boom — Bubbles and the End of Stagnation](/books/boom-bubbles-and-the-end-of-stagnation) _(stub)_ — same "where did the speed go?" question, broader framing.
+- [Boom — Bubbles and the End of Stagnation](/notes/boom-bubbles-and-the-end-of-stagnation) _(stub)_ — same "where did the speed go?" question, broader framing.
 <!-- /interconnections -->
 
 ## Highlights

@@ -15,7 +15,7 @@ key_takeaways_status: "written"
 <!-- key-takeaways -->
 Bushman's landmark biography read with a specific tension in view: prophets are fallible humans operating in fallen systems, and the institution they build has to be evaluated on that basis rather than against a perfect ideal. Six threads:
 
-1. **City-building as a Mormon competency.** Nauvoo means "ideal place" / "beautiful situation with rest." Joseph and the early Saints saw themselves as a city-building people; the Far West attempt was the first chance to construct from scratch. Connects to a broader City Building interest across the library.
+1. **City-building as a Mormon competency.** Nauvoo means "ideal place" / "beautiful situation with rest." Joseph and the early Saints saw themselves as a city-building people; the Far West attempt was the first chance to construct from scratch. Connects to a broader [City Building](/notes/city-building) interest across the library.
 
 2. **Prophets are not protected from failure.** A recurring reframe across the notes. Joseph was overwhelmed at Kirtland; Moses wandered 40 years partly because of the people, not just his own failings. "There are no promises that he's protected from failure, especially when people's greed are more supportive than their faith."
 

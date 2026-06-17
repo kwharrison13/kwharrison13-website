@@ -16,7 +16,7 @@ key_takeaways_status: "written"
 <!-- key-takeaways -->
 Clear's book read with explicit cross-references to other operating frameworks in the library — habits as the substrate other systems compound on. Five threads:
 
-1. **"You don't rise to the level of your goals. You fall to the level of your systems."** The thesis that tags as Systems Thinking across the notes. Systems vs. goals as the actual distinction. The purpose of building systems is to continue playing the game, not to win it.
+1. **"You don't rise to the level of your goals. You fall to the level of your systems."** The thesis that tags as [Systems Thinking](/notes/systems-thinking) across the notes. Systems vs. goals as the actual distinction. The purpose of building systems is to continue playing the game, not to win it.
 
 2. **Identity-driven behavior change.** "The more sacred an idea is to us — that is, the more deeply it is tied to our identity — the more strongly we will defend it against criticism." The handle for both habit formation (build identity that produces the behavior) and habit destruction (challenge identity that produces the wrong behavior).
 
@@ -24,7 +24,7 @@ Clear's book read with explicit cross-references to other operating frameworks i
 
 4. **"You have to want the consequences of the things you want."** Cross-referenced (Nibley?) — the recurring frame across the library that desire alone is insufficient; you have to be willing to take what comes with it. Pairs naturally with the Self-Driven Child material on intrinsic motivation.
 
-5. **"The lily pads of your career" / what gives you energy.** Tagged here in the context of mastery — "the mark of whether you are made for a task is not whether you love it but whether you can handle the difficulty." Connects to the recurring Interest Discovery frame from The Self-Driven Child.
+5. **"The lily pads of your career" / what gives you energy.** Tagged here in the context of mastery — "the mark of whether you are made for a task is not whether you love it but whether you can handle the difficulty." Connects to the recurring [Interest Discovery](/notes/interest-discovery) frame from [The Self-Driven Child](/books/the-self-driven-child).
 
 A side observation: the secret to getting results that last is to never stop making improvements — which pairs with the Munger compounding frame: don't interrupt compounding unnecessarily.
 <!-- /key-takeaways -->

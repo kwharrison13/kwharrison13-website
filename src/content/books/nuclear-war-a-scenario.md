@@ -17,7 +17,7 @@ key_takeaways_status: "written"
 <!-- key-takeaways -->
 Annie Jacobsen's book read purely as a sourcing exercise — all five notes are "add to [warfare-type] section" tags for Anduril-thesis-adjacent material. Two threads:
 
-1. **Subterranean and space warfare as understudied surfaces.** North Korea's UGFs, the satellite-as-warhead scenario, EMP risk via space. The notes tag these as new surface areas for the defense-tech thesis being developed across Skunk Works, The Kill Chain, and Chip War.
+1. **Subterranean and space warfare as understudied surfaces.** North Korea's UGFs, the satellite-as-warhead scenario, EMP risk via space. The notes tag these as new surface areas for the defense-tech thesis being developed across [Skunk Works](/books/skunk-works), [The Kill Chain](/books/the-kill-chain), and [Chip War](/books/chip-war).
 
 2. **Chemical warfare as a present-tense risk.** Several thousand metric tons of CW agents in North Korea — the kind of fact that doesn't get policy attention proportional to its severity.
 

@@ -16,7 +16,7 @@ key_takeaways_status: "written"
 <!-- key-takeaways -->
 _Light-engagement read; no notes to synthesize._
 
-This biography sits in the library as a reference for the Musk persona, but the source has zero `**Note:**` blocks — not a book where the in-text response went deep. The highlights below stand on their own as Vance's portrait. For Musk's PayPal-era story (more heavily annotated), see The Founders.
+This biography sits in the library as a reference for the Musk persona, but the source has zero `**Note:**` blocks — not a book where the in-text response went deep. The highlights below stand on their own as Vance's portrait. For Musk's PayPal-era story (more heavily annotated), see [The Founders](/books/the-founders).
 <!-- /key-takeaways -->
 
 ## Connections

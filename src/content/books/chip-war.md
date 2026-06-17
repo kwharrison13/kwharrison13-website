@@ -38,7 +38,7 @@ The book is less digested-and-synthesized than the other reads in this batch —
 - [The Kill Chain](/books/the-kill-chain) — present-tense companion. Chip War supplies the supply-chain piece of the same argument.
 - [Flying Blind](/books/flying-blind) — industrial-decline parallel in aviation.
 - [The Idea Factory](/books/the-idea-factory) — Bell Labs reference appears in both.
-- [The Power Law](/books/the-power-law) — VC structure and how defense/hard-tech capital gets allocated.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC structure and how defense/hard-tech capital gets allocated.
 <!-- /interconnections -->
 
 ## Highlights

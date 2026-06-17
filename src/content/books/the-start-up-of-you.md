@@ -20,7 +20,7 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 
 <!-- interconnections -->
 - [The Founders](/books/the-founders) — Hoffman is a primary subject there.
-- [The Power Law](/books/the-power-law) — VC structure parallel.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC structure parallel.
 - [Remote — Office Not Required](/books/remote-office-not-required) — work-structure adjacent.
 <!-- /interconnections -->
 

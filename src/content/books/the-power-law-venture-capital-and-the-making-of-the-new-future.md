@@ -16,9 +16,9 @@ key_takeaways_status: "written"
 <!-- key-takeaways -->
 Mallaby's history of VC read with active skepticism about the industry the book documents. Five threads:
 
-1. **VC as long-term charade rather than long-term bet.** The standout note: "Venture capital isn't a long-term bet, it's often a long-term charade of passing the bag." A surprisingly cynical frame for an industry the rest of the corpus engages with seriously — and worth holding alongside the more constructive Investing 101 2.0 thread.
+1. **VC as long-term charade rather than long-term bet.** The standout note: "Venture capital isn't a long-term bet, it's often a long-term charade of passing the bag." A surprisingly cynical frame for an industry the rest of the corpus engages with seriously — and worth holding alongside the more constructive [Investing 101 2.0](/essays/investing-101-2-0) thread.
 
-2. **"The prepared mind" as the actual investment thesis.** Accel's framework: rather than looking everywhere for opportunities, develop a structured view of where the next ones will come from. Pairs with the Contrary Research thread — preparation-as-strategy beats reactivity.
+2. **"The prepared mind" as the actual investment thesis.** Accel's framework: rather than looking everywhere for opportunities, develop a structured view of where the next ones will come from. Pairs with the [Contrary Research](/essays/contrary-research) thread — preparation-as-strategy beats reactivity.
 
 3. **Pricing as the single highest-leverage decision.** Horowitz: "There is no single decision you will make that will impact your company value more than the pricing." Already a refrain elsewhere in the library; the venture context sharpens it.
 

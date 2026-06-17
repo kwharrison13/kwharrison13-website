@@ -20,7 +20,7 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters), [The Power Law](/books/the-power-law) — adjacent on private-equity/finance.
+- [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters), [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — adjacent on private-equity/finance.
 - [The Founders](/books/the-founders) — operating-philosophy parallel.
 <!-- /interconnections -->
 

@@ -13,11 +13,11 @@ key_takeaways_status: "written"
 ## Key Takeaways
 
 <!-- key-takeaways -->
-Stone's earlier Amazon book — the prequel to Amazon Unbound — read with explicit attention to translating Bezos's operating mechanics into a venture-fund playbook. Eight recurring threads:
+Stone's earlier Amazon book — the prequel to [Amazon Unbound](/books/amazon-unbound) — read with explicit attention to translating Bezos's operating mechanics into a venture-fund playbook. Eight recurring threads:
 
 1. **Decentralized decision-making as the actual competitive advantage.** "Communication = inefficiency. Decentralization instills a lack of need for coordination." The repeated reframe: it's not just spreading decisions geographically, it's getting decisions into the hands of the people closest to the problem, then incentivizing them effectively.
 
-2. **Building a differentiated long-term venture fund strategy.** Flagged repeatedly with the Investing 101 2.0 tag. The most important paragraph for VC strategy is "what is customer obsession to a venture capitalist?" — that's the unanswered question this book leaves open.
+2. **Building a differentiated long-term venture fund strategy.** Flagged repeatedly with the [Investing 101 2.0](/essays/investing-101-2-0) tag. The most important paragraph for VC strategy is "what is customer obsession to a venture capitalist?" — that's the unanswered question this book leaves open.
 
 3. **"Great Artists Steal" — case-study mining as a learning discipline.** Tagged 4+ times. Reading biographies and operating histories as raw material for portfolio thesis-building, not for entertainment.
 
@@ -27,9 +27,9 @@ Stone's earlier Amazon book — the prequel to Amazon Unbound — read with expl
 
 6. **Building primitives, not products.** "From Day One they identified the primitives that made up the most important components people would need." Decentralized infrastructure is more important than the products it enables — the AWS framing applied to operating philosophy generally.
 
-7. **Talent and hiring as the bar-raising mechanism.** "Keep the bar high. Talent Vortex." The honest question the notes raise: what happens if someone doesn't already know many smart people? The talent-vortex effect is reinforcing — and exclusionary by default.
+7. **Talent and hiring as the bar-raising mechanism.** "Keep the bar high. [Talent Vortex](/notes/talent-vortex)." The honest question the notes raise: what happens if someone doesn't already know many smart people? The talent-vortex effect is reinforcing — and exclusionary by default.
 
-8. **Specific portfolio cross-references.** Conor's 1M jobs vs. 1M employees framing. CommonStock comparison (Conor vs. David). Postman product squads. Roy Disney making the money happen for Walt's dreams. The book is doing double duty as reading notes and as a private memo on operating philosophy across portfolio companies.
+8. **Specific portfolio cross-references.** [Conor](/notes/conor)'s 1M jobs vs. 1M employees framing. CommonStock comparison (Conor vs. David). [Postman](/notes/postman) product squads. [Roy Disney](/notes/roy-disney) making the money happen for Walt's dreams. The book is doing double duty as reading notes and as a private memo on operating philosophy across portfolio companies.
 
 The thesis the notes circle: Amazon is the cleanest available case study for what a holding-company-or-VC-fund-as-operating-system would look like, with Bezos as the operating CEO.
 <!-- /key-takeaways -->

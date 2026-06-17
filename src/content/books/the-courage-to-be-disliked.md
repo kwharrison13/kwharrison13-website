@@ -34,7 +34,7 @@ Read together, the three notes suggest a translator's exercise — mapping Adler
 - [The Faith of a Scientist](/books/the-faith-of-a-scientist) — same intersection of psychology and religious framing.
 - [Discipline Is Destiny](/books/discipline-is-destiny) — internalization of virtue in Stoic vocabulary instead of Adlerian.
 - [Atomic Habits](/books/atomic-habits) — small-actions-create-identity overlap with "putting away your shopping cart."
-- [Way to Be](/books/way-to-be) — Hinckley's framing of internalized standards.
+- [Way to Be](/notes/way-to-be) — Hinckley's framing of internalized standards.
 <!-- /interconnections -->
 
 ## Highlights

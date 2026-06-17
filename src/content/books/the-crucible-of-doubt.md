@@ -17,11 +17,11 @@ The Givens's book on doubt-and-faith read alongside a sustained tension about cr
 
 1. **Doubt as faith-building, not faith-eroding.** Bonhoeffer's "cheap grace is the mortal enemy of the church" surfaces here — easy faith doesn't stick. The Joseph Smith line "no church that does not demand the sacrifice of its members" sits alongside.
 
-2. **Heroes as the human propensity to be exploited.** Dostoevsky's "for nothing has been more unbearable for a man and a human society than freedom" — the readiness with which people surrender agency to hero figures. Connects to the "I want no man to follow me" Joseph F. Smith frame from Discipline Is Destiny.
+2. **Heroes as the human propensity to be exploited.** Dostoevsky's "for nothing has been more unbearable for a man and a human society than freedom" — the readiness with which people surrender agency to hero figures. Connects to the "I want no man to follow me" Joseph F. Smith frame from [Discipline Is Destiny](/books/discipline-is-destiny).
 
 3. **The God-shaped hole.** "Everyone has a God-shaped hole in their heart that they're trying to fill with anything BUT God." A foundational claim the book operates on without arguing for; the notes treat it as a working hypothesis worth holding.
 
-4. **Empathy leads to suffering.** Nicholas Wolterstorff cited — "we all suffer. For we all prize and love." A moral-psychology frame that pushes back against the Stoic strategy of detachment, and aligns with the Adlerian "be of use" thread from The Courage To Be Disliked.
+4. **Empathy leads to suffering.** Nicholas Wolterstorff cited — "we all suffer. For we all prize and love." A moral-psychology frame that pushes back against the Stoic strategy of detachment, and aligns with the Adlerian "be of use" thread from [The Courage To Be Disliked](/books/the-courage-to-be-disliked).
 
 A side thread worth flagging: the recurring question of contemporary Church practice ("then why do we excommunicate people who think women should get the Priesthood?") — the book is being read with active willingness to apply its arguments back against the institution that produced it.
 <!-- /key-takeaways -->

@@ -25,7 +25,7 @@ Hobart and Huber's pro-bubble book read with two specific framings worth holding
 ## Connections
 
 <!-- interconnections -->
-- [The Power Law](/books/the-power-law) — adjacent on capital-and-ambition frame.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — adjacent on capital-and-ambition frame.
 - [Skunk Works](/books/skunk-works) — speed-of-delivery thread.
 - [The Idea Factory](/books/the-idea-factory) — Bell Labs as the era's positive case.
 - [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) — ambitious-timeline city-building.

@@ -14,7 +14,7 @@ key_takeaways_status: "written"
 ## Key Takeaways
 
 <!-- key-takeaways -->
-Brose's present-tense companion to Skunk Works — diagnosing how the US lost the speed advantage and what it would take to get it back. Eight recurring threads:
+Brose's present-tense companion to [Skunk Works](/books/skunk-works) — diagnosing how the US lost the speed advantage and what it would take to get it back. Eight recurring threads:
 
 1. **Urgency as the missing variable.** China is the consistent rhyme — military buildup since 1993, intellectual property pressure, the kill-chain inversion (our planes flying away from China, not toward it). The book's whole frame is "you don't have the time you think you have."
 
@@ -22,7 +22,7 @@ Brose's present-tense companion to Skunk Works — diagnosing how the US lost th
 
 3. **Consumerization of the enterprise.** The commercial sector outpaced government on software, autonomy, computer vision, networking. The military's procurement model can't access it.
 
-4. **The founder-led innovation era ended with McNamara cost-cutting and Last Supper consolidation.** Connects directly back to Skunk Works: Schriever and Kelly Johnson worked because Eisenhower-era patrons protected risk-taking; that protection is gone.
+4. **The founder-led innovation era ended with McNamara cost-cutting and Last Supper consolidation.** Connects directly back to [Skunk Works](/books/skunk-works): Schriever and Kelly Johnson worked because Eisenhower-era patrons protected risk-taking; that protection is gone.
 
 5. **Hubris about reshaping Russia and China.** The biggest geopolitical mistake was assuming the US could mold them. They had their own civilizational gravity.
 
@@ -43,7 +43,7 @@ The implicit thesis: this isn't a budget problem. It's an incentive-structure pr
 - [Flying Blind](/books/flying-blind) — Boeing decline as a microcosm of the broader defense industrial base collapse.
 - [Nuclear War — A Scenario](/books/nuclear-war-a-scenario) _(stub)_ — adjacent on the "we don't take this seriously enough" front.
 - [The Founders](/books/the-founders) — talent vortex parallel; Anduril as the modern PayPal Mafia.
-- [The Power Law](/books/the-power-law) — alternative-VC view; how defense capital is structured matters.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — alternative-VC view; how defense capital is structured matters.
 <!-- /interconnections -->
 
 ## Highlights

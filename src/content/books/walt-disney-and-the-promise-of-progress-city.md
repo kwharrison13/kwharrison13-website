@@ -27,7 +27,7 @@ A side observation worth flagging: the Robert Moses / Jane Jacobs feud as the re
 ## Connections
 
 <!-- interconnections -->
-- [The Power Law](/books/the-power-law) — institutional bet-making parallel.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — institutional bet-making parallel.
 - [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institution-building thread.
 - [Boom — Bubbles & The End of Stagnation](/books/boom-bubbles-and-the-end-of-stagnation) — same "future of cities" frame.
 - [The Ride of a Lifetime](/books/the-ride-of-a-lifetime) — Disney company history.
