@@ -20,7 +20,7 @@ Postman's media-ecology argument read with a recurring contemporary update — p
 
 2. **Information abundance has inverted the comprehensibility-of-the-world feeling.** Typography's spread once kindled hope that the world could be comprehended; the internet's explosion kindled the opposite despair.
 
-3. **Educated populace as the structural defense.** Same `[Educated Electorate](/notes/educated-electorate)` and `[Voice of the People](/notes/voice-of-the-people)` threads that run through [The Death of Expertise](/books/the-death-of-expertise) and [Romney — A Reckoning](/books/romney-a-reckoning).
+3. **Educated populace as the structural defense.** Same [Educated Electorate](/notes/educated-electorate) and [Voice of the People](/notes/voice-of-the-people) threads that run through [The Death of Expertise](/books/the-death-of-expertise) and [Romney — A Reckoning](/books/romney-a-reckoning).
 <!-- /key-takeaways -->
 
 ## Connections

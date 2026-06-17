@@ -22,7 +22,7 @@ Reading this less as passive consumption and more as building out an investment 
 
 3. **The Bifurcation of Investing.** A conceptual framework hammered out across the notes. As funds grow they're forced to move upmarket, leaving a long tail of smaller opportunities. Tracy Britt-Cole's departure from Berkshire as the recurring case study.
 
-4. **Working with people you respect; finding multipliers.** Multiple notes circle the same observation — both in business partnership and (explicitly) in marriage. "Don't look for someone you can fix, or whose glaring flaws you think you can patch over with your own strengths. Find people who will excel with or without you." Tag: `[Two Complete People](/notes/two-complete-people)`.
+4. **Working with people you respect; finding multipliers.** Multiple notes circle the same observation — both in business partnership and (explicitly) in marriage. "Don't look for someone you can fix, or whose glaring flaws you think you can patch over with your own strengths. Find people who will excel with or without you." Tag: [Two Complete People](/notes/two-complete-people).
 
 5. **Forecasting and post-mortems.** The "fearful when others are greedy" inversion recurs. Multiple notes flag hindsight error. Even Buffett acknowledged as falling victim to "this time it will be different" — used as the basis for post-mortems on past portfolio decisions (Scalefactor as a recurring example).
 

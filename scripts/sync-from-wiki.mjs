@@ -209,6 +209,10 @@ function getResolver() {
 // Used everywhere — Key Takeaways, Connections, and Highlights.
 function resolveWikilinks(text) {
   const r = getResolver();
+  // Defense: strip backticks directly around wikilinks. An old synthesis-script
+  // habit produced `[[X]]` (inline code) which broke link rendering downstream.
+  text = text.replace(/`(\[\[[^\]]+\]\])`/g, '$1');
+  text = text.replace(/`(#\[\[[^\]]+\]\])`/g, '$1');
   text = text.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, target, alias) => {
     const display = alias || target;
     const hit = r.get(target.toLowerCase().trim());

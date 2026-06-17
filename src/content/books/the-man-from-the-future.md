@@ -16,7 +16,7 @@ key_takeaways_status: "written"
 <!-- key-takeaways -->
 Bhattacharya's biography of John von Neumann read as Anduril-thesis source material — 13 of 25 notes are tagged `#Anduril`. The von Neumann story functions as a deep historical precedent for civil-military fusion, RAND-style applied research, and self-replicating systems. Six threads:
 
-1. **Self-replicating systems as the load-bearing forgotten idea.** Von Neumann's *Theory of Self-Reproducing Automata*; the 1980 NASA SRS workshop on lunar self-replicating factories. The notes tag this `#[Forgotten Ideas](/notes/forgotten-ideas)` — work that was rigorous in its time and dropped not because it was wrong but because it was ahead of execution capability.
+1. **Self-replicating systems as the load-bearing forgotten idea.** Von Neumann's *Theory of Self-Reproducing Automata*; the 1980 NASA SRS workshop on lunar self-replicating factories. The notes tag this #[Forgotten Ideas](/notes/forgotten-ideas) — work that was rigorous in its time and dropped not because it was wrong but because it was ahead of execution capability.
 
 2. **Open-source instinct from a Cold War scientist.** "I certainly intend to do my part to keep as much of this field 'in the public domain' as I can." Von Neumann actively suppressed his own patent claims to accelerate the field. The contrast with later technology-as-IP-moat is sharp.
 
@@ -24,7 +24,7 @@ Bhattacharya's biography of John von Neumann read as Anduril-thesis source mater
 
 4. **Tactical nuclear weapons as the recurring case study.** Multiple notes flag this — counterforce strategy, the Polaris precision arc, the Pentagon's accidentally-published 2019 guidelines. The unifying frame: defense innovation that gets shaped by game theory more than by chest-thumping.
 
-5. **Game theory as a dim view of humans.** Von Neumann's late shift — "I feel the opposite of nostalgia" — reads as an honest reckoning with what the math actually said about human cooperation. Tagged `#[Human Nature](/notes/human-nature)`. The political-philosophy underpinning of why deterrence works.
+5. **Game theory as a dim view of humans.** Von Neumann's late shift — "I feel the opposite of nostalgia" — reads as an honest reckoning with what the math actually said about human cooperation. Tagged #[Human Nature](/notes/human-nature). The political-philosophy underpinning of why deterrence works.
 
 6. **"The curse of being an interdisciplinary genius."** Mandelbrot's observation about von Neumann under "extreme pressure" — the cost of being the person every field calls on. The notes register this as a warning, not just an admiration.
 

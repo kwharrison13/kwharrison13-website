@@ -26,11 +26,11 @@ Almost every Munger sentence becomes a hook for an adjacent thought — the dens
 
 4. **Incentives and gaming.** Federal Express, sales rep comp, "gaming systems" — many notes circle the same observation: human behavior is downstream of incentive design, and incentive design is harder than it looks.
 
-5. **The investing lens.** Munger's investment-management critique gets repeatedly tagged with `[Venture Returns](/notes/venture-returns)` — applying it to VC specifically. "Compare to the Innovator's University; not everyone should be Harvard, and not everyone should be Sequoia."
+5. **The investing lens.** Munger's investment-management critique gets repeatedly tagged with [Venture Returns](/notes/venture-returns) — applying it to VC specifically. "Compare to the Innovator's University; not everyone should be Harvard, and not everyone should be Sequoia."
 
 6. **The religious-philosophical translation.** Munger's secular psychology gets read against an LDS framework — connecting his cognitive biases to Book of Mormon verses, Joseph Smith, Gordon B. Hinckley, Spencer Kimball, Thomas S. Monson. The pattern: Munger is reading the same human-nature material scripture has been reading, with different vocabulary.
 
-Standalone threads worth flagging: the recurring `[Roam Research](/notes/roam-research)` tag (notes functioning as a personal knowledge graph being built in real time); reading biographies as a learning method; and a side observation about deciding what books to read based on how much the author got paid.
+Standalone threads worth flagging: the recurring [Roam Research](/notes/roam-research) tag (notes functioning as a personal knowledge graph being built in real time); reading biographies as a learning method; and a side observation about deciding what books to read based on how much the author got paid.
 <!-- /key-takeaways -->
 
 ## Connections

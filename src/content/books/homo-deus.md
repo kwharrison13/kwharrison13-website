@@ -22,7 +22,7 @@ Harari's sequel to [Sapiens](/books/sapiens), read with active religious counter
 
 3. **The shared-bond requirement for democracy.** "People feel bound by democratic elections only when they share a basic bond with most other voters. If the experience of being a citizen becomes nothing more than abstract..." Already true and getting truer in the US. Connects directly to the educated-electorate thread from [The Death of Expertise](/books/the-death-of-expertise).
 
-A standalone observation worth flagging: "religions that lose touch with the technological realities of the day forfeit their ability even to understand the questions being asked." Tagged as `[Living Revelation](/notes/living-revelation)` — the necessary religious response to historical change.
+A standalone observation worth flagging: "religions that lose touch with the technological realities of the day forfeit their ability even to understand the questions being asked." Tagged as [Living Revelation](/notes/living-revelation) — the necessary religious response to historical change.
 <!-- /key-takeaways -->
 
 ## Connections
