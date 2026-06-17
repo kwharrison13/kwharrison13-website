@@ -46,10 +46,10 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
   <SearchBar context="bookshelf" />
 
   <div class="bookshelf-tabs">
-    <button class="bookshelf-tab active" data-view="quake">Quake Books</button>
-    <button class="bookshelf-tab" data-view="library">Full Library</button>
-    <button class="bookshelf-tab" data-view="topics">By Topic</button>
-    <button class="bookshelf-tab" data-view="antilibrary">Anti-Library</button>
+    <button class="bookshelf-tab active" data-view="quake" data-slug="quake-books">Quake Books</button>
+    <button class="bookshelf-tab" data-view="library" data-slug="full-library">Full Library</button>
+    <button class="bookshelf-tab" data-view="topics" data-slug="by-topic">By Topic</button>
+    <button class="bookshelf-tab" data-view="antilibrary" data-slug="anti-library">Anti-Library</button>
   </div>
 
   <div class="bookshelf-view" id="view-quake">
@@ -216,14 +216,27 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
   </div>
 
   <script is:inline>
-    document.querySelectorAll('.bookshelf-tab').forEach(tab => {
-      tab.addEventListener('click', () => {
-        document.querySelectorAll('.bookshelf-tab').forEach(t => t.classList.remove('active'));
-        tab.classList.add('active');
-        document.querySelectorAll('.bookshelf-view').forEach(v => v.style.display = 'none');
-        document.getElementById('view-' + tab.dataset.view).style.display = 'block';
-      });
+    const bookshelfTabs = Array.from(document.querySelectorAll('.bookshelf-tab'));
+    function activateTab(tab, updateHash) {
+      if (!tab) return;
+      bookshelfTabs.forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      document.querySelectorAll('.bookshelf-view').forEach(v => v.style.display = 'none');
+      document.getElementById('view-' + tab.dataset.view).style.display = 'block';
+      if (updateHash) history.replaceState(null, '', '#' + tab.dataset.slug);
+    }
+    bookshelfTabs.forEach(tab => {
+      tab.addEventListener('click', () => activateTab(tab, true));
     });
+    // Deep-link support: open the tab named in the URL hash (e.g. /bookshelf#anti-library)
+    function syncTabFromHash() {
+      const slug = decodeURIComponent(location.hash.replace(/^#/, '')).toLowerCase();
+      if (!slug) return;
+      const target = bookshelfTabs.find(t => t.dataset.slug === slug);
+      if (target) activateTab(target, false);
+    }
+    syncTabFromHash();
+    window.addEventListener('hashchange', syncTabFromHash);
     document.querySelectorAll('.year-pill').forEach(pill => {
       pill.addEventListener('click', () => {
         document.querySelectorAll('.year-pill').forEach(p => p.classList.remove('active'));
