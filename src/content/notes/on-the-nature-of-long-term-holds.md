@@ -1,7 +1,7 @@
 ---
 title: "On the Nature of Long-Term Holds"
 type: "article"
-publish: false
+publish: true
 confidence: "high"
 created: "2026-06-16"
 updated: "2026-06-16"
