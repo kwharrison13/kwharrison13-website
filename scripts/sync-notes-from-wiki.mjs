@@ -89,7 +89,9 @@ function indexCollection(dir, kind) {
     const stem = f.replace(/\.md$/, '');
     const { frontmatter: fm } = parseFrontmatter(fs.readFileSync(full, 'utf8'));
     const title = fm.title || stem;
-    const slug = slugify(title);
+    // Essays resolve to their website slug, which can differ from slugify(title)
+    // (e.g. title "Investing 101 2.0" lives at /essays/coming-soon).
+    const slug = kind === 'essays' && fm.website_slug ? fm.website_slug : slugify(title);
     const names = new Set([stem, title]);
     if (Array.isArray(fm.aliases)) for (const a of fm.aliases) names.add(a);
     for (const n of names) {

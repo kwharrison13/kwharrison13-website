@@ -191,7 +191,11 @@ function getResolver() {
       const full = path.join(dir, f);
       const { frontmatter: fm } = parseFrontmatter(fs.readFileSync(full, 'utf8'));
       const title = fm.title || f.replace(/\.md$/, '');
-      const slug = bookSlug(title);
+      // Essays are addressed by their website slug, which can diverge from
+      // bookSlug(title) — e.g. title "Investing 101 2.0" lives at /essays/coming-soon.
+      // Using bookSlug(title) would invent a non-existent route and could collide
+      // with a same-named concept's slug, tripping the heal pass into a broken link.
+      const slug = kind === 'essays' && fm.website_slug ? fm.website_slug : bookSlug(title);
       const stem = f.replace(/\.md$/, '');
       const names = new Set([stem, title]);
       if (Array.isArray(fm.aliases)) for (const a of fm.aliases) names.add(a);

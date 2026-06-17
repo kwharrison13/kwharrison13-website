@@ -23,4 +23,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - [Networked Conviction — Roam + Investing](/essays/networked-conviction-roam-investing)
-- [Networked Conviction](/essays/networked-conviction)
+- [Networked Conviction](/essays/roam-investing)
