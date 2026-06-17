@@ -2,7 +2,7 @@
 title: "Investment Frameworks"
 type: "learning"
 format: "frameworks"
-publish: false
+publish: true
 created: "2026-06-17"
 updated: "2026-06-17"
 confidence: "high"
