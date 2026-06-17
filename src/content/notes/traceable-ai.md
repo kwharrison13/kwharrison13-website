@@ -25,11 +25,11 @@ related:
 
 # Traceable.ai
 
-**One-line definition:** *API security competitor to [Salt Security](/notes/salt-security); focused on the full [DevSecOps](/notes/devsecops) lifecycle (testing + production), particularly strong in CI/CD integration.*
+**One-line definition:** *API security competitor to [Salt Security](/notes/salt-security); focused on the full [DevSecOps](/notes/devsecops) lifecycle (testing + production), particularly strong in [CI/CD](/notes/ci-cd) integration.*
 
 ## How sources describe it
 
-- "Focused on CI/CD with a focus on both testing and managing the full [DevSecOps](/notes/devsecops) process." — felt "rudimentary and just raw" at time of evaluation (early 2021), though interesting. (Salt Security Diligence — 2021, [Nir Rothenberg](/notes/nir-rothenberg))
+- "Focused on [CI/CD](/notes/ci-cd) with a focus on both testing and managing the full [DevSecOps](/notes/devsecops) process." — felt "rudimentary and just raw" at time of evaluation (early 2021), though interesting. (Salt Security Diligence — 2021, [Nir Rothenberg](/notes/nir-rothenberg))
 - Listed as a competitor by [Prabhath Karanth](/notes/prabhath-karanth) (TripActions) — "hears good things" but unclear if they're a pure API player.
 - [David Mark](/notes/david-mark) (Appsflyer) noted Traceable.ai as a name that had come up during evaluation of alternatives to Salt.
 

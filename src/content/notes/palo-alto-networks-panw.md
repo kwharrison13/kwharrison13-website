@@ -32,7 +32,7 @@ related:
 - "You need a CSPM (Orca, Wiz.io). You need to have an API security tool." — Palo Alto positioned in the firewall/CheckPoint tier. ([Nir Rothenberg](/notes/nir-rothenberg), Salt Security Diligence — 2021)
 - Acquired [Bridgecrew](/notes/bridgecrew) (cloud security policy). [NeoSec](/notes/neosec) was described as feeling "geared towards being acquired by CrowdStrike" — Bridgecrew-by-PANW was the comparable prior acquisition.
 - "If you look at Cisco, Palo Alto Networks, etc. their propensity to innovate is much slower" — used to explain why [TripActions](/notes/tripactions) chose startup [Salt Security](/notes/salt-security) over incumbents. ([Prabhath Karanth](/notes/prabhath-karanth), Salt Security Diligence — 2021)
-- Also does container security / cloud security posture (CSPM) — Aqua Security is a comparable.
+- Also does container security / cloud security posture (CSPM) — [Aqua Security](/notes/aqua-security) is a comparable.
 
 ## Where it shows up
 

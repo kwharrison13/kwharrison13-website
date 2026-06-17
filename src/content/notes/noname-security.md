@@ -7,6 +7,7 @@ created: "2026-06-17"
 updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
+  - "wiki/diligence-research/Noname Security - Diligence.md"
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
 tags:
   - "api-security"
@@ -15,6 +16,7 @@ tags:
 aliases:
   - "Noname Security"
 related:
+  - "[[Noname Security - Diligence]]"
   - "[[Salt Security Diligence — 2021]]"
   - "[[Salt Security]]"
   - "[[API Security]]"
@@ -38,6 +40,7 @@ related:
 
 ## Where it shows up
 
+- Noname Security - Diligence — the dedicated dossier: $60M Series B from [Insight Partners](/notes/insight-partners), ~$3M→$17M ARR plan, eight reference calls ([Rapyd](/notes/rapyd), DGDean, [MuleSoft](/notes/mulesoft), [Kong](/notes/kong), [Sequoia](/notes/sequoia)/Cyberstarts, [Cylance](/notes/cylance), [Vail Resorts](/notes/vail-resorts)).
 - Salt Security Diligence — 2021 — appears in every customer reference call as the primary competitor evaluated
 - November 2nd, 2021 — Oz Golan & Shay Levi (Noname Security) — direct sourcing call with Noname founders
 

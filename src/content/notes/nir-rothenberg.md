@@ -16,6 +16,7 @@ aliases:
   - "Nir Rothenberg"
 related:
   - "[[Salt Security Diligence — 2021]]"
+  - "[[Noname Security - Diligence]]"
   - "[[Rapyd]]"
   - "[[Noname Security]]"
   - "[[Salt Security]]"
@@ -40,3 +41,4 @@ related:
 ## Mentioned in
 
 - Salt Security Diligence — 2021 — expert reference call, October 4, 2021; evaluated Salt, NeoSec, IMvision, [Traceable.ai](/notes/traceable-ai), and chose Noname.
+- Noname Security - Diligence — same October 4, 2021 reference call, preserved in the Noname dossier as a Noname customer.

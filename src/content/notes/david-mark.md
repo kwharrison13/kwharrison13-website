@@ -31,7 +31,7 @@ related:
 - Prior: DevOps Team Lead and Cloud Architect at StartApp (left Jun 2019).
 - Appsflyer was a design partner for [Salt Security](/notes/salt-security) — approached by Salt, not the other way around.
 - Primary evaluator and decision-maker for both Salt Security and [Snyk](/notes/snyk) at Appsflyer.
-- Key critique of Salt: alerts require manual triage (not integrated into CI/CD / developer workflows), primarily serves security teams not DevOps, high false-positive rate.
+- Key critique of Salt: alerts require manual triage (not integrated into [CI/CD](/notes/ci-cd) / developer workflows), primarily serves security teams not DevOps, high false-positive rate.
 - Started evaluating [Noname Security](/notes/noname-security) as a potential replacement at time of interview.
 - Killer feature of Salt he valued most: attack timeline visualization — showing what happened, what was accessed, in sequence. (Source: Salt Security Diligence — 2021)
 

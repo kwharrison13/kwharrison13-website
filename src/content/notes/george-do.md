@@ -16,6 +16,7 @@ aliases:
   - "George Do"
 related:
   - "[[Salt Security Diligence — 2021]]"
+  - "[[Noname Security - Diligence]]"
   - "[[Gojek]]"
   - "[[Equinix]]"
   - "[[Salt Security]]"
@@ -40,3 +41,4 @@ related:
 ## Mentioned in
 
 - Salt Security Diligence — 2021 — expert reference call, October 5, 2021; evaluating Salt Security.
+- Noname Security - Diligence — flagged as an intro target (Kyle to introduce George Do to Noname Security).

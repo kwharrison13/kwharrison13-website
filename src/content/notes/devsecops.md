@@ -41,5 +41,5 @@ related:
 ## Related concepts
 
 - [Developer-Led Security](/notes/developer-led-security) — the developer-facing side of DevSecOps
-- CI/CD — the pipeline DevSecOps tools plug into
+- [CI/CD](/notes/ci-cd) — the pipeline DevSecOps tools plug into
 - [API Security](/notes/api-security) — one of the key DevSecOps domains
