@@ -1,5 +1,5 @@
 ---
-title: "Index - Sourcing Calls"
+title: "APIMetrics"
 type: "concept"
 publish: false
 confidence: "low"
@@ -10,12 +10,12 @@ sources:
   - "wiki/meetings/November 8th, 2021 — David O'Neill (APIMetrics).md"
 tags: []
 aliases:
-  - "Index - Sourcing Calls"
+  - "APIMetrics"
 related: []
 reference_count: 1
 ---
 
-# Index - Sourcing Calls
+# APIMetrics
 
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 

@@ -1,6 +1,6 @@
 ---
-title: "Index - Sourcing Calls"
-type: "concept"
+title: "David O'Neill"
+type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
@@ -10,12 +10,12 @@ sources:
   - "wiki/meetings/November 8th, 2021 — David O'Neill (APIMetrics).md"
 tags: []
 aliases:
-  - "Index - Sourcing Calls"
+  - "David O'Neill"
 related: []
 reference_count: 1
 ---
 
-# Index - Sourcing Calls
+# David O'Neill
 
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 

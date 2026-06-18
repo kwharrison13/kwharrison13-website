@@ -20,11 +20,11 @@ related: []
 
 # movies-to-watch
 
-**One-line definition:** *Running watchlist — films and specials captured via #Quick Capture to watch later.*
+**One-line definition:** *Running watchlist — films and specials captured via #[Quick Capture](/notes/quick-capture) to watch later.*
 
 ## Watchlist
 
-- [Cold Lasagne (James Acaster)](https://vimeo.com/ondemand/coldlasagne?autoplay=1) — captured Nov 8th, 2021 via #Quick Capture
+- [Cold Lasagne (James Acaster)](https://vimeo.com/ondemand/coldlasagne?autoplay=1) — captured Nov 8th, 2021 via #[Quick Capture](/notes/quick-capture)
 
 ## Where it shows up
 

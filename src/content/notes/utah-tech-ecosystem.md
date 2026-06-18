@@ -1,5 +1,5 @@
 ---
-title: "Index - Sourcing Calls"
+title: "Utah Tech Ecosystem"
 type: "concept"
 publish: false
 confidence: "low"
@@ -7,18 +7,18 @@ created: "2026-06-17"
 updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/November 8th, 2021 — David O'Neill (APIMetrics).md"
+  - "wiki/meetings/November 8th, 2021 — Serene Papenfuss (Kickstart Seed Fund).md"
 tags: []
 aliases:
-  - "Index - Sourcing Calls"
+  - "Utah Tech Ecosystem"
 related: []
 reference_count: 1
 ---
 
-# Index - Sourcing Calls
+# Utah Tech Ecosystem
 
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 
 ## Where this appears
 
-- November 8th, 2021 — David O'Neill (APIMetrics)
+- November 8th, 2021 — Serene Papenfuss (Kickstart Seed Fund)
