@@ -10,6 +10,7 @@ sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
   - "wiki/books/Joseph Smith — Rough Stone Rolling.md"
   - "Roam Research daily-note export — May 16th, 2018 (networking/sourcing call log): ~/Downloads/May 16th, 2018.md"
+  - "Roam Research daily-note export — June 1st, 2018 (networking/sourcing call log): ~/Downloads/June 1st, 2018.md"
 tags:
   - "smart-cities"
   - "mobility"
@@ -44,6 +45,13 @@ _Stub page — partially written from wikilink references. "The New City" is a r
 - May 16th, 2018 — Steve Case Interview (Rise of the Rest) — regional investing / [Rise of the Rest](/notes/rise-of-the-rest).
 - May 16th, 2018 — Thrivability (Jean M. Russell) — "Thrivability" resource note.
 - May 16th, 2018 — Matt Wilcox (Toll Brothers) — land acquisition (header only).
+- June 1st, 2018 — Arik Bronshtein (UrbanLeap) — city pilot-testing platform ([UrbanLeap](/notes/urbanleap)) and procurement.
+- June 1st, 2018 — Doug McCullough (City of Dublin) — small-city smart-city tech, data, and vendor vetting.
+- June 1st, 2018 — Kirsten Wyatt (ELGL) — cross-functional local-government professional org ([ELGL](/notes/elgl)).
+- June 1st, 2018 — Tom Schenk (City of Chicago) — municipal data lifecycle, open data, and ride-share data.
+- June 1st, 2018 — Adam Cohen (UC Berkeley) — AVs, land use, and the future of parking.
+- June 1st, 2018 — Mark (re:public good) — urban planning, impact, sustainability, and rural/ag innovation.
+- June 1st, 2018 — Faris (DigitalTown) — local-commerce platform keeping digital commerce local ([DigitalTown](/notes/digitaltown)).
 
 
 ## Quick Capture links — June 29th, 2021

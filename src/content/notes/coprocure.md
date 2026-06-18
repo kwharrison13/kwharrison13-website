@@ -32,3 +32,4 @@ related:
 ## Where it shows up
 
 - May 16th, 2018 — Mariel Reed (CoProcure) — call with founder [Mariel Reed](/notes/mariel-reed) on procurement and cooperative purchasing.
+- June 1st, 2018 — Arik Bronshtein (UrbanLeap) — referenced as the "RFP" stage downstream of an [UrbanLeap](/notes/urbanleap) pilot.

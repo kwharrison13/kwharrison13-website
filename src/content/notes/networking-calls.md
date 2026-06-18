@@ -8,6 +8,7 @@ updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — May 16th, 2018 (networking/sourcing call log): ~/Downloads/May 16th, 2018.md"
+  - "Roam Research daily-note export — June 1st, 2018 (networking/sourcing call log): ~/Downloads/June 1st, 2018.md"
 tags:
   - "networking"
   - "sourcing"
@@ -41,6 +42,13 @@ related:
 - May 16th, 2018 — David Fidalgo (Y-Mobility)
 - May 16th, 2018 — Roman (Innova)
 - May 16th, 2018 — Matt Wilcox (Toll Brothers)
+- June 1st, 2018 — Arik Bronshtein (UrbanLeap)
+- June 1st, 2018 — Doug McCullough (City of Dublin)
+- June 1st, 2018 — Kirsten Wyatt (ELGL)
+- June 1st, 2018 — Tom Schenk (City of Chicago)
+- June 1st, 2018 — Adam Cohen (UC Berkeley)
+- June 1st, 2018 — Mark (re:public good)
+- June 1st, 2018 — Faris (DigitalTown)
 
 ## Related concepts
 
