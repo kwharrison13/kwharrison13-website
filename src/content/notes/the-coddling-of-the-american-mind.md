@@ -29,10 +29,10 @@ related:
 
 **Why it's on the list:** *Lukianoff and Haidt's argument that three "Great Untruths" — fragility, emotional reasoning, and us-vs-them thinking — are miseducating a generation, with consequences for free speech and resilience.*
 
-**Where I saw it:** Recommended by [Zach Edwards](/notes/zach-edwards) (Clearstone Associates) during the September 17th, 2021 call, alongside a discussion of secularism, autonomy, and the Creator Economy (September 17th, 2021 — Zach Edwards (Clearstone Associates)).
+**Where I saw it:** Recommended by [Zach Edwards](/notes/zach-edwards) ([Clearstone Associates](/notes/clearstone-associates)) during the September 17th, 2021 call, alongside a discussion of secularism, autonomy, and the [Creator Economy](/notes/creator-economy) (September 17th, 2021 — Zach Edwards (Clearstone Associates)).
 
 ## Connections
 
-- Greg Lukianoff — co-author
+- [Greg Lukianoff](/notes/greg-lukianoff) — co-author
 - [Jonathan Haidt](/notes/jonathan-haidt) — co-author
 - [Zach Edwards](/notes/zach-edwards) — recommended it

@@ -1,5 +1,5 @@
 ---
-title: "Splunk"
+title: "ETL"
 type: "concept"
 publish: false
 confidence: "low"
@@ -9,17 +9,17 @@ last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 17th, 2021 (Index Ventures sourcing/diligence log): ~/Downloads/September 17th, 2021.md"
 tags:
-  - "security"
+  - "data-infrastructure"
 aliases:
-  - "Splunk"
+  - "ETL"
 related:
   - "[[September 17th, 2021 — Monad Pre-Brief (Max Rimpel)]]"
 reference_count: 1
 ---
 
-# Splunk
+# ETL
 
-**One-line definition:** *SIEM / log-aggregation platform.*
+**One-line definition:** *Extract, Transform, Load — data-integration pattern.*
 
 ## Where it shows up
 

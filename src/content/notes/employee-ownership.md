@@ -1,5 +1,5 @@
 ---
-title: "Splunk"
+title: "Employee Ownership"
 type: "concept"
 publish: false
 confidence: "low"
@@ -9,18 +9,19 @@ last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 17th, 2021 (Index Ventures sourcing/diligence log): ~/Downloads/September 17th, 2021.md"
 tags:
-  - "security"
+  - "equity"
+  - "employee-ownership"
 aliases:
-  - "Splunk"
+  - "Employee Ownership"
 related:
-  - "[[September 17th, 2021 — Monad Pre-Brief (Max Rimpel)]]"
+  - "[[September 17th, 2021 — Zabie Elmgren on Employee Ownership]]"
 reference_count: 1
 ---
 
-# Splunk
+# Employee Ownership
 
-**One-line definition:** *SIEM / log-aggregation platform.*
+**One-line definition:** *Equity ownership for employees — communicating and structuring it.*
 
 ## Where it shows up
 
-- September 17th, 2021 — Monad Pre-Brief (Max Rimpel)
+- September 17th, 2021 — Zabie Elmgren on Employee Ownership

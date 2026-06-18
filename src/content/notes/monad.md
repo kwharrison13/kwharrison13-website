@@ -1,5 +1,5 @@
 ---
-title: "Splunk"
+title: "Monad"
 type: "concept"
 publish: false
 confidence: "low"
@@ -10,16 +10,17 @@ sources:
   - "Roam Research daily-note export — September 17th, 2021 (Index Ventures sourcing/diligence log): ~/Downloads/September 17th, 2021.md"
 tags:
   - "security"
+  - "data-infrastructure"
 aliases:
-  - "Splunk"
+  - "Monad"
 related:
   - "[[September 17th, 2021 — Monad Pre-Brief (Max Rimpel)]]"
 reference_count: 1
 ---
 
-# Splunk
+# Monad
 
-**One-line definition:** *SIEM / log-aggregation platform.*
+**One-line definition:** *Security data platform — "Fivetran for security."*
 
 ## Where it shows up
 

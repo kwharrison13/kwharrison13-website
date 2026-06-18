@@ -29,10 +29,10 @@ related:
 
 **Why it's on the list:** *Charles Taylor's landmark account of how the West shifted from a world in which belief in God was axiomatic to one in which it is one option among many — a touchstone for thinking about secularism.*
 
-**Where I saw it:** Recommended by [Zach Edwards](/notes/zach-edwards) (Clearstone Associates) during the September 17th, 2021 call, in a thread on secularism (September 17th, 2021 — Zach Edwards (Clearstone Associates)).
+**Where I saw it:** Recommended by [Zach Edwards](/notes/zach-edwards) ([Clearstone Associates](/notes/clearstone-associates)) during the September 17th, 2021 call, in a thread on secularism (September 17th, 2021 — Zach Edwards (Clearstone Associates)).
 
 ## Connections
 
-- Charles Taylor — author
+- [Charles Taylor](/notes/charles-taylor) — author
 - [Truth and Tolerance](/notes/truth-and-tolerance) — surfaced in the same secularism discussion
 - [Zach Edwards](/notes/zach-edwards) — recommended it

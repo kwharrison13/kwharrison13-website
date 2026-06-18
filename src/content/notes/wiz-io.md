@@ -16,6 +16,7 @@ aliases:
   - "Wiz.io"
   - "Wiz"
 related:
+  - "[[September 17th, 2021 — Wiz.io Pre-Brief (Shardul Shah)]]"
   - "[[Salt Security Diligence — 2021]]"
   - "[[API Security]]"
 ---
@@ -26,4 +27,5 @@ related:
 
 ## Where it shows up
 
+- September 17th, 2021 — Wiz.io Pre-Brief (Shardul Shah) — [Shardul Shah](/notes/shardul-shah)'s pre-brief: agentless, full-stack, graph-based cloud security; first quarter of commercialization, early CISO traction, competition from [Palo Alto Networks ($PANW)](/notes/palo-alto-networks-panw) and [Orca Security](/notes/orca-security).
 - Salt Security Diligence — 2021 — [Prabhakar Kasu](/notes/prabhakar-kasu) mentioned going through a similar onboarding/complexity process with Wiz.io as with Salt Security. [Nir Rothenberg](/notes/nir-rothenberg) cited Wiz.io as part of the "must-have" security stack.

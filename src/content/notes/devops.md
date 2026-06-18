@@ -1,5 +1,5 @@
 ---
-title: "Splunk"
+title: "DevOps"
 type: "concept"
 publish: false
 confidence: "low"
@@ -9,18 +9,20 @@ last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 17th, 2021 (Index Ventures sourcing/diligence log): ~/Downloads/September 17th, 2021.md"
 tags:
-  - "security"
+  - "devops"
 aliases:
-  - "Splunk"
+  - "DevOps"
 related:
   - "[[September 17th, 2021 — Monad Pre-Brief (Max Rimpel)]]"
-reference_count: 1
+  - "[[September 17th, 2021 — Wiz.io Pre-Brief (Shardul Shah)]]"
+reference_count: 2
 ---
 
-# Splunk
+# DevOps
 
-**One-line definition:** *SIEM / log-aggregation platform.*
+_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **2** wiki pages._
 
-## Where it shows up
+## Where this appears
 
 - September 17th, 2021 — Monad Pre-Brief (Max Rimpel)
+- September 17th, 2021 — Wiz.io Pre-Brief (Shardul Shah)

@@ -1,6 +1,6 @@
 ---
-title: "Splunk"
-type: "concept"
+title: "Amer Deeba"
+type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
@@ -11,16 +11,16 @@ sources:
 tags:
   - "security"
 aliases:
-  - "Splunk"
+  - "Amer Deeba"
 related:
   - "[[September 17th, 2021 — Monad Pre-Brief (Max Rimpel)]]"
 reference_count: 1
 ---
 
-# Splunk
+# Amer Deeba
 
-**One-line definition:** *SIEM / log-aggregation platform.*
+**One-line:** *Incoming Chief Commercial Officer at [Monad](/notes/monad).*
 
-## Where it shows up
+## Mentioned in
 
 - September 17th, 2021 — Monad Pre-Brief (Max Rimpel)

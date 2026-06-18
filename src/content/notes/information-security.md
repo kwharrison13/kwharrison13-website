@@ -1,5 +1,5 @@
 ---
-title: "Splunk"
+title: "Information Security"
 type: "concept"
 publish: false
 confidence: "low"
@@ -11,16 +11,16 @@ sources:
 tags:
   - "security"
 aliases:
-  - "Splunk"
+  - "Information Security"
 related:
-  - "[[September 17th, 2021 — Monad Pre-Brief (Max Rimpel)]]"
+  - "[[September 17th, 2021 — Wiz.io Pre-Brief (Shardul Shah)]]"
 reference_count: 1
 ---
 
-# Splunk
+# Information Security
 
-**One-line definition:** *SIEM / log-aggregation platform.*
+_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 
-## Where it shows up
+## Where this appears
 
-- September 17th, 2021 — Monad Pre-Brief (Max Rimpel)
+- September 17th, 2021 — Wiz.io Pre-Brief (Shardul Shah)

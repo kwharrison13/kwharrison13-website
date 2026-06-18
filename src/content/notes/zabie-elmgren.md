@@ -16,16 +16,19 @@ tags:
 aliases:
   - "Zabie Elmgren"
 related:
+  - "[[September 17th, 2021 — Zabie Elmgren on Employee Ownership]]"
   - "[[December 13th, 2021 — Zabie Elmgren (Human Capital)]]"
   - "[[Human Capital]]"
-reference_count: 2
+  - "[[Employee Ownership]]"
+reference_count: 3
 ---
 
 # Zabie Elmgren
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **3** wiki pages._
 
 ## Where this appears
 
+- September 17th, 2021 — Zabie Elmgren on Employee Ownership — emailed founder-facing resources (equity spreadsheet + beginner guide) for communicating the value of equity to early employees. #[Employee Ownership](/notes/employee-ownership)
 - Pave Diligence — 2021
 - December 13th, 2021 — Zabie Elmgren (Human Capital) — long talent/networking conversation about the [Human Capital](/notes/human-capital) model, its "parachute-in" pivot, and how the recruiting network gets tracked.

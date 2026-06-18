@@ -58,6 +58,10 @@
     ],
     "connections": [
       {
+        "title": "Charles Taylor",
+        "url": "/notes/charles-taylor"
+      },
+      {
         "title": "Zach Edwards",
         "url": "/notes/zach-edwards"
       },
@@ -517,6 +521,10 @@
       "Recommended by Zach Edwards in the September 17th, 2021 call (September 17th, 2021 — Zach Edwards (Clearstone Associates)), in a discussion of secularism and autonomy"
     ],
     "connections": [
+      {
+        "title": "Greg Lukianoff",
+        "url": "/notes/greg-lukianoff"
+      },
       {
         "title": "Jonathan Haidt",
         "url": "/notes/jonathan-haidt"

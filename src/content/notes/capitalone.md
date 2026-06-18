@@ -1,5 +1,5 @@
 ---
-title: "Splunk"
+title: "CapitalOne"
 type: "concept"
 publish: false
 confidence: "low"
@@ -11,16 +11,16 @@ sources:
 tags:
   - "security"
 aliases:
-  - "Splunk"
+  - "CapitalOne"
 related:
-  - "[[September 17th, 2021 — Monad Pre-Brief (Max Rimpel)]]"
+  - "[[September 17th, 2021 — Wiz.io Pre-Brief (Shardul Shah)]]"
 reference_count: 1
 ---
 
-# Splunk
+# CapitalOne
 
-**One-line definition:** *SIEM / log-aggregation platform.*
+**One-line definition:** *Subject of the open-S3-bucket breach cited as a cloud-security cautionary tale.*
 
 ## Where it shows up
 
-- September 17th, 2021 — Monad Pre-Brief (Max Rimpel)
+- September 17th, 2021 — Wiz.io Pre-Brief (Shardul Shah)

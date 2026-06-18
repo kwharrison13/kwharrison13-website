@@ -7,18 +7,20 @@ created: "2026-06-17"
 updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/June 29th, 2021 — Jeff Tang (Coatue).md"
-tags: []
+  - "Roam Research daily-note export — September 17th, 2021 (Index Ventures sourcing/diligence log): ~/Downloads/September 17th, 2021.md"
+tags:
+  - "security"
 aliases:
   - "Cribl"
-related: []
+related:
+  - "[[September 17th, 2021 — Monad Pre-Brief (Max Rimpel)]]"
 reference_count: 1
 ---
 
 # Cribl
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page(s)._
+**One-line definition:** *Observability / security data pipeline company.*
 
-## Where this appears
+## Where it shows up
 
-- June 29th, 2021 — Jeff Tang (Coatue)
+- September 17th, 2021 — Monad Pre-Brief (Max Rimpel)

@@ -1,5 +1,5 @@
 ---
-title: "Splunk"
+title: "Atlassian"
 type: "concept"
 publish: false
 confidence: "low"
@@ -8,19 +8,18 @@ updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 17th, 2021 (Index Ventures sourcing/diligence log): ~/Downloads/September 17th, 2021.md"
-tags:
-  - "security"
+tags: []
 aliases:
-  - "Splunk"
+  - "Atlassian"
 related:
-  - "[[September 17th, 2021 — Monad Pre-Brief (Max Rimpel)]]"
+  - "[[September 17th, 2021 — Steve Malouf (Datadog) on Prelay]]"
 reference_count: 1
 ---
 
-# Splunk
+# Atlassian
 
-**One-line definition:** *SIEM / log-aggregation platform.*
+_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 
-## Where it shows up
+## Where this appears
 
-- September 17th, 2021 — Monad Pre-Brief (Max Rimpel)
+- September 17th, 2021 — Steve Malouf (Datadog) on Prelay

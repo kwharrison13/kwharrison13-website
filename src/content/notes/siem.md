@@ -1,5 +1,5 @@
 ---
-title: "Splunk"
+title: "SIEM"
 type: "concept"
 publish: false
 confidence: "low"
@@ -11,15 +11,15 @@ sources:
 tags:
   - "security"
 aliases:
-  - "Splunk"
+  - "SIEM"
 related:
   - "[[September 17th, 2021 — Monad Pre-Brief (Max Rimpel)]]"
 reference_count: 1
 ---
 
-# Splunk
+# SIEM
 
-**One-line definition:** *SIEM / log-aggregation platform.*
+**One-line definition:** *Security Information and Event Management.*
 
 ## Where it shows up
 
