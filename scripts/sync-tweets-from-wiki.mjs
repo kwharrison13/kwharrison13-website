@@ -75,10 +75,20 @@ function parseFrontmatter(text) {
   return { frontmatter: fm, body: m[2] };
 }
 
-// Lift the verbatim tweet text from the `## Tweet` section up to the next heading.
+// Lift the verbatim tweet text from the `## Tweet` section up to the next `##`
+// heading (or end of body). Line-based on purpose: a regex with a non-greedy
+// `[\s\S]*?` plus an `m`-flag `$` alternative stops at the first end-of-LINE,
+// which truncates multi-paragraph threads to their first line.
 function extractTweetText(body) {
-  const m = body.match(/^##\s+Tweet\s*\r?\n([\s\S]*?)(?:\r?\n##\s|\s*$)/m);
-  return m ? m[1].trim() : '';
+  const lines = body.split(/\r?\n/);
+  const start = lines.findIndex((l) => /^##\s+Tweet\s*$/.test(l));
+  if (start < 0) return '';
+  const out = [];
+  for (let j = start + 1; j < lines.length; j++) {
+    if (/^##\s/.test(lines[j])) break; // next section (## Connections, etc.)
+    out.push(lines[j]);
+  }
+  return out.join('\n').trim();
 }
 
 // "image|/images/tweets/x.jpg|alt text" → { kind, src, alt }
