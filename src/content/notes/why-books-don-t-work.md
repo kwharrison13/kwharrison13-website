@@ -3,6 +3,7 @@ title: "Why Books Don't Work"
 type: "longform"
 format: "article"
 publish: true
+excerpt: "Books and lectures fail to convey knowledge for the same reason — both silently assume transmissionism (you absorb knowledge by reading/hearing sentences), which is false. The fix isn't better books but new mediums designed out of how people actually learn."
 author: "Andy Matuschak"
 url: "https://andymatuschak.org/books/"
 source_published: "2019-05-11"
