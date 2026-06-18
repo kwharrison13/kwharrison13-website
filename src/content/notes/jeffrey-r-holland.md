@@ -8,7 +8,7 @@ updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
   - "wiki/concepts/Chad's Big Quote Book.md"
-  - "wiki/long-forms/Feed My Sheep.md"
+  - "wiki/long-reads/Feed My Sheep.md"
 tags:
   - "mormonism"
   - "religious-intellectualism"

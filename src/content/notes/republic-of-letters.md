@@ -54,5 +54,5 @@ Per *Reinventing Knowledge*, every Republic-of-Letters period shares these — a
 ## Related concepts
 
 - [Memetics](/notes/memetics) — "the memes of production"; how ideas propagate through the network.
-- [Open-Source Knowledge](/essays/open-source-knowledge) — producing *new* knowledge (playbooks, code, demos) over curating the old.
+- [Open Source Knowledge](/notes/open-source-knowledge) — producing *new* knowledge (playbooks, code, demos) over curating the old.
 - [Storytelling](/notes/storytelling) — the medium through which membership and status are earned.
