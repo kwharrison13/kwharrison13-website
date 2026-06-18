@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Nephi"
-related: []
+related:
+  - "[[1 Nephi 16–22 — I Will Prepare the Way before You]]"
 reference_count: 1
 ---
 

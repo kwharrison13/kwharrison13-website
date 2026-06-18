@@ -27,6 +27,7 @@ aliases:
 related:
   - "[[Joseph Smith]]"
   - "[[Truman G. Madsen]]"
+  - "[[Joseph Smith Lecture 1 — The First Vision and Its Aftermath]]"
   - "[[Hyrum Smith]]"
   - "[[Emma Smith]]"
   - "[[Eliza R. Snow]]"

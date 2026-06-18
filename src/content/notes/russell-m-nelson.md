@@ -21,6 +21,8 @@ related:
   - "[[Living Revelation]]"
   - "[[Spirit of Humility]]"
   - "[[Voice of the People]]"
+  - "[[Christ Is Risen; Faith in Him Will Move Mountains — Russell M. Nelson]]"
+  - "[[Faith]]"
 ---
 
 # Russell M. Nelson
@@ -36,6 +38,7 @@ related:
 - He appears in the context of how religious leaders are expected to pronounce on matters far beyond technical expertise — a different basis of authority than expertise. [The Death of Expertise](/books/the-death-of-expertise)
 - He surfaces around Church leadership and the balance between institutional authority and scholarly/historical work. [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history)
 - Referenced in the context of leadership and thought. [How To Read a Book](/books/how-to-read-a-book)
+- His own voice: the Easter 2021 address Christ Is Risen; Faith in Him Will Move Mountains — Russell M. Nelson frames [Faith](/notes/faith) in Christ as "the conduit of divine power" and gives five ways to build it (study, choose to believe, act, partake of ordinances, ask).
 
 ## Mentioned in
 
@@ -47,4 +50,4 @@ related:
 
 ## Open questions
 
-- No source read so far is *about* Nelson — the page rests on cross-references. A biography or his own addresses would raise confidence.
+- The biographical page still rests largely on cross-references; one of his own addresses (Christ Is Risen; Faith in Him Will Move Mountains — Russell M. Nelson) is now studied, but a biography would deepen the portrait.

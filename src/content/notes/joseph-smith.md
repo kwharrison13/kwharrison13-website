@@ -12,7 +12,10 @@ aliases:
   - "Joseph Smith"
 related:
   - "[[Truman G. Madsen]]"
+  - "[[Joseph Smith Lecture 1 — The First Vision and Its Aftermath]]"
   - "[[Joseph Smith Lecture 2 — Joseph's Personality and Character]]"
+  - "[[The King Follett Sermon]]"
+  - "[[1 Nephi 16–22 — I Will Prepare the Way before You]]"
 ---
 
 # Joseph Smith

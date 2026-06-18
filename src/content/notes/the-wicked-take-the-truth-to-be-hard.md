@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "The Wicked Take the Truth to be Hard"
-related: []
+related:
+  - "[[1 Nephi 16–22 — I Will Prepare the Way before You]]"
+  - "[[Helaman 7–12 — Remember the Lord]]"
 reference_count: 1
 ---
 

@@ -17,6 +17,8 @@ aliases:
   - "Elder Holland"
 related:
   - "[[Feed My Sheep]]"
+  - "[[1 Nephi 16–22 — I Will Prepare the Way before You]]"
+  - "[[The Tongue of Angels]]"
 reference_count: 2
 ---
 

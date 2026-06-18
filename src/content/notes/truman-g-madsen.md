@@ -16,7 +16,9 @@ aliases:
   - "Truman Madsen"
 related:
   - "[[Joseph Smith]]"
+  - "[[Joseph Smith Lecture 1 — The First Vision and Its Aftermath]]"
   - "[[Joseph Smith Lecture 2 — Joseph's Personality and Character]]"
+  - "[[1 Nephi 16–22 — I Will Prepare the Way before You]]"
 ---
 
 # Truman G. Madsen
@@ -30,8 +32,9 @@ related:
 
 ## Mentioned in
 
+- Joseph Smith Lecture 1 — The First Vision and Its Aftermath — author of the lecture (first in the series).
 - [Joseph Smith Lecture 2 — Joseph's Personality and Character](/notes/joseph-smith-lecture-2-joseph-s-personality-and-character) — author of the lecture.
 
 ## Open questions
 
-- The other lectures in Madsen's Joseph Smith series (this is "Lecture 2") are not yet ingested.
+- The remaining lectures in Madsen's Joseph Smith series (Lectures 1 and 2 are now ingested; Lecture 3 — The Character of God is referenced but not yet ingested as its own page) are not all captured.
