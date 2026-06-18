@@ -27,6 +27,7 @@ The second thread is about the primacy of ideas. Three of the four notes cluster
 - [Nickel & Dimed](/books/nickel-and-dimed) — Ehrenreich's ground-level reporting on low-wage work is the lived texture under Bregman's macro claim that poverty is "a lack of cash," not a lack of character.
 - [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism) — both indict a financial sector that extracts more than it creates; Bregman's "60 cents destroyed per dollar a bank earns" is the same value-destruction thesis at a different altitude.
 - [Talent](/books/talent) — inverse framing: Bregman laments the best minds going into banking and ad-click optimization, while Cowen & Gross are about identifying and routing talent; read together they bracket the talent-allocation question.
+- [The New Urban Crisis](/books/the-new-urban-crisis) — Florida arrives at the same fix from the urban-policy side: a guaranteed minimum income via a negative income tax as the most direct, least bureaucratic way to combat poverty ("poverty is the absence of money").
 <!-- /interconnections -->
 
 ## Highlights

@@ -75,6 +75,7 @@ A city's purpose is to bring people together to "exchange goods and ideas withou
 - [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institution-building thread.
 - [Boom — Bubbles & The End of Stagnation](/books/boom-bubbles-and-the-end-of-stagnation) — same "future of cities" frame.
 - [The Ride of a Lifetime](/books/the-ride-of-a-lifetime) — Disney company history.
+- [The New Urban Crisis](/books/the-new-urban-crisis) — EPCOT's hub-and-spoke design is a concrete answer to Florida's argument that "not everyone who works in a superstar city or leading knowledge hub has to live in one."
 <!-- /interconnections -->
 
 ## Highlights
