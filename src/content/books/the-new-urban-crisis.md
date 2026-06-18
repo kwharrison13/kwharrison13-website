@@ -128,7 +128,7 @@ Richard Florida's reckoning with the dark side of his own [creative-class](/book
 - "At the center of the bigger sort is the decline of America's once thriving middle class and the sturdy middle-class neighborhoods that literally defined [the American Dream](/notes/the-american-dream)."
   > **Kyle:** *How do you define and create a middle-class neighborhood?*
 - "Distressingly, the middle class is smallest in economically vibrant places and largest in declines ones."
-  > **Kyle:** *The death of [Benjamin Franklin](/books/benjamin-franklin)'s legacy.*
+  > **Kyle:** *The death of [Benjamin Franklin](/notes/benjamin-franklin)'s legacy.*
 - "The working class, whose ranks of factory, construction, and transportation workers have been declining for decades."
   > **Kyle:** *How could we bolster the working class? What new jobs or services?*
 - "On the flip side, economic segregation is lower in metros that have more working-class jobs and higher rates of unionization, which tend to bolster blue-collar wages."

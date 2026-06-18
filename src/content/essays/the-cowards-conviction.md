@@ -11,7 +11,7 @@ substack_url: "https://investing101.substack.com/p/the-cowards-conviction"
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/benjamin-franklin">Benjamin Franklin</a>, <a href="/books/the-founders">The Founders</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-founders">The Founders</a></span></div>
   <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a>, <a href="/essays/eat-what-you-kill">Eat What You Kill</a>, <a href="/essays/on-hype-and-hot-air">On Hype And Hot Air</a>, <a href="/essays/talent-vortex">The Talent Vortex: Mafias and Magnets</a>, <a href="/essays/the-renaissance-of-rise-and-grind">The Renaissance of Rise and Grind</a>, <a href="/essays/vc-contagion">VC Contagion</a></span></div>
 </aside>
 <!-- connections-end -->

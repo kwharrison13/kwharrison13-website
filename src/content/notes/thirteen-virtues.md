@@ -22,7 +22,7 @@ related:
 
 # Thirteen Virtues
 
-[Benjamin Franklin](/books/benjamin-franklin)'s personal scheme for "moral perfection" — a list of thirteen virtues, each with a one-line precept, that he tracked against himself one at a time. It is essentially a habit-tracking system three centuries early: pick a behavior, define it precisely, measure your relapses, iterate. The direct conceptual ancestor of [Atomic Habits](/books/atomic-habits).
+[Benjamin Franklin](/notes/benjamin-franklin)'s personal scheme for "moral perfection" — a list of thirteen virtues, each with a one-line precept, that he tracked against himself one at a time. It is essentially a habit-tracking system three centuries early: pick a behavior, define it precisely, measure your relapses, iterate. The direct conceptual ancestor of [Atomic Habits](/books/atomic-habits).
 
 ## The list
 

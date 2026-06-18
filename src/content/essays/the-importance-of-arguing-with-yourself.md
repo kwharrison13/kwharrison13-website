@@ -8,7 +8,7 @@ slug: "the-importance-of-arguing-with-yourself"
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/blink">Blink</a>, <a href="/books/benjamin-franklin">Benjamin Franklin</a>, <a href="/books/the-righteous-mind">The Righteous Mind</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/blink">Blink</a>, <a href="/books/the-righteous-mind">The Righteous Mind</a></span></div>
 </aside>
 <!-- connections-end -->
 

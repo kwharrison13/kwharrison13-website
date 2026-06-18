@@ -8,13 +8,6 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/i-choose-optimism"
 ---
 
-<!-- connections-start -->
-<aside class="wiki-connections">
-  <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/benjamin-franklin">Benjamin Franklin</a></span></div>
-</aside>
-<!-- connections-end -->
-
 ![Header image for I Choose Optimism](/images/i-choose-optimism-8a33950d.jpg)
 
 As I reflect on what I wanted to write about this week, I thought about one of the best film trilogies I've ever seen: The Lord of The Rings. In the second movie, there is a conversation between Merry, Pippin, and Treebeard, while the Ent's are deciding if they'll go to war or not.

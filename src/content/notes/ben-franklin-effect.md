@@ -18,7 +18,7 @@ related:
 
 # Ben Franklin Effect
 
-The observation that a person who does *you* a favor becomes more inclined to like you and do you another — counterintuitively, asking for a kindness can win someone over faster than granting one. Named for [Benjamin Franklin](/books/benjamin-franklin), who recorded the origin in his [Autobiography](/books/the-autobiography-of-benjamin-franklin).
+The observation that a person who does *you* a favor becomes more inclined to like you and do you another — counterintuitively, asking for a kindness can win someone over faster than granting one. Named for [Benjamin Franklin](/notes/benjamin-franklin), who recorded the origin in his [Autobiography](/books/the-autobiography-of-benjamin-franklin).
 
 Facing a political rival who disliked him, Franklin did not court him with "servile respect." Instead he asked to borrow a "very scarce and curious book" from the man's library. The rival lent it; Franklin returned it warmly; the man "ever after manifested a readiness to serve me on all occasion," and the two became lasting friends. Franklin's gloss: **"He that has once done you a kindness will be more ready to do you another, than he whom you yourself have obliged."**
 

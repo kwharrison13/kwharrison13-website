@@ -14,7 +14,7 @@ key_takeaways_status: "written"
 ## Key Takeaways
 
 <!-- key-takeaways -->
-[Benjamin Franklin](/books/benjamin-franklin)'s self-portrait is, more than anything, a record of a deliberate self-improvement project — the conviction that "one man of tolerable abilities may work great changes" if he "first forms a good plan" and makes its execution "his sole study and business." A few threads recur:
+[Benjamin Franklin](/notes/benjamin-franklin)'s self-portrait is, more than anything, a record of a deliberate self-improvement project — the conviction that "one man of tolerable abilities may work great changes" if he "first forms a good plan" and makes its execution "his sole study and business." A few threads recur:
 
 - **Systematic virtue.** Franklin's [Thirteen Virtues](/notes/thirteen-virtues) — temperance, silence, order, resolution, frugality, industry, sincerity, justice, moderation, cleanliness, tranquility, chastity, and humility — are a habit-tracking system avant la lettre, the direct ancestor of the modern [Atomic Habits](/books/atomic-habits) approach to building character one tracked behavior at a time.
 - **The [Ben Franklin Effect](/notes/ben-franklin-effect).** "He that has once done you a kindness will be more ready to do you another, than he whom you yourself have obliged." Franklin won over a political rival not by flattering him but by *asking him for a favor* (the loan of a rare book) — letting the rival's own act of kindness rewrite his feelings.

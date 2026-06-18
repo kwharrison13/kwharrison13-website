@@ -8,6 +8,7 @@ updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
   - "wiki/books/The Autobiography of Benjamin Franklin.md"
+  - "wiki/books/Benjamin Franklin — An American Life.md"
 tags:
   - "historical-futurism"
   - "open-source-knowledge"
@@ -16,6 +17,7 @@ aliases:
   - "Ben Franklin"
 related:
   - "[[The Autobiography of Benjamin Franklin]]"
+  - "[[Benjamin Franklin: An American Life]]"
   - "[[Thirteen Virtues]]"
   - "[[Ben Franklin Effect]]"
 ---
@@ -37,4 +39,5 @@ Founder, printer, scientist, and diplomat whose [Autobiography](/books/the-autob
 ## Mentioned in
 
 - [The Autobiography of Benjamin Franklin](/books/the-autobiography-of-benjamin-franklin)
+- [Benjamin Franklin: An American Life](/books/benjamin-franklin-an-american-life) — Walter Isaacson's biography; primary source for the Junto, the Thirteen Virtues, his diplomacy in Paris, and his role at the Constitutional Convention.
 - [American Sphinx](/books/american-sphinx)

@@ -71,7 +71,7 @@ related:
 - As a former entrepreneur and investor, Dave Whorton now promulgates an alternative approach as the founder and head of the Tugboat Institute, an organization established to serve businesses with long-term horizons. Whorton calls these long-term organizations "evergreen" companies and **encourages leaders to set building strategies of 100 years or more, encompassing business transfer and consistent possession.** #100 Year Business Plan #[Jack Ma](/notes/jack-ma)
 - **For those who are planning to exit a business, the very best economic reason is a material change to the investment thesis.** If an entrepreneur is a fantastic operator, the data and tools that enable the viewing of the industry horizon will be available. Should the data indicate disruptive industry change, selling might be wise, but we believe data and strategy should catalyze a threshold exit decision, not just that five years have elapsed.
   > **Kyle:** *E.g. [Warren Buffett](/notes/warren-buffett) and the newspaper business or Dexter Shoes.* #[Find the Quote](/notes/find-the-quote)
-- "Money makes money. And the money that money makes, makes money." — [Benjamin Franklin](/books/benjamin-franklin) #[Compounding](/notes/compounding)
+- "Money makes money. And the money that money makes, makes money." — [Benjamin Franklin](/notes/benjamin-franklin) #[Compounding](/notes/compounding)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkwharrison13%2Fco4rUsy1ds.png?alt=media&token=525e8763-0466-4a16-8d2e-076295850d4c)
   > **Kyle:** *Majority of wealth from [Compounding](/notes/compounding) is created in the latter end of the holding period.*
 - https://twitter.com/teddypowday/status/1305501745053863939?s=20

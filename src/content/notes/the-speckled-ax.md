@@ -19,7 +19,7 @@ related:
 
 # The Speckled Ax
 
-[Benjamin Franklin](/books/benjamin-franklin)'s parable about the diminishing returns of perfectionism and the seductive pull of "good enough." Struggling and relapsing on the [Thirteen Virtues](/notes/thirteen-virtues) (specifically Order), Franklin compared himself to a man who:
+[Benjamin Franklin](/notes/benjamin-franklin)'s parable about the diminishing returns of perfectionism and the seductive pull of "good enough." Struggling and relapsing on the [Thirteen Virtues](/notes/thirteen-virtues) (specifically Order), Franklin compared himself to a man who:
 
 > bought an ax and wanted its whole surface ground as bright as the edge. The smith agreed — if the buyer would turn the grinding wheel. Turning it was exhausting work, and the man kept stopping to check progress. Eventually he decided to take the ax as it was. "'Turn on, turn on,'" said the smith, "'we shall have it bright by-and-by; as yet, it is only speckled.'" "'Yes,'" says the man, "'but I think I like a speckled ax best.'"
 

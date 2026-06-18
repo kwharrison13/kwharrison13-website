@@ -18,7 +18,7 @@ related:
 
 # Jesus
 
-Appears here as one of the two models [Benjamin Franklin](/books/benjamin-franklin) named for the thirteenth of his [Thirteen Virtues](/notes/thirteen-virtues), humility: "Imitate Jesus and Socrates."
+Appears here as one of the two models [Benjamin Franklin](/notes/benjamin-franklin) named for the thirteenth of his [Thirteen Virtues](/notes/thirteen-virtues), humility: "Imitate Jesus and Socrates."
 
 ## What we know
 

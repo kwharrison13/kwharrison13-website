@@ -471,6 +471,28 @@
     "slug": "men-to-match-my-mountains"
   },
   {
+    "title": "Mistakes Were Made (But Not by Me)",
+    "full_title": "Mistakes Were Made (but Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts",
+    "author": "Carol Tavris and Elliot Aronson",
+    "published": "2007",
+    "pages": 304,
+    "amazon_url": "https://www.amazon.com/s?k=Mistakes+Were+Made+But+Not+by+Me+Tavris+Aronson",
+    "where_seen": [
+      "Investing books to read, recommended by Brent Beshore (March 30th, 2022 Quick Capture log)"
+    ],
+    "connections": [
+      {
+        "title": "Brent Beshore",
+        "url": "/notes/brent-beshore"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "people-over-politics"
+    ],
+    "slug": "mistakes-were-made-but-not-by-me"
+  },
+  {
     "title": "Models of My Life",
     "full_title": "Models of My Life",
     "author": "Herbert Simon",
@@ -541,6 +563,29 @@
       "psychology"
     ],
     "slug": "the-coddling-of-the-american-mind"
+  },
+  {
+    "title": "The Fish That Ate the Whale",
+    "full_title": "The Fish That Ate the Whale: The Life and Times of America's Banana King",
+    "author": "Rich Cohen",
+    "published": "2012",
+    "pages": 288,
+    "amazon_url": "https://www.amazon.com/s?k=The+Fish+That+Ate+the+Whale+Rich+Cohen",
+    "where_seen": [
+      "Investing books to read, recommended by Brent Beshore (March 30th, 2022 Quick Capture log)"
+    ],
+    "connections": [
+      {
+        "title": "Brent Beshore",
+        "url": "/notes/brent-beshore"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "capital-allocation",
+      "company-building"
+    ],
+    "slug": "the-fish-that-ate-the-whale"
   },
   {
     "title": "The Lincoln Highway",

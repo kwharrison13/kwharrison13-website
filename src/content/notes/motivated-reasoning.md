@@ -19,7 +19,7 @@ related:
 
 # Motivated Reasoning
 
-The tendency to reach the conclusion you already want and then assemble reasons for it — reasoning in service of a predetermined desire rather than toward the truth. [Benjamin Franklin](/books/benjamin-franklin) gave one of the cleanest illustrations in the literature.
+The tendency to reach the conclusion you already want and then assemble reasons for it — reasoning in service of a predetermined desire rather than toward the truth. [Benjamin Franklin](/notes/benjamin-franklin) gave one of the cleanest illustrations in the literature.
 
 A committed vegetarian, Franklin was tempted by the smell of frying cod. He held out "between principle and inclination" until he noticed that the gutted fish had smaller fish in their stomachs — and concluded, "If you eat one another, I don't see why we mayn't eat you." His own verdict on the episode:
 
