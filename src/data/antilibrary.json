@@ -47,6 +47,34 @@
     "slug": "a-matter-of-degrees"
   },
   {
+    "title": "A Secular Age",
+    "full_title": "A Secular Age",
+    "author": "Charles Taylor",
+    "published": "2007",
+    "pages": 874,
+    "amazon_url": "https://www.amazon.com/s?k=A+Secular+Age+Charles+Taylor",
+    "where_seen": [
+      "Recommended by Zach Edwards in the September 17th, 2021 call (September 17th, 2021 — Zach Edwards (Clearstone Associates)), in a discussion of secularism"
+    ],
+    "connections": [
+      {
+        "title": "Zach Edwards",
+        "url": "/notes/zach-edwards"
+      },
+      {
+        "title": "Truth and Tolerance",
+        "url": "/notes/truth-and-tolerance"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "secularism",
+      "religious-intellectualism",
+      "philosophy"
+    ],
+    "slug": "a-secular-age"
+  },
+  {
     "title": "Andrew Carnegie by Joseph Frazier Wall",
     "full_title": "Andrew Carnegie",
     "author": "Joseph Frazier Wall",
@@ -477,6 +505,34 @@
     "recommendations": 1,
     "tags": [],
     "slug": "no-two-alike"
+  },
+  {
+    "title": "The Coddling of the American Mind",
+    "full_title": "The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure",
+    "author": "Greg Lukianoff and Jonathan Haidt",
+    "published": "2018",
+    "pages": 352,
+    "amazon_url": "https://www.amazon.com/s?k=The+Coddling+of+the+American+Mind+Lukianoff+Haidt",
+    "where_seen": [
+      "Recommended by Zach Edwards in the September 17th, 2021 call (September 17th, 2021 — Zach Edwards (Clearstone Associates)), in a discussion of secularism and autonomy"
+    ],
+    "connections": [
+      {
+        "title": "Jonathan Haidt",
+        "url": "/notes/jonathan-haidt"
+      },
+      {
+        "title": "Zach Edwards",
+        "url": "/notes/zach-edwards"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "people-over-politics",
+      "language-of-discourse",
+      "psychology"
+    ],
+    "slug": "the-coddling-of-the-american-mind"
   },
   {
     "title": "The Lincoln Highway",
