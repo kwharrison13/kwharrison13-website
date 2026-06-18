@@ -26,4 +26,4 @@ _Stub page — auto-generated from wikilink references. Not yet fully written._
 ## Where this appears
 
 - [How To Take Smart Notes](/books/how-to-take-smart-notes)
-- Why Books Don't Work — re-testing over expanding intervals to encode prerequisites into long-term [Memory](/notes/memory); the core mechanic of Quantum Country.
+- [Why Books Don't Work](/notes/why-books-don-t-work) — re-testing over expanding intervals to encode prerequisites into long-term [Memory](/notes/memory); the core mechanic of Quantum Country.

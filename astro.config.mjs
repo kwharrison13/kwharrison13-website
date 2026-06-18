@@ -29,6 +29,8 @@ export default defineConfig({
   // alongside the canonical wiki-synced file (respects `website_slug`, has the images).
   // The canonical slug is authoritative; preserve the old URLs so inbound links survive.
   redirects: {
+    // Long-Forms section renamed to Long Reads; preserve the old listing URL.
+    '/articles': '/long-reads',
     '/essays/roam-investing': '/essays/networked-conviction-roam-investing',
     '/essays/the-productization-of-venture-capital': '/essays/productization',
     '/essays/whats-in-a-valuation': '/essays/valuations',

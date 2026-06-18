@@ -1,0 +1,104 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SearchBar from '../../components/SearchBar.astro';
+import { getCollection } from 'astro:content';
+
+// Long reads Kyle has read/watched/listened to and annotated. They live in
+// the `notes` collection as type: longform (legacy: article) and render at
+// /notes/<slug>. This index lists the published ones, grouped by the ORIGINAL
+// source publish YEAR (source_published), newest first.
+function sourceTime(d?: string): number {
+  if (!d) return 0;
+  const t = new Date(d).valueOf();
+  return isNaN(t) ? 0 : t;
+}
+function fmtSourceDate(s?: string): string | null {
+  if (!s) return null;
+  const str = String(s).trim();
+  if (/^\d{4}$/.test(str)) return str;
+  if (/^\d{4}-\d{2}$/.test(str)) {
+    const [y, m] = str.split('-').map(Number);
+    return new Date(Date.UTC(y, m - 1, 1)).toLocaleDateString('en-US', { year: 'numeric', month: 'short', timeZone: 'UTC' });
+  }
+  const d = new Date(str);
+  if (isNaN(d.valueOf())) return str;
+  return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' });
+}
+function sourceYear(s?: string): string {
+  if (!s) return 'Undated';
+  const m = String(s).trim().match(/^(\d{4})/);
+  return m ? m[1] : 'Undated';
+}
+
+const longreads = (await getCollection('notes'))
+  .filter((n) => (n.data.type === 'longform' || n.data.type === 'article') && n.data.publish === true)
+  .sort((a, b) => {
+    const da = sourceTime(a.data.source_published) || sourceTime(a.data.updated || a.data.created);
+    const db = sourceTime(b.data.source_published) || sourceTime(b.data.updated || b.data.created);
+    return db - da;
+  });
+
+// Group the already-sorted (newest-first) list into [year, items[]] runs.
+const groups: { year: string; items: typeof longreads }[] = [];
+for (const item of longreads) {
+  const year = sourceYear(item.data.source_published);
+  const last = groups[groups.length - 1];
+  if (last && last.year === year) {
+    last.items.push(item);
+  } else {
+    groups.push({ year, items: [item] });
+  }
+}
+---
+
+<BaseLayout title="Long Reads" currentPage="long-reads" description="Long reads Kyle has read, watched, and listened to closely — articles, podcasts, and talks with highlights, notes, and synthesis.">
+  <h1 class="page-title">Long Reads</h1>
+  <p class="page-subtitle">Articles, podcasts, and talks I've gone through closely — with highlights, notes, and synthesis. Grouped by the year the source was originally published.</p>
+
+  <SearchBar context="essays" />
+
+  <div class="section-divider"></div>
+
+  {longreads.length === 0 ? (
+    <p class="page-subtitle">No published long reads yet.</p>
+  ) : groups.map((group) => (
+    <section class="year-group">
+      <h2 class="year-header">{group.year}</h2>
+      {group.items.map((item) => {
+        const date = fmtSourceDate(item.data.source_published);
+        const kind = item.data.format || item.data.type || 'note';
+        return (
+          <a href={`/notes/${item.slug}`} style="text-decoration: none; color: inherit;">
+            <div class="update-card">
+              <div class="update-content">
+                <div class="update-title">{item.data.title}</div>
+                {item.data.excerpt && <div class="update-excerpt">{item.data.excerpt}</div>}
+                <div class="update-meta">
+                  <span class="update-tag">{kind}</span>
+                  {item.data.author}
+                  {item.data.author && date ? " · " : ""}
+                  {date}
+                </div>
+              </div>
+            </div>
+          </a>
+        );
+      })}
+    </section>
+  ))}
+</BaseLayout>
+
+<style>
+  .year-group { margin-bottom: 1.5rem; }
+  .year-header {
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-secondary, #888);
+    margin: 1.75rem 0 0.85rem;
+    padding-bottom: 0.45rem;
+    border-bottom: 1px solid var(--border-color, rgba(128, 128, 128, 0.2));
+  }
+  .year-group:first-of-type .year-header { margin-top: 0; }
+</style>
