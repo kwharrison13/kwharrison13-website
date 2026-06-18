@@ -421,7 +421,19 @@ function main() {
 
   let files = fs.readdirSync(WIKI_BOOKS).filter((f) => f.endsWith('.md') && !f.startsWith('.'));
   if (slugArg) {
-    files = files.filter((f) => f === `${slugArg}.md`);
+    // Match the arg against the filename, the title-derived slug, or a pinned
+    // website_slug — so `sync-from-wiki.mjs evicted` finds a book whose page
+    // title is the full subtitle but whose URL stays /books/evicted.
+    const want = slugArg.toLowerCase();
+    files = files.filter((f) => {
+      if (f.toLowerCase() === `${want}.md`) return true;
+      const { frontmatter: fm } = parseFrontmatter(
+        fs.readFileSync(path.join(WIKI_BOOKS, f), 'utf8'),
+      );
+      if (fm.website_slug && fm.website_slug.toLowerCase() === want) return true;
+      const title = fm.title || f.replace(/\.md$/, '');
+      return bookSlug(title) === want;
+    });
     if (files.length === 0) {
       console.error(`error: no wiki book matches slug "${slugArg}"`);
       process.exit(1);
