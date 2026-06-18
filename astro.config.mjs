@@ -38,6 +38,9 @@ export default defineConfig({
     '/essays/i-love-the-taste-of-pain-in-the-morning': '/essays/pain',
     '/essays/renegade-spotlight-homebrew': '/essays/homebrew',
     '/essays/renegade-spotlight-lowercarbon': '/essays/lowercarbon',
+    // Book retitled "Benjamin Franklin" → "Benjamin Franklin: An American Life"
+    // (disambiguated from the person page); preserve the old book URL.
+    '/books/benjamin-franklin': '/books/benjamin-franklin-an-american-life',
   },
   markdown: {
     remarkPlugins: [remarkStripRwid],
