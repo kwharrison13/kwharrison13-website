@@ -53,6 +53,12 @@ const { bookMeta, contentEntry } = Astro.props;
 const tags: string[] = bookMeta.tags || [];
 const rating = bookMeta.rating || 0;
 
+// Prefer the wiki-synced content title (often the full subtitle, e.g.
+// "Evicted: Poverty and Profit in the American City") over the short
+// books.json catalog title. Falls back to the catalog title for books
+// without a synced content page.
+const displayTitle = (contentEntry as any)?.data?.title || bookMeta.title;
+
 // Render content if available
 let Content: any = null;
 if (contentEntry) {
@@ -90,20 +96,20 @@ const backlinks = await getBacklinks(`/books/${slug}`);
 ---
 
 <BaseLayout
-  title={bookMeta.title}
+  title={displayTitle}
   currentPage="bookshelf"
-  description={`Highlights and notes from ${bookMeta.title} by ${bookMeta.author}.`}
+  description={`Highlights and notes from ${displayTitle} by ${bookMeta.author}.`}
 >
   <a href="/bookshelf" class="back-link">← Bookshelf</a>
 
   <div class="book-hero">
     {bookMeta.cover ? (
-      <img class="book-hero-cover" src={bookMeta.cover} alt={bookMeta.title} />
+      <img class="book-hero-cover" src={bookMeta.cover} alt={displayTitle} />
     ) : (
       <div class="book-hero-cover-placeholder"></div>
     )}
     <div class="book-hero-info">
-      <h1 class="book-hero-title">{bookMeta.title}</h1>
+      <h1 class="book-hero-title">{displayTitle}</h1>
       <div class="book-hero-author">{bookMeta.author}</div>
       <div class="book-hero-meta">
         {rating > 0 && (
