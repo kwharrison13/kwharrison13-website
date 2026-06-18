@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Brad Feld"
-related: []
+  - "Feld Notes"
+  - "Feld Thoughts"
+related:
+  - "[[The State of Startup Media - Research]]"
 reference_count: 1
 ---
 

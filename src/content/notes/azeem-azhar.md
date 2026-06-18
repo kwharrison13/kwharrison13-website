@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Azeem Azhar"
-related: []
+  - "Exponential View"
+  - "The Exponential View"
+related:
+  - "[[The State of Startup Media - Research]]"
 ---
 
 # Azeem Azhar

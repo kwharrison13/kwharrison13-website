@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Bill Gates"
-related: []
+  - "Gates Notes"
+related:
+  - "[[The State of Startup Media - Research]]"
 reference_count: 1
 ---
 

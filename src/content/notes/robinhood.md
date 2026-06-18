@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Robinhood"
-related: []
+  - "Robinhood Snacks"
+  - "Snacks"
+related:
+  - "[[The State of Startup Media - Research]]"
 ---
 
 # Robinhood
