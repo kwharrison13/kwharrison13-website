@@ -1,6 +1,6 @@
 ---
-title: "Airtable"
-type: "concept"
+title: "David Zhao"
+type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
@@ -10,15 +10,15 @@ sources:
   - "Roam Research daily-note export — August 18th, 2021 (Index Ventures sourcing/diligence log): ~/Downloads/August 18th, 2021.md"
 tags: []
 aliases:
-  - "Airtable"
+  - "David Zhao"
 related: []
 reference_count: 1
 ---
 
-# Airtable
+# David Zhao
 
 _Stub page — auto-generated from wikilink references in the August 18th, 2021 meeting notes. Not yet written. Referenced in **1** meeting page._
 
 ## Where this appears
 
-- August 18th, 2021 — Rob @ Cartooli on WhaleSync
+- August 18th, 2021 — LiveKit Questions (Kelly Toole)

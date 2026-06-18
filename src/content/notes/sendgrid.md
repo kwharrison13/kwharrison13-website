@@ -7,7 +7,7 @@ created: "2026-06-17"
 updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/November 2nd, 2021 — Riley Hughes (Trinsic).md"
+  - "wiki/books/Product Led Growth — The End User Era.md"
 tags: []
 aliases:
   - "SendGrid"
@@ -17,8 +17,8 @@ reference_count: 1
 
 # SendGrid
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page(s)._
+_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 
 ## Where this appears
 
-- November 2nd, 2021 — Riley Hughes (Trinsic)
+- [Product Led Growth — The End User Era](/books/product-led-growth-the-end-user-era)

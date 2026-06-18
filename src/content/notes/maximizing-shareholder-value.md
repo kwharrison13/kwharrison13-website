@@ -1,5 +1,5 @@
 ---
-title: "Airtable"
+title: "maximizing shareholder value"
 type: "concept"
 publish: false
 confidence: "low"
@@ -10,15 +10,15 @@ sources:
   - "Roam Research daily-note export — August 18th, 2021 (Index Ventures sourcing/diligence log): ~/Downloads/August 18th, 2021.md"
 tags: []
 aliases:
-  - "Airtable"
+  - "maximizing shareholder value"
 related: []
 reference_count: 1
 ---
 
-# Airtable
+# maximizing shareholder value
 
 _Stub page — auto-generated from wikilink references in the August 18th, 2021 meeting notes. Not yet written. Referenced in **1** meeting page._
 
 ## Where this appears
 
-- August 18th, 2021 — Rob @ Cartooli on WhaleSync
+- August 18th, 2021 — Valued Empyrean (Conor White-Sullivan & Darwin Harrison)

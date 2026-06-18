@@ -8,17 +8,28 @@ updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
   - "wiki/books/John Quincy Adams.md"
-tags: []
+  - "wiki/essays/We Need a Renaissance of Rhetoric.md"
+  - "wiki/essays-research/We Need a Renaissance of Rhetoric - Research.md"
+tags:
+  - "rhetoric"
+  - "language-of-discourse"
+  - "writing"
 aliases:
   - "Rhetoric"
-related: []
-reference_count: 1
+  - "Classical Rhetoric"
+related:
+  - "[[We Need a Renaissance of Rhetoric]]"
+  - "[[John Quincy Adams]]"
+  - "[[Thymos]]"
+  - "[[Linguistic Relativity]]"
+  - "[[Nuance]]"
 ---
 
 # Rhetoric
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+**One-line:** *Classical rhetoric — the study of the means by which the classic authors deployed the arts of persuasion (ethos, pathos, logos). Central to Kyle's [We Need a Renaissance of Rhetoric](/essays/we-need-a-renaissance-of-rhetoric): rhetoric as the battleground where language is sharpened into perspective, and the lost art whose decline leaves us exposed.*
 
 ## Where this appears
 
-- [John Quincy Adams](/books/john-quincy-adams)
+- [We Need a Renaissance of Rhetoric](/essays/we-need-a-renaissance-of-rhetoric) / We Need a Renaissance of Rhetoric - Research
+- [John Quincy Adams](/books/john-quincy-adams) — Adams taught classical rhetoric at Harvard and sought to "rescue this ancient art from its modern slumber."

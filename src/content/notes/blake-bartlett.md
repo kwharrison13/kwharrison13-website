@@ -1,5 +1,5 @@
 ---
-title: "Product Led Growth (PLG)"
+title: "Blake Bartlett"
 type: "concept"
 publish: false
 confidence: "low"
@@ -10,12 +10,12 @@ sources:
   - "wiki/books/Product Led Growth — The End User Era.md"
 tags: []
 aliases:
-  - "Product Led Growth (PLG)"
+  - "Blake Bartlett"
 related: []
 reference_count: 1
 ---
 
-# Product Led Growth (PLG)
+# Blake Bartlett
 
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 

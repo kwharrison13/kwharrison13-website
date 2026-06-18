@@ -1,5 +1,5 @@
 ---
-title: "Airtable"
+title: "Bubble"
 type: "concept"
 publish: false
 confidence: "low"
@@ -10,12 +10,12 @@ sources:
   - "Roam Research daily-note export — August 18th, 2021 (Index Ventures sourcing/diligence log): ~/Downloads/August 18th, 2021.md"
 tags: []
 aliases:
-  - "Airtable"
+  - "Bubble"
 related: []
 reference_count: 1
 ---
 
-# Airtable
+# Bubble
 
 _Stub page — auto-generated from wikilink references in the August 18th, 2021 meeting notes. Not yet written. Referenced in **1** meeting page._
 

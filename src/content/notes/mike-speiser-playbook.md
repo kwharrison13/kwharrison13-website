@@ -1,5 +1,5 @@
 ---
-title: "Product Led Growth (PLG)"
+title: "Mike Speiser Playbook"
 type: "concept"
 publish: false
 confidence: "low"
@@ -10,12 +10,12 @@ sources:
   - "wiki/books/Product Led Growth — The End User Era.md"
 tags: []
 aliases:
-  - "Product Led Growth (PLG)"
+  - "Mike Speiser Playbook"
 related: []
 reference_count: 1
 ---
 
-# Product Led Growth (PLG)
+# Mike Speiser Playbook
 
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 
