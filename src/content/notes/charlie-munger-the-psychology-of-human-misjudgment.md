@@ -100,9 +100,9 @@ A useful index of Munger's tendencies: [novelinvestor.com — Charlie Munger's T
   > **Kyle:** *Rome vs. Athens. We seem much more like Rome than Athens today (e.g. focused on the practical.)*
   - **Part of the problem is clearly foresight, a failure of imagination**. But the other part of the problem is what we didn't *do* in advance, and what we're failing to do now. And that is a failure of action, and specifically our widespread inability to *build*. [Marc Andreessen](/notes/marc-andreessen)
   - “Too many smart people go into finance and law. That's both a compliment and a criticism.” [Elon Musk](/notes/elon-musk)
-- It is interesting how the world's slavery was pretty well abolished during the last three centuries after being tolerated for a great many previous centuries during which it coexisted with the world's major religions. My guess is that Kantian Fairness Tendency was a major contributor to this result. #Veil of Ignorance
+- It is interesting how the world's slavery was pretty well abolished during the last three centuries after being tolerated for a great many previous centuries during which it coexisted with the world's major religions. My guess is that Kantian Fairness Tendency was a major contributor to this result. #[Veil of Ignorance](/notes/veil-of-ignorance)
   > **Kyle:** *While the fairness tendency doesn't actually seem to push for more fairness it made me think of three things:*
-    - The Veil of Ignorance: Designing a world where we don't know what we'll end up as will encourage you to make it as fair as possible.
+    - The [Veil of Ignorance](/notes/veil-of-ignorance): Designing a world where we don't know what we'll end up as will encourage you to make it as fair as possible.
     - Having [Empathy](/notes/empathy) for everyone: On why he's a vegetarian: "I can't imagine eating anything that had a mother." Fred Rogers
     - Acknowledging Humanity: Everyone is a person even when you're shooting at them #1914 Christmas Truce
 - Many big law firms, fearing disorder from envy/jealousy, have long treated all senior partners alike in compensation, no matter how different their contributions to firm welfare. As I have shared the observation of life with [Warren Buffett](/notes/warren-buffett) over decades, I have heard him wisely say on several occasions: **"It is not greed that drives the world, but envy."**

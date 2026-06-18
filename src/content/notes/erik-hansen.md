@@ -10,17 +10,18 @@ sources: []
 tags: []
 aliases:
   - "Erik Hansen"
-related: []
+related:
+  - "[[The Hardening Of The Great Softening - Research]]"
 ---
 
 # Erik Hansen
 
-_Stub. Mentioned across one or more book pages. Synthesis pending — fill on a future ingestion pass that reads the relevant source highlights._
+_Stub. Synthesis pending — fill on a future ingestion pass that reads the relevant source material._
 
 ## What we know
 
-_(nothing yet — placeholder for future passes)_
+- A conversation partner of Kyle's whose wide-ranging discussion on work, ambition, and American decline became the seed braindump for the essay [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening) (see The Hardening Of The Great Softening - Research).
 
 ## Mentioned in
 
-_(auto-populated by lint)_
+- The Hardening Of The Great Softening - Research — the "Conversation with Erik Hansen" notes that fed the essay.

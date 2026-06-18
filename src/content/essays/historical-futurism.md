@@ -176,7 +176,7 @@ While there may be a shortage of optimistic dreaming in the general popular cult
 
 There is just such a wealth out there of side-pocket ideas concocted by people desperate to dream of a different future. They're not dulling their imaginations with Murder docudramas, endless political culture wars, and celebrity gossip. There are people out there that have more fun trying to make up realistic renditions of how the world can actually get better.
 
-I can't capture everything, but I try and track interesting notes on things to read, watch, listen to, etc. as I seek to build the literature of dreaming. Again, some of these *are* dystopian versions. But I really do believe we can learn as much from what could be as we can from what we hope will never be. If you're interested in more, I keep track of it [on my personal website here.](https://kwharrison13.com/68399e59df28457388fefa22ee05bed4)
+I can't capture everything, but I try and track interesting notes on things to read, watch, listen to, etc. as I seek to build the literature of dreaming. Again, some of these *are* dystopian versions. But I really do believe we can learn as much from what could be as we can from what we hope will never be. If you're interested in more, I keep track of it [on my personal website here.](https://www.kwharrison13.com/articles)
 
 So we've got some foundational futures to look up to, and a wealth of literature that can inspire dreams of what the world can be. What are we missing? The dreamers.
 

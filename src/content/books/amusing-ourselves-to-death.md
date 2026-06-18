@@ -29,6 +29,7 @@ Postman's media-ecology argument read with a recurring contemporary update — p
 - [The Death of Expertise](/books/the-death-of-expertise) — same democratic-epistemology question.
 - [Brave New World](/books/brave-new-world) — Huxley/Postman pairing on entertainment-as-control.
 - [Romney — A Reckoning](/books/romney-a-reckoning) — educated-electorate thread.
+- [The Invention of Russia](/books/the-invention-of-russia) — the entertainment-vs-information thesis applied to Russian state TV; Kyle's marginalia on both asks "Does our media inform? Or entertain?"
 <!-- /interconnections -->
 
 ## Highlights

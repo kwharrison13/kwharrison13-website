@@ -4,13 +4,14 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-17"
 last_updated_by: "agent"
 sources: []
 tags: []
 aliases:
   - "Capital Allocation"
-related: []
+related:
+  - "[[Capital Allocator Mindset]]"
 ---
 
 # Capital Allocation
