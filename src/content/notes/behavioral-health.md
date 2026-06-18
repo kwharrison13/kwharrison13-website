@@ -8,6 +8,7 @@ updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
+  - "Roam Research daily-note export — September 17th, 2021 (Index Ventures sourcing/diligence log): ~/Downloads/September 17th, 2021.md"
 tags:
   - "behavioral-health"
   - "mental-health"
@@ -16,6 +17,7 @@ tags:
 aliases:
   - "Behavioral Health"
 related:
+  - "[[September 17th, 2021 — Darwin Harrison (Valued Empyrean — Behavioral Health)]]"
   - "[[September 22nd, 2021 — Adam Chekroud (Spring Health)]]"
   - "[[September 22nd, 2021 — Nicole Kleiman-Reck (Grow Therapy)]]"
   - "[[Spring Health]]"
@@ -37,6 +39,7 @@ related:
 
 ## Where it shows up
 
+- September 17th, 2021 — Darwin Harrison (Valued Empyrean — Behavioral Health) — provider/clinic economics: group-therapy margins, front/mid/back-office breakdown, and the [Business-in-a-Box](/notes/business-in-a-box) outsourcing question at [Valued Empyrean](/notes/valued-empyrean).
 - September 22nd, 2021 — Adam Chekroud (Spring Health) — employer-benefit / outcomes view from Spring Health.
 - September 22nd, 2021 — Nicole Kleiman-Reck (Grow Therapy) — provider-side view via Grow Therapy.
 
