@@ -14,6 +14,7 @@ aliases:
   - "Eric Tarczynski"
 related:
   - "[[April 5th, 2022 — Frederik Gieschen & Eric Tarczynski (Contrary Research)]]"
+  - "[[March 5th, 2020 — Eric Tarczynski (Contrary Capital)]]"
 ---
 
 # Eric Tarczynski
@@ -22,4 +23,5 @@ related:
 
 ## Mentioned in
 
+- March 5th, 2020 — Eric Tarczynski (Contrary Capital) — early reference call during Kyle's [Teamshares](/notes/teamshares) diligence; on SaaS roll-ups ([Turn River Capital](/notes/turn-river-capital)) and the stay-the-course-vs-jump tradeoff.
 - April 5th, 2022 — Frederik Gieschen & Eric Tarczynski (Contrary Research)

@@ -11,14 +11,17 @@ sources:
 tags: []
 aliases:
   - "Kyle Gay"
-related: []
-reference_count: 1
+related:
+  - "[[March 5th, 2020 — Kyle Gay (Kensington Permanent Capital)]]"
+  - "[[Kensington Permanent Capital]]"
+reference_count: 2
 ---
 
 # Kyle Gay
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **2** wiki pages._
 
 ## Where this appears
 
+- March 5th, 2020 — Kyle Gay (Kensington Permanent Capital) — deep dive on SMB-buyout economics, ESOP roll-ups, fundless sponsors, and platform strategy during Kyle's [Teamshares](/notes/teamshares) diligence.
 - March 30th, 2022 — Kyle Gay (Kensington Permanent Capital)

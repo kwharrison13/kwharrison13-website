@@ -13,8 +13,10 @@ tags:
   - "company"
 aliases:
   - "Contrary"
+  - "Contrary Capital"
 related:
   - "[[September 13th, 2022 — Harry Stebbings Podcast]]"
+  - "[[March 5th, 2020 — Eric Tarczynski (Contrary Capital)]]"
 ---
 
 # Contrary

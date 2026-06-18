@@ -17,6 +17,7 @@ related:
   - "[[September 17th, 2021 — Zach Edwards (Clearstone Associates)]]"
   - "[[Clearstone Associates]]"
   - "[[April 5th, 2022 — Intro to Nick Anger & Brian Blair (RBC)]]"
+  - "[[March 5th, 2020 — Zach Edwards (Lead Edge Capital)]]"
 ---
 
 # Zach Edwards
@@ -25,5 +26,6 @@ related:
 
 ## Mentioned in
 
+- March 5th, 2020 — Zach Edwards (Lead Edge Capital) — Teamshares reference call (listed at [Lead Edge Capital](/notes/lead-edge-capital)); conviction-and-creativity framing on leaving Coatue. *[Possibly a different Zach Edwards than the Clearstone/RBC entries below — verify before merging.]*
 - September 17th, 2021 — Zach Edwards (Clearstone Associates) — call at [Clearstone Associates](/notes/clearstone-associates) on diversity-focused products and secularism; recommended [A Secular Age](/notes/a-secular-age) and [The Coddling of the American Mind](/notes/the-coddling-of-the-american-mind).
 - April 5th, 2022 — Intro to Nick Anger & Brian Blair (RBC)
