@@ -13,14 +13,15 @@ tags: []
 aliases:
   - "Nina Achadjian"
 related: []
-reference_count: 2
+reference_count: 3
 ---
 
 # Nina Achadjian
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **2** wiki page(s)._
+_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **3** wiki page(s)._
 
 ## Where this appears
 
 - [December 13th, 2021 — NCX Partner Presentation](/notes/december-13th-2021-ncx-partner-presentation)
 - December 13th, 2021 — Seso (Series A)
+- September 22nd, 2021 — Nina Achadjian (Index Ventures) — deal review across [Arrow XYZ](/notes/arrow-xyz), [Monograph](/notes/monograph), and [Openspace.ai](/notes/openspace-ai).

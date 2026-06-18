@@ -26,6 +26,7 @@ related:
   - "[[Alkeon]]"
   - "[[Tenaya Capital]]"
   - "[[Advent International]]"
+  - "[[September 22nd, 2021 — API Security Transcript (Salt Security)]]"
 ---
 
 # Salt Security
@@ -52,6 +53,7 @@ related:
 ## Where it shows up
 
 - Salt Security Diligence — 2021 — full investment diligence dossier, September–October 2021.
+- September 22nd, 2021 — API Security Transcript (Salt Security) — annotated API-security transcript framing Salt's full-encapsulation approach vs. [Snyk](/notes/snyk), [Postman](/notes/postman), and the API firewall players.
 
 ## Related concepts
 

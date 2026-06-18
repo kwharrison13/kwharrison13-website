@@ -17,6 +17,8 @@ aliases:
 related:
   - "[[September 22nd, 2021 — Nina Achadjian (Index Ventures)]]"
   - "[[Nina Achadjian]]"
+  - "[[Buildots]]"
+  - "[[November 8th, 2021 — Buildots (from Molly Alter)]]"
 ---
 
 # Openspace.ai
@@ -30,7 +32,9 @@ related:
 ## Where it shows up
 
 - September 22nd, 2021 — Nina Achadjian (Index Ventures) — deal reviewed with Nina Achadjian.
+- November 8th, 2021 — Buildots (from Molly Alter) — named as a competitor to [Buildots](/notes/buildots) (more granular, operational data).
 
 ## Related concepts
 
 - [Nina Achadjian](/notes/nina-achadjian) — reviewed the deal.
+- [Buildots](/notes/buildots) — competing construction-tech tool.
