@@ -30,7 +30,7 @@ _Stub page — created from [What Is An Investor - Research](/notes/what-is-an-i
 
 ## What we know
 
-- Author of [The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing](/books/the-success-equation-untangling-skill-and-luck-in-business-sports-and-investing). (source: [What Is An Investor - Research](/notes/what-is-an-investor-research))
+- Author of [The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing](/notes/the-success-equation). (source: [What Is An Investor - Research](/notes/what-is-an-investor-research))
 - His HBR summary [Untangling Skill and Luck](https://hbr.org/2011/02/untangling-skill-and-luck) frames two moves: find performance measures that reflect *skill* (process over outcome), and locate an activity on the continuum from pure skill to pure luck.
 - Argues many compensation programs (e.g. employee stock options) end up paying for randomness rather than skill.
 - See [Skill vs. Luck](/notes/skill-vs-luck).

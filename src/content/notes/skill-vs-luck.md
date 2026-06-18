@@ -41,4 +41,4 @@ related:
 ## Related concepts
 
 - [Knightian Uncertainty](/notes/knightian-uncertainty) — high uncertainty leaves more room for skill to create an edge.
-- [The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing](/books/the-success-equation-untangling-skill-and-luck-in-business-sports-and-investing)
+- [The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing](/notes/the-success-equation)

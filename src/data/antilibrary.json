@@ -557,6 +557,42 @@
     "slug": "the-selfish-gene"
   },
   {
+    "title": "The Success Equation",
+    "full_title": "The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing",
+    "author": "Michael J. Mauboussin",
+    "published": "2012",
+    "pages": 320,
+    "amazon_url": "https://www.amazon.com/s?k=The+Success+Equation+Untangling+Skill+and+Luck+Michael+Mauboussin",
+    "where_seen": [
+      "Recommended by Kevin Gao in the May 2022 'what is an investor?' conversation captured in What Is An Investor - Research (Kevin's go-to text on skill vs. luck)."
+    ],
+    "connections": [
+      {
+        "title": "Michael Mauboussin",
+        "url": "/notes/michael-mauboussin"
+      },
+      {
+        "title": "Skill vs. Luck",
+        "url": "/notes/skill-vs-luck"
+      },
+      {
+        "title": "Knightian Uncertainty",
+        "url": "/notes/knightian-uncertainty"
+      },
+      {
+        "title": "What Is An Investor - Research",
+        "url": "/notes/what-is-an-investor-research"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "investing",
+      "capital-allocation",
+      "skill-vs-luck"
+    ],
+    "slug": "the-success-equation"
+  },
+  {
     "title": "The Third Chimpanzee",
     "full_title": "The Third Chimpanzee: The Evolution and Future of the Human Animal",
     "author": "Jared Diamond",

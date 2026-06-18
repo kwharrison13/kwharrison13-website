@@ -24,5 +24,5 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - [The Power Law — Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future)
-- [The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing](/books/the-success-equation-untangling-skill-and-luck-in-business-sports-and-investing)
+- [The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing](/notes/the-success-equation)
 - [What Is An Investor](/essays/what-is-an-investor)
