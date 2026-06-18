@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 /**
- * Wiki concepts + people + long-forms + books-to-read → src/content/notes sync.
+ * Wiki concepts + people + long-reads + books-to-read → src/content/notes sync.
  * (gospel-study is intentionally excluded — kept private like meetings.)
  *
- * Mirrors EVERY page in ~/kwharrison13-wiki/wiki/{concepts,people,long-forms}/
+ * Mirrors EVERY page in ~/kwharrison13-wiki/wiki/{concepts,people,long-reads}/
  * into src/content/notes/<slug>.md (regardless of publish state) so URLs
  * always resolve. The /notes/[slug].astro route then decides whether to show
  * the full content (publish: true) or a "private note" landing (publish: false).
@@ -30,7 +30,7 @@ const WIKI_ROOT = path.join(os.homedir(), 'kwharrison13-wiki');
 const WIKI_DIRS = [
   path.join(WIKI_ROOT, 'wiki', 'concepts'),
   path.join(WIKI_ROOT, 'wiki', 'people'),
-  path.join(WIKI_ROOT, 'wiki', 'long-forms'),
+  path.join(WIKI_ROOT, 'wiki', 'long-reads'),
   path.join(WIKI_ROOT, 'wiki', 'books-to-read'),
   // NOTE: wiki/gospel-study is intentionally NOT synced. Like wiki/meetings,
   // gospel-study pages stay private to the wiki and are never mirrored to the

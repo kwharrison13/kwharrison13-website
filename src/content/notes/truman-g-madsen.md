@@ -25,12 +25,12 @@ related:
 
 ## What we know
 
-- Delivered a celebrated series of lectures on the life and character of [Joseph Smith](/notes/joseph-smith) at Brigham Young University; the second, [Joseph Smith Lecture 2 — Joseph's Personality and Character](/notes/joseph-smith-lecture-2-joseph-s-personality-and-character), was published August 22, 1978 (source: [speeches.byu.edu](https://speeches.byu.edu/talks/truman-g-madsen/joseph-smiths-personality-and-character/)).
+- Delivered a celebrated series of lectures on the life and character of [Joseph Smith](/notes/joseph-smith) at Brigham Young University; the second, Joseph Smith Lecture 2 — Joseph's Personality and Character, was published August 22, 1978 (source: [speeches.byu.edu](https://speeches.byu.edu/talks/truman-g-madsen/joseph-smiths-personality-and-character/)).
 - In that lecture he draws heavily on contemporaneous accounts and primary sources — Mother Smith's history, *Teachings of the Prophet Joseph Smith* (*TPJS*), the *History of the Church* (*HC*), the *Journal of Discourses* (*JD*), and dozens of journals and recollections — to portray Joseph "the man" rather than the prophet.
 
 ## Mentioned in
 
-- [Joseph Smith Lecture 2 — Joseph's Personality and Character](/notes/joseph-smith-lecture-2-joseph-s-personality-and-character) — author of the lecture.
+- Joseph Smith Lecture 2 — Joseph's Personality and Character — author of the lecture.
 
 ## Open questions
 

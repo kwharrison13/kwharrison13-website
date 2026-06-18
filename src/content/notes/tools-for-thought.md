@@ -27,4 +27,4 @@ _Stub page — auto-generated from wikilink references. Not yet fully written._
 ## Where this appears
 
 - August 18th, 2021 — Valued Empyrean (Conor White-Sullivan & Darwin Harrison)
-- [Why Books Don't Work](/notes/why-books-don-t-work) — [Andy Matuschak](/notes/andy-matuschak) & [Michael Nielsen](/notes/michael-nielsen)'s program of designing new mediums for understanding (e.g. Quantum Country).
+- Why Books Don't Work — [Andy Matuschak](/notes/andy-matuschak) & [Michael Nielsen](/notes/michael-nielsen)'s program of designing new mediums for understanding (e.g. Quantum Country).

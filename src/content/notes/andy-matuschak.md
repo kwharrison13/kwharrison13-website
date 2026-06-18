@@ -28,13 +28,13 @@ related:
 
 ## What we know
 
-- Author of "Why Books Don't Work" (2019), which argues that books and lectures lack any functioning cognitive model and accidentally evolved around [Transmissionism](/notes/transmissionism). (source: [Why Books Don't Work](/notes/why-books-don-t-work))
-- Collaborates with [Michael Nielsen](/notes/michael-nielsen) on a broader research program in [Tools For Thought](/notes/tools-for-thought); together they built Quantum Country, a "book" on quantum computation that interleaves prose with [Spaced Repetition](/notes/spaced-repetition) review sessions. (source: [Why Books Don't Work](/notes/why-books-don-t-work))
-- Quotable on his own focus: *"I spend a lot of time thinking about why knowledge workers don't spend very much time thinking about knowledge work."* (source: [Why Books Don't Work](/notes/why-books-don-t-work))
+- Author of "Why Books Don't Work" (2019), which argues that books and lectures lack any functioning cognitive model and accidentally evolved around [Transmissionism](/notes/transmissionism). (source: Why Books Don't Work)
+- Collaborates with [Michael Nielsen](/notes/michael-nielsen) on a broader research program in [Tools For Thought](/notes/tools-for-thought); together they built Quantum Country, a "book" on quantum computation that interleaves prose with [Spaced Repetition](/notes/spaced-repetition) review sessions. (source: Why Books Don't Work)
+- Quotable on his own focus: *"I spend a lot of time thinking about why knowledge workers don't spend very much time thinking about knowledge work."* (source: Why Books Don't Work)
 
 ## Mentioned in
 
-- [Why Books Don't Work](/notes/why-books-don-t-work) — author; the essay is the primary source for this page.
+- Why Books Don't Work — author; the essay is the primary source for this page.
 
 ## Open questions
 
