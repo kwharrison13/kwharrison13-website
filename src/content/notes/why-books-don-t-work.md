@@ -2,7 +2,7 @@
 title: "Why Books Don't Work"
 type: "longform"
 format: "article"
-publish: false
+publish: true
 author: "Andy Matuschak"
 url: "https://andymatuschak.org/books/"
 source_published: "2019-05-11"
