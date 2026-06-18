@@ -8,7 +8,7 @@ tags:
   - "historical-futurism"
   - "language-of-discourse"
   - "people-over-politics"
-last_imported: "2026-06-17"
+last_imported: "2026-06-18"
 key_takeaways_status: "written"
 ---
 

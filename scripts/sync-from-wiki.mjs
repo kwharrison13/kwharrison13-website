@@ -201,7 +201,14 @@ function getResolver() {
       // bookSlug(title) — e.g. title "Investing 101 2.0" lives at /essays/coming-soon.
       // Using bookSlug(title) would invent a non-existent route and could collide
       // with a same-named concept's slug, tripping the heal pass into a broken link.
-      const slug = kind === 'essays' && fm.website_slug ? fm.website_slug : bookSlug(title);
+      // Essays and books can both pin a website_slug that diverges from
+      // bookSlug(title) — e.g. a book whose page title is the full subtitle
+      // ("Evicted: Poverty and Profit in the American City") but whose URL
+      // stays /books/evicted. Concept/people pages always derive from title.
+      const slug =
+        (kind === 'essays' || kind === 'books') && fm.website_slug
+          ? fm.website_slug
+          : bookSlug(title);
       const stem = f.replace(/\.md$/, '');
       const names = new Set([stem, title]);
       if (Array.isArray(fm.aliases)) for (const a of fm.aliases) names.add(a);
@@ -311,8 +318,14 @@ function syncBook(wikiFile) {
 
   // Wiki filenames are now title-case (e.g. "Berkshire Hathaway Annual Letters.md").
   // Derive the website's kebab-case slug from the frontmatter title.
+  // A book may pin website_slug to keep a short URL while the page title is the
+  // full subtitle (e.g. /books/evicted with title "Evicted: Poverty and Profit…").
   const wikiBasename = path.basename(wikiFile, '.md');
-  const slug = wfm.title ? bookSlug(wfm.title) : bookSlug(wikiBasename);
+  const slug = wfm.website_slug
+    ? wfm.website_slug
+    : wfm.title
+    ? bookSlug(wfm.title)
+    : bookSlug(wikiBasename);
 
   if (wfm.publish !== true) {
     return { slug, action: 'skipped', reason: 'publish: false' };
