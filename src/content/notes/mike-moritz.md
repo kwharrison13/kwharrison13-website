@@ -10,6 +10,7 @@ sources: []
 tags: []
 aliases:
   - "Mike Moritz"
+  - "Michael Moritz"
 related: []
 ---
 
