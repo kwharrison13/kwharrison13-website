@@ -1,5 +1,5 @@
 ---
-title: "Openspace.ai"
+title: "Monograph"
 type: "concept"
 publish: false
 confidence: "low"
@@ -9,23 +9,23 @@ last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
 tags:
-  - "construction-tech"
-  - "computer-vision"
-  - "sourcing-call"
+  - "vertical-saas"
+  - "architecture"
+  - "saas"
 aliases:
-  - "Openspace.ai"
+  - "Monograph"
 related:
   - "[[September 22nd, 2021 — Nina Achadjian (Index Ventures)]]"
   - "[[Nina Achadjian]]"
 ---
 
-# Openspace.ai
+# Monograph
 
-**One-line definition:** *Construction-site photo-documentation tool; competes in a crowded market (drones, crane cameras, robots) — defensibility and greenfield-vs-switching were the open questions.*
+**One-line definition:** *Practice-management software for architecture firms; priced at $120K and got $120M post (per [Nina Achadjian](/notes/nina-achadjian)).*
 
 ## How sources describe it
 
-- Construction-site photo-documentation tool; competes in a crowded market (drones, crane cameras, robots) — defensibility and greenfield-vs-switching were the open questions. (September 22nd, 2021 — Nina Achadjian (Index Ventures))
+- Practice-management software for architecture firms; priced at $120K and got $120M post (per [Nina Achadjian](/notes/nina-achadjian)). (September 22nd, 2021 — Nina Achadjian (Index Ventures))
 
 ## Where it shows up
 

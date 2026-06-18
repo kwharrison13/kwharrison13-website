@@ -1,5 +1,5 @@
 ---
-title: "SonderMind"
+title: "Headway"
 type: "concept"
 publish: false
 confidence: "low"
@@ -13,20 +13,20 @@ tags:
   - "provider-infrastructure"
   - "marketplace"
 aliases:
-  - "SonderMind"
+  - "Headway"
 related:
   - "[[September 22nd, 2021 — Adam Chekroud (Spring Health)]]"
   - "[[Behavioral Health]]"
-  - "[[Headway]]"
+  - "[[SonderMind]]"
 ---
 
-# SonderMind
+# Headway
 
-**One-line definition:** *Provider-infrastructure / group-practice enablement for therapists (credentialing, billing, paneling under the org).*
+**One-line definition:** *Provider-infrastructure marketplace handling insurance credentialing and billing for therapists.*
 
 ## How sources describe it
 
-- One of the infrastructure providers (with Alma, [Headway](/notes/headway)) that panels providers to bill insurance and pays them quickly — sometimes fronting money before insurance pays, a worse working-capital dynamic; lacks the employer channel. (September 22nd, 2021 — Adam Chekroud (Spring Health))
+- Grouped with Alma and [SonderMind](/notes/sondermind) as infrastructure providers that acquire consumers (rising CAC), panel providers, and pay out claims; capture only one part of the value chain and lack the employer channel. (September 22nd, 2021 — Adam Chekroud (Spring Health))
 
 ## Where it shows up
 
@@ -34,5 +34,5 @@ related:
 
 ## Related concepts
 
-- [Headway](/notes/headway) — same model.
+- [SonderMind](/notes/sondermind) — same model.
 - [Behavioral Health](/notes/behavioral-health) — its market.

@@ -7,18 +7,29 @@ created: "2026-06-17"
 updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/November 2nd, 2021 — Dallin Bills (Battery Ventures).md"
-tags: []
+  - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
+tags:
+  - "venture-capital"
+  - "growth-equity"
 aliases:
   - "Meritech"
-related: []
-reference_count: 1
+related:
+  - "[[September 22nd, 2021 — Ganesh Pai (Uptycs)]]"
+  - "[[Uptycs]]"
 ---
 
 # Meritech
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page(s)._
+**One-line definition:** *Growth-stage VC; Dave Zimbelman reached out to [Ganesh Pai](/notes/ganesh-pai) about [Uptycs](/notes/uptycs) (knew him from Comcast).*
 
-## Where this appears
+## How sources describe it
 
-- November 2nd, 2021 — Dallin Bills (Battery Ventures)
+- Growth-stage VC; Dave Zimbelman reached out to [Ganesh Pai](/notes/ganesh-pai) about [Uptycs](/notes/uptycs) (knew him from Comcast). (September 22nd, 2021 — Ganesh Pai (Uptycs))
+
+## Where it shows up
+
+- September 22nd, 2021 — Ganesh Pai (Uptycs) — inbound interest in Uptycs.
+
+## Related concepts
+
+- [Uptycs](/notes/uptycs) — fundraising interest.

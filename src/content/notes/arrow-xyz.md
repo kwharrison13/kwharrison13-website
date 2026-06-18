@@ -1,5 +1,5 @@
 ---
-title: "Openspace.ai"
+title: "Arrow XYZ"
 type: "concept"
 publish: false
 confidence: "low"
@@ -9,23 +9,24 @@ last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
 tags:
-  - "construction-tech"
-  - "computer-vision"
+  - "vertical-saas"
+  - "automotive"
+  - "crm"
   - "sourcing-call"
 aliases:
-  - "Openspace.ai"
+  - "Arrow XYZ"
 related:
   - "[[September 22nd, 2021 — Nina Achadjian (Index Ventures)]]"
   - "[[Nina Achadjian]]"
 ---
 
-# Openspace.ai
+# Arrow XYZ
 
-**One-line definition:** *Construction-site photo-documentation tool; competes in a crowded market (drones, crane cameras, robots) — defensibility and greenfield-vs-switching were the open questions.*
+**One-line definition:** *Vertical SaaS for car dealerships that can sit on top of the CRM as a "Trojan horse"; ~40% of dealerships already use something.*
 
 ## How sources describe it
 
-- Construction-site photo-documentation tool; competes in a crowded market (drones, crane cameras, robots) — defensibility and greenfield-vs-switching were the open questions. (September 22nd, 2021 — Nina Achadjian (Index Ventures))
+- [Nina Achadjian](/notes/nina-achadjian)'s diligence questions — ~40% of dealerships already use something; the product can sit on top of the CRM as a Trojan horse; she wouldn't go above $100M post; open questions on monthly contracts and tech-team quality; reconciling why a dealership would buy a second CRM unless switching. (September 22nd, 2021 — Nina Achadjian (Index Ventures))
 
 ## Where it shows up
 

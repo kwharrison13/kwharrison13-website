@@ -8,17 +8,33 @@ updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Product Led Growth — The End User Era.md"
-tags: []
+  - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
+tags:
+  - "plg"
+  - "scheduling"
+  - "gtm"
+  - "saas"
 aliases:
   - "Calendly"
-related: []
-reference_count: 1
+related:
+  - "[[September 22nd, 2021 — Sunil Patro (SignEasy)]]"
+  - "[[SignEasy]]"
+  - "[[Loom]]"
 ---
 
 # Calendly
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+**One-line definition:** *Bottoms-up scheduling tool cited as a GTM/virality comparable — attracts decision-makers by serving their own productivity.*
 
-## Where this appears
+## How sources describe it
 
+- [Sunil Patro](/notes/sunil-patro) compared [SignEasy](/notes/signeasy)'s GTM to Calendly and [Loom](/notes/loom) — products that attract many decision-makers by serving individual productivity. (September 22nd, 2021 — Sunil Patro (SignEasy))
+
+## Where it shows up
+
+- September 22nd, 2021 — Sunil Patro (SignEasy) — GTM comparable.
 - [Product Led Growth — The End User Era](/books/product-led-growth-the-end-user-era)
+
+## Related concepts
+
+- [Loom](/notes/loom) — same bottoms-up GTM motion
