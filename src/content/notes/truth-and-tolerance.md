@@ -25,7 +25,7 @@ reference_count: 3
 
 # Truth and Tolerance
 
-_Auto-generated from wikilink references. The fullest treatment is [Dallin H. Oaks](/notes/dallin-h-oaks)'s BYU address Truth and Tolerance — Dallin H. Oaks, which frames the two as "twin ideas": belief in Absolute Truth makes Tolerance harder, not easier, and for believers tolerance is "a two-sided coin" — respect on one side, truth always on the other. Referenced in **2** wiki pages._
+_Auto-generated from wikilink references. The fullest treatment is [Dallin H. Oaks](/notes/dallin-h-oaks)'s BYU address Truth and Tolerance — Dallin H. Oaks, which frames the two as "twin ideas": belief in [Absolute Truth](/notes/absolute-truth) makes [Tolerance](/notes/tolerance) harder, not easier, and for believers tolerance is "a two-sided coin" — respect on one side, truth always on the other. Referenced in **2** wiki pages._
 
 ## Where this appears
 

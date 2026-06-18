@@ -76,7 +76,7 @@ related:
     - Montessori-educated kids had different patterns of behavior and brain activity than kids that went to traditional schools
         - "Montessori students were more effective at directing their own learning, and by adolescence were much faster and more likely to correct their own mistakes."
     - [Growth Mindset](/notes/growth-mindset) #A List of All Major Psyc... (highlights)
-        - "Belief that one's ability and knowledge are capable of evolving." Carol Dweck
+        - "Belief that one's ability and knowledge are capable of evolving." [Carol Dweck](/notes/carol-dweck)
 - [Education](/notes/education)
     - Samuel Reed Hall outlined some impediments to Teaching in "Lectures on School Keeping"
         - Lack of supplies
@@ -85,7 +85,7 @@ related:
         - Poor remuneration of qualified teachers
     - John Dewey: Advocated against an authoritarian classroom and argued for one pragmatically relevant to students lives
     - Maria Montessori: Stressed the development of a child's own initiative and natural ability #Montessori
-    - Jean Piaget: Multiple Intelligences
+    - Jean Piaget: [Multiple Intelligences](/notes/multiple-intelligences)
     - "We have solid research going back 50 or 60 years that establishes how a teacher might boost student learning. But many teacher educators reject out of hand a method that will work with 95% of the kids because of the 5%--they fervently believe in the uniqueness of every child. Some of that attitude is grounded in a romanticism dating back to 18th century Swiss Philosopher Jean-Jacques Rousseau, **a distrust of formal education for threatening children's true and good natural state. It's a kind of anti-intellectualism that almost disdains** [Knowledge](/notes/knowledge) as if it were Trivial Pursuit and not something that has engaged the human mind since the beginning of time." Kate Walsh, National Council on Teacher Quality
     - "Students learn best by building on ideas they already know, which is why 'a well-sequenced [Curriculum](/notes/curriculum)' is crucial. Burdening students with too much information at once, meanwhile, can cause a kind of cognitive overload." Daniel Willingham
 
@@ -93,6 +93,6 @@ related:
 
 - [Learning](/notes/learning) · [Education](/notes/education) · [Parenting](/notes/parenting) — the core topics this piece sits across.
 - 10,000 Hour Rule — the source explicitly pushes back on the popular framing.
-- [Growth Mindset](/notes/growth-mindset) / Carol Dweck — belief that ability and knowledge can evolve.
+- [Growth Mindset](/notes/growth-mindset) / [Carol Dweck](/notes/carol-dweck) — belief that ability and knowledge can evolve.
 - [Cal Newport](/notes/cal-newport) — sustained attention / deep concentration as a prerequisite for learning.
 - Montessori · Maria Montessori · John Dewey · Jean Piaget — the reform lineage in education.

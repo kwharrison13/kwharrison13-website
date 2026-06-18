@@ -24,8 +24,8 @@ related:
 
 ## How it shows up
 
-- Tracked via [Dan Rasmussen](/notes/dan-rasmussen)'s research in Kyle's 2017 inventory (source: The State of Startup Media - Research).
+- Tracked via [Dan Rasmussen](/notes/dan-rasmussen)'s research in Kyle's 2017 inventory (source: [The State of Startup Media - Research](/notes/the-state-of-startup-media-research)).
 
 ## Where it shows up
 
-- The State of Startup Media - Research — *Verdad Advisors, Dan Rasmussen* in the 2017 inventory.
+- [The State of Startup Media - Research](/notes/the-state-of-startup-media-research) — *Verdad Advisors, Dan Rasmussen* in the 2017 inventory.

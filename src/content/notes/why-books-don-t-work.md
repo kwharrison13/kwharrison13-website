@@ -51,7 +51,7 @@ related:
 
 _Kyle's own takeaways from the read, preserved._
 
-- The ways we learn are not nearly well understood. There is a lot of [Self-Reflection](/notes/self-reflection) that ought to occur in everyone's life to best identify their learning preferences. #Multiple Intelligences
+- The ways we learn are not nearly well understood. There is a lot of [Self-Reflection](/notes/self-reflection) that ought to occur in everyone's life to best identify their learning preferences. #[Multiple Intelligences](/notes/multiple-intelligences)
 - Learning is a skill that is honed and practiced — an idea that does not receive enough attention. You can only get good at [Metacognition](/notes/metacognition) if you practice. As Matuschak puts it: *"I spend a lot of time thinking about why knowledge workers don't spend very much time thinking about knowledge work."*
 - There is an opportunity to invent new mediums that can be as impactful as books originally were. TikTok-style education could be a revolutionary form of learning (e.g. the reason Camden likes sharonsayso on Instagram).
 
@@ -62,7 +62,7 @@ _Kyle's own takeaways from the read, preserved._
 - Understanding that we don't "absorb knowledge by reading sentences."
 - Lectures, as a medium, have no carefully-considered cognitive model at their foundation. Yet if we were aliens observing typical lectures from afar, we might notice the *implicit* model they appear to share: "the lecturer says words describing an idea; the class hears the words and maybe scribbles in a notebook; then the class understands the idea." In learning sciences, we call this model "[Transmissionism](/notes/transmissionism)." **It's the notion that knowledge can be directly transmitted from teacher to student, like transcribing text from one page onto another.** If only! The idea is so thoroughly discredited that "transmissionism" is only used pejoratively, in reference to naive historical teaching practices. Or as an ad-hominem in juicy academic spats.
 
-### Mediums of Education #Multiple Intelligences
+### Mediums of Education #[Multiple Intelligences](/notes/multiple-intelligences)
 
 - **Books don't work for the same reason that lectures don't work: neither medium has any explicit theory of how people actually learn things, and as a result, both mediums accidentally (and mostly invisibly) evolved around a theory that's plainly false.**
   > **Kyle:** *We don't spend enough time thinking about the proper modes of learning that best fit the person.*
@@ -121,4 +121,4 @@ Courses provide things books and lectures don't:
 - [How To Take Smart Notes](/books/how-to-take-smart-notes) — the active-reading practice (summarize, synthesize, analyze rather than transcribe) that Matuschak says distinguishes readers who *do* absorb books.
 - [Made To Stick](/books/made-to-stick) — Kyle links the spaced review sessions to its stickiness principles.
 - [Sapiens](/books/sapiens) — Kyle's example of "authorial voice" / emotional salience carrying a book.
-- Multiple Intelligences — the lens Kyle reads the piece through: matching mediums to how a given person learns.
+- [Multiple Intelligences](/notes/multiple-intelligences) — the lens Kyle reads the piece through: matching mediums to how a given person learns.

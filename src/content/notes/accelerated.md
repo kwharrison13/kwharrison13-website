@@ -25,8 +25,8 @@ related:
 
 ## How it shows up
 
-- Listed as *Accelerated by Justine & Olivia Moore* in Kyle's 2017 inventory (source: The State of Startup Media - Research).
+- Listed as *Accelerated by Justine & Olivia Moore* in Kyle's 2017 inventory (source: [The State of Startup Media - Research](/notes/the-state-of-startup-media-research)).
 
 ## Where it shows up
 
-- The State of Startup Media - Research — in the 2017 inventory of startup-media sources.
+- [The State of Startup Media - Research](/notes/the-state-of-startup-media-research) — in the 2017 inventory of startup-media sources.
