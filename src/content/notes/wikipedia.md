@@ -34,7 +34,7 @@ related:
 
 ## Where it shows up
 
-- Open-Source Knowledge - Research — canonical open-source-knowledge example.
+- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — canonical open-source-knowledge example.
 
 ## Related concepts
 

@@ -27,9 +27,9 @@ related:
 
 **Why it's on the list:** *The ninth and final book of The Expanse — the conclusion to the series that began with [Leviathan Wakes](/books/leviathan-wakes).*
 
-**Where I saw it:** Recommended during the NCX partner presentation on December 13th, 2021 — NCX Partner Presentation, flagged specifically as the sequel/finale to [Leviathan Wakes](/books/leviathan-wakes) (which is already read — see its book page).
+**Where I saw it:** Recommended during the NCX partner presentation on [December 13th, 2021 — NCX Partner Presentation](/notes/december-13th-2021-ncx-partner-presentation), flagged specifically as the sequel/finale to [Leviathan Wakes](/books/leviathan-wakes) (which is already read — see its book page).
 
 ## Connections
 
 - [Leviathan Wakes](/books/leviathan-wakes) — the first book of The Expanse; Leviathan Falls is the closing volume of the same series.
-- December 13th, 2021 — NCX Partner Presentation — the call where it was recommended.
+- [December 13th, 2021 — NCX Partner Presentation](/notes/december-13th-2021-ncx-partner-presentation) — the call where it was recommended.

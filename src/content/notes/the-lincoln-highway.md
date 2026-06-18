@@ -26,9 +26,9 @@ related:
 
 **Why it's on the list:** *Amor Towles' 1954-set road novel — four boys, ten days, and a cross-country trip that goes anywhere but as planned.*
 
-**Where I saw it:** Recommended during the NCX partner presentation on December 13th, 2021 — NCX Partner Presentation (shared as the Amazon listing link).
+**Where I saw it:** Recommended during the NCX partner presentation on [December 13th, 2021 — NCX Partner Presentation](/notes/december-13th-2021-ncx-partner-presentation) (shared as the Amazon listing link).
 
 ## Connections
 
 - [A Gentleman in Moscow](/notes/a-gentleman-in-moscow) — same author (Amor Towles), also recommended that day.
-- December 13th, 2021 — NCX Partner Presentation — the call where it was recommended.
+- [December 13th, 2021 — NCX Partner Presentation](/notes/december-13th-2021-ncx-partner-presentation) — the call where it was recommended.

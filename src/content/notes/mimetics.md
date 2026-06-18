@@ -25,7 +25,7 @@ related:
 
 ## How sources describe it
 
-- "[Mimetics](/notes/mimetics), which broadly describes the human tendency to mimic one another. There is a related but distinct concept of [Memetics](/notes/memetics), which is the study of ideas in terms of their efficacy in spreading through groups." ([Dan McMurtrie](/notes/dan-mcmurtrie), [Tyro Partners](/notes/tyro-partners) Q2 2021 letter, via Open-Source Knowledge - Research)
+- "[Mimetics](/notes/mimetics), which broadly describes the human tendency to mimic one another. There is a related but distinct concept of [Memetics](/notes/memetics), which is the study of ideas in terms of their efficacy in spreading through groups." ([Dan McMurtrie](/notes/dan-mcmurtrie), [Tyro Partners](/notes/tyro-partners) Q2 2021 letter, via [Open-Source Knowledge - Research](/notes/open-source-knowledge-research))
 
 ## Conflicts
 

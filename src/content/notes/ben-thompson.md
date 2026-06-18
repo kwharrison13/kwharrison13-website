@@ -30,4 +30,4 @@ related:
 
 ## Mentioned in
 
-- Open-Source Knowledge - Research — Stratechery as a depth vs. scale contrast.
+- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — Stratechery as a depth vs. scale contrast.

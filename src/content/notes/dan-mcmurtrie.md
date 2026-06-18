@@ -31,5 +31,5 @@ related:
 
 ## Mentioned in
 
-- Open-Source Knowledge - Research — "rivers and streams"; memetic player framework.
+- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — "rivers and streams"; memetic player framework.
 - [Open-Source Knowledge](/essays/open-source-knowledge) — quoted on identifying networks via Twitter.

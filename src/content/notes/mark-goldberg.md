@@ -22,4 +22,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - Pave Diligence — 2021
-- December 13th, 2021 — NCX Partner Presentation — partner review of [NCX](/notes/ncx): flagged the risks as asymmetric to the upside (customer concentration on [Microsoft](/notes/microsoft), depth of supply, technology and pricing risk).
+- [December 13th, 2021 — NCX Partner Presentation](/notes/december-13th-2021-ncx-partner-presentation) — partner review of [NCX](/notes/ncx): flagged the risks as asymmetric to the upside (customer concentration on [Microsoft](/notes/microsoft), depth of supply, technology and pricing risk).

@@ -25,11 +25,11 @@ related:
 
 ## How sources describe it
 
-- Source of [Business is the New Sports](https://www.notboring.co/p/business-is-the-new-sports): once people understand the game, they get invested in how it's played; "intrinsic motivation is the currency of the commons." (from Open-Source Knowledge - Research)
+- Source of [Business is the New Sports](https://www.notboring.co/p/business-is-the-new-sports): once people understand the game, they get invested in how it's played; "intrinsic motivation is the currency of the commons." (from [Open-Source Knowledge - Research](/notes/open-source-knowledge-research))
 
 ## Where it shows up
 
-- Open-Source Knowledge - Research — "Business is the New Sports."
+- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — "Business is the New Sports."
 
 ## Related concepts
 

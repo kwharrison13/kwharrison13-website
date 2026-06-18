@@ -28,4 +28,4 @@ related:
 
 ## Mentioned in
 
-- Open-Source Knowledge - Research — author of a core source on content decay.
+- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — author of a core source on content decay.

@@ -29,5 +29,5 @@ related:
 
 ## Mentioned in
 
-- Open-Source Knowledge - Research — repo-facilitator example.
+- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — repo-facilitator example.
 - [Open-Source Knowledge](/essays/open-source-knowledge) — Colossus as community role.

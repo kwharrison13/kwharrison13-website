@@ -28,4 +28,4 @@ related:
 
 ## Mentioned in
 
-- Open-Source Knowledge - Research — *Reinventing Discovery* as a reading thread.
+- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — *Reinventing Discovery* as a reading thread.

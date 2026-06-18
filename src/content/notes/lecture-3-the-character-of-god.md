@@ -21,4 +21,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 
 ## Where this appears
 
-- [General Conference- October 2021](/notes/general-conference-october-2021)
+- General Conference- October 2021

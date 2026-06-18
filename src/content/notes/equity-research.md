@@ -26,13 +26,13 @@ related:
 
 ## How sources describe it
 
-- Thesis-driven: analysts start with a particular thesis and explore from there. (from Open-Source Knowledge - Research)
+- Thesis-driven: analysts start with a particular thesis and explore from there. (from [Open-Source Knowledge - Research](/notes/open-source-knowledge-research))
 - Incentive critique: buy-side vs. sell-side analysts face a tension between "being interesting vs. being right"; Andrew Lanyi quipped "most Wall Street research shoots for mediocrity and never quite makes it."
 - In public markets there's a single, fairly coherent body of demand; private markets lack the disclosure that makes that possible.
 
 ## Where it shows up
 
-- Open-Source Knowledge - Research — public-markets analog for [Contrary Research](/essays/contrary-research).
+- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — public-markets analog for [Contrary Research](/essays/contrary-research).
 
 ## Related concepts
 

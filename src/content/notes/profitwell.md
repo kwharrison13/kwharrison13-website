@@ -25,11 +25,11 @@ related:
 
 ## How sources describe it
 
-- Used to do pricing-page teardowns: survey business users of a product, estimate willingness to pay, then compare to what the company actually charged. (from Open-Source Knowledge - Research)
+- Used to do pricing-page teardowns: survey business users of a product, estimate willingness to pay, then compare to what the company actually charged. (from [Open-Source Knowledge - Research](/notes/open-source-knowledge-research))
 
 ## Where it shows up
 
-- Open-Source Knowledge - Research — pricing-teardown model.
+- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — pricing-teardown model.
 
 ## Related concepts
 

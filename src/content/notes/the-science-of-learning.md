@@ -50,7 +50,7 @@ related:
 
 - Neuroplasticity is real: the adult brain's neurons can grow and its connections stay nimble — learning is not bounded by a fixed wiring laid down in childhood.
 - The 10,000-hour "rule" is a myth for most domains; repetition makes a surgeon or mechanic excellent but does not, by itself, make a compassionate minister, an intuitive therapist, or a good parent.
-- Learning requires three ingredients — **motivation** (a noticed discrepancy between what the brain knows and wants to know), **opportunity**, and **sustained attention** — plus the habits of mind of Curiosity and diligence.
+- Learning requires three ingredients — **motivation** (a noticed discrepancy between what the brain knows and wants to know), **opportunity**, and **sustained attention** — plus the habits of mind of [Curiosity](/notes/curiosity) and diligence.
 - Environment and pedagogy compound: cognitively rich homes, project-based and Montessori approaches, well-sequenced [Curriculum](/notes/curriculum), and a [Growth Mindset](/notes/growth-mindset) all measurably improve learning.
 
 ## Highlights
@@ -68,7 +68,7 @@ related:
     - Sustained Attention
         - "The ability to learn new things--whether thats calculus or hitting a fast ball--requires stretching your brain past the point of what's familiar or comfortable. And that stretch requires unbroken concentration." [Cal Newport](/notes/cal-newport)
 - Habits of Mind
-    - Curiosity
+    - [Curiosity](/notes/curiosity)
     - Diligence
 - [Parenting](/notes/parenting)
     - "Children who grow up in cognitively stimulating and linguistically rich environments tend to be more sophisticated in their knowledge of the world and their ability to grasp things." Charles Nelson III

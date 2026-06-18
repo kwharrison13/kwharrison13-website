@@ -25,8 +25,8 @@ related:
 
 **Why it's on the list:** *Colson Whitehead's heist-and-family novel set in 1960s Harlem — furniture salesman Ray Carney, "only slightly bent" until family pulls him into the city's criminal underworld.*
 
-**Where I saw it:** Recommended during the NCX partner presentation on December 13th, 2021 — NCX Partner Presentation.
+**Where I saw it:** Recommended during the NCX partner presentation on [December 13th, 2021 — NCX Partner Presentation](/notes/december-13th-2021-ncx-partner-presentation).
 
 ## Connections
 
-- December 13th, 2021 — NCX Partner Presentation — the call where it was recommended.
+- [December 13th, 2021 — NCX Partner Presentation](/notes/december-13th-2021-ncx-partner-presentation) — the call where it was recommended.

@@ -31,4 +31,4 @@ related:
 
 ## Mentioned in
 
-- Open-Source Knowledge - Research — the innovation-from-access evidence base.
+- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — the innovation-from-access evidence base.

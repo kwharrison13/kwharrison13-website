@@ -22,5 +22,5 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 
 ## Where this appears
 
-- December 13th, 2021 — NCX Partner Presentation
+- [December 13th, 2021 — NCX Partner Presentation](/notes/december-13th-2021-ncx-partner-presentation)
 - December 13th, 2021 — Seso (Series A)

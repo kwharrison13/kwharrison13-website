@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 /**
- * Wiki concepts + people + long-forms → src/content/notes sync.
+ * Wiki concepts + people + long-forms + books-to-read → src/content/notes sync.
+ * (gospel-study is intentionally excluded — kept private like meetings.)
  *
  * Mirrors EVERY page in ~/kwharrison13-wiki/wiki/{concepts,people,long-forms}/
  * into src/content/notes/<slug>.md (regardless of publish state) so URLs
@@ -31,7 +32,9 @@ const WIKI_DIRS = [
   path.join(WIKI_ROOT, 'wiki', 'people'),
   path.join(WIKI_ROOT, 'wiki', 'long-forms'),
   path.join(WIKI_ROOT, 'wiki', 'books-to-read'),
-  path.join(WIKI_ROOT, 'wiki', 'gospel-study'),
+  // NOTE: wiki/gospel-study is intentionally NOT synced. Like wiki/meetings,
+  // gospel-study pages stay private to the wiki and are never mirrored to the
+  // public site. Wikilinks to them unwrap to plain text (no /notes/ URL).
 ];
 const WIKI_BOOKS = path.join(WIKI_ROOT, 'wiki', 'books');
 const WIKI_ESSAYS = path.join(WIKI_ROOT, 'wiki', 'essays');

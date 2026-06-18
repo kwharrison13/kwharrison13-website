@@ -31,5 +31,5 @@ related:
 
 ## Mentioned in
 
-- Open-Source Knowledge - Research — culture-of-questions and the slip-box.
+- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — culture-of-questions and the slip-box.
 - [Open-Source Knowledge](/essays/open-source-knowledge) — "What Does This Mean For Venture?" closing.

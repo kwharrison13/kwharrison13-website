@@ -26,11 +26,11 @@ related:
 
 ## How sources describe it
 
-- The frame Kyle uses to situate the [Contrary Research](/essays/contrary-research) market landscape, alongside content marketing, [Wikipedia](/notes/wikipedia)/Crunchbase, and writers like [Packy McCormick](/notes/packy-mccormick) and [Mario Gabriele](/notes/mario-gabriele). (from Open-Source Knowledge - Research)
+- The frame Kyle uses to situate the [Contrary Research](/essays/contrary-research) market landscape, alongside content marketing, [Wikipedia](/notes/wikipedia)/Crunchbase, and writers like [Packy McCormick](/notes/packy-mccormick) and [Mario Gabriele](/notes/mario-gabriele). (from [Open-Source Knowledge - Research](/notes/open-source-knowledge-research))
 
 ## Where it shows up
 
-- Open-Source Knowledge - Research — the market category being mapped.
+- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — the market category being mapped.
 
 ## Related concepts
 

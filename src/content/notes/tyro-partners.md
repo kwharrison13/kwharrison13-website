@@ -24,11 +24,11 @@ related:
 
 ## How sources describe it
 
-- The Q2 2021 Partner Letter lays out a four-level memetic model (Content → Reference → Advocacy → Community) and argues markets are now "metagames" where beliefs are useful constraints. (from Open-Source Knowledge - Research)
+- The Q2 2021 Partner Letter lays out a four-level memetic model (Content → Reference → Advocacy → Community) and argues markets are now "metagames" where beliefs are useful constraints. (from [Open-Source Knowledge - Research](/notes/open-source-knowledge-research))
 
 ## Where it shows up
 
-- Open-Source Knowledge - Research — memetics and rivers-and-streams.
+- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — memetics and rivers-and-streams.
 
 ## Related concepts
 

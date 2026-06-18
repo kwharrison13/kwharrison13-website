@@ -26,11 +26,11 @@ related:
 
 ## How sources describe it
 
-- A thesis in Kyle's notes: the [Unbundling](/notes/unbundling) of things like [Wikipedia](/notes/wikipedia) or [Reddit](/notes/reddit) into specialized niche "front pages." (from Open-Source Knowledge - Research)
+- A thesis in Kyle's notes: the [Unbundling](/notes/unbundling) of things like [Wikipedia](/notes/wikipedia) or [Reddit](/notes/reddit) into specialized niche "front pages." (from [Open-Source Knowledge - Research](/notes/open-source-knowledge-research))
 
 ## Where it shows up
 
-- Open-Source Knowledge - Research — niche front-pages thesis.
+- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — niche front-pages thesis.
 
 ## Related concepts
 
