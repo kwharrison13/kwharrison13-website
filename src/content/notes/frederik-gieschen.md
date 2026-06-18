@@ -25,10 +25,10 @@ related:
 
 ## What we know
 
-- Referenced in the Great Softening research (as "Neckar") for a tweet about knowledge — supporting Kyle's claim that "distribution of resources (capital, talent, food) has raced ahead of optimization of resources (solving problems that matter)."
+- Referenced in the [Great Softening research](/notes/the-hardening-of-the-great-softening-research) (as "Neckar") for a tweet about knowledge — supporting Kyle's claim that "distribution of resources (capital, talent, food) has raced ahead of optimization of resources (solving problems that matter)."
 - Also surfaces in the [The Renaissance of Rise and Grind - Research](/notes/the-renaissance-of-rise-and-grind-research) notes via his piece "Between Rest and Overdrive: Are Great Investors Lazy?" *(linked there to [Bill Gurley](/notes/bill-gurley)).*
 
 ## Mentioned in
 
-- The Hardening Of The Great Softening - Research — distribution vs. optimization of resources.
+- [The Hardening Of The Great Softening - Research](/notes/the-hardening-of-the-great-softening-research) — distribution vs. optimization of resources.
 - [The Renaissance of Rise and Grind - Research](/notes/the-renaissance-of-rise-and-grind-research)

@@ -8,6 +8,7 @@ updated: "2026-06-17"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/It's Time To Build... But Build What - Research.md"
+  - "wiki/essays-research/What Is An Investor - Research.md"
 tags:
   - "technological-innovation"
   - "language-of-discourse"
@@ -18,6 +19,8 @@ aliases:
 related:
   - "[[Techno-Optimism]]"
   - "[[The Axis of Building]]"
+  - "[[Knightian Uncertainty]]"
+  - "[[What Is An Investor - Research]]"
 ---
 
 # Noah Smith
@@ -26,6 +29,12 @@ related:
 
 _Stub page — created from It's Time To Build... But Build What - Research. Expand on a future pass._
 
+## What we know
+
+- Wrote [Will VC produce fewer home runs in the future?](https://noahpinion.substack.com/p/will-vc-produce-fewer-home-runs-in), which Kyle leans on heavily in [What Is An Investor](/essays/what-is-an-investor): the "next Facebook" question, and applying [Frank Knight](/notes/frank-knight)'s [Knightian Uncertainty](/notes/knightian-uncertainty) to explain why outsized venture returns are getting rarer.
+
 ## Where this appears
 
 - It's Time To Build... But Build What - Research
+- [What Is An Investor - Research](/notes/what-is-an-investor-research)
+- [What Is An Investor](/essays/what-is-an-investor)

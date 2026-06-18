@@ -22,3 +22,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - [The Everything Store](/books/the-everything-store)
+- Sprig fka UserLeap - Diligence — [Yue Wu](/notes/yue-wu) (Group PM at Dropbox) is an expert source on Sprig.

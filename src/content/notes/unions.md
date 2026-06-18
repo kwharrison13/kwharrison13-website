@@ -42,7 +42,7 @@ reference_count: 9
 ## How sources describe it
 
 - **The decline:** US union membership rose from <10% to a ~35% peak after the [Wagner Act of 1935](https://en.wikipedia.org/wiki/National_Labor_Relations_Act_of_1935), then eroded to ~10% today — driven by offshoring, globalization, automation, and corruption scandals (e.g. [Jimmy Hoffa](https://en.wikipedia.org/wiki/Jimmy_Hoffa)). (source: Unions, Unions Everywhere - Research)
-- **The case for:** [The New Urban Crisis](/books/the-urban-crisis) — "income inequality is lower where the unionized share of the workforce is higher." [Weapons of Math Destruction](/books/weapons-of-math-destruction) — "unions have lost their punch" as the bottom 40% fell into negative net worth.
+- **The case for:** [The New Urban Crisis](/books/the-new-urban-crisis) — "income inequality is lower where the unionized share of the workforce is higher." [Weapons of Math Destruction](/books/weapons-of-math-destruction) — "unions have lost their punch" as the bottom 40% fell into negative net worth.
 - **The case against:** [What You Should Know About Politics... But Don't](/books/what-you-should-know-about-politics-but-don-t) — UAW concessions seen as a reason US autos lost ground to Asian makers; teacher's unions criticized for protecting underperformers over seniority.
 - **When they work:** [The Smartest Kids in The World](/books/the-smartest-kids-in-the-world) — Finland shows strong union contracts work "if employees arrived at work well-educated, rigorously trained, and decently paid from day one." Kyle's synthesis: *"unions work well when the employees are well trained. When they become shackles that tie employers to bad employees they will never be super popular."*
 - **The employer playbook:** [Amazon Unbound](/books/amazon-unbound) — Amazon's [arm's-length](/notes/fissured-workplace) DSP model and its pattern of shutting down or walking away when unionization came up; [Nickel & Dimed](/books/nickel-and-dimed) — Walmart's anti-union orientation video.
@@ -52,7 +52,7 @@ reference_count: 9
 
 - Unions, Unions Everywhere - Research — the full research dossier behind the essay.
 - [Amazon Unbound](/books/amazon-unbound)
-- [The Urban Crisis](/books/the-urban-crisis) · [Weapons of Math Destruction](/books/weapons-of-math-destruction) · [Nickel & Dimed](/books/nickel-and-dimed) · [Janesville](/books/janesville) · [What You Should Know About Politics... But Don't](/books/what-you-should-know-about-politics-but-don-t) · [The Smartest Kids in The World](/books/the-smartest-kids-in-the-world)
+- [The Urban Crisis](/books/the-new-urban-crisis) · [Weapons of Math Destruction](/books/weapons-of-math-destruction) · [Nickel & Dimed](/books/nickel-and-dimed) · [Janesville](/books/janesville) · [What You Should Know About Politics... But Don't](/books/what-you-should-know-about-politics-but-don-t) · [The Smartest Kids in The World](/books/the-smartest-kids-in-the-world)
 
 ## Related concepts
 

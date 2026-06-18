@@ -26,3 +26,4 @@ Payments/fintech company cited as a [Talent Vortex](/notes/talent-vortex) — it
 ## Where this appears
 
 - The Talent Vortex - Research
+- Sprig fka UserLeap - Diligence — [Rishi Ahuja](/notes/rishi-ahuja) (PM at Square) is an expert source on Sprig.

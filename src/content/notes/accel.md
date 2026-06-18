@@ -22,3 +22,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - [The Power Law — Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future)
+- Sprig fka UserLeap - Diligence — led the $16M Series A in [Sprig](/notes/sprig) (Dec 2020).

@@ -27,11 +27,11 @@ related:
 
 ## How sources describe it
 
-- In the Great Softening research: a demographic analysis of the people who marched on the Capitol found the most predictive factor was coming "from a county that had gone from predominantly white to a more racially diverse demographic." Kyle links this to the resentment of uneducated whites who, in postwar economic data, are the one group that hasn't moved forward.
+- In the [Great Softening research](/notes/the-hardening-of-the-great-softening-research): a demographic analysis of the people who marched on the Capitol found the most predictive factor was coming "from a county that had gone from predominantly white to a more racially diverse demographic." Kyle links this to the resentment of uneducated whites who, in postwar economic data, are the one group that hasn't moved forward.
 
 ## Where it shows up
 
-- The Hardening Of The Great Softening - Research — evidence in the "is America in decline?" thread.
+- [The Hardening Of The Great Softening - Research](/notes/the-hardening-of-the-great-softening-research) — evidence in the "is America in decline?" thread.
 
 ## Related concepts
 

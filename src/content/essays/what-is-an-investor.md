@@ -11,7 +11,7 @@ substack_url: "https://investing101.substack.com/p/what-is-an-investor"
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-power-law-venture-capital-and-the-making-of-the-new-future">The Power Law: Venture Capital & the Making of the New Future</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-power-law-venture-capital-and-the-making-of-the-new-future">The Power Law: Venture Capital & the Making of the New Future</a>, <a href="/books/the-success-equation-untangling-skill-and-luck-in-business-sports-and-investing">The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing</a></span></div>
   <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/of-things-that-matter-most">Of Things That Matter Most</a>, <a href="/essays/the-diligence-thats-due">The Diligence That's Due</a>, <a href="/essays/valuations">What's In a Valuation?</a>, <a href="/essays/productization">The Productization of Venture Capital</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a></span></div>
 </aside>
 <!-- connections-end -->

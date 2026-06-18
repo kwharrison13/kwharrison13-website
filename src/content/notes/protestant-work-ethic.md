@@ -28,11 +28,11 @@ related:
 
 ## How sources describe it
 
-- In the Great Softening research: "The Protestant work ethic — [Max Weber](/notes/max-weber) (Germany vs Italy) → emphasis on grace makes you want to demonstrate the hand of god through prosperity." Kyle connects it to a Latter-day Saint analog — the [Book of Mormon](/notes/book-of-mormon) promise that "if you're righteous you'll prosper" — and asks "Why do so many Mormons want to be wealthy," cautioning that "get-rich-quick schemes are a fake prosperity."
+- In the [Great Softening research](/notes/the-hardening-of-the-great-softening-research): "The Protestant work ethic — [Max Weber](/notes/max-weber) (Germany vs Italy) → emphasis on grace makes you want to demonstrate the hand of god through prosperity." Kyle connects it to a Latter-day Saint analog — the [Book of Mormon](/notes/book-of-mormon) promise that "if you're righteous you'll prosper" — and asks "Why do so many Mormons want to be wealthy," cautioning that "get-rich-quick schemes are a fake prosperity."
 
 ## Where it shows up
 
-- The Hardening Of The Great Softening - Research — prosperity, grace, and the religious roots of the work ethic.
+- [The Hardening Of The Great Softening - Research](/notes/the-hardening-of-the-great-softening-research) — prosperity, grace, and the religious roots of the work ethic.
 
 ## Related concepts
 

@@ -26,11 +26,11 @@ related:
 
 ## How sources describe it
 
-- In the Great Softening research Kyle equates the psychology directly: "Loss aversion and golden handcuffs are the same." He pairs it with the "easier for a camel to go through the eye of a needle" warning and [lifestyle creep](/notes/lifestyle-creep).
+- In the [Great Softening research](/notes/the-hardening-of-the-great-softening-research) Kyle equates the psychology directly: "Loss aversion and golden handcuffs are the same." He pairs it with the "easier for a camel to go through the eye of a needle" warning and [lifestyle creep](/notes/lifestyle-creep).
 
 ## Where it shows up
 
-- The Hardening Of The Great Softening - Research
+- [The Hardening Of The Great Softening - Research](/notes/the-hardening-of-the-great-softening-research)
 
 ## Related concepts
 
