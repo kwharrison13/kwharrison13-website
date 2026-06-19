@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/George F. Johnson and His Industrial Democracy.md"
+  - "wiki/books/George F. Johnson and His Industrial Democracy.md"
 tags: []
 aliases:
   - "Profit Sharing"

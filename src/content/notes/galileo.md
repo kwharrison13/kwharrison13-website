@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Charlie Munger — Practical Thought About Practical Thought.md"
+  - "wiki/long-reads/Charlie Munger — Practical Thought About Practical Thought.md"
 tags: []
 aliases:
   - "Galileo"

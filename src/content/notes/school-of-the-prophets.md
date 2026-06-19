@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Saints — No Unhallowed Hand.md"
+  - "wiki/books/Saints — No Unhallowed Hand.md"
 tags: []
 aliases:
   - "School of the Prophets"

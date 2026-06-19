@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Tim Urban.md"
+  - "wiki/people/Tim Urban.md"
 tags: []
 aliases:
   - "Wait But Why"

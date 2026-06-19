@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Matt Clancy.md"
+  - "wiki/people/Matt Clancy.md"
   - "wiki/concepts/Wikipedia.md"
 tags: []
 aliases:

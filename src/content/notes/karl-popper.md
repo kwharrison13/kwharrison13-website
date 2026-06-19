@@ -7,9 +7,9 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/The Black Swan.md"
-  - "wiki/people/The Great Mental Models Volume 1 — General Thinking Concepts.md"
-  - "wiki/people/To Save America, Restore Our Frontier.md"
+  - "wiki/books/The Black Swan.md"
+  - "wiki/books/The Great Mental Models Volume 1 — General Thinking Concepts.md"
+  - "wiki/long-reads/To Save America, Restore Our Frontier.md"
 tags: []
 aliases:
   - "Karl Popper"

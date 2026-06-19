@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Turnaround.md"
+  - "wiki/books/Turnaround.md"
 tags: []
 aliases:
   - "Bill Bain"

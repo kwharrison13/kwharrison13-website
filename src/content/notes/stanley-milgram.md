@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Charlie Munger — The Psychology of Human Misjudgment.md"
+  - "wiki/long-reads/Charlie Munger — The Psychology of Human Misjudgment.md"
 tags: []
 aliases:
   - "Stanley Milgram"

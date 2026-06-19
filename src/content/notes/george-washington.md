@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/American Sphinx.md"
-  - "wiki/people/John Quincy Adams.md"
+  - "wiki/books/American Sphinx.md"
+  - "wiki/books/John Quincy Adams.md"
 tags: []
 aliases:
   - "George Washington"

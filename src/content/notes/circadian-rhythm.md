@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Parents' Guide to Boys.md"
+  - "wiki/books/The Parents' Guide to Boys.md"
 tags: []
 aliases:
   - "Circadian Rhythm"

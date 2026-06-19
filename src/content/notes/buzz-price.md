@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Walt Disney and the Promise of Progress City.md"
+  - "wiki/books/Walt Disney and the Promise of Progress City.md"
 tags: []
 aliases:
   - "Buzz Price"

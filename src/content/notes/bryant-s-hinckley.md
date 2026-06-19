@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Gordon B. Hinckley — Go Forward With Faith.md"
+  - "wiki/books/Gordon B. Hinckley — Go Forward With Faith.md"
 tags: []
 aliases:
   - "Bryant S. Hinckley"

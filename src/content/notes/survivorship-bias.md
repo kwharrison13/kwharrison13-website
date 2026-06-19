@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Power Law — Venture Capital & the Making of the New Future.md"
+  - "wiki/books/The Power Law — Venture Capital & the Making of the New Future.md"
 tags: []
 aliases:
   - "Survivorship Bias"

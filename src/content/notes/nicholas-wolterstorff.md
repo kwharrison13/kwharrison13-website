@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/The Crucible of Doubt.md"
+  - "wiki/books/The Crucible of Doubt.md"
 tags: []
 aliases:
   - "Nicholas Wolterstorff"

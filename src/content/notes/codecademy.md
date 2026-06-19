@@ -7,9 +7,10 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Joseph Ambeault.md"
+  - "wiki/people/Joseph Ambeault.md"
   - "wiki/concepts/FullStory.md"
   - "wiki/concepts/Sprig.md"
+  - "wiki/concepts/UserTesting.md"
 tags: []
 aliases:
   - "Codecademy"

@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Boy Who Was Raised as a Dog.md"
-  - "wiki/concepts/The Science of Learning.md"
+  - "wiki/books/The Boy Who Was Raised as a Dog.md"
+  - "wiki/long-reads/The Science of Learning.md"
 tags: []
 aliases:
   - "Neuroplasticity"

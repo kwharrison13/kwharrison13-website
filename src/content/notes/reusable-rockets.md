@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Elon Musk — Tesla, SpaceX, and the Quest for a Fantastic Future.md"
+  - "wiki/books/Elon Musk — Tesla, SpaceX, and the Quest for a Fantastic Future.md"
 tags: []
 aliases:
   - "Reusable Rockets"

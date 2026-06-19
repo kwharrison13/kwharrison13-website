@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/What Is ChatGPT Doing and Why Does It Work.md"
+  - "wiki/long-reads/What Is ChatGPT Doing and Why Does It Work.md"
 tags: []
 aliases:
   - "Gradient Descent"

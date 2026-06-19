@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Reinventing Knowledge — From Alexandria To The Internet.md"
-  - "wiki/concepts/The Death of Expertise.md"
+  - "wiki/books/Reinventing Knowledge — From Alexandria To The Internet.md"
+  - "wiki/books/The Death of Expertise.md"
 tags: []
 aliases:
   - "Specialization"

@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Evicted.md"
-  - "wiki/concepts/The New Urban Crisis.md"
+  - "wiki/books/Evicted.md"
+  - "wiki/books/The New Urban Crisis.md"
 tags: []
 aliases:
   - "Affordable Housing"

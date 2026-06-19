@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Catastrophic Care.md"
-  - "wiki/concepts/No Apology.md"
+  - "wiki/books/Catastrophic Care.md"
+  - "wiki/books/No Apology.md"
 tags: []
 aliases:
   - "Creative Destruction"

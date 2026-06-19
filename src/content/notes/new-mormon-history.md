@@ -7,9 +7,9 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/American Zion.md"
-  - "wiki/concepts/An Insider's View of Mormon Origins.md"
-  - "wiki/concepts/Leonard Arrington and the Writing of Mormon History.md"
+  - "wiki/books/American Zion.md"
+  - "wiki/books/An Insider's View of Mormon Origins.md"
+  - "wiki/books/Leonard Arrington and the Writing of Mormon History.md"
 tags: []
 aliases:
   - "New Mormon History"

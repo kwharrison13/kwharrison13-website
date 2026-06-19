@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/21 Lessons for the 21st Century.md"
-  - "wiki/concepts/Sapiens.md"
+  - "wiki/books/21 Lessons for the 21st Century.md"
+  - "wiki/books/Sapiens.md"
 tags: []
 aliases:
   - "Nationalism"

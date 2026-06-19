@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Nate Quinn.md"
+  - "wiki/people/Nate Quinn.md"
 tags: []
 aliases:
   - "Silver Lake"

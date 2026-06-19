@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The New Urban Crisis.md"
+  - "wiki/books/The New Urban Crisis.md"
 tags: []
 aliases:
   - "Clustering"

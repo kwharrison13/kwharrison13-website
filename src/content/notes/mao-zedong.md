@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/China in Ten Words.md"
+  - "wiki/books/China in Ten Words.md"
 tags: []
 aliases:
   - "Mao Zedong"

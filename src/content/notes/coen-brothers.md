@@ -10,6 +10,7 @@ sources:
   - "wiki/people/Christopher Nolan.md"
   - "wiki/people/Martin Scorsese.md"
   - "wiki/people/Quentin Tarantino.md"
+  - "wiki/concepts/Auteur Theory.md"
 tags: []
 aliases:
   - "Coen Brothers"

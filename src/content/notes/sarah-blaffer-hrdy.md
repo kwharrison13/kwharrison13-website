@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/The Boy Who Was Raised as a Dog.md"
+  - "wiki/books/The Boy Who Was Raised as a Dog.md"
 tags: []
 aliases:
   - "Sarah Blaffer Hrdy"

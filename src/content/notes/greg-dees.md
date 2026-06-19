@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/MBA Degrees.md"
+  - "wiki/concepts/MBA Degrees.md"
 tags: []
 aliases:
   - "Greg Dees"

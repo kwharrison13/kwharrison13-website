@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Charlie Munger — Philanthropy Roundtable.md"
+  - "wiki/long-reads/Charlie Munger — Philanthropy Roundtable.md"
 tags: []
 aliases:
   - "Personal Knowledge Management"

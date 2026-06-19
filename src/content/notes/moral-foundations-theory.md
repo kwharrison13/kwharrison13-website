@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Righteous Mind.md"
+  - "wiki/books/The Righteous Mind.md"
 tags: []
 aliases:
   - "Moral Foundations Theory"

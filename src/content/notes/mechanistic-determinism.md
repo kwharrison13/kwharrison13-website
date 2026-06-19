@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Faith of a Scientist.md"
+  - "wiki/books/The Faith of a Scientist.md"
 tags: []
 aliases:
   - "Mechanistic Determinism"

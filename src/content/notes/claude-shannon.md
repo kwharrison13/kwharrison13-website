@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/The Founders.md"
-  - "wiki/people/The Idea Factory.md"
+  - "wiki/books/The Founders.md"
+  - "wiki/books/The Idea Factory.md"
   - "wiki/people/Jimmy Soni.md"
 tags: []
 aliases:

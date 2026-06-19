@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Inder Takhar.md"
-  - "wiki/concepts/John Hoffmire.md"
+  - "wiki/people/Inder Takhar.md"
+  - "wiki/people/John Hoffmire.md"
   - "wiki/concepts/Village Capital.md"
 tags: []
 aliases:

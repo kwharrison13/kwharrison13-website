@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/No Apology.md"
+  - "wiki/books/No Apology.md"
 tags: []
 aliases:
   - "Free Trade"

@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/William Tewelow.md"
+  - "wiki/people/William Tewelow.md"
   - "wiki/concepts/Smart Cities Group.md"
 tags: []
 aliases:

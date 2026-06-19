@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/An Insider's View of Mormon Origins.md"
+  - "wiki/books/An Insider's View of Mormon Origins.md"
 tags: []
 aliases:
   - "Martin Harris"

@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Alibaba — The House That Jack Ma Built.md"
+  - "wiki/books/Alibaba — The House That Jack Ma Built.md"
 tags: []
 aliases:
   - "eBay"

@@ -7,9 +7,9 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Why Books Don't Work.md"
-  - "wiki/concepts/Andy Matuschak.md"
-  - "wiki/concepts/Michael Nielsen.md"
+  - "wiki/long-reads/Why Books Don't Work.md"
+  - "wiki/people/Andy Matuschak.md"
+  - "wiki/people/Michael Nielsen.md"
 tags: []
 aliases:
   - "Quantum Country"

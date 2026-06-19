@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Lloyd's.md"
+  - "wiki/concepts/Lloyd's.md"
 tags: []
 aliases:
   - "Edward Lloyd"

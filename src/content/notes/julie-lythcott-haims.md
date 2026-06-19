@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/The Self-Driven Child.md"
+  - "wiki/books/The Self-Driven Child.md"
 tags: []
 aliases:
   - "Julie Lythcott-Haims"

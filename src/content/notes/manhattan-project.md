@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Boom — Bubbles & The End of Stagnation.md"
-  - "wiki/concepts/The Man From The Future.md"
+  - "wiki/books/Boom — Bubbles & The End of Stagnation.md"
+  - "wiki/books/The Man From The Future.md"
 tags: []
 aliases:
   - "Manhattan Project"

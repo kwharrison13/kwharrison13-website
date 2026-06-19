@@ -7,9 +7,9 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Idea Factory.md"
-  - "wiki/concepts/To Save America, Restore Our Frontier.md"
-  - "wiki/concepts/Alex Karp.md"
+  - "wiki/books/The Idea Factory.md"
+  - "wiki/long-reads/To Save America, Restore Our Frontier.md"
+  - "wiki/people/Alex Karp.md"
 tags: []
 aliases:
   - "Silicon Valley"

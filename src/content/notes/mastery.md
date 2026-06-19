@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Brave New World.md"
-  - "wiki/concepts/The Self-Driven Child.md"
+  - "wiki/books/Brave New World.md"
+  - "wiki/books/The Self-Driven Child.md"
 tags: []
 aliases:
   - "Mastery"

@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/George F. Johnson and His Industrial Democracy.md"
-  - "wiki/concepts/Gerald Zahavi.md"
+  - "wiki/books/George F. Johnson and His Industrial Democracy.md"
+  - "wiki/people/Gerald Zahavi.md"
 tags: []
 aliases:
   - "Endicott-Johnson"

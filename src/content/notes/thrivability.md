@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Jean M. Russell.md"
+  - "wiki/people/Jean M. Russell.md"
 tags: []
 aliases:
   - "Thrivability"

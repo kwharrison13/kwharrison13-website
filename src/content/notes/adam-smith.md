@@ -7,9 +7,11 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/American Sphinx.md"
-  - "wiki/people/How To Read a Book.md"
-  - "wiki/people/Reinventing Knowledge — From Alexandria To The Internet.md"
+  - "wiki/books/American Sphinx.md"
+  - "wiki/books/How To Read a Book.md"
+  - "wiki/books/Reinventing Knowledge — From Alexandria To The Internet.md"
+  - "wiki/books/Sapiens.md"
+  - "wiki/books/Working Toward Zion.md"
 tags: []
 aliases:
   - "Adam Smith"

@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Reinventing Knowledge — From Alexandria To The Internet.md"
+  - "wiki/books/Reinventing Knowledge — From Alexandria To The Internet.md"
 tags: []
 aliases:
   - "Scientific Management"

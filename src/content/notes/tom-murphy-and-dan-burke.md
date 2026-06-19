@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/The Ride of a Lifetime.md"
+  - "wiki/books/The Ride of a Lifetime.md"
 tags: []
 aliases:
   - "Tom Murphy and Dan Burke"

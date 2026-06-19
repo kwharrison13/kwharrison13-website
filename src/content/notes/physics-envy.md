@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Charlie Munger — Academic Economics.md"
+  - "wiki/long-reads/Charlie Munger — Academic Economics.md"
 tags: []
 aliases:
   - "Physics Envy"

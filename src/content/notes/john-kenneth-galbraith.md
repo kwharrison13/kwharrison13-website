@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Charlie Munger — The Great Financial Scandal of 2003.md"
+  - "wiki/long-reads/Charlie Munger — The Great Financial Scandal of 2003.md"
 tags: []
 aliases:
   - "John Kenneth Galbraith"

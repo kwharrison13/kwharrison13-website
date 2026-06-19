@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Stuck in Place.md"
-  - "wiki/concepts/Patrick Sharkey.md"
+  - "wiki/books/Stuck in Place.md"
+  - "wiki/people/Patrick Sharkey.md"
 tags: []
 aliases:
   - "Neighborhood Inequality"

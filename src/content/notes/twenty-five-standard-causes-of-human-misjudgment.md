@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Charlie Munger — Harvard Law School Fiftieth Reunion Address.md"
+  - "wiki/long-reads/Charlie Munger — Harvard Law School Fiftieth Reunion Address.md"
 tags: []
 aliases:
   - "Twenty-Five Standard Causes of Human Misjudgment"

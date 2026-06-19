@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Amusing Ourselves To Death.md"
-  - "wiki/people/The Assault on Reason.md"
+  - "wiki/books/Amusing Ourselves To Death.md"
+  - "wiki/books/The Assault on Reason.md"
 tags: []
 aliases:
   - "Marshall McLuhan"

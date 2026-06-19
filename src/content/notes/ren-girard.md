@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Restoration — God's Call To The 21st Century.md"
-  - "wiki/people/The Founders.md"
+  - "wiki/books/Restoration — God's Call To The 21st Century.md"
+  - "wiki/books/The Founders.md"
 tags: []
 aliases:
   - "René Girard"

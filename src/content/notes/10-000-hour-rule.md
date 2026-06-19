@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Science of Learning.md"
+  - "wiki/long-reads/The Science of Learning.md"
 tags: []
 aliases:
   - "10,000 Hour Rule"

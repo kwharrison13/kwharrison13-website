@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Restoration — God's Call To The 21st Century.md"
+  - "wiki/books/Restoration — God's Call To The 21st Century.md"
 tags: []
 aliases:
   - "Particularism"

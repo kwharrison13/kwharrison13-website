@@ -7,9 +7,9 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Chip War.md"
-  - "wiki/concepts/The Kill Chain.md"
-  - "wiki/concepts/Robert Pottroff.md"
+  - "wiki/books/Chip War.md"
+  - "wiki/books/The Kill Chain.md"
+  - "wiki/people/Robert Pottroff.md"
 tags: []
 aliases:
   - "Nvidia"

@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Del Johnson.md"
+  - "wiki/people/Del Johnson.md"
   - "wiki/concepts/Axios.md"
 tags: []
 aliases:

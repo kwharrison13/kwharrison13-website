@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/The Count of Monte Cristo.md"
+  - "wiki/concepts/The Count of Monte Cristo.md"
 tags: []
 aliases:
   - "Alexandre Dumas"

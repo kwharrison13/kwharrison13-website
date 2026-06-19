@@ -32,7 +32,7 @@ _Stub page — created from What Is An Investor - Research. Expand on a future p
 
 ## What we know
 
-- The very first conversation that prompted Kyle's "what is an investor?" essay was with Kevin, on [May 31st, 2022](/notes/may-31st-2022). (source: What Is An Investor - Research)
+- The very first conversation that prompted Kyle's "what is an investor?" essay was with Kevin, on May 31st, 2022. (source: What Is An Investor - Research)
 - Comes at the question from a public-markets lens; framed investing around "allocating capital for returns" and pressed on the line between a bad investor and a gambler.
 - Pointed Kyle to [Michael Mauboussin](/notes/michael-mauboussin)'s skill-vs-luck work, including [The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing](/notes/the-success-equation), and to a [Josh Wolfe](/notes/josh-wolfe) thread on luck and success.
 - Credited in the essay's acknowledgments for encouraging Kyle to unpack the topic.

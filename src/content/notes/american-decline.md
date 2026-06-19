@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Jamie Raskin.md"
+  - "wiki/people/Jamie Raskin.md"
   - "wiki/concepts/One Billion Americans.md"
 tags: []
 aliases:

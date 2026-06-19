@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Market Is The Greatest Critic.md"
+  - "wiki/long-reads/The Market Is The Greatest Critic.md"
 tags: []
 aliases:
   - "Bundle"

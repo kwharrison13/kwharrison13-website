@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Bridgewater Associates.md"
+  - "wiki/concepts/Bridgewater Associates.md"
 tags: []
 aliases:
   - "Ray Dalio"

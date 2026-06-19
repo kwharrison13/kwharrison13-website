@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Joseph Ambeault.md"
+  - "wiki/people/Joseph Ambeault.md"
 tags: []
 aliases:
   - "InVision"

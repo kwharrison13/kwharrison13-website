@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Stories of Your Life and Others.md"
-  - "wiki/concepts/The Courage To Be Disliked.md"
+  - "wiki/books/Stories of Your Life and Others.md"
+  - "wiki/books/The Courage To Be Disliked.md"
 tags: []
 aliases:
   - "Teleology"

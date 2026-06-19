@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Chip War.md"
-  - "wiki/people/The Idea Factory.md"
+  - "wiki/books/Chip War.md"
+  - "wiki/books/The Idea Factory.md"
 tags: []
 aliases:
   - "Gordon Moore"

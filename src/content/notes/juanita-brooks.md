@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Leonard Arrington and the Writing of Mormon History.md"
+  - "wiki/books/Leonard Arrington and the Writing of Mormon History.md"
 tags: []
 aliases:
   - "Juanita Brooks"

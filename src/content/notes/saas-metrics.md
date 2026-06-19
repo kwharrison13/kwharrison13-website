@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/How to Trick Investors and VCs.md"
+  - "wiki/long-reads/How to Trick Investors and VCs.md"
 tags: []
 aliases:
   - "SaaS Metrics"

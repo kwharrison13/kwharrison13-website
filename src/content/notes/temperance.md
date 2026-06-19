@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Discipline Is Destiny.md"
+  - "wiki/books/Discipline Is Destiny.md"
 tags: []
 aliases:
   - "Temperance"

@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Tom Perkins.md"
+  - "wiki/people/Tom Perkins.md"
 tags: []
 aliases:
   - "Perkins's law"

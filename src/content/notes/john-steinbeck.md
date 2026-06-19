@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Temporarily Embarrassed Millionaires.md"
+  - "wiki/concepts/Temporarily Embarrassed Millionaires.md"
 tags: []
 aliases:
   - "John Steinbeck"

@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Sheri L. Dew.md"
+  - "wiki/people/Sheri L. Dew.md"
 tags: []
 aliases:
   - "Deseret Book"

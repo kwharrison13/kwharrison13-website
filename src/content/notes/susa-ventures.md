@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Katherine Boyle.md"
+  - "wiki/people/Katherine Boyle.md"
 tags: []
 aliases:
   - "Susa Ventures"

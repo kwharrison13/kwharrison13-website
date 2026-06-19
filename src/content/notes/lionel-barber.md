@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Bonfire of the Consultancies.md"
+  - "wiki/long-reads/Bonfire of the Consultancies.md"
 tags: []
 aliases:
   - "Lionel Barber"

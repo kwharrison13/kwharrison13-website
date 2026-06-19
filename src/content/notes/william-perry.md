@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Nuclear War — a Scenario.md"
-  - "wiki/people/The Kill Chain.md"
+  - "wiki/books/Nuclear War — a Scenario.md"
+  - "wiki/books/The Kill Chain.md"
 tags: []
 aliases:
   - "William Perry"

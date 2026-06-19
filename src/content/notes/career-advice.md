@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Charlie Munger — USC Gould School of Law Commencement Address.md"
+  - "wiki/long-reads/Charlie Munger — USC Gould School of Law Commencement Address.md"
 tags: []
 aliases:
   - "Career Advice"

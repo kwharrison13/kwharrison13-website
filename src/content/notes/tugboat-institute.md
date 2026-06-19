@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/On the Nature of Long-Term Holds.md"
+  - "wiki/long-reads/On the Nature of Long-Term Holds.md"
 tags: []
 aliases:
   - "Tugboat Institute"

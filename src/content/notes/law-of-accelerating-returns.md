@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Enchanted Notebook.md"
-  - "wiki/concepts/Ray Kurzweil.md"
+  - "wiki/long-reads/The Enchanted Notebook.md"
+  - "wiki/people/Ray Kurzweil.md"
 tags: []
 aliases:
   - "Law of Accelerating Returns"

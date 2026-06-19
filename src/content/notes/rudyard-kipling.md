@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Charlie Munger — Harvard School Commencement Speech.md"
+  - "wiki/long-reads/Charlie Munger — Harvard School Commencement Speech.md"
 tags: []
 aliases:
   - "Rudyard Kipling"

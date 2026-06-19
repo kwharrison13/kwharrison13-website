@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Autobiography of Benjamin Franklin.md"
-  - "wiki/concepts/The Magnolia Story.md"
+  - "wiki/books/The Autobiography of Benjamin Franklin.md"
+  - "wiki/books/The Magnolia Story.md"
 tags: []
 aliases:
   - "Perfectionism"

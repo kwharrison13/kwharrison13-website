@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/John Hoffmire.md"
+  - "wiki/people/John Hoffmire.md"
 tags: []
 aliases:
   - "Progress Through Business"

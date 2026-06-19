@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Adam Chekroud.md"
+  - "wiki/people/Adam Chekroud.md"
 tags: []
 aliases:
   - "FMRIB Centre"

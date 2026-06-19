@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/The Psychology of Money.md"
+  - "wiki/books/The Psychology of Money.md"
 tags: []
 aliases:
   - "Matt Ridley"

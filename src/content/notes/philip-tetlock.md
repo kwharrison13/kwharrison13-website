@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Range.md"
-  - "wiki/people/The Death of Expertise.md"
+  - "wiki/books/Range.md"
+  - "wiki/books/The Death of Expertise.md"
 tags: []
 aliases:
   - "Philip Tetlock"

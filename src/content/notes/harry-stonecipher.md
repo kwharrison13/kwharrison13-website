@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Flying Blind.md"
+  - "wiki/books/Flying Blind.md"
 tags: []
 aliases:
   - "Harry Stonecipher"

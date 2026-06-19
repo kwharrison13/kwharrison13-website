@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Michael Isbitski.md"
+  - "wiki/people/Michael Isbitski.md"
   - "wiki/concepts/Ping Identity.md"
 tags: []
 aliases:

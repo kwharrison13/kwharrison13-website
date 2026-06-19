@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Ho Nam.md"
+  - "wiki/people/Ho Nam.md"
 tags: []
 aliases:
   - "Altos Ventures"

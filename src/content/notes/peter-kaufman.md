@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/The Eleven Talks of Poor Charlie's Almanack.md"
+  - "wiki/long-reads/The Eleven Talks of Poor Charlie's Almanack.md"
 tags: []
 aliases:
   - "Peter Kaufman"

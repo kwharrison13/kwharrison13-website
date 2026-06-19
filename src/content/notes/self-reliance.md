@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Walden.md"
-  - "wiki/concepts/Alex Karp.md"
+  - "wiki/books/Walden.md"
+  - "wiki/people/Alex Karp.md"
 tags: []
 aliases:
   - "Self-Reliance"

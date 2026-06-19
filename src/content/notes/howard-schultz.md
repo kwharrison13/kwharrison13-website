@@ -8,7 +8,7 @@ updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/people/Steve Case.md"
-  - "wiki/people/Rise of the Rest.md"
+  - "wiki/concepts/Rise of the Rest.md"
 tags: []
 aliases:
   - "Howard Schultz"

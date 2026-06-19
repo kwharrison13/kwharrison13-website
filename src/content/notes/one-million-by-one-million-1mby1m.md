@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Sramana Mitra.md"
+  - "wiki/people/Sramana Mitra.md"
 tags: []
 aliases:
   - "One Million by One Million (1Mby1M)"

@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Inside the Rise and Fall of Coatue's Quant Fund.md"
+  - "wiki/long-reads/Inside the Rise and Fall of Coatue's Quant Fund.md"
 tags: []
 aliases:
   - "Alternative Data"

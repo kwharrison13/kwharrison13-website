@@ -7,9 +7,10 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Atomic Habits.md"
-  - "wiki/concepts/Benjamin Franklin — An American Life.md"
-  - "wiki/concepts/Essentialism.md"
+  - "wiki/books/Atomic Habits.md"
+  - "wiki/books/Benjamin Franklin — An American Life.md"
+  - "wiki/books/Essentialism.md"
+  - "wiki/long-reads/The Science of Learning.md"
 tags: []
 aliases:
   - "Deliberate Practice"

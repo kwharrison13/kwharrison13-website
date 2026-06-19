@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Expertise Economy.md"
+  - "wiki/books/The Expertise Economy.md"
 tags: []
 aliases:
   - "The Future of Jobs"

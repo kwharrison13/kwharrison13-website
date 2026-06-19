@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Managers Not MBAs.md"
-  - "wiki/people/The Messy Marketplace.md"
+  - "wiki/books/Managers Not MBAs.md"
+  - "wiki/books/The Messy Marketplace.md"
 tags: []
 aliases:
   - "Herbert Simon"

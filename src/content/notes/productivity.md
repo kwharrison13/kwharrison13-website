@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Rekindling US Productivity for a New Era.md"
-  - "wiki/concepts/The Build-Nothing Country.md"
+  - "wiki/long-reads/Rekindling US Productivity for a New Era.md"
+  - "wiki/long-reads/The Build-Nothing Country.md"
 tags: []
 aliases:
   - "Productivity"

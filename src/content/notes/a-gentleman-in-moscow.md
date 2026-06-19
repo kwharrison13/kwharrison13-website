@@ -27,9 +27,9 @@ related:
 
 **Why it's on the list:** *Amor Towles' novel of Count Alexander Rostov, sentenced to house arrest in a grand Moscow hotel in 1922, who finds a whole life within its walls across decades of Soviet history.*
 
-**Where I saw it:** Recommended during the NCX partner presentation on [December 13th, 2021 — NCX Partner Presentation](/notes/december-13th-2021-ncx-partner-presentation).
+**Where I saw it:** Recommended during the NCX partner presentation on December 13th, 2021 — NCX Partner Presentation.
 
 ## Connections
 
 - [The Lincoln Highway](/notes/the-lincoln-highway) — same author (Amor Towles), also recommended that day.
-- [December 13th, 2021 — NCX Partner Presentation](/notes/december-13th-2021-ncx-partner-presentation) — the call where it was recommended.
+- December 13th, 2021 — NCX Partner Presentation — the call where it was recommended.

@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Rise of the Creative Class.md"
-  - "wiki/concepts/Richard Florida.md"
+  - "wiki/books/The Rise of the Creative Class.md"
+  - "wiki/people/Richard Florida.md"
 tags: []
 aliases:
   - "Creative Class"

@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Adam Cohen.md"
+  - "wiki/people/Adam Cohen.md"
 tags: []
 aliases:
   - "Parking"

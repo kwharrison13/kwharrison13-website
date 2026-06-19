@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/The Ride of a Lifetime.md"
-  - "wiki/people/Storytelling.md"
+  - "wiki/books/The Ride of a Lifetime.md"
+  - "wiki/concepts/Storytelling.md"
 tags: []
 aliases:
   - "Roone Arledge"

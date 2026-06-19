@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Talent.md"
-  - "wiki/concepts/The Founders.md"
+  - "wiki/books/Talent.md"
+  - "wiki/books/The Founders.md"
 tags: []
 aliases:
   - "Mimetic Desire"

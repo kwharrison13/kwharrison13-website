@@ -7,9 +7,11 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/David Pickeral.md"
-  - "wiki/concepts/Jeff Friedman.md"
-  - "wiki/concepts/Michael Mulquin.md"
+  - "wiki/people/David Pickeral.md"
+  - "wiki/people/Jeff Friedman.md"
+  - "wiki/people/Michael Mulquin.md"
+  - "wiki/people/Tom Schenk.md"
+  - "wiki/concepts/City of Dublin.md"
 tags: []
 aliases:
   - "Smart Cities"

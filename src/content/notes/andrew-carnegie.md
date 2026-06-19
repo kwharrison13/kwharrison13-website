@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Buffett — The Biography.md"
-  - "wiki/people/VC.md"
+  - "wiki/books/Buffett — The Biography.md"
+  - "wiki/books/VC.md"
 tags: []
 aliases:
   - "Andrew Carnegie"

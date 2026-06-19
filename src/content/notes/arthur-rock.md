@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/The Power Law — Venture Capital & the Making of the New Future.md"
-  - "wiki/people/VC.md"
+  - "wiki/books/The Power Law — Venture Capital & the Making of the New Future.md"
+  - "wiki/books/VC.md"
 tags: []
 aliases:
   - "Arthur Rock"

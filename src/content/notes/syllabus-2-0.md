@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Why Books Don't Work.md"
+  - "wiki/long-reads/Why Books Don't Work.md"
 tags: []
 aliases:
   - "Syllabus 2.0"

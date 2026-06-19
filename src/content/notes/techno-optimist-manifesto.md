@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Ray Kurzweil.md"
+  - "wiki/people/Ray Kurzweil.md"
 tags: []
 aliases:
   - "Techno-Optimist Manifesto"

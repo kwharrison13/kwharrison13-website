@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/American Zion.md"
-  - "wiki/people/Joseph Smith Lecture 2 — Joseph's Personality and Character.md"
+  - "wiki/books/American Zion.md"
+  - "wiki/long-reads/Joseph Smith Lecture 2 — Joseph's Personality and Character.md"
 tags: []
 aliases:
   - "Emma Smith"

@@ -7,9 +7,9 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Brave New World.md"
-  - "wiki/concepts/Sapiens.md"
-  - "wiki/concepts/Walden.md"
+  - "wiki/books/Brave New World.md"
+  - "wiki/books/Sapiens.md"
+  - "wiki/books/Walden.md"
 tags: []
 aliases:
   - "Consumerism"

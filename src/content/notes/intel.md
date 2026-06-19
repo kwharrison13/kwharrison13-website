@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Chip War.md"
-  - "wiki/concepts/David Pickeral.md"
+  - "wiki/books/Chip War.md"
+  - "wiki/people/David Pickeral.md"
 tags: []
 aliases:
   - "Intel"

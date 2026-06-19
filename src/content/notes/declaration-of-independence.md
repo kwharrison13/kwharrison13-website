@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/American Sphinx.md"
-  - "wiki/concepts/Benjamin Franklin.md"
+  - "wiki/books/American Sphinx.md"
+  - "wiki/people/Benjamin Franklin.md"
 tags: []
 aliases:
   - "Declaration of Independence"

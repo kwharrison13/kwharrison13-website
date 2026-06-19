@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/2054.md"
+  - "wiki/books/2054.md"
 tags: []
 aliases:
   - "Technological Singularity"

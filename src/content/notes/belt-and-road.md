@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/2034 — A Novel of the Next World War.md"
+  - "wiki/books/2034 — A Novel of the Next World War.md"
 tags: []
 aliases:
   - "Belt and Road"

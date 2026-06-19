@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/How Will You Measure Your Life.md"
+  - "wiki/books/How Will You Measure Your Life.md"
 tags: []
 aliases:
   - "Hygiene Factor"

@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Priesthood Power of Women.md"
-  - "wiki/concepts/Russell M. Nelson.md"
+  - "wiki/books/The Priesthood Power of Women.md"
+  - "wiki/people/Russell M. Nelson.md"
 tags: []
 aliases:
   - "Personal Revelation"

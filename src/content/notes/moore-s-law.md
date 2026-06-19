@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Chip War.md"
-  - "wiki/concepts/The Man From The Future.md"
+  - "wiki/books/Chip War.md"
+  - "wiki/books/The Man From The Future.md"
 tags: []
 aliases:
   - "Moore's Law"

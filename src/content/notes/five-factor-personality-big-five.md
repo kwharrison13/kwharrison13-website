@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Talent.md"
+  - "wiki/books/Talent.md"
 tags: []
 aliases:
   - "Five Factor Personality / Big Five"

@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Amusing Ourselves To Death.md"
+  - "wiki/books/Amusing Ourselves To Death.md"
 tags: []
 aliases:
   - "The Medium is the Message"

@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Chad Bojorquez.md"
+  - "wiki/people/Chad Bojorquez.md"
   - "wiki/concepts/Destination Home.md"
   - "wiki/concepts/Social Innovation.md"
 tags: []

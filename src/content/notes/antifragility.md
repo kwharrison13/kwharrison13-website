@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Great Mental Models Volume 1 — General Thinking Concepts.md"
-  - "wiki/concepts/The Time Machine.md"
+  - "wiki/books/The Great Mental Models Volume 1 — General Thinking Concepts.md"
+  - "wiki/books/The Time Machine.md"
 tags: []
 aliases:
   - "Antifragility"

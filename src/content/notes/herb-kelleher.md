@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Essentialism.md"
+  - "wiki/books/Essentialism.md"
 tags: []
 aliases:
   - "Herb Kelleher"

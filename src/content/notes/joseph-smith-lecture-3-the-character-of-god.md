@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Truman G. Madsen.md"
+  - "wiki/people/Truman G. Madsen.md"
 tags: []
 aliases:
   - "Joseph Smith Lecture 3 — The Character of God"

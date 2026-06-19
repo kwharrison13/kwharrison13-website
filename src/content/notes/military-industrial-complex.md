@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Skunk Works.md"
-  - "wiki/concepts/The Kill Chain.md"
+  - "wiki/books/Skunk Works.md"
+  - "wiki/books/The Kill Chain.md"
 tags: []
 aliases:
   - "Military-Industrial Complex"

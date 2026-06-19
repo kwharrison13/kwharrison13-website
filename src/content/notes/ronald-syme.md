@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/To Save America, Restore Our Frontier.md"
+  - "wiki/long-reads/To Save America, Restore Our Frontier.md"
 tags: []
 aliases:
   - "Ronald Syme"

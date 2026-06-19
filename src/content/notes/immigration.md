@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Matt Yglesias.md"
+  - "wiki/people/Matt Yglesias.md"
   - "wiki/concepts/One Billion Americans.md"
 tags: []
 aliases:

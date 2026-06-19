@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The New Urban Crisis.md"
-  - "wiki/concepts/Richard Florida.md"
+  - "wiki/books/The New Urban Crisis.md"
+  - "wiki/people/Richard Florida.md"
 tags: []
 aliases:
   - "Superstar Cities"

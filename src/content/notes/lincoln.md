@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Steven Spielberg.md"
+  - "wiki/people/Steven Spielberg.md"
 tags: []
 aliases:
   - "Lincoln"

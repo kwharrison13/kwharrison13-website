@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Working Toward Zion.md"
+  - "wiki/books/Working Toward Zion.md"
 tags: []
 aliases:
   - "Hernando de Soto"

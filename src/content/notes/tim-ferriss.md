@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/How To Be a Capitalist Without Any Capital.md"
+  - "wiki/books/How To Be a Capitalist Without Any Capital.md"
 tags: []
 aliases:
   - "Tim Ferriss"

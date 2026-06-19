@@ -7,9 +7,9 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Founders.md"
-  - "wiki/concepts/The Power Law — Venture Capital & the Making of the New Future.md"
-  - "wiki/concepts/We're Selling Entrepreneurship Short.md"
+  - "wiki/books/The Founders.md"
+  - "wiki/books/The Power Law — Venture Capital & the Making of the New Future.md"
+  - "wiki/long-reads/We're Selling Entrepreneurship Short.md"
 tags: []
 aliases:
   - "Blitzscaling"

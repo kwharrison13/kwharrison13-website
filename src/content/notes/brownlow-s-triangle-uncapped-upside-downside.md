@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Jeff Brownlow.md"
+  - "wiki/people/Jeff Brownlow.md"
 tags: []
 aliases:
   - "Brownlow's Triangle (uncapped upside/downside)"

@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Shortest Way Home.md"
+  - "wiki/books/Shortest Way Home.md"
 tags: []
 aliases:
   - "Mike Pence"

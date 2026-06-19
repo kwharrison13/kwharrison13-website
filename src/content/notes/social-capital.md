@@ -7,9 +7,11 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Evicted.md"
-  - "wiki/concepts/Hillbilly Elegy.md"
-  - "wiki/concepts/The Righteous Mind.md"
+  - "wiki/books/Evicted.md"
+  - "wiki/books/Hillbilly Elegy.md"
+  - "wiki/books/The Righteous Mind.md"
+  - "wiki/books/What I Found in a Thousand Towns.md"
+  - "wiki/long-reads/Charlie Munger — Investment Practices of Leading Charitable Foundations.md"
 tags: []
 aliases:
   - "Social Capital"

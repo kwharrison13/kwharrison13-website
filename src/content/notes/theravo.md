@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Nicole Kleiman-Reck.md"
+  - "wiki/people/Nicole Kleiman-Reck.md"
 tags: []
 aliases:
   - "Theravo"

@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Building American Dynamism.md"
-  - "wiki/people/Flexport.md"
+  - "wiki/long-reads/Building American Dynamism.md"
+  - "wiki/concepts/Flexport.md"
 tags: []
 aliases:
   - "Ryan Petersen"

@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/It's Time To Build.md"
+  - "wiki/long-reads/It's Time To Build.md"
 tags: []
 aliases:
   - "alien dreadnoughts"

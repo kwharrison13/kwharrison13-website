@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/M. Russell Ballard.md"
+  - "wiki/people/M. Russell Ballard.md"
 tags: []
 aliases:
   - "The Church of Jesus Christ of Latter-day Saints"

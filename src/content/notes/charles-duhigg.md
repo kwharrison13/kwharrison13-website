@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Atomic Habits.md"
-  - "wiki/people/Essentialism.md"
+  - "wiki/books/Atomic Habits.md"
+  - "wiki/books/Essentialism.md"
 tags: []
 aliases:
   - "Charles Duhigg"

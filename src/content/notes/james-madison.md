@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/American Sphinx.md"
+  - "wiki/books/American Sphinx.md"
 tags: []
 aliases:
   - "James Madison"

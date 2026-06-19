@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Todd McKinnon — Creating and Defining a New Market Category.md"
+  - "wiki/long-reads/Todd McKinnon — Creating and Defining a New Market Category.md"
 tags: []
 aliases:
   - "Customer Identity & Access Management (CIAM)"

@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Prabhath Karanth.md"
+  - "wiki/people/Prabhath Karanth.md"
 tags: []
 aliases:
   - "Security Operations Center (SOC)"

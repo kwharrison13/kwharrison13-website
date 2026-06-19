@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Product Led Growth — The End User Era.md"
+  - "wiki/books/Product Led Growth — The End User Era.md"
 tags: []
 aliases:
   - "Typeform"

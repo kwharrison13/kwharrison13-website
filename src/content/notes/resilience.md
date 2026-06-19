@@ -7,9 +7,10 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Boy Who Was Raised as a Dog.md"
-  - "wiki/concepts/The Self-Driven Child.md"
-  - "wiki/concepts/What It Takes.md"
+  - "wiki/books/The Boy Who Was Raised as a Dog.md"
+  - "wiki/books/The Self-Driven Child.md"
+  - "wiki/books/What It Takes.md"
+  - "wiki/long-reads/Joseph Smith Lecture 2 — Joseph's Personality and Character.md"
 tags: []
 aliases:
   - "Resilience"

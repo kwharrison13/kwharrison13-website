@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Saints — No Unhallowed Hand.md"
-  - "wiki/concepts/M. Russell Ballard.md"
+  - "wiki/books/Saints — No Unhallowed Hand.md"
+  - "wiki/people/M. Russell Ballard.md"
 tags: []
 aliases:
   - "Quorum of the Twelve"

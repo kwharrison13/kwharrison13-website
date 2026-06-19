@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Michael Mauboussin.md"
+  - "wiki/people/Michael Mauboussin.md"
 tags: []
 aliases:
   - "Process Over Outcome"

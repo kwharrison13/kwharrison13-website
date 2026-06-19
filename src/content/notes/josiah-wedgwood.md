@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Double Entry.md"
+  - "wiki/books/Double Entry.md"
 tags: []
 aliases:
   - "Josiah Wedgwood"

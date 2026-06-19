@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Working in Public.md"
-  - "wiki/people/Open Source.md"
+  - "wiki/books/Working in Public.md"
+  - "wiki/concepts/Open Source.md"
 tags: []
 aliases:
   - "Richard Stallman"

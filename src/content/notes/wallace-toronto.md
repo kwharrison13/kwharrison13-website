@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Feed My Sheep.md"
+  - "wiki/long-reads/Feed My Sheep.md"
 tags: []
 aliases:
   - "Wallace Toronto"

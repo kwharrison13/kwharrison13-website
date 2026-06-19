@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Messy Marketplace.md"
-  - "wiki/concepts/On the Nature of Long-Term Holds.md"
+  - "wiki/books/The Messy Marketplace.md"
+  - "wiki/long-reads/On the Nature of Long-Term Holds.md"
 tags: []
 aliases:
   - "Search Funds"

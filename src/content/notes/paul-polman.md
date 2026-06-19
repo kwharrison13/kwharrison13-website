@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/The Man Who Broke Capitalism.md"
+  - "wiki/books/The Man Who Broke Capitalism.md"
 tags: []
 aliases:
   - "Paul Polman"

@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Nuclear War — a Scenario.md"
+  - "wiki/books/Nuclear War — a Scenario.md"
 tags: []
 aliases:
   - "Existential Risk"

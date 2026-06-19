@@ -7,9 +7,9 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Elon Musk.md"
-  - "wiki/concepts/Max Levchin.md"
-  - "wiki/concepts/Peter Thiel.md"
+  - "wiki/people/Elon Musk.md"
+  - "wiki/people/Max Levchin.md"
+  - "wiki/people/Peter Thiel.md"
 tags: []
 aliases:
   - "Confinity"

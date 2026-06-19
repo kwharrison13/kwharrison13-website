@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Equity Research.md"
+  - "wiki/concepts/Equity Research.md"
 tags: []
 aliases:
   - "Andrew Lanyi"

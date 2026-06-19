@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Long Journey Ventures.md"
+  - "wiki/concepts/Long Journey Ventures.md"
 tags: []
 aliases:
   - "Lee Jacobs"

@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Labor Day.md"
+  - "wiki/concepts/Labor Day.md"
 tags: []
 aliases:
   - "Camden"

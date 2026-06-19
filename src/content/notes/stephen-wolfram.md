@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/The Man From The Future.md"
-  - "wiki/people/What Is ChatGPT Doing and Why Does It Work.md"
+  - "wiki/books/The Man From The Future.md"
+  - "wiki/long-reads/What Is ChatGPT Doing and Why Does It Work.md"
 tags: []
 aliases:
   - "Stephen Wolfram"

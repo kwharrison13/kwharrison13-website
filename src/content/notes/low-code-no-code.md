@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Julie Chen.md"
+  - "wiki/people/Julie Chen.md"
 tags: []
 aliases:
   - "Low Code / No Code"

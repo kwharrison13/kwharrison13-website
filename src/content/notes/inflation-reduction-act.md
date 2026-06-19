@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Build-Nothing Country.md"
+  - "wiki/long-reads/The Build-Nothing Country.md"
 tags: []
 aliases:
   - "Inflation Reduction Act"

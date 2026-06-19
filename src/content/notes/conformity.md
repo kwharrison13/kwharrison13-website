@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Brave New World Revisited.md"
+  - "wiki/books/Brave New World Revisited.md"
 tags: []
 aliases:
   - "Conformity"

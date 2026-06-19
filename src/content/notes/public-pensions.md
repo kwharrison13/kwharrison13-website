@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Almost $14 Billion Pulled From CalPERS Equity Managers.md"
-  - "wiki/concepts/Assembly Bill 2041 — UC Office of the Chief Investment Officer.md"
+  - "wiki/long-reads/Almost $14 Billion Pulled From CalPERS Equity Managers.md"
+  - "wiki/long-reads/Assembly Bill 2041 — UC Office of the Chief Investment Officer.md"
 tags: []
 aliases:
   - "Public Pensions"

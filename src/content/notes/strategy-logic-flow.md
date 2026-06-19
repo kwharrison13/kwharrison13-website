@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Playing To Win.md"
+  - "wiki/books/Playing To Win.md"
 tags: []
 aliases:
   - "Strategy Logic Flow"

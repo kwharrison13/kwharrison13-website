@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Art of War.md"
+  - "wiki/books/The Art of War.md"
 tags: []
 aliases:
   - "Deception"

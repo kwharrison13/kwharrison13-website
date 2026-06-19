@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Benjamin Franklin — An American Life.md"
-  - "wiki/concepts/The Greatest Sentence Ever Written.md"
+  - "wiki/books/Benjamin Franklin — An American Life.md"
+  - "wiki/books/The Greatest Sentence Ever Written.md"
 tags: []
 aliases:
   - "Enlightenment"

@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Black Swan.md"
+  - "wiki/books/The Black Swan.md"
   - "wiki/concepts/Storytelling.md"
 tags: []
 aliases:

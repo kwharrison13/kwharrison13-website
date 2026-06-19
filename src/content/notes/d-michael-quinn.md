@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Stretching The Heavens.md"
+  - "wiki/books/Stretching The Heavens.md"
 tags: []
 aliases:
   - "D. Michael Quinn"

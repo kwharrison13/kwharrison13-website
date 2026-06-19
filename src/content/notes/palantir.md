@@ -7,9 +7,10 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/The Kill Chain.md"
-  - "wiki/concepts/Building American Dynamism.md"
-  - "wiki/concepts/Alex Karp.md"
+  - "wiki/books/The Kill Chain.md"
+  - "wiki/long-reads/Building American Dynamism.md"
+  - "wiki/people/Alex Karp.md"
+  - "wiki/people/Peter Thiel.md"
 tags: []
 aliases:
   - "Palantir"

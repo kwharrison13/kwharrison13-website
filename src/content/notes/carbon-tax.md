@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/How To Avoid a Climate Disaster.md"
+  - "wiki/books/How To Avoid a Climate Disaster.md"
 tags: []
 aliases:
   - "Carbon Tax"

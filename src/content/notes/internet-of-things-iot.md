@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Doug McCullough.md"
+  - "wiki/people/Doug McCullough.md"
 tags: []
 aliases:
   - "Internet of Things (IoT)"

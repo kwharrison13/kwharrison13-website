@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Peter Thiel's Religion.md"
+  - "wiki/long-reads/Peter Thiel's Religion.md"
 tags: []
 aliases:
   - "Mimetic Theory"

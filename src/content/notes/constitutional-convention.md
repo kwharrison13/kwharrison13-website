@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Benjamin Franklin — An American Life.md"
-  - "wiki/concepts/Benjamin Franklin.md"
+  - "wiki/books/Benjamin Franklin — An American Life.md"
+  - "wiki/people/Benjamin Franklin.md"
 tags: []
 aliases:
   - "Constitutional Convention"

@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Catherine Yeo.md"
+  - "wiki/people/Catherine Yeo.md"
 tags: []
 aliases:
   - "Notability"

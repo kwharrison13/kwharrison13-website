@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Atanu Dasgupta.md"
+  - "wiki/people/Atanu Dasgupta.md"
 tags: []
 aliases:
   - "ESW Capital"

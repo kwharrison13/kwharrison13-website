@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Driven.md"
+  - "wiki/books/Driven.md"
   - "wiki/concepts/SMB.md"
 tags: []
 aliases:

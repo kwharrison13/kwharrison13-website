@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Leonardo Da Vinci.md"
-  - "wiki/concepts/The Enchanted Notebook.md"
+  - "wiki/books/Leonardo Da Vinci.md"
+  - "wiki/long-reads/The Enchanted Notebook.md"
 tags: []
 aliases:
   - "Reality Distortion Field"

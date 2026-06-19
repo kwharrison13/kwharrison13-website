@@ -7,9 +7,10 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Utopia For Realists.md"
-  - "wiki/concepts/Matthew Desmond.md"
-  - "wiki/concepts/Paul Graham.md"
+  - "wiki/books/Utopia For Realists.md"
+  - "wiki/people/Matthew Desmond.md"
+  - "wiki/people/Paul Graham.md"
+  - "wiki/people/Richard Florida.md"
 tags: []
 aliases:
   - "Inequality"

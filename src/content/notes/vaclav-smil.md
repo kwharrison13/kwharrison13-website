@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/How To Avoid a Climate Disaster.md"
-  - "wiki/people/The AppetiZIRP.md"
+  - "wiki/books/How To Avoid a Climate Disaster.md"
+  - "wiki/long-reads/The AppetiZIRP.md"
 tags: []
 aliases:
   - "Vaclav Smil"

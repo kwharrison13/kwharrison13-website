@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Benjamin Franklin — An American Life.md"
+  - "wiki/books/Benjamin Franklin — An American Life.md"
 tags: []
 aliases:
   - "D.H. Lawrence"

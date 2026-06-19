@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/Brigham Young — Pioneer Prophet.md"
+  - "wiki/books/Brigham Young — Pioneer Prophet.md"
 tags: []
 aliases:
   - "Orson Hyde"

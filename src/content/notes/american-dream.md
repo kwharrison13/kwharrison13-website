@@ -7,9 +7,9 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Hillbilly Elegy.md"
-  - "wiki/concepts/The Greatest Sentence Ever Written.md"
-  - "wiki/concepts/John Rawls.md"
+  - "wiki/books/Hillbilly Elegy.md"
+  - "wiki/books/The Greatest Sentence Ever Written.md"
+  - "wiki/people/John Rawls.md"
 tags: []
 aliases:
   - "American Dream"

@@ -15,7 +15,7 @@ key_takeaways_status: "written"
 <!-- key-takeaways -->
 _No highlights captured in `raw/books/` for this book. Metadata is from `raw/books.json`. Add a Readwise export to `raw/books/lonesome-dove.md` and re-ingest, or write takeaways manually._
 
-> **Recommended:** Came up as a book recommendation (Western) on [December 13th, 2021 — NCX Partner Presentation](/notes/december-13th-2021-ncx-partner-presentation). Already read (2024), so it stays in the read library rather than the anti-library.
+> **Recommended:** Came up as a book recommendation (Western) on December 13th, 2021 — NCX Partner Presentation. Already read (2024), so it stays in the read library rather than the anti-library.
 <!-- /key-takeaways -->
 
 ## Connections

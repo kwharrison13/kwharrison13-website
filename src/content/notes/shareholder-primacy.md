@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Flying Blind.md"
-  - "wiki/concepts/The Man Who Broke Capitalism.md"
+  - "wiki/books/Flying Blind.md"
+  - "wiki/books/The Man Who Broke Capitalism.md"
 tags: []
 aliases:
   - "Shareholder Primacy"

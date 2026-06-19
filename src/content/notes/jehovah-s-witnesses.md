@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Law of the Harvest.md"
+  - "wiki/books/Law of the Harvest.md"
 tags: []
 aliases:
   - "Jehovah's Witnesses"

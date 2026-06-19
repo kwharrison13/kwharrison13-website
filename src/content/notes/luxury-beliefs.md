@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Rob Henderson.md"
+  - "wiki/people/Rob Henderson.md"
 tags: []
 aliases:
   - "Luxury Beliefs"

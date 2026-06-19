@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Bonfire of the Consultancies.md"
-  - "wiki/concepts/Rekindling US Productivity for a New Era.md"
+  - "wiki/long-reads/Bonfire of the Consultancies.md"
+  - "wiki/long-reads/Rekindling US Productivity for a New Era.md"
 tags: []
 aliases:
   - "McKinsey"

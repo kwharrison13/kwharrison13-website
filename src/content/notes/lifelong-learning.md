@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Walden.md"
+  - "wiki/books/Walden.md"
 tags: []
 aliases:
   - "Lifelong Learning"

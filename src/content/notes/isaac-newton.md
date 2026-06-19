@@ -7,8 +7,8 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/The Faith of a Scientist.md"
-  - "wiki/people/Charlie Munger — Harvard School Commencement Speech.md"
+  - "wiki/books/The Faith of a Scientist.md"
+  - "wiki/long-reads/Charlie Munger — Harvard School Commencement Speech.md"
 tags: []
 aliases:
   - "Isaac Newton"

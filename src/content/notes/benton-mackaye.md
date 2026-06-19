@@ -7,7 +7,7 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/people/A Walk in the Woods.md"
+  - "wiki/books/A Walk in the Woods.md"
 tags: []
 aliases:
   - "Benton MacKaye"

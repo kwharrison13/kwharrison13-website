@@ -30,7 +30,7 @@ related:
 ## Mentioned in
 
 - Watershed Climate Diligence — 2021 — Watershed Climate Series B diligence (Index Ventures, 2021).
-- [December 13th, 2021 — NCX Partner Presentation](/notes/december-13th-2021-ncx-partner-presentation) — partner review of [NCX](/notes/ncx): positive on the macro/"why now," but the land-grab plan gave him pause on whether supply scales fast enough to matter.
+- December 13th, 2021 — NCX Partner Presentation — partner review of [NCX](/notes/ncx): positive on the macro/"why now," but the land-grab plan gave him pause on whether supply scales fast enough to matter.
 
 ## Connections
 
