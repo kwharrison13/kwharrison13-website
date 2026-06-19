@@ -11,13 +11,15 @@ sources:
 tags: []
 aliases:
   - "Prayer"
-related: []
+related:
+  - "[[Prayer — Topical Study]]"
+  - "[[Topical Study]]"
 reference_count: 1
 ---
 
 # Prayer
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+_Stub page — auto-generated from wikilink references. The topical-journal deep-dive on this theme is Prayer — Topical Study under Topical Study (a private gospel-study page; the suffix avoids a link-resolver collision with this stub)._
 
 ## Where this appears
 
