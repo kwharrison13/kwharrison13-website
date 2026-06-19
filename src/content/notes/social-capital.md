@@ -29,7 +29,7 @@ _Stub — flagged during the 2026-06-19 connection sweep as an entity referenced
 
 ## Where this appears
 
-- [Evicted](/books/evicted-poverty-and-profit-in-the-american-city)
+- [Evicted](/books/evicted)
 - [Hillbilly Elegy](/books/hillbilly-elegy)
 - [The Righteous Mind](/books/the-righteous-mind)
 - [What I Found in a Thousand Towns](/books/what-i-found-in-a-thousand-towns)

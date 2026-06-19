@@ -64,7 +64,7 @@ function getCatalogBookSlugs() {
     const catalog = JSON.parse(
       fs.readFileSync(path.join(WEBSITE_ROOT, 'src', 'data', 'books.json'), 'utf8'),
     );
-    const add = (b) => { if (b && b.title) _catalogBookSlugs.add(slugify(b.title)); };
+    const add = (b) => { if (b && b.title) _catalogBookSlugs.add(b.slug || slugify(b.title)); };
     for (const b of catalog.quake_books || []) add(b);
     for (const books of Object.values(catalog.library || {})) {
       for (const b of books) add(b);
@@ -119,9 +119,10 @@ function indexCollection(dir, kind) {
     const stem = f.replace(/\.md$/, '');
     const { frontmatter: fm } = parseFrontmatter(fs.readFileSync(full, 'utf8'));
     const title = fm.title || stem;
-    // Essays resolve to their website slug, which can differ from slugify(title)
-    // (e.g. title "Investing 101 2.0" lives at /essays/coming-soon).
-    const slug = kind === 'essays' && fm.website_slug ? fm.website_slug : slugify(title);
+    // Essays and books can both pin a website_slug that diverges from
+    // slugify(title) — e.g. essay "Investing 101 2.0" lives at /essays/coming-soon;
+    // book "Evicted: Poverty and Profit..." lives at /books/evicted.
+    const slug = (kind === 'essays' || kind === 'books') && fm.website_slug ? fm.website_slug : slugify(title);
     // Skip book wikilinks whose slug isn't a real catalog page (would 404).
     if (kind === 'books' && !getCatalogBookSlugs().has(slug)) continue;
     const names = new Set([stem, title]);

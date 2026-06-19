@@ -74,7 +74,7 @@ function getCatalogBookSlugs() {
     const catalog = JSON.parse(
       fs.readFileSync(path.join(WEBSITE_ROOT, 'src', 'data', 'books.json'), 'utf8'),
     );
-    const add = (b) => { if (b && b.title) _catalogBookSlugs.add(bookSlug(b.title)); };
+    const add = (b) => { if (b && b.title) _catalogBookSlugs.add(b.slug || bookSlug(b.title)); };
     for (const b of catalog.quake_books || []) add(b);
     for (const books of Object.values(catalog.library || {})) {
       for (const b of books) add(b);
