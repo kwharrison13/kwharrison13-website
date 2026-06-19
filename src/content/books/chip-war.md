@@ -61,7 +61,7 @@ The book is less digested-and-synthesized than the other reads in this batch —
 - [TSMC](/notes/tsmc) — the single dominant private actor with the capital and patience to do what fragmented competitors can't; "a project of the Taiwanese state" from day one.
 - [Texas Instruments](/notes/texas-instruments) — Haggerty's bet on the integrated circuit; the org-structure that couldn't keep Chang.
 - [Samsung](/notes/samsung) — Lee's three-strategy playbook (cultivate political ties, replicate Western products at lower cost, globalize relentlessly).
-- Apple — designs the world's most advanced processors but can only have them fabricated by TSMC; Tim Cook now has more influence on the industry than any Pentagon official.
+- [Apple](/notes/apple-aapl) — designs the world's most advanced processors but can only have them fabricated by TSMC; Tim Cook now has more influence on the industry than any Pentagon official.
 - [Bell Labs](/notes/bell-labs) — monopoly as innovation engine; June 1948 transistor announcement buried on page 46.
 - [Open Source](/notes/open-source) — RISC-V as a geopolitically neutral, free instruction-set architecture embraced by both DARPA and Chinese firms.
 - [Venture Capital](/notes/venture-capital) — Noyce on declining military contracts: "selling R&D to the government was like taking your venture capital and putting it into a savings account."

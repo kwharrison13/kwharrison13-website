@@ -46,7 +46,7 @@ A standalone curiosity worth flagging: the speculation about battery-laden space
 - [Nuclear Energy](/notes/nuclear-energy) — Gates's central bet (tagged 7 times); the carbon-free 24/7 baseload case and TerraPower's next-gen reactor.
 - [Climate Change](/notes/climate-change) — the book's subject; 51 billion tons/year, the five emission categories, and getting to zero by 2050.
 - [Climate Poverty](/notes/climate-poverty) — the moral center; Bangladesh as the recurring example of the poorest bearing the heaviest climate burden.
-- First Principles — strip clean-energy economics to component costs, compared explicitly to Elon Musk's battery cost breakdown.
+- [First Principles](/notes/first-principles-thinking) — strip clean-energy economics to component costs, compared explicitly to Elon Musk's battery cost breakdown.
 - [Natural Selection Among Startups](/essays/natural-selection-among-startups) — Breakthrough Energy's 500M-tons/year filter as VC sectoral discipline: don't fund what can't matter at scale.
 - [Carbon Capture](/notes/carbon-capture) — point capture and direct air capture as part of the path to zero.
 - [Innovation](/notes/innovation) — Gates's claim that innovation is new business models, policies, and markets, not just new devices.
