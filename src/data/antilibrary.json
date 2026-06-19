@@ -1,5 +1,32 @@
 [
   {
+    "title": "A Canticle for Leibowitz",
+    "full_title": "A Canticle for Leibowitz",
+    "author": "Walter M. Miller Jr.",
+    "published": "1959",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=A+Canticle+for+Leibowitz+Walter+M.+Miller+Jr.",
+    "where_seen": [
+      "Cited in Reinventing Knowledge — From Alexandria To The Internet, Reinventing Knowledge — From Alexandria To The Internet — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Reinventing Knowledge — From Alexandria To The Internet",
+        "url": "/books/reinventing-knowledge-from-alexandria-to-the-internet"
+      },
+      {
+        "title": "Reinventing Knowledge — From Alexandria To The Internet",
+        "url": "/books/reinventing-knowledge-from-alexandria-to-the-internet"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "historical-futurism",
+      "religious-intellectualism"
+    ],
+    "slug": "a-canticle-for-leibowitz"
+  },
+  {
     "title": "A Gentleman in Moscow",
     "full_title": "A Gentleman in Moscow: A Novel",
     "author": "Amor Towles",
@@ -43,6 +70,32 @@
     "slug": "a-matter-of-degrees"
   },
   {
+    "title": "A Pattern Language",
+    "full_title": "A Pattern Language",
+    "author": "Christopher Alexander, Sara Ishikawa, Murray Silverstein",
+    "published": "1977",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=A+Pattern+Language+Christopher+Alexander",
+    "where_seen": [
+      "Cited in Walt Disney and the Promise of Progress City, Walt Disney and the Promise of Progress City — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Walt Disney and the Promise of Progress City",
+        "url": "/books/walt-disney-and-the-promise-of-progress-city"
+      },
+      {
+        "title": "Walt Disney and the Promise of Progress City",
+        "url": "/books/walt-disney-and-the-promise-of-progress-city"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "city-building"
+    ],
+    "slug": "a-pattern-language"
+  },
+  {
     "title": "A Secular Age",
     "full_title": "A Secular Age",
     "author": "Charles Taylor",
@@ -75,6 +128,86 @@
     "slug": "a-secular-age"
   },
   {
+    "title": "American Grace",
+    "full_title": "American Grace",
+    "author": "Robert D. Putnam, David E. Campbell",
+    "published": "2010",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=American+Grace+Robert+D.+Putnam",
+    "where_seen": [
+      "Cited in The Righteous Mind, The Righteous Mind — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "The Righteous Mind",
+        "url": "/books/the-righteous-mind"
+      },
+      {
+        "title": "The Righteous Mind",
+        "url": "/books/the-righteous-mind"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "religious-intellectualism",
+      "people-over-politics"
+    ],
+    "slug": "american-grace"
+  },
+  {
+    "title": "American Ulysses",
+    "full_title": "American Ulysses",
+    "author": "Ronald C. White",
+    "published": "2016",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=American+Ulysses+Ronald+C.+White",
+    "where_seen": [
+      "Cited in Romney — A Reckoning, Romney — A Reckoning — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Romney — A Reckoning",
+        "url": "/books/romney-a-reckoning"
+      },
+      {
+        "title": "Romney — A Reckoning",
+        "url": "/books/romney-a-reckoning"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "people-over-politics"
+    ],
+    "slug": "american-ulysses"
+  },
+  {
+    "title": "An Abundance of Caution",
+    "full_title": "An Abundance of Caution",
+    "author": "David Zweig",
+    "published": "2025",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=An+Abundance+of+Caution+David+Zweig",
+    "where_seen": [
+      "Cited in Bill Maher, Bill Maher — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Bill Maher",
+        "url": "/notes/bill-maher"
+      },
+      {
+        "title": "Bill Maher",
+        "url": "/notes/bill-maher"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "people-over-politics",
+      "education"
+    ],
+    "slug": "an-abundance-of-caution"
+  },
+  {
     "title": "Andrew Carnegie by Joseph Frazier Wall",
     "full_title": "Andrew Carnegie",
     "author": "Joseph Frazier Wall",
@@ -96,6 +229,108 @@
       "company-building"
     ],
     "slug": "andrew-carnegie-by-joseph-frazier-wall"
+  },
+  {
+    "title": "Babbitt",
+    "full_title": "Babbitt",
+    "author": "Sinclair Lewis",
+    "published": "1922",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Babbitt+Sinclair+Lewis",
+    "where_seen": [
+      "Cited in Our Towns, Our Towns — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Our Towns",
+        "url": "/books/our-towns"
+      },
+      {
+        "title": "Our Towns",
+        "url": "/books/our-towns"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "ideological-family-tree"
+    ],
+    "slug": "babbitt"
+  },
+  {
+    "title": "Blue Ocean Strategy",
+    "full_title": "Blue Ocean Strategy",
+    "author": "W. Chan Kim, Renée Mauborgne",
+    "published": "2004",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Blue+Ocean+Strategy+W.+Chan+Kim",
+    "where_seen": [
+      "Cited in Recession Proof, Recession Proof — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Recession Proof",
+        "url": "/books/recession-proof"
+      },
+      {
+        "title": "Recession Proof",
+        "url": "/books/recession-proof"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "company-building"
+    ],
+    "slug": "blue-ocean-strategy"
+  },
+  {
+    "title": "Boundaries",
+    "full_title": "Boundaries",
+    "author": "Henry Cloud, John Townsend",
+    "published": "1992",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Boundaries+Henry+Cloud",
+    "where_seen": [
+      "Cited in Essentialism, Essentialism — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Essentialism",
+        "url": "/books/essentialism"
+      },
+      {
+        "title": "Essentialism",
+        "url": "/books/essentialism"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "boundaries"
+  },
+  {
+    "title": "Bowling Alone",
+    "full_title": "Bowling Alone",
+    "author": "Robert D. Putnam",
+    "published": "2000",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Bowling+Alone+Robert+D.+Putnam",
+    "where_seen": [
+      "Cited in The Righteous Mind, The Righteous Mind — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "The Righteous Mind",
+        "url": "/books/the-righteous-mind"
+      },
+      {
+        "title": "The Righteous Mind",
+        "url": "/books/the-righteous-mind"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "people-over-politics"
+    ],
+    "slug": "bowling-alone"
   },
   {
     "title": "Braiding Sweetgrass",
@@ -123,6 +358,84 @@
     "slug": "braiding-sweetgrass"
   },
   {
+    "title": "Business Adventures",
+    "full_title": "Business Adventures",
+    "author": "John Brooks",
+    "published": "1969",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Business+Adventures+John+Brooks",
+    "where_seen": [
+      "Cited in How To Be a Capitalist Without Any Capital, How To Be a Capitalist Without Any Capital — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "How To Be a Capitalist Without Any Capital",
+        "url": "/books/how-to-be-a-capitalist-without-any-capital"
+      },
+      {
+        "title": "How To Be a Capitalist Without Any Capital",
+        "url": "/books/how-to-be-a-capitalist-without-any-capital"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "company-building",
+      "capital-allocation"
+    ],
+    "slug": "business-adventures"
+  },
+  {
+    "title": "Capitalism and Freedom",
+    "full_title": "Capitalism and Freedom",
+    "author": "Milton Friedman",
+    "published": "1962",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Capitalism+and+Freedom+Milton+Friedman",
+    "where_seen": [
+      "Cited in Utopia For Realists, Utopia For Realists — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Utopia For Realists",
+        "url": "/books/utopia-for-realists"
+      },
+      {
+        "title": "Utopia For Realists",
+        "url": "/books/utopia-for-realists"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "ideological-family-tree",
+      "capital-allocation"
+    ],
+    "slug": "capitalism-and-freedom"
+  },
+  {
+    "title": "David and Goliath",
+    "full_title": "David and Goliath",
+    "author": "Malcolm Gladwell",
+    "published": "2013",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=David+and+Goliath+Malcolm+Gladwell",
+    "where_seen": [
+      "Cited in The Self-Driven Child, The Self-Driven Child — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "The Self-Driven Child",
+        "url": "/books/the-self-driven-child"
+      },
+      {
+        "title": "The Self-Driven Child",
+        "url": "/books/the-self-driven-child"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "david-and-goliath"
+  },
+  {
     "title": "Deep Simplicity",
     "full_title": "Deep Simplicity: Bringing Order to Chaos and Complexity",
     "author": "John Gribbin",
@@ -141,6 +454,85 @@
     "recommendations": 1,
     "tags": [],
     "slug": "deep-simplicity"
+  },
+  {
+    "title": "Democracy in America",
+    "full_title": "Democracy in America",
+    "author": "Alexis de Tocqueville",
+    "published": "1835",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Democracy+in+America+Alexis+de+Tocqueville",
+    "where_seen": [
+      "Cited in Our Towns, Our Towns — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Our Towns",
+        "url": "/books/our-towns"
+      },
+      {
+        "title": "Our Towns",
+        "url": "/books/our-towns"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "people-over-politics",
+      "ideological-family-tree"
+    ],
+    "slug": "democracy-in-america"
+  },
+  {
+    "title": "Diffusion of Innovations",
+    "full_title": "Diffusion of Innovations",
+    "author": "Everett M. Rogers",
+    "published": "1962",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Diffusion+of+Innovations+Everett+M.+Rogers",
+    "where_seen": [
+      "Cited in Remote — Office Not Required, Remote — Office Not Required — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Remote — Office Not Required",
+        "url": "/books/remote-office-not-required"
+      },
+      {
+        "title": "Remote — Office Not Required",
+        "url": "/books/remote-office-not-required"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "technological-innovation"
+    ],
+    "slug": "diffusion-of-innovations"
+  },
+  {
+    "title": "Don't Shoot",
+    "full_title": "Don't Shoot",
+    "author": "David M. Kennedy",
+    "published": "2011",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Don%27t+Shoot+David+M.+Kennedy",
+    "where_seen": [
+      "Cited in Shortest Way Home, Shortest Way Home — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Shortest Way Home",
+        "url": "/books/shortest-way-home"
+      },
+      {
+        "title": "Shortest Way Home",
+        "url": "/books/shortest-way-home"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "people-over-politics"
+    ],
+    "slug": "don-t-shoot"
   },
   {
     "title": "F.I.A.S.C.O.",
@@ -163,6 +555,21 @@
       "capital-allocation"
     ],
     "slug": "f-i-a-s-c-o"
+  },
+  {
+    "title": "Finite and Infinite Games",
+    "full_title": "Finite and Infinite Games",
+    "author": "James P. Carse",
+    "published": "1986",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Finite+and+Infinite+Games+James+P.+Carse",
+    "where_seen": [
+      "Cited in Infinite Games, Infinite Games — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "finite-and-infinite-games"
   },
   {
     "title": "Genome",
@@ -205,6 +612,32 @@
       "language-of-discourse"
     ],
     "slug": "getting-to-yes"
+  },
+  {
+    "title": "Great Basin Kingdom",
+    "full_title": "Great Basin Kingdom",
+    "author": "Leonard J. Arrington",
+    "published": "1958",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Great+Basin+Kingdom+Leonard+J.+Arrington",
+    "where_seen": [
+      "Cited in Leonard Arrington and the Writing of Mormon History, Leonard Arrington and the Writing of Mormon History — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Leonard Arrington and the Writing of Mormon History",
+        "url": "/books/leonard-arrington-and-the-writing-of-mormon-history"
+      },
+      {
+        "title": "Leonard Arrington and the Writing of Mormon History",
+        "url": "/books/leonard-arrington-and-the-writing-of-mormon-history"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "religious-intellectualism"
+    ],
+    "slug": "great-basin-kingdom"
   },
   {
     "title": "Guns, Germs, and Steel",
@@ -270,6 +703,23 @@
     "slug": "how-the-scots-invented-the-modern-world"
   },
   {
+    "title": "How the World Really Works",
+    "full_title": "How the World Really Works",
+    "author": "Vaclav Smil",
+    "published": "2022",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=How+the+World+Really+Works+Vaclav+Smil",
+    "where_seen": [
+      "Cited in The AppetiZIRP, The AppetiZIRP — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [],
+    "recommendations": 1,
+    "tags": [
+      "technological-innovation"
+    ],
+    "slug": "how-the-world-really-works"
+  },
+  {
     "title": "How to Change Your Mind",
     "full_title": "How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence",
     "author": "Michael Pollan",
@@ -293,6 +743,32 @@
       "non-fiction"
     ],
     "slug": "how-to-change-your-mind"
+  },
+  {
+    "title": "How to Raise an Adult",
+    "full_title": "How to Raise an Adult",
+    "author": "Julie Lythcott-Haims",
+    "published": "2015",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=How+to+Raise+an+Adult+Julie+Lythcott-Haims",
+    "where_seen": [
+      "Cited in The Self-Driven Child, The Self-Driven Child — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "The Self-Driven Child",
+        "url": "/books/the-self-driven-child"
+      },
+      {
+        "title": "The Self-Driven Child",
+        "url": "/books/the-self-driven-child"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "education"
+    ],
+    "slug": "how-to-raise-an-adult"
   },
   {
     "title": "Ice Age",
@@ -335,6 +811,59 @@
       "language-of-discourse"
     ],
     "slug": "influence"
+  },
+  {
+    "title": "Irresistible",
+    "full_title": "Irresistible",
+    "author": "Adam Alter",
+    "published": "2017",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Irresistible+Adam+Alter",
+    "where_seen": [
+      "Cited in Digital Minimalism, Digital Minimalism — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Digital Minimalism",
+        "url": "/books/digital-minimalism"
+      },
+      {
+        "title": "Digital Minimalism",
+        "url": "/books/digital-minimalism"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "technological-innovation"
+    ],
+    "slug": "irresistible"
+  },
+  {
+    "title": "Jony Ive: The Genius Behind Apple's Greatest Products",
+    "full_title": "Jony Ive: The Genius Behind Apple's Greatest Products",
+    "author": "Leander Kahney",
+    "published": "2013",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Jony+Ive%3A+The+Genius+Behind+Apple%27s+Greatest+Products+Leander+Kahney",
+    "where_seen": [
+      "Cited in Jony Ive, Jony Ive — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Jony Ive",
+        "url": "/notes/jony-ive"
+      },
+      {
+        "title": "Jony Ive",
+        "url": "/notes/jony-ive"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "company-building",
+      "technological-innovation"
+    ],
+    "slug": "jony-ive-the-genius-behind-apple-s-greatest-products"
   },
   {
     "title": "Les Schwab: Pride in Performance",
