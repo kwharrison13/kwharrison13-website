@@ -47,6 +47,9 @@ export default defineConfig({
     // (disambiguated from the person page, and reconnects the synced highlights);
     // preserve the old book URL that was previously indexed.
     '/books/howard-w-hunter': '/books/howard-w-hunter-by-eleanor-knowles',
+    // "The Navalmanack" is the informal name for "The Almanack of Naval Ravikant"
+    // (the catalog title / canonical /books slug); a dup stub page was deleted.
+    '/books/the-navalmanack': '/books/the-almanack-of-naval-ravikant',
   },
   markdown: {
     remarkPlugins: [remarkStripRwid],
