@@ -23,4 +23,6 @@ _(nothing yet — placeholder)_
 
 ## Where it shows up
 
-_(auto-populated by lint)_
+- Temporal Wealth and the Kingdom of God — Brigham Young — "look to the heavens and try to learn wisdom until you can organize the native elements for your benefit"; troubles come "not so much from a lack of facts as a want of wisdom."
+
+_(also auto-populated by lint)_
