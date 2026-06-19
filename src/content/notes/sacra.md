@@ -24,12 +24,12 @@ related:
 
 ## How sources describe it
 
-- Listed in the [Contrary Research](/essays/contrary-research) market-landscape notes among reference/research sources for private companies. (from [Open-Source Knowledge - Research](/notes/open-source-knowledge-research))
+- Listed in the [Contrary Research](/essays/contrary-research) market-landscape notes among reference/research sources for private companies. (from Open-Source Knowledge - Research)
 - In the published essay [Open-Source Knowledge](/essays/open-source-knowledge), "[Sacra](/notes/sacra) and Substack are the documentation aggregators."
 
 ## Where it shows up
 
-- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — market landscape.
+- Open-Source Knowledge - Research — market landscape.
 
 ## Related concepts
 

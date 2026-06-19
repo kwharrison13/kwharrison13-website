@@ -26,7 +26,7 @@ related:
 
 ## Mentioned in
 
-- [The State of Startup Media - Research](/notes/the-state-of-startup-media-research) — listed under "Origin" as a call that helped spark the essay.
+- The State of Startup Media - Research — listed under "Origin" as a call that helped spark the essay.
 
 ## Open questions
 

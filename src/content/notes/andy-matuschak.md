@@ -4,10 +4,11 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-18"
 last_updated_by: "agent"
 sources:
   - "Roam Research export — Andy Matuschak, 'Why Books Don't Work' (reading highlights + notes): ~/Downloads/Why Books Don't Work.md"
+  - "wiki/books/How To Take Smart Notes.md"
 tags:
   - "writers"
   - "tools-for-thought"
@@ -34,6 +35,7 @@ related:
 
 ## Mentioned in
 
+- [How To Take Smart Notes](/books/how-to-take-smart-notes)
 - [Why Books Don't Work](/notes/why-books-don-t-work) — author; the essay is the primary source for this page.
 
 ## Open questions

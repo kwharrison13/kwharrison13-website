@@ -31,7 +31,7 @@ related:
 
 **Why it's on the list:** *[Michael Mauboussin](/notes/michael-mauboussin)'s framework for untangling skill from luck across business, sports, and investing — the canonical text behind the [Skill vs. Luck](/notes/skill-vs-luck) continuum and the recurring "investor vs. gambler" question.*
 
-**Where I saw it:** Recommended by [Kevin Gao](/notes/kevin-gao) during the May 2022 "what is an investor?" conversation (see [What Is An Investor - Research](/notes/what-is-an-investor-research)). Kevin pointed to it as the best source on skill vs. luck after Kyle asked for one, alongside a [Josh Wolfe](/notes/josh-wolfe) thread on the same theme.
+**Where I saw it:** Recommended by [Kevin Gao](/notes/kevin-gao) during the May 2022 "what is an investor?" conversation (see What Is An Investor - Research). Kevin pointed to it as the best source on skill vs. luck after Kyle asked for one, alongside a [Josh Wolfe](/notes/josh-wolfe) thread on the same theme.
 
 ## Connections
 
@@ -39,4 +39,4 @@ related:
 - [Skill vs. Luck](/notes/skill-vs-luck) — the skill↔luck continuum this book popularized.
 - [Knightian Uncertainty](/notes/knightian-uncertainty) — adjacent thread: where uncertainty is high, skill has more room to create an edge.
 - [Kevin Gao](/notes/kevin-gao) — recommended it.
-- [What Is An Investor - Research](/notes/what-is-an-investor-research) — where the recommendation was captured.
+- What Is An Investor - Research — where the recommendation was captured.

@@ -31,7 +31,7 @@ related:
 
 ## Where it shows up
 
-- [The Hardening Of The Great Softening - Research](/notes/the-hardening-of-the-great-softening-research)
+- The Hardening Of The Great Softening - Research
 - [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening)
 
 ## Related concepts

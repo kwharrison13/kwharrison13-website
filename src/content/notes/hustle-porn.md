@@ -22,4 +22,4 @@ _Stub page — not yet written. The performative glorification of overwork as id
 
 ## Where this appears
 
-- [The Renaissance of Rise and Grind - Research](/notes/the-renaissance-of-rise-and-grind-research)
+- The Renaissance of Rise and Grind - Research

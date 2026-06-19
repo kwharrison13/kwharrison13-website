@@ -24,11 +24,11 @@ related:
 
 ## How sources describe it
 
-- Noted alongside its research arm in the [Contrary Research](/essays/contrary-research) reference-source list. (from [Open-Source Knowledge - Research](/notes/open-source-knowledge-research))
+- Noted alongside its research arm in the [Contrary Research](/essays/contrary-research) reference-source list. (from Open-Source Knowledge - Research)
 
 ## Where it shows up
 
-- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — market landscape.
+- Open-Source Knowledge - Research — market landscape.
 
 ## Related concepts
 

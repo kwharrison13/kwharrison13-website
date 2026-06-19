@@ -3,7 +3,7 @@ title: "The Market Is The Greatest Critic"
 type: "longform"
 format: "article"
 publish: false
-author: "[[Semil Shah]]"
+author: "Semil Shah"
 url: "https://semilshah.com/2022/01/29/the-market-is-the-greatest-critic/"
 source_published: "2022-01-29"
 confidence: "high"

@@ -24,7 +24,7 @@ related:
 
 **One-line:** *Co-founder of Kleiner Perkins and one of the early godfathers of activist venture capital; famous for insisting "we are not investors… we are entrepreneurs ourselves."*
 
-_Stub page — created from [What Is An Investor - Research](/notes/what-is-an-investor-research) and [The Power Law — Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future). Expand on a future pass._
+_Stub page — created from What Is An Investor - Research and [The Power Law — Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future). Expand on a future pass._
 
 ## What we know
 
@@ -34,6 +34,6 @@ _Stub page — created from [What Is An Investor - Research](/notes/what-is-an-i
 
 ## Where this appears
 
-- [What Is An Investor - Research](/notes/what-is-an-investor-research)
+- What Is An Investor - Research
 - [What Is An Investor](/essays/what-is-an-investor)
 - [The Power Law — Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future)

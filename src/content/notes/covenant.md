@@ -1,0 +1,24 @@
+---
+title: "Covenant"
+type: "concept"
+publish: false
+confidence: "low"
+created: "2026-06-18"
+updated: "2026-06-18"
+last_updated_by: "agent"
+sources:
+  - "wiki/gospel-study/The Process of the Book of Mormon.md"
+tags: []
+aliases:
+  - "Covenant"
+related: []
+reference_count: 1
+---
+
+# Covenant
+
+_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+
+## Where this appears
+
+- The Process of the Book of Mormon

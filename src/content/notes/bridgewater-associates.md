@@ -30,4 +30,4 @@ related:
 ## Where it shows up
 
 - The Storytelling of Investing - Research
-- [The State of Startup Media - Research](/notes/the-state-of-startup-media-research) — Kyle's call with [Amit Shah](/notes/amit-shah) at Bridgewater helped seed [The State of Startup Media](/essays/the-state-of-startup-media).
+- The State of Startup Media - Research — Kyle's call with [Amit Shah](/notes/amit-shah) at Bridgewater helped seed [The State of Startup Media](/essays/the-state-of-startup-media).

@@ -1,0 +1,24 @@
+---
+title: "Vaughn J. Featherstone"
+type: "person"
+publish: false
+confidence: "low"
+created: "2026-06-18"
+updated: "2026-06-18"
+last_updated_by: "agent"
+sources:
+  - "wiki/gospel-study/Humility.md"
+tags: []
+aliases:
+  - "Vaughn J. Featherstone"
+related: []
+reference_count: 1
+---
+
+# Vaughn J. Featherstone
+
+_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+
+## Where this appears
+
+- [Humility](/notes/humility)

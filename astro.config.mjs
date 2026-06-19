@@ -22,7 +22,9 @@ function remarkStripRwid() {
 }
 
 export default defineConfig({
-  site: 'https://kwharrison13.com',
+  // Canonical host is www (apex 307-redirects to www). Using the apex here made
+  // the generated sitemap advertise non-canonical URLs that all redirect.
+  site: 'https://www.kwharrison13.com',
   integrations: [sitemap()],
   // Collapsed duplicate essays that the additive wiki→website sync left behind.
   // Each essay had a stale title-slugged file (old import-essays.py schema, image-poor)

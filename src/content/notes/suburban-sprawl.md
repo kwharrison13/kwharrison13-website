@@ -1,5 +1,5 @@
 ---
-title: "suburban sprawl"
+title: "Suburban Sprawl"
 type: "concept"
 publish: false
 confidence: "low"
@@ -15,8 +15,7 @@ related: []
 reference_count: 1
 ---
 
-# suburban sprawl
-
+# Suburban Sprawl
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 
 ## Where this appears

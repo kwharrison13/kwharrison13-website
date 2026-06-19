@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-18"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
@@ -37,3 +37,12 @@ _Stub — concept captured from Kyle's June 29th, 2021 Roam "Quick Capture" read
 - https://drive.google.com/file/d/1WWgKrb9FNfi57PxRhry4CBWv8Qq4kH6Y/view
 - https://statusmoney.com/
 - https://financialgym.com/
+
+
+## Quick Capture links — June 18, 2026
+
+_Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
+
+- https://www.cnbc.com/amp/2019/08/07/here-are-5-things-i-regret-not-doing-before-retiring-early-at-34.html — CNBC: 5 things I regret not doing before retiring early at 34. #[Retirement](/notes/retirement) #[Financial Independence](/notes/financial-independence)
+- https://www.businessinsider.com/personal-finance/early-retiree-money-spreadsheet-habit-tracking-strategy-2019-8 — Business Insider: an early retiree's money spreadsheet & habit-tracking strategy. #[Retirement](/notes/retirement)
+- https://www.cnbc.com/amp/2019/07/05/how-much-money-do-you-need-to-retire.html — CNBC: how much money do you need to retire. #[Retirement](/notes/retirement)

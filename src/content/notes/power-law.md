@@ -25,4 +25,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - [Skunk Works](/books/skunk-works)
-- [What Is An Investor - Research](/notes/what-is-an-investor-research) — "one big winner covers the losses of every other investment in a fund," the core ethos behind [The Power Law — Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future).
+- What Is An Investor - Research — "one big winner covers the losses of every other investment in a fund," the core ethos behind [The Power Law — Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future).

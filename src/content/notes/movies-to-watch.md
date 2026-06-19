@@ -1,5 +1,5 @@
 ---
-title: "movies-to-watch"
+title: "Movies to Watch"
 type: "concept"
 publish: false
 confidence: "medium"
@@ -18,8 +18,7 @@ aliases:
 related: []
 ---
 
-# movies-to-watch
-
+# Movies to Watch
 **One-line definition:** *Running watchlist — films and specials captured via #[Quick Capture](/notes/quick-capture) to watch later.*
 
 ## Watchlist

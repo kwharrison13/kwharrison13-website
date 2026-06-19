@@ -3,22 +3,29 @@ title: "Africa"
 type: "concept"
 publish: false
 confidence: "low"
-created: "2026-06-17"
-updated: "2026-06-17"
+created: "2026-06-18"
+updated: "2026-06-18"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/June 29th, 2021 — Shara (Pre-Brief).md"
+  - "Kyle's manual link/reading capture — June 18, 2026 (batch import from saved bookmarks)"
 tags: []
 aliases:
   - "Africa"
-related: []
-reference_count: 1
+related:
+  - "[[Entrepreneurship]]"
 ---
 
 # Africa
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page(s)._
+_Stub — concept captured from Kyle's manual link/reading capture on June 18, 2026. The links below are sources Kyle saved to explore this topic; not yet synthesized._
 
-## Where this appears
+## Quick Capture links — June 18, 2026
 
-- June 29th, 2021 — Shara (Pre-Brief)
+_Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
+
+- https://www.marketwatch.com/amp/story/guid/E2056D10-1DC3-11EA-A37B-63BB81D511AD — MarketWatch — Africa piece (late 2019). (→ articles-to-read)
+- https://www.irishtimes.com/business/economy/entrepreneurs-in-uganda-are-taking-control-of-their-own-destiny-1.4092107 — Irish Times: entrepreneurs in Uganda are taking control of their own destiny. #[Entrepreneurship](/notes/entrepreneurship)
+
+## Related concepts
+
+- [Entrepreneurship](/notes/entrepreneurship)

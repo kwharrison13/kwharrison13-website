@@ -4,10 +4,11 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-18"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Utopia For Realists.md"
+  - "wiki/books/Walt Disney and the Promise of Progress City.md"
 tags: []
 aliases:
   - "Henry Ford"
@@ -29,4 +30,5 @@ _Stub page — created from [Utopia For Realists](/books/utopia-for-realists). E
 
 ## Mentioned in
 
+- [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city)
 - [Utopia For Realists](/books/utopia-for-realists)

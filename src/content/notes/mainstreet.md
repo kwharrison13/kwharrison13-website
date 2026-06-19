@@ -3,22 +3,30 @@ title: "MainStreet"
 type: "concept"
 publish: false
 confidence: "low"
-created: "2026-06-17"
-updated: "2026-06-17"
+created: "2026-06-18"
+updated: "2026-06-18"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/November 15th, 2021 — Anrok Partner Presentation.md"
+  - "Kyle's manual link/reading capture — June 18, 2026 (batch import from saved bookmarks)"
 tags: []
 aliases:
   - "MainStreet"
-related: []
-reference_count: 1
+related:
+  - "[[Prosperable]]"
+  - "[[Small Towns]]"
 ---
 
 # MainStreet
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page(s)._
+_Stub — concept captured from Kyle's manual link/reading capture on June 18, 2026. The links below are sources Kyle saved to explore this topic; not yet synthesized._
 
-## Where this appears
+## Quick Capture links — June 18, 2026
 
-- November 15th, 2021 — Anrok Partner Presentation
+_Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
+
+- https://amp.cnn.com/cnn/2019/11/13/business/mainstreet-silicon-valley-trnd/index.html — CNN: MainStreet brings Silicon-Valley-style tax-credit help to small towns. #[Prosperable](/notes/prosperable) #[Small Towns](/notes/small-towns)
+
+## Related concepts
+
+- [Prosperable](/notes/prosperable)
+- [Small Towns](/notes/small-towns)

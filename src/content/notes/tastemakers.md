@@ -33,7 +33,7 @@ related:
 ## Where this appears
 
 - [The Hits Business](/essays/the-hits-business) — "At the Mercy of the Zeitgeist."
-- [The Hits Business - Research](/notes/the-hits-business-research)
+- The Hits Business - Research
 
 ## Related concepts
 

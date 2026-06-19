@@ -30,4 +30,4 @@ related:
 ## Mentioned in
 
 - [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — the "don't be afraid to accept what's obvious" playbook item.
-- [Conviction-Led Contrarianism - Research](/notes/conviction-led-contrarianism-research) — research notes.
+- Conviction-Led Contrarianism - Research — research notes.

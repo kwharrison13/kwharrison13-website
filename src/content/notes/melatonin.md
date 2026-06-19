@@ -1,5 +1,5 @@
 ---
-title: "melatonin"
+title: "Melatonin"
 type: "concept"
 publish: false
 confidence: "low"
@@ -16,8 +16,7 @@ related: []
 reference_count: 2
 ---
 
-# melatonin
-
+# Melatonin
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **2** wiki pages._
 
 ## Where this appears

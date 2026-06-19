@@ -59,6 +59,32 @@ function bookSlug(title) {
     .replace(/^-+|-+$/g, '');
 }
 
+// The set of slugs that actually have a rendered /books/<slug> page. Book pages
+// are generated EXCLUSIVELY from the books.json catalog (see books/[slug].astro
+// getStaticPaths), NOT from wiki/books/*.md. So a wikilink to a book that isn't
+// in the catalog (e.g. a publish:false stub for a book merely cited inside
+// another book, like "Stuck in Place") would resolve to a /books/ URL that 404s
+// — books have no "private note" landing fallback the way notes do. Gate book
+// wikilinks on catalog membership; non-catalog books unwrap to plain text.
+let _catalogBookSlugs = null;
+function getCatalogBookSlugs() {
+  if (_catalogBookSlugs) return _catalogBookSlugs;
+  _catalogBookSlugs = new Set();
+  try {
+    const catalog = JSON.parse(
+      fs.readFileSync(path.join(WEBSITE_ROOT, 'src', 'data', 'books.json'), 'utf8'),
+    );
+    const add = (b) => { if (b && b.title) _catalogBookSlugs.add(bookSlug(b.title)); };
+    for (const b of catalog.quake_books || []) add(b);
+    for (const books of Object.values(catalog.library || {})) {
+      for (const b of books) add(b);
+    }
+  } catch (e) {
+    console.warn('[resolver] could not load books.json catalog:', e.message);
+  }
+  return _catalogBookSlugs;
+}
+
 // ---------- minimal frontmatter parser (subset of YAML we use) ----------
 
 function parseFrontmatter(text) {
@@ -155,7 +181,9 @@ function formatScalar(v) {
 function quoteIfNeeded(s) {
   if (s === '') return '""';
   if (/^[A-Za-z0-9_\-/.]+$/.test(s)) return `"${s}"`;
-  return `"${s.replace(/"/g, '\\"')}"`;
+  // Escape backslashes before quotes so a literal backslash in a value can't
+  // produce invalid YAML that breaks the whole build (see sync-notes quote()).
+  return `"${s.replace(/\\/g, '\\\\').replace(/"/g, '\\"')}"`;
 }
 
 // ---------- section parser ----------
@@ -209,6 +237,10 @@ function getResolver() {
         (kind === 'essays' || kind === 'books') && fm.website_slug
           ? fm.website_slug
           : bookSlug(title);
+      // A book wikilink only resolves if the book actually renders, i.e. its
+      // slug exists in the books.json catalog. Otherwise skip it so the link
+      // unwraps to plain text instead of pointing at a 404.
+      if (kind === 'books' && !getCatalogBookSlugs().has(slug)) continue;
       const stem = f.replace(/\.md$/, '');
       const names = new Set([stem, title]);
       if (Array.isArray(fm.aliases)) for (const a of fm.aliases) names.add(a);

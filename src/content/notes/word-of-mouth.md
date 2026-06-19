@@ -1,5 +1,5 @@
 ---
-title: "word of mouth"
+title: "Word of Mouth"
 type: "concept"
 publish: false
 confidence: "low"
@@ -15,8 +15,7 @@ related: []
 reference_count: 1
 ---
 
-# word of mouth
-
+# Word of Mouth
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 
 ## Where this appears

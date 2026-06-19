@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-18"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
@@ -24,3 +24,10 @@ _Stub — concept captured from Kyle's June 29th, 2021 Roam "Quick Capture" read
 - https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
 - https://www.technologyreview.com/2019/02/19/239592/once-hailed-as-unhackable-blockchains-are-now-getting-hacked/
 - https://panteracapital.com/
+
+
+## Quick Capture links — June 18, 2026
+
+_Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
+
+- https://sifted.eu/articles/alternative-to-vc-investing/ — Sifted: an alternative to VC investing. #[Investment Returns](/notes/investment-returns) #[Alternative Investing](/notes/alternative-investing)

@@ -26,4 +26,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - [Working in Public](/books/working-in-public)
-- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — author of *Working in Public*, the book that seeded Kyle's "open-source knowledge" idea.
+- Open-Source Knowledge - Research — author of *Working in Public*, the book that seeded Kyle's "open-source knowledge" idea.

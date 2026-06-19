@@ -24,8 +24,8 @@ related:
 
 ## How it shows up
 
-- Kyle followed **PitchBook News** circa 2017 (source: [The State of Startup Media - Research](/notes/the-state-of-startup-media-research) — 2017 inventory).
+- Kyle followed **PitchBook News** circa 2017 (source: The State of Startup Media - Research — 2017 inventory).
 
 ## Where it shows up
 
-- [The State of Startup Media - Research](/notes/the-state-of-startup-media-research) — *PitchBook News* in the 2017 inventory.
+- The State of Startup Media - Research — *PitchBook News* in the 2017 inventory.

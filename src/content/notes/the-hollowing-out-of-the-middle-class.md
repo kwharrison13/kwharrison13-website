@@ -28,12 +28,12 @@ related:
 
 ## How sources describe it
 
-- In the [Great Softening research](/notes/the-hardening-of-the-great-softening-research): "The floor that held that group up (e.g. manufacturing) has given out. Fewer low education jobs that provide great financial stability." Kyle pairs this with the observation that the US "used to have a higher floor," and that the felt decline is less about everyone being worse off than about income inequality being exacerbated (a [Noah Smith](/notes/noah-smith) argument).
+- In the Great Softening research: "The floor that held that group up (e.g. manufacturing) has given out. Fewer low education jobs that provide great financial stability." Kyle pairs this with the observation that the US "used to have a higher floor," and that the felt decline is less about everyone being worse off than about income inequality being exacerbated (a [Noah Smith](/notes/noah-smith) argument).
 - A counterweight in the same notes: "we have the baseline of 'things' — we all drink the same Diet Coke and have the same iPhones."
 
 ## Where it shows up
 
-- [The Hardening Of The Great Softening - Research](/notes/the-hardening-of-the-great-softening-research)
+- The Hardening Of The Great Softening - Research
 - [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening) — income-inequality framing of generational decline.
 
 ## Related concepts

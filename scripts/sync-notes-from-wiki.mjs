@@ -51,6 +51,30 @@ function slugify(title) {
     .replace(/^-+|-+$/g, '');
 }
 
+// Slugs that actually have a rendered /books/<slug> page. Book pages come ONLY
+// from the books.json catalog (books/[slug].astro), not from wiki/books/*.md.
+// A wikilink to a non-catalog book (e.g. a publish:false stub for a book merely
+// cited inside another book) would otherwise resolve to a /books/ URL that 404s.
+// Gate book wikilinks on catalog membership; non-catalog books unwrap to text.
+let _catalogBookSlugs = null;
+function getCatalogBookSlugs() {
+  if (_catalogBookSlugs) return _catalogBookSlugs;
+  _catalogBookSlugs = new Set();
+  try {
+    const catalog = JSON.parse(
+      fs.readFileSync(path.join(WEBSITE_ROOT, 'src', 'data', 'books.json'), 'utf8'),
+    );
+    const add = (b) => { if (b && b.title) _catalogBookSlugs.add(slugify(b.title)); };
+    for (const b of catalog.quake_books || []) add(b);
+    for (const books of Object.values(catalog.library || {})) {
+      for (const b of books) add(b);
+    }
+  } catch (e) {
+    console.warn('[resolver] could not load books.json catalog:', e.message);
+  }
+  return _catalogBookSlugs;
+}
+
 function parseFrontmatter(text) {
   const m = text.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
   if (!m) return { frontmatter: {}, body: text, rawFm: '' };
@@ -98,6 +122,8 @@ function indexCollection(dir, kind) {
     // Essays resolve to their website slug, which can differ from slugify(title)
     // (e.g. title "Investing 101 2.0" lives at /essays/coming-soon).
     const slug = kind === 'essays' && fm.website_slug ? fm.website_slug : slugify(title);
+    // Skip book wikilinks whose slug isn't a real catalog page (would 404).
+    if (kind === 'books' && !getCatalogBookSlugs().has(slug)) continue;
     const names = new Set([stem, title]);
     if (Array.isArray(fm.aliases)) for (const a of fm.aliases) names.add(a);
     for (const n of names) {
@@ -202,7 +228,12 @@ function serializeFrontmatter(fm) {
 function quote(s) {
   if (s === '') return '""';
   if (/^[A-Za-z0-9_\-./]+$/.test(s)) return `"${s}"`;
-  return `"${s.replace(/"/g, '\\"')}"`;
+  // Escape backslashes BEFORE quotes. Escaping only " (the old behavior) left a
+  // literal backslash in a title (e.g. an already-escaped \") unescaped, which
+  // YAML reads as an early string-end ("bad indentation of a mapping entry") and
+  // breaks the ENTIRE content build, not just that page. JSON string escaping is
+  // a valid YAML double-quoted scalar, so this can never emit invalid YAML.
+  return `"${s.replace(/\\/g, '\\\\').replace(/"/g, '\\"')}"`;
 }
 
 function syncOne(filePath) {

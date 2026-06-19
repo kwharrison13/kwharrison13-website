@@ -34,7 +34,7 @@ related:
 ## Where it shows up
 
 - [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — the hype-countercyclical argument.
-- [Conviction-Led Contrarianism - Research](/notes/conviction-led-contrarianism-research) — research notes.
+- Conviction-Led Contrarianism - Research — research notes.
 - [Building American Dynamism](/notes/building-american-dynamism) — [Katherine Boyle](/notes/katherine-boyle)'s essay coining the term.
 - June 6th, 2022 — Katherine Boyle (a16z) — Boyle on differentiated missions and "true believers."
 

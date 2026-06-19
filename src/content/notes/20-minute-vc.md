@@ -25,11 +25,11 @@ related:
 
 ## How sources describe it
 
-- Noted as one of the reference sources for understanding companies and investors. (from [Open-Source Knowledge - Research](/notes/open-source-knowledge-research))
+- Noted as one of the reference sources for understanding companies and investors. (from Open-Source Knowledge - Research)
 
 ## Where it shows up
 
-- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — market landscape.
+- Open-Source Knowledge - Research — market landscape.
 
 ## Related concepts
 

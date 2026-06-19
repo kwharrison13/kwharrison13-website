@@ -33,7 +33,7 @@ related:
 ## Where it shows up
 
 - [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — the goal state of the whole essay; "Seek deviance" is the final playbook item.
-- [Conviction-Led Contrarianism - Research](/notes/conviction-led-contrarianism-research) — research notes.
+- Conviction-Led Contrarianism - Research — research notes.
 
 ## Related concepts
 

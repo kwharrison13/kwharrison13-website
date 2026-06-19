@@ -1,5 +1,5 @@
 ---
-title: "might, mind, and strength"
+title: "Might, Mind, and Strength"
 type: "concept"
 publish: false
 confidence: "low"
@@ -15,8 +15,7 @@ related: []
 reference_count: 1
 ---
 
-# might, mind, and strength
-
+# Might, Mind, and Strength
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 
 ## Where this appears

@@ -4,13 +4,14 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-18"
 last_updated_by: "agent"
 sources:
   - "wiki/gospel-study/General Conference- October 2021.md"
 tags: []
 aliases:
   - "Whatever you are, be a good one"
+  - "Whatever You Are Be A Good One"
 related: []
 reference_count: 1
 ---

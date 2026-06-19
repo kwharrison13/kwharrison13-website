@@ -78,7 +78,7 @@ related:
     - [Growth Mindset](/notes/growth-mindset) #A List of All Major Psyc... (highlights)
         - "Belief that one's ability and knowledge are capable of evolving." [Carol Dweck](/notes/carol-dweck)
 - [Education](/notes/education)
-    - Samuel Reed Hall outlined some impediments to Teaching in "Lectures on School Keeping"
+    - Samuel Reed Hall outlined some impediments to [Teaching](/notes/teaching) in "Lectures on School Keeping"
         - Lack of supplies
         - Political factions within the school district at the expense of educational progress
         - Poorly qualified teachers

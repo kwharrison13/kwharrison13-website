@@ -30,12 +30,12 @@ related:
 
 - "We need to understand where an activity falls on a continuum from pure skill/no luck on one extreme to no skill/pure luck on the other… running races are nearly all skill… and roulette wheels are all luck. Everything else is somewhere between." — [Michael Mauboussin](/notes/michael-mauboussin), [Untangling Skill and Luck](https://hbr.org/2011/02/untangling-skill-and-luck).
 - "We have a strong tendency to dwell on outcomes without considering the role of process… **We need to find performance measures that reflect skill, or elements of the outcome that we can control.**" — [Michael Mauboussin](/notes/michael-mauboussin).
-- "Too often, we mistake luck for success and perfect circumstances for personal competence… many extraordinarily successful people… are just downright lucky… So the key is to position yourself in a way to maximize your luck." — [Josh Wolfe](/notes/josh-wolfe), via [What Is An Investor - Research](/notes/what-is-an-investor-research).
+- "Too often, we mistake luck for success and perfect circumstances for personal competence… many extraordinarily successful people… are just downright lucky… So the key is to position yourself in a way to maximize your luck." — [Josh Wolfe](/notes/josh-wolfe), via What Is An Investor - Research.
 - Kyle's framing: a public stock-picker and a card counter have more in common (skill end); a day trader and a craps shooter are similar (luck end). The more exposed you are to luck, some argue, the less of an "investor" you are — but strategy and outcomes shouldn't be conflated. (see [What Is An Investor](/essays/what-is-an-investor))
 
 ## Where it shows up
 
-- [What Is An Investor - Research](/notes/what-is-an-investor-research) — the May 2022 [Kevin Gao](/notes/kevin-gao) conversation and the Mauboussin/Wolfe reading notes.
+- What Is An Investor - Research — the May 2022 [Kevin Gao](/notes/kevin-gao) conversation and the Mauboussin/Wolfe reading notes.
 - [What Is An Investor](/essays/what-is-an-investor) — "Luck vs. Skill" and "Don't Make It Personal" sections.
 
 ## Related concepts

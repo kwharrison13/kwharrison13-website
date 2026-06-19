@@ -27,11 +27,11 @@ related:
 
 ## How sources describe it
 
-- In the [Great Softening research](/notes/the-hardening-of-the-great-softening-research): "Increase immigration to 1b Americans — Matt [Yglesias]." It appears in the thread weighing whether America is in decline, alongside the idea that immigrants may be the most aspirational people and that great powers (Romans → British) average roughly 200 years.
+- In the Great Softening research: "Increase immigration to 1b Americans — Matt [Yglesias]." It appears in the thread weighing whether America is in decline, alongside the idea that immigrants may be the most aspirational people and that great powers (Romans → British) average roughly 200 years.
 
 ## Where it shows up
 
-- [The Hardening Of The Great Softening - Research](/notes/the-hardening-of-the-great-softening-research)
+- The Hardening Of The Great Softening - Research
 
 ## Related concepts
 

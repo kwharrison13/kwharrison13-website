@@ -35,5 +35,5 @@ _Stub page — created from It's Time To Build... But Build What - Research. Exp
 ## Where this appears
 
 - It's Time To Build... But Build What - Research
-- [What Is An Investor - Research](/notes/what-is-an-investor-research)
+- What Is An Investor - Research
 - [What Is An Investor](/essays/what-is-an-investor)

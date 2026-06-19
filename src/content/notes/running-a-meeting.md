@@ -1,5 +1,5 @@
 ---
-title: "running a meeting"
+title: "Running a Meeting"
 type: "concept"
 publish: false
 confidence: "low"
@@ -15,8 +15,7 @@ related: []
 reference_count: 1
 ---
 
-# running a meeting
-
+# Running a Meeting
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 
 ## Where this appears

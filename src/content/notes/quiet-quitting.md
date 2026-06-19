@@ -22,4 +22,4 @@ _Stub page — not yet written. The 2021–2022 trend of disengaging at work and
 
 ## Where this appears
 
-- [The Renaissance of Rise and Grind - Research](/notes/the-renaissance-of-rise-and-grind-research)
+- The Renaissance of Rise and Grind - Research

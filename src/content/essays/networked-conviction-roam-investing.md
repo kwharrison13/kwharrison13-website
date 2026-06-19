@@ -38,7 +38,7 @@ In case videos are more your style, I’ve included some guided videos throughou
 
 ## **Pages and Blocks**
 
-The most important thing to understand about Roam is that it is a collection of pages and blocks (each individual bullet point is a block). A good analogy is to Excel. Each page is like a tab in Excel and each block is a cell. To create a page you put any word or phase in between `[[double brackets]]`. You can also use #Page but if it’s two words you need to use double brackets, `#[[New Page]]` and the # is a style choice of whether you want the link blue or faded grey. Two of the most common types of pages I use are lists like `[[Investment Memo Template]]` or `[[Investment Frameworks]]`, and then company pages like `[[Shopify ($SHOP)]]`.
+The most important thing to understand about Roam is that it is a collection of pages and blocks (each individual bullet point is a block). A good analogy is to Excel. Each page is like a tab in Excel and each block is a cell. To create a page you put any word or phase in between `double brackets`. You can also use #Page but if it’s two words you need to use double brackets, `#[[New Page]]` and the # is a style choice of whether you want the link blue or faded grey. Two of the most common types of pages I use are lists like `[[Investment Memo Template]]` or `[[Investment Frameworks]]`, and then company pages like `[[Shopify ($SHOP)]]`.
 
 ## **Block References**
 

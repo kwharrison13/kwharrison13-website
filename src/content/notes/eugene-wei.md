@@ -28,4 +28,4 @@ related:
 
 ## Mentioned in
 
-- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — attention-arena framing.
+- Open-Source Knowledge - Research — attention-arena framing.

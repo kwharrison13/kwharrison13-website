@@ -22,4 +22,4 @@ _Stub page — not yet written. Theodore Roosevelt's "man in the arena" passage 
 
 ## Where this appears
 
-- [The Renaissance of Rise and Grind - Research](/notes/the-renaissance-of-rise-and-grind-research)
+- The Renaissance of Rise and Grind - Research

@@ -25,11 +25,11 @@ related:
 
 ## How sources describe it
 
-- Stated almost as a definition in the [Great Softening research](/notes/the-hardening-of-the-great-softening-research): "Lifestyle creep: your lifestyle expands to fill your income." It sits in a cluster with [golden handcuffs](/notes/golden-handcuffs) and [loss aversion](/notes/loss-aversion) about why people stay in unfulfilling work.
+- Stated almost as a definition in the Great Softening research: "Lifestyle creep: your lifestyle expands to fill your income." It sits in a cluster with [golden handcuffs](/notes/golden-handcuffs) and [loss aversion](/notes/loss-aversion) about why people stay in unfulfilling work.
 
 ## Where it shows up
 
-- [The Hardening Of The Great Softening - Research](/notes/the-hardening-of-the-great-softening-research)
+- The Hardening Of The Great Softening - Research
 
 ## Related concepts
 

@@ -4,10 +4,11 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-18"
 last_updated_by: "agent"
 sources:
   - "https://speeches.byu.edu/talks/truman-g-madsen/joseph-smiths-personality-and-character/"
+  - "wiki/books/The Self-Driven Child.md"
 tags:
   - "religious-intellectualism"
   - "mormonism"
@@ -32,6 +33,7 @@ related:
 
 ## Mentioned in
 
+- [The Self-Driven Child](/books/the-self-driven-child)
 - Joseph Smith Lecture 1 — The First Vision and Its Aftermath — author of the lecture (first in the series).
 - [Joseph Smith Lecture 2 — Joseph's Personality and Character](/notes/joseph-smith-lecture-2-joseph-s-personality-and-character) — author of the lecture.
 

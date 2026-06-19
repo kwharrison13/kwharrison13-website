@@ -21,7 +21,7 @@ related:
 
 ## What we know
 
-- Author of [Stuck in Place](/books/stuck-in-place), a major study of racially concentrated poverty. (source: [The New Urban Crisis](/books/the-new-urban-crisis))
+- Author of Stuck in Place, a major study of racially concentrated poverty. (source: [The New Urban Crisis](/books/the-new-urban-crisis))
 - Argues "neighborhood inequality is multi-generational, something that is passed down from parents to children in the same way that genetic background and financial wealth are transmitted across generations." (source: [The New Urban Crisis](/books/the-new-urban-crisis))
 
 ## Mentioned in

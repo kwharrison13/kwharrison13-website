@@ -35,5 +35,5 @@ related:
 
 ## Mentioned in
 
-- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — *Reinventing Discovery* as a reading thread.
+- Open-Source Knowledge - Research — *Reinventing Discovery* as a reading thread.
 - [Why Books Don't Work](/notes/why-books-don-t-work) — co-creator of Quantum Country and collaborator on Matuschak's research program.

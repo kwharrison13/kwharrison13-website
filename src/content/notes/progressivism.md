@@ -27,12 +27,12 @@ related:
 
 ## How sources describe it
 
-- In the [Great Softening research](/notes/the-hardening-of-the-great-softening-research), Kyle declares: "I'm a progressivist (technological, spiritual, ideological)," and poses progressivism vs. [Primitivism](/notes/primitivism) as the central tension of the piece.
+- In the Great Softening research, Kyle declares: "I'm a progressivist (technological, spiritual, ideological)," and poses progressivism vs. [Primitivism](/notes/primitivism) as the central tension of the piece.
 - In the published essay [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening) (and earlier in [Toil We Must](/essays/toil-we-must)), he echoes this: "I want more technology. I want more progression… but I'm also a big believer in personal growth, not just economic growth."
 
 ## Where it shows up
 
-- [The Hardening Of The Great Softening - Research](/notes/the-hardening-of-the-great-softening-research) — primitivism vs. progressivism frame.
+- The Hardening Of The Great Softening - Research — primitivism vs. progressivism frame.
 - [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening) — "I consider myself a progressivist."
 
 ## Related concepts

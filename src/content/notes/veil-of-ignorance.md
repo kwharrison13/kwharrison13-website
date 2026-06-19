@@ -25,11 +25,11 @@ related:
 
 ## How sources describe it
 
-- In the [Great Softening research](/notes/the-hardening-of-the-great-softening-research), Kyle invokes it as a test of American fairness: "What country would you live in if you didn't know what race or gender you were going to be?" — paired with "Where does someone born in poverty have a better economic opportunity?"
+- In the Great Softening research, Kyle invokes it as a test of American fairness: "What country would you live in if you didn't know what race or gender you were going to be?" — paired with "Where does someone born in poverty have a better economic opportunity?"
 
 ## Where it shows up
 
-- [The Hardening Of The Great Softening - Research](/notes/the-hardening-of-the-great-softening-research) — used to interrogate the floor vs. ceiling tradeoff of the American Dream.
+- The Hardening Of The Great Softening - Research — used to interrogate the floor vs. ceiling tradeoff of the American Dream.
 
 ## Related concepts
 

@@ -32,5 +32,5 @@ related:
 
 ## Where it shows up
 
-- [The State of Startup Media - Research](/notes/the-state-of-startup-media-research) — Term Sheet, Data Sheet, and Eye on AI in the 2017 inventory; Term Sheet anchors the "personal frame."
+- The State of Startup Media - Research — Term Sheet, Data Sheet, and Eye on AI in the 2017 inventory; Term Sheet anchors the "personal frame."
 - [The State of Startup Media](/essays/the-state-of-startup-media) — Fortune Term Sheet named as the resource added when Kyle entered venture in 2014.

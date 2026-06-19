@@ -1,5 +1,5 @@
 ---
-title: "lesser of two evils"
+title: "Lesser of Two Evils"
 type: "concept"
 publish: false
 confidence: "low"
@@ -15,8 +15,7 @@ related: []
 reference_count: 1
 ---
 
-# lesser of two evils
-
+# Lesser of Two Evils
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 
 ## Where this appears

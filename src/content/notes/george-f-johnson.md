@@ -4,11 +4,12 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-18"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Unions, Unions Everywhere - Research.md"
   - "https://en.wikipedia.org/wiki/George_F._Johnson"
+  - "wiki/books/George F. Johnson and His Industrial Democracy.md"
 tags:
   - "labor"
   - "city-building"
@@ -40,6 +41,7 @@ related:
 
 ## Mentioned in
 
+- [George F. Johnson and His Industrial Democracy](/books/george-f-johnson-and-his-industrial-democracy)
 - Unions, Unions Everywhere - Research — the origin story and emotional anchor of the essay; the "if every company were a George F., we wouldn't need unions" argument.
 
 ## Open questions

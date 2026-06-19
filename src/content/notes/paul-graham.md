@@ -4,10 +4,11 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-18"
 last_updated_by: "agent"
 sources:
   - "https://medium.com/@kwharrison13/the-new-urban-crisis-book-review-quotes-33a0b7b7bb27"
+  - "wiki/books/The Psychology of Money.md"
 aliases:
   - "Paul Graham"
 related:
@@ -25,4 +26,5 @@ related:
 
 ## Mentioned in
 
+- [The Psychology of Money](/books/the-psychology-of-money)
 - [The New Urban Crisis](/books/the-new-urban-crisis) — startups as "manufacturers of inequality."

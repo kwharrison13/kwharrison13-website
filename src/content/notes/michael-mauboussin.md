@@ -26,16 +26,16 @@ related:
 
 **One-line:** *Investment strategist and author; his work on untangling skill from luck (the "paradox of skill," the skill-luck continuum) is Kyle's go-to reference for the luck-vs-skill question in investing.*
 
-_Stub page — created from [What Is An Investor - Research](/notes/what-is-an-investor-research). Expand on a future pass._
+_Stub page — created from What Is An Investor - Research. Expand on a future pass._
 
 ## What we know
 
-- Author of [The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing](/notes/the-success-equation). (source: [What Is An Investor - Research](/notes/what-is-an-investor-research))
+- Author of [The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing](/notes/the-success-equation). (source: What Is An Investor - Research)
 - His HBR summary [Untangling Skill and Luck](https://hbr.org/2011/02/untangling-skill-and-luck) frames two moves: find performance measures that reflect *skill* (process over outcome), and locate an activity on the continuum from pure skill to pure luck.
 - Argues many compensation programs (e.g. employee stock options) end up paying for randomness rather than skill.
 - See [Skill vs. Luck](/notes/skill-vs-luck).
 
 ## Where this appears
 
-- [What Is An Investor - Research](/notes/what-is-an-investor-research)
+- What Is An Investor - Research
 - [What Is An Investor](/essays/what-is-an-investor)

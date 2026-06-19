@@ -28,4 +28,4 @@ related:
 
 ## Mentioned in
 
-- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — composability of ideas.
+- Open-Source Knowledge - Research — composability of ideas.

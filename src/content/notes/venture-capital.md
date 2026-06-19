@@ -27,4 +27,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters)
 - [VC](/books/vc)
-- [What Is An Investor - Research](/notes/what-is-an-investor-research) — VC as one bucket among many investor types; the "we are not investors" / value-creation framing of [Tom Perkins](/notes/tom-perkins) and [Ho Nam](/notes/ho-nam).
+- What Is An Investor - Research — VC as one bucket among many investor types; the "we are not investors" / value-creation framing of [Tom Perkins](/notes/tom-perkins) and [Ho Nam](/notes/ho-nam).

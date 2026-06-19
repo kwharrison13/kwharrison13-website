@@ -24,7 +24,7 @@ related:
 
 ## What we know
 
-- Author of [The Rise of the Creative Class](/books/the-rise-of-the-creative-class) (2002), which argued that urban success comes from attracting and retaining talented people — knowledge workers, techies, artists — rather than just companies. (source: [The New Urban Crisis](/books/the-new-urban-crisis))
+- Author of The Rise of the Creative Class (2002), which argued that urban success comes from attracting and retaining talented people — knowledge workers, techies, artists — rather than just companies. (source: [The New Urban Crisis](/books/the-new-urban-crisis))
 - Author of [The New Urban Crisis](/books/the-new-urban-crisis) (2017), a self-critical sequel conceding that the clustering of talent in superstar cities is "at once the main engine of economic growth and the biggest driver of inequality." (source: [The New Urban Crisis](/books/the-new-urban-crisis))
 - His research found that the metros with the highest wage inequality were also those with the most dynamic creative economies — San Francisco, Austin, Boston, Seattle, Washington D.C., New York. (source: [The New Urban Crisis](/books/the-new-urban-crisis))
 - Grew up near Newark; his father's factory closing and the city's decline left "a deep imprint" and frame his recurring interest in the original urban crisis. (source: [The New Urban Crisis](/books/the-new-urban-crisis))

@@ -4,11 +4,13 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-18"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
   - "https://www.youtube.com/watch?v=Pnc5G0RzTLw"
+  - "wiki/books/Skunk Works.md"
+  - "wiki/books/The Kill Chain.md"
 tags:
   - "company-building"
   - "technological-innovation"
@@ -34,5 +36,7 @@ related:
 
 ## Mentioned in
 
+- [Skunk Works](/books/skunk-works)
+- [The Kill Chain](/books/the-kill-chain)
 - [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — the Anduril case study on layered dependencies.
-- [Conviction-Led Contrarianism - Research](/notes/conviction-led-contrarianism-research) — research notes.
+- Conviction-Led Contrarianism - Research — research notes.

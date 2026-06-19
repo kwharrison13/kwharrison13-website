@@ -21,7 +21,7 @@ related:
 
 ## What we know
 
-- In the [Great Softening research](/notes/the-hardening-of-the-great-softening-research): "America has seemingly uncapped upside but also uncapped downside (Jeff Brownlow's triangle)" — i.e. the same structure Kyle returns to elsewhere, that opening the ceiling also means opening the floor (the possibility of failure).
+- In the Great Softening research: "America has seemingly uncapped upside but also uncapped downside (Jeff Brownlow's triangle)" — i.e. the same structure Kyle returns to elsewhere, that opening the ceiling also means opening the floor (the possibility of failure).
 
 ## Open questions
 
@@ -29,4 +29,4 @@ related:
 
 ## Mentioned in
 
-- [The Hardening Of The Great Softening - Research](/notes/the-hardening-of-the-great-softening-research)
+- The Hardening Of The Great Softening - Research

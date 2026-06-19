@@ -4,10 +4,11 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-18"
 last_updated_by: "agent"
 sources:
   - "https://medium.com/@kwharrison13/the-new-urban-crisis-book-review-quotes-33a0b7b7bb27"
+  - "wiki/books/Walt Disney and the Promise of Progress City.md"
 tags:
   - "city-building"
 aliases:
@@ -27,6 +28,7 @@ related:
 
 ## Mentioned in
 
+- [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city)
 - [The New Urban Crisis](/books/the-new-urban-crisis) — epigraph on cities created "by everybody."
 
 ## Open questions

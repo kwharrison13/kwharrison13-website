@@ -23,8 +23,8 @@ related:
 
 ## What we know
 
-- Co-authored the *Accelerated* newsletter with [Justine Moore](/notes/justine-moore), which Kyle followed circa 2017 (source: [The State of Startup Media - Research](/notes/the-state-of-startup-media-research) — 2017 inventory).
+- Co-authored the *Accelerated* newsletter with [Justine Moore](/notes/justine-moore), which Kyle followed circa 2017 (source: The State of Startup Media - Research — 2017 inventory).
 
 ## Mentioned in
 
-- [The State of Startup Media - Research](/notes/the-state-of-startup-media-research) — *Accelerated by Justine & Olivia Moore* in the 2017 inventory.
+- The State of Startup Media - Research — *Accelerated by Justine & Olivia Moore* in the 2017 inventory.

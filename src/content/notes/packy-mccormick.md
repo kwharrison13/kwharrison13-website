@@ -33,5 +33,5 @@ related:
 
 ## Mentioned in
 
-- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — composability quote; "Business is the New Sports."
+- Open-Source Knowledge - Research — composability quote; "Business is the New Sports."
 - [Open-Source Knowledge](/essays/open-source-knowledge) — bards of company building; idea composability.

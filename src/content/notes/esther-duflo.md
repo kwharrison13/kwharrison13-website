@@ -4,10 +4,11 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-18"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Utopia For Realists.md"
+  - "wiki/books/Poor Economics — A Radical Rethinking of The Way To Fight Global Poverty.md"
 tags: []
 aliases:
   - "Esther Duflo"

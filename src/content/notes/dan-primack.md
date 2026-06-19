@@ -27,7 +27,7 @@ related:
 
 ## Mentioned in
 
-- [The State of Startup Media - Research](/notes/the-state-of-startup-media-research) — under "The personal frame," as the writer whose newsletter Kyle tracked across the Fortune → Axios move.
+- The State of Startup Media - Research — under "The personal frame," as the writer whose newsletter Kyle tracked across the Fortune → Axios move.
 
 ## Open questions
 

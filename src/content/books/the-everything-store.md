@@ -37,12 +37,42 @@ The thesis the notes circle: Amazon is the cleanest available case study for wha
 ## Connections
 
 <!-- interconnections -->
+**Books:**
 - [Amazon Unbound](/books/amazon-unbound) — direct sequel. The two books read as a single corpus; the notes repeatedly anticipate later Amazon developments.
+- [The Innovator's Dilemma](/books/the-innovator-s-dilemma) — Clayton Christensen's book that Bezos's executives "devoured and raptly discussed"; cited as the rationale for the Kindle ("kill your own business") and for Barnes & Noble's failure to compete online.
+- [The Black Swan](/books/the-black-swan) — Taleb's book that all Amazon senior executives were required to read; source of the "narrative fallacy" that Bezos invoked to favor experimentation over storytelling.
+- Good to Great — Jim Collins presented its findings at an Amazon board offsite ("decide what you're great at"); Bezos used its build-vs-buy and flywheel-accelerator counsel.
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — paired model. Bezos and Buffett as two valid operating-philosophy templates; both treated as scaffolding for the same VC thesis.
 - [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — Munger context for the Buffett pairing.
 - [The Founders](/books/the-founders) — talent-vortex parallel. PayPal Mafia and early Amazon as similar talent constellations.
-- [Working in Public](/books/working-in-public) — primitives-vs-products echo; open-source-knowledge thread.
+- [Working in Public](/books/working-in-public) — primitives-vs-products echo; the AWS "build primitives and get out of the way" thread connects to open-source infrastructure thinking.
 - [Atomic Habits](/books/atomic-habits) — operational discipline overlap.
+
+**People:**
+- [Jeff Bezos](/notes/jeff-bezos) — Amazon's founder and the book's subject; customer obsession, "Day 1"/"remain scared," the regret-minimization framework, decentralization, and the six-page narrative all trace to him.
+- [Sam Walton](/notes/sam-walton) — Bezos underlined Walton's passage on borrowing competitors' best ideas; "every company in retail stands on the shoulders of giants."
+- [Clayton Christensen](/notes/clayton-christensen) — author of The Innovator's Dilemma; framework Bezos used to justify cannibalizing the print business with the Kindle.
+- [Nassim Nicholas Taleb](/notes/nassim-nicholas-taleb) — narrative-fallacy source; The Black Swan as required Amazon reading.
+- [Steve Jobs](/notes/steve-jobs) — recurring foil; Bezos studied Apple's control of the music business to model the Kindle, and avoided "Steve Jobs's mistake" of fat iPhone margins inviting competition.
+- [Walt Disney](/notes/walt-disney) — listed with Ford and Jobs as an entrepreneur turning imagination into physical reality.
+- [Charlie Munger](/notes/charlie-munger) / [Warren Buffett](/notes/warren-buffett) — operating-philosophy templates paired with Bezos throughout the notes.
+- [Alan Kay](/notes/alan-kay) — Bezos often quoted "point of view is worth 80 IQ points" and "it's easier to invent the future than to predict it."
+- [Andy Jassy](/notes/andy-jassy) — Bezos's first "shadow"; co-architect of AWS and its primitives memo.
+- [Jeff Wilke](/notes/jeff-wilke) — built Amazon's fulfillment-center discipline (Six Sigma + lean manufacturing); renamed warehouses "fulfillment centers."
+- [Bill Gurley](/notes/bill-gurley) — covered Amazon as a lead analyst, identifying it early as one of the Internet "wave riders."
+- [Walter Isaacson](/notes/walter-isaacson) — Jobs's biographer, referenced for the Apple agency-model "aikido move" and the innovation-by-collaboration thread.
+
+**Concepts:**
+- [Flywheel](/notes/flywheel) — lower prices → more visits → more sellers → fixed-cost leverage → lower prices; the self-reinforcing loop Amazon executives finally articulated after five years.
+- [Decentralization](/notes/decentralization) — "communication is a sign of dysfunction"; two-pizza teams and getting decisions to the people closest to the problem.
+- [Talent Vortex](/notes/talent-vortex) — the bar-raiser mechanism: every hire should raise the bar; Wilke hiring "the ten smartest people I knew."
+- [Customer Obsession](/notes/customer-obsession) — one of the five founding values; "obsess over customers, not competitors."
+- [Great Artists Steal](/notes/great-artists-steal) — case-study mining as discipline; Bezos "went to school on everybody" (Walton, Sinegal, Costco).
+- [Core Competency](/notes/core-competency) — the distribution build-vs-outsource decision; Jim Collins's "decide what you're great at."
+- [Pricing](/notes/pricing) — pricing as a marketing strategy (Walmart's "marketing strategy is our pricing strategy"); low margins as a defensible moat.
+- [Network Effect](/books/network-effect) — user-generated reviews as advantage; eBay's auction network effect that Amazon failed to overtake.
+- [Platform](/notes/platform) — "every technology company seeks to become a platform"; AWS as primitives that let others build.
+- [Naked Brands](/notes/naked-brands) — "visibility necessitates transparency"; the Internet making lowest prices easy to find.
 <!-- /interconnections -->
 
 ## Highlights

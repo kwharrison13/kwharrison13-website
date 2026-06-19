@@ -26,11 +26,11 @@ related:
 
 ## How sources describe it
 
-- Appears in the [Great Softening research](/notes/the-hardening-of-the-great-softening-research) in the primitivism-vs-progressivism cluster — "Stoics" listed among the primitivist thought-leaders who stand the test of time — adjacent to "Control your mind first — [Durant](/notes/will-durant)?"
+- Appears in the Great Softening research in the primitivism-vs-progressivism cluster — "Stoics" listed among the primitivist thought-leaders who stand the test of time — adjacent to "Control your mind first — [Durant](/notes/will-durant)?"
 
 ## Where it shows up
 
-- [The Hardening Of The Great Softening - Research](/notes/the-hardening-of-the-great-softening-research)
+- The Hardening Of The Great Softening - Research
 
 ## Related concepts
 

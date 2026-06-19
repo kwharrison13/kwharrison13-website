@@ -32,4 +32,4 @@ related:
 ## Mentioned in
 
 - [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — the "reasoned independently from the ground up" qualifier.
-- [Conviction-Led Contrarianism - Research](/notes/conviction-led-contrarianism-research) — research notes.
+- Conviction-Led Contrarianism - Research — research notes.

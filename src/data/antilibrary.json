@@ -565,6 +565,32 @@
     "slug": "the-coddling-of-the-american-mind"
   },
   {
+    "title": "The Essays of Warren Buffett",
+    "full_title": "The Essays of Warren Buffett: Lessons for Corporate America",
+    "author": "Lawrence A. Cunningham & Warren E. Buffett",
+    "published": "1997",
+    "pages": 320,
+    "amazon_url": "https://www.amazon.com/s?k=The+Essays+of+Warren+Buffett+Lawrence+Cunningham",
+    "where_seen": [
+      "Saved from a Readwise/Amazon highlight (Kindle ASIN B00BUBALZW) — tagged #books-to-read alongside Warren Buffett."
+    ],
+    "connections": [
+      {
+        "title": "Warren Buffett",
+        "url": "/notes/warren-buffett"
+      },
+      {
+        "title": "Berkshire Hathaway",
+        "url": "/notes/berkshire-hathaway"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "capital-allocation"
+    ],
+    "slug": "the-essays-of-warren-buffett"
+  },
+  {
     "title": "The Fish That Ate the Whale",
     "full_title": "The Fish That Ate the Whale: The Life and Times of America's Banana King",
     "author": "Rich Cohen",
@@ -586,6 +612,28 @@
       "company-building"
     ],
     "slug": "the-fish-that-ate-the-whale"
+  },
+  {
+    "title": "The Geography of Genius",
+    "full_title": "The Geography of Genius: A Search for the World's Most Creative Places from Ancient Athens to Silicon Valley",
+    "author": "Eric Weiner",
+    "published": "2016",
+    "pages": 357,
+    "amazon_url": "https://www.amazon.com/s?k=The+Geography+of+Genius+Eric+Weiner",
+    "where_seen": [
+      "Saved from Amazon (Kindle ASIN B00UDCNMI2) — tagged #genius #books-to-read."
+    ],
+    "connections": [
+      {
+        "title": "Genius",
+        "url": "/notes/genius"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "city-building"
+    ],
+    "slug": "the-geography-of-genius"
   },
   {
     "title": "The Lincoln Highway",
@@ -687,10 +735,6 @@
       {
         "title": "Knightian Uncertainty",
         "url": "/notes/knightian-uncertainty"
-      },
-      {
-        "title": "What Is An Investor - Research",
-        "url": "/notes/what-is-an-investor-research"
       }
     ],
     "recommendations": 1,

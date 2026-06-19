@@ -26,11 +26,11 @@ related:
 
 ## How sources describe it
 
-- In the [Great Softening research](/notes/the-hardening-of-the-great-softening-research) Kyle poses it as a question: "The Garden of Eden was about progression? Or primitivism?" — using the Fall and the leaving of Eden to ask whether the human ideal is a return to a simpler state or a movement forward.
+- In the Great Softening research Kyle poses it as a question: "The Garden of Eden was about progression? Or primitivism?" — using the Fall and the leaving of Eden to ask whether the human ideal is a return to a simpler state or a movement forward.
 
 ## Where it shows up
 
-- [The Hardening Of The Great Softening - Research](/notes/the-hardening-of-the-great-softening-research)
+- The Hardening Of The Great Softening - Research
 
 ## Related concepts
 

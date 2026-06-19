@@ -1,5 +1,5 @@
 ---
-title: "social innovation"
+title: "Social Innovation"
 type: "concept"
 publish: false
 confidence: "low"
@@ -20,8 +20,7 @@ related:
   - "[[Homelessness]]"
 ---
 
-# social innovation
-
+# Social Innovation
 **One-line definition:** *Cross-sector, public-private approaches to entrenched social problems — exemplified by collective-impact philanthropy and blended capital structures.*
 
 ## How sources describe it

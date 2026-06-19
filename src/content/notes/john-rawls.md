@@ -23,8 +23,8 @@ related:
 
 ## What we know
 
-- Invoked in the [Great Softening research](/notes/the-hardening-of-the-great-softening-research) for the [Veil of Ignorance](/notes/veil-of-ignorance): design a just society without knowing what race, gender, or station you'll be born into — which Kyle reframes as "What country would you live in if you didn't know what race or gender you were going to be?"
+- Invoked in the Great Softening research for the [Veil of Ignorance](/notes/veil-of-ignorance): design a just society without knowing what race, gender, or station you'll be born into — which Kyle reframes as "What country would you live in if you didn't know what race or gender you were going to be?"
 
 ## Mentioned in
 
-- [The Hardening Of The Great Softening - Research](/notes/the-hardening-of-the-great-softening-research) — veil of ignorance applied to the American Dream's floor vs. ceiling.
+- The Hardening Of The Great Softening - Research — veil of ignorance applied to the American Dream's floor vs. ceiling.

@@ -26,11 +26,11 @@ related:
 
 ## How sources describe it
 
-- Cited in the [Contrary Research](/essays/contrary-research) market-landscape notes: [Colossus](/notes/colossus) and Stratechery don't scale as well as light memos — "you need more bite-sized introductions to a company." (from [Open-Source Knowledge - Research](/notes/open-source-knowledge-research))
+- Cited in the [Contrary Research](/essays/contrary-research) market-landscape notes: [Colossus](/notes/colossus) and Stratechery don't scale as well as light memos — "you need more bite-sized introductions to a company." (from Open-Source Knowledge - Research)
 
 ## Where it shows up
 
-- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — depth vs. scale.
+- Open-Source Knowledge - Research — depth vs. scale.
 
 ## Related concepts
 

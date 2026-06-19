@@ -31,5 +31,5 @@ related:
 
 ## Mentioned in
 
-- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — Wikipedia / notability source.
+- Open-Source Knowledge - Research — Wikipedia / notability source.
 - [Open-Source Knowledge](/essays/open-source-knowledge) — quoted on subjective notability.

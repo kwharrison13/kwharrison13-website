@@ -28,5 +28,5 @@ related:
 
 ## Mentioned in
 
-- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — sharable-knowledge definition.
+- Open-Source Knowledge - Research — sharable-knowledge definition.
 - [Open-Source Knowledge](/essays/open-source-knowledge) — company-storytelling starting point.

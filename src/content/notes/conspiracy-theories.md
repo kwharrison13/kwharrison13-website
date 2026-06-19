@@ -24,11 +24,11 @@ related:
 
 ## How sources describe it
 
-- In the [Great Softening research](/notes/the-hardening-of-the-great-softening-research): "Conspiracy theories are so appealing because they simplify a complicated problem." It sits alongside the [Death of Expertise](/notes/death-of-expertise), declining trust in institutions, and the popularity of cable news in the "is America in decline?" thread.
+- In the Great Softening research: "Conspiracy theories are so appealing because they simplify a complicated problem." It sits alongside the [Death of Expertise](/notes/death-of-expertise), declining trust in institutions, and the popularity of cable news in the "is America in decline?" thread.
 
 ## Where it shows up
 
-- [The Hardening Of The Great Softening - Research](/notes/the-hardening-of-the-great-softening-research)
+- The Hardening Of The Great Softening - Research
 
 ## Related concepts
 

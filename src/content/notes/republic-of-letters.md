@@ -34,7 +34,7 @@ related:
 
 - **[Reinventing Knowledge: From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet)** ([McNeely & Wolverton](/notes/erasmus)) frames it as one of the six institutions Western civilization built to organize knowledge — the one that emerged from the Reformation + print + political fragmentation. It showed that "knowledge can flourish without a fixed campus or state patron." It "transcended not only frontiers but generations… a collaborative venture bringing scholars together across time." [Erasmus](/notes/erasmus) is its archetype — "Europe's first celebrity intellectual" who crafted his image by editing and publishing his own letters.
 - The book argues the early-internet "cyberculture… bears remarkable similarities to the early modern Republic of Letters as it broke free from medieval universities politicized by religion." Kyle extends this on the [Reinventing Knowledge: From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) book page as "Republic of Letters 2.0" — Twitter, Substack, GitHub, SciHub, the DM as the modern letter.
-- **[The State of Startup Media](/essays/the-state-of-startup-media)** (and its [research doc](/notes/the-state-of-startup-media-research)) makes the central claim: tech's startup-media ecosystem *is* a **newfound Republic of Letters** — "but rather than ink-dripped quills and parchment, our letters are blogs, podcasts, deep dives, Twitter threads, TikToks, YouTube videos, and more."
+- **[The State of Startup Media](/essays/the-state-of-startup-media)** (and its research doc) makes the central claim: tech's startup-media ecosystem *is* a **newfound Republic of Letters** — "but rather than ink-dripped quills and parchment, our letters are blogs, podcasts, deep dives, Twitter threads, TikToks, YouTube videos, and more."
 
 ## The four recurring characteristics
 
@@ -48,7 +48,7 @@ Per *Reinventing Knowledge*, every Republic-of-Letters period shares these — a
 ## Where it shows up
 
 - [The State of Startup Media](/essays/the-state-of-startup-media) — the whole essay; subtitle is literally *A Newfound Republic of Letters*.
-- [The State of Startup Media - Research](/notes/the-state-of-startup-media-research) — the research backbone, with the ten illustrating quotes.
+- The State of Startup Media - Research — the research backbone, with the ten illustrating quotes.
 - [Reinventing Knowledge: From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — the source frame; "the single most recurring framing" in Kyle's marginalia.
 
 ## Related concepts

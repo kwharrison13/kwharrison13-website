@@ -4,11 +4,12 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-18"
 last_updated_by: "agent"
 sources:
   - "https://www.thefp.com/p/ai-everyones-cheating-thats-good-news"
   - "wiki/essays-research/We Need a Renaissance of Rhetoric - Research.md"
+  - "wiki/books/Talent.md"
 tags:
   - "economics"
   - "education"
@@ -27,6 +28,7 @@ related:
 
 ## Where this appears
 
+- [Talent](/books/talent)
 - [We Need a Renaissance of Rhetoric](/essays/we-need-a-renaissance-of-rhetoric) — his Free Press piece "Everyone's Using AI to Cheat at School. That's a Good Thing." argues American education was already in a "profound crisis — the result of ideological capture, political monoculture, and extreme conformism," and proposes devoting a third of the college curriculum to teaching AI use.
 - [AI Cheating in Education](/notes/ai-cheating-in-education)
 

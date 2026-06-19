@@ -32,5 +32,5 @@ related:
 
 ## Where it shows up
 
-- [The State of Startup Media - Research](/notes/the-state-of-startup-media-research) — several Axios newsletters in the 2017 inventory.
+- The State of Startup Media - Research — several Axios newsletters in the 2017 inventory.
 - [The State of Startup Media](/essays/the-state-of-startup-media) — named in the essay's media-landscape framing.

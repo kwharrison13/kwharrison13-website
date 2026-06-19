@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-18"
 last_updated_by: "agent"
 sources:
   - "wiki/books/The Invention of Russia.md"
@@ -29,6 +29,13 @@ reference_count: 1
 - Told Berezovsky bluntly, "I personally am going to run ORT," noting it covered 98% of Russian households (source: [The Invention of Russia](/books/the-invention-of-russia)).
 - Derived legitimacy from popular support and paid careful attention to public opinion, while not believing in fair elections (source: [The Invention of Russia](/books/the-invention-of-russia)).
 - The book's closing claim: "From Chechnya to Syria, Russia under Putin has killed more people than the Soviet Union did under any leader since Stalin" (source: [The Invention of Russia](/books/the-invention-of-russia)).
+
+## Quick Capture links — June 18, 2026
+
+_Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
+
+- https://www.foxnews.com/media/fox-news-nabs-first-emmy-nomination-for-chris-wallaces-interview-with-vladimir-putin.amp — Fox's first Emmy nom — for Chris Wallace's interview with Vladimir Putin; the interview itself is the thing to watch. (→ movies-to-watch) #[Foreign Policy](/notes/foreign-policy)
+
 
 ## Mentioned in
 

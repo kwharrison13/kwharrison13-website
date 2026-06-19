@@ -25,8 +25,8 @@ related:
 
 ## What we know
 
-- Cited in the [Great Softening research](/notes/the-hardening-of-the-great-softening-research) for [One Billion Americans](/notes/one-billion-americans) — "Increase immigration to 1b Americans" — in the thread on American decline, immigration, and the aspirational draw of the U.S. *(Kyle's note spells it "Matt iglasias.")*
+- Cited in the Great Softening research for [One Billion Americans](/notes/one-billion-americans) — "Increase immigration to 1b Americans" — in the thread on American decline, immigration, and the aspirational draw of the U.S. *(Kyle's note spells it "Matt iglasias.")*
 
 ## Mentioned in
 
-- [The Hardening Of The Great Softening - Research](/notes/the-hardening-of-the-great-softening-research)
+- The Hardening Of The Great Softening - Research

@@ -20,8 +20,8 @@ _Stub. Synthesis pending — fill on a future ingestion pass that reads the rele
 
 ## What we know
 
-- A conversation partner of Kyle's whose wide-ranging discussion on work, ambition, and American decline became the seed braindump for the essay [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening) (see [The Hardening Of The Great Softening - Research](/notes/the-hardening-of-the-great-softening-research)).
+- A conversation partner of Kyle's whose wide-ranging discussion on work, ambition, and American decline became the seed braindump for the essay [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening) (see The Hardening Of The Great Softening - Research).
 
 ## Mentioned in
 
-- [The Hardening Of The Great Softening - Research](/notes/the-hardening-of-the-great-softening-research) — the "Conversation with Erik Hansen" notes that fed the essay.
+- The Hardening Of The Great Softening - Research — the "Conversation with Erik Hansen" notes that fed the essay.

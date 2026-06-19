@@ -25,12 +25,12 @@ related:
 
 ## How sources describe it
 
-- Tagged `#Monoculture` in the [research notes](/notes/the-hits-business-research) beside [A24](/notes/a24)'s founding insight: "amidst an increasingly homogeneous cultural landscape, projects with a genuine point of view could have an outsized impact."
+- Tagged `#Monoculture` in the research notes beside [A24](/notes/a24)'s founding insight: "amidst an increasingly homogeneous cultural landscape, projects with a genuine point of view could have an outsized impact."
 - The "monoculture model of filmmaking" — legacy sequels and requels since *Crystal Skull*, *Star Trek*, and *The Force Awakens* (per the Paste Magazine [IP Era piece](https://www.pastemagazine.com/movies/intellectual-property/ip-era-franchises-venture-capital-filmmaking)).
 
 ## Where this appears
 
-- [The Hits Business](/essays/the-hits-business) / [The Hits Business - Research](/notes/the-hits-business-research)
+- [The Hits Business](/essays/the-hits-business) / The Hits Business - Research
 
 ## Related concepts
 

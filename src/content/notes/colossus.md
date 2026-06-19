@@ -27,12 +27,12 @@ related:
 
 ## How sources describe it
 
-- In Kyle's open-source analogy, Colossus plays the community-facilitator role rather than the contributor role — bringing the best contributions together. (from [Open-Source Knowledge - Research](/notes/open-source-knowledge-research))
+- In Kyle's open-source analogy, Colossus plays the community-facilitator role rather than the contributor role — bringing the best contributions together. (from Open-Source Knowledge - Research)
 - Cited as a depth source that "doesn't scale as well" as the bite-sized company intros [Contrary Research](/essays/contrary-research) wants to provide — "Colossus is not inaccessible."
 
 ## Where it shows up
 
-- [Open-Source Knowledge - Research](/notes/open-source-knowledge-research) — repo-facilitator example; format reference.
+- Open-Source Knowledge - Research — repo-facilitator example; format reference.
 
 ## Related concepts
 

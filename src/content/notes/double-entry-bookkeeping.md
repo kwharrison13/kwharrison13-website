@@ -1,5 +1,5 @@
 ---
-title: "double-entry bookkeeping"
+title: "Double-Entry Bookkeeping"
 type: "concept"
 publish: false
 confidence: "low"
@@ -15,8 +15,7 @@ related: []
 reference_count: 1
 ---
 
-# double-entry bookkeeping
-
+# Double-Entry Bookkeeping
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 
 ## Where this appears

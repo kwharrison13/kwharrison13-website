@@ -1,5 +1,5 @@
 ---
-title: "maximizing shareholder value"
+title: "Maximizing Shareholder Value"
 type: "concept"
 publish: false
 confidence: "low"
@@ -15,8 +15,7 @@ related: []
 reference_count: 1
 ---
 
-# maximizing shareholder value
-
+# Maximizing Shareholder Value
 _Stub page — auto-generated from wikilink references in the August 18th, 2021 meeting notes. Not yet written. Referenced in **1** meeting page._
 
 ## Where this appears

@@ -22,8 +22,8 @@ related:
 
 ## What we know
 
-- Kyle followed Verdad Advisors' research, authored by Rasmussen, as part of his circa-2017 startup/markets media diet (source: [The State of Startup Media - Research](/notes/the-state-of-startup-media-research) — 2017 inventory).
+- Kyle followed Verdad Advisors' research, authored by Rasmussen, as part of his circa-2017 startup/markets media diet (source: The State of Startup Media - Research — 2017 inventory).
 
 ## Mentioned in
 
-- [The State of Startup Media - Research](/notes/the-state-of-startup-media-research) — listed in the 2017 inventory of startup-media sources.
+- The State of Startup Media - Research — listed in the 2017 inventory of startup-media sources.

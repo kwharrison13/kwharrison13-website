@@ -1,5 +1,5 @@
 ---
-title: "data-driven decision making"
+title: "Data-Driven Decision Making"
 type: "concept"
 publish: false
 confidence: "low"
@@ -15,8 +15,7 @@ related: []
 reference_count: 1
 ---
 
-# data-driven decision making
-
+# Data-Driven Decision Making
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 
 ## Where this appears

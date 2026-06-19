@@ -1,5 +1,5 @@
 ---
-title: "character sketches"
+title: "Character Sketches"
 type: "concept"
 publish: false
 confidence: "low"
@@ -15,8 +15,7 @@ related: []
 reference_count: 1
 ---
 
-# character sketches
-
+# Character Sketches
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 
 ## Where this appears

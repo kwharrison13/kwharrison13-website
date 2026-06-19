@@ -22,8 +22,8 @@ related:
 
 ## What we know
 
-- Listed among the startup-media sources Kyle tracked circa 2017 (source: [The State of Startup Media - Research](/notes/the-state-of-startup-media-research) — 2017 inventory).
+- Listed among the startup-media sources Kyle tracked circa 2017 (source: The State of Startup Media - Research — 2017 inventory).
 
 ## Mentioned in
 
-- [The State of Startup Media - Research](/notes/the-state-of-startup-media-research) — listed in the 2017 inventory of startup-media sources.
+- The State of Startup Media - Research — listed in the 2017 inventory of startup-media sources.

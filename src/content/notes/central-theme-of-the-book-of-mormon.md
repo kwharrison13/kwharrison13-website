@@ -1,5 +1,5 @@
 ---
-title: "Central Theme of the [[Book of Mormon"
+title: "Central Theme of the Book of Mormon"
 type: "concept"
 publish: false
 confidence: "low"
@@ -10,7 +10,7 @@ sources:
   - "wiki/gospel-study/July 20–26, 2020. Alma 36–38: \"Look to God and Live\".md"
 tags: []
 aliases:
-  - "Central Theme of the [[Book of Mormon"
+  - "Central Theme of the Book of Mormon"
 related: []
 reference_count: 1
 ---
@@ -21,4 +21,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 
 ## Where this appears
 
-- [[July 20–26, 2020. Alma 36–38: "Look to God and Live"
+- July 20–26, 2020. Alma 36–38: "Look to God and Live"

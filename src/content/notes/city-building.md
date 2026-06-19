@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-17"
+updated: "2026-06-18"
 last_updated_by: "agent"
 sources:
   - "Tweet thread by @drydenwtbrown, 2020-09-23 (Bluebook Cities / charter-city origin story)"
@@ -38,7 +38,7 @@ Source: a 2020-09-23 tweet thread by Dryden Brown (@drydenwtbrown) recounting ho
 - **Background.** In March 2019, Brown and Callinan were working together at a hedge fund in NYC, both having just left athletics and school to learn investing — Brown did surf contests and philosophy; Callinan played football at Boston College and was briefly signed to the Buffalo Bills. They loved public-markets investing but missed the physicality of sports and wanted "to do something heroic" on the frontier.
 - **Intellectual roots.** Brown had followed Paul Romer, Patri Friedman, and the Seasteading movement since high school and was obsessed with building a new city. They saw the opportunity cost of living in SF and NYC falling, but judged the market for a Balaji Srinivasan-style "exit" still too small — so they set out to find existing new-city projects and learn the industry's nuts and bolts first.
 - **April 2019 — quit.** They left the fund to "build the next great city."
-- **May–July 2019 — research mode.** Read every book they could find on ancient, modern, and future cities; met the top master-planned-community developers (Howard Hughes, Tavistock, Brookfield); and spoke with the [new-cities](/notes/city-building) crowd in Silicon Valley — Mark Lutter and [Tamara Winter](/notes/tamara-winter) (then at CCI), Iyinoluwa Aboyeji, Patri Friedman, [Mike Solana](/notes/mike-solana), Jason Crawford, and others.
+- **May–July 2019 — research mode.** Read every book they could find on ancient, modern, and future cities; met the top master-planned-community developers (Howard Hughes, Tavistock, Brookfield); and spoke with the [new-cities](/notes/city-building) crowd in Silicon Valley — [Mark Lutter](/notes/mark-lutter) and [Tamara Winter](/notes/tamara-winter) (then at CCI), Iyinoluwa Aboyeji, Patri Friedman, [Mike Solana](/notes/mike-solana), Jason Crawford, and others.
 - **July 2019 — Nigeria thesis.** Became convinced Nigeria was the best market in the world for a new city (projects like Eko Atlantic already underway, but room for more given population growth). They couldn't afford the flights — until Callinan won $2,000 at a golf tournament (taking their balance to $2,047) and CCI gave them a small grant, funding tickets to Nigeria. Before leaving, a DC think tank connected Brown to a host in Nigeria (@ThisisChale), and he met @alex_dimcevski at a YC Summer School party.
 - **August 2019 — Lagos.** Found Lagos "way more chaotic than anything in the US or EU," ~3x NYC's population. Their host took them to Grailland (a private religious town) and Ondo State; via relentless cold outreach they met top developers like Ronald Chagoury. They built a thesis for a city near Callinan's university (Elizade) and landed a meeting with the Ondo State Government.
 - **The Ghana thread.** Alex from the party had mentioned the project to someone who worked on construction in Ghana; that person offered to connect them to friends in the Ghanaian government. After Callinan flew home, Brown flew to Ghana with their last ~$1,000 ("hoping I wouldn't be kidnapped"), met Ed and Joyce — who really did work for the government — and toured sites pitching colleagues on a charter city.
@@ -52,6 +52,13 @@ Source: a 2020-09-23 tweet thread by Dryden Brown (@drydenwtbrown) recounting ho
 - **Networking from zero.** "No connections" → cold emails, cold calls, and LinkedIn messages to the upper echelons of multiple African governments. A party introduction (Alex) became the entire Ghana thread.
 - **Capital on a shoestring.** A golf-tournament prize and a small grant funded the first flights; a cold DM to a writer funded the second trip. Frontier city-building was bootstrapped on hundreds of dollars at a time.
 - **Frontier > reform.** The motivating bet was that the opportunity cost of legacy cities is falling and the cloud labor market makes new locations viable — so build greenfield rather than fix the old.
+
+## Quick Capture links — June 18, 2026
+
+_Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
+
+- https://soundcloud.com/user-580979201/mark-lutter-on-progress-studies-and-charter-cities — Mark Lutter on progress studies and charter cities (SoundCloud podcast). #[Progress Studies](/notes/progress-studies) #[Charter Cities](/notes/city-building) #[Mark Lutter](/notes/mark-lutter)
+
 
 ## Where it shows up
 

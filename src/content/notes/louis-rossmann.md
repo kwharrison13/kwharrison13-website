@@ -32,4 +32,4 @@ related:
 ## Mentioned in
 
 - [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — the Layer 1 "stop caring what people think" argument.
-- [Conviction-Led Contrarianism - Research](/notes/conviction-led-contrarianism-research) — research notes.
+- Conviction-Led Contrarianism - Research — research notes.

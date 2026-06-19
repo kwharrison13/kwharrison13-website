@@ -24,8 +24,8 @@ related:
 
 ## How it shows up
 
-- Listed in Kyle's 2017 inventory (source: [The State of Startup Media - Research](/notes/the-state-of-startup-media-research)).
+- Listed in Kyle's 2017 inventory (source: The State of Startup Media - Research).
 
 ## Where it shows up
 
-- [The State of Startup Media - Research](/notes/the-state-of-startup-media-research) — *First Round Capital, First Round Review* in the 2017 inventory.
+- The State of Startup Media - Research — *First Round Capital, First Round Review* in the 2017 inventory.
