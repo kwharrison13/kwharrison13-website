@@ -31,7 +31,7 @@ related:
 ## What we know
 
 - Author of *Reinventing Discovery* — referenced in Kyle's notes as #[books-to-read](/notes/books-to-read) and as the lens for "why ideas are different than software today."
-- Collaborates with [Andy Matuschak](/notes/andy-matuschak) on a [Tools For Thought](/notes/tools-for-thought) research program; co-created Quantum Country, a "book" on quantum computation that interleaves prose with [Spaced Repetition](/notes/spaced-repetition) memory tests. (source: [Why Books Don't Work](/notes/why-books-don-t-work))
+- Collaborates with [Andy Matuschak](/notes/andy-matuschak) on a [Tools For Thought](/notes/tools-for-thought) research program; co-created [Quantum Country](/notes/quantum-country), a "book" on quantum computation that interleaves prose with [Spaced Repetition](/notes/spaced-repetition) memory tests. (source: [Why Books Don't Work](/notes/why-books-don-t-work))
 
 ## Connections
 

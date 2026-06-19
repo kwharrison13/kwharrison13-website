@@ -32,8 +32,8 @@ related:
 
 - Author of "[Building American Dynamism](/notes/building-american-dynamism)" (future.com): post-Covid renewal comes from technologists building companies that support the national interest.
 - Believes companies are defined by missions, not business models, and that differentiated thought (not generic "value add") is what makes a venture firm distinctive — "50% of people won't be a fit, and that's okay."
-- Came into [Anduril](/notes/anduril) at the seed (after Susa Ventures and Uncork Capital) and spent a year getting into the Series A. Quip: "God (Hallow) and Country ([Anduril](/notes/anduril)) are great."
-- Knows Sarah Cannon.
+- Came into [Anduril](/notes/anduril) at the seed (after [Susa Ventures](/notes/susa-ventures) and [Uncork Capital](/notes/uncork-capital)) and spent a year getting into the Series A. Quip: "God ([Hallow](/notes/hallow)) and Country ([Anduril](/notes/anduril)) are great."
+- Knows [Sarah Cannon](/notes/sarah-cannon).
 
 ## Connections
 

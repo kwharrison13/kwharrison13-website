@@ -44,7 +44,7 @@ related:
 - [Ray Kurzweil](/notes/ray-kurzweil)'s superpower is **believing harder than anyone in exponential curves**; his "Law of Accelerating Returns" predictions have held up remarkably well over 21 years.
 - The method mirrors **Amazon's Future Press Release** (write the launch announcement from the future, start with the customer, set an audacious goal).
 - AI may soon turn written specifications into reverse-engineered CAD files, instruction sets, and bottleneck lists — making **innovation half storytelling**, with AI filling in the enchanted bits.
-- Software is likely easier for AI than mechanical engineering (more public code than public CAD); we may be in [Michael Dempsey](https://www.michaeldempsey.me/blog/2022/09/20/company-building-in-the-curiosity-phase-of-ai/)'s "Curiosity Phase" of AI company-building.
+- Software is likely easier for AI than mechanical engineering (more public code than public CAD); we may be in [Michael Dempsey](https://www.michaeldempsey.me/blog/2022/09/20/company-building-in-the-curiosity-phase-of-ai/)'s "[Curiosity Phase](/notes/curiosity-phase)" of AI company-building.
 
 ## Highlights
 
@@ -71,7 +71,7 @@ related:
 
 ## How it connects
 
-- **The Meme Economy - Research** — a "What I'm Reading" piece feeding [The Meme Economy](/essays/the-meme-economy). The present-tense, "paint-the-future" method is the constructive twin of the essay's Reality Distortion Field thread: storytelling as a tool that *builds* reality, not just describes it.
+- **The Meme Economy - Research** — a "What I'm Reading" piece feeding [The Meme Economy](/essays/the-meme-economy). The present-tense, "paint-the-future" method is the constructive twin of the essay's [Reality Distortion Field](/notes/reality-distortion-field) thread: storytelling as a tool that *builds* reality, not just describes it.
 - **[Historical Futurism](/essays/historical-futurism)** — Kurzweil's hyper-optimistic, exponential-curve futurism is the canonical case.
 - **[Storytelling](/notes/storytelling)** — "innovation is half storytelling"; the Amazon Future Press Release as a writing discipline (cf. Amazon's six-page narratives in The Storytelling of Investing - Research).
-- **People/Orgs:** [Packy McCormick](/notes/packy-mccormick), [Ray Kurzweil](/notes/ray-kurzweil), [Not Boring](/notes/not-boring), [Jeff Bezos](/notes/jeff-bezos), Michael Dempsey. **Books:** The Singularity is Near.
+- **People/Orgs:** [Packy McCormick](/notes/packy-mccormick), [Ray Kurzweil](/notes/ray-kurzweil), [Not Boring](/notes/not-boring), [Jeff Bezos](/notes/jeff-bezos), [Michael Dempsey](/notes/michael-dempsey). **Books:** The Singularity is Near.

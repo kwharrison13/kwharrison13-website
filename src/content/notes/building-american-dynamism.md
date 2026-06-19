@@ -44,7 +44,7 @@ related:
 - America's stagnation shows up as institutional failure and loss of civic trust, economic/technological stagnation, declining birth rates, and derivative culture (after Ross Douthat's *The Decadent Society*).
 - The technology sector is the only part of the U.S. economy that has maintained its dynamism and growth through innovation over the last 25 years.
 - "American dynamism" = technologists building companies that solve serious national problems (security, public safety, housing, education) rather than incremental status-quo fixes.
-- Startups are increasingly usurping the responsibilities of government — e.g. Ryan Petersen / [Flexport](/notes/flexport) at the Port of Long Beach supply-chain crisis.
+- Startups are increasingly usurping the responsibilities of government — e.g. [Ryan Petersen](/notes/ryan-petersen) / [Flexport](/notes/flexport) at the Port of Long Beach supply-chain crisis.
 - Government has had a growing talent problem since the 1970s ("a quiet crisis"); a country can't thrive without a vibrant public-service culture, especially against China.
 - Mission-driven founders should aim higher than govtech efficiency or ESG (terms "defined for and by bureaucrats, not builders").
 
@@ -67,7 +67,7 @@ _Verbatim excerpts Kyle captured on re-read, in source order._
 - I believe the only way to reverse the course of stagnation and kickstart nationwide renewal post-Covid is through technologists building companies that support the national interest. I call this american dynamism: it’s the recognition that seemingly insurmountable problems in our society — from national security and public safety to housing and education — demand solutions that aren’t simply incremental changes that perpetuate the status quo. **These problems demand solutions from builders — and it’s never been more vital that startups tackle these serious American problems.**
 - But if software can stave off stagnation in all other industries — industries that have similar problems attracting the talent needed for 21st century innovation — why can’t software fix government? In some ways, it’s already happening.
 - In 2018, [I wrote in the Washington Post](https://www.washingtonpost.com/opinions/how-should-we-address-the-growing-power-shift-from-washington-to-silicon-valley/2018/11/19/1470eb9a-e9e4-11e8-bbdb-72fdbf9d4fed_story.html) that startups have begun usurping the responsibilities of governments at breathtaking pace.
-- When politicians panicked at the supply chain crisis at the Port of Long Beach in November 2021, the man to [get on a boat and figure ou](https://www.cbsnews.com/news/supply-chain-crisis-60-minutes-2021-11-14/)t immediate solutions was not an elected official but Ryan Petersen, founder and CEO of [Flexport](/notes/flexport).
+- When politicians panicked at the supply chain crisis at the Port of Long Beach in November 2021, the man to [get on a boat and figure ou](https://www.cbsnews.com/news/supply-chain-crisis-60-minutes-2021-11-14/)t immediate solutions was not an elected official but [Ryan Petersen](/notes/ryan-petersen), founder and CEO of [Flexport](/notes/flexport).
 - Flexport isn’t often viewed as a government company, but at a time when government lacks critical tools and voices to understand complex national problems, founders like Ryan are doing important civic work and pushing [solutions](https://future.com/global-shipping-infrastructure-and-ever-given/) forward.
 - These examples prove that dynamism in America is not being spurred by policy in Washington — it’s being driven by a growing group of technologists that are solving problems of immense national importance.
 - And as **technology becomes less of a “sector” and more of a means of acceleration that touches every industry and aspect of society**, we’ll see more solutions for American problems coming from engineers, technologists, and startup founders.
@@ -91,7 +91,7 @@ _Verbatim excerpts Kyle captured on re-read, in source order._
 - [Katherine Boyle](/notes/katherine-boyle) — author; see also June 6th, 2022 — Katherine Boyle (a16z) where she discusses differentiated missions and "true believers."
 - [American Dynamism](/notes/american-dynamism) — the thesis this essay names and defines.
 - [It's Time To Build](/notes/it-s-time-to-build) by [Marc Andreessen](/notes/marc-andreessen) — the foundational "build" manifesto this argument extends.
-- Ryan Petersen / [Flexport](/notes/flexport) — Boyle's central example of a founder doing civic work.
+- [Ryan Petersen](/notes/ryan-petersen) / [Flexport](/notes/flexport) — Boyle's central example of a founder doing civic work.
 - [a16z](/notes/a16z) — publisher (future.com) and home of the American Dynamism practice.
 - [SpaceX](/books/elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future), [Anduril Industries](/notes/anduril), [Blue Origin](/notes/blue-origin) — companies Boyle cites as entrenched in government missions (aerospace, defense, intelligence).
 - [Josh Wolfe](/notes/josh-wolfe) — referenced in Kyle's "means justify the ends" note on value creation vs. potential fraud.

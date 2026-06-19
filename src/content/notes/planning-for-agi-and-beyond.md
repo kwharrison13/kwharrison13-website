@@ -29,13 +29,13 @@ related:
 
 # Planning for AGI and Beyond
 
-**Author:** [Sam Altman](/notes/sam-altman) (OpenAI)
+**Author:** [Sam Altman](/notes/sam-altman) ([OpenAI](/notes/openai))
 **URL:** https://openai.com/blog/planning-for-agi-and-beyond
 **One-line:** *OpenAI's mission statement for stewarding AGI into existence — a gradual, iteratively-deployed transition that maximizes the good and minimizes the bad, treating existential risk as real even if some think it fictitious.*
 
 ## Key claims
 
-- AGI — AI systems generally smarter than humans — should **benefit all of humanity** and act as an amplifier of human ingenuity, not an unqualified utopia. See AI Safety.
+- AGI — AI systems generally smarter than humans — should **benefit all of humanity** and act as an amplifier of human ingenuity, not an unqualified utopia. See [AI Safety](/notes/ai-safety).
 - A **gradual** transition to a world with AGI beats a sudden one; the way to navigate deployment is a tight feedback loop of rapid learning and careful iteration.
 - **Safety and capabilities are not separable** — it's a false dichotomy; the best safety work comes from working with the most capable models, but the *ratio* of safety to capability progress must increase.
 - Democratized access leads to more and better research, decentralized power, and broader contribution of ideas — but openness has limits.
@@ -50,7 +50,7 @@ related:
 - We currently believe the best way to successfully navigate AI deployment challenges is with a tight feedback loop of rapid learning and careful iteration.
 - We believe that democratized access will also lead to more and better research, decentralized power, more benefits, and a broader set of people contributing new ideas.
 - Some people in the AI field think the risks of AGI (and successor systems) are fictitious; we would be delighted if they turn out to be right, but we are going to operate as if these risks are [existential](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/).
-- Importantly, we think we often have to make progress on AI safety and capabilities together. It's a false dichotomy to talk about them separately; they are correlated in many ways. Our best safety work has come from working with our most capable models. That said, it's important that the ratio of safety progress to capability progress increases. #AI Safety
+- Importantly, we think we often have to make progress on AI safety and capabilities together. It's a false dichotomy to talk about them separately; they are correlated in many ways. Our best safety work has come from working with our most capable models. That said, it's important that the ratio of safety progress to capability progress increases. #[AI Safety](/notes/ai-safety)
 - we have attempted to set up our structure in a way that aligns our incentives with a good outcome.
 - We believe that the future of humanity should be determined by humanity, and that it's important to share information about progress with the public.
 - As another example, we now believe we were wrong in our original thinking about openness, and have pivoted from thinking we should release everything (though we open source some things, and expect to open source more exciting things in the future!) to thinking that we should figure out how to safely share access to and benefits of the systems.

@@ -3,24 +3,22 @@ title: "AngelList"
 type: "concept"
 publish: false
 confidence: "low"
-created: "2026-06-17"
-updated: "2026-06-17"
+created: "2026-06-19"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/November 15th, 2021 — Arielle Kogut (Tribe Capital).md"
-  - "wiki/meetings/November 15th, 2021 — WeFunder Memo.md"
+  - "wiki/concepts/Naval Ravikant.md"
 tags: []
 aliases:
   - "AngelList"
-related: []
-reference_count: 2
+related:
+  - "[[Naval Ravikant]]"
 ---
 
 # AngelList
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **2** wiki page(s)._
+_Stub — flagged during the 2026-06-19 connection sweep as an entity referenced across the wiki without its own page. Naval's one-line identifies him as AngelList co-founder; no page exists and it is central to his identity on this page_
 
 ## Where this appears
 
-- November 15th, 2021 — Arielle Kogut (Tribe Capital)
-- November 15th, 2021 — WeFunder Memo
+- [Naval Ravikant](/notes/naval-ravikant)

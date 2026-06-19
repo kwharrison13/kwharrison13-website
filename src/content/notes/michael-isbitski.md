@@ -29,12 +29,12 @@ related:
 
 # Michael Isbitski
 
-**One-line:** *Technical Evangelist at [Salt Security](/notes/salt-security); former [DevSecOps](/notes/devsecops) analyst at Gartner; joined Salt after finding API security too hard to cover as a pure analyst.*
+**One-line:** *Technical Evangelist at [Salt Security](/notes/salt-security); former [DevSecOps](/notes/devsecops) analyst at [Gartner](/notes/gartner); joined Salt after finding API security too hard to cover as a pure analyst.*
 
 ## What we know
 
 - Technical Evangelist at [Salt Security](/notes/salt-security) at time of interview (October 2021).
-- Previously the [DevSecOps](/notes/devsecops) analyst at Gartner; found API security was "one of those fundamental topics but it was too hard to focus on."
+- Previously the [DevSecOps](/notes/devsecops) analyst at [Gartner](/notes/gartner); found API security was "one of those fundamental topics but it was too hard to focus on."
 - Also does media commentary around M&A in the cybersecurity space.
 - Key insight on API gateway competitors: "API Gateway buyers aren't the security teams; they're not focused on runtime security that deep." — explains why gateway vendors don't naturally build API security products.
 - View: [Apigee](/notes/apigee) tried AI/ML for API telemetry analysis but "it just wasn't productized"; Elastic Beam acquired by [Ping Identity](/notes/ping-identity) but API wasn't a core focus.

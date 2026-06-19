@@ -40,7 +40,7 @@ related:
 - Prior: 9 years at Adobe building up their security efforts through the cloud transition; Senior Manager / Manager IV - Information Security.
 - Also evaluated [Signal Sciences](/notes/signal-sciences), [Noname Security](/notes/noname-security) (at Adobe — didn't make the cut), and [Traceable.ai](/notes/traceable-ai).
 - Chose [Salt Security](/notes/salt-security) because "the way they talked about their overall API stack really made them the only option"; valued forward-thinking culture over established incumbents.
-- Salt integration: uses Salt signals into a centralized Security Operations Center (SOC), triaged by a product security team, then dispatched to engineering via Jira.
+- Salt integration: uses Salt signals into a centralized [Security Operations Center (SOC)](/notes/security-operations-center-soc), triaged by a product security team, then dispatched to engineering via Jira.
 - Priority stack for security investment: (1) Endpoint Security, (2) Application Security (API security is "medium" within this), (3) Compliance. (Source: Salt Security Diligence — 2021)
 - TAM view: multi-billion, but "unlikely to be something that explodes in the next 2–3 years"; maybe 10 years to become Endpoint Security-scale.
 

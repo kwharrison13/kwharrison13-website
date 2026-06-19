@@ -30,7 +30,7 @@ related:
 ## How it shows up
 
 - Multiple Axios newsletters appear in Kyle's 2017 inventory: **Axios Pro Rata** (deals; [Dan Primack](/notes/dan-primack)), **Axios Markets**, **Axios Media Trends**, **Axios Future**.
-- In the published essay, Axios is named alongside The Information as a "new platform" that "oscillated between larger-than-life coverage of big tech and politics… or dabbled in startup 'skepticism.'"
+- In the published essay, Axios is named alongside [The Information](/notes/the-information) as a "new platform" that "oscillated between larger-than-life coverage of big tech and politics… or dabbled in startup 'skepticism.'"
 
 ## Related concepts
 

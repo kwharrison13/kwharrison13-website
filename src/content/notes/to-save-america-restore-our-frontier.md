@@ -40,7 +40,7 @@ related:
 - Google example: brilliant technical culture + academic culture. In cheap-money eras, the academic/bureaucratic culture grows. "Cheap money means that the cost to virtue signal is low; real money means the cost is real."
 - Silicon Valley succeeded as a Frontier buoyed by real Core support — but "there shouldn't be any doubt as to who was in charge. There isn't — and never will be — a Silicon Estuary around D.C."
 - Prescription: fund new science and universities; charter cities and bold governance experiments (even on Mars or ocean); break the FDA into competing pieces; abolish healthcare monopolies; create innovation zones.
-- Lonsdale founded the Cicero Institute — pursuing non-partisan legislative solutions, with "dozens of laws now on the books."
+- Lonsdale founded the [Cicero Institute](/notes/cicero-institute) — pursuing non-partisan legislative solutions, with "dozens of laws now on the books."
 
 ## Connections
 

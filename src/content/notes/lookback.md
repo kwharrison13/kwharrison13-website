@@ -32,7 +32,7 @@ related:
 - Time-consuming: live, one-at-a-time, scripted, recorded; painful scheduling; struggles to pay people at scale. (see Sprig fka UserLeap - Diligence)
 - Becomes a repository of videos with no organized/gathered insights; lots of manual querying to find and email customers.
 - [Square](/notes/square) uses it for ~1/3 of user research (the longer-term-interview slice, vs. 2/3 from [Sprig](/notes/sprig)); the user-research team uses it most.
-- "Probably isn't much better than Grain"; a missed opportunity is taking snippets and building something digestible (a contrast drawn with [Great Question](/notes/great-question)).
+- "Probably isn't much better than [Grain](/notes/grain)"; a missed opportunity is taking snippets and building something digestible (a contrast drawn with [Great Question](/notes/great-question)).
 
 ## Where it shows up
 

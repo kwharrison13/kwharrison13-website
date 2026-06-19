@@ -25,11 +25,11 @@ related:
 
 # Joel Kwartler
 
-**One-line:** *At [Sourcegraph](/notes/sourcegraph) (drawn to its [GitLab](/notes/gitlab)-modeled transparency); knew Curren Iyer from college; planning to start something soon.*
+**One-line:** *At [Sourcegraph](/notes/sourcegraph) (drawn to its [GitLab](/notes/gitlab)-modeled transparency); knew [Curren Iyer](/notes/curren-iyer) from college; planning to start something soon.*
 
 ## What we know
 
-- Came from an in-person-events startup; spent time at IDEO building startup kits for Fortune 500s; found [Figma](/notes/figma) while interning at [Microsoft](/notes/microsoft).
+- Came from an in-person-events startup; spent time at [IDEO](/notes/ideo) building startup kits for Fortune 500s; found [Figma](/notes/figma) while interning at [Microsoft](/notes/microsoft).
 - Sees Sourcegraph's GitLab-style visibility as a learning advantage; polishing engineering skills (chrome extensions) and validating a running list of ideas.
 - On community: prefers high-touch, problem-specific (PRD-driven) meet-ups over generic networking; values forming working bonds (co-founders).
 

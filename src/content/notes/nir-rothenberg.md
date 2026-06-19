@@ -37,7 +37,7 @@ related:
 
 - CISO at [Rapyd](/notes/rapyd), a global payments network, for 2.5 years at time of interview (October 2021). Responsible for global IT and security, cloud security, and physical security.
 - Previously Head of Security at NSO Group.
-- Concurrently or historically CISO at Equinix.
+- Concurrently or historically CISO at [Equinix](/notes/equinix).
 - Customer of Orca, [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd), and formerly [Palo Alto Networks ($PANW)](/notes/palo-alto-networks-panw).
 - Chose [Noname Security](/notes/noname-security) over [Salt Security](/notes/salt-security) based on Noname's broader posture management vision; ran a sandbox POC to validate.
 - Key quote on market sizing: *"I think this is going to be the next 'must have.' You have to have endpoint security (CrowdStrike, SentinelOne). You have to have a Firewall (Palo Alto, CheckPoint). You need a CSPM (Orca, Wiz.io). You need to have an API security tool."* (Source: Salt Security Diligence — 2021)

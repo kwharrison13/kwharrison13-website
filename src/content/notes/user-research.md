@@ -29,9 +29,9 @@ related:
 
 ## How sources describe it
 
-- The goal of any user-research tool: "can we get closer to our customers?" (Chipper Cash). (see Sprig fka UserLeap - Diligence)
+- The goal of any user-research tool: "can we get closer to our customers?" ([Chipper Cash](/notes/chipper-cash)). (see Sprig fka UserLeap - Diligence)
 - The hard part is that people don't know how to set up user research in general; medium/smaller teams are "the wild west" — big opportunity ([Dropbox](/notes/dropbox)).
-- Splits into: contextual in-app micro-surveys ([Sprig](/notes/sprig)), recruited panels + interviews ([UserTesting](/notes/usertesting), Ethn.io, Dscout, Userinterviews.com), and live recorded interviews ([Lookback](/notes/lookback), [Great Question](/notes/great-question)).
+- Splits into: contextual in-app micro-surveys ([Sprig](/notes/sprig)), recruited panels + interviews ([UserTesting](/notes/usertesting), [Ethn.io](/notes/ethn-io), [Dscout](/notes/dscout), [Userinterviews.com](/notes/userinterviews-com)), and live recorded interviews ([Lookback](/notes/lookback), [Great Question](/notes/great-question)).
 - The unmet dream: an "insights company" bridging quantitative product data and qualitative research ([Yue Wu](/notes/yue-wu)).
 
 ## Where it shows up

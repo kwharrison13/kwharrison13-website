@@ -30,13 +30,13 @@ related:
 
 # John Hoffmire
 
-**One-line:** *Saïd Business School (Oxford) faculty focused on employee ownership and impact investing — a former ESOP investment banker who helped employees buy ~$2.2B of ESOP stock, and chair of the NGO Progress Through Business.*
+**One-line:** *Saïd Business School (Oxford) faculty focused on employee ownership and impact investing — a former ESOP investment banker who helped employees buy ~$2.2B of ESOP stock, and chair of the NGO [Progress Through Business](/notes/progress-through-business).*
 
 ## What we know
 
 - Faculty at **Saïd Business School, Oxford**, teaching in the MBA and executive education programmes; directed the Saïd Business School Impact Bond Fund and the Saïd Global Entrepreneur Network. The focus of his teaching is **employee ownership and impact investing**.
 - Led the first sale of shares for a microfinance bank to an **Employee Stock Ownership Plan (ESOP)** at **K-REP in Kenya**.
-- Helped create and chairs **Progress Through Business**, a 14-office non-profit assisting low-income people through market-driven approaches.
+- Helped create and chairs **[Progress Through Business](/notes/progress-through-business)**, a 14-office non-profit assisting low-income people through market-driven approaches.
 - Initiated and helped secure a **$5M grant ($20M with match funding)** for entrepreneurship at the **University of Wisconsin–Madison**; directs the Center on Business and Poverty there.
 - ~20-year pre-academic career in equity investing, venture capital, consulting, and investment banking, with a focus on **ESOPs**. As founder/CEO of his own investment-banking firm he helped employees buy and manage ~**$2.2B** of ESOP stock; sold the firm to **American Capital** (which then went public) and left as Senior Investment Officer when it hit $1B in assets. Later VP at **Ampersand Ventures** (formerly Paine Webber's private equity group).
 - Earned a **Ph.D. at Stanford**, then consulted at **Bain & Company**. Across for-profit and non-profit work, helped start and grow ~32 companies and financed or advised hundreds more.

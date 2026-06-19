@@ -3,22 +3,22 @@ title: "Substack"
 type: "concept"
 publish: false
 confidence: "low"
-created: "2026-06-17"
-updated: "2026-06-17"
+created: "2026-06-19"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/November 15th, 2021 — Rob Koyfman (Koyfin).md"
+  - "wiki/concepts/Sacra.md"
 tags: []
 aliases:
   - "Substack"
-related: []
-reference_count: 1
+related:
+  - "[[Sacra]]"
 ---
 
 # Substack
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page(s)._
+_Stub — flagged during the 2026-06-19 connection sweep as an entity referenced across the wiki without its own page. Named alongside Sacra in the Open-Source Knowledge essay as one of the two documentation aggregators; central to this page's framing but no wiki page exists._
 
 ## Where this appears
 
-- November 15th, 2021 — Rob Koyfman (Koyfin)
+- [Sacra](/notes/sacra)

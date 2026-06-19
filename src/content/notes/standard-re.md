@@ -31,7 +31,7 @@ related:
 - ~10-person team (engineering ex-Slack/Ramp/Airbnb/Corelight/Elementl; insurance team ~50 years combined; legal/ops from a large fintech and McKinsey).
 - Fundraise: ~$5M on $100M post; 2.5 years runway; talking to strategics (Coinbase, Alchemy, DCG) and reinsurer venture arms after Dragonfly pulled a term sheet on "Luna Wednesday."
 - 18-month roadmap: offshore whole life → variable universal life → onshore indexed UL/annuity; licenses in Bermuda (Q3 2022), Singapore, UAE, single-state US.
-- Hired Glenn Ren (ex-[Ramp](/notes/ramp)); needs a Solidity engineer.
+- Hired [Glenn Ren](/notes/glenn-ren) (ex-[Ramp](/notes/ramp)); needs a Solidity engineer.
 
 ## Related concepts
 

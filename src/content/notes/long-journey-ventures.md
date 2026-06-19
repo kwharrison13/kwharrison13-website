@@ -21,7 +21,7 @@ related:
 
 # Long Journey Ventures
 
-**One-line definition:** *Values-led early-stage venture firm ([Arielle Zuckerberg](/notes/arielle-zuckerberg), Cyan Banister, Lee Jacobs) that competes on speed and identity rather than "value add."*
+**One-line definition:** *Values-led early-stage venture firm ([Arielle Zuckerberg](/notes/arielle-zuckerberg), [Cyan Banister](/notes/cyan-banister), [Lee Jacobs](/notes/lee-jacobs)) that competes on speed and identity rather than "value add."*
 
 ## How sources describe it
 

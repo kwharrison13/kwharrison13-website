@@ -3,22 +3,22 @@ title: "Netflix"
 type: "concept"
 publish: false
 confidence: "low"
-created: "2026-06-17"
-updated: "2026-06-17"
+created: "2026-06-19"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/November 2nd, 2021 — Rangan Anandan (BBC).md"
+  - "wiki/concepts/Uptycs.md"
 tags: []
 aliases:
   - "Netflix"
-related: []
-reference_count: 1
+related:
+  - "[[Uptycs]]"
 ---
 
 # Netflix
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page(s)._
+_Stub — flagged during the 2026-06-19 connection sweep as an entity referenced across the wiki without its own page. Cited as an Uptycs customer (~$100K, expected to expand to seven figures); no wiki page exists._
 
 ## Where this appears
 
-- November 2nd, 2021 — Rangan Anandan (BBC)
+- [Uptycs](/notes/uptycs)

@@ -21,11 +21,11 @@ related:
 
 # Flexport
 
-**One-line definition:** *Freight-forwarding / global logistics company founded and led by Ryan Petersen; cited by Katherine Boyle as a founder doing "civic work."*
+**One-line definition:** *Freight-forwarding / global logistics company founded and led by [Ryan Petersen](/notes/ryan-petersen); cited by Katherine Boyle as a founder doing "civic work."*
 
 ## How sources describe it
 
-- When politicians panicked at the November 2021 Port of Long Beach supply-chain crisis, Ryan Petersen got on a boat to find immediate solutions — an example of startups stepping into roles government can't fill ([Building American Dynamism](/notes/building-american-dynamism)).
+- When politicians panicked at the November 2021 Port of Long Beach supply-chain crisis, [Ryan Petersen](/notes/ryan-petersen) got on a boat to find immediate solutions — an example of startups stepping into roles government can't fill ([Building American Dynamism](/notes/building-american-dynamism)).
 
 ## Related concepts
 

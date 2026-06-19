@@ -28,9 +28,9 @@ related:
 ## What we know
 
 - Group Product Manager at Dropbox since September 2020; runs an internal incubator in the collaboration space. (source: Sprig fka UserLeap - Diligence)
-- 12+ years in product. Prior: Head of Product, Home & Local Services at Yelp (01/2017-09/2020); Product (Consumer Apps, Search, SEO) at Smule (08/2015-12/2016), where she led a full search redesign and the go-to-market for the Sing! app.
+- 12+ years in product. Prior: Head of Product, Home & Local Services at [Yelp](/notes/yelp) (01/2017-09/2020); Product (Consumer Apps, Search, SEO) at [Smule](/notes/smule) (08/2015-12/2016), where she led a full search redesign and the go-to-market for the Sing! app.
 - Sprig customer ~1 year; familiarity 5/5; primary decision-maker. Uses Sprig to measure CSAT on a new product.
-- Other vendors: [UserTesting](/notes/usertesting), Ethn.io, Userinterviews.com, Dscout.
+- Other vendors: [UserTesting](/notes/usertesting), [Ethn.io](/notes/ethn-io), [Userinterviews.com](/notes/userinterviews-com), [Dscout](/notes/dscout).
 - Articulated the "why is there no insights company?" gap — bridging quantitative product data and qualitative research.
 
 ## Mentioned in

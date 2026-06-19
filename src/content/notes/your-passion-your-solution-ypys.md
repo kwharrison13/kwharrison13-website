@@ -392,7 +392,7 @@ Key questions to be tested:
 
 ## Appendix D: Young Entrepreneurs Academy (Reference Model)
 
-The Young Entrepreneurs Academy (YEA!) is a year-long class that transforms middle and high school students into entrepreneurs. Students develop business ideas, write business plans, conduct market research, pitch to investors, and launch real legal companies.
+The [Young Entrepreneurs Academy](/notes/young-entrepreneurs-academy) (YEA!) is a year-long class that transforms middle and high school students into entrepreneurs. Students develop business ideas, write business plans, conduct market research, pitch to investors, and launch real legal companies.
 
 **YEA! Stats:**
 - 100% of Academy graduates graduate high school on time

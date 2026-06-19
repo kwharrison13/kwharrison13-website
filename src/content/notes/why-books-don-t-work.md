@@ -53,7 +53,7 @@ _Kyle's own takeaways from the read, preserved._
 
 - The ways we learn are not nearly well understood. There is a lot of [Self-Reflection](/notes/self-reflection) that ought to occur in everyone's life to best identify their learning preferences. #[Multiple Intelligences](/notes/multiple-intelligences)
 - Learning is a skill that is honed and practiced — an idea that does not receive enough attention. You can only get good at [Metacognition](/notes/metacognition) if you practice. As Matuschak puts it: *"I spend a lot of time thinking about why knowledge workers don't spend very much time thinking about knowledge work."*
-- There is an opportunity to invent new mediums that can be as impactful as books originally were. TikTok-style education could be a revolutionary form of learning (e.g. the reason Camden likes sharonsayso on Instagram).
+- There is an opportunity to invent new mediums that can be as impactful as books originally were. [TikTok](/notes/tiktok)-style education could be a revolutionary form of learning (e.g. the reason Camden likes sharonsayso on Instagram).
 
 ## Highlights
 
@@ -75,7 +75,7 @@ _Kyle's own takeaways from the read, preserved._
   > **Kyle:** *Knowing what questions to ask represents a metacognitive skillset, and it's not easy for most people.*
 - **Readers must decide which exercises to do and when. Readers must run their own feedback loops: did they clearly understand the ideas involved in the exercise? If not, what should they do next? What should students do if they're completely stuck?** Some issues are subtler. For example, textbook exercises are often designed to yield both a solution to that specific problem and also broader insights about the subject. Will readers notice if they solved a problem but missed the insights it was supposed to reveal?
 
-### Courses handle SOME of the cognitive load #Syllabus 2.0
+### Courses handle SOME of the cognitive load #[Syllabus 2.0](/notes/syllabus-2-0)
 
 Courses provide things books and lectures don't:
 
@@ -103,7 +103,7 @@ Courses provide things books and lectures don't:
 
 > Books don't work for the same reason that lectures don't work: neither medium has any explicit theory of how people actually learn things, and as a result, both mediums accidentally (and mostly invisibly) evolved around a theory that's plainly false.
 
-> What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. — Carl Sagan, *Cosmos*, "The Persistence of Memory"
+> What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. — [Carl Sagan](/notes/carl-sagan), *Cosmos*, "The Persistence of Memory"
 
 > Mathematical proofs are a medium; the step-by-step structure embodies powerful ideas about formal logic. Snapchat Stories are a medium; the ephemerality embodies powerful ideas about emotion and identity. The World Wide Web is a medium … the pervasive hyperlinks embody powerful ideas about the associative nature of knowledge.
 
@@ -115,7 +115,7 @@ Courses provide things books and lectures don't:
 
 - [Transmissionism](/notes/transmissionism) — the load-bearing villain of the piece: the false "knowledge transcribes directly from teacher to student" model that books and lectures both silently inherit.
 - [Metacognition](/notes/metacognition) — Matuschak's diagnosis of *why* books fail: they offload all the self-monitoring/feedback-loop work onto the reader, which is taxing and unevenly distributed.
-- [Spaced Repetition](/notes/spaced-repetition) · [Memory](/notes/memory) — the two cognitive-science ideas he weaves into a prototype medium (Quantum Country, built with [Michael Nielsen](/notes/michael-nielsen)).
+- [Spaced Repetition](/notes/spaced-repetition) · [Memory](/notes/memory) — the two cognitive-science ideas he weaves into a prototype medium ([Quantum Country](/notes/quantum-country), built with [Michael Nielsen](/notes/michael-nielsen)).
 - [Tools For Thought](/notes/tools-for-thought) — this essay is a foundational text of the tools-for-thought / [Open Source Knowledge](/notes/open-source-knowledge) program.
 - [The Science of Learning](/notes/the-science-of-learning) — companion long-form: neuroplasticity, motivation/attention, and the reform lineage; same "how people actually learn" terrain.
 - [How To Take Smart Notes](/books/how-to-take-smart-notes) — the active-reading practice (summarize, synthesize, analyze rather than transcribe) that Matuschak says distinguishes readers who *do* absorb books.

@@ -34,7 +34,7 @@ related:
 
 ## How sources describe it
 
-- Gartner had a [DevSecOps analyst](/notes/michael-isbitski); "API security was one of those fundamental topics but it was too hard to focus on."
+- [Gartner](/notes/gartner) had a [DevSecOps analyst](/notes/michael-isbitski); "API security was one of those fundamental topics but it was too hard to focus on."
 - The goal: security signals need to reach engineering teams in a way that "doesn't piss them off and doesn't take them away from their core job of building product." ([Prabhath Karanth](/notes/prabhath-karanth), Salt Security Diligence — 2021)
 - [David Mark](/notes/david-mark) (Appsflyer) critique: Salt Security primarily serves security teams, not as well-built for developers — "not paying enough attention to the DevOps part of DevSecOps."
 - [Traceable.ai](/notes/traceable-ai) is more focused on the full DevSecOps lifecycle (CI/CD testing AND production monitoring).

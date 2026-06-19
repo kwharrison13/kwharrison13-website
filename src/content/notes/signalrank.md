@@ -23,14 +23,14 @@ related:
 
 # SignalRank
 
-**One-line definition:** *A company (not a fund) that "productizes pro rata" — ranking investors via Crunchbase data to identify the best seed managers and buy into their breakout portfolios at the Series B.*
+**One-line definition:** *A company (not a fund) that "productizes pro rata" — ranking investors via [Crunchbase](/notes/crunchbase) data to identify the best seed managers and buy into their breakout portfolios at the Series B.*
 
 ## How sources describe it
 
 - Uses Crunchbase data to rank every investor into every unicorn by count and stage, then partners with the best seed managers (who can't fund more than ~1.6 rounds of pro rata themselves).
 - Estimates ~$14B of pro rata available from pre-Series B 2021 unicorns; offers seed managers 20% carry (double the SPV market) and 5-day drawdowns.
 - Structured as a permanent-capital company; raised a seed from [Super Angels](/notes/super-angels), aiming to build a ~$1B balance sheet; fundraising $100M to access ~$200M of pro rata rights.
-- Data science team led by a builder of the Netflix recommendation engine. Background: founder Keith built Europe's first ISP, later RealNames, then Crunchbase.
+- Data science team led by a builder of the [Netflix](/notes/netflix) recommendation engine. Background: founder Keith built Europe's first ISP, later RealNames, then [Crunchbase](/notes/crunchbase).
 
 ## Related concepts
 

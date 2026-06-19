@@ -65,7 +65,7 @@ Talk 5 of the eleven in Chapter Four of [Poor Charlie's Almanack](/books/poor-ch
 - Fifth, **soft science should more intensely imitate the fundamental organizing ethos of hard science** (defined as the "fundamental four-discipline combination" of math, physics, chemistry, and engineering).
 - There is an old two-part rule that often works wonders in business, science, and elsewhere: (1) Take a simple, basic idea and (2) take it very seriously. #[Big Important Ideas](/notes/big-important-ideas)
 - Like pilot training, **the ethos of hard science does not say "take what you wish" but "learn it all to fluency, like it or not."**
-- “Any book, which is at all important, should be reread immediately." Arthur Schopenhauer #Reading
+- “Any book, which is at all important, should be reread immediately." [Arthur Schopenhauer](/notes/arthur-schopenhauer) #Reading
 - To this day, I have never taken any course, anywhere, in chemistry, economics, psychology, or business. But I early took elementary physics and math and paid enough attention to somehow assimilate the fundamental organizing ethos of hard science, **which I thereafter pushed further and further into softer and softer fare as my organizing guide and filing system in a search for whatever multidisciplinary worldly wisdom it would be easy to get.** #[self-directed learning](/notes/self-directed-learning) #[Multidisciplinary Thinking](/notes/multidisciplinary-thinking)
 - "How can smart people so often be wrong? They don't do what I'm telling you to do: **use a checklist to be sure you get all the main models and use them together in a multimodular way**". [Charlie Munger](/notes/charlie-munger) #Checklists
 - Additions #Checklists

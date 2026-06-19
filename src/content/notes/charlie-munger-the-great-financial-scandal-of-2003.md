@@ -43,9 +43,9 @@ Talk 8 of the eleven in Chapter Four of [Poor Charlie's Almanack](/books/poor-ch
 - Incident to the recruitment of the new executives, it was made plain that Quant Tech's directors **wanted a higher market capitalization as soon as feasible.** #Incentives
   > **Kyle:** *What are you optimizing for?*
 - "It is difficult to get a man to understand something when his salary depends on his not understanding it." [Upton Sinclair](/notes/upton-sinclair)
-- **"We all agree that pessimism is a mark of superior intellect."** John Kenneth Galbraith
-- “Meetings are indispensable when you don't want to do anything.” John Kenneth Galbraith
-- "More die in the United States of too much food than of too little.” John Kenneth Galbraith
+- **"We all agree that pessimism is a mark of superior intellect."** [John Kenneth Galbraith](/notes/john-kenneth-galbraith)
+- “Meetings are indispensable when you don't want to do anything.” [John Kenneth Galbraith](/notes/john-kenneth-galbraith)
+- "More die in the United States of too much food than of too little.” [John Kenneth Galbraith](/notes/john-kenneth-galbraith)
 - "In any great organization it is far, far safer to be wrong with the majority than to be right alone." #Contrarian
 
 ## Connections

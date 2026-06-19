@@ -20,11 +20,11 @@ related:
 
 # Retool
 
-**One-line definition:** *Internal-tools platform spanning the Low Code / No Code spectrum — requires some SQL/JavaScript, serving both self-upskilling BizOps teams and technical teams automating drudge work.*
+**One-line definition:** *Internal-tools platform spanning the [Low Code / No Code](/notes/low-code-no-code) spectrum — requires some SQL/JavaScript, serving both self-upskilling BizOps teams and technical teams automating drudge work.*
 
 ## How sources describe it
 
-- Works across the spectrum of users on the Low Code / No Code market map; users need a little technical skill (SQL or JavaScript).
+- Works across the spectrum of users on the [Low Code / No Code](/notes/low-code-no-code) market map; users need a little technical skill (SQL or JavaScript).
 - Reshapes how people think about their roles — operators move from copy-paste to building automations; technical teams slap a UI on internal cron jobs / data cleaning.
 
 ## Related concepts

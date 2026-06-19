@@ -1,24 +1,24 @@
 ---
 title: "Matt Ridley"
-type: "concept"
+type: "person"
 publish: false
 confidence: "low"
-created: "2026-06-17"
-updated: "2026-06-17"
+created: "2026-06-19"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/books-to-read/Genome.md"
+  - "wiki/people/The Psychology of Money.md"
 tags: []
 aliases:
   - "Matt Ridley"
-related: []
-reference_count: 1
+related:
+  - "[[The Psychology of Money]]"
 ---
 
 # Matt Ridley
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page(s)._
+_Stub — flagged during the 2026-06-19 connection sweep as an entity referenced across the wiki without its own page. Author of The Rational Optimist, quoted at length on the 'constant drumbeat of pessimism'; no page exists._
 
 ## Where this appears
 
-- [Genome](/notes/genome)
+- [The Psychology of Money](/books/the-psychology-of-money)

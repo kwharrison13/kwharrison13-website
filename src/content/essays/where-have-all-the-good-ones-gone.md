@@ -11,6 +11,7 @@ substack_url: "https://investing101.substack.com/p/where-have-all-the-good-ones-
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-happiness-hypothesis">The Happiness Hypothesis</a></span></div>
   <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-meme-economy">The Meme Economy</a>, <a href="/essays/the-mysteries-of-an-economic-engine">The Mysteries of an Economic Engine</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a></span></div>
 </aside>
 <!-- connections-end -->

@@ -20,7 +20,7 @@ related:
 
 # Arielle Zuckerberg
 
-**One-line:** *Investor at [Long Journey Ventures](/notes/long-journey-ventures) (with Cyan Banister and Lee Jacobs); Shack 15 member in the Ferry Building.*
+**One-line:** *Investor at [Long Journey Ventures](/notes/long-journey-ventures) (with [Cyan Banister](/notes/cyan-banister) and [Lee Jacobs](/notes/lee-jacobs)); Shack 15 member in the Ferry Building.*
 
 ## Mentioned in
 

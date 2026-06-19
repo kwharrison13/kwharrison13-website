@@ -38,7 +38,7 @@ related:
 
 - Used by [Informatica](/notes/informatica) ([Atanu Dasgupta](/notes/atanu-dasgupta)) and [Gojek](/notes/gojek) ([George Do](/notes/george-do)) as their primary API gateway.
 - "Secure and Govern APIs and Services" page talks more about behavior / best practices than actual product functionality — not yet a true API security product. (Salt Security Diligence — 2021)
-- Focused on API gateways and API mesh (for Microservices architecture); service mesh is their newer business.
+- Focused on API gateways and API mesh (for [Microservices](/notes/microservices) architecture); service mesh is their newer business.
 - Could theoretically add an API Security module but it's "not the same area" — gateway buyers are not security teams and "aren't focused on runtime security that deep." ([Michael Isbitski](/notes/michael-isbitski), Salt Security Diligence — 2021)
 - Analogy: [ServiceNow ($NOW)](/notes/servicenow-now) → [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd) :: Kong → [Salt Security](/notes/salt-security). ([Atanu Dasgupta](/notes/atanu-dasgupta), Salt Security Diligence — 2021)
 - Salt Security has a plug-in integration with Kong (traffic mirroring + blocking capability).

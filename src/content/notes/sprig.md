@@ -46,7 +46,7 @@ related:
 ## How sources describe it
 
 - Original differentiator (as UserLeap): taking in **open-ended data and categorizing it for you** — "a game changer in the surveying world." (see Sprig fka UserLeap - Diligence)
-- **Contextual in-app micro-surveys** drive dramatically higher response rates than email/out-of-context tools (~60% on mobile per Chipper Cash; 20-30% per Codecademy vs. ~1% on SurveyMonkey).
+- **Contextual in-app micro-surveys** drive dramatically higher response rates than email/out-of-context tools (~60% on mobile per [Chipper Cash](/notes/chipper-cash); 20-30% per [Codecademy](/notes/codecademy) vs. ~1% on [SurveyMonkey](/notes/surveymonkey)).
 - Lightweight SDK integration (~1 week per [Dropbox](/notes/dropbox)); template library + suggested questions; asynch video answers; recorded feedback surveys (Loom-style pop-up). No session replay (cf. [FullStory](/notes/fullstory)).
 - Customers named: Robinhood, Square, Nike, Figma. Funded by [a16z](/notes/a16z) (Series B), [Accel](/notes/accel) (Series A), [Bill Trenchard](/notes/bill-trenchard) / [First Round Capital](/notes/first-round-capital) (seed).
 - Critiques: shallow analytics output, no follow-ups/depth, doesn't reach non-customers, user-based pricing, "easy in / easy out," ambiguous category.

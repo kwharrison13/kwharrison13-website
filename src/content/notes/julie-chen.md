@@ -28,7 +28,7 @@ related:
 ## What we know
 
 - Left [Contrary](/notes/contrary) to join an early-stage company; chose [Retool](/notes/retool) after intense diligence — "wrote the largest check of my life" because it's the beginning of her career.
-- Career thesis ("Build a Better On Ramp For Life"): surround herself with smart people to "learn by doing," find her "spike," not rush her learning, and not start something just for the sake of it.
+- Career thesis ("[Build a Better On Ramp For Life](/notes/build-a-better-on-ramp-for-life)"): surround herself with smart people to "learn by doing," find her "spike," not rush her learning, and not start something just for the sake of it.
 
 ## Mentioned in
 

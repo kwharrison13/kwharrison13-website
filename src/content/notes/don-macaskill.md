@@ -1,0 +1,24 @@
+---
+title: "Don MacAskill"
+type: "person"
+publish: false
+confidence: "low"
+created: "2026-06-19"
+updated: "2026-06-19"
+last_updated_by: "agent"
+sources:
+  - "wiki/people/On the Nature of Long-Term Holds.md"
+tags: []
+aliases:
+  - "Don MacAskill"
+related:
+  - "[[On the Nature of Long-Term Holds]]"
+---
+
+# Don MacAskill
+
+_Stub — flagged during the 2026-06-19 connection sweep as an entity referenced across the wiki without its own page. SmugMug founder quoted on building without an exit in mind; no page._
+
+## Where this appears
+
+- [On the Nature of Long-Term Holds](/notes/on-the-nature-of-long-term-holds)

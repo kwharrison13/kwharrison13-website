@@ -21,12 +21,12 @@ related:
 
 # Hasan Luongo
 
-**One-line:** *VP of Global Marketing at Chipper Cash; a Sprig customer and expert source in the Sprig fka UserLeap - Diligence.*
+**One-line:** *VP of Global Marketing at [Chipper Cash](/notes/chipper-cash); a Sprig customer and expert source in the Sprig fka UserLeap - Diligence.*
 
 ## What we know
 
 - VP of Global Marketing at Chipper Cash (largest P2P payments company in Africa), responsible for product-driven and brand growth. (source: Sprig fka UserLeap - Diligence)
-- Focused on distribution challenges for tech companies (e.g., Honey.io); spent a few months at Cisco post-acquisition; previously Senior Instructor (Digital Marketing) at Product School.
+- Focused on distribution challenges for tech companies (e.g., [Honey.io](/notes/honey-io)); spent a few months at Cisco post-acquisition; previously Senior Instructor (Digital Marketing) at Product School.
 - Big Sprig customer ~1.5 years; ~$18K/year contract. Drove +190% adoption on a Uganda crypto feature via a Sprig survey.
 - Notable line: *"I don't care if something is 10% cheaper. We're not price conscious on this."*
 

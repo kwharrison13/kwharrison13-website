@@ -31,9 +31,9 @@ related:
 
 ## How sources describe it
 
-- Very sticky; "wins most of the time" vs. legacy competitors; every evaluation (Codecademy, Verizon, Discovery) it wins. (see Sprig fka UserLeap - Diligence)
+- Very sticky; "wins most of the time" vs. legacy competitors; every evaluation ([Codecademy](/notes/codecademy), Verizon, Discovery) it wins. (see Sprig fka UserLeap - Diligence)
 - Recruits non-customer prospects matching a persona (a few dollars each); added video in 2018 (faces + voices); enables synchronous research where you can "pull on a thread."
-- Pricing: several thousand per corporate seat; Chipper Cash estimates ~$45K/year plus panel-acquisition charges.
+- Pricing: several thousand per corporate seat; [Chipper Cash](/notes/chipper-cash) estimates ~$45K/year plus panel-acquisition charges.
 - The system of record for 1x1 interviews (Zoom call → records → pushes into platform); used to find/track segment-matched user profiles.
 - Caveat: paid panel participants aren't always the average customer you serve, which can be a deterrent ([Square](/notes/square)).
 
