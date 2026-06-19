@@ -11,13 +11,15 @@ sources:
 tags: []
 aliases:
   - "Scripture Study"
-related: []
+related:
+  - "[[Scripture Study — Topical Study]]"
+  - "[[Topical Study]]"
 reference_count: 1
 ---
 
 # Scripture Study
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+_Stub page — auto-generated from wikilink references. The topical-journal deep-dive on this theme is Scripture Study — Topical Study under Topical Study (a private gospel-study page; the suffix avoids a link-resolver collision with this stub)._
 
 ## Where this appears
 
