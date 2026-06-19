@@ -9,7 +9,7 @@ url: "https://www.kwharrison13.com/books/poor-charlie-s-almanack"
 source_published: "2005-01-01"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/books/poor-charlie-s-almanack.md"
@@ -24,6 +24,15 @@ related:
   - "[[The Eleven Talks of Poor Charlie's Almanack]]"
   - "[[Poor Charlie's Almanack]]"
   - "[[Charlie Munger]]"
+  - "[[Spirit of Humility]]"
+  - "[[Multidisciplinary Thinking]]"
+  - "[[Self-Criticism]]"
+  - "[[Big Important Ideas]]"
+  - "[[Learning, No Greater Responsibility]]"
+  - "[[Warren Buffett]]"
+  - "[[Epictetus]]"
+  - "[[Charles Darwin]]"
+  - "[[Don't Die With Your Music Still in You]]"
 ---
 
 # Charlie Munger: USC Gould School of Law Commencement Address
@@ -33,6 +42,18 @@ Talk 10 of the eleven in Chapter Four of [Poor Charlie's Almanack](/books/poor-c
 ## Key Takeaways
 
 We have a moral responsibility to learn as much as possible. The learning that we do should be meaningful and deep, not chauffeur knowledge. We have to manage the impact of that knowledge on those around us and ultimately have a [Spirit of Humility](/notes/spirit-of-humility) to be able to recognize the things we have learned, are learning, and the things we don't know.
+
+## Connections
+
+- [The Eleven Talks of Poor Charlie's Almanack](/notes/the-eleven-talks-of-poor-charlie-s-almanack) — this is Talk 10 of that collection, within [Poor Charlie's Almanack](/books/poor-charlie-s-almanack).
+- [Charlie Munger](/notes/charlie-munger) — the speaker; the "iron prescription" and Planck-vs-chauffeur framing are his.
+- [Spirit of Humility](/notes/spirit-of-humility) — Munger's closing Epictetus quotes and the duty to know what you don't know.
+- [Multidisciplinary Thinking](/notes/multidisciplinary-thinking) and [Big Important Ideas](/notes/big-important-ideas) — his "learn all the big ideas in all the big disciplines" routine, where the big ideas carry ~95% of the freight.
+- [Self-Criticism](/notes/self-criticism) — the "iron prescription" (not entitled to an opinion until you can argue the other side better) and [Charles Darwin](/notes/charles-darwin)'s twenty years versing himself in counterarguments.
+- [Learning, No Greater Responsibility](/notes/learning-no-greater-responsibility) — the acquisition of wisdom as a moral duty and the "learning machine" ideal.
+- [Warren Buffett](/notes/warren-buffett) — cited as the exemplar who spends half his waking time reading.
+- [Epictetus](/notes/epictetus) — three quotes Munger uses on speech, foolishness, and the impossibility of learning what one thinks one already knows.
+- [Don't Die With Your Music Still in You](/essays/dont-die-with-your-music-still-in) — the Mirra bone-tumor textbook anecdote and the Pilgrim's Progress "my sword I leave to him who can wield it" close.
 
 ## Highlights & Notes
 

@@ -9,7 +9,7 @@ url: "https://www.prospectmagazine.co.uk/culture/60493/bonfire-of-the-consultanc
 source_published: "2023-03-01"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://www.prospectmagazine.co.uk/culture/60493/bonfire-of-the-consultancies"
@@ -21,6 +21,7 @@ aliases:
 related:
   - "[[McKinsey]]"
   - "[[Management Consulting]]"
+  - "[[Capitalism]]"
 ---
 
 ## Key Highlights
@@ -34,3 +35,7 @@ related:
 - The firm's collapse in standards: excessive focus on fees, partners chasing dubious government mandates, failures of oversight that led to leadership departures. "The disconnect between the firm's high-minded public image and the grubby pursuit of profit was unsustainable."
 - David Cameron railed against "government by PowerPoint" — but outsourcing to consultancies accelerated during austerity. Companies like Carillon, G4S, and Serco became responsible for cleaning hospitals, school meals, and Olympic security.
 - The grunt work of consulting is routinely handed to overstretched junior teams to save money, undermining the premise of "senior expertise."
+
+## Connections
+
+- [Capitalism](/notes/capitalism) — the review frames management consulting as having "largely escaped blame for the sins of modern capitalism," positioning the industry within a broader critique of fee-driven, profit-maximizing market behavior.

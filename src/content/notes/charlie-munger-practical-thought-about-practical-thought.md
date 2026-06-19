@@ -9,7 +9,7 @@ url: "https://www.kwharrison13.com/books/poor-charlie-s-almanack"
 source_published: "2005-01-01"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/books/poor-charlie-s-almanack.md"
@@ -24,6 +24,11 @@ related:
   - "[[The Eleven Talks of Poor Charlie's Almanack]]"
   - "[[Poor Charlie's Almanack]]"
   - "[[Charlie Munger]]"
+  - "[[Inversion]]"
+  - "[[Multidisciplinary Thinking]]"
+  - "[[Self-Criticism]]"
+  - "[[Decentralized Brain]]"
+  - "[[Simplify and Intensify]]"
 ---
 
 # Charlie Munger: Practical Thought About Practical Thought?
@@ -56,3 +61,20 @@ Talk 4 of the eleven in Chapter Four of [Poor Charlie's Almanack](/books/poor-ch
 - Readers of the Second and Third Edition, if they wish, can correct somewhat for the teaching defects that I have stubbornly retained. That is, they can re-read Talk Four after mastering the final Talk. If they are willing to endure this ordeal, I predict that at least some of them will find the result worth the effort.
 - **"Teachers open the door, but you must enter by yourself."** (Chinese Proverb)
   > **Kyle:** *INVITE others to come unto Christ; that's all we can do #[Preach My Gospel](/notes/preach-my-gospel)*
+
+## Connections
+
+- [Inversion](/notes/inversion) — the talk's Third Notion, Carl Jacobi's "Invert, always invert," and Munger's praise of Darwin and the University of Chicago for "thinking in reverse."
+- [Multidisciplinary Thinking](/notes/multidisciplinary-thinking) — the Fourth Notion: use the elementary concepts from every basic subject rather than staying balkanized into a single discipline.
+- [Self-Criticism](/notes/self-criticism) — named in the Key Takeaways and credited by Einstein (alongside curiosity, concentration, perseverance) as a cause of his achievement; Munger's own admission that he "attempted too much" is self-criticism applied.
+- [Decentralized Brain](/notes/decentralized-brain) — Kyle's note that it's fine to rely on outside nodes but you must keep expanding your own territory of knowledge.
+- [Simplify and Intensify](/notes/simplify-and-intensify) — Munger's verdict that his "folly as an amateur teacher" was attempting too much, a failure to simplify.
+- [Charlie Munger](/notes/charlie-munger) — author of the talk.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — source volume; this is Talk 4 of [The Eleven Talks of Poor Charlie's Almanack](/notes/the-eleven-talks-of-poor-charlie-s-almanack).
+- [Benjamin Franklin](/notes/benjamin-franklin) — invoked via Poor Richard's "If you want it done, go. If not, send."
+- [Charles Darwin](/notes/charles-darwin) — held up as the model of objectivity who tried to disprove his own best-loved ideas.
+- [Albert Einstein](/notes/albert-einstein) — cited as crediting self-criticism among the four causes of his achievement.
+- [Aristotle](/notes/aristotle) — cited on avoiding envy by plainly deserving the success one gets.
+- [Envy](/notes/envy) — the human tendency Munger warns against, countered by deserving success.
+- [Spirit of Humility](/notes/spirit-of-humility) — the Will Rogers line about ordering "somebody else's dog around."
+- [Teaching](/notes/teaching) — Munger's reflection on his failure as a communicator and amateur teacher.

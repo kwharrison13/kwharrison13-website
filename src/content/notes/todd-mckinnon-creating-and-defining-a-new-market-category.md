@@ -9,7 +9,7 @@ url: "https://www.joincolossus.com/episodes/97045634/mckinnon-creating-and-defin
 source_published: "2020-11-12"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://www.joincolossus.com/episodes/97045634/mckinnon-creating-and-defining-a-new-market-category"
@@ -35,7 +35,16 @@ related:
   - "[[Focus]]"
   - "[[Subscription Economy]]"
   - "[[Consumerization of the Enterprise]]"
-  - "[[GDPR]]"
+  - "[[Salesforce]]"
+  - "[[Microsoft]]"
+  - "[[Amazon ($AMZN)]]"
+  - "[[AWS]]"
+  - "[[Ben Horowitz]]"
+  - "[[Network Effects]]"
+  - "[[Innovator's Dilemma]]"
+  - "[[Capital Allocation]]"
+  - "[[Founders Mentality]]"
+  - "[[Twilio]]"
 ---
 
 > Podcast episode from Patrick O'Shaughnessy's *Invest Like the Best* / Colossus. Host: [Patrick O'Shaughnessy](/notes/patrick-o-shaughnessy). Guest: Todd McKinnon, co-founder and CEO of [Okta ($OKTA)](/notes/okta-okta). Source: [joincolossus.com](https://www.joincolossus.com/episodes/97045634/mckinnon-creating-and-defining-a-new-market-category). Annotated by Kyle — his highlights (bold) and concept tags are preserved verbatim in the full transcript below.
@@ -62,6 +71,13 @@ related:
 - The cloud-stack thesis (apps → collaboration → infrastructure all migrating) connects to Cloud Adoption, the [Subscription Economy](/notes/subscription-economy), and the [Consumerization of the Enterprise](/notes/consumerization-of-the-enterprise).
 - The digital-identity / GDPR discussion — how privacy regulation can hurt the small providers it was meant to protect, and Okta's ambition to set a standard rather than own every login — is a thread worth mining alongside Customer Identity & Access Management (CIAM).
 - The "fund risky, low-probability bets outside the normal budget" framework rhymes with how [Amazon ($AMZN)](/notes/amazon-amzn) / [AWS](/notes/aws)-style disruptions get incubated inside incumbents (the [Innovator's Dilemma](/notes/innovator-s-dilemma) problem, solved deliberately).
+- [Salesforce](/notes/salesforce) is the origin point — McKinnon ran engineering there before leaving in 2008, and its small-company go-to-market is the playbook he later had to discard for Okta.
+- [Microsoft](/notes/microsoft) appears twice as a foil: Active Directory as the on-prem incumbent Okta displaced, and the 2014 "Okta killer" announcement that paradoxically validated the category.
+- [AWS](/notes/aws) is the substrate of Okta's economics — running on cloud infrastructure means COGS is the subscription cost, "so we don't have capital allocation."
+- The early-years pain is framed through a [Ben Horowitz](/notes/ben-horowitz) quote about Okta's near-death stretch and the strategy rework that pulled it out.
+- McKinnon's scale ambition for setting an identity standard rests on [Network Effects](/notes/network-effects) and positive returns to scale — the more users, companies, and integrations, the more Okta can define the norm.
+- The subscription economics discussion (75%+ gross margins, no capex, growth rewarded by a big TAM) connects to [Capital Allocation](/notes/capital-allocation) and the durable-business worldview of [Founders Mentality](/notes/founders-mentality).
+- The "you get to see the future" framing is borrowed from O'Shaughnessy's earlier conversation with [Twilio](/notes/twilio-twlo)'s Jeff Lawson.
 
 ## Highlights — Key Takeaways (Kyle's reading layer)
 

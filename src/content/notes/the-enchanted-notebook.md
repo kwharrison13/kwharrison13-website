@@ -8,7 +8,7 @@ url: "https://www.notboring.co/p/the-enchanted-notebook"
 source_published: "2022-09"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://www.notboring.co/p/the-enchanted-notebook"
@@ -26,6 +26,10 @@ related:
   - "[[Storytelling]]"
   - "[[The Meme Economy - Research]]"
   - "[[The Singularity is Near]]"
+  - "[[The Meme Economy]]"
+  - "[[Jeff Bezos]]"
+  - "[[Amazon]]"
+  - "[[The Storytelling of Investing - Research]]"
 ---
 
 # The Enchanted Notebook

@@ -24,6 +24,15 @@ related:
   - "[[The Eleven Talks of Poor Charlie's Almanack]]"
   - "[[Poor Charlie's Almanack]]"
   - "[[Charlie Munger]]"
+  - "[[Multidisciplinary Thinking]]"
+  - "[[Education]]"
+  - "[[Checklists]]"
+  - "[[Inversion]]"
+  - "[[Self-Directed Learning]]"
+  - "[[Alfred North Whitehead]]"
+  - "[[Benjamin Franklin]]"
+  - "[[Confirmation Bias]]"
+  - "[[Big Important Ideas]]"
 ---
 
 # Charlie Munger: Harvard Law School Fiftieth Reunion Address
@@ -73,3 +82,19 @@ Talk 5 of the eleven in Chapter Four of [Poor Charlie's Almanack](/books/poor-ch
     - Watch for combinations of factors-the Lollapalooza effect.
   - Psychology-Based Tendencies
     - His famous Twenty-Five Standard Causes of Human Misjudgment
+
+## Connections
+
+- [Multidisciplinary Thinking](/notes/multidisciplinary-thinking) — the talk's central prescription: synthesis at the boundaries of disciplines, raised to practice-based fluency.
+- [Education](/notes/education) — Munger's critique of soft-science education and his five reforms for fixing it.
+- [Self-Directed Learning](/notes/self-directed-learning) — Munger assimilated the "fundamental organizing ethos of hard science" without ever taking courses in chemistry, economics, psychology, or business.
+- [Checklists](/notes/checklists) — proposed as "a permanent part of the knowledge system," elaborated in the closing additions (Two-Track Analysis, problem-solving checklist).
+- [Inversion](/notes/inversion) — cited as the forward-and-reverse thinking technique borrowed from algebra; also one of the ultra-simple problem-solving notions ("invert").
+- [Confirmation Bias](/notes/confirmation-bias) — multidisciplinary skill offered as a partial cure for man-with-a-hammer tendency.
+- [Big Important Ideas](/notes/big-important-ideas) — Munger's two-part rule: take a simple basic idea and take it very seriously.
+- [Alfred North Whitehead](/notes/alfred-north-whitehead) — source of "ignorance of ignorance is the death of knowledge" and the "fatal unconnectedness" critique of education.
+- [Mark Twain](/notes/mark-twain) — quoted on the danger of "what you know for sure that just ain't so."
+- [Benjamin Franklin](/notes/benjamin-franklin) — invoked as the model of massive multidisciplinary synthesis achieved in less formal schooling.
+- [Charlie Munger](/notes/charlie-munger) — author of the address.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — the source volume; this is Talk 5 of the eleven.
+- [The Eleven Talks of Poor Charlie's Almanack](/notes/the-eleven-talks-of-poor-charlie-s-almanack) — the full collection this talk belongs to.

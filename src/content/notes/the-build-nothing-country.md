@@ -9,7 +9,7 @@ url: "https://noahpinion.substack.com/p/the-build-nothing-country"
 source_published: "2023-02-27"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://noahpinion.substack.com/p/the-build-nothing-country"
@@ -24,6 +24,13 @@ related:
   - "[[NIMBY]]"
   - "[[The Axis of Building]]"
   - "[[Productivity]]"
+  - "[[City Building]]"
+  - "[[Abundance]]"
+  - "[[Real Estate]]"
+  - "[[Distributed Energy Model]]"
+  - "[[Climate Change]]"
+  - "[[Progress Studies]]"
+  - "[[Noahpinion]]"
 ---
 
 ## Key Highlights
@@ -36,3 +43,15 @@ related:
 - The 2/3 of Americans who own homes can raise their paper wealth by attending local government meetings and arguing to restrict the local housing supply — a form of "costless subsidy" with very real costs to everyone else.
 - "Physical stasis seems cheap, but it's an incredibly expensive way to subsidize the lifestyles of Americans."
 - "If we insist on continuing to be the Build-Nothing Country, our once-mighty middle class will sink into a genteel poverty, and someone else will build the future on the bones of our civilization."
+
+## Connections
+
+- [Noah Smith](/notes/noah-smith) — author of the piece, writing on his [Noahpinion](/notes/noah-smith) Substack.
+- [Noahpinion](/notes/noah-smith) — the publication where the essay ran.
+- [The Axis of Building](/essays/the-axis-of-building) — companion Noah Smith argument on the politics of who builds and who blocks.
+- [City Building](/notes/city-building) — the broader theme of housing, transit, and physical-stuff construction the essay diagnoses as paralyzed.
+- [Abundance](/notes/abundance) — the pro-build, supply-side framing that opposes the build-nothing dynamic described here.
+- [Real Estate](/notes/real-estate) — connects to the housing diagnosis: post-2008 construction stasis and homeowner incentives to restrict local supply.
+- [Climate Change](/notes/climate-change) — relates to the green-energy section, where solar and wind face NIMBY opposition despite the $400B IRA allocation.
+- [Distributed Energy Model](/notes/distributed-energy-model) — bears on the transmission-line and renewable-buildout obstacles the essay cites.
+- [Progress Studies](/notes/progress-studies) — the wider question of why a wealthy country has lost the capacity to build the future.

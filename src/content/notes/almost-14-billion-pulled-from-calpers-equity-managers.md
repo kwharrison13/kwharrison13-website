@@ -9,7 +9,7 @@ url: "https://www.ai-cio.com/news/almost-14-billion-pulled-calpers-equity-manage
 source_published: "2019      # year approximate — Ben Meng was CIO from Jan 2019; exact article date <TODO from source>"
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — March 30th, 2022 (Contrary Capital sourcing/diligence log): ~/Downloads/March 30th, 2022.md"
@@ -25,6 +25,9 @@ related:
   - "[[LP]]"
   - "[[Marcie Frost]]"
   - "[[Ben Meng]]"
+  - "[[CalPERS]]"
+  - "[[Investment Returns]]"
+  - "[[Contrary Capital]]"
 ---
 
 # Almost $14 Billion Pulled From CalPERS Equity Managers
@@ -44,6 +47,9 @@ related:
 
 ## How it connects
 
+- [CalPERS](/notes/calpers) — the $380B pension system at the center of the manager terminations.
 - [LP](/notes/lp) — manager-selection and underperformance dynamics at one of the largest LPs in the world.
 - [Marcie Frost](/notes/marcie-frost) — CalPERS CEO who authored the disclosure memo.
 - [Ben Meng](/notes/ben-meng) — CalPERS CIO driving the renewed performance focus.
+- [Investment Returns](/notes/investment-returns) — the fund's 7% assumed rate of return motivating the reallocation.
+- [Contrary Capital](/notes/contrary) — the diligence/sourcing log this clipping was filed within.

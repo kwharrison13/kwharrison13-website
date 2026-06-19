@@ -9,7 +9,7 @@ url: "https://speeches.byu.edu/talks/truman-g-madsen/joseph-smiths-personality-a
 source_published: "1978-08-22"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://speeches.byu.edu/talks/truman-g-madsen/joseph-smiths-personality-and-character/"
@@ -33,6 +33,19 @@ related:
   - "[[Eliza R. Snow]]"
   - "[[Brigham Young]]"
   - "[[Hugh Nibley]]"
+  - "[[Joseph Smith Lecture 1 — The First Vision and Its Aftermath]]"
+  - "[[Parley P. Pratt]]"
+  - "[[Orson Pratt]]"
+  - "[[Sidney Rigdon]]"
+  - "[[Wilford Woodruff]]"
+  - "[[George Q. Cannon]]"
+  - "[[Plato]]"
+  - "[[Book of Mormon]]"
+  - "[[Chad's Big Quote Book]]"
+  - "[[First Principles Thinking]]"
+  - "[[Leadership]]"
+  - "[[Memory]]"
+  - "[[Focus]]"
 ---
 
 > Lecture by [Truman G. Madsen](/notes/truman-g-madsen) — the second in his classic series on the Prophet [Joseph Smith](/notes/joseph-smith), delivered at Brigham Young University and published August 22, 1978. Source: [speeches.byu.edu](https://speeches.byu.edu/talks/truman-g-madsen/joseph-smiths-personality-and-character/). Full text preserved verbatim below, including Madsen's footnotes; Kyle's bolded emphasis is kept as-is.
@@ -49,10 +62,13 @@ related:
 
 ## Connections
 
+- The first installment of Madsen's series, Joseph Smith Lecture 1 — The First Vision and Its Aftermath, frames the prophetic call this lecture deliberately brackets to study the man.
 - A companion portrait to the broader religious-intellectualism thread in the wiki and to Kyle's LDS/gospel reading (see [Chad's Big Quote Book](/notes/chad-s-big-quote-book)).
-- Madsen's "four casts of mind" framework — imagination, conceptualization, memory, simplicity-mindedness — is a reusable lens on intellectual character worth filing under [First Principles Thinking](/notes/first-principles-thinking) and [Focus](/notes/focus).
+- Madsen's "four casts of mind" framework — imagination, conceptualization, [Memory](/notes/memory), simplicity-mindedness — is a reusable lens on intellectual character worth filing under [First Principles Thinking](/notes/first-principles-thinking) and [Focus](/notes/focus); the section-132 dictation anecdote is Madsen's headline illustration of Joseph's memory.
 - The bow-must-be-unstrung counsel and the "huge, rough stone rolling down from a high mountain" self-image connect to themes of resilience, [Leadership](/notes/leadership), and sustaining oneself under prolonged pressure.
-- [Hugh Nibley](/notes/hugh-nibley)'s 522-page term-paper challenge and Arthur Henry King's placing of Joseph Smith—History among "the sublime prose in world literature" are touchstones for the Book of Mormon's literary defense.
+- Madsen ranks D&C section 93 above [Plato](/notes/plato)'s *Timaeus* and defends the [Book of Mormon](/notes/book-of-mormon) as canonical-grade literature — [Hugh Nibley](/notes/hugh-nibley)'s 522-page term-paper challenge and Arthur Henry King's placing of Joseph Smith—History among "the sublime prose in world literature" are the touchstones.
+- Contemporaries cited as character witnesses who have their own wiki pages: [Brigham Young](/notes/brigham-young) (on Joseph's breadth of vision versus [Hyrum](/notes/hyrum-smith)), [Eliza R. Snow](/notes/eliza-r-snow) (the "honest face" / "humble as a little child" testimony), [Parley P. Pratt](/notes/parley-p-pratt) (the tearful reunion at Nauvoo), [Wilford Woodruff](/notes/wilford-woodruff) and [George Q. Cannon](/notes/george-q-cannon) (footnoted on the flood of intelligence the Saints could not bear).
+- [Orson Pratt](/notes/orson-pratt) is named as the second-strongest student (after Joseph) in the Kirtland Hebrew school, and [Sidney Rigdon](/notes/sidney-rigdon) is the foil Peter Burnett measures against Joseph's "native intellect" and command of men.
 
 ## Full Text
 

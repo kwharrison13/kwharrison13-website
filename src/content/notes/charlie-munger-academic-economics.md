@@ -24,6 +24,14 @@ related:
   - "[[The Eleven Talks of Poor Charlie's Almanack]]"
   - "[[Poor Charlie's Almanack]]"
   - "[[Charlie Munger]]"
+  - "[[Multidisciplinary Thinking]]"
+  - "[[Incentives]]"
+  - "[[Forecasting]]"
+  - "[[Self-Criticism]]"
+  - "[[Efficient Market Theory]]"
+  - "[[Berkshire Hathaway]]"
+  - "[[Benjamin Franklin]]"
+  - "[[Checklists]]"
 ---
 
 # Charlie Munger: Academic Economics
@@ -76,3 +84,28 @@ Economics should be more like physics in becoming practical, but not try and be 
   - In so behaving, the University of Chicago is imitating [Charles Darwin](/notes/charles-darwin), **who spent much of his long life thinking in reverse as he tried to disprove his own hardest-won and best-loved ideas.** And so long as there are parts of academia that keep alive its best values by thinking in reverse like Darwin, we can confidently expect that silly educational practices will eventually be replaced by better ones, exactly as Carl Jacobi might have predicted. #[Self-Criticism](/notes/self-criticism)
 - "Capitalism works best when there is trust in the system.” [Charlie Munger](/notes/charlie-munger)
 - "No matter how smart you are, there are smart people out there who can fool you if they really want to. So, be sure you can trust the smart people you work with."
+
+## Connections
+
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — the source book; this is Talk 9 of its eleven talks.
+- [The Eleven Talks of Poor Charlie's Almanack](/notes/the-eleven-talks-of-poor-charlie-s-almanack) — the index page for the full collection of talks.
+- [Charlie Munger](/notes/charlie-munger) — author of the talk and its central voice.
+- [Multidisciplinary Thinking](/notes/multidisciplinary-thinking) — the talk's core thesis against the "fatal unconnectedness of academic disciplines" and for grabbing big ideas across fences.
+- [Incentives](/notes/incentives) — recurring theme, from Franklin's "appeal to interest" to gameable systems and the Medicare cost blowup.
+- [Forecasting](/notes/forecasting) — Munger's distrust of formal projections and the Medicare forecast that was off by more than 1,000%.
+- [Self-Criticism](/notes/self-criticism) — Einstein's and Darwin's habit of destroying one's own best-loved ideas, which Munger praises.
+- [Efficient Market Theory](/notes/efficient-market-theory) — the academic idea Munger says Berkshire ignored in its hard form, along with its CAPM descendant.
+- [Berkshire Hathaway](/notes/berkshire-hathaway) — cited as having achieved its record without paying attention to efficient-market theory.
+- [Warren Buffett](/notes/warren-buffett) — Munger's partner, referenced in the anecdote of buying a company and ignoring the investment banker's study.
+- [Benjamin Franklin](/notes/benjamin-franklin) — quoted on incentives and held up as a model of unpaid public service.
+- [Checklists](/notes/checklists) — Munger's "simple search engine in my mind" run checklist-style to solve complex problems.
+- [Alfred North Whitehead](/notes/alfred-north-whitehead) — source of the "fatal unconnectedness of academic disciplines" critique.
+- [Charles Darwin](/notes/charles-darwin) — model of thinking in reverse to disprove one's own hardest-won ideas.
+- [Samuel Johnson](/notes/samuel-johnson) — source of the ethical rule that maintaining easily removable ignorance is treachery.
+- [Thomas S. Monson](/notes/thomas-s-monson) — quoted on measured performance improving.
+- [Mark Twain](/notes/mark-twain) — quoted on the annoyance of a good example.
+- [Management](/notes/management) — Ricardo's comparative advantage applied to managers delegating tasks.
+- [Compensation](/notes/compensation) — the proposal that zero-pay shareholder-directors would curb unfair executive pay.
+- [Big Important Ideas](/notes/big-important-ideas) — Munger's preference for reaching across disciplines for the big idea over the fence.
+- [Roam Research](/notes/roam-research) — tagged alongside Munger's "thinking tools" point about easily removable ignorance.
+- [Find the Quote](/notes/find-the-quote) — tagged in Kyle's note seeking the scripture on causing a man to sin.

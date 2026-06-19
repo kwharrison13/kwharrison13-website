@@ -8,7 +8,7 @@ url: "https://openai.com/blog/planning-for-agi-and-beyond"
 source_published: "2023-02-24"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://openai.com/blog/planning-for-agi-and-beyond"
@@ -20,9 +20,11 @@ aliases:
   - "Planning for AGI and beyond"
 related:
   - "[[Sam Altman]]"
-  - "[[OpenAI]]"
-  - "[[AI Safety]]"
   - "[[The Meme Economy - Research]]"
+  - "[[The Meme Economy]]"
+  - "[[Historical Futurism]]"
+  - "[[The Enchanted Notebook]]"
+  - "[[Storytelling]]"
 ---
 
 # Planning for AGI and Beyond
@@ -56,5 +58,8 @@ related:
 ## How it connects
 
 - **The Meme Economy - Research** — one of the three "What I'm Reading" pieces feeding [The Meme Economy](/essays/the-meme-economy). Altman's "future of humanity should be determined by humanity" and the gradual-transition framing rhyme with the essay's thread that narratives shape reality.
+- **[The Meme Economy](/essays/the-meme-economy)** — the published essay this piece was read into; the "AGI determined by humanity" line is one of its source quotes.
 - **[Historical Futurism](/essays/historical-futurism)** — the present-tense, paint-the-future-you-want posture, shared with [The Enchanted Notebook](/notes/the-enchanted-notebook).
-- **People/Orgs:** [Sam Altman](/notes/sam-altman), OpenAI. **Concepts:** AI Safety, [Storytelling](/notes/storytelling).
+- **[The Enchanted Notebook](/notes/the-enchanted-notebook)** — paired here as another instance of the optimistic, future-you-want-to-build framing.
+- **[Storytelling](/notes/storytelling)** — Altman's claim that sharing progress publicly shapes the AGI transition treats narrative as a steering mechanism for the future.
+- **People:** [Sam Altman](/notes/sam-altman) — the author, writing as OpenAI's mission statement on stewarding AGI.

@@ -9,7 +9,7 @@ url: "https://www.youtube.com/watch?v=Kq5gvc7p0RM"
 source_published: "2011-01"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/inbox/Feed My Sheep.md"
@@ -32,6 +32,12 @@ related:
   - "[[Gospel Study]]"
   - "[[Book of Mormon]]"
   - "[[Religious Internalization]]"
+  - "[[Gordon B. Hinckley]]"
+  - "[[Moroni 8]]"
+  - "[[Discipleship]]"
+  - "[[Russell M. Nelson]]"
+  - "[[Obedience]]"
+  - "[[Atonement]]"
 ---
 
 > Address by [Jeffrey R. Holland](/notes/jeffrey-r-holland) to departing missionaries at the Provo Missionary Training Center, January 2011. Sources: [YouTube](https://www.youtube.com/watch?v=Kq5gvc7p0RM), [Google Drive recording](https://drive.google.com/file/d/1NL7pI-Yqxn7FG689VRnkTL1PN9qy_c54/view?usp=sharing), and a [transcript](https://laytreasuresinheaven.com/feed-my-sheep-elder-holland/). Full text preserved verbatim below; Kyle's bolded/underscored emphasis is kept as-is.
@@ -51,7 +57,10 @@ related:
 - The canonical primary source for the [Preach My Gospel](/notes/preach-my-gospel) philosophy and the [Missionary Work](/notes/missionary-work) thread in the wiki — Holland narrates the *why* behind the curriculum [Gordon B. Hinckley](/notes/gordon-b-hinckley) commissioned.
 - "Convert the missionary first" is [Religious Internalization](/notes/religious-internalization) stated as program design: doctrine has to be lived in the heart before it can be transmitted. Connects to [Gospel Study](/notes/gospel-study) and the broader religious-intellectualism cluster.
 - The [Moroni 8](/notes/moroni-8) doorstep moment is a concrete instance of the [Book of Mormon](/notes/book-of-mormon)'s pastoral power, and a companion piece to Kyle's LDS/gospel reading (see [Chad's Big Quote Book](/notes/chad-s-big-quote-book) and the [Joseph Smith Lecture 2 — Joseph's Personality and Character](/notes/joseph-smith-lecture-2-joseph-s-personality-and-character) long-form).
-- The "study like Elder Nelson" and "feet in cold water" passages reframe [Gospel Study](/notes/gospel-study) as deliberate practice — a reusable lens on mastery and [Leadership](/notes/leadership) beyond the missionary context.
+- The "study like Elder Nelson" and "feet in cold water" passages reframe [Gospel Study](/notes/gospel-study) as deliberate practice — a reusable lens on mastery and [Leadership](/notes/leadership) beyond the missionary context. The heart-surgeon parable casts [Russell M. Nelson](/notes/russell-m-nelson) (against [M. Russell Ballard](/notes/m-russell-ballard)) as the model of practiced mastery.
+- "Tell me how your obedience is, and I'll tell you right now how your mission is going to be" makes [Obedience](/notes/obedience) the predictor that enables study and companionship study.
+- The "leaving your nets was forever" close frames a mission — and the whole life that follows — as [Discipleship](/notes/discipleship) anchored in the first and great commandment, "Do you love Him?"
+- The Moroni 8 reading turns on the grace and [Atonement](/notes/atonement) of Christ that save children in their innocence — the doctrinal core of the doorstep story.
 
 ## Full Text
 

@@ -8,7 +8,7 @@ url: "https://semilshah.com/2022/01/29/the-market-is-the-greatest-critic/"
 source_published: "2022-01-29"
 confidence: "high"
 created: "2026-06-18"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/calls/January 31st, 2022.md"
@@ -23,6 +23,10 @@ related:
   - "[[Semil Shah]]"
   - "[[Bundle]]"
   - "[[Chris Dixon]]"
+  - "[[Unbundling]]"
+  - "[[Capital Allocation]]"
+  - "[[Venture Capital]]"
+  - "[[Robinhood]]"
 ---
 
 # The Market Is The Greatest Critic
@@ -52,3 +56,11 @@ related:
 - Bundle — the central strategic lens of the piece
 - Chris Dixon — the defense of startups that prompted the post
 - Toast ($TOST) — cited as a downturn victim
+
+## Connections
+
+- [Unbundling](/notes/unbundling) — the conceptual counterpart to the piece's thesis that public markets reward firms that bundle product lines into diversified platforms.
+- [Capital Allocation](/notes/capital-allocation) — the post is fundamentally about how public investors and quant funds reallocate capital toward diversified-growth narratives.
+- [Venture Capital](/notes/venture-capital) — Semil frames the shift from the easy-money era of follow-on growth investing toward demanding more than top-line momentum.
+- [Robinhood](/notes/robinhood) — named alongside Toast ($TOST) as a high-flying tech company punished in the Nov '21–Jan '22 crash.
+- [Facebook](/notes/facebook), [Microsoft](/notes/microsoft), [Google](/notes/google), [Apple](/notes/apple-aapl) — cited as the companies spared in the downturn, exemplars of bundled, diversified platforms (Instagram/WhatsApp, Activision/Minecraft/[LinkedIn](/notes/linkedin)).

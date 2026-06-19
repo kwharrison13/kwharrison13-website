@@ -9,7 +9,7 @@ url: "https://www.kwharrison13.com/books/poor-charlie-s-almanack"
 source_published: "2005-01-01"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/books/poor-charlie-s-almanack.md"
@@ -24,6 +24,13 @@ related:
   - "[[The Eleven Talks of Poor Charlie's Almanack]]"
   - "[[Poor Charlie's Almanack]]"
   - "[[Charlie Munger]]"
+  - "[[Charles Darwin]]"
+  - "[[Confirmation Bias]]"
+  - "[[Cicero]]"
+  - "[[Benjamin Franklin]]"
+  - "[[Samuel Johnson]]"
+  - "[[Spirit of Humility]]"
+  - "[[Public Speaking]]"
 ---
 
 # Charlie Munger: Harvard School Commencement Speech
@@ -64,3 +71,16 @@ People are often the victim of their vices. And they will die defending those vi
     **Yours is the Earth and everything that's in it,**
     **And-which is more-you'll be a Man, my son!**
 - Excerpted from the poem "If," which Charlie has always admired.
+
+## Connections
+
+- [Charlie Munger](/notes/charlie-munger) — the speaker; this is Talk 1 of his eleven collected talks.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — the source volume; this talk opens Chapter Four.
+- [The Eleven Talks of Poor Charlie's Almanack](/notes/the-eleven-talks-of-poor-charlie-s-almanack) — index page for the full set of talks this belongs to.
+- [Charles Darwin](/notes/charles-darwin) — Munger holds up Darwin's habit of prioritizing disconfirming evidence as the model working method.
+- [Confirmation Bias](/notes/confirmation-bias) — the failure mode Darwin's method counters; people who "couldn't squeeze a dime between what they already know and what they will never learn."
+- [Cicero](/notes/cicero) — invoked as an oratory role model via his "The longest one" reply about Demosthenes.
+- [Samuel Johnson](/notes/samuel-johnson) — quoted on *Paradise Lost* ("No one ever wished it longer") to frame brevity as a virtue.
+- [Benjamin Franklin](/notes/benjamin-franklin) — source of the maxim "They that won't be counseled, can't be helped."
+- [Spirit of Humility](/notes/spirit-of-humility) — theme tagged to the Franklin counsel about heeding advice.
+- [Public Speaking](/notes/public-speaking) — the frame for the talk's opening, judging speeches by whether one wished them longer.

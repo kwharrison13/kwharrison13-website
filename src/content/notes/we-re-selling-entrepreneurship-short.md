@@ -9,7 +9,7 @@ url: "https://bryce.medium.com/were-selling-entrepreneurship-short-79ca4fc6316"
 source_published: "2023-03-02"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://bryce.medium.com/were-selling-entrepreneurship-short-79ca4fc6316"
@@ -24,6 +24,10 @@ related:
   - "[[Indie.vc]]"
   - "[[Venture Capital]]"
   - "[[The Disruption Waves of Venture Capital]]"
+  - "[[Capital Allocation]]"
+  - "[[LP]]"
+  - "[[Private Equity]]"
+  - "[[Crypto]]"
 ---
 
 ## Key Highlights
@@ -37,3 +41,11 @@ related:
 - Indie companies that stayed profitable have had real optionality: "repurchasing equity, merging with VC-backed companies, getting acquired, or raising growth capital from traditional VCs."
 - "Too many of the same dollars chasing the same deals and, naturally, seeing the same results." Prices skyrocket, ownership shrinks.
 - Opportunity: a wave of entrepreneurship built around **broader base of entrepreneurs who are non-consumers today** — people who never saw venture as a path.
+
+## Connections
+
+- [Venture Capital](/notes/venture-capital) — the model under critique: large funds now need $50B+ public outcomes, warping incentives for everyone downstream.
+- [Capital Allocation](/notes/capital-allocation) — the piece is fundamentally about how the same dollars chase the same deals, shrinking ownership and returns.
+- [LP](/notes/lp) — Stanford, a major limited partner, concentrated into existing large-fund relationships rather than diversifying, reinforcing the imbalance.
+- [Private Equity](/notes/private-equity) — the profitable, founder-controlled alternative Roberts advocates sits closer to traditional buyout/cash-flow logic than to blitzscaling venture.
+- [Crypto](/notes/crypto) — cited as an example of the market's fickleness ("one day everyone is chasing crypto then they're hunting AI the next") that funding-dependent founders are exposed to.

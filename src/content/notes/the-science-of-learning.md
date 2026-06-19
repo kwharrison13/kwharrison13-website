@@ -9,7 +9,7 @@ url: "https://www.amazon.com/TIME-Science-Learning-Editors/dp/1547854472"
 source_published: "2018"
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (reading highlights): ~/Downloads/June 29th, 2021.md"
@@ -35,6 +35,19 @@ related:
   - "[[Jean Piaget]]"
   - "[[Carol Dweck]]"
   - "[[Cal Newport]]"
+  - "[[Deep Work]]"
+  - "[[Motivation]]"
+  - "[[Diligence]]"
+  - "[[Knowledge]]"
+  - "[[Curriculum]]"
+  - "[[Teaching]]"
+  - "[[Multiple Intelligences]]"
+  - "[[Expertise]]"
+  - "[[Neuroscience]]"
+  - "[[Alternative Education]]"
+  - "[[Sora Schools]]"
+  - "[[Kobe Bryant]]"
+  - "[[T.S. Eliot]]"
 ---
 
 # The Science of Learning
@@ -94,5 +107,13 @@ related:
 - [Learning](/notes/learning) · [Education](/notes/education) · [Parenting](/notes/parenting) — the core topics this piece sits across.
 - 10,000 Hour Rule — the source explicitly pushes back on the popular framing.
 - [Growth Mindset](/notes/growth-mindset) / [Carol Dweck](/notes/carol-dweck) — belief that ability and knowledge can evolve.
-- [Cal Newport](/notes/cal-newport) — sustained attention / deep concentration as a prerequisite for learning.
+- [Cal Newport](/notes/cal-newport) · [Deep Work](/books/deep-work) — sustained attention / deep concentration as a prerequisite for learning.
 - Montessori · Maria Montessori · John Dewey · Jean Piaget — the reform lineage in education.
+- [Motivation](/notes/motivation) · Diligence — named here as a learning ingredient and a habit of mind, respectively.
+- [Knowledge](/notes/knowledge) · [Curriculum](/notes/curriculum) · [Teaching](/notes/teaching) — the source's account of transforming information into usable knowledge through well-sequenced instruction.
+- [Multiple Intelligences](/notes/multiple-intelligences) — associated with Jean Piaget in the piece's developmental framing.
+- [Expertise](/notes/expertise) — the 10,000-hour critique is a claim about how (and whether) practice builds expertise.
+- [Neuroscience](/notes/neuroscience) — the piece's neuroplasticity argument that the adult brain can grow and re-wire.
+- [T.S. Eliot](/notes/t-s-eliot) — quoted on the loss of wisdom in knowledge and knowledge in information.
+- [Kobe Bryant](/notes/kobe-bryant) — tagged against the 10,000-hour myth discussion.
+- [Alternative Education](/notes/alternative-education) · [Sora Schools](/notes/sora-schools) — project-based and self-directed models the source's evidence favors.

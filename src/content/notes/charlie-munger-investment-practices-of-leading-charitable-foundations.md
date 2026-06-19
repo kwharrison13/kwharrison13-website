@@ -9,7 +9,7 @@ url: "https://www.kwharrison13.com/books/poor-charlie-s-almanack"
 source_published: "2005-01-01"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/books/poor-charlie-s-almanack.md"
@@ -24,6 +24,11 @@ related:
   - "[[The Eleven Talks of Poor Charlie's Almanack]]"
   - "[[Poor Charlie's Almanack]]"
   - "[[Charlie Munger]]"
+  - "[[Investment Returns]]"
+  - "[[Circle of Competence]]"
+  - "[[Chamath Palihapitiya]]"
+  - "[[Investing 101 2.0]]"
+  - "[[Elon Musk]]"
 ---
 
 # Charlie Munger: Investment Practices of Leading Charitable Foundations
@@ -48,3 +53,12 @@ There is an intense psychology in investing because you're trying to avoid overc
   - "We're not a basketball team. We're a track and field team. We're on the same team but we're running different things and have different strengths. But we're wearing the same team name. We all do better if the team wins." (Dan Sundhein, Founder of D1) #Investing #[Chamath Palihapitiya](/notes/chamath-palihapitiya)
 - My controversial argument is an additional consideration weighing against the complex, high-cost investment modalities becoming ever more popular at foundations. Even if, contrary to my suspicions, such modalities should turn out to work pretty well, most of the money-making activity would contain profoundly antisocial effects. **This would be so because the activity would exacerbate the current, harmful trend in which ever more of the nation's ethical young brainpower is attracted into lucrative money management and its attendant modern frictions, as distinguished from work providing much more value to others.** Money management does not create the right examples. Early Charlie Munger is a horrible career model for the young because not enough was delivered to civilization in return for what was wrested from capitalism. And other similar career models are even worse.
   - “Too many smart people go into finance and law. That's both a compliment and a criticism.” [Elon Musk](/notes/elon-musk)
+
+## Connections
+
+- [Investment Returns](/notes/investment-returns) — the talk's core math: after the croupiers' take, exactly half of investors land below the median result.
+- [Circle of Competence](/notes/circle-of-competence) — Munger invokes Feynman's "you must not fool yourself" as the physicist's discipline against overconfidence.
+- [Chamath Palihapitiya](/notes/chamath-palihapitiya) — annotation contrasting investing as an "individual sport" with company-building as a team sport.
+- [Investing 101 2.0](/notes/investing-101-2-0) — tagged alongside the investing-as-individual-sport note in Kyle's reading layer.
+- [Elon Musk](/notes/elon-musk) — annotation echoing Munger's worry that too much "ethical young brainpower" is pulled into finance and law rather than higher-value work.
+- [Charlie Munger](/notes/charlie-munger) — author of the talk.

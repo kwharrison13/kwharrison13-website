@@ -9,7 +9,7 @@ url: "https://onlycfo.substack.com/p/how-to-trick-investors-and-vcs"
 source_published: "2023-03-02"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://onlycfo.substack.com/p/how-to-trick-investors-and-vcs"
@@ -23,6 +23,11 @@ related:
   - "[[OnlyCFO]]"
   - "[[Venture Capital]]"
   - "[[SaaS Metrics]]"
+  - "[[Fraud]]"
+  - "[[Accounting]]"
+  - "[[Due Diligence]]"
+  - "[[Capital Allocation]]"
+  - "[[Metrics]]"
 ---
 
 ## Key Highlights
@@ -36,3 +41,12 @@ related:
   - Many VCs don't dig deep — focus is on topline, assuming everything else will work out
 - **Burn Multiple** = Cash Burn / Net New ARR — a key metric that's easy to game by varying how each component is defined.
 - Rule of thumb: "I never really trust the financials of a company before they have a real controller and are getting their financial statements audited — often somewhere before $15M in ARR."
+
+## Connections
+
+- [Venture Capital](/notes/venture-capital) — the investors being deceived; the piece argues VCs are easier to fool than public-market investors because management controls reporting and many lack a finance background.
+- [Accounting](/notes/accounting) — the "honest accounting shenanigans" at the heart of the article: capitalized sales commissions, internal-use software capitalization, and GAAP gross-margin optics.
+- [Fraud](/notes/fraud) — the third and most severe of the three deception categories the piece outlines.
+- [Due Diligence](/notes/due-diligence) — the article's claim that many VCs "don't dig deep," focusing on topline and assuming the rest works out.
+- [Metrics](/notes/metrics) — efficiency metrics and the Burn Multiple (Cash Burn / Net New ARR) that get gamed by varying how each component is defined.
+- [Capital Allocation](/notes/capital-allocation) — the lens through which inflated efficiency metrics distort how investors price and fund startups.

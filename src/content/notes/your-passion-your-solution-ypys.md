@@ -7,7 +7,7 @@ excerpt: "Kyle's 2014 business plan for YPYS, a not-for-profit that connects col
 source_published: "2014"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/inbox/Your Passion, Your Solution (YPYS).md"
@@ -27,6 +27,12 @@ related:
   - "[[Young Entrepreneurs Academy]]"
   - "[[Business Incubators]]"
   - "[[Leadership Development]]"
+  - "[[Entrepreneurship]]"
+  - "[[Experiential Learning]]"
+  - "[[Education]]"
+  - "[[Mentorship]]"
+  - "[[BYU]]"
+  - "[[Paul Graham]]"
 ---
 
 Lucas Li's 2014 business plan for **YPYS (Your Passion, Your Solution)**, a not-for-profit designed to leverage college and high school student energy to address social issues. Piloted from Provo, UT, with plans to expand state-by-state. The plan was developed in preparation for an Oxford Social Seminar.
@@ -47,6 +53,11 @@ Lucas Li's 2014 business plan for **YPYS (Your Passion, Your Solution)**, a not-
 - The Young Entrepreneurs Academy (documented in Appendix D) is the closest comparable — YPYS studied it as a reference model. Key difference: YEA! is school-embedded; YPYS is a standalone nonprofit that partners with schools.
 - The incubator model is explicitly drawn from InfoDev's Mixed-use Incubator Handbook (Appendix F), specifically the "HUB/Venture Incubator" (mixed BAM + virtual) model.
 - The thesis that early engagement produces lifetime social leaders maps to what [Paul Graham](/notes/paul-graham) has written about intrinsic motivation: the sooner an identity forms around doing something meaningful, the more durable it is.
+- [Entrepreneurship](/notes/entrepreneurship) is the underlying discipline YPYS teaches in a social register — students found and run ventures, write proposals, and pitch investors, the same venture-creation arc applied to social issues rather than profit.
+- [Experiential Learning](/notes/experiential-learning) is the program's core pedagogy — the year-long curriculum teaches social innovation through self-directed projects rather than lectures alone, and the pilot (Appendix C) is designed to isolate how much workshops vs. lectures actually drive outcomes.
+- [Education](/notes/education) is the institutional substrate of the model — YPYS runs on the college-to-high-school student pipeline, partnering with schools as both a fundraising platform and a recruitment funnel where today's high schooler becomes tomorrow's program director.
+- [Mentorship](/notes/mentorship) is one of the named incubator services — each social venture is paired with a mentor experienced in social ventures or the relevant issue, and the pilot explicitly tests whether mentorship is essential to success.
+- [BYU](/notes/byu) is the source of the pilot cohort — 12 BYU students form the initial control/test groups, with operations based out of Provo, UT.
 
 ---
 

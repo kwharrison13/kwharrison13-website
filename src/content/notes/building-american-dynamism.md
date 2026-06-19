@@ -26,6 +26,11 @@ related:
   - "[[It's Time To Build]]"
   - "[[Ryan Petersen]]"
   - "[[Flexport]]"
+  - "[[Marc Andreessen]]"
+  - "[[SpaceX]]"
+  - "[[Anduril Industries]]"
+  - "[[Blue Origin]]"
+  - "[[Josh Wolfe]]"
   - "[[June 6th, 2022 — Katherine Boyle (a16z)]]"
 ---
 
@@ -89,3 +94,5 @@ _Verbatim excerpts Kyle captured on re-read, in source order._
 - [It's Time To Build](/notes/it-s-time-to-build) by [Marc Andreessen](/notes/marc-andreessen) — the foundational "build" manifesto this argument extends.
 - Ryan Petersen / [Flexport](/notes/flexport) — Boyle's central example of a founder doing civic work.
 - [a16z](/notes/a16z) — publisher (future.com) and home of the American Dynamism practice.
+- [SpaceX](/books/elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future), [Anduril Industries](/notes/anduril), [Blue Origin](/notes/blue-origin) — companies Boyle cites as entrenched in government missions (aerospace, defense, intelligence).
+- [Josh Wolfe](/notes/josh-wolfe) — referenced in Kyle's "means justify the ends" note on value creation vs. potential fraud.

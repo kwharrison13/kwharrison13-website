@@ -8,7 +8,7 @@ url: "https://perell.com/essay/peter-thiel/"
 source_published: "2019"
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://perell.com/essay/peter-thiel/"
@@ -23,6 +23,9 @@ related:
   - "[[Rene Girard]]"
   - "[[Mimetic Theory]]"
   - "[[The Meme Economy - Research]]"
+  - "[[The Meme Economy]]"
+  - "[[Memetics]]"
+  - "[[William Shakespeare]]"
 ---
 
 # Peter Thiel's Religion

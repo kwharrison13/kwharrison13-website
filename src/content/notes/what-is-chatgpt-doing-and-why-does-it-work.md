@@ -9,7 +9,7 @@ url: "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-
 source_published: "2023-02-14"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/"
@@ -24,6 +24,10 @@ related:
   - "[[ChatGPT]]"
   - "[[Neural Nets]]"
   - "[[Large Language Models]]"
+  - "[[Capitalism]]"
+  - "[[Agriculture]]"
+  - "[[Parenting]]"
+  - "[[Family]]"
 ---
 
 ## Key Highlights
@@ -39,3 +43,10 @@ related:
 - The same neural net architecture often works for seemingly very different tasks — possibly because the tasks we give nets are "human-like," and nets capture quite general human-like processes.
 - "The success of ChatGPT implicitly reveals an important scientific fact: there's actually a lot more structure and simplicity to meaningful human language than we ever knew."
 - Wolfram's experiment: decomposing "I bought two pounds of apples for my children" — each phrase connects to deep conceptual underpinnings (individualism/capitalism, measurement/math, agriculture, family/parenting).
+
+## Connections
+
+- [Capitalism](/notes/capitalism) — Wolfram's decomposition of "I bought two pounds of apples" traces the act of buying back to the conceptual underpinnings of individualism and capitalism.
+- [Agriculture](/notes/agriculture) — the same sentence-decomposition experiment grounds "apples" in agriculture as one of the deep concepts encoded in everyday language.
+- [Family](/notes/family) — "for my children" anchors the example sentence in the concept of family.
+- [Parenting](/notes/parenting) — the "my children" phrase connects the example to parenting as one of the human-conceptual layers underlying ordinary speech.

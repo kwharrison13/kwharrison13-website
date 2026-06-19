@@ -9,7 +9,7 @@ url: "https://andymatuschak.org/books/"
 source_published: "2019-05-11"
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research export — Andy Matuschak, 'Why Books Don't Work' (reading highlights + notes): ~/Downloads/Why Books Don't Work.md"
@@ -37,6 +37,8 @@ related:
   - "[[Quantum Country]]"
   - "[[Made To Stick]]"
   - "[[How To Take Smart Notes]]"
+  - "[[The Science of Learning]]"
+  - "[[Self-Reflection]]"
   - "[[Sapiens]]"
   - "[[Carl Sagan]]"
 ---
@@ -122,3 +124,4 @@ Courses provide things books and lectures don't:
 - [Made To Stick](/books/made-to-stick) — Kyle links the spaced review sessions to its stickiness principles.
 - [Sapiens](/books/sapiens) — Kyle's example of "authorial voice" / emotional salience carrying a book.
 - [Multiple Intelligences](/notes/multiple-intelligences) — the lens Kyle reads the piece through: matching mediums to how a given person learns.
+- [Self-Reflection](/notes/self-reflection) — Kyle's takeaway that identifying one's own learning preferences requires deliberate self-reflection, since "the ways we learn are not nearly well understood."

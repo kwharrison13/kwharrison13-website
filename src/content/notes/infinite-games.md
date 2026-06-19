@@ -9,7 +9,7 @@ url: "https://www.youngmoney.co/p/infinite-games"
 source_published: "2023-03-02"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://www.youngmoney.co/p/infinite-games"

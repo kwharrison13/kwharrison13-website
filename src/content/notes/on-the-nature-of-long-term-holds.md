@@ -7,7 +7,7 @@ excerpt: "Yale case (2020) on why holding a business for decades beats flipping 
 source_published: "2020-05-28"
 confidence: "high"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://yale.app.box.com/s/i8o06d1lv37ehtiln9wmfqh5f19gxben"
@@ -30,6 +30,14 @@ related:
   - "[[Will Thorndike]]"
   - "[[Investing 101 2.0]]"
   - "[[MOIC]]"
+  - "[[Holding Company]]"
+  - "[[Permanent Capital]]"
+  - "[[Capital Allocation]]"
+  - "[[Investment Returns]]"
+  - "[[Warren Buffett]]"
+  - "[[Private Equity]]"
+  - "[[Small Business]]"
+  - "[[Taxes]]"
 ---
 
 > Yale case study, May 28, 2020. By A.J. Wasserstein, Mark Agnew, and Brian O'Connor. Annotated by Kyle (highlights + notes preserved verbatim below). Companion piece: On the Nature of Long-Term Holds (twitter thread).
@@ -51,6 +59,15 @@ related:
 - [Compounding](/notes/compounding) is the load-bearing concept; the MOIC vs. IRR distinction is the metric that follows from taking compounding seriously.
 - The Morgan Housel: Naked Brands Interview Series thread Kyle grafts in (trust → permanent capital → compounding advantage) explains *why* [Warren Buffett](/notes/warren-buffett) and Howard Marks could hold for decades — the soft prerequisite the case mostly assumes.
 - Lived examples to mine elsewhere in the wiki: Chenmark Capital Management (Trish Higgins), SmugMug (Don MacAskill), Glenn Healey, and the Chris Jones / Speed Rack conversation Kyle flags.
+- [Capital Allocation](/notes/capital-allocation) is the discipline the case rewards — leaving cash in the business to redeploy at attractive rates rather than withdrawing or exiting.
+- "Permanent capital" is the soft prerequisite the authors and Trish Higgins both invoke; see [Permanent Capital](/notes/permanent-capital) for the forever-hold ownership structure.
+- A [Holding Company](/notes/holding-company) is the vehicle Kyle's note recommends for letting acquired businesses compound under one roof.
+- [Warren Buffett](/notes/warren-buffett) and [Berkshire Hathaway](/notes/berkshire-hathaway) are the recurring exemplars (quoted on compounding, diversification, and refusing to trade); [Buffett: The Biography](/books/buffett-the-biography) supplies the diversification anecdote.
+- The friction-of-trade argument turns on [Taxes](/notes/taxes) (capital gains avoidable only by not transacting) and feeds the broader [Investment Returns](/notes/investment-returns) framing of MOIC over IRR.
+- The case explicitly contrasts its hold-forever thesis with the five-year flip mindset of [Private Equity](/notes/private-equity) and venture capital.
+- Anchored in [Small Business](/notes/small-business) economics: simple, enduring companies generating mid-teen equity returns over decades.
+- [Malcolm Gladwell](/notes/malcolm-gladwell)'s 10,000-hours thesis (from Outliers) grounds the "non-financial compounding" / CEO-maturation point.
+- [The Messy Marketplace](/books/the-messy-marketplace) supplies the owner-dependence caution: the more a business relies on the founder, the lower its sale price and the harder the exit.
 
 ## Highlights & Notes
 

@@ -9,7 +9,7 @@ url: "https://www.kwharrison13.com/books/poor-charlie-s-almanack"
 source_published: "2005-01-01"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/books/poor-charlie-s-almanack.md"
@@ -24,11 +24,37 @@ related:
   - "[[The Eleven Talks of Poor Charlie's Almanack]]"
   - "[[Poor Charlie's Almanack]]"
   - "[[Charlie Munger]]"
+  - "[[Self-Criticism]]"
+  - "[[Inversion]]"
+  - "[[Multidisciplinary Thinking]]"
+  - "[[Confirmation Bias]]"
+  - "[[Charles Darwin]]"
+  - "[[Warren Buffett]]"
+  - "[[Benjamin Franklin]]"
+  - "[[Latticework]]"
+  - "[[Loss Aversion]]"
+  - "[[Continuous Learning]]"
 ---
 
 # Charlie Munger: The Psychology of Human Misjudgment
 
 Talk 11 of the eleven in Chapter Four of [Poor Charlie's Almanack](/books/poor-charlie-s-almanack). See [The Eleven Talks of Poor Charlie's Almanack](/notes/the-eleven-talks-of-poor-charlie-s-almanack) for the full collection.
+
+## Connections
+
+- [Charlie Munger](/notes/charlie-munger) — author of the talk and architect of the self-built system of psychological tendencies it describes.
+- [Self-Criticism](/notes/self-criticism) — Munger's recurring antidote: being "not entitled to an opinion" until you can state the other side better than its advocates; the talk's throughline on staying open to changing your mind.
+- [Inversion](/notes/inversion) — Munger's method of "Invert, always invert," collecting instances of bad judgment to derive good judgment.
+- [Multidisciplinary Thinking](/notes/multidisciplinary-thinking) — his refusal to respect boundaries between professional territories when hunting for "stupidity over the fence."
+- [Confirmation Bias](/notes/confirmation-bias) — named in the talk as the opprobrium term for failing to do what [Charles Darwin](/notes/charles-darwin) did with disconfirming evidence.
+- [Charles Darwin](/notes/charles-darwin) — held up as the model antidote to first-conclusion bias for intensively considering evidence against his own hypotheses.
+- [Warren Buffett](/notes/warren-buffett) — shares the talk's "loves admirable persons and ideas" advantage and the maxim "it is not greed that drives the world, but envy."
+- [Benjamin Franklin](/notes/benjamin-franklin) — the self-help model for Munger's own system, cited via the autobiography, the Almanacks, and "a small leak will sink a great ship."
+- [Latticework](/notes/latticework) — the framework of theory on which a thinking person hangs experience; its gaps drive "man with a hammer" error.
+- [Loss Aversion](/notes/loss-aversion) — Kyle's annotation maps Munger's Deprival-Superreaction examples (the $100 from $300 vs. $10M account) onto relative loss/gain.
+- [Continuous Learning](/notes/continuous-learning) — "continuous thinking and learning, done with joy" as the duty to one's better self and a hedge against skill atrophy.
+- [Sam Walton](/notes/sam-walton) — invoked as the learner who destroyed old beliefs when new evidence contradicted them.
+- [Spirit of Humility](/notes/spirit-of-humility) — recurs in the Persian Messenger Syndrome and Tolstoy-effect passages on welcoming bad news and avoiding excuses.
 
 ## Key Takeaways
 

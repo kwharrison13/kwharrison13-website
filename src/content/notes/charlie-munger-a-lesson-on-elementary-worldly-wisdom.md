@@ -24,6 +24,14 @@ related:
   - "[[The Eleven Talks of Poor Charlie's Almanack]]"
   - "[[Poor Charlie's Almanack]]"
   - "[[Charlie Munger]]"
+  - "[[Warren Buffett]]"
+  - "[[Circle of Competence]]"
+  - "[[Investment Returns]]"
+  - "[[Incentives]]"
+  - "[[Jack Welch]]"
+  - "[[Sam Walton]]"
+  - "[[Competition]]"
+  - "[[Whatever you are, be a good one]]"
 ---
 
 # Charlie Munger: A Lesson on Elementary Worldly Wisdom
@@ -91,3 +99,20 @@ You should understand the environment in which you operate. Incentives, motivati
     - Work only with people you enjoy.
   - I have been incredibly fortunate in my life: with Warren I had all three."
 - "You don't have to be brilliant, only a little bit wiser than the other guys, on average, for a long, long time." [Charlie Munger](/notes/charlie-munger)
+
+## Connections
+
+- [Charlie Munger](/notes/charlie-munger) — author of the talk; the latticework-of-mental-models thesis is his.
+- [Warren Buffett](/notes/warren-buffett) — Munger's partner, cited on stable businesses ("chewing gum") and as the model business analyst who reads the technology-helps-vs-kills distinction correctly.
+- [Circle of Competence](/notes/circle-of-competence) — the talk's "best plumbing contractor in Bemidji" argument for building an attainable circle of competence.
+- [Investment Returns](/notes/investment-returns) — Munger's claim that a stock can't long outearn the business beneath it, and that some managers (Harvard, Yale) beat efficient markets through abnormal skill.
+- [Incentives](/notes/incentives) — the Federal Express shift-pay story, used as Munger's favorite case that incentives govern behavior.
+- [Jack Welch](/notes/jack-welch) — quoted on being No. 1 or No. 2 in every market, growing others, and giving projects visibility.
+- [Sam Walton](/notes/sam-walton) — quoted on learning from everyone; his more-efficient system as a model of scale plus fanaticism.
+- [Competition](/notes/competition) — the point that advantages from new technology flow through to customers in competitive markets.
+- [Whatever you are, be a good one](/notes/whatever-you-are-be-a-good-one) — the Bemidji plumber as the route to rising high through a slowly developed competence.
+- [Mitt Romney](/notes/mitt-romney) — quoted on cost synergies representing people, beside Kyle's note on scale and cultural erosion.
+- [Thomas S. Monson](/notes/thomas-s-monson) — quoted on measured-and-reported performance, set against Munger's critique of investment-management benchmarking.
+- [The Innovator's Dilemma](/books/the-innovator-s-dilemma) — Munger's counterintuitive idea of decreasing the activity that has recently worked best.
+- [Spirit of Humility](/notes/spirit-of-humility) — training oneself to hear unwelcome truths and learn from everyone.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — the source volume; this is Talk 2 of [The Eleven Talks of Poor Charlie's Almanack](/notes/the-eleven-talks-of-poor-charlie-s-almanack).

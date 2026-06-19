@@ -9,7 +9,7 @@ url: "https://www.kwharrison13.com/books/poor-charlie-s-almanack"
 source_published: "2005-01-01"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/books/poor-charlie-s-almanack.md"
@@ -24,6 +24,18 @@ related:
   - "[[The Eleven Talks of Poor Charlie's Almanack]]"
   - "[[Poor Charlie's Almanack]]"
   - "[[Charlie Munger]]"
+  - "[[Multidisciplinary Thinking]]"
+  - "[[Latticework of Mental Models]]"
+  - "[[Circle of Competence]]"
+  - "[[Warren Buffett]]"
+  - "[[The Intelligent Investor]]"
+  - "[[Career Advice]]"
+  - "[[Spirit of Humility]]"
+  - "[[Self-Reflection]]"
+  - "[[Confirmation Bias]]"
+  - "[[Incentives]]"
+  - "[[Reading]]"
+  - "[[Big Important Ideas]]"
 ---
 
 # Charlie Munger: A Lesson on Elementary Worldly Wisdom, Revisited
@@ -96,3 +108,25 @@ You're deeply limiting yourself if you don't create a personal framework for [Mu
 - After all, I never had more than a shred of an illusion that any views of mine would much change the world. Instead, I always knew that aiming low was the best path for me, and so **I merely sought (1) to learn from my betters a few practical mental tricks that would help me avoid some of the worst miscognitions common in my age cohort, and (2) to pass on my mental tricks only to a few people who could easily learn from me because they already almost knew what I was telling them.** Having pretty well accomplished these very limited objectives, I see little reason to complain now about the un-wisdom of the world. #[Live the Library](/notes/live-the-library) #[Investing 101 2.0 Wiki](/notes/investing-101-2-0) #[Don't Die With Your Music Still in You](/essays/dont-die-with-your-music-still-in)
   > **Kyle:** *Don't make dumb mistakes - Don't die with your music still inside you.*
 - **"The man who doesn't read good books has no advantage over the man who can't read them.”** ([Mark Twain](/notes/mark-twain)) #Reading
+
+## Connections
+
+- [Multidisciplinary Thinking](/notes/multidisciplinary-thinking) — the talk's central thesis: ignore jurisdictional boundaries and carry the main models from a broad array of disciplines.
+- [Latticework of Mental Models](/notes/latticework-of-mental-models) — Munger's "latticework of mental models" on which to hang actual and vicarious experience.
+- [Circle of Competence](/notes/circle-of-competence) — the "no-brainer," one-foot-fence stance and knowing what you know vs. what you don't.
+- [Warren Buffett](/notes/warren-buffett) — quoted on *The Intelligent Investor*'s three core ideas and the "Remember Your Helmet" simplicity ethos.
+- [The Intelligent Investor](/notes/the-intelligent-investor) — Buffett's "still the best book on investing," cited for Mr. Market, stock-as-business, and margin of safety.
+- Career Advice — "if you try to succeed in what you're worst at, you're going to have a very lousy career."
+- [Spirit of Humility](/notes/spirit-of-humility) — recognizing when you have no wisdom to add and should trust an expert.
+- [Self-Reflection](/notes/self-reflection) — "you've got to know what you know and what you don't know."
+- [Confirmation Bias](/notes/confirmation-bias) — Demosthenes' "what a man wishes, that also will he believe."
+- [Incentives](/notes/incentives) — overriding credentialed people whose cognition is impaired by incentive-caused bias; letting things go uncompensated rather than building cheatable systems.
+- [Reading](/notes/reading) — good literature makes the reader reach a little, so the idea is "pounded in better."
+- [Big Important Ideas](/notes/big-important-ideas) — "a relatively small number of disciplines and a relatively small number of truly big ideas."
+- [Confirmation Bias](/notes/confirmation-bias) — ideology distorts cognition; be wary of heavy ideology.
+- [Jack Welch](/notes/jack-welch) — cited as a model for saying so when you don't know and lack special competence.
+- [Shane Parrish](/notes/shane-parrish) — Kyle's annotation links Munger's mental-models project to Parrish's work.
+- [Tom Nichols](/notes/tom-nichols) — Kyle's note connects expert-vs-outsider judgment to *The Mirage of Knowledge*.
+- [Do Good Better](/notes/do-good-better) — Kyle frames Munger's caution on confident social intervention as experimentation in social good.
+- [City Building](/notes/city-building) — Hershey building the company town that bears his name.
+- [Mark Twain](/notes/mark-twain) — closing line on reading good books.

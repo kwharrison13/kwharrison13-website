@@ -9,7 +9,7 @@ url: "https://www.mckinsey.com/mgi/our-research/rekindling-us-productivity-for-a
 source_published: "2023-02-16"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://www.mckinsey.com/mgi/our-research/rekindling-us-productivity-for-a-new-era"
@@ -24,6 +24,13 @@ related:
   - "[[McKinsey]]"
   - "[[Productivity]]"
   - "[[Distribution Curve]]"
+  - "[[City Building]]"
+  - "[[Capital Allocation]]"
+  - "[[Climate Change]]"
+  - "[[Distributed Energy Model]]"
+  - "[[Talent]]"
+  - "[[GDP]]"
+  - "[[Debt]]"
 ---
 
 ## Key Highlights
@@ -37,3 +44,13 @@ related:
 - For net zero, investors will need to pump in an additional **$1.7 trillion annually until 2050**.
 - Biggest challenges: insufficient skilled labor supply, uneven technology adoption, stalling investment.
 - Frontier firms "freed their top thinkers, engineers, and creatives to work on their toughest problems, and supported them with technology and other intangibles, experienced outsize returns."
+
+## Connections
+
+- [City Building](/notes/city-building) — the report's finding that Seattle went from 16% more productive than other cities (2007) to 38% (2019) underscores the role of dense urban agglomerations in productivity growth.
+- [GDP](/notes/gdp) — quantifies the stakes: regaining historical productivity rates would add $10 trillion to US GDP.
+- [Capital Allocation](/notes/capital-allocation) — frontier firms invest 2.6x more in technology and intangibles, and stalling investment is named as a core driver of the slowdown.
+- [Talent](/books/talent) — frontier firms attract more skilled talent and "free their top thinkers" to outsize returns; insufficient skilled labor supply is a central challenge.
+- [Climate Change](/notes/climate-change) — the energy transition and net-zero goal are framed as a productivity imperative requiring large-scale investment.
+- [Distributed Energy Model](/notes/distributed-energy-model) — reaching net zero is estimated to require an additional $1.7 trillion in annual investment until 2050.
+- [Debt](/notes/debt) — debt, inflation, and workforce shortages are cited as the pressures that renewed productivity growth must confront.

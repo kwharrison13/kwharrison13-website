@@ -9,7 +9,7 @@ url: "https://www.businessinsider.com/coatue-quant-fund-philippe-laffont-perform
 source_published: "2020-11"
 confidence: "high"
 created: "2026-06-18"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://www.businessinsider.com/coatue-quant-fund-philippe-laffont-performance-data-science-2020-11"
@@ -26,6 +26,9 @@ related:
   - "[[Philippe Laffont]]"
   - "[[Alex Izydorczyk]]"
   - "[[Alternative Data]]"
+  - "[[Data in Investing]]"
+  - "[[Moneyball]]"
+  - "[[Capital Allocation]]"
 ---
 
 ## Key claims
@@ -63,5 +66,8 @@ related:
 - Alex Izydorczyk — the 23-year-old head of data science at the center of the story.
 - Alternative Data / credit-card data — the raw material (vendors: Yodlee, Earnest, Facteus, IRI, Consumer Edge); a cautionary case in alt-data's edge decaying as it commoditizes.
 - The broader theme of founder-led firms struggling to genuinely delegate a new discipline — buy-in that's nominal at the top corrodes everything beneath it.
+- [Data in Investing](/notes/data-in-investing) — the central question of the piece: whether and how data science can be melded with traditional fundamental investing, and the culture clash that hobbled Coatue's attempt.
+- [Moneyball](/notes/moneyball) — Thomas Laffont invoked the Astros' data-vs-scouts transition on the Domino panel as a model for Coatue's data effort, just as its quant fund was collapsing.
+- [Capital Allocation](/notes/capital-allocation) — a cautionary case in how a stock-picker's allocation instincts (scaling strategies on conviction rather than quantitative rationale) clashed with a systematic mandate.
 </content>
 </invoke>

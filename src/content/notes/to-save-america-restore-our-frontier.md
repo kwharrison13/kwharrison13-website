@@ -9,7 +9,7 @@ url: "https://blog.joelonsdale.com/p/to-save-america-restore-our-frontier"
 source_published: "2023-02-21"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://blog.joelonsdale.com/p/to-save-america-restore-our-frontier"
@@ -24,6 +24,10 @@ related:
   - "[[Joe Lonsdale]]"
   - "[[Cicero Institute]]"
   - "[[Silicon Valley]]"
+  - "[[Charter Cities]]"
+  - "[[City Building]]"
+  - "[[Progress Studies]]"
+  - "[[Google]]"
 ---
 
 ## Key Highlights
@@ -39,3 +43,10 @@ related:
 - Silicon Valley succeeded as a Frontier buoyed by real Core support — but "there shouldn't be any doubt as to who was in charge. There isn't — and never will be — a Silicon Estuary around D.C."
 - Prescription: fund new science and universities; charter cities and bold governance experiments (even on Mars or ocean); break the FDA into competing pieces; abolish healthcare monopolies; create innovation zones.
 - Lonsdale founded the Cicero Institute — pursuing non-partisan legislative solutions, with "dozens of laws now on the books."
+
+## Connections
+
+- [Charter Cities](/notes/city-building) — Lonsdale's prescription explicitly calls for "charter cities and bold governance experiments (even on Mars or ocean)" as a way to rebuild the Frontier.
+- [City Building](/notes/city-building) — the article frames innovation zones and chartered governance experiments as the institutional form of Frontier renewal.
+- [Progress Studies](/notes/progress-studies) — diagnoses America's "long slide from being bold and adventurous to being dysfunctional and bureaucratic" and prescribes funding new science and universities.
+- [Google](/notes/google) — cited as a case study: brilliant technical culture coexisting with an academic/bureaucratic culture that grows in cheap-money eras ("the cost to virtue signal is low").

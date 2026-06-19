@@ -9,7 +9,7 @@ url: "https://www.kwharrison13.com/books/poor-charlie-s-almanack"
 source_published: "2005-01-01"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/books/poor-charlie-s-almanack.md"
@@ -24,6 +24,13 @@ related:
   - "[[The Eleven Talks of Poor Charlie's Almanack]]"
   - "[[Poor Charlie's Almanack]]"
   - "[[Charlie Munger]]"
+  - "[[Samuel Johnson]]"
+  - "[[John Maynard Keynes]]"
+  - "[[Fees and Carry]]"
+  - "[[Group Think]]"
+  - "[[Contrarian]]"
+  - "[[Personal Finance]]"
+  - "[[Roam Research]]"
 ---
 
 # Charlie Munger: Philanthropy Roundtable
@@ -55,3 +62,16 @@ Things like a "wealth effect" with not realizing how much you're paying for your
   > **Kyle:** *What feels bad on paper will eventually become bad in real life. One way or another.*
 - The ethical rule is from [Samuel Johnson](/notes/samuel-johnson), who believed that maintenance of easily removable ignorance by a responsible officeholder was treacherous malfeasance in meeting moral obligation. The prudential rule is that  underlying the old Warner & Swasey advertisement for machine tools: **"The man who needs a new machine tool and hasn't bought it is already paying for it."** The Warner & Swasey rule also applies, I believe, to thinking tools. If **you don't have the right** **thinking tools**, **you, and the people you seek to help, are already suffering from your** **easily removable ignorance.** #[Roam Research](/notes/roam-research) #Personal Knowledge Management
   > **Kyle:** *We have a moral responsibility to try and help people eradicate their ignorance if we in a position to do so.*
+
+## Connections
+
+- [Charlie Munger](/notes/charlie-munger) — author of this talk and the broader collection.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — the source volume; this is Talk 7 of its eleven.
+- [The Eleven Talks of Poor Charlie's Almanack](/notes/the-eleven-talks-of-poor-charlie-s-almanack) — index to the full talk collection.
+- [Samuel Johnson](/notes/samuel-johnson) — the talk's "ethical rule": maintaining easily removable ignorance is treacherous malfeasance.
+- [John Maynard Keynes](/notes/john-maynard-keynes) — quoted on it being "better for reputation to fail conventionally than to succeed unconventionally."
+- [Fees and Carry](/notes/fees-and-carry) — Munger's "febezzlement" argument that wasted investment fees feel like virtuous earned income.
+- [Group Think](/notes/group-think) — "crowd folly" and institutional investors fearing most that their practices differ from the crowd.
+- [Contrarian](/notes/contrarianism) — the cost of conformity; the contrarian stance Munger sets against efficient-market "gospel."
+- [Personal Finance](/notes/personal-finance) — stock-ownership concentration (top 1% holding ~50% of common stock value).
+- [Roam Research](/notes/roam-research) — the "thinking tools" Munger argues are a moral obligation to acquire.

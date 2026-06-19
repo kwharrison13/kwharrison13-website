@@ -9,7 +9,7 @@ url: "https://a16z.com/2020/04/18/its-time-to-build/"
 source_published: "2020-04-18"
 confidence: "high"
 created: "2026-06-18"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://a16z.com/2020/04/18/its-time-to-build/"
@@ -27,6 +27,14 @@ related:
   - "[[The Build-Nothing Country]]"
   - "[[To Save America, Restore Our Frontier]]"
   - "[[The New American Dream]]"
+  - "[[Noah Smith]]"
+  - "[[Education]]"
+  - "[[Synthesis School]]"
+  - "[[Elon Musk]]"
+  - "[[Nuclear Energy]]"
+  - "[[Climate Change]]"
+  - "[[Milton Friedman]]"
+  - "[[Progress Studies]]"
 ---
 
 # It's Time To Build
@@ -77,3 +85,4 @@ related:
 - Bloom two-sigma effect / Tutoring / [Synthesis School](/notes/synthesis-school) — the education-building thread.
 - Nicholas Stern — "capitalism is how we take care of people we don't know."
 - [Milton Friedman](/notes/milton-friedman) — judge by results, not intentions.
+- [Progress Studies](/notes/progress-studies) — the broader build/progress movement this essay helped catalyze; the "want and build the things we need" framing is a foundational text for it.
