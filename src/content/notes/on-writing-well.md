@@ -18,7 +18,6 @@ aliases:
   - "On Writing Well by William Zinsser"
 related:
   - "[[Remote — Office Not Required]]"
-  - "[[Remote — Office Not Required]]"
 ---
 
 # On Writing Well
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [Remote — Office Not Required](/books/remote-office-not-required) — where this book is cited.
 - [Remote — Office Not Required](/books/remote-office-not-required) — where this book is cited.

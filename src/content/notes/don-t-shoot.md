@@ -18,7 +18,6 @@ aliases:
   - "Don't Shoot by David M. Kennedy"
 related:
   - "[[Shortest Way Home]]"
-  - "[[Shortest Way Home]]"
 ---
 
 # Don't Shoot
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [Shortest Way Home](/books/shortest-way-home) — where this book is cited.
 - [Shortest Way Home](/books/shortest-way-home) — where this book is cited.

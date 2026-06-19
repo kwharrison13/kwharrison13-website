@@ -18,7 +18,6 @@ aliases:
   - "When Prophecy Fails by Leon Festinger"
 related:
   - "[[Utopia For Realists]]"
-  - "[[Utopia For Realists]]"
 ---
 
 # When Prophecy Fails
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [Utopia For Realists](/books/utopia-for-realists) — where this book is cited.
 - [Utopia For Realists](/books/utopia-for-realists) — where this book is cited.

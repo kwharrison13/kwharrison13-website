@@ -20,9 +20,6 @@ related:
   - "[[Walt Disney and the Promise of Progress City]]"
   - "[[Working in Public]]"
   - "[[Jane Jacobs]]"
-  - "[[Walt Disney and the Promise of Progress City]]"
-  - "[[Working in Public]]"
-  - "[[Jane Jacobs]]"
 ---
 
 # The Death and Life of Great American Cities
@@ -33,9 +30,6 @@ related:
 
 ## Connections
 
-- [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) — where this book is cited.
-- [Working in Public](/books/working-in-public) — where this book is cited.
-- [Jane Jacobs](/notes/jane-jacobs) — where this book is cited.
 - [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) — where this book is cited.
 - [Working in Public](/books/working-in-public) — where this book is cited.
 - [Jane Jacobs](/notes/jane-jacobs) — where this book is cited.

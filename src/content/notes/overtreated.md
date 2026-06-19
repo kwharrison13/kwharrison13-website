@@ -17,7 +17,6 @@ aliases:
   - "Overtreated by Shannon Brownlee"
 related:
   - "[[Catastrophic Care]]"
-  - "[[Catastrophic Care]]"
 ---
 
 # Overtreated
@@ -28,5 +27,4 @@ related:
 
 ## Connections
 
-- [Catastrophic Care](/books/catastrophic-care) — where this book is cited.
 - [Catastrophic Care](/books/catastrophic-care) — where this book is cited.

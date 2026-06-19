@@ -18,7 +18,6 @@ aliases:
   - "The Sciences of the Artificial by Herbert A. Simon"
 related:
   - "[[Managers Not MBAs]]"
-  - "[[Managers Not MBAs]]"
 ---
 
 # The Sciences of the Artificial
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [Managers Not MBAs](/books/managers-not-mbas) — where this book is cited.
 - [Managers Not MBAs](/books/managers-not-mbas) — where this book is cited.

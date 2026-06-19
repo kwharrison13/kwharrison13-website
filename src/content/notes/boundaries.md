@@ -17,7 +17,6 @@ aliases:
   - "Boundaries by Henry Cloud"
 related:
   - "[[Essentialism]]"
-  - "[[Essentialism]]"
 ---
 
 # Boundaries
@@ -28,5 +27,4 @@ related:
 
 ## Connections
 
-- [Essentialism](/books/essentialism) — where this book is cited.
 - [Essentialism](/books/essentialism) — where this book is cited.

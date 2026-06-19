@@ -19,7 +19,6 @@ aliases:
   - "Reinventing Discovery by Michael Nielsen"
 related:
   - "[[Michael Nielsen]]"
-  - "[[Michael Nielsen]]"
 ---
 
 # Reinventing Discovery
@@ -30,5 +29,4 @@ related:
 
 ## Connections
 
-- [Michael Nielsen](/notes/michael-nielsen) — where this book is cited.
 - [Michael Nielsen](/notes/michael-nielsen) — where this book is cited.

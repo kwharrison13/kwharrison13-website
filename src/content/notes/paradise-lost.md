@@ -19,7 +19,6 @@ aliases:
   - "Paradise Lost by John Milton"
 related:
   - "[[Charlie Munger — Harvard School Commencement Speech]]"
-  - "[[Charlie Munger — Harvard School Commencement Speech]]"
 ---
 
 # Paradise Lost
@@ -30,5 +29,4 @@ related:
 
 ## Connections
 
-- [Charlie Munger — Harvard School Commencement Speech](/notes/charlie-munger-harvard-school-commencement-speech) — where this book is cited.
 - [Charlie Munger — Harvard School Commencement Speech](/notes/charlie-munger-harvard-school-commencement-speech) — where this book is cited.

@@ -18,7 +18,6 @@ aliases:
   - "Babbitt by Sinclair Lewis"
 related:
   - "[[Our Towns]]"
-  - "[[Our Towns]]"
 ---
 
 # Babbitt
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [Our Towns](/books/our-towns) — where this book is cited.
 - [Our Towns](/books/our-towns) — where this book is cited.

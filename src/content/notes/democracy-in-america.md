@@ -19,7 +19,6 @@ aliases:
   - "Democracy in America by Alexis de Tocqueville"
 related:
   - "[[Our Towns]]"
-  - "[[Our Towns]]"
 ---
 
 # Democracy in America
@@ -30,5 +29,4 @@ related:
 
 ## Connections
 
-- [Our Towns](/books/our-towns) — where this book is cited.
 - [Our Towns](/books/our-towns) — where this book is cited.

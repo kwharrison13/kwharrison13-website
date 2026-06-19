@@ -18,7 +18,6 @@ aliases:
   - "Diffusion of Innovations by Everett M. Rogers"
 related:
   - "[[Remote — Office Not Required]]"
-  - "[[Remote — Office Not Required]]"
 ---
 
 # Diffusion of Innovations
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [Remote — Office Not Required](/books/remote-office-not-required) — where this book is cited.
 - [Remote — Office Not Required](/books/remote-office-not-required) — where this book is cited.

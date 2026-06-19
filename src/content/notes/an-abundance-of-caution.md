@@ -19,7 +19,6 @@ aliases:
   - "An Abundance of Caution by David Zweig"
 related:
   - "[[Bill Maher]]"
-  - "[[Bill Maher]]"
 ---
 
 # An Abundance of Caution
@@ -30,5 +29,4 @@ related:
 
 ## Connections
 
-- [Bill Maher](/notes/bill-maher) — where this book is cited.
 - [Bill Maher](/notes/bill-maher) — where this book is cited.

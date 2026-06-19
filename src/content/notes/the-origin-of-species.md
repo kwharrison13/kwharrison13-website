@@ -17,7 +17,6 @@ aliases:
   - "The Origin of Species by Charles Darwin"
 related:
   - "[[How To Read a Book]]"
-  - "[[How To Read a Book]]"
 ---
 
 # The Origin of Species
@@ -28,5 +27,4 @@ related:
 
 ## Connections
 
-- [How To Read a Book](/books/how-to-read-a-book) — where this book is cited.
 - [How To Read a Book](/books/how-to-read-a-book) — where this book is cited.

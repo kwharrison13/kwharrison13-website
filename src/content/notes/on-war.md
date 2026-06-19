@@ -17,7 +17,6 @@ aliases:
   - "On War by Carl von Clausewitz"
 related:
   - "[[The Art of War]]"
-  - "[[The Art of War]]"
 ---
 
 # On War
@@ -28,5 +27,4 @@ related:
 
 ## Connections
 
-- [The Art of War](/books/the-art-of-war) — where this book is cited.
 - [The Art of War](/books/the-art-of-war) — where this book is cited.

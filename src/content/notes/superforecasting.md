@@ -18,7 +18,6 @@ aliases:
   - "Superforecasting by Philip E. Tetlock"
 related:
   - "[[Range]]"
-  - "[[Range]]"
 ---
 
 # Superforecasting
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [Range](/books/range) — where this book is cited.
 - [Range](/books/range) — where this book is cited.

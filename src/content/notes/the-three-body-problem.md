@@ -18,7 +18,6 @@ aliases:
   - "The Three-Body Problem by Liu Cixin"
 related:
   - "[[Romney — A Reckoning]]"
-  - "[[Romney — A Reckoning]]"
 ---
 
 # The Three-Body Problem
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [Romney — A Reckoning](/books/romney-a-reckoning) — where this book is cited.
 - [Romney — A Reckoning](/books/romney-a-reckoning) — where this book is cited.

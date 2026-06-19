@@ -17,7 +17,6 @@ aliases:
   - "Travels with Charley by John Steinbeck"
 related:
   - "[[Our Towns]]"
-  - "[[Our Towns]]"
 ---
 
 # Travels with Charley
@@ -28,5 +27,4 @@ related:
 
 ## Connections
 
-- [Our Towns](/books/our-towns) — where this book is cited.
 - [Our Towns](/books/our-towns) — where this book is cited.

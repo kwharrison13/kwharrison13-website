@@ -19,7 +19,6 @@ aliases:
   - "The Other Path by Hernando de Soto"
 related:
   - "[[Working Toward Zion]]"
-  - "[[Working Toward Zion]]"
 ---
 
 # The Other Path
@@ -30,5 +29,4 @@ related:
 
 ## Connections
 
-- [Working Toward Zion](/books/working-toward-zion) — where this book is cited.
 - [Working Toward Zion](/books/working-toward-zion) — where this book is cited.

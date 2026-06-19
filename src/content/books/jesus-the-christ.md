@@ -20,7 +20,6 @@ _No highlights captured yet. Metadata is from `raw/books.json`; this is a light 
 
 <!-- interconnections -->
 - [How To Read a Book](/books/how-to-read-a-book) — cited in this book's connection context.
-- [How To Read a Book](/books/how-to-read-a-book) — cited in this book's connection context.
 <!-- /interconnections -->
 
 ## Highlights

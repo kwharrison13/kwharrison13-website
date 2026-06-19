@@ -17,7 +17,6 @@ aliases:
   - "David and Goliath by Malcolm Gladwell"
 related:
   - "[[The Self-Driven Child]]"
-  - "[[The Self-Driven Child]]"
 ---
 
 # David and Goliath
@@ -28,5 +27,4 @@ related:
 
 ## Connections
 
-- [The Self-Driven Child](/books/the-self-driven-child) — where this book is cited.
 - [The Self-Driven Child](/books/the-self-driven-child) — where this book is cited.

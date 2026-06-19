@@ -23,15 +23,6 @@ related:
   - "[[Richard Florida]]"
   - "[[Poverty]]"
   - "[[City Building]]"
-  - "[[The New Urban Crisis]]"
-  - "[[Patrick Sharkey]]"
-  - "[[The New Urban Crisis]]"
-  - "[[Patrick Sharkey]]"
-  - "[[Richard Florida]]"
-  - "[[The New Urban Crisis]]"
-  - "[[Poverty]]"
-  - "[[City Building]]"
-  - "[[The New Urban Crisis]]"
 ---
 
 # Stuck in Place
@@ -47,12 +38,3 @@ related:
 - [Richard Florida](/notes/richard-florida) — where this book is cited.
 - [Poverty](/notes/poverty) — where this book is cited.
 - [City Building](/notes/city-building) — where this book is cited.
-- [The New Urban Crisis](/books/the-new-urban-crisis) — where this book is cited.
-- [Patrick Sharkey](/notes/patrick-sharkey) — where this book is cited.
-- [The New Urban Crisis](/books/the-new-urban-crisis) — where this book is cited.
-- [Patrick Sharkey](/notes/patrick-sharkey) — where this book is cited.
-- [Richard Florida](/notes/richard-florida) — where this book is cited.
-- [The New Urban Crisis](/books/the-new-urban-crisis) — where this book is cited.
-- [Poverty](/notes/poverty) — where this book is cited.
-- [City Building](/notes/city-building) — where this book is cited.
-- [The New Urban Crisis](/books/the-new-urban-crisis) — where this book is cited.

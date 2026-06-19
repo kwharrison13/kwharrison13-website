@@ -18,7 +18,6 @@ aliases:
   - "The Hidden Persuaders by Vance Packard"
 related:
   - "[[Brave New World Revisited]]"
-  - "[[Brave New World Revisited]]"
 ---
 
 # The Hidden Persuaders
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [Brave New World Revisited](/books/brave-new-world-revisited) — where this book is cited.
 - [Brave New World Revisited](/books/brave-new-world-revisited) — where this book is cited.

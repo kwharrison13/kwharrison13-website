@@ -21,7 +21,6 @@ _No highlights captured yet. Metadata is from `raw/books.json`; this is a light 
 
 <!-- interconnections -->
 - [The Courage To Be Disliked](/books/the-courage-to-be-disliked) — cited in this book's connection context.
-- [The Courage To Be Disliked](/books/the-courage-to-be-disliked) — cited in this book's connection context.
 <!-- /interconnections -->
 
 ## Highlights

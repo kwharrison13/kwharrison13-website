@@ -19,7 +19,6 @@ aliases:
   - "A Canticle for Leibowitz by Walter M. Miller Jr."
 related:
   - "[[Reinventing Knowledge — From Alexandria To The Internet]]"
-  - "[[Reinventing Knowledge — From Alexandria To The Internet]]"
 ---
 
 # A Canticle for Leibowitz
@@ -30,5 +29,4 @@ related:
 
 ## Connections
 
-- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — where this book is cited.
 - [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — where this book is cited.

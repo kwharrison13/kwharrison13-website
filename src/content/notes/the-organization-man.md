@@ -19,7 +19,6 @@ aliases:
   - "The Organization Man by William H. Whyte"
 related:
   - "[[Brave New World Revisited]]"
-  - "[[Brave New World Revisited]]"
 ---
 
 # The Organization Man
@@ -30,5 +29,4 @@ related:
 
 ## Connections
 
-- [Brave New World Revisited](/books/brave-new-world-revisited) — where this book is cited.
 - [Brave New World Revisited](/books/brave-new-world-revisited) — where this book is cited.

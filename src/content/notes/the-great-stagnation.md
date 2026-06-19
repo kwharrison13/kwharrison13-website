@@ -19,7 +19,6 @@ aliases:
   - "The Great Stagnation by Tyler Cowen"
 related:
   - "[[Boom — Bubbles & The End of Stagnation]]"
-  - "[[Boom — Bubbles & The End of Stagnation]]"
 ---
 
 # The Great Stagnation
@@ -30,5 +29,4 @@ related:
 
 ## Connections
 
-- [Boom — Bubbles & The End of Stagnation](/books/boom-bubbles-and-the-end-of-stagnation) — where this book is cited.
 - [Boom — Bubbles & The End of Stagnation](/books/boom-bubbles-and-the-end-of-stagnation) — where this book is cited.

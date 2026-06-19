@@ -18,7 +18,6 @@ aliases:
   - "Irresistible by Adam Alter"
 related:
   - "[[Digital Minimalism]]"
-  - "[[Digital Minimalism]]"
 ---
 
 # Irresistible
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [Digital Minimalism](/books/digital-minimalism) — where this book is cited.
 - [Digital Minimalism](/books/digital-minimalism) — where this book is cited.

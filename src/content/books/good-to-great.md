@@ -21,7 +21,6 @@ _No highlights captured yet. Metadata is from `raw/books.json`; this is a light 
 
 <!-- interconnections -->
 - [Essentialism](/books/essentialism) — cited in this book's connection context.
-- [Essentialism](/books/essentialism) — cited in this book's connection context.
 <!-- /interconnections -->
 
 ## Highlights

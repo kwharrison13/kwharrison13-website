@@ -18,7 +18,6 @@ aliases:
   - "The Government of God by John Taylor"
 related:
   - "[[The Life of John Taylor]]"
-  - "[[The Life of John Taylor]]"
 ---
 
 # The Government of God
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [The Life of John Taylor](/books/the-life-of-john-taylor) — where this book is cited.
 - [The Life of John Taylor](/books/the-life-of-john-taylor) — where this book is cited.

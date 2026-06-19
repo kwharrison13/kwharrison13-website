@@ -18,7 +18,6 @@ aliases:
   - "Blue Ocean Strategy by W. Chan Kim"
 related:
   - "[[Recession Proof]]"
-  - "[[Recession Proof]]"
 ---
 
 # Blue Ocean Strategy
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [Recession Proof](/books/recession-proof) — where this book is cited.
 - [Recession Proof](/books/recession-proof) — where this book is cited.

@@ -17,7 +17,6 @@ aliases:
   - "The Daily Stoic by Ryan Holiday"
 related:
   - "[[Discipline Is Destiny]]"
-  - "[[Discipline Is Destiny]]"
 ---
 
 # The Daily Stoic
@@ -28,5 +27,4 @@ related:
 
 ## Connections
 
-- [Discipline Is Destiny](/books/discipline-is-destiny) — where this book is cited.
 - [Discipline Is Destiny](/books/discipline-is-destiny) — where this book is cited.

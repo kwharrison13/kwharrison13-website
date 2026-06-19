@@ -18,7 +18,6 @@ aliases:
   - "Player Piano by Kurt Vonnegut"
 related:
   - "[[The AppetiZIRP]]"
-  - "[[The AppetiZIRP]]"
 ---
 
 # Player Piano
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [The AppetiZIRP](/notes/the-appetizirp) — where this book is cited.
 - [The AppetiZIRP](/notes/the-appetizirp) — where this book is cited.

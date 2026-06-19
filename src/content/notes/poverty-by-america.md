@@ -18,7 +18,6 @@ aliases:
   - "Poverty, by America by Matthew Desmond"
 related:
   - "[[Matthew Desmond]]"
-  - "[[Matthew Desmond]]"
 ---
 
 # Poverty, by America
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [Matthew Desmond](/notes/matthew-desmond) — where this book is cited.
 - [Matthew Desmond](/notes/matthew-desmond) — where this book is cited.

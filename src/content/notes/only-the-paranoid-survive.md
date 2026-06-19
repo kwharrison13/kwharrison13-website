@@ -18,7 +18,6 @@ aliases:
   - "Only the Paranoid Survive by Andrew S. Grove"
 related:
   - "[[Chip War]]"
-  - "[[Chip War]]"
 ---
 
 # Only the Paranoid Survive
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [Chip War](/books/chip-war) — where this book is cited.
 - [Chip War](/books/chip-war) — where this book is cited.

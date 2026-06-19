@@ -18,7 +18,6 @@ aliases:
   - "The Varieties of Religious Experience by William James"
 related:
   - "[[An Insider's View of Mormon Origins]]"
-  - "[[An Insider's View of Mormon Origins]]"
 ---
 
 # The Varieties of Religious Experience
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [An Insider's View of Mormon Origins](/books/an-insider-s-view-of-mormon-origins) — where this book is cited.
 - [An Insider's View of Mormon Origins](/books/an-insider-s-view-of-mormon-origins) — where this book is cited.

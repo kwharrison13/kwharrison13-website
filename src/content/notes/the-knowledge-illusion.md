@@ -18,7 +18,6 @@ aliases:
   - "The Knowledge Illusion by Steven Sloman"
 related:
   - "[[21 Lessons for the 21st Century]]"
-  - "[[21 Lessons for the 21st Century]]"
 ---
 
 # The Knowledge Illusion
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [21 Lessons for the 21st Century](/books/21-lessons-for-the-21st-century) — where this book is cited.
 - [21 Lessons for the 21st Century](/books/21-lessons-for-the-21st-century) — where this book is cited.

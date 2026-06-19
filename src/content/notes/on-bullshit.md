@@ -18,7 +18,6 @@ aliases:
   - "On Bullshit by Harry G. Frankfurt"
 related:
   - "[[Braving The Wilderness]]"
-  - "[[Braving The Wilderness]]"
 ---
 
 # On Bullshit
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [Braving The Wilderness](/books/braving-the-wilderness) — where this book is cited.
 - [Braving The Wilderness](/books/braving-the-wilderness) — where this book is cited.

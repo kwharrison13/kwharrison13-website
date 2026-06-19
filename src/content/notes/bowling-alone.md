@@ -18,7 +18,6 @@ aliases:
   - "Bowling Alone by Robert D. Putnam"
 related:
   - "[[The Righteous Mind]]"
-  - "[[The Righteous Mind]]"
 ---
 
 # Bowling Alone
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [The Righteous Mind](/books/the-righteous-mind) — where this book is cited.
 - [The Righteous Mind](/books/the-righteous-mind) — where this book is cited.

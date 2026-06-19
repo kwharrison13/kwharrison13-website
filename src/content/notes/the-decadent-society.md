@@ -19,7 +19,6 @@ aliases:
   - "The Decadent Society by Ross Douthat"
 related:
   - "[[Building American Dynamism]]"
-  - "[[Building American Dynamism]]"
 ---
 
 # The Decadent Society
@@ -30,5 +29,4 @@ related:
 
 ## Connections
 
-- [Building American Dynamism](/notes/building-american-dynamism) — where this book is cited.
 - [Building American Dynamism](/notes/building-american-dynamism) — where this book is cited.

@@ -21,7 +21,6 @@ related:
   - "[[How To Be a Capitalist Without Any Capital]]"
   - "[[On the Nature of Long-Term Holds]]"
   - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
-  - "[[How To Be a Capitalist Without Any Capital]]"
 ---
 
 # The Outsiders
@@ -35,4 +34,3 @@ related:
 - [How To Be a Capitalist Without Any Capital](/books/how-to-be-a-capitalist-without-any-capital) — where this book is cited.
 - [On the Nature of Long-Term Holds](/notes/on-the-nature-of-long-term-holds) — where this book is cited.
 - [Todd McKinnon — Creating and Defining a New Market Category](/notes/todd-mckinnon-creating-and-defining-a-new-market-category) — where this book is cited.
-- [How To Be a Capitalist Without Any Capital](/books/how-to-be-a-capitalist-without-any-capital) — where this book is cited.

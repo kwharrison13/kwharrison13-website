@@ -19,7 +19,6 @@ aliases:
   - "American Grace by Robert D. Putnam"
 related:
   - "[[The Righteous Mind]]"
-  - "[[The Righteous Mind]]"
 ---
 
 # American Grace
@@ -30,5 +29,4 @@ related:
 
 ## Connections
 
-- [The Righteous Mind](/books/the-righteous-mind) — where this book is cited.
 - [The Righteous Mind](/books/the-righteous-mind) — where this book is cited.

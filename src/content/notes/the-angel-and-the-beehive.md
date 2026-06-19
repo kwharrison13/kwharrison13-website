@@ -18,7 +18,6 @@ aliases:
   - "The Angel and the Beehive by Armand L. Mauss"
 related:
   - "[[The Next Mormons]]"
-  - "[[The Next Mormons]]"
 ---
 
 # The Angel and the Beehive
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [The Next Mormons](/books/the-next-mormons) — where this book is cited.
 - [The Next Mormons](/books/the-next-mormons) — where this book is cited.

@@ -17,7 +17,6 @@ aliases:
   - "Finite and Infinite Games by James P. Carse"
 related:
   - "[[Infinite Games]]"
-  - "[[Infinite Games]]"
 ---
 
 # Finite and Infinite Games
@@ -28,5 +27,4 @@ related:
 
 ## Connections
 
-- [Infinite Games](/notes/infinite-games) — where this book is cited.
 - [Infinite Games](/notes/infinite-games) — where this book is cited.

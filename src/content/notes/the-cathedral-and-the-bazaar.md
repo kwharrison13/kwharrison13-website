@@ -19,7 +19,6 @@ aliases:
   - "The Cathedral and the Bazaar by Eric S. Raymond"
 related:
   - "[[Working in Public]]"
-  - "[[Working in Public]]"
 ---
 
 # The Cathedral and the Bazaar
@@ -30,5 +29,4 @@ related:
 
 ## Connections
 
-- [Working in Public](/books/working-in-public) — where this book is cited.
 - [Working in Public](/books/working-in-public) — where this book is cited.

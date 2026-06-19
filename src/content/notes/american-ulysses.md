@@ -18,7 +18,6 @@ aliases:
   - "American Ulysses by Ronald C. White"
 related:
   - "[[Romney — A Reckoning]]"
-  - "[[Romney — A Reckoning]]"
 ---
 
 # American Ulysses
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [Romney — A Reckoning](/books/romney-a-reckoning) — where this book is cited.
 - [Romney — A Reckoning](/books/romney-a-reckoning) — where this book is cited.

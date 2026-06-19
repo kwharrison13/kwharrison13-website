@@ -17,7 +17,6 @@ aliases:
   - "The Happiness Hypothesis by Jonathan Haidt"
 related:
   - "[[The Righteous Mind]]"
-  - "[[The Righteous Mind]]"
 ---
 
 # The Happiness Hypothesis
@@ -28,5 +27,4 @@ related:
 
 ## Connections
 
-- [The Righteous Mind](/books/the-righteous-mind) — where this book is cited.
 - [The Righteous Mind](/books/the-righteous-mind) — where this book is cited.

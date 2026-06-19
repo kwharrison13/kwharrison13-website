@@ -20,8 +20,6 @@ aliases:
 related:
   - "[[The Invention of Russia]]"
   - "[[Alexander Solzhenitsyn]]"
-  - "[[The Invention of Russia]]"
-  - "[[Alexander Solzhenitsyn]]"
 ---
 
 # The Gulag Archipelago
@@ -32,7 +30,5 @@ related:
 
 ## Connections
 
-- [The Invention of Russia](/books/the-invention-of-russia) — where this book is cited.
-- [Alexander Solzhenitsyn](/notes/alexander-solzhenitsyn) — where this book is cited.
 - [The Invention of Russia](/books/the-invention-of-russia) — where this book is cited.
 - [Alexander Solzhenitsyn](/notes/alexander-solzhenitsyn) — where this book is cited.

@@ -19,7 +19,6 @@ aliases:
   - "Jony Ive: The Genius Behind Apple's Greatest Products by Leander Kahney"
 related:
   - "[[Jony Ive]]"
-  - "[[Jony Ive]]"
 ---
 
 # Jony Ive: The Genius Behind Apple's Greatest Products
@@ -30,5 +29,4 @@ related:
 
 ## Connections
 
-- [Jony Ive](/notes/jony-ive) — where this book is cited.
 - [Jony Ive](/notes/jony-ive) — where this book is cited.

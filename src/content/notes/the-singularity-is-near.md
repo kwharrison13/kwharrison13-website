@@ -20,8 +20,6 @@ aliases:
 related:
   - "[[2054]]"
   - "[[Ray Kurzweil]]"
-  - "[[2054]]"
-  - "[[Ray Kurzweil]]"
 ---
 
 # The Singularity Is Near
@@ -32,7 +30,5 @@ related:
 
 ## Connections
 
-- [2054](/books/2054) — where this book is cited.
-- [Ray Kurzweil](/notes/ray-kurzweil) — where this book is cited.
 - [2054](/books/2054) — where this book is cited.
 - [Ray Kurzweil](/notes/ray-kurzweil) — where this book is cited.

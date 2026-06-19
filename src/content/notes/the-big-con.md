@@ -19,7 +19,6 @@ aliases:
   - "The Big Con by Mariana Mazzucato"
 related:
   - "[[Bonfire of the Consultancies]]"
-  - "[[Bonfire of the Consultancies]]"
 ---
 
 # The Big Con
@@ -30,5 +29,4 @@ related:
 
 ## Connections
 
-- [Bonfire of the Consultancies](/notes/bonfire-of-the-consultancies) — where this book is cited.
 - [Bonfire of the Consultancies](/notes/bonfire-of-the-consultancies) — where this book is cited.

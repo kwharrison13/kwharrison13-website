@@ -17,7 +17,6 @@ aliases:
   - "Process and Reality by Alfred North Whitehead"
 related:
   - "[[Charlie Munger — Harvard Law School Fiftieth Reunion Address]]"
-  - "[[Charlie Munger — Harvard Law School Fiftieth Reunion Address]]"
 ---
 
 # Process and Reality
@@ -28,5 +27,4 @@ related:
 
 ## Connections
 
-- [Charlie Munger — Harvard Law School Fiftieth Reunion Address](/notes/charlie-munger-harvard-law-school-fiftieth-reunion-address) — where this book is cited.
 - [Charlie Munger — Harvard Law School Fiftieth Reunion Address](/notes/charlie-munger-harvard-law-school-fiftieth-reunion-address) — where this book is cited.

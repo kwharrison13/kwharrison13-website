@@ -19,7 +19,6 @@ aliases:
   - "When McKinsey Comes to Town by Walt Bogdanich"
 related:
   - "[[Bonfire of the Consultancies]]"
-  - "[[Bonfire of the Consultancies]]"
 ---
 
 # When McKinsey Comes to Town
@@ -30,5 +29,4 @@ related:
 
 ## Connections
 
-- [Bonfire of the Consultancies](/notes/bonfire-of-the-consultancies) — where this book is cited.
 - [Bonfire of the Consultancies](/notes/bonfire-of-the-consultancies) — where this book is cited.

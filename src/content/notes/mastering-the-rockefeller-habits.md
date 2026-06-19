@@ -18,7 +18,6 @@ aliases:
   - "Mastering the Rockefeller Habits by Verne Harnish"
 related:
   - "[[How To Be a Capitalist Without Any Capital]]"
-  - "[[How To Be a Capitalist Without Any Capital]]"
 ---
 
 # Mastering the Rockefeller Habits
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [How To Be a Capitalist Without Any Capital](/books/how-to-be-a-capitalist-without-any-capital) — where this book is cited.
 - [How To Be a Capitalist Without Any Capital](/books/how-to-be-a-capitalist-without-any-capital) — where this book is cited.

@@ -18,7 +18,6 @@ aliases:
   - "Switch by Chip Heath"
 related:
   - "[[The Righteous Mind]]"
-  - "[[The Righteous Mind]]"
 ---
 
 # Switch
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [The Righteous Mind](/books/the-righteous-mind) — where this book is cited.
 - [The Righteous Mind](/books/the-righteous-mind) — where this book is cited.

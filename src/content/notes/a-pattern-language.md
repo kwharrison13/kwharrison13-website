@@ -18,7 +18,6 @@ aliases:
   - "A Pattern Language by Christopher Alexander"
 related:
   - "[[Walt Disney and the Promise of Progress City]]"
-  - "[[Walt Disney and the Promise of Progress City]]"
 ---
 
 # A Pattern Language
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) — where this book is cited.
 - [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) — where this book is cited.

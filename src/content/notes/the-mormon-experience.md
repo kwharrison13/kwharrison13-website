@@ -18,7 +18,6 @@ aliases:
   - "The Mormon Experience by Leonard J. Arrington"
 related:
   - "[[Leonard Arrington and the Writing of Mormon History]]"
-  - "[[Leonard Arrington and the Writing of Mormon History]]"
 ---
 
 # The Mormon Experience
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — where this book is cited.
 - [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — where this book is cited.

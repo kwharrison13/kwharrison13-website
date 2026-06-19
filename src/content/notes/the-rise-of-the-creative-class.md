@@ -21,14 +21,6 @@ related:
   - "[[The New Urban Crisis]]"
   - "[[City Building]]"
   - "[[Talent]]"
-  - "[[The New Urban Crisis]]"
-  - "[[Richard Florida]]"
-  - "[[The New Urban Crisis]]"
-  - "[[The New Urban Crisis]]"
-  - "[[Richard Florida]]"
-  - "[[City Building]]"
-  - "[[Talent]]"
-  - "[[The New Urban Crisis]]"
 ---
 
 # The Rise of the Creative Class
@@ -43,11 +35,3 @@ related:
 - [The New Urban Crisis](/books/the-new-urban-crisis) — where this book is cited.
 - [City Building](/notes/city-building) — where this book is cited.
 - [Talent](/books/talent) — where this book is cited.
-- [The New Urban Crisis](/books/the-new-urban-crisis) — where this book is cited.
-- [Richard Florida](/notes/richard-florida) — where this book is cited.
-- [The New Urban Crisis](/books/the-new-urban-crisis) — where this book is cited.
-- [The New Urban Crisis](/books/the-new-urban-crisis) — where this book is cited.
-- [Richard Florida](/notes/richard-florida) — where this book is cited.
-- [City Building](/notes/city-building) — where this book is cited.
-- [Talent](/books/talent) — where this book is cited.
-- [The New Urban Crisis](/books/the-new-urban-crisis) — where this book is cited.

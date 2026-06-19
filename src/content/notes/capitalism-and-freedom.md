@@ -19,7 +19,6 @@ aliases:
   - "Capitalism and Freedom by Milton Friedman"
 related:
   - "[[Utopia For Realists]]"
-  - "[[Utopia For Realists]]"
 ---
 
 # Capitalism and Freedom
@@ -30,5 +29,4 @@ related:
 
 ## Connections
 
-- [Utopia For Realists](/books/utopia-for-realists) — where this book is cited.
 - [Utopia For Realists](/books/utopia-for-realists) — where this book is cited.

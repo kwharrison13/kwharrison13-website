@@ -20,8 +20,6 @@ aliases:
 related:
   - "[[How To Read a Book]]"
   - "[[Reinventing Knowledge — From Alexandria To The Internet]]"
-  - "[[How To Read a Book]]"
-  - "[[Reinventing Knowledge — From Alexandria To The Internet]]"
 ---
 
 # The Wealth of Nations
@@ -32,7 +30,5 @@ related:
 
 ## Connections
 
-- [How To Read a Book](/books/how-to-read-a-book) — where this book is cited.
-- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — where this book is cited.
 - [How To Read a Book](/books/how-to-read-a-book) — where this book is cited.
 - [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — where this book is cited.

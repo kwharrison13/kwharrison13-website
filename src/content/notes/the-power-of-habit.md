@@ -18,8 +18,6 @@ aliases:
 related:
   - "[[Atomic Habits]]"
   - "[[Essentialism]]"
-  - "[[Atomic Habits]]"
-  - "[[Essentialism]]"
 ---
 
 # The Power of Habit
@@ -30,7 +28,5 @@ related:
 
 ## Connections
 
-- [Atomic Habits](/books/atomic-habits) — where this book is cited.
-- [Essentialism](/books/essentialism) — where this book is cited.
 - [Atomic Habits](/books/atomic-habits) — where this book is cited.
 - [Essentialism](/books/essentialism) — where this book is cited.

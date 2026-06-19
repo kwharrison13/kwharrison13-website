@@ -18,7 +18,6 @@ aliases:
   - "How the World Really Works by Vaclav Smil"
 related:
   - "[[The AppetiZIRP]]"
-  - "[[The AppetiZIRP]]"
 ---
 
 # How the World Really Works
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [The AppetiZIRP](/notes/the-appetizirp) — where this book is cited.
 - [The AppetiZIRP](/notes/the-appetizirp) — where this book is cited.

@@ -18,7 +18,6 @@ aliases:
   - "How to Raise an Adult by Julie Lythcott-Haims"
 related:
   - "[[The Self-Driven Child]]"
-  - "[[The Self-Driven Child]]"
 ---
 
 # How to Raise an Adult
@@ -29,5 +28,4 @@ related:
 
 ## Connections
 
-- [The Self-Driven Child](/books/the-self-driven-child) — where this book is cited.
 - [The Self-Driven Child](/books/the-self-driven-child) — where this book is cited.
