@@ -15,6 +15,8 @@ aliases:
   - "Walter Isaacson"
 related:
   - "[[Benjamin Franklin: An American Life]]"
+  - "[[The Greatest Sentence Ever Written]]"
+  - "[[Benjamin Franklin]]"
 reference_count: 3
 ---
 

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Small Town Headhunter"
-related: []
+related:
+  - "[[Our Towns]]"
 reference_count: 1
 ---
 

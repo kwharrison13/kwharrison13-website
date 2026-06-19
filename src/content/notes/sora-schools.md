@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Sora Schools"
-related: []
+related:
+  - "[[AltSchool]]"
+  - "[[The Science of Learning]]"
 reference_count: 1
 ---
 

@@ -14,6 +14,7 @@ aliases:
   - "marriage"
 related:
   - "[[1 Nephi 16–22 — I Will Prepare the Way before You]]"
+  - "[[The Next Mormons]]"
 reference_count: 1
 ---
 

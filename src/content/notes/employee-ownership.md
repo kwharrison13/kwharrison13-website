@@ -15,6 +15,10 @@ aliases:
   - "Employee Ownership"
 related:
   - "[[September 17th, 2021 — Zabie Elmgren on Employee Ownership]]"
+  - "[[Working Toward Zion]]"
+  - "[[George F. Johnson and His Industrial Democracy]]"
+  - "[[Zabie Elmgren]]"
+  - "[[John Hoffmire]]"
 reference_count: 1
 ---
 

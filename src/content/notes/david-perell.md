@@ -10,7 +10,9 @@ sources: []
 tags: []
 aliases:
   - "David Perell"
-related: []
+related:
+  - "[[The Death of Expertise]]"
+  - "[[Peter Thiel's Religion]]"
 ---
 
 # David Perell

@@ -12,7 +12,8 @@ tags: []
 aliases:
   - "Influencers"
   - "influencers"
-related: []
+related:
+  - "[[Catherine Yeo]]"
 reference_count: 1
 ---
 

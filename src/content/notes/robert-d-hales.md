@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Robert D. Hales"
-related: []
+related:
+  - "[[Gordon B. Hinckley: Go Forward With Faith]]"
 reference_count: 1
 ---
 

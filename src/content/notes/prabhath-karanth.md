@@ -25,6 +25,8 @@ related:
   - "[[Traceable.ai]]"
   - "[[Endpoint Security]]"
   - "[[Application Security]]"
+  - "[[DevSecOps]]"
+  - "[[Palo Alto Networks ($PANW)]]"
   - "[[API Security]]"
 ---
 

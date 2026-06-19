@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Texas Instruments"
-related: []
+related:
+  - "[[Chip War]]"
 reference_count: 1
 ---
 

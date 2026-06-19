@@ -15,6 +15,8 @@ aliases:
   - "Snacks"
 related:
   - "[[The State of Startup Media - Research]]"
+  - "[[Sprig]]"
+  - "[[The Market Is The Greatest Critic]]"
 ---
 
 # Robinhood

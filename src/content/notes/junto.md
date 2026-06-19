@@ -14,6 +14,8 @@ aliases:
 related:
   - "[[Benjamin Franklin]]"
   - "[[The Importance of Arguing With Yourself]]"
+  - "[[Digital Minimalism]]"
+  - "[[Benjamin Franklin: An American Life]]"
 reference_count: 1
 ---
 

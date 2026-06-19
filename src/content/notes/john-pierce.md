@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "John Pierce"
-related: []
+related:
+  - "[[The Idea Factory]]"
 reference_count: 1
 ---
 

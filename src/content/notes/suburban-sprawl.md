@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "suburban sprawl"
-related: []
+related:
+  - "[[The New Urban Crisis]]"
+  - "[[A Walk in the Woods]]"
 reference_count: 1
 ---
 

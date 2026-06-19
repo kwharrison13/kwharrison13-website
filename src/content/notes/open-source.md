@@ -21,6 +21,8 @@ related:
   - "[[Maintenance]]"
   - "[[Remote Work]]"
   - "[[John von Neumann]]"
+  - "[[Working in Public]]"
+  - "[[The Man From The Future]]"
 ---
 
 # Open Source

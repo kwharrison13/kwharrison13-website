@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Product Led Growth (PLG)"
-related: []
+related:
+  - "[[Product Led Growth: The End User Era]]"
 reference_count: 1
 ---
 

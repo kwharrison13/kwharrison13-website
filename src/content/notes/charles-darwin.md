@@ -10,7 +10,13 @@ sources: []
 tags: []
 aliases:
   - "Charles Darwin"
-related: []
+related:
+  - "[[The Time Machine]]"
+  - "[[Wicked]]"
+  - "[[Leonardo Da Vinci]]"
+  - "[[Charlie Munger: The Psychology of Human Misjudgment]]"
+  - "[[Charlie Munger: Harvard School Commencement Speech]]"
+  - "[[Charlie Munger: USC Gould School of Law Commencement Address]]"
 ---
 
 # Charles Darwin

@@ -13,7 +13,9 @@ sources:
 tags: []
 aliases:
   - "Learning, No Greater Responsibility"
-related: []
+related:
+  - "[[How To Read a Book]]"
+  - "[[Charlie Munger: USC Gould School of Law Commencement Address]]"
 reference_count: 3
 ---
 

@@ -14,6 +14,7 @@ aliases:
   - "USV"
 related:
   - "[[The Storytelling of Investing - Research]]"
+  - "[[Rebecca Kaden]]"
 ---
 
 # USV

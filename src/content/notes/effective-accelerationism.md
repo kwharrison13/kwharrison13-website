@@ -20,6 +20,8 @@ aliases:
 related:
   - "[[Effective Altruism]]"
   - "[[Techno-Optimism]]"
+  - "[[Molly White]]"
+  - "[[Marc Andreessen]]"
   - "[[Beff Jezos]]"
 ---
 

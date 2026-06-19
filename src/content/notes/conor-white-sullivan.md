@@ -16,6 +16,7 @@ related:
   - "[[Valued Empyrean]]"
   - "[[Tools For Thought]]"
   - "[[Darwin Harrison]]"
+  - "[[How To Take Smart Notes]]"
 reference_count: 2
 ---
 

@@ -14,6 +14,9 @@ aliases:
 related:
   - "[[Peter Thiel]]"
   - "[[PayPal Mafia]]"
+  - "[[The Power Law: Venture Capital & the Making of the New Future]]"
+  - "[[Delian Asparouhov]]"
+  - "[[Keith Rabois]]"
 reference_count: 1
 ---
 

@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Santosh Janardhan"
-related: []
+related:
+  - "[[First Principles Thinking]]"
 ---
 
 # Santosh Janardhan

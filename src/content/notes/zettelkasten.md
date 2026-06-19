@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Zettelkasten"
-related: []
+related:
+  - "[[How To Take Smart Notes]]"
+  - "[[Sonke Ahrens]]"
+  - "[[Clark's Coffeehouse]]"
 reference_count: 1
 ---
 

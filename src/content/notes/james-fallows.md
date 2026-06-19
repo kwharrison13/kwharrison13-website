@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "James Fallows"
-related: []
+related:
+  - "[[Our Towns]]"
 reference_count: 1
 ---
 

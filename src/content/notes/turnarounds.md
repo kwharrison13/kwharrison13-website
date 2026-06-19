@@ -12,7 +12,8 @@ tags: []
 aliases:
   - "Turnarounds"
   - "turnarounds"
-related: []
+related:
+  - "[[Turnaround]]"
 reference_count: 1
 ---
 

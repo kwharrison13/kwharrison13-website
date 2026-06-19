@@ -19,6 +19,8 @@ related:
   - "[[Salt Security]]"
   - "[[Checkmarx]]"
   - "[[Wiz.io]]"
+  - "[[API Gateways]]"
+  - "[[API Security]]"
   - "[[Noname Security]]"
 ---
 

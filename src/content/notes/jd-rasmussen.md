@@ -17,6 +17,7 @@ aliases:
 related:
   - "[[Opendoor]]"
   - "[[March 5th, 2020 — JD Rasmussen (Opendoor)]]"
+  - "[[SMB]]"
   - "[[Teamshares]]"
 ---
 

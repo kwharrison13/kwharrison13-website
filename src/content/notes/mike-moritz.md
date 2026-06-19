@@ -11,7 +11,9 @@ tags: []
 aliases:
   - "Mike Moritz"
   - "Michael Moritz"
-related: []
+related:
+  - "[[The Founders]]"
+  - "[[Elon Musk]]"
 ---
 
 # Mike Moritz

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Judgment"
-related: []
+related:
+  - "[[Managers Not MBAs]]"
 reference_count: 1
 ---
 

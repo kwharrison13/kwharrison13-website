@@ -13,7 +13,8 @@ sources:
 tags: []
 aliases:
   - "Moroni 8"
-related: []
+related:
+  - "[[Feed My Sheep]]"
 reference_count: 3
 ---
 

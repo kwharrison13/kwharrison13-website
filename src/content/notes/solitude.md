@@ -11,7 +11,11 @@ sources:
 tags: []
 aliases:
   - "Solitude"
-related: []
+related:
+  - "[[Walden]]"
+  - "[[A Walk in the Woods]]"
+  - "[[John Quincy Adams]]"
+  - "[[Digital Minimalism]]"
 reference_count: 1
 ---
 

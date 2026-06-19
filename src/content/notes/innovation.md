@@ -11,7 +11,13 @@ sources:
 tags: []
 aliases:
   - "Innovation"
-related: []
+related:
+  - "[[The Idea Factory]]"
+  - "[[No Apology]]"
+  - "[[Matt Clancy]]"
+  - "[[Forecasting]]"
+  - "[[Wikipedia]]"
+  - "[[Bullshit Jobs]]"
 reference_count: 1
 ---
 

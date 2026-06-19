@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "WeWork"
-related: []
+related:
+  - "[[Adam Neumann]]"
 reference_count: 1
 ---
 

@@ -21,6 +21,7 @@ related:
   - "[[Ambition]]"
   - "[[Capitalism]]"
   - "[[The Hardening Of The Great Softening]]"
+  - "[[The Hollowing Out of the Middle Class]]"
 ---
 
 # Temporarily Embarrassed Millionaires

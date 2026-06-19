@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "The Rational Optimist"
-related: []
+related:
+  - "[[The Psychology of Money]]"
 reference_count: 1
 ---
 

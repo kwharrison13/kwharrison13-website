@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Dallin H. Oaks"
-related: []
+related:
+  - "[[The Priesthood Power of Women]]"
+  - "[[Chad's Big Quote Book]]"
 reference_count: 1
 ---
 

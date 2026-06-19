@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Thinking, Fast and Slow"
-related: []
+related:
+  - "[[The Psychology of Money]]"
+  - "[[Range]]"
 reference_count: 1
 ---
 

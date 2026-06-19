@@ -12,7 +12,11 @@ tags: []
 aliases:
   - "Focus"
   - "focus"
-related: []
+related:
+  - "[[Digital Minimalism]]"
+  - "[[Capital Allocator Mindset]]"
+  - "[[Joseph Smith Lecture 2 — Joseph's Personality and Character]]"
+  - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
 reference_count: 1
 ---
 

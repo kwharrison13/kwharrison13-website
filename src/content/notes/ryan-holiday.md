@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Ryan Holiday"
-related: []
+related:
+  - "[[Discipline Is Destiny]]"
+  - "[[Maximus]]"
 reference_count: 1
 ---
 

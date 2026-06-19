@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Gospel Study"
-related: []
+related:
+  - "[[Feed My Sheep]]"
 reference_count: 1
 ---
 

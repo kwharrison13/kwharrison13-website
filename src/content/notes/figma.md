@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Figma"
-related: []
+related:
+  - "[[Joseph Ambeault]]"
+  - "[[Joel Kwartler]]"
+  - "[[Sprig]]"
 reference_count: 1
 ---
 

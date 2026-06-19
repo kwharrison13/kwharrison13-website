@@ -13,6 +13,7 @@ aliases:
   - "Joseph Nye"
 related:
   - "[[The Storytelling of Investing - Research]]"
+  - "[[Soft Power]]"
 ---
 
 # Joseph Nye

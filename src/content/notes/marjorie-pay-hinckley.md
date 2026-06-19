@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Marjorie Pay Hinckley"
-related: []
+related:
+  - "[[Gordon B. Hinckley: Go Forward With Faith]]"
+  - "[[Gordon B. Hinckley]]"
 reference_count: 1
 ---
 

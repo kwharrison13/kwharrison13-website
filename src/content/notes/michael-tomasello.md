@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Michael Tomasello"
-related: []
+related:
+  - "[[The Righteous Mind]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Notion"
-related: []
+related:
+  - "[[Akshay Kothari]]"
+  - "[[Joseph Ambeault]]"
 reference_count: 1
 ---
 

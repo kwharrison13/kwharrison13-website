@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Reward and Punishment"
-related: []
+related:
+  - "[[The Courage To Be Disliked]]"
 ---
 
 # Reward and Punishment

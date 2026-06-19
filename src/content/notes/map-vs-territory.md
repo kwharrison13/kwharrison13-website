@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Map vs Territory"
-related: []
+related:
+  - "[[The Great Mental Models Volume 1: General Thinking Concepts]]"
 reference_count: 1
 ---
 

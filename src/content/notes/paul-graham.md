@@ -17,6 +17,7 @@ related:
   - "[[Y Combinator]]"
   - "[[The Psychology of Money]]"
   - "[[Richard Florida]]"
+  - "[[Your Passion, Your Solution (YPYS)]]"
   - "[[City Building]]"
 ---
 

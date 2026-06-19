@@ -36,6 +36,12 @@ related:
   - "[[Mitt Romney]]"
   - "[[Thomas Ford]]"
   - "[[Brené Brown]]"
+  - "[[Brigham Young: Pioneer Prophet]]"
+  - "[[Joseph Smith: Rough Stone Rolling]]"
+  - "[[Braving The Wilderness]]"
+  - "[[Amusing Ourselves To Death]]"
+  - "[[The Greatest Sentence Ever Written]]"
+  - "[[Russell M. Nelson]]"
 ---
 
 # Voice of the People

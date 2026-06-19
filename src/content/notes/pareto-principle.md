@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Pareto Principle"
-related: []
+related:
+  - "[[Essentialism]]"
 reference_count: 1
 ---
 

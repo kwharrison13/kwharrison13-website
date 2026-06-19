@@ -22,6 +22,9 @@ related:
   - "[[What Is An Investor - Research]]"
   - "[[Lux Capital]]"
   - "[[What Is An Investor]]"
+  - "[[Kevin Gao]]"
+  - "[[Differentiation in Venture]]"
+  - "[[Building American Dynamism]]"
   - "[[Science Fiction]]"
 ---
 

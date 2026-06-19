@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Joseph J. Ellis"
-related: []
+related:
+  - "[[American Sphinx]]"
 reference_count: 1
 ---
 

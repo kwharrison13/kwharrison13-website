@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Renewable Energy"
-related: []
+related:
+  - "[[Jon Powers]]"
 ---
 
 # Renewable Energy

@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "GDP"
-related: []
+related:
+  - "[[Double Entry]]"
+  - "[[Kevin Kelly]]"
+  - "[[Rekindling US Productivity for a New Era]]"
 reference_count: 1
 ---
 

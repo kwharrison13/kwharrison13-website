@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Predestination"
-related: []
+related:
+  - "[[Stories of Your Life and Others]]"
 reference_count: 1
 ---
 

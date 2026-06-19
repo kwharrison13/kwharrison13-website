@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Moneyball"
-related: []
+related:
+  - "[[Inside the Rise and Fall of Coatue's Quant Fund]]"
 ---
 
 # Moneyball

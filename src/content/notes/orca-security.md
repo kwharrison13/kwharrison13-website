@@ -16,6 +16,9 @@ aliases:
   - "Orca Security"
 related:
   - "[[Noname Security - Diligence]]"
+  - "[[CrowdStrike ($CRWD)]]"
+  - "[[Palo Alto Networks ($PANW)]]"
+  - "[[Wiz.io]]"
 reference_count: 1
 ---
 

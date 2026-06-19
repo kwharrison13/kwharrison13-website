@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Jonathan Edwards"
-related: []
+related:
+  - "[[Benjamin Franklin: An American Life]]"
+  - "[[Chad's Big Quote Book]]"
 reference_count: 1
 ---
 

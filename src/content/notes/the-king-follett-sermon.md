@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "The King Follett Sermon"
-related: []
+related:
+  - "[[Joseph Smith: Rough Stone Rolling]]"
+  - "[[Joseph Smith]]"
 reference_count: 1
 ---
 

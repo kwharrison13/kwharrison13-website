@@ -15,6 +15,7 @@ aliases:
   - "The Exponential View"
 related:
   - "[[The State of Startup Media - Research]]"
+  - "[[Future of Work]]"
 ---
 
 # Azeem Azhar

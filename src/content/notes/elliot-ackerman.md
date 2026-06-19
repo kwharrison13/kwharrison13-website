@@ -12,7 +12,9 @@ sources:
 tags: []
 aliases:
   - "Elliot Ackerman"
-related: []
+related:
+  - "[[2054]]"
+  - "[[2034: A Novel of the Next World War]]"
 reference_count: 2
 ---
 

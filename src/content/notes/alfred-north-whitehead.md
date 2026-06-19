@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Alfred North Whitehead"
-related: []
+related:
+  - "[[Charlie Munger: Harvard Law School Fiftieth Reunion Address]]"
 ---
 
 # Alfred North Whitehead

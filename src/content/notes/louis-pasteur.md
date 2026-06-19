@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Louis Pasteur"
-related: []
+related:
+  - "[[The Faith of a Scientist]]"
 reference_count: 1
 ---
 

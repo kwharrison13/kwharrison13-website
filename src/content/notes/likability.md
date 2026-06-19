@@ -21,6 +21,9 @@ related:
   - "[[Alex Karp]]"
   - "[[Steve Jobs]]"
   - "[[Brie Wolfson]]"
+  - "[[John Mulaney]]"
+  - "[[Louis Rossmann]]"
+  - "[[Jony Ive]]"
   - "[[Conviction-Led Contrarianism]]"
 ---
 

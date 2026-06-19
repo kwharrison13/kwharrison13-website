@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Preach My Gospel"
-related: []
+related:
+  - "[[Jeffrey R. Holland]]"
+  - "[[Chad's Big Quote Book]]"
+  - "[[Feed My Sheep]]"
 reference_count: 1
 ---
 

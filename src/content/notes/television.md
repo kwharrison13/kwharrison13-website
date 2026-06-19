@@ -12,7 +12,10 @@ sources:
 tags: []
 aliases:
   - "television"
-related: []
+related:
+  - "[[The Assault on Reason]]"
+  - "[[The Invention of Russia]]"
+  - "[[Vladimir Putin]]"
 reference_count: 2
 ---
 

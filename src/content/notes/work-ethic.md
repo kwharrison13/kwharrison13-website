@@ -11,7 +11,11 @@ sources:
 tags: []
 aliases:
   - "work ethic"
-related: []
+related:
+  - "[[Elon Musk: Tesla"
+  - "SpaceX"
+  - "and the Quest for a Fantastic Future]]"
+  - "[[Leslie Knope]]"
 reference_count: 1
 ---
 

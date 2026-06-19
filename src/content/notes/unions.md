@@ -34,6 +34,9 @@ related:
   - "[[Unions, Unions Everywhere - Research]]"
   - "[[Automation]]"
   - "[[Income Inequality]]"
+  - "[[George F. Johnson and His Industrial Democracy]]"
+  - "[[Nathan Baschez]]"
+  - "[[Mark Cuban]]"
 reference_count: 9
 ---
 

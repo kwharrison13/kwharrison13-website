@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Self-Directed Learning"
-related: []
+related:
+  - "[[Charlie Munger: Harvard Law School Fiftieth Reunion Address]]"
 reference_count: 1
 ---
 

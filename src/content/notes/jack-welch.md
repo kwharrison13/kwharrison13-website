@@ -10,7 +10,10 @@ sources: []
 tags: []
 aliases:
   - "Jack Welch"
-related: []
+related:
+  - "[[Flying Blind]]"
+  - "[[The Man Who Broke Capitalism]]"
+  - "[[Charlie Munger: A Lesson on Elementary Worldly Wisdom]]"
 ---
 
 # Jack Welch

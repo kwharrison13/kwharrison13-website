@@ -10,7 +10,10 @@ sources: []
 tags: []
 aliases:
   - "Brian Eno"
-related: []
+related:
+  - "[[The Founders]]"
+  - "[[Jimmy Soni]]"
+  - "[[Talent Vortex]]"
 ---
 
 # Brian Eno

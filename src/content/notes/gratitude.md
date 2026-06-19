@@ -12,7 +12,8 @@ tags: []
 aliases:
   - "Gratitude"
   - "gratitude"
-related: []
+related:
+  - "[[The Magnolia Story]]"
 reference_count: 1
 ---
 

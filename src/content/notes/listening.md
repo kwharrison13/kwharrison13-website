@@ -12,7 +12,9 @@ tags: []
 aliases:
   - "Listening"
   - "listening"
-related: []
+related:
+  - "[[What It Takes]]"
+  - "[[Stop Asking Questions]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Universalism"
-related: []
+related:
+  - "[[Stretching The Heavens]]"
 reference_count: 1
 ---
 

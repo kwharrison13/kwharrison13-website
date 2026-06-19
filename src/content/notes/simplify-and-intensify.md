@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Simplify and Intensify"
-related: []
+related:
+  - "[[Charlie Munger: Practical Thought About Practical Thought?]]"
 reference_count: 1
 ---
 

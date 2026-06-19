@@ -10,7 +10,9 @@ sources: []
 tags: []
 aliases:
   - "Roelof Botha"
-related: []
+related:
+  - "[[The Founders]]"
+  - "[[Peter Thiel]]"
 ---
 
 # Roelof Botha

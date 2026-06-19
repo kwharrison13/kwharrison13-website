@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Natural Selection of Time"
-related: []
+related:
+  - "[[The Ride of a Lifetime]]"
 reference_count: 1
 ---
 

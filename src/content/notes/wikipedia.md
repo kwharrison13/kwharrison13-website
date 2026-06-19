@@ -20,6 +20,8 @@ related:
   - "[[Matt Clancy]]"
   - "[[Unbundling]]"
   - "[[Knowledge Economy]]"
+  - "[[Working in Public]]"
+  - "[[The Death of Expertise]]"
   - "[[Innovation]]"
 ---
 

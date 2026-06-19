@@ -14,6 +14,7 @@ aliases:
   - "Gates Notes"
 related:
   - "[[The State of Startup Media - Research]]"
+  - "[[How To Avoid a Climate Disaster]]"
 reference_count: 1
 ---
 

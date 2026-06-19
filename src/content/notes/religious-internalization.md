@@ -10,7 +10,9 @@ sources: []
 tags: []
 aliases:
   - "Religious Internalization"
-related: []
+related:
+  - "[[Stretching The Heavens]]"
+  - "[[Feed My Sheep]]"
 ---
 
 # Religious Internalization

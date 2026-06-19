@@ -28,6 +28,13 @@ related:
   - "[[Walter Isaacson]]"
   - "[[Thomas Jefferson]]"
   - "[[Socrates]]"
+  - "[[Digital Minimalism]]"
+  - "[[The Greatest Sentence Ever Written]]"
+  - "[[The Count of Monte Cristo]]"
+  - "[[Charlie Munger: Harvard Law School Fiftieth Reunion Address]]"
+  - "[[Charlie Munger: The Psychology of Human Misjudgment]]"
+  - "[[Charlie Munger: Harvard School Commencement Speech]]"
+  - "[[Charlie Munger: Academic Economics]]"
   - "[[Jesus]]"
 ---
 

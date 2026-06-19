@@ -12,7 +12,9 @@ tags: []
 aliases:
   - "Reputation"
   - "reputation"
-related: []
+related:
+  - "[[Working in Public]]"
+  - "[[The Righteous Mind]]"
 reference_count: 1
 ---
 

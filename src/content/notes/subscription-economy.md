@@ -12,7 +12,9 @@ sources:
 tags: []
 aliases:
   - "Subscription Economy"
-related: []
+related:
+  - "[[Working in Public]]"
+  - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
 reference_count: 1
 ---
 

@@ -19,6 +19,7 @@ related:
   - "[[Identity & Access Management Diligence — 2021]]"
   - "[[API Security]]"
   - "[[Michael Isbitski]]"
+  - "[[Firewall]]"
   - "[[Salt Security]]"
 ---
 

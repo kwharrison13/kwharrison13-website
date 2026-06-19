@@ -10,7 +10,12 @@ sources: []
 tags: []
 aliases:
   - "Inversion"
-related: []
+related:
+  - "[[The Great Mental Models Volume 1: General Thinking Concepts]]"
+  - "[[Poor Charlie's Almanack]]"
+  - "[[Charlie Munger: Harvard Law School Fiftieth Reunion Address]]"
+  - "[[Charlie Munger: The Psychology of Human Misjudgment]]"
+  - "[[Charlie Munger: Practical Thought About Practical Thought?]]"
 ---
 
 # Inversion

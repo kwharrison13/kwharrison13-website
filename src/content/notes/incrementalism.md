@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Incrementalism"
-related: []
+related:
+  - "[[Romney: A Reckoning]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Small Business"
-related: []
+related:
+  - "[[On the Nature of Long-Term Holds]]"
 ---
 
 # Small Business

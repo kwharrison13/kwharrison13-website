@@ -12,7 +12,8 @@ tags: []
 aliases:
   - "Uber ($UBER)"
   - "Uber"
-related: []
+related:
+  - "[[Fissured Workplace]]"
 ---
 
 # Uber ($UBER)

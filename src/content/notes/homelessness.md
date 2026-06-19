@@ -18,6 +18,8 @@ related:
   - "[[Destination: Home]]"
   - "[[social innovation]]"
   - "[[Chad Bojorquez]]"
+  - "[[Utopia For Realists]]"
+  - "[[What I Found in a Thousand Towns]]"
 ---
 
 # Homelessness

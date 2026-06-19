@@ -32,6 +32,10 @@ related:
   - "[[Republic of Letters]]"
   - "[[Data in Investing]]"
   - "[[Playbooks]]"
+  - "[[Berkshire Hathaway Annual Letters]]"
+  - "[[Remote: Office Not Required]]"
+  - "[[Charlie Munger: Investment Practices of Leading Charitable Foundations]]"
+  - "[[On the Nature of Long-Term Holds]]"
 ---
 
 # Investing 101 2.0

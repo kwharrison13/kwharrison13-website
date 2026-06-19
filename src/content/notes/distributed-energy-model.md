@@ -11,7 +11,13 @@ sources:
 tags: []
 aliases:
   - "Distributed Energy Model"
-related: []
+related:
+  - "[[The New Urban Crisis]]"
+  - "[[Jon Powers]]"
+  - "[[Decarbonization]]"
+  - "[[Fusion Energy]]"
+  - "[[The Build-Nothing Country]]"
+  - "[[Rekindling US Productivity for a New Era]]"
 reference_count: 1
 ---
 

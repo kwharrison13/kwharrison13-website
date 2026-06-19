@@ -12,7 +12,9 @@ tags: []
 aliases:
   - "TAM"
   - "tam"
-related: []
+related:
+  - "[[Software TAM]]"
+  - "[[Datadog ($DDOG)]]"
 reference_count: 1
 ---
 

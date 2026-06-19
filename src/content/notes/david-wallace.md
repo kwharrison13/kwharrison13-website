@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "David Wallace"
-related: []
+related:
+  - "[[Talent Vortex]]"
 ---
 
 # David Wallace

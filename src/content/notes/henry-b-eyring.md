@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Henry B. Eyring"
-related: []
+related:
+  - "[[Gordon B. Hinckley: Go Forward With Faith]]"
+  - "[[Chad's Big Quote Book]]"
 reference_count: 1
 ---
 

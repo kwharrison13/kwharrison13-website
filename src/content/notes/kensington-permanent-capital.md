@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Kensington Permanent Capital"
-related: []
+related:
+  - "[[Kyle Gay]]"
+  - "[[Norwest]]"
 reference_count: 1
 ---
 

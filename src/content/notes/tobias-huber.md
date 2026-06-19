@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Tobias Huber"
-related: []
+related:
+  - "[[Boom: Bubbles & The End of Stagnation]]"
 reference_count: 1
 ---
 

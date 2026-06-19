@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Yochai Benkler"
-related: []
+related:
+  - "[[Working in Public]]"
 reference_count: 1
 ---
 

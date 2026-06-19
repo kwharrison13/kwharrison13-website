@@ -14,7 +14,7 @@ tags:
 aliases:
   - "Solamere Capital"
 related:
-  - "[[April 5th, 2022 — Intro to Josh Beers (NEPC)]]"
+  - "[[Strada Education Network]]"
 ---
 
 # Solamere Capital

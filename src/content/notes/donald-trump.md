@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Donald Trump"
-related: []
+related:
+  - "[[Romney: A Reckoning]]"
+  - "[[Bill Maher]]"
 reference_count: 1
 ---
 

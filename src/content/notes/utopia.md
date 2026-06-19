@@ -14,6 +14,9 @@ aliases:
   - "Utopia"
 related:
   - "[[Utopia For Realists]]"
+  - "[[The Time Machine]]"
+  - "[[Brave New World]]"
+  - "[[Walt Disney and the Promise of Progress City]]"
 reference_count: 2
 ---
 

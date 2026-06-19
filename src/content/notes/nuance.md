@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Nuance"
-related: []
+related:
+  - "[[Braving The Wilderness]]"
+  - "[[Rhetoric]]"
 reference_count: 1
 ---
 

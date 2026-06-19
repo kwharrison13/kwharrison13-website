@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Isaac Asimov"
-related: []
+related:
+  - "[[The AppetiZIRP]]"
 reference_count: 1
 ---
 

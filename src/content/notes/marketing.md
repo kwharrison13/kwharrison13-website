@@ -12,7 +12,8 @@ sources:
 tags: []
 aliases:
   - "Marketing"
-related: []
+related:
+  - "[[Pricing]]"
 reference_count: 2
 ---
 

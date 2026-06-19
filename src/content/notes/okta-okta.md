@@ -12,7 +12,8 @@ tags: []
 aliases:
   - "Okta ($OKTA)"
   - "Okta"
-related: []
+related:
+  - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
 ---
 
 # Okta ($OKTA)

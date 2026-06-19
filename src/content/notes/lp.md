@@ -11,7 +11,14 @@ sources:
 tags: []
 aliases:
   - "LP"
-related: []
+related:
+  - "[[VC]]"
+  - "[[Ho Nam]]"
+  - "[[Fees and Carry]]"
+  - "[[Direct Investments]]"
+  - "[[Almost $14 Billion Pulled From CalPERS Equity Managers]]"
+  - "[[We're Selling Entrepreneurship Short]]"
+  - "[[Assembly Bill 2041 — UC Office of the Chief Investment Officer]]"
 reference_count: 1
 ---
 

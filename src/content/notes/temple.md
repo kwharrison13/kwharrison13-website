@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "temple"
-related: []
+related:
+  - "[[The Priesthood Power of Women]]"
 reference_count: 1
 ---
 

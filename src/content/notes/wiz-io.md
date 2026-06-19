@@ -25,6 +25,7 @@ related:
   - "[[Salt Security]]"
   - "[[Endpoint Security]]"
   - "[[Nir Rothenberg]]"
+  - "[[CrowdStrike ($CRWD)]]"
   - "[[Prabhakar Kasu]]"
 ---
 

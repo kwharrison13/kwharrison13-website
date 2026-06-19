@@ -13,6 +13,7 @@ aliases:
   - "Small Towns"
 related:
   - "[[MainStreet]]"
+  - "[[What I Found in a Thousand Towns]]"
   - "[[Prosperable]]"
 ---
 

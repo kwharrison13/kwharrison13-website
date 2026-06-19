@@ -11,7 +11,12 @@ tags: []
 aliases:
   - "JB Straubel"
   - "J.B. Straubel"
-related: []
+related:
+  - "[[Elon Musk: Tesla"
+  - "SpaceX"
+  - "and the Quest for a Fantastic Future]]"
+  - "[[Elon Musk]]"
+  - "[[First Principles Thinking]]"
 ---
 
 # JB Straubel

@@ -13,6 +13,7 @@ aliases:
   - "Fees and Carry"
 related:
   - "[[Direct Investments]]"
+  - "[[Charlie Munger: Philanthropy Roundtable]]"
   - "[[LP]]"
 ---
 

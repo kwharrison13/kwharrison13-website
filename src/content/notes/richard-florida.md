@@ -16,6 +16,10 @@ related:
   - "[[The New Urban Crisis]]"
   - "[[The Rise of the Creative Class]]"
   - "[[City Building]]"
+  - "[[Stuck in Place]]"
+  - "[[Paul Graham]]"
+  - "[[John F.C. Turner]]"
+  - "[[Patrick Sharkey]]"
   - "[[Universal Basic Income]]"
 ---
 

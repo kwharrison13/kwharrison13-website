@@ -18,6 +18,7 @@ related:
   - "[[John Rawls]]"
   - "[[The American Dream — Stop Calling it Capitalism]]"
   - "[[The Hardening Of The Great Softening - Research]]"
+  - "[[Shortest Way Home]]"
 ---
 
 # Veil of Ignorance

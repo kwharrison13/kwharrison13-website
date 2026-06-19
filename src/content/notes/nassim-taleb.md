@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Nassim Taleb"
-related: []
+related:
+  - "[[The Great Mental Models Volume 1: General Thinking Concepts]]"
+  - "[[The Psychology of Money]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Dieter F. Uchtdorf"
-related: []
+related:
+  - "[[Chad's Big Quote Book]]"
 reference_count: 1
 ---
 

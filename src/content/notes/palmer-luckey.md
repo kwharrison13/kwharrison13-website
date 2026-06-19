@@ -23,6 +23,8 @@ related:
   - "[[Conviction]]"
   - "[[Dependencies]]"
   - "[[Contrarianism]]"
+  - "[[Skunk Works]]"
+  - "[[The Kill Chain]]"
   - "[[Conviction-Led Contrarianism]]"
 ---
 

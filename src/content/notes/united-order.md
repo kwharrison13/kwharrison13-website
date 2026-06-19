@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "United Order"
-related: []
+related:
+  - "[[Working Toward Zion]]"
+  - "[[Brigham Young: Pioneer Prophet]]"
 reference_count: 1
 ---
 

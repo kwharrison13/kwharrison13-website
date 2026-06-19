@@ -11,7 +11,11 @@ sources:
 tags: []
 aliases:
   - "hard work"
-related: []
+related:
+  - "[[Driven]]"
+  - "[[Leslie Knope]]"
+  - "[[Protestant Work Ethic]]"
+  - "[[Golden Handcuffs]]"
 reference_count: 1
 ---
 

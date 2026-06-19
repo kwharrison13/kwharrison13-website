@@ -11,7 +11,14 @@ sources:
 tags: []
 aliases:
   - "Polymath"
-related: []
+related:
+  - "[[Poor Charlie's Almanack]]"
+  - "[[The Greatest Minds and Ideas of All Time]]"
+  - "[[John Quincy Adams]]"
+  - "[[Leonardo Da Vinci]]"
+  - "[[Gordon B. Hinckley: Go Forward With Faith]]"
+  - "[[Range]]"
+  - "[[Gordon B. Hinckley]]"
 reference_count: 1
 ---
 

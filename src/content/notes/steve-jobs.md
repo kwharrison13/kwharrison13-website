@@ -10,7 +10,11 @@ sources: []
 tags: []
 aliases:
   - "Steve Jobs"
-related: []
+related:
+  - "[[Leonardo Da Vinci]]"
+  - "[[The Ride of a Lifetime]]"
+  - "[[Jony Ive]]"
+  - "[[Likability]]"
 ---
 
 # Steve Jobs

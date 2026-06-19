@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Marion G. Romney"
-related: []
+related:
+  - "[[Chad's Big Quote Book]]"
 reference_count: 1
 ---
 

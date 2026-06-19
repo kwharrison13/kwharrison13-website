@@ -35,6 +35,11 @@ related:
   - "[[Amazon Unbound]]"
   - "[[The Talent Vortex — Mafias and Magnets]]"
   - "[[The Talent Vortex - Research]]"
+  - "[[The Everything Store]]"
+  - "[[Talent]]"
+  - "[[Leonardo Da Vinci]]"
+  - "[[Jimmy Soni]]"
+  - "[[Square]]"
 ---
 
 # Talent Vortex

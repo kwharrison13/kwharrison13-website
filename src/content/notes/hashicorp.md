@@ -16,6 +16,8 @@ aliases:
   - "HashiCorp"
 related:
   - "[[Noname Security - Diligence]]"
+  - "[[Terraform]]"
+  - "[[Nomad]]"
 reference_count: 1
 ---
 

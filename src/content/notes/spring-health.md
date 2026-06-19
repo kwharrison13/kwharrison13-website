@@ -22,6 +22,9 @@ related:
   - "[[Behavioral Health]]"
   - "[[Lyra]]"
   - "[[Vertical Integration]]"
+  - "[[Headway]]"
+  - "[[Kareo]]"
+  - "[[SonderMind]]"
   - "[[Index Ventures]]"
 ---
 

@@ -15,6 +15,10 @@ aliases:
 related:
   - "[[PayPal Mafia]]"
   - "[[The Founders]]"
+  - "[[Peter Thiel]]"
+  - "[[Max Levchin]]"
+  - "[[Elon Musk]]"
+  - "[[Jimmy Soni]]"
 reference_count: 1
 ---
 

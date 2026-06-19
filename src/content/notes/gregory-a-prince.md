@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Gregory A. Prince"
-related: []
+related:
+  - "[[Leonard Arrington and the Writing of Mormon History]]"
 reference_count: 1
 ---
 

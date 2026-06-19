@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Peter Senge"
-related: []
+related:
+  - "[[The Expertise Economy]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "The Heart of Our Cities"
-related: []
+related:
+  - "[[Walt Disney and the Promise of Progress City]]"
 reference_count: 1
 ---
 

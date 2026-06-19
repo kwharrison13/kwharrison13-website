@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Grant H. Palmer"
-related: []
+related:
+  - "[[An Insider's View of Mormon Origins]]"
 reference_count: 1
 ---
 

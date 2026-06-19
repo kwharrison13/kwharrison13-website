@@ -12,7 +12,9 @@ sources:
 tags: []
 aliases:
   - "James Stavridis"
-related: []
+related:
+  - "[[2054]]"
+  - "[[2034: A Novel of the Next World War]]"
 reference_count: 2
 ---
 

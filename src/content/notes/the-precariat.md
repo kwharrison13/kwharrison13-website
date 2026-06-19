@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "The Precariat"
-related: []
+related:
+  - "[[Guy Standing]]"
 reference_count: 1
 ---
 

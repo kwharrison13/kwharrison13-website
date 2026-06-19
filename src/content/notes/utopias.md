@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Utopias"
-related: []
+related:
+  - "[[Historical Futurism]]"
 reference_count: 1
 ---
 

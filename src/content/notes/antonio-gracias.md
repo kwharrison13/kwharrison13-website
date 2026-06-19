@@ -10,7 +10,10 @@ sources: []
 tags: []
 aliases:
   - "Antonio Gracias"
-related: []
+related:
+  - "[[Elon Musk: Tesla"
+  - "SpaceX"
+  - "and the Quest for a Fantastic Future]]"
 ---
 
 # Antonio Gracias

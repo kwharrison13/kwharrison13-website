@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Kleiner Perkins"
-related: []
+related:
+  - "[[VC]]"
+  - "[[Tom Perkins]]"
 ---
 
 # Kleiner Perkins

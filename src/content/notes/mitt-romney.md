@@ -10,7 +10,12 @@ sources: []
 tags: []
 aliases:
   - "Mitt Romney"
-related: []
+related:
+  - "[[Turnaround]]"
+  - "[[Romney: A Reckoning]]"
+  - "[[No Apology]]"
+  - "[[Voice of the People]]"
+  - "[[Educated Electorate]]"
 ---
 
 # Mitt Romney

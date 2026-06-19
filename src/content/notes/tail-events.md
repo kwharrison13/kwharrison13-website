@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Tail Events"
-related: []
+related:
+  - "[[The Psychology of Money]]"
+  - "[[Forecasting]]"
 reference_count: 1
 ---
 

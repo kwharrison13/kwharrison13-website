@@ -24,6 +24,11 @@ related:
   - "[[Remote Work]]"
   - "[[Sam Altman]]"
   - "[[Azeem Azhar]]"
+  - "[[21 Lessons for the 21st Century]]"
+  - "[[Andre Bennin]]"
+  - "[[Mark Cuban]]"
+  - "[[The New City]]"
+  - "[[Strada Education Network]]"
   - "[[Abundance]]"
 ---
 

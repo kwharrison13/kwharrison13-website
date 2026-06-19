@@ -20,6 +20,7 @@ related:
   - "[[Contrarianism]]"
   - "[[Conviction-Led Contrarianism]]"
   - "[[Ralph Waldo Emerson]]"
+  - "[[Manas Saloi]]"
   - "[[John Mulaney]]"
 ---
 

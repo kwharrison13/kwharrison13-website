@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Richard Lyman Bushman"
-related: []
+related:
+  - "[[Joseph Smith: Rough Stone Rolling]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Joanna Gaines"
-related: []
+related:
+  - "[[The Magnolia Story]]"
 reference_count: 1
 ---
 

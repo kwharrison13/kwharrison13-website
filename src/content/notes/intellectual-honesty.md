@@ -17,6 +17,8 @@ related:
   - "[[Storytelling]]"
   - "[[Charlie Munger]]"
   - "[[Humility]]"
+  - "[[An Insider's View of Mormon Origins]]"
+  - "[[The Ride of a Lifetime]]"
 ---
 
 # Intellectual Honesty

@@ -21,6 +21,7 @@ related:
   - "[[Capitalism]]"
   - "[[Temporarily Embarrassed Millionaires]]"
   - "[[Noah Smith]]"
+  - "[[January 6th]]"
 ---
 
 # The Hollowing Out of the Middle Class

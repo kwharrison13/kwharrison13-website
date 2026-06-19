@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Happiness"
-related: []
+related:
+  - "[[Brave New World]]"
+  - "[[The Courage To Be Disliked]]"
+  - "[[Sapiens]]"
 reference_count: 1
 ---
 

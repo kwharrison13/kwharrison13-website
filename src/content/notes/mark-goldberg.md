@@ -11,7 +11,12 @@ sources:
 tags: []
 aliases:
   - "Mark Goldberg"
-related: []
+related:
+  - "[[Chainalysis]]"
+  - "[[ClickUp]]"
+  - "[[Altimeter]]"
+  - "[[Ada]]"
+  - "[[Adyen]]"
 reference_count: 3
 ---
 

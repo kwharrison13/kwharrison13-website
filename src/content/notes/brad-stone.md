@@ -18,6 +18,7 @@ related:
   - "[[The Everything Store]]"
   - "[[Jeff Bezos]]"
   - "[[Amazon]]"
+  - "[[Fissured Workplace]]"
 ---
 
 # Brad Stone

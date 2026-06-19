@@ -24,6 +24,7 @@ related:
   - "[[Six-Page Narratives]]"
   - "[[Permanent Capital]]"
   - "[[Warren Buffett]]"
+  - "[[Soft Power]]"
 ---
 
 # Wordsmiths

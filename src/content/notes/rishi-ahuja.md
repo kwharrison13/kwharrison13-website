@@ -17,6 +17,8 @@ related:
   - "[[Square]]"
   - "[[Sprig]]"
   - "[[Lookback]]"
+  - "[[Great Question]]"
+  - "[[Pendo]]"
   - "[[UserTesting]]"
 ---
 

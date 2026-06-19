@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Niklas Luhmann"
-related: []
+related:
+  - "[[How To Take Smart Notes]]"
 reference_count: 1
 ---
 

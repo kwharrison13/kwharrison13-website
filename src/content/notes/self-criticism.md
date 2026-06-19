@@ -12,7 +12,11 @@ sources:
 tags: []
 aliases:
   - "Self-Criticism"
-related: []
+related:
+  - "[[Charlie Munger: The Psychology of Human Misjudgment]]"
+  - "[[Charlie Munger: Practical Thought About Practical Thought?]]"
+  - "[[Charlie Munger: Academic Economics]]"
+  - "[[Charlie Munger: USC Gould School of Law Commencement Address]]"
 reference_count: 2
 ---
 

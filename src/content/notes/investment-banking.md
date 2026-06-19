@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Investment Banking"
-related: []
+related:
+  - "[[John Hoffmire]]"
+  - "[[MBA Degrees]]"
 reference_count: 1
 ---
 

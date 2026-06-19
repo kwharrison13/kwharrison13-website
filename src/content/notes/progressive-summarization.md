@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Progressive Summarization"
-related: []
+related:
+  - "[[How To Read a Book]]"
 reference_count: 1
 ---
 

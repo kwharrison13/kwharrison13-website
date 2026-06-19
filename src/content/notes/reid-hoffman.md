@@ -10,7 +10,10 @@ sources: []
 tags: []
 aliases:
   - "Reid Hoffman"
-related: []
+related:
+  - "[[The Start-Up of You]]"
+  - "[[The Founders]]"
+  - "[[Peter Thiel]]"
 ---
 
 # Reid Hoffman

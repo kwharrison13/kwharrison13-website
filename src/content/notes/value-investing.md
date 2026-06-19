@@ -11,7 +11,11 @@ sources:
 tags: []
 aliases:
   - "Value Investing"
-related: []
+related:
+  - "[[Poor Charlie's Almanack]]"
+  - "[[Buffett: The Biography]]"
+  - "[[Pricing]]"
+  - "[[Forecasting]]"
 reference_count: 1
 ---
 

@@ -12,7 +12,13 @@ sources:
 tags: []
 aliases:
   - "Thomas Jefferson"
-related: []
+related:
+  - "[[The Autobiography of Benjamin Franklin]]"
+  - "[[American Sphinx]]"
+  - "[[Benjamin Franklin: An American Life]]"
+  - "[[The Greatest Sentence Ever Written]]"
+  - "[[Benjamin Franklin]]"
+  - "[[Educated Electorate]]"
 reference_count: 2
 ---
 

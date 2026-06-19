@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Repentance"
-related: []
+related:
+  - "[[The Broken Heart]]"
+  - "[[M. Russell Ballard]]"
+  - "[[Chad's Big Quote Book]]"
 reference_count: 1
 ---
 

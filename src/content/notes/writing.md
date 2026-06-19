@@ -10,7 +10,11 @@ sources: []
 tags: []
 aliases:
   - "Writing"
-related: []
+related:
+  - "[[How To Take Smart Notes]]"
+  - "[[Rhetoric]]"
+  - "[[Six-Page Narratives]]"
+  - "[[Open Source Knowledge]]"
 ---
 
 # Writing

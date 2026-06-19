@@ -22,6 +22,9 @@ related:
   - "[[A24]]"
   - "[[Auteur Theory]]"
   - "[[Power Law]]"
+  - "[[David Zaslav]]"
+  - "[[Ryan Reynolds]]"
+  - "[[Legendary Entertainment]]"
   - "[[Mark Twain]]"
 ---
 

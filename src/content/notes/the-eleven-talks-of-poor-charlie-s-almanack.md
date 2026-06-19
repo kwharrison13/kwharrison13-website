@@ -28,6 +28,13 @@ related:
   - "[[Charlie Munger: A Lesson on Elementary Worldly Wisdom]]"
   - "[[Charlie Munger: The Psychology of Human Misjudgment]]"
   - "[[Charlie Munger: Practical Thought About Practical Thought?]]"
+  - "[[Charlie Munger: Harvard Law School Fiftieth Reunion Address]]"
+  - "[[Charlie Munger: The Great Financial Scandal of 2003]]"
+  - "[[Charlie Munger: Harvard School Commencement Speech]]"
+  - "[[Charlie Munger: Philanthropy Roundtable]]"
+  - "[[Charlie Munger: Investment Practices of Leading Charitable Foundations]]"
+  - "[[Charlie Munger: USC Gould School of Law Commencement Address]]"
+  - "[[Charlie Munger: A Lesson on Elementary Worldly Wisdom, Revisited]]"
   - "[[Charlie Munger: Academic Economics]]"
 ---
 

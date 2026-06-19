@@ -12,7 +12,8 @@ tags: []
 aliases:
   - "Shopify"
   - "Shopify ($SHOP)"
-related: []
+related:
+  - "[[Maximus]]"
 ---
 
 # Shopify

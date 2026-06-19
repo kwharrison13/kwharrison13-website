@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Kurt Vonnegut"
-related: []
+related:
+  - "[[The AppetiZIRP]]"
 reference_count: 1
 ---
 

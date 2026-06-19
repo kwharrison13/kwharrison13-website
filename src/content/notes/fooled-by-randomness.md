@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Fooled by Randomness"
-related: []
+related:
+  - "[[The Psychology of Money]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "the American Dream"
-related: []
+related:
+  - "[[Benjamin Franklin: An American Life]]"
+  - "[[Temporarily Embarrassed Millionaires]]"
 reference_count: 1
 ---
 

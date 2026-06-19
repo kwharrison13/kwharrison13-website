@@ -12,7 +12,8 @@ tags: []
 aliases:
   - "Flow"
   - "flow"
-related: []
+related:
+  - "[[The Self-Driven Child]]"
 reference_count: 1
 ---
 

@@ -14,6 +14,7 @@ aliases:
   - "Jesus Christ"
 related:
   - "[[Benjamin Franklin]]"
+  - "[[Thirteen Virtues]]"
   - "[[Jesus Christ — Topical Study]]"
 ---
 

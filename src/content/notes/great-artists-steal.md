@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Great Artists Steal"
-related: []
+related:
+  - "[[The Everything Store]]"
 reference_count: 1
 ---
 

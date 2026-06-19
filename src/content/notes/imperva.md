@@ -21,6 +21,7 @@ related:
   - "[[Noname Security]]"
   - "[[Signal Sciences]]"
   - "[[KuppingerCole]]"
+  - "[[Firewall]]"
   - "[[Atanu Dasgupta]]"
 ---
 

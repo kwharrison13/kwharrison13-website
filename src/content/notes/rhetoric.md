@@ -24,6 +24,7 @@ related:
   - "[[Linguistic Relativity]]"
   - "[[Nuance]]"
   - "[[We Need a Renaissance of Rhetoric - Research]]"
+  - "[[AI Cheating in Education]]"
   - "[[Writing]]"
 ---
 

@@ -14,6 +14,7 @@ aliases:
   - "Qualtrics"
 related:
   - "[[Medallia]]"
+  - "[[Pendo]]"
 reference_count: 1
 ---
 

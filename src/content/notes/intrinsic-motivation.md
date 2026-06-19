@@ -12,7 +12,12 @@ sources:
 tags: []
 aliases:
   - "Intrinsic Motivation"
-related: []
+related:
+  - "[[Working in Public]]"
+  - "[[Atomic Habits]]"
+  - "[[The Self-Driven Child]]"
+  - "[[Open Source]]"
+  - "[[Not Boring]]"
 reference_count: 2
 ---
 

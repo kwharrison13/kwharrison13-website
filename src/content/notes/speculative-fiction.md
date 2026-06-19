@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Speculative Fiction"
-related: []
+related:
+  - "[[The Time Machine]]"
+  - "[[Historical Futurism]]"
 reference_count: 1
 ---
 

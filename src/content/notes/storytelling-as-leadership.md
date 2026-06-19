@@ -29,6 +29,8 @@ related:
   - "[[First Principles Thinking]]"
   - "[[Founders Mentality]]"
   - "[[Max Levchin]]"
+  - "[[Storytelling]]"
+  - "[[Talent Vortex]]"
 ---
 
 # Storytelling as Leadership

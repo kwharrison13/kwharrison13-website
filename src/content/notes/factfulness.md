@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Factfulness"
-related: []
+related:
+  - "[[How To Avoid a Climate Disaster]]"
+  - "[[The Psychology of Money]]"
 reference_count: 1
 ---
 

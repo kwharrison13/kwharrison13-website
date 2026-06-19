@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "In Service to the Mouse"
-related: []
+related:
+  - "[[Walt Disney and the Promise of Progress City]]"
 reference_count: 1
 ---
 

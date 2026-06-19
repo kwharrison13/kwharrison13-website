@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Maker Movement"
-related: []
+related:
+  - "[[Our Towns]]"
 reference_count: 1
 ---
 

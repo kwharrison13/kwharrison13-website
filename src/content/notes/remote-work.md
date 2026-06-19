@@ -11,7 +11,14 @@ sources:
 tags: []
 aliases:
   - "Remote Work"
-related: []
+related:
+  - "[[The New Urban Crisis]]"
+  - "[[The Expertise Economy]]"
+  - "[[Remote: Office Not Required]]"
+  - "[[The New City]]"
+  - "[[Open Source]]"
+  - "[[Retirement]]"
+  - "[[Future of Work]]"
 reference_count: 1
 ---
 

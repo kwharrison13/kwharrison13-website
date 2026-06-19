@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Follow the Prophet"
-related: []
+related:
+  - "[[The Next Mormons]]"
 reference_count: 1
 ---
 

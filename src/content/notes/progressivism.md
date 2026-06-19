@@ -22,6 +22,7 @@ related:
   - "[[The Hardening Of The Great Softening]]"
   - "[[The Hardening Of The Great Softening - Research]]"
   - "[[Toil We Must]]"
+  - "[[Stoicism]]"
 ---
 
 # Progressivism

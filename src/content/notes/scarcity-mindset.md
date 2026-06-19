@@ -13,7 +13,7 @@ tags:
 aliases:
   - "Scarcity Mindset"
 related:
-  - "[[April 5th, 2022 — Reading Frederik Gieschen's Writing]]"
+  - "[[Our Towns]]"
 ---
 
 # Scarcity Mindset

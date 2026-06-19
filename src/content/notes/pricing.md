@@ -25,6 +25,9 @@ related:
   - "[[Costco]]"
   - "[[Margin of Safety]]"
   - "[[Value Investing]]"
+  - "[[Catastrophic Care]]"
+  - "[[Datadog ($DDOG)]]"
+  - "[[ProfitWell]]"
 ---
 
 # Pricing

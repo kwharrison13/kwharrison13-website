@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "NCX"
-related: []
+related:
+  - "[[Carlos Gonzalez-Cardenas]]"
+  - "[[Julia Andre]]"
 reference_count: 1
 ---
 

@@ -24,6 +24,7 @@ related:
   - "[[Marc Andreessen]]"
   - "[[David Sacks]]"
   - "[[PayPal]]"
+  - "[[Storytelling as Leadership]]"
 ---
 
 # Max Levchin

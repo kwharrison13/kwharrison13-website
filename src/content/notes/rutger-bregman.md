@@ -23,6 +23,8 @@ related:
   - "[[Overton Window]]"
   - "[[Esther Duflo]]"
   - "[[Milton Friedman]]"
+  - "[[Ray Kurzweil]]"
+  - "[[Scarcity Mentality]]"
   - "[[John Maynard Keynes]]"
 ---
 

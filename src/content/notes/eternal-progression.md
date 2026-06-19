@@ -16,6 +16,8 @@ aliases:
 related:
   - "[[September 13th, 2022 — Harry Stebbings Podcast]]"
   - "[[Spirit of Humility]]"
+  - "[[Stretching The Heavens]]"
+  - "[[The Faith of a Scientist]]"
   - "[[Church of Jesus Christ of Latter-Day Saints]]"
 ---
 

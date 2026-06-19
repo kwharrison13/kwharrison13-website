@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Second Machine Age"
-related: []
+related:
+  - "[[Universal Basic Income]]"
+  - "[[Automation]]"
 reference_count: 1
 ---
 

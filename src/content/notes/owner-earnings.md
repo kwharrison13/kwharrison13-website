@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Owner Earnings"
-related: []
+related:
+  - "[[The Messy Marketplace]]"
 reference_count: 1
 ---
 

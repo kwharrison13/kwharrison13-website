@@ -14,6 +14,8 @@ aliases:
 related:
   - "[[March 5th, 2020 — Kyle Gay (Kensington Permanent Capital)]]"
   - "[[Kensington Permanent Capital]]"
+  - "[[SageLink]]"
+  - "[[Norwest]]"
 reference_count: 2
 ---
 

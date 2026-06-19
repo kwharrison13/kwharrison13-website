@@ -17,6 +17,9 @@ aliases:
   - "First Round Review"
 related:
   - "[[The State of Startup Media - Research]]"
+  - "[[Bill Trenchard]]"
+  - "[[Sprig]]"
+  - "[[First Round Review]]"
   - "[[Venture Capital]]"
 ---
 

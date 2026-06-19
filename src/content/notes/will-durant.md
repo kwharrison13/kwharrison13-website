@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Will Durant"
-related: []
+related:
+  - "[[The Greatest Minds and Ideas of All Time]]"
+  - "[[Stoicism]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Thomas Ford"
-related: []
+related:
+  - "[[Voice of the People]]"
 reference_count: 1
 ---
 

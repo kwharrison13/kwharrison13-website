@@ -14,6 +14,7 @@ aliases:
   - "Zappos"
 related:
   - "[[The Storytelling of Investing - Research]]"
+  - "[[Bridgewater Associates]]"
 ---
 
 # Zappos

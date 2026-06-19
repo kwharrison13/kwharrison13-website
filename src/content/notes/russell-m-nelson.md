@@ -24,6 +24,8 @@ related:
   - "[[Christ Is Risen; Faith in Him Will Move Mountains — Russell M. Nelson]]"
   - "[[Faith]]"
   - "[[Joseph Smith]]"
+  - "[[The Priesthood Power of Women]]"
+  - "[[Feed My Sheep]]"
 ---
 
 # Russell M. Nelson

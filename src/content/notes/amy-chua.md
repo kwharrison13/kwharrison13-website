@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Amy Chua"
-related: []
+related:
+  - "[[The Courage To Be Disliked]]"
 ---
 
 # Amy Chua

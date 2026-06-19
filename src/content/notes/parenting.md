@@ -10,7 +10,12 @@ sources: []
 tags: []
 aliases:
   - "Parenting"
-related: []
+related:
+  - "[[The Parents' Guide to Boys]]"
+  - "[[John Quincy Adams]]"
+  - "[[Childcare]]"
+  - "[[What Is ChatGPT Doing and Why Does It Work?]]"
+  - "[[The Science of Learning]]"
 ---
 
 # Parenting

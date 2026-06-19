@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Tom Nichols"
-related: []
+related:
+  - "[[The Death of Expertise]]"
 ---
 
 # Tom Nichols

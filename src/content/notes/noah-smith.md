@@ -23,6 +23,9 @@ related:
   - "[[Frank Knight]]"
   - "[[What Is An Investor]]"
   - "[[What Is An Investor - Research]]"
+  - "[[The Hollowing Out of the Middle Class]]"
+  - "[[The Build-Nothing Country]]"
+  - "[[It's Time To Build]]"
   - "[[It's Time To Build... But Build What - Research]]"
 ---
 

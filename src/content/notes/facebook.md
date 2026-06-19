@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Facebook"
-related: []
+related:
+  - "[[Internalizing Negative Externalities]]"
 reference_count: 1
 ---
 

@@ -13,6 +13,7 @@ aliases:
   - "Mark Sellers"
 related:
   - "[[The Storytelling of Investing - Research]]"
+  - "[[Berkshire Hathaway]]"
 ---
 
 # Mark Sellers

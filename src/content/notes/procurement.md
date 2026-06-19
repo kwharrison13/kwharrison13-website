@@ -15,6 +15,13 @@ aliases:
 related:
   - "[[September 13th, 2022 — Nisha Swarup]]"
   - "[[Discovery + Diligence]]"
+  - "[[Doug McCullough]]"
+  - "[[Arik Bronshtein]]"
+  - "[[Mariel Reed]]"
+  - "[[Tom Schenk]]"
+  - "[[The New City]]"
+  - "[[Venture Smarter]]"
+  - "[[CoProcure]]"
   - "[[System of Record]]"
 ---
 

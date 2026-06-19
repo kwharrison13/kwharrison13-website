@@ -12,7 +12,9 @@ sources:
 tags: []
 aliases:
   - "Management"
-related: []
+related:
+  - "[[Managers Not MBAs]]"
+  - "[[Playbooks]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "John Hart-Smith"
-related: []
+related:
+  - "[[Flying Blind]]"
 reference_count: 1
 ---
 

@@ -12,7 +12,9 @@ tags: []
 aliases:
   - "Scarcity"
   - "scarcity"
-related: []
+related:
+  - "[[Scarcity Mentality]]"
+  - "[[Capital Allocator Mindset]]"
 reference_count: 1
 ---
 

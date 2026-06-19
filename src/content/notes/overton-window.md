@@ -17,6 +17,7 @@ related:
   - "[[Utopia For Realists]]"
   - "[[Joseph Overton]]"
   - "[[Milton Friedman]]"
+  - "[[Rutger Bregman]]"
   - "[[Albert Hirschman]]"
 ---
 

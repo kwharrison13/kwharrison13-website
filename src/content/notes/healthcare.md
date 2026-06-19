@@ -12,7 +12,9 @@ tags: []
 aliases:
   - "Healthcare"
 related:
-  - "[[Value-Based Care]]"
+  - "[[Behavioral Health]]"
+  - "[[Village Capital]]"
+  - "[[Grow Therapy]]"
 ---
 
 # Healthcare

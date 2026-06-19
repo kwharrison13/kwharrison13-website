@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Evan Spiegel"
-related: []
+related:
+  - "[[How To Be a Capitalist Without Any Capital]]"
 reference_count: 1
 ---
 

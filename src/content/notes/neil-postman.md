@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Neil Postman"
-related: []
+related:
+  - "[[Amusing Ourselves To Death]]"
 reference_count: 1
 ---
 

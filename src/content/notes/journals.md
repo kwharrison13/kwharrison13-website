@@ -12,7 +12,8 @@ tags: []
 aliases:
   - "Journals"
   - "journals"
-related: []
+related:
+  - "[[John Quincy Adams]]"
 reference_count: 1
 ---
 

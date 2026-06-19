@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Ralph Waldo Emerson"
-related: []
+related:
+  - "[[Walden]]"
+  - "[[Alex Karp]]"
 reference_count: 1
 ---
 

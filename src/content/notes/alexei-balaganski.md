@@ -19,6 +19,7 @@ related:
   - "[[KuppingerCole]]"
   - "[[Martin Kuppinger]]"
   - "[[API Security]]"
+  - "[[Laminar]]"
   - "[[Salt Security]]"
 ---
 

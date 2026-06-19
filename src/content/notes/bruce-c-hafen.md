@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Bruce C. Hafen"
-related: []
+related:
+  - "[[The Broken Heart]]"
 reference_count: 1
 ---
 

@@ -22,6 +22,7 @@ related:
   - "[[What Is An Investor - Research]]"
   - "[[What Is An Investor]]"
   - "[[Capital Allocation]]"
+  - "[[Kevin Gao]]"
   - "[[Investment Returns]]"
 ---
 

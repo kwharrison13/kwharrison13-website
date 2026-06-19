@@ -21,7 +21,11 @@ aliases:
   - "Self Reflection"
   - "self-reflection"
   - "self reflection"
-related: []
+related:
+  - "[[Metacognition]]"
+  - "[[Why Books Don't Work]]"
+  - "[[Charlie Munger: A Lesson on Elementary Worldly Wisdom"
+  - "Revisited]]"
 reference_count: 8
 ---
 

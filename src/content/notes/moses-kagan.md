@@ -17,6 +17,7 @@ aliases:
 related:
   - "[[Adaptive Realty]]"
   - "[[March 5th, 2020 — Moses Kagan (Adaptive Realty)]]"
+  - "[[SMB]]"
   - "[[Teamshares]]"
 ---
 

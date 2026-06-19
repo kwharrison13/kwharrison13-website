@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Industrial Policy"
-related: []
+related:
+  - "[[Chip War]]"
 reference_count: 1
 ---
 

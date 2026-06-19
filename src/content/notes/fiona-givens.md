@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Fiona Givens"
-related: []
+related:
+  - "[[The Crucible of Doubt]]"
 reference_count: 1
 ---
 

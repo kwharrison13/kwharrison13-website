@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Richard Bushman"
-related: []
+related:
+  - "[[Leonard Arrington and the Writing of Mormon History]]"
 reference_count: 1
 ---
 

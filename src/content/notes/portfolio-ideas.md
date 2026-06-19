@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Portfolio Ideas"
-related: []
+related:
+  - "[[Investing 101 2.0]]"
 reference_count: 1
 ---
 

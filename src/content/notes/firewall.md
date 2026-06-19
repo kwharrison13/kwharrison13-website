@@ -20,6 +20,7 @@ related:
   - "[[API Gateways]]"
   - "[[Salt Security]]"
   - "[[Ping Identity]]"
+  - "[[Palo Alto Networks ($PANW)]]"
   - "[[Imperva]]"
 ---
 

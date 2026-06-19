@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Mervin Kelly"
-related: []
+related:
+  - "[[The Idea Factory]]"
+  - "[[Forecasting]]"
 reference_count: 1
 ---
 

@@ -12,7 +12,10 @@ sources:
 tags: []
 aliases:
   - "Walt Disney"
-related: []
+related:
+  - "[[Walt Disney and the Promise of Progress City]]"
+  - "[[The Ride of a Lifetime]]"
+  - "[[A24]]"
 reference_count: 2
 ---
 

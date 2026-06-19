@@ -11,7 +11,11 @@ sources:
 tags: []
 aliases:
   - "John von Neumann"
-related: []
+related:
+  - "[[The Man From The Future]]"
+  - "[[Anduril]]"
+  - "[[Open Source]]"
+  - "[[Open Source Knowledge]]"
 reference_count: 1
 ---
 

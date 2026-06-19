@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Samuel Johnson"
-related: []
+related:
+  - "[[Charlie Munger: Harvard School Commencement Speech]]"
+  - "[[Charlie Munger: Philanthropy Roundtable]]"
 reference_count: 1
 ---
 

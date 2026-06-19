@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Consecration"
-related: []
+related:
+  - "[[Working Toward Zion]]"
 reference_count: 1
 ---
 

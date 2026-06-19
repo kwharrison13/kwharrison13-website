@@ -11,7 +11,12 @@ sources:
 tags: []
 aliases:
   - "Missionary Work"
-related: []
+related:
+  - "[[Law of the Harvest]]"
+  - "[[The Next Mormons]]"
+  - "[[Jeffrey R. Holland]]"
+  - "[[Chad's Big Quote Book]]"
+  - "[[Feed My Sheep]]"
 reference_count: 1
 ---
 

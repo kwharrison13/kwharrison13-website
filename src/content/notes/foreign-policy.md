@@ -11,7 +11,11 @@ sources:
 tags: []
 aliases:
   - "Foreign Policy"
-related: []
+related:
+  - "[[John Quincy Adams]]"
+  - "[[No Apology]]"
+  - "[[The Invention of Russia]]"
+  - "[[Vladimir Putin]]"
 reference_count: 1
 ---
 

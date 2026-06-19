@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Talent Identification"
-related: []
+related:
+  - "[[The Idea Factory]]"
+  - "[[Barrels and Ammunition]]"
+  - "[[Auteur Theory]]"
 reference_count: 1
 ---
 

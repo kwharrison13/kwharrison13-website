@@ -12,7 +12,9 @@ sources:
 tags: []
 aliases:
   - "Evolution of Warfare"
-related: []
+related:
+  - "[[Skunk Works]]"
+  - "[[The Kill Chain]]"
 reference_count: 2
 ---
 

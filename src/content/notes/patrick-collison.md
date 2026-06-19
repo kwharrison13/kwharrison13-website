@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Patrick Collison"
-related: []
+related:
+  - "[[Talent]]"
 ---
 
 # Patrick Collison

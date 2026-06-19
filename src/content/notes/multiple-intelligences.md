@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Multiple Intelligences"
-related: []
+related:
+  - "[[Why Books Don't Work]]"
+  - "[[The Science of Learning]]"
 reference_count: 1
 ---
 

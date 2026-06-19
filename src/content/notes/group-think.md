@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Group Think"
-related: []
+related:
+  - "[[Charlie Munger: Philanthropy Roundtable]]"
 reference_count: 1
 ---
 

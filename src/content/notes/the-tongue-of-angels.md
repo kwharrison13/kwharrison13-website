@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "The Tongue of Angels"
-related: []
+related:
+  - "[[Jeffrey R. Holland]]"
 reference_count: 1
 ---
 

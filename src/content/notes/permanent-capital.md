@@ -18,6 +18,11 @@ related:
   - "[[Warren Buffett]]"
   - "[[Howard Marks]]"
   - "[[Capital Allocation]]"
+  - "[[The Messy Marketplace]]"
+  - "[[Berkshire Hathaway]]"
+  - "[[Wordsmiths]]"
+  - "[[SignalRank]]"
+  - "[[On the Nature of Long-Term Holds]]"
 ---
 
 # Permanent Capital

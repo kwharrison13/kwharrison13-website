@@ -19,6 +19,9 @@ related:
   - "[[Mario Gabriele]]"
   - "[[Open-Source Knowledge - Research]]"
   - "[[Tim Urban]]"
+  - "[[Knowledge Economy]]"
+  - "[[The AppetiZIRP]]"
+  - "[[The Enchanted Notebook]]"
   - "[[Open-Source Knowledge]]"
 ---
 

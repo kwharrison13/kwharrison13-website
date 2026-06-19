@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Synthesis School"
-related: []
+related:
+  - "[[Ana Lorena Fabrega]]"
+  - "[[It's Time To Build]]"
 reference_count: 2
 ---
 

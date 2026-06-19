@@ -20,6 +20,7 @@ aliases:
 related:
   - "[[We Need a Renaissance of Rhetoric]]"
   - "[[Boom — Bubbles & The End of Stagnation]]"
+  - "[[Byrne Hobart]]"
   - "[[Rhetoric]]"
 ---
 

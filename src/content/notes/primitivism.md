@@ -20,6 +20,7 @@ related:
   - "[[Garden of Eden]]"
   - "[[Lindy Principle]]"
   - "[[The Hardening Of The Great Softening - Research]]"
+  - "[[Restoration: God's Call To The 21st Century]]"
 ---
 
 # Primitivism

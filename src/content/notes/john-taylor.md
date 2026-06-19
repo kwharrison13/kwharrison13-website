@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "John Taylor"
-related: []
+related:
+  - "[[The Life of John Taylor]]"
+  - "[[Chad's Big Quote Book]]"
 reference_count: 1
 ---
 

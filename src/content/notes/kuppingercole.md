@@ -20,6 +20,7 @@ related:
   - "[[Martin Kuppinger]]"
   - "[[API Security]]"
   - "[[Salt Security]]"
+  - "[[Imperva]]"
   - "[[Due Diligence]]"
 ---
 

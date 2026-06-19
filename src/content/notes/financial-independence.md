@@ -13,6 +13,8 @@ aliases:
   - "Financial Independence"
 related:
   - "[[Personal Finance]]"
+  - "[[Digital Minimalism]]"
+  - "[[The Psychology of Money]]"
   - "[[Retirement]]"
 ---
 

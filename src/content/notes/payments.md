@@ -13,7 +13,8 @@ tags:
 aliases:
   - "Payments"
 related:
-  - "[[April 5th, 2022 — Reading Frederik Gieschen's Writing]]"
+  - "[[Venmo]]"
+  - "[[Adyen]]"
 ---
 
 # Payments

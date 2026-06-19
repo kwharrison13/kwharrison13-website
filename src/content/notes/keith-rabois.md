@@ -15,6 +15,10 @@ related:
   - "[[Founders Fund]]"
   - "[[Barrels and Ammunition]]"
   - "[[Scope Expansion]]"
+  - "[[Delian Asparouhov]]"
+  - "[[Square]]"
+  - "[[Talent Vortex]]"
+  - "[[Ramp]]"
 reference_count: 1
 ---
 

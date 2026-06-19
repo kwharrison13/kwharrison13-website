@@ -15,7 +15,7 @@ aliases:
   - "Planned Obsolescence"
   - "Planned Obsolescence"
 related:
-  - "[[The Axis of Building]]"
+  - "[[The Idea Factory]]"
 ---
 
 # Planned Obsolescence

@@ -13,6 +13,7 @@ aliases:
   - "SoFi"
 related:
   - "[[Pathlight]]"
+  - "[[CleanCapital]]"
 reference_count: 1
 ---
 

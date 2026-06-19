@@ -16,6 +16,7 @@ related:
   - "[[Uptycs]]"
   - "[[Sapphire Ventures]]"
   - "[[DivvyCloud]]"
+  - "[[CapitalG]]"
   - "[[Index Ventures]]"
 ---
 

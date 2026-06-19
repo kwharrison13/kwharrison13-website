@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Hiring"
-related: []
+related:
+  - "[[Peter Thiel]]"
 ---
 
 # Hiring

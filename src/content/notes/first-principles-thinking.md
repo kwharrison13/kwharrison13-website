@@ -30,6 +30,15 @@ related:
   - "[[Dave Clark]]"
   - "[[Storytelling as Leadership]]"
   - "[[Founders Mentality]]"
+  - "[[The Great Mental Models Volume 1: General Thinking Concepts]]"
+  - "[[Elon Musk: Tesla"
+  - "SpaceX"
+  - "and the Quest for a Fantastic Future]]"
+  - "[[Yuval Noah Harari]]"
+  - "[[Naval Ravikant]]"
+  - "[[Storytelling]]"
+  - "[[Joseph Smith Lecture 2 — Joseph's Personality and Character]]"
+  - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
 ---
 
 # First Principles Thinking

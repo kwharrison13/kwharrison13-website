@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Tom Nicholas"
-related: []
+related:
+  - "[[VC]]"
 reference_count: 1
 ---
 

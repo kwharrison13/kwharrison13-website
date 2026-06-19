@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Self-discipline"
-related: []
+related:
+  - "[[Discipline Is Destiny]]"
 reference_count: 1
 ---
 

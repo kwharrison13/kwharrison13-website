@@ -19,6 +19,10 @@ aliases:
 related:
   - "[[Effective Accelerationism]]"
   - "[[Techno-Optimism]]"
+  - "[[Talent]]"
+  - "[[Max Levchin]]"
+  - "[[It's Time To Build]]"
+  - "[[Building American Dynamism]]"
   - "[[Adam Neumann]]"
 ---
 

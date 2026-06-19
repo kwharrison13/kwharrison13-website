@@ -22,6 +22,8 @@ related:
   - "[[Conviction-Led Contrarianism]]"
   - "[[Palmer Luckey]]"
   - "[[Anduril]]"
+  - "[[Working in Public]]"
+  - "[[Louis Rossmann]]"
   - "[[John Maynard Keynes]]"
 ---
 

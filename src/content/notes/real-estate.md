@@ -11,7 +11,13 @@ sources:
 tags: []
 aliases:
   - "Real Estate"
-related: []
+related:
+  - "[[What I Found in a Thousand Towns]]"
+  - "[[John F.C. Turner]]"
+  - "[[Matthew Desmond]]"
+  - "[[Opendoor]]"
+  - "[[Rental Properties]]"
+  - "[[The Build-Nothing Country]]"
 reference_count: 1
 ---
 

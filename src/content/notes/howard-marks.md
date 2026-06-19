@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Howard Marks"
-related: []
+related:
+  - "[[Permanent Capital]]"
 ---
 
 # Howard Marks

@@ -15,6 +15,8 @@ aliases:
   - "Brianna Wolfson"
 related:
   - "[[Stripe]]"
+  - "[[Likability]]"
+  - "[[Contrarianism]]"
 reference_count: 1
 ---
 

@@ -17,6 +17,7 @@ aliases:
 related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[Prabhath Karanth]]"
+  - "[[Palo Alto Networks ($PANW)]]"
   - "[[Salt Security]]"
 ---
 

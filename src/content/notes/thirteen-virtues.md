@@ -20,6 +20,7 @@ related:
   - "[[The Speckled Ax]]"
   - "[[The Autobiography of Benjamin Franklin]]"
   - "[[Jesus]]"
+  - "[[Benjamin Franklin: An American Life]]"
   - "[[Socrates]]"
 ---
 

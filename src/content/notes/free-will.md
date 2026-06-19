@@ -11,7 +11,14 @@ sources:
 tags: []
 aliases:
   - "free will"
-related: []
+related:
+  - "[[Brave New World]]"
+  - "[[Anthem]]"
+  - "[[Brave New World Revisited]]"
+  - "[[The Faith of a Scientist]]"
+  - "[[21 Lessons for the 21st Century]]"
+  - "[[Homo Deus]]"
+  - "[[Stories of Your Life and Others]]"
 reference_count: 1
 ---
 

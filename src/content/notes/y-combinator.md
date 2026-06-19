@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Y Combinator"
-related: []
+related:
+  - "[[The Power Law: Venture Capital & the Making of the New Future]]"
+  - "[[Paul Graham]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Venture Studio"
-related: []
+related:
+  - "[[Tyler Payne]]"
+  - "[[Atomic Ventures]]"
 reference_count: 1
 ---
 

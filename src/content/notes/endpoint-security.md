@@ -18,6 +18,9 @@ aliases:
   - "EPP"
 related:
   - "[[Noname Security - Diligence]]"
+  - "[[Prabhath Karanth]]"
+  - "[[CrowdStrike ($CRWD)]]"
+  - "[[Wiz.io]]"
 reference_count: 1
 ---
 

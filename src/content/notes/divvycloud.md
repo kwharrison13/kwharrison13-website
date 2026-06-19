@@ -15,6 +15,7 @@ aliases:
   - "DivvyCloud"
 related:
   - "[[September 22nd, 2021 — Ganesh Pai (Uptycs)]]"
+  - "[[Ganesh Pai]]"
   - "[[Uptycs]]"
 ---
 

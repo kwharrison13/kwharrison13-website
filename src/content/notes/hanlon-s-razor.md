@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Hanlon's Razor"
-related: []
+related:
+  - "[[The Great Mental Models Volume 1: General Thinking Concepts]]"
 reference_count: 1
 ---
 

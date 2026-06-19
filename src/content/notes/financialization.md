@@ -10,7 +10,12 @@ sources: []
 tags: []
 aliases:
   - "Financialization"
-related: []
+related:
+  - "[[Working Toward Zion]]"
+  - "[[Flying Blind]]"
+  - "[[The Man Who Broke Capitalism]]"
+  - "[[Utopia For Realists]]"
+  - "[[Catastrophic Care]]"
 ---
 
 # Financialization

@@ -11,7 +11,12 @@ sources:
 tags: []
 aliases:
   - "Memetics"
-related: []
+related:
+  - "[[Dan McMurtrie]]"
+  - "[[Mimetics]]"
+  - "[[Republic of Letters]]"
+  - "[[Tyro Partners]]"
+  - "[[Peter Thiel's Religion]]"
 reference_count: 1
 ---
 

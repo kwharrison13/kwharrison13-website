@@ -18,6 +18,7 @@ related:
   - "[[Golden Handcuffs]]"
   - "[[Loss Aversion]]"
   - "[[The Hardening Of The Great Softening - Research]]"
+  - "[[The Count of Monte Cristo]]"
 ---
 
 # Lifestyle Creep

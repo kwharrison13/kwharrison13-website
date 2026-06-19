@@ -12,7 +12,9 @@ sources:
 tags: []
 aliases:
   - "Terryl Givens"
-related: []
+related:
+  - "[[Stretching The Heavens]]"
+  - "[[The Crucible of Doubt]]"
 reference_count: 2
 ---
 

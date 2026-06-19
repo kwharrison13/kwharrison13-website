@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "OpenView Venture Partners"
-related: []
+related:
+  - "[[Product Led Growth: The End User Era]]"
 reference_count: 1
 ---
 

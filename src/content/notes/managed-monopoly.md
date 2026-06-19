@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Managed Monopoly"
-related: []
+related:
+  - "[[Skunk Works]]"
 reference_count: 1
 ---
 

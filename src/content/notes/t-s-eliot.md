@@ -11,7 +11,9 @@ tags: []
 aliases:
   - "T.S. Eliot"
   - "TS Eliot"
-related: []
+related:
+  - "[[Chad's Big Quote Book]]"
+  - "[[The Science of Learning]]"
 ---
 
 # T.S. Eliot

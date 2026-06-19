@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "GitLab"
-related: []
+related:
+  - "[[Joel Kwartler]]"
+  - "[[Sourcegraph]]"
 reference_count: 1
 ---
 

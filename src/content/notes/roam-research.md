@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Roam Research"
-related: []
+related:
+  - "[[How To Read a Book]]"
+  - "[[Investing 101 2.0]]"
+  - "[[Charlie Munger: Philanthropy Roundtable]]"
 ---
 
 # Roam Research

@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Operational Discipline"
-related: []
+related:
+  - "[[The Man Who Broke Capitalism]]"
 ---
 
 # Operational Discipline

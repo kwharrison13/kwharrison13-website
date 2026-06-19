@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Mark Twain"
-related: []
+related:
+  - "[[Intellectual Property]]"
 ---
 
 # Mark Twain

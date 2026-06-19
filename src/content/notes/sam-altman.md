@@ -10,7 +10,10 @@ sources: []
 tags: []
 aliases:
   - "Sam Altman"
-related: []
+related:
+  - "[[Talent]]"
+  - "[[Future of Work]]"
+  - "[[Planning for AGI and Beyond]]"
 ---
 
 # Sam Altman

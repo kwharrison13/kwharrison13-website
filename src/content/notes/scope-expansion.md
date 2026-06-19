@@ -13,6 +13,7 @@ aliases:
   - "Scope Expansion"
 related:
   - "[[Keith Rabois]]"
+  - "[[Talent Vortex]]"
 reference_count: 1
 ---
 

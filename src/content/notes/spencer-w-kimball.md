@@ -11,7 +11,10 @@ tags: []
 aliases:
   - "Spencer W. Kimball"
   - "Spencer Kimball"
-related: []
+related:
+  - "[[Leonard Arrington and the Writing of Mormon History]]"
+  - "[[Gordon B. Hinckley: Go Forward With Faith]]"
+  - "[[Chad's Big Quote Book]]"
 ---
 
 # Spencer W. Kimball

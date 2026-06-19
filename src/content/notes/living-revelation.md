@@ -12,7 +12,12 @@ sources:
 tags: []
 aliases:
   - "Living Revelation"
-related: []
+related:
+  - "[[Saints: No Unhallowed Hand]]"
+  - "[[Homo Deus]]"
+  - "[[Russell M. Nelson]]"
+  - "[[Yuval Noah Harari]]"
+  - "[[Voice of the People]]"
 reference_count: 2
 ---
 

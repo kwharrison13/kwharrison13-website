@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Due Diligence"
-related: []
+related:
+  - "[[The Messy Marketplace]]"
+  - "[[KuppingerCole]]"
+  - "[[How to Trick Investors and VCs]]"
 reference_count: 1
 ---
 

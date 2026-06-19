@@ -18,6 +18,8 @@ aliases:
 related:
   - "[[Techno-Optimism]]"
   - "[[Utopia For Realists]]"
+  - "[[2054]]"
+  - "[[The Enchanted Notebook]]"
   - "[[Rutger Bregman]]"
 ---
 

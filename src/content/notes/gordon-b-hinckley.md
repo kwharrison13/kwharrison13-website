@@ -20,6 +20,8 @@ related:
   - "[[Marjorie Pay Hinckley]]"
   - "[[Church of Jesus Christ of Latter-Day Saints]]"
   - "[[Polymath]]"
+  - "[[Chad's Big Quote Book]]"
+  - "[[Feed My Sheep]]"
   - "[[Operational Skills]]"
 ---
 

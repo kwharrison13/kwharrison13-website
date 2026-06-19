@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Plato"
-related: []
+related:
+  - "[[Joseph Smith Lecture 2 — Joseph's Personality and Character]]"
 reference_count: 1
 ---
 

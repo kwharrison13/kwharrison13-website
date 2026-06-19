@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Lindy Principle"
-related: []
+related:
+  - "[[The Black Swan]]"
+  - "[[Primitivism]]"
 reference_count: 1
 ---
 

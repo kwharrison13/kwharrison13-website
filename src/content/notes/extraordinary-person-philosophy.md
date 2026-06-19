@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Extraordinary Person Philosophy"
-related: []
+related:
+  - "[[Wicked]]"
 reference_count: 1
 ---
 

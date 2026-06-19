@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Lily Pads of Your Career"
-related: []
+related:
+  - "[[The Ride of a Lifetime]]"
 reference_count: 1
 ---
 

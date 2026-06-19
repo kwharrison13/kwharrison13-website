@@ -12,7 +12,10 @@ sources:
 tags: []
 aliases:
   - "Nina Achadjian"
-related: []
+related:
+  - "[[Monograph]]"
+  - "[[Arrow XYZ]]"
+  - "[[Openspace.ai]]"
 reference_count: 3
 ---
 

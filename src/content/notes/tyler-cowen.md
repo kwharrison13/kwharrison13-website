@@ -19,6 +19,8 @@ aliases:
   - "Cowen"
 related:
   - "[[We Need a Renaissance of Rhetoric]]"
+  - "[[Talent]]"
+  - "[[City Building]]"
   - "[[AI Cheating in Education]]"
 ---
 

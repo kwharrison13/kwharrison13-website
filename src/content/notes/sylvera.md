@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Sylvera"
-related: []
+related:
+  - "[[Carlos Gonzalez-Cardenas]]"
+  - "[[Julia Andre]]"
 ---
 
 # Sylvera

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Patrick Q Mason"
-related: []
+related:
+  - "[[Restoration: God's Call To The 21st Century]]"
 reference_count: 1
 ---
 

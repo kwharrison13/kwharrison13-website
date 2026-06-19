@@ -11,7 +11,8 @@ tags: []
 aliases:
   - "B.F. Skinner"
   - "BF Skinner"
-related: []
+related:
+  - "[[Brave New World Revisited]]"
 ---
 
 # B.F. Skinner

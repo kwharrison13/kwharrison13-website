@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Tradeoffs"
-related: []
+related:
+  - "[[Essentialism]]"
 reference_count: 1
 ---
 

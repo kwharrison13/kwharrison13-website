@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Henry Kissinger"
-related: []
+related:
+  - "[[Turnaround]]"
+  - "[[John Quincy Adams]]"
 reference_count: 1
 ---
 

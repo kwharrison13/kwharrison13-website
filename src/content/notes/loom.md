@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Loom"
-related: []
+related:
+  - "[[Sprig]]"
+  - "[[Calendly]]"
 reference_count: 1
 ---
 

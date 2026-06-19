@@ -16,6 +16,7 @@ aliases:
 related:
   - "[[The New Urban Crisis]]"
   - "[[City Building]]"
+  - "[[Working in Public]]"
   - "[[Walt Disney and the Promise of Progress City]]"
 ---
 

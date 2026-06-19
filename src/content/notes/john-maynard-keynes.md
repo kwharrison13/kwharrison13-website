@@ -14,6 +14,10 @@ aliases:
   - "Keynes"
 related:
   - "[[Universal Basic Income]]"
+  - "[[Double Entry]]"
+  - "[[Rutger Bregman]]"
+  - "[[Dependencies]]"
+  - "[[Charlie Munger: Philanthropy Roundtable]]"
   - "[[Utopia For Realists]]"
 ---
 

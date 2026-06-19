@@ -17,6 +17,8 @@ aliases:
   - "Jobs To Be Done"
 related:
   - "[[September 13th, 2022 — Harry Stebbings Podcast]]"
+  - "[[How Will You Measure Your Life?]]"
+  - "[[Playing To Win]]"
   - "[[Innovator's Dilemma]]"
 ---
 

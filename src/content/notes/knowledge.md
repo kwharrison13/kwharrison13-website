@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Knowledge"
-related: []
+related:
+  - "[[Matt Clancy]]"
+  - "[[The Science of Learning]]"
 reference_count: 1
 ---
 

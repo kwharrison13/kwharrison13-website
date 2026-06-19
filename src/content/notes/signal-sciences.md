@@ -21,6 +21,8 @@ related:
   - "[[Cloudflare]]"
   - "[[Prabhath Karanth]]"
   - "[[Nir Rothenberg]]"
+  - "[[Atanu Dasgupta]]"
+  - "[[Imperva]]"
   - "[[Michael Isbitski]]"
 ---
 

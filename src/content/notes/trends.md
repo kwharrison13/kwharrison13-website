@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Trends"
-related: []
+related:
+  - "[[Matt Curwood]]"
+  - "[[Forecasting]]"
+  - "[[Internet Trends]]"
 reference_count: 1
 ---
 

@@ -12,7 +12,7 @@ tags: []
 aliases:
   - "ESOP"
 related:
-  - "[[Mission-Driven Work]]"
+  - "[[John Hoffmire]]"
 ---
 
 # ESOP

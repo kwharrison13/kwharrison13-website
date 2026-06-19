@@ -11,7 +11,11 @@ sources:
 tags: []
 aliases:
   - "Game Theory"
-related: []
+related:
+  - "[[The Man From The Future]]"
+  - "[[Nuclear War: a Scenario]]"
+  - "[[The Art of War]]"
+  - "[[Stories of Your Life and Others]]"
 reference_count: 1
 ---
 

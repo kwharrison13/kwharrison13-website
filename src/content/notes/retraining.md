@@ -11,7 +11,14 @@ sources:
 tags: []
 aliases:
   - "retraining"
-related: []
+related:
+  - "[[Our Towns]]"
+  - "[[21 Lessons for the 21st Century]]"
+  - "[[Janesville]]"
+  - "[[Banu Ozkazanc-Pan]]"
+  - "[[Mark Cuban]]"
+  - "[[MBA Degrees]]"
+  - "[[Future of Work]]"
 reference_count: 1
 ---
 

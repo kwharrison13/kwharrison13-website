@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Epictetus"
-related: []
+related:
+  - "[[Charlie Munger: USC Gould School of Law Commencement Address]]"
 ---
 
 # Epictetus

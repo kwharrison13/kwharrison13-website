@@ -10,7 +10,15 @@ sources: []
 tags: []
 aliases:
   - "Incentives"
-related: []
+related:
+  - "[[Poor Charlie's Almanack]]"
+  - "[[Catastrophic Care]]"
+  - "[[The Art of War]]"
+  - "[[Charlie Munger: The Great Financial Scandal of 2003]]"
+  - "[[Charlie Munger: Academic Economics]]"
+  - "[[Charlie Munger: A Lesson on Elementary Worldly Wisdom]]"
+  - "[[Charlie Munger: A Lesson on Elementary Worldly Wisdom"
+  - "Revisited]]"
 ---
 
 # Incentives

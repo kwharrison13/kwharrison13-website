@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Orson Pratt"
-related: []
+related:
+  - "[[Chad's Big Quote Book]]"
+  - "[[Joseph Smith Lecture 2 — Joseph's Personality and Character]]"
 reference_count: 1
 ---
 

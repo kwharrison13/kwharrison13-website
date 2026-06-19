@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Wisdom vs Knowledge"
-related: []
+related:
+  - "[[The Idea Factory]]"
 ---
 
 # Wisdom vs Knowledge

@@ -21,6 +21,13 @@ related:
   - "[[Second Machine Age]]"
   - "[[Esther Duflo]]"
   - "[[Bullshit Jobs]]"
+  - "[[The New Urban Crisis]]"
+  - "[[Evicted: Poverty and Profit in the American City]]"
+  - "[[21 Lessons for the 21st Century]]"
+  - "[[Mark Cuban]]"
+  - "[[John Maynard Keynes]]"
+  - "[[Richard Florida]]"
+  - "[[The AppetiZIRP]]"
   - "[[Automation]]"
 ---
 

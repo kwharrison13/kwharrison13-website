@@ -18,6 +18,7 @@ related:
   - "[[Open-Source Knowledge - Research]]"
   - "[[Open-Source Knowledge]]"
   - "[[Invest Like the Best]]"
+  - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
   - "[[Kyle Harrison]]"
 ---
 

@@ -14,6 +14,7 @@ aliases:
   - "Graeber"
 related:
   - "[[Bullshit Jobs]]"
+  - "[[Rutger Bregman]]"
   - "[[Utopia For Realists]]"
 ---
 

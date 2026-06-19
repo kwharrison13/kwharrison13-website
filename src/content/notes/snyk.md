@@ -19,6 +19,8 @@ related:
   - "[[Developer-Led Security]]"
   - "[[Salt Security]]"
   - "[[CI/CD]]"
+  - "[[Prabhath Karanth]]"
+  - "[[DevSecOps]]"
   - "[[David Mark]]"
 ---
 

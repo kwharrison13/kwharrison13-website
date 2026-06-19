@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Andy Jassy"
-related: []
+related:
+  - "[[Amazon Unbound]]"
 ---
 
 # Andy Jassy

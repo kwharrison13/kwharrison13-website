@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Heber J. Grant"
-related: []
+related:
+  - "[[Chad's Big Quote Book]]"
 reference_count: 1
 ---
 

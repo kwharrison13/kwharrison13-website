@@ -10,7 +10,10 @@ sources: []
 tags: []
 aliases:
   - "Loss Aversion"
-related: []
+related:
+  - "[[Golden Handcuffs]]"
+  - "[[Lifestyle Creep]]"
+  - "[[Charlie Munger: The Psychology of Human Misjudgment]]"
 ---
 
 # Loss Aversion

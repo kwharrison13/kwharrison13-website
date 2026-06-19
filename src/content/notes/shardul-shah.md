@@ -13,6 +13,8 @@ aliases:
   - "Shardul Shah"
 related:
   - "[[September 17th, 2021 — Wiz.io Pre-Brief (Shardul Shah)]]"
+  - "[[Datadog ($DDOG)]]"
+  - "[[Wiz.io]]"
 reference_count: 4
 ---
 

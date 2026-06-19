@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Elinor Ostrom"
-related: []
+related:
+  - "[[Working in Public]]"
 reference_count: 1
 ---
 

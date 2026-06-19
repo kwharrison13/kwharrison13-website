@@ -12,7 +12,8 @@ sources:
 tags: []
 aliases:
   - "Holy Ghost"
-related: []
+related:
+  - "[[M. Russell Ballard]]"
 reference_count: 2
 ---
 

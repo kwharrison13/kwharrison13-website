@@ -17,6 +17,7 @@ related:
   - "[[Andy Matuschak]]"
   - "[[Michael Nielsen]]"
   - "[[Quantum Country]]"
+  - "[[Conor White-Sullivan]]"
 reference_count: 2
 ---
 

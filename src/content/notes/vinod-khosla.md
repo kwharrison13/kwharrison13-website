@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Vinod Khosla"
-related: []
+related:
+  - "[[The Power Law: Venture Capital & the Making of the New Future]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Revelation"
-related: []
+related:
+  - "[[The Priesthood Power of Women]]"
+  - "[[The Life of John Taylor]]"
 reference_count: 1
 ---
 

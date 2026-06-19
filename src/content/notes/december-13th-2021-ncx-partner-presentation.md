@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "December 13th, 2021 — NCX Partner Presentation"
-related: []
+related:
+  - "[[Lonesome Dove]]"
 reference_count: 1
 ---
 

@@ -14,7 +14,8 @@ aliases:
   - "Futures Studies"
   - "Futurism"
   - "Futurists"
-related: []
+related:
+  - "[[Historical Futurism]]"
 reference_count: 1
 ---
 

@@ -14,6 +14,10 @@ aliases:
   - "faith"
 related:
   - "[[Faith — Topical Study]]"
+  - "[[The Faith of a Scientist]]"
+  - "[[The Next Mormons]]"
+  - "[[Russell M. Nelson]]"
+  - "[[M. Russell Ballard]]"
 reference_count: 1
 ---
 

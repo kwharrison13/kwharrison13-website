@@ -34,6 +34,7 @@ related:
   - "[[Nuclear Energy]]"
   - "[[Climate Change]]"
   - "[[Milton Friedman]]"
+  - "[[Building American Dynamism]]"
   - "[[Progress Studies]]"
 ---
 

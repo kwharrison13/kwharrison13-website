@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Luke Nosek"
-related: []
+related:
+  - "[[The Founders]]"
 ---
 
 # Luke Nosek

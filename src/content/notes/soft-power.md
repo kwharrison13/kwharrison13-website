@@ -17,6 +17,8 @@ related:
   - "[[Joseph Nye]]"
   - "[[Mario Gabriele]]"
   - "[[Wordsmiths]]"
+  - "[[No Apology]]"
+  - "[[The Invention of Russia]]"
 ---
 
 # Soft Power

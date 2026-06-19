@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Growth Mindset"
-related: []
+related:
+  - "[[The Self-Driven Child]]"
+  - "[[The Science of Learning]]"
 reference_count: 1
 ---
 

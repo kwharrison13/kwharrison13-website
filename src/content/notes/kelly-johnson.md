@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Kelly Johnson"
-related: []
+related:
+  - "[[Skunk Works]]"
+  - "[[Anduril]]"
 reference_count: 1
 ---
 

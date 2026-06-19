@@ -20,6 +20,7 @@ related:
   - "[[Tools For Thought]]"
   - "[[Spaced Repetition]]"
   - "Quantum Country"
+  - "[[Metacognition]]"
   - "[[Transmissionism]]"
 ---
 

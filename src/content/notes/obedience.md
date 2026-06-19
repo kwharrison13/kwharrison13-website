@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Obedience"
-related: []
+related:
+  - "[[Chad's Big Quote Book]]"
+  - "[[Feed My Sheep]]"
 reference_count: 1
 ---
 

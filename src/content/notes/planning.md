@@ -12,7 +12,8 @@ tags: []
 aliases:
   - "Planning"
   - "planning"
-related: []
+related:
+  - "[[The Art of War]]"
 reference_count: 1
 ---
 

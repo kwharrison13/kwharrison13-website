@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "H. G. Wells"
-related: []
+related:
+  - "[[The Time Machine]]"
 reference_count: 1
 ---
 

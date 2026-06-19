@@ -12,7 +12,12 @@ tags: []
 aliases:
   - "Democracy"
   - "democracy"
-related: []
+related:
+  - "[[The Assault on Reason]]"
+  - "[[What I Found in a Thousand Towns]]"
+  - "[[The Invention of Russia]]"
+  - "[[Voice of the People]]"
+  - "[[Educated Electorate]]"
 reference_count: 1
 ---
 

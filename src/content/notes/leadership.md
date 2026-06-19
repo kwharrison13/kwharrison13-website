@@ -13,7 +13,14 @@ tags: []
 aliases:
   - "Leadership"
   - "leadership"
-related: []
+related:
+  - "[[Stop Asking Questions]]"
+  - "[[Turnaround]]"
+  - "[[John Quincy Adams]]"
+  - "[[Managers Not MBAs]]"
+  - "[[The Art of War]]"
+  - "[[The Ride of a Lifetime]]"
+  - "[[Joseph Smith Lecture 2 — Joseph's Personality and Character]]"
 reference_count: 2
 ---
 

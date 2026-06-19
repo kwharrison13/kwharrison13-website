@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Growth vs Profit"
-related: []
+related:
+  - "[[Chip War]]"
 reference_count: 1
 ---
 

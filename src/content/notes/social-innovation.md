@@ -19,6 +19,9 @@ related:
   - "[[Destination: Home]]"
   - "[[Homelessness]]"
   - "[[Cisco]]"
+  - "[[Strada Education Network]]"
+  - "[[Your Passion"
+  - "Your Solution (YPYS)]]"
 ---
 
 # Social Innovation

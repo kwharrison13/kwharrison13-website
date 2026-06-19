@@ -12,7 +12,8 @@ sources:
 tags: []
 aliases:
   - "Interest Discovery"
-related: []
+related:
+  - "[[Atomic Habits]]"
 reference_count: 2
 ---
 

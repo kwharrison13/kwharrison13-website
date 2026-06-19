@@ -14,6 +14,11 @@ aliases:
   - "Innovator’s Dilemma"
 related:
   - "[[The Innovator's Dilemma]]"
+  - "[[Chip War]]"
+  - "[[Skunk Works]]"
+  - "[[The Ride of a Lifetime]]"
+  - "[[Jobs to Be Done]]"
+  - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
 reference_count: 5
 ---
 

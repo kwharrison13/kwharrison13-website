@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "UC Investments"
-related: []
+related:
+  - "[[Assembly Bill 2041 — UC Office of the Chief Investment Officer]]"
 reference_count: 1
 ---
 

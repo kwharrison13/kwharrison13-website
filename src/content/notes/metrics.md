@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Metrics"
-related: []
+related:
+  - "[[How to Trick Investors and VCs]]"
 reference_count: 1
 ---
 

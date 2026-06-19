@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Ezra Taft Benson"
-related: []
+related:
+  - "[[Sheri L. Dew]]"
+  - "[[Chad's Big Quote Book]]"
 reference_count: 1
 ---
 

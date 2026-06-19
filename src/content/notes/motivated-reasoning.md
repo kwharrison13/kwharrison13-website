@@ -15,6 +15,7 @@ aliases:
 related:
   - "[[Benjamin Franklin]]"
   - "[[Ben Franklin Effect]]"
+  - "[[The Speckled Ax]]"
   - "[[The Autobiography of Benjamin Franklin]]"
 ---
 

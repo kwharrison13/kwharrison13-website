@@ -13,7 +13,7 @@ aliases:
   - "Neuralink"
   - "Neurolink"
 related:
-  - "[[Neuroscience]]"
+  - "[[Tim Urban]]"
 ---
 
 # Neuralink

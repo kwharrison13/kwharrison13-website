@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Sandeep Payne"
-related: []
+related:
+  - "[[Elon Musk]]"
 ---
 
 # Sandeep Payne

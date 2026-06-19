@@ -15,7 +15,8 @@ sources:
 tags: []
 aliases:
   - "Natural Man"
-related: []
+related:
+  - "[[The Broken Heart]]"
 reference_count: 5
 ---
 

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Jack Morton"
-related: []
+related:
+  - "[[The Idea Factory]]"
 reference_count: 1
 ---
 

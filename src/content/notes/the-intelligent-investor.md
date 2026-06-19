@@ -11,7 +11,11 @@ sources:
 tags: []
 aliases:
   - "The Intelligent Investor"
-related: []
+related:
+  - "[[Poor Charlie's Almanack]]"
+  - "[[The Psychology of Money]]"
+  - "[[Charlie Munger: A Lesson on Elementary Worldly Wisdom"
+  - "Revisited]]"
 reference_count: 1
 ---
 

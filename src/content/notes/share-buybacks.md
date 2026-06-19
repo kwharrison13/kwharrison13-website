@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Share Buybacks"
-related: []
+related:
+  - "[[The Man Who Broke Capitalism]]"
 reference_count: 1
 ---
 

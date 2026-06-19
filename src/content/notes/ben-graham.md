@@ -11,7 +11,9 @@ tags: []
 aliases:
   - "Ben Graham"
   - "Benjamin Graham"
-related: []
+related:
+  - "[[Poor Charlie's Almanack]]"
+  - "[[Berkshire Hathaway Annual Letters]]"
 ---
 
 # Ben Graham

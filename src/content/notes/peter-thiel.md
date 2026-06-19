@@ -30,6 +30,11 @@ related:
   - "[[Roelof Botha]]"
   - "[[Hiring]]"
   - "[[Contrarianism]]"
+  - "[[Boom: Bubbles & The End of Stagnation]]"
+  - "[[Talent]]"
+  - "[[The Power Law: Venture Capital & the Making of the New Future]]"
+  - "[[Essentialism]]"
+  - "[[Peter Thiel's Religion]]"
 ---
 
 # Peter Thiel

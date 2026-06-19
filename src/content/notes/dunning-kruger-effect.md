@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Dunning-Kruger Effect"
-related: []
+related:
+  - "[[The Death of Expertise]]"
 reference_count: 1
 ---
 

@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Dave Clark"
-related: []
+related:
+  - "[[First Principles Thinking]]"
 ---
 
 # Dave Clark

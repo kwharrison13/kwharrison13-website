@@ -12,7 +12,10 @@ sources:
 tags: []
 aliases:
   - "Robert McNamara"
-related: []
+related:
+  - "[[Shortest Way Home]]"
+  - "[[Skunk Works]]"
+  - "[[Anduril]]"
 reference_count: 2
 ---
 

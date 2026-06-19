@@ -12,7 +12,8 @@ sources:
 tags: []
 aliases:
   - "Live the Library"
-related: []
+related:
+  - "[[How To Read a Book]]"
 reference_count: 2
 ---
 

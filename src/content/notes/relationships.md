@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "relationships"
-related: []
+related:
+  - "[[The Boy Who Was Raised as a Dog]]"
 reference_count: 1
 ---
 

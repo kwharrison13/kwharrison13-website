@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Frugality"
-related: []
+related:
+  - "[[Walden]]"
+  - "[[The Magnolia Story]]"
 reference_count: 1
 ---
 

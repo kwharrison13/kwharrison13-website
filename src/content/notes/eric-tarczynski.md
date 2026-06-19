@@ -14,6 +14,8 @@ aliases:
   - "Eric Tarczynski"
 related:
   - "[[April 5th, 2022 — Frederik Gieschen & Eric Tarczynski (Contrary Research)]]"
+  - "[[Turn River Capital]]"
+  - "[[Contrary]]"
   - "[[March 5th, 2020 — Eric Tarczynski (Contrary Capital)]]"
 ---
 

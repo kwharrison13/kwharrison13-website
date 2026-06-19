@@ -10,7 +10,9 @@ sources: []
 tags: []
 aliases:
   - "Risk Management"
-related: []
+related:
+  - "[[What It Takes]]"
+  - "[[Forecasting]]"
 ---
 
 # Risk Management

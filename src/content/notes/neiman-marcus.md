@@ -14,6 +14,7 @@ aliases:
 related:
   - "[[Chris Purpura]]"
   - "[[Cresta.ai]]"
+  - "[[StellaConnect]]"
 reference_count: 1
 ---
 

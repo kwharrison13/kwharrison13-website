@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Value Added Ventures"
-related: []
+related:
+  - "[[Working Toward Zion]]"
 reference_count: 1
 ---
 

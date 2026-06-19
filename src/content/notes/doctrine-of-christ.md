@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Doctrine of Christ"
-related: []
+related:
+  - "[[M. Russell Ballard]]"
 reference_count: 1
 ---
 

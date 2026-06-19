@@ -12,7 +12,8 @@ sources:
 tags: []
 aliases:
   - "Upton Sinclair"
-related: []
+related:
+  - "[[Charlie Munger: The Great Financial Scandal of 2003]]"
 reference_count: 2
 ---
 

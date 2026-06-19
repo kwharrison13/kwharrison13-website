@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Lorenzo Snow"
-related: []
+related:
+  - "[[Working Toward Zion]]"
+  - "[[Chad's Big Quote Book]]"
 reference_count: 1
 ---
 

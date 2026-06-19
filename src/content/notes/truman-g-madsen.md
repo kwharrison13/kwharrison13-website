@@ -19,6 +19,7 @@ related:
   - "[[Joseph Smith]]"
   - "[[Joseph Smith Lecture 1 — The First Vision and Its Aftermath]]"
   - "[[Joseph Smith Lecture 2 — Joseph's Personality and Character]]"
+  - "[[Chad's Big Quote Book]]"
   - "[[1 Nephi 16–22 — I Will Prepare the Way before You]]"
 ---
 

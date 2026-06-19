@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Walking"
-related: []
+related:
+  - "[[A Walk in the Woods]]"
+  - "[[Digital Minimalism]]"
 reference_count: 1
 ---
 

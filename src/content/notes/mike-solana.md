@@ -13,6 +13,7 @@ aliases:
   - "Mike Solana"
 related:
   - "[[The Renaissance of Rise and Grind - Research]]"
+  - "[[City Building]]"
 reference_count: 1
 ---
 

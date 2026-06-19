@@ -29,6 +29,7 @@ related:
   - "[[Investment Banking]]"
   - "[[Private Equity]]"
   - "[[Operational Skills]]"
+  - "[[John Hoffmire]]"
 ---
 
 # MBA Degrees

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "James W. Lucas"
-related: []
+related:
+  - "[[Working Toward Zion]]"
 reference_count: 1
 ---
 

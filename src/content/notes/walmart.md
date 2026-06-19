@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Walmart"
-related: []
+related:
+  - "[[What I Found in a Thousand Towns]]"
+  - "[[DigitalTown]]"
 ---
 
 # Walmart

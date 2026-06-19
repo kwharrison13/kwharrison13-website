@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Humility"
-related: []
+related:
+  - "[[Intellectual Honesty]]"
 reference_count: 1
 ---
 

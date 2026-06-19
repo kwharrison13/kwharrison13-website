@@ -13,6 +13,8 @@ aliases:
   - "Bill Gurley"
 related:
   - "[[The Renaissance of Rise and Grind - Research]]"
+  - "[[The Power Law: Venture Capital & the Making of the New Future]]"
+  - "[[Frederik Gieschen]]"
 reference_count: 1
 ---
 

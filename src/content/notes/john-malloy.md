@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "John Malloy"
-related: []
+related:
+  - "[[Elon Musk]]"
 ---
 
 # John Malloy

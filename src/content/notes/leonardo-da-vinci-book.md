@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Leonardo Da Vinci (Book)"
-related: []
+related:
+  - "[[John Quincy Adams]]"
 reference_count: 1
 ---
 

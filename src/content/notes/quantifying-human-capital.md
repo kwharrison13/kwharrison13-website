@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Quantifying Human Capital"
-related: []
+related:
+  - "[[The Expertise Economy]]"
 ---
 
 # Quantifying Human Capital

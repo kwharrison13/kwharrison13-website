@@ -10,7 +10,10 @@ sources: []
 tags: []
 aliases:
   - "David Sacks"
-related: []
+related:
+  - "[[The Founders]]"
+  - "[[Peter Thiel]]"
+  - "[[Max Levchin]]"
 ---
 
 # David Sacks

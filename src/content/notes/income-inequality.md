@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Income Inequality"
-related: []
+related:
+  - "[[Unions]]"
 reference_count: 1
 ---
 

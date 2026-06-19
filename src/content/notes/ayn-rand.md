@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Ayn Rand"
-related: []
+related:
+  - "[[Anthem]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "David Blake"
-related: []
+related:
+  - "[[The Expertise Economy]]"
 reference_count: 1
 ---
 

@@ -14,7 +14,8 @@ sources:
 tags: []
 aliases:
   - "Grace"
-related: []
+related:
+  - "[[The Broken Heart]]"
 reference_count: 4
 ---
 

@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Peter Nicholson"
-related: []
+related:
+  - "[[Elon Musk]]"
 ---
 
 # Peter Nicholson

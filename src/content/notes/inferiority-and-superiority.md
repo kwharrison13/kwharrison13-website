@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Inferiority and Superiority"
-related: []
+related:
+  - "[[The Courage To Be Disliked]]"
 ---
 
 # Inferiority and Superiority

@@ -15,6 +15,10 @@ related:
   - "[[September 22nd, 2021 — Adam Chekroud (Spring Health)]]"
   - "[[Spring Health]]"
   - "[[Behavioral Health]]"
+  - "[[Vertical Integration]]"
+  - "[[Headway]]"
+  - "[[Lyra]]"
+  - "[[SonderMind]]"
   - "[[Index Ventures]]"
 ---
 

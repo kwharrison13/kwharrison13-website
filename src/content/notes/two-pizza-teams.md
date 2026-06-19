@@ -10,7 +10,10 @@ sources: []
 tags: []
 aliases:
   - "Two-Pizza Teams"
-related: []
+related:
+  - "[[Amazon Unbound]]"
+  - "[[Jeff Bezos]]"
+  - "[[Six-Page Narratives]]"
 ---
 
 # Two-Pizza Teams

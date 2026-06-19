@@ -12,7 +12,8 @@ sources:
 tags: []
 aliases:
   - "Jason Fried"
-related: []
+related:
+  - "[[Remote: Office Not Required]]"
 reference_count: 2
 ---
 

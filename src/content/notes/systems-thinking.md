@@ -10,7 +10,10 @@ sources: []
 tags: []
 aliases:
   - "Systems Thinking"
-related: []
+related:
+  - "[[Atomic Habits]]"
+  - "[[How To Be a Capitalist Without Any Capital]]"
+  - "[[Nuclear War: a Scenario]]"
 ---
 
 # Systems Thinking

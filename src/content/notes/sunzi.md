@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Sunzi"
-related: []
+related:
+  - "[[The Art of War]]"
 reference_count: 1
 ---
 

@@ -27,6 +27,7 @@ related:
   - "[[Ben Meng]]"
   - "[[CalPERS]]"
   - "[[Investment Returns]]"
+  - "[[Assembly Bill 2041 — UC Office of the Chief Investment Officer]]"
   - "[[Contrary Capital]]"
 ---
 

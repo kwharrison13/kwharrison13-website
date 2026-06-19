@@ -12,7 +12,8 @@ tags: []
 aliases:
   - "Theocracy"
   - "theocracy"
-related: []
+related:
+  - "[[American Zion]]"
 reference_count: 1
 ---
 

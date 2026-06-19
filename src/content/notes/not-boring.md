@@ -18,6 +18,8 @@ related:
   - "[[Packy McCormick]]"
   - "[[Open-Source Knowledge - Research]]"
   - "[[Open-Source Knowledge]]"
+  - "[[The AppetiZIRP]]"
+  - "[[The Enchanted Notebook]]"
   - "[[Intrinsic Motivation]]"
 ---
 

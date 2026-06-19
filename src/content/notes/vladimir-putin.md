@@ -16,6 +16,7 @@ related:
   - "[[The Invention of Russia]]"
   - "[[television]]"
   - "[[Foreign Policy]]"
+  - "[[Arkady Ostrovsky]]"
 reference_count: 1
 ---
 

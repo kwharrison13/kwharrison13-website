@@ -10,7 +10,10 @@ sources: []
 tags: []
 aliases:
   - "Human Capital"
-related: []
+related:
+  - "[[Working Toward Zion]]"
+  - "[[George F. Johnson and His Industrial Democracy]]"
+  - "[[Zabie Elmgren]]"
 ---
 
 # Human Capital

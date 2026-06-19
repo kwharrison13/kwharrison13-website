@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Plaid"
-related: []
+related:
+  - "[[Hayden Pirkle]]"
+  - "[[Sundeep Peechu]]"
+  - "[[Shuli Song]]"
 reference_count: 1
 ---
 

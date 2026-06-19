@@ -20,6 +20,7 @@ related:
   - "[[Will Durant]]"
   - "[[Progressivism]]"
   - "[[The Hardening Of The Great Softening - Research]]"
+  - "[[Discipline Is Destiny]]"
 ---
 
 # Stoicism

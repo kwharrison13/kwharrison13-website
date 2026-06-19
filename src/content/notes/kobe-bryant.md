@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Kobe Bryant"
-related: []
+related:
+  - "[[The Science of Learning]]"
 reference_count: 1
 ---
 

@@ -16,6 +16,7 @@ aliases:
   - "Jira"
 related:
   - "[[Noname Security - Diligence]]"
+  - "[[Joseph Ambeault]]"
 reference_count: 1
 ---
 

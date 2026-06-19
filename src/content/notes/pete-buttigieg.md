@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Pete Buttigieg"
-related: []
+related:
+  - "[[Shortest Way Home]]"
 reference_count: 1
 ---
 

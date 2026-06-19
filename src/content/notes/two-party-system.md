@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Two Party System"
-related: []
+related:
+  - "[[John Quincy Adams]]"
 reference_count: 1
 ---
 

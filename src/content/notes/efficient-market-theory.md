@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Efficient Market Theory"
-related: []
+related:
+  - "[[Charlie Munger: Academic Economics]]"
 reference_count: 1
 ---
 

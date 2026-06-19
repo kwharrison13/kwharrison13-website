@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Greg McKeown"
-related: []
+related:
+  - "[[Essentialism]]"
 reference_count: 1
 ---
 

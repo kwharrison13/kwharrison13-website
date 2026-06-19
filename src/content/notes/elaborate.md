@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Elaborate"
-related: []
+related:
+  - "[[How To Take Smart Notes]]"
 reference_count: 1
 ---
 

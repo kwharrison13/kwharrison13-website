@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Gathering of Israel"
-related: []
+related:
+  - "[[Saints: No Unhallowed Hand]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,8 @@ tags: []
 aliases:
   - "Phillip Fisher"
   - "Philip Fisher"
-related: []
+related:
+  - "[[Poor Charlie's Almanack]]"
 ---
 
 # Phillip Fisher

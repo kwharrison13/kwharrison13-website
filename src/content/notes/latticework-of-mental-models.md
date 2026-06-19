@@ -10,7 +10,11 @@ sources: []
 tags: []
 aliases:
   - "Latticework of Mental Models"
-related: []
+related:
+  - "[[The Great Mental Models Volume 1: General Thinking Concepts]]"
+  - "[[Poor Charlie's Almanack]]"
+  - "[[Charlie Munger: A Lesson on Elementary Worldly Wisdom"
+  - "Revisited]]"
 ---
 
 # Latticework of Mental Models

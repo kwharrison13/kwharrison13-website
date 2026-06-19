@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Daniel Pink"
-related: []
+related:
+  - "[[The Expertise Economy]]"
 reference_count: 1
 ---
 

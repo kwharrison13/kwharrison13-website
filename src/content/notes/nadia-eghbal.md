@@ -16,6 +16,7 @@ related:
   - "[[Working in Public]]"
   - "[[Open-Source Knowledge - Research]]"
   - "[[Open Source Knowledge]]"
+  - "[[Eugene Wei]]"
 reference_count: 2
 ---
 

@@ -13,7 +13,14 @@ sources:
 tags: []
 aliases:
   - "George Orwell"
-related: []
+related:
+  - "[[The Assault on Reason]]"
+  - "[[Brave New World]]"
+  - "[[Animal Farm]]"
+  - "[[Brave New World Revisited]]"
+  - "[[Metamorphosis]]"
+  - "[[The Invention of Russia]]"
+  - "[[Amusing Ourselves To Death]]"
 reference_count: 3
 ---
 

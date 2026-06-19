@@ -15,6 +15,9 @@ aliases:
   - "Ford"
 related:
   - "[[Utopia For Realists]]"
+  - "[[Brave New World]]"
+  - "[[George F. Johnson and His Industrial Democracy]]"
+  - "[[Walt Disney and the Promise of Progress City]]"
   - "[[Utopia For Realists]]"
 ---
 

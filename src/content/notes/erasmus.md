@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Erasmus"
-related: []
+related:
+  - "[[Republic of Letters]]"
 ---
 
 # Erasmus

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "TSMC"
-related: []
+related:
+  - "[[Chip War]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Podcast"
-related: []
+related:
+  - "[[Stop Asking Questions]]"
 reference_count: 1
 ---
 

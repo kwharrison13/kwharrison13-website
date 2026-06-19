@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "J. D. Vance"
-related: []
+related:
+  - "[[Hillbilly Elegy]]"
+  - "[[Rise of the Rest]]"
 reference_count: 1
 ---
 

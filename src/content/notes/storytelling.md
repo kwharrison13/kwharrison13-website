@@ -23,6 +23,14 @@ related:
   - "[[Yuval Noah Harari]]"
   - "[[Elon Musk]]"
   - "[[Bob Iger]]"
+  - "[[Stop Asking Questions]]"
+  - "[[Wicked]]"
+  - "[[The Invention of Russia]]"
+  - "[[Sapiens]]"
+  - "[[Republic of Letters]]"
+  - "[[Intellectual Honesty]]"
+  - "[[The Enchanted Notebook]]"
+  - "[[Planning for AGI and Beyond]]"
 ---
 
 # Storytelling

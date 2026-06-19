@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Learned Helplessness"
-related: []
+related:
+  - "[[Hillbilly Elegy]]"
 reference_count: 1
 ---
 

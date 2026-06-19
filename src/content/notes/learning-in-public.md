@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Learning in Public"
-related: []
+related:
+  - "[[Leonardo Da Vinci]]"
+  - "[[How To Take Smart Notes]]"
+  - "[[Open Source Knowledge]]"
 reference_count: 1
 ---
 

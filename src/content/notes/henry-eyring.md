@@ -12,7 +12,8 @@ sources:
 tags: []
 aliases:
   - "Henry Eyring"
-related: []
+related:
+  - "[[The Faith of a Scientist]]"
 reference_count: 2
 ---
 

@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Personal Finance"
-related: []
+related:
+  - "[[Financial Independence]]"
+  - "[[Retirement]]"
+  - "[[Charlie Munger: Philanthropy Roundtable]]"
 ---
 
 # Personal Finance

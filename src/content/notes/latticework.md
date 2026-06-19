@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Latticework"
-related: []
+related:
+  - "[[How To Take Smart Notes]]"
+  - "[[Charlie Munger: The Psychology of Human Misjudgment]]"
 reference_count: 1
 ---
 

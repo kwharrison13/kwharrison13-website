@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Sequoia"
-related: []
+related:
+  - "[[VC]]"
+  - "[[Doug Leone]]"
+  - "[[Salt Security]]"
 ---
 
 # Sequoia

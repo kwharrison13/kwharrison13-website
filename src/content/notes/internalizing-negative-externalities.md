@@ -25,6 +25,7 @@ related:
   - "[[The Value Cycle]]"
   - "[[Venture Capital]]"
   - "[[Facebook]]"
+  - "[[Nathan Baschez]]"
   - "[[Capital Allocation]]"
 ---
 

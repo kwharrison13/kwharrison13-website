@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Product-Market Fit"
-related: []
+related:
+  - "[[Playing To Win]]"
+  - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
 reference_count: 1
 ---
 

@@ -19,6 +19,7 @@ related:
   - "[[Open-Source Knowledge - Research]]"
   - "[[Open-Source Knowledge]]"
   - "[[Memetics]]"
+  - "[[Mimetics]]"
   - "[[Twitter]]"
 ---
 

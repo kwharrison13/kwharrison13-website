@@ -16,6 +16,12 @@ related:
   - "[[Gokul Rajaram]]"
   - "[[Keith Rabois]]"
   - "[[Persona]]"
+  - "[[Rishi Ahuja]]"
+  - "[[Sprig]]"
+  - "[[UserTesting]]"
+  - "[[Great Question]]"
+  - "[[Lookback]]"
+  - "[[Pendo]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,12 @@ sources:
 tags: []
 aliases:
   - "Operational Skills"
-related: []
+related:
+  - "[[Turnaround]]"
+  - "[[Gordon B. Hinckley: Go Forward With Faith]]"
+  - "[[Managers Not MBAs]]"
+  - "[[Gordon B. Hinckley]]"
+  - "[[MBA Degrees]]"
 reference_count: 1
 ---
 

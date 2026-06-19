@@ -10,7 +10,10 @@ sources: []
 tags: []
 aliases:
   - "Morgan Housel"
-related: []
+related:
+  - "[[The Psychology of Money]]"
+  - "[[Berkshire Hathaway]]"
+  - "[[Permanent Capital]]"
 ---
 
 # Morgan Housel

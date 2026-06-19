@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Alfred Adler"
-related: []
+related:
+  - "[[The Courage To Be Disliked]]"
 ---
 
 # Alfred Adler

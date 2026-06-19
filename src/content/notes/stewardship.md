@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Stewardship"
-related: []
+related:
+  - "[[Working Toward Zion]]"
 reference_count: 2
 ---
 

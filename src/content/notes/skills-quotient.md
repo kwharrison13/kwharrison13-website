@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Skills Quotient"
-related: []
+related:
+  - "[[The Expertise Economy]]"
 reference_count: 1
 ---
 

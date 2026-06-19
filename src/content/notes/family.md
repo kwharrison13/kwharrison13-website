@@ -12,7 +12,10 @@ tags: []
 aliases:
   - "Family"
   - "family"
-related: []
+related:
+  - "[[Metamorphosis]]"
+  - "[[The Boy Who Was Raised as a Dog]]"
+  - "[[What Is ChatGPT Doing and Why Does It Work?]]"
 reference_count: 1
 ---
 

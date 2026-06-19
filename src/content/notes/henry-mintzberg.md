@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Henry Mintzberg"
-related: []
+related:
+  - "[[Managers Not MBAs]]"
+  - "[[MBA Degrees]]"
 reference_count: 1
 ---
 

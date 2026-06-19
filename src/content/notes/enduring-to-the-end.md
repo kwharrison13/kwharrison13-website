@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Enduring to the End"
-related: []
+related:
+  - "[[M. Russell Ballard]]"
 reference_count: 1
 ---
 

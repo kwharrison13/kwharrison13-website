@@ -17,6 +17,11 @@ related:
   - "[[The Generalist]]"
   - "[[A24]]"
   - "[[The Hits Business]]"
+  - "[[Packy McCormick]]"
+  - "[[Greta Gerwig]]"
+  - "[[Soft Power]]"
+  - "[[Knowledge Economy]]"
+  - "[[Auteur Theory]]"
   - "[[The Hits Business - Research]]"
 ---
 

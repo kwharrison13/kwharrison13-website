@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "EBITDA"
-related: []
+related:
+  - "[[The Messy Marketplace]]"
+  - "[[Norwest]]"
 reference_count: 1
 ---
 

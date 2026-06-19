@@ -18,6 +18,7 @@ related:
   - "[[Ben Thompson]]"
   - "[[Colossus]]"
   - "[[Contrary Research]]"
+  - "[[Working in Public]]"
   - "[[Open-Source Knowledge - Research]]"
 ---
 

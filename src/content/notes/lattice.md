@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Lattice"
-related: []
+related:
+  - "[[The Kill Chain]]"
 reference_count: 1
 ---
 

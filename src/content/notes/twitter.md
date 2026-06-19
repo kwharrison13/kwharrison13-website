@@ -12,7 +12,8 @@ sources:
 tags: []
 aliases:
   - "Twitter"
-related: []
+related:
+  - "[[Dan McMurtrie]]"
 reference_count: 2
 ---
 

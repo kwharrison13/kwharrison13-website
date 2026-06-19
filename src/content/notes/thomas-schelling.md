@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Thomas Schelling"
-related: []
+related:
+  - "[[Nuclear War: a Scenario]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Henry David Thoreau"
-related: []
+related:
+  - "[[Walden]]"
+  - "[[A Walk in the Woods]]"
+  - "[[Digital Minimalism]]"
 reference_count: 1
 ---
 

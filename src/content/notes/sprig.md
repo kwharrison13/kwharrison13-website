@@ -31,6 +31,11 @@ related:
   - "[[Robinhood]]"
   - "[[Square]]"
   - "[[Figma]]"
+  - "[[Hasan Luongo]]"
+  - "[[Rishi Ahuja]]"
+  - "[[Yue Wu]]"
+  - "[[Joseph Ambeault]]"
+  - "[[Lookback]]"
   - "[[Loom]]"
 ---
 

@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Daniel Kahneman"
-related: []
+related:
+  - "[[The Black Swan]]"
+  - "[[The Psychology of Money]]"
 reference_count: 1
 ---
 

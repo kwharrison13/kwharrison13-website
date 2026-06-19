@@ -12,7 +12,12 @@ sources:
 tags: []
 aliases:
   - "Propaganda"
-related: []
+related:
+  - "[[The Assault on Reason]]"
+  - "[[Brave New World Revisited]]"
+  - "[[The Invention of Russia]]"
+  - "[[Arkady Ostrovsky]]"
+  - "[[Alexander Solzhenitsyn]]"
 reference_count: 2
 ---
 

@@ -12,7 +12,8 @@ tags: []
 aliases:
   - "Whatever you are, be a good one"
   - "Whatever You Are Be A Good One"
-related: []
+related:
+  - "[[Charlie Munger: A Lesson on Elementary Worldly Wisdom]]"
 reference_count: 1
 ---
 

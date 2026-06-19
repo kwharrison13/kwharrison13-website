@@ -26,6 +26,11 @@ related:
   - "[[Mervin Kelly]]"
   - "[[Bell Labs]]"
   - "[[Trends]]"
+  - "[[The Idea Factory]]"
+  - "[[The Psychology of Money]]"
+  - "[[Range]]"
+  - "[[Historical Futurism]]"
+  - "[[Charlie Munger: Academic Economics]]"
 ---
 
 # Forecasting

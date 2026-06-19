@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Stephen Covey"
-related: []
+related:
+  - "[[The Courage To Be Disliked]]"
+  - "[[Benjamin Franklin: An American Life]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Religious Freedom"
-related: []
+related:
+  - "[[The Life of John Taylor]]"
 reference_count: 1
 ---
 

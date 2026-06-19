@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Goldman Sachs"
-related: []
+related:
+  - "[[Tyler Payne]]"
 ---
 
 # Goldman Sachs

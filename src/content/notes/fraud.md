@@ -12,7 +12,8 @@ tags: []
 aliases:
   - "Fraud"
   - "fraud"
-related: []
+related:
+  - "[[How to Trick Investors and VCs]]"
 reference_count: 1
 ---
 

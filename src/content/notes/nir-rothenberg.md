@@ -23,6 +23,9 @@ related:
   - "[[Palo Alto Networks ($PANW)]]"
   - "[[CrowdStrike ($CRWD)]]"
   - "[[Wiz]]"
+  - "[[Signal Sciences]]"
+  - "[[NeoSec]]"
+  - "[[API Security]]"
   - "[[Traceable.ai]]"
 ---
 

@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "gentrification"
-related: []
+related:
+  - "[[The New Urban Crisis]]"
+  - "[[What I Found in a Thousand Towns]]"
+  - "[[Lance Freeman]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "micro cities"
-related: []
+related:
+  - "[[The New Urban Crisis]]"
 reference_count: 1
 ---
 

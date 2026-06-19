@@ -25,6 +25,7 @@ related:
   - "[[Baptism]]"
   - "[[Holy Ghost]]"
   - "[[Enduring to the End]]"
+  - "[[The Priesthood Power of Women]]"
 reference_count: 2
 ---
 

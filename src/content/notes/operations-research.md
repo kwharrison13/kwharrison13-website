@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Operations Research"
-related: []
+related:
+  - "[[The Man From The Future]]"
 reference_count: 1
 ---
 

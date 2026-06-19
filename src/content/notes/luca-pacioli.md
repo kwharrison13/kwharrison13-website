@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Luca Pacioli"
-related: []
+related:
+  - "[[Double Entry]]"
 reference_count: 1
 ---
 

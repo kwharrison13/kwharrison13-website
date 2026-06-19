@@ -23,6 +23,8 @@ related:
   - "[[Sapphire Ventures]]"
   - "[[CapitalG]]"
   - "[[Tanium]]"
+  - "[[Meritech]]"
+  - "[[DivvyCloud]]"
   - "[[Index Ventures]]"
 ---
 

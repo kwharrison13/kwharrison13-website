@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Cal Newport"
-related: []
+related:
+  - "[[Digital Minimalism]]"
+  - "[[The Science of Learning]]"
 reference_count: 1
 ---
 

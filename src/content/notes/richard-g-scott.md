@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Richard G. Scott"
-related: []
+related:
+  - "[[Chad's Big Quote Book]]"
 reference_count: 1
 ---
 

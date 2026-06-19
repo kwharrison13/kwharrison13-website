@@ -16,6 +16,7 @@ aliases:
 related:
   - "[[The Hits Business]]"
   - "[[Auteur Theory]]"
+  - "[[Christopher Nolan]]"
   - "[[Martin Scorsese]]"
 ---
 

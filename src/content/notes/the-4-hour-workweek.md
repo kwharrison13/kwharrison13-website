@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "The 4-Hour Workweek"
-related: []
+related:
+  - "[[How To Be a Capitalist Without Any Capital]]"
 reference_count: 1
 ---
 

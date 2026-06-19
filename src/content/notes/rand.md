@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "RAND"
-related: []
+related:
+  - "[[The Man From The Future]]"
 reference_count: 1
 ---
 

@@ -12,7 +12,9 @@ tags: []
 aliases:
   - "Literature"
   - "literature"
-related: []
+related:
+  - "[[Metamorphosis]]"
+  - "[[China in Ten Words]]"
 reference_count: 1
 ---
 

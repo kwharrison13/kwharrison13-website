@@ -19,6 +19,8 @@ related:
   - "[[What Is An Investor - Research]]"
   - "[[Venture Capital]]"
   - "[[Kleiner Perkins]]"
+  - "[[VC]]"
+  - "[[Ho Nam]]"
   - "[[What Is An Investor]]"
 ---
 

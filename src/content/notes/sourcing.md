@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Sourcing"
-related: []
+related:
+  - "[[Inder Takhar]]"
+  - "[[Networking Calls]]"
+  - "[[ClickUp]]"
 reference_count: 1
 ---
 

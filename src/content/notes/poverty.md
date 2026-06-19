@@ -11,7 +11,12 @@ sources:
 tags: []
 aliases:
   - "Poverty"
-related: []
+related:
+  - "[[Stuck in Place]]"
+  - "[[Evicted: Poverty and Profit in the American City]]"
+  - "[[China in Ten Words]]"
+  - "[[Patrick Sharkey]]"
+  - "[[Matthew Desmond]]"
 ---
 
 # Poverty

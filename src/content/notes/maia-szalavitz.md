@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Maia Szalavitz"
-related: []
+related:
+  - "[[The Boy Who Was Raised as a Dog]]"
 reference_count: 1
 ---
 

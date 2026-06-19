@@ -10,7 +10,9 @@ sources: []
 tags: []
 aliases:
   - "Sanjay Bhargava"
-related: []
+related:
+  - "[[The Founders]]"
+  - "[[First Principles Thinking]]"
 ---
 
 # Sanjay Bhargava

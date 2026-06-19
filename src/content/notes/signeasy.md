@@ -25,6 +25,7 @@ related:
   - "[[Index Ventures]]"
   - "[[Freemium]]"
   - "[[Net Revenue Retention]]"
+  - "[[Calendly]]"
   - "[[COVID]]"
 ---
 

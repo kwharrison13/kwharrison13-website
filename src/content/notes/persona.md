@@ -11,7 +11,11 @@ sources:
 tags: []
 aliases:
   - "Persona"
-related: []
+related:
+  - "[[Natalie Luu]]"
+  - "[[Ross Freiman-Mendel]]"
+  - "[[Square]]"
+  - "[[Pave]]"
 reference_count: 2
 ---
 

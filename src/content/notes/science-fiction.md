@@ -11,7 +11,14 @@ sources:
 tags: []
 aliases:
   - "Science Fiction"
-related: []
+related:
+  - "[[The Time Machine]]"
+  - "[[21 Lessons for the 21st Century]]"
+  - "[[Stories of Your Life and Others]]"
+  - "[[Jeff Bezos]]"
+  - "[[Josh Wolfe]]"
+  - "[[Historical Futurism]]"
+  - "[[The AppetiZIRP]]"
 reference_count: 1
 ---
 

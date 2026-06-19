@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Idea Sex"
-related: []
+related:
+  - "[[How To Take Smart Notes]]"
+  - "[[Tim Urban]]"
 reference_count: 1
 ---
 

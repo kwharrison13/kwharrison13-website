@@ -15,6 +15,8 @@ aliases:
   - "Duflo"
 related:
   - "[[Effective Altruism]]"
+  - "[[Rutger Bregman]]"
+  - "[[Universal Basic Income]]"
   - "[[Utopia For Realists]]"
 ---
 

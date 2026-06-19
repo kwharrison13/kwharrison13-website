@@ -12,7 +12,12 @@ sources:
 tags: []
 aliases:
   - "Aldous Huxley"
-related: []
+related:
+  - "[[Brave New World]]"
+  - "[[Brave New World Revisited]]"
+  - "[[Metamorphosis]]"
+  - "[[Amusing Ourselves To Death]]"
+  - "[[The Brave New World Collection]]"
 reference_count: 2
 ---
 

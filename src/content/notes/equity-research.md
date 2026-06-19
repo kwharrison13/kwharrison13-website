@@ -21,6 +21,7 @@ related:
   - "[[Private Equity]]"
   - "[[Venture Capital]]"
   - "[[Investment Returns]]"
+  - "[[Sacra]]"
   - "[[Data in Investing]]"
 ---
 

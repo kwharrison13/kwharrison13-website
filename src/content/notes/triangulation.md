@@ -12,7 +12,10 @@ sources:
 tags: []
 aliases:
   - "Triangulation"
-related: []
+related:
+  - "[[Talent]]"
+  - "[[How To Read a Book]]"
+  - "[[Equity Research]]"
 reference_count: 2
 ---
 

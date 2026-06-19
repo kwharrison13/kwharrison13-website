@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Teaching"
-related: []
+related:
+  - "[[The Science of Learning]]"
 reference_count: 1
 ---
 

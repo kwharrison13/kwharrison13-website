@@ -16,6 +16,8 @@ related:
   - "[[Sprig fka UserLeap - Diligence]]"
   - "[[Dropbox]]"
   - "[[Sprig]]"
+  - "[[Great Question]]"
+  - "[[User Research]]"
   - "[[UserTesting]]"
 ---
 

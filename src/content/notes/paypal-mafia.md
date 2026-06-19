@@ -17,6 +17,9 @@ related:
   - "[[The Founders]]"
   - "[[Tech Mafias]]"
   - "[[Talent Vortex]]"
+  - "[[Peter Thiel]]"
+  - "[[Jimmy Soni]]"
+  - "[[Founders Fund]]"
 reference_count: 1
 ---
 

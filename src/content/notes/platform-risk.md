@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Platform Risk"
-related: []
+related:
+  - "[[The Founders]]"
 reference_count: 1
 ---
 

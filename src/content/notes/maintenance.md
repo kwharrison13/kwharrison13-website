@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Maintenance"
-related: []
+related:
+  - "[[Working in Public]]"
+  - "[[Open Source]]"
+  - "[[Open Source Knowledge]]"
 reference_count: 1
 ---
 

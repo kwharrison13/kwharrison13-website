@@ -10,7 +10,10 @@ sources: []
 tags: []
 aliases:
   - "Identity Formation"
-related: []
+related:
+  - "[[Hillbilly Elegy]]"
+  - "[[Atomic Habits]]"
+  - "[[Yuval Noah Harari]]"
 ---
 
 # Identity Formation

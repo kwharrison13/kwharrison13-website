@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Realism"
-related: []
+related:
+  - "[[John Quincy Adams]]"
 reference_count: 1
 ---
 

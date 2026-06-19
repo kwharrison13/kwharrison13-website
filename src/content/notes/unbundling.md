@@ -17,6 +17,7 @@ aliases:
 related:
   - "[[Open-Source Knowledge - Research]]"
   - "[[Wikipedia]]"
+  - "[[The Market Is The Greatest Critic]]"
   - "[[Reddit]]"
 ---
 

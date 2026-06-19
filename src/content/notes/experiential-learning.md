@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Experiential Learning"
-related: []
+related:
+  - "[[Your Passion"
+  - "Your Solution (YPYS)]]"
 reference_count: 1
 ---
 

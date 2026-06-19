@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Truth"
-related: []
+related:
+  - "[[The Faith of a Scientist]]"
+  - "[[Braving The Wilderness]]"
 reference_count: 1
 ---
 

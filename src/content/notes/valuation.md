@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Valuation"
-related: []
+related:
+  - "[[The Messy Marketplace]]"
 reference_count: 1
 ---
 

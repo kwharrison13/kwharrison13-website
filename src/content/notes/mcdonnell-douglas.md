@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "McDonnell Douglas"
-related: []
+related:
+  - "[[Flying Blind]]"
 reference_count: 1
 ---
 

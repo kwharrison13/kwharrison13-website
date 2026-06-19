@@ -12,7 +12,8 @@ tags: []
 aliases:
   - "Taxes"
   - "taxes"
-related: []
+related:
+  - "[[On the Nature of Long-Term Holds]]"
 reference_count: 1
 ---
 

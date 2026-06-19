@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "William Shakespeare"
-related: []
+related:
+  - "[[Peter Thiel's Religion]]"
 reference_count: 1
 ---
 

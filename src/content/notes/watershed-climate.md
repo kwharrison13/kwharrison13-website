@@ -19,6 +19,8 @@ related:
   - "[[Carbon Accounting]]"
   - "[[Carbon Offsets]]"
   - "[[Climate Change]]"
+  - "[[Carlos Gonzalez-Cardenas]]"
+  - "[[Kyle Harrison (Bloomberg)]]"
 ---
 
 # Watershed Climate

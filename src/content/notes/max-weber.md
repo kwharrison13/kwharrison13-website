@@ -18,6 +18,7 @@ related:
   - "[[Protestant Work Ethic]]"
   - "[[The Hardening Of The Great Softening - Research]]"
   - "[[Book of Mormon]]"
+  - "[[Benjamin Franklin: An American Life]]"
 ---
 
 # Max Weber

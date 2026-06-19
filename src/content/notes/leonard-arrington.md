@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Leonard Arrington"
-related: []
+related:
+  - "[[Working Toward Zion]]"
+  - "[[Leonard Arrington and the Writing of Mormon History]]"
 reference_count: 1
 ---
 

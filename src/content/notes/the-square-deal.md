@@ -23,6 +23,7 @@ related:
   - "[[City Building]]"
   - "[[Gerald Zahavi]]"
   - "[[Unions, Unions Everywhere - Research]]"
+  - "[[George F. Johnson and His Industrial Democracy]]"
   - "[[Internalizing Negative Externalities]]"
 ---
 

@@ -12,7 +12,9 @@ tags: []
 aliases:
   - "Twilio ($TWLO)"
   - "Twilio"
-related: []
+related:
+  - "[[Twilio Flex]]"
+  - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
 ---
 
 # Twilio ($TWLO)

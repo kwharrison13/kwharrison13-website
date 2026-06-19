@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Alexis de Tocqueville"
-related: []
+related:
+  - "[[2054]]"
 reference_count: 1
 ---
 

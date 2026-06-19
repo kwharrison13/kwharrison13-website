@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Theory of Masters"
-related: []
+related:
+  - "[[What It Takes]]"
 reference_count: 1
 ---
 

@@ -10,7 +10,9 @@ sources: []
 tags: []
 aliases:
   - "Holding Company"
-related: []
+related:
+  - "[[The Messy Marketplace]]"
+  - "[[On the Nature of Long-Term Holds]]"
 ---
 
 # Holding Company

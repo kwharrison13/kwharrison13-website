@@ -11,7 +11,14 @@ sources:
 tags: []
 aliases:
   - "Expertise"
-related: []
+related:
+  - "[[How To Take Smart Notes]]"
+  - "[[Range]]"
+  - "[[Voice of the People]]"
+  - "[[Breaking into VC]]"
+  - "[[Educated Electorate]]"
+  - "[[Conspiracy Theories]]"
+  - "[[The Science of Learning]]"
 reference_count: 1
 ---
 

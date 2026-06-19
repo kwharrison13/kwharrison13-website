@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "John Stuart Mill"
-related: []
+related:
+  - "[[The Assault on Reason]]"
 reference_count: 1
 ---
 

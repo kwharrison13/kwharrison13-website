@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Tolerance"
-related: []
+related:
+  - "[[Sapiens]]"
 reference_count: 1
 ---
 

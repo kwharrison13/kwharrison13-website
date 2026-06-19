@@ -20,6 +20,7 @@ related:
   - "[[What Is An Investor]]"
   - "[[Michael Mauboussin]]"
   - "[[The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing]]"
+  - "[[Skill vs. Luck]]"
   - "[[Josh Wolfe]]"
 ---
 

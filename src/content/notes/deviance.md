@@ -20,6 +20,8 @@ related:
   - "[[Likability]]"
   - "[[Conviction-Led Contrarianism]]"
   - "[[Visakan Veerasamy]]"
+  - "[[Alex Karp]]"
+  - "[[Dependencies]]"
   - "[[Elon Musk]]"
 ---
 

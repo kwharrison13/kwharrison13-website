@@ -14,6 +14,9 @@ aliases:
   - "Friedman"
 related:
   - "[[Overton Window]]"
+  - "[[The Man Who Broke Capitalism]]"
+  - "[[Rutger Bregman]]"
+  - "[[It's Time To Build]]"
   - "[[Utopia For Realists]]"
 ---
 

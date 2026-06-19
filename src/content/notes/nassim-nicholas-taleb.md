@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Nassim Nicholas Taleb"
-related: []
+related:
+  - "[[The Black Swan]]"
 reference_count: 1
 ---
 

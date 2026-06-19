@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Mob Rule"
-related: []
+related:
+  - "[[Voice of the People]]"
 reference_count: 1
 ---
 

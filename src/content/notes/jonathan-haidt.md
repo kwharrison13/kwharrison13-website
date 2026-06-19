@@ -15,6 +15,7 @@ aliases:
 related:
   - "[[The Coddling of the American Mind]]"
   - "[[September 17th, 2021 — Zach Edwards (Clearstone Associates)]]"
+  - "[[The Righteous Mind]]"
 reference_count: 3
 ---
 

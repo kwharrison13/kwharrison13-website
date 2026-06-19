@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Franz Kafka"
-related: []
+related:
+  - "[[Metamorphosis]]"
 reference_count: 1
 ---
 

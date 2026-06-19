@@ -16,6 +16,8 @@ aliases:
 related:
   - "[[Cresta.ai]]"
   - "[[Balto.ai]]"
+  - "[[Chao Xu]]"
+  - "[[Kostia Pertsovskyi]]"
 reference_count: 1
 ---
 

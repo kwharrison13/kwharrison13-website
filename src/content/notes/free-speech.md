@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Free Speech"
-related: []
+related:
+  - "[[The Invention of Russia]]"
+  - "[[An Insider's View of Mormon Origins]]"
 reference_count: 1
 ---
 

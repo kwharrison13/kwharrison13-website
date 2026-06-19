@@ -12,7 +12,11 @@ sources:
 tags: []
 aliases:
   - "Microsoft"
-related: []
+related:
+  - "[[David Pickeral]]"
+  - "[[Jeff Friedman]]"
+  - "[[Joel Kwartler]]"
+  - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
 reference_count: 1
 ---
 

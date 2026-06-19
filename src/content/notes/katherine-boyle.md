@@ -20,6 +20,7 @@ related:
   - "[[American Dynamism]]"
   - "[[Building American Dynamism]]"
   - "[[Anduril]]"
+  - "[[Flexport]]"
   - "[[June 6th, 2022 — Katherine Boyle (a16z)]]"
 ---
 

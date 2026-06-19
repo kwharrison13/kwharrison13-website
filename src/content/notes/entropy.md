@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Entropy"
-related: []
+related:
+  - "[[The Time Machine]]"
+  - "[[Working in Public]]"
 reference_count: 1
 ---
 

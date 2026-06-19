@@ -19,6 +19,7 @@ related:
   - "[[Open-Source Knowledge - Research]]"
   - "[[Contrary Research]]"
   - "[[Colossus]]"
+  - "[[Working in Public]]"
   - "[[Open-Source Knowledge]]"
 ---
 
