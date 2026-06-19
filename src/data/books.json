@@ -17,7 +17,8 @@
       "year_read": 2019,
       "tags": [
         "historical-futurism",
-        "language-of-discourse"
+        "language-of-discourse",
+        "ideological-family-tree"
       ]
     },
     {
@@ -839,7 +840,8 @@
         "quake": false
       },
       {
-        "title": "Evicted",
+        "title": "Evicted: Poverty and Profit in the American City",
+        "slug": "evicted",
         "author": "Matthew Desmond",
         "rating": 4,
         "tags": [
@@ -974,7 +976,9 @@
         "author": "Walter Isaacson",
         "rating": 4,
         "tags": [
-          "historical-futurism"
+          "historical-futurism",
+          "republic-of-letters",
+          "people-over-politics"
         ],
         "quake": false
       },
@@ -983,7 +987,8 @@
         "author": "Kelly Palmer, David Blake",
         "rating": 2,
         "tags": [
-          "people-over-politics"
+          "people-over-politics",
+          "open-source-knowledge"
         ],
         "quake": false
       },
@@ -1048,7 +1053,8 @@
         "rating": 5,
         "tags": [
           "historical-futurism",
-          "language-of-discourse"
+          "language-of-discourse",
+          "ideological-family-tree"
         ],
         "quake": true
       },
@@ -1141,7 +1147,8 @@
         "rating": 3,
         "tags": [
           "city-building",
-          "people-over-politics"
+          "people-over-politics",
+          "historical-futurism"
         ],
         "quake": false
       },
@@ -1170,7 +1177,8 @@
         "author": "Arkady Ostrovsky",
         "rating": 2,
         "tags": [
-          "historical-futurism"
+          "historical-futurism",
+          "language-of-discourse"
         ],
         "quake": false
       },
@@ -1605,10 +1613,12 @@
       },
       {
         "title": "Saints: No Unhallowed Hand",
-        "author": "",
+        "author": "The Church of Jesus Christ of Latter-day Saints",
         "rating": 4,
         "tags": [
-          "religious-intellectualism"
+          "religious-intellectualism",
+          "city-building",
+          "historical-futurism"
         ],
         "quake": false
       }
@@ -2039,21 +2049,23 @@
       },
       {
         "title": "Brave New World",
-        "author": "Alduous Huxley",
+        "author": "Aldous Huxley",
         "rating": 4,
         "tags": [
           "historical-futurism",
+          "technological-innovation",
           "language-of-discourse"
         ],
         "quake": false
       },
       {
         "title": "Brave New World Revisited",
-        "author": "Alduous Huxley",
+        "author": "Aldous Huxley",
         "rating": 3,
         "tags": [
           "historical-futurism",
-          "language-of-discourse"
+          "language-of-discourse",
+          "people-over-politics"
         ],
         "quake": false
       },

@@ -58,7 +58,7 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
     </p>
     <div class="quake-list">
       {quakeBooks.map((book: any, i: number) => (
-        <a href={`/books/${bookSlug(book.title)}`} class="quake-item quake-item-link">
+        <a href={`/books/${book.slug || bookSlug(book.title)}`} class="quake-item quake-item-link">
           {book.cover ? (
             <img class="quake-cover" src={book.cover} alt={book.title} loading="lazy" />
           ) : (
@@ -118,7 +118,7 @@ const yearsWithBooks = yearKeys.filter(y => library[y].length > 0);
 
           <div class="library-list">
             {books.map((book: any) => (
-              <a href={`/books/${bookSlug(book.title)}`} class="library-item library-item-link" data-tags={JSON.stringify(book.tags || [])}>
+              <a href={`/books/${book.slug || bookSlug(book.title)}`} class="library-item library-item-link" data-tags={JSON.stringify(book.tags || [])}>
                 <div class="rating-dots">
                   {[1,2,3,4,5].map((star: number) => (
                     <div class={`rating-dot ${star <= (book.rating || 0) ? 'filled' : ''}`}></div>

@@ -22,4 +22,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 
 ## Where this appears
 
-- Evicted
+- [Evicted](/books/evicted-poverty-and-profit-in-the-american-city)

@@ -16,7 +16,7 @@ All content originates in the wiki and is synced here by the wiki's `scripts/pub
 - `src/content/books/`, `src/content/essays/`, `src/content/notes/`, `src/content/learning/`
 - `src/data/antilibrary.json`
 - `src/data/portfolio-ideas.json` → the `feed` arrays only (the `description`/`essays`/`projects` fields are hand-curated and safe)
-- `src/data/books.json` → the library catalog. **[Transitional]** Currently hand-curated; being inverted so it's GENERATED from `wiki/books/` frontmatter (a `sync-books-catalog-from-wiki.mjs` to be built). Once that ships, treat it as generated too.
+- `src/data/books.json` → the library catalog. GENERATED from `wiki/books/` frontmatter by `scripts/sync-books-catalog-from-wiki.mjs` (run by publish.sh). Drives both the bookshelf and the `/books/<slug>` route source (`books/[slug].astro` getStaticPaths), so the generator refuses to drop a book. Honors `website_slug` via an explicit per-entry `slug` field.
 
 **Editable here (this is the website's actual job):**
 - Astro components, layouts, pages, routes (`src/components`, `src/layouts`, `src/pages`)
@@ -39,7 +39,7 @@ The wiki compiles into **four Astro content collections** (`src/content/config.t
 | `wiki/long-reads/*.md` | (in notes sync) | listing | `/long-reads` (grouped by `source_published` year) |
 | `wiki/books-to-read/*.md` | `scripts/sync-antilibrary-from-wiki.mjs` | `src/data/antilibrary.json` | Anti-Library bookshelf tab |
 | `wiki/tweets/*.md` (gated by `portfolio_ideas:`) | `scripts/sync-tweets-from-wiki.mjs` | `portfolio-ideas.json` `feed` arrays | Portfolio Idea feeds |
-| `wiki/books/` frontmatter (planned) | `sync-books-catalog-from-wiki.mjs` (to build) | `src/data/books.json` catalog | bookshelf cards |
+| `wiki/books/` frontmatter | `scripts/sync-books-catalog-from-wiki.mjs` | `src/data/books.json` catalog | bookshelf + `/books/<slug>` source |
 | Readwise export → books | `scripts/import-readwise.mjs` | book highlights | (bootstrap/occasional; wiki is now canonical for highlights) |
 
 **Never synced — private wiki types:** `wiki/gospel-study/`, `wiki/meetings/`, `wiki/diligence-research/`, `wiki/daily-log/`. Don't add globs for them. Wikilinks pointing at these unwrap to plain text on the public site.

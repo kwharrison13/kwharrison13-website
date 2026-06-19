@@ -21,4 +21,4 @@ _Stub — flagged during the 2026-06-19 connection sweep as an entity referenced
 
 ## Where this appears
 
-- Evicted
+- [Evicted](/books/evicted-poverty-and-profit-in-the-american-city)

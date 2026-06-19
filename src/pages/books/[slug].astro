@@ -14,7 +14,9 @@ export async function getStaticPaths() {
   const bySlug = new Map<string, BookMeta>();
 
   const ingest = (b: any, year: string) => {
-    const slug = bookSlug(b.title);
+    // Honor an explicit catalog `slug` (website_slug override, e.g. Evicted);
+    // otherwise derive from the title.
+    const slug = b.slug || bookSlug(b.title);
     const existing = bySlug.get(slug);
     if (existing) {
       if (year && !existing.years.includes(year)) existing.years.push(year);
