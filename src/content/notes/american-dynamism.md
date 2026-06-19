@@ -4,10 +4,11 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-18"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
+  - "Roam Research daily-note export — June 6th, 2022 (Contrary Capital sourcing/diligence log): ~/Downloads/June 6th, 2022.md"
 tags:
   - "historical-futurism"
   - "technological-innovation"
@@ -18,6 +19,8 @@ related:
   - "[[Anduril]]"
   - "[[Palmer Luckey]]"
   - "[[Conviction]]"
+  - "[[Katherine Boyle]]"
+  - "[[Building American Dynamism]]"
 ---
 
 # American Dynamism
@@ -32,6 +35,8 @@ related:
 
 - [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — the hype-countercyclical argument.
 - [Conviction-Led Contrarianism - Research](/notes/conviction-led-contrarianism-research) — research notes.
+- [Building American Dynamism](/notes/building-american-dynamism) — [Katherine Boyle](/notes/katherine-boyle)'s essay coining the term.
+- June 6th, 2022 — Katherine Boyle (a16z) — Boyle on differentiated missions and "true believers."
 
 ## Related concepts
 

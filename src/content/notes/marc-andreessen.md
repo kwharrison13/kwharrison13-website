@@ -31,3 +31,4 @@ _Stub page — created from It's Time To Build... But Build What - Research. Exp
 ## Where this appears
 
 - It's Time To Build... But Build What - Research
+- [Building American Dynamism](/notes/building-american-dynamism) — [Katherine Boyle](/notes/katherine-boyle)'s essay extends his "build" argument.
