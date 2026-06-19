@@ -11,13 +11,14 @@ sources:
 tags: []
 aliases:
   - "Anti-Christ"
-related: []
+related:
+  - "[[Anti-Christ — Topical Study]]"
 reference_count: 1
 ---
 
 # Anti-Christ
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+_Concept stub — kept so thematic references resolve to a `/notes/` URL on the website. The deep-dive lives in the gospel-study entry Anti-Christ — Topical Study (Topical Journal 1.144–1.147, 1.176): John's warning and the three Book of Mormon anti-Christs (Sherem, Nehor, Korihor)._
 
 ## Where this appears
 

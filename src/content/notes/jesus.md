@@ -14,11 +14,12 @@ aliases:
   - "Jesus Christ"
 related:
   - "[[Benjamin Franklin]]"
+  - "[[Jesus Christ — Topical Study]]"
 ---
 
 # Jesus
 
-Appears here as one of the two models [Benjamin Franklin](/notes/benjamin-franklin) named for the thirteenth of his [Thirteen Virtues](/notes/thirteen-virtues), humility: "Imitate Jesus and Socrates."
+Appears here as one of the two models [Benjamin Franklin](/notes/benjamin-franklin) named for the thirteenth of his [Thirteen Virtues](/notes/thirteen-virtues), humility: "Imitate Jesus and Socrates." For the gospel-study deep-dive on the Savior's life and atonement, see Jesus Christ — Topical Study (Topical Journal 1.154, 1.171 — "Christ Has Experienced All").
 
 ## What we know
 
