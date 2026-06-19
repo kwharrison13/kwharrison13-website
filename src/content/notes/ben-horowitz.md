@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Ben Horowitz"
-related: []
+related:
+  - "[[The Power Law: Venture Capital & the Making of the New Future]]"
+  - "[[Pricing]]"
+  - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
 reference_count: 1
 ---
 

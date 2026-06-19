@@ -17,6 +17,7 @@ aliases:
   - "AppSec"
 related:
   - "[[Noname Security - Diligence]]"
+  - "[[Prabhath Karanth]]"
 reference_count: 1
 ---
 

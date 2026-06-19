@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Confucius"
-related: []
+related:
+  - "[[The Greatest Minds and Ideas of All Time]]"
+  - "[[China in Ten Words]]"
 reference_count: 1
 ---
 

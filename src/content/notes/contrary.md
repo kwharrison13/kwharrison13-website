@@ -20,6 +20,11 @@ related:
   - "[[Eric Tarczynski]]"
   - "[[Harry Stebbings]]"
   - "[[Ramp]]"
+  - "[[Julie Chen]]"
+  - "[[Joel Kwartler]]"
+  - "[[Hook.xyz]]"
+  - "[[Almost $14 Billion Pulled From CalPERS Equity Managers]]"
+  - "[[Assembly Bill 2041 — UC Office of the Chief Investment Officer]]"
   - "[[Venture Capital]]"
 ---
 

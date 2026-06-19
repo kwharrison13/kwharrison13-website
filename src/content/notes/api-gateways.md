@@ -25,6 +25,9 @@ related:
   - "[[Salt Security]]"
   - "[[Atanu Dasgupta]]"
   - "[[Prabhakar Kasu]]"
+  - "[[Boomi]]"
+  - "[[API]]"
+  - "[[Firewall]]"
   - "[[OWASP]]"
 ---
 

@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "AWS"
-related: []
+related:
+  - "[[Amazon Unbound]]"
+  - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
 ---
 
 # AWS

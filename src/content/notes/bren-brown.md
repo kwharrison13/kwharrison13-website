@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Brené Brown"
-related: []
+related:
+  - "[[Braving The Wilderness]]"
+  - "[[Voice of the People]]"
 reference_count: 1
 ---
 

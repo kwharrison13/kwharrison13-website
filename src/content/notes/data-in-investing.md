@@ -12,7 +12,14 @@ sources:
 tags: []
 aliases:
   - "Data in Investing"
-related: []
+related:
+  - "[[Jeet Raut]]"
+  - "[[Tom Schenk]]"
+  - "[[Chicago]]"
+  - "[[Investing 101 2.0]]"
+  - "[[Equity Research]]"
+  - "[[Innova]]"
+  - "[[Inside the Rise and Fall of Coatue's Quant Fund]]"
 reference_count: 2
 ---
 

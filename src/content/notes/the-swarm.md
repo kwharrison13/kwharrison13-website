@@ -16,7 +16,7 @@ aliases:
   - "The Swarm"
 related:
   - "[[David Connors]]"
-  - "[[Network Relationship Management]]"
+  - "Network Relationship Management"
 reference_count: 2
 ---
 

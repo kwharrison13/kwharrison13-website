@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Data Over Dogma"
-related: []
+related:
+  - "[[Romney: A Reckoning]]"
+  - "[[Voice of the People]]"
 reference_count: 1
 ---
 

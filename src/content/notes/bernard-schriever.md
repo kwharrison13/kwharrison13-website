@@ -12,7 +12,8 @@ sources:
 tags: []
 aliases:
   - "Bernard Schriever"
-related: []
+related:
+  - "[[The Kill Chain]]"
 reference_count: 2
 ---
 

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Atomico"
-related: []
+related:
+  - "[[Mark Temple]]"
 reference_count: 1
 ---
 

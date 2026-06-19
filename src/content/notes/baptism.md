@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Baptism"
-related: []
+related:
+  - "[[M. Russell Ballard]]"
 reference_count: 1
 ---
 

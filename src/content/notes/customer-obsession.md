@@ -11,7 +11,12 @@ sources:
 tags: []
 aliases:
   - "Customer Obsession"
-related: []
+related:
+  - "[[The Everything Store]]"
+  - "[[Amazon Unbound]]"
+  - "[[Playing To Win]]"
+  - "[[Jeff Bezos]]"
+  - "[[Pricing]]"
 reference_count: 1
 ---
 

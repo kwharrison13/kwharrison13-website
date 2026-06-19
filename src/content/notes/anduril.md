@@ -36,6 +36,8 @@ related:
   - "[[The Kill Chain]]"
   - "[[Flying Blind]]"
   - "[[The Man From The Future]]"
+  - "[[Katherine Boyle]]"
+  - "[[Building American Dynamism]]"
 ---
 
 # Anduril

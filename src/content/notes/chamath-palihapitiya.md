@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Chamath Palihapitiya"
-related: []
+related:
+  - "[[Charlie Munger: Investment Practices of Leading Charitable Foundations]]"
 reference_count: 1
 ---
 

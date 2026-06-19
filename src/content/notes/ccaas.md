@@ -17,6 +17,8 @@ related:
   - "[[Genesys]]"
   - "[[Amazon Connect]]"
   - "[[All-in-One vs. Best-in-Class]]"
+  - "[[Cresta.ai]]"
+  - "[[NICE]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Collaboration"
-related: []
+related:
+  - "[[Leonardo Da Vinci]]"
 reference_count: 1
 ---
 

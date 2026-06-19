@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Bifurcation in Investing"
-related: []
+related:
+  - "[[What It Takes]]"
 reference_count: 1
 ---
 

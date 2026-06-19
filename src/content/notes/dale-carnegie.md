@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Dale Carnegie"
-related: []
+related:
+  - "[[The Courage To Be Disliked]]"
 reference_count: 1
 ---
 

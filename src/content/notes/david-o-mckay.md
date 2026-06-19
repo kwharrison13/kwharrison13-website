@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "David O. McKay"
-related: []
+related:
+  - "[[Chad's Big Quote Book]]"
 reference_count: 1
 ---
 

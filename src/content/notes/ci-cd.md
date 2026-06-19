@@ -17,6 +17,11 @@ aliases:
   - "Continuous Delivery"
 related:
   - "[[Noname Security - Diligence]]"
+  - "[[David Mark]]"
+  - "[[Jenkins]]"
+  - "[[Traceable.ai]]"
+  - "[[DevSecOps]]"
+  - "[[Snyk]]"
 reference_count: 1
 ---
 

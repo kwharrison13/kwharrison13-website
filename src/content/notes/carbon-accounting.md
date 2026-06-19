@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Carbon Accounting"
-related: []
+related:
+  - "[[Decarbonization]]"
+  - "[[Watershed Climate]]"
 ---
 
 # Carbon Accounting

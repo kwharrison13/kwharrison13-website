@@ -10,7 +10,9 @@ sources: []
 tags: []
 aliases:
   - "Checklists"
-related: []
+related:
+  - "[[Charlie Munger: Harvard Law School Fiftieth Reunion Address]]"
+  - "[[Charlie Munger: Academic Economics]]"
 ---
 
 # Checklists

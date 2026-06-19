@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Compound Knowledge"
-related: []
+related:
+  - "[[Atomic Habits]]"
 ---
 
 # Compound Knowledge

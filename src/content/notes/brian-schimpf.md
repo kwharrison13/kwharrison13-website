@@ -12,7 +12,8 @@ sources:
 tags: []
 aliases:
   - "Brian Schimpf"
-related: []
+related:
+  - "[[Skunk Works]]"
 reference_count: 2
 ---
 

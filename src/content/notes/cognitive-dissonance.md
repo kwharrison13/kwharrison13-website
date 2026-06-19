@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Cognitive Dissonance"
-related: []
+related:
+  - "[[Leon Festinger]]"
 reference_count: 1
 ---
 

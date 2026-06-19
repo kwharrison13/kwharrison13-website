@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Bessemer Venture Partners"
-related: []
+related:
+  - "[[VC]]"
 reference_count: 1
 ---
 

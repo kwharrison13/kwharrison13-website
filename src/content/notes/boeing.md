@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Boeing"
-related: []
+related:
+  - "[[Flying Blind]]"
+  - "[[The Man Who Broke Capitalism]]"
+  - "[[Anduril]]"
 reference_count: 1
 ---
 

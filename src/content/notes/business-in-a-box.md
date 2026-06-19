@@ -15,6 +15,8 @@ aliases:
   - "Business-in-a-Box"
 related:
   - "[[September 17th, 2021 — Darwin Harrison (Valued Empyrean — Behavioral Health)]]"
+  - "[[Franchises]]"
+  - "[[Behavioral Health]]"
 reference_count: 2
 ---
 

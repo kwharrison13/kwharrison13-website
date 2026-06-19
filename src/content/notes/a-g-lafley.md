@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "A.G. Lafley"
-related: []
+related:
+  - "[[Playing To Win]]"
 reference_count: 1
 ---
 

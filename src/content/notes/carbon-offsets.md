@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Carbon Offsets"
-related: []
+related:
+  - "[[Carlos Gonzalez-Cardenas]]"
+  - "[[Julia Andre]]"
+  - "[[Watershed Climate]]"
 ---
 
 # Carbon Offsets

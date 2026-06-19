@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Andrew Marshall"
-related: []
+related:
+  - "[[The Kill Chain]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Cicero"
-related: []
+related:
+  - "[[John Quincy Adams]]"
+  - "[[Charlie Munger: Harvard School Commencement Speech]]"
 reference_count: 1
 ---
 

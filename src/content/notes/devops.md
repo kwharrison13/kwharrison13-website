@@ -15,6 +15,7 @@ aliases:
 related:
   - "[[September 17th, 2021 — Monad Pre-Brief (Max Rimpel)]]"
   - "[[September 17th, 2021 — Wiz.io Pre-Brief (Shardul Shah)]]"
+  - "[[Developer-Led Security]]"
 reference_count: 2
 ---
 

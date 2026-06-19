@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "David Heinemeier Hansson"
-related: []
+related:
+  - "[[Remote: Office Not Required]]"
 reference_count: 1
 ---
 

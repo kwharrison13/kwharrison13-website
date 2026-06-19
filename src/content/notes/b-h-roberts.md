@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "B.H. Roberts"
-related: []
+related:
+  - "[[The Life of John Taylor]]"
 reference_count: 1
 ---
 

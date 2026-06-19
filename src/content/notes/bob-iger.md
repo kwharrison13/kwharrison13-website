@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Bob Iger"
-related: []
+related:
+  - "[[The Ride of a Lifetime]]"
+  - "[[Storytelling]]"
 reference_count: 1
 ---
 

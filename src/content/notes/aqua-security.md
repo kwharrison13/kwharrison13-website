@@ -16,6 +16,7 @@ aliases:
   - "Aqua Security"
 related:
   - "[[Noname Security - Diligence]]"
+  - "[[Palo Alto Networks ($PANW)]]"
 reference_count: 1
 ---
 

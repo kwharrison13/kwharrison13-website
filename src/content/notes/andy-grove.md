@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Andy Grove"
-related: []
+related:
+  - "[[Chip War]]"
+  - "[[The Start-Up of You]]"
 reference_count: 1
 ---
 

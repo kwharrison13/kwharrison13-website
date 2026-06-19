@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Buildots"
-related: []
+related:
+  - "[[Openspace.ai]]"
 reference_count: 1
 ---
 

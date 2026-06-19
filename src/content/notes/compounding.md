@@ -12,7 +12,12 @@ tags: []
 aliases:
   - "Compounding"
   - "compounding"
-related: []
+related:
+  - "[[The Autobiography of Benjamin Franklin]]"
+  - "[[Atomic Habits]]"
+  - "[[The Psychology of Money]]"
+  - "[[Open Source Knowledge]]"
+  - "[[On the Nature of Long-Term Holds]]"
 reference_count: 1
 ---
 

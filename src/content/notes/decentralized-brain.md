@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Decentralized Brain"
-related: []
+related:
+  - "[[Charlie Munger: Practical Thought About Practical Thought?]]"
 reference_count: 1
 ---
 

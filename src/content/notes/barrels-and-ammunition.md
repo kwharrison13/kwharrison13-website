@@ -14,6 +14,7 @@ aliases:
 related:
   - "[[Keith Rabois]]"
   - "[[Talent Identification]]"
+  - "[[Talent Vortex]]"
 reference_count: 1
 ---
 

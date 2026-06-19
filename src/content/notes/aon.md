@@ -18,6 +18,7 @@ aliases:
 related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[Prabhakar Kasu]]"
+  - "[[Checkmarx]]"
   - "[[Salt Security]]"
 ---
 

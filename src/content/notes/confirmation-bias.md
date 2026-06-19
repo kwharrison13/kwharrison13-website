@@ -11,7 +11,15 @@ sources:
 tags: []
 aliases:
   - "Confirmation Bias"
-related: []
+related:
+  - "[[The Black Swan]]"
+  - "[[The Death of Expertise]]"
+  - "[[The Righteous Mind]]"
+  - "[[Charlie Munger: Harvard Law School Fiftieth Reunion Address]]"
+  - "[[Charlie Munger: The Psychology of Human Misjudgment]]"
+  - "[[Charlie Munger: Harvard School Commencement Speech]]"
+  - "[[Charlie Munger: A Lesson on Elementary Worldly Wisdom"
+  - "Revisited]]"
 reference_count: 1
 ---
 

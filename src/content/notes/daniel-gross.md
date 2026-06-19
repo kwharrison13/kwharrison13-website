@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Daniel Gross"
-related: []
+related:
+  - "[[Talent]]"
 reference_count: 1
 ---
 

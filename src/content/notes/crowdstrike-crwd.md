@@ -27,6 +27,8 @@ related:
   - "[[Atanu Dasgupta]]"
   - "[[Nir Rothenberg]]"
   - "[[Wiz.io]]"
+  - "[[Uptycs]]"
+  - "[[CapitalG]]"
   - "[[Orca Security]]"
 ---
 

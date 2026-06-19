@@ -12,7 +12,8 @@ sources:
 tags: []
 aliases:
   - "Alternative Housing"
-related: []
+related:
+  - "[[3-D Printing]]"
 reference_count: 1
 ---
 

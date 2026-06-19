@@ -12,7 +12,10 @@ tags: []
 aliases:
   - "Abundance"
   - "abundance"
-related: []
+related:
+  - "[[Future of Work]]"
+  - "[[The Build-Nothing Country]]"
+  - "[[The AppetiZIRP]]"
 reference_count: 1
 ---
 

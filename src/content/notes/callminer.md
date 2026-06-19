@@ -16,6 +16,7 @@ aliases:
 related:
   - "[[Cresta.ai]]"
   - "[[Balto.ai]]"
+  - "[[Randy Clapp]]"
 reference_count: 1
 ---
 

@@ -26,6 +26,8 @@ related:
   - "[[Christopher Nolan]]"
   - "[[Quentin Tarantino]]"
   - "[[Martin Scorsese]]"
+  - "[[Steven Spielberg]]"
+  - "[[Greta Gerwig]]"
   - "[[Ryan Reynolds]]"
 ---
 

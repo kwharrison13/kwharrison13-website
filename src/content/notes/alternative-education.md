@@ -11,7 +11,13 @@ sources:
 tags: []
 aliases:
   - "Alternative Education"
-related: []
+related:
+  - "[[The Expertise Economy]]"
+  - "[[Managers Not MBAs]]"
+  - "[[Ana Lorena Fabrega]]"
+  - "[[MBA Degrees]]"
+  - "[[AltSchool]]"
+  - "[[The Science of Learning]]"
 reference_count: 1
 ---
 

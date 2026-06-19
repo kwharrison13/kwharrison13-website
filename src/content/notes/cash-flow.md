@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Cash Flow"
-related: []
+related:
+  - "[[How To Be a Capitalist Without Any Capital]]"
 ---
 
 # Cash Flow

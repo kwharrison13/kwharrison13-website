@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Built to Mission vs Spec"
-related: []
+related:
+  - "[[Skunk Works]]"
 reference_count: 1
 ---
 

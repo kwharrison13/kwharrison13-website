@@ -12,7 +12,11 @@ tags: []
 aliases:
   - "Competition"
   - "competition"
-related: []
+related:
+  - "[[Alibaba: The House That Jack Ma Built]]"
+  - "[[Catastrophic Care]]"
+  - "[[The Art of War]]"
+  - "[[Charlie Munger: A Lesson on Elementary Worldly Wisdom]]"
 reference_count: 1
 ---
 

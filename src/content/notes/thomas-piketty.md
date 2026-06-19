@@ -15,7 +15,7 @@ aliases:
   - "Thomas Piketty"
   - "Piketty"
 related:
-  - "[[Inequality]]"
+  - "Inequality"
 ---
 
 # Thomas Piketty

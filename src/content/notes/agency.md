@@ -12,7 +12,11 @@ sources:
 tags: []
 aliases:
   - "Agency"
-related: []
+related:
+  - "[[The Self-Driven Child]]"
+  - "[[The Life of John Taylor]]"
+  - "[[Stories of Your Life and Others]]"
+  - "[[Chad's Big Quote Book]]"
 reference_count: 2
 ---
 

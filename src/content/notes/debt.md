@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Debt"
-related: []
+related:
+  - "[[Opendoor]]"
+  - "[[Rekindling US Productivity for a New Era]]"
 reference_count: 1
 ---
 

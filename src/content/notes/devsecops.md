@@ -24,6 +24,7 @@ related:
   - "[[Traceable.ai]]"
   - "[[Prabhath Karanth]]"
   - "[[David Mark]]"
+  - "[[Noname Security]]"
   - "[[Michael Isbitski]]"
 ---
 

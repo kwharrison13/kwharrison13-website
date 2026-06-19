@@ -16,7 +16,7 @@ aliases:
   - "Contenda"
 related:
   - "[[Lilly Chen]]"
-  - "[[Developer Relations]]"
+  - "Developer Relations"
 reference_count: 2
 ---
 

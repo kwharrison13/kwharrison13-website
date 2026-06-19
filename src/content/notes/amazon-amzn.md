@@ -14,6 +14,8 @@ aliases:
 related:
   - "[[Data Privacy]]"
   - "[[Personal User Data]]"
+  - "[[Wordsmiths]]"
+  - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
   - "[[Privacy]]"
 ---
 

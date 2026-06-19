@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Carol Dweck"
-related: []
+related:
+  - "[[The Expertise Economy]]"
+  - "[[The Self-Driven Child]]"
+  - "[[The Science of Learning]]"
 reference_count: 1
 ---
 

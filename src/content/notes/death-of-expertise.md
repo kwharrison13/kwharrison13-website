@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Death of Expertise"
-related: []
+related:
+  - "[[Conspiracy Theories]]"
 ---
 
 # Death of Expertise

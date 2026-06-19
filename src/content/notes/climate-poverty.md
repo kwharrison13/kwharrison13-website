@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Climate Poverty"
-related: []
+related:
+  - "[[How To Avoid a Climate Disaster]]"
 reference_count: 1
 ---
 

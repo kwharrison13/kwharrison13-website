@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Bell Labs"
-related: []
+related:
+  - "[[The Idea Factory]]"
+  - "[[Chip War]]"
+  - "[[Forecasting]]"
 reference_count: 1
 ---
 

@@ -20,6 +20,7 @@ related:
   - "[[Patrick O'Shaughnessy]]"
   - "[[Open-Source Knowledge - Research]]"
   - "[[Contrary Research]]"
+  - "[[Ben Thompson]]"
   - "[[Stratechery]]"
 ---
 

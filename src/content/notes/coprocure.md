@@ -21,6 +21,7 @@ related:
   - "[[Procurement]]"
   - "[[GovTech]]"
   - "[[City Building]]"
+  - "[[Arik Bronshtein]]"
   - "[[UrbanLeap]]"
 ---
 

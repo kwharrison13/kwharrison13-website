@@ -11,7 +11,11 @@ sources:
 tags: []
 aliases:
   - "Big Important Ideas"
-related: []
+related:
+  - "[[Charlie Munger: Harvard Law School Fiftieth Reunion Address]]"
+  - "[[Charlie Munger: USC Gould School of Law Commencement Address]]"
+  - "[[Charlie Munger: A Lesson on Elementary Worldly Wisdom"
+  - "Revisited]]"
 reference_count: 1
 ---
 

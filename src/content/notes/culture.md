@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Culture"
-related: []
+related:
+  - "[[What It Takes]]"
 reference_count: 1
 ---
 

@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Civil-Military Fusion"
-related: []
+related:
+  - "[[Chip War]]"
+  - "[[The Man From The Future]]"
+  - "[[Anduril]]"
 reference_count: 1
 ---
 

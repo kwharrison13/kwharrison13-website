@@ -16,6 +16,7 @@ aliases:
 related:
   - "[[September 13th, 2022 — Harry Stebbings Podcast]]"
   - "[[The Blackstone of Innovation]]"
+  - "[[What It Takes]]"
   - "[[Stephen Schwarzman]]"
 ---
 

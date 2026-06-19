@@ -34,6 +34,7 @@ related:
   - "[[Index Ventures]]"
   - "[[Adam Chekroud]]"
   - "[[Nicole Kleiman-Reck]]"
+  - "[[Vertical Integration]]"
   - "[[Darwin Harrison]]"
 ---
 

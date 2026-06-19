@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "API Economy"
-related: []
+related:
+  - "[[API]]"
 reference_count: 1
 ---
 

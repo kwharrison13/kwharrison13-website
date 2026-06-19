@@ -17,6 +17,8 @@ related:
   - "[[Cresta.ai]]"
   - "[[Observe.ai]]"
   - "[[RingCentral]]"
+  - "[[Randy Clapp]]"
+  - "[[CallMiner]]"
 reference_count: 1
 ---
 

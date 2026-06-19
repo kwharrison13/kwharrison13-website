@@ -11,7 +11,10 @@ sources:
 tags: []
 aliases:
   - "Accounting"
-related: []
+related:
+  - "[[Double Entry]]"
+  - "[[Charlie Munger: The Great Financial Scandal of 2003]]"
+  - "[[How to Trick Investors and VCs]]"
 reference_count: 1
 ---
 

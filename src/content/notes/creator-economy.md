@@ -14,6 +14,10 @@ aliases:
   - "Creator Economy"
 related:
   - "[[September 17th, 2021 — Zach Edwards (Clearstone Associates)]]"
+  - "[[Working in Public]]"
+  - "[[Catherine Yeo]]"
+  - "[[Bradley Miles]]"
+  - "[[The AppetiZIRP]]"
 reference_count: 1
 ---
 

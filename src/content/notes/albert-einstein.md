@@ -11,7 +11,9 @@ sources:
 tags: []
 aliases:
   - "Albert Einstein"
-related: []
+related:
+  - "[[The Faith of a Scientist]]"
+  - "[[Leonardo Da Vinci]]"
 reference_count: 1
 ---
 

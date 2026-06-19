@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Competitive Moat"
-related: []
+related:
+  - "[[Berkshire Hathaway Annual Letters]]"
 ---
 
 # Competitive Moat

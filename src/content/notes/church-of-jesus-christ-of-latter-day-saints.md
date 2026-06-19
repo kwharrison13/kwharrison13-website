@@ -16,6 +16,7 @@ aliases:
   - "Mormons"
 related:
   - "[[September 13th, 2022 — Harry Stebbings Podcast]]"
+  - "[[Gordon B. Hinckley]]"
   - "[[Eternal Progression]]"
 ---
 

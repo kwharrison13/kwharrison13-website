@@ -16,6 +16,8 @@ aliases:
   - "California Public Employees' Retirement System"
 related:
   - "[[CleanCapital]]"
+  - "[[Almost $14 Billion Pulled From CalPERS Equity Managers]]"
+  - "[[Assembly Bill 2041 — UC Office of the Chief Investment Officer]]"
 ---
 
 # CalPERS

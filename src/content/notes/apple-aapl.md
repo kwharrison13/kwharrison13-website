@@ -12,7 +12,9 @@ tags: []
 aliases:
   - "Apple ($AAPL)"
   - "Apple"
-related: []
+related:
+  - "[[Apoorv Sharma]]"
+  - "[[Jony Ive]]"
 ---
 
 # Apple ($AAPL)

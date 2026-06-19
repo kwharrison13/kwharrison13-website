@@ -11,7 +11,12 @@ sources:
 tags: []
 aliases:
   - "Curiosity"
-related: []
+related:
+  - "[[Stop Asking Questions]]"
+  - "[[Braving The Wilderness]]"
+  - "[[Leonardo Da Vinci]]"
+  - "[[Capital Allocator Mindset]]"
+  - "[[The Science of Learning]]"
 reference_count: 1
 ---
 

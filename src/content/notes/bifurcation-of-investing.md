@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Bifurcation of Investing"
-related: []
+related:
+  - "[[Berkshire Hathaway Annual Letters]]"
 ---
 
 # Bifurcation of Investing

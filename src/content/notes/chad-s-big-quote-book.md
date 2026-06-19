@@ -55,6 +55,7 @@ related:
   - "[[Atonement]]"
   - "[[Come"
   - "Follow Me]]"
+  - "[[Joseph Smith Lecture 2 — Joseph's Personality and Character]]"
 ---
 
 # Chad's Big Quote Book

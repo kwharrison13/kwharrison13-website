@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Accel"
-related: []
+related:
+  - "[[Sprig]]"
 reference_count: 1
 ---
 

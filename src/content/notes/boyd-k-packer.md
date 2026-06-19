@@ -12,7 +12,9 @@ sources:
 tags: []
 aliases:
   - "Boyd K. Packer"
-related: []
+related:
+  - "[[Leonard Arrington and the Writing of Mormon History]]"
+  - "[[Chad's Big Quote Book]]"
 reference_count: 2
 ---
 

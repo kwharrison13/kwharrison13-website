@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Buy and Never Sell"
-related: []
+related:
+  - "[[Berkshire Hathaway Annual Letters]]"
 ---
 
 # Buy and Never Sell

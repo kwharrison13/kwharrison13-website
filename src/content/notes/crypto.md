@@ -11,7 +11,15 @@ sources:
 tags: []
 aliases:
   - "Crypto"
-related: []
+related:
+  - "[[Boom: Bubbles & The End of Stagnation]]"
+  - "[[Steve Case]]"
+  - "[[Bradley Miles]]"
+  - "[[DigitalTown]]"
+  - "[[Hook.xyz]]"
+  - "[[Standard.re]]"
+  - "[[Alternative Investing]]"
+  - "[[We're Selling Entrepreneurship Short]]"
 ---
 
 # Crypto

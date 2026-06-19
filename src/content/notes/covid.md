@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "COVID"
-related: []
+related:
+  - "[[SignEasy]]"
 reference_count: 1
 ---
 

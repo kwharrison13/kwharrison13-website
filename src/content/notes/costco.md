@@ -10,7 +10,8 @@ sources: []
 tags: []
 aliases:
   - "Costco"
-related: []
+related:
+  - "[[Pricing]]"
 ---
 
 # Costco

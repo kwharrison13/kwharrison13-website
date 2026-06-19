@@ -12,7 +12,11 @@ sources:
 tags: []
 aliases:
   - "Clayton Christensen"
-related: []
+related:
+  - "[[The Everything Store]]"
+  - "[[Flying Blind]]"
+  - "[[How Will You Measure Your Life?]]"
+  - "[[Catastrophic Care]]"
 reference_count: 2
 ---
 

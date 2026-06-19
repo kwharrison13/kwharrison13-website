@@ -11,7 +11,11 @@ sources:
 tags: []
 aliases:
   - "Ambition"
-related: []
+related:
+  - "[[Leslie Knope]]"
+  - "[[Golden Handcuffs]]"
+  - "[[Progressivism]]"
+  - "[[Temporarily Embarrassed Millionaires]]"
 reference_count: 1
 ---
 

@@ -10,7 +10,12 @@ sources: []
 tags: []
 aliases:
   - "Amazon"
-related: []
+related:
+  - "[[Jeff Bezos]]"
+  - "[[Brad Stone]]"
+  - "[[DigitalTown]]"
+  - "[[Six-Page Narratives]]"
+  - "[[The Enchanted Notebook]]"
 ---
 
 # Amazon

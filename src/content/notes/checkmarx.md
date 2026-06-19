@@ -17,6 +17,7 @@ aliases:
 related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[AON]]"
+  - "[[Prabhakar Kasu]]"
   - "[[API Security]]"
 ---
 

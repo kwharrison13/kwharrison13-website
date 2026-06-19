@@ -11,7 +11,14 @@ sources:
 tags: []
 aliases:
   - "Book of Mormon"
-related: []
+related:
+  - "[[Restoration: God's Call To The 21st Century]]"
+  - "[[An Insider's View of Mormon Origins]]"
+  - "[[Max Weber]]"
+  - "[[Protestant Work Ethic]]"
+  - "[[Chad's Big Quote Book]]"
+  - "[[Joseph Smith Lecture 2 — Joseph's Personality and Character]]"
+  - "[[Feed My Sheep]]"
 reference_count: 1
 ---
 

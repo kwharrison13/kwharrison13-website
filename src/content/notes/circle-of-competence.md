@@ -10,7 +10,14 @@ sources: []
 tags: []
 aliases:
   - "Circle of Competence"
-related: []
+related:
+  - "[[The Great Mental Models Volume 1: General Thinking Concepts]]"
+  - "[[Poor Charlie's Almanack]]"
+  - "[[Buffett: The Biography]]"
+  - "[[Charlie Munger: Investment Practices of Leading Charitable Foundations]]"
+  - "[[Charlie Munger: A Lesson on Elementary Worldly Wisdom]]"
+  - "[[Charlie Munger: A Lesson on Elementary Worldly Wisdom"
+  - "Revisited]]"
 ---
 
 # Circle of Competence

@@ -12,7 +12,8 @@ sources:
 tags: []
 aliases:
   - "Bill Perry"
-related: []
+related:
+  - "[[Skunk Works]]"
 reference_count: 2
 ---
 

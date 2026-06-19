@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Convert Retention"
-related: []
+related:
+  - "[[Law of the Harvest]]"
 reference_count: 1
 ---
 

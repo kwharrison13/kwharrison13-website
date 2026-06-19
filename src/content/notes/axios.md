@@ -19,6 +19,7 @@ aliases:
 related:
   - "[[Dan Primack]]"
   - "[[The State of Startup Media - Research]]"
+  - "[[Fortune]]"
   - "[[The State of Startup Media]]"
 ---
 

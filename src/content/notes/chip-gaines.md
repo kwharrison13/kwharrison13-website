@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Chip Gaines"
-related: []
+related:
+  - "[[The Magnolia Story]]"
 reference_count: 1
 ---
 

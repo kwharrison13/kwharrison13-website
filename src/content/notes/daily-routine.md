@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Daily Routine"
-related: []
+related:
+  - "[[John Quincy Adams]]"
 reference_count: 1
 ---
 

@@ -12,7 +12,10 @@ sources:
 tags: []
 aliases:
   - "Consumerization of the Enterprise"
-related: []
+related:
+  - "[[Product Led Growth: The End User Era]]"
+  - "[[The Kill Chain]]"
+  - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
 reference_count: 1
 ---
 

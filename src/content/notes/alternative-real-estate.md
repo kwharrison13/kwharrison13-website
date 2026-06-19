@@ -11,7 +11,11 @@ sources:
 tags: []
 aliases:
   - "Alternative Real Estate"
-related: []
+related:
+  - "[[The New Urban Crisis]]"
+  - "[[The New City]]"
+  - "[[Malls]]"
+  - "[[Parking Lots]]"
 reference_count: 1
 ---
 

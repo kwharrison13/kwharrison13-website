@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Blake Bartlett"
-related: []
+related:
+  - "[[Product Led Growth: The End User Era]]"
 reference_count: 1
 ---
 

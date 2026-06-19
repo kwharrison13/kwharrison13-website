@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Charles Van Doren"
-related: []
+related:
+  - "[[How To Read a Book]]"
 reference_count: 1
 ---
 

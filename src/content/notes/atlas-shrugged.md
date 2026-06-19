@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Atlas Shrugged"
-related: []
+related:
+  - "[[Anthem]]"
 reference_count: 1
 ---
 

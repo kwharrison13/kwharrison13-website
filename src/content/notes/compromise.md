@@ -12,7 +12,9 @@ tags: []
 aliases:
   - "Compromise"
   - "compromise"
-related: []
+related:
+  - "[[Benjamin Franklin: An American Life]]"
+  - "[[The Greatest Sentence Ever Written]]"
 reference_count: 1
 ---
 

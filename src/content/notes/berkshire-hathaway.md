@@ -22,6 +22,11 @@ related:
   - "[[Mark Sellers]]"
   - "[[Tracy Britt Cool]]"
   - "[[Investing: The Model]]"
+  - "[[Poor Charlie's Almanack]]"
+  - "[[Driven]]"
+  - "[[Buffett: The Biography]]"
+  - "[[Lloyd's]]"
+  - "[[Charlie Munger: Academic Economics]]"
 ---
 
 # Berkshire Hathaway

@@ -10,7 +10,11 @@ sources: []
 tags: []
 aliases:
   - "Active Reading"
-related: []
+related:
+  - "[[How To Read a Book]]"
+  - "[[Metacognition]]"
+  - "[[Educated Electorate]]"
+  - "[[Open Source Knowledge]]"
 ---
 
 # Active Reading
