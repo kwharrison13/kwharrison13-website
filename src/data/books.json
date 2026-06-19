@@ -2564,6 +2564,35 @@
         "rating": 0,
         "tags": [],
         "quake": false
+      },
+      {
+        "title": "Good to Great",
+        "author": "Jim Collins",
+        "rating": 0,
+        "tags": [
+          "company-building",
+          "capital-allocation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "How to Win Friends and Influence People",
+        "author": "Dale Carnegie",
+        "rating": 0,
+        "tags": [
+          "language-of-discourse",
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Jesus the Christ",
+        "author": "James E. Talmage",
+        "rating": 0,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
       }
     ]
   }
