@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Berkshire Hathaway Annual Letters.md"
@@ -20,6 +20,11 @@ related:
   - "[[Flywheel]]"
   - "[[Marketing]]"
   - "[[Capital Allocation]]"
+  - "[[Jeff Bezos]]"
+  - "[[Ben Horowitz]]"
+  - "[[Costco]]"
+  - "[[Margin of Safety]]"
+  - "[[Value Investing]]"
 ---
 
 # Pricing
@@ -47,3 +52,11 @@ related:
 - [Flywheel](/notes/flywheel) — low prices → volume → lower costs → lower prices.
 - [Marketing](/notes/marketing) — which, in these sources, pricing largely *is*.
 - [Capital Allocation](/notes/capital-allocation) — pricing as a core allocation lever.
+- [Jeff Bezos](/notes/jeff-bezos) — frames charging less as Amazon's defining stance, absorbing Costco's markup discipline.
+- [Ben Horowitz](/notes/ben-horowitz) — source of the claim that no decision impacts company value more than pricing.
+- [Tom Perkins](/notes/tom-perkins) — argues solving hard technical problems lets you keep prices low and win on volume (market risk inverse to technical risk).
+- [Costco](/notes/costco) — the across-the-board ~14% markup model Bezos cites as charging less even when it could charge more.
+- [Walmart](/notes/walmart) — whose "marketing strategy is our pricing strategy" turns ad dollars into price cuts.
+- [Amazon](/notes/amazon) — the company built on the "charge less, full-stop" pricing posture.
+- [Margin of Safety](/notes/margin-of-safety) — the value-investing gap between price and intrinsic worth as the unit of risk.
+- [Value Investing](/notes/value-investing) — the frame in which pricing connects to intrinsic value.

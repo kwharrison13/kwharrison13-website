@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
@@ -22,11 +22,35 @@ related:
   - "[[Networking Calls]]"
   - "[[Rise of the Rest]]"
   - "[[Future of Work]]"
+  - "[[City Building]]"
+  - "[[GovTech]]"
+  - "[[Steve Case]]"
+  - "[[UrbanLeap]]"
+  - "[[ELGL]]"
+  - "[[DigitalTown]]"
+  - "[[Remote Work]]"
+  - "[[Procurement]]"
+  - "[[Alternative Real Estate]]"
 ---
 
 # The New City
 
 _Stub page — partially written from wikilink references. "The New City" is a recurring thread in Kyle's work on smart cities, urban mobility, and govtech — the question of how cities modernize, procure, use data, and partner with the private sector._
+
+## Related concepts
+
+- [City Building](/notes/city-building) — the broader theme of how cities form, modernize, and grow that this smart-city/urbanism thread sits inside.
+- [GovTech](/notes/govtech) — the government-technology lens behind the procurement, data, and public/private partnership questions running through these sourcing calls.
+- [Rise of the Rest](/notes/rise-of-the-rest) — Steve Case's regional-investing thesis, surfaced via the May 16th, 2018 — Steve Case Interview (Rise of the Rest) note.
+- [Steve Case](/notes/steve-case) — proponent of the regional-investing / Rise of the Rest argument referenced here.
+- [UrbanLeap](/notes/urbanleap) — city pilot-testing and procurement platform from the June 1st, 2018 — Arik Bronshtein (UrbanLeap) call.
+- [ELGL](/notes/elgl) — cross-functional local-government professional org from the June 1st, 2018 — Kirsten Wyatt (ELGL) call.
+- [DigitalTown](/notes/digitaltown) — local-commerce platform keeping digital commerce local, from the June 1st, 2018 — Faris (DigitalTown) call.
+- [Future of Work](/notes/future-of-work) — adjacent thread via the co-living and economic-well-being links in the June 29th, 2021 Quick Capture log.
+- [Remote Work](/notes/remote-work) — connects to the co-living and distributed-living material in the reading-list links.
+- [Procurement](/notes/procurement) — the public-sector purchasing problem recurring across the CoProcure, UrbanLeap, Venture Smarter, and city vendor-vetting calls.
+- [Alternative Real Estate](/notes/alternative-real-estate) — the co-living and land-acquisition material (Blueground, Brooklyn/Bay-Area co-living, Toll Brothers) surfacing in the calls and the June 29th, 2021 reading list.
+- [Networking Calls](/notes/networking-calls) — the sourcing-call corpus most of this page's references come from.
 
 ## Where this appears
 

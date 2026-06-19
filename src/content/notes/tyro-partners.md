@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Open-Source Knowledge - Research.md"
@@ -15,6 +15,7 @@ aliases:
 related:
   - "[[Dan McMurtrie]]"
   - "[[Memetics]]"
+  - "[[Mimetics]]"
   - "[[Open-Source Knowledge - Research]]"
 ---
 
@@ -32,6 +33,7 @@ related:
 
 ## Related concepts
 
-- [Dan McMurtrie](/notes/dan-mcmurtrie)
-- [Memetics](/notes/memetics)
-- [Mimetics](/notes/mimetics)
+- [Dan McMurtrie](/notes/dan-mcmurtrie) — runs Tyro Partners and authored the Q2 2021 Partner Letter Kyle draws on.
+- [Memetics](/notes/memetics) — the letter's four-level memetic model (Content → Reference → Advocacy → Community).
+- [Mimetics](/notes/mimetics) — adjacent framing for the memetic-player / "metagames" view of markets.
+- Open-Source Knowledge - Research — research page that cites the Partner Letter's memetics and "rivers and streams."

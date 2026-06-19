@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/The Storytelling of Investing - Research.md"
@@ -13,6 +13,7 @@ aliases:
   - "Secondhand Lions"
 related:
   - "[[The Storytelling of Investing - Research]]"
+  - "[[Sapiens]]"
 ---
 
 # Secondhand Lions
@@ -22,6 +23,11 @@ related:
 ## How it shows up
 
 - "If you want to believe in something then believe in it… A man should believe in those things because those are the things worth believing in." Braided with [Sapiens](/books/sapiens) as the "we are what we believe" frame.
+
+## Related concepts
+
+- [Sapiens](/books/sapiens) — the film's "believe in those things worth believing in" monologue is braided with Harari's "we are what we believe" frame.
+- The Storytelling of Investing - Research — the research essay whose opening uses the uncle's monologue to argue belief can matter more than literal truth.
 
 ## Where it shows up
 

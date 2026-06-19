@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-15"
-updated: "2026-06-15"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/readwise/The Founders by Jimmy Soni.md"
@@ -23,6 +23,18 @@ related:
   - "[[Peter Thiel]]"
   - "[[Max Levchin]]"
   - "[[Brian Eno]]"
+  - "[[David Wallace]]"
+  - "[[Tech Mafias]]"
+  - "[[PayPal Mafia]]"
+  - "[[Keith Rabois]]"
+  - "[[Founders Mentality]]"
+  - "[[Storytelling as Leadership]]"
+  - "[[Barrels and Ammunition]]"
+  - "[[Scope Expansion]]"
+  - "[[The Professionalization of Startups]]"
+  - "[[Amazon Unbound]]"
+  - "[[The Talent Vortex — Mafias and Magnets]]"
+  - "[[The Talent Vortex - Research]]"
 ---
 
 # Talent Vortex

@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Open-Source Knowledge - Research.md"
@@ -17,6 +17,8 @@ aliases:
 related:
   - "[[Packy McCormick]]"
   - "[[Open-Source Knowledge - Research]]"
+  - "[[Open-Source Knowledge]]"
+  - "[[Intrinsic Motivation]]"
 ---
 
 # Not Boring
@@ -33,5 +35,7 @@ related:
 
 ## Related concepts
 
-- [Packy McCormick](/notes/packy-mccormick)
-- [Intrinsic Motivation](/notes/intrinsic-motivation)
+- [Packy McCormick](/notes/packy-mccormick) — author of the newsletter; the long-form company narratives are his.
+- [Open-Source Knowledge](/essays/open-source-knowledge) — the emerging layer around investing that Kyle cites Not Boring as an example of.
+- Open-Source Knowledge - Research — research note sourcing the "Business is the New Sports" framing.
+- [Intrinsic Motivation](/notes/intrinsic-motivation) — "the currency of the commons" cited from "Business is the New Sports."

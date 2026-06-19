@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -19,6 +19,7 @@ related:
   - "[[Developer-Led Security]]"
   - "[[Salt Security]]"
   - "[[CI/CD]]"
+  - "[[David Mark]]"
 ---
 
 # Snyk
@@ -41,3 +42,5 @@ related:
 - [Developer-Led Security](/notes/developer-led-security) — Snyk is the defining example of the command-line approach
 - [Salt Security](/notes/salt-security) — runtime complement to Snyk's shift-left approach
 - [CI/CD](/notes/ci-cd) — Snyk's integration point
+- Salt Security Diligence — 2021 — diligence source where Snyk recurs as the developer-security comparison
+- [David Mark](/notes/david-mark) — reference-call source who cited Snyk's CI/CD integration, false-positive problem, and expansion trajectory

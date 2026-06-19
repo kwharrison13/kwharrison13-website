@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-18"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 6th, 2022 (Contrary Capital sourcing/diligence log): ~/Downloads/June 6th, 2022.md"
@@ -17,6 +17,9 @@ aliases:
 related:
   - "[[Max Gasner]]"
   - "[[Zac Townsend]]"
+  - "[[Crypto]]"
+  - "[[Insurance]]"
+  - "[[Ramp]]"
 ---
 
 # Standard.re
@@ -29,6 +32,14 @@ related:
 - Fundraise: ~$5M on $100M post; 2.5 years runway; talking to strategics (Coinbase, Alchemy, DCG) and reinsurer venture arms after Dragonfly pulled a term sheet on "Luna Wednesday."
 - 18-month roadmap: offshore whole life → variable universal life → onshore indexed UL/annuity; licenses in Bermuda (Q3 2022), Singapore, UAE, single-state US.
 - Hired Glenn Ren (ex-[Ramp](/notes/ramp)); needs a Solidity engineer.
+
+## Related concepts
+
+- [Max Gasner](/notes/max-gasner) — co-founder of Standard.re.
+- [Zac Townsend](/notes/zac-townsend) — co-founder of Standard.re.
+- [Crypto](/notes/crypto) — Standard.re issues crypto-denominated insurance products on-chain.
+- [Insurance](/notes/insurance) — the company builds life-insurance products (whole life, variable universal life, indexed UL/annuity).
+- [Ramp](/notes/ramp) — Standard.re hired Glenn Ren from Ramp.
 
 ## Where it shows up
 

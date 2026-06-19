@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research export — Andy Matuschak, 'Why Books Don't Work' (reading highlights + notes): ~/Downloads/Why Books Don't Work.md"
@@ -15,6 +15,7 @@ aliases:
   - "Transmissionism"
 related:
   - "[[Why Books Don't Work]]"
+  - "[[Andy Matuschak]]"
   - "[[Learning]]"
   - "[[Metacognition]]"
   - "[[Education]]"
@@ -36,5 +37,6 @@ related:
 
 ## Related concepts
 
+- [Andy Matuschak](/notes/andy-matuschak) — coined the pejorative framing here; argues the alternative ("to understand something, you must actively engage with it") would transform the medium.
 - [Metacognition](/notes/metacognition) — the skillset readers must supply themselves precisely because the medium offers no real cognitive model.
 - [Learning](/notes/learning) · [Education](/notes/education)

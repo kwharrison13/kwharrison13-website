@@ -23,7 +23,7 @@ aliases:
 related:
   - "[[Education]]"
   - "[[Henry Mintzberg]]"
-  - "[[Managers not MBAs]]"
+  - "[[Managers Not MBAs]]"
   - "[[Alternative Education]]"
   - "[[Retraining]]"
   - "[[Investment Banking]]"
@@ -54,7 +54,7 @@ The marketing clusters around a stable set of claims: rigor/analytics, leadershi
 ## What critics say
 
 - **Margaret Heffernan (CBS MoneyWatch)** — Her students worldwide are "too eager to please." The pleasers "act like undergrads," proffering the answers they think the teacher wants. "Such students will make excellent corporate foot soldiers but they won't make great leaders." See Margaret Heffernan.
-- **_Managers not MBAs_ (Henry Mintzberg), via Mark Ramm / Compound Thinking** — The central argument: management as taught by MBA programs is a failure because it chooses the **wrong people**, educates them in the **wrong way**, and produces the **wrong results**. MBAs are self-selected to "want to get ahead," and the program teaches them to compete rather than cooperate — "a terrible goal for a manager," since good managers are focused on helping the people they work for perform at their best. See [Henry Mintzberg](/notes/henry-mintzberg), [Managers not MBAs](/books/managers-not-mbas).
+- **_Managers not MBAs_ (Henry Mintzberg), via Mark Ramm / Compound Thinking** — The central argument: management as taught by MBA programs is a failure because it chooses the **wrong people**, educates them in the **wrong way**, and produces the **wrong results**. MBAs are self-selected to "want to get ahead," and the program teaches them to compete rather than cooperate — "a terrible goal for a manager," since good managers are focused on helping the people they work for perform at their best. See [Henry Mintzberg](/notes/henry-mintzberg), [Managers Not MBAs](/books/managers-not-mbas).
   - An anonymous commenter adds the **two-audiences problem**: programs serving the Wall Street / hedge-fund crowd alongside would-be entrepreneurs and operators serve neither well — the finance-track students aren't there to learn management at all.
 - **_The Economist_ (Free Exchange), "Those Greedy Self-Serving MBAs"** — On MBA cheating: "What's wrong with business school is not that some MBAs cheat. It's that they don't even feel compelled to lie about it." Programs "operate as, well, businesses" — students who declare themselves *customers* owed an entertaining, not-too-rigorous class (one demanded a section be videoed around his golf game). "The structure of some programmes serves to validate their narcissism."
 - **Aine Donovan (HBR), "Can Ethics Classes Cure Cheating?"** — Environment shapes behavior: once MBAs are "in the mechanics of business — particularly… finance — it's easier… to compromise their values." When authority figures ask people to act against their own values, most comply (the same people-pleasing Heffernan names). See Business Ethics.

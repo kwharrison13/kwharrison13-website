@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — May 16th, 2018 (networking/sourcing call log): ~/Downloads/May 16th, 2018.md"
@@ -18,6 +18,9 @@ aliases:
 related:
   - "[[The New City]]"
   - "[[Networking]]"
+  - "[[Sourcing]]"
+  - "[[City Building]]"
+  - "[[GovTech]]"
 ---
 
 # Networking Calls
@@ -52,5 +55,8 @@ related:
 
 ## Related concepts
 
-- [Networking](/notes/networking)
-- [The New City](/notes/the-new-city)
+- [Networking](/notes/networking) — the broader relationship-building activity this tag operationalizes.
+- [Sourcing](/notes/sourcing) — these calls double as deal/founder sourcing, the other purpose the tag marks.
+- [The New City](/notes/the-new-city) — the thesis context for the smart-city / mobility calls logged under this tag.
+- [City Building](/notes/city-building) — the domain most of the May 16th, 2018 calls cluster around.
+- [GovTech](/notes/govtech) — many counterparts (CoProcure, UrbanLeap, city officials) sit in the govtech space.

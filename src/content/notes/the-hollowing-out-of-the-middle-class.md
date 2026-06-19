@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The Hardening Of The Great Softening' notes"
@@ -20,6 +20,7 @@ related:
   - "[[The American Dream — Stop Calling it Capitalism]]"
   - "[[Capitalism]]"
   - "[[Temporarily Embarrassed Millionaires]]"
+  - "[[Noah Smith]]"
 ---
 
 # The Hollowing Out of the Middle Class
@@ -38,6 +39,7 @@ related:
 
 ## Related concepts
 
-- [The American Dream — Stop Calling it Capitalism](/essays/the-american-dream-stop-calling-it-capitalism)
-- [Capitalism](/notes/capitalism)
-- [Temporarily Embarrassed Millionaires](/notes/temporarily-embarrassed-millionaires)
+- [The American Dream — Stop Calling it Capitalism](/essays/the-american-dream-stop-calling-it-capitalism) — the essay reframing the felt decline of the middle as a critique of capitalism vs. the American dream.
+- [Capitalism](/notes/capitalism) — the system whose distribution of gains is implicated in the eroding "floor."
+- [Temporarily Embarrassed Millionaires](/notes/temporarily-embarrassed-millionaires) — the self-image that persists even as the stable middle thins out.
+- [Noah Smith](/notes/noah-smith) — source of the argument that the decline is less about everyone being worse off than about exacerbated income inequality.

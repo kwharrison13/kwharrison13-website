@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -27,6 +27,10 @@ related:
   - "[[Tenaya Capital]]"
   - "[[Advent International]]"
   - "[[September 22nd, 2021 — API Security Transcript (Salt Security)]]"
+  - "[[Snyk]]"
+  - "[[Postman]]"
+  - "[[Mulesoft]]"
+  - "[[Splunk]]"
 ---
 
 # Salt Security
@@ -62,3 +66,7 @@ related:
 - [API Security](/notes/api-security) — the category Salt Security pioneered
 - [API Gateways](/notes/api-gateways) — complementary infrastructure; Salt detects what gateways miss
 - [Developer-Led Security](/notes/developer-led-security) — Salt's surface-area approach vs. Snyk's command-line approach
+- [Snyk](/notes/snyk) — adjacent DevSecOps player contrasted with Salt's full-encapsulation approach in the API-security transcript
+- [Postman](/notes/postman) — API tooling vendor framed against Salt alongside the API firewall players
+- [Mulesoft](/notes/mulesoft) — integration partner; Salt ingests its API traffic
+- [Splunk](/notes/splunk) — SIEM integration target where Salt surfaces detected API attacks

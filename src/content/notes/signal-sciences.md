@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -18,6 +18,10 @@ related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[Fastly]]"
   - "[[API Security]]"
+  - "[[Cloudflare]]"
+  - "[[Prabhath Karanth]]"
+  - "[[Nir Rothenberg]]"
+  - "[[Michael Isbitski]]"
 ---
 
 # Signal Sciences
@@ -40,3 +44,7 @@ related:
 
 - [Fastly](/notes/fastly) — acquirer
 - [API Security](/notes/api-security) — the category it partially competes in
+- [Cloudflare](/notes/cloudflare) — Fastly's competitor around application firewalls, the context in which the acquisition was framed
+- [Prabhath Karanth](/notes/prabhath-karanth) — reference call subject who described it as a mature WAF business without fast-moving innovation
+- [Nir Rothenberg](/notes/nir-rothenberg) — reference call subject who called it a "Great WAF" but still fundamentally a WAF
+- [Michael Isbitski](/notes/michael-isbitski) — reference call subject who noted its F5 partnership and strength in bot mitigation

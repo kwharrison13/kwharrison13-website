@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
@@ -19,6 +19,8 @@ related:
   - "[[Nina Achadjian]]"
   - "[[Buildots]]"
   - "[[November 8th, 2021 — Buildots (from Molly Alter)]]"
+  - "[[Index Ventures]]"
+  - "[[Molly Alter]]"
 ---
 
 # Openspace.ai
@@ -38,3 +40,5 @@ related:
 
 - [Nina Achadjian](/notes/nina-achadjian) — reviewed the deal.
 - [Buildots](/notes/buildots) — competing construction-tech tool.
+- [Index Ventures](/notes/index-ventures) — the deal surfaced in an Index Ventures sourcing/diligence call.
+- [Molly Alter](/notes/molly-alter) — flagged Openspace as a competitor to [Buildots](/notes/buildots) in a later call.

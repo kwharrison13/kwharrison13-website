@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Noname Security - Diligence.md"
@@ -20,6 +20,11 @@ related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[Salt Security]]"
   - "[[API Security]]"
+  - "[[Traceable.ai]]"
+  - "[[Nir Rothenberg]]"
+  - "[[Atanu Dasgupta]]"
+  - "[[Insight Partners]]"
+  - "[[DevSecOps]]"
   - "[[November 2nd, 2021 — Oz Golan & Shay Levi (Noname Security)]]"
 ---
 
@@ -46,6 +51,10 @@ related:
 
 ## Related concepts
 
-- [Salt Security](/notes/salt-security) — primary head-to-head competitor
+- [Salt Security](/notes/salt-security) — primary head-to-head competitor; evaluated against Noname in every customer reference call
 - [API Security](/notes/api-security) — the category both companies operate in
-- [Traceable.ai](/notes/traceable-ai) — secondary competitor with different DevSecOps angle
+- [Traceable.ai](/notes/traceable-ai) — secondary competitor with different [DevSecOps](/notes/devsecops) angle
+- [DevSecOps](/notes/devsecops) — the development-to-production lifecycle framing behind Noname's end-to-end API posture vision
+- [Nir Rothenberg](/notes/nir-rothenberg) — diligence evaluator who described Noname's posture-management edge and full packet-capture / agent-deployment model
+- [Atanu Dasgupta](/notes/atanu-dasgupta) — diligence evaluator who critiqued Noname's ML false positives and non-cloud-native (hybrid on-prem) architecture
+- [Insight Partners](/notes/insight-partners) — led Noname's $60M Series B per the dedicated dossier

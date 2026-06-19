@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -18,6 +18,9 @@ aliases:
 related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[API Security]]"
+  - "[[Salt Security]]"
+  - "[[API Gateways]]"
+  - "[[Michael Isbitski]]"
 ---
 
 # OWASP
@@ -37,4 +40,7 @@ related:
 
 ## Related concepts
 
-- [API Security](/notes/api-security) — the category OWASP defines the threats for
+- [API Security](/notes/api-security) — the category OWASP defines the threats for via the API Security Top 10
+- [Salt Security](/notes/salt-security) — uses the OWASP API Security Top 10 as a GTM reference ("Are you vulnerable to the top 10 OWASP-type risks?")
+- [API Gateways](/notes/api-gateways) — among the traditional controls OWASP notes miss API-context attacks like BOLA
+- [Michael Isbitski](/notes/michael-isbitski) — cites the CapitalOne WAF/SSRF case in the context of OWASP-style API risks

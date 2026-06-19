@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/The Hits Business - Research.md"
@@ -16,6 +16,7 @@ aliases:
 related:
   - "[[Mario Gabriele]]"
   - "[[The Hits Business]]"
+  - "[[A24]]"
 ---
 
 # The Generalist
@@ -33,4 +34,6 @@ related:
 
 ## Related concepts
 
-- [Mario Gabriele](/notes/mario-gabriele), [A24](/notes/a24)
+- [Mario Gabriele](/notes/mario-gabriele) — runs the publication and authored its A24 briefing.
+- [A24](/notes/a24) — subject of the publication's "Rise of a Cultural Conglomerate" briefing that anchors Kyle's notes.
+- [The Hits Business](/essays/the-hits-business) — concept the A24 briefing feeds into.

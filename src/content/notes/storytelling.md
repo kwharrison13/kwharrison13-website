@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/China in Ten Words.md"
@@ -19,6 +19,10 @@ aliases:
 related:
   - "[[First Principles Thinking]]"
   - "[[Storytelling as Leadership]]"
+  - "[[21 Lessons for the 21st Century]]"
+  - "[[Yuval Noah Harari]]"
+  - "[[Elon Musk]]"
+  - "[[Bob Iger]]"
 ---
 
 # Storytelling
@@ -45,3 +49,7 @@ related:
 
 - [Storytelling as Leadership](/notes/storytelling-as-leadership) — the leadership-specific application (see [The Founders](/books/the-founders)).
 - [First Principles Thinking](/notes/first-principles-thinking) — the counterweight: reasoning from facts rather than narrative.
+- [21 Lessons for the 21st Century](/books/21-lessons-for-the-21st-century) — source for the claim that humans think in stories rather than facts, and the simpler the story the better.
+- [Yuval Noah Harari](/notes/yuval-noah-harari) — author of that claim about humans as narrative creatures.
+- [Elon Musk](/notes/elon-musk) — exemplar of "storytelling beats spreadsheets," whose story of the future overrode the numbers.
+- [Bob Iger](/notes/bob-iger) — frames storytelling as a learnable leadership craft (structure, pacing, clarity) absorbed from Roone Arledge.

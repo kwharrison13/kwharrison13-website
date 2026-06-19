@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
@@ -21,6 +21,11 @@ related:
   - "[[Sunil Patro]]"
   - "[[DocuSign ($DOCU)]]"
   - "[[HelloSign]]"
+  - "[[SMB]]"
+  - "[[Index Ventures]]"
+  - "[[Freemium]]"
+  - "[[Net Revenue Retention]]"
+  - "[[COVID]]"
 ---
 
 # SignEasy
@@ -37,5 +42,10 @@ related:
 
 ## Related concepts
 
-- [DocuSign ($DOCU)](/notes/docusign-docu) — the benchmark incumbent
+- [DocuSign ($DOCU)](/notes/docusign-docu) — the benchmark incumbent and the only other e-signature solution Apple promotes
 - [HelloSign](/notes/hellosign) — competitor
+- [SMB](/notes/smb) — its target market; sees a blue-ocean $20-30B SMB e-signature opportunity growing 30%+ post-COVID
+- [Freemium](/notes/freemium) — model SignEasy has not yet adopted (free trial + paid upgrade instead)
+- [Net Revenue Retention](/notes/net-revenue-retention) — its business segment runs ~110% net retention and 85% logo retention
+- [Index Ventures](/notes/index-ventures) — firm running the sourcing/diligence call this page draws from
+- [COVID](/notes/covid) — cited as the catalyst accelerating SMB e-signature adoption 30%+

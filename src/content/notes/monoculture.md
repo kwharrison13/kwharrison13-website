@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/The Hits Business - Research.md"
@@ -15,8 +15,10 @@ aliases:
   - "Monoculture"
 related:
   - "[[The Hits Business]]"
+  - "[[The Hits Business - Research]]"
   - "[[Intellectual Property]]"
   - "[[Tastemakers]]"
+  - "[[A24]]"
 ---
 
 # Monoculture
@@ -34,4 +36,7 @@ related:
 
 ## Related concepts
 
-- [Intellectual Property](/notes/intellectual-property), [Tastemakers](/notes/tastemakers), [A24](/notes/a24)
+- [Intellectual Property](/notes/intellectual-property) — the "monoculture model of filmmaking" runs on legacy IP, sequels, and requels rather than original work.
+- [A24](/notes/a24) — built its identity by betting that a genuine point of view stands out against the homogeneous cultural landscape.
+- [Tastemakers](/notes/tastemakers) — curators whose distinct sensibility is the counterweight to monoculture sameness.
+- [The Hits Business](/essays/the-hits-business) / The Hits Business - Research — where the `#Monoculture` framing originates in Kyle's notes on the economics of cultural hits.

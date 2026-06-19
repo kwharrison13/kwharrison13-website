@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Remote — Office Not Required.md"
@@ -19,6 +19,8 @@ related:
   - "[[Open Source Knowledge]]"
   - "[[Intrinsic Motivation]]"
   - "[[Maintenance]]"
+  - "[[Remote Work]]"
+  - "[[John von Neumann]]"
 ---
 
 # Open Source
@@ -47,3 +49,5 @@ related:
 - [Open Source Knowledge](/notes/open-source-knowledge) — the knowledge-sharing sibling concept.
 - [Intrinsic Motivation](/notes/intrinsic-motivation) — why contributors create, and why maintenance is harder to sustain.
 - [Maintenance](/notes/maintenance) — the under-motivated half of the open-source lifecycle.
+- [Remote Work](/notes/remote-work) — open source serves as the proof case for distributed, asynchronous work.
+- [John von Neumann](/notes/john-von-neumann) — his deliberate public-domain, publish-progress strategy as a Cold War precedent for open computing.

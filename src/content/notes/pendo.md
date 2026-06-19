@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "/Users/kwharrison13/Downloads/Sprig fka UserLeap - Diligence.md"
@@ -17,6 +17,10 @@ aliases:
 related:
   - "[[Sprig fka UserLeap - Diligence]]"
   - "[[Sprig]]"
+  - "[[Qualtrics]]"
+  - "[[Dropbox]]"
+  - "[[Rishi Ahuja]]"
+  - "[[Square]]"
 ---
 
 # Pendo
@@ -34,4 +38,8 @@ related:
 
 ## Related concepts
 
-- [Sprig](/notes/sprig)
+- [Sprig](/notes/sprig) — Pendo is raised as the commoditization/self-build comparison ("a white-labeled Qualtrics form in a Pendo") for Sprig.
+- [Qualtrics](/notes/qualtrics) — invoked in the same framing as the underlying survey form being white-labeled into a Pendo.
+- [Dropbox](/notes/dropbox) — considered Pendo as a Sprig alternative for in-app surveys.
+- [Rishi Ahuja](/notes/rishi-ahuja) — source of the competitive "why is this better than a white-labeled Qualtrics form in a Pendo?" question.
+- [Square](/notes/square) — Rishi Ahuja's affiliation in the diligence framing of the Pendo comparison.

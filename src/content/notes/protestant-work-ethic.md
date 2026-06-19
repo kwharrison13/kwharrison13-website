@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The Hardening Of The Great Softening' notes"
@@ -19,7 +19,9 @@ aliases:
 related:
   - "[[Max Weber]]"
   - "[[Book of Mormon]]"
-  - "[[hard work]]"
+  - "[[Hard Work]]"
+  - "[[Capitalism]]"
+  - "[[The Hardening Of The Great Softening - Research]]"
 ---
 
 # Protestant Work Ethic
@@ -36,6 +38,8 @@ related:
 
 ## Related concepts
 
-- [Max Weber](/notes/max-weber)
-- [Book of Mormon](/notes/book-of-mormon)
-- [hard work](/notes/hard-work)
+- [Max Weber](/notes/max-weber) — author of the thesis tying Protestant theology to worldly diligence and wealth.
+- [Capitalism](/notes/capitalism) — Weber's full thesis (The Protestant Ethic and the Spirit of Capitalism) names this as what the work ethic helped produce.
+- [Book of Mormon](/notes/book-of-mormon) — Kyle's Latter-day Saint analog: the promise that "if you're righteous you'll prosper."
+- [Hard Work](/notes/hard-work) — the diligence the ethic frames as a demonstration of God's favor.
+- The Hardening Of The Great Softening - Research — the research notes where Kyle works through prosperity, grace, and the religious roots of the work ethic.

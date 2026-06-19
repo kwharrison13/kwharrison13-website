@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
@@ -17,6 +17,7 @@ aliases:
 related:
   - "[[September 22nd, 2021 — Nina Achadjian (Index Ventures)]]"
   - "[[Nina Achadjian]]"
+  - "[[Index Ventures]]"
 ---
 
 # Monograph
@@ -34,3 +35,4 @@ related:
 ## Related concepts
 
 - [Nina Achadjian](/notes/nina-achadjian) — reviewed the deal.
+- [Index Ventures](/notes/index-ventures) — the firm whose sourcing/diligence call surfaced Monograph's $120K-priced, $120M-post deal.

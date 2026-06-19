@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "/Users/kwharrison13/Downloads/Sprig fka UserLeap - Diligence.md"
@@ -18,6 +18,7 @@ related:
   - "[[User Research]]"
   - "[[Sprig]]"
   - "[[Lookback]]"
+  - "[[Square]]"
 ---
 
 # UserTesting
@@ -38,6 +39,7 @@ related:
 
 ## Related concepts
 
-- [User Research](/notes/user-research)
-- [Lookback](/notes/lookback)
-- [Sprig](/notes/sprig)
+- [User Research](/notes/user-research) — UserTesting is the heavyweight platform within this broader category of in-depth user research.
+- [Lookback](/notes/lookback) — a lighter-weight session-recording tool named alongside UserTesting as an alternative for live/async interviews.
+- [Sprig](/notes/sprig) — positioned as UserTesting's complement: in-product micro-surveys versus UserTesting's recruited-panel deep research.
+- [Square](/notes/square) — cited as a case where paid panel participants weren't the average customer served, a deterrent to using UserTesting.

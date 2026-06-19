@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/The Autobiography of Benjamin Franklin.md"
@@ -15,6 +15,7 @@ aliases:
 related:
   - "[[Benjamin Franklin]]"
   - "[[Ben Franklin Effect]]"
+  - "[[The Autobiography of Benjamin Franklin]]"
 ---
 
 # Motivated Reasoning
@@ -26,6 +27,12 @@ A committed vegetarian, Franklin was tempted by the smell of frying cod. He held
 > "So convenient a thing to be a reasonable creature, since it enables one to find or make a reason for everything one has a mind to do."
 
 The [Ben Franklin Effect](/notes/ben-franklin-effect) is the same machinery pointed in a useful direction: people rationalize their *actions* into matching *feelings*.
+
+## Related concepts
+
+- [Benjamin Franklin](/notes/benjamin-franklin) — supplied the canonical illustration: rationalizing his way out of vegetarianism over the smell of frying cod.
+- [Ben Franklin Effect](/notes/ben-franklin-effect) — the same rationalizing machinery aimed usefully, with people reasoning their actions into matching feelings.
+- [The Autobiography of Benjamin Franklin](/books/the-autobiography-of-benjamin-franklin) — the source for the cod episode and Franklin's verdict on being a "reasonable creature."
 
 ## Where this appears
 

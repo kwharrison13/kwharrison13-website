@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The Hardening Of The Great Softening' notes"
@@ -19,6 +19,9 @@ related:
   - "[[Primitivism]]"
   - "[[Ambition]]"
   - "[[Garden of Eden]]"
+  - "[[The Hardening Of The Great Softening]]"
+  - "[[The Hardening Of The Great Softening - Research]]"
+  - "[[Toil We Must]]"
 ---
 
 # Progressivism
@@ -37,6 +40,9 @@ related:
 
 ## Related concepts
 
-- [Primitivism](/notes/primitivism)
-- [Ambition](/notes/ambition)
-- [Garden of Eden](/notes/garden-of-eden)
+- [Primitivism](/notes/primitivism) — the posed counterweight; progressivism vs. primitivism is the central tension Kyle frames.
+- [Ambition](/notes/ambition) — the drive toward "more progression" and personal, not just economic, growth.
+- [Garden of Eden](/notes/garden-of-eden) — the primitivist ideal of return that progressivism pushes against.
+- [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening) — published essay where Kyle states "I consider myself a progressivist."
+- The Hardening Of The Great Softening - Research — research notes posing progressivism vs. primitivism as the central frame.
+- [Toil We Must](/essays/toil-we-must) — earlier essay echoing the "more technology, more progression" orientation.

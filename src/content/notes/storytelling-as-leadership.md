@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-15"
-updated: "2026-06-15"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/readwise/The Founders by Jimmy Soni.md"
@@ -25,6 +25,10 @@ related:
   - "[[Six-Page Narratives]]"
   - "[[The Founders]]"
   - "[[Amazon Unbound]]"
+  - "[[Peter Thiel]]"
+  - "[[First Principles Thinking]]"
+  - "[[Founders Mentality]]"
+  - "[[Max Levchin]]"
 ---
 
 # Storytelling as Leadership
@@ -55,3 +59,7 @@ The sources differ on **the bound of acceptable exaggeration**. Soni notes that 
 - [Six-Page Narratives](/notes/six-page-narratives) — Bezos's institutional implementation of storytelling-with-discipline
 - [First Principles Thinking](/notes/first-principles-thinking) — the analytical work that produces the conclusion the story dramatizes
 - [Founders Mentality](/notes/founders-mentality) — the cultural context where storytelling-as-leadership remains a legitimate operating tool past early-stage
+- [Peter Thiel](/notes/peter-thiel) — a PayPal contemporary who, per the page's Conflicts section, privately worried about the credibility risk in Musk's exaggeration
+- [Max Levchin](/notes/max-levchin) — cited in "Where it shows up" for calling *Seven Samurai* his "management training," a narrative lens on leadership
+- [Elon Musk](/notes/elon-musk) — the page's central exemplar; his X.com pitches and "tell a story about cogs" recruiting playbook
+- [Jeff Bezos](/notes/jeff-bezos) — the contrasting exemplar whose six-page narratives constrain rhetoric with data

@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-15"
-updated: "2026-06-15"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/readwise/Amazon Unbound by Brad Stone.md"
@@ -25,6 +25,9 @@ related:
   - "[[Storytelling as Leadership]]"
   - "[[Two-Pizza Teams]]"
   - "[[Founders Mentality]]"
+  - "[[Writing]]"
+  - "[[Reading]]"
+  - "[[Amazon]]"
 ---
 
 # Six-Page Narratives
@@ -54,3 +57,6 @@ The Onetto incident reveals a known failure mode: a poorly written narrative can
 - [Storytelling as Leadership](/notes/storytelling-as-leadership) — the form discipline that Bezos's narratives constrain rhetoric with data
 - [Two-Pizza Teams](/notes/two-pizza-teams) — the unit of narrative production
 - [Founders Mentality](/notes/founders-mentality) — the cultural context where this kind of writing discipline survives scale
+- [Writing](/notes/writing) — the producer-side discipline the narrative format forces; clear writing is clear thinking
+- [Reading](/notes/reading) — the consumer-side discipline (silent reading at the start of meetings) that must pair with the writing culture, per Kyle's marginalia
+- [Amazon](/notes/amazon) — the company whose meeting and innovation rituals institutionalized the format

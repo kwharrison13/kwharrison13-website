@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
@@ -22,6 +22,7 @@ related:
   - "[[Behavioral Health]]"
   - "[[Lyra]]"
   - "[[Vertical Integration]]"
+  - "[[Index Ventures]]"
 ---
 
 # Spring Health
@@ -41,3 +42,4 @@ related:
 - [Behavioral Health](/notes/behavioral-health) — its market.
 - [Lyra](/notes/lyra) — main competitor.
 - [Vertical Integration](/notes/vertical-integration) — its core strategy.
+- [Index Ventures](/notes/index-ventures) — surfaced via an Index Ventures sourcing/diligence call with co-founder [Adam Chekroud](/notes/adam-chekroud).

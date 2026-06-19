@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/What Is An Investor - Research.md"
@@ -20,6 +20,9 @@ related:
   - "[[The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing]]"
   - "[[Knightian Uncertainty]]"
   - "[[What Is An Investor - Research]]"
+  - "[[What Is An Investor]]"
+  - "[[Josh Wolfe]]"
+  - "[[Kevin Gao]]"
 ---
 
 # Skill vs. Luck
@@ -41,4 +44,9 @@ related:
 ## Related concepts
 
 - [Knightian Uncertainty](/notes/knightian-uncertainty) — high uncertainty leaves more room for skill to create an edge.
-- [The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing](/notes/the-success-equation)
+- [The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing](/notes/the-success-equation) — [Michael Mauboussin](/notes/michael-mauboussin)'s book-length treatment of the skill/luck continuum cited throughout this page.
+- [Michael Mauboussin](/notes/michael-mauboussin) — source of the continuum framing and the call to find process-based, controllable performance measures.
+- [Josh Wolfe](/notes/josh-wolfe) — argues much success is luck, so the move is to "position yourself to maximize your luck."
+- [Kevin Gao](/notes/kevin-gao) — the May 2022 conversation in which Kyle worked out where investing falls on the continuum.
+- [What Is An Investor](/essays/what-is-an-investor) — Kyle's essay, whose "Luck vs. Skill" and "Don't Make It Personal" sections apply this distinction.
+- What Is An Investor - Research — research notes feeding the essay, gathering the Mauboussin/Wolfe reading and the Gao conversation.

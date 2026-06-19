@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/calls/May 31st, 2018.md"
@@ -18,6 +18,7 @@ aliases:
 related:
   - "[[Destination: Home]]"
   - "[[Homelessness]]"
+  - "[[Cisco]]"
 ---
 
 # Social Innovation
@@ -38,5 +39,6 @@ related:
 
 ## Related concepts
 
-- [Homelessness](/notes/homelessness)
-- [Destination: Home](/notes/destination-home)
+- [Destination: Home](/notes/destination-home) — collective-impact model embodying social innovation: convening public/private partners, deploying forgivable capital, incubating data-driven systems the county institutionalizes.
+- [Homelessness](/notes/homelessness) — the entrenched social problem this cross-sector approach targets.
+- [Cisco](/notes/cisco) — corporate philanthropy example ($50M grant) framed as a community-partnership necessity rather than a tax on the corporate partner.

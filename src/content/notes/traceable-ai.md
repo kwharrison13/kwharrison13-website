@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -21,6 +21,10 @@ related:
   - "[[Noname Security]]"
   - "[[API Security]]"
   - "[[DevSecOps]]"
+  - "[[CI/CD]]"
+  - "[[Nir Rothenberg]]"
+  - "[[Prabhath Karanth]]"
+  - "[[David Mark]]"
 ---
 
 # Traceable.ai
@@ -39,7 +43,11 @@ related:
 
 ## Related concepts
 
-- [Salt Security](/notes/salt-security) — primary competitor
-- [Noname Security](/notes/noname-security) — primary competitor
+- [Salt Security](/notes/salt-security) — primary competitor, the subject of the diligence where Traceable surfaced
+- [Noname Security](/notes/noname-security) — primary competitor in the same API security field
 - [API Security](/notes/api-security) — the category
-- [DevSecOps](/notes/devsecops) — Traceable's differentiating angle
+- [DevSecOps](/notes/devsecops) — Traceable's differentiating angle, spanning testing and production
+- [CI/CD](/notes/ci-cd) — the integration point cited as Traceable's particular strength
+- [Nir Rothenberg](/notes/nir-rothenberg) — diligence reference who described Traceable as "rudimentary and just raw" in early 2021
+- [Prabhath Karanth](/notes/prabhath-karanth) — TripActions reference who listed Traceable as a competitor he "hears good things" about
+- [David Mark](/notes/david-mark) — Appsflyer reference who named Traceable as a Salt alternative under evaluation

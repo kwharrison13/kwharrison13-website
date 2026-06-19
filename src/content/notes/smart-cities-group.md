@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — May 16th, 2018 (networking/sourcing call log): ~/Downloads/May 16th, 2018.md"
@@ -17,6 +17,7 @@ aliases:
 related:
   - "[[William Tewelow]]"
   - "[[The New City]]"
+  - "[[City Building]]"
 ---
 
 # Smart Cities Group
@@ -26,6 +27,12 @@ related:
 ## How sources describe it
 
 - Focused on networking, collaboration, innovation, and marketing among new-technology entrants; ~263 local members, an advisory board, and ambitions to expand to other cities. (May 16th, 2018 — William Tewelow (Smart Cities Group))
+
+## Related concepts
+
+- [William Tewelow](/notes/william-tewelow) — founder who grew the group out of a meetup.
+- [The New City](/notes/the-new-city) — adjacent smart-city / urban-innovation effort surfaced in the same context.
+- [City Building](/notes/city-building) — the broader theme of designing and developing cities that this smart-city collaboration platform feeds into.
 
 ## Where it shows up
 

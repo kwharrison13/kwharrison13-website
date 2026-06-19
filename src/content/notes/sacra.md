@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Open-Source Knowledge - Research.md"
@@ -16,6 +16,8 @@ aliases:
 related:
   - "[[Open-Source Knowledge - Research]]"
   - "[[Contrary Research]]"
+  - "[[Open-Source Knowledge]]"
+  - "[[Equity Research]]"
 ---
 
 # Sacra
@@ -33,5 +35,7 @@ related:
 
 ## Related concepts
 
-- [Contrary Research](/essays/contrary-research)
-- [Equity Research](/notes/equity-research)
+- [Contrary Research](/essays/contrary-research) — co-listed market-landscape research source for private companies.
+- [Open-Source Knowledge](/essays/open-source-knowledge) — the published essay that names Sacra and Substack as "the documentation aggregators."
+- Open-Source Knowledge - Research — research notes where Sacra appears in the company-building knowledge stack.
+- [Equity Research](/notes/equity-research) — Sacra is a private-company analogue to traditional equity research.

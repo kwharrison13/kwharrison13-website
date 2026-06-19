@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The Hardening Of The Great Softening' notes"
@@ -17,6 +17,7 @@ aliases:
 related:
   - "[[John Rawls]]"
   - "[[The American Dream — Stop Calling it Capitalism]]"
+  - "[[The Hardening Of The Great Softening - Research]]"
 ---
 
 # Veil of Ignorance
@@ -33,5 +34,6 @@ related:
 
 ## Related concepts
 
-- [John Rawls](/notes/john-rawls)
-- [The American Dream — Stop Calling it Capitalism](/essays/the-american-dream-stop-calling-it-capitalism)
+- [John Rawls](/notes/john-rawls) — originator of the thought experiment and the "original position" it formalizes.
+- [The American Dream — Stop Calling it Capitalism](/essays/the-american-dream-stop-calling-it-capitalism) — applies the veil to the floor-vs.-ceiling tradeoff in American opportunity.
+- The Hardening Of The Great Softening - Research — where Kyle deploys the veil as a test of American fairness.

@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The Hardening Of The Great Softening' notes"
@@ -35,5 +35,6 @@ related:
 
 ## Related concepts
 
-- [Matt Yglesias](/notes/matt-yglesias)
-- [American Exceptionalism on Trial](/notes/american-exceptionalism-on-trial)
+- [Matt Yglesias](/notes/matt-yglesias) — author of the *One Billion Americans* book and the source of the immigration-driven population argument.
+- [American Exceptionalism on Trial](/notes/american-exceptionalism-on-trial) — frames the same question of whether America is in decline that the proposal responds to.
+- The Hardening Of The Great Softening - Research — the research thread where the idea surfaces, alongside the great-powers-decline framing.

@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — May 16th, 2018 (networking/sourcing call log): ~/Downloads/May 16th, 2018.md"
@@ -16,6 +16,9 @@ aliases:
 related:
   - "[[Steve Case]]"
   - "[[The New City]]"
+  - "[[J. D. Vance]]"
+  - "[[Jeff Bezos]]"
+  - "[[May 16th, 2018 — Steve Case Interview (Rise of the Rest)]]"
 ---
 
 # Rise of the Rest
@@ -33,4 +36,8 @@ related:
 
 ## Related concepts
 
-- [The New City](/notes/the-new-city)
+- [The New City](/notes/the-new-city) — adjacent thesis on geographic diffusion of growth beyond established coastal hubs.
+- [Steve Case](/notes/steve-case) — founder of the initiative and its $150M seed fund.
+- [J. D. Vance](/notes/j-d-vance) — co-led the Rise of the Rest seed fund with Case.
+- [Jeff Bezos](/notes/jeff-bezos) — among the named backers of the $150M fund.
+- May 16th, 2018 — Steve Case Interview (Rise of the Rest) — the Term Sheet Q&A source detailing the tour and fund.

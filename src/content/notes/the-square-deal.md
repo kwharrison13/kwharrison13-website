@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Unions, Unions Everywhere - Research.md"
@@ -23,6 +23,7 @@ related:
   - "[[City Building]]"
   - "[[Gerald Zahavi]]"
   - "[[Unions, Unions Everywhere - Research]]"
+  - "[[Internalizing Negative Externalities]]"
 ---
 
 # The Square Deal
@@ -43,6 +44,8 @@ related:
 
 ## Related concepts
 
-- [Unions](/notes/unions)
-- [City Building](/notes/city-building)
-- [Internalizing Negative Externalities](/notes/internalizing-negative-externalities)
+- [Unions](/notes/unions) — the Square Deal was explicitly engineered so workers would feel like partners and not need one.
+- [City Building](/notes/city-building) — Endicott-Johnson built a near-utopian company town with free libraries, parks, hospitals, pools, and theaters.
+- [Internalizing Negative Externalities](/notes/internalizing-negative-externalities) — the wager that taking care of workers' welfare directly could keep the company competitive rather than externalizing those costs.
+- [George F. Johnson](/notes/george-f-johnson) — coined the term and ran the welfare-capitalism program at Endicott-Johnson.
+- [Gerald Zahavi](/notes/gerald-zahavi) — historian whose verdict frames the Square Deal as an anachronism today.

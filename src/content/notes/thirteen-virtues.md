@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/The Autobiography of Benjamin Franklin.md"
@@ -18,6 +18,9 @@ related:
   - "[[Benjamin Franklin]]"
   - "[[Atomic Habits]]"
   - "[[The Speckled Ax]]"
+  - "[[The Autobiography of Benjamin Franklin]]"
+  - "[[Jesus]]"
+  - "[[Socrates]]"
 ---
 
 # Thirteen Virtues
@@ -43,6 +46,15 @@ related:
 ## Notes
 
 - Franklin's candor about *failing* at this project — see [The Speckled Ax](/notes/the-speckled-ax) — is as important as the list itself.
+
+## Related concepts
+
+- [Benjamin Franklin](/notes/benjamin-franklin) — devised the scheme for "moral perfection" and tracked himself against it one virtue at a time.
+- [The Autobiography of Benjamin Franklin](/books/the-autobiography-of-benjamin-franklin) — the source where Franklin lays out the list and his self-examination method.
+- [Atomic Habits](/books/atomic-habits) — the modern descendant of Franklin's measure-and-iterate approach to behavior change.
+- [The Speckled Ax](/notes/the-speckled-ax) — Franklin's parable of giving up on perfection, the candid counterpoint to the virtue list.
+- [Jesus](/notes/jesus) — named by Franklin as a model for the thirteenth virtue, Humility.
+- [Socrates](/notes/socrates) — paired with Jesus as the exemplar Franklin invokes for Humility.
 
 ## Where this appears
 

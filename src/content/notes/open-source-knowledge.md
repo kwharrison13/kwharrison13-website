@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
@@ -28,6 +28,10 @@ related:
   - "[[Open-Source Knowledge]]"
   - "[[Knowledge Economy]]"
   - "[[Wikipedia]]"
+  - "[[Learning in Public]]"
+  - "[[John von Neumann]]"
+  - "[[Writing]]"
+  - "[[Compounding]]"
 ---
 
 # Open Source Knowledge
@@ -60,6 +64,11 @@ related:
 - [Republic of Letters](/notes/republic-of-letters) — the historical antecedent of an open knowledge commons.
 - [Investing 101 2.0](/notes/investing-101-2-0) — Kyle's own practice of learning in public.
 - [Maintenance](/notes/maintenance) — why open knowledge decays without active tending.
+- [Learning in Public](/notes/learning-in-public) — the practice of sharing expertise openly as you go, named directly by [Working in Public](/books/working-in-public).
+- [Compounding](/notes/compounding) — the mechanism by which online knowledge "never dies" and accumulates over time.
+- [John von Neumann](/notes/john-von-neumann) — kept his work in the public domain to accelerate the field, the Cold War open-source instinct described in [The Man From The Future](/books/the-man-from-the-future).
+- [Writing](/notes/writing) — the core skill of distributed, async knowledge work per [Remote — Office Not Required](/books/remote-office-not-required).
+- [Knowledge Economy](/notes/knowledge-economy) — the broader economic frame for knowledge as a value-bearing commons.
 
 
 ## Quick Capture links — June 29th, 2021

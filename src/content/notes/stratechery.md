@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Open-Source Knowledge - Research.md"
@@ -17,6 +17,7 @@ aliases:
 related:
   - "[[Ben Thompson]]"
   - "[[Colossus]]"
+  - "[[Contrary Research]]"
   - "[[Open-Source Knowledge - Research]]"
 ---
 
@@ -34,5 +35,6 @@ related:
 
 ## Related concepts
 
-- [Ben Thompson](/notes/ben-thompson)
-- [Colossus](/notes/colossus)
+- [Ben Thompson](/notes/ben-thompson) — author of Stratechery; the publication is his subscription analysis venture.
+- [Colossus](/notes/colossus) — paired with Stratechery as deep, high-quality writing that "doesn't scale" the way bite-sized company intros do.
+- [Contrary Research](/essays/contrary-research) — its market-landscape notes cite Stratechery as an example of depth that trades off against scale.

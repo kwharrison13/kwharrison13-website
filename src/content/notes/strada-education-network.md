@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/calls/May 31st, 2018.md"
@@ -17,6 +17,11 @@ aliases:
   - "Strada"
 related:
   - "[[Andre Bennin]]"
+  - "[[Solamere Capital]]"
+  - "[[Future of Work]]"
+  - "[[Education]]"
+  - "[[Venture Capital]]"
+  - "[[Social Innovation]]"
 ---
 
 # Strada Education Network
@@ -40,4 +45,9 @@ related:
 
 ## Related concepts
 
-- [social innovation](/notes/social-innovation)
+- [Social Innovation](/notes/social-innovation) — Strada's mission-driven, "completion with a purpose" orientation as an education-focused nonprofit investor.
+- [Education](/notes/education) — invests across the student lifecycle (student success, completion, workforce transition).
+- [Future of Work](/notes/future-of-work) — launched a dedicated Future of Work seed fund; thesis shifting toward workforce transition and skills.
+- [Venture Capital](/notes/venture-capital) — invests off its balance sheet from Seed to Series A and operates as a fund-of-funds LP.
+- [Solamere Capital](/notes/solamere-capital) — one of Strada's fund-of-funds positions; Strada is an LP in Solamere.
+- [Andre Bennin](/notes/andre-bennin) — led the intro call describing Strada's platform and investing approach.

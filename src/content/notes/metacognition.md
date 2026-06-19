@@ -42,5 +42,8 @@ related:
 ## Related concepts
 
 - [Transmissionism](/notes/transmissionism) — the false model whose vacuum the reader is forced to fill with metacognition.
+- [Active Reading](/notes/active-reading) — the concrete practice (asking questions, re-reading, checking understanding) that operationalizes the metacognitive skills Matuschak names.
 - [How To Take Smart Notes](/books/how-to-take-smart-notes) — active reading (summarize, synthesize, analyze) as applied metacognition.
+- [Andy Matuschak](/notes/andy-matuschak) — author of [Why Books Don't Work](/notes/why-books-don-t-work), who frames metacognition as the load static prose offloads onto readers.
+- [Education](/notes/education) — courses exist partly to shoulder the metacognitive burden (scope/sequence, feedback, office hours).
 - [Learning](/notes/learning) · [Self-Reflection](/notes/self-reflection)

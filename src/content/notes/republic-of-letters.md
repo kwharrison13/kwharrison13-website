@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The State of Startup Media' notes"
@@ -24,6 +24,7 @@ related:
   - "[[Memetics]]"
   - "[[Open-Source Knowledge]]"
   - "[[Erasmus]]"
+  - "[[Storytelling]]"
 ---
 
 # Republic of Letters

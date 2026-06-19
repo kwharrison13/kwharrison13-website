@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The Hardening Of The Great Softening' notes"
@@ -18,6 +18,8 @@ related:
   - "[[Progressivism]]"
   - "[[Stoicism]]"
   - "[[Garden of Eden]]"
+  - "[[Lindy Principle]]"
+  - "[[The Hardening Of The Great Softening - Research]]"
 ---
 
 # Primitivism
@@ -36,6 +38,8 @@ related:
 
 ## Related concepts
 
-- [Progressivism](/notes/progressivism)
-- [Stoicism](/notes/stoicism)
-- [Garden of Eden](/notes/garden-of-eden)
+- [Progressivism](/notes/progressivism) — the opposing pole; primitivism is framed throughout as its counterweight, and Kyle positions himself as a progressivist.
+- [Stoicism](/notes/stoicism) — a kindred orientation toward simplicity and restraint, contrasted against the progressivist drive.
+- [Garden of Eden](/notes/garden-of-eden) — the test case for whether Eden was about progression or primitivism.
+- [Lindy Principle](/notes/lindy-principle) — invoked in asking whether the thought leaders who stand the test of time are primitivists or progressivists.
+- The Hardening Of The Great Softening - Research — where primitivism vs. progressivism is developed as a frame for ambition and the "great softening."

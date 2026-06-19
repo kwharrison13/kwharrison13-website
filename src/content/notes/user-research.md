@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "/Users/kwharrison13/Downloads/Sprig fka UserLeap - Diligence.md"
@@ -19,6 +19,8 @@ related:
   - "[[UserTesting]]"
   - "[[Lookback]]"
   - "[[Great Question]]"
+  - "[[Dropbox]]"
+  - "[[Yue Wu]]"
 ---
 
 # User Research
@@ -38,7 +40,9 @@ related:
 
 ## Related concepts
 
-- [Sprig](/notes/sprig)
-- [UserTesting](/notes/usertesting)
-- [Lookback](/notes/lookback)
-- [Great Question](/notes/great-question)
+- [Sprig](/notes/sprig) — contextual in-app micro-survey approach to user research.
+- [UserTesting](/notes/usertesting) — recruited-panel and interview vendor in the research stack.
+- [Lookback](/notes/lookback) — live recorded 1x1 interview tooling.
+- [Great Question](/notes/great-question) — live recorded interview tool alongside Lookback.
+- [Dropbox](/notes/dropbox) — cited example that medium/smaller teams are "the wild west" for research setup.
+- [Yue Wu](/notes/yue-wu) — source of the unmet "insights company" dream bridging quantitative product data and qualitative research.

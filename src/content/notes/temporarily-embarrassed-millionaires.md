@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The Hardening Of The Great Softening' notes"
@@ -17,8 +17,10 @@ aliases:
   - "Temporarily Embarrassed Millionaire"
 related:
   - "[[The American Dream — Stop Calling it Capitalism]]"
+  - "[[The American Dream]]"
   - "[[Ambition]]"
   - "[[Capitalism]]"
+  - "[[The Hardening Of The Great Softening]]"
 ---
 
 # Temporarily Embarrassed Millionaires
@@ -36,6 +38,8 @@ related:
 
 ## Related concepts
 
-- [The American Dream — Stop Calling it Capitalism](/essays/the-american-dream-stop-calling-it-capitalism)
-- [Ambition](/notes/ambition)
-- [Capitalism](/notes/capitalism)
+- [The American Dream — Stop Calling it Capitalism](/essays/the-american-dream-stop-calling-it-capitalism) — frames the self-image of future riches as the operative American Dream myth Kyle interrogates.
+- [The American Dream](/notes/the-american-dream) — the belief in upward mobility that this concept embodies (success as a question of when, not if).
+- [Ambition](/notes/ambition) — the trait whose "softening" Kyle ties to the erosion of the "temporarily embarrassed millionaire" self-perception.
+- [Capitalism](/notes/capitalism) — the economic order under which workers see themselves as future-rich rather than exploited.
+- [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening) — the essay that introduces the term and links its decline to softening ambition.

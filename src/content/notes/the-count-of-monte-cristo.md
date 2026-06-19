@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The Hardening Of The Great Softening' notes"
@@ -15,6 +15,7 @@ aliases:
   - "Count of Monte Cristo"
 related:
   - "[[Lifestyle Creep]]"
+  - "[[Benjamin Franklin]]"
 ---
 
 # The Count of Monte Cristo
@@ -31,4 +32,5 @@ related:
 
 ## Related concepts
 
-- [Lifestyle Creep](/notes/lifestyle-creep)
+- [Lifestyle Creep](/notes/lifestyle-creep) — the "whistle vs. pony" parable is invoked as a counter-image to creeping expectation, where satisfaction tracks what one paid.
+- [Benjamin Franklin](/notes/benjamin-franklin) — the "whistle" parable Kyle files under this novel actually traces to Franklin's essay "The Whistle."

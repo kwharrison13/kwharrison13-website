@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Amazon Unbound.md"
@@ -32,6 +32,8 @@ related:
   - "[[What You Should Know About Politics... But Don't]]"
   - "[[The Smartest Kids in The World]]"
   - "[[Unions, Unions Everywhere - Research]]"
+  - "[[Automation]]"
+  - "[[Income Inequality]]"
 reference_count: 9
 ---
 
@@ -57,3 +59,5 @@ reference_count: 9
 ## Related concepts
 
 - [The Square Deal](/notes/the-square-deal) · [Fissured Workplace](/notes/fissured-workplace) · [Internalizing Negative Externalities](/notes/internalizing-negative-externalities) · [Labor Day](/notes/labor-day)
+- [Automation](/notes/automation) — cited (alongside offshoring and globalization) as a driver of US union-membership decline from its ~35% peak.
+- [Income Inequality](/notes/income-inequality) — the core "case for" data point: inequality is lower where the unionized share of the workforce is higher.

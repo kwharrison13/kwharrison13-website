@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-18"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 6th, 2022 (Contrary Capital sourcing/diligence log): ~/Downloads/June 6th, 2022.md"
@@ -18,6 +18,8 @@ related:
   - "[[Rob Hodgkinson]]"
   - "[[Super Angels]]"
   - "[[Crunchbase]]"
+  - "[[Venture Capital]]"
+  - "[[Permanent Capital]]"
 ---
 
 # SignalRank
@@ -30,6 +32,13 @@ related:
 - Estimates ~$14B of pro rata available from pre-Series B 2021 unicorns; offers seed managers 20% carry (double the SPV market) and 5-day drawdowns.
 - Structured as a permanent-capital company; raised a seed from [Super Angels](/notes/super-angels), aiming to build a ~$1B balance sheet; fundraising $100M to access ~$200M of pro rata rights.
 - Data science team led by a builder of the Netflix recommendation engine. Background: founder Keith built Europe's first ISP, later RealNames, then Crunchbase.
+
+## Related concepts
+
+- [Venture Capital](/notes/venture-capital) — SignalRank operates inside the seed-to-Series-B venture stack, ranking investors and buying into breakout portfolios.
+- [Permanent Capital](/notes/permanent-capital) — structured as a permanent-capital company aiming for a ~$1B balance sheet rather than a closed-end fund.
+- [Super Angels](/notes/super-angels) — source of SignalRank's seed round.
+- [Rob Hodgkinson](/notes/rob-hodgkinson) — pitched SignalRank to Kyle on the June 6th, 2022 call.
 
 ## Where it shows up
 
