@@ -49,6 +49,7 @@ The book functions as the conceptual underpinning for the recurring [Open Source
 - [Bill Gates](/notes/bill-gates) — the 1976 "Open Letter to Hobbyists"; once unbundled from the Altair, BASIC "wasn't worth very much at all."
 - [Tiago Forte](/notes/tiago-forte) — moving from public to paywalled content trades reach for reader quality; "people are paying for the perspective the writer brings."
 - [Eugene Wei](/notes/eugene-wei) — the News Feed as the great "social capital boom" and "status as a service" framing of social platforms.
+- [Wikipedia](/notes/wikipedia) — cited as the canonical "large-scale collaboration" example that nonetheless leans on a single hero editor (Steven Pruitt edited a third of English articles).
 - [Tim Berners-Lee](/notes/tim-berners-lee) — the WWW proposal envisioning "a pool of information . . . which could grow and evolve."
 - [David Heinemeier Hansson](/notes/david-heinemeier-hansson) — Ruby on Rails creator; argues external rewards diminish the intrinsic motivation of commons contributors.
 - Kevin Systrom — "Social media is in a pre-Newtonian moment, where we all understand that it works, but not how it works."
@@ -62,6 +63,8 @@ The book functions as the conceptual underpinning for the recurring [Open Source
 - [Intrinsic Motivation](/notes/intrinsic-motivation) — "the currency of the commons"; members do the work because they want to.
 - [Creator Economy](/notes/creator-economy) — the shift from communities to individual creators as the epicenter of online social systems.
 - [Network Effects](/notes/network-effects) — the "cornucopia of the commons" where value increases as more people participate.
+- [Dependencies](/notes/dependencies) — open-source value measured by who depends on the code (and substitutability if it disappeared); reputation and dependencies are both dynamic properties.
+- [Subscription Economy](/notes/subscription-economy) — Ben Thompson's framing of subscriptions as paying for "the regular delivery of well-defined value," the model creators turn to as they shift from reach to reader quality.
 - [Reputation](/notes/reputation) — a dynamic property that, like software, requires ongoing maintenance.
 - [Republic of Letters](/notes/republic-of-letters) — the modern, internet-scale version of an open knowledge institution.
 - [Stratechery](/notes/stratechery) — Ben Thompson's platforms/aggregators and subscription frames.

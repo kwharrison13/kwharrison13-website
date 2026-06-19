@@ -71,10 +71,17 @@ A city's purpose is to bring people together to "exchange goods and ideas withou
 ## Connections
 
 <!-- interconnections -->
+**People:** [Christopher Alexander](/notes/christopher-alexander) — the "timeless way of building" and "quality without a name" (90% of human feeling shared) is the conceptual spine Gennawey uses to read Disneyland's spaces. [Victor Gruen](/notes/victor-gruen) — his cellular-city theory and the post-fair "City of Tomorrow" plan are the direct model for EPCOT; *[The Heart of Our Cities](/notes/the-heart-of-our-cities)* was the only urban-planning book in Walt's office. [Jane Jacobs](/notes/jane-jacobs) / [Robert Moses](/notes/robert-moses) — the "organized complexity"/messy-vitality vs. top-down master-planner poles that frame Walt's unresolved control problem. [Henry Ford](/notes/henry-ford) — Walt heeds Ford's "we shall solve the City Problem by leaving the City." [Louis Kahn](/notes/louis-kahn) — "architecture is the thoughtful making of space." [Sam Walton](/notes/sam-walton), [Elon Musk](/notes/elon-musk) — the voracious, multidisciplinary-learning visionary archetype Gennawey's corpus shares.
+
+**Concepts:** [New Urbanism](/notes/new-urbanism) — the movement that echoed Walt's unbuilt 1966 plans almost point-for-point. [City Building](/notes/city-building) — EPCOT as a from-scratch city on virgin land. [Transportation](/notes/transportation) — the monorail-plus-PeopleMover backbone Walt thought made EPCOT viable. [Open Source Knowledge](/notes/open-source-knowledge) — a city as a place to "exchange goods and ideas without undue loss of energy and time." [Be Observant](/notes/be-observant), [Experimentation](/notes/experimentation), [Long Term Thinking](/notes/long-term-thinking), [Focus](/notes/focus) — the working habits Gennawey extracts from Walt's method.
+
+**Books:**
+
 - [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — institutional bet-making parallel.
 - [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institution-building thread.
 - [Boom — Bubbles & The End of Stagnation](/books/boom-bubbles-and-the-end-of-stagnation) — same "future of cities" frame.
 - [The Ride of a Lifetime](/books/the-ride-of-a-lifetime) — Disney company history.
+- [In Service to the Mouse](/notes/in-service-to-the-mouse) — [Jack Lindquist](/notes/jack-lindquist)'s memoir, the source of Walt's "best solutions come after observation" lesson.
 - [The New Urban Crisis](/books/the-new-urban-crisis) — EPCOT's hub-and-spoke design is a concrete answer to Florida's argument that "not everyone who works in a superstar city or leading knowledge hub has to live in one."
 <!-- /interconnections -->
 

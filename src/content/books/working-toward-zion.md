@@ -32,12 +32,45 @@ A side thread worth flagging: the "you don't start by donating all your property
 ## Connections
 
 <!-- interconnections -->
+**Books:**
+
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — shareholder-value tension. Buffett's discipline is the secular version of what this book argues for theologically.
-- [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism) — direct anti-thesis to financialization. Same diagnosis, different vocabulary.
+- [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism) — direct anti-thesis to financialization. Same diagnosis ("maximizing shareholder wealth" as a corrosive end goal, CEO-to-worker pay ratios, downsizing that doesn't work), different vocabulary.
 - [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — "what survives civilizational collapse" question; institutional knowledge.
 - [Skunk Works](/books/skunk-works) — meritocracy-vs-managed-monopoly thread.
-- [How Will You Measure Your Life_](/books/how-will-you-measure-your-life) — values-as-strategy framing in the same religious-economic register.
+- [How Will You Measure Your Life](/books/how-will-you-measure-your-life) — values-as-strategy framing in the same religious-economic register.
 - [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC as a structural force the book implicitly critiques.
+
+**Concepts:**
+
+- [United Order](/notes/united-order) — the book's central framework: an unfinished cooperative-economic experiment, tested by John A. Widstoe's standard of "how well does this put into effect the principles."
+- [Consecration](/notes/consecration) — the law the book frames as "line upon line" practical commitment over heroic gestures; its biggest obstacle is Brigham Young's inability to find "men who know what to do with property."
+- [Zion](/notes/zion) — the title's destination: a Saintly community with "no rich and no poor," set against the homelessness and inequality the book documents along the Wasatch Front.
+- [Capitalism](/notes/capitalism) — one of two foils Lucas and Woodworth set the United Order against, presented as a distinct organizing principle rather than "capitalism with charity added on."
+- [Employee Ownership](/notes/employee-ownership) — the worker-cooperative thread, instantiated by Lorenzo Snow's Brigham City model where stock was held throughout the community rather than only by participants in each business.
+- [Entrepreneurship](/notes/entrepreneurship) — entrepreneurs framed as the creators of most new jobs and as a modern innovation (inventor/businessman as new English words), with LDS small employers frustrated at receiving little support.
+- [Poverty](/notes/poverty) — the "hyper poor," inner-city, reservation, and Third World deprivation the book catalogs as the gap between Zion's promise and lived conditions.
+- [City Building](/notes/city-building) — Joseph Smith's utopian cities of ~20,000 set against the book's portrait of Third World "megacities" of 10 million in squalor.
+- [Human Capital](/notes/human-capital) — the argument that skilled, motivated employees are a company's most important asset even though modern accounting can't put them on the balance sheet.
+- [Financialization](/notes/financialization) — short-term takeovers, financial manipulation, and downsizing as the diagnosed disease; the storehouse-as-bank funding employment is the proposed alternative.
+- Shareholder Value — "maximizing shareholder wealth cannot be the terminal goal," since any end justifies its means.
+- [Servant Leadership](/notes/servant-leadership) — Sam Walton's prediction that free enterprise must benefit workers, shareholders, and communities; Ray Noorda at Novell putting customers first, employees second, shareholders third.
+- [Stewardship](/notes/stewardship) — the law of stewardship's demand for local self-government and "hand up, not a hand out" over top-down "president knows best" development.
+- [Mondragon](/notes/mondragon) / [Grameen](/notes/grameen) / [Value Added Ventures](/notes/value-added-ventures) — contemporary cooperative and micro-lending instances the book holds up (Mondragon model, Muhammad Yunus's village banking, micro-enterprise development).
+- [Capital Allocation](/notes/capital-allocation) — Brigham Young's "I am laboring under a certain embarrassment... to find men who know what to do with property" as the recurring problem of capable stewardship.
+
+**People:**
+
+- [Brigham Young](/notes/brigham-young) — the most-quoted voice: the "certain embarrassment" line, "there should be no rich and no poor," and the warning that the Saints will "get rich... and kick themselves out of the Church."
+- [Joseph Smith](/notes/joseph-smith) — restored-gospel collapse of the temporal/spiritual dichotomy; "gather all the good and true principles in the world," and the vision of utopian cities of ~20,000.
+- [Joseph F. Smith](/notes/joseph-f-smith) — quoted that "a religion which has not the power to save people temporally" cannot be depended on spiritually.
+- [David O. McKay](/notes/david-o-mckay) — "the complete ideal of Mormonism is to make upright citizens in an ideal society," the good-individuals-and-good-society dual aim.
+- [John Taylor](/notes/john-taylor) — established Boards of Trade to coordinate LDS economic activity against the rise of monopolistic big business.
+- [Lorenzo Snow](/notes/lorenzo-snow) — organized Brigham City's businesses into community-wide cooperatives, an early method of organizing the United Order.
+- [Sam Walton](/notes/sam-walton) — profit-sharing and listening to "line soldiers" as the source of Wal-Mart's success.
+- [Leonard Arrington](/notes/leonard-arrington) — the Manila area presidency reading his _Great Basin Kingdom_ to learn how LDS pioneers raised their standard of living.
+- [Spencer W. Kimball](/notes/spencer-w-kimball), [Ezra Taft Benson](/notes/ezra-taft-benson), [Hugh Nibley](/notes/hugh-nibley), [Dallin H. Oaks](/notes/dallin-h-oaks) — the modern LDS leaders the book draws on for materialism, consecration, and "keep your money clean."
+- [Thomas Jefferson](/notes/thomas-jefferson) — quoted on the corruption of large cities; [Charles Darwin](/notes/charles-darwin) — the namesake of the Social Darwinism the book attacks.
 <!-- /interconnections -->
 
 ## Highlights
