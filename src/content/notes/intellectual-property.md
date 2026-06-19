@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/The Hits Business - Research.md"
@@ -17,8 +17,12 @@ aliases:
   - "IP"
 related:
   - "[[The Hits Business]]"
+  - "[[The Hits Business - Research]]"
   - "[[Monoculture]]"
   - "[[A24]]"
+  - "[[Auteur Theory]]"
+  - "[[Power Law]]"
+  - "[[Mark Twain]]"
 ---
 
 # Intellectual Property
@@ -38,4 +42,10 @@ related:
 
 ## Related concepts
 
-- [Monoculture](/notes/monoculture), [A24](/notes/a24), [Auteur Theory](/notes/auteur-theory), [Power Law](/notes/power-law)
+- [Monoculture](/notes/monoculture) — the franchise/reboot strategy concentrates Hollywood output, the cultural homogenization this page's "IP Era" critique targets.
+- [A24](/notes/a24) — the counter-model to IP-driven franchising, original films held up against the own-something-forever playbook.
+- [Auteur Theory](/notes/auteur-theory) — the creator-centric view in tension with "it's not about creating something, it's about owning something."
+- [Power Law](/notes/power-law) — the hit-driven economics underlying why owning a proven property is the dominant business model.
+- [The Hits Business](/essays/the-hits-business) — the essay where IP exploitation is weighed against the "big at the sacrifice of good" critique.
+- The Hits Business - Research — the research note sourcing this page's IP-Era and pro-IP framings.
+- [Mark Twain](/notes/mark-twain) — invoked via the 1930 *Tom Sawyer* adaptation as evidence Hollywood has always banked on I.P.

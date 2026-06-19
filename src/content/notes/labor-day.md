@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Unions, Unions Everywhere - Research.md"
@@ -34,4 +34,5 @@ related:
 
 ## Related concepts
 
-- [Unions](/notes/unions)
+- [Unions](/notes/unions) — the labor movement the holiday honors; its faded public meaning mirrors the decline of unions themselves.
+- Unions, Unions Everywhere - Research — uses Labor Day as its opening and closing framing device.

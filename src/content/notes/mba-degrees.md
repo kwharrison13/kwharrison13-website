@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "MBA Research — Kyle's compiled research dossier: ~/Downloads/MBA Research.md"
@@ -22,6 +22,13 @@ aliases:
   - "MBA Research"
 related:
   - "[[Education]]"
+  - "[[Henry Mintzberg]]"
+  - "[[Managers not MBAs]]"
+  - "[[Alternative Education]]"
+  - "[[Retraining]]"
+  - "[[Investment Banking]]"
+  - "[[Private Equity]]"
+  - "[[Operational Skills]]"
 ---
 
 # MBA Degrees
@@ -102,3 +109,7 @@ Interested **only** in a "blue-chip MBA (Harvard, Stanford, Wharton)" because it
 - [Managers not MBAs](/books/managers-not-mbas) / [Henry Mintzberg](/notes/henry-mintzberg) — the foundational structural critique.
 - Social Entrepreneurship, Muhammad Yunus, Wendy Kopp, Greg Dees, Jed Emerson — the counter-current.
 - Margaret Heffernan — the people-pleasing critique.
+- [Alternative Education](/notes/alternative-education) — adjacent to the "skills could have been learned on the job" finding: routes to competence that bypass the credential.
+- [Retraining](/notes/retraining) — the same skill-vs-credential question applied to mid-career re-skilling.
+- [Investment Banking](/notes/investment-banking) / [Private Equity](/notes/private-equity) — the destination the signal-maximizing applicant (Scott Nielsen) targets, where the MBA functions as pure status arbitrage.
+- [Operational Skills](/notes/operational-skills) — the on-the-job competencies (accounting, finance, operations) interviewees said the MBA only nominally certified.

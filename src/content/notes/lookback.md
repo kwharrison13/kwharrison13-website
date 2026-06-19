@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "/Users/kwharrison13/Downloads/Sprig fka UserLeap - Diligence.md"
@@ -18,6 +18,9 @@ related:
   - "[[User Research]]"
   - "[[UserTesting]]"
   - "[[Great Question]]"
+  - "[[Sprig]]"
+  - "[[Square]]"
+  - "[[Rishi Ahuja]]"
 ---
 
 # Lookback
@@ -37,6 +40,9 @@ related:
 
 ## Related concepts
 
-- [UserTesting](/notes/usertesting)
-- [Great Question](/notes/great-question)
-- [User Research](/notes/user-research)
+- [User Research](/notes/user-research) — Lookback is one of the tools used to conduct it.
+- [Sprig](/notes/sprig) — covers the other ~2/3 of [Square](/notes/square)'s user research; Lookback handles the longer-term-interview slice.
+- [Square](/notes/square) — uses Lookback for ~1/3 of its user research, primarily via the user-research team.
+- [Rishi Ahuja](/notes/rishi-ahuja) ([Square](/notes/square)) — described Lookback's workflow and limitations in the Sprig fka UserLeap - Diligence notes.
+- [Great Question](/notes/great-question) — drawn as a contrast: turning interview snippets into something digestible is the missed opportunity for Lookback.
+- [UserTesting](/notes/usertesting) — adjacent user-research tooling.

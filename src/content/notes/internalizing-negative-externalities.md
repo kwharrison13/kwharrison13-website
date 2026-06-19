@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Unions, Unions Everywhere - Research.md"
@@ -22,6 +22,10 @@ related:
   - "[[Fissured Workplace]]"
   - "[[The Square Deal]]"
   - "[[Unions, Unions Everywhere - Research]]"
+  - "[[The Value Cycle]]"
+  - "[[Venture Capital]]"
+  - "[[Facebook]]"
+  - "[[Capital Allocation]]"
 ---
 
 # Internalizing Negative Externalities
@@ -41,6 +45,10 @@ related:
 
 ## Related concepts
 
-- [Unions](/notes/unions)
-- [Fissured Workplace](/notes/fissured-workplace)
-- [The Square Deal](/notes/the-square-deal)
+- [Unions](/notes/unions) — the labor-vs-capital dilemma whose resolution this concept supplies.
+- [Fissured Workplace](/notes/fissured-workplace) — the structural mechanism by which large employers shed costs onto workers and contractors.
+- [The Square Deal](/notes/the-square-deal) — held up as proof that internalizing externalities and turning a profit are both achievable.
+- [The Value Cycle](/essays/the-value-cycle) — Kyle's essay that frames the Gross vs. Net Value Creation distinction at the heart of this page.
+- [Venture Capital](/notes/venture-capital) — the target of critiques that measure tech in Net rather than Gross Value Creation terms.
+- [Facebook](/notes/facebook) — cited as a product with large Gross value but fuzzier Net value once externalities are weighed.
+- [Capital Allocation](/notes/capital-allocation) — the broader frame for weighing costs an organization imposes versus the value it creates.

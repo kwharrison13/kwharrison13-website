@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
@@ -18,6 +18,10 @@ related:
   - "[[Deviance]]"
   - "[[Contrarianism]]"
   - "[[Dependencies]]"
+  - "[[Alex Karp]]"
+  - "[[Steve Jobs]]"
+  - "[[Brie Wolfson]]"
+  - "[[Conviction-Led Contrarianism]]"
 ---
 
 # Likability
@@ -41,3 +45,9 @@ related:
 
 - [Deviance](/notes/deviance) — defined partly as "a willingness to disregard likability."
 - [Dependencies](/notes/dependencies) — Layer 1 dependencies are largely phantom likability concerns.
+- [Contrarianism](/notes/contrarianism) — disregarding the crowd's approval is the precondition for holding a contrarian position.
+- [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — frames likability as the Layer 1 foil that credibility and conviction must overpower.
+- [Alex Karp](/notes/alex-karp) — argues a "culture of agreeableness" moves institutions away from creative output.
+- [Steve Jobs](/notes/steve-jobs) — told [Jony Ive](/notes/jony-ive) that wanting to be liked is vanity competing with caring about "the work."
+- [Jony Ive](/notes/jony-ive) — recipient of Jobs's framing of likability as a rival to the work.
+- [Brie Wolfson](/notes/brie-wolfson) — caveats that conviction over likability shouldn't be weaponized into being difficult for its own sake.

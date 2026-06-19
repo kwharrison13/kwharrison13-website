@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The Hardening Of The Great Softening' notes"
@@ -17,6 +17,7 @@ aliases:
 related:
   - "[[Golden Handcuffs]]"
   - "[[Loss Aversion]]"
+  - "[[The Hardening Of The Great Softening - Research]]"
 ---
 
 # Lifestyle Creep
@@ -33,5 +34,6 @@ related:
 
 ## Related concepts
 
-- [Golden Handcuffs](/notes/golden-handcuffs)
-- [Loss Aversion](/notes/loss-aversion)
+- [Golden Handcuffs](/notes/golden-handcuffs) — clustered with lifestyle creep in the source as a reason people stay in unfulfilling work; the raised spending becomes part of the bind.
+- [Loss Aversion](/notes/loss-aversion) — paired in the same cluster; once income funds an expanded lifestyle, giving it up registers as a loss.
+- The Hardening Of The Great Softening - Research — the research notes where lifestyle creep is stated almost as a definition.

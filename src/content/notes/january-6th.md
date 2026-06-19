@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The Hardening Of The Great Softening' notes"
@@ -19,6 +19,7 @@ aliases:
 related:
   - "[[American Exceptionalism on Trial]]"
   - "[[The Hollowing Out of the Middle Class]]"
+  - "[[The Hardening Of The Great Softening - Research]]"
 ---
 
 # January 6th
@@ -35,5 +36,6 @@ related:
 
 ## Related concepts
 
-- [American Exceptionalism on Trial](/notes/american-exceptionalism-on-trial)
-- [The Hollowing Out of the Middle Class](/notes/the-hollowing-out-of-the-middle-class)
+- The Hardening Of The Great Softening - Research — the source thread where the Capitol march appears as evidence in the "is America in decline?" question.
+- [American Exceptionalism on Trial](/notes/american-exceptionalism-on-trial) — frames Jan 6 as a data point in the broader case against American exceptionalism.
+- [The Hollowing Out of the Middle Class](/notes/the-hollowing-out-of-the-middle-class) — the economic-stagnation backdrop for the resentment of uneducated whites the demographic analysis flagged.

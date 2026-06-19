@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
@@ -18,6 +18,7 @@ related:
   - "[[September 22nd, 2021 — Adam Chekroud (Spring Health)]]"
   - "[[Spring Health]]"
   - "[[Behavioral Health]]"
+  - "[[Adam Chekroud]]"
 ---
 
 # Lyra
@@ -34,5 +35,6 @@ related:
 
 ## Related concepts
 
-- [Spring Health](/notes/spring-health) — head-to-head competitor.
+- [Spring Health](/notes/spring-health) — head-to-head competitor; both ran away with the category by measuring quality of care.
 - [Behavioral Health](/notes/behavioral-health) — its market.
+- [Adam Chekroud](/notes/adam-chekroud) — Spring Health figure who characterized Lyra as therapist-focused and light on medication in the diligence call.

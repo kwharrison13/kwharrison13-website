@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -17,6 +17,8 @@ aliases:
 related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[API Security]]"
+  - "[[Salt Security]]"
+  - "[[Alexei Balaganski]]"
 ---
 
 # Laminar
@@ -36,3 +38,5 @@ related:
 ## Related concepts
 
 - [API Security](/notes/api-security) — the adjacent/overlapping category Laminar intends to absorb
+- [Salt Security](/notes/salt-security) — an API security vendor customers buy alongside Laminar, seeing the two as complementary
+- [Alexei Balaganski](/notes/alexei-balaganski) — analyst who framed Laminar's "protect data at the point of creation" angle against API-component security

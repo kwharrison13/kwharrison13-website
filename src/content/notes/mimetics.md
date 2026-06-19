@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Open-Source Knowledge - Research.md"
@@ -17,6 +17,7 @@ related:
   - "[[Memetics]]"
   - "[[Tyro Partners]]"
   - "[[Open-Source Knowledge - Research]]"
+  - "[[Dan McMurtrie]]"
 ---
 
 # Mimetics
@@ -33,5 +34,7 @@ related:
 
 ## Related concepts
 
-- [Memetics](/notes/memetics)
-- [Tyro Partners](/notes/tyro-partners)
+- [Memetics](/notes/memetics) — the related but distinct concept (virality of ideas) this page is defined against.
+- [Dan McMurtrie](/notes/dan-mcmurtrie) — drew the mimetics-vs-memetics distinction in the [Tyro Partners](/notes/tyro-partners) Q2 2021 letter.
+- [Tyro Partners](/notes/tyro-partners) — source of the letter where this distinction appears.
+- Open-Source Knowledge - Research — research note that surfaces this distinction.

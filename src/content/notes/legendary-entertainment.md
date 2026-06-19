@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/The Hits Business - Research.md"
@@ -19,6 +19,8 @@ related:
   - "[[The Hits Business]]"
   - "[[Thomas Tull]]"
   - "[[A24]]"
+  - "[[Intellectual Property]]"
+  - "[[Power Law]]"
 ---
 
 # Legendary Entertainment
@@ -36,4 +38,8 @@ related:
 
 ## Related concepts
 
-- [Thomas Tull](/notes/thomas-tull), [A24](/notes/a24), [Intellectual Property](/notes/intellectual-property), [Power Law](/notes/power-law)
+- [Thomas Tull](/notes/thomas-tull) — founder whose globalization-first blockbuster formula defines the company
+- [A24](/notes/a24) — the contrast case; opinionated, point-of-view films versus Legendary's mass-appeal bets
+- [The Hits Business](/essays/the-hits-business) — the essay where Legendary appears as the studio-scale counterexample
+- [Intellectual Property](/notes/intellectual-property) — the franchise IP that big-studio blockbusters are built to monetize globally
+- [Power Law](/notes/power-law) — the hits-driven distribution of returns these mass-appeal blockbusters chase

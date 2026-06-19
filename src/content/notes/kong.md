@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -22,6 +22,13 @@ related:
   - "[[Microservices]]"
   - "[[MuleSoft]]"
   - "[[Apigee]]"
+  - "[[Informatica]]"
+  - "[[Atanu Dasgupta]]"
+  - "[[Gojek]]"
+  - "[[George Do]]"
+  - "[[Michael Isbitski]]"
+  - "[[ServiceNow ($NOW)]]"
+  - "[[CrowdStrike ($CRWD)]]"
 ---
 
 # Kong
@@ -48,5 +55,12 @@ related:
 - [API Gateways](/notes/api-gateways) — Kong is the archetype
 - [Salt Security](/notes/salt-security) — the security layer on top of Kong
 - [MuleSoft](/notes/mulesoft) — competing gateway platform
-- [Apigee](/notes/apigee) — older-generation competitor
+- [Apigee](/notes/apigee) — older-generation competitor Kong emerged from
 - Microservices — the architecture Kong is built for
+- [ServiceNow ($NOW)](/notes/servicenow-now) — the incumbent side of the Kong→Salt Security :: ServiceNow→CrowdStrike analogy
+- [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd) — the security-layer side of the same analogy, mapped to Salt Security
+- [Informatica](/notes/informatica) — uses Kong as its primary API gateway ([Atanu Dasgupta](/notes/atanu-dasgupta))
+- [Gojek](/notes/gojek) — uses Kong as its primary API gateway ([George Do](/notes/george-do))
+- [Michael Isbitski](/notes/michael-isbitski) — argued Kong is unlikely to extend into runtime API security
+- [Atanu Dasgupta](/notes/atanu-dasgupta) — source of the ServiceNow→CrowdStrike analogy and Informatica's Kong usage
+- [George Do](/notes/george-do) — Gojek reference describing Kong as the gateway in use

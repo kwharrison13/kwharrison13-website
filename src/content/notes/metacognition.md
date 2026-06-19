@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research export — Andy Matuschak, 'Why Books Don't Work' (reading highlights + notes): ~/Downloads/Why Books Don't Work.md"
@@ -19,6 +19,9 @@ related:
   - "[[Transmissionism]]"
   - "[[Self-Reflection]]"
   - "[[How To Take Smart Notes]]"
+  - "[[Andy Matuschak]]"
+  - "[[Active Reading]]"
+  - "[[Education]]"
 ---
 
 # Metacognition

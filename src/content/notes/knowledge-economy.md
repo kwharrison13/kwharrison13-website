@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Open-Source Knowledge - Research.md"
@@ -18,6 +18,10 @@ related:
   - "[[Open Source Knowledge]]"
   - "[[Open-Source Knowledge - Research]]"
   - "[[Equity Research]]"
+  - "[[Contrary Research]]"
+  - "[[Wikipedia]]"
+  - "[[Packy McCormick]]"
+  - "[[Mario Gabriele]]"
 ---
 
 # Knowledge Economy
@@ -34,5 +38,9 @@ related:
 
 ## Related concepts
 
-- [Open Source Knowledge](/notes/open-source-knowledge)
-- [Equity Research](/notes/equity-research)
+- [Open Source Knowledge](/notes/open-source-knowledge) — the parent theme this market category instantiates.
+- [Equity Research](/notes/equity-research) — a subset of the knowledge economy that the [Contrary Research](/essays/contrary-research) landscape sits inside.
+- [Contrary Research](/essays/contrary-research) — the company whose market landscape Kyle situates within this frame.
+- [Wikipedia](/notes/wikipedia) — cited as part of the landscape, alongside Crunchbase and content marketing.
+- [Packy McCormick](/notes/packy-mccormick) — a writer Kyle names when mapping producers in this market.
+- [Mario Gabriele](/notes/mario-gabriele) — a writer Kyle names when mapping producers in this market.
