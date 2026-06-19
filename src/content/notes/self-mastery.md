@@ -13,13 +13,13 @@ aliases:
   - "Self-Mastery"
 related:
   - "[[Self-Mastery — Topical Study]]"
-  - "[[Topical Study]]"
+  - "[[raw/inbox/Topical Study]]"
 reference_count: 1
 ---
 
 # Self-Mastery
 
-_Stub page — auto-generated from wikilink references. The topical-journal deep-dive on this theme is Self-Mastery — Topical Study under Topical Study (a private gospel-study page; the suffix avoids a link-resolver collision with this stub)._
+_Stub page — auto-generated from wikilink references. The topical-journal deep-dive on this theme is Self-Mastery — Topical Study under raw/inbox/Topical Study (a private gospel-study page; the suffix avoids a link-resolver collision with this stub)._
 
 ## Where this appears
 

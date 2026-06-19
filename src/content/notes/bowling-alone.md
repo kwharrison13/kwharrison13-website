@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Robert Putnam's book cited on declining social capital; no page*
 
-**Where I saw it:** Cited in [The Righteous Mind](/books/the-righteous-mind), [The Righteous Mind](/books/the-righteous-mind) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [The Righteous Mind](/books/the-righteous-mind) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

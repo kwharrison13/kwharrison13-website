@@ -23,7 +23,7 @@ related:
 
 **Why it's on the list:** *Shannon Brownlee's book, cited directly on full-body CT scan radiation-cancer risk; a thematic companion on medical excess.*
 
-**Where I saw it:** Cited in [Catastrophic Care](/books/catastrophic-care), [Catastrophic Care](/books/catastrophic-care) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Catastrophic Care](/books/catastrophic-care) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

@@ -25,7 +25,7 @@ related:
 
 **Why it's on the list:** *Douthat's survey of American stagnation that structures Boyle's key-claims; repeatedly referenced*
 
-**Where I saw it:** Cited in [Building American Dynamism](/notes/building-american-dynamism), [Building American Dynamism](/notes/building-american-dynamism) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Building American Dynamism](/notes/building-american-dynamism) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

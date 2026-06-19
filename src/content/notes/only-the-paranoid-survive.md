@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Andy Grove's management book is explicitly cited in the highlights ('Fear of competition, fear of bankruptcy...'); a quake-adjacent management/strategy read central to the Intel turnaround narrative, no wiki page exists*
 
-**Where I saw it:** Cited in [Chip War](/books/chip-war), [Chip War](/books/chip-war) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Chip War](/books/chip-war) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

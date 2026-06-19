@@ -23,7 +23,7 @@ related:
 
 **Why it's on the list:** *Haidt's earlier book, explicitly discussed ('happiness comes from between'); no page*
 
-**Where I saw it:** Cited in [The Righteous Mind](/books/the-righteous-mind), [The Righteous Mind](/books/the-righteous-mind) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [The Righteous Mind](/books/the-righteous-mind) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

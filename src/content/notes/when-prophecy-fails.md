@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Leon Festinger's seminal cognitive-dissonance study, quoted at length in the final chapter ('A man with conviction is a hard man to change'); the person page exists but the book does not.*
 
-**Where I saw it:** Cited in [Utopia For Realists](/books/utopia-for-realists), [Utopia For Realists](/books/utopia-for-realists) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Utopia For Realists](/books/utopia-for-realists) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

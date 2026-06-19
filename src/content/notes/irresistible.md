@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Adam Alter's 2017 book on technology addiction, directly referenced as a source. No book page.*
 
-**Where I saw it:** Cited in [Digital Minimalism](/books/digital-minimalism), [Digital Minimalism](/books/digital-minimalism) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Digital Minimalism](/books/digital-minimalism) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

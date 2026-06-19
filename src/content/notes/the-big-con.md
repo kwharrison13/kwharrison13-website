@@ -25,7 +25,7 @@ related:
 
 **Why it's on the list:** *The second book under review, explicitly named, no wiki book page exists.*
 
-**Where I saw it:** Cited in [Bonfire of the Consultancies](/notes/bonfire-of-the-consultancies), [Bonfire of the Consultancies](/notes/bonfire-of-the-consultancies) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Bonfire of the Consultancies](/notes/bonfire-of-the-consultancies) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

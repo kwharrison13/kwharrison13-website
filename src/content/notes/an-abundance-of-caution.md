@@ -25,7 +25,7 @@ related:
 
 **Why it's on the list:** *David Zweig's book is cited directly as the source for the American Academy of Pediatrics school-reopening reversal example; central to the page's only book reference but has no wiki page.*
 
-**Where I saw it:** Cited in [Bill Maher](/notes/bill-maher), [Bill Maher](/notes/bill-maher) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Bill Maher](/notes/bill-maher) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

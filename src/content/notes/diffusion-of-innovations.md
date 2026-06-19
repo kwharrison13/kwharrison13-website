@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Everett Rogers's 1962 book cited as the lens on remote work's adoption curve*
 
-**Where I saw it:** Cited in [Remote — Office Not Required](/books/remote-office-not-required), [Remote — Office Not Required](/books/remote-office-not-required) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Remote — Office Not Required](/books/remote-office-not-required) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

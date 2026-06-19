@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Skinner's utopian novel is discussed as the behaviorist counter-vision Huxley argues against; tied to the free-will/responsibility thread.*
 
-**Where I saw it:** Cited in [Brave New World Revisited](/books/brave-new-world-revisited), [Brave New World Revisited](/books/brave-new-world-revisited) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Brave New World Revisited](/books/brave-new-world-revisited) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

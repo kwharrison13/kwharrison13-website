@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Tetlock's book is named and quoted directly in Range's forecasting highlights.*
 
-**Where I saw it:** Cited in [Range](/books/range), [Range](/books/range) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Range](/books/range) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

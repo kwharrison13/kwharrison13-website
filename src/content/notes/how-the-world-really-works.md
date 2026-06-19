@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Smil's book is the named source for the farming-displacement statistic central to the essay; no page exists.*
 
-**Where I saw it:** Cited in [The AppetiZIRP](/notes/the-appetizirp), [The AppetiZIRP](/notes/the-appetizirp) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [The AppetiZIRP](/notes/the-appetizirp) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

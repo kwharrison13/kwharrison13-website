@@ -23,7 +23,7 @@ related:
 
 **Why it's on the list:** *Darwin's recapitulation/conclusion chapter is Adler's model for an author summarizing his own argument; central to a recurring example*
 
-**Where I saw it:** Cited in [How To Read a Book](/books/how-to-read-a-book), [How To Read a Book](/books/how-to-read-a-book) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [How To Read a Book](/books/how-to-read-a-book) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

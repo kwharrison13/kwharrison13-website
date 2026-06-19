@@ -26,7 +26,7 @@ related:
 
 **Why it's on the list:** *Adam Smith's classic, used as the running example of a general-reader book whose forest-not-trees big points reward inspectional reading*
 
-**Where I saw it:** Cited in [How To Read a Book](/books/how-to-read-a-book), [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet), [How To Read a Book](/books/how-to-read-a-book), [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [How To Read a Book](/books/how-to-read-a-book), [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

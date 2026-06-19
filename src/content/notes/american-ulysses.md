@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Named as a Romney biography read; candidate book/anti-library entry.*
 
-**Where I saw it:** Cited in [Romney — A Reckoning](/books/romney-a-reckoning), [Romney — A Reckoning](/books/romney-a-reckoning) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Romney — A Reckoning](/books/romney-a-reckoning) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

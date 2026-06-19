@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Charles Duhigg's book is named directly as the cue-routine-reward predecessor to Clear's cue-craving-response-reward model*
 
-**Where I saw it:** Cited in [Atomic Habits](/books/atomic-habits), [Essentialism](/books/essentialism), [Atomic Habits](/books/atomic-habits), [Essentialism](/books/essentialism) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Atomic Habits](/books/atomic-habits), [Essentialism](/books/essentialism) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

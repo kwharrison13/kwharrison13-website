@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *David Halberstam's book is explicitly named in the McNamara passage as the work that made the technocrats' brilliance 'seem dark and ironic'; central to the book's critique of data-driven hubris.*
 
-**Where I saw it:** Cited in [Shortest Way Home](/books/shortest-way-home), [Shortest Way Home](/books/shortest-way-home) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Shortest Way Home](/books/shortest-way-home) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

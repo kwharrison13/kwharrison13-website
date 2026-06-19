@@ -25,7 +25,7 @@ related:
 
 **Why it's on the list:** *Tyler Cowen's book is repeatedly invoked as the stagnation-thesis anchor; person page exists but the book does not.*
 
-**Where I saw it:** Cited in [Boom — Bubbles & The End of Stagnation](/books/boom-bubbles-and-the-end-of-stagnation), [Boom — Bubbles & The End of Stagnation](/books/boom-bubbles-and-the-end-of-stagnation) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Boom — Bubbles & The End of Stagnation](/books/boom-bubbles-and-the-end-of-stagnation) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

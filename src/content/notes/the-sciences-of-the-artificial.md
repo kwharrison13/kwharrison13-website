@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Herbert Simon's book, invoked as the basis for treating design/synthesis as central to management training; a recurring reference in the book's pedagogy chapters.*
 
-**Where I saw it:** Cited in [Managers Not MBAs](/books/managers-not-mbas), [Managers Not MBAs](/books/managers-not-mbas) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Managers Not MBAs](/books/managers-not-mbas) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

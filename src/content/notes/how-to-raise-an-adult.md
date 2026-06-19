@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Lythcott-Haims book referenced by name; tagged #look-it-up by Kyle; no page.*
 
-**Where I saw it:** Cited in [The Self-Driven Child](/books/the-self-driven-child), [The Self-Driven Child](/books/the-self-driven-child) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [The Self-Driven Child](/books/the-self-driven-child) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

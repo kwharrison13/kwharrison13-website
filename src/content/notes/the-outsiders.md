@@ -27,7 +27,7 @@ related:
 
 **Why it's on the list:** *Recommended in the Top Seven Books on Systems (Thorndike, eight high-capital-return CEOs); fits the capital-allocation tag but no page exists.*
 
-**Where I saw it:** Cited in [How To Be a Capitalist Without Any Capital](/books/how-to-be-a-capitalist-without-any-capital), [On the Nature of Long-Term Holds](/notes/on-the-nature-of-long-term-holds), [Todd McKinnon — Creating and Defining a New Market Category](/notes/todd-mckinnon-creating-and-defining-a-new-market-category), [How To Be a Capitalist Without Any Capital](/books/how-to-be-a-capitalist-without-any-capital) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [How To Be a Capitalist Without Any Capital](/books/how-to-be-a-capitalist-without-any-capital), [On the Nature of Long-Term Holds](/notes/on-the-nature-of-long-term-holds), [Todd McKinnon — Creating and Defining a New Market Category](/notes/todd-mckinnon-creating-and-defining-a-new-market-category) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

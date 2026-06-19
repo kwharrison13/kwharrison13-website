@@ -23,7 +23,7 @@ related:
 
 **Why it's on the list:** *Carse's book that supplies the central framework and direct quotes used in the page. Already in related: but no page exists.*
 
-**Where I saw it:** Cited in [Infinite Games](/notes/infinite-games), [Infinite Games](/notes/infinite-games) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Infinite Games](/notes/infinite-games) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

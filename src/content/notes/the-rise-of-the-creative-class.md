@@ -27,7 +27,7 @@ related:
 
 **Why it's on the list:** *Referenced across Kyle's library; flagged as worth reading.*
 
-**Where I saw it:** Cited in [Richard Florida](/notes/richard-florida), [The New Urban Crisis](/books/the-new-urban-crisis), [City Building](/notes/city-building), [Talent](/books/talent), [The New Urban Crisis](/books/the-new-urban-crisis), [Richard Florida](/notes/richard-florida), [The New Urban Crisis](/books/the-new-urban-crisis), [The New Urban Crisis](/books/the-new-urban-crisis), [Richard Florida](/notes/richard-florida), [City Building](/notes/city-building), [Talent](/books/talent), [The New Urban Crisis](/books/the-new-urban-crisis) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Richard Florida](/notes/richard-florida), [The New Urban Crisis](/books/the-new-urban-crisis), [City Building](/notes/city-building), [Talent](/books/talent) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

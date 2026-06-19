@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Explicitly cited in the highlights for the blue-ocean/red-ocean distinction on finding an uncontested business niche; no wiki page exists.*
 
-**Where I saw it:** Cited in [Recession Proof](/books/recession-proof), [Recession Proof](/books/recession-proof) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Recession Proof](/books/recession-proof) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Frankfurt's essay is the source of the bullshit-asymmetry thread central to takeaway #2; no page yet*
 
-**Where I saw it:** Cited in [Braving The Wilderness](/books/braving-the-wilderness), [Braving The Wilderness](/books/braving-the-wilderness) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Braving The Wilderness](/books/braving-the-wilderness) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

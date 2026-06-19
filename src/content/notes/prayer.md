@@ -13,13 +13,13 @@ aliases:
   - "Prayer"
 related:
   - "[[Prayer — Topical Study]]"
-  - "[[Topical Study]]"
+  - "[[raw/inbox/Topical Study]]"
 reference_count: 1
 ---
 
 # Prayer
 
-_Stub page — auto-generated from wikilink references. The topical-journal deep-dive on this theme is Prayer — Topical Study under Topical Study (a private gospel-study page; the suffix avoids a link-resolver collision with this stub)._
+_Stub page — auto-generated from wikilink references. The topical-journal deep-dive on this theme is Prayer — Topical Study under raw/inbox/Topical Study (a private gospel-study page; the suffix avoids a link-resolver collision with this stub)._
 
 ## Where this appears
 

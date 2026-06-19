@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Armand Mauss's framework that the author calls the most explanatory theory for where Mormonism is headed.*
 
-**Where I saw it:** Cited in [The Next Mormons](/books/the-next-mormons), [The Next Mormons](/books/the-next-mormons) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [The Next Mormons](/books/the-next-mormons) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

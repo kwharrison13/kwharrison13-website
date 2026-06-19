@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Alfie Kohn's book cited directly for the argument that rewards and threats fail to produce motivation; no wiki page exists*
 
-**Where I saw it:** Cited in [Remote — Office Not Required](/books/remote-office-not-required), [Remote — Office Not Required](/books/remote-office-not-required) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Remote — Office Not Required](/books/remote-office-not-required) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

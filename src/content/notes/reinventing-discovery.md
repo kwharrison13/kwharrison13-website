@@ -25,7 +25,7 @@ related:
 
 **Why it's on the list:** *Nielsen's flagship book, central to this page and tagged #books-to-read, but no wiki page exists yet.*
 
-**Where I saw it:** Cited in [Michael Nielsen](/notes/michael-nielsen), [Michael Nielsen](/notes/michael-nielsen) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Michael Nielsen](/notes/michael-nielsen) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

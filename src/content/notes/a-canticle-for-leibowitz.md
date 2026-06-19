@@ -25,7 +25,7 @@ related:
 
 **Why it's on the list:** *Named (and Kyle's 'Look it up' note) as a science-fiction touchstone for the monastery-preserves-knowledge-through-collapse theme.*
 
-**Where I saw it:** Cited in [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet), [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

@@ -26,7 +26,7 @@ related:
 
 **Why it's on the list:** *Jane Jacobs's book named in the highlights as her major work; the canonical bottom-up-urbanism reference underpinning the Moses/Jacobs framing.*
 
-**Where I saw it:** Cited in [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city), [Working in Public](/books/working-in-public), [Jane Jacobs](/notes/jane-jacobs), [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city), [Working in Public](/books/working-in-public), [Jane Jacobs](/notes/jane-jacobs) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city), [Working in Public](/books/working-in-public), [Jane Jacobs](/notes/jane-jacobs) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

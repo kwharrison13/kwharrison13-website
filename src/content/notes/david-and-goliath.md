@@ -23,7 +23,7 @@ related:
 
 **Why it's on the list:** *Gladwell book whose big-fish-little-pond story is summarized at length; no page (only the author exists).*
 
-**Where I saw it:** Cited in [The Self-Driven Child](/books/the-self-driven-child), [The Self-Driven Child](/books/the-self-driven-child) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [The Self-Driven Child](/books/the-self-driven-child) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

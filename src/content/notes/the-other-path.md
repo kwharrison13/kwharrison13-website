@@ -25,7 +25,7 @@ related:
 
 **Why it's on the list:** *Hernando de Soto's Latin American best-seller on informal economies, quoted at length in the highlights.*
 
-**Where I saw it:** Cited in [Working Toward Zion](/books/working-toward-zion), [Working Toward Zion](/books/working-toward-zion) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Working Toward Zion](/books/working-toward-zion) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

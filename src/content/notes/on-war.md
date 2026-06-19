@@ -23,7 +23,7 @@ related:
 
 **Why it's on the list:** *Clausewitz's treatise is the natural Western counterpart to The Art of War; not in the wiki.*
 
-**Where I saw it:** Cited in [The Art of War](/books/the-art-of-war), [The Art of War](/books/the-art-of-war) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [The Art of War](/books/the-art-of-war) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

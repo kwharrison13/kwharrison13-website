@@ -25,7 +25,7 @@ related:
 
 **Why it's on the list:** *William Whyte's book is quoted directly for the 'Social Ethic' and 'dynamic conformity' that Kyle's 'Become unprogrammable' note responds to; central to the conformity thread.*
 
-**Where I saw it:** Cited in [Brave New World Revisited](/books/brave-new-world-revisited), [Brave New World Revisited](/books/brave-new-world-revisited) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Brave New World Revisited](/books/brave-new-world-revisited) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

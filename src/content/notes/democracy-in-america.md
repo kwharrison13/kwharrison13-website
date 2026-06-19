@@ -25,7 +25,7 @@ related:
 
 **Why it's on the list:** *Tocqueville's account of American 'associations' quoted at length re: Bend's community-librarian outreach*
 
-**Where I saw it:** Cited in [Our Towns](/books/our-towns), [Our Towns](/books/our-towns) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Our Towns](/books/our-towns) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

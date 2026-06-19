@@ -23,7 +23,7 @@ related:
 
 **Why it's on the list:** *Holiday's own daily-Stoic franchise referenced in the closing routine; natural sibling to this book. No page.*
 
-**Where I saw it:** Cited in [Discipline Is Destiny](/books/discipline-is-destiny), [Discipline Is Destiny](/books/discipline-is-destiny) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Discipline Is Destiny](/books/discipline-is-destiny) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

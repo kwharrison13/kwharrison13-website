@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Explicitly named as a Romney sci-fi favorite under a #books-to-read note; candidate anti-library/book entry.*
 
-**Where I saw it:** Cited in [Romney — A Reckoning](/books/romney-a-reckoning), [Romney — A Reckoning](/books/romney-a-reckoning) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Romney — A Reckoning](/books/romney-a-reckoning) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

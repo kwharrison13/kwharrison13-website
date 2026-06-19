@@ -26,7 +26,7 @@ related:
 
 **Why it's on the list:** *Named explicitly in the highlights (full title 'The Singularity Is Near: When Humans Transcend Biology' by Ray Kurzweil); central to the novel's plot premise.*
 
-**Where I saw it:** Cited in [2054](/books/2054), [Ray Kurzweil](/notes/ray-kurzweil), [2054](/books/2054), [Ray Kurzweil](/notes/ray-kurzweil) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [2054](/books/2054), [Ray Kurzweil](/notes/ray-kurzweil) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

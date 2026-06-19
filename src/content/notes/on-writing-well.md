@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *William Zinsser's book recommended in-text as the primer for becoming a better writer; central to the writing-as-core-skill thread*
 
-**Where I saw it:** Cited in [Remote — Office Not Required](/books/remote-office-not-required), [Remote — Office Not Required](/books/remote-office-not-required) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Remote — Office Not Required](/books/remote-office-not-required) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

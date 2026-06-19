@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Vonnegut's 1952 novel anchoring the pessimistic side of the automation debate; no page exists.*
 
-**Where I saw it:** Cited in [The AppetiZIRP](/notes/the-appetizirp), [The AppetiZIRP](/notes/the-appetizirp) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [The AppetiZIRP](/notes/the-appetizirp) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

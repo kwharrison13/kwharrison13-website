@@ -25,7 +25,7 @@ related:
 
 **Why it's on the list:** *Recommended (John Brooks) for spotting business models and underlying systems; no page exists.*
 
-**Where I saw it:** Cited in [How To Be a Capitalist Without Any Capital](/books/how-to-be-a-capitalist-without-any-capital), [How To Be a Capitalist Without Any Capital](/books/how-to-be-a-capitalist-without-any-capital) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [How To Be a Capitalist Without Any Capital](/books/how-to-be-a-capitalist-without-any-capital) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

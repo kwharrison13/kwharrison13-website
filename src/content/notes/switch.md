@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Cited by name (Chip & Dan Heath) re: tweaking the path the elephant and rider travel; no page*
 
-**Where I saw it:** Cited in [The Righteous Mind](/books/the-righteous-mind), [The Righteous Mind](/books/the-righteous-mind) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [The Righteous Mind](/books/the-righteous-mind) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

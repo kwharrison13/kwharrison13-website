@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Arrington's landmark 1958 economic history of the Mormons, discussed extensively; the 'middle ground' book that defined his career and made a Bushman 'Essential Books' list. No page.*
 
-**Where I saw it:** Cited in [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history), [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Desmond's other major work, named in the page's Open questions as not yet in the corpus.*
 
-**Where I saw it:** Cited in [Matthew Desmond](/notes/matthew-desmond), [Matthew Desmond](/notes/matthew-desmond) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Matthew Desmond](/notes/matthew-desmond) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

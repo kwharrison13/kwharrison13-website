@@ -23,7 +23,7 @@ related:
 
 **Why it's on the list:** *Henry Cloud's book quoted for the boundaries/ownership parenting story*
 
-**Where I saw it:** Cited in [Essentialism](/books/essentialism), [Essentialism](/books/essentialism) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Essentialism](/books/essentialism) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

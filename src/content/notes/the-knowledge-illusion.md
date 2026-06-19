@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Harari cites Steven Sloman and Philip Fernbach's 'knowledge illusion' (the zipper experiment) as a central frame for human ignorance; the book is referenced directly*
 
-**Where I saw it:** Cited in [21 Lessons for the 21st Century](/books/21-lessons-for-the-21st-century), [21 Lessons for the 21st Century](/books/21-lessons-for-the-21st-century) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [21 Lessons for the 21st Century](/books/21-lessons-for-the-21st-century) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

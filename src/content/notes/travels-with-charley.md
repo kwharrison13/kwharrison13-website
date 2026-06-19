@@ -23,7 +23,7 @@ related:
 
 **Why it's on the list:** *Steinbeck's road-trip book the Fallowses explicitly anchor their method to ('I knew Travels with Charley the way some people know the Bible'); central to the book's road-trip-discovers-America lineage*
 
-**Where I saw it:** Cited in [Our Towns](/books/our-towns), [Our Towns](/books/our-towns) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Our Towns](/books/our-towns) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

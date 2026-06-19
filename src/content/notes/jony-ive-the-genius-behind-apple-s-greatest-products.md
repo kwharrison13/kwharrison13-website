@@ -25,7 +25,7 @@ related:
 
 **Why it's on the list:** *The page's central source is this Leander Kahney biography (linked only as an Amazon URL); a wiki book page would let the anecdote and related notes resolve to an internal link.*
 
-**Where I saw it:** Cited in [Jony Ive](/notes/jony-ive), [Jony Ive](/notes/jony-ive) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Jony Ive](/notes/jony-ive) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

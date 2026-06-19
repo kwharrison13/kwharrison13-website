@@ -26,7 +26,7 @@ related:
 
 **Why it's on the list:** *Solzhenitsyn's work discussed by name as the trigger for his expulsion and the 'Live Not by Lies' letter that is the book's moral spine. No page exists.*
 
-**Where I saw it:** Cited in [The Invention of Russia](/books/the-invention-of-russia), [Alexander Solzhenitsyn](/notes/alexander-solzhenitsyn), [The Invention of Russia](/books/the-invention-of-russia), [Alexander Solzhenitsyn](/notes/alexander-solzhenitsyn) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [The Invention of Russia](/books/the-invention-of-russia), [Alexander Solzhenitsyn](/notes/alexander-solzhenitsyn) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

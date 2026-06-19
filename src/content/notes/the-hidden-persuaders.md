@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Vance Packard's book is named in the highlights as the era's account of motivation research / commercial propaganda — a core source Huxley engages.*
 
-**Where I saw it:** Cited in [Brave New World Revisited](/books/brave-new-world-revisited), [Brave New World Revisited](/books/brave-new-world-revisited) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Brave New World Revisited](/books/brave-new-world-revisited) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

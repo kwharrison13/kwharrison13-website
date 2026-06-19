@@ -23,7 +23,7 @@ related:
 
 **Why it's on the list:** *Whitehead work cited inline in the highlights; no wiki page exists*
 
-**Where I saw it:** Cited in [Charlie Munger — Harvard Law School Fiftieth Reunion Address](/notes/charlie-munger-harvard-law-school-fiftieth-reunion-address), [Charlie Munger — Harvard Law School Fiftieth Reunion Address](/notes/charlie-munger-harvard-law-school-fiftieth-reunion-address) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Charlie Munger — Harvard Law School Fiftieth Reunion Address](/notes/charlie-munger-harvard-law-school-fiftieth-reunion-address) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

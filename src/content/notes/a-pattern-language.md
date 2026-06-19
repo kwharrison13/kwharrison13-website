@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Christopher Alexander's foundational work, explicitly cited in the highlights ('use A Pattern Language to describe the experience of a space'); central to the book's analytic method but has no wiki page.*
 
-**Where I saw it:** Cited in [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city), [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

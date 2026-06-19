@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *David Kennedy's book is cited by name as the source of the focused-deterrence anti-violence strategy Buttigieg adopted in South Bend.*
 
-**Where I saw it:** Cited in [Shortest Way Home](/books/shortest-way-home), [Shortest Way Home](/books/shortest-way-home) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Shortest Way Home](/books/shortest-way-home) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

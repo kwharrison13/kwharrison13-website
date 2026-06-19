@@ -29,7 +29,7 @@ related:
 
 **Why it's on the list:** *Referenced across Kyle's library; flagged as worth reading.*
 
-**Where I saw it:** Cited in [Patrick Sharkey](/notes/patrick-sharkey), [The New Urban Crisis](/books/the-new-urban-crisis), [Richard Florida](/notes/richard-florida), [Poverty](/notes/poverty), [City Building](/notes/city-building), [The New Urban Crisis](/books/the-new-urban-crisis), [Patrick Sharkey](/notes/patrick-sharkey), [The New Urban Crisis](/books/the-new-urban-crisis), [Patrick Sharkey](/notes/patrick-sharkey), [Richard Florida](/notes/richard-florida), [The New Urban Crisis](/books/the-new-urban-crisis), [Poverty](/notes/poverty), [City Building](/notes/city-building), [The New Urban Crisis](/books/the-new-urban-crisis) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Patrick Sharkey](/notes/patrick-sharkey), [The New Urban Crisis](/books/the-new-urban-crisis), [Richard Florida](/notes/richard-florida), [Poverty](/notes/poverty), [City Building](/notes/city-building) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

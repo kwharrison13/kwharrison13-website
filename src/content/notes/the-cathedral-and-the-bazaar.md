@@ -25,7 +25,7 @@ related:
 
 **Why it's on the list:** *Raymond's 1997 book-length essay making the case for open source; referenced as foundational to the field the book reexamines*
 
-**Where I saw it:** Cited in [Working in Public](/books/working-in-public), [Working in Public](/books/working-in-public) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Working in Public](/books/working-in-public) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

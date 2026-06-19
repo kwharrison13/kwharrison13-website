@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Taylor's own major theological treatise, discussed at length in the highlights (Bancroft's praise, the evolution/Atonement engagement, the critique of secular philosophy); no wiki page exists.*
 
-**Where I saw it:** Cited in [The Life of John Taylor](/books/the-life-of-john-taylor), [The Life of John Taylor](/books/the-life-of-john-taylor) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [The Life of John Taylor](/books/the-life-of-john-taylor) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

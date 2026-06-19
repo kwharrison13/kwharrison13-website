@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Sinclair Lewis's novel on civic boosterism, named as the cultural backdrop for Eastport's optimism*
 
-**Where I saw it:** Cited in [Our Towns](/books/our-towns), [Our Towns](/books/our-towns) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Our Towns](/books/our-towns) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

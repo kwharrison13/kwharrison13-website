@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *Top recommended systems book in the chapter (Donella Meadows); central to the book's systems-thinking thesis but no page exists.*
 
-**Where I saw it:** Cited in [How To Be a Capitalist Without Any Capital](/books/how-to-be-a-capitalist-without-any-capital), [How To Be a Capitalist Without Any Capital](/books/how-to-be-a-capitalist-without-any-capital) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [How To Be a Capitalist Without Any Capital](/books/how-to-be-a-capitalist-without-any-capital) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

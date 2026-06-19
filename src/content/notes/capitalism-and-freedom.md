@@ -25,7 +25,7 @@ related:
 
 **Why it's on the list:** *Milton Friedman's book, cited for the load-bearing 'ideas lying around in a crisis' thesis that two of Kyle's notes and a Key Takeaway thread anchor on.*
 
-**Where I saw it:** Cited in [Utopia For Realists](/books/utopia-for-realists), [Utopia For Realists](/books/utopia-for-realists) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Utopia For Realists](/books/utopia-for-realists) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

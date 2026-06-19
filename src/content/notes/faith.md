@@ -25,7 +25,7 @@ reference_count: 1
 
 _Stub page — auto-generated from a Roam-style hashtag (`#faith`). Not yet written. Referenced in **1** book page._
 
-For Kyle's mission-era topical study of faith (Topical Journal 1.11–1.14, 1.177–1.183), see Faith — Topical Study under Topical Study.
+For Kyle's mission-era topical study of faith (Topical Journal 1.11–1.14, 1.177–1.183), see Faith — Topical Study under raw/inbox/Topical Study.
 
 ## Where this appears
 

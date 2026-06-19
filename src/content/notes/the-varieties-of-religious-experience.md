@@ -24,7 +24,7 @@ related:
 
 **Why it's on the list:** *William James classic cited directly; page would let the citation resolve to a book link*
 
-**Where I saw it:** Cited in [An Insider's View of Mormon Origins](/books/an-insider-s-view-of-mormon-origins), [An Insider's View of Mormon Origins](/books/an-insider-s-view-of-mormon-origins) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [An Insider's View of Mormon Origins](/books/an-insider-s-view-of-mormon-origins) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

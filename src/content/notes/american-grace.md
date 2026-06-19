@@ -25,7 +25,7 @@ related:
 
 **Why it's on the list:** *Putnam & Campbell cited on religion's moral benefits flowing from enmeshment with co-religionists; no page*
 
-**Where I saw it:** Cited in [The Righteous Mind](/books/the-righteous-mind), [The Righteous Mind](/books/the-righteous-mind) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [The Righteous Mind](/books/the-righteous-mind) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 

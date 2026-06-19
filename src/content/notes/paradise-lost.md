@@ -25,7 +25,7 @@ related:
 
 **Why it's on the list:** *referenced via Samuel Johnson's brevity quip; no wiki page exists*
 
-**Where I saw it:** Cited in [Charlie Munger — Harvard School Commencement Speech](/notes/charlie-munger-harvard-school-commencement-speech), [Charlie Munger — Harvard School Commencement Speech](/notes/charlie-munger-harvard-school-commencement-speech) — surfaced during the 2026-06-19 connection sweep.
+**Where I saw it:** Cited in [Charlie Munger — Harvard School Commencement Speech](/notes/charlie-munger-harvard-school-commencement-speech) — surfaced during the 2026-06-19 connection sweep.
 
 ## Connections
 
