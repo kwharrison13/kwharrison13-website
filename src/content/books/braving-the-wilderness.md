@@ -26,10 +26,9 @@ Brené Brown's book read with attention to the nuance-and-honesty discipline. Th
 ## Connections
 
 <!-- interconnections -->
-- [The Death of Expertise](/books/the-death-of-expertise) — democratic-discourse frame.
-- [Romney — A Reckoning](/books/romney-a-reckoning) — character-and-tension in politics.
-- [The Courage To Be Disliked](/books/the-courage-to-be-disliked) — same internalization-over-validation thread.
-- [Discipline Is Destiny](/books/discipline-is-destiny) — daily practice in the face of social cost.
+**Books:** [The Death of Expertise](/books/the-death-of-expertise) — democratic-discourse frame, the "everyone has a fact-based opinion on everything" failure Brown names directly. [Romney — A Reckoning](/books/romney-a-reckoning) — character-and-tension in politics, holding integrity at social cost. [The Courage To Be Disliked](/books/the-courage-to-be-disliked) — same internalization-over-validation thread ("He likes you way more than you like you"). [Discipline Is Destiny](/books/discipline-is-destiny) — daily practice ("put one foot in front of the other") in the face of social cost.
+
+**Concepts:** [Nuance](/notes/nuance) — the "support both the police and the activists" stance against false either/or dichotomies. [Truth](/notes/truth) — bullshit as the wholesale dismissal of truth as a shared starting point (Frankfurt). [Authenticity](/notes/authenticity) — true belonging requires presenting your authentic, imperfect self rather than fitting in. [Curiosity](/notes/curiosity) — in a fitting-in culture, curiosity is treated as weakness and questions as antagonism. [Empathy](/notes/empathy) — owning pain develops empathy and compassion rather than inflicting hurt. [Community](/notes/community) — self-sorting into like-minded groups (Bishop's "big sort") versus connection to a larger shared humanity.
 <!-- /interconnections -->
 
 ## Highlights

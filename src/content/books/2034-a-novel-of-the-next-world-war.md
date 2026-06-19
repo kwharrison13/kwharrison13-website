@@ -22,8 +22,11 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [2054](/books/2054) — direct sequel.
-- [The Kill Chain](/books/the-kill-chain), [Nuclear War — a Scenario](/books/nuclear-war-a-scenario) — defense-scenario cluster.
+**People:** [Elliot Ackerman](/notes/elliot-ackerman) and [James Stavridis](/notes/james-stavridis) — co-authors; the retired admiral's operational experience grounds the novel's Pacific naval-war and cyber scenarios.
+
+**Concepts:** [Foreign Policy](/notes/foreign-policy) — the book dramatizes American overreach, the Sino-Iranian-Russian alignment, and the limits of intervention. [War](/notes/war) — its through-line is miscalculation, the certainty that both sides expect to win, and the maxim that empires "rot from within." [Innovation](/notes/innovation) — argues America's deregulated, disaggregated tech ecosystem became a cyber vulnerability against China's centralized infrastructure.
+
+**Books:** [2054](/books/2054) — direct sequel by the same authors. [The Kill Chain](/books/the-kill-chain) and [Nuclear War — a Scenario](/books/nuclear-war-a-scenario) — defense-scenario cluster on modern conflict, networked warfare, and escalation. [The Art of War](/books/the-art-of-war) — directly quoted ("If you know the enemy and know yourself...") as Lin Bao's strategic frame. [Science Fiction](/notes/science-fiction) — near-future speculative scenario in the tradition of fiction-as-strategic-foresight.
 <!-- /interconnections -->
 
 ## Highlights

@@ -20,8 +20,11 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [Brave New World](/books/brave-new-world), [Anthem](/books/anthem) — dystopia cluster.
-- [1984](/books/1984) _(stub)_ — companion Orwell.
+**Books:** [1984](/books/1984) — companion Orwell work; this edition's highlights draw heavily on its "Who controls the past controls the future" machinery, the Two Minutes Hate, and the High/Middle/Low cycle of power. [Brave New World](/books/brave-new-world) and [Anthem](/books/anthem) — the dystopia cluster, alongside [Aldous Huxley](/notes/aldous-huxley)'s vision of control through comfort and [Ayn Rand](/notes/ayn-rand)'s inversion of collective "equality" (echoed in the farm's "ALL ANIMALS ARE EQUAL BUT SOME ANIMALS ARE MORE EQUAL THAN OTHERS").
+
+**People:** [George Orwell](/notes/george-orwell) — author; the allegory's argument that revolutions devolve into the tyranny they overthrew.
+
+**Concepts:** [Propaganda](/notes/propaganda) — Squealer's revisionism and the Party slogans as instruments of control. [War](/notes/war) — framed as deliberate destruction of surplus labor to keep the masses too poor to think. [Historical Futurism](/essays/historical-futurism) — the book read as preventive medicine against trading freedom for security.
 <!-- /interconnections -->
 
 ## Highlights

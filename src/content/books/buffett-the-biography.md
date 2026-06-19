@@ -19,8 +19,13 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters), [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — primary source on the same subject.
-- [The Everything Store](/books/the-everything-store) — operator-biography parallel.
+**People:** [Warren Buffett](/notes/warren-buffett), whose career arc — from Graham-style "cigar butt" bargains to buying great businesses at fair prices — this biography traces. [Roger Lowenstein](/notes/roger-lowenstein), the author. [Benjamin Graham](/notes/ben-graham), who "opened the door" and gave Buffett the temperamental set of value investing, the margin-of-safety principle, and detachment from market gyrations. [Charlie Munger](/notes/charlie-munger), who pushed Buffett toward paying a fair price for a good business over a cut rate for a stinker. [Philip Fisher](/notes/phillip-fisher), the "writer-investor" who, with Munger, stressed well-managed companies over statistically cheap ones. [Bill Gates](/notes/bill-gates) and [Sam Walton](/notes/sam-walton), invoked as fellow great capitalists who (unlike Buffett the pure investor) each owe their fortune to a single product.
+
+**Concepts:** [Value Investing](/notes/value-investing) — Buffett viewed all his investing as value investing. [Margin of Safety](/notes/margin-of-safety) — the Graham principle of buying well below intrinsic value. [Circle of Competence](/notes/circle-of-competence) — he restricted himself to businesses he could understand and knew where his "perimeter" was. [Capital Allocation](/notes/capital-allocation) — he reserved capital-deployment decisions to himself, treating Berkshire as a corporation whose capital should go to "the greenest possible pastures." [Compounding](/notes/compounding) — the goal was the largest after-tax rate of compound, deferring the tax man by holding. [Efficient Market Theory](/notes/efficient-market-theory) — which Buffett attacked for confusing "frequently efficient" with "always efficient." [Diversification](/notes/diversification) — which he rejected as an admission one cannot pick the winners. [Patience](/notes/patience) — central to his temperament-over-IQ thesis.
+
+**Books:** [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters), [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — primary sources on the same subject. [The Everything Store](/books/the-everything-store) — operator-biography parallel.
+
+**Other:** [Berkshire Hathaway](/notes/berkshire-hathaway) — the textile mill Buffett redeployed into insurance, candy, media, and consumer brands. [Newspapers](/notes/newspapers) — the "only bridge in a small town" monopoly economics he pursued via the Buffalo Evening News and Washington Post.
 <!-- /interconnections -->
 
 ## Highlights

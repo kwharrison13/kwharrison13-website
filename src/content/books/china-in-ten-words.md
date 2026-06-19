@@ -23,9 +23,11 @@ Yu Hua's essay collection read with two specific structural frames. Two threads:
 ## Connections
 
 <!-- interconnections -->
-- [The Death of Expertise](/books/the-death-of-expertise) — voice-of-the-people thread.
-- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — Chinese vs Western institutional frames.
-- [Chip War](/books/chip-war) — China-context adjacent.
+**People:** [Confucius](/notes/confucius) — Yu Hua anchors the "we survive in adversity" thread in Mencius, the Confucian philosopher who held that human progress lies in the unceasing correction of error.
+
+**Concepts:** [Poverty](/notes/poverty) — the 30M-to-100M figures depending on where the income line is drawn, and the Vancouver student who insists money is "not the sole criterion for happiness." [Capitalism](/notes/capitalism) and [GDP](/notes/gdp) — a China "ruled by politics" transformed in thirty years into one "where money is king," with growth measured as spending 100 yuan to gain 10 in GDP. [Entrepreneurship](/notes/entrepreneurship) — the millionaire Garbage King's "I just did the things nobody else was willing to do" as the grassroots engine of the economic miracle. [Innovation](/notes/innovation) — the copycat ("shanzhai") phenomenon read as both progress and regression in China's social tissue. [Reading](/notes/reading), [Literature](/notes/literature), and [Writing](/notes/writing) — the "reading famine" of the Cultural Revolution, encountering an author "of a different time, a different country" and finding one's own sensation, and the answer to "how does one become a writer?": "By writing." [Creativity](/notes/creativity) and [Empathy](/notes/empathy) — ignorance engendering mystery that triggers creative instinct, and the claim that nothing forges connection between people like shared pain. [Storytelling](/notes/storytelling-as-leadership) — leverage as a monetary-policy mechanism reframed as everyday "bamboozling," where the framing matters more than the technical content. [City Building](/notes/city-building) — brand-named landmarks (Sixth Sense Condom Bridge, Sanlu Milk Powder Square) marking the commercialized urban landscape. [Progress Studies](/notes/progress-studies) — the Mencian view that progress comes through correcting error, set against lopsided post-Tiananmen development.
+
+**Books:** [The Death of Expertise](/books/the-death-of-expertise) — voice-of-the-people thread. [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — Chinese vs Western institutional frames. [Chip War](/books/chip-war) — China-context adjacent.
 <!-- /interconnections -->
 
 ## Highlights

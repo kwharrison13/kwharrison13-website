@@ -27,6 +27,12 @@ A recurring political note is the inversion of merit and birth. Franklin's Ameri
 <!-- interconnections -->
 - [The Autobiography of Benjamin Franklin](/books/the-autobiography-of-benjamin-franklin) — Franklin's own first-person account; Isaacson reads it from the outside and repeatedly separates the man from the Poor Richard character the Autobiography helped mythologize.
 - [American Sphinx](/books/american-sphinx) — adjacent founders-era portrait; Franklin recurs there too (the sign-painter parable that soothes Jefferson over the Declaration), a companion study in temperament and persuasion among the founders.
+- [Thomas Jefferson](/notes/thomas-jefferson) — fellow founder; the sign-painter parable links the two, and Jefferson sits on the opposite temperament from Franklin's conciliatory, [Compromise](/notes/compromise)-first persuasion.
+- [Socrates](/notes/socrates) — the model for Franklin's thirteenth virtue, Humility ("Imitate Jesus and Socrates"), and the dialectical, question-led mode he adopted in the [Junto](/notes/junto).
+- [self-improvement](/notes/self-improvement) — Franklin's self-taught writing method (read, note, rebuild, compare) and the bed-by-bed [Thirteen Virtues](/notes/thirteen-virtues) system make him the patron saint of deliberate self-betterment.
+- [Reading](/notes/reading) — the lifelong throughline: "all the little money that came into my hands was ever laid out in books"; he asked the town of Franklin for a library instead of a bell.
+- [Writing](/notes/writing) — Isaacson's thesis that clear prose was itself part of Franklin's scientific importance, tied to the essay-rebuilding practice.
+- [Parenting](/notes/parenting) — the disorganized Temple Franklin vs. the precocious [John Quincy Adams](/books/john-quincy-adams), raised as a contrast of styles.
 <!-- /interconnections -->
 
 ## Highlights

@@ -32,12 +32,33 @@ A side observation: the secret to getting results that last is to never stop mak
 ## Connections
 
 <!-- interconnections -->
-- [Discipline Is Destiny](/books/discipline-is-destiny) — direct pair. Stoic discipline as the values-frame; atomic habits as the mechanism.
+**Books:**
+
+- [Discipline Is Destiny](/books/discipline-is-destiny) — direct pair. Stoic discipline as the values-frame; atomic habits as the mechanism (the book reframes self-control as building a disciplined environment rather than summoning willpower).
 - [Essentialism](/books/essentialism) — same focus-and-tradeoff family, different vocabulary.
-- [The Self-Driven Child](/books/the-self-driven-child) — intrinsic motivation and identity formation in the child-development register.
-- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — Munger's compounding frame; "don't interrupt unnecessarily."
-- [Deep Work](/books/deep-work) _(stub)_ — adjacent focus discipline.
-- [The Great Mental Models Volume 1: General Thinking Concepts](/books/the-great-mental-models-volume-1-general-thinking-concepts) — systems thinking and feedback loops.
+- [The Self-Driven Child](/books/the-self-driven-child) — intrinsic motivation and identity formation in the child-development register; the book's "ultimate form of intrinsic motivation is when a habit becomes part of your identity" pairs directly.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — source of the Munger line the book quotes directly: "The first rule of compounding: Never interrupt it unnecessarily."
+- [Deep Work](/books/deep-work) _(stub)_ — adjacent focus discipline; mirrors the book's "leave my phone in a different room until lunch" friction tactic.
+- [The Great Mental Models Volume 1: General Thinking Concepts](/books/the-great-mental-models-volume-1-general-thinking-concepts) — systems thinking and feedback loops (cue-craving-response-reward as a behavioral feedback loop).
+- [The Autobiography of Benjamin Franklin](/books/the-autobiography-of-benjamin-franklin) — the book cites Franklin's daily tracking of [Thirteen Virtues](/notes/thirteen-virtues) as the canonical habit-tracker.
+
+**People:**
+
+- [Charlie Munger](/notes/charlie-munger) — quoted on the first rule of compounding; the book's "never stop making improvements" echoes the don't-interrupt-compounding frame.
+- [Naval Ravikant](/notes/naval-ravikant) — quoted twice ("To write a great book, you must first become the book" and "The trick to doing anything is first cultivating a desire for it").
+- [Benjamin Franklin](/notes/benjamin-franklin) — held up as the most famous habit-tracker, recording progress against his virtues each day.
+- [Paul Graham](/notes/paul-graham) — quoted on "keep your identity small" as a guard against brittle, over-attached identity.
+- [Charles Darwin](/notes/charles-darwin) — quoted on collaboration and improvisation; the book's social-imitation chapters draw on evolutionary framing.
+
+**Concepts:**
+
+- [Systems Thinking](/notes/systems-thinking) — the book's thesis ("You do not rise to the level of your goals. You fall to the level of your systems"); Kyle tags this directly in the highlights.
+- [Compounding](/notes/compounding) — "Habits are the compound interest of self-improvement"; small habits don't add up, they compound.
+- [Identity Formation](/notes/identity-formation) — identity-based vs. outcome-based habits; "every action you take is a vote for the type of person you wish to become."
+- [Intrinsic Motivation](/notes/intrinsic-motivation) — a habit becoming part of identity as the ultimate intrinsic motivator; flow and energy-giving work as signals.
+- [Interest Discovery](/notes/interest-discovery) — the explore/exploit trade-off and "what feels like fun to me, but work to others" as the mark of fit.
+- [Compound Knowledge](/notes/compound-knowledge) — knowledge as a lagging measure of learning habits; marginal gains accreting over time.
+- [Contrarianism](/notes/contrarianism) — "most days, we'd rather be wrong with the crowd than be right by ourselves"; the great player creating a new game over winning the common one.
 <!-- /interconnections -->
 
 ## Highlights

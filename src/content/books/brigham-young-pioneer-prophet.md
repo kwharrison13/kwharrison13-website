@@ -29,11 +29,34 @@ A standalone thread: the influence of Brigham's sermons that "still influence us
 ## Connections
 
 <!-- interconnections -->
-- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — direct predecessor in subject and arc.
-- [Working Toward Zion](/books/working-toward-zion) — United Order arguments that came directly out of Brigham's era.
-- [American Zion](/books/american-zion) _(stub)_ — broader American Mormon historiography.
-- [The Crucible of Doubt](/books/the-crucible-of-doubt) — adjacent on the willingness to engage hard questions about Church history.
-- [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — the historiographical lens.
+**Books:**
+- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — direct predecessor in subject and arc; Turner's Young inherits and reshapes the church Bushman's Joseph founded.
+- [Working Toward Zion](/books/working-toward-zion) — the [United Order](/notes/united-order) and cooperative-economy arguments that came directly out of Brigham's era (St. George, Orderville, Brigham City).
+- [American Zion](/books/american-zion) _(stub)_ — broader American Mormon historiography that frames the kingdom Young built.
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — adjacent on the willingness to engage hard questions about Church history, including Young's durable problems.
+- [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — the historiographical lens on telling honest Mormon institutional history.
+
+**People:**
+- [Brigham Young](/notes/brigham-young) — the subject; the "no one is safe until the end" leader who governed by demanding obedience after Joseph's murder.
+- [Joseph Smith](/notes/joseph-smith) — the predecessor whose "policy in temporal things was different from my ideas"; Young stewarded his theology while diverging on governance.
+- [Eliza R. Snow](/notes/eliza-r-snow) — Young's wife and the "high priestess" of the Endowment House, central to the book's account of women's expanding ecclesiastical roles.
+- [Lorenzo Snow](/notes/lorenzo-snow) — apostle whose Brigham City cooperative prospered through the Panic of 1873 and modeled the United Order.
+- [Wilford Woodruff](/notes/wilford-woodruff) — apostle Young confided in about the Order of Enoch and his distrust of others to manage property.
+- [John Taylor](/notes/john-taylor) and [Orson Pratt](/notes/orson-pratt) — high-ranking leaders whose pride Young's heavy-handed later leadership bruised.
+- [Parley Pratt](/notes/parley-p-pratt) — apostle who corrected misconceptions about speaking in tongues en route to England.
+- [Susa Young Gates](/notes/susa-young-gates) — Young's daughter, cited on Eliza Snow's role in the temple.
+
+**Concepts:**
+- [Voice of the People](/notes/voice-of-the-people) — "The people, not Governor Ford, ruled western Illinois," a recurring frame on who actually holds power.
+- [City Building](/notes/city-building) — Young "more literally established God's kingdom upon the earth," dispersing settlements rather than building Smith's sacred cities of Zion.
+- [Institution Building](/notes/institution-building) — Mormon institutional life as a series of unfinished commitments; Young consolidated leadership and built durable structures (and durable problems).
+- [United Order](/notes/united-order) — the 1874 communitarian movement Young launched in St. George, undermined by his own refusal to consecrate all his property.
+- [Zion](/notes/zion) — "we are going to build it," Young's collapse of the space between heaven and earth through the Saints' own labor.
+- [Theocracy](/notes/theocracy) — the theocratic kingdom resisting federal encroachment that Young set up in the Salt Lake Valley.
+- [Word of Wisdom](/notes/word-of-wisdom) — oscillation between "forced abstinence" and latitude, only enforced strictly late in Young's life.
+- [Polygamy](/notes/polygamy) — the patriarchal household structure within which Young's contradictory views on women played out.
+- [Revelation](/notes/revelation) — the "living oracles" and "living constitution" (Council of Fifty) Young valued above written scripture.
+- [Book of Mormon](/notes/book-of-mormon) — the canon Young cited in preaching while insisting ongoing instruction took precedence.
 <!-- /interconnections -->
 
 ## Highlights

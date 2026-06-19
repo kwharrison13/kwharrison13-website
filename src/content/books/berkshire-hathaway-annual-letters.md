@@ -46,7 +46,7 @@ This is the most professionally-aligned book in the library — Buffett as scaff
 - [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — the alternative-VC frame; Berkshire as VC-shaped-differently.
 - [Skunk Works](/books/skunk-works) — culture-as-competitive-moat overlap.
 - [The Founders](/books/the-founders) — talent-vortex / scenius overlap; PayPal as a network of multipliers.
-- [How to Read a Book](/books/how-to-read-a-book) — the active-reading discipline these notes exemplify.
+- [How To Read a Book](/books/how-to-read-a-book) — the active-reading discipline these notes exemplify.
 <!-- /interconnections -->
 
 ## Highlights

@@ -19,8 +19,11 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [Brave New World](/books/brave-new-world), [Animal Farm](/books/animal-farm) _(stub)_ — dystopia cluster.
-- [Atlas Shrugged](/notes/atlas-shrugged) _(stub)_ — Rand canon.
+**People:** [George Orwell](/notes/george-orwell) — author of the collectivist-dystopia novels this sits alongside; [Aldous Huxley](/notes/aldous-huxley) — author of the engineered-conformity dystopia in the same cluster.
+
+**Concepts:** [Free Will](/notes/free-will) — the novella's core argument is the individual will ("there is no will save the will of all men together" is the evil it indicts); [Innovation](/notes/innovation) — Equality 7-2521's rediscovered electric light is suppressed by the Council to protect the Department of Candles, dramatizing how collectivist consensus blocks invention ("What is not thought by all men cannot be true").
+
+**Books:** [Brave New World](/books/brave-new-world), [Animal Farm](/books/animal-farm), [1984](/books/1984) — the dystopia cluster of engineered or coerced collectivism; [Atlas Shrugged](/notes/atlas-shrugged) — Rand's later, fuller statement of the individualist ethic ("I owe nothing to my brothers, nor do I gather debts from them") that closes Anthem with the word EGO.
 <!-- /interconnections -->
 
 ## Highlights

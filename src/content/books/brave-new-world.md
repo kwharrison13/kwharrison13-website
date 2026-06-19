@@ -29,10 +29,17 @@ The throughline: the novel reads here less as horror at a dystopia than as a pro
 ## Connections
 
 <!-- interconnections -->
-- [The Water Knife](/books/the-water-knife) — Kyle's explicit comparison; both ask whether the desire to suffer is a privilege of the comfortable.
+- [The Water Knife](/books/the-water-knife) — the explicit marginal comparison; both ask whether the desire to suffer is a privilege of the comfortable.
 - [1984](/books/1984) — the canonical Orwell/Huxley dystopia contrast (control by pleasure vs. control by pain); Huxley draws the comparison himself in [Brave New World Revisited](/books/brave-new-world-revisited).
+- [George Orwell](/notes/george-orwell) — author of the contrasting dystopia; the World State conditions consent through soma and pleasure rather than Orwell's boot and fear.
 - [Animal Farm](/books/animal-farm) — adjacent mid-century dystopian allegory.
 - [Brave New World Revisited](/books/brave-new-world-revisited) — Huxley's own non-fiction re-examination of this novel's predictions.
+- [Utopia](/notes/utopia) — the epigraph (Berdiaeff) frames the novel as a warning that utopias are "attainable" and worth avoiding.
+- [Happiness](/notes/happiness) — Mustapha Mond's defense that the World State traded truth and beauty for comfort and "universal happiness," paid for by abolished struggle.
+- [Free Will](/notes/free-will) — a society of Alphas "couldn't fail to be unstable"; the caste system engineers away independent choice to preserve stability.
+- [Henry Ford](/notes/henry-ford) — "Our Ford" as the deified patron of mass production; "History is bunk" and the sign of the T mark the cult built on the assembly line.
+- [Science Fiction](/notes/science-fiction) — a foundational work of speculative dystopian fiction probing which human goods get optimized away.
+- [William Shakespeare](/notes/william-shakespeare) — the Savage's moral vocabulary (Othello, Hamlet's "slings and arrows") supplies the language the World State has erased.
 <!-- /interconnections -->
 
 ## Highlights

@@ -29,11 +29,33 @@ Cross-references: McKay Coppins's biography of Romney is referenced explicitly �
 ## Connections
 
 <!-- interconnections -->
-- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — same institutional history, earlier era.
-- [Brigham Young — Pioneer Prophet](/books/brigham-young-pioneer-prophet) — same tradition, post-Joseph chapter.
-- [Romney — A Reckoning](/books/romney-a-reckoning) — McKay Coppins reference; political-and-faith intersection.
-- [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — historiographical context.
-- [Working Toward Zion](/books/working-toward-zion) — economic-political thread in the same tradition.
+**Books:**
+
+- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — same institutional history, earlier era; the founding-prophet narrative this book extends.
+- [Brigham Young — Pioneer Prophet](/books/brigham-young-pioneer-prophet) — same tradition, post-Joseph chapter; Young's consolidation of power, polygamy, and anti-Black priesthood theology figure heavily here.
+- [Romney — A Reckoning](/books/romney-a-reckoning) — McKay Coppins's biography, referenced explicitly as the same author's earlier work on the same tradition; political-and-faith intersection.
+- [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — historiographical context for the "New Mormon History" thread (Arrington's release as church historian, the canceled sesquicentennial series).
+- [Working Toward Zion](/books/working-toward-zion) — economic-political thread in the same tradition (Smith's "United Firm," the consecration impulse).
+- [The Book of Mormon](/books/the-book-of-mormon) — the founding scripture whose "deep uneasiness toward democracy" and patriarchal roots the book reads as shaping later church politics.
+
+**People:**
+
+- [Joseph Smith](/notes/joseph-smith) — founding prophet whose revelations, polygamy, and Nauvoo city-state anchor the first half.
+- [Brigham Young](/notes/brigham-young) — successor who colonized Utah, entrenched polygamy, and delivered the 1852 anti-Black priesthood sermon.
+- [Ralph Waldo Emerson](/notes/ralph-waldo-emerson) — quoted as the era's competing "prophet" of severance and individual liberty, the cultural backdrop to Smith's revelations.
+- [Alexis de Tocqueville](/notes/alexis-de-tocqueville) — his "tyranny of the majority" frames the Jacksonian democracy the early saints collided with.
+- [Wilford Woodruff](/notes/wilford-woodruff) — apostle and diarist whose six-thousand-page records chronicle the trek and Mormon politics.
+- [Sidney Rigdon](/notes/sidney-rigdon) — First Presidency rival whose succession claim Young defeated.
+
+**Concepts:**
+
+- [Theocracy](/notes/theocracy) — the saints' "twin allegiances to theocracy and polygamy," deemed incongruous with American democracy, drive the federal conflict.
+- [Polygamy](/notes/polygamy) — the doctrine of plural marriage as the center of an eternal patriarchal structure, and the divorce "safety valve" that made it work.
+- [Religious Freedom](/notes/religious-freedom) — the legal disputes over Mormon practice that "still define the limits of religious liberty today."
+- [City Building](/notes/city-building) — Nauvoo as "the most successful religious city-state since puritan New England," and the Salt Lake colonization project.
+- [Zion](/notes/zion) — the gathering ideal whose Jackson County, Missouri original gives the book its title.
+- [Priesthood](/notes/priesthood) — the authority claim binding familial relations, succession, and the anti-Black ordination ban.
+- [Andrew Jackson](/notes/andrew-jackson) — namesake of Jackson County and emblem of the Jacksonian-era democracy the saints contested.
 <!-- /interconnections -->
 
 ## Highlights

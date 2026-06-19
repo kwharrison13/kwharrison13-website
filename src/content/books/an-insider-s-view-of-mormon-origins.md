@@ -25,10 +25,31 @@ Grant H. Palmer's revisionist Mormon history read with active disagreement — m
 ## Connections
 
 <!-- interconnections -->
+**Books:**
 - [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — same primary subject, Bushman's more rigorous treatment.
 - [The Crucible of Doubt](/books/the-crucible-of-doubt) — same doubt-and-doctrine question.
 - [American Zion](/books/american-zion) — broader institutional context.
-- [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — historiographical lens.
+- [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — historiographical lens on the "New Mormon History" Palmer surveys.
+
+**People:**
+- [Joseph Smith](/notes/joseph-smith) — the book's primary subject; Palmer reconstructs his translation method and shifting godhead theology.
+- [Grant H. Palmer](/notes/grant-h-palmer) — author; a fourth-generation Mormon and retired CES instructor writing revisionist Mormon origins.
+- [Oliver Cowdery](/notes/oliver-cowdery) — Joseph's scribe from April 1829; cited on stone "translation" of John the Revelator and Thomas Dick excerpts.
+- [David Whitmer](/notes/david-whitmer) — Book of Mormon witness whose testimony Palmer weighs against the fabrication thesis.
+- [Sidney Rigdon](/notes/sidney-rigdon) — figures in the advance publicity that fed E. D. Howe's _Mormonism Unvailed_.
+- [Thomas Jefferson](/notes/thomas-jefferson) — quoted by Palmer on truth emerging victorious from free exchange.
+- [John Stuart Mill](/notes/john-stuart-mill) — cited that resisting an opinion is a "peculiar evil," robbing us of trading error for truth.
+- [Hugh B. Brown](/notes/hugh-b-brown) — LDS counselor quoted defending the "questing spirit" and freedom of the mind in the church.
+- [J. Reuben Clark](/notes/j-reuben-clark) — First Presidency counselor quoted: truth cannot be harmed by investigation.
+- [William James](/notes/william-james) — invoked via _The Varieties of Religious Experience_ on religious experience.
+
+**Concepts:**
+- [Intellectual Honesty](/notes/intellectual-honesty) — Palmer's central plea: faith built on truth, beliefs submitted to rigorous scrutiny.
+- [Free Speech](/notes/free-speech) — the Mill/Jefferson/Brown thread on free exchange of ideas and the marketplace of thought.
+- [Book of Mormon](/notes/book-of-mormon) — argued to be an amalgamation of Joseph's environment and biblical themes rather than an ancient record.
+- [Pearl of Great Price](/notes/pearl-of-great-price) — the Book of Abraham read as reflecting antebellum (Thomas Dick) cosmology rather than antiquity.
+- [LDS Church](/notes/church-of-jesus-christ-of-latter-day-saints) — the institutional "lingering distrust" of unendorsed scholarship that frames the book.
+- [Faith](/notes/faith) — Palmer's distinction between faith (the unknown) and knowledge (the provable).
 <!-- /interconnections -->
 
 ## Highlights

@@ -25,11 +25,38 @@ Hobart and Huber's pro-bubble book read with two specific framings worth holding
 ## Connections
 
 <!-- interconnections -->
-- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — adjacent on capital-and-ambition frame.
-- [Skunk Works](/books/skunk-works) — speed-of-delivery thread.
-- [The Idea Factory](/books/the-idea-factory) — Bell Labs as the era's positive case.
-- [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) — ambitious-timeline city-building.
-- [How To Avoid a Climate Disaster](/books/how-to-avoid-a-climate-disaster) — Gates's structurally similar bet-making.
+**People:**
+- [Peter Thiel](/notes/peter-thiel) — the book leans heavily on Thiel's "definite optimism" vs. "indefinite optimism" distinction, the Apollo-to-Woodstock observation, and the [Zero To One](/books/zero-to-one) critique of indefinite optimists who merely rearrange existing things.
+- [Elon Musk](/notes/elon-musk) — quoted on the "soul-sucking" regulatory reviews of SpaceX's Starship and on how civilizations decline when they quit taking risks; framed as von Braun's eschatological heir for Mars colonization.
+- [Tyler Cowen](/notes/tyler-cowen) — *The Great Stagnation* and his Bloomberg argument that the new Tesla "isn't progress" are central to the book's stagnation thesis.
+- [Ray Kurzweil](/notes/ray-kurzweil) — invoked for the singularity and "spiritual machines," including his "Not yet" answer on whether God exists.
+- [Kevin Kelly](/notes/kevin-kelly) — his "technium" concept is cited as technology's autonomous, quasi-agentic force.
+- [George Soros](/notes/george-soros) — reflexivity (the feedback loop between expectations and prices) is a load-bearing mechanism in the bubble model.
+- [Neal Stephenson](/notes/neal-stephenson) — quoted from "Innovation Starvation" on believing we have all the technology we need.
+- [David Graeber](/notes/david-graeber) — "Of Flying Cars and the Declining Rate of Profit" is cited on building better simulations of the future instead of the future itself.
+- [Bill Gates](/notes/bill-gates) — quoted on Moore's law making compute "almost free" and software as the scarce resource; his climate bet-making parallels the book's megaproject frame.
+- [Paul Graham](/notes/paul-graham) — his Yahoo "de facto Ponzi scheme" account and the Harvard "reading period" founding observation are quoted at length.
+- [Steve Jobs](/notes/steve-jobs) — the "reality distortion field" that bubbles manufacture is traced through Jobs's management style.
+- [Richard Feynman](/notes/richard-feynman) and [Vannevar Bush](/notes/vannevar-bush) — Feynman as the Manhattan Project's anti-bureaucratic genius; Bush's "As We May Think" as a PARC-shaping prophecy.
+- [Andy Grove](/notes/andy-grove) — *Only the Paranoid Survive* cited as the canonical strategy text once chips moved from technology-rewarded to strategy-rewarded.
+
+**Concepts:**
+- [Mimetics](/notes/mimetics) — René Girard's mimetic desire (popularized by Thiel) explains how bubbles channel imitation and FOMO into productive coordination.
+- [Nuclear Energy](/notes/nuclear-energy) — the Manhattan Project and nuclear power are the book's purest "apocalyptic technology" case study of an innovation-accelerating bubble.
+- [Crypto](/notes/crypto) — Bitcoin is analyzed as a self-referential "bubble machine" and social bubble, with Nakamoto cast as a sacrificing messianic founder.
+- [Historical Futurism](/essays/historical-futurism) — the book's whole frame: reading past megaprojects to recover an ambitious vision of the future.
+- [Progress Studies](/notes/progress-studies) — diagnoses techno-scientific stagnation (declining TFP, diminishing research returns, the reproducibility crisis) and prescribes bubbles as the exit ramp.
+- [Capital Allocation](/notes/capital-allocation) — distinguishes innovation-accelerating bubbles from financialization-driven mean-reversion bubbles and critiques [Private Equity](/notes/private-equity) / passive investing as present-oriented.
+- [Bell Labs](/notes/bell-labs), [Xerox PARC](/notes/xerox-parc), [Skunk Works](/books/skunk-works) — the corporate R&D labs whose bubble-like dynamics produced the transistor, the GUI, and Cold War aerospace.
+- [City Building](/notes/city-building) — the World's Fair as an inspirational public deadline and AT&T's pre-1915 cross-country call goal.
+
+**Books:**
+- [Zero To One](/books/zero-to-one) — Thiel's definite/indefinite optimism and the critique of bankers, lawyers, and PE squeezing efficiency from old things.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — adjacent on venture capital, FOMO, and the few companies that justify the whole asset class.
+- [The Idea Factory](/books/the-idea-factory) — Bell Labs as the era's positive case for tolerant, open-ended corporate research.
+- [Skunk Works](/books/skunk-works) — Lockheed's R&D lab as a speed-of-delivery, secrecy-shrouded bubble.
+- [How To Avoid a Climate Disaster](/books/how-to-avoid-a-climate-disaster) — Gates's structurally similar approach to making a concentrated bet on a hard-tech future.
+- [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) — ambitious-timeline city-building echoing the World's Fair deadline mechanism.
 <!-- /interconnections -->
 
 ## Highlights

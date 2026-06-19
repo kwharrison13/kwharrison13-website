@@ -19,7 +19,11 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [Walden](/books/walden) — adjacent on nature-and-solitude.
+**People:** [Henry David Thoreau](/notes/henry-david-thoreau) — Bryson skewers Thoreau's romantic wilderness, noting that nature was "splendid" to him so long as he could stroll to town, yet his 1846 visit to Katahdin left him "near hysterical."
+
+**Concepts:** [Solitude](/notes/solitude) — life on the Appalachian Trail reduces wants and obligations to "a tranquil tedium," far removed from the seats of strife. · [Walking](/notes/walking) — "distance changes utterly when you take the world on foot," contrasted against the average American's 1.4 miles of walking a week. · [Suburban Sprawl](/notes/suburban-sprawl) — Bryson's statistics on malls, motels, and the 93% of trips taken by car indict the car-dependent built landscape that beauty has become "something you drive to."
+
+**Books:** [Walden](/books/walden) — adjacent on nature-and-solitude, and a direct foil given Bryson's deflation of Thoreau's pastoral idyll.
 <!-- /interconnections -->
 
 ## Highlights

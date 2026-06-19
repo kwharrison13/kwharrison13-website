@@ -19,9 +19,11 @@ One note: Jefferson on cities — "they all live in cities, together, and can ac
 ## Connections
 
 <!-- interconnections -->
-- [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) — city-building thread.
-- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — Republic of Letters parallel.
-- [Janesville](/books/janesville) _(stub)_ — community dynamics.
+**People:** [Thomas Jefferson](/notes/thomas-jefferson) — the book's subject, profiled as a brilliant rhetorician and reluctant public figure who governed almost entirely from his writing desk. [John Adams](/books/john-adams) — Jefferson's foil and twilight-years correspondent; the natural-vs.-pseudoaristocracy debate and the rationalist-vs.-empiricist clash run through the late chapters. [Alexander Hamilton](/books/alexander-hamilton) — antagonist whose vision of an integrated commercial republic and the national debt Jefferson opposed. [Benjamin Franklin](/notes/benjamin-franklin) — soothed Jefferson's pain during the Declaration's editing with the sign-painter parable. [James Monroe](/notes/james-monroe) — the American minister in Paris to whom Jefferson apologized for his epistolary silences. [Joseph J. Ellis](/notes/joseph-j-ellis) — the biographer narrating Jefferson within his late-eighteenth-century context. [Alfred North Whitehead](/notes/alfred-north-whitehead) — quoted on the revolutionary era as one of two moments when an emerging empire's leadership performed as well as one could realistically expect.
+
+**Concepts:** [Republic of Letters](/notes/republic-of-letters) — Jefferson's solitary reading, note-taking, and prolific correspondence embody the Enlightenment lettered ideal. [City Building](/notes/city-building) — Jefferson's pro-urban observation that city-dwellers "can act in a body readily and at all times" anchors the book's one captured note. [Leadership](/notes/leadership) — Ellis frames Jefferson's indirect, conflict-avoiding, "cloak the exercise of power" style as a model adapted to American political culture. [Free Speech](/notes/free-speech) — Jefferson's "monuments of the safety with which error of opinion may be tolerated" and his later disillusionment with the press. [Education](/notes/education) — his statewide educational scheme for Virginia and the founding of the University of Virginia.
+
+**Books:** [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) — city-building thread. [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — Republic of Letters parallel. [The Autobiography of Benjamin Franklin](/books/the-autobiography-of-benjamin-franklin) — contemporary founder's self-portrait alongside Jefferson's. [Janesville](/books/janesville) _(stub)_ — community dynamics.
 <!-- /interconnections -->
 
 ## Highlights

@@ -19,8 +19,11 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [The Founders](/books/the-founders), [The Everything Store](/books/the-everything-store) — operator-biography parallel.
-- [Chip War](/books/chip-war) — China-tech context.
+**People:** [Jack Ma](/notes/jack-ma) — Alibaba's founder, profiled here as a self-described non-technical, often-underestimated leader who out-maneuvered larger rivals ("I am a crocodile in the Yangtze River"). [Jeff Bezos](/notes/jeff-bezos) — the analogous founder-operator whose Amazon biography ([The Everything Store](/books/the-everything-store)) parallels this account of building a dominant e-commerce platform.
+
+**Concepts:** [Entrepreneurship](/notes/entrepreneurship) — Jack Ma's claim that "consumption is done by entrepreneurship and the market economy," not government, and that wisdom comes from experience rather than an MBA. [Competition](/notes/competition) — the book's recurring strategic theme: out-positioning a stronger opponent (eBay) by choosing the home battlefield rather than confronting it head-on. [Capital Allocation](/notes/capital-allocation) — Ma's fundraising maxim, "Raise money when we don't need it. When you need it... it's too late."
+
+**Books:** [The Founders](/books/the-founders), [The Everything Store](/books/the-everything-store) — operator-biography parallels of platform-company building. [Chip War](/books/chip-war) — broader China-tech context for Alibaba's rise.
 <!-- /interconnections -->
 
 ## Highlights

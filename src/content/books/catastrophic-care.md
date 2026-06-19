@@ -20,7 +20,13 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism) — financialization-replacing-operational-discipline parallel.
+**People:** [Clayton Christensen](/notes/clayton-christensen) — quoted on how the Medicaid lowest-price rule instills price "discipline" that makes any discounting prohibitively expensive for health-care providers. [John Maynard Keynes](/notes/john-maynard-keynes) — the closing epigraph ("When the facts change, I change my mind") framing Goldhill's evolution from a conventional Democrat to a market-skeptic-of-the-system position.
+
+**Concepts:** [Incentives](/notes/incentives) — the book's core argument is that backward economic incentives reward bad behavior (more revenue for excess treatment, penalties for efficiency) rather than serving patients. [Pricing](/notes/pricing) — administered, cost-plus pricing replaces flexible market prices, driving inflation, underinvestment in IT and antibiotics, and misallocation. [Insurance](/notes/insurance) — Goldhill's central reframe: insurance is misused as the payment system for routine, predictable care rather than confined to true catastrophic risk. [Competition](/notes/competition) — "Surrogates" (insurers, Medicare) sever the consumer's disciplining role, removing the competitive pressure that on the "Mainland" forces lower prices, higher quality, and better service. [Operational Discipline](/notes/operational-discipline) — the consumer-as-disciplinarian is the missing market feedback loop that health care lacks. [Innovation](/notes/innovation) — "green shoots" (concierge primary care, medical tourism, price-transparency startups) and creative destruction stay suppressed until consumers, not Surrogates, are in charge.
+
+**Books:** [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism) — financialization-replacing-operational-discipline parallel; both trace dysfunction to misaligned incentives at the system level. See also [Financialization](/notes/financialization).
+
+**Other:** [Apple](/notes/apple-aapl), [Amazon](/notes/amazon), [Google](/notes/google), [Southwest Airlines](/notes/southwest-airlines) — invoked as "Mainland" examples of firms that created value by making something complicated simple, a feat Goldhill argues no health-care company even attempts.
 <!-- /interconnections -->
 
 ## Highlights

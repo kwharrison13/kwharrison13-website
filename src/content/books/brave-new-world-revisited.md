@@ -40,6 +40,11 @@ The throughline: Huxley got the alarm right but the diagnosis wrong. The interes
 - [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — same "what survives civilizational stress" question.
 - [The Righteous Mind](/books/the-righteous-mind) — adjacent moral-psychology framing of suggestibility and reason.
 - [Animal Farm](/books/animal-farm) — Orwell dystopia cousin.
+- [Educated Electorate](/notes/educated-electorate) — the structural defense Huxley keeps returning to via Jefferson and Mill: democracy survives only on an informed, reason-responsive citizenry.
+- [Propaganda](/notes/propaganda) — the book's central mechanism of control, from Hitler's demagoguery to Madison Avenue's motivation research.
+- [Free Will](/notes/free-will) — Huxley's takedown of B.F. Skinner's behaviorist scientism, defending the individual's genetic and creative contribution against "the contribution which may be claimed by the individual approaches zero."
+- [Progress Studies](/notes/progress-studies) — the marginalia's counter-argument that growth is the path to solutions that avoid authoritarianism, not the cause of it.
+- [Authoritarianism](/notes/authoritarianism) — the book's preoccupation, recast in the notes as a response to problems rather than to growth directly.
 <!-- /interconnections -->
 
 ## Highlights

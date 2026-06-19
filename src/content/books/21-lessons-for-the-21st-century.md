@@ -25,10 +25,31 @@ Harari's near-future book read with active counter-argument throughout. Three th
 ## Connections
 
 <!-- interconnections -->
-- [Homo Deus](/books/homo-deus) — direct predecessor.
-- [Sapiens](/books/sapiens) _(stub)_ — earliest in the trilogy.
-- [Brave New World Revisited](/books/brave-new-world-revisited) — adjacent civilizational-trajectory frame.
-- [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious counter to Harari's secular frame.
+**Books:**
+
+- [Homo Deus](/books/homo-deus) — direct predecessor; Harari credits both it and [Sapiens](/books/sapiens) to the clarity of his daily meditation practice.
+- [Sapiens](/books/sapiens) — earliest in the trilogy; the "humans think in stories, not facts" thread originates here.
+- [Brave New World Revisited](/books/brave-new-world-revisited) — adjacent civilizational-trajectory frame, where technology engineers the inner human.
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious counter to Harari's secular framing of morality and meaning.
+
+**Concepts:**
+
+- [Universal Basic Income](/notes/universal-basic-income) — Harari weighs UBI (capitalist paradise) against universal basic services (communist paradise) as responses to mass technological unemployment.
+- [Future of Work](/notes/future-of-work) — the AI revolution as a "cascade of ever-bigger disruptions" that ends the job-for-life and the profession-for-life.
+- [Retraining](/notes/retraining) — repeated reinvention of the workforce will not be a one-time effort but a perpetual demand, with mental-balance costs.
+- [Education](/notes/education) — the "four Cs" (critical thinking, communication, collaboration, creativity); teaching kids to embrace the unknown over predetermined skills.
+- [Critical Thinking](/notes/critical-thinking) — the antidote to the "knowledge illusion" and to echo chambers of self-confirming news feeds.
+- [Climate Change](/notes/climate-change) — one of three shared global enemies (with nuclear war and technological disruption) that could forge a common human identity.
+- [Science Fiction](/notes/science-fiction) — argued to be the most important artistic genre of the century because it shapes public understanding of AI and bioengineering.
+- [Storytelling](/notes/storytelling-as-leadership) — "all mass identities are based on fictional stories"; the self itself framed as a story the mind constantly rewrites.
+- [Capitalism](/notes/capitalism) — liberal democracy and free-market capitalism cast the individual as an autonomous choosing agent, a view AI decision-making threatens.
+- [Democracy](/notes/democracy) — "democracy in its present form cannot survive the merger of biotech and infotech."
+- [Truth](/notes/truth) — humans prefer power to truth; "questions you cannot answer are usually far better than answers you cannot question."
+- [Free Will](/notes/free-will) — Harari's claim that 99% of choices are shaped by biological/social/cultural forces, and that belief in free will makes people easiest to manipulate.
+
+**People:**
+
+- [Yuval Noah Harari](/notes/yuval-noah-harari) — author; the book's secular-humanist, near-future framing.
 <!-- /interconnections -->
 
 ## Highlights
