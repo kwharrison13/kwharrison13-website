@@ -11,7 +11,7 @@ substack_url: "https://investing101.substack.com/p/2023-in-books"
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-power-law-venture-capital-and-the-making-of-the-new-future">The Power Law: Venture Capital & the Making of the New Future</a>, <a href="/books/the-navalmanack">The Navalmanack</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-power-law-venture-capital-and-the-making-of-the-new-future">The Power Law: Venture Capital & the Making of the New Future</a>, <a href="/books/the-almanack-of-naval-ravikant">The Almanack of Naval Ravikant</a></span></div>
   <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-wrath-of-reading-and-writing">The Wrath of Reading & Writing</a>, <a href="/essays/on-writing">On Writing</a>, <a href="/essays/2022-in-books">2022 in Books</a>, <a href="/essays/the-professionalization-of-startups">The Professionalization of Startups</a></span></div>
 </aside>
 <!-- connections-end -->
