@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "historical-futurism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -19,9 +19,23 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [The Self-Driven Child](/books/the-self-driven-child) — intrinsic-motivation parallel.
-- [Discipline Is Destiny](/books/discipline-is-destiny) — daily-practice frame.
-- [Essentialism](/books/essentialism) — focus-and-tradeoff thread.
+**People:**
+
+- [Henry David Thoreau](/notes/henry-david-thoreau) — author; the experiment in living deliberately at Walden Pond is his own first-person account.
+- [Ralph Waldo Emerson](/notes/ralph-waldo-emerson) — fellow Transcendentalist whose self-reliance ethic underwrites Thoreau's insistence that "what a man thinks of himself... determines his fate."
+
+**Concepts:**
+
+- [Frugality](/notes/frugality) — Thoreau's claim that he met all his expenses by working "about six weeks in a year" and that most luxuries are "positive hindrances to the elevation of mankind."
+- [Personal Finance](/notes/personal-finance) — the anti-consumerist economy of living, where neighbors are "needlessly poor all their lives" chasing houses and goods like those of their neighbors.
+- [Solitude](/notes/solitude) — "I never found the companion that was so companionable as solitude"; the woods as a deliberate retreat from society.
+- [Reading](/notes/reading) — the case for reading the classics in their original languages and not lulling the mind on "Easy Reading."
+
+**Books:**
+
+- [The Self-Driven Child](/books/the-self-driven-child) — intrinsic-motivation parallel ("All men want... something to be").
+- [Discipline Is Destiny](/books/discipline-is-destiny) — daily-practice frame ("Renew thyself completely each day").
+- [Essentialism](/books/essentialism) — focus-and-tradeoff thread ("front only the essential facts of life").
 <!-- /interconnections -->
 
 ## Highlights

@@ -6,7 +6,7 @@ rating: 4
 quake: false
 tags:
   - "company-building"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 

@@ -6,7 +6,7 @@ rating: 2
 quake: false
 tags:
   - "company-building"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -19,8 +19,16 @@ One note: Febreze as "a product technology in search of a job to be done" — wi
 ## Connections
 
 <!-- interconnections -->
+**Books:**
 - [The Founders](/books/the-founders) — product-vs-platform thread.
-- [The Everything Store](/books/the-everything-store) — same operating-philosophy register.
+- [The Everything Store](/books/the-everything-store) — same operating-philosophy register; "start with the consumer, not the product" echoes the customer-backward mandate.
+
+**Concepts:**
+- [Jobs To Be Done](/notes/jobs-to-be-done) — the Febreze "product technology in search of a job to be done" line is the book's clearest JTBD reference point.
+- [Customer Obsession](/notes/customer-obsession) — "the most important stakeholder is the end user," deep consumer immersion as the heart of strategy.
+- [Product-Market Fit](/notes/product-market-fit) — building "only what they need" (the white-sheet diaper) over bells and whistles; consumer-needs-first as the win condition.
+- [Competitive Moats](/essays/competitive-moats) — sustainable advantage arises from a set of capabilities that fit and reinforce one another, not any single capability.
+- [First Principles](/notes/first-principles-thinking) — the "let's go to a white sheet of paper" reset, designing from consumer needs rather than inherited product assumptions.
 <!-- /interconnections -->
 
 ## Highlights

@@ -5,7 +5,7 @@ year_read: 2024
 rating: 3
 quake: false
 tags: []
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -18,7 +18,11 @@ One note: the Witch's "is it only in youth that evil is interesting?" line tagge
 ## Connections
 
 <!-- interconnections -->
-- [The Courage To Be Disliked](/books/the-courage-to-be-disliked) — identity-and-virtue thread.
+**Concepts:** [Extraordinary Person Philosophy](/notes/extraordinary-person-philosophy) — the Witch's "is it only in youth that evil is interesting?" frame, that moral seriousness is a quality of the unusual mind rather than a default disposition. [Storytelling](/notes/storytelling-as-leadership) — Maguire's afterword treats fiction as a "map to the World Next Door" we need to navigate the World at Hand. [Hope](/notes/hope) — Elphaba's wondering whether "it was immoral to raise children in the habit of hope." [Education](/notes/education) — the recurring claim that ministers and teachers are good "at asking questions to get you to think," not at having answers, and the betrayal when Shiz "sold out all her students who believed that a liberal education meant learning to think for themselves."
+
+**Books:** [The Courage To Be Disliked](/books/the-courage-to-be-disliked) — identity-and-virtue thread.
+
+**People:** [Charles Darwin](/notes/charles-darwin) — invoked in the afterword as the Enlightenment turn that folded up the old "maps of otherness" once taken literally.
 <!-- /interconnections -->
 
 ## Highlights

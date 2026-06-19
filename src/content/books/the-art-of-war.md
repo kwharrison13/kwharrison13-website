@@ -6,7 +6,7 @@ rating: 4
 quake: false
 tags:
   - "historical-futurism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -21,6 +21,10 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 <!-- interconnections -->
 - [The Kill Chain](/books/the-kill-chain), [Skunk Works](/books/skunk-works) — strategy-and-warfare cluster.
 - [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — adjacent on strategic thinking.
+
+**Concepts:** [Planning](/notes/planning) (victory comes from the general who "makes many calculations in his temple ere the battle is fought"); [Competition](/notes/competition) (supreme excellence is "breaking the enemy's resistance without fighting" and taking the enemy's country whole); [Game Theory](/notes/game-theory) (Wellington framing his plans entirely on the opponent's expected moves — "All warfare is based on deception"); [Leadership](/notes/leadership) (the general bears the blame for unclear orders; the five dangerous faults and the role of the commander); [Incentives](/notes/incentives) (soldiers "must have their rewards"; the able general matches the wise, brave, covetous, and stupid man to fitting tasks); [Patience](/notes/patience) ("He will win who knows when to fight and when not to fight"; avoid an army when its spirit is keen); [First Principles](/notes/first-principles-thinking) (Sun Tzu rejects "bookish theoric" — methods must be "regulated by the infinite variety of circumstances").
+
+**People:** [Charlie Munger](/notes/charlie-munger) — strategy-as-mental-models lineage shared with [Poor Charlie's Almanack](/books/poor-charlie-s-almanack).
 <!-- /interconnections -->
 
 ## Highlights

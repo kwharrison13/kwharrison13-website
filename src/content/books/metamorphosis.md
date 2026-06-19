@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "language-of-discourse"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -19,7 +19,11 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [Brave New World](/books/brave-new-world) — dystopia-adjacent.
+**People:** [Aldous Huxley](/notes/aldous-huxley) and [George Orwell](/notes/george-orwell) — contemporaries whose dystopian fiction shares the early-20th-century anxiety over the individual crushed by social and family systems.
+
+**Concepts:** [Family](/notes/family) — Gregor's entire identity is bound up in providing for and not burdening his family, and the family's shift from gratitude to revulsion to relief drives the story. [Literature](/notes/literature) — a canonical work of modernist short fiction.
+
+**Books:** [Brave New World](/books/brave-new-world) — dystopia-adjacent; the individual subordinated to a dehumanizing collective. [1984](/books/1984) — same lineage of literature about selfhood erased by an inescapable system.
 <!-- /interconnections -->
 
 ## Highlights

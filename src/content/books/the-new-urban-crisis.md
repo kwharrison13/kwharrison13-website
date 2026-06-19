@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "city-building"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -31,10 +31,11 @@ Richard Florida's reckoning with the dark side of his own creative-class thesis,
 ## Connections
 
 <!-- interconnections -->
-- The Rise of the Creative Class _(stub)_ — Florida's 2002 optimist's manifesto; this book is its self-critical sequel, conceding that the creative-class economy is also an inequality machine.
-- [Utopia For Realists](/books/utopia-for-realists) — shared thesis that a guaranteed minimum income / negative income tax is the most direct, least bureaucratic poverty fix.
-- [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) — the EPCOT hub-and-spoke model as a concrete answer to Florida's "not everyone who works in a superstar city has to live in one."
-- Stuck in Place _(stub)_ — Patrick Sharkey's study of multigenerational, racially concentrated poverty, cited directly on how neighborhood inequality is inherited.
+**Books:** The Rise of the Creative Class _(stub)_ — Florida's 2002 optimist's manifesto; this book is its self-critical sequel, conceding that the creative-class economy is also an inequality machine. [Utopia For Realists](/books/utopia-for-realists) — shared thesis that a guaranteed minimum income / negative income tax is the most direct, least bureaucratic poverty fix, cited explicitly in the redistribution-raises-growth note. [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) — the EPCOT hub-and-spoke model as a concrete answer to Florida's "not everyone who works in a superstar city has to live in one." Stuck in Place _(stub)_ — Patrick Sharkey's study of multigenerational, racially concentrated poverty, cited directly on how neighborhood inequality is inherited.
+
+**Concepts:** [City Building](/notes/city-building) — the book reads as a field manual for the discipline, anchoring the note that mayors and city-builders get "very little systematic training." [Micro Cities](/notes/micro-cities) — the throughline answer to Florida's crisis, deliberately designed cities over [Suburban Sprawl](/notes/suburban-sprawl) or [Mega Cities](/notes/mega-cities) of inequality. [Remote Work](/notes/remote-work) — dissolves the proximity/commute constraints Florida says draw the affluent back to the core, leaving only amenities. [Universal Basic Income](/notes/universal-basic-income) — Florida's negative-income-tax case that redistribution raises rather than lowers growth. [Gentrification](/notes/gentrification) — Lance Freeman's finding that it displaces fewer than assumed and is socially constructed. [Alternative Real Estate](/notes/alternative-real-estate) — dead malls, crumbling suburbs, and the $6,700- vs. $64,800-an-acre land gap read as reinvention opportunities. [Distributed Energy Model](/notes/distributed-energy-model) — invoked against sprawl's energy inefficiency, alongside the [Green Manhattan](/notes/green-manhattan) density-is-green argument.
+
+**People:** [Richard Florida](/notes/richard-florida) — author. [Jane Jacobs](/notes/jane-jacobs) _(stub)_ — the epigraph that cities provide "something for everybody… only when they are created by everybody." [Paul Graham](/notes/paul-graham) _(stub)_ — startups as "manufacturers of inequality," defended as the price of progress. [Patrick Sharkey](/notes/patrick-sharkey) _(stub)_ — neighborhood inequality as multi-generational inheritance. [Lance Freeman](/notes/lance-freeman) _(stub)_ — gentrification displaces fewer people than commonly thought. [John F.C. Turner](/notes/john-f-c-turner) _(stub)_ — "housing as a verb" vs. top-down "housing as a noun."
 <!-- /interconnections -->
 
 ## Highlights

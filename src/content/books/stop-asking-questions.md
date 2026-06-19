@@ -6,7 +6,7 @@ rating: 2
 quake: false
 tags:
   - "company-building"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -19,8 +19,9 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [How To Read a Book](/books/how-to-read-a-book) — active-engagement parallel.
-- [The Founders](/books/the-founders) — adjacent on conversational discovery.
+**Concepts:** Interviewing — the book's core craft: rephrasing questions as directives, pre-asking tough questions, and guiding rather than quizzing guests. [Listening](/notes/listening) — "people prefer to be heard than to be helped"; the magic of "mhmm" and "why did you say that?" [Conversation](/notes/conversation) — taking charge of a conversation from the start, the "sorry to interrupt" move, and avoiding small talk. [Storytelling](/notes/storytelling-as-leadership) — drawing out specific stories ("Take me to the moment you quit"), the rule of three, and hooking listeners in the first minute. [Curiosity](/notes/curiosity) — the warning that naked curiosity reads as neediness and lowers answer quality. [Sales](/notes/sales) — opening with "what's a win for you?", building credibility, and promotion stoppers to get buy-in. [Leadership](/notes/leadership) — guests want a host who leads with clear statements and thoughtful requests, not a needy intern. [Podcast](/notes/podcast) — the online-audience playbook: companionship, second-by-second drop-off analytics, landing newsmakers.
+
+**Books:** [How To Read a Book](/books/how-to-read-a-book) — active-engagement parallel; both reframe a passive activity (reading, asking) into an assertive, directive practice. [The Founders](/books/the-founders) — adjacent on conversational discovery and surfacing founders' untold stories.
 <!-- /interconnections -->
 
 ## Highlights

@@ -7,7 +7,7 @@ quake: false
 tags:
   - "historical-futurism"
   - "open-source-knowledge"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -24,9 +24,11 @@ Will Durant's compressed intellectual history, read for two specific frames. Two
 ## Connections
 
 <!-- interconnections -->
-- [The Death of Expertise](/books/the-death-of-expertise) — educated-electorate thread.
-- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institutional-knowledge history.
-- [Romney — A Reckoning](/books/romney-a-reckoning) — democratic-epistemology overlap.
+**People:** [Will Durant](/notes/will-durant) — author; his "Country of the Mind" framing of intellectual history. [Confucius](/notes/confucius) — opens Durant's list of ten greatest minds; his "illustrious ancients" passage anchors the educated-public thread. [Ralph Waldo Emerson](/notes/ralph-waldo-emerson) — quoted ("Burn the libraries, for their value is in this book") on the supremacy of great works. [Charles Darwin](/notes/charles-darwin) — closes Durant's list of ten; representative of the modern scientific mind.
+
+**Concepts:** [Progress Studies](/notes/progress-studies) — Durant's refusal to define progress by one nation/religion/morality, settling on "increasing control of the environment by life"; flagged in Kyle's note. [Educated Electorate](/notes/educated-electorate) — Confucius via Durant: a republic depends on keeping "ignorant persons from public office" and securing the wisest to rule. [Polymath](/notes/polymath) — Durant's program of building one's own pantheon across statesmen, scientists, poets, musicians, and artists. [Education](/notes/education) — the book's prescription to treat education as "ennobling intimacy with great men," seven hours a week toward a self-made scholar. [Republic of Letters](/notes/republic-of-letters) — the transmission of civilization through accumulated genius across "a hundred generations."
+
+**Books:** [The Death of Expertise](/books/the-death-of-expertise) — educated-electorate thread; the dependence of self-government on an informed public. [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institutional-knowledge history; libraries and the carrying-forward of learning. [Romney — A Reckoning](/books/romney-a-reckoning) — democratic-epistemology overlap on rule by the wise versus the ignorant.
 <!-- /interconnections -->
 
 ## Highlights

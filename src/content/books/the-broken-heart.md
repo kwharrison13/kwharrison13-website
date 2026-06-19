@@ -5,7 +5,7 @@ year_read: "pre-2016"
 rating: 0
 quake: false
 tags: []
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -18,8 +18,11 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious-engagement parallel.
-- [The Faith of a Scientist](/books/the-faith-of-a-scientist) — adjacent on faith-and-experience.
+**Concepts:** [Atonement](/notes/atonement) — the book's central argument is that the Atonement is rehabilitative, not merely retributive; [Grace](/notes/grace) — distinguishes the unconditional "free gifts of unmerited divine grace" (resurrection, Adam's transgression) from the conditional part requiring repentance; [Repentance](/notes/repentance) — frames repentance as a process that, combined with divine assistance, permanently changes the heart; [Forgiveness](/notes/forgiveness) — warns that constant emphasis on the availability of forgiveness can be counterproductive; [Natural Man](/notes/natural-man) — argues the "natural man" remains an enemy to God even after paying for sins unless he "becometh a saint through the atonement of Christ"; [Faith](/notes/faith) — situates understanding of the Atonement as a source of strength to deal with mortal heartbreak.
+
+**Books:** [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious-engagement parallel; [The Faith of a Scientist](/books/the-faith-of-a-scientist) — adjacent on faith-and-experience.
+
+**People:** [Bruce C. Hafen](/notes/bruce-c-hafen) — author; develops the rehabilitative theology of mercy and the broken heart.
 <!-- /interconnections -->
 
 ## Highlights

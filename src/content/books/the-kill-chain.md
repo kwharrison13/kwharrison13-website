@@ -7,7 +7,7 @@ quake: false
 tags:
   - "technological-innovation"
   - "historical-futurism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -38,12 +38,21 @@ The implicit thesis: this isn't a budget problem. It's an incentive-structure pr
 ## Connections
 
 <!-- interconnections -->
-- [Skunk Works](/books/skunk-works) — sister book. The Skunk Works version is the historical setup; Kill Chain is the present-tense crisis. Read together for the full arc.
-- [Chip War](/books/chip-war) — semiconductor side of the same story. Together they form a defense-tech trilogy.
-- [Flying Blind](/books/flying-blind) — Boeing decline as a microcosm of the broader defense industrial base collapse.
-- [Nuclear War — A Scenario](/books/nuclear-war-a-scenario) _(stub)_ — adjacent on the "we don't take this seriously enough" front.
-- [The Founders](/books/the-founders) — talent vortex parallel; Anduril as the modern PayPal Mafia.
-- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — alternative-VC view; how defense capital is structured matters.
+**Books:**
+
+- [Skunk Works](/books/skunk-works) — sister book. Brose closes the loop on it directly (Kelly Johnson's shop, the "1 million pages of papers per day" line); the Skunk Works version is the historical setup, Kill Chain is the present-tense crisis. Read together for the full arc.
+- [Chip War](/books/chip-war) — semiconductor side of the same story; Brose flags China's $65 billion domestic-chip push. Together they form a defense-tech trilogy.
+- [Flying Blind](/books/flying-blind) — Boeing decline as a microcosm of the broader defense industrial base collapse; Brose lists Boeing among the consolidated big five.
+- [Nuclear War — a Scenario](/books/nuclear-war-a-scenario) — adjacent on the "we don't take this seriously enough" front; Schriever's ICBM program is the origin of the arsenal that book dramatizes.
+- [The Founders](/books/the-founders) — talent-vortex parallel; Brose frames Anduril as the modern [PayPal Mafia](/notes/paypal-mafia) and Eisenhower's "pick exceptional people" approach as proto-founder thinking.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — alternative-VC view; the book's "valley of death" and "defense is no place to start a company unless you're already a billionaire" point to how defense capital is structured.
+- [The Art of War](/books/the-art-of-war) — Brose invokes Sun Tzu's "win without fighting" as China's strategic goal against the US.
+
+**People:** [Andrew Marshall](/notes/andrew-marshall) (Office of Net Assessment "Yoda" who foresaw the revolution in military affairs and China's anti-access weapons in 1992), [Bob Work](/notes/bob-work) (Marshall acolyte who tried to rehabilitate the revolution in military affairs as deputy secretary of defense), [Bernard Schriever](/notes/bernard-schriever) (Eisenhower-backed general who delivered the ICBM in five years — the book's case study of rewarded risk-taking), [Robert McNamara](/notes/robert-mcnamara) (whose cost-cutting bureaucratized Eisenhower's "pick winners" approach), [Kelly Johnson](/notes/kelly-johnson) (Skunk Works founder cited as the lost founder-led model), [Palmer Luckey](/notes/palmer-luckey) and [Brian Schimpf](/notes/brian-schimpf) (Anduril founders the argument treats as its endpoint), [Elon Musk](/notes/elon-musk) (SpaceX suing its own customer; Neuralink as the BCI frontier), [Jeff Bezos](/notes/jeff-bezos) (Amazon/JEDI cloud-contract dispute), [Vladimir Putin](/notes/vladimir-putin) (Russian reconnaissance-strike complex and the 2014 "Little Green Men")
+
+**Concepts:** [Anti-Platform](/notes/anti-platform) (the core thesis — shift from few exquisite platforms to many cheap autonomous nodes), [Lattice](/notes/lattice) (the networked battle-network endpoint), [Anduril](/notes/anduril) (treated as the obvious destination of the argument), [Evolution of Warfare](/notes/evolution-of-warfare) (the "revolution in military affairs" thread), [Consumerization of the Enterprise](/notes/consumerization-of-the-enterprise) (commercial tech outpacing military procurement), [Urgency](/notes/urgency) (the book's master frame — China's 900% buildup since 1990), [Automation](/notes/automation) / [Autonomy](/notes/autonomy) (training-testing-trust and human command, machine control), [Quantum Computing](/notes/quantum-computing) (flagged as a future surface area, like BCIs and hypersonics), [Procurement](/notes/procurement) (the broken acquisition system — "Last Supper" consolidation, programs of record), [Innovation](/notes/innovation) (military mavericks plus civilian champions), [Founders Mentality](/notes/founders-mentality), [Risk Management](/notes/risk-management)
+
+**Companies:** [SpaceX](/books/elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future) (reusable rockets; sued the Air Force to compete), [Neuralink](/notes/neuralink) (Musk's brain-computer interface bet), [Google](/notes/google) (Project Maven withdrawal; quantum-supremacy claim), [Amazon](/notes/amazon), [Microsoft](/notes/microsoft) (named among the top-five AI R&D spenders dwarfing defense)
 <!-- /interconnections -->
 
 ## Highlights

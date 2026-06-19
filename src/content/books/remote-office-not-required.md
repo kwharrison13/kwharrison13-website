@@ -6,7 +6,7 @@ rating: 2
 quake: false
 tags:
   - "company-building"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -27,10 +27,13 @@ The book reads as a foundational text whose specific recommendations matter less
 ## Connections
 
 <!-- interconnections -->
-- [Working in Public](/books/working-in-public) — open-source thread; "what other types of work can you open source?"
-- [Essentialism](/books/essentialism) — focus-protection overlap; "monk mode" as the remote-work disciplinary version.
-- [Deep Work](/books/deep-work) _(stub)_ — direct overlap on focused intellectual work.
-- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — adjacent on what gets funded; remote-first companies as a category.
+**People:** [Jason Fried](/notes/jason-fried) and [David Heinemeier Hansson](/notes/david-heinemeier-hansson) — the 37signals co-authors. [William Zinsser](/notes/william-zinsser) (*On Writing Well*, recommended as a writer's primer for remote workers), [Alfie Kohn](/notes/alfie-kohn) (*Punished by Rewards*, cited that rewards/threats fail to conjure motivation), and [Everett Rogers](/notes/everett-rogers) (*Diffusion of Innovations*, framing remote work's adoption curve).
+
+**Concepts:** [Open Source Knowledge](/notes/open-source-knowledge) — the book's argument that if world-class software gets built remotely and "all out in the open," other work can too. [Remote Work](/notes/remote-work) — the foundational text for the structural shift. [Writing](/notes/writing) — "few people are born with an innate talent for writing"; async work makes written discipline the core skill. [Self-Reflection](/notes/self-reflection) — the "have I done a good day's work?" boundary-setting practice. [Hiring](/notes/hiring) — "pre-hiring" mini-projects, contract work as test-drive, and judging on work-not-where. [Open Source](/notes/open-source) — intrinsic motivation and self-selection as the remote coordination model. [Talent](/books/talent) — "pay New York salaries to amazing people in Kansas," equal pay for equal work across geographies. [Multiple Intelligences](/notes/multiple-intelligences) — the limits of riddle/quiz hiring and personality assessments. [Nomad](/notes/nomad) — the leave-the-city, work-near-your-passion thread. [Personal Finance](/notes/personal-finance) — the nomadic lifestyle's lower cost of living absent mortgage/car/cable.
+
+**Books:** [Working in Public](/books/working-in-public) — open-source thread; "what other types of work can you open source?" [Essentialism](/books/essentialism) — focus-protection overlap; "monk mode" as the remote-work disciplinary version. [Deep Work](/books/deep-work) — direct overlap on focused, uninterrupted intellectual work. [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — adjacent on what gets funded; remote-first companies as a category. [Learning, No Greater Responsibility](/notes/learning-no-greater-responsibility) — the read-read-read frame echoing the book's advice for becoming a better writer.
+
+**Other:** [William Gibson](/notes/william-gibson) — the opening epigraph, "the future is already here, it's just not evenly distributed." [Microsoft](/notes/microsoft) — cited for its 1990s "Cult of the Puzzle" riddle-based hiring that the authors reject. [Loom](/notes/loom) — screen-sharing/recording tooling that makes async visual collaboration easy.
 <!-- /interconnections -->
 
 ## Highlights

@@ -5,7 +5,7 @@ year_read: "pre-2016"
 rating: 0
 quake: false
 tags: []
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -18,8 +18,11 @@ One note: "the school of hard knocks" entrepreneur frame as the gap in MBA train
 ## Connections
 
 <!-- interconnections -->
-- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC structure parallel.
-- [Working in Public](/books/working-in-public) — creation-vs-maintenance thread.
+**People:** [Henry Mintzberg](/notes/henry-mintzberg) — author; argues management is a practice blending craft, art, and science, not a science taught out of context. [Milton Friedman](/notes/milton-friedman) — cited as the source of the "economic immorality" position that business has no business attending to social goals, which Mintzberg blames for hardening MBA students toward shareholder value. [Malcolm Gladwell](/notes/malcolm-gladwell) — his New Yorker piece "The Talent Myth" on Enron's MBA-stuffed "star system" is used to indict performance-evaluation-free promotion. [John Maynard Keynes](/notes/john-maynard-keynes) — quoted ("practical men . . . are usually the slaves of some defunct economist") to argue managers use theory whether they realize it or not. [Steve Jobs](/notes/steve-jobs) — example of a chief executive sending a company out of balance through obsession with one function (development).
+
+**Concepts:** [Management](/notes/management) — the book's central claim is that management is a practice learned in context, not a profession or science conferred by a degree. [Leadership](/notes/leadership) — Mintzberg argues leadership without management is disconnected and breeds hubris; both are "life itself," not technique abstracted from doing. [Operational Skills](/notes/operational-skills) — the thesis that managers should earn their stripes on the job, "from the bottom up," rather than stepping in at the top. [Apprenticeship](/notes/apprenticeship) — on-the-job "moving, mentoring, and monitoring" as how management is actually learned, contrasted with classroom instruction. [Mentorship](/notes/mentorship) — formalized in Japanese firms and Red-Cross-style counterpart pairings as a more effective social process than solo stretch assignments. [Entrepreneurship](/notes/entrepreneurship) — surveys showing MBAs are conspicuously absent among top founders; "school of hard knocks" experience can't be made risk-free in a classroom. [Education](/notes/education) and [Alternative Education](/notes/alternative-education) — the engaging, participant-centered, experience-grounded pedagogy proposed as the alternative to "chalk and talk" case-method MBA training. [Judgment](/notes/judgment) — rankings and numerical scores "get rid of judgment," substituting measurement for the judgment management itself requires. [Talent](/books/talent) and [Hiring](/notes/hiring) — the "star system" critique and the argument that selection should be by demonstrated managerial performance, not test scores. [Investment Banking](/notes/investment-banking) — named (with consulting) as the destination that pulls MBAs away from learning the practice of management. [Capital Allocation](/notes/capital-allocation) — the dealmaker-not-manager critique (e.g. the Agee/Morrison Knudsen case) of CFOs who buy and sell assets but never run a line business.
+
+**Books:** [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC structure parallel. [Working in Public](/books/working-in-public) — creation-vs-maintenance thread; echoes Mintzberg's exploration-before-exploitation argument that "without exploration, there is nothing to exploit."
 <!-- /interconnections -->
 
 ## Highlights

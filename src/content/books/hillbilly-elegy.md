@@ -8,7 +8,7 @@ tags:
   - "city-building"
   - "people-over-politics"
   - "ideological-family-tree"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 

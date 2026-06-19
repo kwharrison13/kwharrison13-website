@@ -7,7 +7,7 @@ quake: false
 tags:
   - "religious-intellectualism"
   - "republic-of-letters"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -20,8 +20,11 @@ One note: "the concept common ground has always been part of humanity's struggle
 ## Connections
 
 <!-- interconnections -->
-- [Romney — A Reckoning](/books/romney-a-reckoning) — political-character thread.
-- [The Death of Expertise](/books/the-death-of-expertise) — democratic-discourse overlap.
+**People:** [Walter Isaacson](/notes/walter-isaacson) — the book's author. [Benjamin Franklin](/notes/benjamin-franklin) — held up as the model of "true merit" and balance-seeking compromise, contrasted against the meritocratic aristocracy. [Thomas Jefferson](/notes/thomas-jefferson) — author of the title sentence, whose "natural aristocracy" and Notes on the State of Virginia prefigure today's credentialed elite.
+
+**Concepts:** [Voice of the People](/notes/voice-of-the-people) — the e-pluribus-unum / common-ground question at the book's center. [Compromise](/notes/compromise) — Franklin's "compromisers make great democracies," presented as a lost art of Enlightenment balance. [Free Speech](/notes/free-speech) — Franklin's open pulpit for "any belief," including the Mufti of Constantinople, as religious-liberty pluralism. [Republic of Letters](/notes/republic-of-letters) — the Enlightenment milieu of Locke, Hume, Voltaire, Franklin, and Jefferson.
+
+**Books:** [The Death of Expertise](/books/the-death-of-expertise) — overlap on the meritocratic-credential elite and democratic discourse. [Romney — A Reckoning](/books/romney-a-reckoning) — political-character and common-ground thread. [Benjamin Franklin by Walter Isaacson](/books/benjamin-franklin-an-american-life) — same author's deeper treatment of Franklin's "true merit" and civic ethos.
 <!-- /interconnections -->
 
 ## Highlights

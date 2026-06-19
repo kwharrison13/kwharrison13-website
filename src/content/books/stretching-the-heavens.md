@@ -6,7 +6,7 @@ rating: 5
 quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -25,10 +25,42 @@ Terryl Givens's biography of Eugene England read with a recurring tension about 
 ## Connections
 
 <!-- interconnections -->
-- [The Crucible of Doubt](/books/the-crucible-of-doubt) — Givens-on-doubt frame; same author cluster.
-- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — doctrinal-source overlap on progression and creeds.
-- [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — same scholar-vs-institution tension.
-- [Working Toward Zion](/books/working-toward-zion) — Mormon-thinker engaged with secular intellectual life.
+**Books:**
+
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — same [Terryl Givens](/notes/terryl-givens) author cluster; the doubt-as-condition frame England pioneered.
+- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — [Richard Bushman](/notes/richard-bushman)'s account of Smith shifting revelation from the prophet to councils, and Smith's antidogmatic "liberty of believing as I please" that England read as the true orthodoxy.
+- [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — the same Camelot-era Historical Department and scholar-vs-institution tension; [Leonard Arrington](/notes/leonard-arrington) hired England and judged him blacklisted.
+- [Working Toward Zion](/books/working-toward-zion) — a Mormon thinker engaging secular intellectual life; resonates with England's consecration and anti-materialism themes.
+- [Discipline Is Destiny](/books/discipline-is-destiny) — supplies the "learning to be righteous in the dark" frame England voiced when he argued constant divine contact "moves towards the devil's plan."
+
+**People:**
+
+- [Eugene England](/notes/eugene-england) — the book's subject; founder of Mormon studies, Dialogue editor, and disciple-in-exile.
+- [Terryl Givens](/notes/terryl-givens) — biographer and author of the title.
+- [Joseph Smith](/notes/joseph-smith) — England's hero and standard of orthodoxy; the King Follett theosis, universal progression, and antidogmatism England tried to recover.
+- [Brigham Young](/notes/brigham-young) — England's biographical subject (Brother Brigham) and, in the race essays, the figure England held responsible for the priesthood ban.
+- [Boyd K. Packer](/notes/boyd-k-packer) — the apostle whose "The Mantle Is Far, Far Greater than the Intellect" and counsel to resign Dialogue crystallized England's conflict with institutional authority.
+- [Bruce R. McConkie](/notes/bruce-r-mcconkie) — author of Mormon Doctrine and the "Seven Deadly Heresies" talk that publicly censured England over God's progression.
+- [Hugh B. Brown](/notes/hugh-b-brown) — the apostle-heretic who privately dissented on the priesthood ban and whose universalist sermon England cherished.
+- [Spencer W. Kimball](/notes/spencer-w-kimball) — who studied Bush's Dialogue article before revoking the priesthood ban in 1978.
+- [Richard Bushman](/notes/richard-bushman) — historian quoted on Smith's shift of revelation to councils; encouraged England to tell his story.
+- [Neal A. Maxwell](/notes/neal-a-maxwell) — apostle and correspondent England edited; recipient of England's "Abrahamic test" letter.
+- [Hugh Nibley](/notes/hugh-nibley) — wrote the preface praising England's "Why the Church is as True as the Gospel."
+- [Orson Pratt](/notes/orson-pratt) — the original Latter-day Saint theologian repeatedly rebuked by Brigham Young, drawn as England's nineteenth-century parallel.
+- [Joseph Fielding Smith](/notes/joseph-fielding-smith) — the apostle who killed B. H. Roberts's systematic theology and whom England judged "fooled into false belief" on race.
+
+**Concepts:**
+
+- [Religious Internalization](/notes/religious-internalization) — England's instinct that scaffolded, constant divine contact undercuts agency; righteousness must be internalized.
+- [Righteous in the Dark](/notes/righteous-in-the-dark) — the operative phrase for that internalization frame.
+- [Eternal Progression](/notes/eternal-progression) — the King Follett / Lorenzo Snow doctrine ("as man now is, God once was") England harmonized as "Perfection and Progress."
+- [Universalism](/notes/universalism) — the Charlotte Haven progression-from-the-lowest-kingdom thread England drew out as the Restoration's "incredible new emphases on universal salvation."
+- [Atonement](/notes/atonement) — England's empathy-over-penal-substitution reading in "That They Might Not Suffer," the doctrinal stance that drew formal complaint.
+- [Agency](/notes/agency) — the law-and-consequence framework England defended; Lucifer's plan as the destruction of agency.
+- [Grace](/notes/grace) — salvation as a condition of being rather than reward or infused gift, contra the Protestant "pronounce righteous" reading.
+- [Republic of Letters](/notes/republic-of-letters) — England's dream of a Latter-day Saint republic of letters where faithful dissent reads as loyal provocation.
+- [Free Speech](/notes/free-speech) — the "necessary opposition" Lippmann frame of England's final discourse on freedom of discussion.
+- [Polygamy](/notes/polygamy) — England's "Abrahamic test" reading of plural marriage as inspired-but-temporary, not an eternal principle.
 <!-- /interconnections -->
 
 ## Highlights

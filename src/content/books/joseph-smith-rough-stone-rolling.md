@@ -6,7 +6,7 @@ rating: 5
 quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -45,12 +45,39 @@ Throughout, the notes register an unusual willingness to ask hard questions abou
 ## Connections
 
 <!-- interconnections -->
-- [American Zion](/books/american-zion) _(stub — pending)_ — direct companion. American religious history with overlapping subject.
-- [Brigham Young — Pioneer Prophet](/books/brigham-young-pioneer-prophet) — the next chapter; how the institution sustained without Joseph.
-- [The Life of John Taylor](/books/the-life-of-john-taylor) — same era, different perspective from a contemporary apostle.
-- [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — historiographical companion; how this book was made possible.
-- [The Crucible of Doubt](/books/the-crucible-of-doubt) — the doubt-and-doctrine question; how to hold faith and history together.
+**Books:**
+
+- [American Zion](/books/american-zion) — direct companion; American religious history with overlapping subject.
+- [Brigham Young — Pioneer Prophet](/books/brigham-young-pioneer-prophet) — the next chapter; how the institution Joseph built sustained without him (the book argues Joseph, not just [Brigham Young](/notes/brigham-young), was the institution-builder).
+- [The Life of John Taylor](/books/the-life-of-john-taylor) — same era from a contemporary apostle who began taking notes on Joseph's teachings in 1839.
+- [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — historiographical companion; how candid Mormon-history scholarship like Bushman's became possible.
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — the doubt-and-doctrine question Kyle reads this book against; holding faith and history together.
 - [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institution-building parallel from secular history.
+
+**People:**
+
+- [Joseph Smith](/notes/joseph-smith) — the book's subject; the "rough stone rolling" prophet evaluated as a fallible human institution-builder.
+- [Richard Lyman Bushman](/notes/richard-lyman-bushman) — the biographer; a believing historian who engages the messiness of Church history.
+- [Truman G. Madsen](/notes/truman-g-madsen) — cited on Joseph's oracular ("thus saith the Lord") rather than argumentative mode and the "fullest grain hangs lowest" image.
+- [Wilford Woodruff](/notes/wilford-woodruff) and [John Taylor](/notes/john-taylor) — the apostles whose 1839 notes preserve Joseph's later teachings on revelation.
+- [Oliver Cowdery](/notes/oliver-cowdery) and [Sidney Rigdon](/notes/sidney-rigdon) — early associates; Cowdery's drift into republican "vox populi" rhetoric typified the church-vs-democracy fracture.
+- [Thomas Jefferson](/notes/thomas-jefferson) — Bushman contrasts Joseph's expansive Bible revision with Jefferson's pared-down New Testament.
+- [Alexis de Tocqueville](/notes/alexis-de-tocqueville) — frames the Missouri persecution as the classic democratic dilemma of majority tyranny over a minority.
+- [Russell M. Nelson](/notes/russell-m-nelson), [Boyd K. Packer](/notes/boyd-k-packer), [Spencer W. Kimball](/notes/spencer-w-kimball), [Dallin H. Oaks](/notes/dallin-h-oaks) — modern prophetic voices Kyle reads alongside the text on revelation, over-prescription, doing vs. knowing, and [Presentism](/notes/presentism).
+
+**Concepts:**
+
+- [Profile of a Prophet](/notes/profile-of-a-prophet) — the first organizing pillar: seeing what others can't, oracular conviction, equipping followers to seek their own revelation, no protection from failure.
+- [City Building](/notes/city-building) — the second pillar; "we are a city-building people," building after the "order of heaven," and what gives cities longevity ([The New City](/notes/the-new-city)).
+- [Gods in Embryo](/notes/gods-in-embryo) — the third pillar; divine potential, salvation through [Knowledge](/notes/knowledge), and "to know is not enough — one must do" ([Be Up and Doing](/notes/be-up-and-doing)).
+- [Voice of the People](/notes/voice-of-the-people) — the church-vs-democracy through-line; "vox populi is the vox Dei," [Mob Rule](/notes/mob-rule), and the [Adams vs. Jefferson](/notes/adams-vs-jefferson) tension over majority rule ([Mosiah 29](/notes/mosiah-29)).
+- [Institution Building](/notes/institution-building) — Joseph's gift: the Church, City of Zion, School of the Prophets, priesthood, and temple all framed as institutions ([Empyrean](/notes/empyrean), [Valued Empyrean](/notes/valued-empyrean)).
+- [Metaphysics](/notes/metaphysics) — "there is no such thing as immaterial matter," eternal uncreated intelligences, and [Creation Ex Nihilo](/notes/creation-ex-nihilo) rejected for ordering chaos.
+- [Free Will](/notes/free-will) — self-existing intelligences radically free to ally with God or not; the universe as a school.
+- [The King Follett Sermon](/notes/the-king-follett-sermon) — the culminating theological statement: every man a god and king, limitless growth.
+- [Marriage](/notes/marriage) and the [New and Everlasting Covenant](/notes/new-and-everlasting-covenant) — plural marriage as covenant-bound rule under revelation; [Covenants vs. Commandments](/notes/covenants-vs-commandments).
+- [Presentism](/notes/presentism) — judging Joseph's actions by his era's laws and culture rather than current perspectives ([Dallin H. Oaks](/notes/dallin-h-oaks)).
+- [Articles of Faith](/notes/articles-of-faith) — Joseph's eleventh article on liberty of conscience; he invited other faiths to preach in Nauvoo.
 <!-- /interconnections -->
 
 ## Highlights

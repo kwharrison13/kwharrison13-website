@@ -7,7 +7,7 @@ quake: false
 tags:
   - "city-building"
   - "people-over-politics"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -27,8 +27,10 @@ The Fallowses flew a single-engine prop plane town-to-town across America (the l
 ## Connections
 
 <!-- interconnections -->
+- **People:** [James Fallows](/notes/james-fallows) and [Deborah Fallows](/notes/deborah-fallows) — the authors, who flew their single-engine plane town-to-town; Deb's library reporting and "river walk" law run through the book. [Henry Ford](/notes/henry-ford) — the "whether you think you can or think you can't, you're right" line the Fallowses quote on Eastport's willed optimism.
 - **Essays:** [Family Towns](/essays/family-towns) — Kyle's own essay on the same theme ("the tallest trees are built from the strongest roots"). Kyle's [Medium book review/quotes](https://medium.com/@kwharrison13/our-towns-book-review-quotes-d19c1e7bda94) is the source of these highlights.
-- **Books:** [What I Found in a Thousand Towns](/books/what-i-found-in-a-thousand-towns), [Janesville](/books/janesville) _(stub)_, [The New Urban Crisis](/books/the-new-urban-crisis) — geography-of-opportunity / community-vitality cluster. [Hillbilly Elegy](/books/hillbilly-elegy) — counter-narrative. [The Lost Continent](/books/the-lost-continent) — the "road trip discovers America" tradition Kyle tagged (Lewis & Clark → Tocqueville → Steinbeck → Least Heat-Moon).
+- **Books:** [What I Found in a Thousand Towns](/books/what-i-found-in-a-thousand-towns), [Janesville](/books/janesville) _(stub)_, [The New Urban Crisis](/books/the-new-urban-crisis) — geography-of-opportunity / community-vitality cluster; the book ties its central "could better-educated people be lured away from big cities?" question directly to [The New Urban Crisis](/books/the-new-urban-crisis). [Hillbilly Elegy](/books/hillbilly-elegy) — counter-narrative. [The Lost Continent](/books/the-lost-continent) — the "road trip discovers America" tradition Kyle tagged (Lewis & Clark → Tocqueville → Steinbeck → Least Heat-Moon). [The 7 Habits of Highly Effective People](/books/the-7-habits-of-highly-effective-people) by [Stephen Covey](/notes/stephen-covey) — the abundance-vs-scarcity frame the Women of the Commons applied to Eastport.
+- **Concepts:** [City Building](/notes/city-building) — the recurring "traits of a town on the rise" (occupied storefronts, river walks, public-private partnerships). [Prosperable](/notes/prosperable) — "every city that is trendy or successful attracts people from someplace else." [Small Town Headhunter](/notes/small-town-headhunter) — the handful of forceful people (Higgins, Pelletier, Vendetti, the Padnoses) who reshape a region's economy. [Scarcity Mindset](/notes/scarcity-mindset) — abundance over scarcity as the civic posture. [Education](/notes/education) — STEAM, project-based learning, and "career technical" training as the next family-wage path. [Retraining](/notes/retraining) — community college to lift skills above minimum wage. [Maker Movement](/notes/maker-movement) — makerspaces and low-volume reshored manufacturing. [Newspapers](/notes/newspapers) — the local paper as a self-reinforcing "cycle" of community involvement. [Asking Questions](/notes/asking-questions) — "so, what's your story?" as a gentler way of sizing someone up.
 <!-- /interconnections -->
 
 ## Highlights

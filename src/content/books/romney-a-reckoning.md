@@ -7,7 +7,7 @@ quake: false
 tags:
   - "people-over-politics"
   - "historical-futurism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -36,12 +36,43 @@ A side observation worth flagging: the response here is unusually approving rela
 ## Connections
 
 <!-- interconnections -->
-- [The Death of Expertise](/books/the-death-of-expertise) — sister book on democratic-electorate epistemology. Romney is what Nichols's argument looks like in practice.
+**Books:**
+
+- [The Death of Expertise](/books/the-death-of-expertise) — sister book on democratic-electorate epistemology; Romney's premise that "voters can be trusted with hard truths" and the Gingrich "Language: A Key Mechanism of Control" memo are what Nichols's argument looks like in practice.
 - [No Apology](/books/no-apology) — Romney's earlier book; same author-as-subject corpus.
-- [Turnaround](/books/turnaround) — Romney's Olympics turnaround book; operational discipline that maps to his political career.
+- [Turnaround](/books/turnaround) — Romney's Olympics turnaround book; the operational, problem-solving "fix things" instinct that defined his Bain and Senate work.
 - [The Founders](/books/the-founders) — adjacent on character-of-leadership questions, very different domain.
-- [Profiles in Courage](/books/profiles-in-courage) — JFK's analog frame, same character-over-tribe thesis.
-- [Shortest Way Home](/books/shortest-way-home) — Buttigieg's adjacent character-driven political memoir.
+- [Profiles in Courage](/books/profiles-in-courage) — JFK's analog frame; same conscience-over-tribe thesis dramatized in Romney's lone impeachment vote.
+- [Shortest Way Home](/books/shortest-way-home) — Pete Buttigieg's adjacent character-driven political memoir.
+- [The Self-Driven Child](/books/the-self-driven-child) — the "what you take pride in defines you" identity-formation thread runs through both.
+
+**People:**
+
+- [Mitt Romney](/notes/mitt-romney) — the subject; beliefs as leading rather than lagging indicators of group membership, and the "weight of conscience" question he posed on the Senate floor.
+- [McKay Coppins](/notes/mckay-coppins) — the biographer and frame.
+- [Tagg Romney](/notes/tagg-romney) — the son whose letter to his father is the emotional center of the notes; "live your life so that your children will live their lives hoping to make you proud."
+- [Donald Trump](/notes/donald-trump) — the antagonist whose rise inverted the GOP's belief-to-tribe relationship and made "moral tests" the recurring frame.
+- [Newt Gingrich](/notes/newt-gingrich) — architect of language-as-control politics; his "speak like Newt" memo recurs as the fetter-language pattern.
+- [Pete Buttigieg](/notes/pete-buttigieg) — referenced as part of the adjacent character-driven political-memoir lineage.
+- [Upton Sinclair](/notes/upton-sinclair) — invoked behind Romney's "see circumstances in the light most amenable to maintaining power" observation ("Job preservation above principle preservation").
+
+**Concepts:**
+
+- [Voice of the People](/notes/voice-of-the-people) — the trust-the-electorate premise Romney holds and the book interrogates.
+- [Educated Electorate](/notes/educated-electorate) — "voters can be trusted with hard truths if they're presented as truths"; the free-press essay defends its preconditions.
+- [Data Over Dogma](/notes/data-over-dogma) — Romney's policy-through-human-outcomes instinct vs. "the rank commitment to dogma over practical outcomes."
+- [Incrementalism](/notes/incrementalism) — "take what you can get and build off it"; small forward steps over stagnation or decline.
+- [Term Limits](/notes/term-limits) — the Senate "job preservation as existential" pathology Romney diagnoses.
+- [Conviction](/notes/conviction) — the Yeats line "the best lack all conviction, while the worst are full of passionate intensity" as Romney's read on the new GOP.
+- [Authenticity](/notes/authenticity) — "let Mitt be Mitt"; the gap between staged personas and saying what he actually meant.
+- [Civic Virtue](/notes/civic-virtue) — conscience and oath weighed against political fortune; the workhorse-vs-performance Senate ethic.
+- [Capitalism](/notes/capitalism) — "corporations are people"; Romney as committed capitalist who believed free enterprise the best antidote to poverty.
+- [Authoritarianism](/notes/authoritarianism) — the histomap obsession and "authoritarianism is like a gargoyle lurking over the cathedral."
+- [Rationalization](/notes/motivated-reasoning) — Romney's "remarkable ability to justify his choices to himself" on abortion and shifting positions.
+- [Service](/notes/service) — the mission lesson that sacrifice has "its own sanctifying effect," and "a purpose greater than self is what motivates now."
+- [Spirit of Humility](/notes/spirit-of-humility) — Romney's discomfort ascribing political ambition to God; "one of life's great imponderables."
+- [Mormon](/notes/mormon) — the faith he refused to recast as mere heritage, the one part he wouldn't compromise.
+- [Politics](/notes/politics) — the broader frame of language fettered, beliefs as tribe-membership, and conscience under partisan pressure.
 <!-- /interconnections -->
 
 ## Highlights

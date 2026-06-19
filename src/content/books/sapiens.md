@@ -6,7 +6,7 @@ rating: 2
 quake: false
 tags:
   - "historical-futurism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -19,9 +19,11 @@ One note: "whether or not something is true doesn't impact whether you believe i
 ## Connections
 
 <!-- interconnections -->
-- [Homo Deus](/books/homo-deus) — direct sequel.
-- [21 Lessons for the 21st Century](/books/21-lessons-for-the-21st-century) — same Harari trilogy.
-- [The Righteous Mind](/books/the-righteous-mind) — narrative-and-cohesion overlap.
+**People:** [Yuval Noah Harari](/notes/yuval-noah-harari) — author; the book's "imagined order" / constructed-narrative frame runs through his later work.
+
+**Concepts:** [Capitalism](/notes/capitalism) — the book treats capitalism as more than economics, "an ethic" whose tenet is that economic growth is the supreme good, and pairs it with consumerism ("Invest!" for the rich, "Buy!" for the rest); [Storytelling](/notes/storytelling-as-leadership) — the central claim that nations, money, and human rights exist only as shared imagined narratives that bind millions of strangers; [Tolerance](/notes/tolerance) — money framed as "the apogee of human tolerance," the one trust system that bridges any cultural gap without discriminating; [Happiness](/notes/happiness) — happiness as life seen "in its entirety as meaningful," not a surplus of pleasant moments, and biochemical set points that desires fail to move.
+
+**Books:** [Homo Deus](/books/homo-deus) — direct sequel, extending Sapiens into the Human Enhancement / "What do we want to want?" question this book ends on; [21 Lessons for the 21st Century](/books/21-lessons-for-the-21st-century) — same Harari trilogy; [The Righteous Mind](/books/the-righteous-mind) — overlap on shared narratives, imagined order, and the cohesion that lets large groups cooperate.
 <!-- /interconnections -->
 
 ## Highlights

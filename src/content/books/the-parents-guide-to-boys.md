@@ -5,7 +5,7 @@ year_read: "pre-2016"
 rating: 0
 quake: false
 tags: []
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -18,8 +18,11 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [The Self-Driven Child](/books/the-self-driven-child) — primary parenting cluster.
-- [The Boy Who Was Raised as a Dog](/books/the-boy-who-was-raised-as-a-dog) _(stub)_ — developmental-psychology adjacent.
+**People:** [Abigail Norfleet James](/notes/abigail-norfleet-james) — author; [Ralph Waldo Emerson](/notes/ralph-waldo-emerson) — quoted ("I pay the schoolmaster, but 'tis the schoolboys that educate my son").
+
+**Concepts:** [Parenting](/notes/parenting) — the book's central subject, arguing for strict guidelines paired with room to make mistakes (authoritative over psychologically controlling parenting); [Motivation](/notes/motivation) and [Intrinsic Motivation](/notes/intrinsic-motivation) — its thesis that intrinsic motivation lasts whereas extrinsic motivation like money is temporary, and that boys "learn well what they like"; [Failure](/notes/failure) — failure framed as the first step toward success, with losing as what teaches a boy to become a winner; [Education](/notes/education) and [Learning](/notes/learning) — boys often struggle when teachers require studying in the way the teacher learns; [Reading](/notes/reading) — reading to a child cited as the single most important thing for school success, plus the learn-to-read vs. read-to-learn shift; [Personal Finance](/notes/personal-finance) — even a six-year-old can grasp the basics of budgeting.
+
+**Books:** [The Self-Driven Child](/books/the-self-driven-child) — primary parenting cluster, shared theme of autonomy and resisting parental over-control; [The Boy Who Was Raised as a Dog](/books/the-boy-who-was-raised-as-a-dog) — developmental-psychology adjacent.
 <!-- /interconnections -->
 
 ## Highlights

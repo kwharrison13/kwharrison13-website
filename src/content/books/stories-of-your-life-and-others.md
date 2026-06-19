@@ -5,7 +5,7 @@ year_read: "pre-2016"
 rating: 0
 quake: false
 tags: []
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -18,7 +18,16 @@ One note: the heptapods' free-but-bound paradox tagged `Pluribus` — Ted Chiang
 ## Connections
 
 <!-- interconnections -->
-- [Homo Deus](/books/homo-deus) — agency-and-determinism overlap.
+**People:** [Ted Chiang](/notes/ted-chiang) — author; "Story of Your Life" advances his recurring frame of freedom and predestination as not-mutually-exclusive.
+
+**Concepts:**
+- [Free Will](/notes/free-will) — the narrator concludes that knowledge of the future is incompatible with free will, yet freedom remains "perfectly real in the context of sequential consciousness."
+- [Predestination](/notes/predestination) — the heptapods' "free-but-bound" paradox: they act to enact a chronology they already know, neither willing nor helpless automatons.
+- [Agency](/notes/agency) — volition as an intrinsic part of consciousness, set against the simultaneous mode of awareness where coercion is no more meaningful than freedom.
+- [Game Theory](/notes/game-theory) — the "non-zero-sum game" frame on human-heptapod contact, and the daughter asking for the "math word" for when both sides can win.
+- [Science Fiction](/notes/science-fiction) — exemplar of idea-driven SF where a linguistic/physical premise (Heptapod B, Fermat's principle) reshapes how a mind experiences time.
+
+**Books:** [Homo Deus](/books/homo-deus) — agency-and-determinism overlap; the "opposition in all things" thread on whether free will and a known future can coexist.
 <!-- /interconnections -->
 
 ## Highlights

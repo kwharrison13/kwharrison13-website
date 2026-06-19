@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "company-building"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -27,11 +27,11 @@ A specific aphorism worth holding: "Don't say 'this sucks,' say 'this is how thi
 ## Connections
 
 <!-- interconnections -->
-- [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) _(stub)_ — same company, different era; complementary reads.
-- [Amazon Unbound](/books/amazon-unbound) — operating-discipline overlap; "disagree and commit" thread.
-- [The Self-Driven Child](/books/the-self-driven-child) — interest-discovery and lily-pads-of-career frame.
-- [Atomic Habits](/books/atomic-habits) — daily-improvement discipline.
-- [Essentialism](/books/essentialism) — focus discipline.
+**People:** [Bob Iger](/notes/bob-iger) — author and Disney CEO whose principles structure the book; [Walt Disney](/notes/walt-disney) — founder whose brand and "technology as storytelling tool" ethos Iger inherits and extends; [Steve Jobs](/notes/steve-jobs) — Pixar negotiation partner ("a few solid pros are more powerful than dozens of cons") and the relationship that anchored the Pixar acquisition; [Warren Buffett](/notes/warren-buffett) — quoted on Tom Murphy and Dan Burke as "the greatest two-person combination in management the world has ever seen."
+
+**Concepts:** [Leadership](/notes/leadership) — the book's core subject (optimism, decency, presence, knowing-what-you-don't-know); [Innovator's Dilemma](/notes/innovator-s-dilemma) — Iger's framing of why incumbents fail to self-disrupt and his choice to cannibalize profitable TV businesses for streaming; [Intellectual Honesty](/notes/intellectual-honesty) — "they willfully avoided asking the hard questions"; the clarifying-questions discipline; [Risk Management](/notes/risk-management) — big swings, gut-instinct-after-the-models, "you can't have big wins without [big risks]"; [Storytelling](/notes/storytelling-as-leadership) — lessons absorbed from Roone Arledge's "human drama of athletic competition" applied to brand and content; [Mentorship](/notes/mentorship) — Roone Arledge, Tom Murphy, and Dan Burke as formative mentors; [Empathy](/notes/empathy) — "a prerequisite to the sound management of creativity"; [Lily Pads of Your Career](/notes/lily-pads-of-your-career) and [Natural Selection of Time](/notes/natural-selection-of-time) — the explicit career-inflection frames Iger's "say yes to every opportunity" maps onto; [Interest Discovery](/notes/interest-discovery) — recognition of quiet inflection points as a learnable skill.
+
+**Books:** [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) — same company, different era; complementary reads. [Amazon Unbound](/books/amazon-unbound) — operating-discipline overlap; the "disagree and commit only works if disagreement actually happens" thread. [The Self-Driven Child](/books/the-self-driven-child) — interest-discovery and lily-pads-of-career frame. [Atomic Habits](/books/atomic-habits) — daily-improvement discipline ("do what you need to do to make it better"). [Essentialism](/books/essentialism) — focus discipline; Dan Burke's "don't manufacture trombone oil" note.
 <!-- /interconnections -->
 
 ## Highlights

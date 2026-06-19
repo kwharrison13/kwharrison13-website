@@ -6,7 +6,7 @@ rating: 1
 quake: false
 tags:
   - "capital-allocation"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -19,8 +19,24 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
+**People:** [Jason Schenker](/notes/jason-schenker) — the author, an economist arguing recession-proofing comes down to keeping options open.
+
+**Concepts:**
+- [Continuous Learning](/notes/continuous-learning) — the book's core defense: "Always be learning... if you're not sharpening your tools, they're going to get rusty," building skills for the job you want, not the one you have.
+- [Networking](/notes/networking) — the recurring "build your network" prescription; the best time to network is during the good years, not during a recession.
+- [Margin of Safety](/notes/margin-of-safety) — the "buy low, buy in bust times" investing rule and the principle of only investing in things you understand.
+- [Investment Returns](/notes/investment-returns) — the three retirement rules (buy bundles via mutual funds/ETFs, buy in bust times, retire at the right time) and "buying low is the first rule of investing."
+- [Retraining](/notes/retraining) — education as "a great equalizer," with degrees compressing unemployment rates and recession-proof credentials (nursing, accounting).
+- [Automation](/notes/automation) — empathy, people skills, and creative problem-solving framed as the "soft" skills least likely to be automated.
+- [Remote Work](/notes/remote-work) — remote contract work flagged as a fit for older workers as offices become outdated.
+- [Real Estate](/notes/real-estate) — the counterintuitive argument to buy a house during a recession, when it shifts from a seller's market.
+- [Education](/notes/education) — schooling as a recession-proof, need-based industry insulated by law and unionization.
+- [Retirement](/notes/retirement) — the "the past is the future" thesis that families will rely less on government and more on children.
+
+**Books:**
+- Getting to Yes — cited directly for its rule that "whoever has options has power," the book's central organizing idea.
 - [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — investment-structure parallel.
-- [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — cash-discipline thread.
+- [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — cash-discipline and buy-low thread; see also [Berkshire Hathaway](/notes/berkshire-hathaway).
 <!-- /interconnections -->
 
 ## Highlights

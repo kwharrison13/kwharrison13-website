@@ -7,7 +7,7 @@ quake: false
 tags:
   - "republic-of-letters"
   - "open-source-knowledge"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -20,8 +20,11 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack), [The Great Mental Models Volume 1 — General Thinking Concepts](/books/the-great-mental-models-volume-1-general-thinking-concepts) — multidisciplinary-thinking cluster.
-- [The Death of Expertise](/books/the-death-of-expertise) — specialist-vs-generalist thread.
+**People:** [David Epstein](/notes/david-epstein) (author); [Daniel Kahneman](/notes/daniel-kahneman) (his "heuristics and biases" view of expert judgment, contrasted against Gary Klein's naturalistic decision-making, frames the book's argument that experience breeds skill only in "kind" learning environments); [Charles Darwin](/notes/charles-darwin) (cited as a model of actively open-minded thinking — copying contrary observations into his notes, discarding model after model); [Albert Einstein](/notes/albert-einstein) and [Mark Zuckerberg](/notes/mark-zuckerberg) (invoked as icons of precocity/specialization the book pushes back against).
+
+**Concepts:** [Multidisciplinary Thinking](/notes/multidisciplinary-thinking) (the central thesis — breadth and analogical reasoning across domains beats early hyperspecialization); [Expertise](/notes/expertise) (its limits in "wicked" domains where patterns don't repeat and feedback is delayed); [Forecasting](/notes/forecasting) (Tetlock's foxes-vs-hedgehogs work — broad, self-doubting foxes out-predict narrow experts); [Learning](/notes/learning) ("desirable difficulties," spacing, interleaving, and making-connections problems make knowledge durable and transferable); [Spaced Repetition](/notes/spaced-repetition) (spacing as a desirable difficulty that slows short-term performance but deepens retention); [Heuristics](/notes/heuristics) (Kahneman's heuristics-and-biases lens on flawed expert judgment); [Judgment](/notes/judgment) (good forecasters as good belief-updaters who hold "hunches lightly"); [Creativity](/notes/creativity) (functional fixedness, the candle problem, and breadth-of-training predicting breadth-of-transfer); [Innovation](/notes/innovation) ("serial innovators" and birds-vs-frogs polymaths who integrate across peripheral domains); [Polymath](/notes/polymath) (Nobel laureates' wider avocations; the "T-shaped" / "π-shaped" integrators); [Systems Thinking](/notes/systems-thinking) (breadth matters most as ambiguity and uncertainty rise in systems problems); [Education](/notes/education) and [Alternative Education](/notes/alternative-education) (Flynn's critique that departments build narrow competence while neglecting broad reasoning tools); [Talent](/books/talent) and [Curiosity](/notes/curiosity) (match quality, sampling periods, and "I know who I am when I see what I do").
+
+**Books:** [Thinking, Fast and Slow](/notes/thinking-fast-and-slow) (Kahneman's account of the heuristics-and-biases program that Range draws on for expert overconfidence); [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) and [The Great Mental Models Volume 1 — General Thinking Concepts](/books/the-great-mental-models-volume-1-general-thinking-concepts) — the multidisciplinary-thinking / latticework-of-models cluster; [The Death of Expertise](/books/the-death-of-expertise) — the specialist-vs-generalist debate from the opposite angle.
 <!-- /interconnections -->
 
 ## Highlights

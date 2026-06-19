@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -38,6 +38,10 @@ David G. Stewart's data-driven critique of LDS missionary work — recommended b
 - [Faith is Not Blind](/books/faith-is-not-blind) — faith that "welcomes data and objective analysis"; the harmonization of facts and testimony Stewart insists on.
 - [The Book of Mormon](/books/the-book-of-mormon) — Ammon and the Sons of Mosiah as the retention ideal (Alma 23:6; Mosiah 28:3); the scriptural backbone of nearly every argument.
 - [Gordon B. Hinckley — Go Forward With Faith](/books/gordon-b-hinckley-go-forward-with-faith) — Hinckley's "every member a missionary" exhortations, quoted at length.
+- [Church Growth](/notes/church-growth) — Stewart's whole thesis is a church-growth argument: strictness, retention, and finding-program effectiveness as the real drivers, not chapel construction or program count.
+- [Discipleship](/notes/discipleship) — the bring-forth-fruit-that-remains standard (John 15:16) recast as discipleship that endures, against quick-baptize tactics that generate inactives.
+- [Metrics](/notes/metrics) — honest measurement as the precondition for improvement: "It is impossible to achieve meaningful improvement without awareness of present reality," and the social-acceptability reporting bias that filters out the useful information.
+- [Leadership](/notes/leadership) — outreach leadership as a distinct skill from pastoral leadership; Drucker's "Popularity is not leadership. Results are."; leaders who never tried their own programs.
 <!-- /interconnections -->
 
 ## Highlights

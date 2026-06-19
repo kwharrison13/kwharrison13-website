@@ -6,7 +6,7 @@ rating: 4
 quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -29,12 +29,42 @@ A side thread worth flagging: the recurring question of contemporary Church prac
 ## Connections
 
 <!-- interconnections -->
-- [The Faith of a Scientist](/books/the-faith-of-a-scientist) _(stub)_ — adjacent on the psychology-and-religion intersection.
-- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — same doubt-and-doctrine question; Joseph's own creed skepticism.
-- [The Courage To Be Disliked](/books/the-courage-to-be-disliked) — religious-internalization thread.
-- [Discipline Is Destiny](/books/discipline-is-destiny) — "I want no man to follow me" frame.
-- [Crime & Punishment](/books/crime-and-punishment) _(stub)_ — Dostoevsky direct reference.
-- [Working Toward Zion](/books/working-toward-zion) — adjacent on Mormon engagement with secular ideas.
+**Books:**
+
+- [The Faith of a Scientist](/books/the-faith-of-a-scientist) — adjacent on the science-and-religion intersection the Givens work through (Dyson, Rees, the anthropic principle).
+- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — same doubt-and-doctrine question; Joseph's own creed skepticism and his "fly to pieces like glass" warning about tradition.
+- [The Courage To Be Disliked](/books/the-courage-to-be-disliked) — the Adlerian "be of use" / religious-internalization thread that pushes against Stoic detachment.
+- [Discipline Is Destiny](/books/discipline-is-destiny) — the "I want no man to follow me" / no-borrowed-light frame against hero worship.
+- [Crime & Punishment](/books/crime-and-punishment) — Dostoevsky's Grand Inquisitor on the human propensity to surrender freedom and worship hero figures; Ivan and Alyosha on the "tiny creature" tortured to build human destiny.
+- [Working Toward Zion](/books/working-toward-zion) — adjacent on Mormon engagement with secular ideas and the gospel-vs-culture distinction.
+
+**People:**
+
+- [Terryl Givens](/notes/terryl-givens), [Fiona Givens](/notes/fiona-givens) — co-authors of the book.
+- [Joseph Smith](/notes/joseph-smith) — the book leans on his anti-creedal preaching, "no church that does not demand the sacrifice of its members," and "in this church you don't have to believe anything that isn't true."
+- [Brigham Young](/notes/brigham-young) — quoted on independence, on not being satisfied with anything a leader does absent the Spirit, and the Edwin Woolley "just as much my church as it is yours" exchange.
+- [Parley Pratt](/notes/parley-p-pratt) — _The Fountain of Knowledge_ on revelation as the fountain behind scripture; his "doctrine of equality."
+- [Dietrich Bonhoeffer](/notes/dietrich-bonhoeffer) — "cheap grace is the mortal enemy of the church" anchors the doubt-as-faith-building thread.
+- [Russell M. Nelson](/notes/russell-m-nelson), [Boyd K. Packer](/notes/boyd-k-packer), [George Albert Smith](/notes/george-albert-smith) — cited on revelation, over-programming, and repudiating "when our leaders speak, the thinking has been done."
+- [Charles Darwin](/notes/charles-darwin) — his admission that strict "hard reason" over sympathy would sacrifice "the noblest part of our nature."
+- [Richard Feynman](/notes/richard-feynman) — QED on quantum theory as "absurd from the point of view of common sense."
+- [William James](/notes/william-james) — on the "horror of being duped" and the will to believe.
+- [Flannery O'Connor](/notes/flannery-o-connor) — "Religion costs. They think faith is a big electric blanket, when of course it's a cross."
+
+**Concepts:**
+
+- [Religious Internalization](/notes/religious-internalization) — the central frame: faith owned from within rather than borrowed.
+- [Spirit of Humility](/notes/spirit-of-humility) — the willingness to leave misguided assumptions behind and ask the "genuine question."
+- [Pascal's Wager](/notes/pascal-s-wager) — the "I made a wager... to bet my entire life that the gospel was true" and Voltaire's "not to believe is absurd."
+- [Heuristics](/notes/heuristics) — paradigms as inherited assumptions that guide but also limit inquiry.
+- [Agency](/notes/agency) — the war in heaven over agency and accountability; God's design for self-direction.
+- [Empathy](/notes/empathy) — Wolterstorff's "we all suffer, for we all prize and love"; empathy as the road to suffering.
+- [Stoicism](/notes/stoicism) — the book's pushback against detachment; emotion "moderated but not obliterated by reason."
+- [Atonement](/notes/atonement) — framed as the ordained means of sanctification, not a backup plan.
+- [Discipleship](/notes/discipleship) — measuring oneself by the canon without unloading spiritual direction onto leaders.
+- [Revelation](/notes/revelation) — the fountain behind scripture; "if ye are not led by revelation how can ye escape the damnation of Hell."
+- [Polygamy](/notes/polygamy), [Priesthood](/notes/priesthood) — Farrer's "authority cannot make facts to be facts" applied to faith-wrenching practices and the priesthood ban.
+- [Civic Virtue](/notes/civic-virtue) — the ward as inescapable, unchosen community that forges loyalty like a family.
 <!-- /interconnections -->
 
 ## Highlights

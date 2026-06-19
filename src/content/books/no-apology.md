@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "people-over-politics"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -19,8 +19,21 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [Turnaround](/books/turnaround), [Romney — A Reckoning](/books/romney-a-reckoning) — Romney corpus.
-- [The Death of Expertise](/books/the-death-of-expertise) — democratic-discourse parallel.
+**People:** [Mitt Romney](/notes/mitt-romney) — author; the policy worldview here (turnaround logic applied to the nation, education reform as governor, energy security) is his own.
+
+**Concepts:**
+- [Foreign Policy](/notes/foreign-policy) — Romney's framing of three rival global strategies (Western free-enterprise democracy, China's authoritarian free-enterprise, Russia's energy-based authoritarianism) and his case that appeasement alienates allies.
+- [Soft Power](/notes/soft-power) — argued as "real power" that affects world events, alongside the claim that diplomacy measured by documents rather than changed behavior creates false security.
+- [Education](/notes/education) — the book's most data-driven thread: teacher quality (not class size or spending) as the dominant driver of student achievement, charter-school and KIPP findings, and the "epic failure" indictment of American schooling.
+- [Innovation](/notes/innovation) — the recurring engine of national competitiveness: out-innovate rather than protect, allow the creative destruction of a free economy, and protect intellectual property against theft.
+- [Entrepreneurship](/notes/entrepreneurship) — capital scarcity kills good ideas in the mind; the growth agenda favors low taxes and investment in research over subsidizing failure.
+- [Group Think](/notes/group-think) — Romney's diagnosis of media and institutional elites echoing each other rather than doing in-depth, data-grounded reporting.
+- [Data in Investing](/notes/data-in-investing) — his "anecdotes are illustrative but data is compelling" stance on education policy mirrors a broader bias toward evidence over prejudice.
+- [Democracy](/notes/democracy) — Tytler's warning that democracies vote themselves largesse and collapse over loose fiscal policy; the Founders' premise of an informed, responsible citizenry.
+
+**Books:**
+- [Turnaround](/books/turnaround), [Romney — A Reckoning](/books/romney-a-reckoning) — Romney corpus; *Turnaround* on the operational-fix mindset he extends to national policy here, *A Reckoning* on the later arc of his political career.
+- [The Death of Expertise](/books/the-death-of-expertise) — democratic-discourse parallel to the group-think and intellectual-laziness critique of opinion leaders.
 <!-- /interconnections -->
 
 ## Highlights

@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -23,9 +23,27 @@ Henry Eyring's collection on science and religion read with two structural obser
 ## Connections
 
 <!-- interconnections -->
-- [The Crucible of Doubt](/books/the-crucible-of-doubt) — same religion-and-doubt intersection.
-- [Stretching The Heavens](/books/stretching-the-heavens) — Eugene England's parallel thinking.
-- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — doctrinal foundation.
+**Books:**
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — same religion-and-doubt intersection, faith holding together amid unresolved questions.
+- [Stretching The Heavens](/books/stretching-the-heavens) — [Eugene England](/notes/eugene-england)'s parallel LDS thinking on intellect and faith.
+- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — doctrinal foundation for the Restoration claims Eyring treats as compatible with science.
+
+**People:**
+- [Henry Eyring](/notes/henry-eyring) — the chemist-author; the book is his collection arguing true science and true religion are in harmony.
+- [Louis Pasteur](/notes/louis-pasteur) — Eyring's framing device of "two men in each one of us," the scientist and the believer.
+- [Albert Einstein](/notes/albert-einstein) — quoted on "the most incomprehensible thing about the world is that it is comprehensible" and on religion and regularity in nature.
+- [Brigham Young](/notes/brigham-young) — quoted urging Latter-day Saints to pursue a scientific education and study the formation of the earth.
+- [Orson Pratt](/notes/orson-pratt), [James E. Talmage](/notes/james-e-talmage), [John A. Widtsoe](/notes/john-a-widtsoe) — LDS thinkers Eyring turns to for the right "slant on the Gospel for scientific friends."
+- [Joseph Smith](/notes/joseph-smith) — the Restoration's founding prophet whose doctrine of spirit as refined matter Eyring reconciles with energy-matter interchangeability.
+
+**Concepts:**
+- [Free Will](/notes/free-will) / [Agency](/notes/agency) — quantum mechanics' uncertainty principle read as confirming free agency against mechanistic determinism.
+- [Eternal Progression](/notes/eternal-progression) — learning without end; the mathematical certainty that we can never know everything about the Gospel.
+- [Truth](/notes/truth) — the load-bearing premise: the Gospel commits only to the truth, and no truth can conflict with another truth.
+- [Faith](/notes/faith) — faith as enrichment that "broadens thinking" rather than competing with science.
+- [Humility](/notes/humility) — the honest recognition of one's own limitations, knowing when to say "I don't know."
+- [Creation](/notes/creation) — the watch-found-running and improbability-of-a-hot-sun arguments for a Creator.
+- [Revelation](/notes/revelation) — knowledge by revelation and long experience set alongside scientific inference.
 <!-- /interconnections -->
 
 ## Highlights

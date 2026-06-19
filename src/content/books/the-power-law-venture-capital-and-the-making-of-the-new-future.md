@@ -7,7 +7,7 @@ quake: false
 tags:
   - "capital-allocation"
   - "republic-of-letters"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -32,11 +32,49 @@ The book is treated with more wariness than its subject usually gets — appropr
 ## Connections
 
 <!-- interconnections -->
-- [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — direct counterpoint. Buffett's investment philosophy as the alternative to the VC model this book describes.
+**Books:**
+
+- [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — direct counterpoint. Buffett's investment philosophy as the alternative to the VC model this book describes; the book notes Davis & Rock's 22.6x return "easily eclipsed Warren Buffett in this period."
 - [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — Munger's investment-management critique applied to VC.
-- [The Founders](/books/the-founders) — talent vortex inside the VC-funded company.
-- [The Everything Store](/books/the-everything-store) — operating philosophy as the actual VC differentiator.
-- [How To Avoid a Climate Disaster](/books/how-to-avoid-a-climate-disaster) — Breakthrough Energy as alternative VC structure.
+- [The Founders](/books/the-founders) — talent vortex inside the VC-funded company; PayPal's Thiel/Nosek origins feed the [Founders Fund](/notes/founders-fund) thesis covered here.
+- [The Everything Store](/books/the-everything-store) — operating philosophy as the actual VC differentiator; Bezos calls Kleiner "the gravitational center of a huge piece of the Internet world."
+- [How To Avoid a Climate Disaster](/books/how-to-avoid-a-climate-disaster) — Breakthrough Energy as alternative VC structure; pairs with the book's account of Doerr's cleantech fiasco.
+- [Zero To One](/books/zero-to-one) — Thiel's manifesto extends the book's [Power Law](/notes/power-law) argument: a handful of outlier bets dominate returns, and VCs should back contrarian misfits rather than coach them.
+- [The Innovator's Dilemma](/books/the-innovator-s-dilemma) — the book invokes a "military version of the innovator's dilemma," and the broader incumbent-vs-startup dynamic runs throughout.
+
+**Concepts:**
+
+- [Power Law](/notes/power-law) — the book's organizing thesis: returns follow a skewed distribution where a tiny subset of deals generates most gains (Horsley Bridge's 5%/60% figure).
+- [Venture Capital](/notes/venture-capital) — the industry the book historicizes from Davis & Rock through a16z, Tiger, and the unicorn era.
+- [Network Effects](/notes/network-effects) — Metcalfe's law drives eBay and Yahoo here, and the book casts VCs themselves as relentless network-cultivators (the Saxenian "weak ties" thread).
+- [Investment Returns](/notes/investment-returns) — the power-law distribution of fund returns; "the best investment in a successful fund equals or outperforms the entire rest of the fund."
+- [Diversification](/notes/diversification) — Davis and Rock explicitly rejected modern-portfolio-theory diversification for concentrated bets de-risked through control.
+- [Skill vs. Luck](/notes/skill-vs-luck) — recurring question of whether VC outperformance is skill or "being in the right place at the right time"; NBER feedback-effect findings.
+- [Knightian Uncertainty](/notes/knightian-uncertainty) — the book's distinction between quantifiable risk and the unquantifiable uncertainty that defines venture investing.
+- [Capital Allocation](/notes/capital-allocation) — VC as a distinctive allocation engine that "combines the strengths of the corporation with the strengths of the market."
+
+**People:**
+
+- [Peter Thiel](/notes/peter-thiel) — the "grand-slam business" power-law framing and the Founders Fund anti-mentoring thesis.
+- [Bill Gurley](/notes/bill-gurley) — Benchmark's "anti-Softbank" model and his unicorn-governance critiques (Uber, liquidation preferences).
+- [Ben Horowitz](/notes/ben-horowitz) — the pricing maxim ("no single decision... more than the pricing") and the a16z consultancy model.
+- [Vinod Khosla](/notes/vinod-khosla) — "all progress depends upon the unreasonable man" and the failure-as-permission framing.
+- [Tom Perkins](/notes/tom-perkins) — Kleiner Perkins, "we are not investors," and "market risk is inversely proportional to technical risk."
+- [Marc Andreessen](/notes/marc-andreessen) — Mosaic-to-a16z arc and the operating-partner consultancy bet.
+- [Paul Graham](/notes/paul-graham) — Y Combinator and the hacker-founder youth revolt against traditional VC.
+- [Jeff Bezos](/notes/jeff-bezos) — angel investing and the founder-retains-control precedent cited by the Googlers.
+- [Mark Zuckerberg](/notes/mark-zuckerberg) — "young people are just smarter" at a Graham-hosted event; emblem of the founder-friendly turn.
+- [Steve Jobs](/notes/steve-jobs) — Apple's social-proof financing round and the "back the right people" ethos.
+- [Jack Ma](/notes/jack-ma) — Alibaba as proof that Arthur Rock's financial model, not Communist Party planning, drove China's tech rise.
+
+**Other:**
+
+- [Founders Fund](/notes/founders-fund) — Thiel/Nosek's radical-decentralization, anti-mentoring partnership built on the power law.
+- [Y Combinator](/notes/y-combinator) — Graham's batch-based seed model as a genuinely novel approach.
+- [Sequoia](/notes/sequoia) — Moritz's Yahoo patience and Botha's decision-postmortem discipline.
+- [Benchmark](/notes/benchmark) — small-fund "better architecture" and the Uber/WeWork governance cautionary tales.
+- [a16z](/notes/a16z) — Andreessen Horowitz's in-house consultancy differentiation.
+- [Google](/notes/google), [Facebook](/notes/facebook-meta), [Uber](/notes/uber-uber), [WeWork](/notes/wework) — portfolio cases the book uses to trace VC's evolving founder-friendliness and the late-stage unicorn distortions.
 <!-- /interconnections -->
 
 ## Highlights

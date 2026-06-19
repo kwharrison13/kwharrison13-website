@@ -7,7 +7,7 @@ quake: false
 tags:
   - "religious-intellectualism"
   - "republic-of-letters"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -30,12 +30,11 @@ A side observation: Arrington's deflection on titles ("titles were not important
 ## Connections
 
 <!-- interconnections -->
-- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — Bushman's later work that Arrington's institutional setup made possible.
-- [Brigham Young — Pioneer Prophet](/books/brigham-young-pioneer-prophet) — same scholarly tradition.
-- [The Life of John Taylor](/books/the-life-of-john-taylor) — counter-example; the apologetic style Arrington tried to move past.
-- [American Zion](/books/american-zion) _(stub)_ — same historiographical lens applied broadly.
-- [The Crucible of Doubt](/books/the-crucible-of-doubt) — the question-asking tradition the notes invoke.
-- [Working Toward Zion](/books/working-toward-zion) — practitioners-vs-priesthood thread, in the economic-policy domain.
+**People:** [Leonard Arrington](/notes/leonard-arrington) — subject of the biography, LDS Church's first professional historian, the "entrepreneur of history" who mentored a generation. [Gregory A. Prince](/notes/gregory-a-prince) — author. [Richard Bushman](/notes/richard-bushman) — one of Arrington's beneficiaries, later wrote the Joseph Smith biography Arrington's institutional setup made possible. [Spencer W. Kimball](/notes/spencer-w-kimball) — repeatedly misjudged as an unremarkable traditionalist, then revealed as the most transformative church president of the century (notably abolishing the priesthood ban). [Russell M. Nelson](/notes/russell-m-nelson) — the modern parallel of the same underestimation pattern; also the surgeon who performed Arrington's bypass. [N. Eldon Tanner](/notes/n-eldon-tanner) — the practitioners-vs-priesthood pivot point in the institution's relationship to expertise. [Gordon B. Hinckley](/notes/gordon-b-hinckley) — oversaw the dismantling of Arrington's History Division. [Boyd K. Packer](/notes/boyd-k-packer) — Arrington's chief antagonist; "some things that are true are not very useful." [Ezra Taft Benson](/notes/ezra-taft-benson) — the apostolic opposition to "real history." [Joseph Fielding Smith](/notes/joseph-fielding-smith) — the orthodox literalist tradition Arrington worked against. [David O. McKay](/notes/david-o-mckay) — held that the priesthood ban was policy, not doctrine. [Howard W. Hunter](/notes/howard-w-hunter) — opened the church archives "in a stroke." [Harold B. Lee](/notes/harold-b-lee) — used Correlation to bring departments under the Twelve. [Heber J. Grant](/notes/heber-j-grant) — recipient of B. H. Roberts's sobering Book of Mormon study. [Brigham Young](/notes/brigham-young) — the priesthood-over-experts colonizing economy Arrington analyzed in Great Basin Kingdom. [Joseph Smith](/notes/joseph-smith) — the question-asking founding posture Arrington saw as Mormonism's heritage. [Fawn Brodie](/notes/fawn-brodie) — the anti-Mormon scholar whose reception colored the archives debate.
+
+**Concepts:** [Institution Building](/notes/institution-building) — the institution-vs-scholarship tension that structures the whole book. [Open Source Knowledge](/notes/open-source-knowledge) — Arrington's largesse of sharing research files, almost unheard of in a hoarding field. [Mentorship](/notes/mentorship) — his cultivation of "history buffs" and young scholars through letters, fellowships, and rump sessions. [Republic of Letters](/notes/republic-of-letters) — the network of journals (Dialogue, Sunstone, Exponent II), seminars, and the underground church. [Entrepreneurship](/notes/entrepreneurship) — Arrington's self-description as an "entrepreneur" who invested in history like a venture. [Word of Wisdom](/notes/word-of-wisdom) — his economically-grounded reinterpretation that triggered a complaint chain. [Truth](/notes/truth) — "God does not need our lies"; the symbolic-vs-literal truth he absorbed from Santayana. [Agency](/notes/agency) — the Kyle note on the Church providing ordinances and leaving members to exercise their own agency.
+
+**Books:** [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — Bushman's later work that Arrington's institutional setup made possible. [Brigham Young — Pioneer Prophet](/books/brigham-young-pioneer-prophet) — same scholarly tradition; Arrington's own American Moses faced the same "how do you deal with flaws in a prophet" problem. [The Life of John Taylor](/books/the-life-of-john-taylor) — counter-example; the apologetic style Arrington tried to move past. [American Zion](/books/american-zion) — same historiographical lens applied broadly. [The Crucible of Doubt](/books/the-crucible-of-doubt) — the faith-through-question-asking tradition Arrington embodied. [Working Toward Zion](/books/working-toward-zion) — the practitioners-vs-priesthood thread in the economic-policy domain.
 <!-- /interconnections -->
 
 ## Highlights

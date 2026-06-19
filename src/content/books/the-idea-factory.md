@@ -8,7 +8,7 @@ tags:
   - "technological-innovation"
   - "company-building"
   - "historical-futurism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -35,12 +35,38 @@ Bell Labs functioning as the implicit benchmark for what could exist again — a
 ## Connections
 
 <!-- interconnections -->
-- [Skunk Works](/books/skunk-works) — sister case study. Both are "what does great industrial R&D look like?" pieces. Bell Labs is the civilian analog.
+**Books:**
+
+- [Skunk Works](/books/skunk-works) — sister case study. Both are "what does great industrial R&D look like?" pieces. Bell Labs is the civilian analog; Drucker's "go into business for itself" prescription for the post-breakup Labs is explicitly the Skunk Works question.
 - [The Man From The Future](/books/the-man-from-the-future) — von Neumann's IAS as adjacent talent-density institution.
-- [Chip War](/books/chip-war) — semiconductor sequel. The transistor's downstream — TSMC, NVIDIA — gets the long-tail analysis.
-- [The Founders](/books/the-founders) — talent vortex parallel. PayPal Mafia as a different-era version of Bell Labs alumni.
-- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institution-building thread.
-- [Flying Blind](/books/flying-blind) — Boeing decay as the failure mode of the same era.
+- [Chip War](/books/chip-war) — semiconductor sequel. The transistor Shockley's team invented at Bell Labs is the upstream; the downstream — TSMC, NVIDIA — gets the long-tail analysis there.
+- [The Founders](/books/the-founders) — talent vortex parallel. The PayPal Mafia is a different-era version of the Shockley Semiconductor / Bell Labs alumni who seeded Silicon Valley.
+- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institution-building thread; Bell Labs as a 20th-century knowledge institution.
+- [Flying Blind](/books/flying-blind) — Boeing decay as the failure mode of the same era; the "engineering org → bottom-line business" arc the deregulated/Lucent-era Labs also ran.
+
+**People:**
+
+- [Mervin Kelly](/notes/mervin-kelly) — Bell Labs' architect and "institute of creative technology" leader; his talent-spotting and physical-proximity dogma run through the book.
+- [William Shockley](/notes/william-shockley) — co-inventor of the transistor; his "uncanny ability to spot talent" paired with poor management drove the traitorous eight to found Silicon Valley.
+- [John Pierce](/notes/john-pierce) — the "instigator" between Shannon's genius and Kelly's management; communications-satellite advocate and unrelenting futurist.
+- [Jack Morton](/notes/jack-morton) — transistor development chief; his dictum "if you haven't sold anything you haven't innovated" defines the book's view of innovation.
+- [Richard Feynman](/notes/richard-feynman) — Shockley's former MIT colleague, cited for "things on a small scale behave nothing like things on a large scale."
+- [Vannevar Bush](/notes/vannevar-bush) — Shannon's MIT advisor who called him "a decidedly unconventional type of youngster."
+- [Peter Drucker](/notes/peter-drucker) — analyzed how Bell Labs' own discoveries made its continued existence untenable, prescribing a "far bolder, riskier" independent course.
+- [Steven Johnson](/notes/steven-johnson) — cited on creative environments fostering idea-exchange mattering more than competition for major advances.
+- [Arthur C. Clarke](/notes/arthur-c-clarke) — called Bell Labs "a factory for ideas"; had earlier described the geosynchronous communications-satellite idea Pierce later pursued.
+- [Steve Jobs](/notes/steve-jobs) and [Bill Gates](/notes/bill-gates) — named by Bob Lucky as the modern figures people invoke as comparably "bigger than life" exemplars.
+
+**Concepts:**
+
+- [Talent Identification](/notes/talent-identification) — the book's central thesis on Kelly's and Shockley's gift for spotting researchers, and the pay-it-forward problem of whether they revere or hate you.
+- [Network Effects](/notes/network-effects) / Metcalfe's Law — the Picturephone's failure framed explicitly via Metcalfe: a minuscule network had vanishingly small per-user value.
+- [Forecasting](/notes/forecasting) — Kelly intuiting the transistor's future from vacuum-tube cost curves; Pierce's "everyone faces the future with their eyes firmly on the past."
+- [Post-Mortem](/notes/post-mortem) — the waveguide (mistake of perception) vs. Picturephone (mistake of judgment) failure taxonomy.
+- [Wisdom vs Knowledge](/notes/wisdom-vs-knowledge) — the recurring T.S. Eliot line applied to the information abundance the transistor enabled.
+- [Innovation](/notes/innovation) — Morton's manufacture-and-sell definition; the idea → discovery → invention → innovation chain.
+- [Planned Obsolescence](/notes/planned-obsolescence) — contrasted against Bell's design-to-last-30-years ethos.
+- [Bell Labs](/notes/bell-labs) — the institution at the center of the book.
 <!-- /interconnections -->
 
 ## Highlights

@@ -8,7 +8,7 @@ tags:
   - "religious-intellectualism"
   - "city-building"
   - "historical-futurism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -36,9 +36,13 @@ Read in 2021 and tagged #[Faith](/notes/faith) #[History of the Church](/notes/h
 - [Saints — The Standard of Truth](/books/saints-the-standard-of-truth) — Volume 1; the Joseph Smith founding era this book picks up from.
 - [Saints — Boldly, Nobly, and Independent](/books/saints-boldly-nobly-and-independent) — Volume 3; the post-Manifesto continuation.
 - [American Zion](/books/american-zion) — Benjamin Park's single-volume history of the same tradition, read with an eye to the institution-vs-politics tension; covers the fallible-leader and living-revelation threads from a more critical academic vantage.
-- [Working Toward Zion](/books/working-toward-zion) — the economic counterpart: United Order, cooperation, retrenchment, and the law of consecration that Brigham's anti-gold, anti-extravagance sermons here set in motion.
+- [Working Toward Zion](/books/working-toward-zion) — the economic counterpart: United Order, cooperation, retrenchment, and the [Law of Consecration](/notes/law-of-consecration) that Brigham's anti-gold, anti-extravagance sermons here set in motion.
 - [Brigham Young — Pioneer Prophet](/books/brigham-young-pioneer-prophet) / [Brigham Young — American Moses](/books/brigham-young-american-moses) — full biographies of the figure who dominates this volume.
-- [The Self-Own of Doubt](/essays/the-self-own-of-doubt) (essay) — Kyle's own writing on faith and doubt; the John A. Widtsoe Harvard-doubt arc and Lorena's dark night are the narrative version of the same argument.
+- [The Self-Own of Doubt](/essays/the-self-own-of-doubt) (essay) — Kyle's own writing on faith and doubt; the [John Widtsoe](/notes/john-widtsoe) Harvard-doubt arc and Lorena's dark night are the narrative version of the same argument.
+
+**Concepts:** [Zion](/notes/zion) — the settlement of the Salt Lake Valley as a literal Zion-building project, "a place of refuge, a land of peace"; [Gathering of Israel](/notes/gathering-of-israel) — Woodruff "piloting a road for the house of Israel"; [Prosperity Gospel](/notes/prosperity-gospel) / [prosperity as threat](/notes/prosperity-gospel) — Brigham's "worst fear" that the Saints "wax fat, and kick themselves out of the Church"; [United Order](/notes/united-order) and the cooperative movement as an institutional immune response to wealth; [Polygamy](/notes/polygamy) — the antipolygamy crusade and the Manifesto's temporal-vs-spiritual calculus; [Living Revelation](/notes/living-revelation) and [Line upon line, precept upon precept](/notes/line-upon-line-precept-upon-precept) — Woodruff's "inspiration is revelation" and the question of whether a commandment can ever be irrevocable; [Obedience](/notes/obedience) and [Spirit of Humility](/notes/spirit-of-humility) — "righteous in the dark," proving oneself unwatched; [Repentance](/notes/repentance) — Oliver Cowdery's pride in staying away; [Faith](/notes/faith) — Lorena Larsen's Abraham-and-Isaac dark night.
+
+**People:** [Brigham Young](/notes/brigham-young) dominates the volume; [Wilford Woodruff](/notes/wilford-woodruff) authors the Manifesto; [John Taylor](/notes/john-taylor), [George Q. Cannon](/notes/george-q-cannon), [Joseph F. Smith](/notes/joseph-f-smith) lead through the crisis; [Eliza R. Snow](/notes/eliza-r-snow) and [Susa Young Gates](/notes/susa-young-gates) anchor the women's-agency and [Note-taking](/notes/note-taking) / [Writing](/notes/writing) ("home literature") threads; [Karl G. Maeser](/notes/karl-g-maeser) on education; [B.H. Roberts](/notes/b-h-roberts)'s inability to sustain the Manifesto; [John Widtsoe](/notes/john-widtsoe)'s Harvard doubt; [Jane Manning James](/notes/jane-manning-james) and [Lorena Larsen](/notes/lorena-larsen) as the human cost; [Joseph Smith](/notes/joseph-smith) as the founding referent; [Henry B. Eyring](/notes/henry-b-eyring) on the Quorum as an abnormal decision-making body; [Spencer W. Kimball](/notes/spencer-w-kimball) and [Russell M. Nelson](/notes/russell-m-nelson) referenced in Kyle's margins.
 <!-- /interconnections -->
 
 ## Highlights

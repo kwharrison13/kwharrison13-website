@@ -8,7 +8,7 @@ tags:
   - "historical-futurism"
   - "language-of-discourse"
   - "ideological-family-tree"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -38,6 +38,11 @@ key_takeaways_status: "written"
 - [Depression](/notes/depression) — Adams struggled with what he called "the blue devils" from college onward; Traub traces how he summoned the will to become the person his parents told him he must be
 - [Parenting](/notes/parenting) — the most painful thread: the same thresher that forged JQA destroyed his brothers and eventually his own sons
 - [Two Party System](/notes/two-party-system) — Adams as the last "man of the whole country" before parties hardened into the system we have today
+- [Realism](/notes/realism) — Traub names Adams the "fountainhead" of realist foreign policy, skeptical of America's capacity to do good abroad; [Henry Kissinger](/notes/henry-kissinger)'s observation that Americans won't accept a "realist" president is cited as the modern echo
+- [Polymath](/notes/polymath) — Adams "seemed to know everything about everything," reciting Homer in Greek and probing every science; a [Leonardo Da Vinci (Book)](/notes/leonardo-da-vinci-book) kind of relentless [curiosity](/notes/curious) about how things work
+- [Genius](/notes/genius) — Adams concluded he would "depend not on genius, but on perseverance," a renunciation paralleled by the [Gordon B. Hinckley: Go Forward With Faith](/books/gordon-b-hinckley-go-forward-with-faith) passage on hard work over native brilliance
+- [Rhetoric](/notes/rhetoric) / [Public Speaking](/notes/public-speaking) — Adams' Harvard rhetoric professorship framed oratory as the connective tissue of republican self-government, modeled on [Cicero](/notes/cicero)
+- [Lincoln (Movie)](/notes/lincoln-movie) — the Emancipation Proclamation passage is the contrasting model of leading against constituent inclinations, set beside Adams' "palsied by the will of our constituents"
 <!-- /interconnections -->
 
 ## Highlights

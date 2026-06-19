@@ -5,7 +5,7 @@ year_read: "pre-2016"
 rating: 0
 quake: false
 tags: []
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -24,7 +24,13 @@ Tom Nicholas's history of venture capital read with the [Investing 101 2.0](/not
 ## Connections
 
 <!-- interconnections -->
-- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — direct sibling; both books treat VC as an institution worth examining.
+**People:** [Tom Perkins](/notes/tom-perkins) — cofounder of Kleiner Perkins (1972); cited as the VC who "emphasized investments in technology," one of the book's three archetypal investment styles.
+
+**Concepts:** [Venture Capital](/notes/venture-capital) — the book's subject; a history of the industry's origins (ARD, 1946) and mechanics. [Power Law](/notes/power-law) — the book's claim that exceptional VC payoffs are "sporadic and infrequent, concentrated in specific firms and time periods." [LP](/notes/lp) — the limited-partnership structure whose timeline pressures the book traces to Draper, Gaither & Anderson (1959). [Open Source Knowledge](/notes/open-source-knowledge) — the "remove the information asymmetries" thread (distributing playbooks, democratizing customer access). [Kleiner Perkins](/notes/kleiner-perkins), [Sequoia](/notes/sequoia), and [Bessemer Venture Partners](/notes/bessemer-venture-partners) — firms profiled as nodes in the "family tree of venture funds" the notes ask after.
+
+**Books:**
+
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — direct sibling; both books treat VC as an institution worth examining, and both raise whether VC mechanics will ever be disrupted.
 - [The Founders](/books/the-founders) — talent-vortex on the company side of the same equation.
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — alternative investment structure.
 <!-- /interconnections -->

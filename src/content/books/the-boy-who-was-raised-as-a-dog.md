@@ -7,7 +7,7 @@ quake: false
 tags:
   - "people-over-politics"
   - "ideological-family-tree"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -20,8 +20,11 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [The Self-Driven Child](/books/the-self-driven-child) — developmental-psychology cluster.
-- [The Parents' Guide to Boys](/books/the-parents-guide-to-boys) — adjacent on child development.
+**People:** [Bruce D. Perry](/notes/bruce-d-perry) — child psychiatrist and lead author whose clinical cases anchor the book's neurodevelopmental argument; [Maia Szalavitz](/notes/maia-szalavitz) — co-author and science journalist.
+
+**Concepts:** [Memory](/notes/memory) — the brain as "an historical organ" storing template memories that guide behavior, built through patterned, repetitive experience; [Relationships](/notes/relationships) — the central thesis that what most effectively heals child trauma is increasing the quality and number of relationships in a child's life; [Empathy](/notes/empathy) — framed as a learned capacity, like language, that today's relationship-poor culture undermines; [Family](/notes/family) — the dissolution of the extended family ("alloparents") as a driver of modern developmental stress; [Parenting](/notes/parenting) — caregiving patterns of stress and nurture as the source of resilience, since we tend to parent as we were parented; [Depression](/notes/depression) — rising rates across generations tied to social disconnection and the danger of ruminating on past trauma; [Education](/notes/education) — "child illiteracy" from a public-education system with no content on child or brain development, and the critique of "zero tolerance" policies; [Intelligence](/notes/intelligence) — defined here as faster information processing (fewer repetitions needed to form an association).
+
+**Books:** [The Self-Driven Child](/books/the-self-driven-child) — developmental-psychology cluster on stress, autonomy, and the developing brain; [The Parents' Guide to Boys](/books/the-parents-guide-to-boys) — adjacent on child development and caregiving.
 <!-- /interconnections -->
 
 ## Highlights

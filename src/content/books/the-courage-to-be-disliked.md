@@ -8,7 +8,7 @@ quake: true
 tags:
   - "religious-intellectualism"
   - "ideological-family-tree"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -29,6 +29,13 @@ Read together, the three notes suggest a translator's exercise — mapping Adler
 ## Connections
 
 <!-- interconnections -->
+**People:** [Alfred Adler](/notes/alfred-adler) (the individual-psychology source the whole dialogue expounds), [Dale Carnegie](/notes/dale-carnegie) (the text cites Carnegie praising Adler, and frames recognition-seeking against Carnegie-style influence), [Stephen Covey](/notes/stephen-covey) (the book notes that much of *7 Habits* "closely resembles Adler's ideas"), [Plato](/notes/plato) and [Socrates](/notes/socrates) (Koga casts the book as a Plato-for-Adler dialogue, and invokes the Socratic paradox that "no one desires evil").
+
+**Concepts:** [Inferiority and Superiority](/notes/inferiority-and-superiority) (recast as a stimulant to growth, not a disease), [Reward and Punishment](/notes/reward-and-punishment) (Adler's critique of praise/punishment pedagogy, glossed as "righteous in the dark"), [Civic Virtue](/notes/civic-virtue) (the "feeling of contribution" without visible recognition — "putting away your shopping cart"), [Religious Internalization](/notes/religious-internalization) (the loss of "God is watching" as a self-discipline criterion), [Parenting](/notes/parenting) (separation of tasks, horizontal vs. vertical relationships with children), [Identity Formation](/notes/identity-formation), [Happiness](/notes/happiness) (the closing thesis that "happiness is the feeling of contribution"), [Stoicism](/notes/stoicism) (the energeial "live here and now" stance overlaps with Stoic present-focus).
+
+**Books:**
+- [The 7 Habits of Highly Effective People](/books/the-7-habits-of-highly-effective-people) — the text explicitly names Covey's book as closely resembling Adler's ideas.
+- [Battle Hymn of The Tiger Mother](/books/battle-hymn-of-the-tiger-mother) — the Amy Chua frame of feeling simultaneously chosen and rejected maps onto the superiority/inferiority pairing (per the Key Takeaways note).
 - [The Righteous Mind](/books/the-righteous-mind) — adjacent moral-psychology concerns; overlapping interest in how virtue gets internalized.
 - [The Crucible of Doubt](/books/the-crucible-of-doubt) — same religious-internalization theme; "righteous in the dark" reads as a Givens-style frame.
 - [The Faith of a Scientist](/books/the-faith-of-a-scientist) — same intersection of psychology and religious framing.

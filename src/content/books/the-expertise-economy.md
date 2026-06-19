@@ -7,7 +7,7 @@ quake: false
 tags:
   - "people-over-politics"
   - "open-source-knowledge"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -27,7 +27,17 @@ key_takeaways_status: "written"
 <!-- interconnections -->
 - [The Death of Expertise](/books/the-death-of-expertise) — direct title-rhyme; both interrogate what expertise _is_ and who gets to claim it. Palmer/Blake answer "anyone who can demonstrate the skill"; Nichols worries about the erosion of earned authority.
 - [Working in Public](/books/working-in-public) — the [open-source-knowledge](/essays/open-source-knowledge) thread: expertise built and shared in the open, outside credentialing institutions.
-- [Alternative Education](/notes/alternative-education) — the book's case that formal schooling is a poor proxy for capability, and that learning happens everywhere, continuously.
+- [Alternative Education](/notes/alternative-education) — the book's case that formal schooling is a poor proxy for capability, and the "Harvard education OR Harvard degree" thought experiment that pedigree is a weak signal of capability.
+- [Education](/notes/education) — the broader argument that universities are subject-based not career-based, lose touch with graduates, and that high-stakes testing (SAT/ACT) tracks socioeconomic status rather than potential.
+- [Continuous Learning](/notes/continuous-learning) — the book's central organizing idea: learning built _into_ the work rather than episodic training, "something people love to do" rather than dread.
+- [Learning Agility](/notes/learning-agility) — framed as the durable survival skill (~65% of today's under-fives headed for jobs that don't yet exist; [Eric Hoffer](/notes/eric-hoffer): "learners inherit the earth").
+- [Skills Quotient](/notes/skills-quotient) — Palmer and Blake's proposed metric (skills you have ÷ skills you need × 100) for quantifying workforce capability and flagging flight risks.
+- [Quantifying Human Capital](/notes/quantifying-human-capital) / [People Capital](/notes/people-capital) — the operational thesis that people are the differentiator, not a commodity, and that capability should be measured rather than assumed.
+- [Remote Work](/notes/remote-work) — the autonomy argument ("if managers don't trust their employees to work remotely, why hire them at all?"); managers should focus on _what_ gets done, not _how_.
+- [Daniel Pink](/notes/daniel-pink) — cited for the autonomy-vs-independence distinction and the "deeply human need to direct our lives" as the engine of intrinsic motivation.
+- [Carol Dweck](/notes/carol-dweck) — cited for the growth-mindset "Not yet" framing of failure as a point on a learning curve.
+- [Peter Senge](/notes/peter-senge) — cited for "the only sustainable competitive advantage is the ability to learn faster than the competition."
+- [retraining](/notes/retraining) / [Upskilling](/notes/upskilling) — the workforce-transition stakes: few precedents exist for retraining people at this speed and scale.
 <!-- /interconnections -->
 
 ## Highlights

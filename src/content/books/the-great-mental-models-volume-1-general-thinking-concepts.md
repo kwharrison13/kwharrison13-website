@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "open-source-knowledge"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -31,12 +31,11 @@ A standalone observation worth flagging: "we embrace all truth, no matter the so
 ## Connections
 
 <!-- interconnections -->
-- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — direct progenitor. Parrish explicitly trying to organize what Munger argued for.
-- [The Death of Expertise](/books/the-death-of-expertise) — circle-of-competence overlap; spirit-of-humility thread.
-- [The Black Swan](/books/the-black-swan) — adjacent on the limits of forecasting and the brittleness of models under tail events.
-- [How To Read a Book](/books/how-to-read-a-book) — active reading is the discipline that builds the latticework.
-- [Discipline Is Destiny](/books/discipline-is-destiny) — Stoic / Epictetus on humility.
-- [Atomic Habits](/books/atomic-habits) — systems-thinking and feedback-loop overlap.
+**People:** [Charlie Munger](/notes/charlie-munger) — the latticework-of-mental-models thesis the whole book organizes. [Warren Buffett](/notes/warren-buffett) — invoked on sticking to your area of special competence and being reluctant to stray. [Nassim Taleb](/notes/nassim-taleb) — cited for fat tails, the naive use of probabilities, and the antifragile category. [Daniel Kahneman](/notes/daniel-kahneman) — the Linda problem / Fallacy of Conjunction behind Hanlon's Razor. [Richard Feynman](/notes/richard-feynman) — quoted on fragile rote knowledge vs. understanding. [Garrett Hardin](/notes/garrett-hardin) — "You can never merely do one thing," the First Law of Ecology behind second-order thinking. [John Muir](/notes/john-muir) — "When we try to pick out anything by itself, we find it hitched to everything else." [John Rawls](/notes/john-rawls) — the veil-of-ignorance thought experiment. [Jane Jacobs](/notes/jane-jacobs) — *Death and Life of Great American Cities* as the cautionary tale of faith in the model over the territory. [Charles Darwin](/notes/charles-darwin) — discipline of recording disconfirming evidence; "Ignorance more often begets confidence than knowledge."
+
+**Concepts:** [Map vs Territory](/notes/map-vs-territory) — the load-bearing distinction; models degrade unless updated against the territory. [Circle of Competence](/notes/circle-of-competence) — honest self-assessment, the Lifer vs. Stranger gap, and incentive distortions. [First Principles Thinking](/notes/first-principles-thinking) — reasoning from non-reducible elements via Socratic questioning and the Five Whys. [Inversion](/notes/inversion) — thinking backward, Bernays's "appeals of indirection," Lewin's force-field analysis. [Latticework of Mental Models](/notes/latticework-of-mental-models) — the multidisciplinary frame the book curricularizes. [Hanlon's Razor](/notes/hanlon-s-razor) — stupidity over malice; the Evil Genius / Devil Fallacy default. [Incentives](/notes/incentives) — how the problem of incentives skews reliance on another's circle of competence. [Spirit of Humility](/notes/spirit-of-humility) — the prerequisite for soliciting honest external feedback. [Self-Reflection](/notes/self-reflection) — journaling as the easiest, most private form of self-feedback. [Veil of Ignorance](/notes/veil-of-ignorance) — Rawls's device cited as a worked thought experiment. [SALY Principle](/notes/saly-principle) — "how the world is, is how it always was"; trend is not destiny.
+
+**Books:** [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — direct progenitor; Parrish organizing what Munger argued for. [The Black Swan](/books/the-black-swan) — the brittleness of models under tail events and naive risk measurement, cited directly. [The Death of Expertise](/books/the-death-of-expertise) — circle-of-competence overlap; spirit-of-humility thread. [How To Read a Book](/books/how-to-read-a-book) — active reading as the discipline that builds the latticework. [Discipline Is Destiny](/books/discipline-is-destiny) — Stoic humility. [Atomic Habits](/books/atomic-habits) — systems-thinking and feedback-loop overlap.
 <!-- /interconnections -->
 
 ## Highlights

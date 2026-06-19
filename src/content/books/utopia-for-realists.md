@@ -8,7 +8,7 @@ tags:
   - "city-building"
   - "people-over-politics"
   - "historical-futurism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -28,6 +28,7 @@ The second thread is about the primacy of ideas. Three of the four notes cluster
 - [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism) — both indict a financial sector that extracts more than it creates; Bregman's "60 cents destroyed per dollar a bank earns" is the same value-destruction thesis at a different altitude.
 - [Talent](/books/talent) — inverse framing: Bregman laments the best minds going into banking and ad-click optimization, while Cowen & Gross are about identifying and routing talent; read together they bracket the talent-allocation question.
 - [The New Urban Crisis](/books/the-new-urban-crisis) — Florida arrives at the same fix from the urban-policy side: a guaranteed minimum income via a negative income tax as the most direct, least bureaucratic way to combat poverty ("poverty is the absence of money").
+- [Climate Change](/notes/climate-change) — Bregman names it among "the greatest challenges of our time" that the best minds should double down on instead of optimizing ad clicks; the talent-misallocation argument runs straight into the case for redirecting talent toward climate.
 <!-- /interconnections -->
 
 ## Highlights

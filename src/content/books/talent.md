@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "company-building"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -25,9 +25,30 @@ Cowen and Gross's talent-evaluation book read as practical guidance with cross-r
 ## Connections
 
 <!-- interconnections -->
+**People:**
+- [Tyler Cowen](/notes/tyler-cowen) — co-author; uses Emergent Ventures as a live talent-search laboratory and contributes many of the book's signature interview questions.
+- [Daniel Gross](/notes/daniel-gross) — co-author; runs the Pioneer tournaments and supplies the "rate of improvement over absolute ability" lens.
+- [John Hammond](/notes/john-hammond) — held up as the archetypal scout, whose record shows top talent is rarely spotted by the establishment first.
+- [Peter Thiel](/notes/peter-thiel) — cited for moral-judgment talent assessment and the René Girard mimetic-desire framework behind his founder reads.
+- [Sam Altman](/notes/sam-altman) — quoted on founder idiosyncrasies, fast email response as a signal, and detectable improvement across meetings.
+- [Marc Andreessen](/notes/marc-andreessen) — argues drive, curiosity, and ethics outrank raw intelligence in a hire.
+- [Patrick Collison](/notes/patrick-collison) — exemplar of cross-disciplinary curiosity and source of the three reference-check questions framed to Reid Hoffman.
+- [Reid Hoffman](/notes/reid-hoffman) — interlocutor in the 2019 public interview that surfaced the Collison reference questions.
+- [Robin Hanson](/notes/robin-hanson) — coined the stamina-over-grit observation about successful people's energy.
+- [Ezra Klein](/notes/ezra-klein) — used as a case of a blogger who understood evolving hierarchies and climbed toward Vox and the NYT.
+- [John Collison](/notes/john-collison) — among the acknowledged contributors to the book.
+- [Ben Horowitz](/notes/ben-horowitz) / [Ben Casnocha](/notes/ben-casnocha) — acknowledged contributors to the talent-evaluation discussion.
+
+**Concepts:**
+- [Talent Vortex](/notes/talent-vortex) — environments that cluster and mobilize talent (Athens, Silicon Valley, the PayPal milieu).
+- [Triangulation](/notes/triangulation) — the "in which areas might this work / not work / when" cross-sectional-variation discipline.
+- [The Trough of Feedback](/essays/the-trough-of-feedback) — tagged inline against the Groucho Marx / restless job-hopper warning.
+- [Y Combinator](/notes/y-combinator) — Jessica Livingston's gut for talent and YC's requirement of a woman on every interview panel.
+
+**Books:**
 - [The Founders](/books/the-founders) — talent-vortex parallel; PayPal Mafia as Cowen-Gross case study.
 - [The Idea Factory](/books/the-idea-factory) — Bell Labs talent-identification thread.
-- [Working in Public](/books/working-in-public) — talent + maintenance overlap.
+- [Working in Public](/books/working-in-public) — talent + maintenance ("everyone wants to build, no one wants to maintain") overlap.
 - [How To Read a Book](/books/how-to-read-a-book) — triangulation discipline.
 <!-- /interconnections -->
 

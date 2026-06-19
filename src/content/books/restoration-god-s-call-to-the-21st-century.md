@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -19,8 +19,11 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [The Crucible of Doubt](/books/the-crucible-of-doubt), [Stretching The Heavens](/books/stretching-the-heavens) — religious-engagement cluster.
-- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — institutional history.
+**People:** [Joseph Smith](/notes/joseph-smith) — Mason argues Smith never spoke of a "restored church," reframing the Restoration as forward-looking rather than primitivist. [Brigham Young](/notes/brigham-young) — quoted urging Saints to "gather up every item of truth" regardless of source. [Spencer W. Kimball](/notes/spencer-w-kimball) — his 1978 First Presidency statement on "God's love for all mankind" anchors the book's particularism. [Russell M. Nelson](/notes/russell-m-nelson) — temple-building expansion cited as evidence of an ongoing, accelerating Restoration. [Jeffrey R. Holland](/notes/jeffrey-r-holland) — quoted that ending hunger, poverty, and injustice is "the work of the Restoration." [C.S. Lewis](/notes/c-s-lewis) — quoted that "next to the Blessed Sacrament itself, your neighbor is the holiest object presented to your senses." [Max Weber](/notes/max-weber) — his concept of "disenchantment" frames the church's comfort with modern bureaucratic and rational forms.
+
+**Concepts:** [Zion](/notes/zion) — recast as "for the world," not tribal Saints-only community. [Primitivism](/notes/primitivism) — the "Restoration-as-reprise" instinct Mason critiques in favor of an ongoing, forward Restoration. [Religious Freedom](/notes/religious-freedom) — the eleventh Article of Faith's reciprocal "claim" and "allowance" as a model for engaging pluralism. [Capitalism](/notes/capitalism) — the 1875 First Presidency denunciation of wealth concentration and the church's later "allergy to talking about inequality." [Temple](/notes/temple) — ordinances of the new and everlasting covenant where "national identities dissolve in the kingdom of God."
+
+**Books:** [Book of Mormon](/notes/book-of-mormon) — its mandates on the poor and "no rich and poor" community Mason says got "bottled up." [The Crucible of Doubt](/books/the-crucible-of-doubt), [Stretching The Heavens](/books/stretching-the-heavens) — religious-engagement cluster. [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — institutional history of the Restoration's first century.
 <!-- /interconnections -->
 
 ## Highlights

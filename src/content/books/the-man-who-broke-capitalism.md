@@ -8,7 +8,7 @@ quake: true
 tags:
   - "company-building"
   - "historical-futurism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -30,6 +30,10 @@ The quake flag despite the sparse in-text response is notable: the book mattered
 - [Catastrophic Care](/books/catastrophic-care) — same financial-logic-replacing-operational-logic dynamic, applied to healthcare.
 - [Skunk Works](/books/skunk-works) — operational excellence as alternative to financial engineering; engineering culture under siege.
 - [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC as another sector where financial logic has reshaped operating businesses.
+
+**People:** [David Gelles](/notes/david-gelles) (author) · [Jack Welch](/notes/jack-welch) (the book's central antagonist; "Welchism" of downsizing, dealmaking, and financialization) · [Milton Friedman](/notes/milton-friedman) (the 1970 "social responsibility of business is to increase its profits" essay Gelles casts as Welchism's intellectual charter) · [Warren Buffett](/notes/warren-buffett) (the counter-archetype of long-term operational ownership; Gelles also notes [Berkshire Hathaway](/notes/berkshire-hathaway) laid off 13,000 workers in 2020, complicating the contrast) · [Donald Trump](/notes/donald-trump) (his campaign framed by Gelles as a rebuttal of Welchism, even as he and Welch bonded over social-media falsehoods) · [Jeff Bezos](/notes/jeff-bezos) (cast as "the Jack Welch of his day" — Amazon's high-churn, labor-as-cost warehouse model) · [Bill Gates](/notes/bill-gates) and [Mark Zuckerberg](/notes/mark-zuckerberg) (named alongside Bezos as the concentrated-wealth 0.00001% and as failed CEO-education reformers) · [Adam Neumann](/notes/adam-neumann) (WeWork founder cited among wealthy would-be education reformers) · [Angus Deaton](/notes/angus-deaton) ("deaths of despair" framing of the human cost).
+
+**Concepts:** [Financialization](/notes/financialization) (Welch's third "dark art" — GE Capital reaching 40% of revenue, 60% of profit) · [Capital Allocation](/notes/capital-allocation) (profits redirected to investors rather than R&D, wages, or reinvestment) · [Operational Discipline](/notes/operational-discipline) (the engineering-over-finance ethos Welchism displaced) · [Share Buybacks](/notes/share-buybacks) (Welch's record $10B repurchase program and the buyback boom Gelles indicts via Lazonick's data).
 <!-- /interconnections -->
 
 ## Highlights

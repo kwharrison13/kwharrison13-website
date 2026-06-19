@@ -8,7 +8,7 @@ tags:
   - "capital-allocation"
   - "technological-innovation"
   - "company-building"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -39,6 +39,8 @@ The book is a useful field guide to the PLG vocabulary — PQLs, viral coefficie
 <!-- interconnections -->
 - [The Lean Startup](/books/the-lean-startup) — the [minimum viable product](/notes/minimum-viable-product) / [Experimentation](/notes/experimentation) spine of PLG: "release an MVP and then focus on evolving it," test the *negative* hypothesis, and treat data and an experimentation-driven mindset as core ingredients.
 - [Zero To One](/books/zero-to-one) — the counterpoint on [Distribution](/notes/distribution): PLG bets the product is its own distribution channel ("de-labor the distribution engine"), where Thiel argues distribution is a deliberate, under-respected discipline in its own right.
+- [Flywheel](/notes/flywheel) — the most mature PLG companies "have built a flywheel where their product is acting as the primary driver of acquisition, retention and expansion."
+- [Network Effects](/notes/network-effects) — viral, network-effect products like [Calendly](/notes/calendly) are "really just targeting consumers inside an enterprise," using consumer-style growth tactics (invitations → conversion → viral coefficient) inside the org.
 <!-- /interconnections -->
 
 ## Highlights

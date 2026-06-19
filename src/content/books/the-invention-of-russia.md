@@ -7,7 +7,7 @@ quake: false
 tags:
   - "historical-futurism"
   - "language-of-discourse"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -37,6 +37,12 @@ Several threads recur:
 - [Brave New World Revisited](/books/brave-new-world-revisited) — propaganda and engineered distraction as instruments of control, the soft-power complement to Orwell's hard boot.
 - [The Assault on Reason](/books/the-assault-on-reason) — television's displacement of reasoned argument by emotional spectacle in a democracy.
 - [The Death of Expertise](/books/the-death-of-expertise) — the erosion of a shared factual baseline and a well-informed public that democracy depends on.
+- [Democracy](/notes/democracy) — the book's load-bearing claim that an informed public is the wall holding democracy up; rebuffing disinformation depends on "the health and vigor of our own society," not military power.
+- [Free Speech](/notes/free-speech) — the NTV takeover reframed: free speech guarantees the right to say something different, not objectivity; what NTV provided was pluralism, and the state was "disposing of competition."
+- [Foreign Policy](/notes/foreign-policy) — the Kennan passage on rebuffing Moscow through internal societal health; Russian television "does not cover wars to reflect on foreign policy" but to "stoke domestic passions."
+- [Soft Power](/notes/soft-power) — propaganda and engineered distraction as television's psychoactive, "soft" instrument of control, distinct from the state's hard boot.
+- [Capitalism](/notes/capitalism) — Chubais's "bandit Communism vs. bandit Capitalism" privatization and the media magnates who "behaved like caricatures of capitalists in old Soviet journals."
+- [Storytelling](/notes/storytelling-as-leadership) — Ostrovsky's protagonists are "those who generated the 'meaning' of the country, who composed the storyline"; in Crimea "the image came first, the reality followed."
 <!-- /interconnections -->
 
 ## Highlights

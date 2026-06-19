@@ -8,7 +8,7 @@ tags:
   - "technological-innovation"
   - "company-building"
   - "historical-futurism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -39,12 +39,35 @@ Tactical observations also flagged: team size (Skunk Works ran with ~150 people)
 ## Connections
 
 <!-- interconnections -->
+**Books:**
+
 - [The Kill Chain](/books/the-kill-chain) — parallel thesis on military innovation collapse. The two books read as a single argument: Skunk Works tells the historical version, Kill Chain tells the present-tense version.
 - [Chip War](/books/chip-war) — the semiconductor side of the same story. Together with Kill Chain and Skunk Works, the three read as a defense-tech trilogy.
 - [The Idea Factory](/books/the-idea-factory) — Bell Labs analog. Same "what does great industrial R&D look like" question, different era.
-- [Flying Blind](/books/flying-blind) — the Boeing decline arc in detail; complements the "engineering org → bottom-line business" theme.
+- [Flying Blind](/books/flying-blind) — the Boeing decline arc in detail; complements the "engineering org → bottom-line business" theme that Rich traces through Lockheed.
 - [The Founders](/books/the-founders) — talent-vortex parallel. Skunk Works was a talent vortex inside Lockheed.
 - [Boom — Bubbles & The End of Stagnation](/books/boom-bubbles-and-the-end-of-stagnation) — same "where did the speed go?" question, broader framing.
+
+**People:**
+
+- [Kelly Johnson](/notes/kelly-johnson) — Skunk Works founder; the founder-led, "engineer within a stone's throw of the airplane," only-build-what-you-believe-in archetype Rich succeeded and venerates throughout.
+- [Robert McNamara](/notes/robert-mcnamara) — the cost-cutting "Mac the Knife" inflection point; Rich frames him as the figure who gutted founder-led innovation, and notes his cost-control philosophy traces back to his time at Ford.
+- [Bill Perry](/notes/bill-perry) — Pentagon R&E chief who backed stealth (Have Blue, the stealth bomber, and the Sea Shadow stealth-ship program) and stood up counter-stealth research.
+- [Bernard Schriever](/notes/bernard-schriever) — referenced in the era of Air Force systems-command leadership that shaped the procurement environment around the Skunk Works.
+
+**Concepts:**
+
+- [Founders Mentality](/notes/founders-mentality) — founder-led/missionary innovation vs. the "build for the buck rather than the mission" drift; Kelly Johnson as exemplar.
+- [Evolution of Warfare](/notes/evolution-of-warfare) — the soldiers → planes/tanks → radar/missiles → stealth → drones arms-race framework Rich's notes return to repeatedly.
+- [Speed of Delivery](/notes/speed-of-delivery) — 6 months → 3 months → 5 weeks at peak; Rich flags 1977 as the last great speed-of-delivery feat.
+- [Built to Mission vs Spec](/notes/built-to-mission-vs-spec) — "trust the customer to know the problem but not the solution"; built-to-spec produces exquisite single-point-of-failure platforms.
+- [Managed Monopoly](/notes/managed-monopoly) — anti-Darwinian competitive behavior; the B-2 award "on technical merit" and the GE-inspector vs. warranty contrast as illustrations.
+- [Innovator's Dilemma](/notes/innovator-s-dilemma) — defense primes structurally can't run a low-cost, high-volume skunk works anymore; the opening exists for an outsider.
+- [Power Law](/notes/power-law) — the 90% radar-cross-section drop from a single chine; small shape changes producing order-of-magnitude effects.
+- [Decentralization](/notes/decentralization) — stealth and attritable assets as anti-platform, decentralized alternatives to "hulking" carriers and exquisite bombers.
+- [Autonomy](/notes/autonomy) — the automated takeoff-to-attack mission program and Rich's forecast of pilotless drone combat aircraft.
+- [Open Source](/notes/open-source) — the stealth breakthrough came from Ufimtsev's openly published Soviet diffraction paper, translated by the Air Force.
+- [Bell Labs](/notes/bell-labs) — analog institution for the "what great industrial R&D looks like" question.
 <!-- /interconnections -->
 
 ## Highlights

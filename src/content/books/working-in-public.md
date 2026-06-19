@@ -8,7 +8,7 @@ tags:
   - "technological-innovation"
   - "republic-of-letters"
   - "open-source-knowledge"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -33,11 +33,39 @@ The book functions as the conceptual underpinning for the recurring [Open Source
 ## Connections
 
 <!-- interconnections -->
+**Books:**
 - [The Death of Expertise](/books/the-death-of-expertise) — open-source-knowledge thread; both treat democratized expertise as the structural question.
-- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institution-building parallel; Republic of Letters 2.0 as the modern version.
-- [How To Read a Book](/books/how-to-read-a-book) — active-knowledge frame.
-- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC structure and what does/doesn't get funded; adjacent on the maintenance-vs-creation incentive problem.
-- [Atomic Habits](/books/atomic-habits) — maintenance as habit-design problem.
+- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institution-building parallel; Eghbal opens with Tim Berners-Lee's "Library of Alexandria bigger than we could have ever conceived," framing a Republic of Letters 2.0.
+- [How To Read a Book](/books/how-to-read-a-book) — the active-knowledge frame ("It is not enough to know, we must do"); ideas, like software, only have value once put into production.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC structure and what does/doesn't get funded; adjacent on the maintenance-vs-creation incentive problem and how open-source developers "failed to capture the economic value they created."
+- [Atomic Habits](/books/atomic-habits) — maintenance as a habit-design problem (creation is intrinsically motivated, maintenance requires extrinsic motivation).
+
+**People:**
+- [Nadia Eghbal](/notes/nadia-eghbal) — author; reframes open source from a collaboration problem into a curation-and-maintenance problem.
+- [Elinor Ostrom](/notes/elinor-ostrom) — her eight design principles for a well-managed commons (and her later "digital commons" work) anchor the book's economic frame.
+- [Yochai Benkler](/notes/yochai-benkler) — commons-based peer production; intrinsic motivation, modular/granular tasks, and low coordination costs.
+- [Ben Thompson](/notes/ben-thompson) — Stratechery's platforms-vs-aggregators distinction and the "faceless publisher" model used throughout the platform analysis.
+- [Jane Jacobs](/notes/jane-jacobs) — _The Death and Life of Great American Cities_; cities (like code) fail when treated as static objects rather than continuously revised by use.
+- [Bill Gates](/notes/bill-gates) — the 1976 "Open Letter to Hobbyists"; once unbundled from the Altair, BASIC "wasn't worth very much at all."
+- [Tiago Forte](/notes/tiago-forte) — moving from public to paywalled content trades reach for reader quality; "people are paying for the perspective the writer brings."
+- [Eugene Wei](/notes/eugene-wei) — the News Feed as the great "social capital boom" and "status as a service" framing of social platforms.
+- [Tim Berners-Lee](/notes/tim-berners-lee) — the WWW proposal envisioning "a pool of information . . . which could grow and evolve."
+- [David Heinemeier Hansson](/notes/david-heinemeier-hansson) — Ruby on Rails creator; argues external rewards diminish the intrinsic motivation of commons contributors.
+- Kevin Systrom — "Social media is in a pre-Newtonian moment, where we all understand that it works, but not how it works."
+- [Spencer W. Kimball](/notes/spencer-w-kimball) — the "it is not enough to know, we must do" frame Kyle applies to ideas-as-software.
+- [Kurt Vonnegut](/notes/kurt-vonnegut) — the builders-vs-caretakers (creation-vs-maintenance) distinction Kyle repeatedly connects to.
+
+**Concepts:**
+- [Open Source](/notes/open-source) / [Open Source Knowledge](/notes/open-source-knowledge) — the central subject; what it takes to make knowledge open AND maintained.
+- [Maintenance](/notes/maintenance) — software is "never really finished"; maintenance is the unglamorous, extrinsically-motivated work that underweights itself.
+- [Entropy](/notes/entropy) — temporal maintenance costs as the inevitable decay of systems over time.
+- [Intrinsic Motivation](/notes/intrinsic-motivation) — "the currency of the commons"; members do the work because they want to.
+- [Creator Economy](/notes/creator-economy) — the shift from communities to individual creators as the epicenter of online social systems.
+- [Network Effects](/notes/network-effects) — the "cornucopia of the commons" where value increases as more people participate.
+- [Reputation](/notes/reputation) — a dynamic property that, like software, requires ongoing maintenance.
+- [Republic of Letters](/notes/republic-of-letters) — the modern, internet-scale version of an open knowledge institution.
+- [Stratechery](/notes/stratechery) — Ben Thompson's platforms/aggregators and subscription frames.
+- [Playbook](/notes/playbook) — Kyle's open question: what is the playbook for creating a commons-based project?
 <!-- /interconnections -->
 
 ## Highlights

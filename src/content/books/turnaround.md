@@ -7,7 +7,7 @@ quake: false
 tags:
   - "company-building"
   - "people-over-politics"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -20,8 +20,11 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [No Apology](/books/no-apology) _(stub)_, [Romney — A Reckoning](/books/romney-a-reckoning) — Romney corpus.
-- [Skunk Works](/books/skunk-works) — operational-discipline thread.
+**People:** [Mitt Romney](/notes/mitt-romney) — author; recounts his turnaround formula across business, the 2002 Olympics, and public service. [Henry Kissinger](/notes/henry-kissinger) — quoted on heroes who "become myths when they ennoble the lives... of all of us."
+
+**Concepts:** [Turnarounds](/notes/turnarounds) — the book's core framework: strategic audit, then build the team, then "focus, focus, focus." [Operational Skills](/notes/operational-skills) — emphasis on detail, strategic audit discipline, and "rounding the flat spots" by pairing complementary strengths. [Leadership](/notes/leadership) — "the two most critical jobs of leadership are building a good team and keeping the teammates highly motivated." [Sales](/notes/sales) — "good salesmanship isn't fast, glib talk" but research, matching benefits to needs, and in-person delivery.
+
+**Books:** [No Apology](/books/no-apology), [Romney — A Reckoning](/books/romney-a-reckoning) — Romney corpus. [Skunk Works](/books/skunk-works) — operational-discipline thread.
 <!-- /interconnections -->
 
 ## Highlights

@@ -6,7 +6,7 @@ rating: 4
 quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -19,8 +19,11 @@ One note: Joseph Smith's Relief Society purpose as "to save souls" (not just rel
 ## Connections
 
 <!-- interconnections -->
-- [Working Toward Zion](/books/working-toward-zion) — same welfare-and-purpose thread.
-- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — primary-source context.
+**Concepts:** [Priesthood](/notes/priesthood) — the book's central argument distinguishes God's total priesthood power from the delegated authority of ordained offices; [Temple](/notes/temple) — women receive priesthood power and authority through temple ordinances rather than ordination; [Covenant](/notes/covenant) — covenant-making starts every man toward becoming a patriarch and every woman a matriarch; [Revelation](/notes/revelation) — knowing the doctrine of priesthood comes "line upon line" by personal revelation; [Zion](/notes/zion) — Joseph Smith's dual project of structuring a Church and creating Zion via the patriarchal order; [Charity](/notes/charity) — the Relief Society's purpose "to save souls" as the end point of charity.
+
+**Books:** [Working Toward Zion](/books/working-toward-zion) — same welfare-and-purpose thread, charity as soteriological; [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — primary-source context for Joseph Smith's simultaneous revelation on hierarchical and patriarchal priesthood structures.
+
+**People:** [Russell M. Nelson](/notes/russell-m-nelson) — quoted on the paradigm shift toward family over Church and on stretching to receive revelation; [M. Russell Ballard](/notes/m-russell-ballard) — quoted that temple endowment gives men and women the same priesthood power, and on the Church as "scaffolding" for the eternal family; [Dallin H. Oaks](/notes/dallin-h-oaks) — quoted that set-apart women exercise priesthood authority in their callings; [Bruce R. McConkie](/notes/bruce-r-mcconkie) — quoted on the doctrine of the priesthood and the social need for an ecclesiastical structure; [Boyd K. Packer](/notes/boyd-k-packer) — recounts [David O. McKay](/notes/david-o-mckay) "finally beginning to understand" temple ordinances; [Dale G. Renlund](/notes/dale-g-renlund) — the "priesthood as earth/dirt" analogy and presiding in the home as equal partner; Julie B. Beck — distinguishes God's power from the keys and offices of the priesthood; [Ezra Taft Benson](/notes/ezra-taft-benson) — defines the patriarchal order as family government; [Gordon B. Hinckley](/notes/gordon-b-hinckley) — coequal marriage ("neither ahead nor behind") and the open "gamut of human endeavor" for women; [L. Tom Perry](/notes/l-tom-perry) — there is "not a president or vice president in a family"; [John A. Widtsoe](/notes/john-a-widtsoe) — Heavenly Mother possessing the attributes of Godhood; men have no greater claim than women on priesthood blessings; [Marion G. Romney](/notes/marion-g-romney) — four tests for whether a revelation is from God; [Joseph F. Smith](/notes/joseph-f-smith) — the home as a divine institution and women called to lead the world; [Hugh B. Brown](/notes/hugh-b-brown) — motherhood "akin to Godhood."
 <!-- /interconnections -->
 
 ## Highlights

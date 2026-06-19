@@ -7,7 +7,7 @@ quake: false
 tags:
   - "people-over-politics"
   - "language-of-discourse"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -24,10 +24,11 @@ Jonathan Haidt's moral-psychology book read with explicit cross-reference to the
 ## Connections
 
 <!-- interconnections -->
-- [Sapiens](/books/sapiens) _(stub)_ — directly cross-referenced.
-- [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious-cohesion thread.
-- [The Death of Expertise](/books/the-death-of-expertise) — moral-psychology adjacent.
-- [Homo Deus](/books/homo-deus) — civilizational-trajectory parallel.
+**People:** [Jonathan Haidt](/notes/jonathan-haidt), the author, develops Moral Foundations Theory and the social intuitionist (elephant-and-rider) model. [Michael Tomasello](/notes/michael-tomasello) supplies the shared-intentionality account of human ultrasociality ("two chimpanzees carrying a log") that Haidt builds on. [Robert F. Kennedy](/notes/robert-f-kennedy) is quoted in the closing ("ask why not?").
+
+**Concepts:** [Confirmation Bias](/notes/confirmation-bias) — Haidt frames reasoning as an "inner lawyer" that seeks justification not truth, asking "Can I believe it?" vs. "Must I believe it?". [Reputation](/notes/reputation) — Glaucon's wager that virtue is reputational, and the "sociometer" as an internal gauge of relational value. [Empathy](/notes/empathy) is named "an antidote to righteousness," the main lever for changing minds across a moral divide.
+
+**Books:** [Sapiens](/books/sapiens) — directly cross-referenced; Tomasello's ultrasociality argument tracks Sapiens's narrative-as-glue thesis (the human mind as "a story processor"). [Homo Deus](/books/homo-deus) — civilizational-trajectory parallel on the post-religious turn. [The Crucible of Doubt](/books/the-crucible-of-doubt) — the religious-cohesion thread (religion as what people "achieve together what they cannot achieve on their own"). [The Death of Expertise](/books/the-death-of-expertise) — moral-psychology adjacent, on motivated reasoning and partisan refusal of evidence.
 <!-- /interconnections -->
 
 ## Highlights

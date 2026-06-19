@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -27,11 +27,11 @@ A standalone observation: "I was not born a slave! I cannot, will not be a slave
 ## Connections
 
 <!-- interconnections -->
-- [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — same era, same circle.
-- [Brigham Young — Pioneer Prophet](/books/brigham-young-pioneer-prophet) — direct contemporary.
-- [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — the historiographical context for evaluating books like this one.
-- [The Crucible of Doubt](/books/the-crucible-of-doubt) — apologetics-vs-truth question.
-- [Working Toward Zion](/books/working-toward-zion) — same theological-economic tradition.
+**People:** [Joseph Smith](/notes/joseph-smith) — the Prophet Taylor defended and was wounded beside at Carthage; [Hyrum Smith](/notes/hyrum-smith) — martyred alongside Joseph; [Brigham Young](/notes/brigham-young) — predecessor in the presidency whose counsel (grain storage, gathering) Taylor carried forward; [Parley P. Pratt](/notes/parley-p-pratt) — the missionary who converted Taylor in Canada and whom Taylor later steadied in his doubts; [Martin Luther](/notes/martin-luther), [John Calvin](/notes/john-calvin) — named among the reformers who "tried to bring about the ancient order of things" but, per Taylor's sermon, failed; [Charles Darwin](/notes/charles-darwin) — Taylor's "Government of God" engages Darwinian evolution as a threat to the Atonement.
+
+**Concepts:** [Conversion](/notes/conversion) — Taylor's Methodist-preacher path into Mormonism, the "seeker" arc; [Seeking](/notes/seeking) / [Apologetics](/notes/apologetics) — the truth-seeking-vs-defensiveness tension framing the read ("Bring all the truth you have and let us see if we can add to it"); [Revelation](/notes/revelation) — the running debate over whether the canon was closed; [Restoration](/notes/restoration) / [Book of Mormon](/notes/book-of-mormon) — the doctrinal core of Taylor's preaching; [Religious Freedom](/notes/religious-freedom) — Taylor's Constitution/Declaration-grounded defense against the Colfax exchange and the Utah army; [Agency](/notes/agency) — the freedom-instinct ("I was not born a slave!") that made him receptive to Mormonism's agency claims; [Polygamy](/notes/polygamy) — the plural-marriage practice Taylor lived and defended; [Zion](/notes/zion) — the gathering and kingdom-building project; [Spirit of Humility](/notes/spirit-of-humility) / [Religious Internalization](/notes/religious-internalization) — Taylor's reverence-over-self disposition.
+
+**Books:** [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — same era, same circle; [Brigham Young — Pioneer Prophet](/books/brigham-young-pioneer-prophet) — direct contemporary; [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — the historiographical context for evaluating apologetic biographies like this one; [The Crucible of Doubt](/books/the-crucible-of-doubt) — the apologetics-vs-truth question; [Working Toward Zion](/books/working-toward-zion) — the same theological-economic tradition.
 <!-- /interconnections -->
 
 ## Highlights

@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "capital-allocation"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -19,8 +19,11 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future), [VC](/books/vc) — investment-structure parallel.
-- [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — adjacent on private-business acquisition.
+**People:** [Charlie Munger](/notes/charlie-munger) — quoted on deserving a good buyer/spouse; [Warren Buffett](/notes/warren-buffett) — Munger's long-time partner, invoked on the buyer relationship; [Mark Twain](/notes/mark-twain) — "carries a cat by the tail" caution on transaction inexperience.
+
+**Concepts:** [Private Equity](/notes/private-equity) — the firm's fiduciary duty to maximize short-term return drives executive changes, cost cuts, and product expansion; [EBITDA](/notes/ebitda) — flagged as an imperfect proxy that never equals owner cash flow; [Owner Earnings](/notes/owner-earnings) — adventur.es's preferred valuation base (pre-tax profit less capex, operating interest, normalized owner comp); [Valuation](/notes/valuation) — "every value and formula is negotiable," market readings beat purchased professional valuations; [Due Diligence](/notes/due-diligence) — a grueling, intentional verification process before a multi-million-dollar purchase; [Debt](/notes/debt) — described as an amplifier that magnifies outcomes without changing the odds; [Capital Allocation](/notes/capital-allocation) — return expectations of 20–35% for smaller PE, search funds, and individuals; [Permanent Capital](/notes/permanent-capital) — contrasted with fixed-life fund schedules forcing short-term decisions; [Holding Company](/notes/holding-company) — the buy-and-hold model for private operating businesses; [Small Business](/notes/small-business) — the smaller traditional firms selling at 4–5X EBITDA.
+
+**Books:** [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future), [VC](/books/vc) — investment-structure parallel; [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — adjacent on private-business acquisition; [Berkshire Hathaway](/notes/berkshire-hathaway) — the buy-and-hold acquirer archetype behind the Munger/Buffett framing.
 <!-- /interconnections -->
 
 ## Highlights

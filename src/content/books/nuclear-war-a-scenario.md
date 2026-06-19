@@ -8,7 +8,7 @@ tags:
   - "technological-innovation"
   - "people-over-politics"
   - "historical-futurism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -27,9 +27,11 @@ The book is being read as raw material, not as a thinking-vehicle. Synthesis liv
 ## Connections
 
 <!-- interconnections -->
-- [The Kill Chain](/books/the-kill-chain) — direct sibling on present-tense defense risk.
-- [Skunk Works](/books/skunk-works), [Chip War](/books/chip-war) — defense-tech trilogy.
-- [Flying Blind](/books/flying-blind) — adjacent on US industrial-base capacity to respond.
+**People:** [Annie Jacobsen](/notes/annie-jacobsen) — author, reporting the nuclear-war scenario as investigative narrative. [Thomas Schelling](/notes/thomas-schelling) — quoted from _Arms and Influence_: "the power to hurt is bargaining power," the founding logic of deterrence the book interrogates. [Albert Einstein](/notes/albert-einstein) — his "World War IV will be fought with sticks and stones" line closes the book's civilization-reset arc.
+
+**Concepts:** [Game Theory](/notes/game-theory) — deterrence, "use them or lose them," and Schelling's bargaining-as-diplomacy are the strategic-interaction frame underpinning the whole scenario. [Systems Thinking](/notes/systems-thinking) — Jay Forrester's framing of nuclear command-and-control as a "system of systems" that, like all machines, eventually breaks. [Risk Management](/notes/risk-management) — FEMA's "low-probability, high-consequence" framing and the failed-deterrence tail risk the book dramatizes.
+
+**Books:** [The Kill Chain](/books/the-kill-chain) — direct sibling on present-tense defense risk. [Skunk Works](/books/skunk-works), [Chip War](/books/chip-war) — defense-tech trilogy on the US technological-industrial base. [Flying Blind](/books/flying-blind) — adjacent on US industrial-base capacity to respond.
 <!-- /interconnections -->
 
 ## Highlights

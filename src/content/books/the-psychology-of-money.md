@@ -6,7 +6,7 @@ rating: 5
 quake: false
 tags:
   - "capital-allocation"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -19,14 +19,46 @@ _Highlights captured below. Synthesis pending — write takeaways from the Highl
 ## Connections
 
 <!-- interconnections -->
-Books referenced in the highlights:
+**Books:**
 
 - [The Intelligent Investor](/notes/the-intelligent-investor) — Housel praises it as full of wisdom but questionable as a how-to guide; source of Graham's [Margin of Safety](/notes/margin-of-safety) concept.
 - [Thinking, Fast and Slow](/notes/thinking-fast-and-slow) — Kahneman's book; Housel relays Zweig's "I have no sunk costs" anecdote from their work together.
 - [Fooled by Randomness](/notes/fooled-by-randomness) — Taleb on the high-water-mark fallacy (the Nile, Fukushima).
-- [The Rational Optimist](/notes/the-rational-optimist) — Matt Ridley on the constant drumbeat of pessimism.
+- [The Rational Optimist](/notes/the-rational-optimist) — Matt Ridley on the constant drumbeat of pessimism that drowns out any triumphalist song.
 - [Factfulness](/notes/factfulness) — Hans Rosling on people overestimating how frightening the world is.
 - [Sapiens](/books/sapiens) — connects to Housel's argument that shared narratives are the most powerful force in the economy.
+- [The Righteous Mind](/books/the-righteous-mind) — Kyle's note links Housel's point about becoming financially and mentally invested in a "tribe" once you pick a side.
+
+**Concepts:**
+
+- [Margin of Safety](/notes/margin-of-safety) — "room for error" renders the forecast unnecessary; one of finance's most underappreciated forces.
+- [Compounding](/notes/compounding) — time is Buffett's real secret; linear vs. exponential thinking.
+- [Tail Events](/notes/tail-events) — a small number of events account for the majority of outcomes (VC returns, the index, tail careers).
+- [Enough](/notes/enough) — the Bogle/Heller/Vonnegut story; getting the goalpost to stop moving is the hardest financial skill.
+- [Post-Mortems](/notes/post-mortems) — we see finished products, not the losses behind tail successes.
+- [Forecasting](/notes/forecasting) — the "historians as prophets" fallacy; market forecasts as a whole are neither accurate nor useful.
+- [Storytelling](/notes/storytelling-as-leadership) — stories are the most powerful force in the economy; 2009 was "narrative damage" we inflicted on ourselves.
+- [Confirmation Bias](/notes/confirmation-bias) — the more you want something to be true, the more likely you are to believe a story that overestimates its odds (per Kyle's note).
+- [Frugality](/notes/frugality) — staying wealthy requires frugality and paranoia; savings is the gap between ego and income.
+- [Financial Independence](/notes/financial-independence) — independence as Housel's top goal; cash is "the oxygen of independence."
+- [Personal Finance](/notes/personal-finance) — building wealth depends on savings rate far more than income or investment returns.
+- [Investment Returns](/notes/investment-returns) — little correlation between investment effort and results; survival and longevity drive the biggest returns.
+
+**People:**
+
+- [Morgan Housel](/notes/morgan-housel) — author.
+- [Warren Buffett](/notes/warren-buffett) — survival + longevity as the engine of compounding; "ample cash" pledge to [Berkshire Hathaway](/notes/berkshire-hathaway) shareholders.
+- [Charlie Munger](/notes/charlie-munger) — "I did not intend to get rich. I just wanted to get independent."
+- [Bill Gates](/notes/bill-gates) — luck of attending a high school with a computer; Microsoft's conservative year-of-payroll cash buffer.
+- [Nassim Taleb](/notes/nassim-taleb) — "avoid ruin at all costs"; risk-loving yet ruin-averse.
+- [Daniel Kahneman](/notes/daniel-kahneman) — hindsight illusion; "no sunk costs"; overconfidence of founders.
+- [Jason Zweig](/notes/jason-zweig) — annotated Graham; chronicled Kahneman's self-revision habit.
+- [John Bogle](/notes/john-bogle) — Vanguard founder; the "enough" story about Heller and Vonnegut.
+- [Paul Graham](/notes/paul-graham) — 2016 note on three TV stations equalizing culture.
+- [George Soros](/notes/george-soros) — "It's not whether you're right or wrong... but how much you make/lose."
+- [Mark Zuckerberg](/notes/mark-zuckerberg) — turning down Yahoo's 2006 $1B offer, cited as a case where luck and skill are hard to separate.
+- [Richard Feynman](/notes/richard-feynman) — "Imagine how much harder physics would be if electrons had feelings."
+- [Packy McCormick](/notes/packy-mccormick) — Kyle's note connecting Housel's narrative argument to "people want to be part of a story."
 <!-- /interconnections -->
 
 ## Highlights

@@ -8,7 +8,7 @@ tags:
   - "company-building"
   - "people-over-politics"
   - "ideological-family-tree"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -39,15 +39,21 @@ The throughline: parenting is less about producing outcomes and more about build
 ## Connections
 
 <!-- interconnections -->
-- [Battle Hymn of the Tiger Mother](/books/battle-hymn-of-the-tiger-mother) — explicit anti-thesis. The Tiger Mother approach removes autonomy; this book argues autonomy IS the developmental mechanism.
-- [How Will You Measure Your Life_](/books/how-will-you-measure-your-life) — Christensen's "how will you measure your life" frame is invoked directly in the notes.
+- [Battle Hymn of The Tiger Mother](/books/battle-hymn-of-the-tiger-mother) — explicit anti-thesis. The Tiger Mother approach removes autonomy; this book argues autonomy IS the developmental mechanism. Cited directly in the self-determination-theory notes as the no-autonomy counterexample.
+- [How Will You Measure Your Life](/books/how-will-you-measure-your-life) — Christensen's "how will you measure your life" frame is invoked directly in the notes.
 - [Discipline Is Destiny](/books/discipline-is-destiny) — overlapping interest in self-talk, agency, daily structure. Reads as the adult-self version of what this book argues for kids.
-- [How to Take Smart Notes](/books/how-to-take-smart-notes) — explicit chapter cross-reference; the "knowledge work practice" thread.
-- [Atomic Habits](/books/atomic-habits) — identity-formation overlap.
-- [Homo Deus](/books/homo-deus) — Harari on self-will referenced directly.
+- [How To Take Smart Notes](/books/how-to-take-smart-notes) — explicit chapter cross-reference; the "knowledge work practice" thread, tied to tracking flow time.
+- [Atomic Habits](/books/atomic-habits) — identity-formation overlap; the "I am capable of doing this → I love this" identity progression.
+- [Homo Deus](/books/homo-deus) — Harari on self-will referenced directly in the "behavior is chemical, not character" notes.
 - [Sapiens](/books/sapiens) — same Harari context.
 - [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious-internalization overlap.
 - [Way to Be](/books/way-to-be) — Hinckley's framing on internalized standards.
+- [Growth Mindset](/notes/growth-mindset) — Carol Dweck's fixed-vs-growth distinction is a load-bearing chapter; praising effort and strategy over innate ability is "the MVP of the self-motivated child."
+- [Carol Dweck](/notes/carol-dweck) — the psychologist whose motivation/mindset research the book builds its competence argument on.
+- [Intrinsic Motivation](/notes/intrinsic-motivation) — central thesis: intrinsic drive over extrinsic rewards, since rewards are "counterproductive to intrinsic motivation."
+- [Flow](/notes/flow) — frequent exposure to flow states sculpts a motivated, focused brain; the book frames flow as the goal of working hard at something you love.
+- [Agency](/notes/agency) — "agency takes practice"; the autonomy/self-determination thesis maps onto the LDS framing of agency.
+- [Autonomy](/notes/autonomy) — Deci and Ryan's self-determination theory (autonomy, competence, relatedness) is the book's organizing psychological model.
 <!-- /interconnections -->
 
 ## Highlights

@@ -7,7 +7,7 @@ quake: false
 tags:
   - "technological-innovation"
   - "historical-futurism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -34,6 +34,12 @@ The "literally and figuratively we are running out of room" frame from von Neuma
 ## Connections
 
 <!-- interconnections -->
+**People:** [John von Neumann](/notes/john-von-neumann) — the subject; the polymath who moved from pure math through physics, economics, and engineering. [Ananyo Bhattacharya](/notes/ananyo-bhattacharya) — author. [Albert Einstein](/notes/albert-einstein) — IAS colleague and quantum-foundations interlocutor ("spooky action at a distance"). [Richard Feynman](/notes/richard-feynman) — critic of the IAS model and source of the "Plenty of Room at the Bottom" talk that seeded nanotech. [Daniel Kahneman](/notes/daniel-kahneman) — called *Theory of Games* "the most important theory in the social sciences," then challenged its rationality assumption with prospect theory. [Thomas Schelling](/notes/thomas-schelling) — deterrence theorist whose "sixty years without nuclear weapons exploded in anger" closes the nuclear-strategy thread. [Benoît Mandelbrot](/notes/beno-t-mandelbrot) — source of the "extreme pressure" / interdisciplinary-genius observation. [Robert McNamara](/notes/robert-mcnamara) — pulled RAND's systems-analysis "Whizz Kids" into the Pentagon. [Ray Kurzweil](/notes/ray-kurzweil) — credited von Neumann with first bridging computer science and neuroscience. [Philip K. Dick](/notes/philip-k-dick) — "Autofac" dramatized von Neumann's self-replicating automata. [Henry Eyring](/notes/henry-eyring) — cited in a Kyle note on the discipline of thinking. [John Maynard Keynes](/notes/john-maynard-keynes) — dismissed by Morgenstern in the *Theory of Games* milieu.
+
+**Concepts:** [Game Theory](/notes/game-theory) — von Neumann's minimax theorem and *Theory of Games* as the load-bearing throughline. [Operations Research](/notes/operations-research) — the wartime data-driven method that fed RAND. [RAND](/notes/rand) — the defense think tank framed as proto-Anduril. [Civil-Military Fusion](/notes/civil-military-fusion) — scientists self-organizing around national-security problems ahead of the bureaucracy. [Open Source](/notes/open-source) — von Neumann's deliberate suppression of patent claims to keep computing "in the public domain." [Forgotten Ideas](/notes/forgotten-ideas) — self-replicating automata and the 1980 NASA SRS lunar-factory workshop as rigorous work dropped ahead of execution capability. [Human Nature](/notes/human-nature) — game theory's dim, Hobbesian read on human cooperation. [Polymath](/notes/polymath) — the cost and gift of being "the man every field calls on." [Quantum Computing](/notes/quantum-computing) — qubits and entanglement traced back to von Neumann's formalization of quantum mechanics. [Science Fiction](/notes/science-fiction) — Philip K. Dick's autofac stories as a cultural mirror of replicating machines. [Progress Studies](/notes/progress-studies) — the 1955 "Can We Survive Technology?" frame ("for progress there is no cure").
+
+**Books:**
+
 - [Skunk Works](/books/skunk-works) — same defense-tech innovation arc, slightly later era.
 - [The Kill Chain](/books/the-kill-chain) — present-tense companion. Von Neumann is the deep history; Kill Chain is the contemporary policy crisis.
 - [Chip War](/books/chip-war) — semiconductor side; both feed an Anduril thesis.

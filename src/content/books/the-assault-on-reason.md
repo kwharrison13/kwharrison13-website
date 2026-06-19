@@ -5,7 +5,7 @@ year_read: "pre-2016"
 rating: 0
 quake: false
 tags: []
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -24,9 +24,11 @@ Al Gore's book on the decline of public reason, read with active counter-argumen
 ## Connections
 
 <!-- interconnections -->
-- [The Death of Expertise](/books/the-death-of-expertise) — democratic-epistemology overlap.
-- [Amusing Ourselves To Death](/books/amusing-ourselves-to-death) — same media-ecology critique, sharper instrument.
-- [Brave New World Revisited](/books/brave-new-world-revisited) — propaganda/manipulation thread.
+**People:** [Al Gore](/notes/al-gore) — author; former vice president writing on the decline of public reason. [George Orwell](/notes/george-orwell) — the "impudently twisting the facts" quote on the discipline of admitting error. [Edward Bernays](/notes/edward-bernays) — public-relations engineering of "consent" and the manufacture of desire that Gore traces into modern propaganda. [John Stuart Mill](/notes/john-stuart-mill) — the "marketplace of ideas" framing of truth discovered through "the fullest and freest comparison of opposite opinions."
+
+**Concepts:** [Democracy](/notes/democracy) — participatory self-government depending on a "well-informed citizenry" and the rule of reason. [Propaganda](/notes/propaganda) — the fusion of psychologically driven PR and electronic broadcasting that displaced print reason. [Misinformation](/notes/misinformation) — the "determined disinterest in learning the truth" and counterfeit "consent of the governed." [Capitalism](/notes/capitalism) — Gore's contrast between democracy's premise of equality and capitalism's inevitable inequality. [Television](/notes/television) — the "cool" hypnotic medium whose quasi-hypnotic effect reshapes politics. [Free Speech](/notes/free-speech) — the public forum and gatekeeping when access is monetized.
+
+**Books:** [The Death of Expertise](/books/the-death-of-expertise) — democratic-epistemology overlap; the erosion of the informed citizenry. [Amusing Ourselves To Death](/books/amusing-ourselves-to-death) — same media-ecology critique of television displacing print discourse, sharper instrument. [Brave New World Revisited](/books/brave-new-world-revisited) — propaganda/manipulation and the engineering of desire. [Brave New World](/books/brave-new-world) — the manufactured-consumption dystopia behind "shift America from a needs to desires culture." [1984](/books/1984) — the Orwell source for the discipline of accepting being wrong.
 <!-- /interconnections -->
 
 ## Highlights

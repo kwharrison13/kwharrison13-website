@@ -9,7 +9,7 @@ tags:
   - "historical-futurism"
   - "republic-of-letters"
   - "open-source-knowledge"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -36,10 +36,15 @@ McNeely & Wolverton's institutional history reads as a present-day diagnostic. S
 <!-- interconnections -->
 - [The Death of Expertise](/books/the-death-of-expertise) — directly cross-referenced. The "I know nothing → I know a little → I know a lot about a little" formula is an attempt to fit Nichols's argument into the historical arc McNeely traces.
 - [Working in Public](/books/working-in-public) — open-source-knowledge tag overlap; both treat decentralized intellectual production as the modern Republic of Letters.
-- [How to Read a Book](/books/how-to-read-a-book) — the active-vs-passive-reading thread surfaces in both; Adler is implicitly the lens being applied to the institutional history.
+- [How To Read a Book](/books/how-to-read-a-book) — the active-vs-passive-reading thread surfaces in both; the Pietists' intensive reading vs. the Enlightenment's "extensive" skimming maps onto Adler's active-reading lens applied to institutional history.
 - [Sapiens](/books/sapiens) and [Homo Deus](/books/homo-deus) — the civilizational-arc framing overlaps; the "global pride cycle" sketch is a Harari-style move applied to knowledge institutions.
-- [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious-intellectualism overlap; the "what is our new religion?" question recurs in both.
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious-intellectualism overlap; the "what is our new religion?" question, raised here as neohumanism's "worship of Western civilization," recurs in both.
 - [Stretching the Heavens](/books/stretching-the-heavens) — same religious-intellectual thread, applied to a single career.
+- [Institution Building](/notes/institution-building) — the book's central thesis; ideas only "communicate their effect through the institutions that organize them," and shifts come from reorganizing institutions rather than from solitary geniuses.
+- [Progress Studies](/notes/progress-studies) — the cold-war big-science arc (Apollo, "We choose to go to the moon," NASA's Space Age Management) and the question of why faith in such institution-scale progress has waned.
+- [Decentralization](/notes/decentralization) — the Republic of Letters as a network "totally unanchored in space," with "no fixed nodes, only the network itself," and Islam's decentralized institutionalism of the ulama.
+- [Polymath](/notes/polymath) — classification schemes matter only insofar as they "make books readily accessible to roaming encyclopedic intellects"; the Republic of Letters prized versatility over narrow specialization.
+- [City Building](/notes/city-building) — universities "coalesced spontaneously around networks of students and teachers" as urban phenomena requiring infrastructure and amenities; cities function as natural network nodes.
 <!-- /interconnections -->
 
 ## Highlights

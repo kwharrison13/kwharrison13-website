@@ -6,7 +6,7 @@ rating: 4
 quake: false
 tags:
   - "company-building"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -29,8 +29,11 @@ Tactical patterns also flagged: post-mortems as paid education ([Peter Thiel](/n
 ## Connections
 
 <!-- interconnections -->
-- [Elon Musk (Vance)](/books/elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future) — same Musk persona, different chapter of his career. The Founders' coverage stops where Vance's begins (the X.com / PayPal years end with the boardroom coup; SpaceX and Tesla start the next morning, in Vance's telling).
-- [Amazon Unbound](/books/amazon-unbound) — parallel founder-driven cultural mechanism story. Both books treat the founder's operating philosophy as the load-bearing infrastructure of the company.
+**People:** [Peter Thiel](/notes/peter-thiel) (fundraising/editing lead at Stanford Review; ran the no-firing rule and "the dials"; later mimetic-desire contrarian), [Max Levchin](/notes/max-levchin) ("As hire As, Bs hire Cs"; cited Kurosawa's _Seven Samurai_ as his "sole management training"), [Elon Musk](/notes/elon-musk) (X.com vision, story-over-spreadsheets, ousted as CEO during his honeymoon), [Reid Hoffman](/notes/reid-hoffman) (COO-by-trust, coined "blitzscaling"), [David Sacks](/notes/david-sacks) ("Dr. No" product chief; immigration-as-entrepreneurial-act), [Roelof Botha](/notes/roelof-botha) (fresh-from-business-school CFO; "sword of Damocles"), [Mike Moritz](/notes/mike-moritz) (Sequoia; "merger for the ages"; mandated the CEO search), [Luke Nosek](/notes/luke-nosek) ("billionaires' breakfast club"; Smart Calendar post-mortem), [Sanjay Bhargava](/notes/sanjay-bhargava) (random-deposit account verification), [Brian Eno](/notes/brian-eno) (origin of "scenius"), [Keith Rabois](/notes/keith-rabois) (PayPal alum quoting Reid Hoffman's "sixth bullet").
+
+**Concepts:** [Talent Vortex](/notes/talent-vortex) — the book's load-bearing thesis (PayPal as a Bell-Labs-like constellation that seeded YouTube, Tesla, LinkedIn, Palantir, etc.); [Storytelling as Leadership](/notes/storytelling-as-leadership) — Musk's vision "weighed as much as data" against Payne's spreadsheets; [First Principles Thinking](/notes/first-principles-thinking) — non-domain-experts converting fraud into "a tractable, mathematical thing"; [Founders Mentality](/notes/founders-mentality) — friends-hiring, trust-produces-speed, allergy to "executive experience"; [Network Effects](/notes/network-effects) (also [Network Effect](/books/network-effect)) — Bill Harris invoking Metcalfe's Law, "true networks are a naturally monopolistic business"; [Platform Risk](/notes/platform-risk) — total dependence on eBay, "Operation Overlord" and the sword of Damocles; [Post-Mortem](/notes/post-mortem) — Thiel's Smart Calendar failure as a paid crash course; [Pre-Mortem](/notes/pre-mortem) — Sacks's "if I were running eBay Payments, what would I do to kill PayPal?"; [Forecasting](/notes/forecasting) and [Freemium](/notes/freemium) — pricing the "always free" promise before the word existed; [Hiring](/notes/hiring) — the talent bar and no-firing rule.
+
+**Books:** [Elon Musk — Tesla, SpaceX, and the Quest for a Fantastic Future](/books/elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future) — same Musk persona, different chapter of his career; The Founders' coverage stops roughly where Vance's begins (X.com/PayPal years end with the boardroom coup; SpaceX and Tesla start the next morning). [Zero To One](/books/zero-to-one) — Thiel's later contrarian and monopoly theses are visible here in embryo (the no-loser ethic, networks as naturally monopolistic). [Amazon Unbound](/books/amazon-unbound) — parallel founder-driven cultural-mechanism story; both treat the founder's operating philosophy as the load-bearing infrastructure of the company.
 <!-- /interconnections -->
 
 ## Highlights

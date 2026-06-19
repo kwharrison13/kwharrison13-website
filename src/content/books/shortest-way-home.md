@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "city-building"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -19,8 +19,22 @@ One note: Buttigieg on generational sentiment about civic renewal — "everyone 
 ## Connections
 
 <!-- interconnections -->
+**People:**
+- [Mitt Romney](/notes/mitt-romney) — fellow McKinsey-trained politician; memoir invites a character-driven comparison.
+- [John Rawls](/notes/john-rawls) — Buttigieg recounts learning Rawls's definition of justice ("a society is fair if it looks like something we would design before knowing how we would come into the world").
+- [Robert McNamara](/notes/robert-mcnamara) — invoked as the cautionary archetype of the data-driven technocrat ("Sometimes, Pete, when you talk about your data-driven government, I think of Robert McNamara").
+- [Donald Trump](/notes/donald-trump) — the closing chapters read "Make America Great Again" as a politics of loss-reversal, the "core falsehood" that time itself can be rewound.
+
+**Concepts:**
+- [City Building](/notes/city-building) — the book's spine: revitalizing South Bend, "College Town 2.0," the "Beta City" framework, MetroLab, and "quality of place" over "smokestack chasing."
+- [Veil of Ignorance](/notes/veil-of-ignorance) — Rawls's cake-division thought experiment, recounted as Buttigieg's frame for justice.
+- [Data in Investing](/notes/data-in-investing) — SBStat / the Baltimore CitiStat performance-management model, plus the cautions on data's limits and "data-obsessed" government that never turns analysis into action.
+- [Foreign Policy](/notes/foreign-policy) — post-9/11 reflections on globalization, terrorism, and the trade-off between safety and freedom.
+- [New Urbanism](/notes/new-urbanism) — Buttigieg's crash course in urban planning and the diagnosis of downtown as a "tragedy of misguided urban renewal."
+
+**Books:**
 - [Romney — A Reckoning](/books/romney-a-reckoning) — character-driven political memoir parallel.
-- [Janesville](/books/janesville) _(stub)_ — community-recovery adjacent.
+- [Janesville](/books/janesville) — Midwestern community-recovery counterpart to South Bend's revitalization.
 <!-- /interconnections -->
 
 ## Highlights

@@ -6,7 +6,7 @@ rating: 2
 quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -19,9 +19,33 @@ One note: Jamie's openness-led-to-doubts arc reframed — "who taught her she ne
 ## Connections
 
 <!-- interconnections -->
-- [The Life of John Taylor](/books/the-life-of-john-taylor) — direct quote reference.
-- [The Crucible of Doubt](/books/the-crucible-of-doubt) — same doubt-and-doctrine question.
-- [American Zion](/books/american-zion) — institutional context.
+**People:**
+
+- [Jana Riess](/notes/jana-riess) — author; sociologist of religion who built the Next Mormons Survey (NMS) behind the book's data.
+- [John Taylor](/notes/john-taylor) — the "bring all the good you have and let us see if we can add to it" frame that Kyle reads as the lost alternative posture toward other belief systems.
+- [Clayton Christensen](/notes/clayton-christensen) — cited as a Mormon Harvard Business School professor whose New England leadership diagnosis tied single-member activity rates to whether they were given real callings.
+- [Ezra Taft Benson](/notes/ezra-taft-benson) — encoded the rulebook end of authority as the "fourteen fundamentals," holding the living prophet above the standard works.
+- [David O. McKay](/notes/david-o-mckay) — under his presidency (c. 1955) the title "the prophet" for the church president became standard usage.
+- [Boyd K. Packer](/notes/boyd-k-packer) — quoted on not aspiring to or asking to be released from callings, and on parental "jurisdiction" over unmarried adults.
+- [Joseph Smith](/notes/joseph-smith) and [Brigham Young](/notes/brigham-young) — the founding figures to whom the term "prophet" referred before 1955.
+- [Donald Trump](/notes/donald-trump) — his call to ban Muslims prompted the LDS Church's public defense of religious freedom, part of its comparatively pro-immigration posture.
+
+**Concepts:**
+
+- [Missionary Work](/notes/missionary-work) — the "raise the bar" reform and [Preach My Gospel](/notes/preach-my-gospel) curriculum, the "missionary effect" on immigration views, and the finding that full-term missionaries are retained far more than non-servers or early returnees.
+- [Faith](/notes/faith) / [Testimony](/notes/testimony) — the belief-behavior-experience model of religious transmission and the stubbornly constant 17% doubt rate across generations.
+- [Follow the Prophet](/notes/follow-the-prophet) / [Prophet](/notes/prophet) / [Obedience](/notes/obedience) — the central tension between rulebook obedience and personal spiritual authority, and Millennials' drift from general authorities.
+- [Marriage](/notes/marriage) and [Family](/notes/family) — postwar Mormonism's nuclear-family identity, the strain on never-married singles, and in-faith marriage as the strongest retention lever.
+- [Education](/notes/education) — college correlating with retention overall, but academic graduate degrees correlating with disaffiliation among women.
+- [Priesthood](/notes/priesthood) and [Polygamy](/notes/polygamy) — the historic priesthood/temple ban and polygamy as the doctrines the church jettisoned, illustrating Mauss's assimilation-vs-retrenchment pendulum.
+- [Conversion](/notes/conversion) — the retention-vs-conversion math behind the slowing of Rodney Stark's "next world faith" projection.
+
+**Books:**
+
+- [The Life of John Taylor](/books/the-life-of-john-taylor) — source of the John Taylor "add to it" quote referenced in the takeaway.
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — same doubt-and-doctrine question of how faith metabolizes encounters with other belief systems.
+- [American Zion](/books/american-zion) — institutional and historical context for the LDS Church the survey describes.
+- [Law of the Harvest](/books/law-of-the-harvest) — companion missionary-experience reflection.
 <!-- /interconnections -->
 
 ## Highlights

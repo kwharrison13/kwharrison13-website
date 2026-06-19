@@ -7,7 +7,7 @@ quake: false
 tags:
   - "historical-futurism"
   - "open-source-knowledge"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -27,7 +27,13 @@ key_takeaways_status: "written"
 
 <!-- interconnections -->
 - [Atomic Habits](/books/atomic-habits) — Franklin's virtue ledger is the proto-habit-tracker; both treat character as something built by deliberate, measured repetition.
-- [American Sphinx](/books/american-sphinx) — founding-era memoir; Franklin appears in person there, soothing Jefferson during the editing of the Declaration with the "sign painter and the hat" story.
+- [American Sphinx](/books/american-sphinx) — founding-era memoir; Franklin appears in person there, soothing [Thomas Jefferson](/notes/thomas-jefferson) during the editing of the Declaration with the "sign painter and the hat" story.
+- [Thirteen Virtues](/notes/thirteen-virtues) — Franklin's thirteen-item moral ledger (temperance through humility), worked one virtue at a time, is the book's central self-improvement system.
+- [Ben Franklin Effect](/notes/ben-franklin-effect) — Franklin won over a hostile House member by asking to borrow a rare book, letting the rival's own act of kindness convert him into a lifelong friend.
+- [Motivated Reasoning](/notes/motivated-reasoning) — the cod-fishing episode ("So convenient a thing it is to be a reasonable creature") is one of the cleanest illustrations of rationalizing a conclusion one has already chosen.
+- [Rationalization](/notes/motivated-reasoning) — same cod-fishing passage: Franklin's ability to "find or make a reason for everything one has a mind to do."
+- [Compounding](/notes/compounding) — "Human felicity is produced not so much by great pieces of good fortune... as by little advantages that occur every day," Franklin's case for accumulation over windfalls.
+- [Writing](/notes/writing) — Franklin frames the memoir itself as a way to "live one's life over again" by setting recollection down in durable writing.
 <!-- /interconnections -->
 
 ## Highlights

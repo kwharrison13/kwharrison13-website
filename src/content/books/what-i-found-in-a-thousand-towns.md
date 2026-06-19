@@ -6,7 +6,7 @@ rating: 2
 quake: false
 tags:
   - "city-building"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -19,8 +19,13 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [Our Towns](/books/our-towns) _(stub)_, [Janesville](/books/janesville) _(stub)_ — community-vitality cluster.
-- [Hillbilly Elegy](/books/hillbilly-elegy) — adjacent on local-community dynamics.
+**People:** [Dar Williams](/notes/dar-williams) — touring musician-author whose visits to small towns supply the book's "positive proximity" case studies.
+
+**Concepts:** [City Building](/notes/city-building) — bottom-up town revitalization through main-street fabric, waterfront wayfinding, and local cultural hubs; [Gentrification](/notes/gentrification) — framed as two-level financial displacement that can squash the vitality and "soul" residents built event by event; [Community](/notes/community) — civic engagement grows out of positive proximity and bridging social capital rather than being created from scratch; [Real Estate](/notes/real-estate) — affordable-housing solutions (mandated affordable units, evening out demand spikes) as the counterweight to displacing committed, creative residents; [Democracy](/notes/democracy) — capitol architecture read as a celebration of self-governance, with monumental buildings that can also hide officials from citizens; [Homelessness](/notes/homelessness) — surfaced at the capitol grounds where people sleeping in full view of legislators put the problem in front of those meant to solve it; [Small Towns](/notes/small-towns) — the book's central subject, with positive proximity, history, and natural amenities as the levers that determine which towns thrive after manufacturing or extraction leaves.
+
+**Books:** [Our Towns](/books/our-towns), [Janesville](/books/janesville) — community-vitality cluster on the fortunes of American small towns; [Hillbilly Elegy](/books/hillbilly-elegy) — adjacent on local-community dynamics and place-based identity.
+
+**Other:** [Walmart](/notes/walmart) — invoked as the "grim reaper" big-box strategy targeting Main Streets with weak political will, complicated by towns (Lowell) that needed the jobs.
 <!-- /interconnections -->
 
 ## Highlights

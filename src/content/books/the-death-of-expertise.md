@@ -7,7 +7,7 @@ quake: false
 tags:
   - "language-of-discourse"
   - "republic-of-letters"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -36,13 +36,44 @@ A specific marginal frame worth keeping: "Our personal identities and our areas 
 ## Connections
 
 <!-- interconnections -->
+**Books:**
+
 - [How To Read a Book](/books/how-to-read-a-book) — sister book on active reading; explicit cross-reference. Adler's discipline is the antidote Nichols can't quite articulate.
 - [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institutional history of expertise; "I know nothing → I know a lot about a little" overlap.
-- [Working in Public](/books/working-in-public) — open-source-knowledge thread.
-- [Romney — A Reckoning](/books/romney-a-reckoning) — adjacent on educated-electorate question.
-- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — Spirit of Humility frame surfaces in both.
-- [The Righteous Mind](/books/the-righteous-mind) _(stub)_ — moral-psychology adjacent.
-- [Talent](/books/talent) — adjacent on what genuine domain expertise looks like.
+- [Working in Public](/books/working-in-public) — open-source-knowledge thread; the Wikipedia / crowd-sourcing critique here is the counterweight.
+- [Romney — A Reckoning](/books/romney-a-reckoning) — adjacent on the educated-electorate question.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — the "increasing confidence without increasing performance" frame surfaces in both; Munger's [Spirit of Humility](/notes/spirit-of-humility).
+- [The Righteous Mind](/books/the-righteous-mind) — Nichols cites [Jonathan Haidt](/notes/jonathan-haidt) on values overriding facts ("almost everyone finds a way to stick with their values and reject the evidence").
+- [Talent](/books/talent) — adjacent on what genuine domain expertise actually looks like.
+
+**Concepts:**
+
+- [Spirit of Humility](/notes/spirit-of-humility) — the character disposition the book implicitly argues for; "another mark of true experts is their acceptance of evaluation and correction by other experts."
+- [Dunning-Kruger Effect](/notes/dunning-kruger-effect) — Nichols's recurring "increasing confidence without increasing accuracy"; the lack of [Metacognition](/notes/metacognition) that keeps the incompetent from recognizing their incompetence.
+- [Metacognition](/notes/metacognition) — the missing skill of "stepping back, looking at what you're doing, and then realizing that you're doing it wrong."
+- [Confirmation Bias](/notes/confirmation-bias) — searching for confirmation rather than information; "the modern media… is a huge exercise in confirmation bias."
+- [Hedgehogs and Foxes](/notes/hedgehogs-and-foxes) — Berlin's distinction (via Philip Tetlock); foxes outperform hedgehogs at prediction.
+- [Educated Electorate](/notes/educated-electorate) — the accountability loop only closes when an informed electorate can evaluate expertise; "a republic, if you can keep it."
+- [Open Source Knowledge](/notes/open-source-knowledge) — "websites never die"; the persistence of online information changes the epistemic baseline.
+- [Wikipedia](/notes/wikipedia) — case study in the limits of crowd-sourced expertise; "the enthusiasm of interested amateurs is not a consistent substitute for the judgment of experts."
+- [Misinformation](/notes/misinformation) — readers who are "not just poorly informed, they're misinformed."
+- [Conspiracy Theories](/notes/conspiracy-theories) — "everything is proof. Nothing can ever challenge the underlying belief."
+- [Group Think](/notes/group-think) — Bertrand Russell's warning that "even when the experts all agree, they may well be mistaken."
+- [Critical Thinking](/notes/critical-thinking) — "the one most under attack in American universities."
+- [Journalism](/notes/journalism) — "in a world of constant information… journalism is now sometimes as much a contributor to the death of expertise as it is a defense against it."
+- [Accountability](/notes/accountability) — Tetlock's proposed reforms: experts maintaining a record of how often they were right or wrong.
+
+**People:**
+
+- [Tom Nichols](/notes/tom-nichols) — author.
+- Philip Tetlock — Nichols leans on Tetlock's *Expert Political Judgment* (foxes vs. hedgehogs; accountability reforms). _(no wiki page yet)_
+- [Nassim Nicholas Taleb](/notes/nassim-nicholas-taleb) — cited on the "epistemic arrogance" of prediction and black-swan events.
+- [Malcolm Gladwell](/notes/malcolm-gladwell) — cited on why leaderless networks can't think strategically or set goals.
+- [Jonathan Haidt](/notes/jonathan-haidt) — cited on values overriding facts.
+- [Bertrand Russell](/notes/bertrand-russell) — his 1928 rules for when laypeople may overrule experts.
+- [Isaac Asimov](/notes/isaac-asimov) — "my ignorance is just as good as your knowledge"; "Gee, that's funny."
+- [Alexis de Tocqueville](/notes/alexis-de-tocqueville), [Thomas Jefferson](/notes/thomas-jefferson), [Benjamin Franklin](/notes/benjamin-franklin) — the historical/founding frame for an informed republic.
+- [David Perell](/notes/david-perell) — the tweet on translating [Academic Research](/notes/academic-research) into everyday language.
 <!-- /interconnections -->
 
 ## Highlights

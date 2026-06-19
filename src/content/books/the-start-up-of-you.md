@@ -6,7 +6,7 @@ rating: 2
 quake: false
 tags:
   - "company-building"
-last_imported: "2026-06-18"
+last_imported: "2026-06-19"
 key_takeaways_status: "written"
 ---
 
@@ -19,9 +19,13 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [The Founders](/books/the-founders) — Hoffman is a primary subject there.
-- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC structure parallel.
-- [Remote — Office Not Required](/books/remote-office-not-required) — work-structure adjacent.
+**People:** [Andy Grove](/notes/andy-grove) — the book opens with his maxim "Only the paranoid survive," framing permanent-beta vigilance as a career posture.
+
+**Concepts:** [Entrepreneurship](/notes/entrepreneurship) — the core conceit is treating your career like a start-up, in permanent beta. [Networking](/notes/networking) — the relationship-building, weak-ties/strong-ties, and "network intelligence" sections argue that a blended social network drives breakout career growth.
+
+**Books:** [The Founders](/books/the-founders) — Hoffman is a primary subject there. [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC structure parallel. [Remote — Office Not Required](/books/remote-office-not-required) — work-structure adjacent.
+
+**Other:** [LinkedIn](/notes/linkedin) — the professional-network thesis mirrors the company Hoffman co-founded. [Microsoft](/notes/microsoft) — invoked as the deep-pocketed incumbent whose lack of hustle costs less than a start-up's, illustrating resourcefulness under constraint.
 <!-- /interconnections -->
 
 ## Highlights
