@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/How To Read a Book.md"
@@ -23,6 +23,7 @@ related:
   - "[[Voice of the People]]"
   - "[[Christ Is Risen; Faith in Him Will Move Mountains — Russell M. Nelson]]"
   - "[[Faith]]"
+  - "[[Joseph Smith]]"
 ---
 
 # Russell M. Nelson
@@ -34,7 +35,7 @@ related:
 ## What we know
 
 - His best-attested theme is spiritual self-reliance — the claim that without one's own revelation "it will be impossible to survive spiritually," i.e. borrowed faith is not enough. [The Crucible of Doubt](/books/the-crucible-of-doubt)
-- He inherits the Joseph Smith tradition that revelation is ongoing rather than fixed in creeds — the [Living Revelation](/notes/living-revelation) lineage. [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling)
+- He inherits the [Joseph Smith](/notes/joseph-smith) tradition that revelation is ongoing rather than fixed in creeds — the [Living Revelation](/notes/living-revelation) lineage. [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling)
 - He appears in the context of how religious leaders are expected to pronounce on matters far beyond technical expertise — a different basis of authority than expertise. [The Death of Expertise](/books/the-death-of-expertise)
 - He surfaces around Church leadership and the balance between institutional authority and scholarly/historical work. [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history)
 - Referenced in the context of leadership and thought. [How To Read a Book](/books/how-to-read-a-book)
@@ -47,6 +48,13 @@ related:
 - [The Death of Expertise](/books/the-death-of-expertise) — religious authority vs. technical expertise.
 - [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — institutional authority and Church history.
 - [How To Read a Book](/books/how-to-read-a-book) — leadership and thought.
+
+## Connections
+
+- [Joseph Smith](/notes/joseph-smith) — the founding prophet whose ongoing-revelation tradition Nelson inherits and extends.
+- [Living Revelation](/notes/living-revelation) — the doctrine of continuing revelation Nelson emphasizes against fixed creeds.
+- [Faith](/notes/faith) — framed in his Easter 2021 address as "the conduit of divine power."
+- Christ Is Risen; Faith in Him Will Move Mountains — Russell M. Nelson — his own address studied in the wiki.
 
 ## Open questions
 

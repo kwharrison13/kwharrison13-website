@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-15"
-updated: "2026-06-15"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/readwise/The Founders by Jimmy Soni.md"
@@ -21,6 +21,9 @@ related:
   - "[[Peter Thiel]]"
   - "[[Elon Musk]]"
   - "[[Talent Vortex]]"
+  - "[[Marc Andreessen]]"
+  - "[[David Sacks]]"
+  - "[[PayPal]]"
 ---
 
 # Max Levchin
@@ -43,6 +46,15 @@ related:
 ## Mentioned in
 
 - [The Founders](/books/the-founders) — co-protagonist (the Confinity / PayPal engineering arc)
+
+## Connections
+
+- [Peter Thiel](/notes/peter-thiel) — co-founded Confinity (later [PayPal](/notes/paypal)) together; Levchin was the engineering counterpart to Thiel's strategy work.
+- [Elon Musk](/notes/elon-musk) — during the X.com / Confinity merger, Musk's decision to rewind Levchin's stack to Windows from Unix nearly drove him to quit and fed the boardroom coup.
+- [David Sacks](/notes/david-sacks) — with Thiel and Sacks, designed PayPal's fraud-vs-usability "dials" framework.
+- [Marc Andreessen](/notes/marc-andreessen) — Levchin cited Andreessen's example ("students like us built these amazing tools") as inspiration while at UIUC.
+- [PayPal](/notes/paypal) — Confinity, which he co-founded as CTO, became PayPal; his high engineering-hiring bar shaped its talent density.
+- [Talent Vortex](/notes/talent-vortex) — his "As hire As, Bs hire Cs" hiring discipline is an instance of the PayPal talent-vortex dynamic.
 
 ## Open questions
 

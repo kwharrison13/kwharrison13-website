@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — May 16th, 2018 (networking/sourcing call log): ~/Downloads/May 16th, 2018.md"
@@ -16,6 +16,7 @@ aliases:
   - "Jean M Russell"
 related:
   - "[[The New City]]"
+  - "[[City Building]]"
 ---
 
 # Jean M. Russell
@@ -29,6 +30,11 @@ related:
 ## Mentioned in
 
 - May 16th, 2018 — Thrivability (Jean M. Russell) — resource note on Thrivability.
+
+## Connections
+
+- [The New City](/notes/the-new-city) — the daily-note flags Thrivability as a possible input to this thread.
+- [City Building](/notes/city-building) — the "Thrivability"-to-[The New City](/notes/the-new-city) question situates Russell within Kyle's city-building research.
 
 ## Open questions
 

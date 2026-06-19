@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/The Hits Business - Research.md"
@@ -20,6 +20,13 @@ related:
   - "[[The Hits Business]]"
   - "[[A24]]"
   - "[[Talent Identification]]"
+  - "[[Tastemakers]]"
+  - "[[Intellectual Property]]"
+  - "[[Mario Gabriele]]"
+  - "[[Christopher Nolan]]"
+  - "[[Quentin Tarantino]]"
+  - "[[Martin Scorsese]]"
+  - "[[Ryan Reynolds]]"
 ---
 
 # Auteur Theory
@@ -36,6 +43,16 @@ related:
 
 - [The Hits Business](/essays/the-hits-business) — "Defining Auteurs."
 - The Hits Business - Research
+
+## Connections
+
+- [Christopher Nolan](/notes/christopher-nolan) — cited as an admired auteur who "owns so much of a creative experience."
+- [Quentin Tarantino](/notes/quentin-tarantino) — named among the auteurs Kyle admires in [The Hits Business](/essays/the-hits-business).
+- [Martin Scorsese](/notes/martin-scorsese) — named among the auteurs Kyle admires.
+- [Mario Gabriele](/notes/mario-gabriele) — source for [A24](/notes/a24)'s "look for true auteurs — then back them to the hilt" strategy.
+- [Mark Zuckerberg](/notes/mark-zuckerberg) — venture-parallel example: "the author" of Facebook.
+- [Steven Spielberg](/notes/steven-spielberg) — the failed "popcorn-movie" handling of [Ready Player One](/books/ready-player-one) as a counter-example.
+- [Ryan Reynolds](/notes/ryan-reynolds) — cited as a real auteur "in everything that he does, from film to business."
 
 ## Related concepts
 

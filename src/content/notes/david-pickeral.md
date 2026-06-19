@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — May 16th, 2018 (networking/sourcing call log): ~/Downloads/May 16th, 2018.md"
@@ -17,6 +17,10 @@ aliases:
   - "David Pickeral"
 related:
   - "[[The New City]]"
+  - "[[City Building]]"
+  - "[[Transportation]]"
+  - "[[Microsoft]]"
+  - "[[Cisco]]"
 ---
 
 # David Pickeral
@@ -32,3 +36,10 @@ related:
 ## Mentioned in
 
 - May 16th, 2018 — David Pickeral (New Mobility) — networking call on transportation, smart cities, and public/private collaboration.
+
+## Connections
+
+- [City Building](/notes/city-building) — his work centers on smart-city development and the institutional frameworks behind it.
+- [Transportation](/notes/transportation) — "New Mobility" and smart transportation are his core focus areas.
+- [Microsoft](/notes/microsoft) — named among big-tech firms he sees as wanting to sell to cities rather than partner with them.
+- [Cisco](/notes/cisco) — named among big-tech firms he critiques for the same sell-to-cities posture.

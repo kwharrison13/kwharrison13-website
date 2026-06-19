@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "/Users/kwharrison13/Downloads/Sprig fka UserLeap - Diligence.md"
@@ -15,6 +15,9 @@ aliases:
 related:
   - "[[Sprig fka UserLeap - Diligence]]"
   - "[[Square]]"
+  - "[[Sprig]]"
+  - "[[Lookback]]"
+  - "[[UserTesting]]"
 ---
 
 # Rishi Ahuja
@@ -31,3 +34,10 @@ related:
 ## Mentioned in
 
 - Sprig fka UserLeap - Diligence — expert call, November 3rd, 2021.
+
+## Connections
+
+- [Sprig](/notes/sprig) — a customer of ~7 months at the time of the call; source of ~2/3 of his team's user research.
+- [Lookback](/notes/lookback) — alternative user-research vendor he uses for longer-term interviews (~1/3 of research).
+- [UserTesting](/notes/usertesting) — another user-research vendor in his footprint.
+- [Square](/notes/square) — his employer, where he is a Product Manager (since 04/2021).

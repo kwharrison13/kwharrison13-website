@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "/Users/kwharrison13/Downloads/Sprig fka UserLeap - Diligence.md"
@@ -15,6 +15,12 @@ aliases:
 related:
   - "[[Sprig fka UserLeap - Diligence]]"
   - "[[Codecademy]]"
+  - "[[Sprig]]"
+  - "[[Notion]]"
+  - "[[Jira]]"
+  - "[[Figma]]"
+  - "[[UserTesting]]"
+  - "[[FullStory]]"
 ---
 
 # Joseph Ambeault
@@ -31,3 +37,9 @@ related:
 ## Mentioned in
 
 - Sprig fka UserLeap - Diligence — expert call, November 15th, 2021.
+
+## Connections
+
+- [Sprig](/notes/sprig) — the product he used and assessed; he called it the best qualitative-data solution he knew while flagging it as "easy in, easy out."
+- [Notion](/notes/notion), [Jira](/notes/jira), [Figma](/notes/figma) — product-management and design tools he can speak to from 25 years in product.
+- [UserTesting](/notes/usertesting), [FullStory](/notes/fullstory) — user-research and session-replay tools he referenced as part of the surrounding landscape.

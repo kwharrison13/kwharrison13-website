@@ -20,9 +20,9 @@ tags:
 aliases:
   - "The Market Is The Greatest Critic"
 related:
-  - "[[Semil Shah]]"
-  - "[[Bundle]]"
-  - "[[Chris Dixon]]"
+  - "Semil Shah"
+  - "Bundle"
+  - "Chris Dixon"
   - "[[Unbundling]]"
   - "[[Capital Allocation]]"
   - "[[Venture Capital]]"

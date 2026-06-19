@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — May 16th, 2018 (networking/sourcing call log): ~/Downloads/May 16th, 2018.md"
@@ -18,6 +18,8 @@ aliases:
 related:
   - "[[New York University]]"
   - "[[The New City]]"
+  - "[[Microsoft]]"
+  - "[[City Building]]"
 ---
 
 # Jeff Friedman
@@ -33,3 +35,10 @@ related:
 ## Mentioned in
 
 - May 16th, 2018 — Jeff Friedman (New York University) — networking call on smart government and the use of data in urban government.
+
+## Connections
+
+- [New York University](/notes/new-york-university) — leads NYU's center for "smart government," reframing the "smart city" away from technology toward citizen and community.
+- [Microsoft](/notes/microsoft) — former Microsoft government-sales executive before moving into city turnaround consulting and academia.
+- [City Building](/notes/city-building) — his skepticism about smart-city sensor data and his turnaround work on 3rd-tier cities bears on how cities are organized and run.
+- [The New City](/notes/the-new-city) — shares the thread of rethinking what a city is and how it should be governed.

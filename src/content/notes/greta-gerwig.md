@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/The Hits Business - Research.md"
@@ -17,6 +17,7 @@ related:
   - "[[The Hits Business]]"
   - "[[Auteur Theory]]"
   - "[[A24]]"
+  - "[[Mario Gabriele]]"
 ---
 
 # Greta Gerwig
@@ -31,3 +32,10 @@ related:
 ## Mentioned in
 
 - [The Hits Business](/essays/the-hits-business) / The Hits Business - Research
+
+## Connections
+
+- [The Hits Business](/essays/the-hits-business) — cites Gerwig's *Barbie* as a megahit that "vindicated" the studio-as-auteur-incubator thesis.
+- [Mario Gabriele](/notes/mario-gabriele) — author whose argument that "there is no substitute for true artistry, for a real sense of voice" rests on Gerwig's *Barbie*.
+- [Auteur Theory](/notes/auteur-theory) — Gerwig held up as a model auteur whose distinctive voice was inseparable from the film's success.
+- [A24](/notes/a24) — the studio model *Barbie* is said to have validated, despite A24 not having made the film.

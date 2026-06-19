@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/The Hits Business - Research.md"
@@ -17,6 +17,7 @@ related:
   - "[[The Hits Business]]"
   - "[[Auteur Theory]]"
   - "[[Ready Player One]]"
+  - "[[The Existential Dread of Cognitive Dissonance]]"
 ---
 
 # Steven Spielberg
@@ -31,3 +32,6 @@ related:
 ## Mentioned in
 
 - [The Hits Business](/essays/the-hits-business) / The Hits Business - Research
+- [The Existential Dread of Cognitive Dissonance](/essays/the-existential-dread-of-cognitive) — uses the *Lincoln* funding story (Spielberg with Daniel Day-Lewis attached) to argue the blockbuster model marginalizes unique stories.
+- [Ready Player One](/books/ready-player-one) — his "popcorn-movie" handling is cited as the case of a qualified-but-not-passionate director.
+- [Auteur Theory](/notes/auteur-theory) — invoked as a director who doesn't always fit the auteur mold.

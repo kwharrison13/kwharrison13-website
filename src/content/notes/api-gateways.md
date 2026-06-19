@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -22,6 +22,10 @@ related:
   - "[[Apigee]]"
   - "[[API Security]]"
   - "[[Microservices]]"
+  - "[[Salt Security]]"
+  - "[[Atanu Dasgupta]]"
+  - "[[Prabhakar Kasu]]"
+  - "[[OWASP]]"
 ---
 
 # API Gateways
@@ -48,3 +52,7 @@ related:
 - [Apigee](/notes/apigee) — Google-acquired gateway platform; tried AI/ML for security, not productized
 - [API Security](/notes/api-security) — the layer that sits on top of gateways
 - Microservices — the architecture that made API gateways necessary
+- [Salt Security](/notes/salt-security) — the API security vendor whose moat thesis turns on gateways not doing behavioral security
+- [OWASP](/notes/owasp) — source for the gateway gaps (business-logic attacks, BOLA, data scraping) gateways can't catch
+- [Atanu Dasgupta](/notes/atanu-dasgupta) — diligence reference who framed a gateway's purpose as routing requests to the right services
+- [Prabhakar Kasu](/notes/prabhakar-kasu) — diligence reference noting gateways give minimal visibility into how many APIs actually exist

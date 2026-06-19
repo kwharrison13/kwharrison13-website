@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
@@ -16,6 +16,9 @@ aliases:
 related:
   - "[[Likability]]"
   - "[[Dependencies]]"
+  - "[[Conviction-Led Contrarianism]]"
+  - "[[Conviction]]"
+  - "[[Contrarianism]]"
 ---
 
 # Louis Rossmann
@@ -33,3 +36,10 @@ related:
 
 - [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — the Layer 1 "stop caring what people think" argument.
 - Conviction-Led Contrarianism - Research — research notes.
+
+## Connections
+
+- [Dependencies](/notes/dependencies) — Kyle maps Rossmann's "prison of caring" onto the Layer 1 phantom dependency that must be conquered first.
+- [Likability](/notes/likability) — the social-anxiety framing as a self-imposed constraint of caring what others think.
+- [Conviction](/notes/conviction) — the alternative he proposes: caring only what you think of yourself while staying someone you can live with.
+- [Contrarianism](/notes/contrarianism) — "stop caring what other people think" as the precondition for holding a contrarian identity.

@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
@@ -18,6 +18,9 @@ aliases:
 related:
   - "[[September 22nd, 2021 — Mark Goldberg (Career Feedback)]]"
   - "[[Mark Goldberg]]"
+  - "[[Customer Support]]"
+  - "[[Automation]]"
+  - "[[Index Ventures]]"
 ---
 
 # Ada
@@ -35,3 +38,6 @@ related:
 ## Related concepts
 
 - [Mark Goldberg](/notes/mark-goldberg) — raised it as a sourcing example.
+- [Customer Support](/notes/customer-support) — the market Ada automates; described as "so big, moves so fast."
+- [Automation](/notes/automation) — Ada's core product is customer-support automation.
+- [Index Ventures](/notes/index-ventures) — surfaced in the firm's growth sourcing/diligence call log.

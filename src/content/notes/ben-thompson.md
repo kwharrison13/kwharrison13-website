@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Open-Source Knowledge - Research.md"
@@ -17,6 +17,9 @@ aliases:
 related:
   - "[[Stratechery]]"
   - "[[Open-Source Knowledge - Research]]"
+  - "[[Contrary Research]]"
+  - "[[Colossus]]"
+  - "[[Open-Source Knowledge]]"
 ---
 
 # Ben Thompson
@@ -31,3 +34,10 @@ related:
 ## Mentioned in
 
 - Open-Source Knowledge - Research — Stratechery as a depth vs. scale contrast.
+
+## Connections
+
+- [Stratechery](/notes/stratechery) — the subscription analysis publication he authors.
+- [Open-Source Knowledge](/essays/open-source-knowledge) — his deep, paywalled analysis is a reference point in the depth-vs-scale framing of this theme.
+- [Contrary Research](/essays/contrary-research) — its market-landscape notes cite Stratechery as an example that "doesn't scale" relative to bite-sized company intros.
+- [Colossus](/notes/colossus) — grouped with Stratechery as deep formats that don't scale like light memos.

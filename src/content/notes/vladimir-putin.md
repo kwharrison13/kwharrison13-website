@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/The Invention of Russia.md"
@@ -15,6 +15,7 @@ aliases:
 related:
   - "[[The Invention of Russia]]"
   - "[[television]]"
+  - "[[Foreign Policy]]"
 reference_count: 1
 ---
 
@@ -40,6 +41,11 @@ _Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
 ## Mentioned in
 
 - [The Invention of Russia](/books/the-invention-of-russia) — central figure; his rise via television and subsequent capture of the media.
+
+## Connections
+
+- [Television](/notes/television) — the medium through which Putin was "a media invention," kept a TV remote as "the scepter of his power," and moved to take control of the oligarchs' channels.
+- [Foreign Policy](/notes/foreign-policy) — the lens for his record abroad (Chechnya, Syria) and the saved Chris Wallace interview.
 
 ## Open questions
 

@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
@@ -18,6 +18,8 @@ related:
   - "[[API Security]]"
   - "[[API Gateways]]"
   - "[[API Economy]]"
+  - "[[Salt Security]]"
+  - "[[Index Ventures]]"
 ---
 
 # API
@@ -37,3 +39,5 @@ related:
 - [API Security](/notes/api-security) — securing this surface
 - [API Gateways](/notes/api-gateways) — adjacent
 - [API Economy](/notes/api-economy) — broader trend
+- [Salt Security](/notes/salt-security) — vendor whose diligence transcript framed APIs as an under-secured surface
+- [Index Ventures](/notes/index-ventures) — sourced the Salt Security call this page derives from

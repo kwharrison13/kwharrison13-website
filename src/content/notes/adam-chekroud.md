@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
@@ -15,6 +15,7 @@ related:
   - "[[September 22nd, 2021 — Adam Chekroud (Spring Health)]]"
   - "[[Spring Health]]"
   - "[[Behavioral Health]]"
+  - "[[Index Ventures]]"
 ---
 
 # Adam Chekroud
@@ -28,3 +29,9 @@ related:
 ## Mentioned in
 
 - September 22nd, 2021 — Adam Chekroud (Spring Health) — expert/sourcing call on Spring Health and the behavioral-health market.
+
+## Connections
+
+- [Spring Health](/notes/spring-health) — company Chekroud co-founded (~March 2016) and serves as Chief Product Officer; built treatment-matching technology that roughly doubles a patient's likelihood of success.
+- [Behavioral Health](/notes/behavioral-health) — the market Spring Health operates in, serving large-employer partners (Adobe, Pfizer, Gap, Pepsi).
+- [Index Ventures](/notes/index-ventures) — the source diligence call surfaced Chekroud and Spring Health through Index Ventures sourcing.

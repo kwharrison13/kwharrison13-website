@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/21 Lessons for the 21st Century.md"
@@ -17,6 +17,9 @@ aliases:
   - "Yuval Noah Harari"
   - "Harari"
 related:
+  - "[[Sapiens]]"
+  - "[[Homo Deus]]"
+  - "[[21 Lessons for the 21st Century]]"
   - "[[Identity Formation]]"
   - "[[Living Revelation]]"
   - "[[Storytelling]]"
@@ -41,6 +44,13 @@ related:
 - [Sapiens](/books/sapiens) — the founding statement of the imagined-orders / shared-fictions thesis.
 - [Homo Deus](/books/homo-deus) — the soul, the rise of humanism, and liberalism's difficulty grounding meaning.
 - [21 Lessons for the 21st Century](/books/21-lessons-for-the-21st-century) — the narrative frame applied to identity, education, and politics.
+
+## Connections
+
+- [Storytelling](/notes/storytelling) — Harari's claim that "humans think in stories rather than in facts" is the core of his narrative theory of cooperation.
+- [Identity Formation](/notes/identity-formation) — his argument that "all mass identities are based on fictional stories" is the proposition Kyle pushes back on.
+- [Living Revelation](/notes/living-revelation) — Kyle reads it as a live theological alternative to Harari's secular resolution of meaning-loss after God.
+- [First Principles Thinking](/notes/first-principles-thinking) — Harari's "discovery of ignorance" frames progress as admitting what we don't know.
 
 ## Open questions
 

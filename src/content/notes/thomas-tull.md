@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/The Hits Business - Research.md"
@@ -16,6 +16,7 @@ aliases:
 related:
   - "[[The Hits Business]]"
   - "[[Legendary Entertainment]]"
+  - "[[A24]]"
 ---
 
 # Thomas Tull
@@ -30,3 +31,9 @@ related:
 ## Mentioned in
 
 - [The Hits Business](/essays/the-hits-business) / The Hits Business - Research
+
+## Connections
+
+- [Legendary Entertainment](/notes/legendary-entertainment) — the studio Tull founded and built on blockbuster scale.
+- [The Hits Business](/essays/the-hits-business) — cites Tull as a case study in the economics of blockbuster filmmaking.
+- [A24](/notes/a24) — positioned in [The Hits Business](/essays/the-hits-business) as the counter-model to Tull's globalization-driven blockbuster strategy.

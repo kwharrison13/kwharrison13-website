@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/The Hits Business - Research.md"
@@ -15,6 +15,7 @@ aliases:
   - "David Zaslav"
 related:
   - "[[The Hits Business]]"
+  - "[[The Hits Business - Research]]"
   - "[[Intellectual Property]]"
 ---
 
@@ -29,4 +30,9 @@ related:
 
 ## Mentioned in
 
-- [The Hits Business](/essays/the-hits-business) / The Hits Business - Research
+- [The Hits Business](/essays/the-hits-business) — cited as the exec willing to "say the quiet part out loud" about Hollywood's franchise dependence.
+- The Hits Business - Research — research notes underlying the essay, including his November 2022 investor remarks.
+
+## Connections
+
+- [Intellectual Property](/notes/intellectual-property) — his "focus on franchises" stance exemplifies how the public-company growth motive drives Hollywood's IP strategy.

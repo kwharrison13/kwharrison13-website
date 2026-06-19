@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/inbox/Capital Allocator Mindset.md"
@@ -14,6 +14,9 @@ aliases:
   - "Capital Allocator Mindset"
 related:
   - "[[Capital Allocation]]"
+  - "[[Scarcity]]"
+  - "[[Curiosity]]"
+  - "[[Focus]]"
 ---
 
 # Capital Allocator Mindset
@@ -39,3 +42,6 @@ _None._
 ## Related concepts
 
 - [Capital Allocation](/notes/capital-allocation) — the broader discipline of deploying scarce resources to their highest-value use; this is the same logic turned inward on attention and curiosity.
+- [Scarcity](/notes/scarcity) — the premise the mindset imposes: attention/interest is treated as scarce capital rather than something endless.
+- [Curiosity](/notes/curiosity) — the "felt" interest the dollar question disciplines, separating cheap stated curiosity from revealed priority.
+- [Focus](/notes/focus) — the outcome of the budget constraint: forcing the dollar question radically prioritizes what is actually interesting.

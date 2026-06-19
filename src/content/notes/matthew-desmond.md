@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-18"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/books.json#library.2018"
@@ -14,6 +14,8 @@ aliases:
   - "Matthew Desmond"
 related:
   - "[[Evicted]]"
+  - "[[Poverty]]"
+  - "[[Real Estate]]"
 ---
 
 # Matthew Desmond
@@ -31,6 +33,11 @@ related:
 ## Mentioned in
 
 - Evicted — author.
+
+## Connections
+
+- [Poverty](/notes/poverty) — Desmond's central subject; he reframes it around extraction from the poor rather than what they lack.
+- [Real Estate](/notes/real-estate) — his ethnography studies landlords, eviction, and the rental market as engines of poverty, and proposes housing vouchers with rent regulation.
 
 ## Open questions
 

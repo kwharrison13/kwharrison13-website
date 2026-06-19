@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/calls/May 31st, 2018.md"
@@ -14,7 +14,9 @@ tags:
   - "data-science"
 aliases:
   - "Robert Pottroff"
-related: []
+related:
+  - "[[Robert Pottroff (Nvidia) — 2018-05-31]]"
+  - "[[BYU]]"
 ---
 
 # Robert Pottroff
@@ -30,6 +32,10 @@ related: []
 ## Mentioned in
 
 - Robert Pottroff (Nvidia) — 2018-05-31 — tutorial-style call on ML vs. data science and data requirements.
+
+## Connections
+
+- [BYU](/notes/byu) — earned his Masters in Computer Science there before doing applied deep research at Nvidia.
 
 ## Open questions
 

@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — May 16th, 2018 (networking/sourcing call log): ~/Downloads/May 16th, 2018.md"
@@ -18,6 +18,10 @@ aliases:
 related:
   - "[[Rise of the Rest]]"
   - "[[The New City]]"
+  - "[[Hillbilly Elegy]]"
+  - "[[Jeff Bezos]]"
+  - "[[Venture Capital]]"
+  - "[[Crypto]]"
 ---
 
 # Steve Case
@@ -33,3 +37,12 @@ related:
 ## Mentioned in
 
 - May 16th, 2018 — Steve Case Interview (Rise of the Rest) — Fortune Term Sheet Q&A on the Rise of the Rest seed fund and regional investing.
+
+## Connections
+
+- [Rise of the Rest](/notes/rise-of-the-rest) — the $150M seed fund Case created to back founders outside Silicon Valley, NYC, and Boston.
+- [Venture Capital](/notes/venture-capital) — his thesis targets lower valuations and great founders outside the three states that capture ~75% of VC.
+- [Jeff Bezos](/notes/jeff-bezos) — among the backers (with Howard Schultz, Henry Kravis, and others) of the Rise of the Rest fund.
+- [Hillbilly Elegy](/books/hillbilly-elegy) — book by J.D. Vance, Case's partner on the fund.
+- [Crypto](/notes/crypto) — Case views blockchain as foundational but counsels caution on the Bitcoin/ICO mania, echoing the Dot Com bubble.
+- [The New City](/notes/the-new-city) — regional-hub and city-building themes that parallel his "third wave" focus on emerging startup hubs.

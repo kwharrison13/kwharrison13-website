@@ -29,7 +29,7 @@ related:
   - "[[Circle of Competence]]"
   - "[[Warren Buffett]]"
   - "[[The Intelligent Investor]]"
-  - "[[Career Advice]]"
+  - "Career Advice"
   - "[[Spirit of Humility]]"
   - "[[Self-Reflection]]"
   - "[[Confirmation Bias]]"

@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-18"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 6th, 2022 (Contrary Capital sourcing/diligence log): ~/Downloads/June 6th, 2022.md"
@@ -19,6 +19,7 @@ related:
   - "[[a16z]]"
   - "[[American Dynamism]]"
   - "[[Building American Dynamism]]"
+  - "[[Anduril]]"
   - "[[June 6th, 2022 — Katherine Boyle (a16z)]]"
 ---
 
@@ -32,6 +33,13 @@ related:
 - Believes companies are defined by missions, not business models, and that differentiated thought (not generic "value add") is what makes a venture firm distinctive — "50% of people won't be a fit, and that's okay."
 - Came into [Anduril](/notes/anduril) at the seed (after Susa Ventures and Uncork Capital) and spent a year getting into the Series A. Quip: "God (Hallow) and Country ([Anduril](/notes/anduril)) are great."
 - Knows Sarah Cannon.
+
+## Connections
+
+- [a16z](/notes/a16z) — the venture firm where she is a general partner.
+- [American Dynamism](/notes/american-dynamism) — the investing practice she coined and leads.
+- [Building American Dynamism](/notes/building-american-dynamism) — her essay framing the thesis.
+- [Anduril](/notes/anduril) — a defining American Dynamism investment she led at the seed.
 
 ## Mentioned in
 

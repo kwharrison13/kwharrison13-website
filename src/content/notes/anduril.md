@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Chip War.md"
@@ -26,6 +26,16 @@ related:
   - "[[Robert McNamara]]"
   - "[[American Dynamism]]"
   - "[[Dependencies]]"
+  - "[[Civil-Military Fusion]]"
+  - "[[Sensor Fusion]]"
+  - "[[Boeing]]"
+  - "[[John von Neumann]]"
+  - "[[Conviction-Led Contrarianism]]"
+  - "[[Chip War]]"
+  - "[[Skunk Works]]"
+  - "[[The Kill Chain]]"
+  - "[[Flying Blind]]"
+  - "[[The Man From The Future]]"
 ---
 
 # Anduril
@@ -59,3 +69,9 @@ related:
 - [Palmer Luckey](/notes/palmer-luckey) — Anduril's founder.
 - [Kelly Johnson](/notes/kelly-johnson) — the Skunk Works archetype of founder-led defense innovation.
 - [Robert McNamara](/notes/robert-mcnamara) — flagged in the notes as the consolidation-era figure whose model Anduril is positioned against.
+- [John von Neumann](/notes/john-von-neumann) — the [The Man From The Future](/books/the-man-from-the-future) / RAND lineage the page cites as the deep precedent for civil-military fusion and applied research.
+- [Civil-Military Fusion](/notes/civil-military-fusion) — the core frame Kyle reads semiconductor and defense history through when annotating Anduril.
+- [Sensor Fusion](/notes/sensor-fusion) — part of the same thesis: networked, sensor-fused nodes over exquisite legacy platforms.
+- [Boeing](/notes/boeing) — the [Flying Blind](/books/flying-blind) anti-pattern of an industrial culture hollowed out by financial engineering, read against the defense-tech thesis.
+- [American Dynamism](/notes/american-dynamism) — the investment wave Anduril is later read as riding after its countercyclical 2017 start.
+- [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — the research page where Anduril serves as a case study in navigating unavoidable [Dependencies](/notes/dependencies) (DoD buy-in, warfighter trust, Lattice integration).

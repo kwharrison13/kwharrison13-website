@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The Hardening Of The Great Softening' notes"
@@ -13,6 +13,8 @@ aliases:
   - "Jeff Brownlow"
 related:
   - "[[The American Dream — Stop Calling it Capitalism]]"
+  - "[[The Hardening Of The Great Softening - Research]]"
+  - "[[The Hardening Of The Great Softening]]"
 ---
 
 # Jeff Brownlow
@@ -29,4 +31,9 @@ related:
 
 ## Mentioned in
 
-- The Hardening Of The Great Softening - Research
+- The Hardening Of The Great Softening - Research — research notes where the "triangle" framing of America's uncapped upside/downside is attributed to Brownlow.
+
+## Connections
+
+- [The Hardening Of The Great Softening](/essays/the-hardening-of-the-great-softening) — the essay this research feeds; develops the same idea that opening the ceiling also opens the floor.
+- [The American Dream — Stop Calling it Capitalism](/essays/the-american-dream-stop-calling-it-capitalism) — related essay returning to the structure where uncapped upside implies uncapped downside.

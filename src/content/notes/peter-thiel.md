@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-15"
-updated: "2026-06-15"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/readwise/The Founders by Jimmy Soni.md"
@@ -22,6 +22,14 @@ related:
   - "[[Elon Musk]]"
   - "[[Talent Vortex]]"
   - "[[Storytelling as Leadership]]"
+  - "[[PayPal]]"
+  - "[[PayPal Mafia]]"
+  - "[[Founders Fund]]"
+  - "[[David Sacks]]"
+  - "[[Reid Hoffman]]"
+  - "[[Roelof Botha]]"
+  - "[[Hiring]]"
+  - "[[Contrarianism]]"
 ---
 
 # Peter Thiel
@@ -45,6 +53,19 @@ related:
 ## Mentioned in
 
 - [The Founders](/books/the-founders) — primary subject across the PayPal arc
+
+## Connections
+
+- [PayPal](/notes/paypal) — co-founded Confinity, the company that became PayPal via the X.com merger and which he led through the IPO
+- [PayPal Mafia](/notes/paypal-mafia) — his bet-on-people hiring is presented as what defined this founder network
+- [Founders Fund](/notes/founders-fund) — his subsequent venture firm (noted as outside the book's coverage)
+- [Max Levchin](/notes/max-levchin) — Confinity co-founder; together they framed "the dials" (fraud vs. usability vs. revenue)
+- [Reid Hoffman](/notes/reid-hoffman) — recruited as COO
+- [David Sacks](/notes/david-sacks) — recruited as VP strategy; "friends-as-cofounders" trust-producing-speed instinct
+- [Roelof Botha](/notes/roelof-botha) — recruited as CFO straight out of business school
+- [Mike Moritz](/notes/mike-moritz) — the Sequoia CEO-search rift after Musk's ouster
+- [Hiring](/notes/hiring) — his contrarian, bet-on-people hiring and the early no-firing rule
+- [Contrarianism](/notes/contrarianism) — framed as a contrarian organizational architect rather than a payments founder
 
 ## Open questions
 

@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/calls/May 31st, 2018.md"
@@ -15,6 +15,8 @@ aliases:
   - "Atomic Ventures"
 related:
   - "[[Tyler Payne]]"
+  - "[[Venture Studio]]"
+  - "[[Venture Capital]]"
 ---
 
 # Atomic Ventures
@@ -38,4 +40,6 @@ related:
 
 ## Related concepts
 
-- _None yet._
+- [Venture Studio](/notes/venture-studio) — Atomic Ventures operates on the venture-building / studio model, partnering with engineers to build startups to traction before stepping back.
+- [Venture Capital](/notes/venture-capital) — the firm pairs studio-style building with staged equity investing (~$150–250K initial, ~$500K at seed, ~$1–3M at Series A).
+- [Tyler Payne](/notes/tyler-payne) — one of the two principals/associates at the firm.

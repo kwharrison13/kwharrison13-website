@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The State of Startup Media' notes"
@@ -14,6 +14,11 @@ aliases:
 related:
   - "[[The State of Startup Media - Research]]"
   - "[[The State of Startup Media]]"
+  - "[[Fortune Term Sheet]]"
+  - "[[Axios Pro Rata]]"
+  - "[[Term Sheet]]"
+  - "[[Axios]]"
+  - "[[Fortune]]"
 ---
 
 # Dan Primack
@@ -28,6 +33,12 @@ related:
 ## Mentioned in
 
 - The State of Startup Media - Research — under "The personal frame," as the writer whose newsletter Kyle tracked across the Fortune → Axios move.
+
+## Connections
+
+- [Fortune Term Sheet](/notes/fortune) — the [Fortune](/notes/fortune) deals newsletter Kyle "used to live or die religiously by reading," authored by Primack before his move.
+- [Axios Pro Rata](/notes/axios) / [Term Sheet](/notes/fortune) — Kyle's go-to after Primack left [Fortune](/notes/fortune) for [Axios](/notes/axios), continuing the same daily deals coverage.
+- [The State of Startup Media](/essays/the-state-of-startup-media) — essay that uses Primack as a touchstone for the "before" era of 2–3 trusted tech sources, prior to the post-COVID media fragmentation.
 
 ## Open questions
 

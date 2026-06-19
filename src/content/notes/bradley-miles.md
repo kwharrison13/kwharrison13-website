@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/calls/May 31st, 2018.md"
@@ -15,7 +15,10 @@ tags:
 aliases:
   - "Bradley Miles"
 related:
-  - "[[Breaking into VC]]"
+  - "[[Breaking Into VC]]"
+  - "[[Crypto]]"
+  - "[[Venture Capital]]"
+  - "[[Creator Economy]]"
 ---
 
 # Bradley Miles
@@ -28,6 +31,13 @@ related:
 - Led research for CoinDesk, publishing quarterly ~100-page "State of Blockchain" reports. (source: raw/calls/May 31st, 2018.md)
 - Became an EIR with a Techstars managing partner; raised capital for a stealth venture. (source: raw/calls/May 31st, 2018.md)
 - Building FanCoin — a blockchain base currency that lets creators issue their own fan currencies and provides an exchange. (source: raw/calls/May 31st, 2018.md)
+
+## Connections
+
+- [Breaking Into VC](/notes/breaking-into-vc) — the book he authored, whose research-driven "become a recognized expert" thesis frames his path.
+- [Venture Capital](/notes/venture-capital) — became an EIR with a Techstars managing partner and raised capital for a stealth venture.
+- [Crypto](/notes/crypto) — led CoinDesk research and the blockchain-based FanCoin currency.
+- [Creator Economy](/notes/creator-economy) — FanCoin lets creators issue their own fan currencies.
 
 ## Mentioned in
 

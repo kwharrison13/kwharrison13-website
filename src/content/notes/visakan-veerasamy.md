@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
@@ -19,6 +19,10 @@ aliases:
 related:
   - "[[Deviance]]"
   - "[[Contrarianism]]"
+  - "[[Conviction-Led Contrarianism]]"
+  - "[[Elon Musk]]"
+  - "[[The Coward's Conviction]]"
+  - "[[Cultivating Cults]]"
 ---
 
 # Visakan Veerasamy
@@ -35,3 +39,15 @@ related:
 
 - [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — the foundational "deviance" source.
 - Conviction-Led Contrarianism - Research — research notes.
+
+## Connections
+
+- [Deviance](/notes/deviance) — the concept his 2023 talk introduces: the willingness to push back against society's norms.
+- [Contrarianism](/notes/contrarianism) — the broader stance his "deviance" framing feeds into.
+- [Elon Musk](/notes/elon-musk) — cited as the archetype of irreversible deviance via the 2007 Russia missile trip.
+- [Cultivating Cults](/essays/cultivating-cults) — essay that cites the talk.
+- [Barking in Public](/essays/barking-in-public) — essay that cites the talk.
+- [The Levers of Innovation](/essays/the-levers-of-innovation) — essay that cites the talk.
+- [Intellectual Seat Belts](/essays/intellectual-seat-belts) — essay that cites the talk.
+- [The Meme Economy](/essays/the-meme-economy) — essay that cites the talk.
+- [The Coward's Conviction](/essays/the-cowards-conviction) — essay that cites the talk.

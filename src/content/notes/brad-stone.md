@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-15"
-updated: "2026-06-15"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/readwise/Amazon Unbound by Brad Stone.md"
@@ -15,6 +15,9 @@ aliases:
   - "Brad Stone"
 related:
   - "[[Amazon Unbound]]"
+  - "[[The Everything Store]]"
+  - "[[Jeff Bezos]]"
+  - "[[Amazon]]"
 ---
 
 # Brad Stone
@@ -23,12 +26,18 @@ related:
 
 ## What we know
 
-- Author of [Amazon Unbound](/books/amazon-unbound) (2021), the sequel to his earlier "The Everything Store."
+- Author of [Amazon Unbound](/books/amazon-unbound) (2021), the sequel to his earlier [The Everything Store](/books/the-everything-store).
 - Source-of-truth credit: the book draws on internal Amazon memos passed to him by employees (notably the "Jeffisms" OP1 transcript), suggesting extensive insider access.
 
 ## Mentioned in
 
 - [Amazon Unbound](/books/amazon-unbound) — as author
+
+## Connections
+
+- [The Everything Store](/books/the-everything-store) — Stone's earlier book on Amazon, to which [Amazon Unbound](/books/amazon-unbound) is the sequel.
+- [Jeff Bezos](/notes/jeff-bezos) — the central subject Stone chronicles across both of his Amazon books.
+- [Amazon](/notes/amazon) — the company Stone covers as a recurring journalistic beat.
 
 ## Open questions
 

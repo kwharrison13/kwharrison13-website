@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -17,6 +17,8 @@ aliases:
 related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[Google]]"
+  - "[[Salt Security]]"
+  - "[[API Security]]"
 ---
 
 # Joel D'sa
@@ -32,3 +34,5 @@ related:
 ## Mentioned in
 
 - Salt Security Diligence — 2021 — listed as a diligence contact and resource author.
+- [Salt Security](/notes/salt-security) — surfaced as an outreach contact during the company's diligence research.
+- [API Security](/notes/api-security) — authored a talk on designing the right security architecture for APIs, cited as a diligence resource.

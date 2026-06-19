@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -21,6 +21,9 @@ related:
   - "[[Noname Security]]"
   - "[[Salt Security]]"
   - "[[Palo Alto Networks ($PANW)]]"
+  - "[[CrowdStrike ($CRWD)]]"
+  - "[[Wiz]]"
+  - "[[Traceable.ai]]"
 ---
 
 # Nir Rothenberg
@@ -42,3 +45,13 @@ related:
 
 - Salt Security Diligence — 2021 — expert reference call, October 4, 2021; evaluated Salt, NeoSec, IMvision, [Traceable.ai](/notes/traceable-ai), and chose Noname.
 - Noname Security - Diligence — same October 4, 2021 reference call, preserved in the Noname dossier as a Noname customer.
+
+## Connections
+
+- [Rapyd](/notes/rapyd) — the global payments network where Rothenberg served as CISO at the time of the interview.
+- [Noname Security](/notes/noname-security) — the API security vendor he selected over Salt on posture-management grounds.
+- [Salt Security](/notes/salt-security) — the vendor he passed on, calling it a "good passive security tool" limited to first-level traffic analysis.
+- [Traceable.ai](/notes/traceable-ai) — among the API security tools he evaluated before choosing Noname.
+- [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd) — cited as one of his existing endpoint-security vendors and as a category exemplar in his "must have" market framing.
+- [Palo Alto Networks ($PANW)](/notes/palo-alto-networks-panw) — a former vendor of his, cited as a firewall-category exemplar in the same framing.
+- [Wiz](/notes/wiz-io) — named (as "Wiz.io") alongside Orca as a CSPM-category exemplar in his security-stack framing.

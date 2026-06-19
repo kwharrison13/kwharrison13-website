@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://medium.com/@kwharrison13/the-new-urban-crisis-book-review-quotes-33a0b7b7bb27"
@@ -14,6 +14,8 @@ aliases:
 related:
   - "[[The New Urban Crisis]]"
   - "[[City Building]]"
+  - "[[Richard Florida]]"
+  - "[[Real Estate]]"
 ---
 
 # John F.C. Turner
@@ -26,7 +28,13 @@ related:
 
 ## Mentioned in
 
-- [The New Urban Crisis](/books/the-new-urban-crisis) — "housing as a noun" vs. "housing as a verb."
+- [The New Urban Crisis](/books/the-new-urban-crisis) — [Richard Florida](/notes/richard-florida)'s book invokes Turner's "housing as a noun" vs. "housing as a verb" distinction.
+
+## Connections
+
+- [Richard Florida](/notes/richard-florida) — author of [The New Urban Crisis](/books/the-new-urban-crisis), the source that surfaces Turner's argument.
+- [City Building](/notes/city-building) — Turner's bottom-up "housing as a verb" thesis bears directly on how cities house their poor.
+- [Real Estate](/notes/real-estate) — his self-built-housing argument concerns where and how low-income residents acquire housing relative to economic opportunity.
 
 ## Open questions
 

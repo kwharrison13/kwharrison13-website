@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/The Invention of Russia.md"
@@ -15,6 +15,7 @@ aliases:
   - "Solzhenitsyn"
 related:
   - "[[The Invention of Russia]]"
+  - "[[Propaganda]]"
 reference_count: 1
 ---
 
@@ -31,6 +32,10 @@ reference_count: 1
 ## Mentioned in
 
 - [The Invention of Russia](/books/the-invention-of-russia) — "Live Not by Lies" as the book's moral spine; later editorials echo his appeal to journalists.
+
+## Connections
+
+- [Propaganda](/notes/propaganda) — his image of the daily lie "incorporated into the state system as the vital link holding everything together" frames the book's diagnosis of Soviet and post-Soviet media.
 
 ## Open questions
 

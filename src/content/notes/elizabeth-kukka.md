@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/calls/May 31st, 2018.md"
@@ -15,6 +15,7 @@ aliases:
   - "Elizabeth Kukka"
 related:
   - "[[Plug and Play]]"
+  - "[[Venture Capital]]"
 ---
 
 # Elizabeth Kukka
@@ -28,6 +29,11 @@ related:
 ## Mentioned in
 
 - Elizabeth Kukka (Plug and Play) — 2018-05-31 — brief intro call on Plug and Play's model and footprint.
+
+## Connections
+
+- [Plug and Play](/notes/plug-and-play) — the global accelerator and investor she represents.
+- [Venture Capital](/notes/venture-capital) — Plug and Play operates as a stage-agnostic seed-to-Series-B+ investor writing $25K–$200K checks.
 
 ## Open questions
 

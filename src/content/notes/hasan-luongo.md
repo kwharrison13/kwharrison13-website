@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "/Users/kwharrison13/Downloads/Sprig fka UserLeap - Diligence.md"
@@ -16,6 +16,8 @@ aliases:
 related:
   - "[[Sprig fka UserLeap - Diligence]]"
   - "[[Chipper Cash]]"
+  - "[[Sprig]]"
+  - "[[Cisco]]"
 ---
 
 # Hasan Luongo
@@ -32,3 +34,9 @@ related:
 ## Mentioned in
 
 - Sprig fka UserLeap - Diligence — expert call, November 18th, 2021.
+
+## Connections
+
+- [Sprig](/notes/sprig) — Luongo was a ~1.5-year Sprig customer (~$18K/year), citing a survey that drove +190% adoption on a Uganda crypto feature.
+- Chipper Cash — where he serves as VP of Global Marketing, leading product-driven and brand growth.
+- [Cisco](/notes/cisco) — spent a few months there post-acquisition before his current role.

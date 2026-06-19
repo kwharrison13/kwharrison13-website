@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -19,6 +19,13 @@ related:
   - "[[TripActions]]"
   - "[[Salt Security]]"
   - "[[Snyk]]"
+  - "[[Adobe]]"
+  - "[[Signal Sciences]]"
+  - "[[Noname Security]]"
+  - "[[Traceable.ai]]"
+  - "[[Endpoint Security]]"
+  - "[[Application Security]]"
+  - "[[API Security]]"
 ---
 
 # Prabhath Karanth
@@ -38,3 +45,15 @@ related:
 ## Mentioned in
 
 - Salt Security Diligence — 2021 — expert reference call, October 5, 2021; current Salt Security customer at TripActions.
+
+## Connections
+
+- [TripActions](/notes/tripactions) — Director of Security Compliance & Assurance there; deployed Salt Security as a customer.
+- [Adobe](/notes/adobe) — spent 9 years building Adobe's security efforts through its cloud transition before TripActions.
+- [Salt Security](/notes/salt-security) — chose it for its API-stack vision over established incumbents.
+- [Signal Sciences](/notes/signal-sciences) — evaluated as an alternative during vendor selection.
+- [Noname Security](/notes/noname-security) — evaluated at Adobe; did not make the cut.
+- [Traceable.ai](/notes/traceable-ai) — evaluated as an alternative during vendor selection.
+- [Endpoint Security](/notes/endpoint-security) — ranked as his top security-investment priority, ahead of application and compliance spend.
+- [Application Security](/notes/application-security) — his second priority tier, within which API security sits as "medium."
+- [API Security](/notes/api-security) — the category Salt Security addresses; he frames it as a medium priority inside application security.

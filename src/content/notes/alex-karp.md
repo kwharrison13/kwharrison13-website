@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
@@ -18,6 +18,9 @@ related:
   - "[[Deviance]]"
   - "[[Likability]]"
   - "[[Contrarianism]]"
+  - "[[Conviction-Led Contrarianism]]"
+  - "[[Ralph Waldo Emerson]]"
+  - "[[John Mulaney]]"
 ---
 
 # Alex Karp
@@ -34,6 +37,14 @@ related:
 
 - [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — his essay is a load-bearing source for the agreeableness-vs-creativity argument.
 - Conviction-Led Contrarianism - Research — research notes.
+
+## Connections
+
+- [Ralph Waldo Emerson](/notes/ralph-waldo-emerson) — Karp invokes Emerson's *Self-Reliance* ("for nonconformity, the world whips you with its displeasure") to frame the cost of rejecting the crowd.
+- [John Mulaney](/notes/john-mulaney) — Karp borrows Mulaney's line that "likability is a jail" as the title-frame for his argument.
+- [Likability](/notes/likability) — his central target: the "culture of agreeableness" he argues moves institutions away from creative output.
+- [Contrarianism](/notes/contrarianism) — his defense of rejecting "what has come before" exemplifies conviction-led contrarian thinking.
+- [Deviance](/notes/deviance) — the rebellion of "building something from nothing" he describes is a form of productive deviance from prior successes.
 
 ## Open questions
 

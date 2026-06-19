@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 1st, 2018 (networking/sourcing call log): ~/Downloads/June 1st, 2018.md"
@@ -18,6 +18,9 @@ aliases:
 related:
   - "[[City of Dublin]]"
   - "[[The New City]]"
+  - "[[GovTech]]"
+  - "[[City Building]]"
+  - "[[Procurement]]"
 ---
 
 # Doug McCullough
@@ -33,3 +36,11 @@ related:
 ## Mentioned in
 
 - June 1st, 2018 — Doug McCullough (City of Dublin) — networking call on smart-city tech, data infrastructure, and vendor vetting.
+
+## Connections
+
+- [City of Dublin](/notes/city-of-dublin) — the Ohio city where McCullough serves as CIO and runs the Digital Experience Lab.
+- [GovTech](/notes/govtech) — his work selling and testing early-stage technology into municipal government sits squarely in this category.
+- [Procurement](/notes/procurement) — looks for procurement "loopholes" to fund $10–15K experiments and favors warm introductions over cold calls.
+- [City Building](/notes/city-building) — Dublin's early adoption of autonomous-mobility and IoT pilots ties into broader city-building themes.
+- [The New City](/notes/the-new-city) — frames the smart-city / autonomous-mobility context in which McCullough operates.

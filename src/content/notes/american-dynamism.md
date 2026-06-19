@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
@@ -21,6 +21,9 @@ related:
   - "[[Conviction]]"
   - "[[Katherine Boyle]]"
   - "[[Building American Dynamism]]"
+  - "[[Conviction-Led Contrarianism]]"
+  - "[[June 6th, 2022 — Katherine Boyle (a16z)]]"
+  - "[[a16z]]"
 ---
 
 # American Dynamism
@@ -42,3 +45,6 @@ related:
 
 - [Anduril](/notes/anduril) — the canonical American Dynamism company in the essay.
 - [Conviction](/notes/conviction) — what persists after the hype moment fades.
+- [Palmer Luckey](/notes/palmer-luckey) — Anduril's founder, whose conviction Kyle contrasts with the passing "moment."
+- [Katherine Boyle](/notes/katherine-boyle) — coined the term in [Building American Dynamism](/notes/building-american-dynamism).
+- [a16z](/notes/a16z) — the firm whose American Dynamism practice frames the movement.

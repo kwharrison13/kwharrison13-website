@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/The Hits Business - Research.md"
@@ -16,6 +16,7 @@ aliases:
 related:
   - "[[The Hits Business]]"
   - "[[Auteur Theory]]"
+  - "[[Martin Scorsese]]"
 ---
 
 # Quentin Tarantino

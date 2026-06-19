@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Open-Source Knowledge - Research.md"
@@ -17,6 +17,8 @@ related:
   - "[[Open-Source Knowledge - Research]]"
   - "[[Wikipedia]]"
   - "[[Influencers]]"
+  - "[[Creator Economy]]"
+  - "[[Open-Source Knowledge]]"
 ---
 
 # Catherine Yeo
@@ -33,3 +35,9 @@ related:
 
 - Open-Source Knowledge - Research — Wikipedia / notability source.
 - [Open-Source Knowledge](/essays/open-source-knowledge) — quoted on subjective notability.
+
+## Connections
+
+- [Creator Economy](/notes/creator-economy) — writes about content creators and has been an active creator since age 12.
+- [Wikipedia](/notes/wikipedia) — longtime editor; argues its editing is gatekept by a small group of top editors.
+- [Influencers](/notes/influencers) — her creator research overlaps the influencer/creator landscape.

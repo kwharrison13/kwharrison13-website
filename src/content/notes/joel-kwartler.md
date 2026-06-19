@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-18"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 6th, 2022 (Contrary Capital sourcing/diligence log): ~/Downloads/June 6th, 2022.md"
@@ -18,6 +18,10 @@ related:
   - "[[Sourcegraph]]"
   - "[[Curren Iyer]]"
   - "[[June 6th, 2022 — Joel Kwartler (Sourcegraph)]]"
+  - "[[GitLab]]"
+  - "[[Figma]]"
+  - "[[Microsoft]]"
+  - "[[Contrary Capital]]"
 ---
 
 # Joel Kwartler
@@ -33,3 +37,11 @@ related:
 ## Mentioned in
 
 - June 6th, 2022 — Joel Kwartler (Sourcegraph) — remote hiring, handbooks/"APIs between departments," and the Contrary Flywheel / Contrary Product Road Map.
+
+## Connections
+
+- [Sourcegraph](/notes/sourcegraph) — his employer; drawn to its [GitLab](/notes/gitlab)-modeled handbook transparency as a learning advantage.
+- [GitLab](/notes/gitlab) — the all-remote, open-handbook company whose visibility model Sourcegraph emulates.
+- [Figma](/notes/figma) — design tool he discovered while interning at [Microsoft](/notes/microsoft).
+- [Microsoft](/notes/microsoft) — where he interned and first encountered Figma.
+- [Contrary Capital](/notes/contrary) — the firm whose sourcing/diligence log captures this conversation.

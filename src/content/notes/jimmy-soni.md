@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-15"
-updated: "2026-06-15"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/readwise/The Founders by Jimmy Soni.md"
@@ -16,6 +16,10 @@ aliases:
   - "Soni"
 related:
   - "[[The Founders]]"
+  - "[[PayPal Mafia]]"
+  - "[[Scenius]]"
+  - "[[PayPal]]"
+  - "[[Brian Eno]]"
 ---
 
 # Jimmy Soni
@@ -30,6 +34,13 @@ related:
 ## Mentioned in
 
 - [The Founders](/books/the-founders) — as author
+
+## Connections
+
+- [PayPal](/notes/paypal) — the company at the center of [The Founders](/books/the-founders), framed less as a payments history than as the origin of a founder network.
+- [PayPal Mafia](/notes/paypal-mafia) — the talent network the book studies; its members went on to found subsequent Silicon Valley companies.
+- [Scenius](/notes/talent-vortex) — the lens Soni applies to PayPal, treating it as a collective talent vortex rather than a single-genius story.
+- [Brian Eno](/notes/brian-eno) — coined "scenius," the term Soni uses to describe the PayPal milieu.
 
 ## Open questions
 

@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Product Led Growth — The End User Era.md"
@@ -20,6 +20,9 @@ related:
   - "[[September 22nd, 2021 — Sunil Patro (SignEasy)]]"
   - "[[SignEasy]]"
   - "[[Loom]]"
+  - "[[Sunil Patro]]"
+  - "[[Product Led Growth — The End User Era]]"
+  - "[[GTM]]"
 ---
 
 # Calendly
@@ -37,4 +40,6 @@ related:
 
 ## Related concepts
 
-- [Loom](/notes/loom) — same bottoms-up GTM motion
+- [Loom](/notes/loom) — same bottoms-up GTM motion, cited alongside Calendly as a productivity-led adoption comparable
+- [SignEasy](/notes/signeasy) — the product whose GTM [Sunil Patro](/notes/sunil-patro) benchmarked against Calendly
+- [GTM](/notes/gtm) — Calendly is invoked here as a go-to-market/virality comparable

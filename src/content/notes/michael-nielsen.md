@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Open-Source Knowledge - Research.md"
@@ -22,6 +22,7 @@ related:
   - "[[Why Books Don't Work]]"
   - "[[Quantum Country]]"
   - "[[Tools For Thought]]"
+  - "[[Spaced Repetition]]"
 ---
 
 # Michael Nielsen
@@ -33,7 +34,11 @@ related:
 - Author of *Reinventing Discovery* — referenced in Kyle's notes as #[books-to-read](/notes/books-to-read) and as the lens for "why ideas are different than software today."
 - Collaborates with [Andy Matuschak](/notes/andy-matuschak) on a [Tools For Thought](/notes/tools-for-thought) research program; co-created Quantum Country, a "book" on quantum computation that interleaves prose with [Spaced Repetition](/notes/spaced-repetition) memory tests. (source: [Why Books Don't Work](/notes/why-books-don-t-work))
 
-## Mentioned in
+## Connections
 
-- Open-Source Knowledge - Research — *Reinventing Discovery* as a reading thread.
-- [Why Books Don't Work](/notes/why-books-don-t-work) — co-creator of Quantum Country and collaborator on Matuschak's research program.
+- Open-Source Knowledge - Research — *Reinventing Discovery* surfaced as a reading thread in this research note.
+- [Open Source Knowledge](/notes/open-source-knowledge) — the broader theme that frames Nielsen's "why ideas are different than software today" argument.
+- [Why Books Don't Work](/notes/why-books-don-t-work) — source for his collaboration with Matuschak; co-creator of Quantum Country.
+- [Andy Matuschak](/notes/andy-matuschak) — collaborator on the [Tools For Thought](/notes/tools-for-thought) research program.
+- [Tools For Thought](/notes/tools-for-thought) — the research program the two pursue together.
+- [Spaced Repetition](/notes/spaced-repetition) — the memory-test mechanism interleaved into Quantum Country's prose.

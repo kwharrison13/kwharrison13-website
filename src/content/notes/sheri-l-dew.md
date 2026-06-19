@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/books.json#library.2019"
@@ -15,6 +15,7 @@ aliases:
 related:
   - "[[Gordon B. Hinckley — Go Forward With Faith]]"
   - "[[Gordon B. Hinckley]]"
+  - "[[Ezra Taft Benson]]"
 ---
 
 # Sheri L. Dew
@@ -28,6 +29,12 @@ related:
 ## Mentioned in
 
 - [Gordon B. Hinckley — Go Forward With Faith](/books/gordon-b-hinckley-go-forward-with-faith) — author of the biography.
+
+## Connections
+
+- [Gordon B. Hinckley](/notes/gordon-b-hinckley) — subject of Dew's authorized biography.
+- [Gordon B. Hinckley — Go Forward With Faith](/books/gordon-b-hinckley-go-forward-with-faith) — the biography Dew authored.
+- [Ezra Taft Benson](/notes/ezra-taft-benson) — Dew also wrote a biography of him.
 
 ## Open questions
 

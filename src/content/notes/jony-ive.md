@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
@@ -17,6 +17,8 @@ aliases:
 related:
   - "[[Steve Jobs]]"
   - "[[Likability]]"
+  - "[[Apple]]"
+  - "[[Conviction-Led Contrarianism]]"
 ---
 
 # Jony Ive
@@ -27,6 +29,13 @@ related:
 
 - Per [*Jony Ive: The Genius Behind Apple's Greatest Products*](https://www.amazon.com/Jony-Ive-Genius-Greatest-Products/dp/159184617X) (as recounted in the research): after Jobs mistreated the team, Ive said Jobs should be kinder "because I care about the team." Jobs replied: "No Jony, you're just really vain... you just want people to like you. And I'm surprised at you because I thought you really held the work up as the most important, not how you believed you were perceived by other people."
 - Kyle uses the exchange to argue that the antidote to caring-what-people-think is caring about *the work*.
+
+## Connections
+
+- [Steve Jobs](/notes/steve-jobs) — counterpart in the recounted exchange, who tells Ive he is "just really vain."
+- [Apple](/notes/apple-aapl) — the company where Ive served as longtime chief designer.
+- [Likability](/notes/likability) — Jobs's charge that Ive "just want[s] people to like you" frames the page's tension between being liked and "the work."
+- [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — Kyle uses the anecdote to argue the antidote to caring what people think is caring about the work.
 
 ## Mentioned in
 

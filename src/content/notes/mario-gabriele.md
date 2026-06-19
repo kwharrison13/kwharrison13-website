@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/The Hits Business - Research.md"
@@ -17,6 +17,7 @@ related:
   - "[[The Generalist]]"
   - "[[A24]]"
   - "[[The Hits Business]]"
+  - "[[The Hits Business - Research]]"
 ---
 
 # Mario Gabriele

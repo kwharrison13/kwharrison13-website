@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
@@ -17,6 +17,9 @@ aliases:
 related:
   - "[[Contrarianism]]"
   - "[[Conviction]]"
+  - "[[Conviction-Led Contrarianism]]"
+  - "[[Elon Musk]]"
+  - "[[Donald Trump]]"
 ---
 
 # Bill Maher
@@ -33,3 +36,10 @@ related:
 
 - [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — the "they only care which side is saying something" example.
 - Conviction-Led Contrarianism - Research — research notes.
+
+## Connections
+
+- [Conviction](/notes/conviction) — the "Don't Be a Hypocrite" segment is invoked as the negative pole against genuine, held conviction.
+- [Contrarianism](/notes/contrarianism) — politically motivated about-faces are framed as antithetical to conviction-led contrarianism.
+- [Elon Musk](/notes/elon-musk) — cited example: liberals loved EVs until Musk turned conservative.
+- [Donald Trump](/notes/donald-trump) — cited examples: the "Make America Healthy Again" rebrand and the American Academy of Pediatrics' reversal on school reopening once Trump favored it.

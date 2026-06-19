@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -19,6 +19,9 @@ related:
   - "[[Salt Security]]"
   - "[[Gartner]]"
   - "[[DevSecOps]]"
+  - "[[API Security]]"
+  - "[[Apigee]]"
+  - "[[Ping Identity]]"
 ---
 
 # Michael Isbitski
@@ -37,3 +40,11 @@ related:
 ## Mentioned in
 
 - Salt Security Diligence — 2021 — internal interview with Salt's Technical Evangelist, October 12, 2021.
+
+## Connections
+
+- [Salt Security](/notes/salt-security) — Technical Evangelist at the company at the time of the interview.
+- [DevSecOps](/notes/devsecops) — his prior coverage area as the DevSecOps analyst at Gartner before joining Salt.
+- [API Security](/notes/api-security) — the topic he found "too hard to focus on" as a pure analyst, which drew him to Salt.
+- [Apigee](/notes/apigee) — cited as having tried AI/ML for API telemetry analysis that "just wasn't productized."
+- [Ping Identity](/notes/ping-identity) — acquirer of Elastic Beam, where, per his account, API security wasn't a core focus.

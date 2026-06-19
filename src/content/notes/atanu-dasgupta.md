@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -20,6 +20,11 @@ related:
   - "[[Kong]]"
   - "[[Noname Security]]"
   - "[[Salt Security]]"
+  - "[[Imperva]]"
+  - "[[Signal Sciences]]"
+  - "[[API Gateways]]"
+  - "[[ServiceNow ($NOW)]]"
+  - "[[CrowdStrike ($CRWD)]]"
 ---
 
 # Atanu Dasgupta
@@ -40,3 +45,12 @@ related:
 ## Mentioned in
 
 - Salt Security Diligence — 2021 — expert reference call, September 30, 2021; primary decision-maker for Salt Security purchase at Informatica.
+
+## Connections
+
+- [Informatica](/notes/informatica) — employer; VP Product Development & Engineering since December 2019.
+- [Salt Security](/notes/salt-security) — vendor he adopted; ~$500K/year spend, self-rated 5/5 familiarity, ROI "very high."
+- [Kong](/notes/kong) — prior [API Gateway](/notes/api-gateways) before Salt; anchors his [ServiceNow ($NOW)](/notes/servicenow-now) → [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd) :: Kong → Salt analogy.
+- [Noname Security](/notes/noname-security) — competing API security vendor he rated 5/5.
+- [Signal Sciences](/notes/signal-sciences) — API/app security tool he rated 4/5.
+- [Imperva](/notes/imperva) — API/app security vendor he rated 4/5.

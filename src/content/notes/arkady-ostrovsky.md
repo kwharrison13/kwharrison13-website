@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/The Invention of Russia.md"
@@ -13,6 +13,9 @@ aliases:
   - "Arkady Ostrovsky"
 related:
   - "[[The Invention of Russia]]"
+  - "[[Vladimir Putin]]"
+  - "[[Propaganda]]"
+  - "[[Authoritarianism]]"
 reference_count: 1
 ---
 
@@ -28,6 +31,12 @@ reference_count: 1
 ## Mentioned in
 
 - [The Invention of Russia](/books/the-invention-of-russia) — author.
+
+## Connections
+
+- [Propaganda](/notes/propaganda) — his thesis centers on the "means of mass information" manufacturing the country's "meaning," both dismantling the Soviet system and building the new one.
+- [Authoritarianism](/notes/authoritarianism) — traces how media led Russia "from freedom to war," producing the post-Soviet authoritarian order.
+- [Vladimir Putin](/notes/vladimir-putin) — his history runs from the late Soviet era through the consolidation of power under Putin.
 
 ## Open questions
 

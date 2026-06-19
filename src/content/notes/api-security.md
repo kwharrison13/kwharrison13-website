@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -23,6 +23,13 @@ related:
   - "[[Developer-Led Security]]"
   - "[[DevSecOps]]"
   - "[[OWASP]]"
+  - "[[Zero Trust]]"
+  - "[[Nir Rothenberg]]"
+  - "[[Michael Isbitski]]"
+  - "[[Prabhakar Kasu]]"
+  - "[[George Do]]"
+  - "[[KuppingerCole]]"
+  - "[[CrowdStrike]]"
 ---
 
 # API Security
@@ -55,3 +62,12 @@ related:
 - [DevSecOps](/notes/devsecops) — the organizational practice API security plugs into
 - [OWASP](/notes/owasp) — the OWASP API Security Top 10 defines the threat taxonomy
 - [Zero Trust](/notes/zero-trust) — overlapping security philosophy; access-focused vs. behavior-focused
+- [CrowdStrike](/notes/crowdstrike-crwd) — cited in the "must-have" stack framing as the endpoint-security counterpart to an API security tool
+
+## People
+
+- [Nir Rothenberg](/notes/nir-rothenberg) — reference call describing why WAFs miss API business logic, the must-have stack framing, and a $6–10B+ TAM estimate
+- [Michael Isbitski](/notes/michael-isbitski) — reference call on why API gateways can't baseline normal behavior or detect anomalies
+- [Prabhakar Kasu](/notes/prabhakar-kasu) — reference call giving a $5–10B TAM estimate for the category
+- [George Do](/notes/george-do) — reference call giving a $10–20B TAM estimate for the category
+- [KuppingerCole](/notes/kuppingercole) — analyst firm covering the space since 2014; counted 31 meaningful vendors by 2021

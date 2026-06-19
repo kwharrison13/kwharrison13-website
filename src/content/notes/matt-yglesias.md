@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The Hardening Of The Great Softening' notes"
@@ -17,6 +17,7 @@ aliases:
   - "Yglesias"
 related:
   - "[[One Billion Americans]]"
+  - "[[The Hardening Of The Great Softening - Research]]"
 ---
 
 # Matt Yglesias

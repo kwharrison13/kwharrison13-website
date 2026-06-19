@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Unions, Unions Everywhere - Research.md"
@@ -17,6 +17,10 @@ aliases:
 related:
   - "[[Unions]]"
   - "[[Unions, Unions Everywhere - Research]]"
+  - "[[Automation]]"
+  - "[[Future of Work]]"
+  - "[[Universal Basic Income]]"
+  - "[[Retraining]]"
 ---
 
 # Mark Cuban
@@ -31,3 +35,10 @@ related:
 ## Mentioned in
 
 - Unions, Unions Everywhere - Research — cited in the automation/future-of-work thread.
+
+## Connections
+
+- [Automation](/notes/automation) — frames AI/ML as an "earthquake" force driving massive near-term labor disruption.
+- [Future of Work](/notes/future-of-work) — his two-part fix (data tagging/labeling jobs + AmeriCorps-style expansion) is a future-of-work proposal.
+- [Universal Basic Income](/notes/universal-basic-income) — explicitly rejects UBI as the solution, favoring reallocation of automation gains into work programs instead.
+- [Retraining](/notes/retraining) — proposes data labeling and expanded national-service programs as the absorption path for displaced low-skilled workers.

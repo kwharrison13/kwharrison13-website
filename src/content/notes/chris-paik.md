@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
@@ -16,6 +16,9 @@ aliases:
   - "Chris Paik"
 related:
   - "[[Contrarianism]]"
+  - "[[Conviction-Led Contrarianism]]"
+  - "[[Conviction]]"
+  - "[[Capital Allocation]]"
 ---
 
 # Chris Paik
@@ -31,3 +34,10 @@ related:
 
 - [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — the "don't be afraid to accept what's obvious" playbook item.
 - Conviction-Led Contrarianism - Research — research notes.
+
+## Connections
+
+- [Contrarianism](/notes/contrarianism) — Paik's "right AND clever" critique is a caution against reflexive contrarianism.
+- [Conviction](/notes/conviction) — his point illustrates that conviction can land on a widely held belief that happens to be true.
+- [Capital Allocation](/notes/capital-allocation) — frames why public investors underweighted FAANG despite it driving most market returns.
+- [Investment Returns](/notes/investment-returns) — the observation that FAANG drove the majority of market returns.

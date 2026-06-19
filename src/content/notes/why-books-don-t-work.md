@@ -34,13 +34,13 @@ related:
   - "[[Open Source Knowledge]]"
   - "[[Education]]"
   - "[[Multiple Intelligences]]"
-  - "[[Quantum Country]]"
+  - "Quantum Country"
   - "[[Made To Stick]]"
   - "[[How To Take Smart Notes]]"
   - "[[The Science of Learning]]"
   - "[[Self-Reflection]]"
   - "[[Sapiens]]"
-  - "[[Carl Sagan]]"
+  - "Carl Sagan"
 ---
 
 # Why Books Don't Work

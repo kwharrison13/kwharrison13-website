@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Open-Source Knowledge - Research.md"
@@ -18,6 +18,7 @@ related:
   - "[[How To Take Smart Notes]]"
   - "[[Zettelkasten]]"
   - "[[Open-Source Knowledge - Research]]"
+  - "[[Open-Source Knowledge]]"
 ---
 
 # Sonke Ahrens

@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
@@ -17,6 +17,8 @@ aliases:
 related:
   - "[[September 22nd, 2021 — Mark Goldberg (Career Feedback)]]"
   - "[[Mark Goldberg]]"
+  - "[[Index Ventures]]"
+  - "[[Payments]]"
 ---
 
 # Adyen
@@ -33,4 +35,6 @@ related:
 
 ## Related concepts
 
-- [Mark Goldberg](/notes/mark-goldberg) — used it as a model.
+- [Mark Goldberg](/notes/mark-goldberg) — cited Adyen as a model of strong growth-thesis formation.
+- [Payments](/notes/payments) — the market Adyen operates in as a payments platform.
+- [Index Ventures](/notes/index-ventures) — the sourcing/diligence call log that surfaced Adyen as the growth-thesis example.

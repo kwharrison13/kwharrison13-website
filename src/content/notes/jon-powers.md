@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/calls/May 31st, 2018.md"
@@ -16,6 +16,9 @@ aliases:
   - "Jon Powers"
 related:
   - "[[CleanCapital]]"
+  - "[[Renewable Energy]]"
+  - "[[Distributed Energy Model]]"
+  - "[[Climate Change]]"
 ---
 
 # Jon Powers
@@ -28,6 +31,13 @@ related:
 - Got interested in third-party finance while working on energy financing policy. (source: raw/calls/May 31st, 2018.md)
 - Has done extensive work in energy efficiency beyond solar; excited about "energy as a service." (source: raw/calls/May 31st, 2018.md)
 - Launched a podcast, "Experts Only," on energy innovation and financing. (source: raw/calls/May 31st, 2018.md)
+
+## Connections
+
+- [CleanCapital](/notes/cleancapital) — company he co-founded to apply third-party finance to clean-energy assets.
+- [Renewable Energy](/notes/renewable-energy) — the solar and clean-energy assets his financing model targets.
+- [Distributed Energy Model](/notes/distributed-energy-model) — relates to his "energy as a service" interest and work beyond utility-scale solar.
+- [Climate Change](/notes/climate-change) — the broader problem space behind his clean-energy and sustainability work.
 
 ## Mentioned in
 

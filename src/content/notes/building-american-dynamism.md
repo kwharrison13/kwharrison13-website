@@ -24,7 +24,7 @@ related:
   - "[[a16z]]"
   - "[[American Dynamism]]"
   - "[[It's Time To Build]]"
-  - "[[Ryan Petersen]]"
+  - "Ryan Petersen"
   - "[[Flexport]]"
   - "[[Marc Andreessen]]"
   - "[[SpaceX]]"

@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/calls/May 31st, 2018.md"
@@ -16,6 +16,8 @@ aliases:
   - "Breaking Into VC"
 related:
   - "[[Bradley Miles]]"
+  - "[[Venture Capital]]"
+  - "[[Expertise]]"
 ---
 
 # Breaking into VC
@@ -39,4 +41,6 @@ related:
 
 ## Related concepts
 
-- _None yet._
+- [Bradley Miles](/notes/bradley-miles) — author of the book; built the research-driven thesis behind it.
+- [Venture Capital](/notes/venture-capital) — the industry the book targets breaking into.
+- [Expertise](/notes/expertise) — the book's core mechanism: become the recognized expert until you have to be hired.

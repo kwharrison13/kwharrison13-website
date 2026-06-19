@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/The Hits Business - Research.md"
@@ -16,6 +16,8 @@ aliases:
 related:
   - "[[The Hits Business]]"
   - "[[Auteur Theory]]"
+  - "[[The Hits Business - Research]]"
+  - "[[Intellectual Property]]"
 ---
 
 # Ryan Reynolds
@@ -25,8 +27,8 @@ related:
 ## What we know
 
 - With Rhett Reese and Paul Wernick, "acted the role of auteurs" in shaping Deadpool as a character.
-- The Deadpool franchise illustrates the essay's thesis that big IP can still be *good*: *Deadpool & Wolverine* ($200M budget, 78% Rotten Tomatoes) vs. *Batman v Superman* ($325M, 29%) — "Bigger does not mean better. But good does not mean small."
+- The Deadpool franchise illustrates the essay's thesis that big [IP](/notes/intellectual-property) can still be *good*: *Deadpool & Wolverine* ($200M budget, 78% Rotten Tomatoes) vs. *Batman v Superman* ($325M, 29%) — "Bigger does not mean better. But good does not mean small."
 
 ## Mentioned in
 
-- [The Hits Business](/essays/the-hits-business) / The Hits Business - Research
+- [The Hits Business](/essays/the-hits-business) / The Hits Business - Research — cited as an [auteur](/notes/auteur-theory) across film and business; his Deadpool work anchors the essay's argument that large-scale [Intellectual Property](/notes/intellectual-property) can still produce good work.

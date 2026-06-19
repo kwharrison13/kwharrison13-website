@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "/Users/kwharrison13/Downloads/Sprig fka UserLeap - Diligence.md"
@@ -15,6 +15,8 @@ aliases:
 related:
   - "[[Sprig fka UserLeap - Diligence]]"
   - "[[Dropbox]]"
+  - "[[Sprig]]"
+  - "[[UserTesting]]"
 ---
 
 # Yue Wu
@@ -32,3 +34,9 @@ related:
 ## Mentioned in
 
 - Sprig fka UserLeap - Diligence — expert call, November 4th, 2021.
+
+## Connections
+
+- [Dropbox](/notes/dropbox) — employer; Group Product Manager since September 2020, running an internal incubator in the collaboration space.
+- [Sprig](/notes/sprig) — the product she uses (~1 year tenure as a customer, familiarity 5/5, primary decision-maker) to measure CSAT on a new product.
+- [UserTesting](/notes/usertesting) — one of the other research/testing vendors she named alongside Sprig.

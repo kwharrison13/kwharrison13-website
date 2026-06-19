@@ -19,10 +19,10 @@ tags:
 aliases:
   - "Infinite Games"
 related:
-  - "[[Jack Raines]]"
-  - "[[Young Money]]"
-  - "[[James Carse]]"
-  - "[[Finite and Infinite Games]]"
+  - "Jack Raines"
+  - "Young Money"
+  - "James Carse"
+  - "Finite and Infinite Games"
 ---
 
 ## Key Highlights

@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-15"
-updated: "2026-06-15"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/readwise/Elon Musk by Ashlee Vance.md"
@@ -20,14 +20,22 @@ aliases:
   - "Elon Musk"
   - "Musk"
 related:
-  - "[[Elon Musk]]"
   - "[[The Founders]]"
+  - "[[Elon Musk (Vance)]]"
   - "[[Amazon Unbound]]"
   - "[[First Principles Thinking]]"
   - "[[Storytelling as Leadership]]"
   - "[[Jeff Bezos]]"
   - "[[Peter Thiel]]"
   - "[[Max Levchin]]"
+  - "[[Peter Nicholson]]"
+  - "[[John Malloy]]"
+  - "[[JB Straubel]]"
+  - "[[Sandeep Payne]]"
+  - "[[Mike Moritz]]"
+  - "[[PayPal]]"
+  - "[[SpaceX]]"
+  - "[[Blue Origin]]"
 ---
 
 # Elon Musk

@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -16,6 +16,8 @@ aliases:
 related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[AON]]"
+  - "[[Salt Security]]"
+  - "[[Checkmarx]]"
   - "[[Wiz.io]]"
   - "[[Noname Security]]"
 ---
@@ -37,6 +39,15 @@ related:
 ## Mentioned in
 
 - Salt Security Diligence — 2021 — expert reference call, September 29, 2021; evaluated Salt Security, Noname Security, and Virtis.
+
+## Connections
+
+- [AON](/notes/aon) — employer; Global Head of Cybersecurity responsible for the full security tooling stack.
+- [Salt Security](/notes/salt-security) — vendor he was evaluating in POC for API security as of September 2021.
+- [Checkmarx](/notes/checkmarx) — AON's existing application-testing platform, which did not cover API security.
+- [Wiz.io](/notes/wiz-io) — cloud security vendor he was familiar with from a similar deployment/onboarding process.
+- [Noname Security](/notes/noname-security) — Salt Security competitor he assessed in the same API-security evaluation.
+- [Microsoft](/notes/microsoft) — among his prior employers across 25+ years in technology.
 
 ## Open questions
 

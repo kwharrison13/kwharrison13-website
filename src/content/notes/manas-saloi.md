@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
@@ -16,6 +16,8 @@ aliases:
   - "Manas Saloi"
 related:
   - "[[Contrarianism]]"
+  - "[[Alex Karp]]"
+  - "[[Conviction-Led Contrarianism]]"
 ---
 
 # Manas Saloi

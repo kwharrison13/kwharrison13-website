@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
@@ -18,6 +18,7 @@ related:
   - "[[September 22nd, 2021 — Mark Goldberg (Career Feedback)]]"
   - "[[Mark Goldberg]]"
   - "[[Ramp]]"
+  - "[[Brex]]"
 ---
 
 # Altimeter
@@ -34,4 +35,6 @@ related:
 
 ## Related concepts
 
-- [Ramp](/notes/ramp) — Altimeter led the round; [Mark Goldberg](/notes/mark-goldberg) — raised the example.
+- [Ramp](/notes/ramp) — an Altimeter principal led Ramp's round in the cited thesis example.
+- [Brex](/notes/brex) — the comparison point in the Brex/Ramp thesis example where Altimeter appears.
+- [Mark Goldberg](/notes/mark-goldberg) — raised the Altimeter/Ramp example during the career-feedback call.

@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://medium.com/@kwharrison13/the-new-urban-crisis-book-review-quotes-33a0b7b7bb27"
@@ -16,6 +16,7 @@ aliases:
 related:
   - "[[The New Urban Crisis]]"
   - "[[City Building]]"
+  - "[[Walt Disney and the Promise of Progress City]]"
 ---
 
 # Jane Jacobs

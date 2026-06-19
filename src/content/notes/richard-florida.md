@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "https://medium.com/@kwharrison13/the-new-urban-crisis-book-review-quotes-33a0b7b7bb27"
@@ -16,6 +16,7 @@ related:
   - "[[The New Urban Crisis]]"
   - "[[The Rise of the Creative Class]]"
   - "[[City Building]]"
+  - "[[Universal Basic Income]]"
 ---
 
 # Richard Florida
@@ -33,6 +34,12 @@ related:
 ## Mentioned in
 
 - [The New Urban Crisis](/books/the-new-urban-crisis) — author; the book Kyle read and annotated heavily.
+
+## Connections
+
+- The Rise of the Creative Class — his 2002 book arguing urban success comes from attracting talented people rather than companies.
+- [City Building](/notes/city-building) — his work on talent clustering, superstar cities, and inequality bears directly on how cities grow and stratify.
+- [Universal Basic Income](/notes/universal-basic-income) — among his proposed remedies for the new urban crisis is a guaranteed minimum income / negative income tax.
 
 ## Open questions
 

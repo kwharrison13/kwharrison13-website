@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/calls/May 31st, 2018.md"
@@ -16,6 +16,9 @@ aliases:
 related:
   - "[[Atomic Ventures]]"
   - "[[Nate Quinn]]"
+  - "[[Venture Studio]]"
+  - "[[Venture Capital]]"
+  - "[[Goldman Sachs]]"
 ---
 
 # Tyler Payne
@@ -32,6 +35,14 @@ related:
 ## Mentioned in
 
 - Tyler Payne (Atomic Ventures) — 2018-05-31 — intro call on Atomic's venture-building thesis.
+
+## Connections
+
+- [Atomic Ventures](/notes/atomic-ventures) — interned there multiple times and now runs product inside its venture-building model.
+- [Venture Studio](/notes/venture-studio) — the venture-building approach Atomic uses to spin up early-stage companies like his agtech startup.
+- [Venture Capital](/notes/venture-capital) — career path spanning VC internships at Atomic and Alta before building inside a studio.
+- [Goldman Sachs](/notes/goldman-sachs) — did oil & gas research there earlier in his career.
+- [Nate Quinn](/notes/nate-quinn) — was in the accounting program with him.
 
 ## Open questions
 

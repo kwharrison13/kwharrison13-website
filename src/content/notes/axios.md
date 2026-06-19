@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The State of Startup Media' notes"
@@ -19,6 +19,7 @@ aliases:
 related:
   - "[[Dan Primack]]"
   - "[[The State of Startup Media - Research]]"
+  - "[[The State of Startup Media]]"
 ---
 
 # Axios
@@ -29,6 +30,12 @@ related:
 
 - Multiple Axios newsletters appear in Kyle's 2017 inventory: **Axios Pro Rata** (deals; [Dan Primack](/notes/dan-primack)), **Axios Markets**, **Axios Media Trends**, **Axios Future**.
 - In the published essay, Axios is named alongside The Information as a "new platform" that "oscillated between larger-than-life coverage of big tech and politics… or dabbled in startup 'skepticism.'"
+
+## Related concepts
+
+- [Dan Primack](/notes/dan-primack) — writes Axios's deals coverage in the Pro Rata newsletter.
+- [The State of Startup Media](/essays/the-state-of-startup-media) — the published essay that names Axios in its media-landscape framing.
+- The State of Startup Media - Research — research notes listing several Axios newsletters in Kyle's 2017 inventory.
 
 ## Where it shows up
 

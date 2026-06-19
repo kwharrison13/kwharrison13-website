@@ -29,7 +29,7 @@ related:
   - "[[Truman G. Madsen]]"
   - "[[Joseph Smith Lecture 1 — The First Vision and Its Aftermath]]"
   - "[[Hyrum Smith]]"
-  - "[[Emma Smith]]"
+  - "Emma Smith"
   - "[[Eliza R. Snow]]"
   - "[[Brigham Young]]"
   - "[[Hugh Nibley]]"

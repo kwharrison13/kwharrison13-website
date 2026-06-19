@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Conversation notes + prep research — August 2nd, 2014 (John Hoffmire at Oxford): ~/Downloads/John Hoffmire Conversation at Oxford.md"
@@ -22,6 +22,12 @@ related:
   - "[[Employee Ownership]]"
   - "[[Impact Investing]]"
   - "[[Financial Literacy]]"
+  - "[[ESOP]]"
+  - "[[Investment Banking]]"
+  - "[[Private Equity]]"
+  - "[[Venture Capital]]"
+  - "[[MBA]]"
+  - "[[Mentorship]]"
   - "[[August 2nd, 2014 — John Hoffmire Conversation at Oxford]]"
 ---
 
@@ -52,6 +58,16 @@ See August 2nd, 2014 — John Hoffmire Conversation at Oxford for full detail.
 ## Mentioned in
 
 - August 2nd, 2014 — John Hoffmire Conversation at Oxford — Kyle's conversation with Hoffmire on business education, employee ownership, impact investing, and financial literacy.
+
+## Connections
+
+- [Employee Ownership](/notes/employee-ownership) — the central thread of Hoffmire's career and teaching; led the first ESOP share sale at K-REP in Kenya and chairs work in this space.
+- [ESOP](/notes/esop) — his pre-academic specialty as an investment banker; helped employees buy and manage ~$2.2B of ESOP stock.
+- [Investment Banking](/notes/investment-banking) — founded/ran his own ESOP-focused investment-banking firm (sold to American Capital).
+- [Private Equity](/notes/private-equity) — later VP at Ampersand Ventures, formerly Paine Webber's private equity group.
+- [Venture Capital](/notes/venture-capital) — part of his ~20-year pre-academic career in equity investing, VC, and consulting.
+- [MBA](/notes/mba-degrees) — teaches in the Saïd MBA programme yet is bearish on the modern two-year MBA and theory generally.
+- [Mentorship](/notes/mentorship) — skeptical of mentorship at scale, arguing it mostly fails without a quid-pro-quo.
 
 ## Open questions
 

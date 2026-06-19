@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -18,6 +18,8 @@ related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[KuppingerCole]]"
   - "[[Martin Kuppinger]]"
+  - "[[API Security]]"
+  - "[[Salt Security]]"
 ---
 
 # Alexei Balaganski
@@ -32,6 +34,13 @@ related:
 - Key thesis: "Why would you want to protect individual components of your infrastructure when you can just protect your data at the point of creation?" — close relationship between API security and data access controls. (Source: Salt Security Diligence — 2021)
 - View: network security vendors ("dinosaurs") are fighting for relevance; data protection is where the whole cybersecurity market is moving.
 - Author of: API Management and Security (KuppingerCole Leadership Compass); API Management & Security Buyer's Compass.
+
+## Connections
+
+- [KuppingerCole](/notes/kuppingercole) — the European identity-and-cybersecurity analyst firm where he works.
+- [Martin Kuppinger](/notes/martin-kuppinger) — KuppingerCole principal analyst; appeared alongside Balaganski in the analyst session.
+- [API Security](/notes/api-security) — the space he has covered since 2014 and authored Leadership Compass / Buyer's Compass reports on.
+- [Salt Security](/notes/salt-security) — the API security vendor evaluated in the diligence where his analyst views were sourced.
 
 ## Mentioned in
 

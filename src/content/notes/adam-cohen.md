@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 1st, 2018 (networking/sourcing call log): ~/Downloads/June 1st, 2018.md"
@@ -19,6 +19,8 @@ aliases:
 related:
   - "[[UC Berkeley]]"
   - "[[The New City]]"
+  - "[[City Building]]"
+  - "[[Transportation]]"
 ---
 
 # Adam Cohen
@@ -34,3 +36,10 @@ related:
 ## Mentioned in
 
 - June 1st, 2018 — Adam Cohen (UC Berkeley) — networking call on AVs, land use, and the future of parking.
+
+## Connections
+
+- [UC Berkeley](/notes/uc-berkeley) — institutional base for his shared-mobility and policy research.
+- [City Building](/notes/city-building) — argues land use, walkable communities, and policy (not the vehicles) are the real levers shaping cities.
+- [Transportation](/notes/transportation) — researches the future of mobility, autonomous vehicles, and parking.
+- [The New City](/notes/the-new-city) — adjacent to his views on land use, walkability, and rethinking urban form.

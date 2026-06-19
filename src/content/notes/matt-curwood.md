@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — May 16th, 2018 (networking/sourcing call log): ~/Downloads/May 16th, 2018.md"
@@ -18,6 +18,9 @@ aliases:
 related:
   - "[[Curwood Consulting]]"
   - "[[The New City]]"
+  - "[[Transportation]]"
+  - "[[City Building]]"
+  - "[[Trends]]"
 ---
 
 # Matt Curwood
@@ -33,3 +36,9 @@ related:
 ## Mentioned in
 
 - May 16th, 2018 — Matt Curwood (Curwood Consulting) — networking call on transportation/mobility consulting.
+
+## Connections
+
+- [Transportation](/notes/transportation) — his core operating and consulting domain (shuttle/coach operations, overnight buses, scooters, water transit).
+- [City Building](/notes/city-building) — came to the US with a city-planning background that underpins his ground-transportation work.
+- [Trends](/notes/trends) — flags water transportation and big-city commuter services as the key mobility trends to watch.

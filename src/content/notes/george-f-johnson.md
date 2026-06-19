@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Unions, Unions Everywhere - Research.md"
@@ -22,6 +22,8 @@ related:
   - "[[Unions]]"
   - "[[Gerald Zahavi]]"
   - "[[City Building]]"
+  - "[[Welfare Capitalism]]"
+  - "[[George F. Johnson and His Industrial Democracy]]"
   - "[[Unions, Unions Everywhere - Research]]"
 ---
 
@@ -43,6 +45,14 @@ related:
 
 - [George F. Johnson and His Industrial Democracy](/books/george-f-johnson-and-his-industrial-democracy)
 - Unions, Unions Everywhere - Research — the origin story and emotional anchor of the essay; the "if every company were a George F., we wouldn't need unions" argument.
+
+## Connections
+
+- [The Square Deal](/notes/the-square-deal) — Johnson's name for his program of high wages, free amenities, and company-subsidized housing.
+- [Welfare Capitalism](/notes/the-square-deal) — the broader model Johnson pioneered, treating worker welfare as a competitive advantage rather than a cost.
+- [Unions](/notes/unions) — Johnson positioned the Square Deal as a union substitute; ~80% of his workers voted against organizing, even as he sent spies after organizers.
+- [Gerald Zahavi](/notes/gerald-zahavi) — author of *"Workers, Managers, and Welfare Capitalism,"* the scholarly study of Endicott-Johnson.
+- [City Building](/notes/city-building) — the Endicott-Johnson company town (libraries, parks, hospitals, pools, carousels) as an example of employer-built community.
 
 ## Open questions
 

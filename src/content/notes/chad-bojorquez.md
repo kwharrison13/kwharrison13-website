@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/calls/May 31st, 2018.md"
@@ -16,6 +16,8 @@ aliases:
   - "Chad Bojorquez"
 related:
   - "[[Destination: Home]]"
+  - "[[Homelessness]]"
+  - "[[Cisco]]"
 ---
 
 # Chad Bojorquez
@@ -31,6 +33,12 @@ related:
 ## Mentioned in
 
 - Chad Bojorquez (Destination: Home) — 2018-05-31 — call on Destination: Home's model for ending homelessness in Santa Clara County.
+
+## Connections
+
+- [Destination: Home](/notes/destination-home) — the Santa Clara County collective-impact effort where he serves as operations lead.
+- [Homelessness](/notes/homelessness) — the problem his work targets, via 6,000 new housing units and aligned service interventions.
+- [Cisco](/notes/cisco) — funder of the $50M grant he spent roughly a year securing to seed the Supportive Housing and Innovation Fund.
 
 ## Open questions
 

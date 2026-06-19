@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — May 16th, 2018 (networking/sourcing call log): ~/Downloads/May 16th, 2018.md"
@@ -16,6 +16,9 @@ aliases:
   - "Jeet Raut"
 related:
   - "[[The New City]]"
+  - "[[City Building]]"
+  - "[[GovTech]]"
+  - "[[Data in Investing]]"
 ---
 
 # Jeet Raut
@@ -31,3 +34,10 @@ related:
 ## Mentioned in
 
 - May 16th, 2018 — Jeet Raut (Potential CEO) — networking call on building a city-data product.
+
+## Connections
+
+- [The New City](/notes/the-new-city) — the city-building context for the municipal data product discussed.
+- [City Building](/notes/city-building) — the product targets municipalities, scraping and supplementing city data.
+- [GovTech](/notes/govtech) — selling a data/consulting product to municipal governments.
+- [Data in Investing](/notes/data-in-investing) — the proposed product is built on scraped plus questionnaire data, with a data-analyst-first hiring path.

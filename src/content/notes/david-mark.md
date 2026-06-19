@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -19,6 +19,7 @@ related:
   - "[[Salt Security]]"
   - "[[Noname Security]]"
   - "[[Snyk]]"
+  - "[[CI/CD]]"
 ---
 
 # David Mark
@@ -34,6 +35,14 @@ related:
 - Key critique of Salt: alerts require manual triage (not integrated into [CI/CD](/notes/ci-cd) / developer workflows), primarily serves security teams not DevOps, high false-positive rate.
 - Started evaluating [Noname Security](/notes/noname-security) as a potential replacement at time of interview.
 - Killer feature of Salt he valued most: attack timeline visualization — showing what happened, what was accessed, in sequence. (Source: Salt Security Diligence — 2021)
+
+## Connections
+
+- [Appsflyer](/notes/appsflyer) — employer; DevOps Team Lead and Architect with vendor-relationship and final decision authority.
+- [Salt Security](/notes/salt-security) — design partner and early customer he evaluated; critiqued false-positive rate and weak DevOps integration.
+- [Snyk](/notes/snyk) — second security tool he was the primary evaluator and decision-maker for at Appsflyer.
+- [Noname Security](/notes/noname-security) — alternative he began evaluating as a potential Salt replacement.
+- [CI/CD](/notes/ci-cd) — the developer-workflow integration he found Salt's manual-triage alerts failed to fit into.
 
 ## Mentioned in
 

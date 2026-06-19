@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
@@ -27,6 +27,14 @@ related:
   - "[[Headway]]"
   - "[[Talkspace]]"
   - "[[Kareo]]"
+  - "[[Alma]]"
+  - "[[Healthcare]]"
+  - "[[Valued Empyrean]]"
+  - "[[Business-in-a-Box]]"
+  - "[[Index Ventures]]"
+  - "[[Adam Chekroud]]"
+  - "[[Nicole Kleiman-Reck]]"
+  - "[[Darwin Harrison]]"
 ---
 
 # Behavioral Health
@@ -35,7 +43,7 @@ related:
 
 ## How sources describe it
 
-- Two expert calls on Sept 22, 2021 covered the space — employer benefits that measure outcomes (Spring, Lyra, Ginger) vs. provider-infrastructure marketplaces that handle credentialing/billing for therapists (Alma, [SonderMind](/notes/sondermind), [Headway](/notes/headway)) vs. D2C teletherapy ([Talkspace](/notes/talkspace), BetterHelp) and platforms like [Grow Therapy](/notes/grow-therapy).
+- Two expert calls on Sept 22, 2021 covered the space — employer benefits that measure outcomes (Spring, Lyra, Ginger) vs. provider-infrastructure marketplaces that handle credentialing/billing for therapists ([Alma](/notes/alma), [SonderMind](/notes/sondermind), [Headway](/notes/headway)) vs. D2C teletherapy ([Talkspace](/notes/talkspace), BetterHelp) and platforms like [Grow Therapy](/notes/grow-therapy).
 
 ## Where it shows up
 
@@ -45,6 +53,14 @@ related:
 
 ## Related concepts
 
+- [Healthcare](/notes/healthcare) — the broader category this sits within.
 - [Spring Health](/notes/spring-health) — outcomes-based employer benefit.
 - [Grow Therapy](/notes/grow-therapy) — provider enablement.
-- [Lyra](/notes/lyra) — competitor.
+- [Lyra](/notes/lyra) — employer-benefit competitor to Spring Health.
+- [Alma](/notes/alma) — provider-infrastructure marketplace handling credentialing/billing for therapists.
+- [SonderMind](/notes/sondermind) — provider-infrastructure marketplace covered in the Sept 22 calls.
+- [Headway](/notes/headway) — provider-infrastructure marketplace covered in the Sept 22 calls.
+- [Talkspace](/notes/talkspace) — D2C teletherapy reference point.
+- [Kareo](/notes/kareo) — EHR / practice-management infrastructure for providers.
+- [Valued Empyrean](/notes/valued-empyrean) — provider/clinic whose economics surface the [Business-in-a-Box](/notes/business-in-a-box) outsourcing question.
+- [Index Ventures](/notes/index-ventures) — sourcing/diligence context for the source calls.
