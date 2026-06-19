@@ -16,7 +16,6 @@ aliases:
   - "Joel Kwartler"
 related:
   - "[[Sourcegraph]]"
-  - "Curren Iyer"
   - "[[June 6th, 2022 — Joel Kwartler (Sourcegraph)]]"
   - "[[GitLab]]"
   - "[[Figma]]"

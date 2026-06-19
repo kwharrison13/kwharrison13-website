@@ -20,9 +20,7 @@ aliases:
   - "How to Trick Investors and VCs"
   - "How to Trick Investors & VCs"
 related:
-  - "OnlyCFO"
   - "[[Venture Capital]]"
-  - "SaaS Metrics"
   - "[[Fraud]]"
   - "[[Accounting]]"
   - "[[Due Diligence]]"

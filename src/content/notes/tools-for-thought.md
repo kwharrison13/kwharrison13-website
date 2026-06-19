@@ -16,7 +16,6 @@ related:
   - "[[Why Books Don't Work]]"
   - "[[Andy Matuschak]]"
   - "[[Michael Nielsen]]"
-  - "Quantum Country"
   - "[[Conor White-Sullivan]]"
 reference_count: 2
 ---

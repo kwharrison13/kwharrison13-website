@@ -21,9 +21,6 @@ aliases:
   - "To Save America, Restore Our Frontier"
   - "Restore Our Frontier"
 related:
-  - "Joe Lonsdale"
-  - "Cicero Institute"
-  - "Silicon Valley"
   - "[[Charter Cities]]"
   - "[[City Building]]"
   - "[[Progress Studies]]"

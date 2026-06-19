@@ -14,8 +14,7 @@ tags:
 aliases:
   - "Thomas Piketty"
   - "Piketty"
-related:
-  - "Inequality"
+related: []
 ---
 
 # Thomas Piketty

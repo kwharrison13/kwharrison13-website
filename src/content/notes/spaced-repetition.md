@@ -15,7 +15,6 @@ aliases:
 related:
   - "[[Why Books Don't Work]]"
   - "[[Memory]]"
-  - "Quantum Country"
   - "[[Andy Matuschak]]"
   - "[[Michael Nielsen]]"
 reference_count: 2

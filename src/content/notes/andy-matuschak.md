@@ -19,7 +19,6 @@ related:
   - "[[Michael Nielsen]]"
   - "[[Tools For Thought]]"
   - "[[Spaced Repetition]]"
-  - "Quantum Country"
   - "[[Metacognition]]"
   - "[[Transmissionism]]"
 ---

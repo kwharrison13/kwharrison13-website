@@ -21,9 +21,7 @@ aliases:
   - "Build-Nothing Country"
 related:
   - "[[Noah Smith]]"
-  - "NIMBY"
   - "[[The Axis of Building]]"
-  - "Productivity"
   - "[[City Building]]"
   - "[[Abundance]]"
   - "[[Real Estate]]"

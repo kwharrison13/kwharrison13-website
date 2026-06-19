@@ -20,10 +20,7 @@ aliases:
   - "We're Selling Entrepreneurship Short"
   - "Selling Entrepreneurship Short"
 related:
-  - "Bryce Roberts"
-  - "Indie.vc"
   - "[[Venture Capital]]"
-  - "The Disruption Waves of Venture Capital"
   - "[[Capital Allocation]]"
   - "[[LP]]"
   - "[[Private Equity]]"

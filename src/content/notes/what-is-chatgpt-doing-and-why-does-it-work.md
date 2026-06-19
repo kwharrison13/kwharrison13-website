@@ -20,10 +20,6 @@ aliases:
   - "What Is ChatGPT Doing and Why Does It Work?"
   - "What Is ChatGPT Doing"
 related:
-  - "Stephen Wolfram"
-  - "ChatGPT"
-  - "Neural Nets"
-  - "Large Language Models"
   - "[[Capitalism]]"
   - "[[Agriculture]]"
   - "[[Parenting]]"

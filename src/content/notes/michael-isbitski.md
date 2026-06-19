@@ -17,7 +17,6 @@ aliases:
 related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[Salt Security]]"
-  - "Gartner"
   - "[[DevSecOps]]"
   - "[[API Security]]"
   - "[[Apigee]]"

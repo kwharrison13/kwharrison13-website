@@ -21,9 +21,6 @@ aliases:
   - "Rekindling US Productivity for a New Era"
   - "Rekindling US productivity for a new era"
 related:
-  - "McKinsey"
-  - "Productivity"
-  - "Distribution Curve"
   - "[[City Building]]"
   - "[[Capital Allocation]]"
   - "[[Climate Change]]"

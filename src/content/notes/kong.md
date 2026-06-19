@@ -19,7 +19,6 @@ related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[Salt Security]]"
   - "[[API Gateways]]"
-  - "Microservices"
   - "[[MuleSoft]]"
   - "[[Apigee]]"
   - "[[Informatica]]"

@@ -20,7 +20,6 @@ related:
   - "[[Open Source Knowledge]]"
   - "[[Andy Matuschak]]"
   - "[[Why Books Don't Work]]"
-  - "Quantum Country"
   - "[[Tools For Thought]]"
   - "[[Spaced Repetition]]"
 ---

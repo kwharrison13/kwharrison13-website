@@ -23,10 +23,6 @@ aliases:
   - "Your Passion Your Solution"
 related:
   - "[[Social Innovation]]"
-  - "Social Entrepreneurship"
-  - "Young Entrepreneurs Academy"
-  - "Business Incubators"
-  - "Leadership Development"
   - "[[Entrepreneurship]]"
   - "[[Experiential Learning]]"
   - "[[Education]]"

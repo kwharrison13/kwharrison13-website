@@ -15,8 +15,6 @@ aliases:
   - "Arielle Zuckerberg"
 related:
   - "[[Long Journey Ventures]]"
-  - "Cyan Banister"
-  - "Lee Jacobs"
   - "[[June 6th, 2022 — Arielle Zuckerberg (Long Journey Ventures)]]"
 ---
 

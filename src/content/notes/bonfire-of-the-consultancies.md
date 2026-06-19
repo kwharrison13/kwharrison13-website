@@ -19,8 +19,6 @@ tags:
 aliases:
   - "Bonfire of the Consultancies"
 related:
-  - "McKinsey"
-  - "Management Consulting"
   - "[[Capitalism]]"
 ---
 

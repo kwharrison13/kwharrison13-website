@@ -26,10 +26,8 @@ aliases:
   - "Todd McKinnon: Creating and Defining a New Market Category"
   - "McKinnon — Creating and Defining a New Market Category (Okta)"
 related:
-  - "Todd McKinnon"
   - "[[Patrick O'Shaughnessy]]"
   - "[[Okta ($OKTA)]]"
-  - "Cloud Adoption"
   - "[[Product-Market Fit]]"
   - "[[First Principles Thinking]]"
   - "[[Focus]]"

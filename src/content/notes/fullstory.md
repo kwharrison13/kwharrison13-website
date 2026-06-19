@@ -15,7 +15,6 @@ aliases:
   - "FullStory"
 related:
   - "[[Sprig fka UserLeap - Diligence]]"
-  - "Hotjar"
   - "[[Sprig]]"
   - "[[Joseph Ambeault]]"
 ---

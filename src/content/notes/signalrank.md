@@ -17,7 +17,6 @@ aliases:
 related:
   - "[[Rob Hodgkinson]]"
   - "[[Super Angels]]"
-  - "Crunchbase"
   - "[[Venture Capital]]"
   - "[[Permanent Capital]]"
 ---

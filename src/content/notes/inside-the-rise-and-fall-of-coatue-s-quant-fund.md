@@ -23,9 +23,6 @@ aliases:
   - "Coatue quant fund"
 related:
   - "[[Coatue]]"
-  - "Philippe Laffont"
-  - "Alex Izydorczyk"
-  - "Alternative Data"
   - "[[Data in Investing]]"
   - "[[Moneyball]]"
   - "[[Capital Allocation]]"

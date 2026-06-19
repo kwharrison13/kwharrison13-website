@@ -18,11 +18,7 @@ tags:
   - "historical-futurism"
 aliases:
   - "Infinite Games"
-related:
-  - "Jack Raines"
-  - "Young Money"
-  - "James Carse"
-  - "Finite and Infinite Games"
+related: []
 ---
 
 ## Key Highlights

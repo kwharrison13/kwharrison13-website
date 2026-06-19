@@ -20,8 +20,6 @@ aliases:
 related:
   - "[[David Perell]]"
   - "[[Peter Thiel]]"
-  - "Rene Girard"
-  - "Mimetic Theory"
   - "[[The Meme Economy - Research]]"
   - "[[The Meme Economy]]"
   - "[[Memetics]]"

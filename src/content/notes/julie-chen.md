@@ -16,7 +16,6 @@ aliases:
   - "Julie Chen"
 related:
   - "[[Retool]]"
-  - "Build a Better On Ramp For Life"
   - "[[June 6th, 2022 — Julie Chen (Retool)]]"
   - "[[Contrary]]"
   - "[[Contrary Capital]]"

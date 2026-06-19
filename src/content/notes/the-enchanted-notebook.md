@@ -25,7 +25,6 @@ related:
   - "[[Historical Futurism]]"
   - "[[Storytelling]]"
   - "[[The Meme Economy - Research]]"
-  - "The Singularity is Near"
   - "[[The Meme Economy]]"
   - "[[Jeff Bezos]]"
   - "[[Amazon]]"

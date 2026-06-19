@@ -15,7 +15,6 @@ aliases:
   - "Hasan Luongo"
 related:
   - "[[Sprig fka UserLeap - Diligence]]"
-  - "Chipper Cash"
   - "[[Sprig]]"
   - "[[Cisco]]"
 ---

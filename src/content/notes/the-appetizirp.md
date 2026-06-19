@@ -23,7 +23,6 @@ aliases:
 related:
   - "[[Packy McCormick]]"
   - "[[Not Boring]]"
-  - "Zero Interest Rate Policy"
   - "[[Historical Futurism]]"
   - "[[Automation]]"
   - "[[Universal Basic Income]]"
