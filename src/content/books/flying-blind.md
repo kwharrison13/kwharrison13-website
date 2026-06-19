@@ -32,6 +32,9 @@ A side thread: same era, same forces produced both Boeing's decline and McNamara
 - [The Kill Chain](/books/the-kill-chain) — present-tense companion.
 - [Chip War](/books/chip-war) — semiconductor side of the same story.
 - [The Idea Factory](/books/the-idea-factory) — Bell Labs as the era's positive case.
+- [Clayton Christensen](/notes/clayton-christensen) — the management theorist whose "skate to where the money will be" framing inspired Boeing's financial-metrics reinvention, then who recanted in "The Capitalist's Dilemma," arguing for market-creating over efficiency innovation.
+- [The Innovator's Dilemma](/books/the-innovator-s-dilemma) — Christensen's framework that Boeing's leaders cited; the book traces how its rigorous capital-conserving logic curdled into the cost-cutting that hollowed engineering.
+- [Capital Allocation](/notes/capital-allocation) — the through-line: $30B+ poured into buybacks during MAX development and R&D slashed, reinvestment-vs-shareholder-return as the central failure.
 <!-- /interconnections -->
 
 ## Highlights

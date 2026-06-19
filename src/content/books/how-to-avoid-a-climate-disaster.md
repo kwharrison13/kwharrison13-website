@@ -32,11 +32,29 @@ A standalone curiosity worth flagging: the speculation about battery-laden space
 ## Connections
 
 <!-- interconnections -->
+**Books:**
+
 - [Skunk Works](/books/skunk-works) — engineering-as-mission frame applied to a different problem.
 - [Chip War](/books/chip-war) — industrial-policy parallel; both books treat infrastructure decisions as civilizational.
 - [The Man From The Future](/books/the-man-from-the-future) — von Neumann's self-replicating-systems thread maps onto climate-scale manufacturing.
-- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — first-principles thinking and incentive design.
-- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC structure question; how climate gets funded vs. consumer apps.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — first-principles thinking and incentive design; the "fix the incentives, not the morals" reading of deforestation echoes Munger.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC structure question; how climate gets funded vs. consumer apps, and why Gates funds high-risk R&D the private market won't touch.
+- [Factfulness](/notes/factfulness) — Gates closes the book quoting Hans Rosling: a fact-based worldview shows the problem is solvable.
+
+**Concepts:**
+
+- [Nuclear Energy](/notes/nuclear-energy) — Gates's central bet (tagged 7 times); the carbon-free 24/7 baseload case and TerraPower's next-gen reactor.
+- [Climate Change](/notes/climate-change) — the book's subject; 51 billion tons/year, the five emission categories, and getting to zero by 2050.
+- [Climate Poverty](/notes/climate-poverty) — the moral center; Bangladesh as the recurring example of the poorest bearing the heaviest climate burden.
+- [First Principles](/notes/first-principles-thinking) — strip clean-energy economics to component costs, compared explicitly to Elon Musk's battery cost breakdown.
+- [Natural Selection Among Startups](/essays/natural-selection-among-startups) — Breakthrough Energy's 500M-tons/year filter as VC sectoral discipline: don't fund what can't matter at scale.
+- [Carbon Capture](/notes/carbon-capture) — point capture and direct air capture as part of the path to zero.
+- [Innovation](/notes/innovation) — Gates's claim that innovation is new business models, policies, and markets, not just new devices.
+
+**People:**
+
+- [Bill Gates](/notes/bill-gates) — author; TerraPower founder and Breakthrough Energy funder.
+- [Elon Musk](/notes/elon-musk) — invoked as the model for first-principles battery-component cost analysis.
 <!-- /interconnections -->
 
 ## Highlights

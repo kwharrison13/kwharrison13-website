@@ -20,8 +20,11 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [Hillbilly Elegy](/books/hillbilly-elegy), [Our Towns](/books/our-towns) — community-decline cluster.
-- [Flying Blind](/books/flying-blind) — industrial-decline parallel.
+**People:** [Amy Goldstein](/notes/amy-goldstein) — author; her ProPublica-rooted reporting documents the failed retraining experiment around Janesville after the GM plant closure.
+
+**Concepts:** [Retraining](/notes/retraining) — the book's central empirical finding: laid-off workers who went back to school at Blackhawk fared worse on employment and pay than those who didn't, despite the bipartisan "retraining gospel" embraced by Paul Ryan and Obama alike. [City Building](/notes/city-building) — a single-industry town's attempt to reinvent its economy (Forward Janesville, Rock County 5.0) after losing its anchor employer. [Personal Finance](/notes/personal-finance) — middle-class GM families tumbling out of the middle class as $28/hour wages, SUB pay, and 401(k) cushions disappear. [Education](/notes/education) — associate's degrees and certificate programs as a contested path back to work.
+
+**Books:** [Hillbilly Elegy](/books/hillbilly-elegy), [Our Towns](/books/our-towns) — community-decline cluster documenting working-class America. [Flying Blind](/books/flying-blind) — industrial-decline parallel.
 <!-- /interconnections -->
 
 ## Highlights

@@ -25,10 +25,11 @@ William Inglis's history of Endicott-Johnson's experiment in "industrial democra
 ## Connections
 
 <!-- interconnections -->
-- [Working Toward Zion](/books/working-toward-zion) — same human-capital-as-undervalued frame.
-- [Skunk Works](/books/skunk-works) — founder-mentality at industrial scale.
-- [The Idea Factory](/books/the-idea-factory) — Bell Labs as the analogous case for knowledge work.
-- [Flying Blind](/books/flying-blind) — Boeing's loyalty-collapse as the negative case.
+**People:** [George F. Johnson](/notes/george-f-johnson) — the Endicott-Johnson founder whose "Square Deal" and "Live and Help Live" philosophy the book documents. [Henry Ford](/notes/henry-ford) — Johnson explicitly rejects Ford's "employer need not love employee, only do justice" maxim as a path to failure.
+
+**Concepts:** Industrial Democracy — the book's central frame: democracy and love in industry as good business, not charity. [Square Deal](/notes/the-square-deal) — Johnson's governing principle of fair dealing across workers, customers, and stockholders. [Human Capital](/notes/human-capital) — workers treated as undervalued assets to invest in rather than machines to scrap. [Welfare Capitalism](/notes/the-square-deal) — the company-built homes, markets, hospitals, and recreation as the historical pattern Endicott-Johnson exemplifies. [Employee Ownership](/notes/employee-ownership) — Johnson's belief that "no man can own a business" — it belongs to customers, workers, and community. [Incentives](/notes/incentives) — premium pay and piece work to reward industry over time-wages that "slow a man down." [Unions](/notes/unions) — Endicott-Johnson as neither open-shop nor closed-shop, a "premium pay without a union" middle path that even Sam Gompers conceded outpaced what a union could ask. [City Building](/notes/city-building) — the Round Top "20 year hill" vision of building factories, homes, gardens, and a golf course for workers across the Susquehanna valley. [Whatever You Are Be A Good One](/notes/whatever-you-are-be-a-good-one) — the pride-in-workmanship ethic Johnson instilled ("Make sure that when it leaves your hands it is perfect").
+
+**Books:** [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — the owner-mentality-in-a-manager frame applied at the production line ("study every element of costs as if the business belonged to him"). [Working Toward Zion](/books/working-toward-zion) — same human-capital-as-undervalued frame. [Skunk Works](/books/skunk-works) — founder-mentality at industrial scale. [The Idea Factory](/books/the-idea-factory) — Bell Labs as the analogous case for knowledge work. [Flying Blind](/books/flying-blind) — Boeing's loyalty-collapse as the negative case.
 <!-- /interconnections -->
 
 ## Highlights

@@ -19,8 +19,11 @@ One note: Evan Spiegel's "people are going to copy your product if you build gre
 ## Connections
 
 <!-- interconnections -->
-- [The Founders](/books/the-founders) — adjacent on Silicon Valley personalities.
-- [The Everything Store](/books/the-everything-store) — original-vs-copycat thread.
+**People:** [Evan Spiegel](/notes/evan-spiegel) — quoted on copying ("Just because Yahoo has a search box doesn't make it Google"); [Aristotle](/notes/aristotle) — quoted on habit ("Men acquire a particular quality by constantly acting a certain way").
+
+**Concepts:** [Systems Thinking](/notes/systems-thinking) — the book's organizing idea (systems leverage, inputs/outputs/stocks/feedback loops, give up money today to build systems that work for you); [Diversification](/notes/diversification) — the "three ventures at once / no single point of failure" rule against going all-in on one bet; [Cash Flow](/notes/cash-flow) — ruthlessly kill any system without a direct correlation to cash, and stress-test real estate deals; [Pricing](/notes/pricing) — the post-acquisition playbook of doubling pricing and tying payment to usage; [Real Estate](/notes/real-estate) — door-knocking, pocket listings, and the no-money-down rental playbook; [Trends](/notes/trends) — "selling pickaxes to gold miners," profiting off the infrastructure behind a hot trend; [Capital Allocation](/notes/capital-allocation) — buying failing software companies cheaply and running them through a playbook.
+
+**Books:** [The 4-Hour Workweek](/notes/the-4-hour-workweek) — Tim Ferriss's "New Rich" frame opens the book and closes its Top Seven Books on Systems list; [The Founders](/books/the-founders) — adjacent on Silicon Valley personalities; [The Everything Store](/books/the-everything-store) — original-vs-copycat thread (Amazon and its third-party sellers).
 <!-- /interconnections -->
 
 ## Highlights

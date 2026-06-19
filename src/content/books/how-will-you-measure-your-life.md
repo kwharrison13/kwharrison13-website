@@ -25,10 +25,11 @@ Clayton Christensen's values-as-strategy book read with two specific applied les
 ## Connections
 
 <!-- interconnections -->
-- [Amazon Unbound](/books/amazon-unbound) and [The Everything Store](/books/the-everything-store) — Bezos's long-term-orientation lineage.
-- [The Self-Driven Child](/books/the-self-driven-child) — explicit cross-reference; "how will you measure your life" appears in those notes too.
-- [Discipline Is Destiny](/books/discipline-is-destiny) — values-as-strategy register.
-- [Essentialism](/books/essentialism) — focus discipline overlap.
+**People:** [Clayton Christensen](/notes/clayton-christensen) — author; applies his business-strategy frameworks to personal life. [Jeff Bezos](/notes/jeff-bezos) — Christensen's critique of short-term-metric bias is the ancestor of Bezos's long-term discipline.
+
+**Concepts:** [Capital Allocation](/notes/capital-allocation) — "everything related to strategy is only intent until it gets to the resource allocation stage"; the book reframes personal resource allocation as the real strategy. [Jobs To Be Done](/notes/jobs-to-be-done) — Christensen's framework applied to relationships and to schools "structured to do the job of success." [Motivation](/notes/motivation) — compensation as a hygiene factor vs. the true motivators that make work fulfilling. [Education](/notes/education) — curricula designed so students feel success every day cut dropout and absenteeism to near zero. [Long Term Thinking](/notes/long-term-thinking) — decision systems favor immediate, tangible returns and shortchange long-term strategy.
+
+**Books:** [Amazon Unbound](/books/amazon-unbound) and [The Everything Store](/books/the-everything-store) — Bezos's long-term-orientation lineage; "this is exactly why Amazon ignores short term metrics." [The Self-Driven Child](/books/the-self-driven-child) — explicit cross-reference; "how will you measure your life" appears in those notes too, and both warn against sheltering children from problems. [Discipline Is Destiny](/books/discipline-is-destiny) — values-as-strategy register. [Essentialism](/books/essentialism) — focus-discipline overlap.
 <!-- /interconnections -->
 
 ## Highlights

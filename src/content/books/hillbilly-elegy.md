@@ -27,9 +27,11 @@ A standalone note: "students don't expect much from themselves, because the peop
 ## Connections
 
 <!-- interconnections -->
-- [Janesville](/books/janesville) _(stub)_ — adjacent on industrial-decline community dynamics.
-- [Our Towns](/books/our-towns) _(stub)_ — the counter-narrative; what works.
-- [The Self-Driven Child](/books/the-self-driven-child) — aspiration-and-environment thread.
+**People:** [J. D. Vance](/notes/j-d-vance) — author of the memoir; recounts escaping Appalachian decline via the Marines, Ohio State, and Yale Law.
+
+**Concepts:** [City Building](/notes/city-building) — the housing-as-trap mechanism ("declining home values trap people in certain neighborhoods") and the reverse exodus problem of rising prices. [Learned Helplessness](/notes/learned-helplessness) — Vance names the psychological term directly for the belief that one's choices don't affect outcomes. [Cognitive Dissonance](/notes/cognitive-dissonance) — the "lies we tell ourselves to solve the cognitive dissonance" between professed values of hard work and the reality of not working. [Hard Work](/notes/hard-work) — his grandparents' "almost religious faith in hard work and the American Dream" set against the working-class movement to blame outcomes on society. [Identity Formation](/notes/identity-formation) — the home message that countered neighborhood pressure ("I received a different message at home. And that just might have saved me"). [Education](/notes/education) — the gap between intelligence and knowledge, and students who "don't expect much from themselves, because the people around them don't do very much."
+
+**Books:** [Janesville](/books/janesville) — adjacent on industrial-decline community dynamics and disappearing factory jobs. [Our Towns](/books/our-towns) — the counter-narrative on what revives struggling places. [The Self-Driven Child](/books/the-self-driven-child) — the aspiration-and-environment thread, where local environment is assumed to determine self-expectation.
 <!-- /interconnections -->
 
 ## Highlights

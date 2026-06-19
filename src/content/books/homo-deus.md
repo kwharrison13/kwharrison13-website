@@ -28,12 +28,31 @@ A standalone observation worth flagging: "religions that lose touch with the tec
 ## Connections
 
 <!-- interconnections -->
-- [Sapiens](/books/sapiens) _(stub)_ — direct predecessor.
-- [21 Lessons for the 21st Century](/books/21-lessons-for-the-21st-century) _(stub)_ — Harari's sequel.
-- [Brave New World Revisited](/books/brave-new-world-revisited) — adjacent civilizational-trajectory frame.
-- [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious-engagement counter to humanism.
-- [The Self-Driven Child](/books/the-self-driven-child) — Harari on self-will referenced there.
-- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institutional-history adjacent.
+**People:** [Yuval Noah Harari](/notes/yuval-noah-harari) — author. [Albert Einstein](/notes/albert-einstein) — invoked in the evolutionary-humanist claim that "the experience of an Einstein or a Beethoven is far more valuable than that of a drunken good-for-nothing." [Jeremy Bentham](/notes/jeremy-bentham) — the "greatest happiness of the greatest number" utilitarian frame Harari traces into modern welfare politics.
+
+**Concepts:**
+- [Free Will](/notes/free-will) — Harari's argument that organisms are algorithms with no single, free "authentic self," so desires can be manipulated by drugs, genetic engineering, or brain stimulation.
+- [Automation](/notes/automation) — the "useless class" thread: as algorithms outperform humans in cognitive tasks, the question becomes creating jobs humans do better than algorithms.
+- [Retraining](/notes/retraining) — Harari's claim that the learn-then-work life model is obsolete; staying "in the game" requires reinventing oneself repeatedly throughout life.
+- [Universal Basic Income](/notes/universal-basic-income) — adjacent to the prospect of a "massive new class of economically useless people" as the masses lose military and economic value.
+- [Capitalism](/notes/capitalism) — capitalism won the Cold War because distributed data processing beats centralized processing; the "creed of growth" as capitalism's number-one commandment.
+- [Growth](/notes/growth) — modernity's deal of giving up meaning for power, with perpetual economic growth as the engine; knowledge as the one non-exhaustible resource.
+- [Google](/notes/google) — the Baseline Study and decision-outsourcing ("Listen, Google…") as the concrete face of Dataism and post-liberal authority.
+- [Privacy](/notes/privacy) — personal data as "the most valuable resource most humans still have to offer," surrendered to tech giants for services.
+- [Education](/notes/education) — Harari's critique of marks and matriculation exams: schools optimize for grades over understanding, and self-reinforcing credential systems.
+- [Climate Change](/notes/climate-change) — the "double race" between accelerating growth and staying ahead of ecological meltdown; the blind hand of the market.
+- [Living Revelation](/notes/living-revelation) — the necessary religious response to technological change; religions that lose touch with technological realities "forfeit their ability even to understand the questions being asked."
+- [Educated Electorate](/notes/educated-electorate) — the shared-bond requirement for democracy: elections only bind when voters share a basic common bond.
+
+**Books:**
+- [Sapiens](/books/sapiens) — direct predecessor; "the last train ever to leave the station called Homo sapiens."
+- [21 Lessons for the 21st Century](/books/21-lessons-for-the-21st-century) — Harari's later sequel on the same techno-political agenda.
+- [The Death of Expertise](/books/the-death-of-expertise) — the educated-electorate / shared-bond thread on democracy's preconditions.
+- [Brave New World Revisited](/books/brave-new-world-revisited) — adjacent civilizational-trajectory and engineered-pleasure frame.
+- [Brave New World](/books/brave-new-world) — the "brave new religions" of Silicon Valley promising happiness here on earth via technology.
+- [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious-engagement counter to humanism's "ultimate selfishness."
+- [The Self-Driven Child](/books/the-self-driven-child) — Harari on self-will and individual autonomy referenced there.
+- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — institutional-history adjacent to the data/knowledge-as-resource argument.
 <!-- /interconnections -->
 
 ## Highlights
