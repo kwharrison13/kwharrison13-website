@@ -26,7 +26,7 @@ key_takeaways_status: "written"
 
 <!-- interconnections -->
 - [The Death of Expertise](/books/the-death-of-expertise) — direct title-rhyme; both interrogate what expertise _is_ and who gets to claim it. Palmer/Blake answer "anyone who can demonstrate the skill"; Nichols worries about the erosion of earned authority.
-- [Working in Public](/books/working-in-public) — the [open-source-knowledge](/essays/open-source-knowledge) thread: expertise built and shared in the open, outside credentialing institutions.
+- [Working in Public](/books/working-in-public) — the open-source-knowledge thread: expertise built and shared in the open, outside credentialing institutions.
 - [Alternative Education](/notes/alternative-education) — the book's case that formal schooling is a poor proxy for capability, and the "Harvard education OR Harvard degree" thought experiment that pedigree is a weak signal of capability.
 - [Education](/notes/education) — the broader argument that universities are subject-based not career-based, lose touch with graduates, and that high-stakes testing (SAT/ACT) tracks socioeconomic status rather than potential.
 - [Continuous Learning](/notes/continuous-learning) — the book's central organizing idea: learning built _into_ the work rather than episodic training, "something people love to do" rather than dread.

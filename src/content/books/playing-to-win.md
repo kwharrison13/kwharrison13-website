@@ -28,7 +28,7 @@ One note: Febreze as "a product technology in search of a job to be done" — wi
 - [Customer Obsession](/notes/customer-obsession) — "the most important stakeholder is the end user," deep consumer immersion as the heart of strategy.
 - [Product-Market Fit](/notes/product-market-fit) — building "only what they need" (the white-sheet diaper) over bells and whistles; consumer-needs-first as the win condition.
 - [Competitive Moats](/essays/competitive-moats) — sustainable advantage arises from a set of capabilities that fit and reinforce one another, not any single capability.
-- [First Principles](/notes/first-principles-thinking) — the "let's go to a white sheet of paper" reset, designing from consumer needs rather than inherited product assumptions.
+- First Principles — the "let's go to a white sheet of paper" reset, designing from consumer needs rather than inherited product assumptions.
 <!-- /interconnections -->
 
 ## Highlights
