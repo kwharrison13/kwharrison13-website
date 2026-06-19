@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -21,6 +21,13 @@ related:
   - "[[ServiceNow ($NOW)]]"
   - "[[Salt Security]]"
   - "[[Kong]]"
+  - "[[NeoSec]]"
+  - "[[Endpoint Security]]"
+  - "[[API Security]]"
+  - "[[Atanu Dasgupta]]"
+  - "[[Nir Rothenberg]]"
+  - "[[Wiz.io]]"
+  - "[[Orca Security]]"
 ---
 
 # CrowdStrike ($CRWD)
@@ -43,3 +50,10 @@ related:
 - [ServiceNow ($NOW)](/notes/servicenow-now) — the management/workflow layer CrowdStrike sits above (in the analogy)
 - [Salt Security](/notes/salt-security) — the "CrowdStrike" of API security in the thesis
 - [Kong](/notes/kong) — the "ServiceNow" of API management in the analogy
+- [Endpoint Security](/notes/endpoint-security) — CrowdStrike's core EDR/MDR category, named as a "must-have" in the security stack
+- [API Security](/notes/api-security) — the adjacent category CrowdStrike doesn't extend into ("very different than endpoint security")
+- [NeoSec](/notes/neosec) — described as "CrowdStrike for API Security," positioned to be acquired by CrowdStrike
+- [Wiz.io](/notes/wiz-io) — cited alongside Orca in the same "must-have" stack framing (as the CSPM layer)
+- [Orca Security](/notes/orca-security) — named alongside Wiz.io as the CSPM layer in the "must-have" security stack
+- [Atanu Dasgupta](/notes/atanu-dasgupta) — sourced the ServiceNow→CrowdStrike :: Kong→Salt analogy and the application-security limit
+- [Nir Rothenberg](/notes/nir-rothenberg) — sourced the "must-have" stack framing and the NeoSec/CrowdStrike characterization

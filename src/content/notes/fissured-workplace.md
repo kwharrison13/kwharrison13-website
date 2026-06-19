@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Unions, Unions Everywhere - Research.md"
@@ -20,6 +20,8 @@ related:
   - "[[Amazon Unbound]]"
   - "[[Internalizing Negative Externalities]]"
   - "[[Unions, Unions Everywhere - Research]]"
+  - "[[Brad Stone]]"
+  - "[[Uber]]"
 ---
 
 # Fissured Workplace
@@ -39,5 +41,7 @@ related:
 
 ## Related concepts
 
-- [Unions](/notes/unions)
-- [Internalizing Negative Externalities](/notes/internalizing-negative-externalities)
+- [Unions](/notes/unions) — the labor-organizing force the fissured model is designed to keep at arm's length.
+- [Internalizing Negative Externalities](/notes/internalizing-negative-externalities) — frames the outsourced labor standards as costs pushed onto subcontractors and workers.
+- [Uber](/notes/uber) — cited as a propagator of the model alongside FedEx, hotels, and tech companies.
+- [Brad Stone](/notes/brad-stone) — author of [Amazon Unbound](/books/amazon-unbound), the source that applies the term to Amazon's last-mile delivery.

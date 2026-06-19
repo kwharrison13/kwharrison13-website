@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Open-Source Knowledge - Research.md"
@@ -18,6 +18,10 @@ related:
   - "[[Contrary Research]]"
   - "[[Knowledge Economy]]"
   - "[[Triangulation]]"
+  - "[[Private Equity]]"
+  - "[[Venture Capital]]"
+  - "[[Investment Returns]]"
+  - "[[Data in Investing]]"
 ---
 
 # Equity Research
@@ -36,6 +40,11 @@ related:
 
 ## Related concepts
 
-- [Knowledge Economy](/notes/knowledge-economy)
-- [Triangulation](/notes/triangulation)
-- [Contrary Research](/essays/contrary-research)
+- [Contrary Research](/essays/contrary-research) — aims to build for private companies what equity research does for public markets.
+- Open-Source Knowledge - Research — the research note where equity research serves as the public-markets reference point.
+- [Knowledge Economy](/notes/knowledge-economy) — thesis-driven analysis as a knowledge-production practice.
+- [Triangulation](/notes/triangulation) — analytical method for building a thesis from multiple sources.
+- [Private Equity](/notes/private-equity) — private-markets domain that lacks the disclosure underpinning public equity research.
+- [Venture Capital](/notes/venture-capital) — private-markets investing where the absent disclosure regime is most acute.
+- [Investment Returns](/notes/investment-returns) — what thesis-driven analysis ultimately aims to generate.
+- [Data in Investing](/notes/data-in-investing) — public-market disclosure is the data substrate equity research depends on.

@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Berkshire Hathaway Annual Letters.md"
@@ -18,6 +18,14 @@ related:
   - "[[Power Law]]"
   - "[[Risk Management]]"
   - "[[Capital Allocation]]"
+  - "[[Tail Events]]"
+  - "[[Margin of Safety]]"
+  - "[[Value Investing]]"
+  - "[[Venture Capital]]"
+  - "[[Innovation]]"
+  - "[[Mervin Kelly]]"
+  - "[[Bell Labs]]"
+  - "[[Trends]]"
 ---
 
 # Forecasting
@@ -44,3 +52,11 @@ related:
 - [Power Law](/notes/power-law) — why tail events, not central tendencies, dominate venture outcomes.
 - [Risk Management](/notes/risk-management) — pricing in uncertainty instead of forecasting it away.
 - [Capital Allocation](/notes/capital-allocation) — decisions made under irreducible unpredictability.
+- [Tail Events](/notes/tail-events) — the radical departures from past data that extrapolation cannot see and that VCs exclusively target.
+- [Margin of Safety](/notes/margin-of-safety) — the value-investing alternative to forecasting: price in error rather than predict outcomes.
+- [Value Investing](/notes/value-investing) — the non-forecasting discipline embodied in the [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters).
+- [Venture Capital](/notes/venture-capital) — the field whose practitioners look for radical departures from the past instead of extrapolating it.
+- [Innovation](/notes/innovation) — the disruptive breakthroughs that "cannot be predicted based on extrapolations of past data."
+- [Mervin Kelly](/notes/mervin-kelly) — intuited the transistor's future from cost curves rather than modeling, in [The Idea Factory](/books/the-idea-factory).
+- [Bell Labs](/notes/bell-labs) — where serendipity, not pure process, drove many breakthroughs.
+- [Trends](/notes/trends) — what most financiers extrapolate from the past while disregarding tail risk.

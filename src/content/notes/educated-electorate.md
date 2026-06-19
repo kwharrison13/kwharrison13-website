@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Amusing Ourselves To Death.md"
@@ -23,6 +23,10 @@ related:
   - "[[The Death of Expertise]]"
   - "[[Spirit of Humility]]"
   - "[[Active Reading]]"
+  - "[[Democracy]]"
+  - "[[Expertise]]"
+  - "[[Thomas Jefferson]]"
+  - "[[Mitt Romney]]"
 ---
 
 # Educated Electorate
@@ -53,3 +57,10 @@ related:
 - [Voice of the People](/notes/voice-of-the-people) — this concept is the structural answer to that one's central problem.
 - [The Death of Expertise](/books/the-death-of-expertise) — the book-length treatment of what happens when the electorate stops trusting (and learning from) expertise.
 - [Spirit of Humility](/notes/spirit-of-humility), [Active Reading](/notes/active-reading) — the individual habits that an educated electorate is made of.
+- [Democracy](/notes/democracy) — the form of government whose legitimacy this concept underwrites; without an informed public it degrades into technocracy or rule by the uninformed.
+- [Expertise](/notes/expertise) — bound to the public by a social contract in which experts ask only to be received by a public informed enough to make reasoned judgments.
+- [Thomas Jefferson](/notes/thomas-jefferson) — source of the framing quotes: self-governors must "arm themselves with the power which knowledge gives," and the "elementary republics of the wards" as the unit of informed self-rule.
+- [Mitt Romney](/notes/mitt-romney) — his career read as testing the premise that voters can be trusted with hard truths presented honestly ([Romney — A Reckoning](/books/romney-a-reckoning)).
+- [Will Durant](/notes/will-durant) — author of [The Greatest Minds and Ideas of All Time](/books/the-greatest-minds-and-ideas-of-all-time), framing education as "ennobling intimacy with great men," formation of judgment over job training.
+- [Neil Postman](/notes/neil-postman) — author of [Amusing Ourselves To Death](/books/amusing-ourselves-to-death) on the print culture that trained the electorate and its erosion by entertainment media.
+- [Yuval Noah Harari](/notes/yuval-noah-harari) — author of [Homo Deus](/books/homo-deus) on the fragmenting shared reality that undermines democratic consent.

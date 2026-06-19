@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-15"
-updated: "2026-06-15"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/readwise/Elon Musk by Ashlee Vance.md"
@@ -23,8 +23,13 @@ related:
   - "[[Elon Musk]]"
   - "[[Jeff Bezos]]"
   - "[[The Founders]]"
-  - "[[Elon Musk]]"
   - "[[Amazon Unbound]]"
+  - "[[JB Straubel]]"
+  - "[[Sanjay Bhargava]]"
+  - "[[Santosh Janardhan]]"
+  - "[[Dave Clark]]"
+  - "[[Storytelling as Leadership]]"
+  - "[[Founders Mentality]]"
 ---
 
 # First Principles Thinking
@@ -52,3 +57,12 @@ No source-to-source conflicts found. Different operators apply first principles 
 
 - [Storytelling as Leadership](/notes/storytelling-as-leadership) — first principles produces the conclusion; storytelling sells it to investors and recruits.
 - [Founders Mentality](/notes/founders-mentality) — the cultural prerequisite for first-principles reasoning to survive in a maturing org.
+
+## People
+
+- [Elon Musk](/notes/elon-musk) — names physics, cost, and time as the "first principles of a problem" (via [JB Straubel](/notes/jb-straubel)); also frames problem-phrasing as the harder, first-principles half of the work.
+- [JB Straubel](/notes/jb-straubel) — articulates Musk's first-principles posture: starting from the physics and economics of a problem to judge what is possible.
+- [Sanjay Bhargava](/notes/sanjay-bhargava) — solved bank-account verification from Shannon's signal/noise theory, the page's canonical first-principles example.
+- [Santosh Janardhan](/notes/santosh-janardhan) — credits non-domain-expert "fresh eyes" for converting fraud into a "tractable, mathematical thing."
+- [Jeff Bezos](/notes/jeff-bezos) — [Amazon Unbound](/books/amazon-unbound) reasoning on whether an idea can work if cash flow funds it, cited as a first-principles framing.
+- [Dave Clark](/notes/dave-clark) — the "simplifier" identity, boiling complicated operations down to essentials.

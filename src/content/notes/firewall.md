@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
@@ -18,6 +18,9 @@ related:
   - "[[September 22nd, 2021 — API Security Transcript (Salt Security)]]"
   - "[[API Security]]"
   - "[[API Gateways]]"
+  - "[[Salt Security]]"
+  - "[[Ping Identity]]"
+  - "[[Imperva]]"
 ---
 
 # Firewall
@@ -36,3 +39,6 @@ related:
 
 - [API Security](/notes/api-security) — the category
 - [API Gateways](/notes/api-gateways) — adjacent infrastructure
+- [Salt Security](/notes/salt-security) — vendor building a firewall-like product for APIs
+- [Ping Identity](/notes/ping-identity) — vendor building a firewall-like product for APIs
+- [Imperva](/notes/imperva) — vendor building a firewall-like product for APIs

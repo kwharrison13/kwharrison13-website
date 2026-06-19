@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -21,6 +21,10 @@ related:
   - "[[API Security]]"
   - "[[CI/CD]]"
   - "[[Snyk]]"
+  - "[[Traceable.ai]]"
+  - "[[Prabhath Karanth]]"
+  - "[[David Mark]]"
+  - "[[Michael Isbitski]]"
 ---
 
 # DevSecOps
@@ -43,3 +47,8 @@ related:
 - [Developer-Led Security](/notes/developer-led-security) — the developer-facing side of DevSecOps
 - [CI/CD](/notes/ci-cd) — the pipeline DevSecOps tools plug into
 - [API Security](/notes/api-security) — one of the key DevSecOps domains
+- [Traceable.ai](/notes/traceable-ai) — positioned as covering the full DevSecOps lifecycle (CI/CD testing plus production monitoring)
+- [Snyk](/notes/snyk) — developer-first security tooling cited as a model for the DevOps side of DevSecOps
+- [Prabhath Karanth](/notes/prabhath-karanth) — framed the goal of delivering security signals without taking engineers away from building product
+- [David Mark](/notes/david-mark) — critiqued Salt Security for "not paying enough attention to the DevOps part of DevSecOps"
+- [Michael Isbitski](/notes/michael-isbitski) — former Gartner DevSecOps analyst who noted API security was too hard to focus on

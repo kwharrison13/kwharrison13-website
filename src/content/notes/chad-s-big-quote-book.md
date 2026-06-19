@@ -4,7 +4,7 @@ type: "article"
 publish: false
 confidence: "high"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/inbox/Chad's Big Quote Book.md"
@@ -12,12 +12,84 @@ tags:
   - "religious-intellectualism"
 aliases:
   - "Chad's Big Quote Book"
-related: []
+related:
+  - "[[Joseph Smith]]"
+  - "[[Brigham Young]]"
+  - "[[Bruce R. McConkie]]"
+  - "[[Ezra Taft Benson]]"
+  - "[[Boyd K. Packer]]"
+  - "[[Gordon B. Hinckley]]"
+  - "[[Heber J. Grant]]"
+  - "[[Richard G. Scott]]"
+  - "[[Neal A. Maxwell]]"
+  - "[[Henry B. Eyring]]"
+  - "[[John Taylor]]"
+  - "[[Preach My Gospel]]"
+  - "[[Spencer W. Kimball]]"
+  - "[[David O. McKay]]"
+  - "[[Wilford Woodruff]]"
+  - "[[Joseph F. Smith]]"
+  - "[[Jeffrey R. Holland]]"
+  - "[[Dieter F. Uchtdorf]]"
+  - "[[Dallin H. Oaks]]"
+  - "[[M. Russell Ballard]]"
+  - "[[Truman G. Madsen]]"
+  - "[[Hugh Nibley]]"
+  - "[[Robert L. Millet]]"
+  - "[[Parley P. Pratt]]"
+  - "[[C.S. Lewis]]"
+  - "[[T.S. Eliot]]"
+  - "[[Jonathan Edwards]]"
+  - "[[Joseph Fielding Smith]]"
+  - "[[George Albert Smith]]"
+  - "[[Marion G. Romney]]"
+  - "[[Orson Pratt]]"
+  - "[[Lorenzo Snow]]"
+  - "[[Missionary Work]]"
+  - "[[Book of Mormon]]"
+  - "[[Born Again]]"
+  - "[[Repentance]]"
+  - "[[Forgiveness]]"
+  - "[[Agency]]"
+  - "[[Obedience]]"
+  - "[[Atonement]]"
+  - "[[Come"
+  - "Follow Me]]"
 ---
 
 # Chad's Big Quote Book
 
 _A verbatim personal collection of LDS / gospel quotations, given to Kyle by his brother Chad. Source preserved as-is; attributions linked to wiki pages._
+
+## Related concepts
+
+- [Joseph Smith](/notes/joseph-smith) — the most-quoted figure in the collection, attributed dozens of times across pages on faith, courage, missionary duty, and death.
+- [Brigham Young](/notes/brigham-young) — recurring source on obedience, agency, lifelong learning, and the premortal/spiritual birth of man.
+- [Bruce R. McConkie](/notes/bruce-r-mcconkie) — quoted repeatedly on conversion, the "straight and narrow" path, and the natural man.
+- [Ezra Taft Benson](/notes/ezra-taft-benson) — cited throughout on obedience, the Book of Mormon as the great converting tool, and the reserved final generation.
+- [Boyd K. Packer](/notes/boyd-k-packer) — quoted on sustaining leaders, loyalty, and the universality of mortal testing.
+- [Gordon B. Hinckley](/notes/gordon-b-hinckley) — source of several quotes on optimism, work, and missionary service.
+- [Heber J. Grant](/notes/heber-j-grant) — quoted on self-criticism, music and doctrine, self-reliance, and forgiveness.
+- [Richard G. Scott](/notes/richard-g-scott) — cited on adversity, refinement through trials, and forgiveness.
+- [Neal A. Maxwell](/notes/neal-a-maxwell) — quoted on God's individual care and the spiritually improving but imperfect person.
+- [Henry B. Eyring](/notes/henry-b-eyring) — source on living in God's presence, repentance, and steadiness.
+- [John Taylor](/notes/john-taylor) — quoted on freedom versus slavery and the duty to preach the gospel.
+- [Preach My Gospel](/notes/preach-my-gospel) — the missionary manual referenced directly in the collection's "purpose" quotes.
+- [Spencer W. Kimball](/notes/spencer-w-kimball) — quoted on learning by doing, the conditions of forgiveness, and the urgency of missionary work.
+- [David O. McKay](/notes/david-o-mckay) — recurring source on agency, true education, temptation, and the marriage covenant.
+- [Wilford Woodruff](/notes/wilford-woodruff) — quoted on agency, the spirit world, early missionary hardship, and mourning the faithful dead.
+- [Joseph F. Smith](/notes/joseph-f-smith) — source of the "Example," "Man in the Glass," and testimony-foundation passages on the back half of the book.
+- [Jeffrey R. Holland](/notes/jeffrey-r-holland) — quoted on D&C 4, the "river of water" seminary lesson, and the meaning of a mission.
+- [Dieter F. Uchtdorf](/notes/dieter-f-uchtdorf) — source of the "Forget Me Not" reflections and "move the work, not just mind it."
+- [Dallin H. Oaks](/notes/dallin-h-oaks) — quoted on the true purpose of preaching (baptism, not membership) and being "a harvester, not a gleaner."
+- [M. Russell Ballard](/notes/m-russell-ballard) — cited on Preach My Gospel in members' homes and a mission as "the greatest education in the world."
+- [Truman G. Madsen](/notes/truman-g-madsen) — quoted on the depth of Joseph Smith, living revelation, and strict honesty.
+- [Hugh Nibley](/notes/hugh-nibley) — source of the "which way you are facing" definition of repentance.
+- [Robert L. Millet](/notes/robert-l-millet) — quoted on "we see things as we really are" and maturing into joint-heirs with Christ.
+- [Parley P. Pratt](/notes/parley-p-pratt) — source of the long passage on the spirit body and the premortal "school of love."
+- [C.S. Lewis](/notes/c-s-lewis) — quoted on there being "no neutral ground in the universe."
+- [T.S. Eliot](/notes/t-s-eliot) — source of the "knowledge we have lost in information" lines from "The Rock."
+- [Jonathan Edwards](/notes/jonathan-edwards) — quoted on the sweetness of coming to Christ "as a little child."
 
 - A collection of quotations that aided my gospel understanding. These are taken both from my scholarly and poetic collections.
 - ## “A Book of Quotes, Ruminations, and Thoughts Miscellany

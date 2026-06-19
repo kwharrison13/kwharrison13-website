@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
@@ -21,6 +21,11 @@ related:
   - "[[Conviction]]"
   - "[[Likability]]"
   - "[[Dependencies]]"
+  - "[[Naval Ravikant]]"
+  - "[[Peter Thiel]]"
+  - "[[Brie Wolfson]]"
+  - "[[Conviction-Led Contrarianism]]"
+  - "[[The Almanack of Naval Ravikant]]"
 ---
 
 # Contrarianism
@@ -44,3 +49,5 @@ related:
 - [Deviance](/notes/deviance) — contrarianism acted upon.
 - [Conviction](/notes/conviction) — the legitimizing qualifier ("and right").
 - [Dependencies](/notes/dependencies) — being "right" often hinges on dependencies outside your control.
+- [Likability](/notes/likability) — independent reasoning that resists pressure to conform often costs short-term likability.
+- [The Almanack of Naval Ravikant](/books/the-almanack-of-naval-ravikant) — source of [Naval Ravikant](/notes/naval-ravikant)'s "optimistic contrarians are the rarest breed" framing.

@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -19,6 +19,8 @@ related:
   - "[[Snyk]]"
   - "[[Salt Security]]"
   - "[[DevSecOps]]"
+  - "[[API Security]]"
+  - "[[DevOps]]"
 ---
 
 # Developer-Led Security
@@ -41,3 +43,10 @@ related:
 - [Snyk](/notes/snyk) — the command-line / shift-left approach to developer-led security
 - [Salt Security](/notes/salt-security) — the runtime / surface-area approach
 - [DevSecOps](/notes/devsecops) — the broader organizational practice
+- [API Security](/notes/api-security) — the problem domain where the developer-vs-security responsibility debate plays out (52% put it on the API team / developers / DevOps)
+- [DevOps](/notes/devops) — the audience runtime security tooling must serve alongside the security team
+
+## Connections
+
+- [Prabhath Karanth](/notes/prabhath-karanth) — frames the design challenge: runtime signals must reach engineering without pulling them away from building product
+- [David Mark](/notes/david-mark) — at Appsflyer, critiqued Salt Security for serving security teams over developers; wanted a system serving both DevOps and security

@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/calls/May 31st, 2018.md"
@@ -17,6 +17,7 @@ aliases:
 related:
   - "[[Destination: Home]]"
   - "[[social innovation]]"
+  - "[[Chad Bojorquez]]"
 ---
 
 # Homelessness
@@ -39,5 +40,6 @@ related:
 
 ## Related concepts
 
-- [social innovation](/notes/social-innovation)
-- [Destination: Home](/notes/destination-home)
+- [Destination: Home](/notes/destination-home) — the Santa Clara County organization built to solve homelessness via "housing first" supportive housing.
+- [social innovation](/notes/social-innovation) — the framing for tackling homelessness at the local level, where control is highest.
+- [Chad Bojorquez](/notes/chad-bojorquez) — described Destination: Home's mission and the cost study behind the $950M supportive-housing bond.

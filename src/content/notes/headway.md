@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
@@ -18,6 +18,9 @@ related:
   - "[[September 22nd, 2021 — Adam Chekroud (Spring Health)]]"
   - "[[Behavioral Health]]"
   - "[[SonderMind]]"
+  - "[[Spring Health]]"
+  - "[[Adam Chekroud]]"
+  - "[[Index Ventures]]"
 ---
 
 # Headway
@@ -34,5 +37,8 @@ related:
 
 ## Related concepts
 
-- [SonderMind](/notes/sondermind) — same model.
-- [Behavioral Health](/notes/behavioral-health) — its market.
+- [SonderMind](/notes/sondermind) — grouped with Headway as the same provider-infrastructure model.
+- [Behavioral Health](/notes/behavioral-health) — the market Headway operates in.
+- [Spring Health](/notes/spring-health) — the employer-channel competitor it was contrasted against (Headway lacks the employer channel).
+- [Adam Chekroud](/notes/adam-chekroud) — Spring Health's source who characterized Headway's value-chain position.
+- [Index Ventures](/notes/index-ventures) — the firm whose sourcing/diligence call log records this characterization of Headway.

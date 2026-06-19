@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/What Is An Investor - Research.md"
@@ -19,6 +19,8 @@ related:
   - "[[Frank Knight]]"
   - "[[Skill vs. Luck]]"
   - "[[Venture Capital]]"
+  - "[[Noah Smith]]"
+  - "[[What Is An Investor]]"
   - "[[What Is An Investor - Research]]"
 ---
 
@@ -40,5 +42,8 @@ related:
 
 ## Related concepts
 
-- [Skill vs. Luck](/notes/skill-vs-luck)
-- [Venture Capital](/notes/venture-capital)
+- [Frank Knight](/notes/frank-knight) — economist who originated the risk-vs-uncertainty distinction this page is built on.
+- [Skill vs. Luck](/notes/skill-vs-luck) — the parallel framing of measurable versus unmeasurable outcomes in investing performance.
+- [Venture Capital](/notes/venture-capital) — the domain where Kyle applies the concept: as VC standardizes, uncertainty collapses into priceable risk and outsized returns thin out.
+- [Noah Smith](/notes/noah-smith) — restates Knight's thesis that "truly outsized business profits come from taking on true uncertainty."
+- [What Is An Investor](/essays/what-is-an-investor) — applies Knightian uncertainty in "The Venture Capital Success Equation" section.

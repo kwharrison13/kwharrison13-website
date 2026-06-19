@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "/Users/kwharrison13/Downloads/Sprig fka UserLeap - Diligence.md"
@@ -18,6 +18,10 @@ related:
   - "[[User Research]]"
   - "[[Lookback]]"
   - "[[UserTesting]]"
+  - "[[Rishi Ahuja]]"
+  - "[[Square]]"
+  - "[[Yue Wu]]"
+  - "[[Dropbox]]"
 ---
 
 # Great Question
@@ -36,6 +40,8 @@ related:
 
 ## Related concepts
 
-- [Lookback](/notes/lookback)
-- [UserTesting](/notes/usertesting)
-- [User Research](/notes/user-research)
+- [User Research](/notes/user-research) — the broader category this tool operates in.
+- [Lookback](/notes/lookback) — contrasted as a video-repository model, whereas Great Question is noted for helping build user panels.
+- [UserTesting](/notes/usertesting) — [Yue Wu](/notes/yue-wu) sees Great Question as not much different from UserTesting, which already has a collaborative research function.
+- [Rishi Ahuja](/notes/rishi-ahuja) — [Square](/notes/square) expert who found the in-app insight sharing interesting but raised the open question of how data gets into the platform.
+- [Yue Wu](/notes/yue-wu) — [Dropbox](/notes/dropbox) expert who compared Great Question unfavorably to [UserTesting](/notes/usertesting)'s existing collaborative research.

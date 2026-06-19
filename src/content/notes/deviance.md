@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
@@ -18,6 +18,9 @@ related:
   - "[[Contrarianism]]"
   - "[[Conviction]]"
   - "[[Likability]]"
+  - "[[Conviction-Led Contrarianism]]"
+  - "[[Visakan Veerasamy]]"
+  - "[[Elon Musk]]"
 ---
 
 # Deviance
@@ -40,3 +43,6 @@ related:
 - [Contrarianism](/notes/contrarianism) — deviance is contrarianism acted upon.
 - [Conviction](/notes/conviction) — the fuel that makes deviance worthwhile rather than reflexive.
 - [Likability](/notes/likability) — deviance requires being willing to disregard it.
+- [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — deviance in pursuit of conviction is the world-changing form Kyle identifies.
+- [Visakan Veerasamy](/notes/visakan-veerasamy) — source of the framing that deviance reclaims suppressed human creativity.
+- [Elon Musk](/notes/elon-musk) — cited archetype; the 2007 Russia missile trip as deviance that permanently corrupts one's ontology.

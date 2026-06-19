@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The Hardening Of The Great Softening' notes"
@@ -18,6 +18,7 @@ aliases:
 related:
   - "[[Primitivism]]"
   - "[[Progressivism]]"
+  - "[[The Hardening Of The Great Softening - Research]]"
 ---
 
 # Garden of Eden
@@ -34,5 +35,6 @@ related:
 
 ## Related concepts
 
-- [Primitivism](/notes/primitivism)
-- [Progressivism](/notes/progressivism)
+- [Primitivism](/notes/primitivism) — one pole of the question Kyle poses: whether leaving Eden frames the human ideal as a return to a simpler state.
+- [Progressivism](/notes/progressivism) — the opposing pole: whether the Fall and departure from Eden frame the ideal as movement forward.
+- The Hardening Of The Great Softening - Research — the research notes where Kyle invokes Eden as a test case for the primitivism vs. progression question.

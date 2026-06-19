@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The Hardening Of The Great Softening' notes"
@@ -18,6 +18,8 @@ related:
   - "[[Loss Aversion]]"
   - "[[Lifestyle Creep]]"
   - "[[Ambition]]"
+  - "[[The Hardening Of The Great Softening - Research]]"
+  - "[[Hard Work]]"
 ---
 
 # Golden Handcuffs
@@ -34,6 +36,8 @@ related:
 
 ## Related concepts
 
-- [Loss Aversion](/notes/loss-aversion)
-- [Lifestyle Creep](/notes/lifestyle-creep)
-- [Ambition](/notes/ambition)
+- [Loss Aversion](/notes/loss-aversion) — Kyle equates the two directly: "loss aversion and golden handcuffs are the same."
+- [Lifestyle Creep](/notes/lifestyle-creep) — paired with golden handcuffs as the mechanism that raises the cost of leaving over time.
+- [Ambition](/notes/ambition) — the drive that golden handcuffs blunt by making comfort the trap.
+- [Hard Work](/notes/hard-work) — the counter-pull to the comfort that golden handcuffs reward.
+- The Hardening Of The Great Softening - Research — the research notes where this framing originates.

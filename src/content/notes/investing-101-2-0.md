@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
@@ -30,6 +30,8 @@ related:
   - "[[Roam Research]]"
   - "[[Portfolio Ideas]]"
   - "[[Republic of Letters]]"
+  - "[[Data in Investing]]"
+  - "[[Playbooks]]"
 ---
 
 # Investing 101 2.0
@@ -63,6 +65,8 @@ related:
 - [Networked Conviction](/essays/networked-conviction-roam-investing), [Roam Research](/notes/roam-research) — the method and the tool behind it.
 - [Portfolio Ideas](/notes/portfolio-ideas) — the output: companies surfaced by the process.
 - [Republic of Letters](/notes/republic-of-letters) — the thinking-in-public lineage.
+- [Data in Investing](/notes/data-in-investing) — a named axis of the "2.0" reinvention agenda.
+- [Playbooks](/notes/playbooks) — the reading-log "Quick Capture" thread (the Forbes buyout-formula piece) tags into this page.
 
 
 ## Quick Capture links — June 29th, 2021

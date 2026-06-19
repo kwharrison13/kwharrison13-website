@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
@@ -18,6 +18,13 @@ aliases:
 related:
   - "[[Banu Ozkazanc-Pan]]"
   - "[[Brown University]]"
+  - "[[Retraining]]"
+  - "[[Automation]]"
+  - "[[Deskless Workers]]"
+  - "[[Remote Work]]"
+  - "[[Sam Altman]]"
+  - "[[Azeem Azhar]]"
+  - "[[Abundance]]"
 ---
 
 # Future of Work
@@ -34,7 +41,12 @@ related:
 
 ## Related concepts
 
-- _None identified yet._
+- [Retraining](/notes/retraining) — the reskilling thread (teaching displaced workers to code) that [Banu Ozkazanc-Pan](/notes/banu-ozkazanc-pan) frames as a short-term global fix but individually transformative.
+- [Automation](/notes/automation) — the force the one-line definition centers on, reshaping the nature of work and labor.
+- [Deskless Workers](/notes/deskless-workers) — a segment of the workforce surfaced in the June 29th, 2021 Quick Capture reading log.
+- [Remote Work](/notes/remote-work) — recurring theme across the Quick Capture links (Google's 100,000-employee remote-work study, digital-nomad sources).
+- [Sam Altman](/notes/sam-altman) — Quick Capture link on AI displacing jobs while likely creating massive [Abundance](/notes/abundance).
+- [Azeem Azhar](/notes/azeem-azhar) — Quick Capture link to his Exponential View conversation with Jeff Sachs on AI, automation, and the economy.
 
 
 ## Quick Capture links — June 29th, 2021

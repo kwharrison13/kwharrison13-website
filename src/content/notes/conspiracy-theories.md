@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The Hardening Of The Great Softening' notes"
@@ -16,6 +16,8 @@ aliases:
   - "Conspiracy Theory"
 related:
   - "[[Death of Expertise]]"
+  - "[[Misinformation]]"
+  - "[[Expertise]]"
 ---
 
 # Conspiracy Theories
@@ -32,4 +34,6 @@ related:
 
 ## Related concepts
 
-- [Death of Expertise](/notes/death-of-expertise)
+- [Death of Expertise](/notes/death-of-expertise) — sits alongside conspiracy theories in the Great Softening research as a symptom of declining trust in institutions.
+- [Misinformation](/notes/misinformation) — the broader information-environment failure mode that conspiracy theories exemplify in the "is America in decline?" thread.
+- [Expertise](/notes/expertise) — the eroding authority whose decline (the [Death of Expertise](/notes/death-of-expertise)) makes simplifying conspiratorial explanations more appealing.

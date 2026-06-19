@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Open-Source Knowledge - Research.md"
@@ -19,6 +19,8 @@ aliases:
 related:
   - "[[Patrick O'Shaughnessy]]"
   - "[[Open-Source Knowledge - Research]]"
+  - "[[Contrary Research]]"
+  - "[[Stratechery]]"
 ---
 
 # Colossus
@@ -36,5 +38,7 @@ related:
 
 ## Related concepts
 
-- [Patrick O'Shaughnessy](/notes/patrick-o-shaughnessy)
-- [Stratechery](/notes/stratechery)
+- [Patrick O'Shaughnessy](/notes/patrick-o-shaughnessy) — founder of Colossus / host of Invest Like the Best.
+- Open-Source Knowledge - Research — frames Colossus as the "repo-facilitator" role in Kyle's open-source analogy.
+- [Contrary Research](/essays/contrary-research) — contrasted with Colossus as the depth source that "doesn't scale as well" as bite-sized company intros.
+- [Stratechery](/notes/stratechery) — adjacent media model in the knowledge-economy/independent-analyst lineage.

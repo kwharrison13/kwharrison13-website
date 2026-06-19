@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/calls/May 31st, 2018.md"
@@ -19,7 +19,8 @@ aliases:
 related:
   - "[[Chad Bojorquez]]"
   - "[[Homelessness]]"
-  - "[[social innovation]]"
+  - "[[Social Innovation]]"
+  - "[[Cisco]]"
 ---
 
 # Destination: Home
@@ -44,5 +45,7 @@ related:
 
 ## Related concepts
 
-- [Homelessness](/notes/homelessness)
-- [social innovation](/notes/social-innovation)
+- [Homelessness](/notes/homelessness) — the problem the partnership exists to end, targeting ~5,000–6,000 supportive-housing units.
+- [Social Innovation](/notes/social-innovation) — the partnership seeds a Supportive Housing and Innovation Fund and runs grassroots initiatives like Housing Ready Communities.
+- [Cisco](/notes/cisco) — anchor funder whose $50M grant seeded the fund, with ~90% directed to acquiring housing stock.
+- [Chad Bojorquez](/notes/chad-bojorquez) — operations lead on the ~5-person team running the collective-impact model.

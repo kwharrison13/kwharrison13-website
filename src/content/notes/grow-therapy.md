@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
@@ -19,6 +19,9 @@ related:
   - "[[September 22nd, 2021 — Nicole Kleiman-Reck (Grow Therapy)]]"
   - "[[Nicole Kleiman-Reck]]"
   - "[[Behavioral Health]]"
+  - "[[Index Ventures]]"
+  - "[[Insurance]]"
+  - "[[Healthcare]]"
 ---
 
 # Grow Therapy
@@ -36,3 +39,6 @@ related:
 ## Related concepts
 
 - [Behavioral Health](/notes/behavioral-health) — its market.
+- [Healthcare](/notes/healthcare) — the broader provider-infrastructure space it operates in.
+- [Insurance](/notes/insurance) — its billing model is mostly insurance-based, and credentialing/contracting is the convenience it sells therapists.
+- [Index Ventures](/notes/index-ventures) — the firm whose sourcing/diligence call surfaced Grow Therapy via provider [Nicole Kleiman-Reck](/notes/nicole-kleiman-reck).

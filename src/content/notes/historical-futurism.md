@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-18"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays/Historical Futurism (Essay).md"
@@ -22,6 +22,9 @@ related:
   - "[[Science Fiction]]"
   - "[[Forecasting]]"
   - "[[Futurology]]"
+  - "[[Open Source Knowledge]]"
+  - "[[Speculative Fiction]]"
+  - "[[Utopias]]"
 ---
 
 # Historical Futurism
@@ -36,4 +39,11 @@ This is the recurring concept/thesis Kyle tags as #[Historical Futurism](/essays
 
 ## Related concepts
 
-- [Science Fiction](/notes/science-fiction), [Speculative Fiction](/notes/speculative-fiction), [Futurology](/notes/futurology), [Forecasting](/notes/forecasting), [Utopias](/notes/utopias)
+- [Science Fiction](/notes/science-fiction) — the genre whose shortage of *optimistic* visions is the thesis's central concern; to invent the future people first need hopeful visions of it.
+- [Speculative Fiction](/notes/speculative-fiction) — the broader fiction-of-possible-futures mode the thesis draws on, including the Guardian "Palestine in 2048" example of fiction imagining a real place's future.
+- [Futurology](/notes/futurology) — the discipline of studying the future that historical futurism reframes by "looking back to see forward."
+- [Forecasting](/notes/forecasting) — a stage in the feedback loop (foundational futures → dreaming → dreamers → forecasting → building).
+- [Utopias](/notes/utopias) — the hopeful, visionary end of the imagined-future spectrum the thesis prizes.
+- [Open Source Knowledge](/notes/open-source-knowledge) — framed as a cousin concept: historical futurism as "open-source imagination."
+- [Historical Futurism (Essay)](/essays/historical-futurism) — the published essay (*"Using Science Fiction to Invent the Future"*) articulating this thesis.
+- Historical Futurism - Research — the full research dossier behind the essay.

@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "raw/calls/May 31st, 2018.md"
@@ -18,6 +18,9 @@ aliases:
   - "Clean Capital"
 related:
   - "[[Jon Powers]]"
+  - "[[CalPERS]]"
+  - "[[SoFi]]"
+  - "[[Climate Change]]"
 ---
 
 # CleanCapital
@@ -42,4 +45,7 @@ related:
 
 ## Related concepts
 
-- _None yet._
+- [Jon Powers](/notes/jon-powers) — co-founder (ex-Obama Chief Sustainability Officer) who pitched the model on the 2018 call.
+- [SoFi](/notes/sofi) — the loan-refinancing playbook CleanCapital aimed to translate into clean-energy finance.
+- [CalPERS](/notes/calpers) — large institutional investor CleanCapital had interest in reaching as a capital partner.
+- [Climate Change](/notes/climate-change) — the broader sustainable-energy thesis the platform's solar/clean-energy financing serves.

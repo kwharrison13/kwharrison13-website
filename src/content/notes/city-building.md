@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Tweet thread by @drydenwtbrown, 2020-09-23 (Bluebook Cities / charter-city origin story)"
@@ -21,6 +21,13 @@ related:
   - "[[Network State]]"
   - "[[Seasteading]]"
   - "[[Frontier]]"
+  - "[[Charter Cities]]"
+  - "[[Mark Lutter]]"
+  - "[[Tamara Winter]]"
+  - "[[Mike Solana]]"
+  - "[[Byrne Hobart]]"
+  - "[[Tyler Cowen]]"
+  - "[[Progress Studies]]"
 ---
 
 # City Building
@@ -59,6 +66,16 @@ _Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
 
 - https://soundcloud.com/user-580979201/mark-lutter-on-progress-studies-and-charter-cities — Mark Lutter on progress studies and charter cities (SoundCloud podcast). #[Progress Studies](/notes/progress-studies) #[Charter Cities](/notes/city-building) #[Mark Lutter](/notes/mark-lutter)
 
+
+## Related concepts
+
+- [Charter Cities](/notes/city-building) — the governance model at the core of the Bluebook Cities effort and this page's frontier-greenfield thesis.
+- [Mark Lutter](/notes/mark-lutter) — founder of the [Charter Cities](/notes/city-building) Institute (CCI); part of the Silicon Valley new-cities crowd Brown and Callinan met, and CCI provided their first small grant.
+- [Tamara Winter](/notes/tamara-winter) — then at the Charter Cities Institute alongside [Mark Lutter](/notes/mark-lutter) when the founders consulted the new-cities community.
+- [Mike Solana](/notes/mike-solana) — among the Silicon Valley new-cities figures the founders spoke with during their 2019 research phase.
+- [Byrne Hobart](/notes/byrne-hobart) — wrote Bluebook Cities its first check after a cold DM from Brown.
+- [Tyler Cowen](/notes/tyler-cowen) — participated in the Bluebook Cities seed round funding charter-city legislation in Ghana.
+- [Progress Studies](/notes/progress-studies) — adjacent movement framing new-city building as a vehicle for civilizational progress; surfaced via the saved Mark Lutter podcast.
 
 ## Where it shows up
 

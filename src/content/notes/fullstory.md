@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "/Users/kwharrison13/Downloads/Sprig fka UserLeap - Diligence.md"
@@ -17,6 +17,7 @@ related:
   - "[[Sprig fka UserLeap - Diligence]]"
   - "[[Hotjar]]"
   - "[[Sprig]]"
+  - "[[Joseph Ambeault]]"
 ---
 
 # FullStory
@@ -36,5 +37,6 @@ related:
 
 ## Related concepts
 
-- Hotjar
-- [Sprig](/notes/sprig)
+- [Sprig](/notes/sprig) — contrasted with FullStory: Sprig's self-reported qualitative feedback is "easy in, easy out," while FullStory's behavioral session replay is far stickier.
+- Hotjar — described as "just a worse version of FullStory" and ripped out of production.
+- [Joseph Ambeault](/notes/joseph-ambeault) — Codecademy leader who rolled FullStory out company-wide and described its stickiness in the Sprig fka UserLeap - Diligence discussion.

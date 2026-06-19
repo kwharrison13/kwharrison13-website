@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
@@ -19,6 +19,10 @@ related:
   - "[[Conviction]]"
   - "[[Likability]]"
   - "[[Deviance]]"
+  - "[[Conviction-Led Contrarianism]]"
+  - "[[Palmer Luckey]]"
+  - "[[Anduril]]"
+  - "[[John Maynard Keynes]]"
 ---
 
 # Dependencies
@@ -42,5 +46,10 @@ related:
 ## Related concepts
 
 - [Contrarianism](/notes/contrarianism) — being "right" is gated by dependencies.
+- [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — the framework where "Layers of Dependencies" is the load-bearing idea.
+- [Conviction](/notes/conviction) — the inward counterweight to outward dependencies.
 - [Deviance](/notes/deviance) — the response to Layer 2 dependencies.
 - [Likability](/notes/likability) — Layer 1 dependencies are largely likability phantoms.
+- [Palmer Luckey](/notes/palmer-luckey) — cited as the Layer 3 answer: radical prioritization toward your "ride or die" 1%.
+- [Anduril](/notes/anduril) — Luckey's company, the example of navigating unavoidable institutional dependencies.
+- [John Maynard Keynes](/notes/john-maynard-keynes) — "markets can remain irrational longer than you can remain solvent," the quintessential dependency.

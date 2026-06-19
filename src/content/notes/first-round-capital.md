@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The State of Startup Media' notes"
@@ -17,6 +17,7 @@ aliases:
   - "First Round Review"
 related:
   - "[[The State of Startup Media - Research]]"
+  - "[[Venture Capital]]"
 ---
 
 # First Round Capital
@@ -26,6 +27,11 @@ related:
 ## How it shows up
 
 - Kyle followed **First Round Review** circa 2017 (source: The State of Startup Media - Research — 2017 inventory). It prefigures the essay's "VC firm built like a media company" thread.
+
+## Related concepts
+
+- [Venture Capital](/notes/venture-capital) — First Round Capital is a seed-stage venture firm; its editorial arm, First Round Review, is an early case of a VC firm operating like a media company.
+- The State of Startup Media - Research — research note whose 2017 inventory records Kyle following First Round Review, prefiguring the "VC firm built like a media company" thread.
 
 ## Where it shows up
 

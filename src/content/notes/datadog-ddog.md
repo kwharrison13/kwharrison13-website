@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
@@ -18,6 +18,10 @@ aliases:
 related:
   - "[[September 22nd, 2021 — Shardul Shah on Datadog]]"
   - "[[Shardul Shah]]"
+  - "[[Pricing]]"
+  - "[[TAM]]"
+  - "[[Content Marketing]]"
+  - "[[Index Ventures]]"
 ---
 
 # Datadog ($DDOG)
@@ -34,4 +38,7 @@ related:
 
 ## Related concepts
 
-- [Pricing](/notes/pricing) — premium-pricing lesson.
+- [Pricing](/notes/pricing) — Datadog's premium pricing as "positive friction"; price pushback signals undelivered value.
+- [TAM](/notes/tam) — the lesson that Datadog's addressable market expanded every six months.
+- [Content Marketing](/notes/content-marketing) — speaking to the practitioner via educational content plus events.
+- [Index Ventures](/notes/index-ventures) — the firm whose sourcing/diligence call ([Shardul Shah](/notes/shardul-shah)) produced these Datadog lessons.

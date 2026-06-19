@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -17,6 +17,11 @@ aliases:
 related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[API Security]]"
+  - "[[Salt Security]]"
+  - "[[Noname Security]]"
+  - "[[Signal Sciences]]"
+  - "[[KuppingerCole]]"
+  - "[[Atanu Dasgupta]]"
 ---
 
 # Imperva
@@ -36,3 +41,8 @@ related:
 ## Related concepts
 
 - [API Security](/notes/api-security) — the category Imperva is competing in
+- [Salt Security](/notes/salt-security) — the API security vendor against which Imperva was benchmarked
+- [Noname Security](/notes/noname-security) — competing API security vendor evaluated alongside Imperva
+- [Signal Sciences](/notes/signal-sciences) — WAF/API security vendor cited together with Imperva
+- [KuppingerCole](/notes/kuppingercole) — analyst source characterizing Imperva as a network-security "dinosaur"
+- [Atanu Dasgupta](/notes/atanu-dasgupta) — expert who rated familiarity with Imperva in the diligence
