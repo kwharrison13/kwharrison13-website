@@ -43,6 +43,10 @@ export default defineConfig({
     // Book retitled "Benjamin Franklin" → "Benjamin Franklin: An American Life"
     // (disambiguated from the person page); preserve the old book URL.
     '/books/benjamin-franklin': '/books/benjamin-franklin-an-american-life',
+    // Book retitled "Howard W. Hunter" → "Howard W. Hunter by Eleanor Knowles"
+    // (disambiguated from the person page, and reconnects the synced highlights);
+    // preserve the old book URL that was previously indexed.
+    '/books/howard-w-hunter': '/books/howard-w-hunter-by-eleanor-knowles',
   },
   markdown: {
     remarkPlugins: [remarkStripRwid],
