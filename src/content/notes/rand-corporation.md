@@ -8,10 +8,13 @@ updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Historical Futurism - Research.md"
+  - "wiki/books/The Man From The Future.md"
 tags: []
 aliases:
   - "RAND Corporation"
-related: []
+  - "RAND"
+related:
+  - "[[The Man From The Future]]"
 reference_count: 1
 ---
 

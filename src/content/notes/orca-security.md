@@ -8,16 +8,19 @@ updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Noname Security - Diligence.md"
+  - "wiki/people/Nir Rothenberg.md"
 tags:
   - "cybersecurity"
   - "cloud-security"
 aliases:
   - "Orca Security"
+  - "Orca"
 related:
   - "[[Noname Security - Diligence]]"
   - "[[CrowdStrike ($CRWD)]]"
   - "[[Palo Alto Networks ($PANW)]]"
   - "[[Wiz.io]]"
+  - "[[Nir Rothenberg]]"
 reference_count: 1
 ---
 

@@ -8,12 +8,14 @@ updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — March 5th, 2020 (Teamshares diligence call log): ~/Downloads/March 5th, 2020.md"
+  - "wiki/concepts/Norwest.md"
 tags:
   - "private-equity"
   - "venture-capital"
   - "company"
 aliases:
   - "Norwest"
+  - "Norwest Venture Partners"
 related:
   - "[[Kyle Gay]]"
   - "[[March 5th, 2020 — Kyle Gay (Kensington Permanent Capital)]]"
@@ -21,6 +23,7 @@ related:
   - "[[Venture Capital]]"
   - "[[Private Equity]]"
   - "[[EBITDA]]"
+  - "[[Norwest]]"
 ---
 
 # Norwest

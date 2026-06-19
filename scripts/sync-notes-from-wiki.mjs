@@ -279,6 +279,22 @@ function main() {
     console.log(`\nSlug collisions (later file wins): ${collisions.length}`);
     for (const c of collisions.slice(0, 20)) console.log(`  - ${c}`);
   }
+
+  // Prune stale notes: src/content/notes is 100% generated, so any file whose
+  // slug wasn't written this run (its source wiki page was renamed/merged/deleted)
+  // is an orphan that would otherwise keep rendering old content at /notes/<slug>.
+  if (fs.existsSync(NOTES_DIR)) {
+    const stale = fs.readdirSync(NOTES_DIR)
+      .filter((f) => f.endsWith('.md') && !f.startsWith('.'))
+      .filter((f) => !seenSlugs.has(f.slice(0, -3)));
+    if (stale.length) {
+      console.log(`\n${dryRun ? '[dry-run] would prune' : 'pruned'} ${stale.length} stale notes:`);
+      for (const f of stale) {
+        console.log(`  - ${f}`);
+        if (!dryRun) fs.rmSync(path.join(NOTES_DIR, f));
+      }
+    }
+  }
 }
 
 main();

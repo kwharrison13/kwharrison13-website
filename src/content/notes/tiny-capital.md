@@ -6,10 +6,12 @@ confidence: "low"
 created: "2026-06-16"
 updated: "2026-06-19"
 last_updated_by: "agent"
-sources: []
+sources:
+  - "wiki/books/Berkshire Hathaway Annual Letters.md"
 tags: []
 aliases:
   - "Tiny Capital"
+  - "Tiny"
 related: []
 ---
 

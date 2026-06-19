@@ -8,11 +8,13 @@ updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Watershed Climate Diligence — 2021.md"
+  - "wiki/concepts/Decarbonization.md"
 tags:
   - "climate-tech"
   - "carbon-accounting"
 aliases:
   - "Watershed Climate"
+  - "Watershed"
 related:
   - "[[Watershed Climate Diligence — 2021]]"
   - "[[Taylor Francis]]"
@@ -27,6 +29,7 @@ related:
   - "[[Planetly]]"
   - "[[Sequoia]]"
   - "[[Kleiner Perkins]]"
+  - "[[Decarbonization]]"
 ---
 
 # Watershed Climate
