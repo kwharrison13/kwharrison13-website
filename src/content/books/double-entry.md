@@ -18,8 +18,13 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [The Idea Factory](/books/the-idea-factory) — institutional-knowledge history parallel.
-- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — adjacent on intellectual-tool history.
+**People:** [Luca Pacioli](/notes/luca-pacioli) — the Renaissance mathematician whose 1494 treatise *Particularis de computis et scripturis* codified Venetian double-entry bookkeeping for print; [Warren Buffett](/notes/warren-buffett) — quoted on the inscrutability of derivatives-heavy corporate disclosures; [John Maynard Keynes](/notes/john-maynard-keynes) — recast the whole economy as an aggregate balance of supply and demand, the conceptual leap behind national accounting; [Charles Darwin](/notes/charles-darwin) — funded by his grandfather Josiah Wedgwood's double-entry-guided Etruria pottery works; [Leo Tolstoy](/notes/leo-tolstoy) — through Levin voiced literary unease at the "rationalisation" of life that double entry embodied; [Al Gore](/notes/al-gore) — quoted that "the old way of measuring value is becoming irrelevant."
+
+**Concepts:** [Accounting](/notes/accounting) — the book's central subject, traced from Pacioli to modern audit and the "expectations gap"; [Capitalism](/notes/capitalism) — Sombart's claim that it is inseparable from double-entry bookkeeping ("like form and content"); [GDP](/notes/gdp) — born of 1930s national-accounting needs, indicted here as a deeply flawed measure of national wellbeing; [Climate Change](/notes/climate-change) — the unpriced "externalities" and ecological debt that traditional and national accounts fail to record.
+
+**Books:** [The Idea Factory](/books/the-idea-factory) — institutional-knowledge history parallel; [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — adjacent on the history of intellectual tools and the printing-press revolution that spread Pacioli's method.
+
+**Other:** [Progress Studies](/notes/progress-studies) — accounting as a measurement technology that helped produce the Renaissance and capitalism; [Republic of Letters](/notes/republic-of-letters) — the print-driven diffusion of Venetian bookkeeping across Europe.
 <!-- /interconnections -->
 
 ## Highlights

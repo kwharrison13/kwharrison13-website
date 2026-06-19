@@ -19,9 +19,11 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-- [Atomic Habits](/books/atomic-habits) — technology-augments-vs-distracts thread.
-- [Essentialism](/books/essentialism) — focus discipline parallel.
-- [Deep Work](/books/deep-work) _(stub)_ — direct Cal Newport precursor.
+**People:** [Cal Newport](/notes/cal-newport) — author; frames digital minimalism as a values-rooted philosophy of technology use. [Henry David Thoreau](/notes/henry-david-thoreau) — recurring touchstone; the book reads modern attention through Thoreau's "new economics" of cost-as-life-exchanged. [Ralph Waldo Emerson](/notes/ralph-waldo-emerson) — paired with Thoreau as the transcendentalist source Newport encountered on the Charles River. [Benjamin Franklin](/notes/benjamin-franklin) — held up as a model of cultivated, structured leisure via his self-improvement club. [Aristotle](/notes/aristotle) — cited for "the best and most pleasant life is the life of the intellect," grounding leisure in contemplation valued for its own sake. [Bill Maher](/notes/bill-maher) — quoted comparing checking "likes" to smoking, the attention-as-addiction frame.
+
+**Concepts:** [Solitude](/notes/solitude) — central thesis; "solitude deprivation" from constant input from other minds degrades clarity, emotional regulation, and moral courage. [Focus](/notes/focus) — reclaiming attention from engineered distraction is the book's core discipline. [Walking](/notes/walking) — endorsed (via Nietzsche, Thoreau, Berry) as solitude-rich, idea-generating leisure. [Junto](/notes/junto) — Franklin's mutual-improvement club exemplifies the "join things" lesson for high-quality social leisure. [Republic of Letters](/notes/republic-of-letters) — Franklin's letter-and-essay society as a pre-digital model of intentional intellectual exchange. [Financial Independence](/notes/financial-independence) / [Frugality](/notes/frugality) — the Mr. Money Mustache leisure philosophy (making and fixing things over passive consumption) parallels the FIRE community's value-first reasoning. [Personal Finance](/notes/personal-finance) — Thoreau's cost-in-life-hours accounting reframes consumption as a budgeting problem.
+
+**Books:** [Deep Work](/books/deep-work) — direct Newport precursor; both argue attention is a scarce resource to protect from low-value digital interruption. [Atomic Habits](/books/atomic-habits) — technology-augments-vs-distracts thread; intentional design of habits around values. [Essentialism](/books/essentialism) — focus-and-subtraction discipline parallel; deciding what to ignore. [Walden](/books/walden) — the philosophical spine of the book, supplying the "to what end?" question and the deliberate-living standard.
 <!-- /interconnections -->
 
 ## Highlights

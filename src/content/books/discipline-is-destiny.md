@@ -39,6 +39,10 @@ The throughline: discipline isn't a moral position, it's a system of small choic
 - [The Self-Driven Child](/books/the-self-driven-child) — adult-self version of the autonomy/self-talk arguments.
 - [How Will You Measure Your Life](/books/how-will-you-measure-your-life) — adjacent on values-as-strategy framing.
 - [Way to Be!](/books/way-to-be) — Hinckley's adjacent collection.
+- [Stoicism](/notes/stoicism) — the book's core lineage; Marcus Aurelius, Seneca, Epictetus, and Musonius Rufus furnish its operating quotes.
+- [Self-discipline](/notes/self-discipline) — the book's title virtue, framed as a system of small daily choices rather than a moral position.
+- [Deep Work](/books/deep-work) — the "large, uninterrupted blocks of focused time" thread (Booker T. Washington's No, Steve Jobs/Jony Ive on focus, Oliver Sacks's "NO!" sign).
+- [Compounding](/notes/compounding) — "everything you do is cumulative" / kaizen / memento mori as small increments adding up to a self over time.
 <!-- /interconnections -->
 
 ## Highlights

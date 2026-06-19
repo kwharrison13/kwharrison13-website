@@ -34,11 +34,38 @@ The book is less digested-and-synthesized than the other reads in this batch —
 ## Connections
 
 <!-- interconnections -->
+**Books:**
 - [Skunk Works](/books/skunk-works) — defense-tech context; Kelly Johnson era contrasted with TSMC era.
 - [The Kill Chain](/books/the-kill-chain) — present-tense companion. Chip War supplies the supply-chain piece of the same argument.
-- [Flying Blind](/books/flying-blind) — industrial-decline parallel in aviation.
-- [The Idea Factory](/books/the-idea-factory) — Bell Labs reference appears in both.
-- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC structure and how defense/hard-tech capital gets allocated.
+- [Flying Blind](/books/flying-blind) — industrial-decline parallel in aviation; the same "we offshored a strategic capability by choice" thesis.
+- [The Idea Factory](/books/the-idea-factory) — Bell Labs as a monopoly innovation engine; the transistor's 1948 invention appears in both.
+- [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — Noyce's "venturing is venturing" rejection of government R&D money, and how hard-tech/defense capital gets allocated.
+
+**People:**
+- [Morris Chang](/notes/morris-chang) — central figure; leaves [Texas Instruments](/notes/texas-instruments) after being passed over for CEO and founds TSMC, the canonical [Innovator's Dilemma](/notes/innovator-s-dilemma) departure.
+- [Andy Grove](/notes/andy-grove) — *Only the Paranoid Survive*; "disrupts Intel himself" by abandoning DRAM for microprocessors, and warns late in life about offshoring locking the US out of emerging industries.
+- [Chris Miller](/notes/chris-miller) — author; frames the US-China rivalry as a contest decided by computing power rather than steel or atomic weapons.
+- [Andrew Marshall](/notes/andrew-marshall) — Office of Net Assessment strategist who argued the US should exploit its computing lead to "shift concepts of warfare," the intellectual root of the precision-strike revolution.
+- [Bill Perry](/notes/bill-perry) — commissions the DARPA "Assault Breaker" program integrating sensors, guided weapons, and communications — the early vision of [Sensor Fusion](/notes/sensor-fusion).
+
+**Concepts:**
+- [Anduril](/notes/anduril) — the dominant annotation; the book is mined as evidence for a verticalized defense-tech thesis (attritable assets, sensor fusion, civil-military fusion).
+- [Civil-Military Fusion](/notes/civil-military-fusion) — China's doctrine of integrating commercial and military technology, which the US fragments by design.
+- [Sensor Fusion](/notes/sensor-fusion) — fusing radar with other sensor feeds (Assault Breaker) to enable distributed, automated targeting.
+- [Attritable Assets](/notes/attritable-assets) — Word's mandate to build weapons "cheap and familiar," priced like an inexpensive family sedan.
+- [Innovator's Dilemma](/notes/innovator-s-dilemma) — TI quietly bins Chang's foundry idea in 1976; the model walks away and becomes TSMC.
+- [Industrial Policy](/notes/industrial-policy) — offshoring of fabrication framed as a choice, not destiny; Asian governments subsidized their way into the industry while the US chose laissez-faire.
+- [Growth vs Profit](/notes/growth-vs-profit) — "Growth may order the meal but profit will always have to pay the check"; Japan's bank-funded DRAM overinvestment and the AI-overinvestment parallel.
+- [Cost of Capital](/notes/cost-of-capital) — Sanders's complaint that Japanese chipmakers borrowed at 6-7% while US firms paid 18%+; subsidized capital as strategic weapon.
+- [Vertical Integration](/notes/vertical-integration) — Intel's integrated design-and-manufacturing model vs. TSMC's pure-play foundry split; Sanders's "pet shark" defense of owning fabs.
+- [TSMC](/notes/tsmc) — the single dominant private actor with the capital and patience to do what fragmented competitors can't; "a project of the Taiwanese state" from day one.
+- [Texas Instruments](/notes/texas-instruments) — Haggerty's bet on the integrated circuit; the org-structure that couldn't keep Chang.
+- [Samsung](/notes/samsung) — Lee's three-strategy playbook (cultivate political ties, replicate Western products at lower cost, globalize relentlessly).
+- [Apple](/notes/apple-aapl) — designs the world's most advanced processors but can only have them fabricated by TSMC; Tim Cook now has more influence on the industry than any Pentagon official.
+- [Bell Labs](/notes/bell-labs) — monopoly as innovation engine; June 1948 transistor announcement buried on page 46.
+- [Open Source](/notes/open-source) — RISC-V as a geopolitically neutral, free instruction-set architecture embraced by both DARPA and Chinese firms.
+- [Venture Capital](/notes/venture-capital) — Noyce on declining military contracts: "selling R&D to the government was like taking your venture capital and putting it into a savings account."
+- [Foreign Policy](/notes/foreign-policy) — Harold Brown's "High Tech Is Foreign Policy"; weaponized interdependence and export controls as statecraft.
 <!-- /interconnections -->
 
 ## Highlights

@@ -34,12 +34,45 @@ The story-collection mode is itself revealing — the book is being read primari
 ## Connections
 
 <!-- interconnections -->
+**Books:**
+
 - [Discipline Is Destiny](/books/discipline-is-destiny) — pairs naturally. Essentialism on saying no, Discipline on saying yes to a single self.
-- [Atomic Habits](/books/atomic-habits) — habit-design overlap; the "small change, compounded" frame.
-- [Deep Work](/books/deep-work) — direct overlap on focus protection.
-- [How To Read a Book](/books/how-to-read-a-book) — active-reading discipline overlap.
-- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — Munger's circle-of-competence is the investing-domain version of essentialism.
-- [How to Take Smart Notes](/books/how-to-take-smart-notes) _(stub)_ — notetaking discipline overlap.
+- [Atomic Habits](/books/atomic-habits) — habit-design overlap; the "small change, compounded" frame, echoed here in "to get big results we must start small" and "minimal viable progress."
+- [Deep Work](/books/deep-work) — direct overlap on focus protection; McKeown's "monk mode" eight-hour no-interruption writing blocks and Jeff Weiner's blank-calendar practice are the operating-system version.
+- [How To Read a Book](/books/how-to-read-a-book) — active-reading discipline overlap; the Essentialist who "discerns more so he can do less" parallels active, selective reading.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — Munger's [Circle of Competence](/notes/circle-of-competence) is the investing-domain version of essentialism; mirrored in the [Warren Buffett](/notes/warren-buffett) passage on betting heavily on the few investments he's "absolutely sure of."
+- [How To Take Smart Notes](/books/how-to-take-smart-notes) _(stub)_ — notetaking discipline overlap; "the faintest pencil is better than the strongest memory."
+
+**People:**
+
+- [Greg McKeown](/notes/greg-mckeown) — author; the book's "monk mode" writing discipline and 90 Percent Rule come from his own practice.
+- [Warren Buffett](/notes/warren-buffett) — cited as the exemplar Essentialist investor: "Our investment philosophy borders on lethargy," owing 90% of his wealth to ten investments.
+- [Peter Thiel](/notes/peter-thiel) — required PayPal employees to select one single priority; "less but better" taken to an unorthodox level.
+- [Peter Drucker](/notes/peter-drucker) — "the father of modern management thinking" and master of the "graceful no" (the waste-paper-basket letter to [Mihaly Csikszentmihalyi](/notes/mihaly-csikszentmihalyi)).
+- [Steve Jobs](/notes/steve-jobs) — the Paul Rand NeXT-logo story: betting short-term popularity loss for long-term respect by offering one solution, not options.
+- [Bill Gates](/notes/bill-gates) — the "Think Week" exemplar of reading and thinking no matter how busy.
+- [Michael Phelps](/notes/michael-phelps) — routine that "enshrines what is essential, making execution almost effortless."
+- [Malcolm Gladwell](/notes/malcolm-gladwell) — popularized Ericsson's violinist study as the "10,000-Hour Rule," cited as support for Essentialist deliberate effort.
+
+**Concepts:**
+
+- [Tradeoffs](/notes/tradeoffs) — the central method: making explicit choices between big things (Southwest, J&J, the Harvard-bound child) rather than just doing less.
+- [Pareto Principle](/notes/pareto-principle) — the "Law of the Vital Few"; distinguishing the trivial many from the vital few.
+- [Monk Mode](/notes/monk-mode) — zero-interruption time for focus and deep work.
+- [Mission Statement](/notes/mission-statement) — "It is the concrete intent, not the words, that matter"; the essential-intent matrix.
+- Essential Intent _(stub)_ — one decision that settles a thousand later decisions; both inspirational and concrete.
+- [Zero-Based Budgeting](/notes/zero-based-budgeting) — every use of time and resources must justify itself anew from zero.
+- [Reverse Pilot](/notes/reverse-pilot) — test whether removing an activity has any negative consequences.
+- [Learned Helplessness](/notes/learned-helplessness) — when people stop believing their efforts matter, they either check out or become hyperactive "do-it-all"-ers.
+- [Flow](/notes/flow) — Csikszentmihalyi's work on creativity referenced via the Drucker "graceful no" anecdote.
+- [Creativity](/notes/creativity) — Ken Robinson and Stuart Brown on play as the source of creativity and exploration.
+- [Focus](/notes/focus) — building thinking and quiet-reflection time into the schedule; "multifocus" as the real enemy.
+- [Minimum Viable Product](/notes/minimum-viable-product) — "minimal viable progress" and testing ideas on Twitter before writing the book.
+
+**Other:**
+
+- [Southwest Airlines](/notes/southwest-airlines) — Herb Kelleher's deliberate point-to-point, no-meals, no-assigned-seats tradeoffs as Essentialist strategy by design.
+- [Johnson & Johnson](/notes/johnson-and-johnson) — "Customers are first; shareholders are last"; the Tylenol recall as a guiding-principle decision.
 <!-- /interconnections -->
 
 ## Highlights
