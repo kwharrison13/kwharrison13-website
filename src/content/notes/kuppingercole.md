@@ -1,6 +1,6 @@
 ---
 title: "KuppingerCole"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
@@ -26,22 +26,25 @@ related:
 
 # KuppingerCole
 
-**One-line definition:** *European cybersecurity and identity analyst firm (~50 people); covers market research, events, and advisory — has tracked the API security space since 2014.*
+**One-line:** *European cybersecurity and identity analyst firm (~50 people) covering market research, events, and advisory — and tracking the API security space since 2014.*
 
-## How sources describe it
+## What we know
 
-- Team of 50 people specializing in identity and cyber security; does (1) market research, (2) events, (3) advisory services.
-- Works with investors on research access or individual calls on specific areas — won't do diligence themselves, but works with PwC and Accenture.
-- Engagement models at ~$25K per week.
-- Has covered API security since 2014; by 2021 counted 31 meaningful API security vendors.
-- Published: API Management and Security Leadership Compass; API Management & Security Buyer's Compass (both by [Alexei Balaganski](/notes/alexei-balaganski)).
+- Team of ~50 people specializing in identity and cyber security; does (1) market research, (2) events, and (3) advisory services (Salt Security Diligence — 2021).
+- Works with investors on research access or individual analyst calls on specific areas, but won't run [Due Diligence](/notes/due-diligence) itself — partners with PwC and Accenture for that (Salt Security Diligence — 2021).
+- Engagement models priced at ~$25K per week (Salt Security Diligence — 2021).
+- Has covered [API Security](/notes/api-security) since 2014; by 2021 counted 31 meaningful API security vendors (Salt Security Diligence — 2021).
+- Publications cited: API Management and Security Leadership Compass; API Management & Security Buyer's Compass (both by [Alexei Balaganski](/notes/alexei-balaganski)) (Salt Security Diligence — 2021).
+- Surfaced as the analyst firm for an Oct 12, 2021 session in [Salt Security](/notes/salt-security) diligence, with [Alexei Balaganski](/notes/alexei-balaganski) and [Martin Kuppinger](/notes/martin-kuppinger) (Salt Security Diligence — 2021).
 
-## Related concepts
+## Context hub
 
-- [API Security](/notes/api-security) — the market KuppingerCole has tracked since 2014, counting 31 meaningful vendors by 2021 and publishing its API Management & Security Leadership/Buyer's Compass reports on it.
-- [Salt Security](/notes/salt-security) — the API security vendor whose 2021 diligence drew on a KuppingerCole analyst session.
-- [Due Diligence](/notes/due-diligence) — the firm works with investors on research access and individual analyst calls, but won't run diligence itself (partnering instead with PwC and Accenture).
+- Salt Security Diligence — 2021 — the diligence dossier where the analyst session lives.
+- [Alexei Balaganski](/notes/alexei-balaganski) / [Martin Kuppinger](/notes/martin-kuppinger) — the analysts in the session.
+- [API Security](/notes/api-security) — the market KuppingerCole tracks.
+- [Salt Security](/notes/salt-security) — the vendor under diligence.
+- [Due Diligence](/notes/due-diligence) — the firm advises investors but won't run diligence itself.
 
-## Where it shows up
+## Mentioned in
 
 - Salt Security Diligence — 2021 — analyst session, October 12, 2021, with [Alexei Balaganski](/notes/alexei-balaganski) and [Martin Kuppinger](/notes/martin-kuppinger).

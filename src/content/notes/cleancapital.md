@@ -1,6 +1,6 @@
 ---
 title: "CleanCapital"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
@@ -15,7 +15,6 @@ tags:
   - "climate"
 aliases:
   - "CleanCapital"
-  - "Clean Capital"
 related:
   - "[[Jon Powers]]"
   - "[[CalPERS]]"

@@ -1,6 +1,6 @@
 ---
 title: "Apigee"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
@@ -25,16 +25,21 @@ related:
 
 # Apigee
 
-**One-line definition:** *Google-acquired API management platform; tried AI/ML for API telemetry security analysis ("Sense" and "Edge") but didn't productize it.*
+**One-line:** *Google-owned API management platform; in Kyle's Salt Security diligence it's the incumbent API-gateway world that [Kong](/notes/kong) grew out of, and the one vendor that tried AI/ML for security telemetry but never productized it.*
 
-## Where it shows up
+## What we know
 
-- Salt Security Diligence — 2021 — [Michael Isbitski](/notes/michael-isbitski) noted Apigee was "the only vendor doing anything on AI/ML front to analyze telemetry" for security, but "it just wasn't productized." Kong came out of the world controlled by Apigee, focused on performance over security.
+- [Michael Isbitski](/notes/michael-isbitski) (Salt Security Technical Evangelist) noted Apigee was the only vendor he knew of doing anything on the AI/ML front to analyze telemetry for security — "doing some stuff with sense and edge" — but "it just wasn't productized." (Salt Security Diligence — 2021)
+- [Kong](/notes/kong) "came out of the world controlled by folks like [Apigee](/notes/apigee)," which focused engineering resources on performance, deployability, and scalability rather than security. (Salt Security Diligence — 2021)
 
-## Related concepts
+## Context hub
 
-- [API Gateways](/notes/api-gateways) — Apigee is one of the incumbent API management/gateway platforms in this category.
-- [Google](/notes/google) — acquired Apigee, folding it into its enterprise API management offering.
-- [Kong](/notes/kong) — emerged from the world Apigee controlled, prioritizing performance over security.
-- [Salt Security](/notes/salt-security) — the API-security company whose diligence frames Apigee's unproductized AI/ML telemetry effort.
-- [Michael Isbitski](/notes/michael-isbitski) — the source who characterized Apigee's AI/ML security telemetry work as never productized.
+- Salt Security Diligence — 2021 — diligence dossier framing Apigee's unproductized AI/ML telemetry effort.
+- [Michael Isbitski](/notes/michael-isbitski) — source for the Apigee characterization.
+- [API Gateways](/notes/api-gateways) — the incumbent category Apigee sits in.
+- [Google](/notes/google) — owner of Apigee.
+- [Kong](/notes/kong) · [Salt Security](/notes/salt-security) — the gateway successor and the API-security company in the same diligence.
+
+## Mentioned in
+
+- Salt Security Diligence — 2021 — Apigee as incumbent API-gateway world ([Kong](/notes/kong)'s origin) and the one vendor with unproductized AI/ML security telemetry.

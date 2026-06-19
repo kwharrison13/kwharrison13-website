@@ -33,7 +33,7 @@ related:
 ## Connections
 
 - [Steve Jobs](/notes/steve-jobs) — counterpart in the recounted exchange, who tells Ive he is "just really vain."
-- [Apple](/notes/apple-aapl) — the company where Ive served as longtime chief designer.
+- [Apple](/notes/apple) — the company where Ive served as longtime chief designer.
 - [Likability](/notes/likability) — Jobs's charge that Ive "just want[s] people to like you" frames the page's tension between being liked and "the work."
 - [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — Kyle uses the anecdote to argue the antidote to caring what people think is caring about the work.
 

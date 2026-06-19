@@ -1,10 +1,10 @@
 ---
 title: "Zappos"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/The Storytelling of Investing - Research.md"

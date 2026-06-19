@@ -1,10 +1,10 @@
 ---
 title: "AltSchool"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-18"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's manual link/reading capture — June 18, 2026 (batch import from saved bookmarks)"

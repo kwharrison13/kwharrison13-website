@@ -1,10 +1,10 @@
 ---
 title: "Toll Brothers"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — May 16th, 2018 (networking/sourcing call log): ~/Downloads/May 16th, 2018.md"

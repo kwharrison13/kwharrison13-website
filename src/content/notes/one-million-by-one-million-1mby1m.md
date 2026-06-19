@@ -1,6 +1,6 @@
 ---
 title: "One Million by One Million (1Mby1M)"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-19"

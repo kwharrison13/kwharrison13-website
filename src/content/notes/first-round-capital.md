@@ -1,6 +1,6 @@
 ---
 title: "First Round Capital"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
@@ -13,8 +13,6 @@ tags:
   - "venture-capital"
 aliases:
   - "First Round Capital"
-  - "First Round"
-  - "First Round Review"
 related:
   - "[[The State of Startup Media - Research]]"
   - "[[Bill Trenchard]]"

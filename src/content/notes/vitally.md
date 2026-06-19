@@ -1,10 +1,10 @@
 ---
 title: "Vitally"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Planhat - Diligence.md"
@@ -12,7 +12,6 @@ tags:
   - "customer-success"
   - "saas"
 aliases:
-  - "Vitally"
   - "Vitally"
 related:
   - "[[Planhat - Diligence]]"

@@ -40,6 +40,7 @@ const WIKI_BOOKS = path.join(WIKI_ROOT, 'wiki', 'books');
 const WIKI_ESSAYS = path.join(WIKI_ROOT, 'wiki', 'essays');
 const WIKI_CONCEPTS = path.join(WIKI_ROOT, 'wiki', 'concepts');
 const WIKI_PEOPLE = path.join(WIKI_ROOT, 'wiki', 'people');
+const WIKI_COMPANIES = path.join(WIKI_ROOT, 'wiki', 'companies');
 // wiki/gospel-study is intentionally NOT in the resolver — kept private (never synced).
 const WEBSITE_BOOKS = path.join(WEBSITE_ROOT, 'src', 'content', 'books');
 
@@ -215,6 +216,7 @@ function getResolver() {
     [WIKI_ESSAYS, 'essays'],
     [WIKI_CONCEPTS, 'notes'],
     [WIKI_PEOPLE, 'notes'],
+    [WIKI_COMPANIES, 'notes'],
     // gospel-study intentionally excluded — kept private (not synced to notes),
     // so links to gospel-study pages unwrap to plain text on the public site.
   ];

@@ -1,13 +1,14 @@
 ---
 title: "CapitalG"
-type: "concept"
+type: "company"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
+  - "wiki/meetings/September 22nd, 2021 — Ganesh Pai (Uptycs).md"
 tags:
   - "venture-capital"
   - "growth-equity"
@@ -25,19 +26,19 @@ related:
 
 # CapitalG
 
-**One-line definition:** *Alphabet's independent growth fund; had a term sheet for [Uptycs](/notes/uptycs) that was shut down by the [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd) team.*
+**One-line:** *Alphabet's independent growth fund (world-knowledge identifier); appears in Kyle's notes as a would-be late-stage investor in [Uptycs](/notes/uptycs).*
 
-## How sources describe it
+## What we know
 
-- Alphabet's independent growth fund; had a term sheet for [Uptycs](/notes/uptycs) that was shut down by the [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd) team. (September 22nd, 2021 — Ganesh Pai (Uptycs))
+- Had a term sheet ready for [Uptycs](/notes/uptycs) that was shut down by the [CrowdStrike ($CRWD)](/notes/crowdstrike) team. Surfaced as a "next steps / check with" item during an [Index Ventures](/notes/index-ventures) sourcing call with Uptycs founder [Ganesh Pai](/notes/ganesh-pai). (September 22nd, 2021 — Ganesh Pai (Uptycs))
 
-## Where it shows up
+## Context hub
+
+- September 22nd, 2021 — Ganesh Pai (Uptycs) — the source; its Uptycs term sheet was shut down.
+- [Uptycs](/notes/uptycs) — would-be portfolio company; [Ganesh Pai](/notes/ganesh-pai) — its founder.
+- [CrowdStrike ($CRWD)](/notes/crowdstrike) — blocked the deal.
+- [Venture Capital](/notes/venture-capital) · [Index Ventures](/notes/index-ventures) — category and the firm whose call surfaced this.
+
+## Mentioned in
 
 - September 22nd, 2021 — Ganesh Pai (Uptycs) — its Uptycs term sheet was shut down.
-
-## Related concepts
-
-- [Uptycs](/notes/uptycs) — would-be investment; [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd) — blocked the deal.
-- [Venture Capital](/notes/venture-capital) — CapitalG operates as Alphabet's independent growth/venture fund.
-- [Index Ventures](/notes/index-ventures) — the source is a sourcing/diligence call from Index Ventures, in which the Uptycs term sheet came up.
-- [Ganesh Pai](/notes/ganesh-pai) — Uptycs founder whose company held the CapitalG term sheet that was shut down.

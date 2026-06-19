@@ -1,6 +1,6 @@
 ---
 title: "SentinelOne"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-19"
@@ -27,4 +27,4 @@ _Stub — flagged during the 2026-06-19 connection sweep as an entity referenced
 
 - [Nir Rothenberg](/notes/nir-rothenberg)
 - [API Security](/notes/api-security)
-- [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd)
+- [CrowdStrike ($CRWD)](/notes/crowdstrike)

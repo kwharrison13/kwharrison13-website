@@ -1,10 +1,10 @@
 ---
 title: "Brown University"
-type: "concept"
+type: "company"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — May 16th, 2018 (networking/sourcing call log): ~/Downloads/May 16th, 2018.md"

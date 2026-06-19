@@ -1,13 +1,14 @@
 ---
 title: "Uptycs"
-type: "concept"
+type: "company"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
+  - "wiki/meetings/September 22nd, 2021 — Ganesh Pai (Uptycs).md"
 tags:
   - "cybersecurity"
   - "endpoint-security"
@@ -30,25 +31,23 @@ related:
 
 # Uptycs
 
-**One-line definition:** *Security analytics platform (endpoint + cloud) competing with [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd); led by [Ganesh Pai](/notes/ganesh-pai).*
+**One-line:** *Security-analytics platform spanning endpoints and cloud (malware detection, file monitoring), competing head-to-head with [CrowdStrike ($CRWD)](/notes/crowdstrike); founded/led by [Ganesh Pai](/notes/ganesh-pai).*
 
-## How sources describe it
+## What we know
 
-- Customers include Stripe (55K AWS servers + 50K Mac endpoints; grew $1.4M→$3.2M), Comcast (evaluated side-by-side vs [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd) for 65K machines; $1M→$3.5M), Salesforce ($3M MuleSoft renewal, third year), PayPal ($650K ARR), Twitter ($700K), and Netflix ($100K, expected to expand to seven figures); only two customers churned; does malware detection and file monitoring; raised from [Sapphire Ventures](/notes/sapphire-ventures) (~$80M cash). A [CapitalG](/notes/capitalg) term sheet was shut down by the [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd) team; [Tanium](/notes/tanium) blocked Salesforce from investing. (September 22nd, 2021 — Ganesh Pai (Uptycs))
+- Does malware detection and file monitoring for key locations across endpoints and cloud; competes directly with [CrowdStrike ($CRWD)](/notes/crowdstrike). (September 22nd, 2021 — Ganesh Pai (Uptycs))
+- Customers and expansion (as of Sept 2021): [Stripe](/notes/stripe) all-in (55K AWS servers + 50K Mac endpoints; grew $1.4M→$3.2M); Comcast evaluated side-by-side vs CrowdStrike for 65K machines ($1M→$3.5M); [Salesforce](/notes/salesforce) renewed a $3M [MuleSoft](/notes/mulesoft) check for a third year; [PayPal](/notes/paypal) ~$650K ARR; Twitter ~$700K; Netflix a $100K deal expected to expand to seven figures; only two customers have churned. (September 22nd, 2021 — Ganesh Pai (Uptycs))
+- Team ~100 in India and ~75 elsewhere; an SVP joined from [DivvyCloud](/notes/divvycloud) to build a ~60-person team and the go-to-market machinery to complement the founders' sales strength. (September 22nd, 2021 — Ganesh Pai (Uptycs))
+- Funding: raised from [Sapphire Ventures](/notes/sapphire-ventures), with ~$80M cash still in the bank; [ServiceNow ($NOW)](/notes/servicenow) and [Salesforce](/notes/salesforce) were eager to invest, but [Tanium](/notes/tanium) reportedly blocked Salesforce ("thou shalt not invest"), and a [CapitalG](/notes/capitalg) term sheet was shut down by the [CrowdStrike ($CRWD)](/notes/crowdstrike) team. (September 22nd, 2021 — Ganesh Pai (Uptycs))
+- Surfaced via [Index Ventures](/notes/index-ventures) sourcing; next steps were data diligence and a deeper product session. (September 22nd, 2021 — Ganesh Pai (Uptycs))
 
-## Where it shows up
+## Context hub
+
+- September 22nd, 2021 — Ganesh Pai (Uptycs) — the founder sourcing call (sole substantive source).
+- Founder: [Ganesh Pai](/notes/ganesh-pai). Sourced through [Index Ventures](/notes/index-ventures).
+- Competitor: [CrowdStrike ($CRWD)](/notes/crowdstrike) (evaluated side-by-side at Comcast). Adjacent comparable: [Tanium](/notes/tanium).
+- Investors / would-be investors: [Sapphire Ventures](/notes/sapphire-ventures) (existing), [CapitalG](/notes/capitalg), [Salesforce](/notes/salesforce), [ServiceNow ($NOW)](/notes/servicenow).
+
+## Mentioned in
 
 - September 22nd, 2021 — Ganesh Pai (Uptycs) — sourcing call with founder [Ganesh Pai](/notes/ganesh-pai).
-
-## Related concepts
-
-- [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd) — head-to-head competitor; Comcast evaluated the two side-by-side, and the CrowdStrike team reportedly shut down a [CapitalG](/notes/capitalg) term sheet for Uptycs.
-- [Ganesh Pai](/notes/ganesh-pai) — founder/CEO who led the sourcing call.
-- [Sapphire Ventures](/notes/sapphire-ventures) — existing investor (~$80M raised).
-- [CapitalG](/notes/capitalg) — issued a term sheet that was blocked by the CrowdStrike team.
-- [Tanium](/notes/tanium) — reportedly blocked Salesforce from investing in Uptycs.
-- [Index Ventures](/notes/index-ventures) — surfaced and diligenced Uptycs in the September 22nd, 2021 sourcing call.
-- [Stripe](/notes/stripe) — customer (55K AWS servers + 50K Mac endpoints; grew $1.4M→$3.2M).
-- [Salesforce](/notes/salesforce) — customer via a $3M [Mulesoft](/notes/mulesoft) renewal (third year).
-- [PayPal](/notes/paypal) — customer (~$650K ARR).
-- [Twitter](/notes/twitter) — customer (~$700K).

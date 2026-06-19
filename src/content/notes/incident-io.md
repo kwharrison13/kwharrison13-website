@@ -1,10 +1,10 @@
 ---
 title: "Incident.io"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Noname Security - Diligence.md"
@@ -12,7 +12,6 @@ tags:
   - "devops"
   - "incident-management"
 aliases:
-  - "Incident.io"
   - "Incident.io"
 related:
   - "[[Noname Security - Diligence]]"

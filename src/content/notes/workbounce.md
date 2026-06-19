@@ -1,10 +1,10 @@
 ---
 title: "Workbounce"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/meetings/November 8th, 2021 — Workbounce (Pre-Brief from Hannah Seal).md"

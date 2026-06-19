@@ -1,8 +1,8 @@
 ---
 title: "Berkshire Hathaway"
-type: "concept"
+type: "company"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
 updated: "2026-06-19"
 last_updated_by: "agent"
@@ -31,7 +31,22 @@ related:
 
 # Berkshire Hathaway
 
-**One-line definition:** *[Warren Buffett](/notes/warren-buffett) and Charlie Munger's holding company — a [Wordsmith](/notes/wordsmiths) culture built on the annual shareholder letters.*
+**One-line:** *[Warren Buffett](/notes/warren-buffett) and [Charlie Munger](/notes/charlie-munger)'s holding company — held up in Kyle's research as a [Wordsmith](/notes/wordsmiths) culture whose annual shareholder letters turned writing into a trust-and-capital machine.*
+
+## What we know
+
+- Cited as one of the four "writing cultures" Kyle would profile in a Wordsmith Spotlight (alongside [Amazon](/notes/amazon), [Stripe](/notes/stripe), and [Bridgewater Associates](/notes/bridgewater-associates)) — writing as a trust-and-capital machine. (The Storytelling of Investing - Research)
+- Via [Morgan Housel](/notes/morgan-housel): "[Buffett](/notes/warren-buffett) and [Marks](/notes/howard-marks) were really the forerunners for all of this… using their ability to communicate as a bridge towards trust." (The Storytelling of Investing - Research)
+- The flywheel Kyle draws from the letters: content → trust → [permanent capital](/notes/permanent-capital) → durable advantage — "Buffett's letters instilled the sense of like subconscious trust." ([Morgan Housel](/notes/morgan-housel), The Storytelling of Investing - Research)
+- [Mark Sellers](/notes/mark-sellers) (Harvard MBA address) ties Buffett's investing to his writing: "If you can't write clearly… you don't think very clearly. And if you don't think clearly, you're in trouble." (The Storytelling of Investing - Research)
+- Buffett's view that forecasts reveal the forecaster, not the future, and Munger's disdain for formal projections are quoted from Berkshire's letters in the same research. (The Storytelling of Investing - Research)
+- Buffett protégé [Tracy Britt Cool](/notes/tracy-britt-cool) left Berkshire to start her own firm (WSJ link Kyle saved on June 18, 2026). ([Berkshire Hathaway](/notes/berkshire-hathaway) quick-capture batch)
+
+## Context hub
+
+- The Storytelling of Investing - Research — research note where Berkshire anchors the "writing cultures" section
+- People: [Warren Buffett](/notes/warren-buffett), [Charlie Munger](/notes/charlie-munger) (principals); [Morgan Housel](/notes/morgan-housel), [Mark Sellers](/notes/mark-sellers) (cited on Buffett-as-writer); [Tracy Britt Cool](/notes/tracy-britt-cool) (protégé who left)
+- Concepts: [Wordsmiths](/notes/wordsmiths), [Permanent Capital](/notes/permanent-capital), [Investing: The Model](/notes/investing-the-model)
 
 ## Quick Capture links — June 18, 2026
 
@@ -39,22 +54,6 @@ _Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
 
 - https://www.wsj.com/amp/articles/warren-buffett-protege-to-leave-berkshire-start-own-firm-11568833200 — WSJ: Warren Buffett protégé Tracy Britt Cool to leave Berkshire and start her own firm. #[Tracy Britt Cool](/notes/tracy-britt-cool) #[Investing: The Model](/notes/investing-the-model)
 
+## Mentioned in
 
-## How it shows up
-
-- Buffett's letters "instilled the sense of like subconscious trust" → [permanent capital](/notes/permanent-capital) → durable advantage ([Morgan Housel](/notes/morgan-housel)). See [Mark Sellers](/notes/mark-sellers) on Buffett-as-writer.
-
-## Related concepts
-
-- [Warren Buffett](/notes/warren-buffett) — co-founder whose annual shareholder letters anchor the company's culture.
-- [Charlie Munger](/notes/charlie-munger) — Buffett's partner in running the holding company.
-- [Wordsmiths](/notes/wordsmiths) — the writing-driven culture the company is held up as an example of.
-- [Permanent Capital](/notes/permanent-capital) — the durable-trust dynamic Buffett's letters are credited with building.
-- [Morgan Housel](/notes/morgan-housel) — cited on how the letters created subconscious trust and durable advantage.
-- [Mark Sellers](/notes/mark-sellers) — cited on Buffett-as-writer.
-- [Tracy Britt Cool](/notes/tracy-britt-cool) — Buffett protégé who left the company to start her own firm.
-- [Investing: The Model](/notes/investing-the-model) — tag on the saved WSJ link about a Buffett protégé leaving the company.
-
-## Where it shows up
-
-- The Storytelling of Investing - Research
+- The Storytelling of Investing - Research — held up as a Wordsmith writing culture; the shareholder letters as a trust-and-capital flywheel.

@@ -62,7 +62,7 @@ related:
 - [DevSecOps](/notes/devsecops) — the organizational practice API security plugs into
 - [OWASP](/notes/owasp) — the OWASP API Security Top 10 defines the threat taxonomy
 - [Zero Trust](/notes/zero-trust) — overlapping security philosophy; access-focused vs. behavior-focused
-- [CrowdStrike](/notes/crowdstrike-crwd) — cited in the "must-have" stack framing as the endpoint-security counterpart to an API security tool
+- [CrowdStrike](/notes/crowdstrike) — cited in the "must-have" stack framing as the endpoint-security counterpart to an API security tool
 
 ## People
 

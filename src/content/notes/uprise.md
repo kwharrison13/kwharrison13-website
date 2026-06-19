@@ -1,10 +1,10 @@
 ---
 title: "Uprise"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — April 5th, 2022 (Contrary Capital sourcing/diligence log): ~/Downloads/April 5th, 2022.md"

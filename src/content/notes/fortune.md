@@ -1,6 +1,6 @@
 ---
 title: "Fortune"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
@@ -12,10 +12,6 @@ tags:
   - "media"
 aliases:
   - "Fortune"
-  - "Fortune Term Sheet"
-  - "Term Sheet"
-  - "Fortune Data Sheet"
-  - "Fortune Eye on AI"
 related:
   - "[[Dan Primack]]"
   - "[[Axios]]"

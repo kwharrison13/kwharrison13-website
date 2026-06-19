@@ -40,12 +40,12 @@ _Stub — concept captured from Kyle's June 29th, 2021 Roam "Quick Capture" read
 - https://www.economist.com/open-future/2019/01/21/we-need-to-own-our-data-as-a-human-right-and-be-compensated-for-it
 - https://time.com/collection-post/5502591/tim-cook-data-privacy/
 - https://www.npr.org/sections/thesalt/2018/09/29/643386327/no-cash-needed-at-this-cafe-students-pay-the-tab-with-their-personal-data?utm_source=pocket&utm_medium=email&utm_campaign=pockethits
-- https://reallifemag.com/the-constant-consumer/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits - #[Amazon ($AMZN)](/notes/amazon-amzn)
+- https://reallifemag.com/the-constant-consumer/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits - #[Amazon ($AMZN)](/notes/amazon)
 - http://research.google.com/bigpicture/attacking-discrimination-in-ml/
 - https://www.fastcompany.com/90207550/this-co-op-lets-patients-monetize-their-own-health-data
 
 ## Related concepts
 
-- [Amazon ($AMZN)](/notes/amazon-amzn)
+- [Amazon ($AMZN)](/notes/amazon)
 - [Data Privacy](/notes/data-privacy)
 - [Personal User Data](/notes/personal-user-data)

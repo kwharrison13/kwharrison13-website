@@ -1,24 +1,33 @@
 ---
 title: "Uber"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
-created: "2026-06-17"
-updated: "2026-06-17"
+created: "2026-06-16"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/diligence-research/Pave Diligence — 2021.md"
+  - "wiki/meetings/Watershed Climate Diligence — 2021.md"
 tags: []
 aliases:
   - "Uber"
-related: []
-reference_count: 1
+  - "Uber ($UBER)"
+related:
+  - "[[Fissured Workplace]]"
 ---
 
 # Uber
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+**One-line definition:** *Rideshare company pursuing fleet electrification (Alex Mennella).*
 
-## Where this appears
+## How sources describe it
 
-- Pave Diligence — 2021
+- Rideshare company pursuing fleet electrification (Alex Mennella). (source: Watershed Climate Diligence — 2021)
+
+## Where it shows up
+
+- Watershed Climate Diligence — 2021 — Watershed Climate Series B diligence (Index Ventures, 2021).
+
+## Related concepts
+
+_(stub — expand on a future pass)_

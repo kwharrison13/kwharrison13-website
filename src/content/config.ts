@@ -38,7 +38,7 @@ const notes = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
-    type: z.enum(['concept', 'person', 'meeting', 'article', 'essay-research', 'longform', 'books-to-read', 'gospel-study']).optional(),
+    type: z.enum(['concept', 'person', 'company', 'meeting', 'article', 'essay-research', 'longform', 'books-to-read', 'gospel-study']).optional(),
     format: z.string().optional(),
     publish: z.boolean().default(false),
     excerpt: z.string().optional(),

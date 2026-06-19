@@ -1,10 +1,10 @@
 ---
 title: "FairMormon"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-18"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/gospel-study/August 17–23, 2020. Helaman 1–6: \"The Rock of Our Redeemer\".md"

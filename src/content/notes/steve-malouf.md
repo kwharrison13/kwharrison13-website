@@ -19,7 +19,7 @@ reference_count: 1
 
 # Steve Malouf
 
-**One-line:** *Index Mentors team member (sales) advising [Prelay](/notes/prelay); ties to [Datadog ($DDOG)](/notes/datadog-ddog).*
+**One-line:** *Index Mentors team member (sales) advising [Prelay](/notes/prelay); ties to [Datadog ($DDOG)](/notes/datadog).*
 
 ## Mentioned in
 

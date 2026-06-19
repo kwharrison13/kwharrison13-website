@@ -1,8 +1,8 @@
 ---
 title: "Imperva"
-type: "concept"
+type: "company"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
 updated: "2026-06-19"
 last_updated_by: "agent"
@@ -27,23 +27,20 @@ related:
 
 # Imperva
 
-**One-line definition:** *Larger incumbent cybersecurity vendor offering both WAF and API security; seen as a "dinosaur" network-security vendor trying to find a new place in the API security category.*
+**One-line:** *Larger incumbent cybersecurity vendor offering both WAF and API security; surfaced in Salt Security diligence as a network-security "dinosaur" trying to find a place in the emerging API-security category.*
 
-## How sources describe it
+## What we know
 
-- "Larger vendor and offers API security as well as firewall." ([Atanu Dasgupta](/notes/atanu-dasgupta), Salt Security Diligence — 2021)
-- Familiar with Imperva (4/5 familiarity rating) alongside Noname and Signal Sciences.
-- [KuppingerCole](/notes/kuppingercole) view: network security vendors fighting hard to find a new place; "a lot of money and potential, but they're certainly the dinosaurs in the market." (Salt Security Diligence — 2021)
+- "Larger vendor and offers API security as well as firewall," evaluated alongside [Noname Security](/notes/noname-security) and [Signal Sciences](/notes/signal-sciences); the reviewer rated his familiarity with Imperva 4/5. ([Atanu Dasgupta](/notes/atanu-dasgupta), Salt Security Diligence — 2021)
+- Lumped with S5 Networks as a network-security incumbent that "all say they're all API security companies because they saw this new category pop up overnight." ([Nir Rothenberg](/notes/nir-rothenberg), Salt Security Diligence — 2021)
+- Analyst view: network-security vendors are fighting hard to find a new place; "they have a lot of money and potential, but they're certainly the dinosaurs in the market." ([Alexei Balaganski](/notes/alexei-balaganski) and [Martin Kuppinger](/notes/martin-kuppinger) of [KuppingerCole](/notes/kuppingercole), Salt Security Diligence — 2021)
 
-## Where it shows up
+## Context hub
 
-- Salt Security Diligence — 2021 — mentioned as evaluated API security vendor.
+- Salt Security Diligence — 2021 — where Imperva was benchmarked as an API-security competitor.
+- People / analysts: [Atanu Dasgupta](/notes/atanu-dasgupta) · [Nir Rothenberg](/notes/nir-rothenberg) · [KuppingerCole](/notes/kuppingercole) ([Alexei Balaganski](/notes/alexei-balaganski), [Martin Kuppinger](/notes/martin-kuppinger)).
+- Competitor / category context: [Salt Security](/notes/salt-security) · [Noname Security](/notes/noname-security) · [Signal Sciences](/notes/signal-sciences) · [API Security](/notes/api-security).
 
-## Related concepts
+## Mentioned in
 
-- [API Security](/notes/api-security) — the category Imperva is competing in
-- [Salt Security](/notes/salt-security) — the API security vendor against which Imperva was benchmarked
-- [Noname Security](/notes/noname-security) — competing API security vendor evaluated alongside Imperva
-- [Signal Sciences](/notes/signal-sciences) — WAF/API security vendor cited together with Imperva
-- [KuppingerCole](/notes/kuppingercole) — analyst source characterizing Imperva as a network-security "dinosaur"
-- [Atanu Dasgupta](/notes/atanu-dasgupta) — expert who rated familiarity with Imperva in the diligence
+- Salt Security Diligence — 2021 — mentioned as an evaluated API security vendor.

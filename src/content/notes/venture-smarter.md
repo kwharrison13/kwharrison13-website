@@ -1,6 +1,6 @@
 ---
 title: "Venture Smarter"
-type: "concept"
+type: "company"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
@@ -8,6 +8,7 @@ updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — May 16th, 2018 (networking/sourcing call log): ~/Downloads/May 16th, 2018.md"
+  - "wiki/meetings/May 16th, 2018 — Mitch (Venture Smarter).md"
 tags:
   - "smart-cities"
   - "iot"
@@ -24,20 +25,23 @@ related:
 
 # Venture Smarter
 
-**One-line definition:** *A smart-city / IoT community and consultancy (Cisco partner) focused on getting smart projects to completion in the real world.*
+**One-line:** *A smart-city / IoT community and consultancy (Cisco partner), focused on "how can we get these smart projects to completion in real life?"*
 
-## How sources describe it
+## What we know
 
-- Partners with Cisco (which found ~75% of IoT projects fail); works with 150+ governments plus enterprises, NGOs, and universities; co-founder Zach started the IEEE Smart City Standards Committee. (May 16th, 2018 — Mitch (Venture Smarter))
-- ~11 team members (6 full-time), 39 clients, ~5,000 community subscribers; launched a "smart infrastructure challenge" and hopes to streamline national/local procurement. Founded February 2017.
+- Partners with [Cisco](/notes/cisco), which ran a study finding ~75% of IoT projects fail; Venture Smarter dug into that and concluded smart-city development is a very siloed problem. (May 16th, 2018 — Mitch (Venture Smarter))
+- Works with 150+ governments in its community, plus enterprises, NGOs, and universities — but isn't a government-focused company; cities trust them but aren't treated as the customer. (May 16th, 2018 — Mitch (Venture Smarter))
+- Co-founder Zach started the IEEE Smart City Standards Committee. Founded February 2017. (May 16th, 2018 — Mitch (Venture Smarter))
+- Scale: ~11 team members (6 full-time) plus advisors (Cisco, Mastercard, etc.), 39 clients, and ~5,000 active community subscribers. Data-driven / analytics-focused. (May 16th, 2018 — Mitch (Venture Smarter))
+- Launched a "smart infrastructure challenge" to connect collaborators, hosts events, and aims to streamline the procurement process at the national and local level. Beginning to work with VCs given how many interesting companies are in the space. (May 16th, 2018 — Mitch (Venture Smarter))
 
-## Related concepts
+## Context hub
 
-- [Cisco](/notes/cisco) — partner that supplied the ~75% IoT-project-failure statistic motivating the consultancy.
-- [City Building](/notes/city-building) — the broader smart-city/urban-development theme this IoT consultancy sits within.
-- [Procurement](/notes/procurement) — the firm aimed to streamline national/local procurement for smart-infrastructure projects.
-- [The New City](/notes/the-new-city) — adjacent concept on building new and reimagined urban communities.
+- May 16th, 2018 — Mitch (Venture Smarter) — networking call with Mitch of Venture Smarter (the source).
+- [Cisco](/notes/cisco) — partner and source of the ~75% IoT-project-failure statistic.
+- [City Building](/notes/city-building) · [The New City](/notes/the-new-city) — the broader smart-city / urban-development thread.
+- [Procurement](/notes/procurement) — a process the firm aims to streamline for smart-infrastructure projects.
 
-## Where it shows up
+## Mentioned in
 
 - May 16th, 2018 — Mitch (Venture Smarter) — call with Mitch of Venture Smarter.

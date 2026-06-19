@@ -1,10 +1,10 @@
 ---
 title: "Bridgecrew"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -21,7 +21,7 @@ related:
 
 # Bridgecrew
 
-**One-line definition:** *Cloud security policy-as-code platform; acquired by [Palo Alto Networks ($PANW)](/notes/palo-alto-networks-panw); used as an acquisition comparator for [NeoSec](/notes/neosec)'s exit trajectory.*
+**One-line definition:** *Cloud security policy-as-code platform; acquired by [Palo Alto Networks ($PANW)](/notes/palo-alto-networks); used as an acquisition comparator for [NeoSec](/notes/neosec)'s exit trajectory.*
 
 ## Where it shows up
 

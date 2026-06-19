@@ -1,6 +1,6 @@
 ---
 title: "Palantir"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-19"

@@ -1,6 +1,6 @@
 ---
 title: "Tesla"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-19"
@@ -12,6 +12,7 @@ sources:
 tags: []
 aliases:
   - "Tesla"
+  - "Tesla ($TSLA)"
 related:
   - "[[Elon Musk — Tesla, SpaceX, and the Quest for a Fantastic Future]]"
   - "[[Elon Musk]]"

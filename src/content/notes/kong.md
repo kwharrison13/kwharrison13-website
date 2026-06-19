@@ -1,13 +1,14 @@
 ---
 title: "Kong"
-type: "concept"
+type: "company"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
+  - "wiki/diligence-research/Noname Security - Diligence.md"
 tags:
   - "api-gateways"
   - "infrastructure"
@@ -32,34 +33,27 @@ related:
 
 # Kong
 
-**One-line definition:** *Open-source [API gateway](/notes/api-gateways) and service mesh platform; the most common rebuttal to [Salt Security](/notes/salt-security) ("Kong should own it") and the leading comparison to ServiceNow in the Kong→Salt Security :: ServiceNow→CrowdStrike analogy.*
+**One-line:** *Open-source [API gateway](/notes/api-gateways) and service-mesh platform; in Kyle's API-security diligence it is the most common rebuttal to [Salt Security](/notes/salt-security) ("Kong should own it") and the gateway side of the Kong→Salt :: ServiceNow→CrowdStrike analogy.*
 
-## How sources describe it
+## What we know
 
-- Used by [Informatica](/notes/informatica) ([Atanu Dasgupta](/notes/atanu-dasgupta)) and [Gojek](/notes/gojek) ([George Do](/notes/george-do)) as their primary API gateway.
-- "Secure and Govern APIs and Services" page talks more about behavior / best practices than actual product functionality — not yet a true API security product. (Salt Security Diligence — 2021)
-- Focused on API gateways and API mesh (for [Microservices](/notes/microservices) architecture); service mesh is their newer business.
-- Could theoretically add an API Security module but it's "not the same area" — gateway buyers are not security teams and "aren't focused on runtime security that deep." ([Michael Isbitski](/notes/michael-isbitski), Salt Security Diligence — 2021)
-- Analogy: [ServiceNow ($NOW)](/notes/servicenow-now) → [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd) :: Kong → [Salt Security](/notes/salt-security). ([Atanu Dasgupta](/notes/atanu-dasgupta), Salt Security Diligence — 2021)
-- Salt Security has a plug-in integration with Kong (traffic mirroring + blocking capability).
-- Came out of the world controlled by [Apigee](/notes/apigee) etc.; focused on performance, deployability, scalability.
-- Dave Thompson (Director of Engineering) and Eric Reynolds (Engineering Manager) were on the diligence outreach list.
+- Used as the primary API gateway by [Informatica](/notes/informatica) (per [Atanu Dasgupta](/notes/atanu-dasgupta)) and [Gojek](/notes/gojek) (per [George Do](/notes/george-do)); came out of the [Apigee](/notes/apigee)-era gateway world, focused on performance, deployability, and scalability. (Salt Security Diligence — 2021)
+- Focused on API gateways and API mesh for [Microservices](/notes/microservices) architecture; over the prior ~12 months it leaned into microservices, observability/analytics (logs, metrics, KPIs, custom dashboards) and gateway plug-ins — an observability push similar to Noname's approach. (Noname Security - Diligence, per [Vara Imandi](/notes/vara-imandi) of [MuleSoft](/notes/mulesoft))
+- Its "Secure and Govern APIs and Services" page reads more like behavior/best-practices than real product functionality — not yet a true API security product. (Salt Security Diligence — 2021)
+- Could theoretically add an API-security module, but reference experts argued it's "not the same area" — gateway buyers are not security teams and aren't focused on deep runtime security; security would be "augmentative rather than replacing." (Salt Security Diligence — 2021, per [Michael Isbitski](/notes/michael-isbitski); Noname Security - Diligence, per [Vara Imandi](/notes/vara-imandi))
+- The recurring company-building analogy: [ServiceNow ($NOW)](/notes/servicenow) → [CrowdStrike ($CRWD)](/notes/crowdstrike) :: Kong → [Salt Security](/notes/salt-security) (the management layer spawns a dedicated security company on top). (Salt Security Diligence — 2021, per [Atanu Dasgupta](/notes/atanu-dasgupta))
+- [Salt Security](/notes/salt-security) has a plug-in integration with Kong (traffic mirroring + blocking). (Salt Security Diligence — 2021)
+- Internal read (Kong engineer [Dave Thompson](/notes/dave-thompson)): attracted ex-[MuleSoft](/notes/mulesoft) talent; scaling fast (~100→1K), doubling engineering; sees the API/security layer and service mesh as interesting future plays; views middleware companies as slow-compounding (open source → monetization → enterprise → SaaS). (Noname Security - Diligence)
 
-## Where it shows up
+## Context hub
 
-- Salt Security Diligence — 2021 — the central competitive moat question throughout all reference calls.
+- Salt Security Diligence — 2021 — Kong is the central competitive-moat question throughout the reference calls.
+- Noname Security - Diligence — the [Dave Thompson](/notes/dave-thompson) Kong call and [Vara Imandi](/notes/vara-imandi)/[MuleSoft](/notes/mulesoft) read on Kong's gateway-vs-security positioning.
+- Category / comparables: [API Gateways](/notes/api-gateways) (archetype), [MuleSoft](/notes/mulesoft) (competing platform), [Apigee](/notes/apigee) (older-generation predecessor), [Microservices](/notes/microservices).
+- Analogy partners: [ServiceNow ($NOW)](/notes/servicenow) (incumbent side) and [CrowdStrike ($CRWD)](/notes/crowdstrike) (security side, mapped to [Salt Security](/notes/salt-security)).
+- Customers/users named: [Informatica](/notes/informatica), [Gojek](/notes/gojek).
 
-## Related concepts
+## Mentioned in
 
-- [API Gateways](/notes/api-gateways) — Kong is the archetype
-- [Salt Security](/notes/salt-security) — the security layer on top of Kong
-- [MuleSoft](/notes/mulesoft) — competing gateway platform
-- [Apigee](/notes/apigee) — older-generation competitor Kong emerged from
-- Microservices — the architecture Kong is built for
-- [ServiceNow ($NOW)](/notes/servicenow-now) — the incumbent side of the Kong→Salt Security :: ServiceNow→CrowdStrike analogy
-- [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd) — the security-layer side of the same analogy, mapped to Salt Security
-- [Informatica](/notes/informatica) — uses Kong as its primary API gateway ([Atanu Dasgupta](/notes/atanu-dasgupta))
-- [Gojek](/notes/gojek) — uses Kong as its primary API gateway ([George Do](/notes/george-do))
-- [Michael Isbitski](/notes/michael-isbitski) — argued Kong is unlikely to extend into runtime API security
-- [Atanu Dasgupta](/notes/atanu-dasgupta) — source of the ServiceNow→CrowdStrike analogy and Informatica's Kong usage
-- [George Do](/notes/george-do) — Gojek reference describing Kong as the gateway in use
+- Salt Security Diligence — 2021 — the recurring "Kong should own it" moat question.
+- Noname Security - Diligence — Kong engineer and MuleSoft reference calls.

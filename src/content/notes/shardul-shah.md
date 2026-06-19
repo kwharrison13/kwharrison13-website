@@ -26,5 +26,5 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 
 - September 17th, 2021 — Wiz.io Pre-Brief (Shardul Shah) — shared the [Wiz.io](/notes/wiz-io) pre-brief; cloud security a top-3 priority given 3,500+ cloud instances at [Cisco](/notes/cisco).
 - December 13th, 2021 — NCX Partner Presentation
-- September 22nd, 2021 — Shardul Shah on Datadog — company-building lessons drawn from [Datadog ($DDOG)](/notes/datadog-ddog).
+- September 22nd, 2021 — Shardul Shah on Datadog — company-building lessons drawn from [Datadog ($DDOG)](/notes/datadog).
 - September 22nd, 2021 — Shardul Shah (Sales Rep Tooling) — diligence on a sales-rep tooling deal (AB InBev at $8M).

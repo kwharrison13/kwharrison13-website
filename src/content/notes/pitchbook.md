@@ -1,10 +1,10 @@
 ---
 title: "PitchBook"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The State of Startup Media' notes"
@@ -13,7 +13,6 @@ tags:
   - "venture-capital"
 aliases:
   - "PitchBook"
-  - "PitchBook News"
 related:
   - "[[The State of Startup Media - Research]]"
 ---

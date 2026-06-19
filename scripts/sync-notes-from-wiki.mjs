@@ -30,6 +30,7 @@ const WIKI_ROOT = path.join(os.homedir(), 'kwharrison13-wiki');
 const WIKI_DIRS = [
   path.join(WIKI_ROOT, 'wiki', 'concepts'),
   path.join(WIKI_ROOT, 'wiki', 'people'),
+  path.join(WIKI_ROOT, 'wiki', 'companies'),
   path.join(WIKI_ROOT, 'wiki', 'long-reads'),
   path.join(WIKI_ROOT, 'wiki', 'books-to-read'),
   // NOTE: wiki/gospel-study is intentionally NOT synced. Like wiki/meetings,

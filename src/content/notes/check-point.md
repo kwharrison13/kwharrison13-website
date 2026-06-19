@@ -1,6 +1,6 @@
 ---
 title: "Check Point"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-19"
@@ -23,5 +23,5 @@ _Stub — flagged during the 2026-06-19 connection sweep as an entity referenced
 
 ## Where this appears
 
-- [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd)
-- [Palo Alto Networks ($PANW)](/notes/palo-alto-networks-panw)
+- [CrowdStrike ($CRWD)](/notes/crowdstrike)
+- [Palo Alto Networks ($PANW)](/notes/palo-alto-networks)

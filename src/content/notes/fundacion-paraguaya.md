@@ -1,10 +1,10 @@
 ---
 title: "Fundacion Paraguaya"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/The New Urban Crisis.md"

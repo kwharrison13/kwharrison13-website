@@ -45,7 +45,7 @@ related:
   - "[[Twilio]]"
 ---
 
-> Podcast episode from Patrick O'Shaughnessy's *Invest Like the Best* / Colossus. Host: [Patrick O'Shaughnessy](/notes/patrick-o-shaughnessy). Guest: [Todd McKinnon](/notes/todd-mckinnon), co-founder and CEO of [Okta ($OKTA)](/notes/okta-okta). Source: [joincolossus.com](https://www.joincolossus.com/episodes/97045634/mckinnon-creating-and-defining-a-new-market-category). Annotated by Kyle — his highlights (bold) and concept tags are preserved verbatim in the full transcript below.
+> Podcast episode from Patrick O'Shaughnessy's *Invest Like the Best* / Colossus. Host: [Patrick O'Shaughnessy](/notes/patrick-o-shaughnessy). Guest: [Todd McKinnon](/notes/todd-mckinnon), co-founder and CEO of [Okta ($OKTA)](/notes/okta). Source: [joincolossus.com](https://www.joincolossus.com/episodes/97045634/mckinnon-creating-and-defining-a-new-market-category). Annotated by Kyle — his highlights (bold) and concept tags are preserved verbatim in the full transcript below.
 
 ## Key Takeaways
 
@@ -68,14 +68,14 @@ related:
 - McKinnon's mistake of importing the Salesforce playbook wholesale, then correcting via [First Principles Thinking](/notes/first-principles-thinking) ("what's *different* about this situation"), is a clean case study for that concept.
 - The cloud-stack thesis (apps → collaboration → infrastructure all migrating) connects to Cloud Adoption, the [Subscription Economy](/notes/subscription-economy), and the [Consumerization of the Enterprise](/notes/consumerization-of-the-enterprise).
 - The digital-identity / GDPR discussion — how privacy regulation can hurt the small providers it was meant to protect, and Okta's ambition to set a standard rather than own every login — is a thread worth mining alongside Customer Identity & Access Management (CIAM).
-- The "fund risky, low-probability bets outside the normal budget" framework rhymes with how [Amazon ($AMZN)](/notes/amazon-amzn) / [AWS](/notes/aws)-style disruptions get incubated inside incumbents (the [Innovator's Dilemma](/notes/innovator-s-dilemma) problem, solved deliberately).
+- The "fund risky, low-probability bets outside the normal budget" framework rhymes with how [Amazon ($AMZN)](/notes/amazon) / [AWS](/notes/aws)-style disruptions get incubated inside incumbents (the [Innovator's Dilemma](/notes/innovator-s-dilemma) problem, solved deliberately).
 - [Salesforce](/notes/salesforce) is the origin point — McKinnon ran engineering there before leaving in 2008, and its small-company go-to-market is the playbook he later had to discard for Okta.
 - [Microsoft](/notes/microsoft) appears twice as a foil: Active Directory as the on-prem incumbent Okta displaced, and the 2014 "Okta killer" announcement that paradoxically validated the category.
 - [AWS](/notes/aws) is the substrate of Okta's economics — running on cloud infrastructure means COGS is the subscription cost, "so we don't have capital allocation."
 - The early-years pain is framed through a [Ben Horowitz](/notes/ben-horowitz) quote about Okta's near-death stretch and the strategy rework that pulled it out.
 - McKinnon's scale ambition for setting an identity standard rests on [Network Effects](/notes/network-effects) and positive returns to scale — the more users, companies, and integrations, the more Okta can define the norm.
 - The subscription economics discussion (75%+ gross margins, no capex, growth rewarded by a big TAM) connects to [Capital Allocation](/notes/capital-allocation) and the durable-business worldview of [Founders Mentality](/notes/founders-mentality).
-- The "you get to see the future" framing is borrowed from O'Shaughnessy's earlier conversation with [Twilio](/notes/twilio-twlo)'s Jeff Lawson.
+- The "you get to see the future" framing is borrowed from O'Shaughnessy's earlier conversation with [Twilio](/notes/twilio)'s Jeff Lawson.
 
 ## Highlights — Key Takeaways (Kyle's reading layer)
 
@@ -89,7 +89,7 @@ related:
 
 - And I think that unless we get a way to simplify the experience for consumers across all of it, across these well-established platforms, and this is something people don't realize a lot. **Especially for the smaller companies, the smaller technology companies, them dealing with the privacy and the security implications of this customer data, really hinders their ability to innovate and to deliver services - in a way it puts the big platforms at an unfair advantage.**
 - **Anyways, I think it's very, very important. I am very much focused on, over the long term, how can Okta help with this. And I think, getting back to something we were talking about earlier, is that for us to be most effective, we have to get to a big scale in terms of our business: users, companies, integrations.** Because the more scale we get, the more we can help set this standard in the world to make it more uniform, more controlled by the end-user, more representing both the big companies and the small companies. And that's why when I talked about it earlier, I was focusing on some of these network effects and these positive returns to scale. That's why we're focused on that.
-  > **Kyle:** *Is [Okta ($OKTA)](/notes/okta-okta) going to try and compete / acquire into the same category as OneTrust, BigID, etc.?*
+  > **Kyle:** *Is [Okta ($OKTA)](/notes/okta) going to try and compete / acquire into the same category as OneTrust, BigID, etc.?*
 - **The biggest change was that about three or four years into selling the product, we had our customers start to use it for their customers**. They would come to us and say, "We're using this for our employees to log in to all their applications, but we have this system that we're building for our customers ..." Or I remember there was a big pharmaceutical company called Allergan, and they were using it for their employees. But then, they came to us and said, "We have this new app where we have all these doctors around the world that are prescribing some of our medications and we want to make the system where they log into that. So we want to use Okta for that." And we looked at each other and said, **"I mean, technically it would work, but that's not really how we intended it to happen." So, there was a bunch of customers that wanted to do that, and that led to our second big part of our business, which is customer identity.** **Now, about 24% of our revenue is our customers providing login for their customers be it on their support side or on maybe their mobile app or their regular website – we're the log in for that.** For example, MajorLeagueBaseball.com, if you log into the MLB app, that app, that login is through Okta.
 
 ## Full Transcript

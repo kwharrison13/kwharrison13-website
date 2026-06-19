@@ -1,10 +1,10 @@
 ---
 title: "InDinero"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-18"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/meetings/July 10th, 2018 — Jessica Mah (InDinero).md"

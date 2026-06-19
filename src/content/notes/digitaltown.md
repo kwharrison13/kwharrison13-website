@@ -1,23 +1,23 @@
 ---
 title: "DigitalTown"
-type: "concept"
+type: "company"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "Roam Research daily-note export — June 1st, 2018 (networking/sourcing call log): ~/Downloads/June 1st, 2018.md"
+  - "wiki/meetings/June 1st, 2018 — Faris (DigitalTown).md"
 tags:
   - "smart-cities"
   - "local-commerce"
   - "marketplace"
   - "public-private-partnership"
   - "blockchain"
-  - "organization"
 aliases:
   - "DigitalTown"
 related:
+  - "[[June 1st, 2018 — Faris (DigitalTown)]]"
   - "[[The New City]]"
   - "[[City Building]]"
   - "[[Charter Cities]]"
@@ -29,24 +29,23 @@ related:
 
 # DigitalTown
 
-**One-line definition:** *A people-focused, cloud-hosted local-commerce platform that lets cities and communities keep digital commerce (and its revenue) local rather than losing it to Google, TripAdvisor, and Amazon.*
+**One-line:** *A people-focused, cloud-hosted local-commerce platform that lets cities and communities keep digital commerce (and its revenue) local rather than losing it to [Google](/notes/google), TripAdvisor, and [Amazon](/notes/amazon).*
 
-## How sources describe it
+## What we know
 
-- Comes at smart cities from the "people" direction rather than top-down procurement; pitches governments, chambers, and institutions on running their own cloud-hosted commerce solution (e.g. austin.city) so search results stay local. (June 1st, 2018 — Faris (DigitalTown))
-- Offers smart contracts of "City Shares" so participants can co-own their city's success, and several monetization models (upfront platform payment with data ownership, volume-based transactions, or a free public-private partnership). Formal city partnerships include Miami, cities outside London, and in Brazil.
-- Frames itself against the Walmart→Amazon erosion of local stores: local businesses can't afford online marketing, so DigitalTown drives local visibility with no prioritization by provider size.
+- Comes at smart cities from the "people" direction rather than top-down procurement: pitches governments, chambers, and institutions on running their own cloud-hosted commerce solution (e.g. austin.city) so search results stay local. (June 1st, 2018 — Faris (DigitalTown))
+- Frames itself against the [Walmart](/notes/walmart)→[Amazon](/notes/amazon) erosion of local stores — local businesses can't afford online marketing, so DigitalTown drives local visibility with no prioritization by provider size (Applebee's and a local steakhouse appear on equal footing). (June 1st, 2018 — Faris (DigitalTown))
+- Offers smart contracts of "City Shares" (blockchain-based) so participants can co-own their city's success and drive more transactions to stay local. (June 1st, 2018 — Faris (DigitalTown))
+- Several monetization models: upfront platform payment where DigitalTown owns the data, volume-based transactions, or a free public-private partnership where the city dedicates resources — a way past the traditional RFP process. (June 1st, 2018 — Faris (DigitalTown))
+- Formal city partnerships cited: Miami, cities outside London, and cities in Brazil; focuses on a few US cities (Austin, San Antonio) while also offering a more self-service platform. (June 1st, 2018 — Faris (DigitalTown))
+- Recently took on investment, part of which funds measuring the net financial benefit of keeping transactions local. (June 1st, 2018 — Faris (DigitalTown))
 
-## Related concepts
+## Context hub
 
-- [City Building](/notes/city-building) — DigitalTown approaches smart cities from the "people" direction, pitching governments and chambers on running their own local-commerce platform.
-- [The New City](/notes/the-new-city) — adjacent thinking on reimagining how cities are owned and organized.
-- [Charter Cities](/notes/city-building) — shares the premise of communities co-owning and capturing the value they generate, here via "City Shares" smart contracts.
-- [Crypto](/notes/crypto) — DigitalTown's "City Shares" use blockchain-based smart contracts so participants can co-own their city's success.
-- [Amazon](/notes/amazon) — framed as a primary threat: the Walmart→Amazon erosion of local stores that DigitalTown aims to counter by keeping commerce and revenue local.
-- [Walmart](/notes/walmart) — cited alongside Amazon as the retail consolidation that hollowed out local businesses.
-- [Google](/notes/google) — named (with TripAdvisor and Amazon) as the platform that captures local search revenue DigitalTown wants cities to retain via solutions like austin.city.
+- June 1st, 2018 — Faris (DigitalTown) — networking call with Faris on the DigitalTown model
+- Concepts: [City Building](/notes/city-building), [The New City](/notes/the-new-city), [Charter Cities](/notes/city-building) (communities co-owning the value they generate, here via "City Shares"), [Crypto](/notes/crypto) (the blockchain smart contracts)
+- Threats cited: [Amazon](/notes/amazon), [Walmart](/notes/walmart), [Google](/notes/google) (capturing local search/commerce revenue)
 
-## Where it shows up
+## Mentioned in
 
 - June 1st, 2018 — Faris (DigitalTown) — call with Faris on the DigitalTown model.

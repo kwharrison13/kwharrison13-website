@@ -1,10 +1,10 @@
 ---
 title: "RAND"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/The Man From The Future.md"

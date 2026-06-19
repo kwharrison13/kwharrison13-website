@@ -33,11 +33,11 @@ related:
 
 ## How it shows up
 
-- The four exemplars: [Amazon](/notes/amazon-amzn) (six-page narratives), [Stripe](/notes/stripe) (documentation), [Berkshire Hathaway](/notes/berkshire-hathaway) (Buffett's letters), [Bridgewater Associates](/notes/bridgewater-associates) (Daily Observations). Kyle plans "Wordsmith Spotlights" the way he writes Renegade Spotlights. See [Six-Page Narratives](/notes/six-page-narratives), [Permanent Capital](/notes/permanent-capital).
+- The four exemplars: [Amazon](/notes/amazon) (six-page narratives), [Stripe](/notes/stripe) (documentation), [Berkshire Hathaway](/notes/berkshire-hathaway) (Buffett's letters), [Bridgewater Associates](/notes/bridgewater-associates) (Daily Observations). Kyle plans "Wordsmith Spotlights" the way he writes Renegade Spotlights. See [Six-Page Narratives](/notes/six-page-narratives), [Permanent Capital](/notes/permanent-capital).
 
 ## Related concepts
 
-- [Amazon ($AMZN)](/notes/amazon-amzn) — exemplar whose six-page narratives ban PowerPoint to force prose argument.
+- [Amazon ($AMZN)](/notes/amazon) — exemplar whose six-page narratives ban PowerPoint to force prose argument.
 - [Stripe](/notes/stripe) — exemplar that builds culture around documentation as writing practice.
 - [Berkshire Hathaway](/notes/berkshire-hathaway) — exemplar whose writing culture centers on Buffett's annual shareholder letters.
 - [Warren Buffett](/notes/warren-buffett) — author of the Berkshire letters cited as the model of clear writing as clear thinking.

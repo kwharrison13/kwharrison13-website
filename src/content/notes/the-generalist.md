@@ -1,6 +1,6 @@
 ---
 title: "The Generalist"
-type: "concept"
+type: "company"
 publish: false
 confidence: "medium"
 created: "2026-06-17"

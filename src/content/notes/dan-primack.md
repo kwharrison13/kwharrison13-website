@@ -23,11 +23,11 @@ related:
 
 # Dan Primack
 
-**One-line:** *Deals/venture journalist Kyle followed religiously — first at [Fortune Term Sheet](/notes/fortune), then at [Axios Pro Rata](/notes/axios) after his move to Axios.*
+**One-line:** *Deals/venture journalist Kyle followed religiously — first at Fortune Term Sheet, then at Axios Pro Rata after his move to Axios.*
 
 ## What we know
 
-- Kyle "used to live or die religiously by reading Fortune Term Sheet." When Primack left Fortune, Kyle's go-to became [Term Sheet](/notes/fortune) / [Axios Pro Rata](/notes/axios) (source: Roam research graph for [The State of Startup Media](/essays/the-state-of-startup-media)).
+- Kyle "used to live or die religiously by reading Fortune Term Sheet." When Primack left Fortune, Kyle's go-to became Term Sheet / Axios Pro Rata (source: Roam research graph for [The State of Startup Media](/essays/the-state-of-startup-media)).
 - He's a touchstone for the essay's "before" era — the period when 2–3 trusted sources gave you the lay of the land in tech, before the post-COVID media explosion fragmented it.
 
 ## Mentioned in
@@ -36,8 +36,8 @@ related:
 
 ## Connections
 
-- [Fortune Term Sheet](/notes/fortune) — the [Fortune](/notes/fortune) deals newsletter Kyle "used to live or die religiously by reading," authored by Primack before his move.
-- [Axios Pro Rata](/notes/axios) / [Term Sheet](/notes/fortune) — Kyle's go-to after Primack left [Fortune](/notes/fortune) for [Axios](/notes/axios), continuing the same daily deals coverage.
+- Fortune Term Sheet — the [Fortune](/notes/fortune) deals newsletter Kyle "used to live or die religiously by reading," authored by Primack before his move.
+- Axios Pro Rata / Term Sheet — Kyle's go-to after Primack left [Fortune](/notes/fortune) for [Axios](/notes/axios), continuing the same daily deals coverage.
 - [The State of Startup Media](/essays/the-state-of-startup-media) — essay that uses Primack as a touchstone for the "before" era of 2–3 trusted tech sources, prior to the post-COVID media fragmentation.
 
 ## Open questions

@@ -1,25 +1,32 @@
 ---
 title: "Facebook"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
-created: "2026-06-17"
-updated: "2026-06-17"
+created: "2026-06-16"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/diligence-research/Pave Diligence — 2021.md"
+  - "wiki/meetings/Watershed Climate Diligence — 2021.md"
 tags: []
 aliases:
   - "Facebook"
-related:
-  - "[[Internalizing Negative Externalities]]"
-reference_count: 1
+  - "Facebook ($META)"
+related: []
 ---
 
 # Facebook
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+**One-line definition:** *Meta/Facebook; exec Chris Cox is a Watershed investor.*
 
-## Where this appears
+## How sources describe it
 
-- Pave Diligence — 2021
+- Meta/Facebook; exec Chris Cox is a Watershed investor. (source: Watershed Climate Diligence — 2021)
+
+## Where it shows up
+
+- Watershed Climate Diligence — 2021 — Watershed Climate Series B diligence (Index Ventures, 2021).
+
+## Related concepts
+
+_(stub — expand on a future pass)_

@@ -20,7 +20,7 @@ related:
 
 # Bill Trenchard
 
-**One-line:** *Partner at [First Round](/notes/first-round-capital) who led the $4M seed in [Sprig](/notes/sprig) (then UserLeap) in September 2019.*
+**One-line:** *Partner at First Round who led the $4M seed in [Sprig](/notes/sprig) (then UserLeap) in September 2019.*
 
 ## What we know
 

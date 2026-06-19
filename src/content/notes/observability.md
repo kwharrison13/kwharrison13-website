@@ -21,4 +21,4 @@ _Stub — flagged during the 2026-06-19 connection sweep as an entity referenced
 
 ## Where this appears
 
-- [Datadog ($DDOG)](/notes/datadog-ddog)
+- [Datadog ($DDOG)](/notes/datadog)

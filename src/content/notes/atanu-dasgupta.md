@@ -40,7 +40,7 @@ related:
 - Paying ~$500K/year for Salt Security; described ROI as "very high."
 - Self-rated Salt Security familiarity: 5/5.
 - Also familiar with: Noname (5/5), Signal Sciences (4/5), Apisec (4/5), [Imperva](/notes/imperva) (4/5).
-- Key analogy: [ServiceNow ($NOW)](/notes/servicenow-now) → [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd) :: [Kong](/notes/kong) → [Salt Security](/notes/salt-security). (Source: Salt Security Diligence — 2021)
+- Key analogy: [ServiceNow ($NOW)](/notes/servicenow) → [CrowdStrike ($CRWD)](/notes/crowdstrike) :: [Kong](/notes/kong) → [Salt Security](/notes/salt-security). (Source: Salt Security Diligence — 2021)
 
 ## Mentioned in
 
@@ -50,7 +50,7 @@ related:
 
 - [Informatica](/notes/informatica) — employer; VP Product Development & Engineering since December 2019.
 - [Salt Security](/notes/salt-security) — vendor he adopted; ~$500K/year spend, self-rated 5/5 familiarity, ROI "very high."
-- [Kong](/notes/kong) — prior [API Gateway](/notes/api-gateways) before Salt; anchors his [ServiceNow ($NOW)](/notes/servicenow-now) → [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd) :: Kong → Salt analogy.
+- [Kong](/notes/kong) — prior [API Gateway](/notes/api-gateways) before Salt; anchors his [ServiceNow ($NOW)](/notes/servicenow) → [CrowdStrike ($CRWD)](/notes/crowdstrike) :: Kong → Salt analogy.
 - [Noname Security](/notes/noname-security) — competing API security vendor he rated 5/5.
 - [Signal Sciences](/notes/signal-sciences) — API/app security tool he rated 4/5.
 - [Imperva](/notes/imperva) — API/app security vendor he rated 4/5.

@@ -38,7 +38,7 @@ related:
 - CISO at [Rapyd](/notes/rapyd), a global payments network, for 2.5 years at time of interview (October 2021). Responsible for global IT and security, cloud security, and physical security.
 - Previously Head of Security at NSO Group.
 - Concurrently or historically CISO at [Equinix](/notes/equinix).
-- Customer of Orca, [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd), and formerly [Palo Alto Networks ($PANW)](/notes/palo-alto-networks-panw).
+- Customer of Orca, [CrowdStrike ($CRWD)](/notes/crowdstrike), and formerly [Palo Alto Networks ($PANW)](/notes/palo-alto-networks).
 - Chose [Noname Security](/notes/noname-security) over [Salt Security](/notes/salt-security) based on Noname's broader posture management vision; ran a sandbox POC to validate.
 - Key quote on market sizing: *"I think this is going to be the next 'must have.' You have to have endpoint security (CrowdStrike, SentinelOne). You have to have a Firewall (Palo Alto, CheckPoint). You need a CSPM (Orca, Wiz.io). You need to have an API security tool."* (Source: Salt Security Diligence — 2021)
 - TAM estimate: $6–10B, "could be just as big [as WAF], maybe even more."
@@ -55,6 +55,6 @@ related:
 - [Noname Security](/notes/noname-security) — the API security vendor he selected over Salt on posture-management grounds.
 - [Salt Security](/notes/salt-security) — the vendor he passed on, calling it a "good passive security tool" limited to first-level traffic analysis.
 - [Traceable.ai](/notes/traceable-ai) — among the API security tools he evaluated before choosing Noname.
-- [CrowdStrike ($CRWD)](/notes/crowdstrike-crwd) — cited as one of his existing endpoint-security vendors and as a category exemplar in his "must have" market framing.
-- [Palo Alto Networks ($PANW)](/notes/palo-alto-networks-panw) — a former vendor of his, cited as a firewall-category exemplar in the same framing.
+- [CrowdStrike ($CRWD)](/notes/crowdstrike) — cited as one of his existing endpoint-security vendors and as a category exemplar in his "must have" market framing.
+- [Palo Alto Networks ($PANW)](/notes/palo-alto-networks) — a former vendor of his, cited as a firewall-category exemplar in the same framing.
 - [Wiz](/notes/wiz-io) — named (as "Wiz.io") alongside Orca as a CSPM-category exemplar in his security-stack framing.

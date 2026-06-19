@@ -1,6 +1,6 @@
 ---
 title: "Plug and Play"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
@@ -13,7 +13,6 @@ tags:
   - "accelerator"
 aliases:
   - "Plug and Play"
-  - "Plug and Play Tech Center"
 related:
   - "[[Elizabeth Kukka]]"
   - "[[Venture Capital]]"

@@ -1,6 +1,6 @@
 ---
 title: "Axios"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
@@ -12,10 +12,6 @@ tags:
   - "media"
 aliases:
   - "Axios"
-  - "Axios Pro Rata"
-  - "Axios Markets"
-  - "Axios Media Trends"
-  - "Axios Future"
 related:
   - "[[Dan Primack]]"
   - "[[The State of Startup Media - Research]]"

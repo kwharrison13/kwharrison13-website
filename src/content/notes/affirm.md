@@ -1,6 +1,6 @@
 ---
 title: "Affirm"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-19"
@@ -11,6 +11,7 @@ sources:
 tags: []
 aliases:
   - "Affirm"
+  - "Affirm ($AFRM)"
 related:
   - "[[Max Levchin]]"
 ---

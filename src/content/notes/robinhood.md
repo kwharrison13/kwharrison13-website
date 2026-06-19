@@ -1,18 +1,16 @@
 ---
 title: "Robinhood"
-type: "concept"
+type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/meetings/Watershed Climate Diligence — 2021.md"
 tags: []
 aliases:
   - "Robinhood"
-  - "Robinhood Snacks"
-  - "Snacks"
 related:
   - "[[The State of Startup Media - Research]]"
   - "[[Sprig]]"
