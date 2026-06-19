@@ -27,7 +27,7 @@ A curated library of investment frameworks, checklists, and mental models from l
 
 ---
 
-## [a16z](/notes/a16z)'s "16 Startup Metrics"
+## a16z's "16 Startup Metrics"
 
 *[Source](https://a16z.com/2015/08/21/16-metrics/)*
 
@@ -48,7 +48,7 @@ A curated library of investment frameworks, checklists, and mental models from l
 - Chart Tricks
 - Order of Operations
 
-## [a16z](/notes/a16z)'s "16 More Startup Metrics"
+## a16z's "16 More Startup Metrics"
 
 *[Source](https://a16z.com/2015/09/23/16-more-metrics/)*
 
@@ -69,7 +69,7 @@ A curated library of investment frameworks, checklists, and mental models from l
 - Truncating the Y-Axis
 - Cumulative Charts, Again
 
-## [a16z](/notes/a16z)'s "16 Key Metrics for the Passion Economy"
+## a16z's "16 Key Metrics for the Passion Economy"
 
 *[Source](https://a16z.com/2020/01/08/key-metrics-for-the-passion-economy/)*
 
@@ -300,7 +300,7 @@ A curated library of investment frameworks, checklists, and mental models from l
 - **Maintain a healthy level of organizational paranoia.** Question your assumptions, understand the risks, be willing to transition when you "just don't know." If and when you believe you are wrong, do not incrementalize — move on quickly.
 - **Be aggressive when you find highly asymmetric risk/reward opportunities.** There is no better feeling than being early, being big, and being right.
 
-## [Coatue](/notes/coatue) Framework
+## Coatue Framework
 
 - Team
 - TAM
@@ -828,7 +828,7 @@ A curated library of investment frameworks, checklists, and mental models from l
 - Transparent Accounts
 - Excellent Management & Corporate Governance
 
-## [Sequoia](/notes/sequoia)'s Original Checklist
+## Sequoia's Original Checklist
 
 - Must be in a very large market
 - Must be in NorCal

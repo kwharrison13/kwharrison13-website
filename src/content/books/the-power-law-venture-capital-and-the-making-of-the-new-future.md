@@ -74,7 +74,7 @@ The book is treated with more wariness than its subject usually gets — appropr
 - [Sequoia](/notes/sequoia) — Moritz's Yahoo patience and Botha's decision-postmortem discipline.
 - [Benchmark](/notes/benchmark) — small-fund "better architecture" and the Uber/WeWork governance cautionary tales.
 - [a16z](/notes/a16z) — Andreessen Horowitz's in-house consultancy differentiation.
-- [Google](/notes/google), [Facebook](/notes/facebook-meta), [Uber](/notes/uber-uber), [WeWork](/notes/wework) — portfolio cases the book uses to trace VC's evolving founder-friendliness and the late-stage unicorn distortions.
+- [Google](/notes/google), [Facebook](/notes/facebook), [Uber](/notes/uber), [WeWork](/notes/wework) — portfolio cases the book uses to trace VC's evolving founder-friendliness and the late-stage unicorn distortions.
 <!-- /interconnections -->
 
 ## Highlights

@@ -26,7 +26,7 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 
 **Books:** [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism) — financialization-replacing-operational-discipline parallel; both trace dysfunction to misaligned incentives at the system level. See also [Financialization](/notes/financialization).
 
-**Other:** [Apple](/notes/apple-aapl), [Amazon](/notes/amazon), [Google](/notes/google), [Southwest Airlines](/notes/southwest-airlines) — invoked as "Mainland" examples of firms that created value by making something complicated simple, a feat Goldhill argues no health-care company even attempts.
+**Other:** [Apple](/notes/apple), [Amazon](/notes/amazon), [Google](/notes/google), [Southwest Airlines](/notes/southwest-airlines) — invoked as "Mainland" examples of firms that created value by making something complicated simple, a feat Goldhill argues no health-care company even attempts.
 <!-- /interconnections -->
 
 ## Highlights

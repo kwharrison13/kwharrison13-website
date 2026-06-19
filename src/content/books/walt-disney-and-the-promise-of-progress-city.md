@@ -65,7 +65,7 @@ A city's purpose is to bring people together to "exchange goods and ideas withou
 - **Long-term thinking.** "Think beyond your lifetime if you want to accomplish something truly worthwhile." #[Long Term Thinking](/notes/long-term-thinking)
 - **Vision.** Burnham: "Make no little plans; they have no magic to stir men's blood." Had EPCOT been built, Walt "really could have changed the world."
 
-> **Kyle:** *[Disney ($DIS)](/notes/disney-dis) needs a [Walt Disney](/notes/walt-disney)-caliber CEO, and then they need to partner with [Tesla ($TSLA)](/notes/tesla-tsla). I used to say Disney should buy Tesla — but maybe Tesla should buy Disney.*
+> **Kyle:** *[Disney ($DIS)](/notes/disney) needs a [Walt Disney](/notes/walt-disney)-caliber CEO, and then they need to partner with [Tesla ($TSLA)](/notes/tesla). I used to say Disney should buy Tesla — but maybe Tesla should buy Disney.*
 <!-- /key-takeaways -->
 
 ## Connections
