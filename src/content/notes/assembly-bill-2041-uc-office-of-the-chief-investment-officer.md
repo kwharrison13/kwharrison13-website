@@ -9,7 +9,7 @@ url: "https://a30.asmdc.org/sites/a30.asmdc.org/files/pdf/13%20AB%202041%20UC%20
 source_published: "2018      # references UC Investments AUM \"as of March 2018\"; AB 2041 is a 2018 California bill"
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — March 30th, 2022 (Contrary Capital sourcing/diligence log): ~/Downloads/March 30th, 2022.md"
@@ -25,6 +25,11 @@ aliases:
 related:
   - "[[LP]]"
   - "[[UC Investments]]"
+  - "[[Almost $14 Billion Pulled From CalPERS Equity Managers]]"
+  - "[[CalPERS]]"
+  - "[[Contrary Capital]]"
+  - "[[Venture Capital]]"
+  - "[[Private Equity]]"
 ---
 
 # Assembly Bill 2041 — UC Office of the Chief Investment Officer
@@ -40,6 +45,10 @@ related:
 
 ## How it connects
 
-- [LP](/notes/lp) — institutional LP policy; mirrors the diversity / emerging-manager themes in the CalPERS equity-manager terminations.
+- [LP](/notes/lp) — institutional LP policy; the bill directs a $118B LP's hiring and partner-selection toward diversity and emerging-manager mandates.
 - [UC Investments](/notes/uc-investments) — the $118B fund-of-funds the bill targets.
+- [CalPERS](/notes/calpers) — the California public-pension fund whose equity-manager moves are the companion case for state-fund diversity and emerging-manager policy.
 - [Almost $14 Billion Pulled From CalPERS Equity Managers](/notes/almost-14-billion-pulled-from-calpers-equity-managers) — companion read on California public-fund manager diversity and performance.
+- [Contrary Capital](/notes/contrary) — the bill surfaced in Contrary Capital's 2022 sourcing/diligence log, the source export for this page.
+- [Venture Capital](/notes/venture-capital) — the asset class where UC Investments acts as an LP and where the emerging-manager programs would deploy capital.
+- [Private Equity](/notes/private-equity) — the other asset class named in the factsheet's "fund of funds" LP role.

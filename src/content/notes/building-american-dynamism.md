@@ -8,7 +8,7 @@ url: "https://future.com/building-american-dynamism"
 source_published: "2022"
 confidence: "high"
 created: "2026-06-18"
-updated: "2026-06-18"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 6th, 2022 (Contrary Capital sourcing/diligence log): ~/Downloads/June 6th, 2022.md"
