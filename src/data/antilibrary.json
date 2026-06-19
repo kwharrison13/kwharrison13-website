@@ -934,6 +934,32 @@
     "slug": "living-within-limits"
   },
   {
+    "title": "Mastering the Rockefeller Habits",
+    "full_title": "Mastering the Rockefeller Habits",
+    "author": "Verne Harnish",
+    "published": "2002",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Mastering+the+Rockefeller+Habits+Verne+Harnish",
+    "where_seen": [
+      "Cited in How To Be a Capitalist Without Any Capital, How To Be a Capitalist Without Any Capital — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "How To Be a Capitalist Without Any Capital",
+        "url": "/books/how-to-be-a-capitalist-without-any-capital"
+      },
+      {
+        "title": "How To Be a Capitalist Without Any Capital",
+        "url": "/books/how-to-be-a-capitalist-without-any-capital"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "company-building"
+    ],
+    "slug": "mastering-the-rockefeller-habits"
+  },
+  {
     "title": "Men and Rubber",
     "full_title": "Men and Rubber: The Story of Business",
     "author": "Harvey S. Firestone",
@@ -1041,6 +1067,511 @@
     "slug": "no-two-alike"
   },
   {
+    "title": "On Bullshit",
+    "full_title": "On Bullshit",
+    "author": "Harry G. Frankfurt",
+    "published": "2005",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=On+Bullshit+Harry+G.+Frankfurt",
+    "where_seen": [
+      "Cited in Braving The Wilderness, Braving The Wilderness — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Braving The Wilderness",
+        "url": "/books/braving-the-wilderness"
+      },
+      {
+        "title": "Braving The Wilderness",
+        "url": "/books/braving-the-wilderness"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "language-of-discourse"
+    ],
+    "slug": "on-bullshit"
+  },
+  {
+    "title": "On War",
+    "full_title": "On War",
+    "author": "Carl von Clausewitz",
+    "published": "1832",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=On+War+Carl+von+Clausewitz",
+    "where_seen": [
+      "Cited in The Art of War, The Art of War — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "The Art of War",
+        "url": "/books/the-art-of-war"
+      },
+      {
+        "title": "The Art of War",
+        "url": "/books/the-art-of-war"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "on-war"
+  },
+  {
+    "title": "On Writing Well",
+    "full_title": "On Writing Well",
+    "author": "William Zinsser",
+    "published": "1976",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=On+Writing+Well+William+Zinsser",
+    "where_seen": [
+      "Cited in Remote — Office Not Required, Remote — Office Not Required — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Remote — Office Not Required",
+        "url": "/books/remote-office-not-required"
+      },
+      {
+        "title": "Remote — Office Not Required",
+        "url": "/books/remote-office-not-required"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "language-of-discourse"
+    ],
+    "slug": "on-writing-well"
+  },
+  {
+    "title": "Only the Paranoid Survive",
+    "full_title": "Only the Paranoid Survive",
+    "author": "Andrew S. Grove",
+    "published": "1996",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Only+the+Paranoid+Survive+Andrew+S.+Grove",
+    "where_seen": [
+      "Cited in Chip War, Chip War — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Chip War",
+        "url": "/books/chip-war"
+      },
+      {
+        "title": "Chip War",
+        "url": "/books/chip-war"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "company-building"
+    ],
+    "slug": "only-the-paranoid-survive"
+  },
+  {
+    "title": "Overtreated",
+    "full_title": "Overtreated",
+    "author": "Shannon Brownlee",
+    "published": "2007",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Overtreated+Shannon+Brownlee",
+    "where_seen": [
+      "Cited in Catastrophic Care, Catastrophic Care — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Catastrophic Care",
+        "url": "/books/catastrophic-care"
+      },
+      {
+        "title": "Catastrophic Care",
+        "url": "/books/catastrophic-care"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "overtreated"
+  },
+  {
+    "title": "Paradise Lost",
+    "full_title": "Paradise Lost",
+    "author": "John Milton",
+    "published": "1667",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Paradise+Lost+John+Milton",
+    "where_seen": [
+      "Cited in Charlie Munger — Harvard School Commencement Speech, Charlie Munger — Harvard School Commencement Speech — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [],
+    "recommendations": 1,
+    "tags": [
+      "religious-intellectualism",
+      "republic-of-letters"
+    ],
+    "slug": "paradise-lost"
+  },
+  {
+    "title": "Player Piano",
+    "full_title": "Player Piano",
+    "author": "Kurt Vonnegut",
+    "published": "1952",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Player+Piano+Kurt+Vonnegut",
+    "where_seen": [
+      "Cited in The AppetiZIRP, The AppetiZIRP — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [],
+    "recommendations": 1,
+    "tags": [
+      "historical-futurism"
+    ],
+    "slug": "player-piano"
+  },
+  {
+    "title": "Poverty, by America",
+    "full_title": "Poverty, by America",
+    "author": "Matthew Desmond",
+    "published": "2023",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Poverty%2C+by+America+Matthew+Desmond",
+    "where_seen": [
+      "Cited in Matthew Desmond, Matthew Desmond — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Matthew Desmond",
+        "url": "/notes/matthew-desmond"
+      },
+      {
+        "title": "Matthew Desmond",
+        "url": "/notes/matthew-desmond"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "people-over-politics"
+    ],
+    "slug": "poverty-by-america"
+  },
+  {
+    "title": "Process and Reality",
+    "full_title": "Process and Reality",
+    "author": "Alfred North Whitehead",
+    "published": "1929",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Process+and+Reality+Alfred+North+Whitehead",
+    "where_seen": [
+      "Cited in Charlie Munger — Harvard Law School Fiftieth Reunion Address, Charlie Munger — Harvard Law School Fiftieth Reunion Address — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "process-and-reality"
+  },
+  {
+    "title": "Punished by Rewards",
+    "full_title": "Punished by Rewards",
+    "author": "Alfie Kohn",
+    "published": "1993",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Punished+by+Rewards+Alfie+Kohn",
+    "where_seen": [
+      "Cited in Remote — Office Not Required, Remote — Office Not Required — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Remote — Office Not Required",
+        "url": "/books/remote-office-not-required"
+      },
+      {
+        "title": "Remote — Office Not Required",
+        "url": "/books/remote-office-not-required"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "education"
+    ],
+    "slug": "punished-by-rewards"
+  },
+  {
+    "title": "Reinventing Discovery",
+    "full_title": "Reinventing Discovery",
+    "author": "Michael Nielsen",
+    "published": "2011",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Reinventing+Discovery+Michael+Nielsen",
+    "where_seen": [
+      "Cited in Michael Nielsen, Michael Nielsen — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Michael Nielsen",
+        "url": "/notes/michael-nielsen"
+      },
+      {
+        "title": "Michael Nielsen",
+        "url": "/notes/michael-nielsen"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "open-source-knowledge",
+      "technological-innovation"
+    ],
+    "slug": "reinventing-discovery"
+  },
+  {
+    "title": "Stuck in Place",
+    "full_title": "Stuck in Place",
+    "author": "Patrick Sharkey",
+    "published": "2013",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Stuck+in+Place+Patrick+Sharkey",
+    "where_seen": [
+      "Cited in Patrick Sharkey, The New Urban Crisis, Richard Florida, Poverty, City Building, The New Urban Crisis, Patrick Sharkey, The New Urban Crisis, Patrick Sharkey, Richard Florida, The New Urban Crisis, Poverty, City Building, The New Urban Crisis — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Patrick Sharkey",
+        "url": "/notes/patrick-sharkey"
+      },
+      {
+        "title": "The New Urban Crisis",
+        "url": "/books/the-new-urban-crisis"
+      },
+      {
+        "title": "Richard Florida",
+        "url": "/notes/richard-florida"
+      },
+      {
+        "title": "Poverty",
+        "url": "/notes/poverty"
+      },
+      {
+        "title": "City Building",
+        "url": "/notes/city-building"
+      },
+      {
+        "title": "The New Urban Crisis",
+        "url": "/books/the-new-urban-crisis"
+      },
+      {
+        "title": "Patrick Sharkey",
+        "url": "/notes/patrick-sharkey"
+      },
+      {
+        "title": "The New Urban Crisis",
+        "url": "/books/the-new-urban-crisis"
+      },
+      {
+        "title": "Patrick Sharkey",
+        "url": "/notes/patrick-sharkey"
+      },
+      {
+        "title": "Richard Florida",
+        "url": "/notes/richard-florida"
+      },
+      {
+        "title": "The New Urban Crisis",
+        "url": "/books/the-new-urban-crisis"
+      },
+      {
+        "title": "Poverty",
+        "url": "/notes/poverty"
+      },
+      {
+        "title": "City Building",
+        "url": "/notes/city-building"
+      },
+      {
+        "title": "The New Urban Crisis",
+        "url": "/books/the-new-urban-crisis"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "people-over-politics",
+      "city-building"
+    ],
+    "slug": "stuck-in-place"
+  },
+  {
+    "title": "Superforecasting",
+    "full_title": "Superforecasting",
+    "author": "Philip E. Tetlock, Dan Gardner",
+    "published": "2015",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Superforecasting+Philip+E.+Tetlock",
+    "where_seen": [
+      "Cited in Range, Range — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Range",
+        "url": "/books/range"
+      },
+      {
+        "title": "Range",
+        "url": "/books/range"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "language-of-discourse"
+    ],
+    "slug": "superforecasting"
+  },
+  {
+    "title": "Switch",
+    "full_title": "Switch",
+    "author": "Chip Heath, Dan Heath",
+    "published": "2010",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Switch+Chip+Heath",
+    "where_seen": [
+      "Cited in The Righteous Mind, The Righteous Mind — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "The Righteous Mind",
+        "url": "/books/the-righteous-mind"
+      },
+      {
+        "title": "The Righteous Mind",
+        "url": "/books/the-righteous-mind"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "company-building"
+    ],
+    "slug": "switch"
+  },
+  {
+    "title": "The Angel and the Beehive",
+    "full_title": "The Angel and the Beehive",
+    "author": "Armand L. Mauss",
+    "published": "1994",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Angel+and+the+Beehive+Armand+L.+Mauss",
+    "where_seen": [
+      "Cited in The Next Mormons, The Next Mormons — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "The Next Mormons",
+        "url": "/books/the-next-mormons"
+      },
+      {
+        "title": "The Next Mormons",
+        "url": "/books/the-next-mormons"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "religious-intellectualism"
+    ],
+    "slug": "the-angel-and-the-beehive"
+  },
+  {
+    "title": "The Best and the Brightest",
+    "full_title": "The Best and the Brightest",
+    "author": "David Halberstam",
+    "published": "1972",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Best+and+the+Brightest+David+Halberstam",
+    "where_seen": [
+      "Cited in Shortest Way Home, Shortest Way Home — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Shortest Way Home",
+        "url": "/books/shortest-way-home"
+      },
+      {
+        "title": "Shortest Way Home",
+        "url": "/books/shortest-way-home"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "people-over-politics"
+    ],
+    "slug": "the-best-and-the-brightest"
+  },
+  {
+    "title": "The Big Con",
+    "full_title": "The Big Con",
+    "author": "Mariana Mazzucato, Rosie Collington",
+    "published": "2023",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Big+Con+Mariana+Mazzucato",
+    "where_seen": [
+      "Cited in Bonfire of the Consultancies, Bonfire of the Consultancies — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [],
+    "recommendations": 1,
+    "tags": [
+      "company-building",
+      "people-over-politics"
+    ],
+    "slug": "the-big-con"
+  },
+  {
+    "title": "The Big Sort",
+    "full_title": "The Big Sort",
+    "author": "Bill Bishop",
+    "published": "2008",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Big+Sort+Bill+Bishop",
+    "where_seen": [
+      "Cited in Braving The Wilderness, Braving The Wilderness — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Braving The Wilderness",
+        "url": "/books/braving-the-wilderness"
+      },
+      {
+        "title": "Braving The Wilderness",
+        "url": "/books/braving-the-wilderness"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "people-over-politics"
+    ],
+    "slug": "the-big-sort"
+  },
+  {
+    "title": "The Cathedral and the Bazaar",
+    "full_title": "The Cathedral and the Bazaar",
+    "author": "Eric S. Raymond",
+    "published": "1999",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Cathedral+and+the+Bazaar+Eric+S.+Raymond",
+    "where_seen": [
+      "Cited in Working in Public, Working in Public — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Working in Public",
+        "url": "/books/working-in-public"
+      },
+      {
+        "title": "Working in Public",
+        "url": "/books/working-in-public"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "open-source-knowledge",
+      "technological-innovation"
+    ],
+    "slug": "the-cathedral-and-the-bazaar"
+  },
+  {
     "title": "The Coddling of the American Mind",
     "full_title": "The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure",
     "author": "Greg Lukianoff and Jonathan Haidt",
@@ -1071,6 +1602,90 @@
       "psychology"
     ],
     "slug": "the-coddling-of-the-american-mind"
+  },
+  {
+    "title": "The Daily Stoic",
+    "full_title": "The Daily Stoic",
+    "author": "Ryan Holiday, Stephen Hanselman",
+    "published": "2016",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Daily+Stoic+Ryan+Holiday",
+    "where_seen": [
+      "Cited in Discipline Is Destiny, Discipline Is Destiny — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Discipline Is Destiny",
+        "url": "/books/discipline-is-destiny"
+      },
+      {
+        "title": "Discipline Is Destiny",
+        "url": "/books/discipline-is-destiny"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "the-daily-stoic"
+  },
+  {
+    "title": "The Death and Life of Great American Cities",
+    "full_title": "The Death and Life of Great American Cities",
+    "author": "Jane Jacobs",
+    "published": "1961",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Death+and+Life+of+Great+American+Cities+Jane+Jacobs",
+    "where_seen": [
+      "Cited in Walt Disney and the Promise of Progress City, Working in Public, Jane Jacobs, Walt Disney and the Promise of Progress City, Working in Public, Jane Jacobs — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Walt Disney and the Promise of Progress City",
+        "url": "/books/walt-disney-and-the-promise-of-progress-city"
+      },
+      {
+        "title": "Working in Public",
+        "url": "/books/working-in-public"
+      },
+      {
+        "title": "Jane Jacobs",
+        "url": "/notes/jane-jacobs"
+      },
+      {
+        "title": "Walt Disney and the Promise of Progress City",
+        "url": "/books/walt-disney-and-the-promise-of-progress-city"
+      },
+      {
+        "title": "Working in Public",
+        "url": "/books/working-in-public"
+      },
+      {
+        "title": "Jane Jacobs",
+        "url": "/notes/jane-jacobs"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "city-building"
+    ],
+    "slug": "the-death-and-life-of-great-american-cities"
+  },
+  {
+    "title": "The Decadent Society",
+    "full_title": "The Decadent Society",
+    "author": "Ross Douthat",
+    "published": "2020",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Decadent+Society+Ross+Douthat",
+    "where_seen": [
+      "Cited in Building American Dynamism, Building American Dynamism — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [],
+    "recommendations": 1,
+    "tags": [
+      "historical-futurism",
+      "people-over-politics"
+    ],
+    "slug": "the-decadent-society"
   },
   {
     "title": "The Essays of Warren Buffett",
@@ -1144,6 +1759,170 @@
     "slug": "the-geography-of-genius"
   },
   {
+    "title": "The Government of God",
+    "full_title": "The Government of God",
+    "author": "John Taylor",
+    "published": "1852",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Government+of+God+John+Taylor",
+    "where_seen": [
+      "Cited in The Life of John Taylor, The Life of John Taylor — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "The Life of John Taylor",
+        "url": "/books/the-life-of-john-taylor"
+      },
+      {
+        "title": "The Life of John Taylor",
+        "url": "/books/the-life-of-john-taylor"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "religious-intellectualism"
+    ],
+    "slug": "the-government-of-god"
+  },
+  {
+    "title": "The Great Stagnation",
+    "full_title": "The Great Stagnation",
+    "author": "Tyler Cowen",
+    "published": "2011",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Great+Stagnation+Tyler+Cowen",
+    "where_seen": [
+      "Cited in Boom — Bubbles & The End of Stagnation, Boom — Bubbles & The End of Stagnation — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Boom — Bubbles & The End of Stagnation",
+        "url": "/books/boom-bubbles-and-the-end-of-stagnation"
+      },
+      {
+        "title": "Boom — Bubbles & The End of Stagnation",
+        "url": "/books/boom-bubbles-and-the-end-of-stagnation"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "technological-innovation",
+      "historical-futurism"
+    ],
+    "slug": "the-great-stagnation"
+  },
+  {
+    "title": "The Gulag Archipelago",
+    "full_title": "The Gulag Archipelago",
+    "author": "Aleksandr Solzhenitsyn",
+    "published": "1973",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Gulag+Archipelago+Aleksandr+Solzhenitsyn",
+    "where_seen": [
+      "Cited in The Invention of Russia, Alexander Solzhenitsyn, The Invention of Russia, Alexander Solzhenitsyn — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "The Invention of Russia",
+        "url": "/books/the-invention-of-russia"
+      },
+      {
+        "title": "Alexander Solzhenitsyn",
+        "url": "/notes/alexander-solzhenitsyn"
+      },
+      {
+        "title": "The Invention of Russia",
+        "url": "/books/the-invention-of-russia"
+      },
+      {
+        "title": "Alexander Solzhenitsyn",
+        "url": "/notes/alexander-solzhenitsyn"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "ideological-family-tree",
+      "people-over-politics"
+    ],
+    "slug": "the-gulag-archipelago"
+  },
+  {
+    "title": "The Happiness Hypothesis",
+    "full_title": "The Happiness Hypothesis",
+    "author": "Jonathan Haidt",
+    "published": "2006",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Happiness+Hypothesis+Jonathan+Haidt",
+    "where_seen": [
+      "Cited in The Righteous Mind, The Righteous Mind — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "The Righteous Mind",
+        "url": "/books/the-righteous-mind"
+      },
+      {
+        "title": "The Righteous Mind",
+        "url": "/books/the-righteous-mind"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "the-happiness-hypothesis"
+  },
+  {
+    "title": "The Hidden Persuaders",
+    "full_title": "The Hidden Persuaders",
+    "author": "Vance Packard",
+    "published": "1957",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Hidden+Persuaders+Vance+Packard",
+    "where_seen": [
+      "Cited in Brave New World Revisited, Brave New World Revisited — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Brave New World Revisited",
+        "url": "/books/brave-new-world-revisited"
+      },
+      {
+        "title": "Brave New World Revisited",
+        "url": "/books/brave-new-world-revisited"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "language-of-discourse"
+    ],
+    "slug": "the-hidden-persuaders"
+  },
+  {
+    "title": "The Knowledge Illusion",
+    "full_title": "The Knowledge Illusion",
+    "author": "Steven Sloman, Philip Fernbach",
+    "published": "2017",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman",
+    "where_seen": [
+      "Cited in 21 Lessons for the 21st Century, 21 Lessons for the 21st Century — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "21 Lessons for the 21st Century",
+        "url": "/books/21-lessons-for-the-21st-century"
+      },
+      {
+        "title": "21 Lessons for the 21st Century",
+        "url": "/books/21-lessons-for-the-21st-century"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "open-source-knowledge"
+    ],
+    "slug": "the-knowledge-illusion"
+  },
+  {
     "title": "The Lincoln Highway",
     "full_title": "The Lincoln Highway: A Novel",
     "author": "Amor Towles",
@@ -1165,6 +1944,137 @@
       "literary-fiction"
     ],
     "slug": "the-lincoln-highway"
+  },
+  {
+    "title": "The Mormon Experience",
+    "full_title": "The Mormon Experience",
+    "author": "Leonard J. Arrington, Davis Bitton",
+    "published": "1979",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Mormon+Experience+Leonard+J.+Arrington",
+    "where_seen": [
+      "Cited in Leonard Arrington and the Writing of Mormon History, Leonard Arrington and the Writing of Mormon History — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Leonard Arrington and the Writing of Mormon History",
+        "url": "/books/leonard-arrington-and-the-writing-of-mormon-history"
+      },
+      {
+        "title": "Leonard Arrington and the Writing of Mormon History",
+        "url": "/books/leonard-arrington-and-the-writing-of-mormon-history"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "religious-intellectualism"
+    ],
+    "slug": "the-mormon-experience"
+  },
+  {
+    "title": "The Organization Man",
+    "full_title": "The Organization Man",
+    "author": "William H. Whyte",
+    "published": "1956",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Organization+Man+William+H.+Whyte",
+    "where_seen": [
+      "Cited in Brave New World Revisited, Brave New World Revisited — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Brave New World Revisited",
+        "url": "/books/brave-new-world-revisited"
+      },
+      {
+        "title": "Brave New World Revisited",
+        "url": "/books/brave-new-world-revisited"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "company-building",
+      "ideological-family-tree"
+    ],
+    "slug": "the-organization-man"
+  },
+  {
+    "title": "The Origin of Species",
+    "full_title": "The Origin of Species",
+    "author": "Charles Darwin",
+    "published": "1859",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Origin+of+Species+Charles+Darwin",
+    "where_seen": [
+      "Cited in How To Read a Book, How To Read a Book — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "How To Read a Book",
+        "url": "/books/how-to-read-a-book"
+      },
+      {
+        "title": "How To Read a Book",
+        "url": "/books/how-to-read-a-book"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "the-origin-of-species"
+  },
+  {
+    "title": "The Other Path",
+    "full_title": "The Other Path",
+    "author": "Hernando de Soto",
+    "published": "1986",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Other+Path+Hernando+de+Soto",
+    "where_seen": [
+      "Cited in Working Toward Zion, Working Toward Zion — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Working Toward Zion",
+        "url": "/books/working-toward-zion"
+      },
+      {
+        "title": "Working Toward Zion",
+        "url": "/books/working-toward-zion"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "capital-allocation",
+      "people-over-politics"
+    ],
+    "slug": "the-other-path"
+  },
+  {
+    "title": "The Outsiders",
+    "full_title": "The Outsiders",
+    "author": "William N. Thorndike",
+    "published": "2012",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Outsiders+William+N.+Thorndike",
+    "where_seen": [
+      "Cited in How To Be a Capitalist Without Any Capital, On the Nature of Long-Term Holds, Todd McKinnon — Creating and Defining a New Market Category, How To Be a Capitalist Without Any Capital — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "How To Be a Capitalist Without Any Capital",
+        "url": "/books/how-to-be-a-capitalist-without-any-capital"
+      },
+      {
+        "title": "How To Be a Capitalist Without Any Capital",
+        "url": "/books/how-to-be-a-capitalist-without-any-capital"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "capital-allocation",
+      "company-building"
+    ],
+    "slug": "the-outsiders"
   },
   {
     "title": "The Power Broker",
@@ -1198,6 +2108,130 @@
     "slug": "the-power-broker"
   },
   {
+    "title": "The Power of Habit",
+    "full_title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "published": "2012",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Power+of+Habit+Charles+Duhigg",
+    "where_seen": [
+      "Cited in Atomic Habits, Essentialism, Atomic Habits, Essentialism — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Atomic Habits",
+        "url": "/books/atomic-habits"
+      },
+      {
+        "title": "Essentialism",
+        "url": "/books/essentialism"
+      },
+      {
+        "title": "Atomic Habits",
+        "url": "/books/atomic-habits"
+      },
+      {
+        "title": "Essentialism",
+        "url": "/books/essentialism"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "the-power-of-habit"
+  },
+  {
+    "title": "The Rise of the Creative Class",
+    "full_title": "The Rise of the Creative Class",
+    "author": "Richard Florida",
+    "published": "2002",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Rise+of+the+Creative+Class+Richard+Florida",
+    "where_seen": [
+      "Cited in Richard Florida, The New Urban Crisis, City Building, Talent, The New Urban Crisis, Richard Florida, The New Urban Crisis, The New Urban Crisis, Richard Florida, City Building, Talent, The New Urban Crisis — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Richard Florida",
+        "url": "/notes/richard-florida"
+      },
+      {
+        "title": "The New Urban Crisis",
+        "url": "/books/the-new-urban-crisis"
+      },
+      {
+        "title": "City Building",
+        "url": "/notes/city-building"
+      },
+      {
+        "title": "Talent",
+        "url": "/books/talent"
+      },
+      {
+        "title": "The New Urban Crisis",
+        "url": "/books/the-new-urban-crisis"
+      },
+      {
+        "title": "Richard Florida",
+        "url": "/notes/richard-florida"
+      },
+      {
+        "title": "The New Urban Crisis",
+        "url": "/books/the-new-urban-crisis"
+      },
+      {
+        "title": "The New Urban Crisis",
+        "url": "/books/the-new-urban-crisis"
+      },
+      {
+        "title": "Richard Florida",
+        "url": "/notes/richard-florida"
+      },
+      {
+        "title": "City Building",
+        "url": "/notes/city-building"
+      },
+      {
+        "title": "Talent",
+        "url": "/books/talent"
+      },
+      {
+        "title": "The New Urban Crisis",
+        "url": "/books/the-new-urban-crisis"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "city-building"
+    ],
+    "slug": "the-rise-of-the-creative-class"
+  },
+  {
+    "title": "The Sciences of the Artificial",
+    "full_title": "The Sciences of the Artificial",
+    "author": "Herbert A. Simon",
+    "published": "1969",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Sciences+of+the+Artificial+Herbert+A.+Simon",
+    "where_seen": [
+      "Cited in Managers Not MBAs, Managers Not MBAs — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Managers Not MBAs",
+        "url": "/books/managers-not-mbas"
+      },
+      {
+        "title": "Managers Not MBAs",
+        "url": "/books/managers-not-mbas"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "technological-innovation"
+    ],
+    "slug": "the-sciences-of-the-artificial"
+  },
+  {
     "title": "The Selfish Gene",
     "full_title": "The Selfish Gene",
     "author": "Richard Dawkins",
@@ -1216,6 +2250,41 @@
     "recommendations": 1,
     "tags": [],
     "slug": "the-selfish-gene"
+  },
+  {
+    "title": "The Singularity Is Near",
+    "full_title": "The Singularity Is Near",
+    "author": "Ray Kurzweil",
+    "published": "2005",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Singularity+Is+Near+Ray+Kurzweil",
+    "where_seen": [
+      "Cited in 2054, Ray Kurzweil, 2054, Ray Kurzweil — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "2054",
+        "url": "/books/2054"
+      },
+      {
+        "title": "Ray Kurzweil",
+        "url": "/notes/ray-kurzweil"
+      },
+      {
+        "title": "2054",
+        "url": "/books/2054"
+      },
+      {
+        "title": "Ray Kurzweil",
+        "url": "/notes/ray-kurzweil"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "historical-futurism",
+      "technological-innovation"
+    ],
+    "slug": "the-singularity-is-near"
   },
   {
     "title": "The Success Equation",
@@ -1270,6 +2339,58 @@
     "slug": "the-third-chimpanzee"
   },
   {
+    "title": "The Three-Body Problem",
+    "full_title": "The Three-Body Problem",
+    "author": "Liu Cixin",
+    "published": "2008",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Three-Body+Problem+Liu+Cixin",
+    "where_seen": [
+      "Cited in Romney — A Reckoning, Romney — A Reckoning — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Romney — A Reckoning",
+        "url": "/books/romney-a-reckoning"
+      },
+      {
+        "title": "Romney — A Reckoning",
+        "url": "/books/romney-a-reckoning"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "historical-futurism"
+    ],
+    "slug": "the-three-body-problem"
+  },
+  {
+    "title": "The Varieties of Religious Experience",
+    "full_title": "The Varieties of Religious Experience",
+    "author": "William James",
+    "published": "1902",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James",
+    "where_seen": [
+      "Cited in An Insider's View of Mormon Origins, An Insider's View of Mormon Origins — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "An Insider's View of Mormon Origins",
+        "url": "/books/an-insider-s-view-of-mormon-origins"
+      },
+      {
+        "title": "An Insider's View of Mormon Origins",
+        "url": "/books/an-insider-s-view-of-mormon-origins"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "religious-intellectualism"
+    ],
+    "slug": "the-varieties-of-religious-experience"
+  },
+  {
     "title": "The Warren Buffett Portfolio",
     "full_title": "The Warren Buffett Portfolio: Mastering the Power of the Focus Investment Strategy",
     "author": "Robert Hagstrom",
@@ -1315,6 +2436,67 @@
     "slug": "the-wealth-and-poverty-of-nations"
   },
   {
+    "title": "The Wealth of Nations",
+    "full_title": "The Wealth of Nations",
+    "author": "Adam Smith",
+    "published": "1776",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=The+Wealth+of+Nations+Adam+Smith",
+    "where_seen": [
+      "Cited in How To Read a Book, Reinventing Knowledge — From Alexandria To The Internet, How To Read a Book, Reinventing Knowledge — From Alexandria To The Internet — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "How To Read a Book",
+        "url": "/books/how-to-read-a-book"
+      },
+      {
+        "title": "Reinventing Knowledge — From Alexandria To The Internet",
+        "url": "/books/reinventing-knowledge-from-alexandria-to-the-internet"
+      },
+      {
+        "title": "How To Read a Book",
+        "url": "/books/how-to-read-a-book"
+      },
+      {
+        "title": "Reinventing Knowledge — From Alexandria To The Internet",
+        "url": "/books/reinventing-knowledge-from-alexandria-to-the-internet"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "capital-allocation",
+      "ideological-family-tree"
+    ],
+    "slug": "the-wealth-of-nations"
+  },
+  {
+    "title": "Thinking in Systems",
+    "full_title": "Thinking in Systems",
+    "author": "Donella H. Meadows",
+    "published": "2008",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Thinking+in+Systems+Donella+H.+Meadows",
+    "where_seen": [
+      "Cited in How To Be a Capitalist Without Any Capital, How To Be a Capitalist Without Any Capital — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "How To Be a Capitalist Without Any Capital",
+        "url": "/books/how-to-be-a-capitalist-without-any-capital"
+      },
+      {
+        "title": "How To Be a Capitalist Without Any Capital",
+        "url": "/books/how-to-be-a-capitalist-without-any-capital"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "technological-innovation"
+    ],
+    "slug": "thinking-in-systems"
+  },
+  {
     "title": "Three Scientists and Their Gods",
     "full_title": "Three Scientists and Their Gods: Looking for Meaning in an Age of Information",
     "author": "Robert Wright",
@@ -1356,6 +2538,100 @@
       "company-building"
     ],
     "slug": "titan"
+  },
+  {
+    "title": "Travels with Charley",
+    "full_title": "Travels with Charley",
+    "author": "John Steinbeck",
+    "published": "1962",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Travels+with+Charley+John+Steinbeck",
+    "where_seen": [
+      "Cited in Our Towns, Our Towns — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Our Towns",
+        "url": "/books/our-towns"
+      },
+      {
+        "title": "Our Towns",
+        "url": "/books/our-towns"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "travels-with-charley"
+  },
+  {
+    "title": "Walden Two",
+    "full_title": "Walden Two",
+    "author": "B. F. Skinner",
+    "published": "1948",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=Walden+Two+B.+F.+Skinner",
+    "where_seen": [
+      "Cited in Brave New World Revisited, Brave New World Revisited — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Brave New World Revisited",
+        "url": "/books/brave-new-world-revisited"
+      },
+      {
+        "title": "Brave New World Revisited",
+        "url": "/books/brave-new-world-revisited"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "historical-futurism"
+    ],
+    "slug": "walden-two"
+  },
+  {
+    "title": "When McKinsey Comes to Town",
+    "full_title": "When McKinsey Comes to Town",
+    "author": "Walt Bogdanich, Michael Forsythe",
+    "published": "2022",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=When+McKinsey+Comes+to+Town+Walt+Bogdanich",
+    "where_seen": [
+      "Cited in Bonfire of the Consultancies, Bonfire of the Consultancies — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [],
+    "recommendations": 1,
+    "tags": [
+      "company-building",
+      "people-over-politics"
+    ],
+    "slug": "when-mckinsey-comes-to-town"
+  },
+  {
+    "title": "When Prophecy Fails",
+    "full_title": "When Prophecy Fails",
+    "author": "Leon Festinger, Henry Riecken, Stanley Schachter",
+    "published": "1956",
+    "pages": 0,
+    "amazon_url": "https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger",
+    "where_seen": [
+      "Cited in Utopia For Realists, Utopia For Realists — surfaced during the 2026-06-19 connection sweep."
+    ],
+    "connections": [
+      {
+        "title": "Utopia For Realists",
+        "url": "/books/utopia-for-realists"
+      },
+      {
+        "title": "Utopia For Realists",
+        "url": "/books/utopia-for-realists"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "religious-intellectualism"
+    ],
+    "slug": "when-prophecy-fails"
   },
   {
     "title": "Where Is My Flying Car?",

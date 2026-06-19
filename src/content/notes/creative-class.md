@@ -23,5 +23,5 @@ _Stub — flagged during the 2026-06-19 connection sweep as an entity referenced
 
 ## Where this appears
 
-- The Rise of the Creative Class
+- [The Rise of the Creative Class](/notes/the-rise-of-the-creative-class)
 - [Richard Florida](/notes/richard-florida)

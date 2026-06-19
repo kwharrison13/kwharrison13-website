@@ -23,7 +23,7 @@ related:
 
 ## What we know
 
-- Author of Stuck in Place, a major study of racially concentrated poverty. (source: [The New Urban Crisis](/books/the-new-urban-crisis))
+- Author of [Stuck in Place](/notes/stuck-in-place), a major study of racially concentrated poverty. (source: [The New Urban Crisis](/books/the-new-urban-crisis))
 - Argues "neighborhood inequality is multi-generational, something that is passed down from parents to children in the same way that genetic background and financial wealth are transmitted across generations." (source: [The New Urban Crisis](/books/the-new-urban-crisis))
 
 ## Mentioned in
@@ -32,6 +32,6 @@ related:
 
 ## Connections
 
-- Stuck in Place — Sharkey's study of racially concentrated poverty, attributed to him here.
+- [Stuck in Place](/notes/stuck-in-place) — Sharkey's study of racially concentrated poverty, attributed to him here.
 - [Richard Florida](/notes/richard-florida) — author of [The New Urban Crisis](/books/the-new-urban-crisis), the source that cites Sharkey on multi-generational neighborhood inequality.
 - [Poverty](/notes/poverty) — Sharkey's central subject: racially concentrated poverty passed down across generations.
