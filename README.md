@@ -1,6 +1,6 @@
 # kwharrison13.com
 
-Personal site for Kyle Harrison. Built with [Astro](https://astro.build), deployed to [Cloudflare Pages](https://pages.cloudflare.com) (auto-deploys on push to `main`).
+Personal site for Kyle Harrison. Built with [Astro](https://astro.build), deployed to [Vercel](https://vercel.com) (auto-deploys on push to `main`).
 
 Inspired by [sj.land](https://sj.land) — a productivity-app-style personal site with sidebar navigation, keyboard shortcuts, and instant page switching.
 

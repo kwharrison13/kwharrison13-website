@@ -40,7 +40,7 @@ Private wiki sections — `gospel-study/`, `meetings/`, `diligence-research/`, `
 ## Build & deploy
 
 - `npm run build` — production build (publish.sh runs this to verify before pushing)
-- **Cloudflare Pages auto-deploys** from `main`. No deploy config lives in the repo (it's wired through the Cloudflare↔GitHub integration).
+- **Vercel auto-deploys** from `main`. No deploy config lives in the repo (it's wired through the Vercel↔GitHub integration). (A future authed `notes.kwharrison13.com` is planned on Cloudflare Access — phase 4, not built.)
 - Node ≥ 18, no third-party deps beyond Astro + `@astrojs/sitemap` (project convention). New sync scripts: support `--dry-run`, path-resolve from `__filename`, don't assume cwd.
 
 ## Conventions for sync scripts
