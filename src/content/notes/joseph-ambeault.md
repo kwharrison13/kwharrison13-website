@@ -14,7 +14,7 @@ aliases:
   - "Joseph Ambeault"
 related:
   - "[[Sprig fka UserLeap - Diligence]]"
-  - "[[Codecademy]]"
+  - "Codecademy"
   - "[[Sprig]]"
   - "[[Notion]]"
   - "[[Jira]]"

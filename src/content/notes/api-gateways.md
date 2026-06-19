@@ -21,7 +21,7 @@ related:
   - "[[MuleSoft]]"
   - "[[Apigee]]"
   - "[[API Security]]"
-  - "[[Microservices]]"
+  - "Microservices"
   - "[[Salt Security]]"
   - "[[Atanu Dasgupta]]"
   - "[[Prabhakar Kasu]]"

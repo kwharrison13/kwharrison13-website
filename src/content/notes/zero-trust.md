@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
@@ -19,6 +19,8 @@ related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[API Security]]"
   - "[[Identity & Access Management Diligence — 2021]]"
+  - "[[Salt Security]]"
+  - "[[Michael Isbitski]]"
 ---
 
 # Zero Trust
@@ -38,3 +40,6 @@ related:
 ## Related concepts
 
 - [API Security](/notes/api-security) — the runtime behavioral layer that Zero Trust alone doesn't cover
+- Identity & Access Management Diligence — 2021 — IAM is the identity-verification core of the Zero Trust model
+- [Salt Security](/notes/salt-security) — frames Zero Trust as the access-focused paradigm its behavioral anomaly detection extends beyond
+- [Michael Isbitski](/notes/michael-isbitski) — characterizes most security orgs as access-focused "à la Zero Trust" rather than behavioral

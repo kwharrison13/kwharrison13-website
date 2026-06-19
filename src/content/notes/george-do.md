@@ -18,7 +18,7 @@ related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[Noname Security - Diligence]]"
   - "[[Gojek]]"
-  - "[[Equinix]]"
+  - "Equinix"
   - "[[Salt Security]]"
   - "[[Noname Security]]"
   - "[[Kong]]"

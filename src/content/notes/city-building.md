@@ -18,9 +18,9 @@ aliases:
   - "New Cities"
   - "Charter Cities"
 related:
-  - "[[Network State]]"
-  - "[[Seasteading]]"
-  - "[[Frontier]]"
+  - "Network State"
+  - "Seasteading"
+  - "Frontier"
   - "[[Charter Cities]]"
   - "[[Mark Lutter]]"
   - "[[Tamara Winter]]"

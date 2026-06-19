@@ -18,10 +18,10 @@ aliases:
   - "John Hoffmire"
   - "Dr. John Hoffmire"
 related:
-  - "[[Progress Through Business]]"
+  - "Progress Through Business"
   - "[[Employee Ownership]]"
-  - "[[Impact Investing]]"
-  - "[[Financial Literacy]]"
+  - "Impact Investing"
+  - "Financial Literacy"
   - "[[ESOP]]"
   - "[[Investment Banking]]"
   - "[[Private Equity]]"

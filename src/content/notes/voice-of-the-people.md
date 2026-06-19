@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/American Zion.md"
@@ -28,6 +28,14 @@ related:
   - "[[Spirit of Humility]]"
   - "[[Living Revelation]]"
   - "[[Data Over Dogma]]"
+  - "[[Democracy]]"
+  - "[[Expertise]]"
+  - "[[Misinformation]]"
+  - "[[Brigham Young]]"
+  - "[[Joseph Smith]]"
+  - "[[Mitt Romney]]"
+  - "[[Thomas Ford]]"
+  - "[[Brené Brown]]"
 ---
 
 # Voice of the People
@@ -63,4 +71,15 @@ related:
 
 - [Educated Electorate](/notes/educated-electorate) — the structural precondition that keeps "voice of the people" from collapsing into mob rule.
 - [Mob Rule](/notes/mob-rule) — the failure mode when popular will sheds restraint.
+- [Democracy](/notes/democracy) — the system whose legitimacy "voice of the people" is invoked to ground, and whose minority-rights tension the sources surface.
+- [Expertise](/notes/expertise) — the knowledge a self-governing people must "arm themselves with"; its erosion is what makes "wisdom of crowds" curdle into "the crowds are wise."
+- [Misinformation](/notes/misinformation) — the corruption of the media ecology on which the coherence of public judgment depends.
 - [Spirit of Humility](/notes/spirit-of-humility), [Data Over Dogma](/notes/data-over-dogma), [Living Revelation](/notes/living-revelation) — recurring counterweights to crowd-driven certainty across Kyle's reading.
+
+## People
+
+- [Brigham Young](/notes/brigham-young) — declared "the voice of God, shall be the voice of the people," casting democratic will as sacred warrant.
+- [Joseph Smith](/notes/joseph-smith) — whose community's expulsion is read as a majority depriving a minority of its democratic rights "in the name of democracy."
+- [Thomas Ford](/notes/thomas-ford) — the Illinois governor whose formal authority popular will overrode ("the people, not Governor Ford, ruled western Illinois").
+- [Mitt Romney](/notes/mitt-romney) — a politician who sought to lead the people with hard truths rather than follow popular sentiment.
+- [Brené Brown](/notes/bren-brown) — source for the note that group loyalty via shared belief makes dissent risky.

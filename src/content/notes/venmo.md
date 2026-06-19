@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
@@ -17,6 +17,9 @@ aliases:
 related:
   - "[[September 22nd, 2021 — API Security Transcript (Salt Security)]]"
   - "[[API Security]]"
+  - "[[Salt Security]]"
+  - "[[Payments]]"
+  - "[[Index Ventures]]"
 ---
 
 # Venmo
@@ -34,3 +37,6 @@ related:
 ## Related concepts
 
 - [API Security](/notes/api-security) — the risk category illustrated
+- [Payments](/notes/payments) — Venmo is the payments app whose API was scraped
+- [Salt Security](/notes/salt-security) — the API-security vendor that raised the Venmo case in diligence
+- [Index Ventures](/notes/index-ventures) — the firm whose sourcing/diligence call surfaced this example

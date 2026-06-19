@@ -14,7 +14,7 @@ tags:
 aliases:
   - "Flexport"
 related:
-  - "[[Ryan Petersen]]"
+  - "Ryan Petersen"
   - "[[American Dynamism]]"
   - "[[Building American Dynamism]]"
   - "[[Katherine Boyle]]"

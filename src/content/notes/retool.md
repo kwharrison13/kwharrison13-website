@@ -15,7 +15,7 @@ aliases:
   - "Retool"
 related:
   - "[[Julie Chen]]"
-  - "[[Low Code / No Code]]"
+  - "Low Code / No Code"
   - "[[Automation]]"
 ---
 

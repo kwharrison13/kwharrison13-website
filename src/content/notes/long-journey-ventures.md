@@ -15,8 +15,8 @@ aliases:
   - "Long Journey Ventures"
 related:
   - "[[Arielle Zuckerberg]]"
-  - "[[Cyan Banister]]"
-  - "[[Lee Jacobs]]"
+  - "Cyan Banister"
+  - "Lee Jacobs"
   - "[[Super Angels]]"
   - "[[Venture Capital]]"
 ---

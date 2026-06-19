@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Open-Source Knowledge - Research.md"
@@ -17,7 +17,10 @@ related:
   - "[[Open Source Knowledge]]"
   - "[[Open-Source Knowledge - Research]]"
   - "[[Catherine Yeo]]"
+  - "[[Matt Clancy]]"
   - "[[Unbundling]]"
+  - "[[Knowledge Economy]]"
+  - "[[Innovation]]"
 ---
 
 # Wikipedia
@@ -38,6 +41,10 @@ related:
 
 ## Related concepts
 
-- [Open Source Knowledge](/notes/open-source-knowledge)
-- [Unbundling](/notes/unbundling)
-- [Knowledge Economy](/notes/knowledge-economy)
+- [Open Source Knowledge](/notes/open-source-knowledge) — Wikipedia is the canonical example of the open-source-knowledge model.
+- [Unbundling](/notes/unbundling) — proposed candidate for unbundling into specialized niche "front pages."
+- [Knowledge Economy](/notes/knowledge-economy) — Wikipedia's scale (6.3mn articles vs. Britannica's ~100k) illustrates the open knowledge economy.
+- [Innovation](/notes/innovation) — evidence that Wikipedia boosts innovation: cited references got 91% more downstream citations.
+- [Matt Clancy](/notes/matt-clancy) — source for the innovation-boosting evidence, via *Free Knowledge and Innovation*.
+- [Catherine Yeo](/notes/catherine-yeo) — source for the governance and notability tensions (subjective notability, gatekept editing).
+- Open-Source Knowledge - Research — research note where Wikipedia appears as the canonical open-source-knowledge example.

@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"
@@ -18,6 +18,7 @@ related:
   - "[[September 22nd, 2021 — Adam Chekroud (Spring Health)]]"
   - "[[Spring Health]]"
   - "[[Behavioral Health]]"
+  - "[[Adam Chekroud]]"
 ---
 
 # Vertical Integration
@@ -34,5 +35,6 @@ related:
 
 ## Related concepts
 
-- [Spring Health](/notes/spring-health) — exemplar.
+- [Spring Health](/notes/spring-health) — exemplar; frames going deeper into medication, substance-abuse, and residential care as vertical integration.
 - [Behavioral Health](/notes/behavioral-health) — its market.
+- [Adam Chekroud](/notes/adam-chekroud) — Spring Health founder who articulated the "why give away that revenue?" vertical-integration thesis.
