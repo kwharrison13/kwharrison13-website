@@ -23,7 +23,7 @@ related:
 
 # The Geography of Genius
 
-**Author:** Eric Weiner
+**Author:** [Eric Weiner](/notes/eric-weiner)
 
 **Why it's on the list:** *Weiner travels through history's great creative hotspots — Athens, Hangzhou, Florence, Edinburgh, Calcutta, Vienna, Silicon Valley — to ask why genius clusters in particular places and eras rather than in particular people.*
 

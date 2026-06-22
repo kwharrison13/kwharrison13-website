@@ -6,7 +6,7 @@ rating: 4
 quake: false
 tags:
   - "technological-innovation"
-last_imported: "2026-06-19"
+last_imported: "2026-06-22"
 key_takeaways_status: "written"
 ---
 
