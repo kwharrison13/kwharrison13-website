@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Lectures on Faith"
-related: []
+related:
+  - "[[The First Principles of Faithful Pragmatism]]"
 reference_count: 1
 ---
 

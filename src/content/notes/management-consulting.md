@@ -11,8 +11,10 @@ sources:
 tags: []
 aliases:
   - "Management Consulting"
+  - "Consulting"
 related:
   - "[[Bonfire of the Consultancies]]"
+  - "[[Case Interview Formats]]"
 ---
 
 # Management Consulting
@@ -22,3 +24,4 @@ _Stub — flagged during the 2026-06-19 connection sweep as an entity referenced
 ## Where this appears
 
 - [Bonfire of the Consultancies](/notes/bonfire-of-the-consultancies)
+- Case Interview Formats — Victor Cheng's guide to the 7 case interview formats firms use to evaluate candidates
