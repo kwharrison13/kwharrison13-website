@@ -21,4 +21,4 @@ _Stub — flagged during the 2026-06-19 connection sweep as an entity referenced
 
 ## Where this appears
 
-- [Stories of Your Life and Others](/books/stories-of-your-life-and-others)
+- [Stories of Your Life and Others](/books/story-of-your-life)
