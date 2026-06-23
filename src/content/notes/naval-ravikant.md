@@ -4,11 +4,12 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-22"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
   - "https://www.navalmanack.com/"
+  - "raw/archive/clippings/Naval Ravikant- The Angel Philosopher [The Knowledge Project Ep. #18.md"
 tags:
   - "company-building"
   - "language-of-discourse"
@@ -20,6 +21,8 @@ related:
   - "[[Conviction]]"
   - "[[Conviction-Led Contrarianism]]"
   - "[[First Principles]]"
+  - "[[Naval Ravikant — The Angel Philosopher]]"
+  - "[[AngelList]]"
 ---
 
 # Naval Ravikant
