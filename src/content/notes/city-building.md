@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-19"
+updated: "2026-06-23"
 last_updated_by: "agent"
 sources:
   - "Tweet thread by @drydenwtbrown, 2020-09-23 (Bluebook Cities / charter-city origin story)"
@@ -66,6 +66,12 @@ _Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
 
 - https://soundcloud.com/user-580979201/mark-lutter-on-progress-studies-and-charter-cities — Mark Lutter on progress studies and charter cities (SoundCloud podcast). #[Progress Studies](/notes/progress-studies) #[Charter Cities](/notes/city-building) #[Mark Lutter](/notes/mark-lutter)
 
+
+## Quick Capture links — April 30th, 2020
+
+_Saved in Kyle's April 30th, 2020 Roam "Quick Capture" log._
+
+- Figure out Sidewalk Labs and all spinouts (e.g. Cityblock). — a to-do to map Alphabet's urban-innovation arm and the companies it spun out.
 
 ## Related concepts
 

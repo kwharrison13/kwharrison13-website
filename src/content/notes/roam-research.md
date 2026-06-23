@@ -11,6 +11,7 @@ sources:
 tags: []
 aliases:
   - "Roam Research"
+  - "roam-research"
 related:
   - "[[How To Read a Book]]"
   - "[[Investing 101 2.0]]"

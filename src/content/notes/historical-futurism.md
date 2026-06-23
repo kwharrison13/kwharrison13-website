@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-18"
-updated: "2026-06-19"
+updated: "2026-06-23"
 last_updated_by: "agent"
 sources:
   - "wiki/essays/Historical Futurism (Essay).md"
@@ -36,6 +36,7 @@ This is the recurring concept/thesis Kyle tags as #[Historical Futurism](/essays
 ## Captured entries
 
 - https://amp.theguardian.com/books/2019/jul/25/what-will-palestine-be-like-in-2048-writers-turn-to-sci-fi-for-the-answer — Guardian: "What will Palestine be like in 2048? Writers turn to sci-fi for the answer." Fiction as a tool for imagining a real place's future. #[Science Fiction](/notes/science-fiction)
+- https://en.m.wikipedia.org/wiki/Future_of_Humanity_Institute — Wikipedia: the Future of Humanity Institute (Oxford; Nick Bostrom's multidisciplinary center for big-picture research on humanity's long-term future). Saved in Kyle's April 30th, 2020 Roam "Quick Capture" log. #[Historical Futurism](/essays/historical-futurism)
 
 ## Related concepts
 

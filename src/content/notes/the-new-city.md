@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-23"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
@@ -89,3 +89,9 @@ _Reading-list links from Kyle's June 29th, 2021 Roam daily-note "Quick Capture" 
 - https://www.theblueground.com/
 - https://www.wsj.com/articles/co-living-buildings-going-big-in-brooklyn-and-bay-area-1539687600?utm_source=Sailthru&utm_medium=email&utm_campaign=Newsletter%20Weekly%20Roundup:%20Smart%20Cities%20Dive%2003-02-2019&utm_term=Smart%20Cities%20Dive%20Weekender
 - https://www.federalreserve.gov/publications/2017-economic-well-being-of-us-households-in-2016-banking-credit.htm?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosfutureofwork&stream=future
+
+## Quick Capture links — April 30th, 2020
+
+_Link Kyle saved to this topic in his April 30th, 2020 Roam "Quick Capture" log._
+
+- https://www.perell.com/fellowship/walt-disney-city-architect — David Perell fellowship essay on Walt Disney as a city architect (the EPCOT planned-city vision).

@@ -7,7 +7,8 @@ created: "2026-06-16"
 updated: "2026-06-16"
 last_updated_by: "agent"
 sources: []
-tags: []
+tags:
+  - "#roam-research"
 aliases:
   - "Roam Brainstorm"
 related: []

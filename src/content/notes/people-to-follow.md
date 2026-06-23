@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-18"
-updated: "2026-06-18"
+updated: "2026-06-23"
 last_updated_by: "agent"
 sources:
   - "Kyle's manual link/reading capture — June 18, 2026 (batch import from saved bookmarks)"
@@ -26,9 +26,15 @@ _Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
 
 - https://reading.supply/a/gabriels-daily-blog — Gabriel's Daily Blog on reading.supply — a writer worth following. (→ articles-to-read)
 
+## Quick Capture links — April 30th, 2020
+
+_Saved in Kyle's April 30th, 2020 Roam "Quick Capture" log._
+
+- https://thesaasplaybook.substack.com/ — The SaaS Playbook (Substack newsletter). #[Playbooks](/notes/playbooks)
+
 ## Related concepts
 
-_(none yet)_
+- [Playbooks](/notes/playbooks) — the operating-playbook collection this overlaps with.
 
 ## Where this appears
 

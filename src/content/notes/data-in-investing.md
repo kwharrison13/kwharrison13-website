@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-16"
-updated: "2026-06-18"
+updated: "2026-06-23"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Berkshire Hathaway Annual Letters.md"
@@ -34,6 +34,12 @@ _Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
 - https://techcrunch.com/2019/08/26/y-combinator-graduate-predictleads-helps-vcs-hunt-for-unicorns/amp/ — TechCrunch: YC graduate PredictLeads helps VCs hunt for unicorns.
 - https://techcrunch.com/2019/12/03/progressive-vcs-and-private-equity-are-using-tech-and-analytics-to-revolutionize-investing/ — TechCrunch: progressive VCs and PE use tech + analytics to revolutionize investing.
 
+
+## Quick Capture links — April 30th, 2020
+
+_Link Kyle saved to this topic in his April 30th, 2020 Roam "Quick Capture" log._
+
+- https://circleup.com/helio/ — CircleUp's Helio, a data platform for sourcing and evaluating consumer-brand investments.
 
 ## Where this appears
 

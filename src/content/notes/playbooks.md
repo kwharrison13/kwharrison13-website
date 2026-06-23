@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-18"
+updated: "2026-06-23"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
@@ -47,6 +47,14 @@ _Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
 
 - https://www.amazon.com/Cracking-Sales-Management-Code-Performance/dp/0071765735 — *Cracking the Sales Management Code* (Jason Jordan & Michelle Vazzana) — the metrics that actually let you manage sales performance. #[Sales](/notes/sales) #[Operational Skills](/notes/operational-skills)
 
+
+## Quick Capture links — April 30th, 2020
+
+_Links Kyle saved to this topic in his April 30th, 2020 Roam "Quick Capture" log._
+
+- https://www.nfx.com/post/fintech-enabled-marketplaces — NFX on fintech-enabled marketplaces (embedding financial services into marketplaces as a growth/monetization playbook).
+- https://thinkandgrowinc.com/startup-board-report/ — Think & Grow startup board report.
+- https://thesaasplaybook.substack.com/ — The SaaS Playbook (Substack newsletter). #[people-to-follow](/notes/people-to-follow)
 
 ## Related concepts
 

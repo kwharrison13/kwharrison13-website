@@ -73,15 +73,20 @@
     "pages": 1171,
     "amazon_url": "https://www.amazon.com/s?k=A+Pattern+Language+Christopher+Alexander",
     "where_seen": [
-      "Cited in Walt Disney and the Promise of Progress City — surfaced during the 2026-06-19 connection sweep."
+      "Cited in Walt Disney and the Promise of Progress City — surfaced during the 2026-06-19 connection sweep.",
+      "Saved in Kyle's April 30th, 2020 Roam 'Quick Capture' reading log."
     ],
     "connections": [
       {
         "title": "Walt Disney and the Promise of Progress City",
         "url": "/books/walt-disney-and-the-promise-of-progress-city"
+      },
+      {
+        "title": "The Timeless Way of Building",
+        "url": "/notes/the-timeless-way-of-building"
       }
     ],
-    "recommendations": 1,
+    "recommendations": 2,
     "tags": [
       "city-building"
     ],
@@ -1051,6 +1056,28 @@
     "slug": "on-writing-well"
   },
   {
+    "title": "One from Many",
+    "full_title": "One from Many: VISA and the Rise of Chaordic Organization",
+    "author": "Dee Hock",
+    "published": "2005",
+    "pages": 307,
+    "amazon_url": "https://www.amazon.com/s?k=One+from+Many+VISA+and+the+Rise+of+Chaordic+Organization+Dee+Hock",
+    "where_seen": [
+      "Saved in Kyle's April 30th, 2020 Roam 'Quick Capture' reading log (tagged #Visa). Same batch as the Fast Company profile 'The Trillion-Dollar Vision of Dee Hock'; Dee Hock recommended to Kyle by Tim Riser."
+    ],
+    "connections": [
+      {
+        "title": "Visa",
+        "url": "/notes/visakan-veerasamy"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "company-building"
+    ],
+    "slug": "one-from-many"
+  },
+  {
     "title": "Only the Paranoid Survive",
     "full_title": "Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company",
     "author": "Andrew S. Grove",
@@ -1148,6 +1175,24 @@
       "people-over-politics"
     ],
     "slug": "poverty-by-america"
+  },
+  {
+    "title": "Powerhouse",
+    "full_title": "Powerhouse: The Untold Story of Hollywood's Creative Artists Agency",
+    "author": "James Andrew Miller",
+    "published": "2016",
+    "pages": 707,
+    "amazon_url": "https://www.amazon.com/s?k=Powerhouse+The+Untold+Story+of+Hollywood%27s+Creative+Artists+Agency+James+Andrew+Miller",
+    "where_seen": [
+      "Saved in Kyle's April 30th, 2020 Roam 'Quick Capture' reading log."
+    ],
+    "connections": [],
+    "recommendations": 1,
+    "tags": [
+      "company-building",
+      "talent"
+    ],
+    "slug": "powerhouse"
   },
   {
     "title": "Process and Reality",
@@ -1837,6 +1882,21 @@
     "slug": "the-outsiders"
   },
   {
+    "title": "The Polymath",
+    "full_title": "The Polymath: Unlocking the Power of Human Versatility",
+    "author": "Waqas Ahmed",
+    "published": "2018",
+    "pages": 336,
+    "amazon_url": "https://www.amazon.com/s?k=The+Polymath+Unlocking+the+Power+of+Human+Versatility+Waqas+Ahmed",
+    "where_seen": [
+      "Saved in Kyle's April 30th, 2020 Roam 'Quick Capture' reading log."
+    ],
+    "connections": [],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "the-polymath"
+  },
+  {
     "title": "The Power Broker",
     "full_title": "The Power Broker: Robert Moses and the Fall of New York",
     "author": "Robert A. Caro",
@@ -2067,6 +2127,28 @@
       "historical-futurism"
     ],
     "slug": "the-three-body-problem"
+  },
+  {
+    "title": "The Timeless Way of Building",
+    "full_title": "The Timeless Way of Building",
+    "author": "Christopher Alexander",
+    "published": "1979",
+    "pages": 552,
+    "amazon_url": "https://www.amazon.com/s?k=The+Timeless+Way+of+Building+Christopher+Alexander",
+    "where_seen": [
+      "Saved in Kyle's April 30th, 2020 Roam 'Quick Capture' reading log (tagged #Remote Work #Family)."
+    ],
+    "connections": [
+      {
+        "title": "A Pattern Language",
+        "url": "/notes/a-pattern-language"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "city-building"
+    ],
+    "slug": "the-timeless-way-of-building"
   },
   {
     "title": "The Varieties of Religious Experience",
