@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Montecito File</title>
+<style>
+  @page {
+    size: Letter;
+    margin: 0.95in 0.95in 0.9in 1.05in;
+  }
+
+  :root {
+    --ink: #3a3733;        /* faded typewriter charcoal, never pure black */
+    --ink-soft: #5e5a52;
+    --paper: #ffffff;      /* plain white stock */
+    --rule: #b6b1a7;
+  }
+
+  html {
+    background-color: var(--paper);
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  body {
+    margin: 0;
+    color: var(--ink);
+    font-family: "American Typewriter", "Courier New", Courier, monospace;
+    font-size: 10.6pt;
+    line-height: 1.62;
+    text-align: left;           /* ragged right, the way a page is typed */
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* full-bleed off-white stock + a single faint grain tile, painted edge to
+     edge on every page (negative inset reaches past the @page margins) */
+  .paper {
+    position: fixed; inset: -1.2in; z-index: 0; pointer-events: none;
+    background-color: var(--paper);
+    background-image: url("noise.png");
+    background-repeat: repeat;
+    background-size: 130px 130px;
+  }
+
+  .content { position: relative; z-index: 1; }
+
+  .admin { letter-spacing: 0.02em; }
+  .stamprule {
+    font-size: 8pt; letter-spacing: 0.16em; color: var(--ink-soft); text-transform: uppercase;
+  }
+
+  /* ---- cover (a typed title page) ---- */
+  .cover { page-break-after: always; padding-top: 0.1in; }
+  .cover .topband {
+    border-top: 1.5px solid var(--ink);
+    border-bottom: 1px solid var(--ink);
+    padding: 6px 0 7px;
+    display: flex; justify-content: space-between;
+    font-size: 8pt; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft);
+  }
+  .cover h1 {
+    text-align: center;
+    font-size: 32pt;
+    line-height: 1.12;
+    letter-spacing: 0.05em;
+    margin: 1.7in 0 0.12in;
+    font-weight: bold;
+  }
+  .cover .subtitle {
+    text-align: center;
+    font-size: 11.5pt;
+    line-height: 1.55;
+    margin: 0.2in auto 0;
+    max-width: 4.7in;
+    color: var(--ink-soft);
+  }
+  .cover .subject {
+    text-align: center; margin-top: 1.9in;
+    font-size: 9pt; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-soft);
+  }
+  .cover .foot {
+    text-align: center; margin-top: 0.18in;
+    font-size: 8.6pt; letter-spacing: 0.04em; color: var(--ink-soft); font-style: italic;
+  }
+
+  /* ---- structural type ---- */
+  .part-divider { page-break-before: always; padding-top: 1.8in; text-align: center; }
+  .part-divider .pk {
+    font-size: 9pt; letter-spacing: 0.34em; color: var(--ink-soft); text-transform: uppercase;
+  }
+  .part-divider h2 {
+    font-size: 18.5pt; font-weight: bold; letter-spacing: 0.04em; text-transform: uppercase;
+    margin: 0.16in auto 0.12in; max-width: 5in; line-height: 1.22;
+  }
+  .part-divider .epi {
+    font-style: italic; font-size: 10.8pt; color: var(--ink-soft);
+    max-width: 4.2in; margin: 0.26in auto 0; line-height: 1.55; text-align: center;
+  }
+  .part-divider .epi .src { display:block; font-style: normal; font-size:7.8pt; letter-spacing:0.12em; margin-top:9px; color:var(--ink-soft);}
+
+  h3 {
+    font-size: 12pt; font-weight: bold; margin: 0.34in 0 0.06in;
+    letter-spacing: 0.02em; text-transform: uppercase;
+    border-bottom: 1px solid var(--rule); padding-bottom: 3px;
+  }
+  h3 .num { font-size: 10.5pt; color: var(--ink-soft); margin-right: 8px; letter-spacing:0.05em;}
+  h4 { font-size: 10.8pt; font-weight: bold; font-style: normal; text-decoration: underline; margin: 0.22in 0 0.04in; }
+
+  p { margin: 0 0 0.1in; }
+  p.lead { font-size: 10.8pt; }
+
+  blockquote {
+    margin: 0.16in 0.2in 0.16in 0.55in;
+    font-style: italic; color: var(--ink-soft); text-align: left;
+  }
+  blockquote .att { display:block; font-style: normal; font-size:7.8pt; letter-spacing:0.08em; margin-top:7px; color:var(--ink-soft); }
+
+  .ref { font-size: 7pt; vertical-align: super; line-height: 0; color: var(--ink-soft); letter-spacing:0; }
+
+  /* scope note, set off by plain rules rather than a tinted box */
+  .note {
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    padding: 10px 0; margin: 0.2in 0.3in; text-align: left;
+    font-size: 9.8pt; line-height: 1.5;
+  }
+  .note .hd { font-size: 8pt; letter-spacing: 0.16em; text-transform: uppercase; color: var(--ink-soft); display:block; margin-bottom: 5px; }
+
+  table.ledger { width:100%; border-collapse: collapse; margin: 0.16in 0 0.18in; font-size: 9pt; }
+  table.ledger caption { font-size:8pt; letter-spacing:0.12em; text-transform:uppercase; color:var(--ink-soft); text-align:left; margin-bottom:6px;}
+  table.ledger th, table.ledger td { border-bottom: 1px solid var(--rule); padding: 5px 6px; text-align:left; vertical-align: top; }
+  table.ledger th { font-size:7.8pt; letter-spacing:0.06em; text-transform:uppercase; border-bottom: 1.5px solid var(--ink); }
+  table.ledger td.n { font-variant-numeric: tabular-nums; white-space: nowrap; }
+
+  .pullstat { text-align:center; margin: 0.24in 0; }
+  .pullstat .big { font-size: 20pt; font-weight: bold; letter-spacing: 0.02em; display:block; }
+  .pullstat .cap { font-size:8pt; letter-spacing:0.1em; text-transform:uppercase; color:var(--ink-soft); margin-top: 4px; display:block; }
+
+  hr.thin { border:0; border-top:1px solid var(--rule); margin: 0.24in 0; }
+
+  /* sources */
+  .sources { page-break-before: always; }
+  .sources ol { font-size: 8.8pt; line-height:1.45; padding-left: 0.3in; }
+  .sources li { margin-bottom: 6px; }
+  .sources .grp { font-size:8.4pt; letter-spacing:0.14em; text-transform:uppercase; color:var(--ink-soft); margin: 0.22in 0 0.08in; border-bottom:1px solid var(--rule); padding-bottom:3px;}
+  .mono { font-family: inherit; }
+  .center { text-align:center; }
+  .small { font-size: 8.8pt; }
+</style>
+</head>
+<body>
+
+<div class="paper"></div>
+
+<div class="content">
+
+<!-- ============================== COVER ============================== -->
+<section class="cover">
+  <h1>THE<br>MONTECITO<br>FILE</h1>
+
+  <div class="subtitle">On Reece Duca, the Investment Group of Santa Barbara,<br>and the discipline of owning almost nothing</div>
+
+  <div class="subject">Subject: Duca, Maurice J. (&ldquo;Reece&rdquo;)</div>
+</section>
+
+<!-- ============================== PREAMBLE ============================== -->
+<section style="page-break-after: always;">
+  <p class="lead dropcap">There is a kind of fortune that wants to be seen, and a kind that is built specifically so that it will not be. This file concerns the second kind. The man at its center has given exactly one long interview in more than fifty years of investing, and gave that one only because a former partner asked him to, on a stage, in front of a room that had been told in advance not to record the parts that mattered. He has never managed a dollar that was not his own. He has never charged a fee. He has, by his own telling and the corroboration of those who worked beside him, turned seventy-five thousand dollars into a fortune measured in billions, and he has done it while making it nearly impossible for an outsider to confirm that he did.</p>
+
+  <p>That difficulty is the point of him, and it is the reason this file exists. What follows was assembled the only way a subject like this can be assembled: from the thin public record he was legally obliged to leave, from the handful of people who trained under him and later spoke, and from the one interview. Where the legend and the filings agree, this document says so. Where the legend outruns what can be proven, it says that too. A few of the most repeated claims about the man turn out to be wrong, or at least unprovable, and they are corrected here rather than flattered.</p>
+
+  <p>The compiler of this file holds no position in any company named in it, took no payment to produce it, and has never met the subject. The subject did not participate and, in all likelihood, would prefer that you were not reading this. Treat the whole thing the way he treats a company he is about to buy: assume nothing on faith, check the number against a second source, and do not confuse a good story for a settled fact.</p>
+
+  <div class="note">
+    <span class="hd">Scope</span>
+    This is not a recommendation to buy or sell anything. It is an argument about why a firm almost no one has heard of may hold one of the great long-run records in American investing, what method produced it, and what that method cost and risked.
+  </div>
+
+  <div class="center stamprule" style="margin-top:0.4in;">CONTENTS</div>
+  <table class="ledger" style="margin-top:0.08in;">
+    <tr><td class="mono">I.</td><td>The rarity problem &mdash; why almost no one compounds</td></tr>
+    <tr><td class="mono">II.</td><td>The apprenticeship &mdash; a butcher shop, a professor, and ten thousand pages of S&#8211;1s</td></tr>
+    <tr><td class="mono">III.</td><td>The method &mdash; concentration, permanent capital, and &ldquo;fanatically reliant&rdquo;</td></tr>
+    <tr><td class="mono">IV.</td><td>The record &mdash; four decades of companies, and what the filings actually show</td></tr>
+    <tr><td class="mono">V.</td><td>The progeny &mdash; the family tree that grew out of one small office</td></tr>
+    <tr><td class="mono">VI.</td><td>The Buffett question &mdash; what can be proven, what cannot, and what is at stake</td></tr>
+    <tr><td class="mono">&mdash;</td><td>File sources, numbered and dated</td></tr>
+  </table>
+</section>
+
+<!-- ============================== PART I ============================== -->
+<section class="part-divider">
+  <div class="pk">Part I</div>
+  <h2>The Rarity Problem</h2>
+  <div class="epi">&ldquo;Most companies aren&rsquo;t exceptional. There&rsquo;s only a tiny number of exceptional companies.&rdquo;
+  <span class="src">REECE DUCA, IN CONVERSATION WITH BOB CASEY, 2023</span></div>
+</section>
+
+<p class="dropcap">Start with the arithmetic that the subject of this file keeps returning to, because everything he built is a response to it. In 2017 a finance professor then at Arizona State University, Hendrik Bessembinder, published a study with a deceptively plain title, <em>Do Stocks Outperform Treasury Bills?</em> He had taken every common stock listed in the United States from 1926 through 2016, roughly twenty-six thousand companies across ninety years, and asked a simple question of each: across its entire life as a public company, did owning it beat owning a short-term government bond? The answer, for the overwhelming majority, was no. More than half of those twenty-six thousand stocks delivered a lifetime return below that of one-month Treasury bills. The entire net wealth created by the U.S. stock market above T-bills over those ninety years, trillions of dollars, traced to fewer than four percent of the companies. The other ninety-six percent, in aggregate, were a wash or worse.</p>
+
+<p>Reece Duca tells this study in his own rounding. In the one interview, he put it as twenty-six thousand companies of which only about a thousand produced returns above the risk-free rate, and the rest, in his words, returned &ldquo;T-bill returns or less.&rdquo; He gets the professor&rsquo;s name and university slightly off and compresses the finding into a number he can hold in his head. The gloss matters more than the precision, because it is the foundation of his entire practice. If almost all of the wealth a market ever creates comes from a vanishingly small set of companies, then the central problem of investing is not diversification and it is not timing. It is identification. The job is to find the few, and then to own enough of them, for long enough, that finding them actually changes your life.</p>
+
+<p>This is a claim about the world, and it is falsifiable. If returns were broadly distributed across thousands of merely good businesses, then the sensible response would be to own many of them and rebalance, which is more or less what the professional money-management industry was built to do. Duca read the distribution the other way. He concluded that the rational response to extreme rarity is extreme concentration, and he organized fifty years around that conclusion. The rest of this file is, in a sense, a test of whether he was right, conducted on the only evidence a secretive private firm leaves behind.</p>
+
+<h3><span class="num">1.1</span>Why the record is hard to see</h3>
+
+<p>The firm is called the Investment Group of Santa Barbara. In the filings it appears as a constellation of small limited-liability companies with names like IGSB Cardinal I, IGSB Gaucho Fund I, and IGSB Cardinal Core BV, each one a vehicle through which the same handful of people hold the same handful of companies. It manages no outside money. It has no limited partners to report to, no fund to market, no track record to publish, and therefore no audited return that anyone outside the partnership has ever seen. When people say IGSB &ldquo;outperformed Buffett,&rdquo; a claim that has been printed more than once, they are repeating a sentence that no source has ever attached a number to. That gap, between a confident headline and an absent figure, runs through everything written about the man, and an honest file has to sit inside it rather than paper over it.</p>
+
+<p>What can be checked is narrow but real. Because IGSB has at times held more than five percent of a public company, or placed its principals on public boards, the federal securities laws forced it onto the record in spite of itself. A small number of Schedule 13D filings, a longer trail of insider Forms 4 and 144, two old beneficial-ownership disclosures from the early 2000s, and a scattering of named appearances in other companies&rsquo; prospectuses: that is the entire verifiable surface of a fifty-year career. This file builds its spine on that surface, and treats the legend as testimony to be weighed against it.</p>
+
+<div class="note">
+  <span class="hd">A clarification the headlines skip</span>
+  IGSB files no Form 13F. The quarterly institutional-holdings report that lets the public reconstruct a fund&rsquo;s book does not apply to it, because it is a private investment vehicle rather than a registered institutional manager. Anyone who claims to have seen &ldquo;IGSB&rsquo;s 13F holdings&rdquo; has confused it with an unrelated firm of a similar name. The genuine record is the beneficial-ownership and insider trail, and it is thinner and stranger than a 13F would be.
+</div>
+
+<!-- ============================== PART II ============================== -->
+<section class="part-divider">
+  <div class="pk">Part II</div>
+  <h2>The Apprenticeship</h2>
+  <div class="epi">&ldquo;He was an extraordinary investor masquerading for about ten years of his career as an economics professor.&rdquo;
+  <span class="src">DUCA, ON HIS MENTOR HERB KAY</span></div>
+</section>
+
+<p class="lead dropcap">He was born Maurice J. Duca, and the name on every legal document he has ever signed is still Maurice. The other name, the one the world uses, came from childhood: friends shortened Maurice to &ldquo;Rice,&rdquo; which they pronounced &ldquo;Reece,&rdquo; and it stuck. Keep both in mind, because the split between them is useful. &ldquo;Reece Duca&rdquo; is the figure in the investing letters and the podcast. &ldquo;Maurice J. Duca&rdquo; is the man in the SEC archive, holding 6.7 million shares of a software company in a web of family trusts. They are the same person, and the distance between the two is roughly the distance this file is trying to close.</p>
+
+<p>He grew up in Palo Alto, within a few miles of Shockley Semiconductor, though the proximity to the birthplace of Silicon Valley seems to have meant nothing to him at the time. Two facts from his youth recur in every telling because he himself keeps offering them. The first is money: he finished high school with two thousand dollars, saved out of a job in a butcher shop. He did not buy a business or inherit a stake. He saved wages, dollar by dollar, and that two thousand is the true cost basis of everything that followed.</p>
+
+<p>The second fact is loss. His father became sick when Duca was thirteen and died when he was fourteen, and Duca has been explicit about what the six months between the diagnosis and the death did to him.</p>
+
+<blockquote>During the six months from when he was diagnosed to when he passed away, what you realize is, none of us really know what&rsquo;s going to happen next year.
+<span class="att">DUCA, 2023</span></blockquote>
+
+<p>It is tempting to over-read a line like that, and the voice of the legend tends to. What can be said plainly is that the man who built the most patient, multi-decade holding strategy imaginable came to it having learned early that time is not guaranteed. He has framed his own success less around money than around two questions he says he asks each morning, &ldquo;Am I learning? Am I having fun?&rdquo;, and the corollary he draws from them: &ldquo;The IRR will take care of itself. Because if you&rsquo;re learning and having fun, you&rsquo;re gonna have an IRR.&rdquo; A man who watched a year disappear at fourteen has reason to organize a life around enjoying the work rather than waiting for the payoff.</p>
+
+<h3><span class="num">2.1</span>The professor who taught him to read an S&#8211;1</h3>
+
+<p>He applied to one university, the University of California at Santa Barbara, and it turned out to be the only school he applied to. He intended to study engineering. Then he took an economics class taught by a professor named Herbert Kay, and the trajectory of his life bent around that one man. Kay had earned a doctorate at Stanford, and the subject of his dissertation was, in Duca&rsquo;s recollection, the business models of companies that had started during the Depression and then survived and thrived through the Depression, the Second World War, and the consumer boom of the 1950s. Kay was, in Duca&rsquo;s telling, not really an academic at all. He was a working investor who happened to be teaching, a man who would leave the university in the 1960s and build a fortune of his own.</p>
+
+<p>Kay watched Duca in class, decided he was the rare student who actually did the reading and asked the right questions, and offered him a job that became an apprenticeship. For three and a half years Duca served as Kay&rsquo;s research assistant, his reader, his grader, and his personal investment researcher. The most important part of the work, by Duca&rsquo;s account, was a recurring exercise built around the registration statement a company files before going public, the S&#8211;1.</p>
+
+<blockquote>Every two weeks or so, he&rsquo;d give me two or three S&#8211;1s. And he&rsquo;d tell me, look at the following three things. Read it from cover to cover and come back with the right question. We&rsquo;re gonna get on the phone with the investment banker, we&rsquo;re gonna get on the phone with the CEO, we&rsquo;re going to talk to a couple of customers.
+<span class="att">DUCA, ON THE KAY METHOD</span></blockquote>
+
+<p>Read the whole document. Form the one question that matters. Then call the banker, call the chief executive, and call the customers, and find out whether the business does what the paper says it does. That sequence, learned in a dorm room in Santa Barbara in the early 1960s, is the entire research method of the Investment Group of Santa Barbara, and it never fundamentally changed. Decades later, when Duca wanted to explain why he had backed a company before it had revenue, he would describe the founders&rsquo; &ldquo;fanaticism about talking to customers,&rdquo; which is to say he was looking for people who already did, by instinct, what Herb Kay had drilled into him by assignment.</p>
+
+<div class="note">
+  <span class="hd">A loop worth noticing</span>
+  Kay&rsquo;s influence reaches further than Duca. After Kay died, the University of California at Santa Barbara established a memorial lecture in his name. In 2003, the speaker the university chose to deliver the Herb Kay Memorial Lecture was Charlie Munger, whose talk that day, &ldquo;Academic Economics: Strengths and Weaknesses,&rdquo; became one of the most circulated speeches in the value-investing canon. The professor who taught Duca to read an S&#8211;1 is the same professor whose memory drew Munger to a podium. The lineage is not a coincidence anyone planned. It is simply how small and self-referential this world turns out to be.
+</div>
+
+<h3><span class="num">2.2</span>Seventy-five thousand dollars</h3>
+
+<p>The capital compounded the entire way through his education, and Duca recites the milestones like a rosary, the same figures in the same order every time he is asked. The two thousand dollars from the butcher shop grew, over the three and a half years under Kay, to seven thousand by the time he left UCSB. He went on to the Stanford Graduate School of Business, and while there he ran the Kay method on live companies: he drew a circle of about fifty miles around Stanford, the distance he could drive in an hour, and began contacting the chief executives of the companies inside it, visiting them, and investing alongside what he learned. By the time he graduated, around 1968, the seven thousand had become seventy-five thousand. That seventy-five thousand was, in his phrase, the seed corn. He did not raise a fund. He took his own money, named the vehicle the Montecito Fund, and started.</p>
+
+<table class="ledger">
+  <caption>The compounding ladder, by the subject&rsquo;s own account</caption>
+  <tr><th>Stage</th><th>Capital</th><th>Source / note</th></tr>
+  <tr><td>End of high school</td><td class="n">$2,000</td><td>Saved from a butcher-shop job</td></tr>
+  <tr><td>Leaving UCSB (~1966)</td><td class="n">$7,000</td><td>After 3.5 years under Herb Kay</td></tr>
+  <tr><td>Leaving Stanford GSB (~1968)</td><td class="n">$75,000</td><td>Seed capital for the Montecito Fund</td></tr>
+  <tr><td>First five years</td><td class="n">~$2 million</td><td>Self-reported</td></tr>
+  <tr><td>Next five years</td><td class="n">~$7 million</td><td>Self-reported</td></tr>
+  <tr><td>Five decades on</td><td class="n">&ldquo;multiple billions&rdquo;</td><td>Est. net worth ~$1.5B by 2024, unverified</td></tr>
+</table>
+
+<p>Three cautions belong on that ladder, and the legend usually omits all three. First, every figure on it is self-reported, offered by Duca in a single 2023 conversation and repeated by writers who took it from him. Second, the early growth is extraordinary precisely because the base was tiny: turning seventy-five thousand into seven million over a first decade implies something close to a fifty-seven percent annual return, a rate that is plausible on a small, nimble, concentrated book and almost meaningless as a guide to what a multi-billion-dollar fortune compounded at later. Third, the firm itself has two birthdays. Secondary accounts date its founding to 1968; Duca, speaking in 2023, said he had been at it &ldquo;fifty-four years,&rdquo; which points to 1969, and the formal limited-liability entity now called the Investment Group of Santa Barbara was not registered until 2005. The Montecito Fund came first; IGSB is the legal skin it eventually wore. None of this undoes the achievement. It simply means the achievement is narrated, not audited, and the narration is the man&rsquo;s own.</p>
+
+<!-- ============================== PART III ============================== -->
+<section class="part-divider">
+  <div class="pk">Part III</div>
+  <h2>The Method</h2>
+  <div class="epi">&ldquo;Risk comes from not knowing your companies. We could de-risk it by knowing our companies better than anyone else.&rdquo;
+  <span class="src">DUCA, 2023</span></div>
+</section>
+
+<p class="lead dropcap">The method has four moving parts, and each one is a deliberate inversion of how the professional money business is normally run. Take them in turn, because the power of the thing is in how they reinforce one another, and because the verifiable record in Part IV is really just these four principles leaving fingerprints on the public filings.</p>
+
+<h3><span class="num">3.1</span>Concentration</h3>
+
+<p>Duca and his long-time partner ran a book in which, by his account, seventy to eighty percent of the firm&rsquo;s assets sat in just two, three, or four companies at a time. A conventional venture portfolio holds twenty or thirty names on the theory that one or two will carry the rest. A conventional mutual fund holds many more. Duca treated that breadth as the enemy, not the safeguard. His reasoning followed directly from the rarity problem: if exceptional companies are nearly as scarce as Bessembinder&rsquo;s numbers suggest, then a portfolio of thirty names is a portfolio that has, by simple arithmetic, diluted its few real winners with a crowd of also-rans. &ldquo;It became obvious to us,&rdquo; he has said, &ldquo;that concentration was the key to returns.&rdquo;</p>
+
+<p>The redefinition of risk that goes with it is the load-bearing idea in his whole philosophy. To the rest of the industry, concentration <em>is</em> risk, by definition. To Duca, risk is something else entirely: &ldquo;Risk comes from not knowing your companies.&rdquo; A position is dangerous in proportion to your ignorance of it, not in proportion to its weight in the book. The remedy is not to own less of a thing; it is to know it so thoroughly that you have removed the part of the danger that is removable. &ldquo;We could de-risk it,&rdquo; he said, &ldquo;by knowing our companies better than anyone else knew them.&rdquo; Concentration and deep research are not two principles. They are one principle, viewed from two sides.</p>
+
+<h3><span class="num">3.2</span>Permanent capital, and the refusal of outside money</h3>
+
+<p>None of the concentration is possible without the second principle, which is the refusal of outside money. IGSB has never had a limited partner. In Duca&rsquo;s flat formulation, &ldquo;We&rsquo;ve never had one additional cent of money other than that original seventy-five thousand dollars,&rdquo; and &ldquo;we&rsquo;ve never managed anyone else&rsquo;s assets other than our own.&rdquo; He has been explicit that the two principles are linked, that he could not have run the concentration with outside investors, because almost no investor will tolerate having seventy percent of his money in three names through a bad year.</p>
+
+<p>The structure has quiet consequences that compound as surely as the capital does. With no outside investors there are no quarterly calls, no redemptions to fund in a panic, no benchmark to hug, and no management fee skimming off the top. The firm pays its own expenses and, unusually, pays its taxes out of investment proceeds rather than out of a fee stream, which Duca notes &ldquo;most people in investing businesses don&rsquo;t do.&rdquo; It has been debt-free since the late 1970s. The whole apparatus exists to buy one thing that almost no professional investor can buy: the freedom to do nothing for twenty years while a great company compounds. Duca&rsquo;s own description of the later holding periods is that the firm migrated from roughly ten-year holds toward decade-plus ones, on the view that, in his words, &ldquo;year eleven to twenty, we can create five to seven times the value.&rdquo;</p>
+
+<h3><span class="num">3.3</span>&ldquo;Fanatically reliant&rdquo;</h3>
+
+<p>The third principle is the filter, the test a company has to pass before it is worth concentrating into. Duca looks for businesses on which the customer is, in his recurring phrase, &ldquo;fanatically reliant.&rdquo; It is the through-line of his entire vocabulary, and he draws it in two registers.</p>
+
+<blockquote>Your customers are fanatically reliant on what you deliver to them. If it&rsquo;s a consumer product, it&rsquo;s somebody is hooked on Coke, and they&rsquo;re gonna drink Coke come hell or high water. If it&rsquo;s a business product, it gets locked into the workflow of the business, it&rsquo;s something that your customers are ecstatic about.
+<span class="att">DUCA, 2023</span></blockquote>
+
+<p>This is why the firm drifted, over its second and third decades, away from the everything-goes generalism of its early years and toward business-to-business software, then toward software sold into a single vertical industry. A piece of software wired into the daily workflow of a business, the system a property manager or a law firm or a treasury team cannot turn off without the lights going out, is the purest available instance of fanatical reliance. It produces recurring revenue, high switching costs, and the kind of durability that justifies a twenty-year hold. The filter explains the portfolio. When you reach the verifiable record in Part IV, nearly every name that survived into the modern era is a vertical-software company whose customers could not easily leave.</p>
+
+<h3><span class="num">3.4</span>Simplicity, and the &ldquo;learner cap&rdquo;</h3>
+
+<p>The fourth principle is temperamental, and Duca states it as a near-absolute. &ldquo;Complexity is the biggest barrier to high performance in the investment business,&rdquo; he has said. &ldquo;Keep everything absolutely as simple as you possibly can.&rdquo; The firm never built a research department of junior analysts feeding models up to portfolio managers. Duca regarded that pyramid as exactly the kind of complexity that destroys performance. Instead, IGSB hired rarely and selected for character and judgment, and then did something that became the engine of its whole afterlife: it handed each new person a bucket of real money to manage on their own, an apprenticeship Duca calls a &ldquo;learner cap.&rdquo;</p>
+
+<blockquote>We never brought anyone in as an analyst. We&rsquo;d give them a bucket of money, their learner cap. It didn&rsquo;t matter if they made money or not. What was important is committing them to make their own decisions.
+<span class="att">DUCA, ON HOW IGSB TRAINED ITS PEOPLE</span></blockquote>
+
+<p>The point was not to extract research from young people. It was to make investors of them, by forcing them to own decisions with consequences from the first year. And it ran on nothing but trust. The partnership, Duca says, operated for fifty years on handshakes, with no formal contracts among the partners, and in all that time, across every private deal and public position, &ldquo;we&rsquo;ve never had a lawsuit.&rdquo; Hold that learner-cap idea in mind. In Part V it stops being a charming detail about culture and becomes the explanation for why a tiny office in Santa Barbara seeded one of the largest crossover funds in the world.</p>
+
+<!-- ============================== PART IV ============================== -->
+<section class="part-divider">
+  <div class="pk">Part IV</div>
+  <h2>The Record</h2>
+  <div class="epi">What a man will not tell you about himself, the securities laws sometimes will.
+  <span class="src">A WORKING PRINCIPLE OF THIS FILE</span></div>
+</section>
+
+<p class="lead dropcap">Now the legend meets the archive. This part walks the actual portfolio in roughly the order Duca built it, from the educational-software companies of the 1980s and 1990s through the two modern monuments, AppFolio and Tegus, and it pauses wherever a public filing lets us replace a story with a document. The pattern that emerges is consistent: where the record can be checked, the method checks out, even as several of the most-repeated specific claims about the man turn out to be exaggerations or simple errors.</p>
+
+<h3><span class="num">4.1</span>The Learning Company, and a name that outlived the win</h3>
+
+<p>The original Learning Company was founded in Palo Alto in 1980 by a group that included the educator Ann McCormick and the former Atari programmer Warren Robinett, and it made the educational software that a certain generation remembers by the name of its mascot, Reader Rabbit. Duca and IGSB came in during the mid-1980s. He joined the board around 1985 and was elected chairman in late 1986, at which point IGSB became the company&rsquo;s largest shareholder. The decade that followed is the cleanest illustration in the whole record of the &ldquo;business builder&rdquo; self-description: revenue grew from $2.4 million in 1985 to $53.2 million in 1995, a compound annual rate of about thirty-six percent, while pre-tax margins moved from roughly breakeven to about twenty percent, and the company strung together sixteen consecutive quarters of revenue and profit growth on its way to a 1992 public offering. (The $2.4-million-to-$53.2-million figures trace to IGSB-aligned material rather than to a primary filing, and should be read as the firm&rsquo;s own accounting of its own work.)</p>
+
+<p>Then the name went somewhere the win did not follow, and the distinction is one the legend tends to blur. In 1995, a Toronto company called SoftKey, run by Michael Perik and the man television would later make famous as a venture-capital villain, Kevin O&rsquo;Leary, won a takeover battle for the original Learning Company with a cash tender offer of roughly $606 million, and then adopted the Learning Company name for itself. That takeover was the exit. What happened to the <em>name</em> afterward is one of the most expensive corporate disasters of the era: the SoftKey-built entity, now called The Learning Company, was acquired by Mattel in a stock deal announced in December 1998 at roughly $3.8 billion, the unit immediately began hemorrhaging money, Mattel lost a reported amount on the order of a million and a half dollars a day on it, its chief executive resigned under the weight of the fiasco in February 2000, and Mattel effectively gave the business away to a private buyer that April for a reported $27.3 million plus a share of future profits. The cautionary tale is real, but it is a cautionary tale about Mattel, not about Santa Barbara. IGSB built and sold the original. The crater belongs to the people who bought the brand after Duca was gone.</p>
+
+<h3><span class="num">4.2</span>Advent Software, and a chairmanship that was not</h3>
+
+<p>Advent Software, a maker of portfolio-accounting software for investment firms, was founded in San Francisco in 1983 by Stephanie DiMarco, and it is the company that most cleanly disproves a claim repeated in nearly every profile of Duca: that he was its chairman. He was not. The primary proxy filings show Advent&rsquo;s chair was DiMarco herself from the 1995 public offering until late 2003, and then John Scully. Duca appears in those same filings as a director, not a chairman, sitting on the audit and compensation committees, and his tie to the company predates the public offering by years: there is a common-stock option agreement dated September 15, 1989, and IGSB&rsquo;s Investment Partnership I held pre-IPO registration rights.</p>
+
+<p>The ownership trail is unusually legible here, because Duca&rsquo;s personal beneficial-ownership filings on Advent are the oldest of his that survive in the electronic archive, a run of Schedule 13G amendments from 1996 through 1999. Advent went public on November 15, 1995, at $18.00 a share. The proxies then show IGSB&rsquo;s position declining as a percentage as the company grew, from 10.4 percent (some 773,177 shares) in 1997 to 7.6 percent in 1998 to 5.2 percent in 1999, after which it dropped below the five-percent line that triggers disclosure. Two decades later, in February 2015, SS&C Technologies agreed to buy Advent for $44.25 a share, an enterprise value of about $2.7 billion, in an all-cash deal that closed that July. No filing quantifies IGSB&rsquo;s realized gain, but a position assembled around a late-1980s cost basis against an $18 offering and a $44.25 takeout was, by any reading, a large multiple held across a very long time. The correction stands regardless: founding-stage investor and director, yes; chairman, no.</p>
+
+<div class="note">
+  <span class="hd">On the &ldquo;chairman&rdquo; errors generally</span>
+  Duca genuinely chaired The Learning Company and genuinely co-founded and chaired GlobalEnglish. He did not chair Advent, and he did not chair AppFolio. The repeated misattribution of those two chairmanships is the most common factual error in the secondary literature, and it almost certainly arises from writers reasoning backward from his real chairmanships to the assumption that a large, long-term owner must have sat at the head of every table. The filings say otherwise, and the filings win.
+</div>
+
+<h3><span class="num">4.3</span>GlobalEnglish, the one IGSB built from nothing</h3>
+
+<p>GlobalEnglish, founded in California in 1997, is the clearest case of IGSB acting as a literal company-builder rather than an investor. Duca co-founded it and served as its chairman from 1997 until July 2012, and the business was a near-perfect expression of the &ldquo;fanatically reliant&rdquo; filter applied to a global market: cloud-based business-English instruction sold to large corporations whose employees needed it to do their jobs. By the time of its sale it served more than 450 corporate customers, including about twenty percent of the Forbes Global 2000, names like GE, HSBC, and Unilever, with more than two hundred thousand active subscribers and roughly $42 million in 2011 revenue across a workforce spread through more than twenty countries. Pearson acquired it in a deal announced in May 2012 for $90 million in cash. It is a smaller outcome than the software monuments that came later, but it is the proof of concept for everything they would do: find a workflow a customer cannot abandon, build the company that owns it, and hold it for fifteen years.</p>
+
+<h3><span class="num">4.4</span>AppFolio: the monument, and the only fully public position</h3>
+
+<p>If there is one company through which an outsider can actually watch the method work in real time, on the record, in dollars, it is AppFolio. It is worth slowing down here, because this is where the legend becomes a filing.</p>
+
+<p>AppFolio was founded in 2006 in Goleta, just up the coast from Santa Barbara, by Klaus Schauser and Jon Walker. Schauser was a computer-science professor at UCSB who had already built and sold one company: Expertcity, founded in 1997, which created the remote-access products GoToMyPC and GoToMeeting and was acquired by Citrix in 2003 for about $225 million. IGSB seeded and helped build AppFolio from its earliest days, and its fingerprints were on the governance long before the public ever saw the company: the IGSB partner Tim Bliss sat on AppFolio&rsquo;s board from 2008, seven years before it listed. The product was vertical software in its textbook form, a system of record for property managers, later extended into the high-margin payments, screening, and insurance services that turn a software subscription into something closer to a toll on every transaction the customer runs.</p>
+
+<p>AppFolio went public on June 26, 2015, priced at $12.00 a share, the low end of its range, raising on the order of $74 million and popping about seventeen percent on its first day to value the company near $455 million. At the offering, IGSB owned roughly a third of the company and did something almost no early backer does: rather than selling into the IPO, it anchored the deal, committing to buy a large block of the offering itself. The structure entrenched that control. AppFolio listed with two classes of stock, and the shares IGSB held carried ten votes each, which is the mechanism by which a single private investor would go on to hold not just an economic stake but de facto voting control of a public company for a decade.</p>
+
+<p>The Schedule 13D trail is the single most valuable document in this entire file, because it lets us watch the position with precision the rest of the record never allows.</p>
+
+<table class="ledger">
+  <caption>AppFolio (APPF) &mdash; the beneficial-ownership trail, from SEC filings</caption>
+  <tr><th>Filed</th><th>Filer</th><th>Shares (Class A)</th><th>% Class A</th><th>Voting power</th></tr>
+  <tr><td class="n">Jul 7, 2015</td><td>IGSB group (IVP&nbsp;II + funds + Bliss, Duca, Rauth)</td><td class="n">1,809,862<span class="small"> (as-conv.)</span></td><td class="n">22.6%</td><td class="n">&mdash;</td></tr>
+  <tr><td class="n">Nov 10, 2022</td><td>Maurice J. Duca, individually</td><td class="n">6,830,974</td><td class="n">25.3%</td><td class="n">39.1%</td></tr>
+  <tr><td class="n">Jul 19, 2024</td><td>Maurice J. Duca, individually</td><td class="n">6,726,250</td><td class="n">23.4%</td><td class="n">40.3%</td></tr>
+</table>
+
+<p>Read what that table records. By November 2022, Maurice J. Duca personally beneficially owned 6,830,974 Class A shares, a quarter of the public float and, through the supervoting structure, 39.1 percent of the company&rsquo;s entire voting power. The same filing discloses the plumbing: the shares are held across a deliberately fragmented set of vehicles and trusts, IGSB Cardinal I, IGSB Gaucho Fund I, IGSB Cardinal Core BV and MX, a pension trust holding more than two and a half million supervoting Class B shares, the Maurice J. Duca Family Trust, a private foundation, a charitable remainder trust, and a scattering of IRAs. The filing also states the cost: the shares were purchased for approximately $72.6 million, with no borrowings. By the July 2024 amendment the position had barely moved, 6,726,250 shares, 23.4 percent of the class, and now 40.3 percent of the vote. A decade after the IPO, the seed investor still controlled the company.</p>
+
+<div class="pullstat">
+  <span class="big">~$72.6M&nbsp;&rarr;&nbsp;~$1&ndash;2B</span>
+  <span class="cap">Disclosed cost of the AppFolio stake vs. its market value across 2024&ndash;2026</span>
+</div>
+
+<p>Put a price on it. At AppFolio&rsquo;s 2024 and 2025 highs, with the stock trading between roughly $200 and $325, those 6.7 million shares were worth well above $1.5 billion, and at moments north of $2 billion, against a disclosed cost near $72.6 million. Even after a drawdown of roughly a third by mid-2026, with the stock near $143 and the whole company valued around $5 billion, the position was still worth on the order of $950 million to a billion dollars. The writers who cite a &ldquo;thirty-one percent internal rate of return since the 2015 IPO&rdquo; for the AppFolio position are pointing at something the filings make entirely plausible, though the IRR figure itself comes from the investing letters, not from any AppFolio or IGSB disclosure.</p>
+
+<p>And here is where the philosophy becomes visible in the trading record, which is the part an outsider almost never gets to see. Beginning in mid-2024, under pre-arranged trading plans dated March and December of that year, Duca started selling, and the SEC&rsquo;s insider forms let us total it exactly: across 2024 and 2025 he sold 174,976 shares for roughly $45.6 million, at prices ranging from about $227 to $325. That is real money. It is also, against a block of 6.7 million shares, a trim of under three percent. After a decade and a billion dollars of appreciation, the man sold a sliver and kept the position. The trading record is the philosophy, rendered in share counts: do not sell a great compounder merely to realize a gain, pay the tax, and face the problem of redeploying the cash. The 13D is the thesis. The Form 4s are the discipline.</p>
+
+<h3><span class="num">4.5</span>Tegus: the method, turned into a product</h3>
+
+<p>The second modern monument is the most self-referential investment in the whole file, because the company IGSB seeded was, in effect, a machine for doing what Herb Kay had taught Duca to do by hand. Tegus was founded around 2017 in Chicago by twin brothers, Michael and Thomas Elnick. Their backgrounds were the two halves of the expert-research world: Michael had been an early employee at the expert network AlphaSights, and Thomas had worked at a value-oriented hedge fund, a buyer of exactly the expensive expert calls his brother&rsquo;s former industry sold. Their insight was that the incumbent model, charging investors a thousand dollars or more per one-off call with an industry expert, was selling commoditized information at a luxury price. Tegus would instead record those calls, transcribe them, and sell access to the searchable library at something closer to cost, a deliberate counter-positioning that the incumbents could not copy without destroying their own margins.</p>
+
+<p>IGSB led the company&rsquo;s first institutional round in 2017, a roughly $1.5 million investment at about a $4.5 million valuation, reportedly the firm&rsquo;s only new investment that year. The human bridge was a former IGSB operating partner, Bob Casey, who joined the Tegus board and then became its chief financial officer. Duca&rsquo;s stated reason for backing a company with, in his words, &ldquo;barely any customers and no real revenue&rdquo; was that the Elnicks shared his &ldquo;fanaticism about talking to customers,&rdquo; which is the purest possible statement of the Kay method recognizing itself in a new generation. The valuation climbed fast: a $90 million round in November 2021 valued Tegus at roughly $3 billion, with the notable detail that every investor in it was already a Tegus customer. One outside estimate put IGSB&rsquo;s original $1.5 million stake at something near a billion dollars on paper by late 2021.</p>
+
+<p>In June 2024, the larger rival AlphaSense agreed to acquire Tegus for $930 million, a deal that closed that July, alongside a $650 million raise that valued the combined company at $4 billion. The sale price sat below the 2021 paper mark, the same valuation reset that hit every late-stage software company in those years, which is why the most-repeated number about this investment deserves a flag. The claim that Tegus was a &ldquo;two-hundred-bagger&rdquo; for IGSB appears in the secondary literature, but it is a private, unaudited figure that does not appear in the live text of the article most often cited for it, and the realized exit multiple on a $930 million sale depends entirely on IGSB&rsquo;s undisclosed ownership at close. The honest version is narrower and still remarkable: a sub-two-million-dollar seed check into a company built to institutionalize the firm&rsquo;s own research method, exited inside seven years at a price that almost certainly returned the firm tens to hundreds of millions of dollars.</p>
+
+<h3><span class="num">4.6</span>The wider roster, and two old filings nobody cites</h3>
+
+<p>Around those anchors sits a longer list, of varying documentation. The public-equity names that recur in Duca&rsquo;s own tellings, FedEx, Williams-Sonoma, Autodesk, MercadoLibre, Toys &ldquo;R&rdquo; Us, are partly attributable to his partner Tim Bliss, described by one former colleague as &ldquo;an avid student of Buffett&rsquo;s,&rdquo; and several of them appear in roster lists without independent confirmation of size or timing. The later private and growth-stage names are better documented: a 2021 Series H in Roblox co-led with Dragoneer; a 2021 round in the finance-software company OneStream that preceded its 2024 public offering; primary backing of the online-training company Mindflash; an early position in the marketing-analytics company Bizible, later sold to Marketo; and a seed check into the conversational-AI company Solvvy, later acquired by Zoom. The frequently repeated claims that IGSB held Toast or ServiceTitan could not be confirmed in any source and should be treated as unverified.</p>
+
+<p>Two filings in the archive deserve a moment because almost no profile of Duca mentions them. The first is IMPAC Medical Systems, a maker of oncology and radiation-therapy software, in which the Duca Partnership and IGSB Karan I built a stake that reached 796,313 shares, about eight percent of the company, disclosed across 2003 to 2005, before Sweden&rsquo;s Elekta acquired IMPAC in 2005 at $24.00 a share. The second is more telling about the firm&rsquo;s reach: when Datto, the data-protection software company, went public in 2020, its prospectus named &ldquo;entities affiliated with Investment Group of Santa Barbara, LLC&rdquo; among the investors participating in the offering. Neither is a headline. Both are the kind of detail that only surfaces when you read the filings the legend never bothered to, which is the entire premise of this file.</p>
+
+<!-- ============================== PART V ============================== -->
+<section class="part-divider">
+  <div class="pk">Part V</div>
+  <h2>The Progeny</h2>
+  <div class="epi">&ldquo;Focus a hundred and twenty percent on the mentor you might work with, and discount how much money you might be offered.&rdquo;
+  <span class="src">JAMIE KEENAN, ON THE LESSON HE TOOK FROM IGSB</span></div>
+</section>
+
+<p class="lead dropcap">The strongest evidence that the method is real, rather than a story a lucky man tells about his luck, is not in any single return. It is in the people the firm produced. The learner-cap apprenticeship, the bucket of real money handed to a young person who had to own the decisions, turned out to be a remarkably efficient machine for manufacturing investors, and a surprising share of the modern crossover-investing world traces back through that small office. This is the part of the story that has never been told in one place, because each branch of it has been reported separately and no one has drawn the tree.</p>
+
+<h3><span class="num">5.1</span>Marc Stad and Dragoneer, with one myth removed</h3>
+
+<p>The largest branch is Dragoneer Investment Group. Marc Stad came to IGSB around 2007, after stints at McKinsey and the private-equity firm TPG, was handed a roughly one-million-dollar learner portfolio to manage, made partner within five years, and ran an IGSB office in Hong Kong before leaving in 2012 to found Dragoneer. Here a popular and load-bearing claim has to be corrected, because it is repeated as fact and it is wrong. The story that Duca &ldquo;gave Stad a million dollars to start Dragoneer&rdquo; is a conflation. The million dollars was the learner portfolio Stad managed <em>inside</em> IGSB, beginning in 2007. Dragoneer he founded himself, five years later, and no source supports the idea that Duca capitalized it. The mentorship is real and documented; the seed-check detail is a myth, and an honest file removes it.</p>
+
+<p>What Stad built is no myth. Dragoneer, run out of the old Lucasfilm campus in the San Francisco Presidio, reported regulatory assets under management of about $37 billion as of the end of 2025, a crossover firm that invests in late-stage private companies and holds them through the public markets. Its name sits on the cap tables of Snowflake, Slack, Spotify, ServiceTitan, Uber, Airbnb, DoorDash, Databricks, and more recently Anthropic and OpenAI, and it sponsored a series of blank-check companies, one of which took CCC Intelligent Solutions public in a 2021 transaction valued at $7 billion. A firm of that scale grew out of a learner cap in Santa Barbara. That is the single most consequential thing the apprenticeship ever produced.</p>
+
+<h3><span class="num">5.2</span>Tim Bliss, the fifty-year partner, and Partners Fund Capital</h3>
+
+<p>The deepest branch is also the quietest. Tim Bliss joined IGSB in its fifth year, took a learner portfolio of about half a million dollars, made partner within five years, and stayed at Duca&rsquo;s side for roughly half a century; Duca calls him his &ldquo;fifty-odd-year partner&rdquo; and says the two essentially built the firm together, on a handshake, with no contract. Bliss is the man on AppFolio&rsquo;s board from 2008, the co-signer of the early 13D, an individual holder of more than 1.4 million AppFolio shares in his own right. When IGSB narrowed into Reece Duca&rsquo;s exclusive family office around 2022, the remaining partners, Bliss among them, formed a new vehicle, Partners Fund Capital, to keep investing together. True to the lineage, it files no public adviser registration, which tells you it manages proprietary capital and intends to stay as invisible as the firm it came from.</p>
+
+<h3><span class="num">5.3</span>Jamie Keenan, the second insider voice</h3>
+
+<p>The most valuable corroborating witness in this file is a man named Jamie Keenan, because he is the rare insider who left and then spoke, from a vantage different from Duca&rsquo;s own. Keenan was a partner and portfolio manager at IGSB for nearly fourteen years, from 1998 to 2012. A history major from Dartmouth with no finance background, he had been in touch with Duca and Bliss since college, and what they gave a young man who asked how to become an investor was not a job but a reading list, Graham, Fisher, Buffett, and the advice to go learn the language of finance first. When he finally joined, at twenty-four, they handed him a fund to run from the start. &ldquo;Both of them feel you learn the investment process most thoroughly by being thrown into the deep end,&rdquo; he recalled. &ldquo;It took me about nine to twelve months to actually put any capital to work.&rdquo;</p>
+
+<p>Keenan&rsquo;s own record inside IGSB is the method&rsquo;s best small case study. He began investing in October 1998, near the peak of the dot-com mania, and deliberately refused to own technology, buying instead unloved retail and consumer names like Abercrombie &amp; Fitch and Deckers. He returned about thirty percent in 2000, the year the Nasdaq fell thirty-nine percent, and about twenty-six percent in 2001. He corroborates, from the inside and unprompted, every structural claim Duca makes: the absence of outside money, the handshake culture, the deep-end training, Bliss as &ldquo;half professor, half investor.&rdquo; He even supplies the reason the partnership had to reorganize, the post-2008 Dodd-Frank rules that narrowed the family-office exemption, which pushed several portfolio managers, Keenan included, to spin out around 2012. He launched his own firm, Keenan Capital, in 2013 with $62 million and eleven outside investors. When a man who left a firm describes it, years later, in the same admiring terms its founder uses, the description has earned more weight than a press profile.</p>
+
+<div class="note">
+  <span class="hd">The shape of the tree</span>
+  One small office, no outside money, a few learner caps handed to young people across fifty years, produced: Dragoneer (roughly $37 billion), Keenan Capital, Partners Fund Capital, the company-building that created AppFolio and GlobalEnglish, and the seed of Tegus, a company that turned the firm&rsquo;s own research method into software sold to the entire buy side. The node is small. The fan-out is not.
+</div>
+
+<!-- ============================== PART VI ============================== -->
+<section class="part-divider">
+  <div class="pk">Part VI</div>
+  <h2>The Buffett Question</h2>
+  <div class="epi">&ldquo;If you&rsquo;re learning and having fun, you&rsquo;re gonna have an IRR.&rdquo;
+  <span class="src">DUCA&rsquo;S ANSWER TO THE QUESTION HE WAS NEVER QUITE ASKED</span></div>
+</section>
+
+<p class="lead dropcap">So did he beat Buffett? The honest answer is the uncomfortable one: nobody can know, and the people who say he did have never shown the math. The claim has been printed in headlines more than once, and in every case the body of the piece that follows it contains no internal rate of return, no compound figure, no time-weighted comparison, nothing set beside Berkshire Hathaway&rsquo;s long-run record of roughly nineteen-point-eight percent a year from 1965 to 2023. The comparison is rhetorical. It exists because the early numbers Duca recites are genuinely staggering and because a private firm offers nothing to puncture the extrapolation.</p>
+
+<p>Walk the logic carefully, because this is where a careful reader earns the right to an opinion. The one stretch with hard inputs is the first decade, seventy-five thousand dollars to seven million, which implies something close to a fifty-seven percent annual return. That is, for that decade, on that tiny base, better than Buffett. But three things make it impossible to extend into a fifty-year verdict. The figures are self-reported and unaudited. The base was small enough that a handful of concentrated bets could produce a rate no multi-billion-dollar pool could sustain. And no source has ever published a blended lifetime number, which means the &ldquo;outperformed Buffett&rdquo; claim is an inference drawn from a first-decade rate that nobody pretends continued at that pace. The verifiable slices, the AppFolio stake compounding from $72.6 million toward a billion-plus, the Advent multiple, the Tegus seed, the IMPAC and Datto positions, are entirely consistent with a great long-run record. They do not, and cannot, establish that it beat the most-documented record in the history of the craft.</p>
+
+<p>What the file can say with confidence is more interesting than a horse race anyway. Here is a man who took the rarity problem seriously enough to build his entire life around it, who refused outside money so that he could concentrate, who concentrated so that he could know, who held for decades because he had bought the freedom to, and who trained a generation by handing them real money and getting out of the way. The method is coherent, it is documented at its edges, and it propagated. Whether it beat Berkshire is the wrong question, and a slightly vulgar one. The right question is whether the method is sound, and on that the evidence, thin as the firm made it, points one way.</p>
+
+<h3><span class="num">6.1</span>What could be wrong, stated as risk</h3>
+
+<p>An honest file ends on what it cannot dismiss. Three things could undercut the whole reading. The record is narrated by the man who made it, and human memory flatters; the early returns that anchor the legend rest entirely on his own recollection in a single conversation. The verifiable evidence is dominated by one position, AppFolio, which means a reader is partly extrapolating a fifty-year method from one spectacularly good outcome that is fully on the record because it happened to be public. And the method&rsquo;s defining strength, extreme concentration paired with permanent capital, is also its undiagnosable risk: a strategy that puts seventy percent of its assets in three names and never reports to anyone is, by construction, a strategy whose worst years no outsider will ever see. Survivorship runs through everything written about IGSB, including this. We are studying the firm precisely because it won.</p>
+
+<p>None of that is a reason to dismiss it. It is a reason to hold it the way Duca says he holds a company, with super, super high confidence reserved only for the few things you have actually verified, and honest uncertainty everywhere else. The man built a fortune by refusing to confuse a good story for a settled fact. The least a file about him can do is the same.</p>
+
+<hr class="thin">
+
+<p class="center" style="font-style:italic; font-size:11pt; margin-top:0.3in;">He gave one interview, left a few filings, and trained the people who would carry the method out of the room.<br>If you have read this far, you now know more about him than he ever intended a stranger to know.</p>
+
+<p class="center stamprule" style="margin-top:0.5in;">End of file</p>
+
+</div><!-- /content -->
+</body>
+</html>
