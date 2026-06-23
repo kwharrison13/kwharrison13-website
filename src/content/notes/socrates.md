@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Socrates"
 related:
+  - "[[Benjamin Franklin]]"
   - "[[Benjamin Franklin: An American Life]]"
   - "[[Thirteen Virtues]]"
 ---

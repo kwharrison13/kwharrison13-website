@@ -13,6 +13,7 @@ tags:
   - "saas"
 aliases:
   - "Vitally"
+  - "Vitally"
 related:
   - "[[Planhat - Diligence]]"
   - "[[Customer Success]]"

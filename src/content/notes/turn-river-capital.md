@@ -17,6 +17,9 @@ aliases:
   - "Turn / River"
   - "Turn River"
   - "Turn/River"
+  - "Turn / River"
+  - "Turn River"
+  - "Turn/River"
 related:
   - "[[Eric Tarczynski]]"
   - "[[March 5th, 2020 — Eric Tarczynski (Contrary Capital)]]"

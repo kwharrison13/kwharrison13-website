@@ -13,6 +13,7 @@ tags:
   - "saas"
 aliases:
   - "Catalyst"
+  - "Catalyst"
 related:
   - "[[Planhat - Diligence]]"
   - "[[Customer Success]]"

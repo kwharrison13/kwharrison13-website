@@ -13,6 +13,7 @@ tags:
   - "saas"
 aliases:
   - "Gainsight"
+  - "Gainsight"
 related:
   - "[[Planhat - Diligence]]"
   - "[[Customer Success]]"

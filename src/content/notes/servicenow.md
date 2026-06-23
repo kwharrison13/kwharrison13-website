@@ -16,6 +16,8 @@ aliases:
   - "ServiceNow"
   - "ServiceNow ($NOW)"
   - "NOW"
+  - "ServiceNow"
+  - "NOW"
 related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[CrowdStrike ($CRWD)]]"

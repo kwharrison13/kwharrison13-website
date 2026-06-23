@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Prosperable"
   - "prosperable"
+  - "prosperable"
 related:
   - "[[Our Towns]]"
   - "[[The New Urban Crisis]]"

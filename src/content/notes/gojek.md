@@ -16,6 +16,7 @@ tags:
 aliases:
   - "Gojek"
   - "GOJEK"
+  - "GOJEK"
 related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[George Do]]"

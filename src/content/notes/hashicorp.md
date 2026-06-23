@@ -13,6 +13,7 @@ tags:
   - "infrastructure"
 aliases:
   - "HashiCorp"
+  - "HashiCorp"
 related:
   - "[[Noname Security - Diligence]]"
   - "[[Terraform]]"

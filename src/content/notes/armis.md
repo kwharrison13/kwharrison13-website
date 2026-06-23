@@ -12,6 +12,7 @@ tags:
   - "cybersecurity"
 aliases:
   - "Armis"
+  - "Armis"
 related:
   - "[[Noname Security - Diligence]]"
 reference_count: 1

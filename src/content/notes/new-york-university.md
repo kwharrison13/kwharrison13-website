@@ -15,6 +15,7 @@ tags:
 aliases:
   - "New York University"
   - "NYU"
+  - "NYU"
 related:
   - "[[Jeff Friedman]]"
   - "[[The New City]]"

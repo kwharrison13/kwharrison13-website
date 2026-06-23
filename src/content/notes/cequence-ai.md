@@ -15,6 +15,8 @@ aliases:
   - "Cequence.ai"
   - "Cequence"
   - "Cequent"
+  - "Cequence"
+  - "Cequent"
 related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[API Security]]"

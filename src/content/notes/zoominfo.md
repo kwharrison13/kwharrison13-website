@@ -13,6 +13,7 @@ tags:
 aliases:
   - "ZoomInfo"
   - "Zoominfo"
+  - "Zoominfo"
 related:
   - "[[September 13th, 2022 — Nisha Swarup]]"
   - "[[Sales Intelligence]]"

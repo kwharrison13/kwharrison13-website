@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Agriculture"
 related:
+  - "[[Food]]"
   - "[[Village Capital]]"
   - "[[What Is ChatGPT Doing and Why Does It Work?]]"
 ---

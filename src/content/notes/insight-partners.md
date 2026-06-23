@@ -13,6 +13,7 @@ tags:
   - "saas"
 aliases:
   - "Insight Partners"
+  - "Insight Partners"
 related:
   - "[[Noname Security - Diligence]]"
   - "[[Noname Security]]"

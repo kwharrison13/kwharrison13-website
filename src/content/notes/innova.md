@@ -21,6 +21,7 @@ tags:
 aliases:
   - "Innova"
   - "Innova EV"
+  - "Innova EV"
 related:
   - "[[The New City]]"
   - "[[David Fidalgo]]"

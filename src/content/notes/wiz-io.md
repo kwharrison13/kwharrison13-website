@@ -16,6 +16,7 @@ tags:
 aliases:
   - "Wiz.io"
   - "Wiz"
+  - "Wiz"
 related:
   - "[[September 17th, 2021 — Wiz.io Pre-Brief (Shardul Shah)]]"
   - "[[Salt Security Diligence — 2021]]"

@@ -13,6 +13,7 @@ tags:
   - "saas"
 aliases:
   - "Custify"
+  - "Custify"
 related:
   - "[[Planhat - Diligence]]"
   - "[[Customer Success]]"

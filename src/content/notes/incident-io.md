@@ -13,6 +13,7 @@ tags:
   - "incident-management"
 aliases:
   - "Incident.io"
+  - "Incident.io"
 related:
   - "[[Noname Security - Diligence]]"
 reference_count: 1

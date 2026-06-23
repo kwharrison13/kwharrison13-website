@@ -13,6 +13,7 @@ tags:
 aliases:
   - "Quantum Computing"
 related:
+  - "[[April 5th, 2022 — Francesco Corea (Balderton Capital)]]"
   - "[[2054]]"
 ---
 

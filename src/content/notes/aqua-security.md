@@ -13,6 +13,7 @@ tags:
   - "cloud-security"
 aliases:
   - "Aqua Security"
+  - "Aqua Security"
 related:
   - "[[Noname Security - Diligence]]"
   - "[[Palo Alto Networks ($PANW)]]"

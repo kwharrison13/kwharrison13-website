@@ -14,6 +14,8 @@ tags:
 aliases:
   - "ToTango"
   - "Totango"
+  - "ToTango"
+  - "Totango"
 related:
   - "[[Planhat - Diligence]]"
   - "[[Customer Success]]"

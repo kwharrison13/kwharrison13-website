@@ -13,6 +13,7 @@ tags:
   - "identity"
 aliases:
   - "Transmit Security"
+  - "Transmit Security"
 related:
   - "[[Noname Security - Diligence]]"
 reference_count: 1

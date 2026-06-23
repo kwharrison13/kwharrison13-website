@@ -14,6 +14,7 @@ tags:
 aliases:
   - "Nick Anger"
 related:
+  - "[[April 5th, 2022 — Intro to Nick Anger & Brian Blair (RBC)]]"
   - "[[Zach Edwards]]"
 ---
 

@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "PayPal"
   - "Paypal"
+  - "Paypal"
 related:
   - "[[PayPal Mafia]]"
   - "[[The Founders]]"

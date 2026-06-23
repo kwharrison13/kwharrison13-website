@@ -16,6 +16,8 @@ aliases:
   - "Palo Alto Networks"
   - "Palo Alto Networks ($PANW)"
   - "PANW"
+  - "Palo Alto Networks"
+  - "PANW"
 related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[Bridgecrew]]"

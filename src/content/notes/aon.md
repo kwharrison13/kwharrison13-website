@@ -15,6 +15,7 @@ tags:
 aliases:
   - "AON"
   - "Aon"
+  - "Aon"
 related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[Prabhakar Kasu]]"

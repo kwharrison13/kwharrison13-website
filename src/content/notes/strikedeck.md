@@ -13,6 +13,7 @@ tags:
   - "saas"
 aliases:
   - "Strikedeck"
+  - "Strikedeck"
 related:
   - "[[Planhat - Diligence]]"
   - "[[Customer Success]]"

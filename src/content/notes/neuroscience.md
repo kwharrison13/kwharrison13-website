@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Neuroscience"
 related:
+  - "[[Neuralink]]"
   - "[[The Science of Learning]]"
 ---
 

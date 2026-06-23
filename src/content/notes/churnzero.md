@@ -14,6 +14,8 @@ tags:
 aliases:
   - "ChurnZero"
   - "Churn Zero"
+  - "ChurnZero"
+  - "Churn Zero"
 related:
   - "[[Planhat - Diligence]]"
   - "[[Customer Success]]"

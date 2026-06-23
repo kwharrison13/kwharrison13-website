@@ -13,6 +13,8 @@ aliases:
   - "Lloyd's"
   - "Lloyd’s"
   - "Lloyd's of London"
+  - "Lloyd’s"
+  - "Lloyd's of London"
 related:
   - "[[Clark's Coffeehouse]]"
   - "[[Berkshire Hathaway Annual Letters]]"

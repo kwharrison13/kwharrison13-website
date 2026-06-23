@@ -13,6 +13,7 @@ tags:
   - "incident-management"
 aliases:
   - "PagerDuty"
+  - "PagerDuty"
 related:
   - "[[Noname Security - Diligence]]"
 reference_count: 1

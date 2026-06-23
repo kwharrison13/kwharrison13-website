@@ -13,6 +13,7 @@ tags: []
 aliases:
   - "Salesforce"
   - "Salesforce ($CRM)"
+  - "Salesforce ($CRM)"
 related:
   - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
 reference_count: 1

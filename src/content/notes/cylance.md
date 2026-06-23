@@ -13,6 +13,7 @@ tags:
   - "endpoint-security"
 aliases:
   - "Cylance"
+  - "Cylance"
 related:
   - "[[Noname Security - Diligence]]"
 reference_count: 1

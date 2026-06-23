@@ -18,6 +18,8 @@ aliases:
   - "CrowdStrike"
   - "CrowdStrike ($CRWD)"
   - "CRWD"
+  - "CrowdStrike"
+  - "CRWD"
 related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[ServiceNow ($NOW)]]"

@@ -17,6 +17,7 @@ tags:
 aliases:
   - "ELGL"
   - "Engaging Local Government Leaders"
+  - "Engaging Local Government Leaders"
 related:
   - "[[Kirsten Wyatt]]"
   - "[[The New City]]"

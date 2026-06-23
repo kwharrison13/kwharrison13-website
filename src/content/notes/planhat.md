@@ -13,6 +13,7 @@ tags:
   - "saas"
 aliases:
   - "Planhat"
+  - "Planhat"
 related:
   - "[[Planhat - Diligence]]"
   - "[[Customer Success]]"

@@ -14,6 +14,8 @@ tags:
 aliases:
   - "Boomi"
   - "Dell Boomi"
+  - "Boomi"
+  - "Dell Boomi"
 related:
   - "[[Noname Security - Diligence]]"
   - "[[API Gateways]]"

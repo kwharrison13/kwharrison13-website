@@ -15,6 +15,7 @@ tags:
 aliases:
   - "Pave"
   - "Pave fka Trove"
+  - "Pave fka Trove"
 related:
   - "[[September 13th, 2022 — Harry Stebbings Podcast]]"
   - "[[Ramp]]"

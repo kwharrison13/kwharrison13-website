@@ -12,6 +12,7 @@ tags:
   - "enterprise"
 aliases:
   - "Vail Resorts"
+  - "Vail Resorts"
 related:
   - "[[Noname Security - Diligence]]"
 reference_count: 1

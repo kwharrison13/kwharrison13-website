@@ -16,6 +16,8 @@ aliases:
   - "UC Berkeley"
   - "UC Berkely"
   - "University of California, Berkeley"
+  - "UC Berkely"
+  - "University of California, Berkeley"
 related:
   - "[[Adam Cohen]]"
   - "[[The New City]]"

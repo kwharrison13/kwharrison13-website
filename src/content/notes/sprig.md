@@ -18,6 +18,8 @@ aliases:
   - "Sprig"
   - "UserLeap"
   - "Sprig (UserLeap)"
+  - "UserLeap"
+  - "Sprig (UserLeap)"
 related:
   - "[[Sprig fka UserLeap - Diligence]]"
   - "[[User Research]]"

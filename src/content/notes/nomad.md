@@ -13,6 +13,7 @@ tags:
   - "infrastructure"
 aliases:
   - "Nomad"
+  - "Nomad"
 related:
   - "[[Noname Security - Diligence]]"
   - "[[HashiCorp]]"

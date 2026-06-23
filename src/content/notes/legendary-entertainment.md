@@ -16,6 +16,7 @@ tags:
 aliases:
   - "Legendary Entertainment"
   - "Legendary"
+  - "Legendary"
 related:
   - "[[The Hits Business]]"
   - "[[Thomas Tull]]"

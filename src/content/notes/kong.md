@@ -16,6 +16,7 @@ tags:
 aliases:
   - "Kong"
   - "Kong API Gateway"
+  - "Kong API Gateway"
 related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[Salt Security]]"

@@ -12,7 +12,9 @@ tags: []
 aliases:
   - "Neuralink"
   - "Neurolink"
+  - "Neurolink"
 related:
+  - "[[Neuroscience]]"
   - "[[Tim Urban]]"
 ---
 

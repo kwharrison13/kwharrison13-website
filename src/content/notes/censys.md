@@ -12,6 +12,7 @@ tags:
   - "cybersecurity"
 aliases:
   - "Censys"
+  - "Censys"
 related:
   - "[[Noname Security - Diligence]]"
 reference_count: 1

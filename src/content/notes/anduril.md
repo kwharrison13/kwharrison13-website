@@ -20,6 +20,7 @@ tags:
 aliases:
   - "Anduril"
   - "Anduril Industries"
+  - "Anduril Industries"
 related:
   - "[[Palmer Luckey]]"
   - "[[Kelly Johnson]]"

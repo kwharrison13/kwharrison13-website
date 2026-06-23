@@ -14,6 +14,7 @@ tags:
 aliases:
   - "Sales Intelligence"
 related:
+  - "[[September 13th, 2022 — Nisha Swarup]]"
   - "[[Crayon]]"
   - "[[Bombora]]"
   - "[[6sense]]"
