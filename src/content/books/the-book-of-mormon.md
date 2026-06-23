@@ -6,7 +6,7 @@ rating: 5
 quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-06-22"
+last_imported: "2026-06-23"
 key_takeaways_status: "written"
 ---
 

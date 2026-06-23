@@ -13,6 +13,7 @@ tags:
   - "venture-capital"
 aliases:
   - "First Round Capital"
+  - "First Round"
 related:
   - "[[The State of Startup Media - Research]]"
   - "[[Bill Trenchard]]"

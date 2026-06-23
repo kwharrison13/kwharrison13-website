@@ -8,7 +8,7 @@ tags:
   - "historical-futurism"
   - "republic-of-letters"
   - "people-over-politics"
-last_imported: "2026-06-22"
+last_imported: "2026-06-23"
 key_takeaways_status: "written"
 ---
 

@@ -8,7 +8,7 @@ quake: true
 tags:
   - "company-building"
   - "historical-futurism"
-last_imported: "2026-06-22"
+last_imported: "2026-06-23"
 key_takeaways_status: "written"
 ---
 
