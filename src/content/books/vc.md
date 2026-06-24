@@ -1,11 +1,11 @@
 ---
-title: "VC"
+title: "VC: An American History"
 author: "Tom Nicholas"
 year_read: "pre-2016"
 rating: 0
 quake: false
 tags: []
-last_imported: "2026-06-23"
+last_imported: "2026-06-24"
 key_takeaways_status: "written"
 ---
 

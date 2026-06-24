@@ -7,12 +7,12 @@ created: "2026-06-19"
 updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
-  - "wiki/books/VC.md"
+  - "wiki/books/VC — An American History.md"
 tags: []
 aliases:
   - "Greylock Partners"
 related:
-  - "[[VC]]"
+  - "[[VC: An American History]]"
 ---
 
 # Greylock Partners
@@ -21,4 +21,4 @@ _Stub — flagged during the 2026-06-19 connection sweep as an entity referenced
 
 ## Where this appears
 
-- [VC](/books/vc)
+- [VC: An American History](/books/vc)

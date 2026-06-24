@@ -7,7 +7,7 @@ quake: false
 tags:
   - "religious-intellectualism"
   - "republic-of-letters"
-last_imported: "2026-06-23"
+last_imported: "2026-06-24"
 key_takeaways_status: "written"
 ---
 

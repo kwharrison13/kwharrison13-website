@@ -12,7 +12,7 @@ tags: []
 aliases:
   - "Bessemer Venture Partners"
 related:
-  - "[[VC]]"
+  - "[[VC: An American History]]"
 reference_count: 1
 ---
 

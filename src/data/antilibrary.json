@@ -1422,6 +1422,32 @@
     "slug": "the-big-sort"
   },
   {
+    "title": "The Book of Mormon: The Earliest Text",
+    "full_title": "The Book of Mormon: The Earliest Text",
+    "author": "Royal Skousen",
+    "published": "2009",
+    "pages": 848,
+    "amazon_url": "https://www.amazon.com/s?k=The+Book+of+Mormon+The+Earliest+Text+Royal+Skousen",
+    "where_seen": [
+      "Cited in Future Mormon by Adam S. Miller — Skousen's critical edition referenced in the Book of Mormon essays"
+    ],
+    "connections": [
+      {
+        "title": "Future Mormon",
+        "url": "/books/future-mormon"
+      },
+      {
+        "title": "The Book of Mormon",
+        "url": "/books/the-book-of-mormon"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "religious-intellectualism"
+    ],
+    "slug": "the-book-of-mormon-the-earliest-text"
+  },
+  {
     "title": "The Cathedral and the Bazaar",
     "full_title": "The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary",
     "author": "Eric S. Raymond",
@@ -2129,6 +2155,29 @@
     "slug": "the-three-body-problem"
   },
   {
+    "title": "The Time That Remains",
+    "full_title": "The Time That Remains: A Commentary on the Letter to the Romans",
+    "author": "Giorgio Agamben",
+    "published": "2000",
+    "pages": 208,
+    "amazon_url": "https://www.amazon.com/s?k=The+Time+That+Remains+Giorgio+Agamben",
+    "where_seen": [
+      "Cited in Future Mormon by Adam S. Miller — frames the 'messianic time' / remnant-of-time idea behind 'early onset postmortality'"
+    ],
+    "connections": [
+      {
+        "title": "Future Mormon",
+        "url": "/books/future-mormon"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "philosophy",
+      "religious-intellectualism"
+    ],
+    "slug": "the-time-that-remains"
+  },
+  {
     "title": "The Timeless Way of Building",
     "full_title": "The Timeless Way of Building",
     "author": "Christopher Alexander",
@@ -2350,6 +2399,33 @@
       "historical-futurism"
     ],
     "slug": "walden-two"
+  },
+  {
+    "title": "Way Below the Angels",
+    "full_title": "Way Below the Angels: The Pretty Clearly Troubled But Not Even Close to Tragic Confessions of a Real Life Mormon Missionary",
+    "author": "Craig Harline",
+    "published": "2014",
+    "pages": 272,
+    "amazon_url": "https://www.amazon.com/s?k=Way+Below+the+Angels+Craig+Harline",
+    "where_seen": [
+      "Cited in Future Mormon by Adam S. Miller — the 'just be yourself' / emptiness-before-God passage",
+      "Also quoted in The Next Mormons by Jana Riess on mission-culture conformity"
+    ],
+    "connections": [
+      {
+        "title": "Future Mormon",
+        "url": "/books/future-mormon"
+      },
+      {
+        "title": "The Next Mormons",
+        "url": "/books/the-next-mormons"
+      }
+    ],
+    "recommendations": 2,
+    "tags": [
+      "religious-intellectualism"
+    ],
+    "slug": "way-below-the-angels"
   },
   {
     "title": "When McKinsey Comes to Town",

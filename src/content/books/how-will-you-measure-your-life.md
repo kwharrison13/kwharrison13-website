@@ -8,7 +8,7 @@ tags:
   - "company-building"
   - "language-of-discourse"
   - "ideological-family-tree"
-last_imported: "2026-06-23"
+last_imported: "2026-06-24"
 key_takeaways_status: "written"
 ---
 

@@ -1082,7 +1082,8 @@
         "author": "Michelle Obama",
         "rating": 3,
         "tags": [
-          "ideological-family-tree"
+          "ideological-family-tree",
+          "people-over-politics"
         ],
         "quake": false
       },
@@ -2564,7 +2565,8 @@
         "quake": false
       },
       {
-        "title": "VC",
+        "title": "VC: An American History",
+        "slug": "vc",
         "author": "Tom Nicholas",
         "rating": 0,
         "tags": [],
@@ -2600,6 +2602,15 @@
       {
         "title": "Jesus the Christ",
         "author": "James E. Talmage",
+        "rating": 0,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Future Mormon",
+        "author": "Adam S. Miller",
         "rating": 0,
         "tags": [
           "religious-intellectualism"

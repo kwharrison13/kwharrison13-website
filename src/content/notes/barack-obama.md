@@ -13,6 +13,7 @@ aliases:
   - "Barack Obama"
 related:
   - "[[Romney — A Reckoning]]"
+  - "[[Becoming]]"
 ---
 
 # Barack Obama
@@ -22,3 +23,4 @@ _Stub — flagged during the 2026-06-19 connection sweep as an entity referenced
 ## Where this appears
 
 - [Romney — A Reckoning](/books/romney-a-reckoning)
+- [Becoming](/books/becoming) — Michelle Obama's memoir; Barack's "world as it is / as it should be" organizing frame, books as "sacred objects," and his money-and-ethics vigilance.

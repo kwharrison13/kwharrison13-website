@@ -31,6 +31,7 @@ related:
   - "[[Intellectual Honesty]]"
   - "[[The Enchanted Notebook]]"
   - "[[Planning for AGI and Beyond]]"
+  - "[[L.M. Sacasas]]"
 ---
 
 # Storytelling

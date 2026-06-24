@@ -15,7 +15,7 @@ aliases:
 related:
   - "[[The Power Law — Venture Capital & the Making of the New Future]]"
   - "[[Venture Capital]]"
-  - "[[VC]]"
+  - "[[VC: An American History]]"
   - "[[Legendary Entertainment]]"
   - "[[Intellectual Property]]"
   - "[[Forecasting]]"

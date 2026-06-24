@@ -8,13 +8,13 @@ updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Buffett — The Biography.md"
-  - "wiki/books/VC.md"
+  - "wiki/books/VC — An American History.md"
 tags: []
 aliases:
   - "Andrew Carnegie"
 related:
   - "[[Buffett — The Biography]]"
-  - "[[VC]]"
+  - "[[VC: An American History]]"
 ---
 
 # Andrew Carnegie
@@ -24,4 +24,4 @@ _Stub — flagged during the 2026-06-19 connection sweep as an entity referenced
 ## Where this appears
 
 - [Buffett — The Biography](/books/buffett-the-biography)
-- [VC](/books/vc)
+- [VC: An American History](/books/vc)

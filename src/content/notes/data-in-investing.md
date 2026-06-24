@@ -8,7 +8,7 @@ updated: "2026-06-23"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Berkshire Hathaway Annual Letters.md"
-  - "wiki/books/VC.md"
+  - "wiki/books/VC — An American History.md"
 tags: []
 aliases:
   - "Data in Investing"
@@ -44,4 +44,4 @@ _Link Kyle saved to this topic in his April 30th, 2020 Roam "Quick Capture" log.
 ## Where this appears
 
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters)
-- [VC](/books/vc)
+- [VC: An American History](/books/vc)

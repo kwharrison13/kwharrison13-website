@@ -7,12 +7,12 @@ created: "2026-06-16"
 updated: "2026-06-16"
 last_updated_by: "agent"
 sources:
-  - "wiki/books/VC.md"
+  - "wiki/books/VC — An American History.md"
 tags: []
 aliases:
   - "Tom Nicholas"
 related:
-  - "[[VC]]"
+  - "[[VC: An American History]]"
 reference_count: 1
 ---
 
@@ -22,4 +22,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 
 ## Where this appears
 
-- [VC](/books/vc)
+- [VC: An American History](/books/vc)

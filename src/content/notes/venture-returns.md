@@ -10,7 +10,11 @@ sources: []
 tags: []
 aliases:
   - "Venture Returns"
-related: []
+related:
+  - "[[The Value Chain of Capital - Research]]"
+  - "[[The Value Chain of Capital]]"
+  - "[[Aswath Damodaran]]"
+  - "[[Instacart]]"
 ---
 
 # Venture Returns

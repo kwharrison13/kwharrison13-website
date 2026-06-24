@@ -12,7 +12,7 @@ tags: []
 aliases:
   - "Kleiner Perkins"
 related:
-  - "[[VC]]"
+  - "[[VC: An American History]]"
   - "[[Tom Perkins]]"
 ---
 

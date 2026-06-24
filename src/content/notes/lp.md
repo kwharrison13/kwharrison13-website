@@ -12,7 +12,7 @@ tags: []
 aliases:
   - "LP"
 related:
-  - "[[VC]]"
+  - "[[VC: An American History]]"
   - "[[Ho Nam]]"
   - "[[Fees and Carry]]"
   - "[[Direct Investments]]"

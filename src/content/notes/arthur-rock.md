@@ -8,13 +8,13 @@ updated: "2026-06-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/The Power Law — Venture Capital & the Making of the New Future.md"
-  - "wiki/books/VC.md"
+  - "wiki/books/VC — An American History.md"
 tags: []
 aliases:
   - "Arthur Rock"
 related:
   - "[[The Power Law — Venture Capital & the Making of the New Future]]"
-  - "[[VC]]"
+  - "[[VC: An American History]]"
 ---
 
 # Arthur Rock
@@ -24,4 +24,4 @@ _Stub — flagged during the 2026-06-19 connection sweep as an entity referenced
 ## Where this appears
 
 - [The Power Law — Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future)
-- [VC](/books/vc)
+- [VC: An American History](/books/vc)

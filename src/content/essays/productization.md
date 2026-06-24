@@ -8,6 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/productization"
 ---
 
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/vc-an-american-history">VC: An American History</a></span></div>
+</aside>
+<!-- connections-end -->
+
 ![Header image for The Productization of Venture Capital](/images/productization-9557afc9.png)
 
 ## Old-Timey Things

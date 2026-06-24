@@ -12,9 +12,10 @@ tags: []
 aliases:
   - "Sequoia"
 related:
-  - "[[VC]]"
+  - "[[VC: An American History]]"
   - "[[Doug Leone]]"
   - "[[Salt Security]]"
+  - "[[Instacart]]"
 ---
 
 # Sequoia

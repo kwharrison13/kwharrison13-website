@@ -15,7 +15,7 @@ sources:
   - "wiki/books/Remote — Office Not Required.md"
   - "wiki/books/The Everything Store.md"
   - "wiki/books/The Power Law — Venture Capital & the Making of the New Future.md"
-  - "wiki/books/VC.md"
+  - "wiki/books/VC — An American History.md"
   - "wiki/books/Working in Public.md"
 tags:
   - "capital-allocation"
@@ -58,7 +58,7 @@ related:
 - [Networked Conviction](/essays/networked-conviction-roam-investing) — the Substack and sandbox alongside portfolio-ideas.
 - [The Power Law — Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — VC's power law as a 2.0 case study / counterpoint.
 - [The Everything Store](/books/the-everything-store) — Amazon as a venture-strategy case study.
-- [VC](/books/vc) — examining the removal of information asymmetry in venture.
+- [VC: An American History](/books/vc) — examining the removal of information asymmetry in venture.
 - [Working in Public](/books/working-in-public) — the economics of maintaining ideas openly.
 - [Remote — Office Not Required](/books/remote-office-not-required) — open-sourcing knowledge work.
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — the fundamentals ("101") canon.

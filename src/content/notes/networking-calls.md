@@ -52,6 +52,12 @@ related:
 - June 1st, 2018 — Adam Cohen (UC Berkeley)
 - June 1st, 2018 — Mark (re:public good)
 - June 1st, 2018 — Faris (DigitalTown)
+- June 28th, 2018 — Ruxanda Renita (Urban Catalyst Lab)
+- June 28th, 2018 — Jesse Berst (Smart Cities Council)
+- June 28th, 2018 — Dustin Haisler (eRepublic)
+- June 28th, 2018 — William Wright (City of Salt Lake)
+- June 28th, 2018 — Tom Mullen (Riverside County)
+- June 28th, 2018 — Scott Shephard (ARS Traffic & Transport Technology)
 
 ## Related concepts
 
