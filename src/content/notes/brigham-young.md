@@ -16,6 +16,8 @@ aliases:
   - "President Young"
 related:
   - "[[Temporal Wealth and the Kingdom of God — Brigham Young]]"
+  - "[[Righteous in the Dark]]"
+  - "[[What I Want My Son to Know before He Leaves on His Mission]]"
 ---
 
 # Brigham Young

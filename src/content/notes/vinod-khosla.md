@@ -1,25 +1,29 @@
 ---
 title: "Vinod Khosla"
-type: "concept"
+type: "person"
 publish: false
 confidence: "low"
-created: "2026-06-16"
-updated: "2026-06-16"
+created: "2026-06-25"
+updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
-  - "wiki/books/The Power Law — Venture Capital & the Making of the New Future.md"
+  - "Roam Research daily-note export — December 14th, 2021 (Index Ventures networking/sourcing log): ~/Downloads/December 14th, 2021.md"
 tags: []
 aliases:
   - "Vinod Khosla"
 related:
-  - "[[The Power Law: Venture Capital & the Making of the New Future]]"
+  - "[[Khosla Ventures]]"
 reference_count: 1
 ---
 
 # Vinod Khosla
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+**One-line:** *Founder of [Khosla Ventures](/notes/khosla-ventures).*
 
-## Where this appears
+## What we know
 
-- [The Power Law — Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future)
+- Per [Erik Kriessmann](/notes/erik-kriessmann), the only thing Khosla cared about when evaluating his talent partner's work was whether founders said "I love him" when asked. (source: December 14th, 2021 daily-note)
+
+## Mentioned in
+
+- December 14th, 2021 — Erik Kriessmann (Index Ventures) — cited on his founder-satisfaction definition of success.

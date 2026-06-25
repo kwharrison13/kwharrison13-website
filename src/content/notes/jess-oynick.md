@@ -1,24 +1,29 @@
 ---
 title: "Jess Oynick"
-type: "concept"
+type: "person"
 publish: false
 confidence: "low"
-created: "2026-06-16"
-updated: "2026-06-16"
+created: "2026-06-25"
+updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
-  - "wiki/books/The Everything Store.md"
+  - "Roam Research daily-note export — December 14th, 2021 (Index Ventures networking/sourcing log): ~/Downloads/December 14th, 2021.md"
 tags: []
 aliases:
   - "Jess Oynick"
-related: []
+related:
+  - "[[Coatue]]"
 reference_count: 1
 ---
 
 # Jess Oynick
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+**One-line:** *Talent team member at [Coatue](/notes/coatue).*
 
-## Where this appears
+## What we know
 
-- [The Everything Store](/books/the-everything-store)
+- Per [Erik Kriessmann](/notes/erik-kriessmann), she was great but [Coatue](/notes/coatue) didn't know what to do with her; she ended up mostly coordinating with various search funds. (source: December 14th, 2021 daily-note)
+
+## Mentioned in
+
+- December 14th, 2021 — Erik Kriessmann (Index Ventures) — cited as an example of an underutilized talent hire at Coatue.

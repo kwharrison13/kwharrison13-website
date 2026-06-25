@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
   - "wiki/meetings/December 13th, 2021 — NCX Partner Presentation.md"
@@ -15,12 +15,12 @@ related:
   - "[[September 17th, 2021 — Wiz.io Pre-Brief (Shardul Shah)]]"
   - "[[Datadog ($DDOG)]]"
   - "[[Wiz.io]]"
-reference_count: 4
+reference_count: 5
 ---
 
 # Shardul Shah
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **4** wiki page(s)._
+_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **5** wiki page(s)._
 
 ## Where this appears
 
@@ -28,3 +28,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 - December 13th, 2021 — NCX Partner Presentation
 - September 22nd, 2021 — Shardul Shah on Datadog — company-building lessons drawn from [Datadog ($DDOG)](/notes/datadog).
 - September 22nd, 2021 — Shardul Shah (Sales Rep Tooling) — diligence on a sales-rep tooling deal (AB InBev at $8M).
+- December 14th, 2021 — Benjy Boateng (Index Ventures) — cited as Index's go-to senior-security network so others don't have to build it.
