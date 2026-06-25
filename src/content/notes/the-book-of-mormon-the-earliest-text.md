@@ -28,11 +28,11 @@ related:
 
 **Why it's on the list:** *Royal Skousen's critical edition reconstructing the earliest recoverable text of the Book of Mormon — the scholarly textual baseline behind close readings like Miller's.*
 
-**Where I saw it:** Flagged `#books-to-read` while reading [Future Mormon](/books/future-mormon) by Adam S. Miller, who cites Skousen's critical edition in his Book of Mormon essays.
+**Where I saw it:** Flagged `#books-to-read` while reading [Future Mormon](/books/future-mormon) by [Adam S. Miller](/notes/adam-s-miller), who cites Skousen's critical edition in his Book of Mormon essays.
 
 ## Connections
 
 - Royal Skousen — author / editor of the critical edition
 - [The Book of Mormon](/books/the-book-of-mormon) — the text it reconstructs
 - [Future Mormon](/books/future-mormon) — where Kyle saw it cited
-- Adam S. Miller — cited Skousen's edition
+- [Adam S. Miller](/notes/adam-s-miller) — cited Skousen's edition

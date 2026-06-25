@@ -14,6 +14,8 @@ aliases:
 related:
   - "[[The Priesthood Power of Women]]"
   - "[[Chad's Big Quote Book]]"
+  - "[[About His Business]]"
+  - "[[Come Home]]"
 reference_count: 1
 ---
 

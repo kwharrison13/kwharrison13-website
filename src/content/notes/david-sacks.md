@@ -14,6 +14,7 @@ related:
   - "[[The Founders]]"
   - "[[Peter Thiel]]"
   - "[[Max Levchin]]"
+  - "[[The Burn Multiple]]"
 ---
 
 # David Sacks

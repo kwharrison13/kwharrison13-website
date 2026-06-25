@@ -1437,6 +1437,10 @@
         "url": "/books/future-mormon"
       },
       {
+        "title": "Adam S. Miller",
+        "url": "/notes/adam-s-miller"
+      },
+      {
         "title": "The Book of Mormon",
         "url": "/books/the-book-of-mormon"
       }
@@ -2168,6 +2172,10 @@
       {
         "title": "Future Mormon",
         "url": "/books/future-mormon"
+      },
+      {
+        "title": "Adam S. Miller",
+        "url": "/notes/adam-s-miller"
       }
     ],
     "recommendations": 1,
@@ -2419,6 +2427,10 @@
       {
         "title": "The Next Mormons",
         "url": "/books/the-next-mormons"
+      },
+      {
+        "title": "Adam S. Miller",
+        "url": "/notes/adam-s-miller"
       }
     ],
     "recommendations": 2,

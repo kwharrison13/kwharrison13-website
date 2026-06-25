@@ -27,11 +27,11 @@ related:
 
 **Why it's on the list:** *Craig Harline's wry, candid mission memoir — the "Pretty Clearly Troubled But Not Even Close to Tragic Confessions of a Real Life Mormon Missionary" — used by Miller to illustrate emptiness-before-God and by Riess to illustrate mission-culture conformity.*
 
-**Where I saw it:** Flagged `#books-to-read` while reading [Future Mormon](/books/future-mormon) by Adam S. Miller. It also surfaces in [The Next Mormons](/books/the-next-mormons), where Jana Riess quotes Harline on how the mission "bad dream" plagued those who couldn't fit "mission-culture-as-currently-constituted."
+**Where I saw it:** Flagged `#books-to-read` while reading [Future Mormon](/books/future-mormon) by [Adam S. Miller](/notes/adam-s-miller). It also surfaces in [The Next Mormons](/books/the-next-mormons), where Jana Riess quotes Harline on how the mission "bad dream" plagued those who couldn't fit "mission-culture-as-currently-constituted."
 
 ## Connections
 
 - Craig Harline — author; BYU historian
 - [Future Mormon](/books/future-mormon) — where Kyle saw it cited
 - [The Next Mormons](/books/the-next-mormons) — also quotes Harline's memoir
-- Adam S. Miller — cited the "just be yourself" passage
+- [Adam S. Miller](/notes/adam-s-miller) — cited the "just be yourself" passage

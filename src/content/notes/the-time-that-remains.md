@@ -28,10 +28,10 @@ related:
 
 **Why it's on the list:** *Agamben's reading of Paul's Letter to the Romans as a commentary on "messianic time" — the remnant of time that remains after the messianic event but before the end — the philosophical scaffolding behind Miller's "early onset postmortality."*
 
-**Where I saw it:** Flagged `#books-to-read` while reading [Future Mormon](/books/future-mormon) by Adam S. Miller, who leans on Agamben's account of messianic time to read repentance and grace.
+**Where I saw it:** Flagged `#books-to-read` while reading [Future Mormon](/books/future-mormon) by [Adam S. Miller](/notes/adam-s-miller), who leans on Agamben's account of messianic time to read repentance and grace.
 
 ## Connections
 
 - Giorgio Agamben — author
 - [Future Mormon](/books/future-mormon) — where Kyle saw it cited
-- Adam S. Miller — drew on Agamben's messianic time
+- [Adam S. Miller](/notes/adam-s-miller) — drew on Agamben's messianic time

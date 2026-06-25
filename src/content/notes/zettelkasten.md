@@ -15,6 +15,7 @@ related:
   - "[[How To Take Smart Notes]]"
   - "[[Sonke Ahrens]]"
   - "[[Clark's Coffeehouse]]"
+  - "[[The Collector's Fallacy]]"
 reference_count: 1
 ---
 

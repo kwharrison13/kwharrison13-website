@@ -12,6 +12,7 @@ aliases:
   - "Capital Allocation"
 related:
   - "[[Capital Allocator Mindset]]"
+  - "[[VC Has Gotten More Efficient... (tweet)]]"
 ---
 
 # Capital Allocation

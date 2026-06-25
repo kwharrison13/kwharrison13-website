@@ -16,6 +16,7 @@ related:
   - "[[The Fish That Ate the Whale]]"
   - "[[Mistakes Were Made (But Not by Me)]]"
   - "[[The Messy Marketplace]]"
+  - "[[VC Has Gotten More Efficient... (tweet)]]"
 reference_count: 1
 ---
 

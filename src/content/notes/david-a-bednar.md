@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "David A. Bednar"
-related: []
+related:
+  - "[[All Who Have Endured Valiantly]]"
 reference_count: 1
 ---
 

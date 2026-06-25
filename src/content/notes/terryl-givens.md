@@ -15,6 +15,8 @@ aliases:
 related:
   - "[[Stretching The Heavens]]"
   - "[[The Crucible of Doubt]]"
+  - "[[The God Who Weeps]]"
+  - "[[Future Mormon]]"
 reference_count: 2
 ---
 

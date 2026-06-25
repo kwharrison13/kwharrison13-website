@@ -13,6 +13,7 @@ aliases:
   - "C.S. Lewis"
 related:
   - "[[Chad's Big Quote Book]]"
+  - "[[All Who Have Endured Valiantly]]"
 reference_count: 1
 ---
 

@@ -6,7 +6,7 @@ rating: 0
 quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-06-24"
+last_imported: "2026-06-25"
 key_takeaways_status: "written"
 ---
 
@@ -35,9 +35,9 @@ A recurring polemic runs underneath all six: salvation "cannot be bought with th
 <!-- interconnections -->
 **People:**
 
-- Adam S. Miller — author; Mormon philosopher-theologian writing toward "a different Christianity" centered on grace.
+- [Adam S. Miller](/notes/adam-s-miller) — author; Mormon philosopher-theologian writing toward "a different Christianity" centered on grace.
 - [Bruce R. McConkie](/notes/bruce-r-mcconkie) — his 1981 BYU devotional "The Three Pillars of Eternity" (creation, fall, atonement) is the structural starting point for the grace-first reading.
-- [Terryl Givens](/notes/terryl-givens) — *The God Who Weeps* is Miller's chief sparring partner: he resists its claim that the "greatest act of self-revelation" is choosing what to believe, and presses its under-examined Nietzschean problem and its account of Mormon materialism.
+- [Terryl Givens](/notes/terryl-givens) — *[The God Who Weeps](/notes/the-god-who-weeps)* is Miller's chief sparring partner: he resists its claim that the "greatest act of self-revelation" is choosing what to believe, and presses its under-examined Nietzschean problem and its account of Mormon materialism.
 - [Dieter F. Uchtdorf](/notes/dieter-f-uchtdorf) — quoted that "salvation cannot be bought with the currency of obedience; it is purchased by the blood of the Son of God."
 - [C.S. Lewis](/notes/c-s-lewis) — "I want the whole tree out," invoked on atonement as re-creation.
 - [Charles Darwin](/notes/charles-darwin) — the peacock's tail and autumn maple leaves serving the organism's survival rather than human delight, and yet ravishing human vision — the "while," the "and," the "but it also" where Miller locates the giftedness of life.
@@ -59,7 +59,7 @@ A recurring polemic runs underneath all six: salvation "cannot be bought with th
 
 **Books:**
 
-- The God Who Weeps — the Givens book Miller argues against throughout the grace and materiality essays.
+- [The God Who Weeps](/notes/the-god-who-weeps) — the Givens book Miller argues against throughout the grace and materiality essays.
 - [The Next Mormons](/books/the-next-mormons) — companion volume in Kyle's Mormon-studies shelf (Jana Riess's sociology of retention; both also cite Craig Harline's *Way Below the Angels*).
 - [The Crucible of Doubt](/books/the-crucible-of-doubt) — the Givens' faith-and-doubt counterpart to Miller's grace-and-obedience reframing.
 <!-- /interconnections -->

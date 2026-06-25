@@ -7,7 +7,7 @@ quake: false
 tags:
   - "company-building"
   - "language-of-discourse"
-last_imported: "2026-06-24"
+last_imported: "2026-06-25"
 key_takeaways_status: "written"
 ---
 
