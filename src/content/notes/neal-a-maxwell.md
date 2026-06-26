@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Faith is Not Blind.md"
@@ -19,6 +19,7 @@ related:
   - "[[Faith is Not Blind]]"
   - "[[Stretching The Heavens]]"
   - "[[Chad's Big Quote Book]]"
+  - "[[Content with the Things Allotted unto Us — Neal A. Maxwell]]"
   - "[[Gordon B. Hinckley — Go Forward With Faith]]"
   - "[[Patience — Topical Study]]"
   - "[[Self-Mastery — Topical Study]]"
@@ -36,6 +37,7 @@ An apostle of The Church of Jesus Christ of Latter-day Saints whose words recur 
 
 ## Where this appears
 
+- Content with the Things Allotted unto Us — Neal A. Maxwell — his April 2000 General Conference address on circumstantial contentment within our "allotted acreage" ([Alma 29](/notes/alma-29))
 - [Faith is Not Blind](/books/faith-is-not-blind) — scholarship + discipleship; "Jesus will eventually request… the very things which are most difficult"
 - [Stretching The Heavens](/books/stretching-the-heavens) — apostle/correspondent England edited; recipient of the "Abrahamic test" letter; meekness and the "past feeling" exchange
 - [Chad's Big Quote Book](/notes/chad-s-big-quote-book) — quoted on God's individual care and the imperfect but improving disciple

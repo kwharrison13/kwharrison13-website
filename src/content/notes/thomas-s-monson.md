@@ -16,6 +16,7 @@ related:
   - "[[Gordon B. Hinckley: Go Forward With Faith]]"
   - "[[Spiritual Quotes — Greatest Hits]]"
   - "[[Testimony — Topical Study]]"
+  - "[[Our Sacred Priesthood Trust — Thomas S. Monson]]"
   - "[[Gordon B. Hinckley]]"
   - "[[Jeffrey R. Holland]]"
   - "[[Boyd K. Packer]]"
@@ -31,6 +32,7 @@ He recurs as a cross-reference in Kyle's weekly Come Follow Me pages and topical
 
 ## Where this appears
 
+- Our Sacred Priesthood Trust — Thomas S. Monson — his April 2006 priesthood-session address; "When the time for performance arrives, the time for preparation is past," the ministering of angels, and the oath and covenant of the priesthood.
 - Testimony — Topical Study — "That which we willingly share, we keep," used to frame the reciprocal nature of testimony.
 - Spiritual Quotes — Greatest Hits — quoted on pursuing education and expanding talents through study; grouped with the LDS-leadership voices.
 - [Gordon B. Hinckley: Go Forward With Faith](/books/gordon-b-hinckley-go-forward-with-faith) — Monson attesting to Hinckley's breadth and "social ease."

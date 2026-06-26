@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/books.json#library.2019"
@@ -16,6 +16,7 @@ aliases:
   - "Elder Hinckley"
 related:
   - "[[Gordon B. Hinckley — Go Forward With Faith]]"
+  - "[[If Ye Are Prepared Ye Shall Not Fear — Gordon B. Hinckley]]"
   - "[[Sheri L. Dew]]"
   - "[[Marjorie Pay Hinckley]]"
   - "[[Church of Jesus Christ of Latter-Day Saints]]"
@@ -42,6 +43,7 @@ Drawn from [Gordon B. Hinckley — Go Forward With Faith](/books/gordon-b-hinckl
 
 ## Connections
 
+- If Ye Are Prepared Ye Shall Not Fear — Gordon B. Hinckley — his October 2005 priesthood-session address on preparation and not fearing latter-day calamities.
 - [Gordon B. Hinckley — Go Forward With Faith](/books/gordon-b-hinckley-go-forward-with-faith) — Sheri Dew's authorized biography; primary source for this page.
 - [Sheri L. Dew](/notes/sheri-l-dew) — author of that biography.
 - [Marjorie Pay Hinckley](/notes/marjorie-pay-hinckley) — his wife, described as the family's ballast through humor and optimism.

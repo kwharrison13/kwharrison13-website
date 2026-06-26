@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/concepts/Chad's Big Quote Book.md"
@@ -19,6 +19,7 @@ related:
   - "[[Spiritual Quotes — Greatest Hits]]"
   - "[[Diligence]]"
   - "[[The Reasons The Spirit Withdraws]]"
+  - "[[Honor the Priesthood and Use It Well — Richard G. Scott]]"
   - "[[Neal A. Maxwell]]"
   - "[[Henry B. Eyring]]"
 reference_count: 1
@@ -34,6 +35,7 @@ His most load-bearing appearance for Kyle is the line anchoring Diligence and Th
 
 ## Where this appears
 
+- Honor the Priesthood and Use It Well — Richard G. Scott — his October 2008 priesthood-session address urging immediate corrective action and confession to a priesthood leader.
 - [Chad's Big Quote Book](/notes/chad-s-big-quote-book) — cited multiple times on adversity, refinement through trials, and forgiveness.
 - Spiritual Quotes — Greatest Hits — part of the LDS-leadership core of the collection; quoted on staying on the path to happiness.
 - Diligence — anchor quote on precious truth coming "a small piece at a time through faith, with great exertion."
