@@ -25,6 +25,9 @@ related:
   - "[[Janesville]]"
   - "[[Range]]"
   - "[[Managers Not MBAs]]"
+  - "[[College]]"
+  - "[[Wisdom]]"
+  - "[[Where Is Wisdom? — Russell M. Nelson]]"
 reference_count: 1
 ---
 

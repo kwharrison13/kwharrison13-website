@@ -21,6 +21,7 @@ related:
   - "[[Faith is Not Blind]]"
   - "[[Humility — Topical Study]]"
   - "[[Doubt]]"
+  - "[[Jesus Christ Is the Strength of Youth — Dieter F. Uchtdorf]]"
 reference_count: 1
 ---
 
@@ -40,3 +41,4 @@ He is also the defining voice on **humility** in Humility — Topical Study: "hu
 - [Chad's Big Quote Book](/notes/chad-s-big-quote-book) — "Forget Me Not," "move the work, not just mind it," "constrained by the limits you place upon yourself"
 - Godly Sorrow — Topical Study, Testimony — Topical Study, Patience — Topical Study — recurring source in topical studies
 - 10 Gifts To Take Home From Your Mission, Christ Defines His Gospel, General Conference — October 2021 — further appearances across gospel study
+- Jesus Christ Is the Strength of Youth — Dieter F. Uchtdorf — his Oct 2022 General Conference address introducing the revised For the Strength of Youth: "Jesus Christ *is* the strength of youth"

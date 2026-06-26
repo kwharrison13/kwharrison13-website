@@ -20,6 +20,9 @@ related:
   - "[[The King Follett Sermon]]"
   - "[[Exaltation]]"
   - "[[Memory]]"
+  - "[[Wisdom]]"
+  - "[[Knowledge]]"
+  - "[[Where Is Wisdom? — Russell M. Nelson]]"
 reference_count: 1
 ---
 

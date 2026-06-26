@@ -21,6 +21,9 @@ related:
   - "[[Michael Polanyi]]"
   - "[[Matt Clancy]]"
   - "[[The Science of Learning]]"
+  - "[[Wisdom]]"
+  - "[[Intelligence]]"
+  - "[[Where Is Wisdom? — Russell M. Nelson]]"
 reference_count: 1
 ---
 

@@ -22,6 +22,8 @@ related:
   - "[[Spirit of Humility]]"
   - "[[Voice of the People]]"
   - "[[Christ Is Risen; Faith in Him Will Move Mountains — Russell M. Nelson]]"
+  - "[[The Correct Name of the Church — Russell M. Nelson]]"
+  - "[[Where Is Wisdom? — Russell M. Nelson]]"
   - "[[Faith]]"
   - "[[Joseph Smith]]"
   - "[[The Priesthood Power of Women]]"
@@ -43,6 +45,7 @@ related:
 - He surfaces around Church leadership and the balance between institutional authority and scholarly/historical work. [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history)
 - Referenced in the context of leadership and thought. [How To Read a Book](/books/how-to-read-a-book)
 - His own voice: the Easter 2021 address Christ Is Risen; Faith in Him Will Move Mountains — Russell M. Nelson frames [Faith](/notes/faith) in Christ as "the conduit of divine power" and gives five ways to build it (study, choose to believe, act, partake of ordinances, ask).
+- His own voice: the October 2018 address The Correct Name of the Church — Russell M. Nelson casts the restoration of the Church's decreed name as a revealed "course correction" — "to remove the Lord's name from the Lord's Church is a major victory for Satan."
 
 ## Mentioned in
 
@@ -59,6 +62,7 @@ related:
 - [Living Revelation](/notes/living-revelation) — the doctrine of continuing revelation Nelson emphasizes against fixed creeds.
 - [Faith](/notes/faith) — framed in his Easter 2021 address as "the conduit of divine power."
 - Christ Is Risen; Faith in Him Will Move Mountains — Russell M. Nelson — his own address studied in the wiki.
+- The Correct Name of the Church — Russell M. Nelson — his own address; the name-of-the-Church course correction, a signature act of his presidency.
 
 ## Open questions
 
