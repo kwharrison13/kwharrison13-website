@@ -1,6 +1,6 @@
 ---
-title: "Leonard Arrington"
-type: "person"
+title: "The Age of Reason"
+type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-25"
@@ -10,16 +10,18 @@ sources:
   - "wiki/books/Faith is Not Blind.md"
 tags: []
 aliases:
-  - "Leonard Arrington"
+  - "The Age of Reason"
+  - "The Enlightenment"
 related:
   - "[[Faith is Not Blind]]"
+  - "[[Faith and Reason]]"
 reference_count: 1
 ---
 
-# Leonard Arrington
+# The Age of Reason
 
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 
 ## Where this appears
 
-- [Faith is Not Blind](/books/faith-is-not-blind)
+- [Faith is Not Blind](/books/faith-is-not-blind) — the eighteenth-century Enlightenment, when science and reason gradually replaced the church and the kings as the explanation for the meaning of "life."

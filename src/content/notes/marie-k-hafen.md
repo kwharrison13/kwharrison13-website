@@ -1,5 +1,5 @@
 ---
-title: "Leonard Arrington"
+title: "Marie K. Hafen"
 type: "person"
 publish: false
 confidence: "low"
@@ -10,15 +10,16 @@ sources:
   - "wiki/books/Faith is Not Blind.md"
 tags: []
 aliases:
-  - "Leonard Arrington"
+  - "Marie K. Hafen"
 related:
   - "[[Faith is Not Blind]]"
+  - "[[Bruce C. Hafen]]"
 reference_count: 1
 ---
 
-# Leonard Arrington
+# Marie K. Hafen
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page. Co-author with [Bruce C. Hafen](/notes/bruce-c-hafen) of [Faith is Not Blind](/books/faith-is-not-blind)._
 
 ## Where this appears
 

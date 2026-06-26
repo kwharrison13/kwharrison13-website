@@ -1,18 +1,18 @@
 ---
 title: "Joseph F. Smith"
-type: "concept"
+type: "person"
 publish: false
 confidence: "low"
-created: "2026-06-16"
-updated: "2026-06-16"
+created: "2026-06-25"
+updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
-  - "wiki/books/Discipline Is Destiny.md"
+  - "wiki/books/Faith is Not Blind.md"
 tags: []
 aliases:
   - "Joseph F. Smith"
 related:
-  - "[[Chad's Big Quote Book]]"
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
@@ -22,4 +22,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 
 ## Where this appears
 
-- [Discipline Is Destiny](/books/discipline-is-destiny)
+- [Faith is Not Blind](/books/faith-is-not-blind)

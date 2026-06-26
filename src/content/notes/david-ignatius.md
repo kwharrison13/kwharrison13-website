@@ -1,5 +1,5 @@
 ---
-title: "Leonard Arrington"
+title: "David Ignatius"
 type: "person"
 publish: false
 confidence: "low"
@@ -10,13 +10,13 @@ sources:
   - "wiki/books/Faith is Not Blind.md"
 tags: []
 aliases:
-  - "Leonard Arrington"
+  - "David Ignatius"
 related:
   - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
-# Leonard Arrington
+# David Ignatius
 
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 

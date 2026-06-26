@@ -1,18 +1,18 @@
 ---
 title: "Richard Bushman"
-type: "concept"
+type: "person"
 publish: false
 confidence: "low"
-created: "2026-06-18"
-updated: "2026-06-18"
+created: "2026-06-25"
+updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
-  - "wiki/gospel-study/Early Mormonism.md"
+  - "wiki/books/Faith is Not Blind.md"
 tags: []
 aliases:
   - "Richard Bushman"
 related:
-  - "[[Leonard Arrington and the Writing of Mormon History]]"
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
@@ -22,4 +22,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 
 ## Where this appears
 
-- Early Mormonism
+- [Faith is Not Blind](/books/faith-is-not-blind)

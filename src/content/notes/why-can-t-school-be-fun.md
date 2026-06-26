@@ -52,7 +52,7 @@ related:
 
 > "Let's raise visionaries, not cynics — entrepreneurs, not employees — cosmopolitans, not parochials."
 
-> "And then, at what was still a very tender age, he was thrown into the world, and he began to profit from his own experience and observations." — on John Quincy Adams (cf. (DONE) - John Quincy Adams: Militant Spirit)
+> "And then, at what was still a very tender age, he was thrown into the world, and he began to profit from his own experience and observations." — on John Quincy Adams (cf. [John Quincy Adams: Militant Spirit](/books/john-quincy-adams))
 
 ## Kyle's notes
 

@@ -1,5 +1,5 @@
 ---
-title: "Leonard Arrington"
+title: "Cindy Wiser"
 type: "person"
 publish: false
 confidence: "low"
@@ -10,13 +10,13 @@ sources:
   - "wiki/books/Faith is Not Blind.md"
 tags: []
 aliases:
-  - "Leonard Arrington"
+  - "Cindy Wiser"
 related:
   - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
-# Leonard Arrington
+# Cindy Wiser
 
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 

@@ -1,5 +1,5 @@
 ---
-title: "Leonard Arrington"
+title: "Michael Polanyi"
 type: "person"
 publish: false
 confidence: "low"
@@ -10,13 +10,13 @@ sources:
   - "wiki/books/Faith is Not Blind.md"
 tags: []
 aliases:
-  - "Leonard Arrington"
+  - "Michael Polanyi"
 related:
   - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
-# Leonard Arrington
+# Michael Polanyi
 
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 

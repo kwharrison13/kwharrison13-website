@@ -1,6 +1,6 @@
 ---
-title: "Leonard Arrington"
-type: "person"
+title: "Social Media"
+type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-25"
@@ -10,16 +10,17 @@ sources:
   - "wiki/books/Faith is Not Blind.md"
 tags: []
 aliases:
-  - "Leonard Arrington"
+  - "Social Media"
+  - "social media"
 related:
   - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
-# Leonard Arrington
+# Social Media
 
 _Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
 
 ## Where this appears
 
-- [Faith is Not Blind](/books/faith-is-not-blind)
+- [Faith is Not Blind](/books/faith-is-not-blind) — its "oversimplifications" condition people to expect a short answer to any question and can be "tools of deception as well as truth."

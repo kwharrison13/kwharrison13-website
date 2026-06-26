@@ -1,17 +1,18 @@
 ---
 title: "Camden Harrison"
-type: "concept"
+type: "person"
 publish: false
 confidence: "low"
-created: "2026-06-18"
-updated: "2026-06-18"
+created: "2026-06-25"
+updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
-  - "wiki/gospel-study/October 12–18, 2020. 3 Nephi 20–26: \"Ye Are the Children of the Covenant\".md"
+  - "wiki/books/Faith is Not Blind.md"
 tags: []
 aliases:
   - "Camden Harrison"
-related: []
+related:
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
@@ -21,4 +22,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 
 ## Where this appears
 
-- October 12–18, 2020. 3 Nephi 20–26: "Ye Are the Children of the Covenant"
+- [Faith is Not Blind](/books/faith-is-not-blind) — Kyle's note on Camden's MTC teaching experience and the accountability we carry for what others ultimately choose.
