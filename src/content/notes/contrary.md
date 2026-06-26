@@ -19,6 +19,8 @@ related:
   - "[[September 13th, 2022 — Harry Stebbings Podcast]]"
   - "[[March 5th, 2020 — Eric Tarczynski (Contrary Capital)]]"
   - "[[Eric Tarczynski]]"
+  - "[[Sachin Maini]]"
+  - "[[June 26th, 2026 — Contrary Research Office Hours]]"
   - "[[Harry Stebbings]]"
   - "[[Ramp]]"
   - "[[Julie Chen]]"
@@ -38,6 +40,7 @@ related:
 - A "people-centric community" first and foremost; built a community of ~100 future founders before having a fund, growing to >$100M AUM and >400 active members (per September 13th, 2022 — Harry Stebbings Podcast).
 - Focuses on a product relevant to community members across their whole career — first checks for founders, plus involvement in companies like [Ramp](/notes/ramp) where community members congregate.
 - Founder [Eric Tarczynski](/notes/eric-tarczynski) surfaces across Kyle's diligence beyond the firm itself — e.g. the [Teamshares](/notes/teamshares) diligence sweep lists him among the investors/operators consulted.
+- [Sachin Maini](/notes/sachin-maini) is Senior Editor of Contrary Research; he and Kyle run a standing office hours splitting the research/writing and investing sides (see June 26th, 2026 — Contrary Research Office Hours).
 
 ## Where it surrounds Kyle's deal-flow
 
