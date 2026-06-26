@@ -5,7 +5,7 @@ format: "article"
 publish: true
 author: "David Perell"
 url: "https://www.perell.com/blog/superhuman"
-source_published: "2018"
+source_published: "2017"
 confidence: "high"
 created: "2026-06-25"
 updated: "2026-06-25"
