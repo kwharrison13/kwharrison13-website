@@ -29,6 +29,13 @@ related:
   - "[[Surge Pricing Can Save Hundreds of People]]"
   - "[[College Students: Focus On This]]"
   - "[[Why Can't School Be Fun?]]"
+  - "[[Where Do We Go Next?]]"
+  - "[[Equinox Is More Than A Gym. It's A Church.]]"
+  - "[[A Short Guide to Spectacles]]"
+  - "[[Creative Intersections]]"
+  - "[[The Magic of Learning]]"
+  - "[[The Pursuit of Meaning]]"
+  - "[[The Future of Work (Article)]]"
 ---
 
 # David Perell
