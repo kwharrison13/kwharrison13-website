@@ -75,6 +75,7 @@ related:
 - [The Founders](/books/the-founders) — co-protagonist (the X.com / PayPal years)
 - [Elon Musk (Vance)](/books/elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future) — subject of the entire book (the SpaceX / Tesla years)
 - [Amazon Unbound](/books/amazon-unbound) — referenced as parallel founder, Tesla-China contrast, and SpaceX-vs-Blue-Origin context
+- [The Profile Dossier: Elon Musk, the Architect of the Future](/notes/the-profile-dossier-elon-musk-the-architect-of-the-future) — a [Profile](/notes/the-profile) long-form dossier Kyle read in July 2020.
 
 ## Open questions
 

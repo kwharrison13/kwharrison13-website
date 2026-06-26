@@ -18,6 +18,8 @@ related:
   - "[[Unions]]"
   - "[[Internalizing Negative Externalities]]"
   - "[[Unions, Unions Everywhere - Research]]"
+  - "[[Divinations]]"
+  - "[[healthOS]]"
 ---
 
 # Nathan Baschez
@@ -33,3 +35,4 @@ related:
 ## Mentioned in
 
 - Unions, Unions Everywhere - Research — the source that crystallizes the labor-vs-capital tension at the heart of the essay.
+- [healthOS](/notes/healthos) — his [Divinations](/notes/divinations) essay on Apple building the "OS for health."

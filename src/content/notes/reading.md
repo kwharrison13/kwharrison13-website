@@ -30,6 +30,10 @@ _(nothing yet — placeholder)_
 
 _(auto-populated by lint)_
 
+# Quotes
+
+- "What is the real goal? The real goal is not to 'beat the market.' The goal is to build wealth. The real goal is not to read more books. The goal is to understand what you read. **Don't let a proxy become the target. Don't optimize for the wrong outcome.**" [James Clear](/notes/james-clear) — saved in July 2nd, 2020 (daily log). #Goals #Investing #Reading
+
 # BOOKSTORES: How to Read More Books in the Golden Age of Content
 
 [BOOKSTORES: How to Read More Books in the Golden Age of Content](https://www.youtube.com/@maxjosephdirector) #movies-to-watch 

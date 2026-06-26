@@ -14,6 +14,7 @@ tags:
 aliases:
   - "Zach Edwards"
 related:
+  - "[[July 2nd, 2020 — Zach Edwards (Clearstone Associates)]]"
   - "[[September 17th, 2021 — Zach Edwards (Clearstone Associates)]]"
   - "[[Clearstone Associates]]"
   - "[[April 5th, 2022 — Intro to Nick Anger & Brian Blair (RBC)]]"
@@ -32,6 +33,7 @@ related:
 
 ## Mentioned in
 
+- July 2nd, 2020 — Zach Edwards (Clearstone Associates) — "find a great operator to run something"; [Theory of Masters](/notes/theory-of-masters) and a roll-up-billboards idea.
 - March 5th, 2020 — Zach Edwards (Lead Edge Capital) — Teamshares reference call (listed at [Lead Edge Capital](/notes/lead-edge-capital)); conviction-and-creativity framing on leaving Coatue. *[Possibly a different Zach Edwards than the Clearstone/RBC entries below — verify before merging.]*
 - September 17th, 2021 — Zach Edwards (Clearstone Associates) — call at [Clearstone Associates](/notes/clearstone-associates) on diversity-focused products and secularism; recommended [A Secular Age](/notes/a-secular-age) and [The Coddling of the American Mind](/notes/the-coddling-of-the-american-mind).
 - April 5th, 2022 — Intro to Nick Anger & Brian Blair (RBC) — Zach introduced Kyle to [Nick Anger](/notes/nick-anger) and [Brian Blair](/notes/brian-blair) at [RBC](/notes/rbc).
