@@ -53,6 +53,8 @@ related:
   - "[[Forget More To Learn More]]"
   - "[[Pursue What Is Meaningful]]"
   - "[[The Lessons Of History (Book Review)]]"
+  - "[[News in the Age of Abundance]]"
+  - "[[How to Crush It on Twitter: David Perell and Matthew Kobach Workshop]]"
 ---
 
 # David Perell
