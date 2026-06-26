@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Mormon Apologetics"
-related: []
+related:
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
@@ -22,3 +23,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - [How To Read a Book](/books/how-to-read-a-book)
+- [Faith is Not Blind](/books/faith-is-not-blind) — the book's central project: faith that runs through complexity rather than around it

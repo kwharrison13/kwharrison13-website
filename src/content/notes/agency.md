@@ -17,6 +17,7 @@ related:
   - "[[The Life of John Taylor]]"
   - "[[Stories of Your Life and Others]]"
   - "[[Chad's Big Quote Book]]"
+  - "[[Faith is Not Blind]]"
 reference_count: 2
 ---
 
@@ -28,3 +29,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 
 - December 31–January 6, 2019. "We Are Responsible for Our Own Learning"
 - July 6–12, 2020. Alma 30–31: "The Virtue of the Word of God"
+- [Faith is Not Blind](/books/faith-is-not-blind) — "we value what we discover more than we value what we are told"; God refuses to compel belief

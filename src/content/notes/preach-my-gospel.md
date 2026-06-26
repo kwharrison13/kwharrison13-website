@@ -15,6 +15,7 @@ related:
   - "[[Jeffrey R. Holland]]"
   - "[[Chad's Big Quote Book]]"
   - "[[Feed My Sheep]]"
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
@@ -25,3 +26,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - [Chad's Big Quote Book](/notes/chad-s-big-quote-book)
+- [Faith is Not Blind](/books/faith-is-not-blind) — missionaries "invite others to come unto Christ"; the impetus is on the learner

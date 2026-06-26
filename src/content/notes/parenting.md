@@ -16,6 +16,7 @@ related:
   - "[[Childcare]]"
   - "[[What Is ChatGPT Doing and Why Does It Work?]]"
   - "[[The Science of Learning]]"
+  - "[[Faith is Not Blind]]"
 ---
 
 # Parenting
@@ -29,6 +30,8 @@ _(nothing yet — placeholder)_
 ## Where it shows up
 
 _(auto-populated by lint)_
+
+- [Faith is Not Blind](/books/faith-is-not-blind) — teaching children to "deal productively with complexity"
 
 
 ## Quick Capture links — June 29th, 2021

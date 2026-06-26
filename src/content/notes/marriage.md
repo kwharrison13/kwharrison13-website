@@ -15,6 +15,7 @@ aliases:
 related:
   - "[[1 Nephi 16–22 — I Will Prepare the Way before You]]"
   - "[[The Next Mormons]]"
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
@@ -25,3 +26,4 @@ _Stub page — auto-generated from a Roam-style hashtag (`#marriage`). Not yet w
 ## Where this appears
 
 - [Gordon B. Hinckley — Go Forward With Faith](/books/gordon-b-hinckley-go-forward-with-faith)
+- [Faith is Not Blind](/books/faith-is-not-blind) — motherhood/fatherhood vs. education as sometimes-competing principles to apply prayerfully

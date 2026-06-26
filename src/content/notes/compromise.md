@@ -15,6 +15,7 @@ aliases:
 related:
   - "[[Benjamin Franklin: An American Life]]"
   - "[[The Greatest Sentence Ever Written]]"
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
@@ -25,3 +26,4 @@ _Stub page — auto-generated from a Roam-style hashtag (`#compromise`). Not yet
 ## Where this appears
 
 - [The Death of Expertise](/books/the-death-of-expertise)
+- [Faith is Not Blind](/books/faith-is-not-blind) — the Hebrew vs. Greek heritage on a coin: "Liberty" and "In God We Trust"

@@ -14,6 +14,7 @@ aliases:
 related:
   - "[[Gordon B. Hinckley: Go Forward With Faith]]"
   - "[[Chad's Big Quote Book]]"
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
@@ -24,3 +25,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - [Chad's Big Quote Book](/notes/chad-s-big-quote-book)
+- [Faith is Not Blind](/books/faith-is-not-blind) — scholarship + discipleship; "Jesus will eventually request…the very things which are most difficult"

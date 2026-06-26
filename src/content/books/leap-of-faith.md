@@ -22,7 +22,7 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+- [Faith is Not Blind](/books/faith-is-not-blind) — belief that outruns proof; faith beyond the boundaries of reason.
 <!-- /interconnections -->
 
 ## Highlights

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Testimony"
-related: []
+related:
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
@@ -22,3 +23,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - December 31–January 6, 2019. "We Are Responsible for Our Own Learning"
+- [Faith is Not Blind](/books/faith-is-not-blind) — trust grounded in "the shining eyes of a million personal discoveries"

@@ -38,6 +38,7 @@ Sheri Dew's authorized biography of [Gordon B. Hinckley](/notes/gordon-b-hinckle
 ## Connections
 
 <!-- interconnections -->
+- [Faith is Not Blind](/books/faith-is-not-blind) — faith as forward motion under uncertainty.
 - [Howard W. Hunter by Eleanor Knowles](/books/howard-w-hunter-by-eleanor-knowles) — companion devotional biography of the Church president Hinckley succeeded; same Deseret Book hagiographic form and leadership-by-faith register.
 - [Brigham Young — American Moses](/books/brigham-young-american-moses) — the prophet-as-builder/administrator lineage; the pragmatic "roll up your sleeves" mode of Church leadership Hinckley inherited and embodied.
 - [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — the foundational prophet whose work Hinckley saw himself continuing; revelation-as-process rather than dramatic visitation (cf. the smaller-temples idea maturing over years).

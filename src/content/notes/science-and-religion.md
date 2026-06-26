@@ -13,6 +13,7 @@ aliases:
   - "Science and Religion"
 related:
   - "[[The Faith of a Scientist]]"
+  - "[[Faith is Not Blind]]"
 ---
 
 # Science and Religion
@@ -22,3 +23,4 @@ _Stub — flagged during the 2026-06-19 connection sweep as an entity referenced
 ## Where this appears
 
 - [The Faith of a Scientist](/books/the-faith-of-a-scientist)
+- [Faith is Not Blind](/books/faith-is-not-blind) — science can adjust confidence but "can't produce absolute certainty"; faith complementary with the principles of science

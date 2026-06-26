@@ -14,6 +14,7 @@ aliases:
 related:
   - "[[Chad's Big Quote Book]]"
   - "[[The Science of Learning]]"
+  - "[[Faith is Not Blind]]"
 ---
 
 # T.S. Eliot
@@ -27,3 +28,5 @@ _(nothing yet — placeholder for future passes)_
 ## Mentioned in
 
 _(auto-populated by lint)_
+
+- [Faith is Not Blind](/books/faith-is-not-blind) — quoted: "arrive where we started and know the place for the first time"

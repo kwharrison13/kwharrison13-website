@@ -13,6 +13,7 @@ aliases:
   - "Bruce C. Hafen"
 related:
   - "[[The Broken Heart]]"
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
@@ -23,3 +24,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - [The Broken Heart](/books/the-broken-heart)
+- [Faith is Not Blind](/books/faith-is-not-blind) — co-author of Faith is Not Blind

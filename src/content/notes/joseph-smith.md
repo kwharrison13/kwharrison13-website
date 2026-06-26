@@ -18,6 +18,7 @@ related:
   - "[[The King Follett Sermon]]"
   - "[[1 Nephi 16–22 — I Will Prepare the Way before You]]"
   - "[[Teachings of Presidents of the Church: Joseph Smith]]"
+  - "[[Faith is Not Blind]]"
 ---
 
 # Joseph Smith
@@ -31,3 +32,5 @@ _(nothing yet — placeholder for future passes)_
 ## Mentioned in
 
 _(auto-populated by lint)_
+
+- [Faith is Not Blind](/books/faith-is-not-blind) — quoted: "by proving contraries, truth is made manifest"; the grove and acting with "real intent"

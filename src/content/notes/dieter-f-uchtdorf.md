@@ -13,6 +13,7 @@ aliases:
   - "Dieter F. Uchtdorf"
 related:
   - "[[Chad's Big Quote Book]]"
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
@@ -23,3 +24,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - [Chad's Big Quote Book](/notes/chad-s-big-quote-book)
+- [Faith is Not Blind](/books/faith-is-not-blind) — "first doubt your doubts before you doubt your faith"

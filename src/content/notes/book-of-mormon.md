@@ -19,6 +19,7 @@ related:
   - "[[Chad's Big Quote Book]]"
   - "[[Joseph Smith Lecture 2 — Joseph's Personality and Character]]"
   - "[[Feed My Sheep]]"
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
@@ -29,3 +30,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - [Gordon B. Hinckley — Go Forward With Faith](/books/gordon-b-hinckley-go-forward-with-faith)
+- [Faith is Not Blind](/books/faith-is-not-blind) — Bushman: "I can't help feeling that the words are true and the events happened"

@@ -14,6 +14,7 @@ related:
   - "[[Saints: No Unhallowed Hand]]"
   - "[[Chad's Big Quote Book]]"
   - "[[Joseph Smith Lecture 2 — Joseph's Personality and Character]]"
+  - "[[Faith is Not Blind]]"
 ---
 
 # Wilford Woodruff
@@ -27,3 +28,5 @@ _(nothing yet — placeholder for future passes)_
 ## Mentioned in
 
 _(auto-populated by lint)_
+
+- [Faith is Not Blind](/books/faith-is-not-blind) — the 1890 Manifesto; "the Lord will never permit me…to lead you astray"

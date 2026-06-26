@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Moral Relativism"
-related: []
+related:
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
@@ -22,3 +23,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - Truth and Tolerance — Dallin H. Oaks
+- [Faith is Not Blind](/books/faith-is-not-blind) — the twentieth century ushered in "the age of relativism"

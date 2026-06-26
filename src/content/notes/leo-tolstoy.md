@@ -11,7 +11,8 @@ tags: []
 aliases:
   - "Leo Tolstoy"
   - "Tolstoy"
-related: []
+related:
+  - "[[Faith is Not Blind]]"
 ---
 
 # Leo Tolstoy
@@ -25,3 +26,5 @@ _(nothing yet — placeholder for future passes)_
 ## Mentioned in
 
 _(auto-populated by lint)_
+
+- [Faith is Not Blind](/books/faith-is-not-blind) — his theory of history: study "the small elements by which the masses are moved"

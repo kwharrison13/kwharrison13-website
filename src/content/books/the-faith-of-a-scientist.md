@@ -24,6 +24,7 @@ Henry Eyring's collection on science and religion read with two structural obser
 
 <!-- interconnections -->
 **Books:**
+- [Faith is Not Blind](/books/faith-is-not-blind) — both reconcile empirical science with revealed religion (Collins / Eyring).
 - [The Crucible of Doubt](/books/the-crucible-of-doubt) — same religion-and-doubt intersection, faith holding together amid unresolved questions.
 - [Stretching The Heavens](/books/stretching-the-heavens) — [Eugene England](/notes/eugene-england)'s parallel LDS thinking on intellect and faith.
 - [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — doctrinal foundation for the Restoration claims Eyring treats as compatible with science.

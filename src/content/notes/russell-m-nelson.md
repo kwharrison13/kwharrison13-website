@@ -26,6 +26,7 @@ related:
   - "[[Joseph Smith]]"
   - "[[The Priesthood Power of Women]]"
   - "[[Feed My Sheep]]"
+  - "[[Faith is Not Blind]]"
 ---
 
 # Russell M. Nelson
@@ -50,6 +51,7 @@ related:
 - [The Death of Expertise](/books/the-death-of-expertise) — religious authority vs. technical expertise.
 - [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — institutional authority and Church history.
 - [How To Read a Book](/books/how-to-read-a-book) — leadership and thought.
+- [Faith is Not Blind](/books/faith-is-not-blind) — "give your leaders a little leeway to make mistakes"
 
 ## Connections
 

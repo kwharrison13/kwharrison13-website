@@ -15,7 +15,8 @@ aliases:
   - "F. Scott Fitzgerald"
   - "Fitzgerald"
   - "Scott Fitzgerald"
-related: []
+related:
+  - "[[Faith is Not Blind]]"
 ---
 
 # F. Scott Fitzgerald
@@ -28,3 +29,4 @@ _Stub page — created from It's Time To Build... But Build What - Research. Exp
 
 - [How To Take Smart Notes](/books/how-to-take-smart-notes)
 - It's Time To Build... But Build What - Research
+- [Faith is Not Blind](/books/faith-is-not-blind) — quoted on holding two opposed ideas in mind at once

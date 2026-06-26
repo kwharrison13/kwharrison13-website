@@ -15,6 +15,7 @@ related:
   - "[[Leonard Arrington and the Writing of Mormon History]]"
   - "[[Gordon B. Hinckley: Go Forward With Faith]]"
   - "[[Chad's Big Quote Book]]"
+  - "[[Faith is Not Blind]]"
 ---
 
 # Spencer W. Kimball
@@ -28,3 +29,5 @@ _(nothing yet — placeholder for future passes)_
 ## Mentioned in
 
 _(auto-populated by lint)_
+
+- [Faith is Not Blind](/books/faith-is-not-blind) — "to know is not enough; one must do"

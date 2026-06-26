@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "History"
-related: []
+related:
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
@@ -22,3 +23,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters)
+- [Faith is Not Blind](/books/faith-is-not-blind) — Tolstoy on the small forces that move the masses; founding stories that survive mythbusting

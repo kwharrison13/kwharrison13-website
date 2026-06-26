@@ -14,6 +14,7 @@ aliases:
 related:
   - "[[Chad's Big Quote Book]]"
   - "[[All Who Have Endured Valiantly]]"
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
@@ -24,3 +25,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - [Chad's Big Quote Book](/notes/chad-s-big-quote-book)
+- [Faith is Not Blind](/books/faith-is-not-blind) — Mere Christianity: "I will give you Myself"

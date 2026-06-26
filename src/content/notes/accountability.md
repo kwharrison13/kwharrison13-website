@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Accountability"
-related: []
+related:
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
@@ -22,3 +23,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - [The Death of Expertise](/books/the-death-of-expertise)
+- [Faith is Not Blind](/books/faith-is-not-blind) — choosing between two principled "goods" as essential to spiritual maturity

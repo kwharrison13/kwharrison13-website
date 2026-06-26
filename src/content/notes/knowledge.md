@@ -14,6 +14,7 @@ aliases:
 related:
   - "[[Matt Clancy]]"
   - "[[The Science of Learning]]"
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
@@ -24,3 +25,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - [Gordon B. Hinckley — Go Forward With Faith](/books/gordon-b-hinckley-go-forward-with-faith)
+- [Faith is Not Blind](/books/faith-is-not-blind) — becoming Christlike is "more about acquiring skills than learning facts"

@@ -13,6 +13,7 @@ aliases:
   - "Thomas O'Dea"
 related:
   - "[[The Next Mormons]]"
+  - "[[Faith is Not Blind]]"
 ---
 
 # Thomas O'Dea
@@ -22,3 +23,4 @@ _Stub — flagged during the 2026-06-19 connection sweep as an entity referenced
 ## Where this appears
 
 - [The Next Mormons](/books/the-next-mormons)
+- [Faith is Not Blind](/books/faith-is-not-blind) — his 1957 book The Mormons predicted secular learning would decide Mormonism's future

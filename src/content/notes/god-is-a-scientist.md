@@ -13,6 +13,7 @@ aliases:
   - "God is a Scientist"
 related:
   - "[[Charlie Munger — Practical Thought About Practical Thought]]"
+  - "[[Faith is Not Blind]]"
 ---
 
 # God is a Scientist
@@ -22,3 +23,4 @@ _Stub — flagged during the 2026-06-19 connection sweep as an entity referenced
 ## Where this appears
 
 - [Charlie Munger — Practical Thought About Practical Thought](/notes/charlie-munger-practical-thought-about-practical-thought)
+- [Faith is Not Blind](/books/faith-is-not-blind) — Francis Collins: the genome as "the language in which God created life"; faith complementary with science

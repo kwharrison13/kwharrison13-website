@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "J.R.R. Tolkien"
-related: []
+related:
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 
@@ -22,3 +23,4 @@ _Stub page — auto-generated from wikilink references. Not yet written. Referen
 ## Where this appears
 
 - Helaman 7–12 — Remember the Lord
+- [Faith is Not Blind](/books/faith-is-not-blind) — quoted: "not all those who wander are lost"
