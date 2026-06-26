@@ -27,7 +27,7 @@ related:
 - Launched [MEDVI](/notes/medvi) in September 2024 from his house in LA, spending ~$20K, using the full AI stack (ChatGPT, Claude, Grok, Midjourney, Runway) to build the site, marketing assets, customer service, and backend. (source: The $1B Rorschach Test - Research)
 - Built (with his younger brother — "two people") what is claimed to be a $1.8B-revenue business in 14 months. (source: The $1B Rorschach Test - Research)
 - Kyle's essay explicitly does **not** judge Gallagher — the disappointment is aimed at the journalists, founders, and pundits canonizing the story as an AI win, not at the founder himself. (source: The $1B Rorschach Test - Research)
-- Characterized as "[saying the quiet part out loud]([Saying The Quiet Part Out Loud](/essays/saying-the-quiet-part-out-loud))" — openly broadcasting a [move-fast-and-break-laws](/notes/move-fast-and-break-things) playbook. (source: The $1B Rorschach Test - Research)
+- Characterized as [saying the quiet part out loud](/essays/saying-the-quiet-part-out-loud) — openly broadcasting a [move-fast-and-break-laws](/notes/move-fast-and-break-things) playbook. (source: The $1B Rorschach Test - Research)
 
 ## Mentioned in
 
