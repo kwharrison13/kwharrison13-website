@@ -4,16 +4,18 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/long-reads/The Future of Work (Article).md"
+  - "wiki/books/In Defense of a Liberal Education.md"
 tags: []
 aliases:
   - "Fareed Zakaria"
 related:
   - "[[The Future of Work (Article)]]"
-reference_count: 1
+  - "[[In Defense of a Liberal Education]]"
+reference_count: 2
 ---
 
 # Fareed Zakaria
@@ -25,3 +27,4 @@ Fareed Zakaria appears in [The Future of Work (Article)](/notes/the-future-of-wo
 ## Where this appears
 
 - [The Future of Work (Article)](/notes/the-future-of-work-article) — cited for his framing of the globalization-vs-sovereignty divide behind nationalist backlash.
+- [In Defense of a Liberal Education](/books/in-defense-of-a-liberal-education) — author of this 2015 defense of the liberal-arts model, which Kyle read in 2017.

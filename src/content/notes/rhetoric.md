@@ -26,6 +26,8 @@ related:
   - "[[We Need a Renaissance of Rhetoric - Research]]"
   - "[[AI Cheating in Education]]"
   - "[[Writing]]"
+  - "[[Great Speeches]]"
+  - "[[Speeches That Changed The World]]"
 ---
 
 # Rhetoric
@@ -36,6 +38,7 @@ related:
 
 - [We Need a Renaissance of Rhetoric](/essays/we-need-a-renaissance-of-rhetoric) / We Need a Renaissance of Rhetoric - Research
 - [John Quincy Adams](/books/john-quincy-adams) — Adams taught classical rhetoric at Harvard and sought to "rescue this ancient art from its modern slumber."
+- [Speeches That Changed The World](/books/speeches-that-changed-the-world) / [Great Speeches](/notes/great-speeches) — rhetoric in practice: anthologies of the oratory that moved nations.
 
 ## Related concepts
 

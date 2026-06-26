@@ -13,6 +13,7 @@ sources:
   - "wiki/books/John Quincy Adams.md"
   - "wiki/essays-research/The Renaissance of Rise and Grind - Research.md"
   - "wiki/people/Leslie Knope.md"
+  - "wiki/books/Speeches That Changed The World.md"
 tags:
   - "hard-work"
   - "work-ethic"
@@ -29,6 +30,7 @@ related:
   - "[[Leslie Knope]]"
   - "[[Golden Handcuffs]]"
   - "[[Work Ethic]]"
+  - "[[Speeches That Changed The World]]"
 reference_count: 1
 ---
 
@@ -48,3 +50,4 @@ The concept also has a critical, generational edge. [Hillbilly Elegy](/books/hil
 - [Leslie Knope](/notes/leslie-knope) — "Gen Z hates Leslie Knope" as a barometer of diminished appetite for hard work.
 - [Protestant Work Ethic](/notes/protestant-work-ethic) — diligence as a demonstration of divine favor.
 - [Golden Handcuffs](/notes/golden-handcuffs) — the comfort that blunts the pull toward hard work.
+- [Speeches That Changed The World](/books/speeches-that-changed-the-world) — [John F. Kennedy](/notes/john-f-kennedy)'s moon address: "not because they are easy, but because they are hard" — hard work scaled to a national project.

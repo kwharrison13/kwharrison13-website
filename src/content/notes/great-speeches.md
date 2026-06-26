@@ -17,6 +17,7 @@ aliases:
 related:
   - "[[Rhetoric]]"
   - "[[James Clear]]"
+  - "[[Speeches That Changed The World]]"
 ---
 
 # Great Speeches
@@ -38,6 +39,10 @@ When Kyle thinks about the speeches that impacted him growing up, three genuinel
 **3. Charlie Chaplin, the final speech in The Great Dictator** — As a freshman at [BYU](/notes/brigham-young-university), Kyle developed an obsession with old films, pouring over laser disc videos and VHS tapes in the library viewing rooms, and watched this Chaplin film.
 - "We have developed speed, but we have shut ourselves in. Machinery that gives us abundance has left us in want. **Our knowledge has made us cynical. Our cleverness, hard and unkind. We think too much, and feel too little.** More than machinery, we need humanity. More than cleverness, we need kindness and gentleness. Without these qualities life will be violent, and all will be lost." — Charlie Chaplin
 - [Watch on YouTube](https://www.youtube.com/watch?v=J7GY1Xg6X20)
+
+## In print
+
+- **[Speeches That Changed The World](/books/speeches-that-changed-the-world)** ([Simon Sebag Montefiore](/notes/simon-sebag-montefiore), read 2017) — an anthology of history-bending oratory from the founding era to the Cold War's end. Kyle's highlights: [Patrick Henry](/notes/patrick-henry) on judging the future by the past, [John F. Kennedy](/notes/john-f-kennedy)'s moon address ("not because they are easy, but because they are hard"), and [Václav Havel](/notes/v-clav-havel) on the "contaminated moral environment" of [totalitarian](/notes/totalitarianism) rule.
 
 ## James Clear's collection
 
