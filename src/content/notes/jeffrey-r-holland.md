@@ -17,6 +17,7 @@ aliases:
   - "Elder Holland"
 related:
   - "[[Feed My Sheep]]"
+  - "[[Therefore, What? — Jeffrey R. Holland]]"
   - "[[1 Nephi 16–22 — I Will Prepare the Way before You]]"
   - "[[The Tongue of Angels]]"
   - "[[Preach My Gospel]]"
@@ -32,6 +33,7 @@ Apostle in the Quorum of the Twelve Apostles of the Church of Jesus Christ of La
 ## Connections
 
 - [Feed My Sheep](/notes/feed-my-sheep) — his January 2011 MTC address to departing missionaries, the long-read in which the wiki captures his preaching at length.
+- Therefore, What? — Jeffrey R. Holland — his CES address on teaching that *heals*, demanding a changed life as the outcome of every lesson ("Therefore, what?"), and the two Atonement lessons of Gethsemane.
 - [Preach My Gospel](/notes/preach-my-gospel) — the missionary teaching guide his Feed My Sheep address centers on.
 - [Missionary Work](/notes/missionary-work) — the subject of that address and the recurring theme tying his appearances together.
 - [The Tongue of Angels](/notes/the-tongue-of-angels) — another Holland sermon on the power and discipline of speech.
