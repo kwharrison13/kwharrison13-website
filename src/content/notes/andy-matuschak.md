@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
   - "Roam Research export — Andy Matuschak, 'Why Books Don't Work' (reading highlights + notes): ~/Downloads/Why Books Don't Work.md"
@@ -16,6 +16,8 @@ aliases:
   - "Andy Matuschak"
 related:
   - "[[Why Books Don't Work]]"
+  - "[[Andy Matuschak — Designing Education]]"
+  - "[[David Perell]]"
   - "[[Michael Nielsen]]"
   - "[[Tools For Thought]]"
   - "[[Spaced Repetition]]"
@@ -37,6 +39,7 @@ related:
 
 - [How To Take Smart Notes](/books/how-to-take-smart-notes)
 - [Why Books Don't Work](/notes/why-books-don-t-work) — author; the essay is the primary source for this page.
+- [Andy Matuschak — Designing Education](/notes/andy-matuschak-designing-education) — guest on [David Perell](/notes/david-perell)'s North Star Podcast; the "knowledge workers don't think about knowledge work" framing recurs there.
 
 ## Open questions
 
