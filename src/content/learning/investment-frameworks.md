@@ -18,6 +18,7 @@ aliases:
   - "Investment Frameworks"
   - "Investment Checklists"
 related:
+  - "[[Investment Memo Template]]"
   - "[[Investing 101 2.0]]"
   - "[[Capital Allocation]]"
   - "[[Poor Charlie's Almanack]]"
