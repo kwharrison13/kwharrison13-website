@@ -46,6 +46,13 @@ related:
   - "[[When Java Meets Jive]]"
   - "[[Just Flow With It]]"
   - "[[David vs. Goliath: A History of New York Trade]]"
+  - "[[The Future of American Sports]]"
+  - "[[Naked Brands: The Future of Fashion]]"
+  - "[[Naked Brands: The Future of Finance]]"
+  - "[[Naked Brands: The Future of Music]]"
+  - "[[Forget More To Learn More]]"
+  - "[[Pursue What Is Meaningful]]"
+  - "[[The Lessons Of History (Book Review)]]"
 ---
 
 # David Perell
