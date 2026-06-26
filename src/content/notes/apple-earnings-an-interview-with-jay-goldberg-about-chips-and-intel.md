@@ -2,7 +2,7 @@
 title: "Apple Earnings, An Interview with Jay Goldberg About Chips and Intel"
 type: "longform"
 format: "article"
-publish: false
+publish: true
 author: "Ben Thompson (Stratechery) — interview with Jay Goldberg"
 url: "https://stratechery.com/2021/apple-earnings-an-interview-with-jay-goldberg-about-chips-and-intel/"
 source_published: "2021"
