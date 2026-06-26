@@ -21,7 +21,7 @@ This week, two new fund announcements caught my eye.
 
 The first was the massive [announcement](https://www.generalcatalyst.com/stories/fundxii) from General Catalyst of their twelfth fund, raising "$8B of new capital, including around $4.5B for our core VC funds focused on seed and growth equity (across our Ignition, Endurance, and Health Assurance strategies), $1.5B for our Creation strategy, and $2B of separately managed accounts."
 
-The second was my friend Mark Goldberg's [announcement](https://www.forbes.com/sites/alexkonrad/2024/10/23/index-bessemer-a16z-alums-raise-350-million-fund-chemistry/) of Chemistry, a $350M first-time fund with former partners from Index, Bessemer, and a16z. The new firm's strategy is to "play offense with a focused fund.” The focus? B2B companies in "fintech, work software and developer and infrastructure tools." Equal partnership, with each of the three partners making 2-3 investments per year. The partners referenced firms like Benchmark and USV as comparable strategies.
+The second was my friend [[Mark Goldberg]]'s [announcement](https://www.forbes.com/sites/alexkonrad/2024/10/23/index-bessemer-a16z-alums-raise-350-million-fund-chemistry/) of Chemistry, a $350M first-time fund with former partners from [[Index Ventures|Index]], [[Bessemer Venture Partners|Bessemer]], and a16z. The new firm's strategy is to "play offense with a focused fund.” The focus? B2B companies in "fintech, work software and developer and infrastructure tools." Equal partnership, with each of the three partners making 2-3 investments per year. The partners referenced firms like [[Benchmark]] and USV as comparable strategies.
 
 These two firms represented perfect counter-positioning strategies in the rapidly evolving venture landscape that I've written about several times in pieces like [The Blackstone of Innovation](https://investing1012dot0.substack.com/p/the-blackstone-of-innovation) and [Institutionalized Belief In The Greater Fool](https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater). In fact, after I wrote my most popular piece, [The Puritans of Venture Capital](https://investing1012dot0.substack.com/p/the-puritans-of-venture-capital), Mark and I talked specifically about how the dynamic I described in that piece was exactly how he was thinking about building his firm's strategy.
 
@@ -39,13 +39,13 @@ That clear contrast is what struck me most about the announcements from General 
 
 Now, I've always been quick to say that I'm not staunchly for or against any particular strategy. I'm more focused on recognizing that these types of firms are, in fact, [playing different games](https://investing1012dot0.substack.com/p/player-different-stupider-games). And the only stupid game is failing to recognize that the games are different.
 
-The clearest indicator that someone is failing to appreciate those differences is when they immediately dismiss anyone but the large, established funds. "Nobody can compete with Sequoia, etc." In an industry defined by disruption and competitive upset, nothing could be further from the truth. And don’t point out halo effects or capital retention. I never said its easy. **But the reality is that anyone is capable of defeat.** ***Anyone*****. The question isn't if, but how.**
+The clearest indicator that someone is failing to appreciate those differences is when they immediately dismiss anyone but the large, established funds. "Nobody can compete with [[Sequoia]], etc." In an industry defined by disruption and competitive upset, nothing could be further from the truth. And don’t point out halo effects or capital retention. I never said its easy. **But the reality is that anyone is capable of defeat.** ***Anyone*****. The question isn't if, but how.**
 
 # "No Easy Button"
 
 In Chemistry's launch announcement, I loved how Esteban Castaño, cofounder and CEO of blockchain intelligence firm TRM Labs, [explained](https://www.forbes.com/sites/alexkonrad/2024/10/23/index-bessemer-a16z-alums-raise-350-million-fund-chemistry/) the reality in venture:
 
-> *“If you’re in Silicon Valley longer than a year, **you’ll soon see dozens of startups that have been backed by the fanciest brands and still died.** It’s extremely tempting, because you desperately want an easy button. The unfortunate reality is that there is none."*
+> *“If you’re in [[Silicon Valley]] longer than a year, **you’ll soon see dozens of startups that have been backed by the fanciest brands and still died.** It’s extremely tempting, because you desperately want an easy button. The unfortunate reality is that there is none."*
 
 So while many people will write off the battle to begin with, the reality is that every venture firm is trying to increase the odds of success for their startups. Some are better or worse at that, and their ability to do that can improve or decline over time. Every firm just happen to be going about it very differently.
 
@@ -65,7 +65,7 @@ Even the possibility of adding partners down the road is defined by their intent
 
 Chemistry has struck a great balance. $350M is enough firepower to go head to head against multi-stage firms at seed and Series A, but isn't so big that they're under pressure to deploy more capital into more deals, and split their focus. In a world of bigger and bigger funds, there's is a meaningful need for this kind of focus.
 
-In my Puritans piece, I clearly explained how Cottage Keepers will, increasingly, have to define themselves as "product-led venture firms." Answering the question of "WHY should a founder choose you. What is the job a founder hires you to do?" Chemistry's answer to that is how Kristina Shen, Mark's partner, explained it:
+In my Puritans piece, I clearly explained how Cottage Keepers will, increasingly, have to define themselves as "product-led venture firms." Answering the question of "WHY should a founder choose you. What is the job a founder hires you to do?" Chemistry's answer to that is how [[Kristina Shen]], Mark's partner, explained it:
 
 > *“You have to play the game in front of you, but **we believe that by being focused, we can play that game better**."*
 

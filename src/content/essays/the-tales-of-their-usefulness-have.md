@@ -17,9 +17,9 @@ substack_url: "https://investing101.substack.com/p/the-tales-of-their-usefulness
 
 ![Header image for The Tales of Usefulness Have Been Greatly Exaggerated](/images/the-tales-of-their-usefulness-have-c5b048e6.png)
 
-I've been told I can get overly clever with titles and headings so I'll explain the joke. In 1897 Mark Twain traveled to London and while away rumors began to circulate that he was on his death bed, or possibly dead already. When a journalist reached out to inquire if he was, in fact, dead Twain responded ([sort of](https://www.mentalfloss.com/article/562400/reports-mark-twains-quote-about-mark-twains-death-are-greatly-exaggerated)) "the reports of my death have been greatly exaggerated." 😉
+I've been told I can get overly clever with titles and headings so I'll explain the joke. In 1897 [[Mark Twain]] traveled to London and while away rumors began to circulate that he was on his death bed, or possibly dead already. When a journalist reached out to inquire if he was, in fact, dead Twain responded ([sort of](https://www.mentalfloss.com/article/562400/reports-mark-twains-quote-about-mark-twains-death-are-greatly-exaggerated)) "the reports of my death have been greatly exaggerated." 😉
 
-[I've written before](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital) about the origins of venture in the 50's and back then the memes weren't so dank. But the VC meme game has really stepped up in the last few years. Now [@vcstarterkit](https://twitter.com/vcstarterkit) has 50K+ followers on Twitter and most jokes about "VC usefulness" can go viral.
+[I've written before](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital) about the origins of venture in the 50's and back then the memes weren't so dank. But the VC meme game has really stepped up in the last few years. Now [@vcstarterkit](https://twitter.com/vcstarterkit) has 50K+ followers on [[Twitter]] and most jokes about "VC usefulness" can go viral.
 
 At the risk of over-analyzing the joke I wanted to dig into why the running gag revolves around VCs consistently saying, "let me know how I can be helpful" while the most common response to ["how have your VCs added value?"](https://twitter.com/emilyhxrrera/status/1550479062912606209?s=20&t=-dxM3dkXzweRidcaeZiSZQ) is that they've "left us alone."
 
@@ -53,19 +53,19 @@ Too many people have forgotten that. Some of the meme-ery of VC might stem from 
 
 ### Improved Odds
 
-I've written [before](https://investing1012dot0.substack.com/p/natural-selection-among-startups) ([several](https://investing1012dot0.substack.com/p/two-markets?s=w) [times](https://investing1012dot0.substack.com/p/talent) in fact) about this idea of working with VCs to "improve your odds." The idea first came from a Bryce Roberts tweet that I think about all the time in response to the question, "what product do founders want to buy from VCs?" Bryce's response to the question?
+I've written [before](https://investing1012dot0.substack.com/p/natural-selection-among-startups) ([several](https://investing1012dot0.substack.com/p/two-markets?s=w) [times](https://investing1012dot0.substack.com/p/talent) in fact) about this idea of working with VCs to "improve your odds." The idea first came from a [[Bryce Roberts]] tweet that I think about all the time in response to the question, "what product do founders want to buy from VCs?" Bryce's response to the question?
 
-Marc Andreessen said it another way, describing it as a "bridge loan of credibility in advance of tangible evidence."
+[[Marc Andreessen]] said it another way, describing it as a "bridge loan of credibility in advance of tangible evidence."
 
 Once you start to measure any proposed VC value-add I think this is a good bar to begin with. Can the VC improve your odds of success? And I think there are a few ways they often go about doing that.
 
 ### First & Foremost: Capital
 
-Before any program or process the relationship to capital is critical. Bill Gurley, I believe, articulated this idea of the danger that comes from decoupling advice from capital (though I couldn’t find his tweet.) When you're just giving cash or just giving advice you have [misaligned incentives.](https://twitter.com/honam/status/1545760691696443392?s=20&t=L0jReBXYFryXliud1nRf4Q)
+Before any program or process the relationship to capital is critical. [[Bill Gurley]], I believe, articulated this idea of the danger that comes from decoupling advice from capital (though I couldn’t find his tweet.) When you're just giving cash or just giving advice you have [misaligned incentives.](https://twitter.com/honam/status/1545760691696443392?s=20&t=L0jReBXYFryXliud1nRf4Q)
 
 In simplest terms VCs represent an allocation mechanism. The owners of capital (pensions, endowments, family offices) need help effectively allocating capital to the people who need it (founders) and VCs act as a well-informed middle man. Often the most valuable thing an investor can do is give you money.
 
-One rave review from a company about their VC is a story I learned during my days at TCV. In 1999 TCV made their first investment in Netflix right before they spent the next few years getting batted around by the dotcom. TCV helped Netflix through a recap in 2001 and invested several times over the next few years.
+One rave review from a company about their VC is a story I learned during my days at TCV. In 1999 TCV made their first investment in [[Netflix]] right before they spent the next few years getting batted around by the dotcom. TCV helped Netflix through a recap in 2001 and invested several times over the next few years.
 
 > ***"If there wasn’t TCV, there wouldn’t be Netflix.”** (Barry McCarthy, Netflix CFO)*
 

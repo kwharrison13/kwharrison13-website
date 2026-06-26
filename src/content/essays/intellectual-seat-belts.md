@@ -17,7 +17,7 @@ substack_url: "https://investing101.substack.com/p/intellectual-seat-belts"
 
 ![Header image for Intellectual Seat Belts](/images/intellectual-seat-belts-9d01cab7.png)
 
-Two years ago, my partner [Will Robbins](https://twitter.com/whrobbins) told me a story about Peter Thiel. In a [New Yorker profile](https://www.newyorker.com/magazine/2011/11/28/no-death-no-taxes) in 2011, Thiel made this point:
+Two years ago, my partner [Will Robbins](https://twitter.com/whrobbins) told me a story about [[Peter Thiel]]. In a [New Yorker profile](https://www.newyorker.com/magazine/2011/11/28/no-death-no-taxes) in 2011, Thiel made this point:
 
 > *"I oscillate on the seat-belt question. The pro-seat-belt argument is that it’s safer, and **the anti-seat-belt argument is that if you know that it’s not as safe you’ll be a more careful driver**."*
 
@@ -29,7 +29,7 @@ This is a topic I've touched on in my writing in a bunch of different ways:
 
 ## Opposed Ideas
 
-The first, and most common, way I've framed this dynamic is with a quote from F. Scott Fitzgerald that I've quoted [over](https://investing1012dot0.substack.com/p/the-renaissance-of-rise-and-grind), and [over](https://investing1012dot0.substack.com/p/the-meme-economy), and [over](https://investing1012dot0.substack.com/p/its-time-to-build-but-build-what), and [over](https://investing1012dot0.substack.com/p/having-a-conversation-with-yourself-f29), and [over](https://investing1012dot0.substack.com/p/books-20), and [over](https://investing1012dot0.substack.com/p/i-choose-optimism) again:
+The first, and most common, way I've framed this dynamic is with a quote from [[F. Scott Fitzgerald]] that I've quoted [over](https://investing1012dot0.substack.com/p/the-renaissance-of-rise-and-grind), and [over](https://investing1012dot0.substack.com/p/the-meme-economy), and [over](https://investing1012dot0.substack.com/p/its-time-to-build-but-build-what), and [over](https://investing1012dot0.substack.com/p/having-a-conversation-with-yourself-f29), and [over](https://investing1012dot0.substack.com/p/books-20), and [over](https://investing1012dot0.substack.com/p/i-choose-optimism) again:
 
 > *“The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function."*
 
@@ -39,13 +39,13 @@ The unfortunate reality is that most people struggle to hold two ideas in their 
 
 The second framework for this topic comes from [Visakan Veerasamy](https://twitter.com/visakanv), which I've [written about before](https://investing1012dot0.substack.com/p/the-meme-economy), where he [refers](https://youtu.be/f_YUAQu-t0Q?t=814) to unsecured seat-belt-less thinking as "deviance":
 
-> *"Once you have succeeded at some kind of deviant shit your ontology is permanently corrupted. You can never again trust anyone else. In 2007, Elon Musk went to Russia to negotiate with some ex-generals to buy missiles to launch a rocket and try and land it again. **And all his friends were like, 'Elon, this is a stupid idea.' And he was like, 'I'm gonna do it.' And he did it.** I'm not saying these are [necessarily] good people. I'm saying think about what it feels like to have everyone in your life tell you that something can't be done, and then you do it."*
+> *"Once you have succeeded at some kind of deviant shit your ontology is permanently corrupted. You can never again trust anyone else. In 2007, [[Elon Musk]] went to Russia to negotiate with some ex-generals to buy missiles to launch a rocket and try and land it again. **And all his friends were like, 'Elon, this is a stupid idea.' And he was like, 'I'm gonna do it.' And he did it.** I'm not saying these are [necessarily] good people. I'm saying think about what it feels like to have everyone in your life tell you that something can't be done, and then you do it."*
 
 ## In-Group Short-Hands
 
 Finally, [I've also written](https://investing1012dot0.substack.com/p/the-inescapable-debate-of-human-nature) about how people use the beliefs of their in-groups as a short-hand for their own thinking:
 
-> *"So often, people trust nuanced tribal group identity and political association without any basis of first principles. I'm not Mormon, or Christian, or Republican, or a Costco member. I am a system of values and beliefs that determine how I act. Group membership should be a lagging indicator of your beliefs, not a leading indicator. **When people substitute their own value system with a cookie-cutter platform from their in-group the first thing to die is nuance**."*
+> *"So often, people trust nuanced tribal group identity and political association without any basis of first principles. I'm not [[Mormon]], or Christian, or Republican, or a [[Costco]] member. I am a system of values and beliefs that determine how I act. Group membership should be a lagging indicator of your beliefs, not a leading indicator. **When people substitute their own value system with a cookie-cutter platform from their in-group the first thing to die is nuance**."*
 
 The biggest obstacle in confronting this kind of in-group thinking is best summarized by a [quote](https://www.youtube.com/watch?app=desktop&v=JfxPxN_4dnU) from Jordan Klepper:
 
@@ -63,13 +63,13 @@ When being right is your identity, you will always be wrong.
 
 # The Virtue of Being Wrong
 
-There is a quote about research I love that I credit [Michael Dempsey](https://www.compound.vc/writing) for turning me on to:
+There is a quote about [[Research|research]] I love that I credit [Michael Dempsey](https://www.compound.vc/writing) for turning me on to:
 
 > *“Research is to see what everybody else has seen, and think what nobody has thought.” (Albert Szent-Gyorgi)*
 
 There should exist, I think, something similar about being wrong.
 
-Because on the one hand, I hesitate at my own aphorism. When I say, "being wrong becomes your identity," I'm immediately confronted with things like the fact that Jim Cramer exists.
+Because on the one hand, I hesitate at my own aphorism. When I say, "being wrong becomes your identity," I'm immediately confronted with things like the fact that [[Jim Cramer]] exists.
 
 He's so wrong, so often, that it's become [a popular meme](https://twitter.com/CramerTracker) that whatever he says, the opposite is true: the inverse cramer.
 

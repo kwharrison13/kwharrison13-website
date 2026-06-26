@@ -4,26 +4,23 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-18"
-updated: "2026-06-18"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
-  - "Kyle's manual link/reading capture — June 18, 2026 (batch import from saved bookmarks)"
+  - "wiki/articles-to-read/Paul Krugman on Obama, Climate, Medicare, Robots, Single-Payer, and Andrew Yang.md"
 tags: []
 aliases:
   - "Paul Krugman"
-related: []
+related:
+  - "[[Paul Krugman on Obama, Climate, Medicare, Robots, Single-Payer, and Andrew Yang]]"
 ---
 
 # Paul Krugman
 
-_Stub — captured from Kyle's manual link/reading capture on June 18, 2026. Synthesis pending._
+Economist whose Ezra Klein Show interview Kyle saved to his reading queue — a December 2019 conversation ranging across climate, Medicare, automation/robots, single-payer healthcare, and Andrew Yang's policy ideas (see Paul Krugman on Obama, Climate, Medicare, Robots, Single-Payer, and Andrew Yang). Within Kyle's corpus he appears only as the subject of that one queued podcast; there is no further synthesis attached yet.
 
-## Quick Capture links — June 18, 2026
+**Context:** Paul Krugman is a Nobel laureate economist (2008, for work on trade theory and economic geography), longtime New York Times opinion columnist, and a prominent voice in debates over fiscal policy, inequality, and macroeconomics.
 
-_Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
+## Where this appears
 
-- https://www.vox.com/platform/amp/podcasts/2019/12/26/21011830/paul-krugman-obam-climate-medicare-robots-single-payer-andrew-yang — Ezra Klein Show: Paul Krugman on Obama, climate, Medicare, robots, single-payer, Andrew Yang. (→ articles-to-read)
-
-## Mentioned in
-
-_(auto-populated by lint)_
+- Paul Krugman on Obama, Climate, Medicare, Robots, Single-Payer, and Andrew Yang — interview subject of the queued Ezra Klein Show podcast.

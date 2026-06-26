@@ -11,7 +11,7 @@ substack_url: "https://investing101.substack.com/p/what-is-an-extraordinary-man"
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-courage-to-be-disliked">The Courage To Be Disliked</a>, <a href="/books/crime-and-punishment">Crime & Punishment</a>, <a href="/books/the-man-who-broke-capitalism">The Man Who Broke Capitalism</a>, <a href="/books/skunk-works">Skunk Works</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/crime-and-punishment">Crime & Punishment</a>, <a href="/books/skunk-works">Skunk Works</a>, <a href="/books/the-man-who-broke-capitalism">The Man Who Broke Capitalism</a>, <a href="/books/the-courage-to-be-disliked">The Courage To Be Disliked</a></span></div>
   <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-existential-dread-of-cognitive">The Existential Dread of Cognitive Dissonance</a>, <a href="/essays/toil-we-must">Toil We Must</a>, <a href="/essays/the-renaissance-of-rise-and-grind">The Renaissance of Rise and Grind</a>, <a href="/essays/the-hardening-of-the-great-softening">The Hardening Of The Great Softening</a>, <a href="/essays/the-rising-generation">The Rising Generation</a>, <a href="/essays/unions-unions-everywhere">Unions, Unions Everywhere</a>, <a href="/essays/seek-sunlight">Seek Sunlight</a>, <a href="/essays/cultivating-cults">Cultivating Cults</a>, <a href="/essays/performative-failure">Performative Failure</a></span></div>
 </aside>
 <!-- connections-end -->
@@ -22,7 +22,7 @@ substack_url: "https://investing101.substack.com/p/what-is-an-extraordinary-man"
 
 [I've written before](https://investing101.substack.com/p/the-existential-dread-of-cognitive?utm_source=publication-search) about the school assignment that led to my love affair with Russian literature. From a somber existentialism introduction to a mowing scene that moves me, the genre has left a mark on my soul. None more so than Fyodor Dostoyevsky.
 
-In college I wrote a [paper](https://docs.google.com/document/d/16qGF-q-yye7gqg9Arr6ipbZFWi4Ar7Qy/edit?usp=sharing&ouid=106496738941809884077&rtpof=true&sd=true) after reading Crime & Punishment for the first time. The concept that captivated me most about the book is a theory belonging to the main character: Rodion Raskolnikov. In an article, Raskolnikov articulates an idea about the great separation of mankind between the ordinary and the extraordinary:
+In college I wrote a [paper](https://docs.google.com/document/d/16qGF-q-yye7gqg9Arr6ipbZFWi4Ar7Qy/edit?usp=sharing&ouid=106496738941809884077&rtpof=true&sd=true) after reading [[Crime & Punishment]] for the first time. The concept that captivated me most about the book is a theory belonging to the main character: Rodion Raskolnikov. In an article, Raskolnikov articulates an idea about the great separation of mankind between the ordinary and the extraordinary:
 
 > *"**An 'extraordinary' man has the right... that is, not an official right, but his own right, to allow his conscience to... step over certain obstacles**, and then only in the event that the fulfillment of his idea—sometimes perhaps salutary for the whole of mankind—calls for it."*
 
@@ -38,7 +38,7 @@ Is Raskolnikov right? Do the great masses of the ordinary exist only to give bir
 
 Its this question of "what is an extraordinary man?" that has, once again, brought me to my summer missive on ambition.
 
-For whatever reason, each summer I have found myself brought low in a deep ponder on the nature of hard work, ambition, and my relationship with it. In August 2022, I wrote "[Toil We Must](https://investing101.substack.com/p/toil-we-must?utm_source=publication-search)." In April 2023, I wrote "[The Renaissance of Rise and Grind](https://investing101.substack.com/p/the-renaissance-of-rise-and-grind?utm_source=publication-search)." In June 2024, I wrote "[The Hardening of the Great Softening](https://investing101.substack.com/p/the-hardening-of-the-great-softening?utm_source=publication-search)."
+For whatever reason, each summer I have found myself brought low in a deep ponder on the nature of [[Hard Work|hard work]], ambition, and my relationship with it. In August 2022, I wrote "[Toil We Must](https://investing101.substack.com/p/toil-we-must?utm_source=publication-search)." In April 2023, I wrote "[The Renaissance of Rise and Grind](https://investing101.substack.com/p/the-renaissance-of-rise-and-grind?utm_source=publication-search)." In June 2024, I wrote "[The Hardening of the Great Softening](https://investing101.substack.com/p/the-hardening-of-the-great-softening?utm_source=publication-search)."
 
 And now, because of Raskolnikov, I find myself back here again for the fourth year in a row pondering on a similar question. **What is an extraordinary man\*? And how do we define individual worth in an age of ambition?**
 
@@ -46,19 +46,19 @@ And now, because of Raskolnikov, I find myself back here again for the fourth ye
 
 ## Reindustrializing Our Working Effort
 
-When I think of extraordinary, I'm immediately drawn to the generation that built the modern world. From 1945 to 1975, it was the Golden Age of Capitalism. From the UN to the GI Bill, massive access to college education and home ownership, the building of interstate highways, technology revolutions from the nuclear age to the space race and the birth of personal computing.
+When I think of extraordinary, I'm immediately drawn to the generation that built the modern world. From 1945 to 1975, it was the Golden Age of [[Capitalism]]. From the UN to the GI Bill, massive access to college education and home ownership, the building of interstate highways, technology revolutions from the nuclear age to the space race and the birth of personal computing.
 
 That massive rate of innovation led to measurable economic outcomes. Real income tripled, the standard of living doubled, over 80% of households owned a car, refrigerator, and color TV, and by 1960 the idea of a [40 hour](https://www.dol.gov/general/aboutdol/history/flsa1938?) work week was born.
 
-When we talk about the industrial giants of yester-year that invented the future during the first half of the 20th century, we think of IBM, Boeing, Lockheed, Bell Labs, Fairchild. But one of the common sentiments I sense from people is that **they believe we built the future in those decades because everyone was grinding; working 80+ hours a week.**
+When we talk about the industrial giants of yester-year that invented the future during the first half of the 20th century, we think of IBM, [[Boeing]], Lockheed, [[Bell Labs]], Fairchild. But one of the common sentiments I sense from people is that **they believe we built the future in those decades because everyone was grinding; working 80+ hours a week.**
 
 If we want that same ability to shape the world and invent the future, we just have to work as hard as they did. But that doesn't tell the whole story. It's not a simple matter of, "if we want the world to progress dramatically, then we just have to work harder."
 
-Now, it's true that during NASA's series of Mercury, Gemini, and Apollo missions, they were most certainly working around the clock 24/7. But they had built a [system](https://www.nasa.gov/history/afj/ap08fj/09day3_green.html?ut) of three flight-director-led shifts of 8 hours each.
+Now, it's true that during NASA's series of Mercury, Gemini, and [[Apollo Program|Apollo]] missions, they were most certainly working around the clock 24/7. But they had built a [system](https://www.nasa.gov/history/afj/ap08fj/09day3_green.html?ut) of three flight-director-led shifts of 8 hours each.
 
-To make deadlines, some of the greatest industrial organizations in history, like Lockheed Skunk Works, would [work](https://avalonlibrary.net/ebooks/Ben%20R.%20Rich%2C%20Leo%20Janos%20-%20Skunk%20Works%20-%20A%20Personal%20Memoir%20of%20My%20Years%20at%20Lockheed.pdf?utm_source=chatgpt.com) "fourteen-hour days seven days a week."
+To make deadlines, some of the greatest industrial organizations in history, like Lockheed [[Skunk Works]], would [work](https://avalonlibrary.net/ebooks/Ben%20R.%20Rich%2C%20Leo%20Janos%20-%20Skunk%20Works%20-%20A%20Personal%20Memoir%20of%20My%20Years%20at%20Lockheed.pdf?utm_source=chatgpt.com) "fourteen-hour days seven days a week."
 
-Potentially one of the single most influential industrial organizations in history was Bell Labs. Rather than push for dogmatic, non-stop grind, the organization was built on a meritocratic dichotomy that can feel like a more natural way than Raskolnikov's to divide the ordinary from the extraordinary. As Mervin Kelly, the president of Bell Labs, would [often](https://tonymayo.com/lessons-from-bell-labs-heyday/) tell new Bell Labs employees on their first day:
+Potentially one of the single most influential industrial organizations in history was Bell Labs. Rather than push for dogmatic, non-stop grind, the organization was built on a meritocratic dichotomy that can feel like a more natural way than Raskolnikov's to divide the ordinary from the extraordinary. As [[Mervin Kelly]], the president of Bell Labs, would [often](https://tonymayo.com/lessons-from-bell-labs-heyday/) tell new Bell Labs employees on their first day:
 
 > *“You get paid for the seven and a half hours a day you put in here, **but you get your raises and promotions on what you do in the other sixteen and a half hours**.”*
 
@@ -66,7 +66,7 @@ As important as it is to appreciate that people were capable of building excepti
 
 ## IBM's Wild Ducks
 
-Great organizations throughout history have acknowledged these differences. Marc Andreessen tells the [great story](https://www.youtube.com/watch?v=yixIc1Ai6jM) about IBM's "Wild Ducks." He tells the story of how, for 50 years, IBM successfully enabled both the long-tail of corporate operators and the extraordinary builders of the future:
+Great organizations throughout history have acknowledged these differences. [[Marc Andreessen]] tells the [great story](https://www.youtube.com/watch?v=yixIc1Ai6jM) about IBM's "Wild Ducks." He tells the story of how, for 50 years, IBM successfully enabled both the long-tail of corporate operators and the extraordinary builders of the future:
 
 > *"Most of the employees [at IBM] were expected to basically follow rules. So they dressed the same, they acted the same, they did everything out of the playbook. Then they had this category of people they called Wild Ducks. **They were the people who could make new things**.   
 >   
@@ -84,7 +84,7 @@ And being a part of that system in the capacity of an ordinary member of the IBM
 
 ## What Changed?
 
-Fast forward to working in tech today, and the average salary is [~$104K](https://www.ziprecruiter.com/Salaries/What-Is-the-Average-Technology-Salary-by-State). That's below the median income for a family in 2025 to live even just a "minimal quality of life," let alone a middle class life, which is estimated at [$120K](https://www.marketwatch.com/story/a-100-000-salary-no-longer-buys-you-a-middle-class-lifestyle-heres-why-it-costs-so-much-more-now-29da9207).
+Fast forward to working in tech today, and the average salary is [~$104K](https://www.ziprecruiter.com/Salaries/What-Is-the-Average-Technology-Salary-by-State). That's below the median income for a family in 2025 to live even just a "minimal quality of life," let alone a [[Middleclass|middle class]] life, which is estimated at [$120K](https://www.marketwatch.com/story/a-100-000-salary-no-longer-buys-you-a-middle-class-lifestyle-heres-why-it-costs-so-much-more-now-29da9207).
 
 It's hard to compare apples-to-apples, one company vs. tech in general. But just plainly, the median income for a family in 1968 was $8.6K; that would be $80K in today's dollars. That's not too different than the median income [today](https://www.census.gov/library/publications/2024/demo/p60-282.html). **But while that number hasn't changed, the cost of basically everything (adjusted for inflation) has skyrocketed**: housing up [129%](https://www.thezebra.com/resources/home/housing-trends-visualized/), child care up [20%](https://en.wikipedia.org/wiki/Child_care) (just since 2020), just between 1997 and 2011 healthcare costs rose [63%](https://en.wikipedia.org/wiki/Healthcare_in_the_United_States).
 
@@ -110,9 +110,9 @@ What happened to middle-class ambition attached to a world-class mission?
 
 In an [interview](https://youtu.be/LVEFC0dxX_I?t=924) with Neal Brennan, Jerry Seinfeld made a salient point that I've thought about over and over again:
 
-> *"What the hell happened that money became everything? It wasn't like that in the 70s. In the 70s, it was 'how cool is your job?' If your job is cooler than my job, you beat me. No one said, 'how much are you making?' In the 80s was the first time that young guys could make money fast. Never existed before. Rich guys were Andrew Carnegie; shipping, iron. You couldn't make a lot of money fast in those days. **All of the sudden, all sharp (and dull) guys in the 80s could make a ton. And it has poisoned our culture to this day. I said to some kids last night; 'if your work is unfulfilling, the money will be too**.’"*
+> *"What the hell happened that money became everything? It wasn't like that in the 70s. In the 70s, it was 'how cool is your job?' If your job is cooler than my job, you beat me. No one said, 'how much are you making?' In the 80s was the first time that young guys could make money fast. Never existed before. Rich guys were [[Andrew Carnegie]]; shipping, iron. You couldn't make a lot of money fast in those days. **All of the sudden, all sharp (and dull) guys in the 80s could make a ton. And it has poisoned our culture to this day. I said to some kids last night; 'if your work is unfulfilling, the money will be too**.’"*
 
-And Seinfeld is right; this emphasis on money has clouded what ambition used to represent. Ambition, greatness, success, vision. **We have an unsettled framework for how we define success.** And as more emphasis has been put on large financial outcomes, everything has fallen away in pursuit of that. To some extent, that has shaped the mindset of a lot of “young men trying to make money come out of their computer.” This is a [back-and-forth](https://x.com/pratyushbuddiga/status/1927720749563015576) I had on Twitter a few months ago with [Pratyush Buddiga](https://x.com/pratyushbuddiga) at Susa and [Michael Dempsey](https://x.com/mhdempsey) at Compound
+And Seinfeld is right; this emphasis on money has clouded what ambition used to represent. Ambition, greatness, success, vision. **We have an unsettled framework for how we define success.** And as more emphasis has been put on large financial outcomes, everything has fallen away in pursuit of that. To some extent, that has shaped the mindset of a lot of “young men trying to make money come out of their computer.” This is a [back-and-forth](https://x.com/pratyushbuddiga/status/1927720749563015576) I had on [[Twitter]] a few months ago with [Pratyush Buddiga](https://x.com/pratyushbuddiga) at Susa and [Michael Dempsey](https://x.com/mhdempsey) at Compound
 
 The disappearance of middle-skill jobs means that, as Pratyush [describes](https://x.com/pratyushbuddiga/status/1927726743550664834), "The idea of 'solid middle class' life that a man in the 1970s might have aspired to basically seems like it’s disappearing and is certainly not aspirational anymore." We can't aspire to that middle-class ambition anymore. For anyone who does want to have notable ambition, the hollowing out of the middle forces them up the [risk curve](https://mhdempsey.substack.com/p/get-rich-or-die-tryin), as Dempsey has written about.
 
@@ -124,9 +124,9 @@ You have a 1 in 578,508 [chance](https://www.titlemax.com/discovery-center/your-
 
 ![Source:Twitter](/images/what-is-an-extraordinary-man-68ef9276.png)
 
-While people have increasingly placed their focus on wealth as an ambition worth dedicating your life to, its not to say that American's haven't sought prosperity. Becoming a billionaire may be setting unrealistic expectations for what qualifies as "ambition," but becoming a millionaire is more tenable; that's a 1 in 15 [chance](https://money.howstuffworks.com/personal-finance/financial-planning/how-many-millionaires-in-the-us.htm). And there's something about the American spirit that has always embraced those odds. There's a great [quote](https://www.reddit.com/r/QuotesPorn/comments/jotijb/john_steinbeck_once_said_that_socialism_never/) from John Steinbeck where he said:
+While people have increasingly placed their focus on wealth as an ambition worth dedicating your life to, its not to say that American's haven't sought prosperity. Becoming a billionaire may be setting unrealistic expectations for what qualifies as "ambition," but becoming a millionaire is more tenable; that's a 1 in 15 [chance](https://money.howstuffworks.com/personal-finance/financial-planning/how-many-millionaires-in-the-us.htm). And there's something about the American spirit that has always embraced those odds. There's a great [quote](https://www.reddit.com/r/QuotesPorn/comments/jotijb/john_steinbeck_once_said_that_socialism_never/) from [[John Steinbeck]] where he said:
 
-> *"Socialism never took root in America because the poor see themselves not as an exploited proletariat but as **temporarily embarrassed millionaires**."*
+> *"[[Socialism]] never took root in America because the poor see themselves not as an exploited proletariat but as **temporarily embarrassed millionaires**."*
 
 So on the one hand, you have a fundamental American characteristic of focusing on eventual success (e.g. temporarily embarrassed). On the other hand, you have a more recent development where that "success" is tied explicitly to optimizing for money (get rich quick). The increasing emphasis on wealth has hollowed out the deeper value of ambition and worthy pursuits for those who are seeking high-class success. Meanwhile, it has also hollowed out the existence of low-class success.
 
@@ -140,9 +140,9 @@ I came across a Wall Street Journal [article](https://www.wsj.com/economy/earnin
 
 > *"It feels like I've been in survival mode my whole life. Worked and worked and worked. **Worked for nothing**."*
 
-When I think about the hollowing out of middle-skill labor, I was reminded of a story where even "not great jobs" used to be able to be provided within a system that could offer a great life. Coincidentally, I wrote [a piece](https://investing101.substack.com/p/unions-unions-everywhere) exactly a year ago for last Labor Day. In that piece, I talked about the Endicott-Johnson Shoe Company. It's a story I first heard about on a [podcast](https://www.npr.org/sections/money/2015/04/17/400360768/the-square-deal) in April 2015 about "The Square Deal."
+When I think about the hollowing out of middle-skill labor, I was reminded of a story where even "not great jobs" used to be able to be provided within a system that could offer a great life. Coincidentally, I wrote [a piece](https://investing101.substack.com/p/unions-unions-everywhere) exactly a year ago for last [[Labor Day]]. In that piece, I talked about the [[Endicott-Johnson Shoe Company]]. It's a story I first heard about on a [podcast](https://www.npr.org/sections/money/2015/04/17/400360768/the-square-deal) in April 2015 about "[[The Square Deal]]."
 
-It's a story I've come to love so much that I bought a book from 1935 that goes into even more detail. The TLDR is George F. Johnson ran the Endicott-Johnson Shoe Company over the course of the first half of the 20th century.
+It's a story I've come to love so much that I bought a book from 1935 that goes into even more detail. The TLDR is [[George F. Johnson]] ran the Endicott-Johnson Shoe Company over the course of the first half of the 20th century.
 
 The philosophy of George F. (as he was called) was that workers should be provided a "Square Deal." Good pay, treated with respect, and provided for. Over time, Endicott-Johnson would build company towns that defied the infamous reputations of similar setups. They provided hospitals, schools, libraries, and a plentitude of merry-go-rounds for workers in their shoe factories. Endicott, NY. Johnson City, NY. Binghamton, NY. These places thrived.
 
@@ -160,13 +160,13 @@ The Endicott-Johnson Shoe Company eventually gave way to globalization and could
 
 ## Upper-Class Success
 
-Contrast that with the other industrialist that set the tone for the latter half of the 20th century: Jack Welch.
+Contrast that with the other industrialist that set the tone for the latter half of the 20th century: [[Jack Welch]].
 
-I read a book this year [called](https://www.amazon.com/Man-Who-Broke-Capitalism-America_and/dp/198217644X) "The Man Who Broke Capitalism: How Jack Welch Gutted the Heartland and Crushed the Soul of Corporate America―and How to Undo His Legacy." That book lays out why Jack Welch, and what he did at GE, was the antithesis of George F. Johnson. Where George F. saw workers as human beings worth investing in and treating with dignity, Jack Welch saw workers as a cost center that should be optimized, subsidized, and cut out whenever possible.
+I read a book this year [called](https://www.amazon.com/Man-Who-Broke-Capitalism-America_and/dp/198217644X) "[[The Man Who Broke Capitalism]]: How Jack Welch Gutted the Heartland and Crushed the Soul of Corporate America―and How to Undo His Legacy." That book lays out why Jack Welch, and what he did at GE, was the antithesis of George F. Johnson. Where George F. saw workers as human beings worth investing in and treating with dignity, Jack Welch saw workers as a cost center that should be optimized, subsidized, and cut out whenever possible.
 
 Through a new system of shareholder capitalism, Jack Welch built a corporate empire that was optimized around short-term earnings, stock buybacks, massive M&A, opaque financial engineering, and putting the fear of God into the ordinary rank-and-file of GE. While that led to short-term attractiveness, with GE beating earnings estimates for over [80](https://www.nytimes.com/2022/05/21/business/jack-welch-ge-ceo-behavior.html) quarters in a row, it ultimately led to the downfall and death of a [132-year old](https://en.wikipedia.org/wiki/General_Electric) flagship of American industrialism.
 
-What's more, Jack Welch's philosophy bred in the corporate mindset like a virus, and triggered a swarm of Welchites across the American industrial landscape, damaging the reputation and capabilities of companies like Boeing, 3M, Ford, Home Depot, Caterpillar, DuPont, Walgreens, IBM, and Intel.
+What's more, Jack Welch's philosophy bred in the corporate mindset like a virus, and triggered a swarm of Welchites across the American industrial landscape, damaging the reputation and capabilities of companies like Boeing, 3M, Ford, [[Home Depot]], Caterpillar, DuPont, Walgreens, IBM, and [[Intel]].
 
 While the capital allocation mentality of Jack Welch has been cried down, his mentality about how to treat workers is alive and well. These days, massive teams in tech are, as Bucco Capital [puts it](https://x.com/buccocapital/status/1902498759650558109), "all waiting to be harvested for earnings during a downturn." And harvested they have been. You've seen companies dramatically reduce headcount.
 
@@ -204,7 +204,7 @@ First, I think its important to distinguish that the idea of a personal value sy
 
 This is nonsensical. Who made you the arbiter of greatness?
 
-In our money-drenched status-obsessed world, we often equate greatness with professional success. Try as they might, that is not the reality. As Dharmesh Shah, the co-founder and CTO of Hubspot [explains](https://www.linkedin.com/posts/dharmesh_wanting-work-life-balance-is-ok-wanting-activity-7301861815838273536-l-CW?utm_source=share&utm_medium=member_desktop&rcm=ACoAABByfa8BHgjJyo8D6-6i0J4eXAjpzmriu-c), your pursuit of greatness can entail work-life balance. It can also entail breakthrough startup success. Either of those can make up your value system. The important reality though, is that you can rarely have both.
+In our money-drenched status-obsessed world, we often equate greatness with professional success. Try as they might, that is not the reality. As Dharmesh Shah, the co-founder and CTO of [[Hubspot]] [explains](https://www.linkedin.com/posts/dharmesh_wanting-work-life-balance-is-ok-wanting-activity-7301861815838273536-l-CW?utm_source=share&utm_medium=member_desktop&rcm=ACoAABByfa8BHgjJyo8D6-6i0J4eXAjpzmriu-c), your pursuit of greatness can entail work-life balance. It can also entail breakthrough startup success. Either of those can make up your value system. The important reality though, is that you can rarely have both.
 
 ![Source:Linkedin](/images/what-is-an-extraordinary-man-c5078f1c.png)
 

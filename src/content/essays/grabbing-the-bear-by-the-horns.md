@@ -44,9 +44,9 @@ Skewed exposure to equity markets is a leading contributor to income inequality 
 
 ![Tweet referenced in Meet: Generation Investor section](/images/grabbing-the-bear-by-the-horns-d377d19d.jpg)
 
-The emerging group of young investors has been called “Generation Investor” and they’re unlike any generation we’ve seen before. A NASDAQ [survey](https://www.nasdaq.com/docs/etps-empowering-next-generation-of-investors) [found that](https://www.nasdaq.com/articles/gen-z%3A-what-to-know-about-the-next-generation-of-investors) 48% of Gen Z investors check their portfolios multiple times a day, while 24% check once a day. That compares to 39% and 22% for Millennials, 16% and 19% for Gen X, and 10% and 12% for Baby Boomers. Generation Investor is also more active: 34% of Gen Zs make trades a few times a week, compared to 26% of Millennials, 19% of Gen Xers, and 7% of Baby Boomers.
+The emerging group of young investors has been called “Generation Investor” and they’re unlike any generation we’ve seen before. A NASDAQ [survey](https://www.nasdaq.com/docs/etps-empowering-next-generation-of-investors) [found that](https://www.nasdaq.com/articles/gen-z%3A-what-to-know-about-the-next-generation-of-investors) 48% of [[Gen Z]] investors check their portfolios multiple times a day, while 24% check once a day. That compares to 39% and 22% for Millennials, 16% and 19% for Gen X, and 10% and 12% for Baby Boomers. Generation Investor is also more active: 34% of Gen Zs make trades a few times a week, compared to 26% of Millennials, 19% of Gen Xers, and 7% of Baby Boomers.
 
-In a country in which only 14 states mandate financial literacy education in high school (no wonder people don’t know how to participate in the stock market), Gen Z turns to the internet: 91% report using social media for investing research. This has led to the rise of “FinTok” and “FinTwit”, the vibrant corners of TikTok and Twitter dedicated to analyzing the markets.
+In a country in which only 14 states mandate financial literacy education in high school (no wonder people don’t know how to participate in the stock market), Gen Z turns to the internet: 91% report using social media for investing research. This has led to the rise of “FinTok” and “FinTwit”, the vibrant corners of [[TikTok]] and [[Twitter]] dedicated to analyzing the markets.
 
 Of course, Generation Investor has come of age in the bull years of the past decade, and particularly in the frothy post-COVID markets. Now, the markets are in free-fall.
 
@@ -56,7 +56,7 @@ Of course, Generation Investor has come of age in the bull years of the past dec
 
 Members of Generation Investor have never experienced a bear market. For as long as they’ve been investing, everything has been up and to the right. (This also applies to many investors in the venture capital world—including us.) The last bear market was over a decade ago, when many of today’s investors were more preoccupied with prom dates, AP courses, and the Common App. The last time the S&P 500 ended the year down more than a few percent, *Juno* was in theaters, *American Idol* was the biggest show on TV (still with Simon, Randy, and Paula!), and we were all singing “Apple bottom jeans, boots with the fur.”
 
-Year-to-date, the S&P is down 13%. Tech stocks have been hit particularly hard. The list of companies that have seen their valuations plummet is long, and the past few months have been especially punishing for companies that enjoyed a COVID boost: Peloton is down 91% from its high, Zoom is down 83%, and Shopify is down 79%.
+Year-to-date, the S&P is down 13%. Tech stocks have been hit particularly hard. The list of companies that have seen their valuations plummet is long, and the past few months have been especially punishing for companies that enjoyed a COVID boost: [[Peloton]] is down 91% from its high, Zoom is down 83%, and [[Shopify]] is down 79%.
 
 ![Source: Koyfin](/images/grabbing-the-bear-by-the-horns-8168b05c.jpg)
 
@@ -64,7 +64,7 @@ In recent years, the market put a massive premium on growth: the companies that 
 
 But that calculus started to change as the Fed began to increase rates (effectively increasing the cost of capital). As interest rates go up, tech stocks will always go down. This is a basic principle: the value of tech stocks often lies in the promise of future earnings, and the time value of money changes with higher interest rates. (Remember that discounting math you learned in Econ 101?)
 
-This new environment places more importance on companies that can turn a profit. Whereas high-growth stocks have plummeted in value (see: table above), companies with meaningful profitability like Apple, Google, and Microsoft have only seen ~20% drops from their highs.
+This new environment places more importance on companies that can turn a profit. Whereas high-growth stocks have plummeted in value (see: table above), companies with meaningful profitability like [[Apple]], [[Alphabet|Google]], and [[Microsoft]] have only seen ~20% drops from their highs.
 
 After skyrocketing to a [74x forward revenue](https://cloudedjudgement.substack.com/p/clouded-judgement-111221) multiple in November 2021, the top five software stocks have dropped to [18x forward revenue](https://cloudedjudgement.substack.com/p/clouded-judgement-8522). The median forward revenue multiple across all software companies has even dipped below the pre-COVID average. That’s starting to come back a bit, but we’re not out of the woods yet.
 
@@ -74,7 +74,7 @@ Venture investors aren’t only reevaluating valuations because they’re worrie
 
 ![Source: CB Insights](/images/grabbing-the-bear-by-the-horns-9a384398.png)
 
-Some (many) venture-backed companies will be fine. They’ll launch new products, they’ll expand to new geographies, they’ll generate more and more revenue. They’ll eventually grow into their valuations. But that isn’t the case for everyone. Index’s [Mark Goldberg](https://twitter.com/Mark_Goldberg_) shares Dropbox’s story:
+Some (many) venture-backed companies will be fine. They’ll launch new products, they’ll expand to new geographies, they’ll generate more and more revenue. They’ll eventually grow into their valuations. But that isn’t the case for everyone. [[Index Ventures|Index]]’s [Mark Goldberg](https://twitter.com/Mark_Goldberg_) shares [[Dropbox]]’s story:
 
 Since that tweet, Dropbox has dropped by [another billion in market cap.](https://app.koyfin.com/charts/g/eq-wh4jpv) Appreciating what something can eventually be worth is a critical piece of the investing equation. In the past few years, price discipline wasn’t always there, and there will be a lot of fallout in the years to come.
 
@@ -138,11 +138,11 @@ You know how the story ends. After watching a company plummet from $22B to $4B, 
 
 ![Source: Koyfin](/images/grabbing-the-bear-by-the-horns-30782adc.png)
 
-One important caveat: very few companies will be Apple**.** Or Google. Or Amazon. But a few will. And with a combination of thoughtfulness, research, and a lot of luck you can take a crack at investing in the next generation of phenomenal assets. The same is true of private companies. Some of the best venture-backed companies of the last decade came out of the Great Recession: Stripe, Uber, Airbnb.
+One important caveat: very few companies will be Apple**.** Or Google. Or [[Amazon]]. But a few will. And with a combination of thoughtfulness, research, and a lot of luck you can take a crack at investing in the next generation of phenomenal assets. The same is true of private companies. Some of the best venture-backed companies of the last decade came out of the Great Recession: [[Stripe]], [[Uber]], Airbnb.
 
 ![Source: Investing 101](/images/grabbing-the-bear-by-the-horns-93a5215e.png)
 
-The years of 2022, 2023, and 2024 might go down as the most formative of many venture capitalists’ lifetimes, with new iconic companies being created during the downturn. The key is to remain focused and to never stop investing. (To paraphrase Sequoia’s Don Valentine: “We’re in the business of investing, not *not* investing.”) For retail investors in the public markets, there might be an “Apple at $4B” opportunity out there; the key part is staying patient and picking the right horse.
+The years of 2022, 2023, and 2024 might go down as the most formative of many venture capitalists’ lifetimes, with new iconic companies being created during the downturn. The key is to remain focused and to never stop investing. (To paraphrase [[Sequoia]]’s [[Don Valentine]]: “We’re in the business of investing, not *not* investing.”) For retail investors in the public markets, there might be an “Apple at $4B” opportunity out there; the key part is staying patient and picking the right horse.
 
 As great as that 600x bagger on Apple was, it took a long time to compound. Investing in a company like Microsoft can be a generational opportunity. But take a look at the patience that generational investment would have required: over 16 years just to breakeven!
 

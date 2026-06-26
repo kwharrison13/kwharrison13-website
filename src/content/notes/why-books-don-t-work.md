@@ -9,7 +9,7 @@ url: "https://andymatuschak.org/books/"
 source_published: "2019-05-11"
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Roam Research export — Andy Matuschak, 'Why Books Don't Work' (reading highlights + notes): ~/Downloads/Why Books Don't Work.md"
@@ -52,8 +52,8 @@ related:
 _Kyle's own takeaways from the read, preserved._
 
 - The ways we learn are not nearly well understood. There is a lot of [Self-Reflection](/notes/self-reflection) that ought to occur in everyone's life to best identify their learning preferences. #[Multiple Intelligences](/notes/multiple-intelligences)
-- Learning is a skill that is honed and practiced — an idea that does not receive enough attention. You can only get good at [Metacognition](/notes/metacognition) if you practice. As Matuschak puts it: *"I spend a lot of time thinking about why knowledge workers don't spend very much time thinking about knowledge work."*
-- There is an opportunity to invent new mediums that can be as impactful as books originally were. [TikTok](/notes/tiktok)-style education could be a revolutionary form of learning (e.g. the reason Camden likes sharonsayso on Instagram).
+- [Learning](/notes/learning) is a skill that is honed and practiced — an idea that does not receive enough attention. You can only get good at [Metacognition](/notes/metacognition) if you practice. As Matuschak puts it: *"I spend a lot of time thinking about why knowledge workers don't spend very much time thinking about knowledge work."*
+- There is an opportunity to invent new mediums that can be as impactful as books originally were. [TikTok](/notes/tiktok)-style education could be a revolutionary form of learning (e.g. the reason [Camden](/notes/camden) likes [sharonsayso](/notes/sharonsayso) on [Instagram](/notes/instagram)).
 
 ## Highlights
 
@@ -85,11 +85,11 @@ Courses provide things books and lectures don't:
 - **Review sessions**
 - **Social learning** — Class discussions support social learning: **students understand topics more deeply by grappling with their peers' understandings** of the same ideas.
 - **Access to an expert** — Courses can provide a personal relationship with a disciplinary expert, **a rich conduit for accessing the discipline's culture.**
-- **Accountability structure** — "Courses offer a helpful accountability structure, playing an important role in supporting their willpower."
+- **[Accountability](/notes/accountability) structure** — "Courses offer a helpful accountability structure, playing an important role in supporting their willpower."
 - **Emotional salience** — Seeing the passion of both the instructor or the prose of the material can inspire a student.
   > **Kyle:** *[Sapiens](/books/sapiens) didn't say anything new, but it spoke with an "authorial voice" — it struck people's passion.*
 
-### Books 2.0 #[Open Source Knowledge](/notes/open-source-knowledge)
+### [Books 2.0](/essays/books-20) #[Open Source Knowledge](/notes/open-source-knowledge)
 
 - So let's reframe the question. **Rather than "how might we make books actually work reliably," we can ask: How might we design mediums which do the job of a non-fiction book—but which actually work reliably?**
 - "The form is made out of ideas about logic."
@@ -105,7 +105,7 @@ Courses provide things books and lectures don't:
 
 > What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. — [Carl Sagan](/notes/carl-sagan), *Cosmos*, "The Persistence of Memory"
 
-> Mathematical proofs are a medium; the step-by-step structure embodies powerful ideas about formal logic. Snapchat Stories are a medium; the ephemerality embodies powerful ideas about emotion and identity. The World Wide Web is a medium … the pervasive hyperlinks embody powerful ideas about the associative nature of knowledge.
+> Mathematical proofs are a medium; the step-by-step structure embodies powerful ideas about formal logic. [Snapchat](/notes/snapchat) Stories are a medium; the ephemerality embodies powerful ideas about emotion and identity. The World Wide Web is a medium … the pervasive hyperlinks embody powerful ideas about the associative nature of knowledge.
 
 > The form is made out of ideas about logic.
 

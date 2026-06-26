@@ -51,7 +51,7 @@ And it's [fair to say](https://twitter.com/lisamxu/status/1617565843319328771?s=
 
 # Where Has All The Capital Gone?
 
-Michelle Valentine, the CEO of Anrok, [explains](https://www.anrok.com/resources/the-dry-powder-does-not-exist) the reality that most LPs are facing. Because they don't invest cash into venture funds at the beginning, a LOT of that dry powder isn't just sitting on the side lines, its been hunting for yield in the interim.
+Michelle Valentine, the CEO of [[Anrok]], [explains](https://www.anrok.com/resources/the-dry-powder-does-not-exist) the reality that most LPs are facing. Because they don't invest cash into venture funds at the beginning, a LOT of that dry powder isn't just sitting on the side lines, its been hunting for yield in the interim.
 
 > *"Remember those LPs who still had two-thirds of their capital obligations to venture firms outstanding and decided to invest in short-term holdings to earn interest in the meantime? **Their short-term holdings are now worth a fraction of what they originally expected. They may be forced to sell positions at a loss. In some cases, they simply may not have the capital to commit.**"*
 
@@ -69,7 +69,7 @@ So in a world where LPs have exposure to public equities that have plummeted, ov
 
 LPs care about not losing money. VCs care about raising their next fund. **The best thing for both parties in the capital allocation value chain is NOT speed.** If VCs start aggressively calling capital, LPs may find themselves unable to [come up with the cash](https://www.forbes.com/sites/kenrickcai/2022/11/11/emerging-funds-venture-capital-downturn/?sh=426c5c726e04) to satisfy those capital calls. If VCs invest, and then the market takes longer to correct than expected, their returns could be lower.
 
-So, does this mean venture capital is taking a couple years off? Definitely not. But what becomes more likely is an exacerbated bifurcation between companies that can and can't access capital.
+So, does this mean [[Venture Capital|venture capital]] is taking a couple years off? Definitely not. But what becomes more likely is an exacerbated bifurcation between companies that can and can't access capital.
 
 # The Bifurcation of Capital
 
@@ -83,7 +83,7 @@ At the time, I talked mostly about valuations and how the best companies were be
 
 Now just apply that same dichotomy to private companies, and assume its like we're in ~2011-2012. **The more pressure there is on capital, the less fluid it is**, and the more dramatic people's expectations are for what kinds of companies will get capital.
 
-The same dichotomy exists in public markets where some of the largest funds are largely [invested](https://twitter.com/mkt_sentiment/status/1599775770725031937?s=20) in the largest market cap companies. You see this even in ESG funds, meant to drive yield by investing in climate-conscious stocks. [The biggest positions?](https://www.youngmoney.co/p/11-things-0-interest-rates-caused) Amazon, Google, Apple.
+The same dichotomy exists in public markets where some of the largest funds are largely [invested](https://twitter.com/mkt_sentiment/status/1599775770725031937?s=20) in the largest market cap companies. You see this even in ESG funds, meant to drive yield by investing in climate-conscious stocks. [The biggest positions?](https://www.youngmoney.co/p/11-things-0-interest-rates-caused) [[Amazon]], [[Google]], [[Apple]].
 
 # What Does This Mean For Venture Capital?
 

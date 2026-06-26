@@ -10,13 +10,13 @@ substack_url: "https://investing101.substack.com/p/venture-capital-doesnt-exist"
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/build-whats-fundable">“Build What’s Fundable”</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/investing-101">Investing 101</a>, <a href="/essays/build-whats-fundable">“Build What’s Fundable”</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a></span></div>
 </aside>
 <!-- connections-end -->
 
 ![Header image for Venture Capital Doesn't Exist](/images/venture-capital-doesnt-exist-header.png)
 
-This is a free weekly newsletter about the art and science of building and investing in tech companies. To receive Investing 101 in your inbox each week, subscribe here:
+This is a free weekly newsletter about the art and science of building and investing in tech companies. To receive [[Investing 101]] in your inbox each week, subscribe here:
 
 ---
 
@@ -32,25 +32,25 @@ But for those with eyes to see and ears to hear, each of these categories of inv
 
 # The Seeds of Seed Investing
 
-From whaling expeditions to ARDC, Arthur Rock, and the birth of venture capital as an industry, there's always been the concept of "seed money." Seeding an entrepreneurial endeavor. The term "seed round" came later, call it ~2005, and has a [rich history](https://bryce.medium.com/why-seed-scaled-f6c64646c59c) but it was meant to be a middle ground between "friends and family" angel money and a "proper" Series A. As Bryce Roberts described it:
+From whaling expeditions to ARDC, [[Arthur Rock]], and the birth of venture capital as an industry, there's always been the concept of "seed money." Seeding an entrepreneurial endeavor. The term "seed round" came later, call it ~2005, and has a [rich history](https://bryce.medium.com/why-seed-scaled-f6c64646c59c) but it was meant to be a middle ground between "friends and family" angel money and a "proper" Series A. As [[Bryce Roberts]] described it:
 
 > "We would write small checks that not only validated the ideas and entrepreneurs as 'fundable' but we worked closely with them as board members and mentors to answer the questions follow on capital needed answered."
 
 There was a logical derisking that could occur in a more formalized pattern than just wealthy angels whipping small checks. But as startups have become [more legible](https://investing101.substack.com/p/build-whats-fundable?utm_source=publication-search), the feeling is that the need for that "on ramp" has become superfluous. But this is less a function of truth and more a function of convenience.
 
-**Despite the dozens of scout programs and angels and incubators and accelerators and hacker houses and bootcamps, there is still raw untapped potential in the world of the entrepreneurially minded**. There are still people with the intellectual horsepower and cultural grit to shape the future, they just lack the familiarity with how to "play the game." Seed investing can still offer these people a supportive on-ramp.
+**Despite the dozens of scout programs and angels and incubators and accelerators and hacker houses and bootcamps, there is still raw untapped potential in the world of the entrepreneurially minded**. There are still people with the intellectual horsepower and cultural grit to shape the future, they just lack the familiarity with how to "play the game." [[Seed Investing|Seed investing]] can still offer these people a supportive on-ramp.
 
 Seed investing became diluted because it just became "the first formal round." And that leads to silly things like calling [Thinking Machine's first round](https://techcrunch.com/2025/07/15/mira-muratis-thinking-machines-lab-is-worth-12b-in-seed-round/) a $2B "seed round." This isn't seed investing. Seed investing is defined by playing its role as an on-ramp.
 
 # Venture Classic
 
-Over the course of my career, I've worked at five different venture firms. I did regional seed investing as a scout at Kickstart Fund in Utah, I was a growth investor at TCV, I was a crossover investor at Coatue, I did venture classic at Index Ventures, and now I do product-led venture at Contrary.
+Over the course of my career, I've worked at five different venture firms. I did regional seed investing as a scout at Kickstart Fund in Utah, I was a growth investor at TCV, I was a crossover investor at [[Coatue]], I did venture classic at [[Index Ventures]], and now I do product-led venture at [[Contrary]].
 
-Venture classic does still exist. And arguably, it is a niche category with a sizable amount of risk and outsized reward that is closer to what venture capital has always been. What's more, its not nearly as competitive as you might think. [Will Quist](https://x.com/wquist) at Slow Ventures is probably the prophet of venture classic, so I'll summarize what I think he would say.
+Venture classic does still exist. And arguably, it is a niche category with a sizable amount of risk and outsized reward that is closer to what venture capital has always been. What's more, its not nearly as competitive as you might think. [Will Quist](https://x.com/wquist) at [[Slow Ventures]] is probably the prophet of venture classic, so I'll summarize what I think he would say.
 
 Venture classic is a narrow, principled version of capital allocation that revolves around funding high-risk experiments to test novel hypotheses with the potential of exceptional economics and value creation, typically at early stages where outcomes are highly uncertain and unknowable in advance. Some key criteria on what it is not?
 
-* It is NOT late stage investing (e.g. investing in Stripe at [$159B](https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/))
+* It is NOT late stage investing (e.g. investing in [[Stripe]] at [$159B](https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/))
 * It is NOT growth equity, pouring fuel on a proven fire
 * It is NOT buyouts; financial engineering a P&L into a multiple-expanded outcome
 * It is NOT "pro" equity investing, [akin to the](https://www.newcomer.co/p/founders-fund-general-catalyst-and) "private capital version of the Russell 2000... a place for the largest players to park capital and get exposure to technology companies, in exchange for solid (if not astronomical) returns."
@@ -59,7 +59,7 @@ When you really focus on some of the criteria of venture capital, you see some h
 
 Close to the spirit of venture capital, but the heart of it is far removed.
 
-The purpose of venture classic is to let founders run experiments against hypotheses that are knowable and testable, but uncertain. Apple, Microsoft, even Google raised dramatically less capital for their "experimentation" phases, leaning on alternative capital for later growth and expansion. The problem with the non-existent cesspool catchall we keep calling venture capital is that is far more defined by consensus than contrarian experimentation.
+The purpose of venture classic is to let founders run experiments against hypotheses that are knowable and testable, but uncertain. [[Apple]], [[Microsoft]], even [[Alphabet|Google]] raised dramatically less capital for their "experimentation" phases, leaning on alternative capital for later growth and expansion. The problem with the non-existent cesspool catchall we keep calling venture capital is that is far more defined by consensus than contrarian experimentation.
 
 # Supercharged Growth Investing
 
@@ -71,7 +71,7 @@ That doesn't mean they're bad businesses, or even bad growth investments. But th
 
 # The Small Cap Stocks of Yore
 
-In that same basket of 2.2K funding rounds you also have companies like Anthropic raising $30B, or Databricks raising $5B. These companies, 15-20 years ago, would be public right now. Databricks is valued at [$134B](https://www.databricks.com/company/newsroom/press-releases/databricks-grows-65-yoy-surpasses-5-4-billion-revenue-run-rate). There are only [38](https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/) other tech companies valued higher than that in the public markets today. Those rounds *should* be large hedge funds investing into fast-growing tech stocks.
+In that same basket of 2.2K funding rounds you also have companies like Anthropic raising $30B, or [[Databricks]] raising $5B. These companies, 15-20 years ago, would be public right now. Databricks is valued at [$134B](https://www.databricks.com/company/newsroom/press-releases/databricks-grows-65-yoy-surpasses-5-4-billion-revenue-run-rate). There are only [38](https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/) other tech companies valued higher than that in the public markets today. Those rounds *should* be large hedge funds investing into fast-growing tech stocks.
 
 But a combination of being able to access more capital as a private company and the appeal of avoiding the overhead of operating as a public company has enticed a generation of businesses to stay private dramatically longer than they ever would have before. And because the private moniker makes them less accessible, you get a pool of capital deploying into a hodge podge of secondary tenders and over-priced rounds, just to get exposure.
 

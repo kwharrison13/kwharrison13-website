@@ -2,13 +2,15 @@
 title: "Consumerization of the Enterprise"
 type: "concept"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-17"
+updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
   - "wiki/books/The Kill Chain.md"
+  - "wiki/books/Product Led Growth — The End User Era.md"
+  - "wiki/long-reads/Todd McKinnon — Creating and Defining a New Market Category.md"
 tags: []
 aliases:
   - "Consumerization of the Enterprise"
@@ -16,16 +18,22 @@ related:
   - "[[Product Led Growth: The End User Era]]"
   - "[[The Kill Chain]]"
   - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
+  - "[[Product Led Growth (PLG)]]"
+  - "[[Shadow IT]]"
 reference_count: 1
 ---
 
 # Consumerization of the Enterprise
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+The thesis that well-designed consumer software has reset workers' expectations, so power shifts away from executive buyers toward individual end users who refuse to tolerate clunky enterprise tools. In [Product Led Growth: The End User Era](/books/product-led-growth-the-end-user-era) this is "the demand-side engine" of PLG — "when in doubt, ask if you would tolerate it in a consumer app" — and the same trend goes by a negative name, "[Shadow IT](/notes/shadow-it)," when IT departments resent it. The book dates design becoming critical to software success to 2011–2012, "when the consumerization of the enterprise was all the rage," and frames viral, network-effect products like [Calendly](/notes/calendly) as really "targeting consumers inside an enterprise." It also records the skeptic's view: [Andrew Reed](/notes/andrew-reed) of [Sequoia](/notes/sequoia) calls it "largely a failed promise to date… a really hard problem to solve."
+
+The same idea appears in two other places Kyle reads. In [The Kill Chain](/books/the-kill-chain), Christian Brose names consumerization of the enterprise as a structural problem for national defense: the commercial sector has outpaced government on software, autonomy, computer vision, and networking, yet the military's procurement model can't access it — Kyle repeatedly notes "consumerization of the enterprise" in the margins and flags a hunt for whoever first coined "consumerization of IT." In [Todd McKinnon — Creating and Defining a New Market Category](/notes/todd-mckinnon-creating-and-defining-a-new-market-category), the cloud-stack migration (apps → collaboration → infrastructure) is tied to the [Subscription Economy](/notes/subscription-economy) and the same consumerization trend.
 
 ## Where this appears
 
-- [The Kill Chain](/books/the-kill-chain)
+- [The Kill Chain](/books/the-kill-chain) — the commercial sector outpaces military procurement on software/autonomy; Kyle's recurring margin note on the defense-procurement gap.
+- [Product Led Growth: The End User Era](/books/product-led-growth-the-end-user-era) — the demand-side engine of PLG; power shifting to individual users, also called [Shadow IT](/notes/shadow-it).
+- [Todd McKinnon — Creating and Defining a New Market Category](/notes/todd-mckinnon-creating-and-defining-a-new-market-category) — the cloud-stack thesis connects to the [Subscription Economy](/notes/subscription-economy) and consumerization.
 
 
 ## Quick Capture links — June 29th, 2021

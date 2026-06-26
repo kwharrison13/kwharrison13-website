@@ -2,30 +2,33 @@
 title: "Charm Industrial"
 type: "company"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/Watershed Climate Diligence — 2021.md"
-tags: []
+  - "wiki/diligence-research/Watershed Climate Diligence — 2021.md"
+  - "wiki/essays-research/Renegade Spotlight — Lowercarbon - Research.md"
+tags:
+  - "climate-tech"
+  - "carbon-removal"
 aliases:
   - "Charm Industrial"
-related: []
+related:
+  - "[[Watershed Climate Diligence — 2021]]"
+  - "[[Carbon Removal]]"
+  - "[[Lowercarbon Capital]]"
 ---
 
 # Charm Industrial
 
-**One-line definition:** *Carbon-removal company; Aledade purchased 83 tons of removal from them.*
+Charm Industrial appears in Kyle's climate-tech notes as a [Carbon Removal](/notes/carbon-removal) provider. In the Watershed Climate Diligence — 2021 dossier, a Watershed customer reported that the platform had facilitated their "purchase of 83 tons of carbon removal from Charm Industrial" — an example of how [Watershed Climate](/notes/watershed-climate) connects customers to carbon-removal supply (Watershed takes a ~10% finder's fee on such purchases) rather than productizing the relationship. It is named alongside Charm as one of the verified removal/offset projects customers can fund through the platform.
 
-## How sources describe it
+Charm also shows up in the Lowercarbon research as one of the firms in Lowercarbon Capital's orbit, listed among that note's index of companies adjacent to the fund's carbon-removal thesis.
 
-- Carbon-removal company; Aledade purchased 83 tons of removal from them. (source: Watershed Climate Diligence — 2021)
+**Context:** *Charm Industrial is a San Francisco–based carbon-removal company that converts waste biomass into a stable bio-oil and injects it underground for permanent geologic sequestration; it was an early supplier to corporate carbon-removal buyers such as Stripe's Frontier program.*
 
-## Where it shows up
+## Where this appears
 
-- Watershed Climate Diligence — 2021 — Watershed Climate Series B diligence (Index Ventures, 2021).
-
-## Related concepts
-
-_(stub — expand on a future pass)_
+- Watershed Climate Diligence — 2021 — cited as the carbon-removal supplier a Watershed customer purchased 83 tons of removal from, illustrating Watershed's removal-marketplace channel.
+- Renegade Spotlight — Lowercarbon - Research — listed in the research note's index of carbon-removal companies in Lowercarbon Capital's orbit.

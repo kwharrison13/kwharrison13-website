@@ -75,7 +75,7 @@ You have to make the ask. I put it this way when I wrote the piece:
 
 ## Calculated Value Adding
 
-Finally, the last piece I wrote about this was simply called "[Let Me Know How I Can Be Helpful](https://investing1012dot0.substack.com/p/let-me-know-how-i-can-be-helpful)." The idea was the value add needs to be calculated, deliberate, and active rather than reactive. The best summary quote comes from Naval Ravikant: *"Helpful people don't ask 'how can I help?' They just help."*
+Finally, the last piece I wrote about this was simply called "[Let Me Know How I Can Be Helpful](https://investing1012dot0.substack.com/p/let-me-know-how-i-can-be-helpful)." The idea was the value add needs to be calculated, deliberate, and active rather than reactive. The best summary quote comes from [[Naval Ravikant]]: *"Helpful people don't ask 'how can I help?' They just help."*
 
 But again, so much of what I've written in the past has focused on pushing VCs to better articulate their product offering. How can you actually be helpful? How can we put the meme to rest by making VCs a genuinely useful part of the venture ecosystem?
 
@@ -87,7 +87,7 @@ At the end of the first piece I mentioned above, I made one of my favorite memes
 
 ![Source:Investing 101](/images/you-dont-want-my-value-add-2fdd6e66.png)
 
-For a lot of investors, the pain of this meme feels all too real. The traditional conversation on Twitter so often revolves around how VCs are useless. But what happens when you're truly, genuinely trying to offer valuable help to a founder, and they couldn't care less about you?
+For a lot of investors, the pain of this meme feels all too real. The traditional conversation on [[Twitter]] so often revolves around how VCs are useless. But what happens when you're truly, genuinely trying to offer valuable help to a founder, and they couldn't care less about you?
 
 I've posted before about how more founders should put VCs to work:
 

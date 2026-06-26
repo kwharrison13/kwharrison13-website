@@ -18,7 +18,7 @@ substack_url: "https://investing101.substack.com/p/decades"
 
 ![Source:Steinberg](/images/decades-eb4cfec8.png)
 
-In 1995, Bill Gates was 40 years old and had been running Microsoft as a public company for just 9 years. The company was worth [$50 billion](https://companiesmarketcap.com/microsoft/marketcap/). That same year, he wrote a book called [The Road Ahead](https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0670859133). If you were to read the 1995 edition of that book now, you would notice that there was one glaring thing missing: the internet.
+In 1995, [[Bill Gates]] was 40 years old and had been running [[Microsoft]] as a public company for just 9 years. The company was worth [$50 billion](https://companiesmarketcap.com/microsoft/marketcap/). That same year, he wrote a book called [The Road Ahead](https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0670859133). If you were to read the 1995 edition of that book now, you would notice that there was one glaring thing missing: the internet.
 
 At the time, he [believed](https://www.inc.com/tess-townsend/what-bill-gates-got-wrong-about-the-internet-in-the-1990s.html) that "the technology for 'killer applications' was inadequate to lure consumers to the Internet." By 1995, there weren't even a [million](https://www.inc.com/tess-townsend/what-bill-gates-got-wrong-about-the-internet-in-the-1990s.html) websites yet. However, he quickly realized his mistake and adjusted course. In 1996, he heavily [revised the book](https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0140257276/) to include a whole chapter on the internet, front and center.
 
@@ -63,7 +63,7 @@ If I were better at analyzing my life in decades, I would certainly have a bette
 
 # Anything Worth Having Is Worth Waiting
 
-I recently read a great book called [The Idea Factory](https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797) about Bell Labs in its golden age. In it, there's a great line about the point where the people at Bell Labs realized they were building for the long-term, not the quick buck:
+I recently read a great book called [The Idea Factory](https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797) about [[Bell Labs]] in its golden age. In it, there's a great line about the point where the people at Bell Labs realized they were building for the long-term, not the quick buck:
 
 > *"The company’s executives began to imagine how their company might adapt its technology not only for the near term but for a future far, far away: 'Eventually it came to be assumed within the Bell System that there would never be a time when technological innovation would no longer be needed. **[They] would measure the company’s progress in decades instead of years**.'"*
 
@@ -97,13 +97,13 @@ A old proverb that the Long Now Foundation quotes frequently says "If you’re p
 
 I started my first company because I kept in touch with a friend that had the original idea. I started my second company because I encouraged a friend who was trying to find an approach to social innovation he was excited about. I got my first job because I had kept in touch with some guys who were starting a club at BYU. I got my second job because I was willing to DM people on Linkedin.
 
-I started writing this blog because I was willing to listen to advice from my friend [Rex Woodbury](https://x.com/rex_woodbury), even though I was jealous of him! I work at Contrary today because I kept in touch with a guy that had [cold emailed me](https://x.com/kwharrison13/status/1600623071844392960) 6 years earlier!
+I started writing this blog because I was willing to listen to advice from my friend [Rex Woodbury](https://x.com/rex_woodbury), even though I was jealous of him! I work at [[Contrary]] today because I kept in touch with a guy that had [cold emailed me](https://x.com/kwharrison13/status/1600623071844392960) 6 years earlier!
 
 Keeping in touch with people, building relationships, and seeing what comes of it. That is the most powerful way to let positive forces start to take shape in your life. Without those relationships, you're left to your own devices. And lets face it... most of us are kind of mid on our own.
 
 ## "We are Gods."
 
-Stewart Brand's [Wikipedia page](https://en.wikipedia.org/wiki/Stewart_Brand) introduced me to a great story I hadn't heard before:
+[[Stewart Brand]]'s [Wikipedia page](https://en.wikipedia.org/wiki/Stewart_Brand) introduced me to a great story I hadn't heard before:
 
 > *"In 1966, while on an LSD trip on the roof of his house in North Beach, San Francisco, **Brand became convinced that seeing an image of the whole Earth would change how we think about the planet and ourselves**."*
 
@@ -127,7 +127,7 @@ Dreaming the dream of your god-like potential allows you to raise the bar of you
 
 ## Components of Compounding
 
-I recently read Ryan Holiday's [Discipline is Destiny](https://www.amazon.com/Discipline-Destiny-Power-Self-Control-Virtues-ebook/dp/B09PB1SB72/) where he talks about the power of self-control. He had a line that struck me about the way the choices we make have the power to compound over a lifetime:
+I recently read [[Ryan Holiday]]'s [Discipline is Destiny](https://www.amazon.com/Discipline-Destiny-Power-Self-Control-Virtues-ebook/dp/B09PB1SB72/) where he talks about the power of self-control. He had a line that struck me about the way the choices we make have the power to compound over a lifetime:
 
 > *"It's the journey of a lifetime. In fact, that's the way to think about all of this: **How much progress could you make if you made just a little each day over the course of an entire life?** What might this journey look like, where might it lead, if each bit of progress you made presented both the opportunity and the obligation to make a little more progress, and you seized those opportunities, you lived up to those obligations, each and every time?"*
 

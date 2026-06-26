@@ -18,7 +18,7 @@ substack_url: "https://investing101.substack.com/p/seek-sunlight"
 
 ![Header image for Seek Sunlight](/images/seek-sunlight-b53c0268.png)
 
-Over the course of the last few years, I've written something each week. Consistency was my one goal when I set out and boy have I stuck to that because my quality of writing has ebbed and flowed dramatically. If you've read much of my writing you'll know they're not all winners.
+Over the course of the last few years, I've written something each week. [[Consistency]] was my one goal when I set out and boy have I stuck to that because my quality of writing has ebbed and flowed dramatically. If you've read much of my writing you'll know they're not all winners.
 
 Every once in a while I find myself too busy, or that I tried and failed to write a big essay, or got too distracted, or was feeling too much to really write something concrete. It's become my "reflection" series:
 

@@ -2,12 +2,13 @@
 title: "John Vrionis"
 type: "person"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/What Is An Investor - Research.md"
+  - "wiki/companies/Unusual Ventures.md"
 tags:
   - "venture-capital"
 aliases:
@@ -15,26 +16,18 @@ aliases:
 related:
   - "[[What Is An Investor - Research]]"
   - "[[What Is An Investor]]"
+  - "[[Unusual Ventures]]"
   - "[[Venture Capital]]"
 ---
 
 # John Vrionis
 
-**One-line:** *Founder of Unusual Ventures; author of a widely-shared cartoon/meme taxonomy of the different "types" of VC that Kyle cites when bucketing investor archetypes.*
+John Vrionis is the founder of [Unusual Ventures](/notes/unusual-ventures) and, in Kyle's wiki, the source of a recurring cartoon describing the different "types" of VC. Per What Is An Investor - Research, Vrionis's [LinkedIn shares](https://www.linkedin.com/in/johnvrionis/) include that taxonomy, which Kyle cites in [What Is An Investor](/essays/what-is-an-investor) when bucketing investor archetypes — using a practitioner's tongue-in-cheek map of the field to anchor the essay's discussion of what an investor actually is.
 
-_Stub page — created from What Is An Investor - Research. Expand on a future pass._
-
-## What we know
-
-- His [LinkedIn shares](https://www.linkedin.com/in/johnvrionis/) include a recurring cartoon describing different types of VCs, which Kyle references in [What Is An Investor](/essays/what-is-an-investor). (source: What Is An Investor - Research)
-
-## Connections
-
-- [Venture Capital](/notes/venture-capital) — Vrionis is a [Venture Capital](/notes/venture-capital) investor (founder of Unusual Ventures); his VC-types cartoon is a taxonomy of the field's investor archetypes.
-- [What Is An Investor](/essays/what-is-an-investor) — the essay that cites his cartoon when bucketing investor archetypes.
-- What Is An Investor - Research — research notes from which this page was created.
+**Context:** John Vrionis is a longtime venture capitalist who co-founded Unusual Ventures (a seed-stage firm) after a partner tenure at Lightspeed Venture Partners.
 
 ## Where this appears
 
-- What Is An Investor - Research
-- [What Is An Investor](/essays/what-is-an-investor)
+- What Is An Investor - Research — research notes capturing his LinkedIn cartoon of VC "types," the source Kyle cites in the essay.
+- [What Is An Investor](/essays/what-is-an-investor) — the essay that uses his VC-types taxonomy when bucketing investor archetypes.
+- [Unusual Ventures](/notes/unusual-ventures) — the firm he founded; central to his identity on this page.

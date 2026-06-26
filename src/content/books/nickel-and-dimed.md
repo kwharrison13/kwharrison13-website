@@ -7,7 +7,7 @@ quake: false
 tags:
   - "city-building"
   - "people-over-politics"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
@@ -20,7 +20,7 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-- [Utopia For Realists](/books/utopia-for-realists) — Ehrenreich's ground-level reporting on low-wage work is the lived texture under Bregman's macro claim that poverty is "a lack of cash," not a lack of character.
+- [Utopia For Realists](/books/utopia-for-realists) — Ehrenreich's ground-level reporting on low-wage work is the lived texture under [Bregman](/notes/rutger-bregman)'s macro claim that poverty is "a lack of cash," not a lack of character.
 <!-- /interconnections -->
 
 ## Highlights

@@ -8,7 +8,7 @@ tags:
   - "historical-futurism"
   - "technological-innovation"
   - "language-of-discourse"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
@@ -45,7 +45,7 @@ The throughline: the novel reads here less as horror at a dystopia than as a pro
 ## Highlights
 
 - With devastating irony and fascinating precision, the novel, published in 1932, describes a futuristic world some six centuries hence in which mankind has been re-engineered for maximum efficiency, and contained and controlled by the constant satisfaction of pleasure. <!--rwid:rwid-23a9bf60b4c2-->
-- —NICOLAS BERDIAEFF Translation Utopias seem to be much more attainable than one would have believed in other times. And we currently find ourselves faced with a different kind of agonizing question: How can one avoid their definitive attainment?… Utopias are attainable. Life leads us toward utopias. Perhaps a new century will begin, a century in which the intellectuals and the cultivated classes will dream again of ways to avoid utopias and to return to a non-utopian society, one less “perfect” and more free. <!--rwid:rwid-9f0a462dd276-->
+- —NICOLAS BERDIAEFF Translation [Utopias](/notes/utopias) seem to be much more attainable than one would have believed in other times. And we currently find ourselves faced with a different kind of agonizing question: How can one avoid their definitive attainment?… Utopias are attainable. Life leads us toward utopias. Perhaps a new century will begin, a century in which the intellectuals and the cultivated classes will dream again of ways to avoid utopias and to return to a non-utopian society, one less “perfect” and more free. <!--rwid:rwid-9f0a462dd276-->
 - Not philosophers but fretsawyers and stamp collectors compose the backbone of society. <!--rwid:rwid-6c79c12435fd-->
 - Making ninety-six human beings grow where only one grew before. Progress. <!--rwid:rwid-6bcbf3f9b55b-->
 - “Bokanovsky’s Process is one of the major instruments of social stability!” <!--rwid:rwid-daff275ddc95-->
@@ -57,7 +57,7 @@ The throughline: the novel reads here less as horror at a dystopia than as a pro
 - Books and loud noises, flowers and electric shocks—already in the infant mind these couples were compromisingly linked; and after two hundred repetitions of the same or a similar lesson would be wedded indissolubly. What man has joined, nature is powerless to put asunder. “They’ll grow up with what the psychologists used to call an ‘instinctive’ hatred of books and flowers. Reflexes unalterably conditioned. They’ll be safe from books and botany all their lives.” The Director turned to his nurses. “Take them away again.” <!--rwid:rwid-680bc323d31e-->
 - A love of nature keeps no factories busy. It was decided to abolish the love of nature, at any rate among the lower classes; to abolish the love of nature, but not the tendency to consume transport. <!--rwid:rwid-2b232960a2d5-->
 - “These,” he said gravely, “are unpleasant facts; I know it. But then most historical facts are unpleasant.” <!--rwid:rwid-872d45e9eb97-->
-- “The case of Little Reuben occurred only twenty-three years after Our Ford’s first T-Model was put on the market.” (Here the Director made a sign of the T on his stomach and all the students reverently followed suit.) <!--rwid:rwid-e0b80a7e6a8b-->
+- “The case of Little Reuben occurred only twenty-three years after Our [Ford](/notes/henry-ford)’s first T-Model was put on the market.” (Here the Director made a sign of the T on his stomach and all the students reverently followed suit.) <!--rwid:rwid-e0b80a7e6a8b-->
 - “Moral education, which ought never, in any circumstances, to be rational.” <!--rwid:rwid-704dd09bab68-->
 - “Strange,” mused the Director, as they turned away, “strange to think that even in Our Ford’s day most games were played without more apparatus than a ball or two and a few sticks and perhaps a bit of netting. Imagine the folly of allowing people to play elaborate games which do nothing whatever to increase consumption. <!--rwid:rwid-52ab3b231cc7-->
 - “You all remember,” said the Controller, in his strong deep voice, “you all remember, I suppose, that beautiful and inspired saying of Our Ford’s: History is bunk. History,” he repeated slowly, “is bunk.” <!--rwid:rwid-8aa9ef1623f3-->
@@ -67,7 +67,7 @@ The throughline: the novel reads here less as horror at a dystopia than as a pro
 - “Back to culture. Yes, actually to culture. You can’t consume much if you sit still and read books.” <!--rwid:rwid-dd7133bb06d3-->
 - “In the end,” said Mustapha Mond, “the Controllers realized that force was no good. The slower but infinitely surer methods of ectogenesis, neo-Pavlovian conditioning and hypnopædia…” <!--rwid:rwid-c4fdf28162be-->
 - “Accompanied by a campaign against the Past; by the closing of museums, the blowing up of historical monuments (luckily most of them had already been destroyed during the Nine Years’ War); by the suppression of all books published before A.F. 150.” <!--rwid:rwid-102e9754ffc3-->
-- “All the advantages of Christianity and alcohol; none of their defects.” <!--rwid:rwid-262f4a3ac2d6-->
+- “All the advantages of [Christianity](/notes/christianity) and alcohol; none of their defects.” <!--rwid:rwid-262f4a3ac2d6-->
 - “Take a holiday from reality whenever you like, and come back without so much as a headache or a mythology.” <!--rwid:rwid-19b246e5e6e3-->
 - “Work, play—at sixty our powers and tastes are what they were at seventeen. Old men in the bad old days used to renounce, retire, take to religion, spend their time reading, thinking—thinking!” <!--rwid:rwid-19889120d097-->
 - “Now—such is progress—the old men work, the old men copulate, the old men have no time, no leisure from pleasure, not a moment to sit down and think—or if ever by some unlucky chance such a crevice of time should yawn in the solid substance of their distractions, there is always soma, delicious soma, <!--rwid:rwid-30452a87c5fd-->

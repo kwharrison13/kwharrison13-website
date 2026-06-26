@@ -2,30 +2,30 @@
 title: "ClimateWorks"
 type: "company"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/Watershed Climate Diligence — 2021.md"
+  - "wiki/diligence-research/Watershed Climate Diligence — 2021.md"
+  - "wiki/companies/Center for Climate & Energy Solutions.md"
 tags: []
 aliases:
   - "ClimateWorks"
-related: []
+  - "ClimateWorks Foundation"
+related:
+  - "[[Watershed Climate]]"
+  - "[[Center for Climate & Energy Solutions]]"
+  - "[[Rebecca Dell]]"
 ---
 
 # ClimateWorks
 
-**One-line definition:** *Climate-philanthropy foundation; Rebecca Dell's organization.*
+ClimateWorks (the ClimateWorks Foundation) surfaces in Kyle's [Watershed Climate](/notes/watershed-climate) Series B diligence (Index Ventures, 2021) as part of the climate-policy and ecosystem layer around Watershed's carbon-measurement platform. The foundation appears through [Rebecca Dell](/notes/rebecca-dell), its Industry Program Director and a former Obama-administration advisor, who was interviewed about the power of corporate purchasing to drive down the cost of clean industrial materials — noting that just three core materials (cement, steel, and basic chemicals) account for roughly 20% of greenhouse-gas emissions. The [Center for Climate & Energy Solutions](/notes/center-for-climate-and-energy-solutions) page places ClimateWorks alongside [Global Optimism](/notes/global-optimism) (Christiana Figueres) as one of the climate institutions in Watershed's orbit.
 
-## How sources describe it
+**Context:** ClimateWorks Foundation is a San Francisco–based climate-philanthropy organization that channels and coordinates grant funding toward emissions-reduction strategies worldwide, working through a network of regional and sector-focused partner organizations.
 
-- Climate-philanthropy foundation; Rebecca Dell's organization. (source: Watershed Climate Diligence — 2021)
+## Where this appears
 
-## Where it shows up
-
-- Watershed Climate Diligence — 2021 — Watershed Climate Series B diligence (Index Ventures, 2021).
-
-## Related concepts
-
-_(stub — expand on a future pass)_
+- Watershed Climate Diligence — 2021 — [Rebecca Dell](/notes/rebecca-dell) of ClimateWorks interviewed on clean industrial materials and the carbon footprint of cement, steel, and chemicals.
+- [Center for Climate & Energy Solutions](/notes/center-for-climate-and-energy-solutions) — ClimateWorks listed among the climate institutions in Watershed's policy/ecosystem orbit.

@@ -9,7 +9,7 @@ url: "https://www.kwharrison13.com/books/poor-charlie-s-almanack"
 source_published: "2005-01-01"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/books/poor-charlie-s-almanack.md"
@@ -42,7 +42,7 @@ related:
 
 These are Kyle's long-form notes that sit alongside his book notes on [Poor Charlie's Almanack](/books/poor-charlie-s-almanack).
 
-**Chapter Four of Poor Charlie's Almanack is itself a collection of eleven talks** — speeches and addresses [Charlie Munger](/notes/charlie-munger) delivered between 1986 and 2000, gathered and annotated by Peter Kaufman. Rather than fold them into the single book page, each talk gets its own long-form note here so the highlights and annotations can stand on their own and cross-link freely.
+**Chapter Four of Poor Charlie's Almanack is itself a collection of eleven talks** — speeches and addresses [Charlie Munger](/notes/charlie-munger) delivered between 1986 and 2000, gathered and annotated by [Peter Kaufman](/notes/peter-kaufman). Rather than fold them into the single book page, each talk gets its own long-form note here so the highlights and annotations can stand on their own and cross-link freely.
 
 ## The Eleven Talks
 

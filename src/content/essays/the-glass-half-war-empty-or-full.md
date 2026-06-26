@@ -39,7 +39,7 @@ So what does our optimism require of us? My general thoughts this week came acro
 
 The first thing that was too interesting to me this week was watching April Fool's Day play out. I don't know why it struck me so uniquely this year, but I think its because so much seemingly crazy stuff has happened in the last few years, almost every few days, that its so much harder to discern reality from fiction.
 
-I remember when Theranos happened, and everybody talked about that. Then WeWork happened, and everybody talked about that. Today, it feels like there are 15 things at any given time that are insane, and no one is spending enough time talking about any of them.
+I remember when Theranos happened, and everybody talked about that. Then [[WeWork]] happened, and everybody talked about that. Today, it feels like there are 15 things at any given time that are insane, and no one is spending enough time talking about any of them.
 
 So lets unpack some of the stories we all told when the veil was lifted, and we could tell whatever stories we wanted to for just one day. (And granted, these are just a few of the ones I saw, I'm sure there were plenty of other interesting ones).
 
@@ -75,7 +75,7 @@ And you realize that we originally conceptualized the search engine as a butler,
 
 ![Source:Twitter](/images/the-glass-half-war-empty-or-full-7808c4f8.png)
 
-Final one I'll point to is Sarah Guo joking that she's going to put the rest of her fund in Nvidia and wait for AGI. This one struck me as funny because, in many cases, LPs would have been better putting their money in an index representative of a trend and going on vacation. Instead of trying to invest in Social 2.0, investors should have just put their money in Facebook. Instead of trying to invest in ecommerce 2.0, investors should have just put their money in Amazon.
+Final one I'll point to is Sarah Guo joking that she's going to put the rest of her fund in [[Nvidia]] and wait for AGI. This one struck me as funny because, in many cases, LPs would have been better putting their money in an index representative of a trend and going on vacation. Instead of trying to invest in Social 2.0, investors should have just put their money in [[Facebook]]. Instead of trying to invest in ecommerce 2.0, investors should have just put their money in [[Amazon]].
 
 I think all the time about this tweet from Post Market:
 
@@ -107,7 +107,7 @@ So what is her outrage with \*checks notes\* teaching kids math? This is her the
 
 ![Tweet referenced in Reframe: Learning Is Good, Actually section](/images/the-glass-half-war-empty-or-full-ee1a9dbe.png)
 
-She has an entire multi-faceted tweet-threaded rant against, not just Mentava (which my kids have used), but against Replit (which I invested in) and Balaji's network state. So obviously I'm biased, but I can't help but feel like this is perfectly summed up by this meme.
+She has an entire multi-faceted tweet-threaded rant against, not just Mentava (which my kids have used), but against [[Replit]] (which I invested in) and [[Balaji Srinivasan|Balaji]]'s network state. So obviously I'm biased, but I can't help but feel like this is perfectly summed up by this meme.
 
 ![Tweet referenced in Reframe: Learning Is Good, Actually section](/images/the-glass-half-war-empty-or-full-9aa1137a.png)
 
@@ -137,7 +137,7 @@ In response to that, our Mission President, Clint Topham, who was an older gentl
 
 *“Don’t look to complain. Look to improve.” (Clint Topham)*
 
-And now, I see this principle all over the place. Every few months, I see another iteration of it on Twitter.
+And now, I see this principle all over the place. Every few months, I see another iteration of it on [[Twitter]].
 
 ![Source:Twitter](/images/the-glass-half-war-empty-or-full-ba4a6342.png)
 

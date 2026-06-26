@@ -11,14 +11,17 @@ sources:
 tags: []
 aliases:
   - "Audible"
-related: []
+related:
+  - "[[Becoming]]"
 reference_count: 1
 ---
 
 # Audible
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+Audiobook platform, noted in [Becoming](/books/becoming) as the medium through which Kyle read (listened to) [Michelle Obama](/notes/michelle-obama)'s 2019 memoir. It appears only as a format/provenance tag on that book page, not as a topic discussed in the corpus.
+
+**Context:** Audible is Amazon's audiobook and spoken-word service, one of the largest distributors of audiobooks.
 
 ## Where this appears
 
-- [Becoming](/books/becoming)
+- [Becoming](/books/becoming) — the audiobook platform via which Kyle consumed Michelle Obama's memoir in 2019.

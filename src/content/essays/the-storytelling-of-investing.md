@@ -28,11 +28,11 @@ Some people [emphasize](https://twitter.com/nwilliams030/status/1482756609717768
 
 ## We Are What We Believe
 
-In the book [Sapiens](https://www.amazon.com/dp/B00K7ED54M/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), a critical part of any [VC starter kit](https://www.businessinsider.com/vc-starter-kit-patagonia-2019-3), Yuval Harari makes one of his key points, and a similar point to Secondhand Lions:
+In the book [Sapiens](https://www.amazon.com/dp/B00K7ED54M/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), a critical part of any [VC starter kit](https://www.businessinsider.com/vc-starter-kit-patagonia-2019-3), [[Yuval Noah Harari|Yuval Harari]] makes one of his key points, and a similar point to [[Secondhand Lions]]:
 
 > *”There are no gods in the universe, no nations, no money, no human rights, no laws, and no justice **outside the common imagination of human beings.** Whether or not something is true doesn’t impact whether you believe it.”*
 
-I'm a religious person, and I believe in God. But so do lots of people, and they believe in different Gods than me. So when you start to abstract to only what you can see and touch there are a lot of concepts that feel much more squishy. Google is a corporation. A dollar is worth more than the paper it's on. **But money and corporations only really exist because we all collectively agree they do.** That "common imagination" Harari talks about is pretty powerful.
+I'm a religious person, and I believe in God. But so do lots of people, and they believe in different Gods than me. So when you start to abstract to only what you can see and touch there are a lot of concepts that feel much more squishy. [[Alphabet|Google]] is a corporation. A dollar is worth more than the paper it's on. **But money and corporations only really exist because we all collectively agree they do.** That "common imagination" Harari talks about is pretty powerful.
 
 In investing a significant part of the process is answering questions like 'what do you believe?' and 'what do you have to believe?' Most people try to be as data-driven as possible in answering those questions, but just like in religion or politics there are mountains of unknowables and so we simply do our best with the information we have.
 
@@ -40,7 +40,7 @@ In investing a significant part of the process is answering questions like 'what
 
 > *"If you had a hedge fund analyst and a venture capitalist on a game show you could ask the question "a company's valuation is primarily based on BLANK." The analyst might say "the cash flows that a business will produce in the future." The VC's answer? **"The narrative."***
 
-Dan Loeb [put it this way](https://twitter.com/NeckarValue/status/1523014967745662977?s=20&t=D2VXfjmxVJdLFjCBUni7rA) in his Q1 2022 letter, "to be an investor is to live constantly at the intersection of story and uncertainty." I spend all day wrapped in the storytelling of investing so as I sought to better understand it I came to focus on two key areas:
+[[Dan Loeb]] [put it this way](https://twitter.com/NeckarValue/status/1523014967745662977?s=20&t=D2VXfjmxVJdLFjCBUni7rA) in his Q1 2022 letter, "to be an investor is to live constantly at the intersection of story and uncertainty." I spend all day wrapped in the storytelling of investing so as I sought to better understand it I came to focus on two key areas:
 
 (1) **The culture of communication.** Lots of investment firms and startups alike have built their culture around writing. Learning that skill forces you to understand the fundamentals of storytelling.
 
@@ -52,17 +52,17 @@ Certain cultures have built their organizations around effective communication a
 
 > *"Soft power acts more gently, like a story. No explicit demand is made of the listener, and as a result, a state of openness is achieved. **The content of soft power is more symbolic or metaphorical, enforcing values and norms through narrative.**"*
 
-External content can build soft power. But certain organizations have used writing internally to drive the stories that emphasize their values. Amazon, Stripe, Berkshire Hathaway, Bridgewater. **These companies, to me, represent the unique culture of Wordsmiths.** I could write an entire post about each individual culture. And in the same way I write [Renegade Spotlights](https://investing1012dot0.substack.com/p/thegp) about venture firms I plan to write Wordsmith Spotlights to better explore these chronicler cultures.
+External content can build soft power. But certain organizations have used writing internally to drive the stories that emphasize their values. [[Amazon]], [[Stripe]], [[Berkshire Hathaway]], Bridgewater. **These companies, to me, represent the unique culture of [[Wordsmiths]].** I could write an entire post about each individual culture. And in the same way I write [Renegade Spotlights](https://investing1012dot0.substack.com/p/thegp) about venture firms I plan to write Wordsmith Spotlights to better explore these chronicler cultures.
 
 When you read books like [The Everything Store](https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon-ebook/dp/B00BWQW73E) and [Amazon Unbound](https://www.amazon.com/Amazon-Unbound-Invention-Global-Empire-ebook/dp/B08TB1TP7H/ref=sr_1_1?crid=25QQILBUCE8TX&keywords=amazon+unbound&qid=1659015424&s=digital-text&sprefix=amazon+unbound%2Cdigital-text%2C101&sr=1-1) you hear countless stories of writing at the center of how people communicate.
 
-> *"PowerPoint decks or slide presentations are never used in meetings. Instead, employees are required to write **six-page narratives laying out their points in prose**, because Bezos believes doing so fosters critical thinking. 'PowerPoint is a very imprecise communication mechanism,' says Jeff Holden, Bezos’s former D. E. Shaw colleague, who by that point had joined the S Team. **'It is fantastically easy to hide between bullet points. You are never forced to express your thoughts completely.**'"*
+> *"[[PowerPoint]] decks or slide presentations are never used in meetings. Instead, employees are required to write **six-page narratives laying out their points in prose**, because [[Jeff Bezos|Bezos]] believes doing so fosters critical thinking. 'PowerPoint is a very imprecise communication mechanism,' says Jeff Holden, Bezos’s former D. E. Shaw colleague, who by that point had joined the S Team. **'It is fantastically easy to hide between bullet points. You are never forced to express your thoughts completely.**'"*
 
 Writing pervades the Amazon experience as early as the hiring process where candidates are often asked to write responses to prompts like "the most innovative thing I've ever done" or "the most customer obsessed thing I have ever done in my career."
 
 Not only are major projects written out in narrative form but even decisions like adding air-conditioning units to warehouse facilities require their case written out. In that specific air-conditioning example one executive laid out the argument for installing AC units which was rejected because of the cost. When the media reaction was negative the author-executive was skewered by Bezos. The exec pointed to his original written proposal but Bezos fumed that it had been poorly written, ambiguous, and lacking any details on media reaction or cost savings potential. **"[This] is what happens when Amazon puts people in top jobs who can't articulate their ideas clearly and support them with data."**
 
-Stripe is famous for high quality documentation, but it's more pervasive than that. [David Nunez](https://www.linkedin.com/in/djnunez/), the person who spent the last 5 years reinforcing Stripe's writing culture, saw this [from the top down](https://twitter.com/david_perell/status/1213574043737214976?s=20&t=jQS1ihDBJ1Nwuf9Z257sPQ). “The first emails I saw from Patrick Collison literally had footnotes." The [impact](https://slab.com/blog/stripe-writing-culture/) on everyone's thinking is palpable
+Stripe is famous for high quality documentation, but it's more pervasive than that. [David Nunez](https://www.linkedin.com/in/djnunez/), the person who spent the last 5 years reinforcing Stripe's writing culture, saw this [from the top down](https://twitter.com/david_perell/status/1213574043737214976?s=20&t=jQS1ihDBJ1Nwuf9Z257sPQ). “The first emails I saw from [[Patrick Collison]] literally had footnotes." The [impact](https://slab.com/blog/stripe-writing-culture/) on everyone's thinking is palpable
 
 > *“Writing forces you to structure your thoughts in a manner just not possible when you verbalize it. When I write, I **have** to offer structured, precise thoughts.”*
 
@@ -76,15 +76,15 @@ The absolute best argument for this is Mark Seller's Harvard MBA address entitle
 
 > *"Most important, I believe you need to be a good writer. Look at Buffett; he's one of the best writers ever in the business world. It's not a coincidence that he's also one of the best investors of all time. **If you can't write clearly, it is my opinion that you don't think very clearly. And if you don't think clearly, you're in trouble.** There are a lot of people who have genius IQs who can't think clearly, though they can figure out bond or option pricing in their heads."*
 
-Beyond clarity of thought there is a sense of confidence that comes from writing. The more clearly you can articulate your thinking the more trust you can build, both with your investing partners as well as your own investors who are trusting you with their money. [Morgan Housel has a great interview](https://perell.com/essay/morgan-housel/) with David Perell where he lays out another case for writing in investing (the quote is longy but a goody):
+Beyond clarity of thought there is a sense of confidence that comes from writing. The more clearly you can articulate your thinking the more trust you can build, both with your investing partners as well as your own investors who are trusting you with their money. [Morgan Housel has a great interview](https://perell.com/essay/morgan-housel/) with [[David Perell]] where he lays out another case for writing in investing (the quote is longy but a goody):
 
 > *"I think [Warren Buffett](https://www.berkshirehathaway.com/letters/letters.html) and [Howard Marks](https://www.oaktreecapital.com/insights) were really the forerunners for all of this. They were not just giving their investors more information, but they were using their ability to communicate as a bridge towards trust. And that’s really what it was.*
 >
-> *So many investors will say 'Oh I went back and read Warren Buffet’s letters to shareholders and they’re so enlightening.' I think, for the most part, there’s actually not that much technical information in there that most people didn’t already know.  If you have a finance background, you understand a free cash flow and value and margin of safety. You get all of that. **But Buffett’s letters instilled the sense of like subconscious trust.** The way Buffett describes things gives you this view of: 'Hey, you’re not trying to screw me.' Buffett and Marks more or less had permanent capital because their investors trusted them. And because of that trust, all these other hedge fund managers and private equity managers that during a bear market, their investors would have said, “I don’t trust you anymore. I’m out of here. Give me my money back.”*
+> *So many investors will say 'Oh I went back and read Warren Buffet’s letters to shareholders and they’re so enlightening.' I think, for the most part, there’s actually not that much technical information in there that most people didn’t already know.  If you have a finance background, you understand a free cash flow and value and margin of safety. You get all of that. **But Buffett’s letters instilled the sense of like subconscious trust.** The way Buffett describes things gives you this view of: 'Hey, you’re not trying to screw me.' Buffett and [[Howard Marks|Marks]] more or less had permanent capital because their investors trusted them. And because of that trust, all these other hedge fund managers and private equity managers that during a bear market, their investors would have said, “I don’t trust you anymore. I’m out of here. Give me my money back.”*
 >
 > *But investors didn’t do that for Buffett or Marks, and that’s a massive competitive advantage right there. So put all that together. **Buffett and Marks used content to instill trust, trust gave them permanent capital, and permanent capital gave them a massive financial advantage over other investors.***
 
-Newer funds have started to latch on to the power of storytelling, like the recent launch of [Mario Gabriele's Generalist Capital](https://www.readthegeneralist.com/briefing/generalist-capital): "**Narratives move the world.** For early-stage founders, an impactful story is magnetic to talent, capital, and customers. Generalist Capital exists to help great entrepreneurs create and capitalize on narrative momentum."
+Newer funds have started to latch on to the power of storytelling, like the recent launch of [Mario Gabriele's Generalist Capital](https://www.readthegeneralist.com/briefing/generalist-capital): "**Narratives move the world.** For early-stage founders, an impactful story is magnetic to talent, capital, and customers. [[Generalist Capital]] exists to help great entrepreneurs create and capitalize on narrative momentum."
 
 Like I said before, there is so much rich insight to learn from studying Wordsmiths. And I'm excited to dig into that more in the future. To reinforce these cultures of communication there are also tools that drive the narratives forward.
 
@@ -100,7 +100,7 @@ In the investing world our canvas for storytelling is often investment memos, sl
 
 Going back to Yuval Harari, he focuses on numbers. "A person who wishes to influence the decisions of governments, organizations, and companies must learn to speak in numbers. Experts do their best to translate [every] idea into numbers."
 
-Morgan Housel [put it another way](https://www.collaborativefund.com/blog/does-not-compute/):
+[[Morgan Housel]] [put it another way](https://www.collaborativefund.com/blog/does-not-compute/):
 
 > *"One way to think about this is that there are always two sides to every investment: The number and the story. **Every investment price, every market valuation, is just a number from today multiplied by a story about tomorrow.**"*
 
@@ -124,13 +124,13 @@ The danger in becoming over-dependent on anecdotal evidence is the often [incorr
 
 ### Synthesis
 
-The danger of being completely story-driven comes from whether you're actually telling a compelling story that represents aspects of reality? Or if you're simply [telling yourself a story you want to buy into](https://twitter.com/borrowed_ideas/status/1353368566536540164?s=20&t=AjTNLpuc9IXgiaMlaEETQg)? In the words of Charlie Munger, **"you're the easiest one to fool."**
+The danger of being completely story-driven comes from whether you're actually telling a compelling story that represents aspects of reality? Or if you're simply [telling yourself a story you want to buy into](https://twitter.com/borrowed_ideas/status/1353368566536540164?s=20&t=AjTNLpuc9IXgiaMlaEETQg)? In the words of [[Charlie Munger]], **"you're the easiest one to fool."**
 
 Starting with the narrative, the investment thesis, and then synthesizing the insights you get from numbers and anecdotes is the process through which you form an investment case. **Understanding the story you're telling and the pieces that make it up will allow you to better identify the failure points in your own thinking.**
 
 ## What Does This Mean For Venture?
 
-In 1999 Bill Gurley [wrote a piece](https://abovethecrowd.com/1999/10/18/the-rising-importance-of-the-great-art-of-storytelling/) that a lot of people could have benefitted from reading again in 2021. During the run-up in the dotcom you saw an increasing emphasis on storytelling. But the kind of storytelling Bill is talking about is the dangerous kind; the hype-machines that point you to proxy metrics that help spin their tales (the community-adjusted EBITDAs of 1999).
+In 1999 [[Bill Gurley]] [wrote a piece](https://abovethecrowd.com/1999/10/18/the-rising-importance-of-the-great-art-of-storytelling/) that a lot of people could have benefitted from reading again in 2021. During the run-up in the dotcom you saw an increasing emphasis on storytelling. But the kind of storytelling Bill is talking about is the dangerous kind; the hype-machines that point you to proxy metrics that help spin their tales (the community-adjusted EBITDAs of 1999).
 
 There is a quote floating around in my head that I've never been able to find again. The basic idea is this: "Bad ideas with strong support will often do better than good ideas with poor support." As uncomfortable as many people may be with storytelling impacting outcomes **the reality is storytelling is a weapon that can be wielded for good or evil.**
 

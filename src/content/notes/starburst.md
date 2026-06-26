@@ -33,7 +33,7 @@ reference_count: 1
 
 _The enterprise company commercializing open-source Presto as a federated SQL query layer across data lakes and warehouses — letting companies analyze data wherever it lives (data warehouse, cloud, on-prem) without [ETL](/notes/etl). Founded/led by [Justin Borgman](/notes/justin-borgman); all three open-source Presto founders joined concurrent with the Series A._
 
-Thesis in one line: **if you are a company with a ton of disparate data sources and you want a uniform query layer on top, use Presto** — the productized, performance-optimized Enterprise version of which is Starburst. Levered to a #multi-cloud / #hybrid-cloud world; main competitive threats are Amazon Athena ("good enough" for AMZN-standardizers) and Snowflake ($SNOW) consolidation.
+Thesis in one line: **if you are a company with a ton of disparate data sources and you want a uniform query layer on top, use Presto** — the productized, performance-optimized Enterprise version of which is Starburst. Levered to a #multi-cloud / #hybrid-cloud world; main competitive threats are Amazon Athena ("good enough" for AMZN-standardizers) and [Snowflake ($SNOW)](/notes/snowflake-snow) consolidation.
 
 ## Where this appears
 

@@ -63,15 +63,15 @@ One of the things that a lot of folks could have planned for better is a point i
 
 Even if you want to build a high-growth startup with aspirations to become a multi-billion dollar company that doesn't mean those aspirations have to be divorced from a clear plan towards generating profits.
 
-The companies that have been most impacted are those who have failed to demonstrate differentiated business models, sustainable growth, or a path to profitability. When you look at a company like Robinhood, at their peak they had a $42B market cap (25x revenue). They've plummeted to ~5x revenue ($8.7B market cap). At that multiple for them to achieve their previous market cap they'll need to generate $8B+ of revenue (they're currently at ~$1.2B). **Ho Nam goes on to make the point as to** ***why*** **profits unlock a lot more flexibility.**
+The companies that have been most impacted are those who have failed to demonstrate differentiated business models, sustainable growth, or a path to profitability. When you look at a company like [[Robinhood]], at their peak they had a $42B market cap (25x revenue). They've plummeted to ~5x revenue ($8.7B market cap). At that multiple for them to achieve their previous market cap they'll need to generate $8B+ of revenue (they're currently at ~$1.2B). **[[Ho Nam]] goes on to make the point as to** ***why*** **profits unlock a lot more flexibility.**
 
 > *"Buffett likes to say that he doesn’t like to depend on the kindness of strangers. Then adds that he doesn’t want depend on the kindness of friends either. **Key is to be able to control your own destiny**."*
 
-Controlling your own destiny is something very few companies have the luxury of. When you see companies as large as Uber just now starting to talk about unit economics more meaningfully that's the result of manufactured dependency. Not only a dependence on the expectations of Wall Street, who want to see profits more than they want to see their kids, but a dependence on an inflated market for cash.
+Controlling your own destiny is something very few companies have the luxury of. When you see companies as large as [[Uber]] just now starting to talk about unit economics more meaningfully that's the result of manufactured dependency. Not only a dependence on the expectations of Wall Street, who want to see profits more than they want to see their kids, but a dependence on an inflated market for cash.
 
 > *“**We have to make sure our unit economics work before we go big.** The least efficient marketing and incentive spend will be pulled back. Now it’s about free cash flow. We can (and should) get there fast.” [(Dara Khosrowshahi, Uber CEO)*
 
-In the Book of Peter Thiel, [Zero To One](https://morfene.com/021.pdf), among the sacred Silicon Valley texts, we come across this "contrarian" idea: **"A bad plan is better than no plan."** Obviously when you're a seed stage startup without a logo or a domain you're unlikely to have a clear view of what earnings per share will be 7 years from now.
+In the Book of Peter Thiel, [Zero To One](https://morfene.com/021.pdf), among the sacred [[Silicon Valley]] texts, we come across this "contrarian" idea: **"A bad plan is better than no plan."** Obviously when you're a seed stage startup without a logo or a domain you're unlikely to have a clear view of what earnings per share will be 7 years from now.
 
 But planning is an exercise in storytelling. Articulate the story that you genuinely believe (not just the one you're selling to candidates, customers, or investors). And then constantly evaluate that plan to identify the dependencies you have.
 

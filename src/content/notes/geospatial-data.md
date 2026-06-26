@@ -4,19 +4,25 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
 tags: []
 aliases:
   - "Geospatial Data"
-related: []
+related:
+  - "[[Carbon Offsets]]"
+  - "[[Satellites]]"
 ---
 
 # Geospatial Data
 
-_Stub — concept captured from Kyle's June 29th, 2021 Roam "Quick Capture" reading log. The links below are sources Kyle saved to explore this topic; not yet synthesized._
+Geospatial Data is a quick-capture reading theme from Kyle's June 29th, 2021 Index Ventures "Quick Capture" log, not yet developed into synthesized prose. The cluster of links Kyle saved under it sketches the topics he was tracking: satellite and drone imagery used to measure forests for [Carbon Offsets](/notes/carbon-offsets) (Fast Company), new low-earth-orbit constellations delivering "faster, cheaper broadband" (Axios, on SpaceX/Boeing), CubeSats as cheap small satellites (Wikipedia), AI applied to satellite imagery (NYT), satellites being used to spot signs of slavery from space (Science), indoor positioning via Esri's ArcGIS Indoors acquisition, the future of digital water technology, and the tension between public-sector data stewards (e.g. Ordnance Survey) and a faster-moving private sector.
+
+Read together, the saved links point at a single investment-adjacent thesis: as imaging satellites, drones, and small-sat constellations get cheaper, a flood of location-tagged data becomes available for everything from climate measurement to broadband to logistics — and the open question is who stewards and distributes it. The page is a loading dock of these signals rather than a finished argument; it warrants synthesis on a future pass.
+
+**Context:** Geospatial data is information tied to a location on the Earth's surface — satellite and aerial imagery, GPS traces, maps, and sensor readings tagged with coordinates. The 2019–2021 window the links span coincided with a sharp drop in the cost of small satellites (CubeSats) and the rise of AI for automated image analysis, which together expanded commercial geospatial applications.
 
 ## Quick Capture links — June 29th, 2021
 

@@ -21,7 +21,7 @@ Time for an entertaining and only slightly relevant anecdote. In 1964 the film M
 
 > *"Winds in the east, mist coming in. Like somethin' is brewin' and 'bout to begin. Can't put me finger on what lies in store, But I feel what's to happen all happened before."*
 
-The phrase jumped to my mind as I started to think about headwinds and tailwinds. I was then reminded of a more recent Mary Poppins. In 2018 Disney made a sequel to Mary Poppins. Hundreds of [critics loved it](https://www.rottentomatoes.com/m/mary_poppins_returns), but one of them was much more negative.
+The phrase jumped to my mind as I started to think about headwinds and tailwinds. I was then reminded of a more recent Mary Poppins. In 2018 [[Disney]] made a sequel to Mary Poppins. Hundreds of [critics loved it](https://www.rottentomatoes.com/m/mary_poppins_returns), but one of them was much more negative.
 
 We took my three year old niece to see the movie in theaters. She was even more fidgety than usual. At one point another little boy in front of us got taken out by his Mom to go to the bathroom. My niece excitedly observed this behavior, and then leaned over to us.
 
@@ -70,19 +70,19 @@ When I see these trends I pay attention. I try and understand them at more than 
 
 There are people in my life that I rely on as "nodes" in my decentralized brain. In other words, they act as sensemakers for particular areas of culture, technology, and policy.
 
-### Rex Woodbury: Culture & Web3
+### [[Rex Woodbury]]: Culture & Web3
 
 ![Illustration for Rex Woodbury: Culture & Web3 section](/images/tailwinds-whats-in-a-thesis-08121d15.png)
 
 Rex is not only one of my very good friends but he's filled a massive gap in my own knowledge base. I've always joked that I'm not a very good consumer investor because I'm not a very good consumer. I'm never early on any trends of fashion or online activity. Rex's writing in [Digital Native](https://digitalnative.substack.com/) have become my node for understanding some of the cultural things I'm experiencing but don’t yet fully appreciate.
 
-### The OpenView Crew: Product-Led Growth
+### The [[OpenView Venture Partners|OpenView]] Crew: Product-Led Growth
 
 ![Illustration for The OpenView Crew: Product-Led Growth section](/images/tailwinds-whats-in-a-thesis-bb46cc80.png)
 
-Blake Bartlett has been [leading the charge](https://openviewpartners.com/blog/inventing-product-led-growth/) building awesome content around product-led growth for years. I remember reading their ["State of Product Led Growth"](https://openviewpartners.com/blog/the-state-of-product-led-growth/) posts back in 2019 and realizing they effectively coined the term! Following Blake and his colleagues like [Kyle Poyar](https://kylepoyar.substack.com/) have helped me take PLG beyond an understanding of the trend and deeper into some of the science.
+[[Blake Bartlett]] has been [leading the charge](https://openviewpartners.com/blog/inventing-product-led-growth/) building awesome content around product-led growth for years. I remember reading their ["State of Product Led Growth"](https://openviewpartners.com/blog/the-state-of-product-led-growth/) posts back in 2019 and realizing they effectively coined the term! Following Blake and his colleagues like [Kyle Poyar](https://kylepoyar.substack.com/) have helped me take PLG beyond an understanding of the trend and deeper into some of the science.
 
-### The Boldstart Crew: DevOps & Infrastructure
+### The Boldstart Crew: [[DevOps]] & Infrastructure
 
 ![Tweet referenced in The Boldstart Crew: DevOps & Infrastructure section](/images/tailwinds-whats-in-a-thesis-195e7e0a.png)
 
@@ -106,13 +106,13 @@ When I talk about this idea of tracking trends and paying attention to sensemake
 
 [I've written before](https://investing1012dot0.substack.com/p/roam-investing) about this concept of collecting a portfolio of ideas or trends. This was mostly in the context of how I collect these ideas in Roam but the principle is relevant:
 
-> *"These are big-picture ideas that I collect lists of articles, concepts, and experts around. When I was 11, I wrote a business plan on a napkin for building a city starting with a bunch of condos. [Now my portfolio idea revolves around "City Building"]. **If you're a curious person, I guarantee you have portfolio ideas. The act of just acknowledging those ideas is powerful."***
+> *"These are big-picture ideas that I collect lists of articles, concepts, and experts around. When I was 11, I wrote a business plan on a napkin for building a city starting with a bunch of condos. [Now my portfolio idea revolves around "[[City Building]]"]. **If you're a curious person, I guarantee you have portfolio ideas. The act of just acknowledging those ideas is powerful."***
 
 Over the course of [my career as an investor](https://www.linkedin.com/in/kyle-harrison-9274b278/) I've had the chance to enrich my portfolio of trends with investments I’ve made that make me smarter on the trend.
 
-- PLG = Figma, Notion, Airtable, Roam
-- Data infrastructure = Snowflake, Confluent, Databricks
-- DevOps = HashiCorp, Gitlab, Snyk
-- SMBs = Servicetitan, Toast, Teamshares
+- PLG = [[Figma]], [[Notion]], [[Airtable]], Roam
+- Data infrastructure = [[Snowflake ($SNOW)|Snowflake]], Confluent, [[Databricks]]
+- DevOps = [[HashiCorp]], Gitlab, [[Snyk]]
+- SMBs = Servicetitan, [[Toast]], [[Teamshares]]
 
 Whether you're an investor or not the more you can build up an understanding of different trends the more you'll start to see patterns that can be applied in other areas. Whether with other companies, or in companies you want to start. **Understanding the headwinds and tailwinds in life make you a much more informed participant.**

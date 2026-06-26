@@ -48,7 +48,7 @@ I’m not about to propose a unified theory of tech talent economics that would 
 
 I have a secret for you. **Very few investors have a good framework for what good talent looks like.** The problem with unchecked "gut-trusting" is that you leave yourself exposed to a whole host of psychological bias' and disconnected feedback loops. When you don't have a framework for how you invest or what "good" talent looks like you can't effectively learn from your own experience.
 
-> *"How can smart people so often be wrong? They don't do what I'm telling you to do: **use a checklist to be sure you get all the main models and use them together in a multimodular way**". (Charlie Munger)*
+> *"How can smart people so often be wrong? They don't do what I'm telling you to do: **use a checklist to be sure you get all the main models and use them together in a multimodular way**". ([[Charlie Munger]])*
 
 I haven't been able to put my finger on why, but venture investors are, on average, dramatically less systematic than public market investors. Public investors love frameworks, mental models, checklists, and processes for evaluating different stocks. Venture investors feel almost allergic to them.
 
@@ -90,7 +90,7 @@ The final obstacle to identifying high quality talent will be unsurprising to an
 
 But there is no real tangible incentive for venture investors to mentor anyone. **As a result you have a lot of VCs who turn out to be pretty terrible managers and mentors.**
 
-Venture is a performance business. Doug Leone [says it himself](https://www.thetwentyminutevc.com/doug-leone/?v=2). The two most important things are (1) performance, and (2) teamwork. But if you don't have number 1 then nothing else matters.
+Venture is a performance business. [[Doug Leone]] [says it himself](https://www.thetwentyminutevc.com/doug-leone/?v=2). The two most important things are (1) performance, and (2) teamwork. But if you don't have number 1 then nothing else matters.
 
 One extremely tenured GP who has raised billions of dollars and generated larger billions of dollars in returns put it this way:
 
@@ -100,7 +100,7 @@ The difference between private and public market investing is that public invest
 
 And by the time they've proven themselves? It's a learned behavior. You've been a "lone-wolf" hunting to source the best deals and demonstrate the best returns. You need to take as much credit along the way to bolster your own career. You never learned how to be a good manager of people. So why would you wake up one day 10 years later and be a good mentor?
 
-**Something you learn as you manage people is to understand potential. To see people for what they could be capable of, not what their Stanford / Harvard / Facebook / Google resume tells you they've already done.** And VCs don't get much practice doing that in their own day-to-day firms. Which means they don't have as much practice doing it when they're looking for other kinds of talent, be it founders or operators.
+**Something you learn as you manage people is to understand potential. To see people for what they could be capable of, not what their Stanford / Harvard / [[Facebook]] / [[Alphabet|Google]] resume tells you they've already done.** And VCs don't get much practice doing that in their own day-to-day firms. Which means they don't have as much practice doing it when they're looking for other kinds of talent, be it founders or operators.
 
 That doesn't mean that VCs are incapable of recognizing potential. They still have to try and do it a lot. **But when you have a limited pool of frameworks for what "good" looks like, an over-trusted gut, and a tendency to use numbers as a crutch? You're not going to be at your very best.**
 

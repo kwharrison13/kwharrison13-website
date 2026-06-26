@@ -17,7 +17,7 @@ substack_url: "https://investing101.substack.com/p/the-bubble-brains-of-venture-
 
 ![Header image for The Bubble Brains of Silicon Valley](/images/the-bubble-brains-of-venture-capital-5cd6edd8.png)
 
-I recently stumbled on a new Netflix show called "[The Fall of the House of Usher](https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries))." I haven't finished the show, so I can't speak to the whole series. But one interaction really struck me.
+I recently stumbled on a new [[Netflix]] show called "[The Fall of the House of Usher](https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries))." I haven't finished the show, so I can't speak to the whole series. But one interaction really struck me.
 
 The scene has C. Auguste Dupin, the Assistant US Attorney, talking to Roderick Usher, the corrupt CEO of Fortunato Pharmaceuticals. Usher makes an off-handed comment, "when life hands you lemons..."
 
@@ -27,7 +27,7 @@ You should watch the video, it's very good. But here's what he says:
 
 > *"First, you roll out a multi-media campaign to convince people lemons are incredibly scarce, which only works if you stockpile lemons, control the supply. Then, a media blitz. Lemon is the only way to say 'I love you,' the must-have accessory for engagements or anniversaries. Roses are out, lemons are in. Billboards that say she won't have sex with you unless you got lemons. You cut De Beers in on it. Limited edition lemon bracelets, yellow diamonds called lemon drops.   
 >   
-> You get Apple to call their new operating system OS Lemón. A little accent over the "o". You charge 40% more for organic lemons, 50% more for conflict-free lemons. You pack the Capitol with lemon lobbyists, you get a Kardashian to suck a lemon wedge in a leaked sex tape. Timothee Chalamet wears lemon shoes at Cannes. Get a hashtag campaign. Something isn't 'cool' or 'tight' or 'awesome.' It's 'lemon.' 'Did you see that movie?' 'Did you go to that concert? It was effin' lemon.' Billie Eilish, 'OMG, hashtag... lemon.' You get Dr. Oz to recommend four lemons a day and a lemon suppository supplement to get rid of toxins 'cause there's nothing scarier than toxins.   
+> You get [[Apple]] to call their new operating system OS Lemón. A little accent over the "o". You charge 40% more for organic lemons, 50% more for conflict-free lemons. You pack the Capitol with lemon lobbyists, you get a Kardashian to suck a lemon wedge in a leaked sex tape. Timothee Chalamet wears lemon shoes at Cannes. Get a hashtag campaign. Something isn't 'cool' or 'tight' or 'awesome.' It's 'lemon.' 'Did you see that movie?' 'Did you go to that concert? It was effin' lemon.' Billie Eilish, 'OMG, hashtag... lemon.' You get Dr. Oz to recommend four lemons a day and a lemon suppository supplement to get rid of toxins 'cause there's nothing scarier than toxins.   
 >   
 > Then you patent the seeds. You write a line of genetic code that makes lemons look just a little more like tits... and you get a gene patent for the tit-lemon DNA sequence, you cross-pollinate, you get those seeds circulating in the wild, and then you sue the farmers for copyright infringement when that genetic code shows up on their land.   
 >   
@@ -37,13 +37,13 @@ We spend so much time talking about bubbles. Internet bubbles. Real estate bubbl
 
 What strikes me most about the lemon monologue is how much I know it would work. People have become so dramatically programmable. The bubble forming in their own thinking is there without anyone even realizing the mechanisms that put it there.
 
-There's no better argument against free will than a mindful observation of the decision making among most people in Silicon Valley, but especially among VCs.
+There's no better argument against [[Free Will|free will]] than a mindful observation of the decision making among most people in [[Silicon Valley]], but especially among VCs.
 
 # The Bubble Brains
 
 I recently grabbed coffee with a good friend of mine who is a partner at a successful seed fund with a specific focus area. We had an interesting conversation.
 
-> *"It's gloomy out there, man. **There is no original thinking among the funds in San Francisco.** I don’t know what constitutes a “hot deal.” Because they got a term sheet from Sequoia?"*
+> *"It's gloomy out there, man. **There is no original thinking among the funds in San Francisco.** I don’t know what constitutes a “hot deal.” Because they got a term sheet from [[Sequoia]]?"*
 
 [I've written before](https://investing1012dot0.substack.com/p/learnable-empathy) ([several times](https://investing1012dot0.substack.com/p/dreaming-of-dry-powder)) about the presence of groupthink among VCs, and in investing in general. I have wanted to unpack the idea that there is a common value chain of self-deception in investing.
 
@@ -61,13 +61,13 @@ Thinking is an output. So measuring someones thinking, and where they're spendin
 
 Inputs can be anything from the media you read, watch, or listen to, to the conversations you have, the people you surround yourself with, what you think about when you don't have to think, the gossip you share, the judgement you pass, the prayers you pray, the swears you swear. All of it. It all shapes who you are.
 
-Take just one, albeit incredibly volatile and controversial, example of an input: TikTok. I really appreciated a thread I saw a few weeks ago from Jeff Morris as he tried to understand the feelings that a lot of young Americans are having about Hamas and Israel.
+Take just one, albeit incredibly volatile and controversial, example of an input: [[TikTok]]. I really appreciated a thread I saw a few weeks ago from Jeff Morris as he tried to understand the feelings that a lot of young Americans are having about Hamas and Israel.
 
 ![Source:Twitter](/images/the-bubble-brains-of-venture-capital-26f31df0.png)
 
 The first trigger for me was [this statistic](https://x.com/jmj/status/1717404576096166290?s=20): "51% of Americans ages 18-24 believe Hamas (terrorists who raped & murdered innocent women & children) believe Hamas was justified." If that doesn’t make you want to question and change things, I don’t know what will. Jeff makes the point that TikTok has become the primary search engine and source of news for younger people. When you consider the implications of that, it's terrifying.
 
-Moses Kagan made [this point](https://x.com/moseskagan/status/1717522030583763199?s=20) in response to Jeff's thread that really stuck with me: "Would we have allowed the USSR to own MTV in 1985?" In the view of the global conflict, the idea that China has such a stranglehold on our media consumption, especially for younger people, should be concerning for everyone. What's more, a terrorist organization like Hamas can play a more sophisticated TikTok game, and that has dramatic implications for global conflict, sentiment, and even can lead to the resurgence of antisemitism globally.
+[[Moses Kagan]] made [this point](https://x.com/moseskagan/status/1717522030583763199?s=20) in response to Jeff's thread that really stuck with me: "Would we have allowed the USSR to own MTV in 1985?" In the view of the global conflict, the idea that China has such a stranglehold on our media consumption, especially for younger people, should be concerning for everyone. What's more, a terrorist organization like Hamas can play a more sophisticated TikTok game, and that has dramatic implications for global conflict, sentiment, and even can lead to the resurgence of antisemitism globally.
 
 Stepping away from the global conflict back to the bubble brain phenomenon. **I think this lack of original thinking comes from how intricately interwoven everything is.** Investors, founders, operators, they're all dependent on each other. The same [VC contagion](https://investing1012dot0.substack.com/p/vc-contagion) that I've written before is really a startup contagion.
 
@@ -79,7 +79,7 @@ I don't have a solution. I don't have a battle plan. I have only a call to arms.
 
 For too long, we've outsourced our perceptions of reality, and what is right or wrong, and what can or can't work. We've put parameters into production that we played no role in defining. If each of us represents an operating system, we're riddled for dependencies on third party software.
 
-There's never been more of a need for people to take advice from the likes of Charlie Munger.
+There's never been more of a need for people to take advice from the likes of [[Charlie Munger]].
 
 ## Stated Opposition
 
@@ -91,7 +91,7 @@ The loading of inputs into your mental operating system has very few things that
 
 If you've ever read something and you feel like you can't NOT have a visceral reaction, then you've been the victim of algorithmic information inception.
 
-For example, I got in a big argument with some of my older, more conservative relatives because they asked me what I think about Mike Pence. I, without thinking, instinctually recited some oblique talking points I'd heard from extremely liberal media that hates him. We got into a big fight, because my relative has a lot of respect for Mike Pence for different reasons. After a few minutes of intense fighting, I realized... I do not care about Mike Pence at all. Certainly not enough to engage in this argument.
+For example, I got in a big argument with some of my older, more conservative relatives because they asked me what I think about [[Mike Pence]]. I, without thinking, instinctually recited some oblique talking points I'd heard from extremely liberal media that hates him. We got into a big fight, because my relative has a lot of respect for Mike Pence for different reasons. After a few minutes of intense fighting, I realized... I do not care about Mike Pence at all. Certainly not enough to engage in this argument.
 
 I had been incepted with a strong liberal perspective on a person that I don't need to have an opinion on. Certainly who I am as a person does not need to be defined by my feelings for Mike Pence. But I had been programmed.
 
@@ -99,7 +99,7 @@ To Charlie Munger's point, I need to be able to more clearly articulate why I SH
 
 ## What Are You Selling?
 
-The second piece of Charlie Munger advice? The quote that came to mind for me was, "don't sell anything you wouldn't buy." But in this instance, that idea is actually best illustrated by another quote from [Meb Faber](https://twitter.com/MebFaber) that I read in [this piece](https://perell.com/essay/the-future-of-finance/) by David Perell:
+The second piece of Charlie Munger advice? The quote that came to mind for me was, "don't sell anything you wouldn't buy." But in this instance, that idea is actually best illustrated by another quote from [Meb Faber](https://twitter.com/MebFaber) that I read in [this piece](https://perell.com/essay/the-future-of-finance/) by [[David Perell]]:
 
 > *“In the history of Wall Street I think there are two types of firms — I think there are firms…where you’re putting out products that you believe in, you work your ass off to make them the best possible products, you put your own money in them, and you build a culture that these are things you believe in. **Then you have a lot of firms…that will put out whatever they can to capitalize and make as much money as they can on the themes of the day**.”*
 
@@ -115,7 +115,7 @@ So if you're selling something you wouldn't buy? Then you're in the wrong busine
 
 # Myopic Mythology
 
-So much of the world has become short-sighted, focused on profit margins and earnings in the next quarter, maybe two (what are you, Warren Buffett?) Personally, we're centered around immediate satisfaction, status, and dopamine. We've built our stories, our values, our heroes, and our ambitions to be centered around things that, very often, will not last.
+So much of the world has become short-sighted, focused on profit margins and earnings in the next quarter, maybe two (what are you, [[Warren Buffett]]?) Personally, we're centered around immediate satisfaction, status, and dopamine. We've built our stories, our values, our heroes, and our ambitions to be centered around things that, very often, will not last.
 
 Original thinking comes from casting off the myopic mythologies that are institutions have increasingly become built on and, instead, ideating new institutions that should get built up. What are the organizations that you want organizing the people, places, and things around us? And then do what you can with what time, talents, and energy you have, to bring those institutions to bear.
 

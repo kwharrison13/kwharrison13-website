@@ -12,14 +12,15 @@ tags: []
 aliases:
   - "Voting"
   - "voting"
-related: []
+related:
+  - "[[Becoming]]"
 reference_count: 1
 ---
 
 # Voting
 
-_Stub page — auto-generated from a Roam-style hashtag (`#voting`). Not yet written. Referenced in **1** book page._
+In [Becoming](/books/becoming), voting is the concrete mechanism through which Michelle Obama frames democratic agency: "a handful of votes in every precinct" decides what kids learn in schools, which health-care options exist, and whether troops go to war. She calls voting "both simple and incredibly effective," and pairs it with optimism as "a form of faith, an antidote to fear." The book also threads voting through her case for civic dignity — that "words matter" and that voters, seeing a candidate as a person up close, find "it's harder to hate up close." Voting, in her telling, is where empathy and showing up convert into outcomes.
 
 ## Where this appears
 
-- [Becoming](/books/becoming)
+- [Becoming](/books/becoming) — Michelle Obama's frame that "a handful of votes in every precinct" decides schools, health care, and war; voting as "simple and incredibly effective" and tied to optimism-as-faith

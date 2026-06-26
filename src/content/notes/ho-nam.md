@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/What Is An Investor - Research.md"
@@ -13,6 +13,7 @@ tags:
 aliases:
   - "Ho Nam"
 related:
+  - "[[Altos Ventures]]"
   - "[[What Is An Investor - Research]]"
   - "[[What Is An Investor]]"
   - "[[Venture Capital]]"
@@ -23,9 +24,9 @@ related:
 
 # Ho Nam
 
-**One-line:** *Venture capitalist (Altos Ventures); his "what is an investor? Not a VC" reply frames venture as value-creation alongside founders rather than capital allocation for LP returns.*
+**One-line:** *Venture capitalist ([Altos Ventures](/notes/altos-ventures)); his "what is an investor? Not a VC" reply frames venture as value-creation alongside founders rather than capital allocation for LP returns.*
 
-_Stub page — created from What Is An Investor - Research. Expand on a future pass._
+**Context:** Ho Nam is co-founder and managing director of Altos Ventures, a Menlo Park venture firm known for a long-term, capital-efficient, founder-aligned style (notable early backer of Roblox, Coupang, and Korean startups).
 
 ## What we know
 

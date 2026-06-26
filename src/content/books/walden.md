@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "historical-futurism"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
@@ -66,7 +66,7 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 - But lo! men have become the tools of their tools. <!--rwid:rwid-3f31519c03a5-->
 - I intend to build me a house which will surpass any on the main street in Concord in grandeur and luxury, as soon as it pleases me as much and will cost me no more than my present one. <!--rwid:rwid-694052a4d98b-->
 - “But,” says one, “you do not mean that the students should go to work with their hands instead of their heads?” I do not mean that exactly, but I mean something which he might think a good deal like that; I mean that they should not play life, or study it merely, while the community supports them at this expensive game, but earnestly live it from beginning to end. <!--rwid:rwid-1b0fd45c227d-->
-- Even the poor student studies and is taught only political economy, while that economy of living which is synonymous with philosophy is not even sincerely professed in our colleges. The consequence is, that while he is reading Adam Smith, Ricardo, and Say, he runs his father in debt irretrievably. <!--rwid:rwid-a1c9e40c91d5-->
+- Even the poor student studies and is taught only political economy, while that economy of living which is synonymous with philosophy is not even sincerely professed in our colleges. The consequence is, that while he is reading [Adam Smith](/notes/adam-smith), Ricardo, and Say, he runs his father in debt irretrievably. <!--rwid:rwid-a1c9e40c91d5-->
 - Nations are possessed with an insane ambition to perpetuate the memory of themselves by the amount of hammered stone they leave. What if equal pains were taken to smooth and polish their manners? <!--rwid:rwid-4557fb13a979-->
 - None is so poor that he need sit on a pumpkin. <!--rwid:rwid-1dc8b068f8d6-->
 - When I have met an immigrant tottering under a bundle which contained his all—looking like an enormous wen which had grown out of the nape of his neck—I have pitied him, not because that was his all, but because he had all that to carry. <!--rwid:rwid-970a1eddd91b-->

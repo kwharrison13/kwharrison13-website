@@ -7,7 +7,7 @@ quake: false
 tags:
   - "city-building"
   - "people-over-politics"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
@@ -22,7 +22,7 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 <!-- interconnections -->
 **People:** [Amy Goldstein](/notes/amy-goldstein) — author; her ProPublica-rooted reporting documents the failed retraining experiment around Janesville after the GM plant closure.
 
-**Concepts:** [Retraining](/notes/retraining) — the book's central empirical finding: laid-off workers who went back to school at Blackhawk fared worse on employment and pay than those who didn't, despite the bipartisan "retraining gospel" embraced by Paul Ryan and Obama alike. [City Building](/notes/city-building) — a single-industry town's attempt to reinvent its economy (Forward Janesville, Rock County 5.0) after losing its anchor employer. [Personal Finance](/notes/personal-finance) — middle-class GM families tumbling out of the middle class as $28/hour wages, SUB pay, and 401(k) cushions disappear. [Education](/notes/education) — associate's degrees and certificate programs as a contested path back to work.
+**Concepts:** [Retraining](/notes/retraining) — the book's central empirical finding: laid-off workers who went back to school at Blackhawk fared worse on employment and pay than those who didn't, despite the bipartisan "retraining gospel" embraced by [Paul Ryan](/notes/paul-ryan) and Obama alike. [City Building](/notes/city-building) — a single-industry town's attempt to reinvent its economy (Forward Janesville, Rock County 5.0) after losing its anchor employer. [Personal Finance](/notes/personal-finance) — middle-class GM families tumbling out of the middle class as $28/hour wages, SUB pay, and 401(k) cushions disappear. [Education](/notes/education) — associate's degrees and certificate programs as a contested path back to work.
 
 **Books:** [Hillbilly Elegy](/books/hillbilly-elegy), [Our Towns](/books/our-towns) — community-decline cluster documenting working-class America. [Flying Blind](/books/flying-blind) — industrial-decline parallel.
 <!-- /interconnections -->
@@ -33,7 +33,7 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 - Without its assembly plant, Janesville goes on, its surface looking uncannily intact for a place that has been through an economic earthquake. Keeping up appearances, trying to hide the ways that pain is seeping in, is one thing that happens when good jobs go away and middle-class people tumble out of the middle class. <!--rwid:rwid-9901a151c4d2-->
 - And the citizens of Janesville? They set out to reinvent their town and themselves. Over a few years, it became evident that no one outside—not the Democrats nor the Republicans, not the bureaucrats in Madison or in Washington, not the fading unions nor the struggling corporations—had the key to create the middle class anew. The people of Janesville do not give up. And not just the autoworkers. From the leading banker to the social worker devoted to sheltering homeless kids, people take risks for one another, their affection for their town keeping them here. <!--rwid:rwid-68cb7fbbe094-->
 - Call it arrogance, call it what you want, Bob sees himself as a fix-it guy—the adult in the room, the one with a doctorate who can take on a project and do it better than anyone else. Bob is, in particular, an ace at a skill most necessary when a plant shuts down—applying for government grants. <!--rwid:rwid-6b775333d23a-->
-- By that day in 2008 when General Motors handed the assembly plant its death sentence, the rumors that the plant would shut down had been hovering over town so long that they had become a familiar backdrop to life in Janesville—unsettling but so frequent that people stopped believing that it would happen. <!--rwid:rwid-03c903cd3246-->
+- By that day in 2008 when [General Motors](/notes/general-motors) handed the assembly plant its death sentence, the rumors that the plant would shut down had been hovering over town so long that they had become a familiar backdrop to life in Janesville—unsettling but so frequent that people stopped believing that it would happen. <!--rwid:rwid-03c903cd3246-->
 - As part of a first, early trickle of autoworkers at Blackhawk who have been recession-smacked out of a job, they do not know that they will need to molt, to shed old factory habits, factory ways of defining themselves, and pick up new ways. <!--rwid:rwid-8946a178ffd6-->
 - He was on the Janesville City Council in 1971 when it commissioned a consultant to study how the city could best protect its economic future. The study’s core recommendation—to diversify—came as the plant was nearing its all-time peak workforce of 7,100, and few besides Tim saw any reason to take the advice seriously. <!--rwid:rwid-40a3b25a98b7-->
 - As she watches her smart, sensitive daughter in tears, Mary knows that Chelsea cannot see the scared farm girl who discovered that, without food stamps, there wouldn’t be enough to eat. She knows that Chelsea is seeing the banker and leading citizen who can always be depended upon to come up with a solution for the community. “Mom,” Chelsea implores her. “What are you going to do?” <!--rwid:rwid-c7afda2402e5-->

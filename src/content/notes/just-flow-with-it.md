@@ -40,20 +40,20 @@ related:
 - **Three requirements for flow:** clear goals, immediate feedback, and the right challenge-to-skill ratio (difficult but not too difficult). With these present, flow can come surprisingly fast.
 - **In flow, the rational mind goes dim** — awareness and uninhibited perception take over; energized focus, full involvement, deep enjoyment.
 - **[Tiago Forte](/notes/tiago-forte) calls flow "the holy grail of productivity."** The prefrontal cortex shuts down and self-criticism disappears; flow improves pattern recognition and lateral thinking.
-- **The brain turns off self-censoring.** Charles Limb's scans of improvising musicians showed the self-expression network light up while the focused-attention/self-censoring network quieted — "as if the brain turned off its own ability to criticize itself."
-- **Create your own earthquakes.** Josh Waitzkin (The Art of Learning): first flow with whatever comes, then use it to your advantage, then become self-sufficient — generating explosive inspiration without outside stimulus.
+- **The brain turns off self-censoring.** [Charles Limb](/notes/charles-limb)'s scans of improvising musicians showed the self-expression network light up while the focused-attention/self-censoring network quieted — "as if the brain turned off its own ability to criticize itself."
+- **Create your own earthquakes.** [Josh Waitzkin](/notes/josh-waitzkin) (The Art of Learning): first flow with whatever comes, then use it to your advantage, then become self-sufficient — generating explosive inspiration without outside stimulus.
 
 ## Notable quotes
 
 > "Flow with whatever comes. Move with — not against — randomness and unexpectedness. Flow itself can become more rewarding than what we achieve with it."
 
-> "It's almost as if the brain turned off its own ability to criticize itself." — Charles Limb
+> "It's almost as if the brain turned off its own ability to criticize itself." — [Charles Limb](/notes/charles-limb)
 
-> "We learn to be completely self-sufficient and create our own earthquakes, so our mental process feeds itself explosive inspirations without the need for outside stimulus." — Josh Waitzkin, The Art of Learning
+> "We learn to be completely self-sufficient and create our own earthquakes, so our mental process feeds itself explosive inspirations without the need for outside stimulus." — [Josh Waitzkin](/notes/josh-waitzkin), The Art of Learning
 
 ## How it connects
 
 - [Flow](/notes/flow) — the central subject; the conditions and neuroscience of the flow state.
 - [Learning](/notes/learning) — flow as the accelerant once judgment and ego are removed.
 - [Tiago Forte](/notes/tiago-forte) — flow as the "holy grail of productivity."
-- Josh Waitzkin / The Art of Learning — performance training as progressive mastery of flow.
+- [Josh Waitzkin](/notes/josh-waitzkin) / The Art of Learning — performance training as progressive mastery of flow.

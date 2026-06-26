@@ -6,7 +6,7 @@ rating: 2
 quake: false
 tags:
   - "company-building"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
@@ -36,13 +36,13 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 - When sifting through applications for almost any job, employers and hiring managers are quickly overcome by the sameness.2 It’s a blur. <!--rwid:rwid-4aac61071d5d-->
 - The person passionate about what he or she is doing will outwork and outlast the guy motivated solely by making money. <!--rwid:rwid-0ac43bd1320c-->
 - You remake yourself as you grow and as the world changes. Your identity doesn’t get found. It emerges. <!--rwid:rwid-ca897bebbe6b-->
-- Entrepreneur and writer Chris Yeh says his career mission is to “help interesting people do interesting <!--rwid:rwid-bd82780d4770-->
+- Entrepreneur and writer [Chris Yeh](/notes/chris-yeh) says his career mission is to “help interesting people do interesting <!--rwid:rwid-bd82780d4770-->
 - Markets that don’t exist don’t care how smart you are. Similarly, it doesn’t matter how hard you’ve worked or how passionate you are about an aspiration: If someone won’t pay you for your services in the career marketplace, it’s going to be a very hard slog. You aren’t entitled to anything. <!--rwid:rwid-0e78d9a7bb46-->
 - Just because you’re good at something (assets) that you’re really passionate about (aspirations) doesn’t necessarily mean someone will pay you to do it (market realities). <!--rwid:rwid-caa256ebc2e7-->
 - You will change. The environment around you will change. Your allies and competitors will change. <!--rwid:rwid-3211c302d766-->
 - Whatever the situation, actions, not plans, generate lessons that help you test your hypotheses against reality. Actions help you discover where you want to go and how to get there. <!--rwid:rwid-d8fa4d021494-->
 - come upon may offer immediate gratification, <!--rwid:rwid-fd3174ca6604-->
-- Throwing your heart into something is great, but when any one thing becomes all that you stand for, you’re vulnerable to an identity crisis when you pivot to a Plan B. <!--rwid:rwid-12cd59669fb0-->
+- Throwing your heart into something is great, but when any one thing becomes all that you stand for, you’re vulnerable to an identity crisis when you pivot to a [Plan B](/notes/plan-b). <!--rwid:rwid-12cd59669fb0-->
 - Build up your soft assets and proactively embrace new technology so that if and when the inflection point does come, you are ready to swiftly parlay skills into a Plan B. <!--rwid:rwid-914fabf70eef-->
 - The best Plan B is different but very much related to what you’re already doing <!--rwid:rwid-1644c0886c26-->
 - Unless you need to take immediate action, one way to begin the process of pivoting is to start your potential Plan B on the side. <!--rwid:rwid-a214c1669f58-->

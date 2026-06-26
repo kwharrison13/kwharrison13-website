@@ -4,21 +4,24 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-19"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
-  - "wiki/books/The Kill Chain.md"
+  - "wiki/meetings/July 18th, 2022 — Ethan Ding.md"
 tags: []
 aliases:
   - "Eric Schmidt"
 related:
-  - "[[The Kill Chain]]"
+  - "[[Ethan Ding]]"
+  - "[[July 18th, 2022 — Ethan Ding]]"
 ---
 
 # Eric Schmidt
 
-_Stub — flagged during the 2026-06-19 connection sweep as an entity referenced across the wiki without its own page. Quoted on China's AI timeline ('by 2030 they will dominate'); relevant to the urgency thread, no page_
+Mentioned in Kyle's July 18th, 2022 networking call with Ethan Ding, who noted he had thought about joining Eric Schmidt's fund "to help build out his expertise." The reference is a single line in the call log, surfacing in the context of Ding's exploration of the academic-research end market (which he described as a tough market to sell into).
+
+**Context:** Eric Schmidt is the former CEO and executive chairman of Google/Alphabet, who has since been an active investor and philanthropist — including Schmidt Futures and Innovation Endeavors — with a notable focus on AI, science, and national-security technology. This is general background, not stated in the source.
 
 ## Where this appears
 
-- [The Kill Chain](/books/the-kill-chain)
+- July 18th, 2022 — Ethan Ding — Ding mentioned considering joining Schmidt's fund to build out his expertise.

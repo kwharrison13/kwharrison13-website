@@ -2,9 +2,9 @@
 title: "Natalie Luu"
 type: "person"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — September 22nd, 2021 (Index Ventures sourcing/diligence call log): ~/Downloads/September 22nd, 2021.md"

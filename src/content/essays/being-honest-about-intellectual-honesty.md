@@ -20,9 +20,9 @@ substack_url: "https://investing101.substack.com/p/being-honest-about-intellectu
 
 Today's post will be brief. I've got some exciting things coming in the next few weeks, but I wanted to take some time to think through a conversation I've now had with several people over the last week or so: intellectual honesty
 
-Intellectual honesty is something that is surprisingly difficult. For a combination of reasons: incentives, misunderstanding, ego, public pressure. When people are placed in situations where there isn't as much objective reality (i.e. either something works or it doesn't) it can be quite easy to slip into intellectual dishonesty. Investing in startups is a place without as much objective reality.
+Intellectual honesty is something that is surprisingly difficult. For a combination of reasons: incentives, misunderstanding, ego, public pressure. When people are placed in situations where there isn't as much objective reality (i.e. either something works or it doesn't) it can be quite easy to slip into intellectual dishonesty. [[Investing]] in startups is a place without as much objective reality.
 
-I've [written before](https://investing1012dot0.substack.com/p/the-storytelling-of-investing) about the prominent place that storytelling has in venture:
+I've [written before](https://investing1012dot0.substack.com/p/the-storytelling-of-investing) about the prominent place that [[Storytelling as Leadership|storytelling]] has in venture:
 
 > *"Storytelling can quickly become a slippery slope if it's not coupled with significant amounts of intellectual honesty and a spirit of humility. Both of which are things the VC world could use a lot more of."*
 
@@ -30,9 +30,9 @@ I've [written before](https://investing1012dot0.substack.com/p/the-storytelling-
 
 This week a Techcrunch article came out entitled: [A Gen Z VC Speaks Up: Why Gen Z VCs Are Trash](https://techcrunch.com/2022/08/29/a-gen-z-vc-speaks-up-why-gen-z-vcs-are-trash/). First off, it's funny that this article sparked some of my thoughts this week. If I'd made my whole post about this article it would have been the 3rd week in a row my post was about a controversial internet thing after [Adam Neumann](https://investing1012dot0.substack.com/p/the-rise-of-the-cash-man) and [Bun's hiring mentality](https://investing1012dot0.substack.com/p/toil-we-must).
 
-Secondly, I'm surprised that Techcrunch would run such an offensively generalized title. I know dozens and dozens of people who fit in the Gen Z age group who are VCs, and are phenomenal. I've met VCs who are Boomers and are trash. So the generalization is unfair. But here's one key point that I chatted with several people about:
+Secondly, I'm surprised that Techcrunch would run such an offensively generalized title. I know dozens and dozens of people who fit in the [[Gen Z]] age group who are VCs, and are phenomenal. I've met VCs who are Boomers and are trash. So the generalization is unfair. But here's one key point that I chatted with several people about:
 
-> *"There aren’t true “thought leaders” in the space either. Everyone’s top aspirational VCs don’t have insightful takes or meaningful Twitter posts — just retweets, shameless self-promotion and the occasional ask for food recommendations in whichever city they’re visiting."*
+> *"There aren’t true “thought leaders” in the space either. Everyone’s top aspirational VCs don’t have insightful takes or meaningful [[Twitter]] posts — just retweets, shameless self-promotion and the occasional ask for food recommendations in whichever city they’re visiting."*
 
 I don't think this is unique to "Gen Z VCs." This guy obviously has beef with specific people. There are a lot of VCs who are focused more on promotion and marketing than on actually being thoughtful about the investments they're making and the technology they're supporting.
 
@@ -76,7 +76,7 @@ Ignoring your incentives don't make them go away. Are we incentivized to learn f
 
 At some point I'd like to go deeper into the idea of conducting post-mortems; honestly evaluating what happened when something got wrong. There is a huge benefit in being able to improve your processes by reflecting on how they've performed in action.
 
-But for now I'll leave it with another co-opted quote, this time from Peter Thiel. In his book Zero to One (have you heard of it? 😉) there is a famous line that illustrates his view of contrarianism. When Peter Thiel interviews someone [he likes to ask](https://fs.blog/the-single-best-interview-question-you-can-ask/) the following question: **What important truth do very few people agree with you on?**
+But for now I'll leave it with another co-opted quote, this time from [[Peter Thiel]]. In his book Zero to One (have you heard of it? 😉) there is a famous line that illustrates his view of contrarianism. When Peter Thiel interviews someone [he likes to ask](https://fs.blog/the-single-best-interview-question-you-can-ask/) the following question: **What important truth do very few people agree with you on?**
 
 > *"This question sounds easy because it’s straightforward. Actually, it’s very hard to answer. It’s intellectually difficult because the knowledge that everyone is taught in school is by definition agreed upon. And it’s psychologically difficult because anyone trying to answer must say something she knows to be unpopular. Brilliant thinking is rare, but courage is in even shorter supply than genius."*
 

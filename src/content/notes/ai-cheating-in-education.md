@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "https://dukechronicle.com/article/losing-battle-ai-cheating-20250227"

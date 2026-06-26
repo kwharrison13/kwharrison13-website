@@ -11,7 +11,7 @@ substack_url: "https://investing101.substack.com/p/building-informational-levera
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/contrary-research">Contrary Research</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-state-of-startup-media">The State of Startup Media</a>, <a href="/essays/contrary-research">Contrary Research</a></span></div>
 </aside>
 <!-- connections-end -->
 
@@ -23,7 +23,7 @@ substack_url: "https://investing101.substack.com/p/building-informational-levera
 
 In addition to this conversation, I’m doing something a little bit different this week. My conversation with Evan was the cherry on top of a thread that I’ve been pulling on in my head for a few weeks now. This morning, I sat down to write up a few thoughts to accompany my conversation with Evan, but what I found was I had a lot more to say than I had capacity to say in the moment. I was pouring myself into something that was an innate part of me. Not just how I grew up in tech, but what I’m building in tech now with things like this blog and with [Contrary Research](http://research.contrary.com).
 
-So, instead of just sharing this conversation as my post for this week with a few reflective thoughts, I need to keep writing that piece as well. Which means you’ll get a bonus piece from me this week (hasn’t happened in a while, if not ever, I think.) **It will be called “The State of Startup Media: A Newfound Republic of Letters.”** And it will unpack the broader evolution of media in the land of company building.
+So, instead of just sharing this conversation as my post for this week with a few reflective thoughts, I need to keep writing that piece as well. Which means you’ll get a bonus piece from me this week (hasn’t happened in a while, if not ever, I think.) **It will be called “[[The State of Startup Media]]: A Newfound [[Republic of Letters]].”** And it will unpack the broader evolution of media in the land of company building.
 
 Evan’s work building The Leverage plays right into that narrative. He’s establishing his unique voice in a world that is hungry for startup stories and context that isn’t default pessimistic or skeptical.
 

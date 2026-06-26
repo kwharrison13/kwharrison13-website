@@ -17,7 +17,7 @@ substack_url: "https://investing101.substack.com/p/when-history-rhymes-with-beez
 
 ![Header image for When History Rhymes (with Beezer Clarkson)](/images/when-history-rhymes-with-beezer-clarkson-cc0ca593.png)
 
-If you're using the bird app formerly known as Twitter correctly, you'll start to find your kindred spirits. You're talking about the same things, exploring the same ideas, getting in the same arguments.
+If you're using the bird app formerly known as [[Twitter]] correctly, you'll start to find your kindred spirits. You're talking about the same things, exploring the same ideas, getting in the same arguments.
 
 That's how I feel about [Beezer Clarkson](https://x.com/Beezer232). She's a partner at Sapphire Partners, leading the firms investments in venture funds. She's also the co-founder of [OpenLP](https://openlp.sapphireventures.com/), which is a huge resource to demystify the LP perspective, and the host of the [Origins podcast](https://podcasts.apple.com/us/podcast/origins-inside-venture-capital-hosted-by-a-gp-and-an-lp/id1111792048).
 
@@ -51,7 +51,7 @@ Final call out from the conversation that I loved the most. Beezer emphasized th
 
 > *"Just because the voice is the loudest doesn't make it the smartest or the most thoughtful or the best or the right one from your strategy."*
 
-That can extend to defining your own product as a firm and having a specific value prop, but if you fail to think for yourself you're dramatically more at risk of falling victim to the bubble brains of Silicon Valley. So tread lightly!
+That can extend to defining your own product as a firm and having a specific value prop, but if you fail to think for yourself you're dramatically more at risk of falling victim to the bubble brains of [[Silicon Valley]]. So tread lightly!
 
 Enjoy my conversation with Beezer.
 
@@ -59,7 +59,7 @@ Enjoy my conversation with Beezer.
 
 - Special thanks to Zach Collier and Michael Barrow & The Tourists for the [intro music](https://open.spotify.com/track/58WgtpY9setE3FZ1GC2S9C?si=641b4b89c9a84677)!
 - [Beezer's Origins Podcast w/ Stephen Bluestein (another kindred spirit)
-- [Adrianna Ma](https://www.linkedin.com/in/adriannama/) @ Index Ventures (one of my favorite people)
+- [Adrianna Ma](https://www.linkedin.com/in/adriannama/) @ [[Index Ventures]] (one of my favorite people)
 - [Beezer's Origins Podcast w/ Will Quist (how early can you be contrarian?)
 - My [Twitter fight](https://x.com/adcock_brett/status/1826627267583508902) with Figure CEO, Brett Adcock, about ambition and capital volume (and [my follow up post](https://investing101.substack.com/p/mo-money-mo-problems) about it.)
 - [Boom: Bubbles and the End of Stagnation by Byrne Hobart and Tobias Huber](https://www.amazon.com/Boom-Bubbles-Stagnation-Byrne-Hobart/dp/1953953476)

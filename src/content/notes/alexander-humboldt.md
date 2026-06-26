@@ -2,25 +2,31 @@
 title: "Alexander Humboldt"
 type: "person"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-26"
 last_updated_by: "agent"
-sources: []
+sources:
+  - "wiki/books/Reinventing Knowledge — From Alexandria To The Internet.md"
 tags: []
 aliases:
   - "Alexander Humboldt"
-related: []
+  - "Alexander von Humboldt"
+related:
+  - "[[Reinventing Knowledge — From Alexandria To The Internet]]"
+  - "[[Wilhelm Humboldt]]"
+  - "[[Charles Darwin]]"
+  - "[[Republic of Letters]]"
 ---
 
 # Alexander Humboldt
 
-_Stub. Mentioned across one or more book pages. Synthesis pending — fill on a future ingestion pass that reads the relevant source highlights._
+In [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet), Alexander Humboldt (1769–1859) appears as the younger of the two Humboldt brothers — the world-traveling counterpart to [Wilhelm Humboldt](/notes/wilhelm-humboldt), the writing-desk architect of the Prussian research university. The book recounts his epic 1799–1804 voyage to South and Central America, which brought worldwide fame and generated thirty volumes of research, and a later expedition through Russian central Asia. The Humboldt Current, the Humboldt penguin, three U.S. Humboldt counties, and a lunar crater all attest to the "sheer physical sweep" of his impact on the study of nature.
 
-## What we know
+The book's central interest is Humboldt as a node in a "supercharged [Republic of Letters](/notes/republic-of-letters)" grafted onto European colonial networks: he connected dispersed, nonexpert observers who shared data by post. His science aspired to universal applicability but commanded public support precisely because it invited public participation — none of his methods required expert or private knowledge. He aimed to observe nature and provoke debate, not to manipulate it reproducibly in a lab. Kyle's notes flag the consequence the book draws out: [Charles Darwin](/notes/charles-darwin), "despite a desultory university education," set off for the Galápagos after reading Humboldt — open, shareable science seeding the next generation's discovery.
 
-_(nothing yet — placeholder for future passes)_
+**Context:** Alexander von Humboldt was a Prussian naturalist and explorer whose multivolume *Kosmos* and Latin American expeditions made him one of the 19th century's most influential scientists, a founder of biogeography and a model for popular, participatory natural science.
 
-## Mentioned in
+## Where this appears
 
-_(auto-populated by lint)_
+- [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — exemplar of open, postal, participatory "Republic of Letters" science whose writings inspired Darwin; contrasted with his brother Wilhelm's institution-building.

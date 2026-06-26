@@ -29,5 +29,5 @@ Welsh landscape photographer profiled by [David Perell](/notes/david-perell) in 
 - Shoots with a Canon camera (and an iPhone); known for eerie forests, lone trees, and atmospheric landscapes that took the Instagram world by storm.
 - **Seeks out poor conditions** — misty mornings, gale-force winds, snow blizzards, driving rain — because they create dramatic, un-recreatable scenery.
 - **Defies the rule of thirds**, centering his subject, on the logic that the golden ratio loses its power inside Instagram's square frame.
-- Built a brand and business through Instagram, using the platform to connect with brands and reach a global audience even as commoditized supply (better phone cameras) pushed landscape-photography prices down.
+- Built a brand and business through [Instagram](/notes/instagram), using the platform to connect with brands and reach a global audience even as commoditized supply (better phone cameras) pushed landscape-photography prices down.
 - Quote attributed to him: *"Enjoy today. You're not promised tomorrow."*

@@ -40,9 +40,9 @@ So, in addition to trying to consistently engage with my sons on the ideas they�
 
 I continued my goal [from last year](https://kwharrison13.com/00fa6b8dfb744566960ba183ac99ef2e) of trying to read more fiction, with almost 50% of the books I read this year being fiction. I also continued my obsession with Brandon Sanderson, having read 6 of his books last year, and 4 this year. I have massive respect for the [storytelling skill that Brandon Sanderson has](https://www.youtube.com/watch?v=qPvORXwrRvw). Beyond fanciful storytelling, this whole year for me I kept coming back to this idea that [storytelling](https://investing1012dot0.substack.com/p/the-storytelling-of-investing) can often be just as [important as reality](https://investing1012dot0.substack.com/p/valuations). Perceived reality is craftable.
 
-In [The Founders](https://kwharrison13.com/12de28dd35b74291b5d46b78024dc62c), Mike Moritz was on the board of PayPal from Sequoia, and has a great quote about Elon Musk: “Elon, as the world knows today, is a very gifted storyteller. And some of the stories even come true.” I may touch more on my reflections on Elon Musk in some future writing, but I see this as one of his greatest skills: being able to paint a vivid picture of the future.
+In [The Founders](https://kwharrison13.com/12de28dd35b74291b5d46b78024dc62c), [[Mike Moritz]] was on the board of [[PayPal]] from [[Sequoia]], and has a great quote about [[Elon Musk]]: “Elon, as the world knows today, is a very gifted storyteller. And some of the stories even come true.” I may touch more on my reflections on Elon Musk in some future writing, but I see this as one of his greatest skills: being able to paint a vivid picture of the future.
 
-In a similar vein, in [The Ride of a Lifetime](https://kwharrison13.com/6d495224306a4c8592e9c03775ceeb7d), Bob Iger said to his board about Disney, “As Animation goes, so goes the company,” while they were considering the acquisition of Pixar. You can abstract that to storytelling being the lifeblood of a company like Disney. I would argue that is true of almost any company.
+In a similar vein, in [The Ride of a Lifetime](https://kwharrison13.com/6d495224306a4c8592e9c03775ceeb7d), [[Bob Iger]] said to his board about [[Disney]], “As Animation goes, so goes the company,” while they were considering the acquisition of Pixar. You can abstract that to storytelling being the lifeblood of a company like Disney. I would argue that is true of almost any company.
 
 > “Tell me your story, and I’ll tell you how successful you’ll be.”
 
@@ -62,11 +62,11 @@ Reading [The Greatest Minds and Ideas of All Time](https://kwharrison13.com/83fe
 
 > “Those who cannot remember the past are condemned to repeat it.
 
-When I reflected on the ideas in Greatest Minds, you see frameworks from Dante, Kant, Plato, Confucius, and more, and you can’t help but appreciate how much of the world around us is dictated by human nature. If we did a better job of studying human behavior, we would probably all be better at predicting markets.
+When I reflected on the ideas in Greatest Minds, you see frameworks from [[Dante]], [[Immanuel Kant|Kant]], Plato, [[Confucius]], and more, and you can’t help but appreciate how much of the world around us is dictated by human nature. If we did a better job of studying human behavior, we would probably all be better at predicting markets.
 
 ### **Faithful Question Asking**
 
-In a very different vein from what I read that most often makes it into my work, and writing, I spent a fair bit of time this year thinking more deeply about questions and faith and the honest pursuit of truth. I belong to [the Church of Jesus Christ of Latter-Day Saints](https://www.churchofjesuschrist.org/comeuntochrist), I believe in Jesus Christ, and a spiritual purpose in everything around us.
+In a very different vein from what I read that most often makes it into my work, and writing, I spent a fair bit of time this year thinking more deeply about questions and faith and the honest pursuit of truth. I belong to [the Church of Jesus Christ of Latter-Day Saints](https://www.churchofjesuschrist.org/comeuntochrist), I believe in [[Jesus|Jesus Christ]], and a spiritual purpose in everything around us.
 
 I’m also politically fairly liberal, and ideologically I’m deeply skeptical of blind belief in anything (whether its Jesus, Elon Musk, or creatine.) I think every perspective can, and should, be reasoned out. I love this quote [from Charlie Munger](https://www.youtube.com/watch?v=5U0TE4oqj24):
 

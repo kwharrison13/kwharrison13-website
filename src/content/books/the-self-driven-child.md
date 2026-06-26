@@ -8,7 +8,7 @@ tags:
   - "company-building"
   - "people-over-politics"
   - "ideological-family-tree"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
@@ -19,11 +19,11 @@ Read primarily as a parent — but with constant overlay between developmental n
 
 1. **Stress isn't always bad — but parental control usually is.** Controlled, age-appropriate stress (sleep training as the canonical example) builds resilience. Yelling and tight control are ego-driven attempts to regain leverage, not responses to the child's actual needs. Treat kids like adults and expect them to act like kids — not vice versa.
 
-2. **Decouple outcomes from worth.** Accountability ≠ outcomes. Working hard is more important than what you're working toward. "Be able to detach your value from your environment — not just talking less about outcomes, but actually being less focused on them to be genuine."
+2. **Decouple outcomes from worth.** [Accountability](/notes/accountability) ≠ outcomes. Working hard is more important than what you're working toward. "Be able to detach your value from your environment — not just talking less about outcomes, but actually being less focused on them to be genuine."
 
 3. **Intrinsic motivation over extrinsic rewards.** "I am capable of doing this" → "I love this." The progression matters; reverse it and you produce strivers who don't actually want the thing.
 
-4. **"Doing nothing is the most important something."** Daydreaming, downtime, the Default Mode Network as cognitive nutrition. The Buffett quote about "the ability to sit quietly in a room" surfaces here too. Don't overschedule, especially early.
+4. **"Doing nothing is the most important something."** Daydreaming, downtime, the [Default Mode Network](/notes/default-mode-network) as cognitive nutrition. The Buffett quote about "the ability to sit quietly in a room" surfaces here too. Don't overschedule, especially early.
 
 5. **Self-reflection as a teachable skill.** The "observant self" (Happiness Trap). Training kids to observe their own mental state — including their negative self-talk — instead of identifying with it. "You are not necessarily who you think you are."
 
@@ -31,7 +31,7 @@ Read primarily as a parent — but with constant overlay between developmental n
 
 7. **"Whatever you are, be a good one."** The Lincoln-via-Munger refrain returns — applied to interest discovery and committing to a path.
 
-8. **Interest discovery is the actual parenting job.** Expose them to people whose lives they can idolize and learn from. "Focus on becoming useful" (John Adams). Lily pads of a career; "what gives you energy?" The Thiel Fellowship and trade school as valid paths.
+8. **Interest discovery is the actual parenting job.** Expose them to people whose lives they can idolize and learn from. "Focus on becoming useful" (John Adams). Lily pads of a career; "what gives you energy?" The [Thiel](/notes/peter-thiel) Fellowship and trade school as valid paths.
 
 The throughline: parenting is less about producing outcomes and more about building the psychology behind being good at things.
 <!-- /key-takeaways -->
@@ -44,7 +44,7 @@ The throughline: parenting is less about producing outcomes and more about build
 - [Discipline Is Destiny](/books/discipline-is-destiny) — overlapping interest in self-talk, agency, daily structure. Reads as the adult-self version of what this book argues for kids.
 - [How To Take Smart Notes](/books/how-to-take-smart-notes) — explicit chapter cross-reference; the "knowledge work practice" thread, tied to tracking flow time.
 - [Atomic Habits](/books/atomic-habits) — identity-formation overlap; the "I am capable of doing this → I love this" identity progression.
-- [Homo Deus](/books/homo-deus) — Harari on self-will referenced directly in the "behavior is chemical, not character" notes.
+- [Homo Deus](/books/homo-deus) — [Harari](/notes/yuval-noah-harari) on self-will referenced directly in the "behavior is chemical, not character" notes.
 - [Sapiens](/books/sapiens) — same Harari context.
 - [The Crucible of Doubt](/books/the-crucible-of-doubt) — religious-internalization overlap.
 - [Way to Be](/books/way-to-be) — Hinckley's framing on internalized standards.
@@ -94,7 +94,7 @@ The throughline: parenting is less about producing outcomes and more about build
 - Jonah's parents meant well, but out of the cacophony of voices around him, one message was coming across loud and clear: We know what's right for you, and you don't. Imagine if you had a conversation with your spouse in which he or she said something like: "How was work today? Did you get a good report on your project? You understand how important it is for you to take your work seriously, right? I mean, I know it isn't always easy or fun, but you really should see if you can get a promotion so you'll have more options in the future. It just seems like maybe you aren't doing your best all the time. Like maybe you could work a little harder." <!--rwid:rwid-3335b38d12f0-->
 - This is the way a lot of loving parents think. But we're going to ask you to let go of that way of thinking. To begin with, it doesn't work. Despite extreme efforts on the part of adults to protect Jonah Irom himself, he continued to waste his time and theirs because he was not getting the message from his environment that "this is your work, this is your life, and you're going to get out of it what you put into it." He needed his parents to offer help, but also to let him know they understood that no one could make him work. Over the years, Bill has seen many kids like Jonah go on to be very successful, but this has only happened when their parents and teachers gave up trying to make them be successful and the kids were given a chance to figure it out on their own. <!--rwid:rwid-719c5ca1ed41-->
   > **Kyle:** *Accountability*
-- As Eckhart Tolle wrote, "They come into this world through you, but they are not 'yours." <!--rwid:rwid-b53ef2a20691-->
+- As [Eckhart Tolle](/notes/eckhart-tolle) wrote, "They come into this world through you, but they are not 'yours." <!--rwid:rwid-b53ef2a20691-->
 - Third, and this is perhaps the most critical point, you can't force a kid to do something he's dead set against. Buying into the idea that you should and must try will just end up frustrating you when it doesn't work. <!--rwid:rwid-9c1b20c1f3a6-->
 - “I'm acting like I can make my child do this, and I actually can't." <!--rwid:rwid-1b66d6b65b02-->
 - Authoritative parents want their kids to cooperate because they like and respect them, and want kids to learn from their own experiences. <!--rwid:rwid-1dcad623e1b6-->
@@ -139,13 +139,13 @@ The throughline: parenting is less about producing outcomes and more about build
   > **Kyle:** *Who they become is more important than “doing things right.”*
 - Over thirty years ago, a fascinating study looked at the decisionmaking abilities of kids from ages nine to twenty-one. The study asked the participants how they would handle a really sensitive situation: <!--rwid:rwid-4be424223f28-->
 - Overall, the fourteen-, eighteen-, and twenty-one-year-olds got virtually identical scores on decision making, and the nine-year-olds' scores were only slightly lower. we think this shows not only that nine-year-olds are capable decision makers, but also that when they come up short it's because of lace of knowledge, not necessarily judgment. <!--rwid:rwid-a9f14b36b880-->
-  > **Kyle:** *John Quincy Adams*
+  > **Kyle:** *[John Quincy Adams](/books/john-quincy-adams)*
 - Diane Dumas, he developed a "test of adultness," which asks questions about love, leadership, interpersonal skills, <!--rwid:rwid-a43b8f557d20-->
   > **Kyle:** *Look it up*
 - Epstein argues that here in America we infantilize adolescents, in part by acting as if they aren't capable of making responsible decisions. While we can't entirely stop teenagers from making impulsive choices, we can entrust them to make informed decisions about things that are important to them. Research has found that by the time kids are fourteen or fifteen, they generally have adult-level ability to make rational decisions. In fact, most cognitive processes reach adult levels by midadolescence. <!--rwid:rwid-3895bec468c8-->
   > **Kyle:** *John Quincy Adams*
 - Elementary schoolers: As children get older, you can start to offer them more choices about what activities to participate in, what foods to eat to stay healthy, and what schedule would work for enough sleep. "It's your call" starts to make more sense to them. You might say something like, "I understand you really want to go to the movie opening tonight, and so do I. I will let you make the decision but first let's think through the pros and cons. Because it's opening night, it's likely that the line will be very long, so we'll have to get there early and wait. It's cold outside, so you might be really cold while we wait. But to see the movie on its opening night with everyone else who is really excited about it would be fun." Let's say that the child decides to go to see the movie. Then you might say, "Great. Let's also think about a Plan B in case it doesn't work out the way we want it to. If you get tired in line or if there are no good seats available, how do you think we should handle that?" <!--rwid:rwid-3096ebaa4a01-->
-  > **Kyle:** *Visualize your activities; connect to Chris Hadfield in The Profile*
+  > **Kyle:** *Visualize your activities; connect to Chris Hadfield in [The Profile](/notes/the-profile)*
 - Teenagers are the closest to legal age, and they are the ones who most need to hear this message: "I have confidence in your ability to make informed decisions about your own life and to learn from your mistakes." That doesn't mean they won't make mistakes-they will. But with every mistake, they'll develop better instincts and self-awareness, especially if you help them process what went wrong without blaming or saying, "I told you so." <!--rwid:rwid-9dc3e2fe7995-->
   > **Kyle:** *Approach adulthood with caution*
 - If a thirty-year-old came into Bill's office and said that his life had been wasted because he'd made a bad decision in the eighth grade, or in high school, and had closed off all his options, Bill would say, "Buddy, get over it. You still have plenty of opportunities to shape your life." Bill shares this hypothetical with kids who are panicked by a seemingly insurmountable setback, and also with their icked parents. <!--rwid:rwid-bea1f4225300-->
@@ -187,7 +187,7 @@ The throughline: parenting is less about producing outcomes and more about build
 - These parents focus so much on the performative aspects of competence that, through their nagging and plan making, they actually compromise the fulfillment of the other two needs, autonomy and relatedness. Think of selfdetermination theory as a three-legged stool. One extremely tall leg won't make you sit higher, it will topple the whole thing over. But competence is important, too. None of us want to do something we feel like we constantly stink at. Yet as Dweck revealed, competence is more about our feeling that we can handle a situation than it is about being really great at something. It's about feeling consciously competent, not about having an "I'm the Best!" trophy on a shelf. It's an internal rather than external barometer of accomplishment. Supporting our kids in developing competence is our job as parents. "You worked really hard on that science test and I'm proud of you even if you didn't the grade you wanted. I get imagine it's clear to us both that you are getting better and are getting nearer to reaching your goal." Remember that you can't develop competence for them, and any attempt to do so will just undermine their own motivation. <!--rwid:rwid-ca5509cf2814-->
   > **Kyle:** *Connect to Battle hymn of the Tiger mom - no autonomy. Doesn’t matter if it’s easier to do it yourself.*
 - Finally, relatedness refers to the feeling of being connected to others, of being cared about. When your child feels connected to his teacher, he'll want to work hard for that teacher. <!--rwid:rwid-b95061d53940-->
-  > **Kyle:** *3 - Coatue vs. Index - Adam Grant re: Steve Jobs on Armchair Expert*
+  > **Kyle:** *3 - [Coatue](/notes/coatue) vs. [Index](/notes/index-ventures) - Adam Grant re: Steve Jobs on Armchair Expert*
 - Offering ice cream may help in the short term, but you can't do it every night. Besides, we've said that rewards are counterproductive to intrinsic motivation. So how do you help a child develop a healthy dopamine system? The answer is surprisingly simple: encourage them to work hard at what they love. <!--rwid:rwid-bba42c171f67-->
   > **Kyle:** *Rewards vs intrinsic motivation*
 - It's relatively new knowledge that we're capable of forging new neural pathways, and that how and where we focus our attention makes a measurable difference in the way in which our brain develops. <!--rwid:rwid-b71b888f7028-->
@@ -210,7 +210,7 @@ The throughline: parenting is less about producing outcomes and more about build
 - Research has also shown that kids often learn better from other kids than they do from adults, and that when a homework coach is an older kid, the one being tutored has a dopamine spike," Another argument for outsourcing: if you have a tendency to be controlling, or even if you aren't but your child perceives that you are, his saboteur instincts will kick in. <!--rwid:rwid-fac2eed7bb25-->
 - What he says to the parents of these kids is that so long as they are working hard at something they really enjoy doing, he's not worried, because he knows they're shaping a brain that will eventually enable them to be successful. <!--rwid:rwid-336f3146b995-->
   > **Kyle:** *Working hard is more important than what you’re working towards*
-- Ken Robinson is one of the leading thinkers in the area of finding your passion, and his book The Element: How Finding Your Passion Changes Everything emphasizes the importance of looking for that intersection of passion and skill. While it's not a book that will necessarily capture the imagination of your average seventh grader, parents can share its stories-from that of Simpson's creator Matt Groening, who had little interest in school but was always fanatical about drawing, to famous choreographer Gillian Lynne, who could never sit still in class as a child but thrived in a dance school. Stories like these can provoke a healthy discussion about what it means to want something and how to connect the dots to get there.6 <!--rwid:rwid-28ce55d6c151-->
+- [Ken Robinson](/notes/ken-robinson) is one of the leading thinkers in the area of finding your passion, and his book The Element: How Finding Your Passion Changes Everything emphasizes the importance of looking for that intersection of passion and skill. While it's not a book that will necessarily capture the imagination of your average seventh grader, parents can share its stories-from that of Simpson's creator Matt Groening, who had little interest in school but was always fanatical about drawing, to famous choreographer Gillian Lynne, who could never sit still in class as a child but thrived in a dance school. Stories like these can provoke a healthy discussion about what it means to want something and how to connect the dots to get there.6 <!--rwid:rwid-28ce55d6c151-->
   > **Kyle:** *#[books-to-read](/notes/books-to-read) #[Self-reflection](/notes/self-reflection)*
 - If supporting kids in the pursuit of their nonacademic interests is a good move, then withholding those interests as a punishment is quite obviously a bad one. <!--rwid:rwid-f6cd7829ee56-->
 - You can also emphasize the importance of self-awareness. It's astonishing to us how many kids have never asked themselves what it is they want, or have never had someone ask it of them. They're too busy either trying to please others, or rebelling against others' control. But they need to think for themselves about themselves. They need to consider their special talents and life purpose. They chould ask, "What do I want? What do I love to do?" You can help them ask these questions, even if you can't supply the answers. Hard as it may be to accept this, it's your responsibility to find interests and motivation in life. <!--rwid:rwid-9b48cfbc3816-->

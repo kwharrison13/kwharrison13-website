@@ -8,7 +8,7 @@ url: "https://www.perell.com/blog/where-do-we-go-next"
 source_published: "2016-11"
 confidence: "high"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/archive/clippings/Where Do We Go Next-.md"
@@ -39,7 +39,7 @@ related:
 ## Key claims
 
 - **Trump's election reflects rising populism across the developed world.** Society is segregated on and off the internet; a lack of empathy bred by racial and class segregation is widening the divide between rural America and dense urban pockets ([Politics](/notes/politics)).
-- **The middle class feels locked out.** Behind a curtain of free-trade agreements and GDP growth, economic growth looks like a zero-sum game with the gains flowing to untrustworthy elites. Manufacturing jobs leave; big banks got bailed out; faith in the American Dream eroded ([The New American Dream](/notes/the-new-american-dream)).
+- **The [middle class](/notes/middleclass) feels locked out.** Behind a curtain of free-trade agreements and GDP growth, economic growth looks like a zero-sum game with the gains flowing to untrustworthy elites. [Manufacturing](/notes/manufacturing) jobs leave; big banks got bailed out; faith in [the American Dream](/notes/the-american-dream) eroded ([The New American Dream](/notes/the-new-american-dream)).
 - **The tone set at the top matters.** Quoting [Pete Buttigieg](/notes/pete-buttigieg): "A big part of why the presidency matters is the tone that it sets… sending the overall signals about what kind of country we are."
 - **History repeats its playbook of disruption.** The printing press displaced the omnipotent church via books and literacy; democracy replaced tyrant kings; America was born of colonial rebellion. Progress never comes easily — the industrial revolution sparked two world wars ([Progress Studies](/notes/progress-studies)).
 - **A post-American world inches closer.** The collapse of mainstream media and "impenetrable bipartisan political parties" will give way to postmodern systems reflecting a new world order. Turning back the clock "would not make America great again."

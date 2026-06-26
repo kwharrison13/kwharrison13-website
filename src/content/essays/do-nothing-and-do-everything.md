@@ -19,7 +19,7 @@ substack_url: "https://investing101.substack.com/p/do-nothing-and-do-everything"
 
 ---
 
-For two years, from the age of 19 to 21, I served a mission for The Church of Jesus Christ of Latter-Day Saints. The [schedule](https://www.churchofjesuschrist.org/study/manual/missionary-standards-for-disciples-of-jesus-christ/02-missionary-organization-and-activities?lang=eng#title_number8) was rigorous. Wake up at 6:30, exercise, two hours of scripture study, then 10 hours of proselytizing. Knocking on doors, talking to strangers on the street, teaching people lessons in their homes. Every day, except for Monday, when we got to do our laundry. I called home twice a year, and wrote emails home once a week.
+For two years, from the age of 19 to 21, I served a mission for [[The Church of Jesus Christ of Latter-day Saints|The Church of Jesus Christ of Latter-Day Saints]]. The [schedule](https://www.churchofjesuschrist.org/study/manual/missionary-standards-for-disciples-of-jesus-christ/02-missionary-organization-and-activities?lang=eng#title_number8) was rigorous. Wake up at 6:30, exercise, two hours of scripture study, then 10 hours of proselytizing. Knocking on doors, talking to strangers on the street, teaching people lessons in their homes. Every day, except for Monday, when we got to do our laundry. I called home twice a year, and wrote emails home once a week.
 
 Before we set out, we spend some time in the Missionary Training Center (MTC). Anywhere from 2 to 12 weeks, depending on if we’re learning a language.
 
@@ -33,7 +33,7 @@ After a particularly stressful day, we had a teacher who gave us a clear bit of 
 
 > *“The trouble with pondering is that it looks like nothing. But pondering is not nothing! It’s something. **Sometimes you have to look like you’re doing nothing, because sometimes, that’s the biggest something**.”*
 
-Over the course of my mission, I reflected on that experience. I came across [another sermon](https://www.churchofjesuschrist.org/study/general-conference/2007/04/using-the-supernal-gift-of-prayer?lang=eng) from a modern-day Apostle, named Richard G. Scott, that offered me additional context:
+Over the course of my mission, I reflected on that experience. I came across [another sermon](https://www.churchofjesuschrist.org/study/general-conference/2007/04/using-the-supernal-gift-of-prayer?lang=eng) from a modern-day Apostle, named [[Richard G. Scott]], that offered me additional context:
 
 > *“[God’s] answers will seldom come while you are on your knees praying, even when you may plead for an immediate response. Rather, He will prompt you in quiet moments when the Spirit can most effectively touch your mind and heart. **Hence, you should find periods of quiet time to recognize when you are being instructed and strengthened**.”*
 
@@ -71,7 +71,7 @@ It’s not about instant gratification, its about hard work. Just chop those tre
 
 ![Chart illustrating dueling fates](/images/do-nothing-and-do-everything-67091051.png)
 
-Some people were quick to [point out](https://x.com/jjreeves/status/1991571165631115634?s=20) that they’d been able to pass the bar exam, all while working in a law firm, running a YouTube channel, and self-studying. What’s more, people [emphasized](https://x.com/jjreeves/status/1991571165631115634?s=20) that with “the amount of money and time this woman has, she’s either kinda dumb, or kinda lazy, or kinda both.” Other people [came](https://x.com/JeremiahDJohns/status/1992039431524483375?s=20) to Kim’s defense, saying she’s a very hard worker in regards to her family, her fashion and influencer businesses, her criminal justice reform activism, and more. Their takeaway?
+Some people were quick to [point out](https://x.com/jjreeves/status/1991571165631115634?s=20) that they’d been able to pass the bar exam, all while working in a law firm, running a [[YouTube]] channel, and self-studying. What’s more, people [emphasized](https://x.com/jjreeves/status/1991571165631115634?s=20) that with “the amount of money and time this woman has, she’s either kinda dumb, or kinda lazy, or kinda both.” Other people [came](https://x.com/JeremiahDJohns/status/1992039431524483375?s=20) to Kim’s defense, saying she’s a very hard worker in regards to her family, her fashion and influencer businesses, her criminal justice reform activism, and more. Their takeaway?
 
 > *“What’s happening is that she’s running into something she’s just not well suited for. She’s very well-suited to the grind of doing hundreds of appearances, endorsements, photoshoots, etc, every year, which is real work. But she didn’t go to law school or even college. **She’s never done anything like this, and it requires a totally different skill set, and because she’s doing a dozen other major things she’s time-limited. So she’s currently failing**.”*
 

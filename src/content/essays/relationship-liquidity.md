@@ -31,11 +31,11 @@ Let's dig into some thoughts on a conversation I had this past week about buildi
 
 The [concept of a marketplace](https://en.wikipedia.org/wiki/Marketplace) is a fundamental part of human history for as long as people have been engaging in trade. Some estimates put the arrival of the first physical marketplace at 3000 BCE when zoning in particular areas pushed commerce into a central location.
 
-Marketplaces are just as intricately connected to the [history of the internet](https://en.wikipedia.org/wiki/History_of_the_Internet). When people were initially getting online in the early 90's, one of the very first activities revolved around marketplaces. Potentially one of the first, ever, online marketplaces launched in 1982! [The Boston Computer Exchange](https://en.wikipedia.org/wiki/Timeline_of_e-commerce).
+[[Marketplaces]] are just as intricately connected to the [history of the internet](https://en.wikipedia.org/wiki/History_of_the_Internet). When people were initially getting online in the early 90's, one of the very first activities revolved around marketplaces. Potentially one of the first, ever, online marketplaces launched in 1982! [The Boston Computer Exchange](https://en.wikipedia.org/wiki/Timeline_of_e-commerce).
 
-Some of the biggest internet businesses have been marketplaces: eBay, once worth $80B, Alibaba, once worth $600B+, and obviously Amazon, worth over $1 trillion. The years after 2008 gave rise to new marketplaces, like Uber, Doordash, and Airbnb that, rather than buying and selling things, they enabled buying and selling services. Delivery, transportation, experiences.
+Some of the biggest internet businesses have been marketplaces: eBay, once worth $80B, Alibaba, once worth $600B+, and obviously [[Amazon]], worth over $1 trillion. The years after 2008 gave rise to new marketplaces, like [[Uber]], Doordash, and Airbnb that, rather than buying and selling things, they enabled buying and selling services. Delivery, transportation, experiences.
 
-Even social companies like Facebook and Google were built around a marketplace of sorts. They, instead, referred to them as network effects. But the idea is very similar to a marketplace. **Participants on both ends that want something out of what takes place in the middle.**
+Even social companies like [[Facebook]] and [[Alphabet|Google]] were built around a marketplace of sorts. They, instead, referred to them as network effects. But the idea is very similar to a marketplace. **Participants on both ends that want something out of what takes place in the middle.**
 
 In marketplace fundamentals, there is a concept called marketplace liquidity. The combination of how much supply you have, how much demand you have, and how well those two things line up.
 
@@ -49,7 +49,7 @@ Every interaction has some kind of middle ground. Every marketplace, every trans
 
 # Everyone Is A Marketplace
 
-Relationships are tricky things. They are simultaneously the most important, most complex, and most universal aspect of the human experience. People use short-hands to [understand](https://bigthink.com/the-well/tribalism-humans-not-tribal/) a massive and complex world when it comes to relationships:
+[[Relationships]] are tricky things. They are simultaneously the most important, most complex, and most universal aspect of the human experience. People use short-hands to [understand](https://bigthink.com/the-well/tribalism-humans-not-tribal/) a massive and complex world when it comes to relationships:
 
 > *"Over the last few hundred millennia, humans have developed societies too large for people to know and recognize one another individually. Members of such societies depend on markers of identity to spot compatriots — clothes, languages, habits, cuisines, and belief systems. **Identity and markers of identity are central to the human experience**."*
 
@@ -63,7 +63,7 @@ People accept jobs, take meetings, do favors, ask questions, and offer help almo
 
 > *"The most important thing to do, far in advance of needing to reach out, is to communicate your vibe online. Writing, tweeting, making videos or doing podcasts. My biggest struggle with creating content online was feeling like it would just be shouting into the void. **But when you start having lots of these conversations, you realize that these conversations get easier when you have a body of work to communicate your interests and perspectives, in hopes of attracting like-minded people**."*
 
-Even just "communicating your vibe online" is a form of allowing someone to "know" you. It's similar to the identity-based short-hands people use to recognize their "compatriots." Whether someone has seen me on Twitter, or has read my writing, or even just knows about [Contrary](https://investing1012dot0.substack.com/p/contrary-my-renegade-of-choice), all of those can be effective ways for someone to know me, and therefore be more likely to engage.
+Even just "communicating your vibe online" is a form of allowing someone to "know" you. It's similar to the identity-based short-hands people use to recognize their "compatriots." Whether someone has seen me on [[Twitter]], or has read my writing, or even just knows about [Contrary](https://investing1012dot0.substack.com/p/contrary-my-renegade-of-choice), all of those can be effective ways for someone to know me, and therefore be more likely to engage.
 
 Whether you know someone as a friend from childhood, or from a previous job, or church, or an event—every person represents a marketplace sitting in between any number of people you know and any number of people you know that other people you know would like to also know.
 
@@ -81,9 +81,9 @@ The only way to avoid making these kinds of interactions cringey beyond all reas
 
 As I started to unpack some aspects of what seemed to be logical ways to increase relationship liquidity, these are the three things that came to mind for me, often because they come up when I'm talking to my superconnector friend:
 
-- Natural Curiosity
+- Natural [[Curiosity]]
 - "Start Where They Are"
-- Specialization
+- [[Specialization]]
 
 ## Natural Curiosity
 
@@ -103,7 +103,7 @@ While it's true there are limitations to these types of "stable relationships" w
 
 For the inner circle? My friend [Sam Hinkie](https://twitter.com/samhinkie) describes how he thinks about the people he wants to be the closest to: "Am I the first person they call after they find out they're having a baby? Or getting fired from their job? Or moving to a new city?"
 
-Outside your Dunbar's Number of close relationship, you see that vibing again. Think of the people you know (or know of) who are always writing, creating, and collaborating online. I'd wager you see them as pretty well connected. It's because they’re putting their vibes out into the universe and attracting the likeminded!
+Outside your [[Dunbar's Number]] of close relationship, you see that vibing again. Think of the people you know (or know of) who are always writing, creating, and collaborating online. I'd wager you see them as pretty well connected. It's because they’re putting their vibes out into the universe and attracting the likeminded!
 
 And the more curious you are, the more capable you are of broadening the depths of diversity in that group. People from all kind of disciplines, backgrounds, cultures, and specialties can be potential relationships because **you're not just curious about X. You're just plain curious.**
 
@@ -111,7 +111,7 @@ This is one reason, I think, that high volume sales roles or sourcing-heavy inve
 
 ## "Start Where They Are"
 
-When I was 19 years old, I [served a mission](https://newsroom.churchofjesuschrist.org/topic/missionary-program) for The Church of Jesus Christ of Latter-Day Saints. Many people have a lot of "opinion baggage" about this kind of stuff, in either positive or negative directions, but my experience as a missionary shaped a lot of who I am. Some critics of religion in general, and in particular door-knocking religions, like mine, ask the question of why we feel the need to convince other people of what we believe?
+When I was 19 years old, I [served a mission](https://newsroom.churchofjesuschrist.org/topic/missionary-program) for [[The Church of Jesus Christ of Latter-day Saints|The Church of Jesus Christ of Latter-Day Saints]]. Many people have a lot of "opinion baggage" about this kind of stuff, in either positive or negative directions, but my experience as a missionary shaped a lot of who I am. Some critics of religion in general, and in particular door-knocking religions, like mine, ask the question of why we feel the need to convince other people of what we believe?
 
 And granted, I believe that everyone, not just religious people, exist on a spectrum when it comes to their own opinions. Most people exist somewhere between converting or convincing people. What most critics think of missionaries as doing is convincing. Going out to argue people into submission; pushing them to believe in a different God. And some do. But in reality, the most successful way to bring people to see what you see and believe what you believe is to convert them.
 
@@ -131,7 +131,7 @@ But that's not how relationships are built. **Relationships are built, first, fr
 
 ## Specialization
 
-Finally, there is this idea that I refer to often. Clayton Christensen had a framework called "[jobs to be done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)." [I've written before](https://investing1012dot0.substack.com/p/productization) about how venture firms need to better articulate what they're good for. But the same idea is true in relationships. You need to be able to articulate *why* someone would want to know you, respond to you, or spend time with you.
+Finally, there is this idea that I refer to often. [[Clayton Christensen]] had a framework called "[jobs to be done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)." [I've written before](https://investing1012dot0.substack.com/p/productization) about how venture firms need to better articulate what they're good for. But the same idea is true in relationships. You need to be able to articulate *why* someone would want to know you, respond to you, or spend time with you.
 
 Going back to the idea of "everyone a marketplace," I love [this quote](https://www.joincolossus.com/episodes/19136319/tavel-consumer-marketplace-investing?tab=transcript) from Sarah Tavel on how different marketplaces have been really successful:
 
@@ -153,15 +153,15 @@ So even as terms like "relationship liquidity" and "network funnel" sound cold a
 
 # What Am I Reading?
 
-#### [How To Predict The Future](https://feld.com/archives/2012/06/how-to-predict-the-future/) by Brad Feld and William Hertling
+#### [How To Predict The Future](https://feld.com/archives/2012/06/how-to-predict-the-future/) by [[Brad Feld]] and [[William Hertling]]
 
 Pretty impressive overview of the process that William Hertling used to predict a number of different technological shifts.
 
-#### [Company Building In The Curiosity Phase of AI](https://www.michaeldempsey.me/blog/2022/09/20/company-building-in-the-curiosity-phase-of-ai/) by Michael Dempsey
+#### [Company Building In The Curiosity Phase of AI](https://www.michaeldempsey.me/blog/2022/09/20/company-building-in-the-curiosity-phase-of-ai/) by [[Michael Dempsey]]
 
 Charting the adoption of different technology and understanding their evolution is always interesting to me. Technology waves are legitimate forces, and Michael does a good job touching on where we are at the moment in AI.
 
-> *“In the Curiosity Phase of an emerging technology, Founders must at times ignore the seemingly endless user demand and instead litigate each decision they make with a lens for building long-term defensibility and value.”*
+> *“In the [[Curiosity Phase]] of an emerging technology, Founders must at times ignore the seemingly endless user demand and instead litigate each decision they make with a lens for building long-term defensibility and value.”*
 
 ![Chart illustrating company building in the curiosity phase of](/images/relationship-liquidity-602213ef.png)
 

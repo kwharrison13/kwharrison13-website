@@ -37,8 +37,8 @@ related:
 ## Key claims
 
 - **1950s America was unified by common culture.** Daily media rituals created cohesion; a few large institutions (NBC, CBS, ABC) and their ads shaped American brands in an era of conformity.
-- **Starbucks sold a social environment, not just coffee** — physical stores, artisanal espresso bars, regionally labeled coffee, an alluring localized European flair — becoming a destination.
-- **Third-wave coffee ritualized the craft** and drove the "coffeeshopification" of cities (Stephen Gordon predicted coffee shops would replace most retail stores), catering to teenagers, focused workers, and connoisseurs alike. #[City Building](/notes/city-building)
+- **[Starbucks](/notes/starbucks) sold a social environment, not just coffee** — physical stores, artisanal espresso bars, regionally labeled coffee, an alluring localized European flair — becoming a destination.
+- **Third-wave coffee ritualized the craft** and drove the "coffeeshopification" of cities ([Stephen Gordon](/notes/stephen-gordon) predicted coffee shops would replace most retail stores), catering to teenagers, focused workers, and connoisseurs alike. #[City Building](/notes/city-building)
 - **Attention has become scarce.** The old "eyeballs"/saturation strategy no longer works; our information-rich world has created an attention deficit, and allocating brand attention effectively keeps getting harder.
 - **Perspective is the new scarce resource.** [Tiago Forte](/notes/tiago-forte) sees a shift from scarcity to abundance, entering the "perspective era" of "perspectives-as-a-service."
 
@@ -48,10 +48,10 @@ related:
 
 > "Our information rich world has created an attention deficit."
 
-> "In a world of hyper-abundant content, a point of view will become the scarcest of resources." — Paul Saffo
+> "In a world of hyper-abundant content, a point of view will become the scarcest of resources." — [Paul Saffo](/notes/paul-saffo)
 
 ## How it connects
 
-- Starbucks — coffee shop as cultural experience and "third place."
+- [Starbucks](/notes/starbucks) — coffee shop as cultural experience and "third place."
 - [City Building](/notes/city-building) — the "coffeeshopification" of cities.
-- [Tiago Forte](/notes/tiago-forte) / Paul Saffo — abundance economics and point-of-view as the scarce resource.
+- [Tiago Forte](/notes/tiago-forte) / [Paul Saffo](/notes/paul-saffo) — abundance economics and point-of-view as the scarce resource.

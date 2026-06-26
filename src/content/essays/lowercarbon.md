@@ -25,13 +25,13 @@ The world continues to change more and more quickly. We're on [internet time](h
 
 **I've dubbed the people driving those changing forces as "renegades."** These aren't just solo capitalists or startup funds. Any fund doing something new and disrupting the status quo in venture can be a renegade. One of my favorite things is to reflect on the impact these people are having. **I'm young enough in my career that I welcome radical change**. It shakes up the way startups get funded and how companies get built.
 
-This is my second Renegade Spotlight after writing about [Homebrew](https://investing1012dot0.substack.com/p/homebrew?s=w) a few weeks ago. When I see investors executing on new ways of disrupting venture I want to think publicly about what this means for venture capital.
+This is my second [[Renegade Spotlights|Renegade Spotlight]] after writing about [Homebrew](https://investing1012dot0.substack.com/p/homebrew?s=w) a few weeks ago. When I see investors executing on new ways of disrupting venture I want to think publicly about what this means for venture capital.
 
-*Side note: Sacca swears a lot more than I do so I want to preemptively apologize to my Mom for the bleeped naughty words since she may be the only person reading my stuff and I don't wanna offend my loyal readers. Thanks Mom!*
+*Side note: [[Chris Sacca|Sacca]] swears a lot more than I do so I want to preemptively apologize to my Mom for the bleeped naughty words since she may be the only person reading my stuff and I don't wanna offend my loyal readers. Thanks Mom!*
 
 ## The Renegade: Lowercarbon Capital
 
-Chris Sacca is a fairly well known character in venture. Whether it’s the cowboy shirts, his seat on Shark Tank, or in particular [his 250x return](https://twitter.com/pitdesi/status/1377631556873768962?s=20&t=dgRIOZKr0YhD4zoF5O7oYg) on his first $8M fund with investments in companies like Uber, Instagram, and Twitter. Chris is also famous in venture for walking away from the "empire building" that most venture funds today are chasing. Bigger funds. Bigger headcount. Broader platforms.
+Chris Sacca is a fairly well known character in venture. Whether it’s the cowboy shirts, his seat on Shark Tank, or in particular [his 250x return](https://twitter.com/pitdesi/status/1377631556873768962?s=20&t=dgRIOZKr0YhD4zoF5O7oYg) on his first $8M fund with investments in companies like [[Uber]], [[Instagram]], and [[Twitter]]. Chris is also famous in venture for walking away from the "empire building" that most venture funds today are chasing. Bigger funds. Bigger headcount. Broader platforms.
 
 Chris retired from Lowercase [in 2017](https://lowercasecapital.com/2017/04/26/hanging-up-my-spurs/) at the age of 41 as part of a promise he made as a 20-year old that whatever job he found he would become the very best at and then retire by age 40 and do something totally different. "[I was starting to feel sad about letting my 20-year-old self down](https://money.cnn.com/2017/04/26/technology/chris-sacca-retiring/)."
 
@@ -43,23 +43,23 @@ Tackling climate change by investing in startups is a contrarian approach in a l
 
 ## The Green Bubble
 
-A quick history lesson. Investing in sustainable technology became all the rage around 2008. Venture funding flowing into categories like solar, biofuels, and battery storage exploded. Kleiner Perkins made a splash by [raising $500M for a fund](https://venturebeat.com/2008/05/01/kleiner-perkins-creates-700m-new-fund-plus-500m-for-green-investments/) focused on "green technology."
+A quick history lesson. [[Investing]] in sustainable technology became all the rage around 2008. Venture funding flowing into categories like solar, biofuels, and battery storage exploded. [[Kleiner Perkins]] made a splash by [raising $500M for a fund](https://venturebeat.com/2008/05/01/kleiner-perkins-creates-700m-new-fund-plus-500m-for-green-investments/) focused on "green technology."
 
 But just as quickly as the pop happened you saw that capital get diverted away from sustainability with the total venture dollars invested [dropping 36% in one year](https://www.barrons.com/articles/BL-TB-19916?tesla=y) from 2008 to 2009. [Some people list the diversion into green tech](https://fortune.com/longform/kleiner-perkins-vc-fall/) as one of the things that [brought Kleiner out](https://www.reuters.com/article/us-kleiner-doerr-venture/insight-how-cleantech-tarnished-kleiner-and-vc-star-john-doerr-idUSBRE90F0AD20130116) of the top tiers of venture funds.
 
 ![Illustration for The Green Bubble section](/images/lowercarbon-6f4f8565.png)
 
-A lot of VCs today started their careers in sustainability and clean tech like [Mark Goldberg](https://www.linkedin.com/in/mark-goldberg-25458110/) at Index or [Jake Saper](https://www.linkedin.com/in/jakesaper/details/experience/) at Emergence. And most of them have scar tissue having watched lots of high profile failures that had raised millions of dollars.
+A lot of VCs today started their careers in sustainability and clean tech like [Mark Goldberg](https://www.linkedin.com/in/mark-goldberg-25458110/) at [[Index Ventures|Index]] or [Jake Saper](https://www.linkedin.com/in/jakesaper/details/experience/) at Emergence. And most of them have scar tissue having watched lots of high profile failures that had raised millions of dollars.
 
 But there are some key differences this time both in terms of feasibility and urgency. Speaking of the '08-'09 "Green Bubble," Chris Sacca makes it pretty clear what's changed:
 
 > *"**The issue was that it was just too damn expensive to start stuff back when they were investing. CapEx and OpEx were bonk.** And so much of the stuff they wanted to build required handouts from lawmakers because the pricing just didn’t make sense. The firms that were pushing cleantech were staffing up with lobbyists to try to schmooze folks in Congress **to get the subsidies they needed to have a snowball’s chance on a superhot planet.***
 
-So what's the most significant difference that climate tech has in their advantage this time? What's the tailwind that Lowercarbon is able to ride to be successful in a way that investors in 2008 could only dream of?
+So what's the most significant difference that [[Climate Tech|climate tech]] has in their advantage this time? What's the tailwind that Lowercarbon is able to ride to be successful in a way that investors in 2008 could only dream of?
 
 ## The Innovation: Markets Hold The Key
 
-Last year Chris Sacca [did an interview](https://www.thetwentyminutevc.com/chris-sacca/?v=2) with Harry Stebbings. At one point Harry asked Chris a pretty direct question. **"Are you going to make more money from climate than you are from tech?" And without missing a beat Chris said, "Absolutely. I'll get way richer from this.** I have multiple companies in the portfolio right now that have the trajectory to become multi-trillion dollar companies."
+Last year Chris Sacca [did an interview](https://www.thetwentyminutevc.com/chris-sacca/?v=2) with [[Harry Stebbings]]. At one point Harry asked Chris a pretty direct question. **"Are you going to make more money from climate than you are from tech?" And without missing a beat Chris said, "Absolutely. I'll get way richer from this.** I have multiple companies in the portfolio right now that have the trajectory to become multi-trillion dollar companies."
 
 Chris' answer is indicative of what I think the fundamental breakthrough is for Lowercarbon: **Greed goes further than guilt.**
 
@@ -81,9 +81,9 @@ The good news is that people are already waking up to to the technological feasi
 
 2021 was a record smashing year for venture dollars invested in climate tech. Just the [first half of 2021 saw $60B](pwc.com/climatetech) of investment flowing into climate. **And we're just getting started.**
 
-Anyone who doesn't recognize the fundamental shift that climate change represents isn't paying attention. These are the biggest markets that exist globally. Transportation? Everyone that moves. Agriculture? Everyone that eats. **50 years from now we'll either be marveling at the way climate tech innovation changed the way we live and dwarfed the outcomes from investing in software and internet companies or we'll be wishing it had as we watch sea levels rise and large swaths of the planet become uninhabitable.**
+Anyone who doesn't recognize the fundamental shift that climate change represents isn't paying attention. These are the biggest markets that exist globally. [[Transportation]]? Everyone that moves. [[Agriculture]]? Everyone that eats. **50 years from now we'll either be marveling at the way climate tech innovation changed the way we live and dwarfed the outcomes from investing in software and internet companies or we'll be wishing it had as we watch sea levels rise and large swaths of the planet become uninhabitable.**
 
-Peter Reinhardt previously spent 10 years building Segment which he recently sold to Twilio for over $3B. Now? He's building [Charm Industrial](https://charmindustrial.com/), a carbon removal company. Few people understand the size of the opportunity in software better than Peter. But now [he's pointed at something even bigger.](https://medium.com/fifth-wall-insights/why-i-believe-fifth-walls-consortium-might-be-key-to-solving-one-of-the-world-s-biggest-problems-937d2603c65f) **“'The enterprise software market is around $460 billion in total' but in the climate transition '$3-10 trillion in EBITDA is up for grabs'. The markets at play are 10x+ bigger than software."**
+Peter Reinhardt previously spent 10 years building [[Segment]] which he recently sold to [[Twilio]] for over $3B. Now? He's building [Charm Industrial](https://charmindustrial.com/), a carbon removal company. Few people understand the size of the opportunity in software better than Peter. But now [he's pointed at something even bigger.](https://medium.com/fifth-wall-insights/why-i-believe-fifth-walls-consortium-might-be-key-to-solving-one-of-the-world-s-biggest-problems-937d2603c65f) **“'The enterprise software market is around $460 billion in total' but in the climate transition '$3-10 trillion in [[EBITDA]] is up for grabs'. The markets at play are 10x+ bigger than software."**
 
 The folks at Lowercarbon are beating the war drums for an accelerated and critical opportunity in climate tech. The more I've read about them the more I've come to appreciate a few critical insights that make them a renegade.
 
@@ -101,7 +101,7 @@ In other words? "We are at DEFCON: SUPERF\*CKED.” It’s time to get to work.
 
 The emphasis on urgency translates into their investing focus as well. A lot of venture funds "casually" wade into funding climate tech with the simpler solutions that are easier to understand. **[PwC found](https://www.pwc.com/gx/en/services/sustainability/publications/state-of-climate-tech.html) that the technologies with “80% of future emissions reduction potential received just 25% of climate tech investment between 2013 and H1 2021.”** There is a big opportunity to invest behind the technologies that have the highest chance of making the largest impact in fighting climate change. **Lowercarbon dives right into the science. Their team is filled with Fulbright Scholars, PhDs, and policy nerds.**
 
-There is a deeper, and important, debate about the types of things that are getting funded in tackling climate change. [Chris Sacca has talked](https://www.thetwentyminutevc.com/chris-sacca/?v=2) several times about how they deliberately work to be collaborative with other climate-focused ventures funds to increase the odds of success for companies tackling hard problems. One of those frequent collaborators is Breakthrough Energy, Bill Gates' climate fund. In Bill Gates' recent book, [How To Avoid a Climate Disaster](https://www.amazon.com/How-Avoid-Climate-Disaster-Breakthroughs/dp/059321577X) they talked about the judgement bar they use in determining what to invest in.
+There is a deeper, and important, debate about the types of things that are getting funded in tackling climate change. [Chris Sacca has talked](https://www.thetwentyminutevc.com/chris-sacca/?v=2) several times about how they deliberately work to be collaborative with other climate-focused ventures funds to increase the odds of success for companies tackling hard problems. One of those frequent collaborators is [[Breakthrough Energy]], [[Bill Gates]]' climate fund. In Bill Gates' recent book, [How To Avoid a Climate Disaster](https://www.amazon.com/How-Avoid-Climate-Disaster-Breakthroughs/dp/059321577X) they talked about the judgement bar they use in determining what to invest in.
 
 > *"At Breakthrough Energy, **we fund only technologies that could remove at least 500 million tons a year if they’re successful and fully implemented.** That’s roughly 1 percent of global emissions. Technologies that will never exceed 1 percent shouldn’t compete for the limited resources we have for getting to zero. There may be other good reasons to pursue them, but significantly reducing emissions won’t be one of them."*
 
@@ -113,7 +113,7 @@ I laid this out pretty clearly above. Chris Sacca effectively articulates the id
 
 > *"**It’s becoming clearer than ever that powering our economy by digging up and burning old dinosaur bones is just too damn expensive.** It’s straight up cheaper to power sh\*t using the sun."*
 
-This is something any clean tech investor in 2008 would have killed for. It used to be that you had to convince people to take a crappier option because of a better climate impact (guilt.) It was always going to be more expensive. Today? Most people don't drive a Tesla because it helps the planet. They do it because it’s the fastest, sexiest option. You can make a quality and cost argument for sustainable tech in a way that’s never been possible before.
+This is something any clean tech investor in 2008 would have killed for. It used to be that you had to convince people to take a crappier option because of a better climate impact (guilt.) It was always going to be more expensive. Today? Most people don't drive a [[Tesla]] because it helps the planet. They do it because it’s the fastest, sexiest option. You can make a quality and cost argument for sustainable tech in a way that’s never been possible before.
 
 This is such a better principle to have in mind as people build climate tech. Don't rely on people's guilt because it will dramatically limit your TAM. **Go find the greediest climate deniers out there and build a solution that they can't help but love.**
 
@@ -131,4 +131,4 @@ Lowercarbon is demonstrating two key ideas when it comes to changing forces in v
 
 The first? Lowercarbon is a whole new level of commitment as a specialist funds. There are a lot of people that believe specialist funds will struggle to generate the same massive returns that generalist funds can achieve. Having scientists, PhDs, and policy people on staff is a new way of doing things. I love thinking about [innovative new org charts in venture](https://twitter.com/kwharrison13/status/1486403080383971330?s=20&t=xde9DBGt_EKmZ6aW_Dxb2g), and Lowercarbon's is certainly unique.
 
-Second? **Stop thinking about climate as a niche market.** These markets are bigger than anything we've seen before. And the implications are more dramatic. Heaven forbid we had ever had to do without a CRM but if Salesforce and all the others hadn't come along? We'd still have the cockroach of software: spreadsheets. We would make it through. But if we fail to adjust course when it comes to climate? Even the cockroaches may be in trouble.
+Second? **Stop thinking about climate as a niche market.** These markets are bigger than anything we've seen before. And the implications are more dramatic. Heaven forbid we had ever had to do without a CRM but if [[Salesforce]] and all the others hadn't come along? We'd still have the cockroach of software: spreadsheets. We would make it through. But if we fail to adjust course when it comes to climate? Even the cockroaches may be in trouble.

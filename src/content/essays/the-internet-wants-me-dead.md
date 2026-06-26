@@ -22,7 +22,7 @@ substack_url: "https://investing101.substack.com/p/the-internet-wants-me-dead"
 
 This week, I got my first death threats on the internet.
 
-Now, some of you might be surprised. But I’ve got quite a Twitter addiction, so homicidal commentary is nothing new to me. It’s just never been directed *at* me. And those of you who are maybe even more chronically online than I am are nodding their heads with this kind of response.
+Now, some of you might be surprised. But I’ve got quite a [[Twitter]] addiction, so homicidal commentary is nothing new to me. It’s just never been directed *at* me. And those of you who are maybe even more chronically online than I am are nodding their heads with this kind of response.
 
 ![](/images/the-internet-wants-me-dead-7507e12b.png)
 
@@ -48,7 +48,7 @@ But over the course of my entire adult life I have never gotten in an actual phy
 
 That being said, I can’t say that I don’t ever think about violence. When I’m in more volatile situations, or on sketchier roads at night, especially when walking with my wife, or with my kids in crowded places. I think about our physical safety. With the ever-present loom of shootings, who doesn’t? But even more than mass casualty events, I think about individual conflict. In disagreements with strangers, like car accidents, I find myself wondering what I would do if this person swung at me.
 
-By and large, I find that violence is not a common part of my life. But the more you read history, the more it feels like that’s an anomaly more than a natural state. [I wrote last week](https://investing101.substack.com/p/read-old-books) about how I’m reading Will Durant’s *Story of Civilization* and one thing, in particular, that has struck me is just how unapologetically violent most civilizations were.
+By and large, I find that violence is not a common part of my life. But the more you read history, the more it feels like that’s an anomaly more than a natural state. [I wrote last week](https://investing101.substack.com/p/read-old-books) about how I’m reading [[Will Durant]]’s *Story of Civilization* and one thing, in particular, that has struck me is just how unapologetically violent most civilizations were.
 
 Impalement, mutilations, flaying, ritualized human sacrifice of men, women, and children, dismemberment as routine judicial practice, public torture as entertainment, graphic methods of intense suffering for execution.
 
@@ -72,7 +72,7 @@ We have hundreds, if not thousands, of years of fighting and bleeding upon which
 
 [I’ve written before](https://investing1012dot0.substack.com/p/stewards-of-capital) about a [common idea](https://kwharrison13.com/portfolio-ideas) I return to:
 
-> *“[Compare the thinking](https://lawliberty.org/the-divide-between-jefferson-and-adams-on-human-nature-is-ours-too/) of John Adams vs. Thomas Jefferson. There’s a lot of meat on the idea so I’ll just summarize it. **On the one hand, people will act in their own self-interest and should be left free to do what they want**, giving unfettered power to the people (Jefferson). **On the other hand, people are riddled with inadequacies and easily swayed by misaligned incentives.** They need guard rails, guidance, and systems to ensure people are protected from each other and themselves (Adams).”*
+> *“[Compare the thinking](https://lawliberty.org/the-divide-between-jefferson-and-adams-on-human-nature-is-ours-too/) of John Adams vs. [[Thomas Jefferson]]. There’s a lot of meat on the idea so I’ll just summarize it. **On the one hand, people will act in their own self-interest and should be left free to do what they want**, giving unfettered power to the people (Jefferson). **On the other hand, people are riddled with inadequacies and easily swayed by misaligned incentives.** They need guard rails, guidance, and systems to ensure people are protected from each other and themselves (Adams).”*
 
 This contrast of unfettered human freedom vs. guard rails gets to a fundamental question I think about constantly around human nature. Unfortunately, I think, I fall on the side of people needing guardrails; protections from themselves. “The [lesser demons](https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature) of our nature.”
 
@@ -92,21 +92,21 @@ The rhetoric of violence as an appropriate response to disagreement continues to
 
 I can feel that protective shell of ensured safety starting to fade. Those people cheering its evaporation appreciate the validation of their violent worldview its disappearance offers.
 
-I don’t mean to frame this as a political evaluation either. It’s not that liberals are suddenly becoming more bloodthirsty. January 6th was also violent. Police brutality, riots, vigilante street justice with backwards baseball caps, firebombing CEOs. Violence, violence, violence. Some of its structural, like more dangerous streets with lenient drug policies. Some of its political, like disagreements, such as the case with Brian Thompson or Charlie Kirk. But, increasingly, I believe it could become a default for many people.
+I don’t mean to frame this as a political evaluation either. It’s not that liberals are suddenly becoming more bloodthirsty. [[January 6th]] was also violent. Police brutality, riots, vigilante street justice with backwards baseball caps, firebombing CEOs. Violence, violence, violence. Some of its structural, like more dangerous streets with lenient drug policies. Some of its political, like disagreements, such as the case with Brian Thompson or Charlie Kirk. But, increasingly, I believe it could become a default for many people.
 
 The more we establish a framework for justified violence in the face of disagreement, the more our problems start to look like they fit perfectly into a “violence solves everything” framework. **And the next hotbed opportunity for “justified violence?” Anti-technology.**
 
 # The Artificial Meritocracy of Excel
 
-René Girard’s book, *[Violence and the Sacred](https://truthcloud.net/uofclub/theology/violence-and-the-sacred.pdf)*, is a Peter Thiel classic. The TLDR is this framework of “mimetic desire.” I’ll summarize it poorly. He proposes that people don’t want what they want because of “who they are” and the deepest desires of their heart of hearts. We desire what others desire, imitating them as models. This leads to violence because when two people desire the same object through each other, they become rivals and then mirror-image antagonists, locked in escalating reciprocal conflict that spreads contagiously through a community.
+[[René Girard]]’s book, *[Violence and the Sacred](https://truthcloud.net/uofclub/theology/violence-and-the-sacred.pdf)*, is a [[Peter Thiel]] classic. The TLDR is this framework of “mimetic desire.” I’ll summarize it poorly. He proposes that people don’t want what they want because of “who they are” and the deepest desires of their heart of hearts. We desire what others desire, imitating them as models. This leads to violence because when two people desire the same object through each other, they become rivals and then mirror-image antagonists, locked in escalating reciprocal conflict that spreads contagiously through a community.
 
 The book is dense and filled with sacrificial theory and explorations of why all of religion is framed around this attempt at superseding mimetic desire; temporarily placating the demand for conflict. **But let’s focus on this simple ideological flow: desire stems from envy, envy leads to competition, competition leads to violence**.
 
-Juxtapose that framework against recent events. Former Google CEO, Eric Schmidt, was giving a commencement address at ASU, and started talking about AI. Unfortunately, he dramatically misread the room and was booed, as one outlet [put it](https://gizmodo.com/ex-google-ceo-eric-schmidt-fails-to-read-room-on-ai-gets-booed-to-oblivion-2000759763), “into oblivion.” Ashlee Vance [said](https://www.corememory.com/p/openai-musk-verdict-schmidt-booed-grok-taxes) this is one of the most confusing things he’s ever seen in tech. How can the rising generation be *so* angry about AI?
+Juxtapose that framework against recent events. Former [[Alphabet|Google]] CEO, [[Eric Schmidt]], was giving a commencement address at ASU, and started talking about AI. Unfortunately, he dramatically misread the room and was booed, as one outlet [put it](https://gizmodo.com/ex-google-ceo-eric-schmidt-fails-to-read-room-on-ai-gets-booed-to-oblivion-2000759763), “into oblivion.” [[Ashlee Vance]] [said](https://www.corememory.com/p/openai-musk-verdict-schmidt-booed-grok-taxes) this is one of the most confusing things he’s ever seen in tech. How can the rising generation be *so* angry about AI?
 
-Like any complex social issue, I don’t think it is just one thing. There’s plenty of Chinese (and domestic) misinformation about data centers, water, and energy. You have the unforced error of Sam Altman and Dario Amodei scaring the bejeezus out of everyone they talk to. **But more than any of that I think you have Girard’s mimetic desire supercharged by economic, technological, and cultural envy unlike anything any of us have seen in our lifetime**.
+Like any complex social issue, I don’t think it is just one thing. There’s plenty of Chinese (and domestic) misinformation about data centers, water, and energy. You have the unforced error of [[Sam Altman]] and Dario Amodei scaring the bejeezus out of everyone they talk to. **But more than any of that I think you have Girard’s mimetic desire supercharged by economic, technological, and cultural envy unlike anything any of us have seen in our lifetime**.
 
-Millennials own 1/5 the assets of boomers. Millennials and Gen Z are making 20% less in wages than boomers did at the same age. The share of first-time homebuyers has plummeted to 21%; the median home price has risen 400% since 1990. Nine out of ten graduates in 2026 are nervous about AI replacing their job prospects. Entry level jobs have dropped by 15% while the number of applicants to any given job has increased by 30%. **Gen Z are now three times more likely to report that the American Dream is out of reach, jumping from 11% in 2017 to 36% in 2024**.
+Millennials own 1/5 the assets of boomers. Millennials and [[Gen Z]] are making 20% less in wages than boomers did at the same age. The share of first-time homebuyers has plummeted to 21%; the median home price has risen 400% since 1990. Nine out of ten graduates in 2026 are nervous about AI replacing their job prospects. Entry level jobs have dropped by 15% while the number of applicants to any given job has increased by 30%. **Gen Z are now three times more likely to report that [[The American Dream|the American Dream]] is out of reach, jumping from 11% in 2017 to 36% in 2024**.
 
 While the average young person is watching every social, economic, cultural, and technological opportunity dim, you have the pleebs in San Francisco chittering about the “permanent underclass.” While we in the tech community marvel at the capabilities of the latest AI models, we’re unknowingly surround by a deep cultural resentment of any technical enablement for a critical reason; **most people enviously believe they will *****not***** be enabled or advantaged by any technological progress. Enter violence-inducing envy.**
 
@@ -130,7 +130,7 @@ I tried to think through some elements of the violence formula and what, if anyt
 
 ## Revenge
 
-I read an [essay](https://willsloan.substack.com/p/on-tarantino) by Will Sloan on Quentin Tarantino recently that played into some of the themes of justified violence. Tarantino’s films are, obviously, famously violent. But this essay made the point that Tarantino’s personal framework for violence often revolves around revenge.
+I read an [essay](https://willsloan.substack.com/p/on-tarantino) by Will Sloan on [[Quentin Tarantino]] recently that played into some of the themes of justified violence. Tarantino’s films are, obviously, famously violent. But this essay made the point that Tarantino’s personal framework for violence often revolves around revenge.
 
 In 2009, when he was promoting Inglorious Basterds, he made this comment about the Holocaust:
 
@@ -140,7 +140,7 @@ He’s done similar things in other movies, like Django Unchained, where he inve
 
 > *“The flaw is Paul Dano. Obviously, it’s supposed to be a two-hander, but it’s also drastically obvious that it’s not a two-hander. [Dano] is weak sauce, man. He is the weak sister... **He’s just such a weak, weak, uninteresting guy**.”*
 
-For those of you who haven’t seen There Will Be Blood, its important to note that the purpose of the two main characters is to contrast cruel strength (Daniel Day-Lewis) and vindictive weakness (Paul Dano). But Tarantino’s comments seem to hold a “contempt for weakness.” **Tarantino believes violence can be straightforwardly good when directed at the right targets**. Revenge is a fitful framework for why violence is merited; because violence has been done to me. And, rather than being a “weak” victim, violence is the mantle that can be lifted up and leveraged for empowerment.
+For those of you who haven’t seen There Will Be Blood, its important to note that the purpose of the two main characters is to contrast cruel strength ([[Daniel Day-Lewis]]) and vindictive weakness (Paul Dano). But Tarantino’s comments seem to hold a “contempt for weakness.” **Tarantino believes violence can be straightforwardly good when directed at the right targets**. Revenge is a fitful framework for why violence is merited; because violence has been done to me. And, rather than being a “weak” victim, violence is the mantle that can be lifted up and leveraged for empowerment.
 
 The same is true of many, *many* people. “An eye for an eye” is still going strong. Of course, we can have the desire for transcendent civilizational repentance where everyone can seek out a higher law, like Christ saying “turn the other cheek.” Or the line, [supposedly](https://quoteinvestigator.com/2010/12/27/eye-for-eye-blind/) from Gandhi, that “an eye for an eye will make the whole world blind.”
 
@@ -166,7 +166,7 @@ People need to be engaged with missions. You see a lot of this in mission-driven
 
 Finally, I want to emphasize that this isn’t meant to be a defeatist formula. “We’re all gonna be violent, so why not bank and cool the masses as best we can with video games and opioids?” That is the furthest from my point. My point is that people have passions; rightfully so. But those passions have been ill-fitted to modern society, both economically and technologically. So those passions need to be acknowledge, addressed, and assuaged.
 
-I think about this Annie Dillard [line](https://x.com/mhdempsey/status/2024963146306457635?s=20) that Michael Dempsey shared once:
+I think about this Annie Dillard [line](https://x.com/mhdempsey/status/2024963146306457635?s=20) that [[Michael Dempsey]] shared once:
 
 > *“**In the deeps are the violence and terror of which psychology has warned us. But if you ride these monsters deeper down**, if you drop with them farther over the world’s rim, you find what our sciences cannot locate or name, the substrate, the ocean or matrix or ether which buoys the rest, which gives goodness its power for good, and evil, its power for evil, the unified field: **our complex and inexplicable caring for each other, and for our life together here. This is given. It is not learned**.”*
 

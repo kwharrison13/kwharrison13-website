@@ -2,9 +2,9 @@
 title: "Kevin Gao"
 type: "person"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/What Is An Investor - Research.md"

@@ -9,7 +9,7 @@ url: "https://www.kwharrison13.com/books/poor-charlie-s-almanack"
 source_published: "2005-01-01"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/books/poor-charlie-s-almanack.md"
@@ -45,7 +45,7 @@ Talk 4 of the eleven in Chapter Four of [Poor Charlie's Almanack](/books/poor-ch
 
 - **First Notion:** The first helpful notion is that it is usually best to simplify problems by deciding big "no-brainer" questions first.
 - **Second Notion:** The second helpful notion mimics [Galileo](/notes/galileo)'s conclusion that scientific reality is often revealed only by math as if math was the language of God. Galileo's attitude also works well in messy, practical life. Without numerical fluency, in the part of life most of us inhabit, you are like a one-legged man in an ass-kicking contest. #[God is a Scientist](/notes/god-is-a-scientist)
-- **Third Notion:** Carl Jacobi so often said, "Invert, always invert." #[Inversion](/notes/inversion)
+- **Third Notion:** [Carl Jacobi](/notes/carl-jacobi) so often said, "Invert, always invert." #[Inversion](/notes/inversion)
 - **Fourth Notion:** The fourth helpful notion is that the best and most practical wisdom is elementary academic wisdom. But there is one extremely important qualification: **You must think in a multidisciplinary manner. You must routinely use all the easy-to-learn concepts from the freshman course in every basic subject.** Where elementary ideas will serve, your problem solving must not be limited, as academia and many business bureaucracies are limited, by extreme balkanization into disciplines and subdisciplines, with strong taboos against any venture outside assigned territory. Instead, you must do your multidisciplinary thinking in accord with [Benjamin Franklin](/notes/benjamin-franklin)'s prescription in Poor Richard: **"If you want it done, go. If not, send."**
 - If, in your thinking, you rely entirely on others, often through purchase of professional advice, whenever outside a small territory of your own, you will suffer much calamity.
   > **Kyle:** *[Decentralized Brain](/notes/decentralized-brain): it's fine to have nodes, but constantly work to expand your own sphere of knowledge (e.g. a bigger territory)*

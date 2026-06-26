@@ -23,7 +23,7 @@ A friend of mine who had made a similar decision, jumping from an established fi
 
 > *"There are two kinds of people in the world. There are people who are building trains, and there are people who are riding the trains that other people have built. Right now, you're riding the train. The question is, when are you going to get off?"*
 
-[I've written before](https://investing1012dot0.substack.com/p/contrary-my-renegade-of-choice) about my decision to join Contrary. In some ways, this was me working towards building my own train. Granted, I give all the credit to Contrary's founder, Eric Tarczynski, for truly building this train from the ground-up. But my decision was driven by my desire to start helping to drive the train I was on.
+[I've written before](https://investing1012dot0.substack.com/p/contrary-my-renegade-of-choice) about my decision to join [[Contrary]]. In some ways, this was me working towards building my own train. Granted, I give all the credit to Contrary's founder, [[Eric Tarczynski]], for truly building this train from the ground-up. But my decision was driven by my desire to start helping to drive the train I was on.
 
 The less control you have over your life, the less you're driving your own train. And countless people can spend their whole careers riding other people's trains, and that's fine. But for many people, there is a drive. An unquenchable thirst to control your own destiny. To get out from under the parameters of an established ecosystem.
 

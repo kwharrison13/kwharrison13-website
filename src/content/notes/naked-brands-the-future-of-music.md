@@ -8,7 +8,7 @@ url: "https://www.perell.com/blog/music"
 source_published: "2017"
 confidence: "high"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/archive/clippings/Naked Brands- The Future of Music.md"
@@ -44,7 +44,7 @@ related:
 - **Power shifted from gatekeepers to crowds.** What succeeds is driven by the wisdom of crowds — playlists, memes, viral videos. Hip-Hop is the natively digital genre; Spotify is "the new street."
 - **Modern media is social — a conversation, not a broadcast.** Engagement continues when fans share; artists can go from famine to fame in weeks. Sharing the creative journey (Jon Bellion's "Making Of" videos, later Taylor Swift, Calvin Harris) deepens fan intimacy.
 - **The business is inverting.** Music used to be the bottom of the funnel; now it's the top. Streaming maximizes reach for free; monetization happens via events, concerts, and merchandise. Artists use Spotify data to tour where fandom is most intense.
-- **Musicians are no longer specialists** — they're actors, marketers, and community builders (Kendrick Lamar's halftime show cross-promoting Disney's *Black Panther*). "I'm not a businessman, I'm a business, man." Fans are physically, emotionally, and financially invested. #1,000 True Fans
+- **Musicians are no longer specialists** — they're actors, marketers, and community builders (Kendrick Lamar's halftime show cross-promoting [Disney](/notes/disney)'s *Black Panther*). "I'm not a businessman, I'm a business, man." Fans are physically, emotionally, and financially invested. #[1,000 True Fans](/notes/1-000-true-fans)
 
 ## Notable quotes
 
@@ -57,5 +57,5 @@ related:
 ## How it connects
 
 - [Naked Brands](/notes/naked-brands) — the parent essay; this is the music installment of the series.
-- 1,000 True Fans / Digital Creators — direct fan relationships and shared creative journeys as the new economic engine.
+- [1,000 True Fans](/notes/1-000-true-fans) / [Digital Creators](/notes/digital-creators) — direct fan relationships and shared creative journeys as the new economic engine.
 - [David Perell](/notes/david-perell) — the recurring "shifts in society begin with shifts in communication" thesis applied to music.

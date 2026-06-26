@@ -26,7 +26,7 @@ Before the Linkedin haters come after me, the title is a joke. It made me chuckl
 
 Alright. Now, on to the main event.
 
-I've said it [before](https://investing1012dot0.substack.com/p/the-hits-business?utm_source=publication-search) (and [over](https://investing1012dot0.substack.com/p/long-enough-to-matter?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/fantasy-capital?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/the-rising-generation?utm_source=publication-search) again), but I'll say it again. Movies are my thing. My jam. I love stories. I love narrative. And, more than anything, I love when stories keep going. I remember reading some quote from Christopher Nolan when he was making the Christian Bale Batman movies where he said, "Movies aren't like comic books. They aren't meant to go on forever." And then Marvel (to their detriment) responded by saying, "Hold my beer."
+I've said it [before](https://investing1012dot0.substack.com/p/the-hits-business?utm_source=publication-search) (and [over](https://investing1012dot0.substack.com/p/long-enough-to-matter?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/fantasy-capital?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/the-rising-generation?utm_source=publication-search) again), but I'll say it again. Movies are my thing. My jam. I love stories. I love narrative. And, more than anything, I love when stories keep going. I remember reading some quote from [[Christopher Nolan]] when he was making the Christian Bale Batman movies where he said, "Movies aren't like comic books. They aren't meant to go on forever." And then Marvel (to their detriment) responded by saying, "Hold my beer."
 
 I, like many MCU fans, have been disappointed by almost everything they've made since Endgame. But that's not because its too much of the stories I love. It's that the stories aren't good. I would be more than happy to have a new Marvel release every month ***if the story was good.***
 
@@ -46,7 +46,7 @@ But the release of the 2024 movie has let me reflect back on it and return to a 
 
 # Revisionist History
 
-In preparation for Wicked, the movie, coming out this year, I re-read [the novel](https://bit.ly/4g7H2Ta). But beyond just revisiting the story, I wanted to unpack the motivations behind Gregory Maguire's repackaging of a beloved story, especially his focus on one of the most one-dimensional, iconically evil villains in cinema: The Wicked Witch of The West.
+In preparation for Wicked, the movie, coming out this year, I re-read [the novel](https://bit.ly/4g7H2Ta). But beyond just revisiting the story, I wanted to unpack the motivations behind [[Gregory Maguire]]'s repackaging of a beloved story, especially his focus on one of the most one-dimensional, iconically evil villains in cinema: The Wicked Witch of The West.
 
 In the early 90s, Maguire talks about his desire to explore the nature of evil and how even what we name "evil" and refer to as "wicked" can be a self-fulfilling prophecy:
 
@@ -129,7 +129,7 @@ For me, there are three key takeaways from revisionist history:
 
 # Perspective: A Key Character in Every Story
 
-[I've written before](https://investing1012dot0.substack.com/p/the-hits-business?utm_source=publication-search) about how long before I wanted to get into startups, I had wanted to go to Hollywood. My original major in college was Film. And like any good film major, I've watched *a lot* of [Akira Kurosawa](https://en.wikipedia.org/wiki/Akira_Kurosawa) movies. The great auteur.
+[I've written before](https://investing1012dot0.substack.com/p/the-hits-business?utm_source=publication-search) about how long before I wanted to get into startups, I had wanted to go to [[Hollywood]]. My original major in college was Film. And like any good film major, I've watched *a lot* of [Akira Kurosawa](https://en.wikipedia.org/wiki/Akira_Kurosawa) movies. The great auteur.
 
 One of his most famous films is [Rashomon](https://en.wikipedia.org/wiki/Rashomon), and it is a perfect example of framing Perspective as a key character in your story. In the movie, several people tell their own version of the story of how a samurai was murdered in a forest. Each person's retelling is changed to try and frame themselves in the best light.
 
@@ -147,10 +147,10 @@ Your perspective matters. What you think it is, what you want it to be, what you
 
 A lot of times, tech companies get ragged on for being boring. Developer tools, backend infrastructure, etc. etc. But it makes me think of a collection of things.
 
-First? As Palmer Luckey [explains](https://x.com/kwharrison13/status/1860118314850353192), "You don't need to care what everyone thinks. You need to care about that 1% of the world that is going to be your ride or die." So don't care what anyone says. Tell a story that a specific group of people or type of person will resonate with.
+First? As [[Palmer Luckey]] [explains](https://x.com/kwharrison13/status/1860118314850353192), "You don't need to care what everyone thinks. You need to care about that 1% of the world that is going to be your ride or die." So don't care what anyone says. Tell a story that a specific group of people or type of person will resonate with.
 
 Second? Every good product addresses a "job-to-be-done." And if someone wants a job done its because they can envision a world that doesn't currently exist. And if your product can help make that world a reality, then critics be damned. Build for the world that audience wants to exist.
 
-Finally? **We need better storytellers. You need to get better at finding stories that are worth telling. Worth believing in.** Whether its the company you want to build, or work for, or invest in, or even compete with. Everyone needs a good villain. Companies like Anduril exist not just because of the company they want to build, but specifically because they want to take on existing defense primes.
+Finally? **We need better storytellers. You need to get better at finding stories that are worth telling. Worth believing in.** Whether its the company you want to build, or work for, or invest in, or even compete with. Everyone needs a good villain. Companies like [[Anduril]] exist not just because of the company they want to build, but specifically because they want to take on existing defense primes.
 
 **So get out there and revise history. The future may depend on it.**

@@ -6,7 +6,7 @@ rating: 2
 quake: false
 tags:
   - "company-building"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
@@ -21,7 +21,7 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 <!-- interconnections -->
 **People:** [Chip Gaines](/notes/chip-gaines) — serial entrepreneur whose constant "opportunities" and risk-taking drive the narrative; [Joanna Gaines](/notes/joanna-gaines) — designer-narrator who leaves a career to follow intuition and faith; [Mark Dagostino](/notes/mark-dagostino) — co-author who shaped the memoir.
 
-**Concepts:** [Entrepreneurship](/notes/entrepreneurship) — the bootstrapped, debt-laden, "do deals like theirs" striving at the book's core; [Small Business](/notes/small-business) — Magnolia begins as a single shop run on instinct and word of mouth; [Frugality](/notes/frugality) — "having a tight budget doesn't have to mean watering down the design" reframes constraints as a creative spur; [Creativity](/notes/creativity) — limited budgets forcing more inventive design; [Faith](/notes/faith) — trusting God's voice to walk away from a career and find peace; [Gratitude](/notes/gratitude) — "thankfulness and contentment" as the closing argument against perfectionism; [Marriage](/notes/marriage) — Chip and Joanna dreaming together as a partnership engine; [Family](/notes/family) — raising four kids and choosing presence over an "empty obsession" with perfect spaces; [Anxiety](/notes/anxiety) — "what's the point in worrying?" as a recurring posture.
+**Concepts:** [Entrepreneurship](/notes/entrepreneurship) — the bootstrapped, debt-laden, "do deals like theirs" striving at the book's core; [Small Business](/notes/small-business) — Magnolia begins as a single shop run on instinct and [word of mouth](/notes/word-of-mouth); [Frugality](/notes/frugality) — "having a tight budget doesn't have to mean watering down the design" reframes constraints as a creative spur; [Creativity](/notes/creativity) — limited budgets forcing more inventive design; [Faith](/notes/faith) — trusting God's voice to walk away from a career and find peace; [Gratitude](/notes/gratitude) — "thankfulness and contentment" as the closing argument against perfectionism; [Marriage](/notes/marriage) — Chip and Joanna dreaming together as a partnership engine; [Family](/notes/family) — raising four kids and choosing presence over an "empty obsession" with perfect spaces; [Anxiety](/notes/anxiety) — "what's the point in worrying?" as a recurring posture.
 
 **Books:** [How Will You Measure Your Life?](/books/how-will-you-measure-your-life) — values-as-strategy register; both frame work as meaningful only when it serves people and family ("creating beautiful spaces where families are thriving").
 <!-- /interconnections -->

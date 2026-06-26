@@ -4,28 +4,27 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/Watershed Climate Diligence — 2021.md"
-tags: []
+  - "wiki/diligence-research/Watershed Climate Diligence — 2021.md"
+tags:
+  - "esg"
+  - "sustainability"
+  - "climate"
 aliases:
   - "Erika Balbuena"
-related: []
+related:
+  - "[[Watershed Climate Diligence — 2021]]"
+  - "[[Robinhood]]"
 ---
 
 # Erika Balbuena
 
-**One-line:** *Leads ESG at Robinhood (prev. Twilio, AWS, TaskRabbit); reference call Nov 4, 2021.*
+A reference-call contact surfaced during Kyle's 2021 Watershed Climate Diligence — 2021 for [Index Ventures](/notes/index-ventures). She is noted as an ESG / sustainability lead at [Robinhood](/notes/robinhood) (with prior stints at Twilio, AWS, and TaskRabbit), reached during the expert/customer outreach phase of the diligence. The diligence elsewhere flags that Robinhood "just started an ESG program; they're quite serious about it since they've gone public" — making her a candidate corporate reference for whether a tool like [Watershed Climate](/notes/watershed-climate) fits a newly-public company standing up carbon accounting and an ESG function from scratch.
 
-## What we know
+She appears in the diligence as a sourcing/reference contact rather than as a Watershed customer giving a vendor review, so what's grounded here is thin: her role and the fact that she sat in Kyle's outreach list for the deal.
 
-- Leads ESG at Robinhood (prev. Twilio, AWS, TaskRabbit); reference call Nov 4, 2021. (source: Watershed Climate Diligence — 2021)
+## Where this appears
 
-## Mentioned in
-
-- Watershed Climate Diligence — 2021 — Watershed Climate Series B diligence (Index Ventures, 2021).
-
-## Open questions
-
-_(stub — expand on a future pass)_
+- Watershed Climate Diligence — 2021 — listed as an ESG lead at [Robinhood](/notes/robinhood) among the reference contacts Kyle pursued during Index's Series B diligence on [Watershed Climate](/notes/watershed-climate).

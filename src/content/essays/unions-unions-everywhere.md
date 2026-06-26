@@ -16,11 +16,11 @@ substack_url: "https://investing101.substack.com/p/unions-unions-everywhere"
 </aside>
 <!-- connections-end -->
 
-*I’m quite late today on two accounts. First? I’m about 27 hours later than usual because I was enjoying a weekend with the very talented community in Contrary at our annual retreat. So this piece is dedicated to all those folks whose company I got to enjoy this weekend.*
+*I’m quite late today on two accounts. First? I’m about 27 hours later than usual because I was enjoying a weekend with the very talented community in [[Contrary]] at our annual retreat. So this piece is dedicated to all those folks whose company I got to enjoy this weekend.*
 
 ![Header image for Unions, Unions Everywhere](/images/unions-unions-everywhere-27923e59.png)
 
-*I’m also about a week and 27 hours late because I wanted to write this piece the Saturday before Labor Day. This piece represents almost 10 years of me collecting notes and thoughts on unions, and labor, and work. Unfortunately, even with a near 10 year runway, I still couldn’t land the plane just right. But I imagine I’ll look back on this piece each Labor Day from now on. And after 9 different labor days coming and going, leaving me disappointed that I didn’t write this piece, I can now feel a bit satisfied.*
+*I’m also about a week and 27 hours late because I wanted to write this piece the Saturday before [[Labor Day]]. This piece represents almost 10 years of me collecting notes and thoughts on unions, and labor, and work. Unfortunately, even with a near 10 year runway, I still couldn’t land the plane just right. But I imagine I’ll look back on this piece each Labor Day from now on. And after 9 different labor days coming and going, leaving me disappointed that I didn’t write this piece, I can now feel a bit satisfied.*
 
 *Alright. On with the piece.*
 
@@ -30,21 +30,21 @@ substack_url: "https://investing101.substack.com/p/unions-unions-everywhere"
 
 # The Podcast That Started It All
 
-Memory is a funny thing. I often can’t remember someones name by the time I’m done shaking their hand but I can remember exactly where I was when I listened to a random podcast almost 10 years ago. That's exactly what happened in April 2015 when a new episode of Planet Money came out. The title was [The Square Deal](https://www.npr.org/sections/money/2015/04/17/400360768/the-square-deal). I didn't know much about the topic, but I hit play.
+Memory is a funny thing. I often can’t remember someones name by the time I’m done shaking their hand but I can remember exactly where I was when I listened to a random podcast almost 10 years ago. That's exactly what happened in April 2015 when a new episode of [[Planet Money]] came out. The title was [The Square Deal](https://www.npr.org/sections/money/2015/04/17/400360768/the-square-deal). I didn't know much about the topic, but I hit play.
 
-That podcast episode is what put unions on my radar. Ever since, I've carried a folder or tag across Evernote, Notion, and finally Roam, collecting different quotes and ideas about unions. Every [Labor Day](https://en.wikipedia.org/wiki/Labor_Day) since 2015, I've thought "I'd like to write about this stuff." Yet, every Labor Day comes and goes, mocking me for my inadequacy. Well, hopefully today is the day I put that self-doubt to rest.
+That podcast episode is what put unions on my radar. Ever since, I've carried a folder or tag across [[Evernote]], [[Notion]], and finally Roam, collecting different quotes and ideas about unions. Every [Labor Day](https://en.wikipedia.org/wiki/Labor_Day) since 2015, I've thought "I'd like to write about this stuff." Yet, every Labor Day comes and goes, mocking me for my inadequacy. Well, hopefully today is the day I put that self-doubt to rest.
 
 Now, I'm not gonna lie, unions were never something I thought about growing up. My Dad wasn't part of one and if my grandpas were in chicken ranching or forest ranger unions, it never came up when we were playing cops and robbers.
 
 Instead, what struck me about the podcast episode, and probably solidified it in my memory, was the initial discussion of something I've written about [again](https://investing1012dot0.substack.com/p/roam-investing?utm_source=publication-search) and [again](https://investing1012dot0.substack.com/p/learning-to-dream?utm_source=publication-search) and [again](https://investing1012dot0.substack.com/p/teamshares-hold-cos-and-corporate?utm_source=publication-search). The topic? City building.
 
-The episode tells the story of [George F. Johnson](https://en.wikipedia.org/wiki/George_F._Johnson), the co-owner and president of the [Endicott-Johnson Shoe Company](https://en.wikipedia.org/wiki/Endicott_Johnson_Corporation). As George F.'s Wikipedia page explains:
+The episode tells the story of [George F. Johnson](https://en.wikipedia.org/wiki/George_F._Johnson), the co-owner and president of the [Endicott-Johnson Shoe Company](https://en.wikipedia.org/wiki/Endicott_Johnson_Corporation). As George F.'s [[Wikipedia]] page explains:
 
-> *"Endicott-Johnson was the first company in the shoe industry to introduce the 8-hour workday, 40-hour workweek, and comprehensive medical care. This 40-hour work week was a unit-production based wage rather than an hourly based wage. **Despite paying some of the highest wages in the industry, Endicott-Johnson was consistently profitable.**"*
+> *"[[Endicott-Johnson Shoe Company|Endicott-Johnson]] was the first company in the shoe industry to introduce the 8-hour workday, 40-hour workweek, and comprehensive medical care. This 40-hour work week was a unit-production based wage rather than an hourly based wage. **Despite paying some of the highest wages in the industry, Endicott-Johnson was consistently profitable.**"*
 
 For his employees, George F. created a new kind of town. Workers could live there and he built libraries, parks, hospitals, golf courses, swimming pools, merry-go-rounds, theaters. All for free, or very low cost. Healthcare was totally free. Every baby born to an Endicott-Johnson employee was given a bank book with $10. The Endicott-Johnson company got into the business of building affordable houses, selling each employee a house at a net loss to the company of $1K.
 
-He called all of this "the Square Deal."
+He called all of this "the [[The Square Deal|Square Deal]]."
 
 This seemingly utopian-esque town was what initially caught my city-building eye. But George F., as a leader, is what really stuck with me. There's a radio speech recording the episode plays of him where he lays it out clearly:
 
@@ -78,7 +78,7 @@ For a lot of folks, one of the reasons you might not know much about unions is b
 
 That chart ends in 2010, but as of 2023 it was pretty close to the same, with [~10%](https://www.pewresearch.org/short-reads/2024/03/12/majorities-of-adults-see-decline-of-union-membership-as-bad-for-the-us-and-working-people/) of workers in the US belonging to a union. There are a number of drivers in that decline, from offshoring industrial and manufacturing capacity to globalizing the labor force, automation, and a decline in public perception after corruption scandals like [Jimmy Hoffa's](https://en.wikipedia.org/wiki/Jimmy_Hoffa) ties to organized crime in the 70s.
 
-**In particular, employer pushback against unions has gotten more and more aggressive.** I remember reading [Nickel and Dimed](https://www.amazon.com/Nickel-Dimed-Not-Getting-America/dp/0312626681) in high school and feeling the sarcasm dripping off the page as she described Wal-Mart's anti-union training as they're watching a video called "You’ve Picked a Great Place to Work":
+**In particular, employer pushback against unions has gotten more and more aggressive.** I remember reading [Nickel and Dimed](https://www.amazon.com/Nickel-Dimed-Not-Getting-America/dp/0312626681) in high school and feeling the sarcasm dripping off the page as she described [[Walmart|Wal-Mart]]'s anti-union training as they're watching a video called "You’ve Picked a Great Place to Work":
 
 > *"Here various associates testify to the 'essential feeling of family for which Wal-Mart is so well-known,' **leading up to the conclusion that we don’t need a union.** Once, long ago, unions had a place in American society, but they 'no longer have much to offer workers,' which is why people are leaving them 'by the droves.” Wal-Mart is booming; unions are declining: judge for yourself.   
 >   
@@ -90,13 +90,13 @@ I remember reading a book [in 2017](https://kwharrison13.com/bookshelf/2017-in-b
 
 Teacher's unions, in particular, get similar criticisms. The idea is that, because teacher's unions emphasize seniority over capability, it makes it basically impossible to get rid of underperforming teachers. In the book, [The Smartest Kids in The World](https://www.amazon.com/Smartest-Kids-World-They-That/dp/145165443X/), the author, Amanda Ripley, follows several American exchange students to Korea, Finland, and Poland to experience other, higher performing education systems. One of the things that struck me was a comment from a teacher in Finland in conversation with Ripley:
 
-> *"When I asked him if he had any advice for the United States, he said: “**You should start to select your teachers more carefully and motivate them more.** One motivation is money. Respect is another. Punishing is never a good way to deal with schools.” Autonomy mattered as much to [this teacher] as cash."*
+> *"When I asked him if he had any advice for the United States, he said: “**You should start to select your teachers more carefully and motivate them more.** One motivation is money. Respect is another. Punishing is never a good way to deal with schools.” [[Autonomy]] mattered as much to [this teacher] as cash."*
 
 In a similar conversation about the principal at the school in Finland, Ripley made this point:
 
 > *"In her eight years as principal, [this principal] hadn’t dismissed any of [their] permanent, full-time teachers. As in the United States, Finnish teachers almost never lost their jobs due to their performance. **They were protected by a strong union contract. However, it was easier to manage inflexible workforces if employees arrived at work well-educated, rigorously trained, and decently paid from day one**."*
 
-When I read that book (also [in 2017](https://kwharrison13.com/bookshelf/2017-in-books)), I wrote down a note to myself, saying "unions work well when the employees are well trained. When they become shackles that tie employers to bad employees they will never be super popular." And that reminded me immediately of George F. Johnson, believing that if you took care of your workers, you could be more competitive! Being able to achieve consistent profitability "despite paying some of the highest wages in the industry."
+When I read that book (also [in 2017](https://kwharrison13.com/bookshelf/2017-in-books)), I wrote down a note to myself, saying "unions work well when the employees are well trained. When they become shackles that tie employers to bad employees they will never be super popular." And that reminded me immediately of [[George F. Johnson]], believing that if you took care of your workers, you could be more competitive! Being able to achieve consistent profitability "despite paying some of the highest wages in the industry."
 
 All of this context on unions, both for and against, may very well not be context you're familiar with. I know each time I discovered a new nugget about unions it felt new for me.
 
@@ -104,19 +104,19 @@ All of this context on unions, both for and against, may very well not be contex
 
 # "I Dabble"
 
-You could argue that unions and tech aren't typically in the same sphere. But the collective tech community certainly dabbles in unions. One of the most union-exposed tech companies in the world is Amazon.
+You could argue that unions and tech aren't typically in the same sphere. But the collective tech community certainly dabbles in unions. One of the most union-exposed tech companies in the world is [[Amazon]].
 
 Before 2014, Amazon had been dependent on USPS, UPS, and FedEx for deliveries. To try and improve that part of the experience, Amazon began formulating a way to build out their own last mile delivery logistics network. **Despite the fact that this would involve a massively complex web of logistics across their 244M customers at the time, the complexity wasn't their biggest concern. It was unions.**
 
-In the book, [Amazon Unbound](https://www.amazon.com/Amazon-Unbound-Invention-Global-Empire/dp/1982132612), Brad Stone points this out:
+In the book, [Amazon Unbound](https://www.amazon.com/Amazon-Unbound-Invention-Global-Empire/dp/1982132612), [[Brad Stone]] points this out:
 
-> *"Delivery stations would have to be placed in the urban areas where most of Amazon’s customers lived—places like New York City and New Jersey that were the locus of the organized labor movement."*
+> *"Delivery stations would have to be placed in the urban areas where most of Amazon’s customers lived—places like [[New York City]] and New Jersey that were the locus of the organized labor movement."*
 
 Rather than implicate themselves with the complexities of a union, Amazon created "arm's-length deals." Stone goes on to explain:
 
 > *"[Amazon] wouldn’t directly hire anyone but instead create relationships with independent delivery companies—DSPs (delivery service partners)—that employed nonunion drivers. That would allow it to pay lower labor rates than UPS and to avoid **the prospective nightmare of drivers bargaining collectively for higher wages, which could destroy the already fragile economics of home delivery.**   
 >   
-> Such arm’s-length deals with drivers would indemnify Amazon from all of the unseemly and inevitable corollaries of the transportation business—such as botched deliveries, driver misbehavior, or worse, car accidents and deaths. **Economists called this kind of arrangement, where companies outsourced specialized forms of work to subcontractors, “the fissured workplace,” and blamed it for eroding labor standards and fomenting a legalized form of wage discrimination that exacerbated inequality.** This was a decades-long trend propagated not just by transportation providers like FedEx and Uber but by hotels, cable providers, and other tech companies like Apple. Amazon’s size, of course, spread it that much further, and policymakers, whose job it was to protect workers, were caught flat-footed."*
+> Such arm’s-length deals with drivers would indemnify Amazon from all of the unseemly and inevitable corollaries of the transportation business—such as botched deliveries, driver misbehavior, or worse, car accidents and deaths. **Economists called this kind of arrangement, where companies outsourced specialized forms of work to subcontractors, “the fissured workplace,” and blamed it for eroding labor standards and fomenting a legalized form of wage discrimination that exacerbated inequality.** This was a decades-long trend propagated not just by transportation providers like FedEx and [[Uber]] but by hotels, cable providers, and other tech companies like [[Apple]]. Amazon’s size, of course, spread it that much further, and policymakers, whose job it was to protect workers, were caught flat-footed."*
 
 Throughout my exploration of unions, I keep coming back to these nuanced arguments for and against.
 
@@ -134,7 +134,7 @@ Like most large corporations, Amazon hasn't been that interested in tackling the
 
 Despite their best efforts, Amazon had its first labor unionization in [April 2022](https://en.wikipedia.org/wiki/Amazon_Labor_Union) when warehouse workers in Staten Island joined the Amazon Labor Union (ALU).
 
-While unions occasionally enter the picture with tech companies that touch the physical world, whether its Doordash with dashers, Uber with drivers, or Tesla with auto workers, its by and large not something that the majority of people who are actually working with on technology itself are exposed to.
+While unions occasionally enter the picture with tech companies that touch the physical world, whether its Doordash with dashers, Uber with drivers, or [[Tesla]] with auto workers, its by and large not something that the majority of people who are actually working with on technology itself are exposed to.
 
 As a result, it creates a sort of "Not-in-my-backyard" or NIMBY mentality when it comes to unions. But that's been changing.
 
@@ -150,21 +150,21 @@ On the other hand, I recognize the intense razors edge that most businesses walk
 
 The problem with nuanced issues like unions is that I feel the pressure of not being able to make any hard-fast conclusion about whether or not things like unions are good. I want people to have good working conditions. But I also want US companies to be globally competitive. **I also recognize the obstacles of some regulations that, while they improve people's lives here, make it impossible for US companies to compete with countries who specifically do NOT follow those same rules.**
 
-And often, the conversation of unions in tech turns to a defense of the ["rise and grind" culture](https://investing1012dot0.substack.com/p/the-renaissance-of-rise-and-grind?utm_source=publication-search) that should exist in startups. Immediately I feel mentally chastened by the words of Bill Gurley:
+And often, the conversation of unions in tech turns to a defense of the ["rise and grind" culture](https://investing1012dot0.substack.com/p/the-renaissance-of-rise-and-grind?utm_source=publication-search) that should exist in startups. Immediately I feel mentally chastened by the words of [[Bill Gurley]]:
 
 ![Source:Twitter](/images/unions-unions-everywhere-3ef33532.png)
 
-And he's right. Startups are hard work. And they require intense commitment from the people building them. In these particular incidents, there is an absolutely justified demand for people who are willing to work hard and make sacrifices. I've written about the struggle between work and life [over](https://investing1012dot0.substack.com/p/toil-we-must?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/the-renaissance-of-rise-and-grind?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/the-hardening-of-the-great-softening) again.
+And he's right. [[Startups]] are [[Hard Work|hard work]]. And they require intense commitment from the people building them. In these particular incidents, there is an absolutely justified demand for people who are willing to work hard and make sacrifices. I've written about the struggle between work and life [over](https://investing1012dot0.substack.com/p/toil-we-must?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/the-renaissance-of-rise-and-grind?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/the-hardening-of-the-great-softening) again.
 
 But there is an important nuance. The monikers of "tech" and "startup" for a company were, for a long time, synonymous. If you're building in tech you were, by definition, a startup. A scrappy upstart just struggling to bring your utopian dream future to life.
 
-But that's not true today. Companies like Amazon are most certainly tech companies, but they're very much NOT startups. Amazon is the [second](https://en.wikipedia.org/wiki/List_of_largest_United_States%E2%80%93based_employers_globally) largest company by employee count. Not largest employee count among tech companies; largest across the US. And, increasingly, companies like Target, Starbucks, etc. are becoming "tech" companies as well.
+But that's not true today. Companies like Amazon are most certainly tech companies, but they're very much NOT startups. Amazon is the [second](https://en.wikipedia.org/wiki/List_of_largest_United_States%E2%80%93based_employers_globally) largest company by employee count. Not largest employee count among tech companies; largest across the US. And, increasingly, companies like Target, [[Starbucks]], etc. are becoming "tech" companies as well.
 
 And as tech grows up and becomes less fringe, and more mainstream, that relationship with organized labor is likely to change.
 
 # Coming To a Tech Company Near You
 
-The first driver of change will be the reality that, increasingly, more companies will touch unionized labor markets. One clear example is AI in Hollywood. A few weeks ago, [I wrote a piece](https://investing1012dot0.substack.com/p/the-hits-business) that pulled heavily from Mario Gabriele's [piece on A24](https://www.generalist.com/briefing/a24). One of the things that he touched on was right in this vein:
+The first driver of change will be the reality that, increasingly, more companies will touch unionized labor markets. One clear example is AI in [[Hollywood]]. A few weeks ago, [I wrote a piece](https://investing1012dot0.substack.com/p/the-hits-business) that pulled heavily from [[Mario Gabriele]]'s [piece on A24](https://www.generalist.com/briefing/a24). One of the things that he touched on was right in this vein:
 
 > *"**Hollywood is in crisis. After more than two months of striking, the unions representing screenwriters and actors remain locked in a stand-off with the industry’s big studios.** The use of artificial intelligence is just one of the issues at stake, but it casts a long shadow. Already, the technology shows signs of upending content creation as we know it."*
 
@@ -176,11 +176,11 @@ But beyond that, there is an increasing movement within tech workers to unionize
 
 You've started to see this happening at gaming companies [like Sega](https://www.axios.com/2023/04/24/sega-america-labor-union), as well as companies like [Google](https://www.axios.com/2021/01/04/alphabet-google-union) and [Microsoft](https://www.axios.com/2022/06/15/microsoft-union-truce-techs-war-labor), the latter of which has even said it "won't stand in the way of workers who want to unionize and signed an agreement not to interfere with any efforts by Activision Blizzard workers."
 
-And I can hear the tweeter voices in my head; "those are just entitled engineers." Or "those are just replaceable non-essential employees." "Elon Musk [fired 6K](https://www.theguardian.com/commentisfree/2023/dec/20/elon-musk-unions-tesla) employees, and ~~Twitter~~ X works just fine."
+And I can hear the tweeter voices in my head; "those are just entitled engineers." Or "those are just replaceable non-essential employees." "[[Elon Musk]] [fired 6K](https://www.theguardian.com/commentisfree/2023/dec/20/elon-musk-unions-tesla) employees, and ~~Twitter~~ X works just fine."
 
 This all goes back to the nuanced position these questions can contort you into. If a bunch of engineers at a Series A startup wanted to unionize, I would question the quality of those engineers. They signed up for a tour of duty and are surprised when they don't get to sleep in.
 
-Corporate bloat, like Twitter most assuredly had, can present on opportunity for healthy and meaningful staff reductions. If Twitter was unionized, you could argue that Elon Musk's inability to fire people could have led to an even worse result for the company. There are some great perspectives out there on what Elon Musk has been doing, and what it means for the rest of us.
+Corporate bloat, like [[Twitter]] most assuredly had, can present on opportunity for healthy and meaningful staff reductions. If Twitter was unionized, you could argue that Elon Musk's inability to fire people could have led to an even worse result for the company. There are some great perspectives out there on what Elon Musk has been doing, and what it means for the rest of us.
 
 ![Source:Twitter](/images/unions-unions-everywhere-7857a7d8.png)
 

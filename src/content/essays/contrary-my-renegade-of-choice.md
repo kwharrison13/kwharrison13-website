@@ -16,7 +16,7 @@ substack_url: "https://investing101.substack.com/p/contrary-my-renegade-of-choic
 
 ![Header image for Contrary: My Renegade of Choice](/images/contrary-my-renegade-of-choice-b94883b5.png)
 
-I'm excited to announce that I’m joining Contrary as a General Partner to build out a later stage investing practice. The world of venture is changing and I’m excited to work with the team at Contrary to be a part of that change.
+I'm excited to announce that I’m joining [[Contrary]] as a General Partner to build out a later stage investing practice. The world of venture is changing and I’m excited to work with the team at Contrary to be a part of that change.
 
 ## The Times They Are A-Changin'
 
@@ -46,9 +46,9 @@ For early stage founders and people early in their careers Contrary provides a c
 
 ## My Next Chapter at Contrary
 
-I've spent the last 6+ years at firms like TCV, Coatue, and Index primarily focused on later stage investments (Series B and beyond.) A lot of what Contrary is known for is investing in great companies primarily at the pre-seed and seed stage. But Contrary's core ethos isn't stage specific. "Identify and invest in the world's top talent." That top talent may be seed-stage founders but they're also early employees at later stage companies or working in larger tech companies. **Contrary's model is to build a platform for them** ***regardless*** **of the stage of their career.**
+I've spent the last 6+ years at firms like TCV, [[Coatue]], and [[Index Ventures|Index]] primarily focused on later stage investments (Series B and beyond.) A lot of what Contrary is known for is investing in great companies primarily at the pre-seed and seed stage. But Contrary's core ethos isn't stage specific. "Identify and invest in the world's top talent." That top talent may be seed-stage founders but they're also early employees at later stage companies or working in larger tech companies. **Contrary's model is to build a platform for them** ***regardless*** **of the stage of their career.**
 
-My focus at Contrary is to build out our later stage investing practice. Contrary has already invested in stellar companies beyond the seed stage like Ramp, Hallow, Synthesis, and Anduril. My focus is on continuing that great work. The Contrary community represents hundreds of future builders. For those who aren't ready to start companies yet we focus on connecting them to the strongest [talent vortexes](https://investing1012dot0.substack.com/p/talent-vortex?s=w) that exist. Our later stage portfolio has been, and will continue to be, built out of the relationships that come from the great companies our community members help build.
+My focus at Contrary is to build out our later stage investing practice. Contrary has already invested in stellar companies beyond the seed stage like [[Ramp]], [[Hallow]], Synthesis, and [[Anduril]]. My focus is on continuing that great work. The Contrary community represents hundreds of future builders. For those who aren't ready to start companies yet we focus on connecting them to the strongest [talent vortexes](https://investing1012dot0.substack.com/p/talent-vortex?s=w) that exist. Our later stage portfolio has been, and will continue to be, built out of the relationships that come from the great companies our community members help build.
 
 > *"**Contrary is our secret hiring weapon.** They've built a remarkably unique firm, and are easily one of our most helpful partners." [Karim Atiyeh, CTO of Ramp](https://contrary.com/companies)*
 
@@ -64,7 +64,7 @@ Eric is our fearless leader. His primary responsibility is not dictating to anyo
 
 > *"Talent is really the only thing that matters these days." [Fred Wilson](https://avc.com/2019/12/what-happened-in-the-2010s/)*
 
-The creation of Contrary's product offering has revolved around talent, community, and capital. That vision is what has created the contrary flywheel.
+The creation of Contrary's product offering has revolved around talent, community, and capital. That vision is what has created the [[Contrary Flywheel|contrary flywheel]].
 
 ### The Contrary Flywheel
 

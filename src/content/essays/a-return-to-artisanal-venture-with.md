@@ -8,11 +8,11 @@ type: "podcast"
 substack_url: "https://investing101.substack.com/p/a-return-to-artisanal-venture-with"
 ---
 
-This is a conversation that feels really full circle for me. I've been writing every week for almost 3.5 years, and I credit the willingness to finally do that to advice I got from Rex Woodbury.
+This is a conversation that feels really full circle for me. I've been writing every week for almost 3.5 years, and I credit the willingness to finally do that to advice I got from [[Rex Woodbury]].
 
 Rex and I got to dig into a wide variety of topics. We started out, first, unpacking the thoughtfulness with which Rex has gone about building his own venture firm and trying to counter-position his firm to the asset management status quo of capital agglomerators that I've written about so much.
 
-Next, we talked about this tweet that said "analysis doesn't matter anymore because of ChatGPT; now all that matters is access."
+Next, we talked about this tweet that said "analysis doesn't matter anymore because of [[ChatGPT]]; now all that matters is access."
 
 ![Source:Twitter](/images/a-return-to-artisanal-venture-with-aef83252.png)
 

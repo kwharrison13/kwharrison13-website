@@ -9,7 +9,7 @@ url: "https://onlycfo.substack.com/p/how-to-trick-investors-and-vcs"
 source_published: "2023-03-02"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "https://onlycfo.substack.com/p/how-to-trick-investors-and-vcs"
@@ -37,7 +37,7 @@ related:
   - Company management controls what gets reported — definitions can be loose and change without public scrutiny
   - Many VCs don't have a finance background (founders/operators turned VC)
   - Many VCs don't dig deep — focus is on topline, assuming everything else will work out
-- **Burn Multiple** = Cash Burn / Net New ARR — a key metric that's easy to game by varying how each component is defined.
+- **[Burn Multiple](/notes/burn-multiple)** = Cash Burn / Net New ARR — a key metric that's easy to game by varying how each component is defined.
 - Rule of thumb: "I never really trust the financials of a company before they have a real controller and are getting their financial statements audited — often somewhere before $15M in ARR."
 
 ## Connections

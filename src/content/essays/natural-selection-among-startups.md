@@ -21,7 +21,7 @@ Starting a company isn't that hard. You fill out some forms to incorporate. But 
 
 No one starts a business hoping that it dies. Founders pour their heart and soul into a company hoping to delight users and make a difference in the lives of customers. No one wants that thing to fail. **But burying your head in the sand about mortality rates only increases the likelihood of falling victim to known causes of death.**
 
-[I've written before](https://investing1012dot0.substack.com/p/pain?s=w) about a tweet that Harry Stebbings deleted. It was a hot take, but I think there is a lot to be learned from his insight:
+[I've written before](https://investing1012dot0.substack.com/p/pain?s=w) about a tweet that [[Harry Stebbings]] deleted. It was a hot take, but I think there is a lot to be learned from his insight:
 
 > *"Effectively his point was that there is a natural selection among startups. Not every company will survive and it can be a healthy recycling of talent back into other companies. **In a world of abundant capital fewer companies are dying**, which means talent doesn't recycle as often."*
 
@@ -55,7 +55,7 @@ Companies that probably don't have a good enough idea, a good enough product, a 
 
 ## Red Queen vs. Lindys
 
-In talking to people about natural selection in building startups I've seen an interesting counter-position of two theories: (1) the Red Queen hypothesis, and (2) the Lindy Effect.
+In talking to people about natural selection in building startups I've seen an interesting counter-position of two theories: (1) the Red Queen hypothesis, and (2) the [[Lindy Principle|Lindy Effect]].
 
 ![Illustration: The Red Queen Hypothesis](/images/natural-selection-among-startups-4220630b.png)
 
@@ -65,7 +65,7 @@ In talking to people about natural selection in building startups I've seen an i
 
 Named after a quote from the Red Queen in *Through The Looking Glass*. "It takes all the running you can do, to keep in the same place." In evolutionary biology the idea is that no species has more right to survive just because they've been around for a long time.
 
-Nassim Taleb explains a similar idea in his book *The Black Swan*:
+[[Nassim Taleb]] explains a similar idea in his book *[[The Black Swan]]*:
 
 > *"Consider a turkey that is fed every day. Every single feeding will firm up the bird’s belief that it is the general rule of life to be fed every day by friendly members of the human race “looking out for its best interests,” as a politician would say. **On the afternoon of the Wednesday before Thanksgiving, something unexpected will happen to the turkey. It will incur a revision of belief."***
 
@@ -89,7 +89,7 @@ So is a startup a non-perishable thing that demonstrates its right to survive by
 
 Take GE as an example. The company was founded in 1892 and has operated for 129 years. Not only was GE a big part of the Dow Jones average; it was *literally* one of the [original 12 companies](https://en.wikipedia.org/wiki/General_Electric) listed when the Dow was created. Any company that can survive 129 years is likely doing something right, no?
 
-No. GE is on an [infamous list of companies](https://www.investopedia.com/articles/investing/113015/4-famous-companies-dropped-dow-jones.asp#:~:text=Some%20of%20the%20most%20iconic,remained%20listed%20on%20the%20index.) that have been remove from the Dow along with names like Sears, AT&T, and General Motors. The company [peaked in 2008](https://companiesmarketcap.com/general-electric/revenue/) with $180B+ of revenue and have fallen dramatically since then.
+No. GE is on an [infamous list of companies](https://www.investopedia.com/articles/investing/113015/4-famous-companies-dropped-dow-jones.asp#:~:text=Some%20of%20the%20most%20iconic,remained%20listed%20on%20the%20index.) that have been remove from the Dow along with names like Sears, AT&T, and [[General Motors]]. The company [peaked in 2008](https://companiesmarketcap.com/general-electric/revenue/) with $180B+ of revenue and have fallen dramatically since then.
 
 ![Chart illustrating startup survival](/images/natural-selection-among-startups-84dd5ee1.png)
 
@@ -107,7 +107,7 @@ The will to survive is something that has to be deliberately established even wh
 
 ## Lessons From The Living
 
-Warren Buffett and others have famously articulated the idea that "time in the market is more important than timing the market." This is about survival. [Luca Dellanna, in his book 'Ergodicity,'](https://www.luca-dellanna.com/ergodicity/) explained it this way:
+[[Warren Buffett]] and others have famously articulated the idea that "time in the market is more important than timing the market." This is about survival. [Luca Dellanna, in his book 'Ergodicity,'](https://www.luca-dellanna.com/ergodicity/) explained it this way:
 
 > *"In theory, performance determines success. The fastest skier wins the race, and the most performing employee becomes the most successful one. **In practice, performance is subordinate to survival.** It is the fastest racer of those who survive that wins races, it is the most performing employee who doesn’t burn out that becomes the most successful."*
 
@@ -117,7 +117,7 @@ In everything I've written about venture and startups the thing I return to most
 
 ### Founder Dynamics
 
-Paul Graham points to starting a company without a co-founder as the first thing on his list of [18 Things That Kill Startups](http://www.paulgraham.com/startupmistakes.html). "What's wrong with having one founder? To start with, it's a vote of no confidence. It probably means the founder couldn't talk any of [their] friends into starting the company with [them]."
+[[Paul Graham]] points to starting a company without a co-founder as the first thing on his list of [18 Things That Kill Startups](http://www.paulgraham.com/startupmistakes.html). "What's wrong with having one founder? To start with, it's a vote of no confidence. It probably means the founder couldn't talk any of [their] friends into starting the company with [them]."
 
 On the other hand some data points to solo founded teams as having a higher likelihood of survival. [One study found](https://twitter.com/emollick/status/1472631335470747651?s=20&t=y6TduiWNAi4_BvfcFg0c0w) that "solo founders are twice as likely to succeed in business [than teams with] co-founders."
 

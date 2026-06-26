@@ -19,11 +19,11 @@ substack_url: "https://investing101.substack.com/p/productization"
 
 ## Old-Timey Things
 
-I'm a big fan of thinking about the history of things. To understand why you do something today you sometimes need only look at how it got started. Humans are creatures of habit, so a lot of times we do things in large part because that's the way we started doing them. My Dad calls it the SALY principle (Same As Last Year).
+I'm a big fan of thinking about the history of things. To understand why you do something today you sometimes need only look at how it got started. Humans are creatures of habit, so a lot of times we do things in large part because that's the way we started doing them. My Dad calls it the SALY principle ([[SALY Principle|Same As Last Year]]).
 
 But when it comes to venture capital you can go all the way back to the 15th century (when we were still casually *stumbling upon continents*) and talk about whale hunting.
 
-You can read the details in [VC: An American History](https://www.amazon.com/VC-American-History-Tom-Nicholas/dp/0674988000) by Tom Nicholas, but the TLDR has to do with risk and equity. Whaling expeditions, much like tech startups today, represented a majority-risk endeavor where only a small portion are big successes.
+You can read the details in [VC: An American History](https://www.amazon.com/VC-American-History-Tom-Nicholas/dp/0674988000) by [[Tom Nicholas]], but the TLDR has to do with risk and equity. Whaling expeditions, much like tech startups today, represented a majority-risk endeavor where only a small portion are big successes.
 
 ![Framework diagram for old-timey things](/images/productization-901cf824.png)
 
@@ -63,7 +63,7 @@ On the one hand people will argue that venture capital isn't meant to scale. Tha
 
 To each their own. But we're seeing a continued growth in the size of potential outcomes. [In 2006 there was a total of 387 companies in the US](https://www.nytimes.com/2006/05/01/business/smallbusiness/01blueprint.html) generating over $1B in revenue. Across every industry, from utilities to CPG and beyond.
 
-Now there are over 4K companies with $1B+ in revenue. **Within technology we crossed the 100 company mark in 2011. 100 companies with over $1B in revenue.** In 2020 there were nearly 200 companies, having added 51 companies just in the last few years. Companies like RingCentral, DocuSign, Zendesk, Twilio, and Dropbox crossed the $1B revenue mark.
+Now there are over 4K companies with $1B+ in revenue. **Within technology we crossed the 100 company mark in 2011. 100 companies with over $1B in revenue.** In 2020 there were nearly 200 companies, having added 51 companies just in the last few years. Companies like [[RingCentral]], [[DocuSign]], [[Zendesk]], [[Twilio]], and [[Dropbox]] crossed the $1B revenue mark.
 
 The secret is out. Technology is taking over the world and we're in the early innings. As that number of companies grows there will be more large outcomes. That will continue to attract more capital. More capital, more venture firms. And so on.
 
@@ -97,9 +97,9 @@ Another way the venture landscape has been articulated was by [Everett Randle](h
 
 Everyone's takeaway last year when they read his piece was "I don't want to get squeezed in the middle," but very few people stopped to think, "what does it mean to be in the middle?"
 
-> "The most exposed and vulnerable will be funds stuck in the “middle”. When choosing between capital providers, sometimes Founders will want the $12 Amazon Prime 1-day-shipping Carhartt T-Shirt, sometimes they’ll want the $1,500 Gucci Cardigan, but very rarely will they want the $22 J.C. Penney Hoodie. **You really, really don’t want to be the VC version of J.C. Penney**." (Everett Randle)
+> "The most exposed and vulnerable will be funds stuck in the “middle”. When choosing between capital providers, sometimes Founders will want the $12 [[Amazon]] Prime 1-day-shipping Carhartt T-Shirt, sometimes they’ll want the $1,500 Gucci Cardigan, but very rarely will they want the $22 J.C. Penney Hoodie. **You really, really don’t want to be the VC version of J.C. Penney**." (Everett Randle)
 
-What are the characteristics of the VC version of J.C. Penny? Generic, but not cheap? Accessible, but not convenient? Functional, but not noticeable? How many VCs would describe themselves as Tiffany? J.C. Penny? Walmart? **And more importantly, how many of them would be telling the truth?**
+What are the characteristics of the VC version of J.C. Penny? Generic, but not cheap? Accessible, but not convenient? Functional, but not noticeable? How many VCs would describe themselves as Tiffany? J.C. Penny? [[Walmart]]? **And more importantly, how many of them would be telling the truth?**
 
 ## The Status Quo
 
@@ -129,7 +129,7 @@ Very few firms have a clear answer to the question "[what is your differentiated
 
 While there are lots of services and offerings like community or talent these aren't necessarily purpose-built for specific founders. Apply the same logic to a VC's product as you would to any product-first company. What is the ideal customer profile? **Saying your firm is building with founders in mind is like building a consumer product for humans.** There's no clear direction. There are thousands of different types of founders.
 
-Structure your organization around productization. Like I said, the center of a VC firm's universe has always been the partnership. They dictate how everything works. **Maybe start to borrow from an org structure that has created phenomenal products.** Those organizational changes are already starting to happen. Kim Milosevich recently rejoined a16z as Chief Marketing Officer after spending almost 2 years in marketing at Coinbase.
+Structure your organization around productization. Like I said, the center of a VC firm's universe has always been the partnership. They dictate how everything works. **Maybe start to borrow from an org structure that has created phenomenal products.** Those organizational changes are already starting to happen. Kim Milosevich recently rejoined a16z as Chief Marketing Officer after spending almost 2 years in marketing at [[Coinbase]].
 
 Most importantly, when she was at a16z before she was a Partner in charge of marketing. Now? She's CMO. Things are changing. What would a venture fund look like with a CEO, CTO, a Chief Product Officer? A Head of Sales? A Chief Architect?
 

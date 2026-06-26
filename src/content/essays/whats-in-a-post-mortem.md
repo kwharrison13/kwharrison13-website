@@ -30,7 +30,7 @@ Did this failure shock the world? Are people still, to this day, scratching thei
 
 ![Chart illustrating death is only the beginning](/images/whats-in-a-post-mortem-141ee464.png)
 
-Sometimes in hindsight a failure can feel easy to diagnose. But investors put nearly $2B into Quibi. Theranos raised nearly $1B. Google Glass cost Google $895M. **The kinds of investment people have made into these projects indicate the potential people saw in them at one point even if they became colossal failures. So what happened between the fanfare and the failure?**
+Sometimes in hindsight a failure can feel easy to diagnose. But investors put nearly $2B into Quibi. Theranos raised nearly $1B. Google Glass cost [[Alphabet|Google]] $895M. **The kinds of investment people have made into these projects indicate the potential people saw in them at one point even if they became colossal failures. So what happened between the fanfare and the failure?**
 
 ## What Went Wrong?
 
@@ -40,17 +40,17 @@ Post-mortems came from the practice of conducting autopsies in medicine and from
 
 **Acknowledging that something went wrong.**
 
-That isn't always an idea everyone readily accepts. In Morgan Housel's book [The Psychology of Money](https://www.amazon.com/dp/B08FHZ5L47/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) he makes it clear that, while many people bristle at failure its actually an unavoidable part of doing things:
+That isn't always an idea everyone readily accepts. In [[Morgan Housel]]'s book [The Psychology of Money](https://www.amazon.com/dp/B08FHZ5L47/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) he makes it clear that, while many people bristle at failure its actually an unavoidable part of doing things:
 
 > *"For every Amazon Prime or Orange is The New Black you know, with certainty, that you’ll have some duds. **Part of why this isn’t intuitive is because in most fields we only see the finished product, not the losses incurred that led to the [successful] product.**”*
 
 There are a lot of reasons people ignore the failures and the lessons to be learned. Some of it is politics, or ignorance. But for many people it can also come from a lack of imagination.
 
-> *"Per Seneca: our fears are always more numerous than our dangers. Which is why we say: **Failure Comes From a Failure To Imagine Failure.** More things can happen than will." ([Josh Wolfe](https://twitter.com/wolfejosh/status/1239183187890356227?s=20&t=5zMwXXlBuap4o4cHFFGrcw))*
+> *"Per [[Seneca]]: our fears are always more numerous than our dangers. Which is why we say: **Failure Comes From a Failure To Imagine Failure.** More things can happen than will." ([Josh Wolfe](https://twitter.com/wolfejosh/status/1239183187890356227?s=20&t=5zMwXXlBuap4o4cHFFGrcw))*
 
 **The less time people spend with failure the less comfortable with it they become.** They develop an aversion to the very concept of correction. Acknowledging that something went wrong is to acknowledge that there is blame to be dished out. Particularly in investing there is a lack of easy attribution, both for success and failure, and careers are made or broken based on an investor's ability to take credit for success and avoid association with failure.
 
-But there's a better way. The more people can start out with a spirit of humility, execute on their investments under close observation, and reflect on them with an attitude of learning the better off they are.
+But there's a better way. The more people can start out with a [[Spirit of Humility|spirit of humility]], execute on their investments under close observation, and reflect on them with an attitude of learning the better off they are.
 
 ## Spirit of Humility
 
@@ -60,13 +60,13 @@ I caught one such glimpse recently when [I watched a TikTok](https://www.tiktok.
 
 ![Illustration for Spirit of Humility section](/images/whats-in-a-post-mortem-386fc859.png)
 
-And like my good friend [Rex Woodbury](https://twitter.com/rex_woodbury) likes to say, "TikTok comments are the greatest window into the soul of society." There was some serious appreciation for her willingness to immediately change her mind.
+And like my good friend [Rex Woodbury](https://twitter.com/rex_woodbury) likes to say, "[[TikTok]] comments are the greatest window into the soul of society." There was some serious appreciation for her willingness to immediately change her mind.
 
 ![Quote card from Spirit of Humility section](/images/whats-in-a-post-mortem-1231b6c6.png)
 
-Like the famous quote from John Maynard Keynes: "when the facts change I change my mind." But guess what? Nobody. Changes. Their. Mind. I am convinced that one of the single greatest blockers to social and economic progress is as simple as this: **if more people changed their mind when presented with new information we would quickly have even more information with which to improve our thinking.**
+Like the famous quote from [[John Maynard Keynes]]: "when the facts change I change my mind." But guess what? Nobody. Changes. Their. Mind. I am convinced that one of the single greatest blockers to social and economic progress is as simple as this: **if more people changed their mind when presented with new information we would quickly have even more information with which to improve our thinking.**
 
-There are countless examples of people whose greatest driver of success was their insatiable openness to learning. [David Perell gives one great example](https://perell.com/essay/wal-mart/) speaking of Sam Walton, the founder of Wal-Mart. In the words of one Wal-Mart associate:
+There are countless examples of people whose greatest driver of success was their insatiable openness to learning. [David Perell gives one great example](https://perell.com/essay/wal-mart/) speaking of [[Sam Walton]], the founder of [[Walmart|Wal-Mart]]. In the words of one Wal-Mart associate:
 
 > *"When [Sam] meets you, he looks at you—head cocked to one side, forehead slightly creased—and **he proceeds to extract every piece of information in your possession. He always makes little notes.***
 
@@ -80,7 +80,7 @@ If there is one jumping off point before anyone can effectively begin to learn f
 
 ### Failure
 
-Most people focus on the question I mentioned, "what went wrong." Learning from the failures. Warren Buffett and Charlie Munger are famous for their failure-focused quips:
+Most people focus on the question I mentioned, "what went wrong." Learning from the failures. [[Warren Buffett]] and [[Charlie Munger]] are famous for their failure-focused quips:
 
 > *"Our Vice Chairman, Charlie Munger, has always emphasized the study of mistakes rather than successes, both in business and other aspects of life. He does so in the spirit of the man who said: "**All I want to know is where I'm going to die so I'll never go there."** You'll immediately see why we make a good team: Charlie likes to study errors and I have generated ample material for him."*
 
@@ -106,27 +106,27 @@ He reflects on their experience of putting the teams involved on each film throu
 
 [I've written before](https://investing1012dot0.substack.com/p/death) about the initial work you can do ahead of making any investment:
 
-> *"When I was at Index we would include two sections in our memos that were popularized by Larry Summers. **We would write about a company's "pre-parade" and "pre-mortem." Not only a "dream the dream" scenario, but a "dream the nightmare."***
+> *"When I was at [[Index Ventures|Index]] we would include two sections in our memos that were popularized by Larry Summers. **We would write about a company's "pre-parade" and "pre-mortem." Not only a "dream the dream" scenario, but a "dream the nightmare."***
 
-The "pre-mortem" is akin to Josh Wolfe's concept of "imagining failure." Laying out ahead of time both your thesis and the possible worst case scenarios forces you to [imagine what could go wrong](https://twitter.com/ChipsChopWood/status/1395744607170875404?s=20&t=iaLEl7ED0hyDm23BTrmLVQ). You can then do a good job paying attention to those potential failure points throughout the project or investment.
+The "[[Pre-Mortem|pre-mortem]]" is akin to [[Josh Wolfe]]'s concept of "imagining failure." Laying out ahead of time both your thesis and the possible worst case scenarios forces you to [imagine what could go wrong](https://twitter.com/ChipsChopWood/status/1395744607170875404?s=20&t=iaLEl7ED0hyDm23BTrmLVQ). You can then do a good job paying attention to those potential failure points throughout the project or investment.
 
 ### Understand Your Optimism
 
 At one of my prior firms I saw a (rare) example of one of my partners reflecting on an investment that failed. As he reflected on "what went wrong" over the course of a multi-year investment that ended up as a 1x return he pointed to his mistake of going into the process having "happy ears." **Hearing what he wanted to hear instead of what was real.**
 
-There is a difference between "happy ears" and building intellectual optimism in what *could* happen as well as what went well after the fact. [In his magnum opus on Optimism](https://www.notboring.co/p/optimism?s=w), Packy McCormick talked about the power of "dreaming the dream."
+There is a difference between "happy ears" and building intellectual optimism in what *could* happen as well as what went well after the fact. [In his magnum opus on Optimism](https://www.notboring.co/p/optimism?s=w), [[Packy McCormick]] talked about the power of "dreaming the dream."
 
-> *"**I’m far more interested in answering the question, “What does the world look like if this goes right?” than in analyzing all of the reasons something might not work.** Optimism is more useful than pessimism. But pessimism is more pervasive than it has a right to be. 'Cynicism is not a neutral position -- and although it asks almost nothing of us, it is highly infectious and unbelievably destructive.'"*
+> *"**I’m far more interested in answering the question, “What does the world look like if this goes right?” than in analyzing all of the reasons something might not work.** [[Optimism]] is more useful than pessimism. But pessimism is more pervasive than it has a right to be. 'Cynicism is not a neutral position -- and although it asks almost nothing of us, it is highly infectious and unbelievably destructive.'"*
 
 Post-mortems aren't meant to be inherently negative. They're meant to be inherently instructive. But if you find yourself reflecting on everything you've done focused completely on the negatives then you're doing it wrong.
 
 ### Keep a Journal
 
-[I've written before](https://investing1012dot0.substack.com/p/building-a-product-engine) about the power-house of a product engine that is Amazon. One of the most effective strategies behind that engine is a focus on learning from their mistakes.
+[I've written before](https://investing1012dot0.substack.com/p/building-a-product-engine) about the power-house of a product engine that is [[Amazon]]. One of the most effective strategies behind that engine is a focus on learning from their mistakes.
 
-> *"**After [negative] incidents, employees had to write a “correction of error” report, which analyzes an incident in detail and tries to get to its underlying root causes** by going through a series of iterative questions and answers called “the five whys.” The memo went all the way to Bezos, describing what had happened and recommending how the process that created the problem in the first place could be fixed."*
+> *"**After [negative] incidents, employees had to write a “correction of error” report, which analyzes an incident in detail and tries to get to its underlying root causes** by going through a series of iterative questions and answers called “the five whys.” The memo went all the way to [[Jeff Bezos|Bezos]], describing what had happened and recommending how the process that created the problem in the first place could be fixed."*
 
-The process of keeping some kind of record of your thinking keeps you honest. In his book [The Great Mental Models](https://www.amazon.com/Great-Mental-Models-Thinking-Concepts-ebook/dp/B07P79P8ST) Shane Parrish reinforces the impact that journaling can have on your performance.
+The process of keeping some kind of record of your thinking keeps you honest. In his book [The Great Mental Models](https://www.amazon.com/Great-Mental-Models-Thinking-Concepts-ebook/dp/B07P79P8ST) [[Shane Parrish]] reinforces the impact that journaling can have on your performance.
 
 > *"Keeping a journal of your own performance is the easiest and most private way to give self-feedback. Journals allow you to step out of your automatic thinking and ask yourself: What went wrong? How could I do better? **Monitoring your own performance allows you to see patterns that you simply couldn’t see before.** This type of analysis is painful for the ego, which is also why it helps build a circle of competence. You can’t improve if you don’t know what you’re doing wrong."*
 

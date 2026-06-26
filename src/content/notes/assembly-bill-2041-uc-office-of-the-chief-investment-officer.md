@@ -9,7 +9,7 @@ url: "https://a30.asmdc.org/sites/a30.asmdc.org/files/pdf/13%20AB%202041%20UC%20
 source_published: "2018      # references UC Investments AUM \"as of March 2018\"; AB 2041 is a 2018 California bill"
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — March 30th, 2022 (Contrary Capital sourcing/diligence log): ~/Downloads/March 30th, 2022.md"
@@ -36,7 +36,7 @@ related:
 
 **Author:** California State Assembly (factsheet)
 **URL:** https://a30.asmdc.org/sites/a30.asmdc.org/files/pdf/13%20AB%202041%20UC%20OCIO%20Factsheet.pdf
-**One-line:** *A factsheet for a California bill urging UC Investments to encourage diversity in hiring and among its investment partners, and to launch emerging-manager programs.*
+**One-line:** *A factsheet for a California bill urging [UC Investments](/notes/uc-investments) to encourage diversity in hiring and among its investment partners, and to launch emerging-manager programs.*
 
 ## Key Highlights
 

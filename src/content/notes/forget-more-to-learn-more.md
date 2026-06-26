@@ -8,7 +8,7 @@ url: "https://www.perell.com/blog/compression"
 source_published: "2017"
 confidence: "high"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/archive/clippings/Forget More To Learn More.md"
@@ -36,9 +36,9 @@ related:
 ## Key claims
 
 - **The most important part of learning is forgetting, not remembering.** The brain prizes efficiency, trying to retain only the most important things rather than everything.
-- **Memory is a teacher, not a recorder.** It isn't designed to help us remember the past; it helps us navigate the future — remembering why something bad happened lets us avoid repeating it.
-- **The steeper the learning curve, the more interesting the data** (Tiago Forte) — learning helps us focus on what's important and ignore what's irrelevant.
-- **Compression is why teaching forces learning.** To communicate anything you must compress it; distilling what you know forces you to grapple with ideas, absorbing the good and forgetting the bad. [Jeff Bezos](/notes/jeff-bezos) compressed his philosophy to two rules: "It's always Day 1" and "Be obsessed with the customer."
+- **[Memory](/notes/memory) is a teacher, not a recorder.** It isn't designed to help us remember the past; it helps us navigate the future — remembering why something bad happened lets us avoid repeating it.
+- **The steeper the learning curve, the more interesting the data** ([Tiago Forte](/notes/tiago-forte)) — learning helps us focus on what's important and ignore what's irrelevant.
+- **Compression is why teaching forces learning.** To communicate anything you must compress it; distilling what you know forces you to grapple with ideas, absorbing the good and forgetting the bad. [Jeff Bezos](/notes/jeff-bezos) compressed his philosophy to two rules: "It's always [Day 1](/notes/day-1)" and "Be obsessed with the customer."
 - **The information bottleneck is a universal learning principle.** Deep-learning algorithms squeeze data through bottlenecks, managing the tradeoff between compression and context — too much compression loses context, too much context loses compression.
 - **Dreams help us forget.** During sleep we discard much of what we learned, keeping the most important things — lifting signal over noise. "Forget more to learn more."
 

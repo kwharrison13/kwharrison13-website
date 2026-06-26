@@ -20,9 +20,9 @@ substack_url: "https://investing101.substack.com/p/the-anduril-thesis"
 
 ---
 
-In July 2020, Contrary invested in Anduril. In September 2022, I started [Contrary Research](https://research.contrary.com/). In October 2023, I started writing a book about Anduril.
+In July 2020, [[Contrary]] invested in [[Anduril]]. In September 2022, I started [Contrary Research](https://research.contrary.com/). In October 2023, I started writing a book about Anduril.
 
-The project started as a typical company deep dive for Contrary Research. But as I started to immerse myself in the rich history of the military industrial complex I came to appreciate that Anduril is unique among high growth tech startups. It was not just a group of hyper talented people building exceptional products. It was actually a deliberate counter-position to almost 100 years of military history.
+The project started as a typical company deep dive for [[Contrary Research]]. But as I started to immerse myself in the rich history of the military industrial complex I came to appreciate that Anduril is unique among high growth tech startups. It was not just a group of hyper talented people building exceptional products. It was actually a deliberate counter-position to almost 100 years of military history.
 
 So instead of a typical company deep dive, I decided it deserved a more thorough treatment. Granted, the project was on and off as I had other stuff come up. Plus the world kept changing around us. Plus plus Anduril kept launching new products. But after several years, 35 different drafts, and some exceptional help from the folks at both Contrary and Anduril, [The Anduril Thesis](https://www.amazon.com/Anduril-Thesis-Kyle-Harrison/dp/B0GWLXQ7FC/ref=sr_1_1) is here. (Readers of this blog got a [sneak peek](https://investing101.substack.com/p/networked-conviction-006?utm_source=publication-search) a few weeks ago).
 
@@ -34,7 +34,7 @@ Below is my “greatest hits” highlights of the book.
 
 # The Anduril Thesis
 
-I believe Anduril may very well be the **most important company of the 21st century**. Not OpenAI or Anthropic, or SpaceX. It may be our best chance at deterring “Great Power” conflict with China.
+I believe Anduril may very well be the **most important company of the 21st century**. Not [[OpenAI]] or Anthropic, or [[SpaceX]]. It may be our best chance at deterring “Great Power” conflict with China.
 
 But when we sat down to write the story of Anduril we realized that it **merited an outsized level of attention.**
 
@@ -44,15 +44,15 @@ Before you can understand what Anduril is building with the “future of warfare
 
 ## Industrial powerhouse
 
-Around / during WWII the US represented 40% of global manufacturing capacity. You had Silicon Valley literally born from the aftermath of WWII industrialism when Frederick Terman set up Stanford Industrial Park. And the DOD was a first-in-line customer for that budding technology industry.
+Around / during WWII the US represented 40% of global manufacturing capacity. You had [[Silicon Valley]] literally born from the aftermath of WWII industrialism when [[Frederick Terman]] set up Stanford Industrial Park. And the DOD was a first-in-line customer for that budding technology industry.
 
 **The DOD represented 36% of GLOBAL R&D**! They had an incredible handle on technology and they put it to work over the course of the Cold War, with defense projects leading to the birth of dozens of innovations across the space program, the internet, and everything in between. A golden age of American industrialism.
 
 ## Smothering the Golden Goose
 
-**Robert McNamara**, who came in as Secretary of Defense and broke the golden goose in the 1960s
+**[[Robert McNamara]]**, who came in as Secretary of Defense and broke the golden goose in the 1960s
 
-Planning, Programing, Budgeting Execution (**PPBE**) was his process baby and it represented a rats nest of process for military procurement. Ben Rich who ran Lockheed’s famous Skunk Works said it **descended like a plague of auditors and bean counters**
+Planning, Programing, Budgeting Execution (**PPBE**) was his process baby and it represented a rats nest of process for military procurement. [[Ben R. Rich|Ben Rich]] who ran Lockheed’s famous [[Skunk Works]] said it **descended like a plague of auditors and bean counters**
 
 Everything was centrally planned. Matt Grimm jokes that “everyone, even Russia and China, has given up on communism, except for Cuba and the DoD.”
 
@@ -60,11 +60,11 @@ McNamara thought we should spend less, so he added intense bureaucracy. And that
 
 ## Consolidation
 
-Post Cold War we had a high friction machine but now with a much smaller market. William Perry, deputy defense secretary, held **The Last Supper**, where he congregated the leaders of all the defense contractors at the time and told everyone to consolidate or die.
+Post Cold War we had a high friction machine but now with a much smaller market. [[Bill Perry|William Perry]], deputy defense secretary, held **The Last Supper**, where he congregated the leaders of all the defense contractors at the time and told everyone to consolidate or die.
 
 So they did. And we went from **107 major contractors down to 5**
 
-**Boeing** is the poster child of consolidation woes. They want from gold standard engineering to buying a cutthroat profit-driven competitor in McDonnell Douglas that ruined their ability to innovate, have had tons of high profile failures, and may be engaging in a shadow cover up to silence a lot of would-be whistleblowers.
+**[[Boeing]]** is the poster child of consolidation woes. They want from gold standard engineering to buying a cutthroat profit-driven competitor in [[McDonnell Douglas]] that ruined their ability to innovate, have had tons of high profile failures, and may be engaging in a shadow cover up to silence a lot of would-be whistleblowers.
 
 ## Broken Things
 
@@ -76,7 +76,7 @@ Meanwhile we are actively in one of the most conflict-prone periods of time sinc
 
 # Defense Industry Today
 
-Palmer Luckey often talks about how “problems that took decades to make will take decades to solve.” Before you can start to get to some of the early improvements happening in defense today, you have to understand the decades that caused the problem.
+[[Palmer Luckey]] often talks about how “problems that took decades to make will take decades to solve.” Before you can start to get to some of the early improvements happening in defense today, you have to understand the decades that caused the problem.
 
 - **Cost-plus vs fixed cost**: The government would rather have a $1B program with a 10% margin than a $100M program with a 50% margin for the same outcome
 - **Built-to-spec**: “We know what’s best.” That worked when DoD was 36% of global R&D but now they’re less than 1%.
@@ -118,13 +118,13 @@ There’s a great novel called 2034 that predicts what a conflict between the US
 
 What’s crazy is there have been people trying to shake the US out of its hubris for years.
 
-In 1992, Andrew Marshall, who ran the Office of Net Assessment put out a report that completely nailed the future of high volume precision warfare we had today. But we didn’t listen.
+In 1992, [[Andrew Marshall]], who ran the Office of [[Net Assessment]] put out a report that completely nailed the future of high volume precision warfare we had today. But we didn’t listen.
 
 Admiral William Owens, when he retired in 2001, warned that the US was too smug and that usually resulted in ending up as the loser in the next big conflict.
 
-In 2012 Mitt Romney said our biggest geopolitical threat was Russia and Obama laughed at him because he didn’t say Al Qaida.
+In 2012 [[Mitt Romney]] said our biggest geopolitical threat was Russia and Obama laughed at him because he didn’t say Al Qaida.
 
-In 2017, Robert Work, the deputy secretary of defense, warned of a “reemergence of great power conflict” and that the US had a technological advantage that was rapidly eroding.
+In 2017, [[Bob Work|Robert Work]], the deputy secretary of defense, warned of a “reemergence of great power conflict” and that the US had a technological advantage that was rapidly eroding.
 
 ## Wake Up Call
 
@@ -164,7 +164,7 @@ In that same novel, 2034, there is an incredible line: “Inherent in all wars i
 
 Great power conflict is here whether we like it or not.
 
-The idea of Thucydides Trap comes from a fifth century BC historian who chronicled the Peloponnesian War. In a book explaining the concept, it lays out 16 examples throughout history of an emerging power threatening to displace a ruling power; 12 of which resulted in war.
+The idea of [[Thucydides]] Trap comes from a fifth century BC historian who chronicled the Peloponnesian War. In a book explaining the concept, it lays out 16 examples throughout history of an emerging power threatening to displace a ruling power; 12 of which resulted in war.
 
 Making our allies, like Taiwan, into prickly porcupines that China doesn’t want to step on.
 
@@ -176,7 +176,7 @@ William Moffett (founder) modernized the Navy, President Hoover (maverick) kept 
 
 Ben Rich (founder @ Skunk Works) made the U-2 spy plane that was critical during the Cold War with the help of Richard Bissell (military maverick).
 
-Bernard Schriever (founder) developed intercontinental ballistic missiles with the support of President Eisenhower (military maverick).
+[[Bernard Schriever]] (founder) developed intercontinental ballistic missiles with the support of President Eisenhower (military maverick).
 
 # Anduril’s Founding
 
@@ -184,7 +184,7 @@ Palmer and Trae Stephens, his Anduril co-founder, were both interested in journa
 
 When those two met they literally bonded over both wanting to build a real-life Stark Industries.
 
-Matt Grimm and Brian Schimpf worked together in college in 2006 on the DARPA Grand Challenge.
+Matt Grimm and [[Brian Schimpf]] worked together in college in 2006 on the [[DARPA]] Grand Challenge.
 
 Chris Brose and Matt Steckman are the non-founder unsung heroes of the Anduril story. Brose worked with McCain in the Armed Services committee and saw, first hand, what people were getting wrong. And Steckman knows how to sell into the government like few people alive.
 
@@ -192,7 +192,7 @@ Chris Brose and Matt Steckman are the non-founder unsung heroes of the Anduril s
 
 ## Mosaic Warfare
 
-Described by DARPA in 2018 as individual warfighting platforms that fuse together into a larger “force package.” Anduril embodies that with having networked assets across every domain that can be fused together with Lattice.
+Described by DARPA in 2018 as individual warfighting platforms that fuse together into a larger “force package.” Anduril embodies that with having networked assets across every domain that can be fused together with [[Lattice]].
 
 ## Software-Defined, Hardware Enabled
 
@@ -220,7 +220,7 @@ In the early days, Anduril had more lobbyists than engineers. They understand it
 
 ## Importance of being first
 
-Putin was saying in 2017 that “whoever controlled AI would control the world.” Imagine trying to dictate nuclear arms policy globally during the Cold War if you didn’t even have your own nuclear weapons.
+[[Vladimir Putin|Putin]] was saying in 2017 that “whoever controlled AI would control the world.” Imagine trying to dictate nuclear arms policy globally during the Cold War if you didn’t even have your own nuclear weapons.
 
 ## Autonomy
 

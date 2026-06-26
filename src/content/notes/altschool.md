@@ -2,15 +2,16 @@
 title: "AltSchool"
 type: "company"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-18"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Kyle's manual link/reading capture — June 18, 2026 (batch import from saved bookmarks)"
 tags: []
 aliases:
   - "AltSchool"
+  - "Altitude Learning"
 related:
   - "[[Alternative Education]]"
   - "[[Sora Schools]]"
@@ -18,15 +19,11 @@ related:
 
 # AltSchool
 
-_Stub — concept captured from Kyle's manual link/reading capture on June 18, 2026. The links below are sources Kyle saved to explore this topic; not yet synthesized._
+AltSchool is tracked in Kyle's notes as a cautionary case under the [Alternative Education](/notes/alternative-education) theme. The [Alternative Education](/notes/alternative-education) concept page lists it among the companies in the space but flags its 2019 rebrand to "Altitude Learning" and accompanying leadership change (per an EdSurge article Kyle saved) as the turn that makes it a warning rather than a model. It sits adjacent to [Sora Schools](/notes/sora-schools), which the notes treat as a positive instance of the self-directed, project-based model the evidence favors — AltSchool is the "adjacent edtech company under the same theme" against which Sora is contrasted.
 
-## Quick Capture links — June 18, 2026
+**Context:** AltSchool was a San Francisco–based education startup founded in 2013 by former Google executive Max Ventilla, building a network of micro-schools paired with a personalized-learning software platform. After raising substantial venture funding, it closed its schools and pivoted to selling its software, rebranding as Altitude Learning in 2019.
 
-_Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
+## Where this appears
 
-- https://www.edsurge.com/news/2019-06-28-altschool-gets-an-alt-name-and-new-leadership — EdSurge: AltSchool gets an alt name (Altitude Learning) and new leadership. #[Sora Schools](/notes/sora-schools) #[Alternative Education](/notes/alternative-education)
-
-## Related concepts
-
-- [Alternative Education](/notes/alternative-education)
-- [Sora Schools](/notes/sora-schools)
+- [Alternative Education](/notes/alternative-education) — tracked as a cautionary case; its 2019 rebrand to Altitude Learning and leadership change noted (EdSurge link).
+- [Sora Schools](/notes/sora-schools) — listed as the adjacent edtech company under the same theme, contrasted with Sora's model.

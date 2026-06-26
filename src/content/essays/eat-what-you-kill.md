@@ -31,7 +31,7 @@ I was reminded of this fond memory because of what I've wanted to call today's p
 
 # Crash Coursing The Venture Capital Ecosystem
 
-If you've been reading my writing for a while, you know that I spend a fair bit of time reflecting on venture capital as an ecosystem. There were two articles that were really the driving force in why I set out to start writing more: (1) [The Unbundling of Venture Capital](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital), and (2) [The Productization of Venture Capital](https://investing1012dot0.substack.com/p/productization).
+If you've been reading my writing for a while, you know that I spend a fair bit of time reflecting on [[Venture Capital|venture capital]] as an ecosystem. There were two articles that were really the driving force in why I set out to start writing more: (1) [The Unbundling of Venture Capital](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital), and (2) [The Productization of Venture Capital](https://investing1012dot0.substack.com/p/productization).
 
 In 2022, as the markets started to change, I found myself reflecting on what kind of work I wanted to be doing as a VC. That led me to questioning a lot of the first principles in venture, and ultimately led me to a very different kind of venture firm [in joining Contrary](https://investing1012dot0.substack.com/p/contrary-my-renegade-of-choice). I'd found myself reflecting on the who / what / where / when / why of venture, and that gave me a fair bit of fodder for future pieces unpacking the space.
 
@@ -59,7 +59,7 @@ Finally, most VCs don't really trust each other. There is a constant organizatio
 
 > *"No one trusts each other and you don't know how to sort through people. So you let these people prove themselves until you trust them. And you usually don't really trust them until you've already established your own career. Trust is a luxury."*
 
-In the book [Speed of Trust](https://www.amazon.com/SPEED-TRUST-Thing-Changes-Everything/dp/1416549005) by Stephen Covey, he has a great framework for thinking about trust:
+In the book [Speed of Trust](https://www.amazon.com/SPEED-TRUST-Thing-Changes-Everything/dp/1416549005) by [[Stephen Covey]], he has a great framework for thinking about trust:
 
 > *"Trust is not merely a soft, social virtue: rather, trust is a pragmatic, hard-edged, economic driver. **Trust is a learnable and measurable skill that makes organizations more profitable, people more promotable, and relationships more energizing.** The ability to establish, grow, extend, and restore trust with all stakeholders is the key leadership competency of the new global economy. **High-trust organizations outperform low-trust organizations by nearly three times.** Top-trust leaders enjoy significantly better results in areas such as profitability, productivity, innovation, employee engagement, customer loyalty, and stakeholder value. And while the benefits of trust are clear and well-documented, the implications of a lack of trust are stark: increased costs, reduced speed, and lessened loyalty, to name a few."*
 
@@ -91,7 +91,7 @@ As a result, people reward short-term behavior, like "getting deals done." [I've
 
 > *"In a venture firm internal political power comes from "getting deals done." When the main currency for the culture is getting credit for making investments it aligns every activity around deploying capital and judges it against that bar."*
 
-[I wrote last week](https://investing1012dot0.substack.com/p/let-me-know-how-i-can-be-helpful), too, about Warren Buffett describing a world where "activity has become the order of the day." **The "eat what you kill" mentality is the epitome of measuring what should be long-term activities (investing) using short-term measurements (getting deals done).**
+[I wrote last week](https://investing1012dot0.substack.com/p/let-me-know-how-i-can-be-helpful), too, about [[Warren Buffett]] describing a world where "activity has become the order of the day." **The "eat what you kill" mentality is the epitome of measuring what should be long-term activities (investing) using short-term measurements (getting deals done).**
 
 I've always loved [this tweet from Josh Kopelman](https://twitter.com/joshk/status/1386679426021216256?s=20) about the limited reflection most investors have about their own processes.
 
@@ -107,7 +107,7 @@ One important thing to keep in mind: performance matters. Not to lean too heavil
 
 > *"Doug Leone [says it himself](https://www.thetwentyminutevc.com/podcast/doug-leone/). The two most important things are (1) performance, and (2) teamwork. But if you don't have number 1 then nothing else matters."*
 
-But, [like I wrote about last week](https://investing1012dot0.substack.com/p/let-me-know-how-i-can-be-helpful), "what gets measured gets managed." One of things I've heard from several people is that Sequoia never celebrates signing a term sheet (also known as "getting a deal done.") They see that as celebrating the firing of the starting gun. **That isn't the time to celebrate, it's the time to get to work**.
+But, [like I wrote about last week](https://investing1012dot0.substack.com/p/let-me-know-how-i-can-be-helpful), "what gets measured gets managed." One of things I've heard from several people is that [[Sequoia]] never celebrates signing a term sheet (also known as "getting a deal done.") They see that as celebrating the firing of the starting gun. **That isn't the time to celebrate, it's the time to get to work**.
 
 So what, instead, are the best investors measuring? Long-term success. When you look at someone like Warren Buffett's career, there's no question that it's phenomenal. But one of the most impactful things he did was enabled himself to keep playing the game without ever getting wiped out. And then he did that for 70+ years.
 
@@ -115,7 +115,7 @@ So much of investing can revolve around [hype cycles](https://investing1012dot0.
 
 Even the most successful venture investors aren't without flaws, but they've made sure that their ability to simply stay in the game long-term has been a huge component of their success.
 
-[In an episode of Invest Like The Best](https://www.joincolossus.com/episodes/75305584/damodaran-teaching-the-world-finance?tab=transcript), Aswath Damodaran, a Professor of Finance at NYU, talked about evaluating managers. Granted, he was talking about value investing. But I think the principle holds true:
+[In an episode of Invest Like The Best](https://www.joincolossus.com/episodes/75305584/damodaran-teaching-the-world-finance?tab=transcript), [[Aswath Damodaran]], a Professor of Finance at NYU, talked about evaluating managers. Granted, he was talking about [[Value Investing|value investing]]. But I think the principle holds true:
 
 > *"**I think the way we rank managers encourages them to be not just risk takers, but reckless risk takers**, because that's how you end up at the top of the alpha list or the best performing managers... I would never invest in the best performing manager in any year or even over a five year period, because they're going to almost wager that best performing manager has a much greater chance of being the worst performing manager in future periods than the middle of the group. **I think that rather than look for the highest alphas, you want to go for consistency**, even if it means settling for little or no alpha. The Hippocratic oath of doing no harm should really be first, front and center for anybody's managing other people's money. If it's your own money and you want to make bets, big bets and hope they pay off, fine, but don't play games with other people's money. We take 40% of your portfolio and buy Valiant, which is what some value investing funds did in the five years ago before Valiant blew up and then say, well, we never saw this coming. I know you didn't see this coming, but you didn't have to put 40% of your portfolio into one company."*
 
@@ -125,15 +125,15 @@ I mentioned how I've written before about [the productization of venture](https:
 
 ## Investing Is An Apprenticeship Business
 
-One aspect of building a replicable, disciplined, long-term success engine is building a culture and team that doesn't revolve around flash-in-the-pan hype, but rather can persist across generations. Again, I think Sequoia has done this really well. Don Valentine personally mentored Doug Leone, who did the same for Roelof Botha, who did the same for Pat Grady, and on and on.
+One aspect of building a replicable, disciplined, long-term success engine is building a culture and team that doesn't revolve around flash-in-the-pan hype, but rather can persist across generations. Again, I think Sequoia has done this really well. [[Don Valentine]] personally mentored [[Doug Leone]], who did the same for [[Roelof Botha]], who did the same for [[Pat Grady]], and on and on.
 
-Unfortunately, the reality of most investment firms is that they don't incentivize apprenticeship or succession planning. [I've written](https://investing1012dot0.substack.com/p/talent) about this dynamic before:
+Unfortunately, the reality of most investment firms is that they don't incentivize [[Apprenticeship|apprenticeship]] or succession planning. [I've written](https://investing1012dot0.substack.com/p/talent) about this dynamic before:
 
 > *"You'll often hear this idea that "investing is an apprenticeship business." It's not. **There is no real tangible incentive for venture investors to mentor anyone**. As a result you have a lot of VCs who turn out to be pretty terrible managers and mentors."*
 
 But without that collaborative spirit, you break down trust, which breaks down the productivity of the engine of the firm, and ultimately leads to poor performance. Like Covey said, "Trust is not merely a soft, social virtue: rather, trust is a pragmatic, hard-edged, economic driver."
 
-Frederik Gieschen has a [great interview](https://neckar.substack.com/p/the-learning-mindset-for-investors) with Alix Pasquet who describes some apprenticeship characteristics that took place at the original Tiger Management in the 90's:
+[[Frederik Gieschen]] has a [great interview](https://neckar.substack.com/p/the-learning-mindset-for-investors) with Alix Pasquet who describes some apprenticeship characteristics that took place at the original Tiger Management in the 90's:
 
 > *"There were two guys inside of Tiger in the 90s. One of them was Andreas Halvorsen. The second guy shall remain unnamed. If you were a young analyst, you went up to Andreas and said, Hey, I really like this idea. I want to pitch it to Julian. **Andreas would say, let's work on it together. I'll help you shape the idea, point you in the right directions, the strengths and weaknesses of the idea, the process they should take, and so on. And then once you're ready, go and pitch it to Julian.** And that analysts would go and pitch to Julian and Julian wouldn't even have a clue that Andreas had pushed this guy forward.   
 >   
@@ -141,7 +141,7 @@ Frederik Gieschen has a [great interview](https://neckar.substack.com/p/the-lear
 
 ## Perfecting The Partnership
 
-Finally, we come to this question of building a partnership, the traditional venture capital monolith. The "eat what you kill" mentality very much gives credence to the idea of a "lone wolf" culture hunting for that kill. [I've written before](https://investing1012dot0.substack.com/p/fantasy-capital) about how "a lot of VCs would prefer to work in an effective team that can all trust each other and contribute to exceptional success."
+Finally, we come to this question of building a [[Partnership|partnership]], the traditional venture capital monolith. The "eat what you kill" mentality very much gives credence to the idea of a "lone wolf" culture hunting for that kill. [I've written before](https://investing1012dot0.substack.com/p/fantasy-capital) about how "a lot of VCs would prefer to work in an effective team that can all trust each other and contribute to exceptional success."
 
 ![Source:Twitter](/images/eat-what-you-kill-fff361de.png)
 

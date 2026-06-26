@@ -19,7 +19,7 @@ substack_url: "https://investing101.substack.com/p/the-loudest-models-with-trace
 
 ---
 
-Welcome to the alpha test of me sharing some of my conversations. I've got a bunch of LPs, GPs, and anonymous Twitter accounts who I vibe with on all things the evolution and dynamics of venture capital.
+Welcome to the alpha test of me sharing some of my conversations. I've got a bunch of LPs, GPs, and anonymous [[Twitter]] accounts who I vibe with on all things the evolution and dynamics of venture capital.
 
 For this alpha test, I'm talking to [Trace Cohen](https://x.com/Trace_Cohen) who is starting Six Point Ventures and has angel invested in 30+ companies. We jammed on a couple topics that I summarized below.
 
@@ -35,7 +35,7 @@ The problem, then, that Trace and I touched on in both our pieces and in our con
 
 # Capital Destruction in Private vs. Public
 
-The second bucket we touched on is capital destruction. When we talk about the hype cycles that drive massive amounts of capital into fairly immature companies, there is a common other side of the coin -- companies stay private longer. Even Goldman Sachs' David Solomon is [saying](https://techcrunch.com/2025/01/16/goldman-sachs-david-solomon-tells-startups-to-reconsider-going-public/) private companies should "rethink" going public because there is so much capital available in the private markets.
+The second bucket we touched on is capital destruction. When we talk about the hype cycles that drive massive amounts of capital into fairly immature companies, there is a common other side of the coin -- companies stay private longer. Even [[Goldman Sachs]]' David Solomon is [saying](https://techcrunch.com/2025/01/16/goldman-sachs-david-solomon-tells-startups-to-reconsider-going-public/) private companies should "rethink" going public because there is so much capital available in the private markets.
 
 There isn't necessarily anything wrong with that. But one of the biggest benefits of going public is increasing the accountability and scrutiny on a business. Shining light on something can be the best disinfectant. Think about the [case of WeWork](https://investing101.substack.com/p/the-rise-of-the-cash-man?utm_source=publication-search). They didn't do anything illegal or immoral; they just had an atrocious P&L. When they went public and shone the light of day on their business, it forced them to reckon with a multitude of sins.
 
@@ -49,9 +49,9 @@ Finally, Trace and I touched on this idea that I've [written about before](https
 
 I understand that funds have fixed lifecycles and need to exit. But there is a broader conversation to have about the overall economic focus on shorter outcomes vs. longer outcomes, and it hasn't been the healthiest thing. When investors, and even founders, care more about their "exit value" vs. the overall outcome value, that creates perverse incentives.
 
-I think approaches like Sequoia's evergreen fund have the right philosophy (e.g. enabling them to capture more value in the long-run) though its difficult to execute a wide variety of strategies if you have the same decision making team at different stages of a companies life.
+I think approaches like [[Sequoia]]'s evergreen fund have the right philosophy (e.g. enabling them to capture more value in the long-run) though its difficult to execute a wide variety of strategies if you have the same decision making team at different stages of a companies life.
 
-But I love instances where our focus gets pointed at overall outcomes. For example, I've seen people point out that you can feel like you've missed out once a company goes public. But for businesses like [Google](https://x.com/garrytan/status/1840069920077557767) or Shopify you could have bought at IPO and captured 80-90% of the value as of today.
+But I love instances where our focus gets pointed at overall outcomes. For example, I've seen people point out that you can feel like you've missed out once a company goes public. But for businesses like [Google](https://x.com/garrytan/status/1840069920077557767) or [[Shopify]] you could have bought at IPO and captured 80-90% of the value as of today.
 
 I love that. I want us to focus more on overall outcomes of the things we build, not just entry and exit price. Certainly harder to do, but valuable in the long-run.
 

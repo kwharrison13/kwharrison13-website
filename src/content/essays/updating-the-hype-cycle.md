@@ -18,9 +18,9 @@ substack_url: "https://investing101.substack.com/p/updating-the-hype-cycle"
 
 ![Header image for Updating The Hype Cycle](/images/updating-the-hype-cycle-21756d98.png)
 
-Warren Buffett and Charlie Munger are two rich philosopher kings whose purchases of candy stores and Coca-Cola shares have spawned aphorisms on life, psychology, and investing that are the closest thing to a modern day Ben Franklin that we have.
+[[Warren Buffett]] and [[Charlie Munger]] are two rich philosopher kings whose purchases of candy stores and Coca-Cola shares have spawned aphorisms on life, psychology, and investing that are the closest thing to a modern day [[Benjamin Franklin|Ben Franklin]] that we have.
 
-I've read Charlie's Almanack, I've read more than one Warren Buffett biography, I've read the Berkshire Hathaway annual letters. Though, for some reason, I'm still not a billionaire? Is there another form I need to fill out?
+I've read Charlie's Almanack, I've read more than one Warren Buffett biography, I've read the [[Berkshire Hathaway]] annual letters. Though, for some reason, I'm still not a billionaire? Is there another form I need to fill out?
 
 But in all that corpus of thought, there is [one quote](https://quoteinvestigator.com/2011/07/22/keynes-change-mind/) that they've both used and re-used that has stuck with me. I think it's maybe one of the most important ideas, and one that the lack of understanding it is causing a lot of people a lot of pain for a lot of reasons:
 
@@ -34,7 +34,7 @@ A few months ago, I wrote a piece called [The Hype Cycles of Venture Capital](ht
 
 ![Quote card from The Latest Hype Cycle section](/images/updating-the-hype-cycle-05faae03.png)
 
-While the world fell apart in 2022, capital dried up, interest rates rose, and layoffs mounted, there was still one sliver of 2021 that managed to persist. A sudden explosion of interest in artificial intelligence in its many forms arose. You saw companies raising [$100M+ Series A](https://www.prnewswire.com/news-releases/jasper-announces-125m-series-a-funding-round-bringing-total-valuation-to-1-5b-and-launches-new-browser-extension-301651733.html) rounds and [$1B+ valuations](https://techcrunch.com/2022/10/17/stability-ai-the-startup-behind-stable-diffusion-raises-101m/) for effectively no revenue. Then there's OpenAI getting valued at [$20-30 billion](https://bdtechtalks.com/2023/01/09/openai-tender-offer/) with plans to go from [~$35M in revenue](https://fortune.com/2023/01/10/microsoft-investment-10-billion-openai-chatgpt/) to $1B in a pretty quick period of time.
+While the world fell apart in 2022, capital dried up, interest rates rose, and layoffs mounted, there was still one sliver of 2021 that managed to persist. A sudden explosion of interest in artificial intelligence in its many forms arose. You saw companies raising [$100M+ Series A](https://www.prnewswire.com/news-releases/jasper-announces-125m-series-a-funding-round-bringing-total-valuation-to-1-5b-and-launches-new-browser-extension-301651733.html) rounds and [$1B+ valuations](https://techcrunch.com/2022/10/17/stability-ai-the-startup-behind-stable-diffusion-raises-101m/) for effectively no revenue. Then there's [[OpenAI]] getting valued at [$20-30 billion](https://bdtechtalks.com/2023/01/09/openai-tender-offer/) with plans to go from [~$35M in revenue](https://fortune.com/2023/01/10/microsoft-investment-10-billion-openai-chatgpt/) to $1B in a pretty quick period of time.
 
 Now, there have been plenty of people writing about AI and the technology and the implications, use cases, and downfalls. I'm not as focused on that in my writing today. I've been reflecting more on the fundamental questions around whether or not this fervor makes sense. **What, if any, lessons are we applying to this current craze that we wish we'd known in 2021?**
 
@@ -56,7 +56,7 @@ So, let's apply some of these lessons to what's going on in AI. Did we learn any
 
 There is no question that AI has reached an inflection point. In 2017, the famous [Transformer paper](https://twitter.com/Contrary_Res/status/1621203016903954438?s=20) was released that unlocked a new architecture in NLP. Since then, similar advances in reinforcement learning, deep learning, generative adversarial networks, and transfer learning have all contributed to a leap forward in the capabilities of different types of automation.
 
-There is also a fascinating change that Sam Altman, Eric Schmidt, and others have [talked about](https://www.youtube.com/watch?app=desktop&v=Gn-9SRkJazs&ab_channel=ScaleAI) where open-source advances have kept much closer pace with closed-source advances in AI. At Contrary, we did an [event](https://contrary.notion.site/Replit-a-Startup-Story-4932d10aedda494b97419cdbea72d157) with Amjad Masad, the CEO of Replit, last December, and he had this great point that **AI/ML haven't really started to impact things like coding, writing, art, or music until basically last year.**
+There is also a fascinating change that [[Sam Altman]], [[Eric Schmidt]], and others have [talked about](https://www.youtube.com/watch?app=desktop&v=Gn-9SRkJazs&ab_channel=ScaleAI) where open-source advances have kept much closer pace with closed-source advances in AI. At [[Contrary]], we did an [event](https://contrary.notion.site/Replit-a-Startup-Story-4932d10aedda494b97419cdbea72d157) with [[Amjad Masad]], the CEO of [[Replit]], last December, and he had this great point that **AI/ML haven't really started to impact things like coding, writing, art, or music until basically last year.**
 
 There is a fundamental shift in technology happening that is powerful, fascinating, and will have wide-ranging effects, there's no doubt about that. But I agree with my friend [Evan Armstrong](https://every.to/napkin-math/ai-looks-like-a-bubble) in his hesitation about the implications of that innovation for the world of VC-backed startups:
 
@@ -64,13 +64,13 @@ There is a fundamental shift in technology happening that is powerful, fascinati
 
 # Lessons Applied: The Definition of Value
 
-VCs talk a lot about the difference between value creation and value capture. The TLDR is that just because you create value for someone doesn't mean they'll pay for it. One simple example is Facebook. There is no value capture from consumers. Only value creation. In the [immortal words](https://www.youtube.com/watch?v=n2H8wx1aBiQ) of Senator Orrin Hatch, "how do you sustain a business model in which users don't pay for your service?"
+VCs talk a lot about the difference between value creation and value capture. The TLDR is that just because you create value for someone doesn't mean they'll pay for it. One simple example is [[Facebook]]. There is no value capture from consumers. Only value creation. In the [immortal words](https://www.youtube.com/watch?v=n2H8wx1aBiQ) of Senator Orrin Hatch, "how do you sustain a business model in which users don't pay for your service?"
 
-The value capture occurs, as Mark Zuckerberg explained on Capitol Hill, by "running ads." Advertising is the mechanism for capturing value after you've created it with a free product. Every business has these types of inputs and outputs. You accrue costs, resources, capital, and talent in order to create value. Then, you have to ask yourself if the value you capture justifies the costs exerted to create that value in the first place.
+The value capture occurs, as [[Mark Zuckerberg]] explained on Capitol Hill, by "running ads." Advertising is the mechanism for capturing value after you've created it with a free product. Every business has these types of inputs and outputs. You accrue costs, resources, capital, and talent in order to create value. Then, you have to ask yourself if the value you capture justifies the costs exerted to create that value in the first place.
 
 **But one of the things that investors use to trick themselves into ascribing value to a company comes from imagined value.** Investors are pretty affective [storytellers](https://investing1012dot0.substack.com/p/the-storytelling-of-investing), but like Medusa [turning herself to stone](https://www.youtube.com/watch?v=NpYtJhihKgc) looking in the mirror, those stories can sometimes turn on their tellers.
 
-Some of the biggest investments in the world revolved around someone's "value imagination." Quibi, Google Glass, IBM Watson. These things happen because people can imagine the kind of value that ***could*** be created. Let's take one of these as an example: IBM Watson. Will Manidis had a [great thread](https://twitter.com/WillManidis/status/1620791601881665537?s=20) about the impact of GPT on healthcare, and he talks about the past promise of IBM Watson.
+Some of the biggest investments in the world revolved around someone's "value imagination." Quibi, [[Alphabet|Google]] Glass, IBM Watson. These things happen because people can imagine the kind of value that ***could*** be created. Let's take one of these as an example: IBM Watson. Will Manidis had a [great thread](https://twitter.com/WillManidis/status/1620791601881665537?s=20) about the impact of GPT on healthcare, and he talks about the past promise of IBM Watson.
 
 > *"The failure of Watson was staggering for the field-- MD Anderson, the cancer center at the University of Texas, spent $62 million dollars implementing the system in critical oncology workflows-- **before mothballing it less then a year later**."*
 
@@ -88,7 +88,7 @@ While there may be some companies that capture value from foundational models (m
 
 Jasper is the good example; they grew to [~$80M](https://sacra.com/c/jasper/#:~:text=Jasper%20reached%20%2442.5M%20in,1.75x%20growth%20over%202021.) in revenue as a first-mover in generative AI for copywriting. But they were built on OpenAI, which led to a [surprising revelation](https://www.theinformation.com/articles/the-best-little-unicorn-in-texas-jasper-was-winning-the-ai-race-then-chatgpt-blew-up-the-whole-game?rc=ecjlpf) when OpenAI started releasing their own products:
 
-> *"With a simple prompt, ChatGPT could craft a business proposal, write a resignation letter or explain the inner workings of quantum mechanics. In fact, it worked a lot like Jasper’s core product. **But unlike Jasper, ChatGPT was free.**"*
+> *"With a simple prompt, [[ChatGPT]] could craft a business proposal, write a resignation letter or explain the inner workings of quantum mechanics. In fact, it worked a lot like Jasper’s core product. **But unlike Jasper, ChatGPT was free.**"*
 
 ChatGPT isn't the only threat. There is now an ocean of generative text products that could compete with Jasper; some powered by OpenAI, others not. This has left Jasper looking for ways to [dramatically expand](https://twitter.com/nathanbenaich/status/1597914587948539905?s=20) their product line, and available features. But when you have 100+ generative copywriting tools, do you think you can keep charging [$500 a month](https://www.jasper.ai/pricing)?
 
@@ -96,7 +96,7 @@ ChatGPT isn't the only threat. There is now an ocean of generative text products
 
 The most significant implication of the current wave of innovation in AI feels somewhat unique to this moment. If I were to broaden a lesson from 2021, it's that real long-term business value takes a long time and is difficult to create. AI is just illustrating that example by proving how much more valuable it can be for incumbents.
 
-Several people have written about this idea that existing incumbents with established distribution will fair much better than newer startups:
+Several people have written about this idea that existing incumbents with established [[Distribution|distribution]] will fair much better than newer startups:
 
 [Sam Lessin](https://twitter.com/lessin/status/1619113949227794432?s=20):
 
@@ -104,7 +104,7 @@ Several people have written about this idea that existing incumbents with establ
 
 [Evan Armstrong](https://every.to/napkin-math/ai-looks-like-a-bubble):
 
-> *"AI’s longest-term impact is that it would bring the cost of [digital good creation close to zero](https://every.to/napkin-math/when-creation-goes-to-zero), forcing companies to compete on distribution efficiency… Microsoft, Amazon, and Google will do quite well selling pure-play AI products because they invent or replicate the underlying techniques while simultaneously storing all of the fine-tuning data. As an added bonus, they already sell their products to every company on the planet, giving them a distribution advantage."*
+> *"AI’s longest-term impact is that it would bring the cost of [digital good creation close to zero](https://every.to/napkin-math/when-creation-goes-to-zero), forcing companies to compete on distribution efficiency… [[Microsoft]], [[Amazon]], and Google will do quite well selling pure-play AI products because they invent or replicate the underlying techniques while simultaneously storing all of the fine-tuning data. As an added bonus, they already sell their products to every company on the planet, giving them a distribution advantage."*
 
 [Tomasz Tunguz](https://tomtunguz.com/when-ai-favors-the-incumbent/):
 

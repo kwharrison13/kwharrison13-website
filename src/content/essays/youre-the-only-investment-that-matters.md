@@ -34,7 +34,7 @@ Those are realities that you have to deal with if you're working for anyone else
 
 Instead of casting off the expectations of others just focus on aligning what you want to accomplish with what the people you answer to want to accomplish. And if those values aren't aligned? That's okay. It doesn't mean you suck or they suck, its just a question of alignment.
 
-Charlie Munger had [three rules for a successful career:](https://theprofile.substack.com/p/the-profile-dossier-charlie-munger)
+[[Charlie Munger]] had [three rules for a successful career:](https://theprofile.substack.com/p/the-profile-dossier-charlie-munger)
 
 1. Don't sell anything you wouldn't buy yourself
 2. Don't work for anyone you don't respect and admire

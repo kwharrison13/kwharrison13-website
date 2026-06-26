@@ -32,6 +32,6 @@ related:
 
 ## Connections
 
-- Giorgio Agamben — author
+- [Giorgio Agamben](/notes/giorgio-agamben) — author
 - [Future Mormon](/books/future-mormon) — where Kyle saw it cited
 - [Adam S. Miller](/notes/adam-s-miller) — drew on Agamben's messianic time

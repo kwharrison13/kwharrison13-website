@@ -8,7 +8,7 @@ url: "https://www.perell.com/blog/airpods"
 source_published: "2016-09"
 confidence: "high"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/archive/clippings/What You Don't Know About The Headphone Jack.md"
@@ -34,14 +34,14 @@ related:
 
 **Author:** [David Perell](/notes/david-perell)
 **URL:** https://www.perell.com/blog/airpods
-**One-line:** *An early-Perell read on Apple killing the headphone jack — Airpods aren't just wireless headphones, they're the groundwork for a voice-first, AR future where the line between the digital and analog worlds disappears.*
+**One-line:** *An early-Perell read on Apple killing the headphone jack — [Airpods](/notes/airpods) aren't just wireless headphones, they're the groundwork for a voice-first, [AR](/notes/augmented-reality) future where the line between the digital and analog worlds disappears.*
 
 ## Key claims
 
 - **AirPods are more than headphones.** Quoting Will Oremus — "AirPods aren't just headphones, any more than the first iPhone was just a phone." [Apple ($AAPL)](/notes/apple) is using them to let us accomplish simple tasks without touching our phones; **audio communication is the future of computing.**
-- **The digital and analog worlds are merging.** Apple is building toward a world where we use our voices more and phones less — laying the groundwork for Iron-Man-style augmented reality. The trend is already underway via Uber and Airbnb permeating real life.
-- **Siri becomes an always-on virtual assistant.** Tap your headphones to instantly search the world's information; we'll interact with our surroundings more naturally with our voices instead of staring at a smartphone.
-- **Prediction scorecard (looking ahead to 2021).** Perell forecast driverless cars, VR headsets replacing daily video, and cord-cutting toward streaming. Predicting the Future is hard — Kyle's hindsight grades land only one of three.
+- **The digital and analog worlds are merging.** Apple is building toward a world where we use our voices more and phones less — laying the groundwork for Iron-Man-style [augmented reality](/notes/augmented-reality). The trend is already underway via [Uber](/notes/uber) and Airbnb permeating real life.
+- **Siri becomes an always-on [virtual assistant](/notes/virtual-assistant).** Tap your headphones to instantly search the world's information; we'll interact with our surroundings more naturally with our voices instead of staring at a smartphone.
+- **Prediction scorecard (looking ahead to 2021).** Perell forecast driverless cars, VR headsets replacing daily video, and cord-cutting toward streaming. [Predicting the Future](/notes/predicting-the-future) is hard — Kyle's hindsight grades land only one of three.
 
 ## Notable quotes
 
@@ -60,6 +60,6 @@ Grading Perell's 2021 predictions in hindsight:
 ## How it connects
 
 - [David Perell](/notes/david-perell) — an early-career piece reading a consumer-hardware moment as a platform shift toward voice computing.
-- [Apple ($AAPL)](/notes/apple) / Airpods / [Jony Ive](/notes/jony-ive) — the product and the design philosophy behind killing the jack.
-- augmented reality / virtual assistant — the voice-first, AR endgame the AirPods set up.
-- Predicting the Future — a useful artifact for scoring tech forecasts against what actually happened.
+- [Apple ($AAPL)](/notes/apple) / [Airpods](/notes/airpods) / [Jony Ive](/notes/jony-ive) — the product and the design philosophy behind killing the jack.
+- [augmented reality](/notes/augmented-reality) / [virtual assistant](/notes/virtual-assistant) — the voice-first, AR endgame the AirPods set up.
+- [Predicting the Future](/notes/predicting-the-future) — a useful artifact for scoring tech forecasts against what actually happened.

@@ -21,11 +21,11 @@ substack_url: "https://investing101.substack.com/p/build-whats-fundable"
 
 In 2014, I had just sold my first company. It wasn’t a lot of money, but at the time it felt like all the money I would need for a long time. Afterwards, I felt myself being pulled in a few different directions. [I’ve written before](https://investing101.substack.com/p/vcs-beyond-the-meme?utm_source=publication-search) about one path and the self-discovery that led me to venture capital. But there was another pull I felt to build something else.
 
-I didn’t want to just start something for the sake of starting; I wanted it to mean something. To find a problem worth solving. In my search for meaningful problems, I stumbled upon Y Combinator’s “Request For Startups” in 2014. This is what it [looked like](https://web.archive.org/web/20150809071536/http://www.ycombinator.com/rfs) at the time:
+I didn’t want to just start something for the sake of starting; I wanted it to mean something. To find a problem worth solving. In my search for meaningful problems, I stumbled upon [[Y Combinator]]’s “Request For Startups” in 2014. This is what it [looked like](https://web.archive.org/web/20150809071536/http://www.ycombinator.com/rfs) at the time:
 
 ![Source:Y Combinator](/images/build-whats-fundable-0f8ab31b.png)
 
-I remember being so inspired by it. It felt like an ambitious problem-driven set of questions to be answered. The opportunity for new energy cheaper than anything thats come before. Robots to explore everything from space to the human body. Norman Borlaug-style innovations in food. It was collections of compelling visions like the RFS list that led my second company to focus on distributing solar power in Africa.
+I remember being so inspired by it. It felt like an ambitious problem-driven set of questions to be answered. The opportunity for new energy cheaper than anything thats come before. Robots to explore everything from space to the human body. [[Norman Borlaug]]-style innovations in food. It was collections of compelling visions like the RFS list that led my second company to focus on distributing solar power in [[Africa]].
 
 One important caveat to this piece is that I never applied to YC. I’ve never been to YC’s Demo Day. I watched once during COVID when it was streamed. I’ve invested in a few companies that have done YC. I’ve only ever been in their building in Mountain View once. **For most of my career I have been neither a YC Stan nor a YC Detractor. They were just one piece of this big, beautiful world we call “tech.”** But then earlier this year I saw this tweet:
 
@@ -41,7 +41,7 @@ It was like a word cloud generated from getting fed a million tweets from VC twi
 
 ![Source:Y Combinator](/images/build-whats-fundable-e08dc479.png)
 
-Ever since seeing that, I had often thought about how, really, only Walmart in the US (and eventually Amazon) had employed 1M people. It’s hard to do! The prompt was meant to ask the question of what business models *can* employ a million people in a world where jobs are increasingly disappearing. Thought provoking!
+Ever since seeing that, I had often thought about how, really, only [[Walmart]] in the US (and eventually [[Amazon]]) had employed 1M people. It’s hard to do! The prompt was meant to ask the question of what business models *can* employ a million people in a world where jobs are increasingly disappearing. Thought provoking!
 
 The Fall 2025 version of that? “The First 10-person, $100B Company.”
 
@@ -49,7 +49,7 @@ The Fall 2025 version of that? “The First 10-person, $100B Company.”
 
 On first glance, this maybe feels similar. But its (1) the exact opposite (e.g. employ as *few* people as possible because AI!) and (2) this is basically saying the quiet part out loud. **“What problem will you solve? Who cares! But a lot of VCs are talking about how crazy some of these ‘revenue per employee’ numbers are getting so... you know... do that!”**
 
-That was [Dempsey’s commentary](https://x.com/mhdempsey/status/1900348192740315311). YC was becoming “the best window into what is the current consensus thing.” In fact, you can literally feel the RFS morph around what is, in real time, the consensus thing. In the [Summer 2025](https://www.ycombinator.com/rfs/) list, they had deeply profound categories like “more design founders” and “more AI research labs!” What else was going on in summer 2025? Maybe Scale AI’s “[acquisition](https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution)“ into Meta’s AI research lab in June 2025? Or [Figma’s IPO](https://www.figma.com/blog/ipo-pricing/) in July 2025?
+That was [Dempsey’s commentary](https://x.com/mhdempsey/status/1900348192740315311). YC was becoming “the best window into what is the current consensus thing.” In fact, you can literally feel the RFS morph around what is, in real time, the consensus thing. In the [Summer 2025](https://www.ycombinator.com/rfs/) list, they had deeply profound categories like “more design founders” and “more AI research labs!” What else was going on in summer 2025? Maybe [[Scale AI]]’s “[acquisition](https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution)“ into [[Facebook|Meta]]’s AI research lab in June 2025? Or [Figma’s IPO](https://www.figma.com/blog/ipo-pricing/) in July 2025?
 
 This disappointment with an ambition artifact like the Request For Startups led me down an intellectual rabbit hole.
 
@@ -75,7 +75,7 @@ Here’s my perspective:
 
 ![Source:Boring Business Nerd](/images/build-whats-fundable-91337f29.jpg)
 
-When you look back at the first YC batch in the [Summer of 2005](https://www.ycombinator.com/companies?batch=Summer%202005), you see reflected in the hopeful optimism of Paul Graham’s khaki shorts the desire to lift a rising generation. **YC’s original vision was to act as an on-ramp to a startup ecosystem that was anything but approachable.**
+When you look back at the first YC batch in the [Summer of 2005](https://www.ycombinator.com/companies?batch=Summer%202005), you see reflected in the hopeful optimism of [[Paul Graham]]’s khaki shorts the desire to lift a rising generation. **YC’s original vision was to act as an on-ramp to a startup ecosystem that was anything but approachable.**
 
 [I’ve written before](https://investing101.substack.com/p/revisiting-the-professionalization) about the professionalization of startups and how the number of people working in tech has dramatically increased. But in 2005, SaaS was just a baby. Mobile didn’t exist. Startups were far from a common career path. [I’ve also written before](https://investing101.substack.com/p/the-age-of-incumbents?utm_source=publication-search) about how, at the turn of the century, most of the largest companies in the world were companies like GE, Dutch Shell, and Coca-Cola. Tech was still the budding upstart, not the dominant force in the world.
 
@@ -89,9 +89,9 @@ My belief is that YC’s evolution came as the tech industry’s understandabili
 
 # The Hyperlegibility of Technology
 
-Packy McCormick’s [introduced](https://www.notboring.co/p/hyperlegibility) a word into my lexicon that I now use constantly because it is so effectively descriptive of the world around us: [hyperlegible](https://www.notboring.co/p/hyperlegibility).
+[[Packy McCormick]]’s [introduced](https://www.notboring.co/p/hyperlegibility) a word into my lexicon that I now use constantly because it is so effectively descriptive of the world around us: [hyperlegible](https://www.notboring.co/p/hyperlegibility).
 
-It’s this idea that, because of the access to information via content and cultural nuance via social media, so much of the world around us has become dramatically legible; almost annoyingly so. Think about all these micro cultures that you would have *never* found in an encyclopedia, but now there are entire TV seasons dedicated to.
+It’s this idea that, because of the access to information via content and cultural nuance via [[Social Media|social media]], so much of the world around us has become dramatically legible; almost annoyingly so. Think about all these micro cultures that you would have *never* found in an encyclopedia, but now there are entire TV seasons dedicated to.
 
 The tech industry is the same way. Think about [Silicon Valley](https://www.imdb.com/title/tt2575988/), the TV show. The tech industry is SO hyperlegible that a show made from 2014 to 2019 is still, to this day, an incredibly accurate portrayal of the cultural idiosyncracies of a massive group of people.
 
@@ -143,7 +143,7 @@ The most important takeaway here is that I don’t believe this is YC’s fault.
 
 # The Consensus Capital Machine
 
-A few weeks ago, Roelof Botha at Sequoia gave an [interview](https://youtu.be/z8njhsYUNNk?t=818) where he made the argument that venture capital is not actually an asset class:
+A few weeks ago, [[Roelof Botha]] at [[Sequoia]] gave an [interview](https://youtu.be/z8njhsYUNNk?t=818) where he made the argument that venture capital is not actually an asset class:
 
 > *“If you look at the data, there are basically 20 companies per year on average over the last 20-30 years that have ended up being worth, in realized exits, a billion dollars or more. **Just 20 companies. Despite a lot more money plowing into venture capital, we haven’t seen a material change in the number of companies that are outcomes that are that large.**“*
 
@@ -159,11 +159,11 @@ In the same way that YC’s Request For Startups shifted from problem-driven ide
 
 # Normativity: From Capital To Culture
 
-Peter Thiel gets a lot of credit for being right *a lot*. But what’s funny is that one of the things he’s best known for (e.g. being a “contrarian”) is, once again, something that he was not only early to, but something that has been derided as obvious, while actually becoming increasingly rare. **As The Consensus Capital Machine has raged on, it has only further eradicated the survivability of contrarian perspectives.**
+[[Peter Thiel]] gets a lot of credit for being right *a lot*. But what’s funny is that one of the things he’s best known for (e.g. being a “contrarian”) is, once again, something that he was not only early to, but something that has been derided as obvious, while actually becoming increasingly rare. **As The Consensus Capital Machine has raged on, it has only further eradicated the survivability of contrarian perspectives.**
 
 The ongoing pursuit of consensus has poisoned every aspect of the company building equation and, increasingly, the culture building equation. Everything from the influence of vibes pushing the [CEO of Starbucks](https://fortune.com/2025/10/16/starbucks-ceo-brian-niccol-secret-ai-barista-green-dot/) to go “all in on AI” to the rapid illiberalization of college campuses to places where hard ideas are being genocided.
 
-Venture capital, as a career, has these same characteristics of normativity. One of my favorite investors, Ho Nam, was [asked](https://x.com/honam/status/1986492182136779147?s=20) what he saw as a meaningful flaw in venture capital as an industry, and he pointed to “career pathing”:
+Venture capital, as a career, has these same characteristics of normativity. One of my favorite investors, [[Ho Nam]], was [asked](https://x.com/honam/status/1986492182136779147?s=20) what he saw as a meaningful flaw in venture capital as an industry, and he pointed to “career pathing”:
 
 > *“It’s become a profession where you climb the ladder and **paint by numbers, which is a good way to mass produce paintings.**“*
 
@@ -173,11 +173,11 @@ YC has the same dynamic. Will Manidis [described](https://x.com/WillManidis/stat
 
 Starting a startup, doing YC, raising venture, building a “unicorn.” It’s become the new-age version of go to a good school, get a good job, buy a house in the suburbs. It’s normative culture; the tried a true path. Social media and short-form video only exacerbate the [programmable](https://investing101.substack.com/p/the-bubble-brains-of-venture-capital?utm_source=publication-search) normativity because we see these hyperlegible paths. **The most dangerous thing about hyperlegible life paths is that they diminish the need for critical thinking across the population**. The thinking has been done for you, or so the logic goes.
 
-I saw a [great essay](https://x.com/aryxnsharma/status/1986629850808131646?s=20) on Twitter that, among other things, talked about “defining consensus.” It was criticizing a16z’s new media arm and describing the way media defines and propagates beliefs:
+I saw a [great essay](https://x.com/aryxnsharma/status/1986629850808131646?s=20) on [[Twitter]] that, among other things, talked about “defining consensus.” It was criticizing a16z’s new media arm and describing the way media defines and propagates beliefs:
 
 ![Source:Twitter](/images/build-whats-fundable-8fc16e99.png)
 
-When I think about the true value of something, I often come back to Warren Buffett’s quote about the market. In the short term, its a voting machine; in the long-term it’s a weighing machine. **But the problem with an increasingly consensus-forming, or even consensus-manufacturing system, its that it becomes harder and harder to actually weigh the worth of anything**. That consensus formation invents the value of particular assets, backgrounds, and experiences.
+When I think about the true value of something, I often come back to [[Warren Buffett]]’s quote about the market. In the short term, its a voting machine; in the long-term it’s a weighing machine. **But the problem with an increasingly consensus-forming, or even consensus-manufacturing system, its that it becomes harder and harder to actually weigh the worth of anything**. That consensus formation invents the value of particular assets, backgrounds, and experiences.
 
 That 1947 media campaign about diamonds that the essay mentions? It trickled down through the generations into the pockets of millions of young lives (including my own), installing the logic that the beginning of a new relationship is built on a foundation of spending thousands of dollars on a rock. That is stupid. But I guarantee you millions of people would argue with me; but that’s because they have a normative view.
 
@@ -185,7 +185,7 @@ The same is true in tech. **This normative mentality of building around consensu
 
 There are those who know. Who know the normative path does not lead to the optimal outcomes. I’m reminded of [this distinction](https://news.ycombinator.com/item?id=20981980) behind tech enthusiasts and actual tech workers:
 
-> ***Tech Enthusiasts**: Everything in my house is wired to the Internet of Things! I control it all from my smartphone! My smart-house is bluetooth enabled and I can give it voice commands via alexa! I love the future!   
+> ***Tech Enthusiasts**: Everything in my house is wired to the [[Internet of Things]]! I control it all from my smartphone! My smart-house is bluetooth enabled and I can give it voice commands via alexa! I love the future!   
 >   
 > **Programmers / Engineers**: The most recent piece of technology I own is a printer from 2004 and I keep a loaded gun ready to shoot it if it ever makes an unexpected noise.*
 
@@ -197,7 +197,7 @@ But most don’t know. And loud voices, like YC, make it harder to know. **So ho
 
 When reflecting on the cycle, honestly one of the only answers I could come up with was if we faced a massive economic shock. Though even the paradigm shifts that often come in massive upsets are, increasingly, getting sucked up by incumbents, and rolled into the same existing systems, rather than anything getting disrupted.
 
-When you look at successful contrarian examples, many of them have been built by existing billionaires (Tesla, SpaceX, Palantir, Anduril). The lesson from that, I think, isn’t “be a billionaire first then you can have independent thoughts.” It is, instead, to reflect on what other characteristics often lead to those outcomes. And, in my opinion, **the other commonality that a lot of those companies have is that they’re led by ideological purists. People that believe in a mission.**
+When you look at successful contrarian examples, many of them have been built by existing billionaires ([[Tesla]], SpaceX, [[Palantir]], [[Anduril]]). The lesson from that, I think, isn’t “be a billionaire first then you can have independent thoughts.” It is, instead, to reflect on what other characteristics often lead to those outcomes. And, in my opinion, **the other commonality that a lot of those companies have is that they’re led by ideological purists. People that believe in a mission.**
 
 ## Raising Ideological Purists
 
@@ -243,7 +243,7 @@ First, it inspired Jordi Hays to write a great piece called “[Rage Baiting Is 
 
 It’s not just YC that is feeling the vibe shift. Will’s reaction reminded me of a similar reaction [I wrote about before](https://investing101.substack.com/p/a-fungible-worldview?utm_source=publication-search) when Augustus Doricko, who is building a cloud-seeding company to prevent water shortages, responded to a16z’s backing of Cluely, asking “what is wrong with you people?”
 
-A similar vibe rejection happened recently when Marc Andreessen \*checks notes\* made fun of the Pope. Huh. For those of you who didn’t follow, let me unpack it.
+A similar vibe rejection happened recently when [[Marc Andreessen]] \*checks notes\* made fun of the Pope. Huh. For those of you who didn’t follow, let me unpack it.
 
 First, Pope Leo posted what felt like an incredibly thoughtful take on technology:
 
@@ -263,7 +263,7 @@ Daniel went on TBPN after the back and forth and gave an [excellent summary](htt
 
 > *“For a lot of people, I think the Cluely investment was a real moment...Like, what are we doing? I didn’t come here to build cheating apps. I didn’t come to build apps to help people under 21 gamble. **These don’t seem amoral to me, they seem actually immoral**.”*
 
-Another great essay that came out of a reflection on this back and forth was “[Marc Andreessen as Avatar for Societal Decay](https://www.infinitescroll.us/p/marc-andreessen-as-avatar-for-societal)“ by Jeremiah Johnson. I wanted to quote lots of it, but you should just read it. The TLDR I’ll share from it is this:
+Another great essay that came out of a reflection on this back and forth was “[Marc Andreessen as Avatar for Societal Decay](https://www.infinitescroll.us/p/marc-andreessen-as-avatar-for-societal)“ by [[Jeremiah Johnson]]. I wanted to quote lots of it, but you should just read it. The TLDR I’ll share from it is this:
 
 > *“Marc Andreessen isn’t the cause of our collective societal decay. But he is on decay’s side. The deep irony of the situation is that I am, in the larger picture, supposedly on Marc’s team. My politics are pro-growth politics. I desperately want society to build more housing, more clean energy, more infrastructure. I’m a techno-optimist and think that technology can do amazing things to push society forward. I think “it’s time to build” is a great message. But I’m also trying my hardest to be intellectually honest, so I’m not going to lie to my audience and tell them that the Cheating At Scale app or Army O’ Bots service or the Gamble-fy Everything business plan are good things. **I’m in favor of abundance, but what we choose to build in abundance matters - and casinos are not the same as vaccines.**   
 >   
@@ -279,7 +279,7 @@ What’s more, the ability to criticize bad tech is a fundamental part of choosi
 
 Technology is not a force for good. Technology, like any amorphous collection of concepts and inanimate objects, is a tool. The people who wield technology dictate whether it yields good or bad outcomes.
 
-Incentives are the forces that move people towards particular paths, be they bad or good. But beliefs, if firmly held, can supersede incentives in the pursuit of something more important.
+[[Incentives]] are the forces that move people towards particular paths, be they bad or good. But beliefs, if firmly held, can supersede incentives in the pursuit of something more important.
 
 My incentives may encourage me to lie, cheat, and steal, because each can enrich me economically. **But my beliefs stop me from being a slave to my incentives. They inspire me to live on a higher plane.**
 

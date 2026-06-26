@@ -17,7 +17,7 @@ substack_url: "https://investing101.substack.com/p/regret-porn"
 
 ![Header image for Regret Porn](/images/regret-porn-dedc56c8.png)
 
-Regret is a powerful force in life. It can certainly be instructive. One example I think of often is regret's informative influence on the mindset of "better safe than sorry." In my neighborhood the trash pickup happens every week, but recycling pickup only happens every two weeks. By the end of the two weeks my wife and I have filled the large blue trash can with relics of our Amazon obsession and Diet Coke fetish. Cans and cardboard as far as the eye can see.
+[[Regret]] is a powerful force in life. It can certainly be instructive. One example I think of often is regret's informative influence on the mindset of "better safe than sorry." In my neighborhood the trash pickup happens every week, but recycling pickup only happens every two weeks. By the end of the two weeks my wife and I have filled the large blue trash can with relics of our [[Amazon]] obsession and Diet Coke fetish. Cans and cardboard as far as the eye can see.
 
 The problem is that as easily as we fill up the can every two weeks, its also not always easy for me to remember which week the recycling came. Did it come last week and I forgot to put it out? Is it coming this week? And I've noticed I'm not the only one. I can see everyone up and down the street using the social proof of "did anyone else put their blue can out?" to decide if this week is the week. Often, we’re all wrong.
 
@@ -31,11 +31,11 @@ But regret, often, will teach you the wrong lessons. And if you dwell on it enou
 
 ![Quote card from Lessons To Be Learned section](/images/regret-porn-7c7bb5aa.gif)
 
-As instructive as regret like my missteps with the recycling can be, regret most certainly does not have a perfect instructive hit rate. I think often of [the quote](https://gretchenrubin.com/podcast/little-happier-what-we-can-learn-from-mark-twains-cat/) from Mark Twain:
+As instructive as regret like my missteps with the recycling can be, regret most certainly does not have a perfect instructive hit rate. I think often of [the quote](https://gretchenrubin.com/podcast/little-happier-what-we-can-learn-from-mark-twains-cat/) from [[Mark Twain]]:
 
 > *"**We should be careful to get out of an experience only the wisdom that is in it—and stop there**; lest we be like the cat that sits down on a hot stove-lid. She will never sit down on a hot stove-lid again—and that is well; but also she will never sit down on a cold one anymore."*
 
-Reflecting back on life can be a valuable educational experience. But, as Twain warns, there are dangers in over-extending the lesson. Another way to frame the learning experience is to focus your regret lens on the future. When it comes to future-proofing for regret, one of the best frameworks comes from Jeff Bezos and the [Regret Minimization Framework.](https://alyjuma.medium.com/the-regret-minimization-framework-how-jeff-bezos-made-decisions-4d5a86deaf24) He talks about his decision to start Amazon this way:
+Reflecting back on life can be a valuable educational experience. But, as Twain warns, there are dangers in over-extending the lesson. Another way to frame the learning experience is to focus your regret lens on the future. When it comes to future-proofing for regret, one of the best frameworks comes from [[Jeff Bezos]] and the [Regret Minimization Framework.](https://alyjuma.medium.com/the-regret-minimization-framework-how-jeff-bezos-made-decisions-4d5a86deaf24) He talks about his decision to start Amazon this way:
 
 > *"**I knew that when I was 80 I was not going to regret having tried this**. I was not going to regret trying to participate in this thing called the Internet that I thought was going to be a really big deal. I knew that if I failed I wouldn’t regret that, but **I knew the one thing I might regret is not ever having tried**."*
 
@@ -71,17 +71,17 @@ But regret can start to really hurt when it becomes intensely personal. Regret a
 
 ![Illustration for Geopolitics in 2014 section](/images/regret-porn-d6d58c72.png)
 
-In 2014, I had a friend who had majored in Russian and History. We had a conversation about how Putin was, effectively, playing Hitler's game, but more intelligently. When you look at what has happened today with Ukraine, that feels more obvious. We're staring down the barrel of Russian aggression to take back a lot of Eastern Europe. But back then it was far from obvious. My friend just happened to be very smart.
+In 2014, I had a friend who had majored in Russian and History. We had a conversation about how [[Vladimir Putin|Putin]] was, effectively, playing Hitler's game, but more intelligently. When you look at what has happened today with Ukraine, that feels more obvious. We're staring down the barrel of Russian aggression to take back a lot of Eastern Europe. But back then it was far from obvious. My friend just happened to be very smart.
 
-Now, what was I supposed to do with that information in my early 20's? It's an example of a seeing something early and not taking it to a logical conclusion. The "[therefore, what?](https://investing1012dot0.substack.com/p/the-wrath-of-reading-and-writing?utm_source=publication-search)" American Dynamism, today, is approaching bubble-level frenzy. But for years, it was hiding in plain sight. The idea that we need a stronger defense apparatus. Companies like Palantir and Anduril were born out of that kind of observation. Why didn’t I do anything about it?
+Now, what was I supposed to do with that information in my early 20's? It's an example of a seeing something early and not taking it to a logical conclusion. The "[therefore, what?](https://investing1012dot0.substack.com/p/the-wrath-of-reading-and-writing?utm_source=publication-search)" [[American Dynamism]], today, is approaching bubble-level frenzy. But for years, it was hiding in plain sight. The idea that we need a stronger defense apparatus. Companies like [[Palantir]] and [[Anduril]] were born out of that kind of observation. Why didn’t I do anything about it?
 
 ## Bitcoin in 2015
 
 ![Screenshot demonstrating bitcoin in 2015](/images/regret-porn-4b4bed01.png)
 
-Speaking of Bitcoin pizzas. In January 2015 I was just getting started in venture, and I had a company pitch me on an app to make it easier way for people to buy and sell Bitcoin. Coinbase was 2.5 years old at that point, so they were effectively a competitor. Bitcoin was at [$217.46](https://www.statmuse.com/money/ask/bitcoin-price-january-2015). I even *remember* the company talking about the recent crater in the price of Bitcoin as a good opportunity for more people to get in.
+Speaking of Bitcoin pizzas. In January 2015 I was just getting started in venture, and I had a company pitch me on an app to make it easier way for people to buy and sell Bitcoin. [[Coinbase]] was 2.5 years old at that point, so they were effectively a competitor. Bitcoin was at [$217.46](https://www.statmuse.com/money/ask/bitcoin-price-january-2015). I even *remember* the company talking about the recent crater in the price of Bitcoin as a good opportunity for more people to get in.
 
-What's worse, the company offered us a demo to help us buy Bitcoin. It was right there in front of me. But the extent of my exposure to Bitcoin was this [2014 College Humor video](https://www.youtube.com/watch?v=YuOBzWF0Aws) about "if Google was a guy." One of the jokes is a guy keeps coming back asking, "What is Bitcoin?", "Bitcoin market value?", "how to buy Bitcoin" and finally he comes back, in a panic, "how to unbuy Bitcoin".
+What's worse, the company offered us a demo to help us buy Bitcoin. It was right there in front of me. But the extent of my exposure to Bitcoin was this [2014 College Humor video](https://www.youtube.com/watch?v=YuOBzWF0Aws) about "if [[Alphabet|Google]] was a guy." One of the jokes is a guy keeps coming back asking, "What is Bitcoin?", "Bitcoin market value?", "how to buy Bitcoin" and finally he comes back, in a panic, "how to unbuy Bitcoin".
 
 I declined the demo.
 
@@ -89,7 +89,7 @@ I declined the demo.
 
 ![Illustration for Nvidia in 2022 section](/images/regret-porn-5c39e1ae.png)
 
-In late 2022 / early 2023, I would often catch myself making the joke (and eventually completely serious comment) whenever someone asked me what I thought the best way to ride the AI hype was. I would just say "buy Nvidia." Now, to my credit on this one, I did buy Nvidia in 2022. But I should have sold everything I had, re-mortgaged my house, and put all of it in Nvidia.
+In late 2022 / early 2023, I would often catch myself making the joke (and eventually completely serious comment) whenever someone asked me what I thought the best way to ride the AI hype was. I would just say "buy [[Nvidia]]." Now, to my credit on this one, I did buy Nvidia in 2022. But I should have sold everything I had, re-mortgaged my house, and put all of it in Nvidia.
 
 You can see how the regret porn starts to get away from you, no matter what.
 
@@ -103,7 +103,7 @@ I think having regrets about what I should have bought 10 or 20 years ago, or wh
 
 I've written [over](https://investing1012dot0.substack.com/p/the-inescapable-debate-of-human-nature?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/intellectual-seat-belts?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/the-tail-that-wags-the-dog?utm_source=publication-search) again about about this idea of the role that true beliefs should have in determining your actions:
 
-> *"So often, people trust nuanced tribal group identity and political association without any basis of first principles. I'm not Mormon, or Christian, or Republican, or a Costco member. I am a system of values and beliefs that determine how I act. **Group membership should be a lagging indicator of your beliefs, not a leading indicator.** When people substitute their own value system with a cookie-cutter platform from their in-group the first thing to die is nuance."*
+> *"So often, people trust nuanced tribal group identity and political association without any basis of first principles. I'm not [[Mormon]], or Christian, or Republican, or a [[Costco]] member. I am a system of values and beliefs that determine how I act. **Group membership should be a lagging indicator of your beliefs, not a leading indicator.** When people substitute their own value system with a cookie-cutter platform from their in-group the first thing to die is nuance."*
 
 This is true not just of group membership, but in general. **Beliefs should be leading indicators of actions, instead of lagging indicators.** You should buy the stock because you believe the story, not believe the story because you bought the stock. We should spend more time finding and understanding stories that we want to believe, and then acting on those beliefs.
 
@@ -133,7 +133,7 @@ Man. Even before I started writing this piece I had thought about Midnight in Pa
 
 So Gil leaves Adriana in 1890 and goes back to 2010 Paris. As he's [walking](https://www.youtube.com/watch?v=DJTdRhB_d4E), he runs into a woman named Gabrielle; a French antique dealer he'd bonded with previously. He offers to walk with her, but immediately it starts to rain. *A potential regret in the making*. But, in the spirit of Gil's prior monologue, she makes a choice. A real choice. To walk in the rain. After all, as Gabrielle points out, "Paris is the most beautiful in the rain."
 
-So I'll close with that. Dance in the rain my friends. **Bask in your own Golden Age. It can, and will always be, in the present.** Does the past hold beauty? Yes. It also holds all your shame, and regret, and pain, and sorrow. But don't let fear be the result of the past. Let it be freedom. As Tim Urban likes to point out, there is only one path the past has taken, but the number of paths the future could take is unlimited.
+So I'll close with that. Dance in the rain my friends. **Bask in your own Golden Age. It can, and will always be, in the present.** Does the past hold beauty? Yes. It also holds all your shame, and regret, and pain, and sorrow. But don't let fear be the result of the past. Let it be freedom. As [[Tim Urban]] likes to point out, there is only one path the past has taken, but the number of paths the future could take is unlimited.
 
 ![Source:Twitter](/images/regret-porn-203d5d28.png)
 

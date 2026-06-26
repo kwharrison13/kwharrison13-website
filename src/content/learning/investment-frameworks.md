@@ -4,7 +4,7 @@ type: "learning"
 format: "frameworks"
 publish: true
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-26"
 confidence: "high"
 description: "A curated library of investment frameworks and checklists from leading investors, VCs, and fund managers — covering everything from startup metrics to public market valuation."
 sources: []
@@ -173,7 +173,7 @@ A curated library of investment frameworks, checklists, and mental models from l
 - Is the vision compelling?
 - If I wasn't a VC, would I want to work for the founders at the startup?
 
-## Bill Ackman & Pershing Square Principles
+## [Bill Ackman](/notes/bill-ackman) & Pershing Square Principles
 
 - Simple
 - Predictable
@@ -321,7 +321,7 @@ A curated library of investment frameworks, checklists, and mental models from l
 - How do the economics compare to the reported earnings?
 - How are the interests of the decision makers aligned with investors?
 
-## Don Valentine's Original Question
+## [Don Valentine](/notes/don-valentine)'s Original Question
 
 - Why should I care about this?
 
@@ -510,7 +510,7 @@ A curated library of investment frameworks, checklists, and mental models from l
 - Do you have a diversified customer base?
 - How efficient are you with your capital? ("The world is littered with $25M software companies that have burned $60M to get there.")
 
-## Lenny Rachitsky's How to Kickstart and Scale a Marketplace Business
+## [Lenny Rachitsky](/notes/lenny-rachitsky)'s How to Kickstart and Scale a Marketplace Business
 
 *[Source](https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace)*
 
@@ -663,7 +663,7 @@ A curated library of investment frameworks, checklists, and mental models from l
 - How long do you anticipate holding the stock?
 - If you ultimately have to get out, what's the likely reason you were wrong?
 
-## Phil Fisher's 15 Questions
+## [Phil Fisher](/notes/phil-fisher)'s 15 Questions
 
 - Does the company have products/services with sufficient market potential to make possible a sizable increase in sales for at least several years?
 - Does the management have a determination to continue to develop products or processes that will further increase sales when current product lines have been exploited?

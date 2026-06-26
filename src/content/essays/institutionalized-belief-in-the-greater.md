@@ -35,7 +35,7 @@ In case you haven't seen the news, [this is the best overview I've read](https:/
 
 COVID happened, and the company exploded. From November 2020 to August 2021, **the company's valuation went from $2B to $7.7B. The company also reached $100M+ of revenue, serving 100K+ organizations running 15K+ events per month!** Across [4 rounds in 14 months](https://www.crunchbase.com/organization/hopin-8ff6/company_financials), the company raised ~$1B in funding! Boufarhat, the CEO, wasn't without his own enrichment. Over the course of those rounds, he sold ~$200M of secondary.
 
-And then, wouldn't you know it, COVID restrictions started to lift, people could travel again, and Hopin's usefulness **dropped from 15K events per month to 158.** After several rounds of layoffs, Boufarhat announced he was stepping down and **the company's flagship virtual events product was being sold to RingCentral for [$15 million in cash with $35 million in potential performance-based earn outs](https://www.sec.gov/Archives/edgar/data/1384905/000138490523000032/rng-20230630.htm).** The acquisition was barely a footnote for RingCentral, with the CFO [saying they](https://meetings.skift.com/hopin-events-and-session-products-sold-for-15-illion/) “expect the acquisition [of Hopin’s assets] to have an immaterial impact on our revenue and expenses in 2023."
+And then, wouldn't you know it, COVID restrictions started to lift, people could travel again, and Hopin's usefulness **dropped from 15K events per month to 158.** After several rounds of layoffs, Boufarhat announced he was stepping down and **the company's flagship virtual events product was being sold to [[RingCentral]] for [$15 million in cash with $35 million in potential performance-based earn outs](https://www.sec.gov/Archives/edgar/data/1384905/000138490523000032/rng-20230630.htm).** The acquisition was barely a footnote for RingCentral, with the CFO [saying they](https://meetings.skift.com/hopin-events-and-session-products-sold-for-15-illion/) “expect the acquisition [of Hopin’s assets] to have an immaterial impact on our revenue and expenses in 2023."
 
 ![Animated GIF about man, oh man. so much to unpack here.](/images/institutionalized-belief-in-the-greater-8ac15c02.gif)
 
@@ -43,11 +43,11 @@ Man, oh man. So much to unpack here.
 
 Hopin has joined some prestigious names in the hall-of-fame for capital destruction:
 
-- WeWork? Raised [$22B](https://www.crunchbase.com/organization/wework/investor_financials) in equity + debt at a peak valuation of $47B. Currently has $200M in cash, and a market cap of $431M. Recently [announced](https://www.cbsnews.com/news/wework-going-concern-substantial-doubt-warning/) their doubts about the company's ability to continue as a "going concern."
-- Peloton? Raised [$1.9B](https://www.crunchbase.com/organization/peloton-interactive/company_financials) at a peak valuation of $45B. Currently has $870M in cash, and a market cap of $3.4B.
-- Lyft? Raised [$4.9B](https://www.crunchbase.com/organization/lyft/company_financials) at a peak valuation of $20B. Currently has $638M in cash, and a market cap of $4.4B.
+- [[WeWork]]? Raised [$22B](https://www.crunchbase.com/organization/wework/investor_financials) in equity + debt at a peak valuation of $47B. Currently has $200M in cash, and a market cap of $431M. Recently [announced](https://www.cbsnews.com/news/wework-going-concern-substantial-doubt-warning/) their doubts about the company's ability to continue as a "going concern."
+- [[Peloton]]? Raised [$1.9B](https://www.crunchbase.com/organization/peloton-interactive/company_financials) at a peak valuation of $45B. Currently has $870M in cash, and a market cap of $3.4B.
+- [[Lyft]]? Raised [$4.9B](https://www.crunchbase.com/organization/lyft/company_financials) at a peak valuation of $20B. Currently has $638M in cash, and a market cap of $4.4B.
 - Quibi? Raised [$1.8B](https://www.crunchbase.com/organization/quibi/company_financials). Currently has $0M in cash, and a market cap of $0.
-- Bird? Raised [~$1B](https://www.crunchbase.com/organization/bird/company_financials) at a peak valuation of [$2.5B](https://venturebeat.com/transportation/bird-raises-275-million-at-a-2-5-billion-valuation/). **Currently has $6.8M in cash, and a market cap of $22M!!** 😱
+- [[Bird]]? Raised [~$1B](https://www.crunchbase.com/organization/bird/company_financials) at a peak valuation of [$2.5B](https://venturebeat.com/transportation/bird-raises-275-million-at-a-2-5-billion-valuation/). **Currently has $6.8M in cash, and a market cap of $22M!!** 😱
 
 Don't even get me started on any other SPACs (I'm looking at you [Mr. Next Warren Buffett](https://twitter.com/chamath/status/1331278297930428417?s=20)).
 
@@ -59,7 +59,7 @@ But, like many of the examples of excess I've unpacked before, there's plenty to
 
 The first that I came back to is how unsurprising it feels like this is. Just about everyone working in startups has had some version of [this experience](https://www.tiktok.com/@corporate.bro/video/7208725677636472106?_r=1&_t=8aWyQXx364Z): "this doesn't make sense, does it?"
 
-Crypto mania. Billion-dollar valuations for pre-revenue companies. Investors branding themselves as "micro mobility investors." Even [much of the current hype in AI](https://www.theinformation.com/articles/tome-ai-startup-founded-by-ex-meta-managers-discusses-fundraising-at-600-million-valuation?rc=ecjlpf). All of it leaves you scratching your head, trying to understand how that can make sense.
+[[Crypto]] mania. Billion-dollar valuations for pre-revenue companies. Investors branding themselves as "micro mobility investors." Even [much of the current hype in AI](https://www.theinformation.com/articles/tome-ai-startup-founded-by-ex-meta-managers-discusses-fundraising-at-600-million-valuation?rc=ecjlpf). All of it leaves you scratching your head, trying to understand how that can make sense.
 
 In the case of Hopin, you see a lot of instances of people being surprised. Here's a couple examples:
 
@@ -77,7 +77,7 @@ Instead, the reality is that human behavior changes very little, and when it doe
 
 But when things don't feel right (e.g. will the vast majority of people really want to be doing virtual events forever?) its probably because they're NOT right.
 
-Ecommerce is another example of something that people assumed would be changed forever. COVID had unlocked the online world, and we were never going back to normal. But the reality is that change has an almost gravitational force, and its very difficult for anything to make it happen more quickly or more slowly.
+[[E-Commerce|Ecommerce]] is another example of something that people assumed would be changed forever. COVID had unlocked the online world, and we were never going back to normal. But the reality is that change has an almost gravitational force, and its very difficult for anything to make it happen more quickly or more slowly.
 
 ![Source:FRED](/images/institutionalized-belief-in-the-greater-2b8cb4ca.png)
 
@@ -139,23 +139,23 @@ Whether you're the CEO of Hopin selling $200M in secondary, or a founder pitchin
 
 I debated leaving this part out because I'm not sure I believe it. So consider this a mental exercise, not a statement of fact.
 
-I think Stripe is an exceptional business, and one that has produced not only very good products, but a powerful culture, countless exceptional operators, an incredible example of the power of documentation, and an [awesome book publishing operation](https://press.stripe.com/) to boot.
+I think [[Stripe]] is an exceptional business, and one that has produced not only very good products, but a powerful culture, countless exceptional operators, an incredible example of the power of documentation, and an [awesome book publishing operation](https://press.stripe.com/) to boot.
 
-But recently I saw a side-by-side comparison of Stripe vs. Adyen that stuck with me:
+But recently I saw a side-by-side comparison of Stripe vs. [[Adyen]] that stuck with me:
 
 ![Source:Twitter](/images/institutionalized-belief-in-the-greater-7061ff0e.png)
 
-While Stripe and Adyen are at similar scale of payment volumes (~$800B), Stripe has a better take rate (1.8% vs. Adyen's 1.2%). Stripe also has a better gross margin at ~22% (vs. Adyen's 15%). However, profitability is where these two businesses are in dramatically different places. On $1.4B of net revenue, Adyen is generating $766M of EBITDA (54% margin). Stripe? Negative $80M EBITDA on $3.2B of net revenue.
+While Stripe and Adyen are at similar scale of payment volumes (~$800B), Stripe has a better take rate (1.8% vs. Adyen's 1.2%). Stripe also has a better gross margin at ~22% (vs. Adyen's 15%). However, profitability is where these two businesses are in dramatically different places. On $1.4B of net revenue, Adyen is generating $766M of [[EBITDA]] (54% margin). Stripe? Negative $80M EBITDA on $3.2B of net revenue.
 
 Now, again. I don't think this means Stripe is a bad business. Far from it. But what I'm exploring is this concept that **the institutionalized idea of the greater fool is a product of the 13 year bull market that started in 2009** (if you don't count the temporary drop at the beginning of COVID). And it's interesting to me that Adyen was founded in 2006 vs. Stripe was founded in 2010.
 
-I'll say it one more time. I do not think Stripe is a bad business. **But I think businesses whose operating model and valuation mechanisms were crafted between 2009 and 2021 all have a fundamental flaw of believing that the institutionalized belief in the greater fool will allow the next investor (the bag holder) to hide a multitude of sins.** Though, there are some notable exceptions, like Datadog and Airbnb, that I think have healthier P&Ls.
+I'll say it one more time. I do not think Stripe is a bad business. **But I think businesses whose operating model and valuation mechanisms were crafted between 2009 and 2021 all have a fundamental flaw of believing that the institutionalized belief in the greater fool will allow the next investor (the bag holder) to hide a multitude of sins.** Though, there are some notable exceptions, like [[Datadog]] and Airbnb, that I think have healthier P&Ls.
 
 I'm a fervent believer in the need for technological progress and rapid change. And I believe that venture capital is an overwhelmingly net positive force in the innovation necessary to drive that progress and change. **But venture capital, as a discipline, runs an existential risk of invalidating itself by becoming institutionally what crypto is colloquially**. If venture capital is just about "[creating] the impression that recoupment", then its no better than the pump and dumps of the crypto bros.
 
 We need to be better, both as venture capitalists, and as founders. We don't need a more fervent belief in a greater fool. We need a stronger commitment to building businesses of which we would NEVER want to sell a share.
 
-People want to idolize Warren Buffett's success, but never his practices. And what are his two most poignant practices? (1) [Get rich slowly](https://www.beingguru.com/warren-buffett-nobody-wants-to-get-rich-slow/), and (2) [never sell a share of Berkshire Hathaway](https://web.archive.org/web/20230503033024/https://www.nytimes.com/2023/05/02/opinion/warren-buffett-berkshire-hathaway-social-governance.html). I recognize the need for liquidity, both for founders trying to live their lives, and VCs trying to generate returns for LPs. So none of this is a blanket statement of good or bad.
+People want to idolize [[Warren Buffett]]'s success, but never his practices. And what are his two most poignant practices? (1) [Get rich slowly](https://www.beingguru.com/warren-buffett-nobody-wants-to-get-rich-slow/), and (2) [never sell a share of Berkshire Hathaway](https://web.archive.org/web/20230503033024/https://www.nytimes.com/2023/05/02/opinion/warren-buffett-berkshire-hathaway-social-governance.html). I recognize the need for liquidity, both for founders trying to live their lives, and VCs trying to generate returns for LPs. So none of this is a blanket statement of good or bad.
 
 But it is a statement against excess. Too many people want to get rich quickly, and to do it by selling to the greater fool. And that is a problem.
 

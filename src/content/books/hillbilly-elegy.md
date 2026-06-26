@@ -8,14 +8,14 @@ tags:
   - "city-building"
   - "people-over-politics"
   - "ideological-family-tree"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-J.D. Vance's memoir read with attention to structural-trap dynamics in declining communities. Two threads:
+[J.D. Vance](/notes/j-d-vance)'s memoir read with attention to structural-trap dynamics in declining communities. Two threads:
 
 1. **Housing as the trap.** "As jobs disappear in a given area, declining home values trap people in certain neighborhoods." The mobility-suppression mechanism the book documents.
 
@@ -39,7 +39,7 @@ A standalone note: "students don't expect much from themselves, because the peop
 - It’s about a culture that increasingly encourages social decay instead of counteracting it. <!--rwid:rwid-d4c5bff15e7d-->
 - Did I want to make them proud? Of course I did, but not because I pretended to like them; I genuinely loved them. <!--rwid:rwid-5393678cf12b-->
 - “There is nothing lower than the poor stealing from the poor. It’s hard enough as it is. We sure as hell don’t need to make it even harder on each other.” <!--rwid:rwid-f56af88817ba-->
-- Despite the setbacks, both of my grandparents had an almost religious faith in hard work and the American Dream. Neither was under any illusions that wealth or privilege didn’t matter in America. <!--rwid:rwid-0bbf1960f2bd-->
+- Despite the setbacks, both of my grandparents had an almost religious faith in hard work and [the American Dream](/notes/american-dream). Neither was under any illusions that wealth or privilege didn’t matter in America. <!--rwid:rwid-0bbf1960f2bd-->
 - As jobs disappear in a given area, declining home values trap people in certain neighborhoods. <!--rwid:rwid-280676fb27e4-->
   > **Kyle:** *And even if you bring back the jobs, you have to worry about the mass exodus at the slightest sign of rising home prices*
 - “A lot of students just don’t understand what’s out there,” she told me, shaking her head. “You have the kids who plan on being baseball players but don’t even play on the high school team because the coach is <!--rwid:rwid-1e045ed5f6a3-->

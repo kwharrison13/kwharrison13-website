@@ -20,7 +20,7 @@ substack_url: "https://investing101.substack.com/p/legible-to-yourself"
 
 \_\_
 
-T.S. Eliot [wrote](https://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html) “We shall not cease from exploration. And the end of all our exploring Will be to arrive where we started **And know the place for the first time**.”
+[[T.S. Eliot]] [wrote](https://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html) “We shall not cease from exploration. And the end of all our exploring Will be to arrive where we started **And know the place for the first time**.”
 
 While we strive so much for the journey of exploration, we mustn’t forget that the end to which **we will all eventually come is to arrive wherever we’re strived towards and realize we know ourselves for the first time**.
 
@@ -30,9 +30,9 @@ Think of a soul being legible to Themselves as being magnetically charged to the
 
 Becoming legible to Themselves is the single greatest superpower for a fledgling person. Gods in embryo.
 
-Look at Keanu Reeves, look at Mr. Rogers, look at Patrick Collison, look at Tyler Cowen or Naval Ravikant. These are all superhumans at being legible to Themselves.
+Look at Keanu Reeves, look at Mr. Rogers, look at [[Patrick Collison]], look at [[Tyler Cowen]] or [[Naval Ravikant]]. These are all superhumans at being legible to Themselves.
 
-Consider the [words](https://www.environmentandsociety.org/mml/walden-or-life-woods) of Henry David Thoreau: “**I wanted to live deep and suck out all the marrow of life**, to live so sturdily and Spartan-like as to put to rout all that was not life.”
+Consider the [words](https://www.environmentandsociety.org/mml/walden-or-life-woods) of [[Henry David Thoreau]]: “**I wanted to live deep and suck out all the marrow of life**, to live so sturdily and Spartan-like as to put to rout all that was not life.”
 
 It’s worth noticing how people become legible to Themselves:
 

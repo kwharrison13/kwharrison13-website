@@ -2,33 +2,39 @@
 title: "Student Debt"
 type: "concept"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
+  - "wiki/concepts/Income Share Agreements (ISA).md"
 tags: []
 aliases:
   - "Student Debt"
 related:
   - "[[Income Share Agreements (ISA)]]"
+  - "[[Lambda School]]"
 ---
 
 # Student Debt
 
-_Stub — concept captured from Kyle's June 29th, 2021 Roam "Quick Capture" reading log. The links below are sources Kyle saved to explore this topic; not yet synthesized._
+A reading/sourcing theme Kyle captured as an Index Ventures investing lens: student debt as the problem that education-financing startups exist to solve. The saved-reading cluster (below) is the skeptical and macro side of the file — the Fortune "student loans as economic bubble" piece, New America's "Income share agreements aren't the solution to student debt," the urban/rural and gender breakdowns of who carries the debt, and the *NYT* DealBook coverage of Lambda School's ISA model. It pairs directly with the sibling concept [Income Share Agreements (ISA)](/notes/income-share-agreements-isa), which holds the constructive case Kyle heard across his calls — that financing should underwrite to future earning potential rather than FICO, and that ISAs are the less-predatory alternative for students who would otherwise be locked out of credit (e.g. the "90%+ of student loans require a co-signor" problem Tess Michaels raised at Stride Funding).
+
+The two pages are deliberately split: [Income Share Agreements (ISA)](/notes/income-share-agreements-isa) aggregates Kyle's grounded call notes and the bull case, while this page holds the saved-but-not-yet-synthesized reading that frames the underlying problem and the critiques of ISAs as a solution (including the contrast with Lambda School's steep monthly fees, flagged elsewhere as "highway robbery").
+
+**Context:** US student loan debt exceeded ~$1.5 trillion by the late 2010s, becoming a central policy and political issue — and the implicit market that income-share-agreement startups positioned themselves against.
 
 ## Quick Capture links — June 29th, 2021
 
-- https://fortune.com/2017/07/10/higher-education-student-loans-economic-bubble-federal/?utm_source=fortune.com&utm_medium=email&utm_campaign=term-sheet&utm_content=2019010814pm&eminfo=%7b%22EMAIL%22%3a%222iBDIHKg86%2bAqtp%2fUag3Qd6HGpWbRE2a%22%2c%22BRAND%22%3a%22FO%22%2c%22CONTENT%22%3a%22Newsletter%22%2c%22UID%22%3a%22FO_TRM_FBA37D19-A034-4A90-B0C9-28B204052151%22%2c%22SUBID%22%3a%2271540292%22%2c%22JOBID%22%3a%22934618%22%2c%22NEWSLETTER%22%3a%22TERM_SHEET%22%2c%22ZIP%22%3a%22%22%2c%22COUNTRY%22%3a%22%22%7d
-- https://www.newamerica.org/education-policy/edcentral/income-share-agreements-arent-solution-student-debt/?eminfo=%7b%22EMAIL%22%3a%222iBDIHKg86%2bAqtp%2fUag3Qd6HGpWbRE2a%22%2c%22BRAND%22%3a%22FO%22%2c%22CONTENT%22%3a%22Newsletter%22%2c%22UID%22%3a%22FO_TRM_FBA37D19-A034-4A90-B0C9-28B204052151%22%2c%22SUBID%22%3a%2271540292%22%2c%22JOBID%22%3a%22934618%22%2c%22NEWSLETTER%22%3a%22TERM_SHEET%22%2c%22ZIP%22%3a%22%22%2c%22COUNTRY%22%3a%22%22%7d
-- https://www.nytimes.com/2019/01/08/business/dealbook/education-student-loans-lambda-schools.html?eminfo=%7b%22EMAIL%22%3a%222iBDIHKg86%2bAqtp%2fUag3Qd6HGpWbRE2a%22%2c%22BRAND%22%3a%22FO%22%2c%22CONTENT%22%3a%22Newsletter%22%2c%22UID%22%3a%22FO_TRM_FBA37D19-A034-4A90-B0C9-28B204052151%22%2c%22SUBID%22%3a%2271540292%22%2c%22JOBID%22%3a%22934618%22%2c%22NEWSLETTER%22%3a%22TERM_SHEET%22%2c%22ZIP%22%3a%22%22%2c%22COUNTRY%22%3a%22%22%7d
-- https://www.axios.com/student-debt-urban-rural-divide-4418ba84-257c-4790-804c-efd40756c0a4.html
-- https://fortune.com/2018/06/05/women-student-loan-debt/
-- https://www.nytimes.com/interactive/2018/08/25/opinion/sunday/student-debt-loan-default-college.html?utm_source=pocket&utm_medium=email&utm_campaign=pockethits&mtrref=undefined&gwh=76FD215310EC65416CFEA941327C6811&gwt=pay
-- https://www.motherjones.com/politics/2018/08/debt-student-loan-forgiveness-betsy-devos-education-department-fedloan/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits
+- Fortune (2017): higher education / student loans as an economic bubble — https://fortune.com/2017/07/10/higher-education-student-loans-economic-bubble-federal/
+- New America: "Income share agreements aren't the solution to student debt" — https://www.newamerica.org/education-policy/edcentral/income-share-agreements-arent-solution-student-debt/
+- NYT DealBook (2019): education / student loans / Lambda School — https://www.nytimes.com/2019/01/08/business/dealbook/education-student-loans-lambda-schools.html
+- Axios: the urban/rural student-debt divide — https://www.axios.com/student-debt-urban-rural-divide-4418ba84-257c-4790-804c-efd40756c0a4.html
+- Fortune (2018): women and student loan debt — https://fortune.com/2018/06/05/women-student-loan-debt/
+- NYT Opinion (2018): student debt, loan default, and college — https://www.nytimes.com/interactive/2018/08/25/opinion/sunday/student-debt-loan-default-college.html
+- Mother Jones (2018): debt, loan forgiveness, Betsy DeVos, FedLoan — https://www.motherjones.com/politics/2018/08/debt-student-loan-forgiveness-betsy-devos-education-department-fedloan/
 
-## Related concepts
+## Where this appears
 
-- [Income Share Agreements (ISA)](/notes/income-share-agreements-isa)
+- [Income Share Agreements (ISA)](/notes/income-share-agreements-isa) — sibling concept; ISAs are framed as a response to the student-debt problem this page collects, and the ISA page cites this saved-reading cluster for the skeptical case.

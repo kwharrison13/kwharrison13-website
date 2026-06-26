@@ -2,40 +2,41 @@
 title: "Playbooks"
 type: "concept"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-23"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
+  - "wiki/essays/The Professionalization of Startups.md"
+  - "wiki/essays/Revisiting The Professionalization of Startups.md"
+  - "wiki/essays/The State of Startup Media.md"
 tags: []
 aliases:
   - "Playbooks"
 related:
-  - "[[GovTech]]"
+  - "[[The Professionalization of Startups]]"
+  - "[[Revisiting The Professionalization of Startups]]"
+  - "[[The State of Startup Media]]"
+  - "[[Product]]"
+  - "[[Sales]]"
   - "[[Growth]]"
-  - "[[Investing 101 2.0]]"
-  - "[[M&A]]"
   - "[[Management]]"
-  - "[[Playbook: Finance]]"
-  - "[[Playbook: Government Regulation]]"
+  - "[[M&A]]"
+  - "[[Playbook: Sales]]"
+  - "[[Playbook: Product]]"
   - "[[Playbook: Growth]]"
-  - "[[Playbook: M&A]]"
   - "[[Playbook: Marketing]]"
   - "[[Playbook: Operations]]"
-  - "[[Playbook: Product]]"
-  - "[[Playbook: Restaurants]]"
-  - "[[Playbook: Sales]]"
-  - "[[Playbook: Taxes]]"
-  - "[[Product]]"
-  - "[[Product Management]]"
-  - "[[Professional Services]]"
-  - "[[Sales]]"
 ---
 
 # Playbooks
 
-_Stub — concept captured from Kyle's June 29th, 2021 Roam "Quick Capture" reading log. The links below are sources Kyle saved to explore this topic; not yet synthesized._
+"Playbooks" is the third leg of Kyle's "process, people, and playbooks" frame for how tech gets built — the through-line of [The Professionalization of Startups](/essays/the-professionalization-of-startups) and its sequel [Revisiting The Professionalization of Startups](/essays/revisiting-the-professionalization). The argument: a generation of operators spent years not just learning but *inventing* the playbooks and best-practices of modern company-building (PLG, GTM motions, the Figma approach), becoming "nodes within the collective knowledge base around building technology," and that generation is now "coming into their own as managers and leaders." Tools like purpose-built PLG CRMs exist precisely to "replicate the hard-won lessons of the past few years." In [The State of Startup Media](/essays/the-state-of-startup-media), producing playbooks is held up as an example of generating *new* knowledge — "playbooks, open-source code, demo videos — rather than merely curating the old."
+
+But Kyle's essays carry an explicit caution. In the "Playing the Playbook Game" retrospective, he notes that many companies now follow "fairly established playbooks," which raises two questions: how much arbitrage is left in the known-knowns, and how exposed a well-known playbook becomes to manipulation. There is a spectrum "where playbooks can be transformative or manipulative" — as the game becomes well-understood, people start "playing on the weaknesses of the game itself." His closing advice: "learn from the people, processes, and playbooks that have been explored. But don't turn them into dogma."
+
+Within the wiki, "Playbooks" also functions as a hub for a family of domain-specific operating guides — [Playbook: Sales](/notes/playbook-sales), [Playbook: Product](/notes/playbook-product), [Playbook: Growth](/notes/playbook-growth), [Playbook: Marketing](/notes/playbook-marketing), [Playbook: Operations](/notes/playbook-operations), [Playbook: Finance](/notes/playbook-finance), [Playbook: M&A](/notes/playbook-manda), and others — alongside the broader operating concepts ([Product](/notes/product), [Sales](/notes/sales), [Growth](/notes/growth), [Management](/notes/management), [M&A](/notes/manda)) they instantiate. The Quick Capture links below are sources Kyle saved while building out this topic.
 
 ## Quick Capture links — June 29th, 2021
 
@@ -55,6 +56,12 @@ _Links Kyle saved to this topic in his April 30th, 2020 Roam "Quick Capture" log
 - https://www.nfx.com/post/fintech-enabled-marketplaces — NFX on fintech-enabled marketplaces (embedding financial services into marketplaces as a growth/monetization playbook).
 - https://thinkandgrowinc.com/startup-board-report/ — Think & Grow startup board report.
 - https://thesaasplaybook.substack.com/ — The SaaS Playbook (Substack newsletter). #[people-to-follow](/notes/people-to-follow)
+
+## Where this appears
+
+- [The Professionalization of Startups](/essays/the-professionalization-of-startups) — "process, people, and playbooks" as the frame; operators who invented the playbooks becoming managers and leaders.
+- [Revisiting The Professionalization of Startups](/essays/revisiting-the-professionalization) — the retrospective caution: playbooks span transformative to manipulative; don't turn them into dogma.
+- [The State of Startup Media](/essays/the-state-of-startup-media) — playbooks as an example of producing *new* knowledge rather than curating the old.
 
 ## Related concepts
 

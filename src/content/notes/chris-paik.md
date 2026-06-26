@@ -2,9 +2,9 @@
 title: "Chris Paik"
 type: "person"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
@@ -15,6 +15,8 @@ tags:
 aliases:
   - "Chris Paik"
 related:
+  - "[[Pace Capital]]"
+  - "[[FAANG]]"
   - "[[Contrarianism]]"
   - "[[Conviction-Led Contrarianism]]"
   - "[[Conviction]]"
@@ -23,7 +25,7 @@ related:
 
 # Chris Paik
 
-**One-line:** *Investor (Pace Capital) whose "right AND clever" critique explains why obvious truths get ignored.*
+An investor at [Pace Capital](/notes/pace-capital) whose "right AND clever" observation Kyle uses as a caution against reflexive [Contrarianism](/notes/contrarianism). Paik's point: many public investors avoided [FAANG](/notes/faang) despite it driving the majority of market returns, because owning it felt "too obvious" — "they wanted to be right AND clever." Kyle marshals this in his [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) thinking to argue that conviction won't always land you on a contrarian position; sometimes it lands on a widely held belief that simply happens to be true, and you shouldn't reject an idea just because it's obvious (Conviction-Led Contrarianism - Research).
 
 ## What we know
 

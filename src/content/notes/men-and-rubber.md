@@ -25,7 +25,7 @@ related:
 
 # Men and Rubber
 
-**Author:** Harvey S. Firestone
+**Author:** [Harvey S. Firestone](/notes/harvey-s-firestone)
 
 **Why it's on the list:** *Firestone's business memoir on building his tire empire, distilling his philosophy of work, organization, and self-reliance.*
 

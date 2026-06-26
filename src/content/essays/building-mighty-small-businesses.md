@@ -19,9 +19,9 @@ substack_url: "https://investing101.substack.com/p/building-mighty-small-busines
 
 # What Is The American Dream?
 
-More and more, American Exceptionalism is being put on trial. Declining quality of earnings, healthcare, home ownership; it has all called into question the quality of life in America.
+More and more, [[American Exceptionalism]] is being put on trial. Declining quality of earnings, healthcare, home ownership; it has all called into question the quality of life in America.
 
-But **the concept of the American Dream wasn't just marketing fluff. It was a tangible force that moved millions of people**. From 1850 to 1930 the number of foreign-born people in the US increased from 2.2M to 14.2M. Immigrants became almost [15%](https://www.gilderlehrman.org/history-resources/spotlight-primary-source/map-foreign-born-population-united-states-1900?utm_source=chatgpt.com) of the population. In one generation, 12M people found their way to America. **Through intense sacrifice, they came looking for something here that they didn't think was available anywhere else.**
+But **the concept of the [[American Dream]] wasn't just marketing fluff. It was a tangible force that moved millions of people**. From 1850 to 1930 the number of foreign-born people in the US increased from 2.2M to 14.2M. Immigrants became almost [15%](https://www.gilderlehrman.org/history-resources/spotlight-primary-source/map-foreign-born-population-united-states-1900?utm_source=chatgpt.com) of the population. In one generation, 12M people found their way to America. **Through intense sacrifice, they came looking for something here that they didn't think was available anywhere else.**
 
 So what were they looking for?
 
@@ -46,7 +46,7 @@ Source: [FRED](https://fred.stlouisfed.org/series/BABATOTALSAUS#)
 
 [Amjad Masad](https://x.com/amasad), the CEO of [Replit](https://research.contrary.com/company/replit), made a great point in a [recent interview](https://www.youtube.com/watch?v=9xhDL2GbzaU) about how entrepreneurship has been defined at different points in time:
 
-> *"The way we define entrepreneurship today in Silicon Valley is you build a venture scale business. The way America defined entrepreneurship pre-Silicon Valley is ‘anyone is able to build the business.’ If you look at the numbers of firm creation, it [was] trending down since like the 1960s or 70s. There was an uptick with Covid because Covid got a lot of people to quit their jobs and start online businesses. **I think the form of entrepreneurship that will come back is the more small business entrepreneurship**."*
+> *"The way we define entrepreneurship today in [[Silicon Valley]] is you build a venture scale business. The way America defined entrepreneurship pre-Silicon Valley is ‘anyone is able to build the business.’ If you look at the numbers of firm creation, it [was] trending down since like the 1960s or 70s. There was an uptick with Covid because Covid got a lot of people to quit their jobs and start online businesses. **I think the form of entrepreneurship that will come back is the more small business entrepreneurship**."*
 
 Despite the feelings of yearning in the American soul for business ownership, its been trending down. Covid represented enough of an economic upset that we saw a surge in new businesses getting started. That is good news. **But the bad news is that this new generation of entrepreneurs is teetering on the edge of being co-opted by a very loud minority of single-minded "hustle hacker" VCs solving for a very specific economic outcome.**
 
@@ -74,7 +74,7 @@ I once [tweeted](https://x.com/kwharrison13/status/1848397584530014356) this ima
 
 Think about it. 1,191 startups valued at $1B+. Some of them are worth tens of billions. But even if you assume that each one is just worth $1B, that's **$1.2 TRILLION** of equity value. For a typical investor, you hope to at least generate a 3x return, which means the VC ecosystem writ large is assuming that, from this pool, they can generate $3.6 trillion in value from these companies.
 
-Again, maybe that's not insane. But think about this. From 2012 to 2023, ALL of the tech IPOs after Facebook generated just [~$700B](https://rows.com/tech-ipos-of-the-last-decade?utm_source=chatgpt.com) of market cap.
+Again, maybe that's not insane. But think about this. From 2012 to 2023, ALL of the tech IPOs after [[Facebook]] generated just [~$700B](https://rows.com/tech-ipos-of-the-last-decade?utm_source=chatgpt.com) of market cap.
 
 Here's a key point: for VCs this model can actually work fine. If they get into the ONE company that matters, all the math can shake out.
 
@@ -92,13 +92,13 @@ My fear, as I've talked about [over](https://investing101.substack.com/p/the-lou
 
 **But for the vast majority of entrepreneurs, startups, (and even smaller investors) that** ***does not work*****.** And the danger is that those voices are SO LOUD that they drag a generation of business builders into their very eccentric model, and in the process destroy a generation of businesses that COULD have mattered, but now will never be more than write-offs and disappointments.
 
-There has to be a better way. In fact... there IS a better way. And people are executing on it. And more people should take a page out of that book. Because I want more people to build awesome businesses and be successful. For most of you, you *won't* be the next OpenAI or Databricks or Shopify. **And that is okay.** Honestly, you don't *need* to be the next behemoth tech outcome. And if most of you were honest with yourselves, you wouldn't WANT to be the next behemoth tech outcome.
+There has to be a better way. In fact... there IS a better way. And people are executing on it. And more people should take a page out of that book. Because I want more people to build awesome businesses and be successful. For most of you, you *won't* be the next [[OpenAI]] or [[Databricks]] or [[Shopify]]. **And that is okay.** Honestly, you don't *need* to be the next behemoth tech outcome. And if most of you were honest with yourselves, you wouldn't WANT to be the next behemoth tech outcome.
 
 There is a better way.
 
 # Building Mighty Small Business
 
-Last week, Natasha Mascarenhas had an amazing, exceptional, eye-opening piece in The Information called "[Why Early-Stage Founders Are Opting to ‘Seed-Strap’ Their Startups](https://www.theinformation.com/articles/why-early-stage-founders-are-opting-to-seed-strap-their-startups?rc=stcvvu)." You should just read it all because its so important. But I'll quote extensively from it here to, so I can drive home my point:
+Last week, Natasha Mascarenhas had an amazing, exceptional, eye-opening piece in [[The Information]] called "[Why Early-Stage Founders Are Opting to ‘Seed-Strap’ Their Startups](https://www.theinformation.com/articles/why-early-stage-founders-are-opting-to-seed-strap-their-startups?rc=stcvvu)." You should just read it all because its so important. But I'll quote extensively from it here to, so I can drive home my point:
 
 > *"Startups such as coding assistant Cursor and legal AI software-maker Harvey have become fundraising beasts, raising hundreds of millions of dollars in rounds just months apart. **But some founders are bucking that trend, instead opting to “seed-strap” their businesses, using revenue to expand operations after an initial round of venture capital**.   
 >   
@@ -110,15 +110,15 @@ Last week, Natasha Mascarenhas had an amazing, exceptional, eye-opening piece in
 
 So good. This is *exactly* what I'm talking about. Even if you could snap your fingers, get a wish from a genie, or sell your soul, and ensure with 100% certainty that you would be successful and build a $100B business, most people would actually not enjoy that experience. I have a whole other piece I want to write on what kind of person wants to run an empire, **but for the majority of normal people the idea of what these founders are describing — "take control, have a good life, build cool shit and make $5-10M a year?" That's the goddamn American Dream.**
 
-When people hear "small business" they think boring mom & pop shops. But that description above? That's a small business. Albeit an incredible small business.
+When people hear "[[Small Business|small business]]" they think boring mom & pop shops. But that description above? That's a small business. Albeit an incredible small business.
 
-I think ALL THE TIME about Think-cell. A Berlin-based tech company that built a PowerPoint plug-in. Boring, right? Welp. Turns out it was used by [80%](https://www.cinven.com/news-insights/cinven-to-make-a-majority-investment-in-think-cell/) of Fortune 100 companies, had [800K](https://www.cinven.com/news-insights/cinven-to-make-a-majority-investment-in-think-cell/) users, only ~75 employees, and was generating [$200M+](https://x.com/tanayj/status/1601279208982216704) in revenue with [62%](https://x.com/tanayj/status/1601279208982216704) profit margins. And it never raised money. **That means the founders were printing $100M+ in cash each year.**
+I think ALL THE TIME about Think-cell. A Berlin-based tech company that built a [[PowerPoint]] plug-in. Boring, right? Welp. Turns out it was used by [80%](https://www.cinven.com/news-insights/cinven-to-make-a-majority-investment-in-think-cell/) of Fortune 100 companies, had [800K](https://www.cinven.com/news-insights/cinven-to-make-a-majority-investment-in-think-cell/) users, only ~75 employees, and was generating [$200M+](https://x.com/tanayj/status/1601279208982216704) in revenue with [62%](https://x.com/tanayj/status/1601279208982216704) profit margins. And it never raised money. **That means the founders were printing $100M+ in cash each year.**
 
 And here's the craziest part. In our world of $10B+ outcomes and trillion dollar markets? Think-cell is a small business. *That is achievable*. And you don't need to raise $1B+ across 6+ rounds of funding to achieve that type of outcome.
 
 Even if you’re still not successful, it is SO much easier to try and fail if you’ve raised ~$1M vs. if you’ve raised $200M+ at a $1B valuation. You should start a business because of what you can achieve in building a business — not because you want to make your VCs money.
 
-And that has never been more true than it is today. With better and better distribution mechanisms — YouTube, TikTok, Substack, X, Discord. With better and better creation mechanisms with generative AI. It has NEVER been easier to build a business than it is today.
+And that has never been more true than it is today. With better and better distribution mechanisms — [[YouTube]], [[TikTok]], [[Substack]], X, [[Discord]]. With better and better creation mechanisms with generative AI. It has NEVER been easier to build a business than it is today.
 
 **What makes starting something feel hard is not the ability to start, but the weight of the expectations.** But you have to stop and ask yourself... why do you have those expectations?
 

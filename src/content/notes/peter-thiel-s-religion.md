@@ -8,7 +8,7 @@ url: "https://perell.com/essay/peter-thiel/"
 source_published: "2019"
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "https://perell.com/essay/peter-thiel/"
@@ -36,9 +36,9 @@ related:
 
 - **Managing violence is the hidden reason for religious and political institutions.** Human culture began with a murder, fueled by rage and rivalry; without religion, peace cannot be maintained.
 - [Peter Thiel](/notes/peter-thiel)'s worldview rests on three statements: *don't copy your neighbors; time moves forward; the future will be different from the present.*
-- The key influence on Thiel is **[Rene Girard](/notes/rene-girard)** and his **[Mimetic Theory](/notes/mimetic-theory)**: all cultural behavior, beginning with a child's acquisition of language, is imitative — *"a theatre of envy"* where we mime each other's desires.
+- The key influence on [Thiel](/notes/peter-thiel) is **[Rene Girard](/notes/rene-girard)** and his **[Mimetic Theory](/notes/mimetic-theory)**: all cultural behavior, beginning with a child's acquisition of language, is imitative — *"a theatre of envy"* where we mime each other's desires.
 - Girard's evidence base is precisely the material modern people ignore: the Bible, classic fiction ([Marcel Proust](/notes/marcel-proust)), and playwrights ([William Shakespeare](/notes/william-shakespeare)).
-- Thiel professes Christian belief without evangelism: *"I believe Christianity to be true. I don't feel a compelling need to convince other people of that."*
+- Thiel professes Christian belief without evangelism: *"I believe [Christianity](/notes/christianity) to be true. I don't feel a compelling need to convince other people of that."*
 
 ## Highlights
 

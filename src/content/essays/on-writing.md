@@ -24,17 +24,17 @@ The assignment was to write a short story. Everyone in the class wrote one. Mine
 
 It was the first piece of writing I had ever done that someone looked at and said, "this is kinda good." At that point, writing felt like a skill worth developing.
 
-It wasn't until I served a mission for my church that the purpose and utility of writing expanded in my mind. I spent two years studying and teaching. As a missionary for The Church of Jesus Christ of Latter-Day Saints, you spent [at least 2 hours every day studying](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-study-effectively-and-prepare-to-teach?lang=eng).
+It wasn't until I served a mission for my church that the purpose and utility of writing expanded in my mind. I spent two years studying and teaching. As a missionary for [[The Church of Jesus Christ of Latter-day Saints|The Church of Jesus Christ of Latter-Day Saints]], you spent [at least 2 hours every day studying](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-study-effectively-and-prepare-to-teach?lang=eng).
 
 The experience of dedicated time to study something gave me a new appreciation for knowledge. Writing played two roles in my studying: (1) journal keeping to unpack my feelings on the things I was learning, and (2) record keeping to keep track of the most important information. Each of those two functions were encapsulated by two quotes I wrote at the beginning of my study journals:
 
 ## Journal Keeping
 
-> *“While walking in a rapid stream we cannot tread twice in the same water. Neither can we spend twice the same time. When we pass out of that door, the work of this meeting will be closed to us forever. **We shall never spend the time of this evening again. Then should we not keep a record of our work, teachings, and counsel that we give? We should**.” (Wilford Woodruff)*
+> *“While walking in a rapid stream we cannot tread twice in the same water. Neither can we spend twice the same time. When we pass out of that door, the work of this meeting will be closed to us forever. **We shall never spend the time of this evening again. Then should we not keep a record of our work, teachings, and counsel that we give? We should**.” ([[Wilford Woodruff]])*
 
 ## Record Keeping
 
-> *“He is wise who knows the source of knowledge—who knows who has written and where it is to be found.” (A.A. Hodge)*
+> *“He is wise who knows the source of knowledge—who knows who has written and where it is to be found.” ([[A.A. Hodge]])*
 
 Over the course of my 2 year mission I filled 11 study journals with different kinds of notes, quotes, stories, and lessons. Since then, I've been a [relentless notetaker](https://investing1012dot0.substack.com/p/roam-investing). But I still didn't start writing consistently until the beginning of 2022 when I started writing [this blog](https://investing1012dot0.substack.com/).
 
@@ -60,7 +60,7 @@ I, like Frederik, don't consider my writing today to be "great work." But I appr
 
 So, to the "how." I don't have a 9-part course on writing (and if I did you probably shouldn't buy it). I don't have an extensive process or guide. In fact, if I had to boil down the most powerful building block of my own writing it would be this concept of identifying "atomic units of thought."
 
-Take, for example, one of my more popular recent pieces, "[Institutionalized Belief In The Greater Fool](https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater)." Over the course of weeks I was active on Twitter, Linkedin, took notes in meetings, and made references in podcasts. I collect those references in bits and pieces. Then I put them in Roam.
+Take, for example, one of my more popular recent pieces, "[Institutionalized Belief In The Greater Fool](https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater)." Over the course of weeks I was active on [[Twitter]], Linkedin, took notes in meetings, and made references in podcasts. I collect those references in bits and pieces. Then I put them in Roam.
 
 ![Tweet referenced in Atomic Units of Thought section](/images/on-writing-57986a55.png)
 
@@ -70,4 +70,4 @@ The reason that I can wake up Saturday morning and panic write for a few hours, 
 
 That's probably why I always come back to this quote that I lead with on my [personal website](https://kwharrison13.com/), and that's why I'll end with it here as well:
 
-> *"I write because I don't know what I think until I read what I say (Flannery O'Connor)*
+> *"I write because I don't know what I think until I read what I say ([[Flannery O'Connor]])*

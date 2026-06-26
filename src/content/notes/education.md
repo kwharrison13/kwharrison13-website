@@ -2,23 +2,39 @@
 title: "Education"
 type: "concept"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-18"
+updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
   - "wiki/books/Berkshire Hathaway Annual Letters.md"
+  - "wiki/books/Janesville.md"
+  - "wiki/books/Managers Not MBAs.md"
+  - "wiki/books/Range.md"
+  - "wiki/books/Our Towns.md"
+  - "wiki/books/21 Lessons for the 21st Century.md"
 tags: []
 aliases:
   - "Education"
-related: []
+related:
+  - "[[Retraining]]"
+  - "[[Alternative Education]]"
+  - "[[Online Education]]"
+  - "[[MBA Degrees]]"
+  - "[[Janesville]]"
+  - "[[Range]]"
+  - "[[Managers Not MBAs]]"
 reference_count: 1
 ---
 
 # Education
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+Education recurs across Kyle's corpus less as an abstract value than as a contested, often-failing path to work and mobility. The skeptical strand is strongest. [Janesville](/books/janesville) supplies the empirical hit: laid-off workers who went back to school fared *worse* on employment and pay than those who didn't, despite the bipartisan "[Retraining](/notes/retraining) gospel." [Managers Not MBAs](/books/managers-not-mbas) generalizes the critique to graduate education — management is a craft learned in context, not a profession conferred by a degree, and trying to teach it to people who have never managed "is worse than a waste of time." [Hillbilly Elegy](/books/hillbilly-elegy) frames the gap between intelligence and knowledge, and students who "don't expect much from themselves, because the people around them don't do very much."
+
+The constructive strand reimagines what education should be. [Range](/books/range) argues for breadth, "desirable difficulties," and analogical reasoning over early hyperspecialization (David Epstein and the [Alternative Education](/notes/alternative-education) thread). [Our Towns](/books/our-towns) documents STEAM, project-based learning, and a serious embrace of "career technical" training as the next family-wage path replacing lost assembly-line jobs. [21 Lessons for the 21st Century](/books/21-lessons-for-the-21st-century) proposes the "four Cs" (critical thinking, communication, collaboration, creativity) and a secular pedagogy of embracing the unknown. Around these book threads, Kyle has accumulated a large reading log of education-policy and ed-tech links (student debt, MOOCs, apprenticeships, [Online Education](/notes/online-education), homework research, free-college politics) preserved below.
+
+**Context:** "Education" here spans K-12, higher education, vocational/career-technical training, corporate learning and development, and ed-tech — the full institutional landscape of how people acquire skills and credentials.
 
 ## Quick Capture links — June 18, 2026
 
@@ -29,6 +45,12 @@ _Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
 
 ## Where this appears
 
+- [Janesville](/books/janesville) — laid-off workers who retrained fared worse; the "retraining gospel."
+- [Managers Not MBAs](/books/managers-not-mbas) — management as craft, not a degree-conferred profession; the case against the case-method MBA.
+- [Range](/books/range) — breadth and "desirable difficulties" over early hyperspecialization.
+- [Our Towns](/books/our-towns) — STEAM and "career technical" training as the next family-wage path.
+- [21 Lessons for the 21st Century](/books/21-lessons-for-the-21st-century) — the "four Cs" and embracing the unknown.
+- [Hillbilly Elegy](/books/hillbilly-elegy) — the gap between intelligence and knowledge; low self-expectation.
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters)
 
 

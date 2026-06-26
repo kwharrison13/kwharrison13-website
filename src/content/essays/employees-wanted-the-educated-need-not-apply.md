@@ -8,7 +8,7 @@ slug: "employees-wanted-the-educated-need-not-apply"
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/in-defense-of-a-liberal-education">In Defense of a Liberal Education</a>, <a href="/books/dumbing-us-down">Dumbing Us Down</a>, <a href="/books/john-quincy-adams">John Quincy Adams</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/in-defense-of-a-liberal-education">In Defense of a Liberal Education</a>, <a href="/books/1984">1984</a>, <a href="/books/walden">Walden</a>, <a href="/books/dumbing-us-down">Dumbing Us Down</a>, <a href="/books/john-quincy-adams">John Quincy Adams</a></span></div>
 </aside>
 <!-- connections-end -->
 
@@ -32,9 +32,9 @@ Then there’s the other side, and we shall call him Kyl — er, I mean Carl. Ca
 
 Don’t get me wrong, Carl’s a great guy, but sometimes his practicality can be unnerving. And when he’s faced with this idea of job-training vs. meaningful learning, he’s torn. At the end of the day, he’s just known too many people who were really passionate about Russian and the need to find a job took a backseat to the joys of soaking in Dostoyevsky. Until all the sudden that whole “I need a job” thing became more of a front-end collision.
 
-[A lot of smart people](https://www.washingtonpost.com/posteverything/wp/2015/02/18/we-dont-need-more-stem-majors-we-need-more-stem-majors-with-liberal-arts-training/?utm_term=.87c1cec27541) jump to the defense of the liberal arts’ role in an advancing job market with the importance of combining art and science:
+[A lot of smart people](https://www.washingtonpost.com/posteverything/wp/2015/02/18/we-dont-need-more-stem-majors-we-need-more-stem-majors-with-liberal-arts-training/?utm_term=.87c1cec27541) jump to the defense of the [[Liberal Arts|liberal arts]]’ role in an advancing job market with the importance of combining art and science:
 
-“Our culture has drawn an artificial line between art and science, one that did not exist for innovators like Leonardo da Vinci and Steve Jobs. Leonardo’s curiosity and passion for painting, writing, engineering and biology helped him triumph in both art and science; his [study of anatomy](http://www.telegraph.co.uk/culture/art/leonardo-da-vinci/10202124/Leonardo-da-Vinci-Anatomy-of-an-artist.html) and dissections of corpses enabled his incredible [drawings](http://www.bbc.com/culture/story/20130828-leonardo-da-vinci-the-anatomist) of the human figure. When introducing the iPad 2, Jobs, who dropped out of college but continued to audit calligraphy classes, [declared](http://www.newyorker.com/news/news-desk/steve-jobs-technology-alone-is-not-enough): “It’s in Apple’s DNA that technology alone is not enough — it’s technology married with liberal arts, married with the humanities, that yields us the result that makes our heart sing.”
+“Our culture has drawn an artificial line between art and science, one that did not exist for innovators like Leonardo da Vinci and [[Steve Jobs]]. Leonardo’s curiosity and passion for painting, writing, engineering and biology helped him triumph in both art and science; his [study of anatomy](http://www.telegraph.co.uk/culture/art/leonardo-da-vinci/10202124/Leonardo-da-Vinci-Anatomy-of-an-artist.html) and dissections of corpses enabled his incredible [drawings](http://www.bbc.com/culture/story/20130828-leonardo-da-vinci-the-anatomist) of the human figure. When introducing the iPad 2, Jobs, who dropped out of college but continued to audit calligraphy classes, [declared](http://www.newyorker.com/news/news-desk/steve-jobs-technology-alone-is-not-enough): “It’s in [[Apple]]’s DNA that technology alone is not enough — it’s technology married with liberal arts, married with the humanities, that yields us the result that makes our heart sing.”
 
 But here’s the thing. As much as everyone is racing to be Steve Jobs, most people just aren’t.
 
@@ -44,7 +44,7 @@ Ashton Kutcher is the…middle one?
 
 You can say, “we teach them art, culture, how to think deeply, and they can take that into any job they want.” But the average student is going to take the path of least resistance, and that’s usually whatever career path their major lays out for them. As an accounting major, 90%+ of my classmates became public accountants. And that’s nothing to disparage the accounting program, they knew what they were building towards. It is the rare exception for someone to take their major in an alternative or unusual direction. And those programs like philosophy, art history, or classics generally aren’t optimizing for a job.
 
-Okay, if we optimize for employability, that’s great for the workforce in terms of near-term employment statistics. But does that benefit mankind as a whole? The consensus in [our recent Junto conversation](https://medium.com/thejunto) was that it probably makes us worse off as a whole. The decisions in the future are going to be made by reasoning, and if people aren’t equipped with mental capabilities to reason, then how will decisions be made? In Fareed Zakaria’s ‘In Defense of a Liberal Education,’ he opens with a quote:
+Okay, if we optimize for employability, that’s great for the workforce in terms of near-term employment statistics. But does that benefit mankind as a whole? The consensus in [our recent Junto conversation](https://medium.com/thejunto) was that it probably makes us worse off as a whole. The decisions in the future are going to be made by reasoning, and if people aren’t equipped with mental capabilities to reason, then how will decisions be made? In [[Fareed Zakaria]]’s ‘[[In Defense of a Liberal Education]],’ he opens with a quote:
 
 > “We are drowning in information, while starving for wisdom. The world henceforth will be run by synthesizers, people able to put together the right information at the right time, think critically about it, and make important decisions wisely.” (E. O. Wilson)
 > 
@@ -55,7 +55,7 @@ Those with power will become more and more capable of making all the decisions w
 
 [](https://miro.medium.com/proxy/0*TDKOtErMK2TCNk9C.)
 
-Think proles in George Orwell’s 1984
+Think proles in [[George Orwell]]’s [[1984]]
 
 In the midst of our conversation, as a back-and-forth on job-placement vs. liberal education turned into a doomsday scenario, Megumi pointed out something that is maybe commonplace, but that I had never considered.
 
@@ -75,7 +75,7 @@ Most kids don’t see school as a place of discovery, learning who you are, and 
 
 “It will be expected of you my son that as you are favourd with superiour advantages under the instructive Eye of a tender parent, that your improvements should bear some proportion to your advantages. **Nothing is wanting with you, but attention, dilligence and steady application**, Nature has not been deficient.”
 
-I’m of the opinion that children can rise to the expectations we set for them, and the opportunity with which we present them. [Matt Ross](https://en.wikipedia.org/wiki/Matt_Ross_(actor)) (aka Gavin Belson) had this question: “What would happen if I gave my kids 100% of my attention?” And he painted that picture in the movie Captain Fantastic. In the film, there are absolutely realizations of Aragorn’s deficiencies in his approach to parenting. But one scene puts his Walden-esque isolation approach to raising and educating his kids in stark contrast to the every-day American high-schooler.
+I’m of the opinion that children can rise to the expectations we set for them, and the opportunity with which we present them. [Matt Ross](https://en.wikipedia.org/wiki/Matt_Ross_(actor)) (aka Gavin Belson) had this question: “What would happen if I gave my kids 100% of my attention?” And he painted that picture in the movie Captain Fantastic. In the film, there are absolutely realizations of Aragorn’s deficiencies in his approach to parenting. But one scene puts his [[Walden]]-esque isolation approach to raising and educating his kids in stark contrast to the every-day American high-schooler.
 
 [https://www.youtube.com/watch?v=QgvtmO7c-UU&feature=emb_title](https://www.youtube.com/watch?v=QgvtmO7c-UU&feature=emb_title)
 

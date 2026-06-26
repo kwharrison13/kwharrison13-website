@@ -2,25 +2,24 @@
 title: "Mike George"
 type: "person"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-26"
 last_updated_by: "agent"
-sources: []
+sources:
+  - "wiki/books/Amazon Unbound.md"
 tags: []
 aliases:
   - "Mike George"
-related: []
+related:
+  - "[[Amazon Unbound]]"
+  - "[[Jeff Bezos]]"
 ---
 
 # Mike George
 
-_Stub. Mentioned across one or more book pages. Synthesis pending — fill on a future ingestion pass that reads the relevant source highlights._
+In [Amazon Unbound](/books/amazon-unbound) ([Brad Stone](/notes/brad-stone)), Mike George is the Amazon executive who reorganized the [Alexa](/notes/alexa) effort into two-pizza teams under a "north star" document. [Jeff Bezos](/notes/jeff-bezos) is described as having deployed George — who had what Bezos called a "fungible" energy — "like a firefighter to douse the flames of chaos and instill order" across divisions including human resources, marketplace, payments, and later Bezos's private philanthropy, the Day 1 Academies Fund. He led the Alexa unit until 2017, when Tom Taylor took over and set out to "find all the places that customers are suffering from our organizational structure" — a reaction to the product complexity that George's decentralized many-team structure had produced.
 
-## What we know
+## Where this appears
 
-_(nothing yet — placeholder for future passes)_
-
-## Mentioned in
-
-_(auto-populated by lint)_
+- [Amazon Unbound](/books/amazon-unbound) — the "fungible," firefighter-style executive Bezos sent in to instill order across HR, marketplace, payments, philanthropy, and Alexa; ran Alexa via two-pizza teams until 2017.

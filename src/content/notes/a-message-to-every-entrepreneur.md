@@ -8,7 +8,7 @@ url: "https://www.perell.com/blog/2015/5/16/2829n22bo2hpk34q8xr8y8th9bsfyk"
 source_published: "2015-05-16"
 confidence: "high"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/archive/clippings/A Message to Every Entrepreneur.md"
@@ -57,7 +57,7 @@ related:
 
 > "We live in a time where everybody can create a personal brand and create one's own success. You are a business."
 
-> "I've learned more from Ben Thompson, Fred Wilson, Mark Manson, Peter Thiel, Marc Andreesen and Benedict Evans this semester than any of my professors."
+> "I've learned more from [Ben Thompson](/notes/ben-thompson), Fred Wilson, Mark Manson, [Peter Thiel](/notes/peter-thiel), Marc Andreesen and [Benedict Evans](/notes/benedict-evans) this semester than any of my professors."
 
 > "In school there is a 'final' event, something you build towards. In life it is just a constant struggle from one milestone to the next with no framed timeline to work towards. Only you can prioritize your time in the real world."
 

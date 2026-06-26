@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-19"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/people/Jon Powers.md"
@@ -19,9 +19,9 @@ related:
 
 # Experts Only
 
-_Stub — flagged during the 2026-06-19 connection sweep as an entity referenced across the wiki without its own page. Powers launched a podcast called 'Experts Only' on energy innovation and financing; no page exists for it_
+A podcast on energy innovation and financing launched by [Jon Powers](/notes/jon-powers), co-founder of [CleanCapital](/notes/cleancapital) and former Chief Sustainability Officer under President Obama. The reference comes from Kyle's May 2018 intro call with Powers, where it sits alongside his broader interests in third-party finance for clean-energy assets and "energy as a service" beyond utility-scale solar.
 
 ## Where this appears
 
-- [Jon Powers](/notes/jon-powers)
-- [CleanCapital](/notes/cleancapital)
+- [Jon Powers](/notes/jon-powers) — Powers launched the podcast on energy innovation and financing.
+- [CleanCapital](/notes/cleancapital) — the clean-energy finance company Powers co-founded, the context for the podcast.

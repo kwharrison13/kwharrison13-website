@@ -31,7 +31,7 @@ The responses to the tweet were super interesting and got me thinking about a to
 
 Venture fund size.
 
-Both in the responses to my tweet, and in general, this can be a pretty polarizing topic. As I reflected on people's responses for or against this sentiment, I was reminded of the Upton Sinclair [quote](https://www.goodreads.com/quotes/21810-it-is-difficult-to-get-a-man-to-understand-something):
+Both in the responses to my tweet, and in general, this can be a pretty polarizing topic. As I reflected on people's responses for or against this sentiment, I was reminded of the [[Upton Sinclair]] [quote](https://www.goodreads.com/quotes/21810-it-is-difficult-to-get-a-man-to-understand-something):
 
 > *“It is difficult to get a [person] to understand something, when [their] salary depends on [their] not understanding it.”*
 
@@ -41,7 +41,7 @@ For example, one of the most aggressive responses *against* this sentiment came 
 
 No disrespect to Brett, he seems like a cool guy, and Figure seems awesome. But, in terms of where his incentives lies, he talks about how much Figure has raised right in his [Twitter bio.](https://x.com/adcock_brett)
 
-The biggest contender for the pro argument came in the comments of Brett's post from [Sarah Guo](https://x.com/saranormous/status/1826629352383238225), the founder and GP of Conviction, a [$101M](https://www.wsj.com/articles/former-greylock-general-partner-sarah-guo-has-raised-a-101-million-fund-11665004353) seed fund. Sarah made the argument that SpaceX, arguably the most important "big swings" of building an “exciting future,” was first supported by Founders Fund out of a [$202M fund](https://x.com/saranormous/status/1826630153109475799).
+The biggest contender for the pro argument came in the comments of Brett's post from [Sarah Guo](https://x.com/saranormous/status/1826629352383238225), the founder and GP of Conviction, a [$101M](https://www.wsj.com/articles/former-greylock-general-partner-sarah-guo-has-raised-a-101-million-fund-11665004353) seed fund. Sarah made the argument that SpaceX, arguably the most important "big swings" of building an “exciting future,” was first supported by [[Founders Fund]] out of a [$202M fund](https://x.com/saranormous/status/1826630153109475799).
 
 Brett shot back that, today, the assets under management (AUM), or the sum of all the funds that Founders Fund has ever raised since being founded in 2005, is [$11 billion](https://x.com/adcock_brett/status/1826629772577046986).
 
@@ -55,7 +55,7 @@ I feel like I've written about this over and over again that I don't even wanna 
 
 The marketing of venture capital is important. Being founder friendly, etc. — all of that is how VC firms talk about themselves to make sure founders know that they're the main character.
 
-But the business of venture capital is an asset management business. Maybe in the wild west days of Arthur Rock and Don Valentine, VCs were rolling up their sleeves and getting in the trenches with founders neck and neck, risk for risk. As venture has become both more professionalized and more on the radar of large asset managers, it has become more and more an asset management business. Even for the VCs that say this isn’t true, and they’re in the trenches, ask them, “If my company fails, will you shut down your venture firm?” And if the answer is no, then you know that VCs and founders are NOT the same.
+But the business of venture capital is an asset management business. Maybe in the wild west days of [[Arthur Rock]] and [[Don Valentine]], VCs were rolling up their sleeves and getting in the trenches with founders neck and neck, risk for risk. As venture has become both more professionalized and more on the radar of large asset managers, it has become more and more an asset management business. Even for the VCs that say this isn’t true, and they’re in the trenches, ask them, “If my company fails, will you shut down your venture firm?” And if the answer is no, then you know that VCs and founders are NOT the same.
 
 Venture investors are general partners in a partnership with limited partners. Limited partners (LPs) have capital, be it family offices, sovereign wealth funds, pensions, etc. These LPs are people whose jobs are defined by the fact that somebody, somewhere has money lying around. **And the gospel of compound interest has only one cardinal sin: don't let money just lie around.**
 
@@ -79,17 +79,17 @@ Going back to Brett's argument about AUM, "big multi-billion dollar firms funded
 
 AUM isn’t even really a scorecard exactly; it’s more like office square footage. True, it does demonstrate the size of your footprint, but it doesn’t necessarily indicate your strategy or success. If you have a big office square footage footprint, it’s even fair to say you’ve been successful, at least by some metric or measure of time.
 
-But you know who has had big offices? Theranos, WeWork, Quibi, and Hopin.
+But you know who has had big offices? Theranos, [[WeWork]], Quibi, and Hopin.
 
 You know who had a lot of cash? Theranos, WeWork, Quibi, and Hopin.
 
-Firms like Tiger Global and SoftBank have touted ungodly amounts of capital as a demonstration of their capability. Tiger Global deployed [$19 BILLION](https://www.theinformation.com/articles/tiger-global-investor-relations-staff-depart-after-fundraising-challenges?rc=ecjlpf) over the course of 2020 and 2021! SoftBank's Vision Funds have aggregated [$156 billion](https://pitchbook.com/profiles/fund/16332-94F#faqs) over two funds. That's almost 2x the AUM [of Sequoia](https://en.wikipedia.org/wiki/Sequoia_Capital). If AUM is the game, those are solidly in a leading bucket.
+Firms like [[Tiger Global Management|Tiger Global]] and SoftBank have touted ungodly amounts of capital as a demonstration of their capability. Tiger Global deployed [$19 BILLION](https://www.theinformation.com/articles/tiger-global-investor-relations-staff-depart-after-fundraising-challenges?rc=ecjlpf) over the course of 2020 and 2021! SoftBank's Vision Funds have aggregated [$156 billion](https://pitchbook.com/profiles/fund/16332-94F#faqs) over two funds. That's almost 2x the AUM [of Sequoia](https://en.wikipedia.org/wiki/Sequoia_Capital). If AUM is the game, those are solidly in a leading bucket.
 
 But AUM alone doesn't lead to successful outcomes. What it *can* lead to, however, are some pretty rich fees. Going back to the business of venture capital, you can get a lot of enrichment out of maximizing AUM. The larger the fund, the bigger the fees. You raise a $5B fund? You have $100M coming in each year.
 
-Though it’s a fair point to make, you typically don't get to raise billion dollar funds without having previously been successful. SoftBank had Yahoo and Uber, Tiger Global had built a massively successful public investing book. **But, as any good compliance officer will tell you, past performance is not indicative of future performance.** It is also true that there is some [awesome research](https://x.com/trengriffin/status/1290660858918506496) supporting the idea that the best venture funds persist in returns. Other people have called this the halo effect. But ongoing success isn't a bygone conclusion.
+Though it’s a fair point to make, you typically don't get to raise billion dollar funds without having previously been successful. SoftBank had [[Yahoo]] and [[Uber]], Tiger Global had built a massively successful public investing book. **But, as any good compliance officer will tell you, past performance is not indicative of future performance.** It is also true that there is some [awesome research](https://x.com/trengriffin/status/1290660858918506496) supporting the idea that the best venture funds persist in returns. Other people have called this the halo effect. But ongoing success isn't a bygone conclusion.
 
-**Success is a matter of on-going strategy and capability.** [I've written before](https://investing1012dot0.substack.com/p/natural-selection-among-startups?utm_source=publication-search) about the Red Queen Hypothesis vs. the Lindy Effect. On the one hand, the Red Queen Hypothesis is, effectively, "no species has more right to survive just because they've been around for a long time." On the other hand, the Lindy Effect, states that "the future life expectancy of some non-perishable things, like a technology or an idea, is proportional to their current age.
+**Success is a matter of on-going strategy and capability.** [I've written before](https://investing1012dot0.substack.com/p/natural-selection-among-startups?utm_source=publication-search) about the Red Queen Hypothesis vs. the [[Lindy Principle|Lindy Effect]]. On the one hand, the Red Queen Hypothesis is, effectively, "no species has more right to survive just because they've been around for a long time." On the other hand, the Lindy Effect, states that "the future life expectancy of some non-perishable things, like a technology or an idea, is proportional to their current age.
 
 So are venture funds biological organisms that are subject to the laws of survive, thrive, and extinction? Or are they conceptual entities whose potential for longevity increases as their duration of existence persists?
 
@@ -111,7 +111,7 @@ But there is a fundamental bottleneck. Not every company can be a really big suc
 
 # Where's The Bottleneck?
 
-I think often of a [Twitter AMA](https://x.com/pmarca/status/1493447426878808066) that Marc Andreessen did a couple years ago. One of the questions, in particular, that has always stuck with me, was this one about bottlenecks:
+I think often of a [Twitter AMA](https://x.com/pmarca/status/1493447426878808066) that [[Marc Andreessen]] did a couple years ago. One of the questions, in particular, that has always stuck with me, was this one about bottlenecks:
 
 ![Source:Twitter](/images/mo-money-mo-problems-5e01275e.png)
 
@@ -133,7 +133,7 @@ Despite economic growth, endless money printing, and diamond hands HODL gospel, 
 
 In a world of finite capital it means that ideas and investments have to be prioritized. What deserves to be invested in and what doesn't? And the world is replete with examples of unspeakably bad capital allocation. Dramatically terrible ideas that have amassed and destroyed billions of dollars. But, to some extent, this is the cost of doing business. You can't make an omelette without breaking a few eggs.
 
-I've [written](https://investing1012dot0.substack.com/p/pain?s=w) several [times](https://investing1012dot0.substack.com/p/natural-selection-among-startups?utm_source=publication-search) about a since-deleted Harry Stebbings tweet (that I'll never let him forget) that I've always thought was accurate, and have generalized for this conversation:
+I've [written](https://investing1012dot0.substack.com/p/pain?s=w) several [times](https://investing1012dot0.substack.com/p/natural-selection-among-startups?utm_source=publication-search) about a since-deleted [[Harry Stebbings]] tweet (that I'll never let him forget) that I've always thought was accurate, and have generalized for this conversation:
 
 > *"Effectively his point was that there is a natural selection among startups. Not every company will survive and it can be a healthy recycling of [resources] back into other companies. In a world of abundant capital fewer companies are dying, which means [resources don’t] recycle as often."*
 
@@ -145,7 +145,7 @@ If you dramatically increase the volume of capital without unlocking the volume 
 
 Recently, Katie Roof wrote a piece titled [In Venture Capital, the Rich Get Richer](https://www.bloomberg.com/news/newsletters/2024-08-21/in-the-world-of-silicon-valley-venture-capital-the-rich-get-richer?utm_source=website&utm_medium=share&utm_campaign=copy). In it, she described the conservative concentration LPs are engaging in:
 
-> *"Investors in VC funds, or limited partners, “have become more selective and cautious,” research firm PitchBook said in a [recent report](https://nvca.org/wp-content/uploads/2024/07/Q2_2024_PitchBook-NVCA_Venture_Monitor.pdf). At the same time, average funding has fallen. One reason for the pullback is that startup valuations are languishing in most sectors outside of artificial intelligence, and returns have stalled."*
+> *"Investors in VC funds, or limited partners, “have become more selective and cautious,” research firm [[PitchBook]] said in a [recent report](https://nvca.org/wp-content/uploads/2024/07/Q2_2024_PitchBook-NVCA_Venture_Monitor.pdf). At the same time, average funding has fallen. One reason for the pullback is that startup valuations are languishing in most sectors outside of artificial intelligence, and returns have stalled."*
 
 Michael Eisenberg was quick to [point out](https://x.com/mikeeisenberg/status/1826882307162001562) the same thing I mentioned before; the [awesome research](https://x.com/trengriffin/status/1290660858918506496) supporting the idea that the best venture funds persist in returns. He also made a similar point as Harry Stebbings about recycling:
 
@@ -153,7 +153,7 @@ Michael Eisenberg was quick to [point out](https://x.com/mikeeisenberg/status/18
 
 All of these points about capital, resources, etc. recycling are signs of a healthy ecosystem that are rebalancing to seek healthier capital allocation. But what happens when you push the capital destruction too far?
 
-Right now, we're at a place of reticent "flight to safety." LPs have gotten nervous about the exorbitant excesses of 2021, the dramatically irresponsible valuations, the minting of literally [TWO UNICORNS PER DAY](https://dealroom.co/guides/unicorns) on average. They didn't care for that. They didn't care for the massive IPO wipeouts of companies like UIPath going from [$35 billion](https://techcrunch.com/2022/05/01/getting-to-the-bottom-of-uipaths-plunging-valuation/?guccounter=1) to [$7 billion](https://companiesmarketcap.com/uipath/marketcap/) or Instacart from [$39 billion](https://www.cnbc.com/2023/09/18/instacart-prices-ipo-at-30-a-share.html#:~:text=The%20grocery%2Ddelivery%20company%20has,the%20U.S.%20since%20December%202021.) to [$9.3 billion](https://companiesmarketcap.com/instacart-maplebear/marketcap/).
+Right now, we're at a place of reticent "flight to safety." LPs have gotten nervous about the exorbitant excesses of 2021, the dramatically irresponsible valuations, the minting of literally [TWO UNICORNS PER DAY](https://dealroom.co/guides/unicorns) on average. They didn't care for that. They didn't care for the massive IPO wipeouts of companies like UIPath going from [$35 billion](https://techcrunch.com/2022/05/01/getting-to-the-bottom-of-uipaths-plunging-valuation/?guccounter=1) to [$7 billion](https://companiesmarketcap.com/uipath/marketcap/) or [[Instacart]] from [$39 billion](https://www.cnbc.com/2023/09/18/instacart-prices-ipo-at-30-a-share.html#:~:text=The%20grocery%2Ddelivery%20company%20has,the%20U.S.%20since%20December%202021.) to [$9.3 billion](https://companiesmarketcap.com/instacart-maplebear/marketcap/).
 
 So, in response, they've started to concentrate. a16z, Thrive, Kleiner, ICONIQ. While smaller or newer funds have scrimped and saved to raise a few hundred million, the Capital Agglomerators have racked up billions in new funds. Again, that's not necessarily bad.
 

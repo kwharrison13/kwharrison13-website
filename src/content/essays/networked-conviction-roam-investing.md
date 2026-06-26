@@ -32,17 +32,17 @@ We’ll start by laying out my thoughts on investment research. I invest in comp
 
 If you're already a Roam ninja you can skip to the next section. Let’s go over the basic building blocks I use every day within Roam. I have done what I call a #RoamTour 100 times now where I talk through these basics with people, and [my preface is this:](https://www.loom.com/share/9303c21ab9924fc4a6ee8902c19a9f04) "I'm a 2 out of 10 in Roam mastery, so this is just to show you what you can accomplish even without much skill." [Conor White-Sullivan](https://twitter.com/Conaw), the founder of Roam, describes the product as "low floor, high ceiling."
 
-There are several in-depth overviews of Roam out there, both in terms of the [product features](https://www.nateliason.com/blog/roam) and [the grand vision](https://www.roambrain.com/building-the-global-knowledge-graph/) of what Roam could be as a product. And there are great [resources](https://www.roambrain.com/) to teach you [everything](https://roamresearch.com/#/app/help/page/l3HnFKY8A) you need to [know](https://twitter.com/zsviczian/status/1355928113558003724?s=20) about being a [Roam power user](https://www.roamstack.com/). My path to learning was literally just scrolling through #RoamCult and @RoamResearch mentions on Twitter. This overview will be simpler to ensure everyone is at the same starting point.
+There are several in-depth overviews of Roam out there, both in terms of the [product features](https://www.nateliason.com/blog/roam) and [the grand vision](https://www.roambrain.com/building-the-global-knowledge-graph/) of what Roam could be as a product. And there are great [resources](https://www.roambrain.com/) to teach you [everything](https://roamresearch.com/#/app/help/page/l3HnFKY8A) you need to [know](https://twitter.com/zsviczian/status/1355928113558003724?s=20) about being a [Roam power user](https://www.roamstack.com/). My path to learning was literally just scrolling through #RoamCult and @RoamResearch mentions on [[Twitter]]. This overview will be simpler to ensure everyone is at the same starting point.
 
 In case videos are more your style, I’ve included some guided videos throughout the article.
 
 ## **Pages and Blocks**
 
-The most important thing to understand about Roam is that it is a collection of pages and blocks (each individual bullet point is a block). A good analogy is to Excel. Each page is like a tab in Excel and each block is a cell. To create a page you put any word or phase in between `double brackets`. You can also use #Page but if it’s two words you need to use double brackets, `#[[New Page]]` and the # is a style choice of whether you want the link blue or faded grey. Two of the most common types of pages I use are lists like `[[Investment Memo Template]]` or `[[Investment Frameworks]]`, and then company pages like `[[Shopify ($SHOP)]]`.
+The most important thing to understand about Roam is that it is a collection of pages and blocks (each individual bullet point is a block). A good analogy is to Excel. Each page is like a tab in Excel and each block is a cell. To create a page you put any word or phase in between `double brackets`. You can also use #Page but if it’s two words you need to use double brackets, `#[[Two Word Page]]` and the # is a style choice of whether you want the link blue or faded grey. Two of the most common types of pages I use are lists like `[[Investment Memo Template]]` or `[[Investment Frameworks]]`, and then company pages like `[[Shopify ($SHOP)]]`.
 
 ## **Block References**
 
-One of the superpowers of Roam is the ability to reference individual blocks in different places throughout your graph. Let's say I have a block (a cell in Excel) with a quote from F. Scott Fitzgerald that I want to reference in a number of places. I can reference that block in any relevant page. Then, when I go back to that original block I can open it up and see all my references to that specific block.
+One of the superpowers of Roam is the ability to reference individual blocks in different places throughout your graph. Let's say I have a block (a cell in Excel) with a quote from [[F. Scott Fitzgerald]] that I want to reference in a number of places. I can reference that block in any relevant page. Then, when I go back to that original block I can open it up and see all my references to that specific block.
 
 ![Quote card from Block References section](/images/roam-investing-fceec40b.png)
 
@@ -54,7 +54,7 @@ I use the daily page for anything I want to be "date stamped," like when I have 
 
 ![Screenshot demonstrating daily pages](/images/roam-investing-53a4319c.png)
 
-When I'm reading articles or having conversations about a specific company, I may just put those notes right on the company page if they're going to be things I reference a lot. For more casual daily observations about a company I create a specific page like `[[[[Shopify ($SHOP)]] - Daily Sentiment]]` that I'll drop on the Daily Notes page. I'll talk more about that later.
+When I'm reading articles or having conversations about a specific company, I may just put those notes right on the company page if they're going to be things I reference a lot. For more casual daily observations about a company I create a specific page like `[[[[Shopify ($SHOP)]] - Daily Sentiment]]` that I'll drop on the [[Daily Notes]] page. I'll talk more about that later.
 
 ## **Side Bar**
 
@@ -92,7 +92,7 @@ You can download both of these collections in the [Investing 101 2.0 Sandbox](ht
 
 # **The Investing Why**
 
-Before I get into the HOW of my investment research, I want to reflect on the WHY. If you're on Twitter, or Reddit and have two thumbs attached to a keyboard, you're probably hearing a lot (maybe too much) about retail traders [like they've never been seen before.](https://twitter.com/ShaanVP/status/1353951035224694785?s=20) I have no take on the impact they may have on the financial system. But in the long view, I'm excited about the massive surge of people stepping into the role of investors.
+Before I get into the HOW of my investment research, I want to reflect on the WHY. If you're on Twitter, or [[Reddit]] and have two thumbs attached to a keyboard, you're probably hearing a lot (maybe too much) about retail traders [like they've never been seen before.](https://twitter.com/ShaanVP/status/1353951035224694785?s=20) I have no take on the impact they may have on the financial system. But in the long view, I'm excited about the massive surge of people stepping into the role of investors.
 
 Retail investors went from [10% to 20% of market volumes](https://www.globalxetfs.com/cio-corner/the-renewed-rise-of-the-retail-investor/) last year, adding over 1M new brokerage accounts. My fear is the [false sense of security and confidence](https://ifamagazine.com/article/in-2021-retail-investors-need-impartial-advice/) that can come from operating in an unprecedented bull market. I don't want to see 1M+ YOLO day-traders. Instead I want to see 1M+ thoughtful individuals getting engaged in the greatest period of democratized wealth creation ever — with more companies going public, technology markets being bigger than anyone ever predicted, rates of innovation increasing drastically, and globalization giving people access to bigger and bigger consumer markets.
 
@@ -116,15 +116,15 @@ If you only ever had good ideas, you'd be set for life and I'd be first in line 
 
 Over the years I've collected a number of quotes that help me understand the need for criticizing my own ideas (all tagged with `#[[Self-Criticism]]`):
 
-> "Charles Darwin...spent much of his long life thinking in reverse as he tried to **disprove his own hardest-won and best-loved ideas**." (Charlie Munger)
+> "[[Charles Darwin]]...spent much of his long life thinking in reverse as he tried to **disprove his own hardest-won and best-loved ideas**." ([[Charlie Munger]])
 
-> "[Sam Walton](https://perell.com/essay/wal-mart/) was so obsessed with retailing that **he wasn’t worried about destroying his old beliefs** if he found new evidence that contradicted it." (David Perell)
+> "[Sam Walton](https://perell.com/essay/wal-mart/) was so obsessed with retailing that **he wasn’t worried about destroying his old beliefs** if he found new evidence that contradicted it." ([[David Perell]])
 
-> "It's not bringing in the new ideas that's so hard. **It's getting rid of the old ones.**" (John Maynard Keynes)
+> "It's not bringing in the new ideas that's so hard. **It's getting rid of the old ones.**" ([[John Maynard Keynes]])
 
 > "I feel that I'm not entitled to have an opinion **unless I can state the arguments against my position** better than the people who are in opposition." (Charlie Munger)
 
-> "One mark of a great mind is **the willingness to change it.**" (Walter Isaacson)
+> "One mark of a great mind is **the willingness to change it.**" ([[Walter Isaacson]])
 
 > ”Einstein said it better, attributing his mental success to "curiosity, concentration, perseverance, and *self-criticism*." By self-criticism, he meant becoming good at destroying your own best-loved and hardest-won ideas. **If you can get really good at destroying your own wrong ideas, that is a great gift.”** (Charlie Munger)
 
@@ -170,7 +170,7 @@ The other piece of outside reference that I'll pull into a company page comes fr
 
 The purpose of a checklist is not to make you a dumb algorithm just checking boxes. We all have intense psychological tendencies that make it hard to evaluate all the right criteria, especially when we think we already know the answer.
 
-> "Man's imperfect, limited-capacity brain easily drifts into working with what's easily available to it. **And the brain can't use what it can't remember or what it is blocked from recognizing because it is heavily influenced by one or more psychological tendencies bearing strongly on it.** And so the mind overweighs what is easily available and thus displays Availability-Misweighing Tendency. **The main antidote to miscues from Availability-Misweighing Tendency often involve procedures, including use of checklists, which are almost always helpful."** (Charlie Munger)
+> "Man's imperfect, limited-capacity brain easily drifts into working with what's easily available to it. **And the brain can't use what it can't remember or what it is blocked from recognizing because it is heavily influenced by one or more psychological tendencies bearing strongly on it.** And so the mind overweighs what is easily available and thus displays [[Availability-Misweighing Tendency]]. **The main antidote to miscues from Availability-Misweighing Tendency often involve procedures, including use of checklists, which are almost always helpful."** (Charlie Munger)
 
 Roam is uniquely perfect for this kind of networked thought. You have a common repo of questions, frameworks, checklists, and categories. By easily being able to pop them open, apply them to your current research, and see where else they've been used effectively, you can become a powerhouse.
 
@@ -178,7 +178,7 @@ Roam is uniquely perfect for this kind of networked thought. You have a common r
 
 ## **Information Ingestion**
 
-The top of the funnel for research is a sort of directed stumbling. My coverage of a company starts with googling things like "Company name + Breakdown" because that’s a common title for high level business introductions. Another unique way to do something is similar is to google ["Company name + Substack"](https://twitter.com/kwharrison13/status/1338143921033998336?s=20) to try and find thoughtful analysis. Substack, if you’re not familiar, is a blogging platform that is popular among business and tech writers. So finding the best Substacks can often lead to the best analysis. From there I decide how I want to ingest.
+The top of the funnel for research is a sort of directed stumbling. My coverage of a company starts with googling things like "Company name + Breakdown" because that’s a common title for high level business introductions. Another unique way to do something is similar is to google ["Company name + Substack"](https://twitter.com/kwharrison13/status/1338143921033998336?s=20) to try and find thoughtful analysis. [[Substack]], if you’re not familiar, is a blogging platform that is popular among business and tech writers. So finding the best Substacks can often lead to the best analysis. From there I decide how I want to ingest.
 
 ### Feedly
 
@@ -200,9 +200,9 @@ When I finish reading a particularly good piece of analysis, I'll copy and paste
 
 ![Screenshot demonstrating eloquent](/images/roam-investing-70012f73.png)
 
-Some articles and books merit their own dedicated page rather than a section on the company page. I'll also use a less organized version of Tiago Forte's ['Progressive Summarization'](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/) technique. As I read and take notes, I'll use Eloquent to pull in what I like. Then after I've got all my highlights in one place I'll review them with a "Key Takeaways" section at the top of my notes, summarizing ideas in my own words.
+Some articles and books merit their own dedicated page rather than a section on the company page. I'll also use a less organized version of [[Tiago Forte]]'s ['Progressive Summarization'](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/) technique. As I read and take notes, I'll use Eloquent to pull in what I like. Then after I've got all my highlights in one place I'll review them with a "Key Takeaways" section at the top of my notes, summarizing ideas in my own words.
 
-For example, as part of developing a thesis on `[[Disney ($DIS)]]`, I recently read a book about Walt Disney's city building vision. You can see my key takeaways section at the top.
+For example, as part of developing a thesis on `[[Disney ($DIS)]]`, I recently read a book about [[Walt Disney]]'s city building vision. You can see my key takeaways section at the top.
 
 ![Screenshot of the power of readwise](/images/roam-investing-90f92d00.png)
 
@@ -214,7 +214,7 @@ One of the most phenomenal knowledge tools in my Roam stack is [Readwise](https:
 
 ### Kindle
 
-The two most common things I'll use this for is importing book notes from Kindle and importing tweets that I want to save. The screenshot above for the book "Walt Disney and the Promise of Progress City" is the end result once I've read a book in Kindle, highlighted interesting passages, and reviewed my notes to summarize my key takeaways.
+The two most common things I'll use this for is importing book notes from Kindle and importing tweets that I want to save. The screenshot above for the book "[[Walt Disney and the Promise of Progress City]]" is the end result once I've read a book in Kindle, highlighted interesting passages, and reviewed my notes to summarize my key takeaways.
 
 As it relates to my investment research, I can include a link to the book in my company page, and block reference specific passages right into my company page if it's super relevant to my thesis.
 
@@ -236,7 +236,7 @@ Some of the best information about a business lives in niche communities online.
 
 ![Tweet referenced in Stock Tracking section](/images/roam-investing-74a6c138.png)
 
-The most powerful thing about Commonstock is the emphasis on connecting high quality analysis to specific stocks. When I start covering a company, one of the places I start is on Commonstock. I'll review the leaderboard for a particular stock and see if those users have published any memos.
+The most powerful thing about [[CommonStock|Commonstock]] is the emphasis on connecting high quality analysis to specific stocks. When I start covering a company, one of the places I start is on Commonstock. I'll review the leaderboard for a particular stock and see if those users have published any memos.
 
 I don't need super robust information on a stock, but I like to have everything in one place which is why Commonstock is so relevant to Roam. One of the things I love is using an iFrame embed to put a stock page from Commonstock as part of my company page.
 
@@ -262,7 +262,7 @@ Recently I had a call with a successful public market investor. The topic of "le
 
 Think about it this way. As [Tiago Forte](https://fortelabs.co/blog/the-second-brain-manifesto/) puts it: "The scarcity mindset of the past led us to hide and protect our ideas. But today, power and influence come from sharing our ideas, not from keeping them secret." And why does sharing ideas drive power and influence? The more you're willing to put out ideas, whether right or wrong, the more likely you are to start accumulating right answers.
 
-> "The best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer." (Ward Cunningham)
+> "The best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer." ([[Ward Cunningham]])
 
 When you start learning in public, you'll start looking for a medium of communication. For some, it's as casual as posting on Twitter. For others, it's as organized as creating a Substack newsletter. But there is a spectrum of where my ideas live — going from my raw Roam graph to my “digital garden” to finalized published writings. The vast majority of my ideas are in my private Roam graph. But there are a lot of different ways to share ideas.
 
@@ -270,7 +270,7 @@ When you start learning in public, you'll start looking for a medium of communic
 
 The idea of a digital garden is an emerging but powerful one. [Maggie Appleton](https://maggieappleton.com/garden-history) describes them as **“collections of evolving ideas** that aren't strictly organised by their publication date. **They're inherently exploratory** – notes are linked through contextual associations. They aren't refined or complete - notes are published as half-finished thoughts that will grow and evolve over time."
 
-I've started using a combination of Notion + [Super.so](https://super.so/) for [my personal digital garden](https://kwharrison13.com/) and the [Investing 101 2.0 Wiki](https://investing1012dot0.com/). Rather than containing the raw intellectual thinking that goes on in my Roam graph, my digital garden is starting to become a place where my slightly developed ideas go to get exposure to the light of day. I'm a huge fan of this setup because I don't have much interest in learning new ways of building websites, so the simplicity of typing something into a Notion page and having it automatically populate on my site is really compelling.
+I've started using a combination of [[Notion]] + [Super.so](https://super.so/) for [my personal digital garden](https://kwharrison13.com/) and the [Investing 101 2.0 Wiki](https://investing1012dot0.com/). Rather than containing the raw intellectual thinking that goes on in my Roam graph, my digital garden is starting to become a place where my slightly developed ideas go to get exposure to the light of day. I'm a huge fan of this setup because I don't have much interest in learning new ways of building websites, so the simplicity of typing something into a Notion page and having it automatically populate on my site is really compelling.
 
 There are some early projects like [RoamanPub](https://twitter.com/RoamanPub/status/1296387463745687552?s=20) and [Roam.garden](https://roam.garden/) working on [allowing you to turn parts of your Roam graph into publicly available sites](https://twitter.com/VladyslavSitalo/status/1362244485317492740?s=20). The project is still in alpha testing so it's very simple right now, but the idea is quite powerful. I've been [playing around](https://kwharrison13.roaman.pub/) with it a bit. There are other tools that are more focused on [paywalls](https://twitter.com/onlygraphs1) or [posting tweets](https://twitter.com/RoamStack/status/1349403606152314883?s=20) directly from Roam.
 
@@ -278,7 +278,7 @@ There are some early projects like [RoamanPub](https://twitter.com/RoamanPub/sta
 
 Powerful communities have been built up around investors' ideas — [from SumZero](https://sumzero.com/) to [SeekingAlpha](https://seekingalpha.com/). Each is built with different end goals in mind. My preferred community of investors is on [Commonstock](http://commonstock.io/). On a call I had with a public investor, he focused on the concept of tying ideas to specific stocks and being able to find some great thinking: "I should use Commonstock to hire analysts. I can already see their performance!"
 
-I continue to be surprised by the level of thinking I find there. I recently stumbled on a [memo](https://beta.commonstock.com/?top=memo/0d3bbfcc-965e-4e1c-aa25-727c7e6b5d12) (only accessible if you have a Commonstock account) from [Steven Xu](https://twitter.com/stevenxu) about Lyft and loved it. That kind of surprise is what makes Commonstock a big part of my investing stack. I want to engage with these people because they largely seem to be focused on finding the best ideas rather than the hottest new stock tip. Publishing memos there feels like a phenomenal way to learn in public.
+I continue to be surprised by the level of thinking I find there. I recently stumbled on a [memo](https://beta.commonstock.com/?top=memo/0d3bbfcc-965e-4e1c-aa25-727c7e6b5d12) (only accessible if you have a Commonstock account) from [Steven Xu](https://twitter.com/stevenxu) about [[Lyft]] and loved it. That kind of surprise is what makes Commonstock a big part of my investing stack. I want to engage with these people because they largely seem to be focused on finding the best ideas rather than the hottest new stock tip. Publishing memos there feels like a phenomenal way to learn in public.
 
 ## **Public Roam Graphs**
 

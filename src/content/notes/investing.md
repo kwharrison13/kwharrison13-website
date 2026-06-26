@@ -2,9 +2,9 @@
 title: "Investing"
 type: "concept"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-23"
-updated: "2026-06-23"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — April 30th, 2020: ~/Downloads/April 30th, 2020.md"
@@ -17,11 +17,13 @@ related:
   - "[[Data in Investing]]"
   - "[[Investing 101 2.0]]"
   - "[[Playbooks]]"
+  - "[[James Clear]]"
+  - "[[Semper Vic Partners — Letter to Investors, April 2020]]"
 ---
 
 # Investing
 
-_Stub — broad hub concept Kyle tags across his reading. The links below are sources he saved to explore investing approaches and investor letters._
+A broad hub tag Kyle attaches across his reading to investor letters, frameworks, and the discipline's first principles. Two grounded threads anchor it. From his July 2nd, 2020 daily log, a [James Clear](/notes/james-clear) passage reframes the goal of the practice: "The real goal is not to 'beat the market.' The goal is to build wealth… **Don't let a proxy become the target. Don't optimize for the wrong outcome.**" — co-tagged `#Goals #Investing #Reading`. From his April 30th, 2020 Quick Capture log, he saved Tom Russo's Semper Vic Partners letter to investors (a long-term global-value fund), the kind of primary-source investor letter Kyle collects to study patient, owner-mentality investing. The page also gathers Kyle's running approach notes ([Investing 101 2.0](/notes/investing-101-2-0), [Playbooks](/notes/playbooks)) and the data/analytics lens ([Data in Investing](/notes/data-in-investing)).
 
 ## Quick Capture links — April 30th, 2020
 

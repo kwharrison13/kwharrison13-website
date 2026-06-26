@@ -2,9 +2,9 @@
 title: "UC Berkeley"
 type: "company"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 1st, 2018 (networking/sourcing call log): ~/Downloads/June 1st, 2018.md"
@@ -16,28 +16,23 @@ aliases:
   - "UC Berkeley"
   - "UC Berkely"
   - "University of California, Berkeley"
-  - "UC Berkely"
-  - "University of California, Berkeley"
 related:
   - "[[Adam Cohen]]"
-  - "[[The New City]]"
+  - "[[Shared Mobility]]"
+  - "[[Mobility-on-Demand]]"
+  - "[[Transportation]]"
   - "[[June 1st, 2018 — Adam Cohen (UC Berkeley)]]"
 ---
 
 # UC Berkeley
 
-**One-line definition:** *University of California, Berkeley — the research home of shared-mobility researcher [Adam Cohen](/notes/adam-cohen).*
+UC Berkeley enters Kyle's wiki as the institutional research base of shared-mobility researcher [Adam Cohen](/notes/adam-cohen). In the June 1st, 2018 — Adam Cohen (UC Berkeley) networking call — part of Kyle's #[The New City](/notes/the-new-city) thread — Cohen is logged as a mobility researcher and consultant at Berkeley who led the **national evaluation of the USDOT [Mobility-on-Demand](/notes/mobility-on-demand) sandbox program**, and the conversation covered autonomous vehicles, land use, and the future of parking. Berkeley is thus the anchor for one node of Kyle's [Transportation](/notes/transportation) / [Shared Mobility](/notes/shared-mobility) cluster, where Cohen's policy-and-impact research grounds the future-of-mobility theme.
 
-## How sources describe it
+**Context:** The University of California, Berkeley is a public research university and the flagship campus of the UC system; its Transportation Sustainability Research Center (TSRC) is a well-known hub for shared-mobility and new-mobility research.
 
-- Where [Adam Cohen](/notes/adam-cohen) does policy research and impact studies on the future of mobility, including the national evaluation of the USDOT Mobility-on-Demand sandbox program. (June 1st, 2018 — Adam Cohen (UC Berkeley))
+## Where this appears
 
-## Related concepts
-
-- [Adam Cohen](/notes/adam-cohen) — the shared-mobility researcher whose work at Berkeley anchors this page.
-- [The New City](/notes/the-new-city) — surfaced alongside Berkeley's mobility research in the same sourcing call.
-- June 1st, 2018 — Adam Cohen (UC Berkeley) — the call log where Berkeley appears as Cohen's research base.
-
-## Where it shows up
-
-- June 1st, 2018 — Adam Cohen (UC Berkeley) — call with mobility researcher [Adam Cohen](/notes/adam-cohen).
+- June 1st, 2018 — Adam Cohen (UC Berkeley) — networking call with [Adam Cohen](/notes/adam-cohen) on AVs, land use, and the future of parking
+- [Adam Cohen](/notes/adam-cohen) — the shared-mobility researcher whose work at Berkeley anchors this page
+- [Mobility-on-Demand](/notes/mobility-on-demand) — the USDOT sandbox program Cohen's Berkeley team evaluated nationally
+- [Shared Mobility](/notes/shared-mobility) / [Transportation](/notes/transportation) — the concept clusters Berkeley's research feeds

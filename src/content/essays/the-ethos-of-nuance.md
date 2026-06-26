@@ -30,7 +30,7 @@ Growing up, my Dad would talk to me about wanting to build a city. We would driv
 
 When I went on a mission for my church I spent two years talking to people about Jesus. Rich people and poor people. Kind people and hateful people. But more often than not, the people most open to talking with me were the ones having a difficult time. On welfare, struggling with addiction, recovering from abuse, struggling to get by, trying to find meaning in life. Those people took comfort in a message I shared; one which I had taken for granted since childhood.
 
-During the 2012 election I was excited about Mitt Romney, but in large part because he represented the best of what my church could produce: a successful, thoughtful leader who prioritized family, faith, and fairness. But I can't say I could have competently articulated the tenants of his political platform.
+During the 2012 election I was excited about [[Mitt Romney]], but in large part because he represented the best of what my church could produce: a successful, thoughtful leader who prioritized family, faith, and fairness. But I can't say I could have competently articulated the tenants of his political platform.
 
 # Complexity Grows With Age
 
@@ -48,13 +48,13 @@ Religiously, I don't believe God wants us to drink, smoke, or have sex outside m
 
 The middle ground framework has come from a concept that I've lived by, though I hadn't really articulated until after the October 7th attack. [I wrote about it this way](https://investing101.substack.com/p/the-inescapable-debate-of-human-nature?utm_source=publication-search):
 
-> *"So often, people trust nuanced tribal group identity and political association without any basis of first principles. I'm not Mormon, or Christian, or Republican, or a Costco member. I am a system of values and beliefs that determine how I act. **Group membership should be a lagging indicator of your beliefs, not a leading indicator. When people substitute their own value system with a cookie-cutter platform from their in-group the first thing to die is nuance**."*
+> *"So often, people trust nuanced tribal group identity and political association without any basis of first principles. I'm not [[Mormon]], or Christian, or Republican, or a [[Costco]] member. I am a system of values and beliefs that determine how I act. **Group membership should be a lagging indicator of your beliefs, not a leading indicator. When people substitute their own value system with a cookie-cutter platform from their in-group the first thing to die is nuance**."*
 
 Since I started writing in 2022, I have written 478,008 words (not including this post). But I think that paragraph is one of the ones I am most proud of.
 
-I find myself disagreeing with people who strongly hold specific in-group beliefs because I'm trying to reason from first principles. I don't believe abortion is a sad thing because I'm Mormon. I believe it because, fundamentally, it feels like the ending of a life. I believe Donald Trump has eroded much of the conflict of interest controls the presidency has historically had, not because I didn't vote for him, but because I don't think he should be able to issue pump-and-dump crypto tokens while he's the most powerful person in the world. That's a bit of a "first principles" thing for me too.
+I find myself disagreeing with people who strongly hold specific in-group beliefs because I'm trying to reason from first principles. I don't believe abortion is a sad thing because I'm Mormon. I believe it because, fundamentally, it feels like the ending of a life. I believe [[Donald Trump]] has eroded much of the conflict of interest controls the presidency has historically had, not because I didn't vote for him, but because I don't think he should be able to issue pump-and-dump crypto tokens while he's the most powerful person in the world. That's a bit of a "first principles" thing for me too.
 
-As I've navigated this middle, it has also meant that I find myself exposed to ideas across both ends of the political spectrum. I, like most of my peers, have listened to points made by Bernie Sanders, AOC, Ezra Klein, Fareed Zakaria, Bill Maher, Destiny (aka Steven Kenneth Bonnell II), Jon Stewart, and John Oliver. I have also, like most of my peers, been exposed to points argued by Ben Shapiro, Jordan Peterson, Candace Owens, Matt Walsh, Glenn Beck and, most poignantly this week, Charlie Kirk.
+As I've navigated this middle, it has also meant that I find myself exposed to ideas across both ends of the political spectrum. I, like most of my peers, have listened to points made by [[Bernie Sanders]], AOC, [[Ezra Klein]], [[Fareed Zakaria]], [[Bill Maher]], Destiny (aka Steven Kenneth Bonnell II), Jon Stewart, and John Oliver. I have also, like most of my peers, been exposed to points argued by Ben Shapiro, [[Jordan Peterson]], Candace Owens, Matt Walsh, Glenn Beck and, most poignantly this week, Charlie Kirk.
 
 Anyone under the age of 40 (and probably a lot of people above) have seen the same clips. People arguing on college campuses, debating on podcasts, or reacting to videos online to contradict points other people have made or criticize those same people personally. I have to admit that, more than any other political voices I listened to, there were three that resonated with me the most: John Oliver, Ezra Klein, and Charlie Kirk.
 
@@ -74,7 +74,7 @@ In particular, Klein's description of Kirk as a "practitioner of persuasion" res
 
 > *"Kirk and I were on different sides of most political arguments. We were on the same side on the continued possibility of American politics. **It is supposed to be an argument, not a war; it is supposed to be won with words, not ended with bullets**."*
 
-One of, if not my most impactful, "[Quake Books](https://kwharrison13.com/bookshelf)" is a biography of John Quincy Adams. In one chapter, it talks about how much Adams loved the art of rhetoric, and even became a professor of it at Harvard:
+One of, if not my most impactful, "[Quake Books](https://kwharrison13.com/bookshelf)" is a biography of [[John Quincy Adams]]. In one chapter, it talks about how much Adams loved the art of [[Rhetoric|rhetoric]], and even became a professor of it at Harvard:
 
 > *"**Rhetoric, in Adams’ day, meant classical rhetoric—the study of the means by which the classic authors deployed the arts of persuasion**. Oratory was spoken rhetoric... Adams knew very well that for many of his students “rhetoric” described a set of hurdles and obstacles and obscure regulations designed to limit the torrent of writing and speech to an orderly stream. Adams intended to rescue this ancient art from its modern slumber.   
 >   
@@ -142,13 +142,13 @@ I don't want to be more Republican and, therefore, hold more Republican views an
 
 # The Wish of My Heart
 
-In the Book of Mormon, there is an ancient prophet in the Americas around 76 BC named Alma. In a particular [verse of scripture](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/29?lang=eng), he articulates something that I often resonate with:
+In the [[Book of Mormon]], there is an ancient prophet in the Americas around 76 BC named Alma. In a particular [verse of scripture](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/29?lang=eng), he articulates something that I often resonate with:
 
-> *"**O that I were an angel, and could have the wish of mine heart, that I might go forth and speak with the trump of God, with a voice to shake the earth, and cry repentance unto every people!** Yea, I would declare unto every soul, as with the voice of thunder, repentance and the plan of redemption, that they should repent and come unto our God, that there might not be more sorrow upon all the face of the earth. But behold, I am a man, and do sin in my wish; for I ought to be content with the things which the Lord hath allotted unto me."*
+> *"**O that I were an angel, and could have the wish of mine heart, that I might go forth and speak with the trump of God, with a voice to shake the earth, and cry repentance unto every people!** Yea, I would declare unto every soul, as with the voice of thunder, repentance and the [[Plan of Redemption|plan of redemption]], that they should repent and come unto our God, that there might not be more sorrow upon all the face of the earth. But behold, I am a man, and do sin in my wish; for I ought to be content with the things which the Lord hath allotted unto me."*
 
 [I wrote a few weeks ago](https://investing101.substack.com/p/what-is-an-extraordinary-man) about how some people feel uncomfortable and even skeptical of people who say "I just want to make the world a better place." The section I wrote about that idea was called, "what makes you think you can change the world?" But despite the potential accusations of hubris and the rolled eyes and exasperated sighs, I continue to feel what I felt when I was a child watching my Mom and my Dad serve the people around me. **I want to make the world a better place.**
 
-I said earlier that Charlie Kirk’s murder shook me in unexpected ways, in part because he looks so similar to me. But that feeling of desire for the welfare of mankind isn’t limited to people who look like me. I empathize with his wife and children losing a father. But my hope is to eradicate suffering universally, not just for the people I love. As Joseph Smith [once said](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-37?lang=eng):
+I said earlier that Charlie Kirk’s murder shook me in unexpected ways, in part because he looks so similar to me. But that feeling of desire for the welfare of mankind isn’t limited to people who look like me. I empathize with his wife and children losing a father. But my hope is to eradicate suffering universally, not just for the people I love. As [[Joseph Smith]] [once said](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-37?lang=eng):
 
 > *“Love is one of the chief characteristics of Deity, and ought to be manifested by those who aspire to be the sons of God. **A man filled with the love of God, is not content with blessing his family alone, but ranges through the whole world, anxious to bless the whole human race**.”*
 

@@ -7,14 +7,14 @@ quake: false
 tags:
   - "people-over-politics"
   - "language-of-discourse"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-Brené Brown's book read with attention to the nuance-and-honesty discipline. Three threads:
+[Brené Brown](/notes/bren-brown)'s book read with attention to the nuance-and-honesty discipline. Three threads:
 
 1. **Holding tension as the skill.** "Is there tension and vulnerability in supporting both the police and the activists? Hell, yes. It's the wilderness." The discipline isn't picking a side — it's holding the tension long enough to find a real answer.
 
@@ -34,7 +34,7 @@ Brené Brown's book read with attention to the nuance-and-honesty discipline. Th
 ## Highlights
 
 - Oprah. Her advice is tacked to the wall in my study: “Do not think you can be brave with your life and your work and never disappoint anyone. It doesn’t work that way.” <!--rwid:rwid-219fb3e3eef7-->
-- Maya Angelou. I was introduced to her work thirty-two years ago when I was studying poetry in college. I read her poem “Still I Rise” and everything shifted for me. It contained such power and beauty. <!--rwid:rwid-ceba5f40e52e-->
+- [Maya Angelou](/notes/maya-angelou). I was introduced to her work thirty-two years ago when I was studying poetry in college. I read her poem “Still I Rise” and everything shifted for me. It contained such power and beauty. <!--rwid:rwid-ceba5f40e52e-->
 - My parents didn’t say one word. Not a single word. The silence cut into me like a knife to the heart. They were ashamed of me and for me. My dad had been captain of the football team. My mom had been head of her drill team. I was nothing. My parents, especially my father, valued being cool and fitting in above all else. I was not cool. I didn’t fit in. And now, for the first time, I didn’t belong to my family either. <!--rwid:rwid-8c4b8aab452f-->
 - But let me tell you what it meant to me. I don’t know if this was true or it was the story I told myself in that silence, but that became the day I no longer belonged in my family—the most primal and important of all of our social groups. Had my parents consoled me or told me I was brave for trying—or, better yet and what I really wanted in that moment, had they taken my side and told me how terrible it was and how I deserved to be picked—this story wouldn’t be one that defined my life and shaped its trajectory. But it did. <!--rwid:rwid-59cf7168b40c-->
 - I had to go to iTunes to remember the name of the tryout song, and when I played the preview, I just started sobbing. I didn’t break down because I hadn’t made the drill team, I wept for the girl that I couldn’t comfort back then. The girl who didn’t understand what was happening or why. I wept for the parents who were so ill equipped to deal with my pain and vulnerability. Parents who just didn’t have the skills to speak up and comfort me or, at the very least, run an interception on the story of not belonging with them or to them. These are the moments that, when left unspoken and unresolved, send us into our adult lives searching desperately for belonging and settling for fitting in. <!--rwid:rwid-4328718d8446-->
@@ -49,7 +49,7 @@ Brené Brown's book read with attention to the nuance-and-honesty discipline. Th
 - You will always belong anywhere you show up as yourself and talk about yourself and your work in a real way.” <!--rwid:rwid-bb5abee9dc29-->
 - Sometimes parents will get angry because I won’t prescribe antibiotics for their child. The first thing they say is, ‘Every other pediatrician does it. I’ll just go to someone else.’ It’s not easy to hear this, but I always fall back on the thought: It’s okay if I’m alone on this. That’s not what I believe is best for this child. Period.” <!--rwid:rwid-47cdaba58422-->
 - ANGELOU: More and more. I mean, I belong to myself. I’m very proud of that. I am very concerned about how I look at Maya. I like Maya very much. I like the humor and courage very much. And when I find myself acting in a way that isn’t…that doesn’t please me—then I have to deal with that. <!--rwid:rwid-fcbbb50986df-->
-- Belonging is the innate human desire to be part of something larger than us. Because this yearning is so primal, we often try to acquire it by fitting in and by seeking approval, which are not only hollow substitutes for belonging, but often barriers to it. Because true belonging only happens when we present our authentic, imperfect selves to the world, our sense of belonging can never be greater than our level of self-acceptance. <!--rwid:rwid-1f4c92e1cc7d-->
+- [Belonging](/notes/belonging) is the innate human desire to be part of something larger than us. Because this yearning is so primal, we often try to acquire it by fitting in and by seeking approval, which are not only hollow substitutes for belonging, but often barriers to it. Because true belonging only happens when we present our authentic, imperfect selves to the world, our sense of belonging can never be greater than our level of self-acceptance. <!--rwid:rwid-1f4c92e1cc7d-->
 - Being ourselves means sometimes having to find the courage to stand alone, totally alone. Even as I wrote this, I still thought of belonging as requiring something external to us—something we secured by, yes, showing up in a real way, but needing an experience that always involved others. So as I dug deeper into true belonging, it became clear that it’s not something we achieve or accomplish with others; it’s something we carry in our heart. Once we belong thoroughly to ourselves and believe thoroughly in ourselves, true belonging is ours. <!--rwid:rwid-364eaf2055a0-->
 - They want to be a part of something—to experience real connection with others—but not at the cost of their authenticity, freedom, or power. <!--rwid:rwid-e6faa475e135-->
 - Reluctant to choose between being loyal to a group and being loyal to themselves, but lacking that deeper spiritual connection to shared humanity, they were far more aware of the pressure to “fit in” and conform. Connection to a larger humanity gives people more freedom to express their individuality without fear of jeopardizing belonging. This is the spirit, which now seems missing, of saying, “Yes, we are different in many ways, but under it all we’re deeply connected.” <!--rwid:rwid-7bdd4aa562e0-->

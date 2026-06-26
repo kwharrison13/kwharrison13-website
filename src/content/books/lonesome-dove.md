@@ -6,7 +6,7 @@ rating: 5
 quake: false
 tags:
   - "ideological-family-tree"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 

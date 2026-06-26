@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-19"
-updated: "2026-06-19"
+updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
   - "wiki/movies-to-watch/Extinction — The Facts.md"
@@ -14,16 +14,15 @@ aliases:
   - "Sir David Attenborough"
 related:
   - "[[Extinction — The Facts]]"
+  - "[[Climate Change]]"
 ---
 
 # David Attenborough
 
-**One-line:** *British broadcaster and natural historian, renowned for narrating and presenting nature documentaries.*
+Presenter and narrator of Extinction — The Facts, the 2020 BBC documentary on biodiversity collapse that sits on Kyle's watch list (tagged from a saved iNews link). The film covers the scale of species loss and what it means for humanity. See [Climate Change](/notes/climate-change).
 
-## What we know
+**Context:** Sir David Attenborough is a British broadcaster and natural historian, best known for writing and presenting the BBC's landmark natural-history documentary series (Life, Planet Earth, Blue Planet) over a career spanning more than six decades.
 
-- Presenter/narrator of Extinction — The Facts (BBC 2020), a documentary on the biodiversity crisis.
+## Where this appears
 
-## Mentioned in
-
-- Extinction — The Facts — presenter; Kyle has it on his watch list.
+- Extinction — The Facts — presenter/narrator of the BBC 2020 biodiversity documentary on Kyle's to-watch list.

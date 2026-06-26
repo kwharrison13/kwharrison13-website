@@ -22,7 +22,7 @@ The last 24 hours have been a hyper-concentrated dose of an entire philosophical
 
 “Where are the venture capitalists who could have stopped this?”
 
-In lieu of the piece I’ve been writing, I just wanted to a share a brief reflection to add to the endless thought pouring out on Twitter, Reddit, and more. As the details have come out in pieces, its clear this is an existential divide between Ilya Sutskever on one side, and Sam Altman / Greg Brockman on the other.
+In lieu of the piece I’ve been writing, I just wanted to a share a brief reflection to add to the endless thought pouring out on [[Twitter]], [[Reddit]], and more. As the details have come out in pieces, its clear this is an existential divide between Ilya Sutskever on one side, and [[Sam Altman]] / Greg Brockman on the other.
 
 One piece that has stuck with me was written by [Nirit Weiss-Blatt](https://twitter.com/DrTechlash), who wrote a book called [The Techlash](https://www.niritweissblatt.com/), unpacking how tech media swings in its coverage from utopian to dystopian and back. She wrote a piece in September 2023 called “[What Ilya Sutskever Really Wants](https://www.aipanic.news/p/what-ilya-sutskever-really-wants).”
 
@@ -32,7 +32,7 @@ In it, she describes an experience listening to Ilya speak at a conference about
 
 > *“**He freaked the hell out of people there.** And we’re talking about AI professionals who work in the biggest AI labs in the Bay area. They were leaving the room, saying, ‘Holy shit.’ The snapshots above cannot capture the lengthy discussion. **The point is that Ilya Sutskever took what you see in the media, the ‘AGI utopia vs. potential apocalypse’ ideology, to the next level. It was traumatizing.**”*
 
-There are several sources that are laying out the details of the story. The TLDR? Sam and Greg were the driving force behind OpenAI’s ambitions. Raising more and more capital, establishing plans to build their own chips to compete with Nvidia, building an AI-native phone with Jony Ive.
+There are several sources that are laying out the details of the story. The TLDR? Sam and Greg were the driving force behind [[OpenAI]]’s ambitions. Raising more and more capital, establishing plans to build their own chips to compete with [[Nvidia]], building an AI-native phone with [[Jony Ive]].
 
 Ilya’s perspective was focused on the need to create AI “[that truly deeply loves humanity](https://www.aipanic.news/p/what-ilya-sutskever-really-wants).” The progress of OpenAI was racing far ahead of the research capabilities to pursue Ilya’s parameters for love, not just performance. What’s more, his role was increasingly getting reduced at the company.
 
@@ -42,9 +42,9 @@ What’s more, there is such a contrast today. On the one hand, we have EA explo
 
 ![Source:Twitter](/images/the-fall-of-the-hero-founder-24c293b4.jpg)
 
-The takeaways are worthy of discussion, and there’s a ton of nuance. It is shocking (and irresponsible) that Microsoft, Sequoia, Thrive, and Khosla Ventures have invested billions in OpenAI and were completely [caught off guard](https://x.com/alexrkonrad/status/1725712990274560145?s=20) by Sam’s firing. Irresponsible of the investors for not having more influence and insight, but also irresponsible of the board.
+The takeaways are worthy of discussion, and there’s a ton of nuance. It is shocking (and irresponsible) that [[Microsoft]], [[Sequoia]], Thrive, and [[Khosla Ventures]] have invested billions in OpenAI and were completely [caught off guard](https://x.com/alexrkonrad/status/1725712990274560145?s=20) by Sam’s firing. Irresponsible of the investors for not having more influence and insight, but also irresponsible of the board.
 
-Also, there will be plenty of poking into the dynamics of the board. It’s a wild group of people that have no business being in control of the most important company in AI. Investors like Reid Hoffman, who could have had helped balance this situation, [stepped off](https://www.cnbc.com/2023/03/03/reid-hoffman-steps-down-from-openai-board-to-avoid-potential-conflicts.html) the board of OpenAI to avoid conflicts of interest. Turns out when one company represents critical infrastructure for a huge swath of AI companies, its hard to also be investing in those companies.
+Also, there will be plenty of poking into the dynamics of the board. It’s a wild group of people that have no business being in control of the most important company in AI. Investors like [[Reid Hoffman]], who could have had helped balance this situation, [stepped off](https://www.cnbc.com/2023/03/03/reid-hoffman-steps-down-from-openai-board-to-avoid-potential-conflicts.html) the board of OpenAI to avoid conflicts of interest. Turns out when one company represents critical infrastructure for a huge swath of AI companies, its hard to also be investing in those companies.
 
 But that’s another argument for why the fate of OpenAI shouldn’t have been left to a bunch of randos, all of which Ilya was more than capable of pushing around, right?
 
@@ -58,7 +58,7 @@ Yesterday, The Crusade of EA won a battle. But they did not win the war.
 
 # The Prodigal Son
 
-So many people have drawn parallels between Sam Altman’s ouster and the [firing](https://www.thecorporategovernanceinstitute.com/insights/case-studies/why-did-apples-board-fire-steve-jobs-in-1985/#:~:text=Apple%20fired%20Steve%20Jobs%20in,live%20up%20to%20sales%20expectations.) of Steve Jobs in 1985. Jobs was fired by the board after a few Macintosh products failed to live up to sales projections, and Jobs was moved away from the product line.
+So many people have drawn parallels between Sam Altman’s ouster and the [firing](https://www.thecorporategovernanceinstitute.com/insights/case-studies/why-did-apples-board-fire-steve-jobs-in-1985/#:~:text=Apple%20fired%20Steve%20Jobs%20in,live%20up%20to%20sales%20expectations.) of [[Steve Jobs]] in 1985. Jobs was fired by the board after a few Macintosh products failed to live up to sales projections, and Jobs was moved away from the product line.
 
 Sam’s ouster is quite different. **Sam was removed for doing too good**. Progress was too good. Fundraising was too fast. Ilya, I think, believed so strongly in the crusade of EA and AI safety that he inhaled his own hype. He believed that OpenAI was the movement. He was mistaken.
 

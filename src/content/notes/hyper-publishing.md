@@ -40,9 +40,9 @@ related:
 
 - **Trust and attention are the fundamental pillars of modern business**, best achieved through transparency. The consistent, continuous production of original, evergreen content — hyper publishing — is how you build trust at scale.
 - **We're all saturated with work and starved for time.** Managers and founders want to produce content but have no bandwidth; the solution is a system "more powerful than any individual," made possible by the internet.
-- **Demand for high-quality information outpaces supply.** The number of creators scales linearly while content consumption scales exponentially (Digital Creators).
+- **Demand for high-quality information outpaces supply.** The number of creators scales linearly while content consumption scales exponentially ([Digital Creators](/notes/digital-creators)).
 - **Millennials build trust digitally**, not through handshakes — they want emotional connection with their favorite companies and to consume their content (per [Morgan Housel](/notes/morgan-housel)).
-- **Content is like software: expensive to produce, cheap to reproduce.** Through modular creation — recombining existing notes, ideas, and information — you can exponentially increase your pace of production (Building a Second Brain).
+- **Content is like software: expensive to produce, cheap to reproduce.** Through modular creation — recombining existing notes, ideas, and information — you can exponentially increase your pace of production ([Building a Second Brain](/notes/building-a-second-brain)).
 - **Store your best ideas as searchable text** so the bottleneck of creation shifts from generating new ideas to re-packaging existing ones. Creation begins after research is complete.
 - **Hyper publishing creates a network effect.** Each node doubles as a lever to promote the others; by capturing and recycling knowledge, you accumulate "an ever-expanding library of intellectual capital" with massive compounding leverage.
 
@@ -59,7 +59,7 @@ related:
 ## How it connects
 
 - [Hyper Publishing- The Wiki Strategy](/notes/hyper-publishing-the-wiki-strategy) — the companion piece that extends the same thesis to hyperlinks and the "Wiki Strategy."
-- [Writing](/notes/writing) / Digital Creators — the core practice and the audience.
+- [Writing](/notes/writing) / [Digital Creators](/notes/digital-creators) — the core practice and the audience.
 - [Morgan Housel](/notes/morgan-housel) — cited on how millennials acquire trust digitally; see [Morgan Housel- Naked Brands Interview Series](/notes/morgan-housel-naked-brands-interview-series).
-- Building a Second Brain — the note-storage system that makes modular publishing possible.
+- [Building a Second Brain](/notes/building-a-second-brain) — the note-storage system that makes modular publishing possible.
 - [Tyler Cowen](/notes/tyler-cowen) — quoted on the producer's edge on the internet.

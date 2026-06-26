@@ -24,7 +24,7 @@ related:
 
 # F.I.A.S.C.O.
 
-**Author:** Frank Partnoy
+**Author:** [Frank Partnoy](/notes/frank-partnoy)
 
 **Why it's on the list:** *A former Morgan Stanley derivatives salesman's insider expose of the predatory culture and complex financial instruments driving 1990s Wall Street.*
 

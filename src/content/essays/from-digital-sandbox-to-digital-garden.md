@@ -17,13 +17,13 @@ substack_url: "https://investing101.substack.com/p/from-digital-sandbox-to-digit
 
 ![Header image for From Digital Sandbox To Digital Garden](/images/from-digital-sandbox-to-digital-garden-c14f2407.png)
 
-For those of you that have followed my writing for a while, you'll probably know that I'm a pretty exorbitant note taking nerd. In fact, my very first post on this blog was "[Networked Conviction](https://investing1012dot0.substack.com/p/roam-investing)," an overview of how I use [Roam Research](https://roamresearch.com/) for taking notes on investing. But Roam isn't where my obsession started. I started using Twitter at the beginning of COVID lockdowns, which is where I found Roam. But my documentation hunger goes much deeper than that.
+For those of you that have followed my writing for a while, you'll probably know that I'm a pretty exorbitant note taking nerd. In fact, my very first post on this blog was "[Networked Conviction](https://investing1012dot0.substack.com/p/roam-investing)," an overview of how I use [Roam Research](https://roamresearch.com/) for taking notes on investing. But Roam isn't where my obsession started. I started using [[Twitter]] at the beginning of COVID lockdowns, which is where I found Roam. But my documentation hunger goes much deeper than that.
 
-Before Roam, it was Notion. And before Notion, it was Evernote.
+Before Roam, it was [[Notion]]. And before Notion, it was [[Evernote]].
 
 ![Tweet referenced in From Digital Sandbox To Digital Garden](/images/from-digital-sandbox-to-digital-garden-f210651d.png)
 
-I don't remember being particularly organized as a kid, or in high school. I did have a master notebook with a big running checklist. But my writing habit mostly started on my [mission](https://newsroom.churchofjesuschrist.org/article/mission#:~:text=%EF%83%81,humanitarian%20assistance%20or%20other%20service.) for The Church of Jesus Christ of Latter-Day Saints. [I've written before](https://investing1012dot0.substack.com/p/on-writing?utm_source=publication-search) about the experience I had doing at least two hours of scripture study every day.
+I don't remember being particularly organized as a kid, or in high school. I did have a master notebook with a big running checklist. But my writing habit mostly started on my [mission](https://newsroom.churchofjesuschrist.org/article/mission#:~:text=%EF%83%81,humanitarian%20assistance%20or%20other%20service.) for [[The Church of Jesus Christ of Latter-day Saints|The Church of Jesus Christ of Latter-Day Saints]]. [I've written before](https://investing1012dot0.substack.com/p/on-writing?utm_source=publication-search) about the experience I had doing at least two hours of scripture study every day.
 
 Over the course of two years, I filled 11 study journals with different kinds of notes, quotes, stories, and lessons. That was really where my hunger for consuming, capturing, organizing, and utilizing knowledge really began.
 
@@ -31,11 +31,11 @@ Over the course of two years, I filled 11 study journals with different kinds of
 
 That last time I talked about this was a reflective piece called "[On Writing](https://investing1012dot0.substack.com/p/on-writing?utm_source=publication-search)." In it, I shared a quote that has always resonated with me:
 
-> *“While walking in a rapid stream we cannot tread twice in the same water. Neither can we spend twice the same time. When we pass out of that door, the work of this meeting will be closed to us forever. **We shall never spend the time of this evening again. Then should we not keep a record of our work, teachings, and counsel that we give? We should.**” (Wilford Woodruff)*
+> *“While walking in a rapid stream we cannot tread twice in the same water. Neither can we spend twice the same time. When we pass out of that door, the work of this meeting will be closed to us forever. **We shall never spend the time of this evening again. Then should we not keep a record of our work, teachings, and counsel that we give? We should.**” ([[Wilford Woodruff]])*
 
 I feel that way about everything. Every meeting, every class, every conversation, every passing thought, every sleepless night. Each moment is a moment that is rushing by, and will never pass me again. So I ought to try and capture it.
 
-My system for tracking these fleeting thoughts has evolved over time. In 2020 I was [obsessed](https://x.com/kwharrison13/status/1299519854169346050) (like [really obsessed](https://x.com/kwharrison13/status/1371843694106718220)) with Roam, and recommended it to everyone. Don't get me wrong, I'm still an hourly active user (I'm literally writing this in Roam right now). But I've come to accept that Roam isn't for everyone. Even for me, my Roam graph is too big so it doesn't load on their mobile app, so I've been having to capture random ideas on the go in my Apple Notes app instead, and then I transfer them later.
+My system for tracking these fleeting thoughts has evolved over time. In 2020 I was [obsessed](https://x.com/kwharrison13/status/1299519854169346050) (like [really obsessed](https://x.com/kwharrison13/status/1371843694106718220)) with Roam, and recommended it to everyone. Don't get me wrong, I'm still an hourly active user (I'm literally writing this in Roam right now). But I've come to accept that Roam isn't for everyone. Even for me, my Roam graph is too big so it doesn't load on their mobile app, so I've been having to capture random ideas on the go in my [[Apple]] Notes app instead, and then I transfer them later.
 
 ![Quote card from From Digital Sandbox To Digital Garden](/images/from-digital-sandbox-to-digital-garden-6291f7ce.png)
 
@@ -55,9 +55,9 @@ Digital gardens are one of many discoveries I made during my Roam Renaissance er
 
 > *"A garden is a collection of evolving ideas that aren't strictly organised by their publication date. They're inherently exploratory – notes are linked through contextual associations. **They aren't refined or complete - notes are published as half-finished thoughts that will grow and evolve over time.** They're less rigid, less performative, and less perfect than the personal websites we're used to seeing."*
 
-I've had a digital garden since August 2020, not long after I got the idea from Maggie. I refer to it as my "[Portfolio Ideas](https://kwharrison13.com/portfolio-ideas)." I keep some passing references to big ideas like "The New City" or "The Republic of Letters 2.0." Occasionally, portfolio ideas evolve from the loosely explored, to the written down. That happened with [Historical Futurism](https://investing1012dot0.substack.com/p/historical-futurism?utm_source=publication-search) and [open-source knowledge](https://investing1012dot0.substack.com/p/open-source-knowledge), both of which I've written about in this blog.
+I've had a digital garden since August 2020, not long after I got the idea from Maggie. I refer to it as my "[Portfolio Ideas](https://kwharrison13.com/portfolio-ideas)." I keep some passing references to big ideas like "[[The New City]]" or "[[Republic of Letters|The Republic of Letters 2.0]]." Occasionally, portfolio ideas evolve from the loosely explored, to the written down. That happened with [Historical Futurism](https://investing1012dot0.substack.com/p/historical-futurism?utm_source=publication-search) and [open-source knowledge](https://investing1012dot0.substack.com/p/open-source-knowledge), both of which I've written about in this blog.
 
-These ideas are big, and almost semi-sacred. I very rarely add ideas to that list. I'm trying to abide by the advice of Charlie Munger when he said, "Take a simple idea and take it seriously.” This, often, acts as the source of ideas that I draw a lot of my writing from.
+These ideas are big, and almost semi-sacred. I very rarely add ideas to that list. I'm trying to abide by the advice of [[Charlie Munger]] when he said, "Take a simple idea and take it seriously.” This, often, acts as the source of ideas that I draw a lot of my writing from.
 
 But my obstacle has been further up, at the top of the funnel. Ideas that aren’t even ready for a digital garden, let alone a full blog post. I think of this disparate collection of unformed ideas as a sandbox; not yet cultivated into a full garden. That's why, today, I've created my own digital sandbox.
 
@@ -81,7 +81,7 @@ There is a quote I love that I came across on [Compound's writing page](https://
 
 As soon as I spend any amount of time articulating some of the painstaking processes I go through for my research and writing, I so often get the feedback: "that just seems too complicated." And to that, I respond, "shut up."
 
-To each their own. But when I think about "thinking what nobody else has thought," I think that has to come from really *seeing* what everyone else is seeing. And seeing as much of it as possible. Recalling it, remixing it, reviewing it, repurposing it. I come back [again](https://investing1012dot0.substack.com/p/learning-to-dream?utm_source=publication-search), and [again](https://investing1012dot0.substack.com/p/back-to-the-grass?utm_source=publication-search), and [again](https://investing1012dot0.substack.com/p/the-rising-generation?utm_source=publication-search), to this advice that Alan Rickman gave to young actors, but I think is applicable to all of us:
+To each their own. But when I think about "thinking what nobody else has thought," I think that has to come from really *seeing* what everyone else is seeing. And seeing as much of it as possible. Recalling it, remixing it, reviewing it, repurposing it. I come back [again](https://investing1012dot0.substack.com/p/learning-to-dream?utm_source=publication-search), and [again](https://investing1012dot0.substack.com/p/back-to-the-grass?utm_source=publication-search), and [again](https://investing1012dot0.substack.com/p/the-rising-generation?utm_source=publication-search), to this advice that [[Alan Rickman]] gave to young actors, but I think is applicable to all of us:
 
 > *"Forget about acting. Whatever you do as an actor is cumulative. Go to art galleries, listen to music, know what's happening on the news, in the world, and form your opinions, develop your taste and judgement. So that **when a quality piece of writing is put in front of you your imagination, which you've nurtured, has something to bounce off of**."*
 

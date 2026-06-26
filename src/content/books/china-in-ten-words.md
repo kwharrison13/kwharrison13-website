@@ -6,14 +6,14 @@ rating: 3
 quake: false
 tags:
   - "historical-futurism"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-Yu Hua's essay collection read with two specific structural frames. Two threads:
+[Yu Hua](/notes/yu-hua)'s essay collection read with two specific structural frames. Two threads:
 
 1. **Loss of "the people" as a sense.** "In America it feels like we have lost our sense of 'the people.'" Yu Hua's frame on Chinese collective experience as a comparison that highlights what the US has lost.
 
@@ -40,7 +40,7 @@ Yu Hua's essay collection read with two specific structural frames. Two threads:
 - Since 1990, corruption has grown with the same astounding speed as the economy as a whole. <!--rwid:rwid-48821ceb1f44-->
 - We encounter all kinds of words in the course of our lives, and some we understand at first glance and others we may rub shoulders with but never fully understand. “The people” belongs in that second category. It’s one of the first phrases I learned to read and write, and it has clung to me in my travels through life, constantly appearing before my eyes and sounding in my ears. But it did not truly penetrate my inner being until my thirtieth year, when an experience late one night finally allowed me to understand the term in all its potency. It was only when I had a real-life encounter with it—disengaged from all linguistic, sociological, or anthropological theories and definitions—that I could tell myself: “the people” is not an empty phrase, because I have seen it in the flesh, its heart thumping. <!--rwid:rwid-63ca07f7c55a-->
   > **Kyle:** *In America it feels like we have lost our sense of “the people.”*
-- You can imagine people’s reaction: what can it mean when the great leader Chairman Mao has gone so far as to write a big-character poster? It can mean only one thing—that Chairman Mao is in the same boat as ordinary people like themselves! <!--rwid:rwid-cf2713e15c9f-->
+- You can imagine people’s reaction: what can it mean when the great leader [Chairman Mao](/notes/mao-zedong) has gone so far as to write a big-character poster? It can mean only one thing—that Chairman Mao is in the same boat as ordinary people like themselves! <!--rwid:rwid-cf2713e15c9f-->
 - I have a sense that in today’s China we no longer have a leader—all we have is a leadership. <!--rwid:rwid-850715734a15-->
 - China’s model of growth is to spend 100 yuan to gain 10 yuan in increased GDP. Environmental degradation, moral collapse, the polarization of rich and poor, pervasive corruption—all these things are constantly exacerbating the contradictions in Chinese society. <!--rwid:rwid-2d60dc463b1d-->
 - China today is a completely different story. So intense is the competition and so unbearable the pressure that, for many Chinese, survival is like war itself. In this social environment the strong prey on the weak, people enrich themselves through brute force and deception, and the meek and humble suffer while the bold and unscrupulous flourish. Changes in moral outlook and the reallocation of wealth have created a two-tiered society, and this in turn generates social tensions. So in China today there have emerged real classes and real class conflict. <!--rwid:rwid-5f69ad73d7cd-->
@@ -51,10 +51,10 @@ Yu Hua's essay collection read with two specific structural frames. Two threads:
 - “Every time I read one of the great books, I feel myself transported to another place, and like a timid child I hug them close and mimic their steps, slowly tracing the long river of time in a journey where warmth and emotion fuse. They carry me off with them, then let me make my own way back, and it’s only on my return that I realize they will always be part of me.” <!--rwid:rwid-ff80c7254ce1-->
 - If literature truly possesses a mysterious power, I think perhaps it is precisely this: that one can read a book by a writer of a different time, a different country, a different race, a different language, and a different culture and there encounter a sensation that is one’s very own. Heine put into words the feeling I had as a child when I lay napping in the morgue. And that, I tell myself, is literature. <!--rwid:rwid-e0d846d68b4d-->
 - “To recall one’s past life,” Martial wrote, “is to relive it.” <!--rwid:rwid-4e8f4b16c951-->
-- But in one respect the two genres are much the same: writing big-character posters during the Cultural Revolution and keeping a blog today are both designed to assert the value of one’s own existence. <!--rwid:rwid-e518a9757ef5-->
+- But in one respect the two genres are much the same: writing big-character posters during the [Cultural Revolution](/notes/cultural-revolution) and keeping a blog today are both designed to assert the value of one’s own existence. <!--rwid:rwid-e518a9757ef5-->
 - Years later young people often ask, “How does one become a writer?” My answer is always simply: “By writing.” Writing is like experience: if you don’t experience things, then you won’t understand life; and if you don’t write, then you won’t know what you’re capable of creating. <!--rwid:rwid-636ed9aee1e8-->
 - A basic image of the world is planted deep in your mind, and then, like a document in a copy machine, it keeps being reprinted again and again throughout your formative years. Once you reach adulthood, whether you’re successful or not, whatever you accomplish can only partially revise that most basic image; it will never be entirely transformed. Naturally some revise the image more and some revise it less. <!--rwid:rwid-554294a7232c-->
-- Lu Xun continued with typical acerbity: Money is an unseemly topic that may well be deplored by gentlemen of lofty principle. But I tend to think that people’s views differ not only between one day and the next but also before and after meals. When people admit that money is necessary to feed oneself but still insist on its vulgarity, then one can safely predict that they still have some undigested fish or meat in their systems. They’d sing a different tune, I’m sure, if you made them go hungry for a day. <!--rwid:rwid-64371df0be04-->
+- [Lu Xun](/notes/lu-xun) continued with typical acerbity: Money is an unseemly topic that may well be deplored by gentlemen of lofty principle. But I tend to think that people’s views differ not only between one day and the next but also before and after meals. When people admit that money is necessary to feed oneself but still insist on its vulgarity, then one can safely predict that they still have some undigested fish or meat in their systems. They’d sing a different tune, I’m sure, if you made them go hungry for a day. <!--rwid:rwid-64371df0be04-->
 - It was as simple as that: his position on the distance between the sun and the earth, which he had defended to the hilt for twelve months flat, collapsed in ruins at once before my fictitious Lu Xun. In the days that followed he was pensive and subdued, tasting alone the bitter flavor of defeat. <!--rwid:rwid-4d3860beac4f-->
 - Ignorance engendered mystery, and mystery became allure, triggering my creative instincts. <!--rwid:rwid-3d0df9be8fb0-->
 - “Mr. Lu Xun says” was really just a way of jumping on the bandwagon. <!--rwid:rwid-8a2910699147-->

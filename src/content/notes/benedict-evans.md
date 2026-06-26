@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-19"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/books/The Psychology of Money.md"
@@ -17,8 +17,10 @@ related:
 
 # Benedict Evans
 
-_Stub — flagged during the 2026-06-19 connection sweep as an entity referenced across the wiki without its own page. Closing quote on the internet making people angrier as it exposes new viewpoints; no page exists._
+Benedict Evans appears in Kyle's notes via a single quote carried in [The Psychology of Money](/books/the-psychology-of-money): "The more the Internet exposes people to new points of view, the angrier people get that different views exist." In the book's highlights, the line lands as an observation that exposure to opposing viewpoints — rather than producing understanding — tends to harden disagreement, a behavioral/psychological point about information rather than money per se.
+
+**Context:** Benedict Evans is a British technology analyst and writer, formerly a partner at the venture firm Andreessen Horowitz, known for his widely read essays and presentations on the structure of the tech industry and the internet.
 
 ## Where this appears
 
-- [The Psychology of Money](/books/the-psychology-of-money)
+- [The Psychology of Money](/books/the-psychology-of-money) — quoted on how the internet's exposure to new viewpoints makes people angrier rather than more understanding.

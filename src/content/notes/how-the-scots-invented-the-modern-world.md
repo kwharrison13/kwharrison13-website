@@ -24,7 +24,7 @@ related:
 
 # How the Scots Invented the Modern World
 
-**Author:** Arthur Herman
+**Author:** [Arthur Herman](/notes/arthur-herman)
 
 **Why it's on the list:** *Argues that Scottish Enlightenment thinkers pioneered the ideas of modernity—capitalism, democracy, science, and individualism—that shaped the Western world.*
 

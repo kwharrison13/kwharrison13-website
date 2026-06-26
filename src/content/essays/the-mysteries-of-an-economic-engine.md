@@ -19,7 +19,7 @@ substack_url: "https://investing101.substack.com/p/the-mysteries-of-an-economic-
 
 # What's Left?
 
-One of the oft-repeated words of parenting advice I see on TikTok is a way for teaching your kids about taxes and savings. This can be done in one of two ways.
+One of the oft-repeated words of parenting advice I see on [[TikTok]] is a way for teaching your kids about taxes and savings. This can be done in one of two ways.
 
 First? When you give them an allowance, you talk them through the exercise of taking a portion of that allowance to pay “rent” or create a “family sharing pool.” Show them how money needs to cover more things than just the thing they wanted to buy.
 
@@ -59,7 +59,7 @@ Every business model represents a stick. One end of the stick is revenue. People
 
 Philosopher, and a man with an ear for cuisine, Mike Tyson once said, "everyone has a plan until they get punched in the face." In the history of taking private tech companies public, usually that "punch in the face" is going public (though that hasn't been as power-packed of a punch for the last few years.) When companies have been telling their story around how many oranges there are without articulating how the juice is made, going public can be a real punch to the face.
 
-In 2011, Bill Gurley wrote a great piece called "[All Revenue is Not Created Equal](https://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/)" where he lays out the case for how companies are evaluated. He makes the same case for (in a perfect world) being able to evaluate companies based on the discounted value of future cash flows (usually using a [DCF](https://www.investopedia.com/terms/d/dcf.asp) analysis).
+In 2011, [[Bill Gurley]] wrote a great piece called "[All Revenue is Not Created Equal](https://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/)" where he lays out the case for how companies are evaluated. He makes the same case for (in a perfect world) being able to evaluate companies based on the discounted value of future cash flows (usually using a [DCF](https://www.investopedia.com/terms/d/dcf.asp) analysis).
 
 > *"The problem is that it is nearly impossible to predict with any accuracy what the long-term cash flows are for a given company; especially a company that is young or that might be using an innovative and new business model. **Additionally, knowing what long-term cash flows look like requires knowledge of a vast number of disparate future variables.**"*
 
@@ -85,17 +85,17 @@ So let's go back to our orange analogy. A business that focuses their entire sto
 
 CJ Gustafson did a great job [laying out different kinds of revenue](https://www.mostlymetrics.com/p/ways-to-monetize-your-technology) a few months ago. Here's a quick snapshot of just how broad the universe of oranges can be:
 
-- **Subscription Revenue** (monthly, annual): Zoom, Miro, Datadog, Notion, Adobe, Figma, QuickBooks
-- **Transactional Revenue** (take rates, interchange, interest, FX): Stripe, Adyen, Airbnb, Uber, Substack, OpenSea, Coinbase, Patreon
-- **Usage-Based Revenue** (volume tiers, pay-as-you-go): Snowflake, Twilio, AWS, Digital Ocean, MessageBird
-- **Advertising Revenue** (per ad, per search): Snapchat, Indeed, Linkedin
+- **Subscription Revenue** (monthly, annual): Zoom, Miro, [[Datadog]], [[Notion]], [[Adobe]], [[Figma]], [[Quickbooks|QuickBooks]]
+- **Transactional Revenue** (take rates, interchange, interest, FX): [[Stripe]], [[Adyen]], Airbnb, [[Uber]], [[Substack]], [[OpenSea]], [[Coinbase]], Patreon
+- **Usage-Based Revenue** (volume tiers, pay-as-you-go): [[Snowflake ($SNOW)|Snowflake]], [[Twilio]], AWS, Digital Ocean, MessageBird
+- **Advertising Revenue** (per ad, per search): [[Snap|Snapchat]], Indeed, Linkedin
 - **One-Off Revenue** (e-commerce purchases, consulting, in-app): Roblox, Strava
 
 Subscription revenue has been held up as the gold standard because it’s more predictable. But again, every company picks up one end of a business model stick (revenue) that will bring with it the other end of the stick (a cost structure). And that relationship is not always apples-to-apples across companies. Just because it's a subscription revenue business doesn't mean it's the same cost structure.
 
 ![Source:Clouded Judgement (09.23.22)](/images/the-mysteries-of-an-economic-engine-6b8b197e.png)
 ](/images/the-mysteries-of-an-economic-engine-6b8b197e.png)
-You have software companies that take full advantage of the benefits of cloud computing and have very few costs of serving their revenue, like Autodesk as one random example. But then you have folks like Five9. What's different about their structure? Tomasz Tunguz [explains it](https://tomtunguz.com/not-all-revenue-dollars-are-created-equal/):
+You have software companies that take full advantage of the benefits of cloud computing and have very few costs of serving their revenue, like Autodesk as one random example. But then you have folks like [[Five9]]. What's different about their structure? Tomasz Tunguz [explains it](https://tomtunguz.com/not-all-revenue-dollars-are-created-equal/):
 
 > *"Five9 provides call center software and telephony software. Five9 buys telephone minutes from telephone companies and packages these minutes with their software so customers can make outbound calls through the Five9 software. **The fees Five9 pays to telephone companies is a Cost of Goods Sold.**"*
 
@@ -111,7 +111,7 @@ Tech writers (myself included) often don't do a good enough job articulating the
 
 # Is The Juice Worth The Squeeze?
 
-When we talk about an economic engine, there is a massive list of things to take into account for any given business. Take DoorDash as an example. In their S-1 they have this chart where they break down a broad swath of their economic engine, from the entire order volumes they drive, and then take that all the way down to EBITDA.
+When we talk about an economic engine, there is a massive list of things to take into account for any given business. Take DoorDash as an example. In their S-1 they have this chart where they break down a broad swath of their economic engine, from the entire order volumes they drive, and then take that all the way down to [[EBITDA]].
 
 ![Source:DoorDash S-1](/images/the-mysteries-of-an-economic-engine-cfb8c70e.png)
 
@@ -123,13 +123,13 @@ The rise of "tech enabled" as an add-on moniker became a way for any business to
 
 The word "data" appears in their S-1 over 300 times. Great thread here on why this framing of becoming a "tech" company is so important.
 
-So how has that worked out for these companies that try and take a traditional insurance model or real estate brokerage, and techify it? Not great. Companies like Compass or Opendoor are both down more than 75% YTD.
+So how has that worked out for these companies that try and take a traditional insurance model or real estate brokerage, and techify it? Not great. Companies like Compass or [[Opendoor]] are both down more than 75% YTD.
 
 ![Framework diagram for is the juice worth the squeeze?](/images/the-mysteries-of-an-economic-engine-d23e6162.png)
 
 So are all "traditional" companies garbage? Not at all. [Title insurance](https://swingtradebot.com/stocks-tagged-as/1364-title-insurance) companies like C&F Financial Corporation or First Citizens literally have 100% gross margins. Should they be treated exactly like Root? No, because not all insurance is equal. Not all revenue is equal. Not all gross profit is equal. **Not every economic engine is created equal.**
 
-Similar dynamics exist in content creation. Netflix and YouTube are neck and neck in terms of revenue, with each generating ~$30B in revenue. The difference? Netflix spent $17B producing content, YouTube pays out 30% for user-generated content.
+Similar dynamics exist in content creation. [[Netflix]] and [[YouTube]] are neck and neck in terms of revenue, with each generating ~$30B in revenue. The difference? Netflix spent $17B producing content, YouTube pays out 30% for [[User Generated Content|user-generated content]].
 
 Is one bad and one is good? Not necessarily. They're different economic engines. Every company will eventually have to answer for the intricacies of their engine, for better or for worse. This is probably one of the most complex points. Companies will often make the argument that at their scale their economic engine will shift dramatically. Burn now, achieve scale, and improve economics later.
 

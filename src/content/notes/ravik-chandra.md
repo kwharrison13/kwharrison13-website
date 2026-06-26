@@ -2,30 +2,26 @@
 title: "Ravik Chandra"
 type: "person"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/Watershed Climate Diligence — 2021.md"
+  - "wiki/diligence-research/Watershed Climate Diligence — 2021.md"
 tags: []
 aliases:
   - "Ravik Chandra"
-related: []
+related:
+  - "[[Watershed Climate Diligence — 2021]]"
+  - "[[Carbon Footprint]]"
 ---
 
 # Ravik Chandra
 
-**One-line:** *Sustainability project manager / HVAC engineer (Nova Group GBC); Watershed customer; expert call.*
+Ravik Chandra is a sustainability project manager and HVAC/mechanical engineer who served as an expert/customer reference in Kyle's Watershed Climate Series B diligence. In the call he is described as a Sustainability Project Manager at Nova Group GBC — an environmental consultant serving real estate developers and lenders, where his main job is conducting energy assessments on properties and presenting energy-savings recommendations. His diligence notes emphasize how hard a real [Carbon Footprint](/notes/carbon-footprint) / cradle-to-grave analysis is in practice: that water and renewable-energy sourcing questions ("what is fueling that renewable source?") are usually brushed over, and that the field's biggest gap is education — "we know what needs to be done but we don't know how to get there."
 
-## What we know
+His background, per the call, includes mechanical/HVAC engineering at DB Engineering Inc. and energy-engineering work at Sol design + consulting (energy modeling, audits, LEED documentation).
 
-- Sustainability project manager / HVAC engineer (Nova Group GBC); Watershed customer; expert call. (source: Watershed Climate Diligence — 2021)
+## Where this appears
 
-## Mentioned in
-
-- Watershed Climate Diligence — 2021 — Watershed Climate Series B diligence (Index Ventures, 2021).
-
-## Open questions
-
-_(stub — expand on a future pass)_
+- Watershed Climate Diligence — 2021 — expert/customer call; a Nova Group GBC sustainability project manager giving an on-the-ground view of carbon accounting and building energy assessments.

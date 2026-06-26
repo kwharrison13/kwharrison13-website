@@ -31,7 +31,7 @@ VCs sit along a very strange spectrum between near absolute power and near absol
 
 VCs are nothing if not pattern recognizers, right? So, whether consciously or subconsciously, they start to correlate deference as indicative of lower quality. The nicer you are to a VC, the more likely you are to be a bad company.
 
-Now, the opposite is also true. The more a company is crushing it, the less deference they need to pay VCs. The more a founder ignores you, the more likely it is that the company knows its good. I don't know if this story is true, but I remember hearing stories about how, in the early days of Notion's inflection, some VCs sent them an unprompted term sheet and the Notion founders sent back a video of them lighting the term sheet on fire.
+Now, the opposite is also true. The more a company is crushing it, the less deference they need to pay VCs. The more a founder ignores you, the more likely it is that the company knows its good. I don't know if this story is true, but I remember hearing stories about how, in the early days of [[Notion]]'s inflection, some VCs sent them an unprompted term sheet and the Notion founders sent back a video of them lighting the term sheet on fire.
 
 ![Animated GIF related to a deal that would have me as an investor](/images/the-groucho-marx-mandate-ed54ea4e.gif)
 

@@ -8,7 +8,7 @@ url: "https://semilshah.com/2022/01/29/the-market-is-the-greatest-critic/"
 source_published: "2022-01-29"
 confidence: "high"
 created: "2026-06-18"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/calls/January 31st, 2022.md"
@@ -37,8 +37,8 @@ related:
 - [Chris Dixon](/notes/chris-dixon) was defending startups against critique, citing that journalists and other startup ecosystem players shouldn't publicly criticize startups because startups are really hard, most of them fail, **and it's the market that delivers the harshest critique.**
 - Unlike private investors who have their funds locked up for almost a decade and can only cheer from the sidelines through thick and thin, public companies can attract activist investors one day and lose long-term investors one random morning, sending their stock prices into oscillation or free fall.
 - The crash from Nov '21 to Jan '22 (and maybe more?) is the first crash Kyle experienced as an investor. Yes, it is a crash. The percentage share of value destroyed, primarily in "tech," rivals that of the dot com crash over two decades ago.
-- There are other victims, too many to list. Just look at Robinhood, or [Toast ($TOST)](/notes/toast), or any other high flying tech company, save for Facebook, Microsoft, Google, and Apple.
-- **Companies big and small will be examined through the lens of growth narratives driven by product diversity.** It's no longer good enough to just handle online storage, or just facilitate online meetings, or just empower consumers to freely trade securities. Public investors and quant funds who can vote with their feet every millisecond are likely going to reallocate their money into companies that demonstrate the vision and execution to acquire assets like Instagram and WhatsApp, key infrastructure like Parse and Onavo, or assets like Slack and Tableau, or Minecraft, LinkedIn, and Activision. The public markets will likely reward those who can diversify their product lines into messaging, analytics, gaming, and more — **those special companies and business leaders who continue to** [Bundle](/notes/bundle) **value into their platforms.**
+- There are other victims, too many to list. Just look at [Robinhood](/notes/robinhood), or [Toast ($TOST)](/notes/toast), or any other high flying tech company, save for [Facebook](/notes/facebook), [Microsoft](/notes/microsoft), [Google](/notes/google), and [Apple](/notes/apple).
+- **Companies big and small will be examined through the lens of growth narratives driven by product diversity.** It's no longer good enough to just handle online storage, or just facilitate online meetings, or just empower consumers to freely trade securities. Public investors and quant funds who can vote with their feet every millisecond are likely going to reallocate their money into companies that demonstrate the vision and execution to acquire assets like [Instagram](/notes/instagram) and WhatsApp, key infrastructure like Parse and Onavo, or assets like Slack and Tableau, or Minecraft, [LinkedIn](/notes/linkedin), and Activision. The public markets will likely reward those who can diversify their product lines into messaging, analytics, gaming, and more — **those special companies and business leaders who continue to** [Bundle](/notes/bundle) **value into their platforms.**
 - For the nine years Semil has been investing, the money has been easy. Follow-on investors have bought the growth story and given entrepreneurs the benefit of the doubt. He still thinks they will, but the best Series A/B and growth investors will look for more than just top-line momentum.
 
 ## Notable quotes

@@ -12,7 +12,7 @@ substack_url: "https://investing101.substack.com/p/historical-futurism"
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
   <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/i-robot">I, Robot</a>, <a href="/books/the-road">The Road</a>, <a href="/books/ready-player-one">Ready Player One</a></span></div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/markets-markets-and-markets">Markets, Markets, and Markets</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/open-source-knowledge">Open-Source Knowledge</a>, <a href="/essays/learning-to-dream">Learning To Dream</a>, <a href="/essays/the-gospel-of-ark-invest">The Gospel of ARK Invest</a>, <a href="/essays/the-openness-of-ai">The Openness of AI</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/markets-markets-and-markets">Markets, Markets, and Markets</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/open-source-knowledge">Open-Source Knowledge</a>, <a href="/essays/learning-to-dream">Learning To Dream</a>, <a href="/essays/the-gospel-of-ark-invest">The Gospel of ARK Invest</a>, <a href="/essays/the-openness-of-ai">The Openness of AI</a></span></div>
 </aside>
 <!-- connections-end -->
 
@@ -20,7 +20,7 @@ substack_url: "https://investing101.substack.com/p/historical-futurism"
 
 ---
 
-When I worked at TCV, our office used to be in downtown Palo Alto at the corner of Emerson and University. Every day, we would go to lunch at the Palo Alto Creamery, or the Sweetgreen on Ramona (or Nobu if Howie got his way). Regardless of which option we chose, we always ended up walking past the corner of Emerson and Hamilton.
+When I worked at TCV, our office used to be in downtown Palo Alto at the corner of Emerson and University. Every day, we would go to lunch at the Palo Alto Creamery, or the [[Sweetgreen]] on Ramona (or Nobu if Howie got his way). Regardless of which option we chose, we always ended up walking past the corner of Emerson and Hamilton.
 
 ![Illustration from Historical Futurism](/images/historical-futurism-dc8593ac.png)
 
@@ -32,7 +32,7 @@ One day, I got curious enough that I went inside to learn more about what they d
 
 ![Data chart from Historical Futurism](/images/historical-futurism-3b7ea515.png)
 
-Turns out, the IFTF was a spin-off from the RAND Corporation setup in 1968 to help organizations with "[future studies](https://en.wikipedia.org/wiki/Futures_studies)." In the original mission statement of the organization, they laid out three key focuses:
+Turns out, the IFTF was a spin-off from the [[RAND Corporation]] setup in 1968 to help organizations with "[future studies](https://en.wikipedia.org/wiki/Futures_studies)." In the original mission statement of the organization, they laid out three key focuses:
 
 - *To explore systematically the possible futures for our nation and for the international community.*
 - *To ascertain which among these possible futures seems desirable, and why.*
@@ -46,11 +46,11 @@ The longer I've been an investor, the more I've found myself dancing with this i
 
 That might be the approach. Just build it, and the future will come. But I think there is an intellectual opportunity to better understand how the future comes to be. **Sometimes the future is much more simple than we expect it to be, but sometimes the future requires a lot more work to make it better than it would be otherwise.**
 
-Another perspective is one [I've written about before](https://investing1012dot0.substack.com/p/markets-markets-and-markets), and it comes from [Matt Cohler](https://twitter.com/mattcohler), a partner at Benchmark:
+Another perspective is one [I've written about before](https://investing1012dot0.substack.com/p/markets-markets-and-markets), and it comes from [Matt Cohler](https://twitter.com/mattcohler), a partner at [[Benchmark]]:
 
 > *"Our job is not to see the future, it’s to see the present very clearly."*
 
-In a [Quora AMA](https://quorasessionwithmattcohler.quora.com/You-were-quoted-in-2012-about-VC-as-saying-My-job-is-not-to-predict-the-future-its-to-notice-the-present-first-Wha), Matt Cohler elaborated on what he meant by that:
+In a [Quora AMA](https://quorasessionwithmattcohler.quora.com/You-were-quoted-in-2012-about-VC-as-saying-My-job-is-not-to-predict-the-future-its-to-notice-the-present-first-Wha), [[Matt Cohler]] elaborated on what he meant by that:
 
 > *"First of all I should clarify that when I talked about noticing the present first, I meant it in the context of surfacing and pursuing new investment opportunities. **Once a venture investor is actually working with a company it's critically important for that person to be able to see around corners** — not to predict the future many years out, but to have the experience, pattern-recognition and judgment to know what's coming next and to help an entrepreneur and company make good decisions by making use of that knowledge."*
 
@@ -76,7 +76,7 @@ If a lot of history is about appreciating the force of gravity that forces thing
 
 ![Quote card from What Is Historical Futurism? section](/images/historical-futurism-59579c91.png)
 
-Another example, Arthur C. Clarke's timeline of predictions for the 21st century that he wrote in the 1960s. He optimistically laid out a rapid evolution from the lunar landing to colonizing planets by the year 2000. He thought fusion power would come in the 80s or 90s.
+Another example, [[Arthur C. Clarke]]'s timeline of predictions for the 21st century that he wrote in the 1960s. He optimistically laid out a rapid evolution from the lunar landing to colonizing planets by the year 2000. He thought fusion power would come in the 80s or 90s.
 
 ![Source:Twitter](/images/historical-futurism-440d3199.png)
 
@@ -114,9 +114,9 @@ There were certainly pessimistic takes before the 80s ([Nineteen Eighty-Four was
 
 There really is this very limited amount of storytelling that portrays an optimistic view of the future. And while that is likely downstream of a lot of the things going on in the world that leave limited room for optimism, it also has a downstream impact. **Fewer optimistic stories about the future lead to fewer people wanting to invent the future.** The negative view of the future also leads to poor perception of technology in the media, and an overt pessimism in people's lives.
 
-David Perell has [commented](https://perell.com/essay/sar-interview/) a number of times on this failing in inspiration:
+[[David Perell]] has [commented](https://perell.com/essay/sar-interview/) a number of times on this failing in inspiration:
 
-> *"The vast majority of science fiction is dystopian and negative. People underestimate how much this hurts economic growth and technological expansion. **To innovate, we need to be inspired to do so. Innovation is more likely when people are given inspiring visions of potential futures.** We don’t need utopias, but we do need hope and enthusiasm. That’s where Science Fiction helps — it injects people with imagination."*
+> *"The vast majority of science fiction is dystopian and negative. People underestimate how much this hurts economic growth and technological expansion. **To innovate, we need to be inspired to do so. Innovation is more likely when people are given inspiring visions of potential futures.** We don’t need utopias, but we do need hope and enthusiasm. That’s where [[Science Fiction]] helps — it injects people with imagination."*
 
 The impact on everyone is meaningful, but young people in particular. We might hope that movies like Oppenheimer would inspire kids to be physicists, but that one might have [missed the mark](https://twitter.com/sama/status/1682809958734131200?s=20). AI could be a moment to catalyze that excitement about building the future, but it doesn't just happen.
 
@@ -136,7 +136,7 @@ So lets build the infrastructure of the discipline. First up? The foundation.
 
 # Foundational Futures
 
-In [an interview](https://www.youtube.com/watch?app=desktop&v=WHoWGNQRXb0) between Reid Hoffman and Sam Altman, Altman answers the question about what he sees as the best utopian universes we have so far. He lists a few:
+In [an interview](https://www.youtube.com/watch?app=desktop&v=WHoWGNQRXb0) between [[Reid Hoffman]] and [[Sam Altman]], Altman answers the question about what he sees as the best utopian universes we have so far. He lists a few:
 
 - [Star Trek](https://en.wikipedia.org/wiki/Star_Trek): *"I love the universes where we turn our focus to exploration and understanding the universe."*
 - [The Last Question by Isaac Asimov](https://en.wikipedia.org/wiki/The_Last_Question)
@@ -144,7 +144,7 @@ In [an interview](https://www.youtube.com/watch?app=desktop&v=WHoWGNQRXb0) betwe
 
 He also makes a similar point that I've made where there are very few science fiction universes where you’re able to say "it's all great, I'll take it all!" But there are corners of science fiction that are optimistic and great, and even in some of the universes in movies I listed above, there are aspects of the future that are exceptional! WALL-E might be a condemnation of our abuse of the planet, but we managed to create perpetual civilizations in space that could last [700 years](https://en.wikipedia.org/wiki/WALL-E)!
 
-**By identifying the futuristic universes we most want to idolize, or even the aspects of more dystopian worlds that we can learn from, we start to form the basis of a future we want to create.** More people would do well to read “[A Theory of Justice](https://en.wikipedia.org/wiki/A_Theory_of_Justice)” by John Rawls, and then write science fiction not knowing who they'll be in the world they've created.
+**By identifying the futuristic universes we most want to idolize, or even the aspects of more dystopian worlds that we can learn from, we start to form the basis of a future we want to create.** More people would do well to read “[A Theory of Justice](https://en.wikipedia.org/wiki/A_Theory_of_Justice)” by [[John Rawls]], and then write science fiction not knowing who they'll be in the world they've created.
 
 People are already starting to push back on the common narrative of dystopia and seek to revitalize the potential for inspirational views of technological progress. We need more of this energy:
 
@@ -160,11 +160,11 @@ So find the foundational futures that you’re most excited to see! As we seek t
 
 While there may be a shortage of optimistic dreaming in the general popular culture, the great thing about the internet is you can find niche perspective in all sorts of places. I love looking for collections of interesting works and perspectives on the future. Here are just a few that I've stumbled on:
 
-## Daniel Ek's Reading List
+## [[Daniel Ek]]'s Reading List
 
 ![Source:Twitter](/images/historical-futurism-cfd6fd99.png)
 
-## Ben Reinhardt's Thread on "Where's My Flying Car"
+## [[Ben Reinhardt]]'s Thread on "Where's My Flying Car"
 
 ![Source:Twitter](/images/historical-futurism-b4bb7485.png)
 
@@ -184,15 +184,15 @@ So we've got some foundational futures to look up to, and a wealth of literature
 
 Ever since I was a kid, I’ve been fascinated by the [Disney Imagineers](https://en.wikipedia.org/wiki/Walt_Disney_Imagineering). I've always been a sucker for [Disneyland and the imagined world that it represents](https://investing1012dot0.substack.com/p/learning-to-dream). There is something magical about people who leverage the physical world to recreate the sense of wonder you can get from watching a movie. These people are builders.
 
-Sometimes, when I find myself drawn to enthusiastically cheer for the dreamers and imagineers and builders, I have this voice in the back of my head. The voice sounds like me, cause I don't know what Kurt Vonnegut sounds like out loud. But [this is what the voice says](https://www.goodreads.com/quotes/276615-another-flaw-in-the-human-character-is-that-everybody-wants):
+Sometimes, when I find myself drawn to enthusiastically cheer for the dreamers and imagineers and builders, I have this voice in the back of my head. The voice sounds like me, cause I don't know what [[Kurt Vonnegut]] sounds like out loud. But [this is what the voice says](https://www.goodreads.com/quotes/276615-another-flaw-in-the-human-character-is-that-everybody-wants):
 
 > *“Another flaw in the human character is that everybody wants to build and nobody wants to do maintenance.”*
 
 That quote from Kurt Vonnegut that sounds like my voice has a point. Sometimes the path of progress leaves behind a lot of people simply trying to get by. We need to be cautious of sacrificing the every day person in pursuit of progress. Means and ends, you know?
 
-Packy McCormick frames the perspective of Vonnegut when it comes to futurism in his piece "[The AppetiZIRP](https://www.notboring.co/p/the-appetizirp)" when he said:
+[[Packy McCormick]] frames the perspective of Vonnegut when it comes to futurism in his piece "[The AppetiZIRP](https://www.notboring.co/p/the-appetizirp)" when he said:
 
-> *"Is automation going to lead to a depressing, meaningless future of work or a beautiful world of aristocratic abundance for all? It depends if you believe Kurt Vonnegut or Isaac Asimov."*
+> *"Is automation going to lead to a depressing, meaningless future of work or a beautiful world of aristocratic abundance for all? It depends if you believe Kurt Vonnegut or [[Isaac Asimov]]."*
 
 You should read his comparison! But in general, I think [to every thing there is a season](https://www.churchofjesuschrist.org/study/scriptures/ot/eccl/3?lang=eng). And as much as we need maintenance and measured care, we cannot afford stasis. I think back to that piece from Popular Mechanics about the high-speed rail getting you from Vegas to LA in an hour. **The same can be said of so many elements of progress.**
 
@@ -208,7 +208,7 @@ That is the kind of dreaming framework we want more people to be capable of. But
 
 **As we inspire more dreamers, we want to build the feedback loop.** Optimistic science fiction inspires builders. The builders build. They imagine a future. Then, the artists come full circle and they take those dreams, and communicate them to everybody else.
 
-Few images have inspired me more than drawings of the original EPCOT design. That was a dreamer (Walt Disney) inspired by technology (World's Fair) who set out to build, and an artist ([Walt Peregoy](https://en.wikipedia.org/wiki/Walter_Peregoy)) captured that dream in a way that would go on to inspire a generation of young people just at the possibility of such a place.
+Few images have inspired me more than drawings of the original EPCOT design. That was a dreamer ([[Walt Disney]]) inspired by technology (World's Fair) who set out to build, and an artist ([Walt Peregoy](https://en.wikipedia.org/wiki/Walter_Peregoy)) captured that dream in a way that would go on to inspire a generation of young people just at the possibility of such a place.
 
 ![Source:Archdaily](/images/historical-futurism-837a8da4.png)
 
@@ -238,13 +238,13 @@ But what happens when you actually start to play the game? In my mind, the act o
 
 ![Source:Twitter](/images/historical-futurism-571f32a5.png)
 
-I remember years ago I got to attend a talk by [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil), a computer scientist, author, inventor, and futurist who works for Google. It was, quite possibly, the most powerful talk I have ever attended. Not because of anything he said, but because of the willingness with which he bandied about the potential realities the future could bring. **He was so fluent in what had gone before, and what could come from now on.**
+I remember years ago I got to attend a talk by [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil), a computer scientist, author, inventor, and futurist who works for [[Alphabet|Google]]. It was, quite possibly, the most powerful talk I have ever attended. Not because of anything he said, but because of the willingness with which he bandied about the potential realities the future could bring. **He was so fluent in what had gone before, and what could come from now on.**
 
-Packy McCormick has another great piece called "[The Enchanted Notebook](https://www.notboring.co/p/the-enchanted-notebook)," that will give you a taste of Kurzweil's futurist magic. He speaks powerfully about the skills we can use in the discipline of futurism to try and imagine the future:
+Packy McCormick has another great piece called "[The Enchanted Notebook](https://www.notboring.co/p/the-enchanted-notebook)," that will give you a taste of [[Ray Kurzweil|Kurzweil]]'s futurist magic. He speaks powerfully about the skills we can use in the discipline of futurism to try and imagine the future:
 
 > *"I think the key issue that I would tell younger people is to put yourself in the position that what you’re trying to create already exists. And then you actually imagine you’re giving a speech about how you created this. **Well you’d have to then work backwards about how you created it to make it work**.”*
 
-That act of making predictions forces you to conceptualize something, and open it up for argument. How do you make that thing a reality? There is some [really interesting writing](https://feld.com/archives/2012/06/how-to-predict-the-future/) about how to predict the future. But there are also a lot of criticism for people who put themselves out there to make predictions (such as the massive meme account doing the opposite of whatever Jim Cramer tells you to do.)
+That act of making predictions forces you to conceptualize something, and open it up for argument. How do you make that thing a reality? There is some [really interesting writing](https://feld.com/archives/2012/06/how-to-predict-the-future/) about how to predict the future. But there are also a lot of criticism for people who put themselves out there to make predictions (such as the massive meme account doing the opposite of whatever [[Jim Cramer]] tells you to do.)
 
 ![Source:Twitter](/images/historical-futurism-c32a575b.png)
 
@@ -252,11 +252,11 @@ To some extent, that criticism is a function of how much you double down or aggr
 
 But I'm not talking about the cult personalities that use prediction as their marketing schtick. The art of attempting to formulate the future will often come from a place of academic curiosity that you're then willing to roll out into the real world and see what happens when you get punched in the face.
 
-Sometimes you'll be wrong because the [timing isn't right](https://twitter.com/sriramk/status/1571542403722649601?s=20), or you focused on things that were [laced with recency bias](https://www.youtube.com/watch?v=Km6bFBSVty4&pp=ygUQbWFydHkgZ2V0cyBmaXJlZA%3D%3D). But the reality is if you're attempting to make predictions in the right spirit, failed predictions don't matter as much. [In a post](https://ofdollarsanddata.com/failed-predictions/) by Nick Maggiulli, he shares two great quotes:
+Sometimes you'll be wrong because the [timing isn't right](https://twitter.com/sriramk/status/1571542403722649601?s=20), or you focused on things that were [laced with recency bias](https://www.youtube.com/watch?v=Km6bFBSVty4&pp=ygUQbWFydHkgZ2V0cyBmaXJlZA%3D%3D). But the reality is if you're attempting to make predictions in the right spirit, failed predictions don't matter as much. [In a post](https://ofdollarsanddata.com/failed-predictions/) by [[Nick Maggiulli]], he shares two great quotes:
 
 > *"The world isn’t watching you as closely as you think. Take more chances. Your failures will mostly go unnoticed. And those who do notice rarely care." ([Four Pillar Freedom](https://fourpillarfreedom.com/things-id-tell-myself-at-18-that-i-now-know-at-26/))*
 
-> *"I missed more than 9,000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot, and missed. I’ve failed over and over and over again in my life. And that is why…I succeed." (Michael Jordan)*
+> *"I missed more than 9,000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot, and missed. I’ve failed over and over and over again in my life. And that is why…I succeed." ([[Michael Jordan]])*
 
 The act of making predictions is an attempt at expanding your imagination, and then communicating the expanses of your grasp on reality. What can be true that isn't true yet, but I believe can be true based on X, Y, and Z?
 
@@ -264,9 +264,9 @@ The act of making predictions is an attempt at expanding your imagination, and t
 
 I've said it several times before in this piece, but I'll say it again. **Science fiction can be a force for good, or for evil. For inspiration, or annihilation.** My proposal for the practice of historical futurism is to form a discipline of how the future of the past has evolved, and how we can use that to inform the crafting of the future of today.
 
-But much of science fiction has also been used as a cautionary tale. In a recent deep dive I did for Contrary Research called "[The Openness of AI](https://research.contrary.com/reports/the-openness-of-ai)," we touched on the idea of "infohazards" and "malinformation." Here's an excerpt from the deep dive:
+But much of science fiction has also been used as a cautionary tale. In a recent deep dive I did for [[Contrary Research]] called "[The Openness of AI](https://research.contrary.com/reports/the-openness-of-ai)," we touched on the idea of "infohazards" and "malinformation." Here's an excerpt from the deep dive:
 
-> "In the broader context of disinformation, a new term has emerged. Malinformation, a combination of “malware” and “disinformation.” One [definition](https://www.discoursemagazine.com/culture-and-society/2023/03/16/malinformation-and-the-wrong-truth/) of the term: **‘malinformation is classified as both intentional and harmful to others’—while being truthful.'** In [a piece](https://www.discoursemagazine.com/culture-and-society/2023/03/16/malinformation-and-the-wrong-truth/) in Discourse Magazine, it discusses the public debate on COVID, vaccines, and the way government, media, and large tech companies like Twitter attempted to control the spread of misinformation:   
+> "In the broader context of disinformation, a new term has emerged. [[Malinformation]], a combination of “malware” and “disinformation.” One [definition](https://www.discoursemagazine.com/culture-and-society/2023/03/16/malinformation-and-the-wrong-truth/) of the term: **‘malinformation is classified as both intentional and harmful to others’—while being truthful.'** In [a piece](https://www.discoursemagazine.com/culture-and-society/2023/03/16/malinformation-and-the-wrong-truth/) in Discourse Magazine, it discusses the public debate on COVID, vaccines, and the way government, media, and large tech companies like Twitter attempted to control the spread of misinformation:   
 >   
 > *'Describing true information as ‘malicious’ already falls into a gray area of regulating public speech. This assumes that the public is gullible and susceptible to harm from words, which necessitates authoritative oversight and filtering of intentionally harmful facts... It does not include intent or harm in the definition of malinformation at all. **Rather, ‘malicious’ is truthful information that is simply undesired and “misleading” from the point of view of those who lead the public somewhere.** **In other words, malinformation is the wrong truth.'***   
 >   

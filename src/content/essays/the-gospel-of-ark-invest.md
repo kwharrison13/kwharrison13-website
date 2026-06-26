@@ -25,11 +25,11 @@ My Mom has that feeling for a particular famous person. Former Secretary of Stat
 
 The kind of frustration that we feel with certain people is, I think, pretty natural. Sometimes it can be explained (like my Mom saying Tea Leoni is an unemotional chain smoker that doesn't move her eyebrows). Sometimes it’s just instinctual; we can't put our finger on why we're so filled with distaste.
 
-**In particular, for individuals who have built their persona in a marketing-rich way, people's reactions are often even more polarized.** Think about politicians (who are basically just boomer marketers), or personalities like Jim Cramer, Tai Lopez, Joe Rogan. People either love them or hate them, there's very little in-between.
+**In particular, for individuals who have built their persona in a marketing-rich way, people's reactions are often even more polarized.** Think about politicians (who are basically just boomer marketers), or personalities like [[Jim Cramer]], Tai Lopez, [[Joe Rogan]]. People either love them or hate them, there's very little in-between.
 
 [Cathie Wood](https://twitter.com/CathieDWood) is no different. As an investor, she's an incredibly polarizing figure. People are convinced she's either a misunderstood genius or the dumbest person to ever be allocating billions of dollars. One of the things most people struggle to do with polarizing characters is to separate some valuable takeaways or lessons from what they do, while still being able to acknowledge other aspects of what they do are ridiculous.
 
-I'm not going to unpack the myriad of ways that what ARK Invest does is bonkers. There are much better analysts and shitposters who have done that (and I'll quote some of them). **Instead, I just wanted to spend time reflecting on how something that sounds so interesting and compelling to me on paper can end up being so ridiculous in practice.**
+I'm not going to unpack the myriad of ways that what [[ARK Invest]] does is bonkers. There are much better analysts and shitposters who have done that (and I'll quote some of them). **Instead, I just wanted to spend time reflecting on how something that sounds so interesting and compelling to me on paper can end up being so ridiculous in practice.**
 
 Because the concept of ARK Invest on paper really does sound so compelling to me: a research-driven long-term investor focused on transformational technology, that then democratizes access to that thesis through "innovation ETFs" and very public-facing research; open to criticism and learning. Where does it go wrong?
 
@@ -43,7 +43,7 @@ ARK got started in 2014, and one interesting observation to me is that ARK took 
 
 ![Chart illustrating from somewhere in the woods](/images/the-gospel-of-ark-invest-0aefeaa0.png)
 
-One huge driver of performance in ARK's fund was owning Tesla (led by another massively marketed personality with Elon Musk) and Zoom. That outsized performance in 2020 led many to consider Cathie Wood the [best stock picker](https://news.yahoo.com/best-stock-picker-2020-wins-100019058.html) in 2020. Just as quickly as those gains shot up, they disappeared. If you had invested in the S&P 500 at the beginning of Covid, you would now be performing better than ARK's Innovation ETF.
+One huge driver of performance in ARK's fund was owning [[Tesla]] (led by another massively marketed personality with [[Elon Musk]]) and Zoom. That outsized performance in 2020 led many to consider Cathie Wood the [best stock picker](https://news.yahoo.com/best-stock-picker-2020-wins-100019058.html) in 2020. Just as quickly as those gains shot up, they disappeared. If you had invested in the S&P 500 at the beginning of Covid, you would now be performing better than ARK's Innovation ETF.
 
 ![Chart showing the approach](/images/the-gospel-of-ark-invest-31557f0d.png)
 
@@ -69,13 +69,13 @@ In some ways, the idea of long-term focus is a return to a norm rather than a ne
 
 ## Research-Driven
 
-Since the earliest days, ARK has been publishing their research publicly. In 2017, for example, they co-wrote [a white paper](https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/Bitcoin-Ringing-The-Bell-For-A-New-Asset-Class.pdf) with Coinbase on crypto as a new asset class, and have been investors in Bitcoin ever since. They have analysts across all their coverage areas [publishing](https://ark-invest.com/articles/) research and many of their underlying models.
+Since the earliest days, ARK has been publishing their research publicly. In 2017, for example, they co-wrote [a white paper](https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/Bitcoin-Ringing-The-Bell-For-A-New-Asset-Class.pdf) with [[Coinbase]] on crypto as a new asset class, and have been investors in Bitcoin ever since. They have analysts across all their coverage areas [publishing](https://ark-invest.com/articles/) research and many of their underlying models.
 
 ## Public-Facing
 
-If you notice one thing about ARK, it's that they're very active on social media. [Cathie Wood](https://twitter.com/CathieDWood) has 1.6M followers on Twitter. And pretty much everyone that works there has tens, if not hundreds of thousands of followers.
+If you notice one thing about ARK, it's that they're very active on [[Social Media|social media]]. [Cathie Wood](https://twitter.com/CathieDWood) has 1.6M followers on [[Twitter]]. And pretty much everyone that works there has tens, if not hundreds of thousands of followers.
 
-The firm has consistently emphasized the value of "thinking in public." They post widely and try to articulate every aspect of their models and thinking supposedly so that people engage with the ideas and push their thinking. I certainly appreciate that idea. There's a great quote from Adam Grant's book, "[Think Again: The Power of Knowing What You Don't Know](https://www.amazon.com/Think-Again-Power-Knowing-What/dp/1984878107)" about engaging with people that don't agree with you.
+The firm has consistently emphasized the value of "thinking in public." They post widely and try to articulate every aspect of their models and thinking supposedly so that people engage with the ideas and push their thinking. I certainly appreciate that idea. There's a great quote from [[Adam Grant]]'s book, "[Think Again: The Power of Knowing What You Don't Know](https://www.amazon.com/Think-Again-Power-Knowing-What/dp/1984878107)" about engaging with people that don't agree with you.
 
 ![Source:Twitter](/images/the-gospel-of-ark-invest-cb78e772.png)
 
@@ -95,7 +95,7 @@ I've written a fair bit about the [business model of venture capital](https://in
 
 But at the end of the day, institutional investors are professionals. If LPs want to pour money into funds that are managed not for long-term performance, but for short-term capital agglomeration, then that's their prerogative. They're professionals. And their careers and net worths will be rewarded or punished as a result.
 
-But ARK Invest's "democratized" ETFs expose a very different level of risk to a very different kind of person. I was reminded of [AOC being angry](https://twitter.com/zGuz/status/1173680267468464128?s=20) because WeWork's plummeting private valuation from $47B to $20B could leave mom and pop investors "fleeced." And a lot of folks laughed, because it wasn't individuals that got "fleeced." It was professional VCs, and asset managers, and Masa.
+But ARK Invest's "democratized" ETFs expose a very different level of risk to a very different kind of person. I was reminded of [AOC being angry](https://twitter.com/zGuz/status/1173680267468464128?s=20) because [[WeWork]]'s plummeting private valuation from $47B to $20B could leave mom and pop investors "fleeced." And a lot of folks laughed, because it wasn't individuals that got "fleeced." It was professional VCs, and asset managers, and Masa.
 
 But when ARK's assets drop from $27B in early 2021 to $7B, a lot of that is the wealth of individual investors getting wiped out.
 
@@ -107,7 +107,7 @@ At the beginning of 2020, ARK Invest only had ~$2B of AUM. Over the course of 20
 
 # The Marketing Machine
 
-That's where we come full circle to the marketing-led persona of Cathie Wood. The entire business of driving ARK's revenue off of inflows to their ETFs brings us back to a Charlie Munger quote I've used a number of times:
+That's where we come full circle to the marketing-led persona of Cathie Wood. The entire business of driving ARK's revenue off of inflows to their ETFs brings us back to a [[Charlie Munger]] quote I've used a number of times:
 
 *"Show me the incentive and I will show you the outcome." ([Charlie Munger](https://quotefancy.com/quote/1561882/Charlie-Munger-Show-me-the-incentive-and-I-will-show-you-the-outcome))*
 
@@ -129,7 +129,7 @@ And here's the thing. If it felt like ARK was making calls like the rest of us t
 
 Like I said, there are much better analysts out there that have articulated the bonkers moves by ARK. So I'm not trying to reinvent the criticism, I'll just point to it. Chris Bloomstran has a great thread unpacking the implications of ARK's price target of $2K by 2027.
 
-Right now, Tesla is at [$193](https://www.google.com/search?q=tesla+stock+price&oq=tesla+stock+price&aqs=chrome..69i57j46i67i131i199i340i433i465i650j0i67i131i433i650j46i20i131i263i433i512j46i67i131i433i650l2j0i67i650j46i67i131i433i650j0i131i433i512j0i271.2235j0j7&sourceid=chrome&ie=UTF-8) after a high of $407 at the end of 2021. Chris makes the point that a $2K price target would mean Tesla is a **$7 TRILLION** company (about the size of Microsoft, Apple, Google, Amazon, and Meta combined as of today).
+Right now, Tesla is at [$193](https://www.google.com/search?q=tesla+stock+price&oq=tesla+stock+price&aqs=chrome..69i57j46i67i131i199i340i433i465i650j0i67i131i433i650j46i20i131i263i433i512j46i67i131i433i650l2j0i67i650j46i67i131i433i650j0i131i433i512j0i271.2235j0j7&sourceid=chrome&ie=UTF-8) after a high of $407 at the end of 2021. Chris makes the point that a $2K price target would mean Tesla is a **$7 TRILLION** company (about the size of [[Microsoft]], [[Apple]], [[Alphabet|Google]], [[Amazon]], and [[Facebook|Meta]] combined as of today).
 
 To get to that target, their model requires you believe that Tesla is producing 20% of all cars purchased in the world. You have to believe in $1 trillion of revenue by that point! You have to believe Tesla becomes one of the largest insurance companies in the world as well. And they have to do all of it in the next \*checks watch\* 4 years!
 
@@ -137,7 +137,7 @@ To get to that target, their model requires you believe that Tesla is producing 
 
 ![Framework diagram for zoom: the only metaverse that matters](/images/the-gospel-of-ark-invest-2e12e061.png)
 
-As part of my Cathie Wood YouTube rabbit hole, you manage to find about as many Cathie hit pieces as you do disciple videos to her prophecies. And they're all about as click-baity as the rest (is it... YouTube that is the problem? 🙃)
+As part of my Cathie Wood YouTube rabbit hole, you manage to find about as many Cathie hit pieces as you do disciple videos to her prophecies. And they're all about as click-baity as the rest (is it... [[YouTube]] that is the problem? 🙃)
 
 [But this one video](https://www.youtube.com/watch?v=szV3VO9TEAg) I found was a pretty good unpacking of ARK Invest's expectations for Zoom going forward. ARK Invest's prediction for Zoom is to hit a $1.5K price target in 2026. Today, Zoom is at [$66](https://www.google.com/search?q=zoom+stock+price&oq=zoom+stock+price&aqs=chrome.0.0i20i131i263i433i512l2j0i131i433i512j0i433i512l2j0i131i433i512j0i433i512j0i512l3.2790j1j7&sourceid=chrome&ie=UTF-8), down from a high of $559 at its peak (when it was a $160B company!)
 
@@ -157,7 +157,7 @@ Eventually, all these calls start to feel like the crazy person at the party whe
 
 For hedge funds, you would take a lot of these calls as outlandish, and indications of being a bad investor. Cathie Wood defends these claims by saying that traditional wall street refuses to price in the exponential power that will come in the future from disruptive innovation. Maybe.
 
-[In a recent panel,](https://fortune.com/2023/05/20/cathie-wood-interview-bitcoin-tesla-artificial-intelligence/?utm_source=Iterable&utm_medium=email&utm_campaign=reader&tpcc=NL_Marketing) Cathie Wood sat down with Alyson Shontell at Fortune, and Shontell asked this great question:
+[In a recent panel,](https://fortune.com/2023/05/20/cathie-wood-interview-bitcoin-tesla-artificial-intelligence/?utm_source=Iterable&utm_medium=email&utm_campaign=reader&tpcc=NL_Marketing) Cathie Wood sat down with Alyson Shontell at [[Fortune]], and Shontell asked this great question:
 
 > *"It sounds compelling. You're very smart, you're very thoughtful about this. But there is risk. **There's extreme risk for retail investors. Hype is a big problem in business. Over-hype can make a lot of people lose a lot of money.** How much time do you commit to thinking about 'what if I'm wrong?' Even if you're right about the what, you might not be right about the who, or the how. How do you square that with so many people following you?"*
 
@@ -171,7 +171,7 @@ The idea that their long-term strategy can play out because of the declining cos
 
 *If you really read the research, you’ll see the light.* Maybe. Maybe I'll look back at this post using my Tesla brain glasses and be shocked to see that I scoffed at the company becoming a $7 trillion company as they rocket past that mark. But every aspect of their results strike of marketing, and excitement, not based in any model for rationality or even hyper-optimistic rationality.
 
-Just this week we've got an example where there is clear cut results of innovation and ARK was just in the process of getting out, rather than doubling down. For months, people have looked for ways to ride the wave of AI, and Nvidia seems to have found that attention. In the last 10 years, the company has grown 100x to nearly $1 trillion in market cap.
+Just this week we've got an example where there is clear cut results of innovation and ARK was just in the process of getting out, rather than doubling down. For months, people have looked for ways to ride the wave of AI, and [[Nvidia]] seems to have found that attention. In the last 10 years, the company has grown 100x to nearly $1 trillion in market cap.
 
 ![Framework diagram for where do we go from here?](/images/the-gospel-of-ark-invest-1a050d3f.png)
 
@@ -183,11 +183,11 @@ Meanwhile, ARK had just recently managed to reduce almost its entire position in
 
 I know Hunter, I'm starting to ramble. I'll end with this point that I bring up all the time. My biggest concern is with investors who have built their incentive engines around [stories](https://investing1012dot0.substack.com/p/the-storytelling-of-investing), regardless of fact vs. fiction. Chamath rode that same power of story to the moon on the back of a number of [terrible SPACs](https://acquirersmultiple.com/2022/05/chamath-palihapitiyas-4-major-spac-deals-performance-last-12-months-ycharts/) in 2020.
 
-Everyone has to do marketing. Everyone has to express their vibes to the universe. In an increasingly noisy world, its an expected form of engagement. **But let your goal in your storytelling to build trust, not hype.** The best articulation of that comes from a quote I reference all the time, even as recently as [last week](https://investing1012dot0.substack.com/p/on-hype-and-hot-air), where [Morgan Housel explains](https://perell.com/essay/morgan-housel/) the power of storytelling from folks like Warren Buffett:
+Everyone has to do marketing. Everyone has to express their vibes to the universe. In an increasingly noisy world, its an expected form of engagement. **But let your goal in your storytelling to build trust, not hype.** The best articulation of that comes from a quote I reference all the time, even as recently as [last week](https://investing1012dot0.substack.com/p/on-hype-and-hot-air), where [Morgan Housel explains](https://perell.com/essay/morgan-housel/) the power of storytelling from folks like [[Warren Buffett]]:
 
 > *"I think [Warren Buffett](https://www.berkshirehathaway.com/letters/letters.html) and [Howard Marks](https://www.oaktreecapital.com/insights) were really the forerunners for all of this. They were not just giving their investors more information, but they were using their ability to communicate as a bridge towards trust. And that’s really what it was.   
 >   
-> So many investors will say 'Oh I went back and read Warren Buffet’s letters to shareholders and they’re so enlightening.' I think, for the most part, there’s actually not that much technical information in there that most people didn’t already know.  If you have a finance background, you understand a free cash flow and value and margin of safety. You get all of that. **But Buffett’s letters instilled the sense of like subconscious trust. The way Buffett describes things gives you this view of: 'Hey, you’re not trying to screw me.' Buffett and Marks more or less had permanent capital because their investors trusted them.** And because of that trust, all these other hedge fund managers and private equity managers that during a bear market, their investors would have said, “I don’t trust you anymore. I’m out of here. Give me my money back.”   
+> So many investors will say 'Oh I went back and read Warren Buffet’s letters to shareholders and they’re so enlightening.' I think, for the most part, there’s actually not that much technical information in there that most people didn’t already know.  If you have a finance background, you understand a free cash flow and value and margin of safety. You get all of that. **But Buffett’s letters instilled the sense of like subconscious trust. The way Buffett describes things gives you this view of: 'Hey, you’re not trying to screw me.' Buffett and [[Howard Marks|Marks]] more or less had permanent capital because their investors trusted them.** And because of that trust, all these other hedge fund managers and private equity managers that during a bear market, their investors would have said, “I don’t trust you anymore. I’m out of here. Give me my money back.”   
 >   
 > But investors didn’t do that for Buffett or Marks, and that’s a massive competitive advantage right there. So put all that together. **Buffett and Marks used content to instill trust, trust gave them permanent capital, and permanent capital gave them a massive financial advantage over other investors.**"*
 

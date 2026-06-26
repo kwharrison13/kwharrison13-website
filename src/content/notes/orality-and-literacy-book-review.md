@@ -8,7 +8,7 @@ url: "https://www.perell.com/blog/orality-and-literacy"
 source_published: "2018"
 confidence: "high"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/archive/clippings/Orality and Literacy Book Review.md"
@@ -34,7 +34,7 @@ related:
 
 **Author:** [David Perell](/notes/david-perell)
 **URL:** https://www.perell.com/blog/orality-and-literacy
-**One-line:** *A review of Walter Ong's [Orality and Literacy](/notes/orality-and-literacy-book-review) — how the medium of communication (voice, writing, print, internet) reshapes how humans think, behave, and remember.*
+**One-line:** *A review of [Walter Ong](/notes/walter-ong)'s [Orality and Literacy](/notes/orality-and-literacy-book-review) — how the medium of communication (voice, writing, print, internet) reshapes how humans think, behave, and remember.*
 
 ## Key claims
 
@@ -42,14 +42,14 @@ related:
 - **Writing is recent.** Literacy is only ~6,000 years old; Homo sapiens has existed ~50,000 years. The first true writing came from the Sumerians around 3500 BC.
 - **Oral cultures depend on memory** — "knowledge that wasn't repeated, disappeared" — so they used repetition to preserve the past, breeding a conservative, traditionalist mindset that inhibits experimentation.
 - **Writing externalizes memory.** Once written, an idea exists forever and need not be repeated, letting people learn faster, share information, and grapple with more advanced ideas. Writing created history, logic, and the foundation of mathematics — and so of software and computers.
-- **Writing transforms consciousness.** Its slowness and the isolation of the writer encourage introspection and "growth of consciousness out of the unconscious." Print made the Renaissance permanent, implemented the Reformation, and diffused knowledge as never before.
+- **Writing transforms consciousness.** Its slowness and the isolation of the writer encourage introspection and "growth of consciousness out of the unconscious." Print made the [Renaissance](/notes/renaissance) permanent, implemented the Reformation, and diffused knowledge as never before.
 - **The internet spreads externalized thought across the globe** — a "collective externalized mind," and rich media restores some of the nuance and emotion that plain text loses. "To kids, digital orality is not a second language — it's second nature."
 
 ## Notable quotes
 
-> "Writing, in this ordinary sense, was and is the most momentous of all human technological inventions. It is not a mere appendage to speech. Because it moves speech from the oral–aural to a new sensory world, that of vision, it transforms speech and thought as well." — Walter Ong
+> "Writing, in this ordinary sense, was and is the most momentous of all human technological inventions. It is not a mere appendage to speech. Because it moves speech from the oral–aural to a new sensory world, that of vision, it transforms speech and thought as well." — [Walter Ong](/notes/walter-ong)
 
-> "More than any other single invention, writing has transformed human consciousness." — Walter Ong
+> "More than any other single invention, writing has transformed human consciousness." — [Walter Ong](/notes/walter-ong)
 
 > "I seldom ever heard Brother Joseph or the Twelve preach or teach any principle but what I felt as uneasy as a fish out of water until I had written it. Then I felt right." — [Wilford Woodruff](/notes/wilford-woodruff)
 
@@ -58,7 +58,7 @@ related:
 ## How it connects
 
 - [Orality and Literacy](/notes/orality-and-literacy-book-review) — the book under review (anti-library entry; the medium-shapes-mind thesis).
-- Walter Ong — the author, source of the central argument.
+- [Walter Ong](/notes/walter-ong) — the author, source of the central argument.
 - [Writing](/notes/writing) — the recurring Perell theme; writing as a technology of thought.
 - [Wilford Woodruff](/notes/wilford-woodruff) — quoted on the compulsion to write down what was spoken; the same quote recurs in Kyle's gospel-study notes.
 - [Hyper Publishing- The Wiki Strategy](/notes/hyper-publishing-the-wiki-strategy) — extends the lineage from writing to hyperlinks and the internet.

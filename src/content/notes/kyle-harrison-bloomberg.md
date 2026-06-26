@@ -2,12 +2,12 @@
 title: "Kyle Harrison (Bloomberg)"
 type: "person"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/Watershed Climate Diligence — 2021.md"
+  - "wiki/diligence-research/Watershed Climate Diligence — 2021.md"
 tags: []
 aliases:
   - "Kyle Harrison (Bloomberg)"
@@ -15,28 +15,17 @@ aliases:
 related:
   - "[[Watershed Climate Diligence — 2021]]"
   - "[[Watershed Climate]]"
-  - "[[Index Ventures]]"
-  - "[[Climate Change]]"
+  - "[[BloombergNEF]]"
+  - "[[Carbon Offsets]]"
+  - "[[Carbon Capture]]"
 ---
 
 # Kyle Harrison (Bloomberg)
 
-**One-line:** *Analyst at BloombergNEF covering ESG / net-zero; reference call Nov 2, 2021. Distinct from Kyle Harrison the wiki owner.*
+A [BloombergNEF](/notes/bloombergnef) analyst (distinct from Kyle Harrison the wiki owner) who gave an expert reference call on November 2, 2021 as part of the Watershed Climate Diligence — 2021 dossier. At the time he had been at Bloomberg ~7.5 years, with coverage that had shifted from clean-energy financing toward ESG reporting, net-zero goal-setting, sustainable debt, and carbon offsets — explicitly noting he does not cover startups or innovative tech providers like [Watershed Climate](/notes/watershed-climate) itself.
 
-## What we know
+His call is one of the most useful macro framings in the diligence. He argued the main driver of corporate decarbonization is **investor pressure** (Climate Action 100+, [BlackRock](/notes/blackrock), State Street, JP Morgan Asset Management), which then cascades into supplier and customer pressure down the value chain "all the way to the people mining iron ore." On the technology side he was sober about silver bullets: BloombergNEF estimated only ~200M metric tons of CO2 avoided by 2030 from all carbon-capture projects — roughly a third of Shell's emissions — so [Carbon Capture](/notes/carbon-capture) and direct air capture, while worth scaling, are "not a silver bullet." His general prescription matched the Watershed thesis: reduce emissions as much as possible first, then use [Carbon Offsets](/notes/carbon-offsets) only for residual emissions. He also described the offsets market as "the wild west," with a lack of data visibility, competing registries (Gold Standard vs. Verra), and emerging efforts (Taskforce on Scaling Voluntary Carbon Markets) to standardize quality and eventually turn carbon into a tradable commodity market.
 
-- Analyst at BloombergNEF covering ESG / net-zero; reference call Nov 2, 2021. Distinct from Kyle Harrison the wiki owner. (source: Watershed Climate Diligence — 2021)
+## Where this appears
 
-## Mentioned in
-
-- Watershed Climate Diligence — 2021 — Watershed Climate Series B diligence (Index Ventures, 2021).
-
-## Connections
-
-- [Watershed Climate](/notes/watershed-climate) — the company under diligence for which he served as a Nov 2, 2021 reference call.
-- [Index Ventures](/notes/index-ventures) — led the Watershed Series B round the diligence supported.
-- [Climate Change](/notes/climate-change) — the broader domain of his BloombergNEF ESG / net-zero coverage.
-
-## Open questions
-
-_(stub — expand on a future pass)_
+- Watershed Climate Diligence — 2021 — gave the Nov 2, 2021 BloombergNEF expert call on ESG/net-zero dynamics, investor pressure, and the state of the carbon-offsets and carbon-capture markets; also flagged as an intro-target at BloombergNEF.

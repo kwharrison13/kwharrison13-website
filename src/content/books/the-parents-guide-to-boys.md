@@ -5,7 +5,7 @@ year_read: "pre-2016"
 rating: 0
 quake: false
 tags: []
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
@@ -33,7 +33,7 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 - Not every family eats dinner together at a table. In fact, the habit for many 21st-century families is for everyone to grab something and eat in front of the TV. Research points out, however, that children who eat family dinners do better in school. <!--rwid:rwid-804da007ce96-->
 - Most importantly, decide what is serious enough for you to forbid it. Just because your child is annoying is not reason enough to make him stop. <!--rwid:rwid-8e20becb9d27-->
 - research is clear that the best adjusted and behaved children have parents who provide strict guidelines and are alert to their child’s activities, but they let their son or daughter make mistakes. Parents who are restrictive and psychologically controlling have children with more behavioral problems <!--rwid:rwid-50f8937627d6-->
-- I pay the schoolmaster, but ’tis the schoolboys that educate my son. —Ralph Waldo Emerson <!--rwid:rwid-ab05b936fd3e-->
+- I pay the schoolmaster, but ’tis the schoolboys that educate my son. —[Ralph Waldo Emerson](/notes/ralph-waldo-emerson) <!--rwid:rwid-ab05b936fd3e-->
 - When the approach of schooling changes and there is a shift from learning to read to reading to learn, some boys will still not be ready for the change. When that happens, a boy who previously loved school may change his mind and now may be reluctant to do his work, may refuse to be cooperative in class, and may even resist going to school. <!--rwid:rwid-b24a25cd515d-->
 - As long as the late-developing child understands that his problem is one of maturity and he will be able to read well before long if he just keeps at it, then there is no difficulty in labeling a developmental reading problem as a disability. On the other hand, if the school leads the child to believe that his reading problems are due to some permanent disability, he may not even try to read. <!--rwid:rwid-40f72dedda6b-->
 - He may be not interested in the subject. Remember, boys learn well what they like. If they don’t like a subject or they think the teacher does not like them, they won’t work. <!--rwid:rwid-c6e95eddf87d-->

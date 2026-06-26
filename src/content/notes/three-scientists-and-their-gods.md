@@ -22,7 +22,7 @@ related:
 
 # Three Scientists and Their Gods
 
-**Author:** Robert Wright
+**Author:** [Robert Wright](/notes/robert-wright)
 
 **Why it's on the list:** *Profiles thinkers Edward Fredkin, Edward O. Wilson, and Kenneth Boulding to explore how information theory reframes science, meaning, and belief.*
 

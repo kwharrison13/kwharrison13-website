@@ -29,7 +29,7 @@ related:
 
 **Author:** [David Perell](/notes/david-perell)
 **URL:** https://www.perell.com/blog/paul-cooper
-**One-line:** *Drawing on a North Star Podcast conversation with Paul Cooper, a meditation on ruins as windows into the historical forces that tore a place apart — and as objects onto which every age projects its own stories.*
+**One-line:** *Drawing on a North Star Podcast conversation with [Paul Cooper](/notes/paul-cooper), a meditation on ruins as windows into the historical forces that tore a place apart — and as objects onto which every age projects its own stories.*
 
 ## Key claims
 
@@ -38,12 +38,12 @@ related:
 
 ## Notable quotes
 
-> "Every ruin is a place where a physical object was torn apart, and that happened because of some historical force." — Paul Cooper
+> "Every ruin is a place where a physical object was torn apart, and that happened because of some historical force." — [Paul Cooper](/notes/paul-cooper)
 
-> "Ruins don't mean anything by themselves. They seem like a kind of place that slightly resists meaning. People try to give meaning to them." — Paul Cooper
+> "Ruins don't mean anything by themselves. They seem like a kind of place that slightly resists meaning. People try to give meaning to them." — [Paul Cooper](/notes/paul-cooper)
 
 ## How it connects
 
-- Paul Cooper — the historian and podcast guest at the center of the piece.
+- [Paul Cooper](/notes/paul-cooper) — the historian and podcast guest at the center of the piece.
 - [History](/notes/history) — ruins as a method for reading historical forces.
 - [David Perell](/notes/david-perell) — from his North Star Podcast interview series.

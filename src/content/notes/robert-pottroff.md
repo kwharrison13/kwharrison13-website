@@ -35,7 +35,7 @@ related:
 
 ## Connections
 
-- [BYU](/notes/byu) — earned his Masters in Computer Science there before doing applied deep research at Nvidia.
+- [BYU](/notes/brigham-young-university) — earned his Masters in Computer Science there before doing applied deep research at Nvidia.
 
 ## Open questions
 

@@ -2,30 +2,32 @@
 title: "Planetly"
 type: "company"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/Watershed Climate Diligence — 2021.md"
-tags: []
+  - "wiki/diligence-research/Watershed Climate Diligence — 2021.md"
+  - "wiki/companies/Watershed Climate.md"
+tags:
+  - "climate-tech"
+  - "carbon-accounting"
 aliases:
   - "Planetly"
-related: []
+related:
+  - "[[Watershed Climate]]"
+  - "[[Watershed Climate Diligence — 2021]]"
+  - "[[Carbon Accounting]]"
+  - "[[Patch]]"
 ---
 
 # Planetly
 
-**One-line definition:** *Carbon-accounting / offset tool; Watershed competitor, weaker on accounting.*
+Planetly appears in Kyle's Watershed Climate diligence as a competitor in the strategy-tools tier of the carbon-platform landscape — grouped with [Watershed Climate](/notes/watershed-climate) and [Patch](/notes/patch) but consistently flagged as weaker on the accounting side ("Similar; not as much on the accounting side"). The detail comes through twice: once in the diligence's own competitive map and again in [Klarna](/notes/klarna)'s reference call, where its Climate Lead notes Klarna evaluated Planetly but "found their user experience wasn't as advanced" before re-confirming Watershed. The [Watershed Climate](/notes/watershed-climate) page carries the same read — Patch and Planetly "go for marketplace/strategy but lack the depth to actually build a footprint." In Kyle's notes Planetly reads as a European point-solution that did one part of the carbon stack but didn't match Watershed's end-to-end accounting depth.
 
-## How sources describe it
+**Context:** Planetly was a Berlin-based carbon-accounting and offsetting startup, acquired by OneTrust in 2021; OneTrust later wound it down in 2022.
 
-- Carbon-accounting / offset tool; Watershed competitor, weaker on accounting. (source: Watershed Climate Diligence — 2021)
+## Where this appears
 
-## Where it shows up
-
-- Watershed Climate Diligence — 2021 — Watershed Climate Series B diligence (Index Ventures, 2021).
-
-## Related concepts
-
-_(stub — expand on a future pass)_
+- Watershed Climate Diligence — 2021 — listed as a strategy-tier competitor, weaker on carbon accounting than Watershed.
+- [Watershed Climate](/notes/watershed-climate) — cited in the competitive map as a marketplace/strategy tool lacking footprint-building depth.

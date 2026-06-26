@@ -8,7 +8,7 @@ url: "https://www.michaeldempsey.me/blog/2022/09/20/company-building-in-the-curi
 source_published: "2022-09-20"
 confidence: "medium"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Provided directly by Kyle — long-reads batch, 2026-06-25"
@@ -36,7 +36,7 @@ _Verbatim excerpts Kyle captured, in source order._
 
 - These concepts were fun the first time you watched them and lost luster over the subsequent viewings as we all litigated how much we really would use a given use-case (all while ignoring the UX of using the actual hardware).
 - Now that we have composability of AI models, there is a new wave of AI-first products/features making their way into the world. These effective demos will likely lead to a barrage of AI-first products that see high short-term usage followed by material churn, driven by the collective curiosity of a variety of industries.
-- We're currently in what I'd call the Curiosity Phase (or less eloquently the "everyone wants to try it" phase) of AI. We can view this as a third mainstream go round for AI, after the world was introduced to Siri/Alexa and shocked by [People That Do Not Exist](https://thispersondoesnotexist.com/).
+- We're currently in what I'd call the [Curiosity Phase](/notes/curiosity-phase) (or less eloquently the "everyone wants to try it" phase) of AI. We can view this as a third mainstream go round for AI, after the world was introduced to Siri/Alexa and shocked by [People That Do Not Exist](https://thispersondoesnotexist.com/).
 - Some may think of this as fitting within Carlotta Perez's core frameworks, others may look at this from a technology deployment perspective, while one could also put this moment on the traditional Hype Cycle chart. We can argue about the specifics but what's important to understand is the speculative fervor around use-cases and value creation that comes with the Curiosity Phase.
 - In the Curiosity Phase of an emerging technology, Founders must at times ignore the seemingly endless user demand and instead litigate each decision they make with a lens for building long-term defensibility and value. Product feature expansion, prioritization, go-to market, and customer success become filled with minefields amongst the rising sentiment of the industry.
 - This will make teams in the short-term feel as if they are suffering from "death by a thousand cuts" as a subset of users (that might be far larger than the number of paying users) complain about either efficacy or lack of a given feature in your more fully-featured product. The echo chamber of AI/ML demos on twitter only amplifies this internal anxiety.
@@ -47,5 +47,5 @@ _Verbatim excerpts Kyle captured, in source order._
 
 ## How it connects
 
-- [Michael Dempsey](/notes/michael-dempsey) — author, Eads Bridge Holdings.
+- [Michael Dempsey](/notes/michael-dempsey) — author, [Eads Bridge Holdings](/notes/eads-bridge-holdings).
 - [All-in-One vs. Best-in-Class](/notes/all-in-one-vs-best-in-class) — AI collapsing disparate products into a single tool.

@@ -2,9 +2,9 @@
 title: "Personal Finance"
 type: "concept"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-18"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
@@ -14,12 +14,29 @@ aliases:
 related:
   - "[[Financial Independence]]"
   - "[[Retirement]]"
-  - "[[Charlie Munger: Philanthropy Roundtable]]"
+  - "[[The Psychology of Money]]"
+  - "[[Walden]]"
+  - "[[Digital Minimalism]]"
+  - "[[Frugality]]"
 ---
 
 # Personal Finance
 
-_Stub — concept captured from Kyle's June 29th, 2021 Roam "Quick Capture" reading log. The links below are sources Kyle saved to explore this topic; not yet synthesized._
+A recurring theme in Kyle's reading that frames money less as a math problem and more as a behavioral and philosophical one. [The Psychology of Money](/books/the-psychology-of-money) supplies the load-bearing claim: "building wealth depends on savings rate far more than income or investment returns." That savings-rate-over-income framing connects to [Financial Independence](/notes/financial-independence) (Housel's top goal, with cash as "the oxygen of independence") and to the [Retirement](/notes/retirement) / FIRE material Kyle has been collecting.
+
+The classic anti-consumerist line runs through [Walden](/books/walden) and [Digital Minimalism](/books/digital-minimalism). In Walden, Thoreau's "cost-in-life-hours" accounting reframes consumption as a budgeting problem — neighbors are "needlessly poor all their lives" chasing houses and goods to match those of their neighbors. [Digital Minimalism](/books/digital-minimalism) picks up the same thread via the Mr. Money Mustache / [Frugality](/notes/frugality) leisure philosophy (making and fixing things over passive consumption) that parallels the FIRE community's value-first reasoning. Even [The Parents' Guide to Boys](/books/the-parents-guide-to-boys) touches it: the basics of budgeting are graspable by a six-year-old. The Quick Capture link logs below are sources Kyle saved to explore the topic (early-retirement regrets, money-tracking spreadsheets, fintech apps) but has not yet synthesized into page-level claims.
+
+## Where this appears
+
+- [The Psychology of Money](/books/the-psychology-of-money) — wealth depends on savings rate far more than income or returns; the behavioral core of the topic.
+- [Walden](/books/walden) — Thoreau's cost-in-life-hours accounting; consumption as a budgeting problem.
+- [Digital Minimalism](/books/digital-minimalism) — Mr. Money Mustache / frugality leisure philosophy paralleling FIRE's value-first reasoning.
+- [Janesville](/books/janesville) — household finance under industrial job loss (factory-town economic dislocation).
+- [Remote: Office Not Required](/books/remote-office-not-required) — remote work's bearing on cost of living and where one can afford to live.
+- [The Parents' Guide to Boys](/books/the-parents-guide-to-boys) — budgeting basics as something even a young child can learn.
+- [Financial Independence](/notes/financial-independence) — independence as the goal personal-finance discipline serves.
+- [Retirement](/notes/retirement) — the FIRE / early-retirement material the saved links mostly orbit.
+- [Charlie Munger: Philanthropy Roundtable](/notes/charlie-munger-philanthropy-roundtable) — Munger on wealth, giving, and capital stewardship.
 
 ## Quick Capture links — June 29th, 2021
 

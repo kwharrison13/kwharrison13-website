@@ -17,7 +17,7 @@ But nobody dreams in business models. The #roamcult community often hints at som
 
 # **What is the right analogy for Roam?**
 
-The rise of “Uber for X” has been pretty common in tech for a long time. VCs and founders often enjoy poking fun at how crazy these analogies can get (e.g. the Palantir for fruity beverages, the Etsy for waffles), but here are a few that have been applied to Roam. I can’t help but say “yes, and more” to all of them.
+The rise of “[[Uber]] for X” has been pretty common in tech for a long time. VCs and founders often enjoy poking fun at how crazy these analogies can get (e.g. the [[Palantir]] for fruity beverages, the Etsy for waffles), but here are a few that have been applied to Roam. I can’t help but say “yes, and more” to all of them.
 
 ### **Roam is Excel**
 
@@ -55,7 +55,7 @@ Building a better note-taking app is the software equivalent of building a bette
 
 [**Link**](https://twitter.com/Conaw/status/1253190382956867585)
 
-What really broke down in Google’s original vision is the incentive system they were building towards. There is a very specific subset of information you’re interested in “organizing” when you’re trying to serve the perfect ad.
+What really broke down in [[Alphabet|Google]]’s original vision is the incentive system they were building towards. There is a very specific subset of information you’re interested in “organizing” when you’re trying to serve the perfect ad.
 
 
 
@@ -95,11 +95,11 @@ Imagine you’re a cancer researcher in Chicago. You’re poring over a query sh
 
 # **Building the Global Knowledge Graph**
 
-Tim Berners-Lee, the father of the World Wide Web [**had this vision**](https://www.youtube.com/watch?v=OM6XIICm_qo&feature=emb_title):
+[[Tim Berners-Lee]], the father of the World Wide Web [**had this vision**](https://www.youtube.com/watch?v=OM6XIICm_qo&feature=emb_title):
 
 “All the time we are very conscious of the huge challenges that human society has right now — curing cancer, understanding the brain for Alzheimer’s, understanding the economy to make it a little bit more stable, understanding how the world works. **The people who are going to solve those — the scientists — they have half-formed ideas in their head, they try to communicate those over the web. But a lot of the state of knowledge of the human race at the moment is on databases, often sitting in their computers, and actually, currently not shared.**“
 
-The Global Knowledge Graph would be a collection of ideas at the sub-atomic level with a reference engine connected to each unit. When [**Harry Stebbings asked Conor White-Sullivan for his most ambitious vision**](https://www.roamtips.com/home/conor-white-sullivan-roam-twenty-minute-vc-interview), it was the global knowledge graph:
+The [[Global Knowledge Graph]] would be a collection of ideas at the sub-atomic level with a reference engine connected to each unit. When [**Harry Stebbings asked Conor White-Sullivan for his most ambitious vision**](https://www.roamtips.com/home/conor-white-sullivan-roam-twenty-minute-vc-interview), it was the global knowledge graph:
 
 
 

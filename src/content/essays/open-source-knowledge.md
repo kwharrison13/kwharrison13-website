@@ -11,8 +11,8 @@ substack_url: "https://investing101.substack.com/p/open-source-knowledge"
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-elements-of-journalism">The Elements of Journalism</a>, <a href="/books/working-in-public">Working in Public</a>, <a href="/books/walt-disney-and-the-promise-of-progress-city">Walt Disney and the Promise of Progress City</a></span></div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/being-honest-about-intellectual-honesty">Being Honest About Intellectual Honesty</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/contrary-research">Contrary Research</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/working-in-public">Working in Public</a>, <a href="/books/the-elements-of-journalism">The Elements of Journalism</a>, <a href="/books/walt-disney-and-the-promise-of-progress-city">Walt Disney and the Promise of Progress City</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/being-honest-about-intellectual-honesty">Being Honest About Intellectual Honesty</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a></span></div>
 </aside>
 <!-- connections-end -->
 
@@ -48,13 +48,13 @@ Sharp people want to tackle hard problems, and often the solutions to those prob
 
 ![Illustration for Introducing Contrary Research section](/images/open-source-knowledge-d541673e.png)
 
-Learning about, and understanding, private companies is difficult. There's no one source of information that will give you the entire picture. Our goal in launching Contrary Research has a few components:
+Learning about, and understanding, private companies is difficult. There's no one source of information that will give you the entire picture. Our goal in launching [[Contrary Research]] has a few components:
 
 1. Do the hard work of bringing that information together
 2. Build an engine that can continue to tell those stories as they evolve
 3. Identify areas to go deeper where the whole story is greater than just the sum of the parts (i.e. where can we add valuable perspective?)
 
-Just like Nadia mentioned; "when content is a living organism its value is better measured in terms of people and relationships." **Our goal is to create a living organism.** Contrary is already very good at finding the best people. But to create a living organism, we're also focusing on the relationships between companies, and relationships with the best people who can help us articulate these stories.
+Just like Nadia mentioned; "when content is a living organism its value is better measured in terms of people and relationships." **Our goal is to create a living organism.** [[Contrary]] is already very good at finding the best people. But to create a living organism, we're also focusing on the relationships between companies, and relationships with the best people who can help us articulate these stories.
 
 So what does Contrary Research have to do with open-source knowledge?
 
@@ -68,17 +68,17 @@ In open-source software there are three big ideas that stuck out to me as worth 
 
 ## Contributors
 
-In *Working in Public*, Nadia points out the 80/20 rule of open-source contributions:
+In *[[Working in Public]]*, Nadia points out the 80/20 rule of open-source contributions:
 
 > *"One study found that in more than 85% of the open source projects the researchers examined on GitHub, **less than 5% of developers** were responsible for over 95% of code and social interactions."*
 
 Every discipline has their own "5%" of contributors; the people who become a center of gravity around a particular set of ideas. [Dan McMurtrie](https://twitter.com/SuperMugatu) described this idea to me as "the rivers and streams of different markets."
 
-> *"We use Twitter to identify **what networks exist and how are they connected**. Usually there is a community around different topics. But people misunderstand the main river as the only river. There is a ton of talent that is under-appreciated because they swim in less prominent [idea] pools."*
+> *"We use [[Twitter]] to identify **what networks exist and how are they connected**. Usually there is a community around different topics. But people misunderstand the main river as the only river. There is a ton of talent that is under-appreciated because they swim in less prominent [idea] pools."*
 
-Open-source knowledge revolves around this idea where different people are going deep on different areas. That expertise can come from academic training, like working at Oxford as the foremost expert on J.R.R. Tolkien. But more and more it is coming from content creators building online notoriety.
+Open-source knowledge revolves around this idea where different people are going deep on different areas. That expertise can come from academic training, like working at Oxford as the foremost expert on [[J.R.R. Tolkien]]. But more and more it is coming from content creators building online notoriety.
 
-Catherine Yeo [writes](https://cyeo.substack.com/p/wikipedia-struggle-creators) about the struggle creators face in trying to build online notability in a world with outdated ways of finding the most qualified perspectives:
+[[Catherine Yeo]] [writes](https://cyeo.substack.com/p/wikipedia-struggle-creators) about the struggle creators face in trying to build online notability in a world with outdated ways of finding the most qualified perspectives:
 
 > *"Through their content, they grow their audience and impact, to the point that [92%](https://www.forbes.com/sites/deborahweinswig/2016/10/05/influencers-are-the-new-brands/) of consumers trust an influencer’s product recommendation more than a celebrity endorsement. **But notability, as its own notion, is inherently subjective.**"*
 
@@ -98,7 +98,7 @@ The real magic happens when good ideas or bad ideas, and good thinking or bad th
 
 ## Interconnectivity
 
-Conor White-Sullivan has a great [quote](https://twitter.com/kwharrison13/status/1247985933711896578?s=20&t=8nWj4rEVFrXA_HpqOD-XMw) about this:
+[[Conor White-Sullivan]] has a great [quote](https://twitter.com/kwharrison13/status/1247985933711896578?s=20&t=8nWj4rEVFrXA_HpqOD-XMw) about this:
 
 > *"You need to be able to get compound interest on your thoughts. **Good ideas come from when ideas have sex**: the intersection of different things that you’ve been reading or different things you’ve been seeing."*
 
@@ -116,7 +116,7 @@ So how do we increase the efficiency of that knowledge sharing?
 
 # What Does a Knowledge Repo Look Like?
 
-In the investing world, we're actually doing a good job of the first part in building open-source knowledge. Writing, and sharing content, has become a bigger and bigger part of the investing world. [I've written before](https://investing1012dot0.substack.com/p/the-storytelling-of-investing) about how investors have used writing, and stepping into that "knowledge contributor" role to progress as investors. I won't re-share the whole quote, but TLDR Morgan Housel [talks](https://perell.com/essay/morgan-housel/) about how people like Warren Buffett and Howard Marks used writing to build trust with their own investors.
+In the investing world, we're actually doing a good job of the first part in building open-source knowledge. Writing, and sharing content, has become a bigger and bigger part of the investing world. [I've written before](https://investing1012dot0.substack.com/p/the-storytelling-of-investing) about how investors have used writing, and stepping into that "knowledge contributor" role to progress as investors. I won't re-share the whole quote, but TLDR [[Morgan Housel]] [talks](https://perell.com/essay/morgan-housel/) about how people like [[Warren Buffett]] and [[Howard Marks]] used writing to build trust with their own investors.
 
 While certain individuals and firms, [like USV](https://www.readthegeneralist.com/briefing/union-square-ventures), act as "knowledge contributors" in the open-source knowledge world around investing, the community feedback loop is only starting to emerge, and there isn't necessarily any "knowledge composability" happening in the investing world. At least not to the extent like there is in open-source software where I take your ideas, and then I build something around it.
 
@@ -148,7 +148,7 @@ In the world of company building and investing, there is a short hand that peopl
 
 # Company Storytelling
 
-Matthew Frederick, a famous architect, [described](https://www.amazon.com/Walt-Promise-Progress-City-Gennawey/dp/0615540244) that starting point this way:
+[[Matthew Frederick]], a famous architect, [described](https://www.amazon.com/Walt-Promise-Progress-City-Gennawey/dp/0615540244) that starting point this way:
 
 > ***“If you can’t explain your ideas to your grandmother in terms that she understands, you don’t know your subject well enough.”***
 
@@ -172,7 +172,7 @@ And then if you want to go deeper? We try and point you to the best in-depth res
 
 ## What Does This Mean For Venture?
 
-Sonke Ahrens wrote a [book](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/B09HSSFCPR/ref=sr_1_1?keywords=take+smart+notes&qid=1663339566&sr=8-1) about taking notes that I love. And he said something about learning that I think more investors should take to heart:
+[[Sonke Ahrens]] wrote a [book](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/B09HSSFCPR/ref=sr_1_1?keywords=take+smart+notes&qid=1663339566&sr=8-1) about taking notes that I love. And he said something about learning that I think more investors should take to heart:
 
 > *"Learning, thinking and writing should not be about accumulating knowledge, but about **becoming a different person with a different way of thinking.** This is done by questioning one’s own thinking routines in the light of new experiences and facts."*
 

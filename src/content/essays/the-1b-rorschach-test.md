@@ -23,13 +23,13 @@ Wavy lines? "It's a dragon." Large blob? "Dragon." An entire page covered purple
 
 Like his own homemade Rorschach test. Though, the thing about a Rorschach test is that, unlike Jed's drawings, there isn't a right answer, there's only *your* answer.
 
-This week, an equally insightful Rorschach test broke out online when the New York Times published a piece about Matthew Gallagher and his company, MEDVi, that supposedly scaled to $1.8B in revenue in 14 months. **People's reactions, like any good dragon drawing, say more about them than it says about the reality of the situation**.
+This week, an equally insightful Rorschach test broke out online when the New York Times published a piece about [[Matthew Gallagher]] and his company, MEDVi, that supposedly scaled to $1.8B in revenue in 14 months. **People's reactions, like any good dragon drawing, say more about them than it says about the reality of the situation**.
 
 ## The Test
 
 Here's the story.
 
-Gallagher launched MEDVi in September 2024 from his house in LA. He used ChatGPT, Claude, Grok, Midjourney, Runway; the whole AI stack. Those tools built the website, generated marketing assets, handled customer service, and wired together the backend. All in, he spent ~$20K to get the thing off the ground.
+Gallagher launched MEDVi in September 2024 from his house in LA. He used [[ChatGPT]], Claude, Grok, Midjourney, Runway; the whole AI stack. Those tools built the website, generated marketing assets, handled customer service, and wired together the backend. All in, he spent ~$20K to get the thing off the ground.
 
 A lot of the praise online made it seem like this vibe coding wizard had called forth the elements from the four corners of the earth and crafted a Fortune 500 from whole cloth. There's a lot to unpack in all of that.
 
@@ -45,7 +45,7 @@ Across dozens of reactions I saw just about every version of a dragon people cou
 
 The framing of the story from the jump is "AI built this billion dollar company." Everyone who has been talking about "one person billion dollar companies" since ChatGPT launched saw in this headline the appearance of their promised messiah. The AI story of the century!
 
-But here's the thing. It's not. Now, I'm not here to pass judgement (at least... not in this particular paragraph). But what the NYT wants to scream or what ever honors Tech Twitter is lining up to bestow, framing this as an AI story misses the mark.
+But here's the thing. It's not. Now, I'm not here to pass judgement (at least... not in this particular paragraph). But what the NYT wants to scream or what ever honors Tech [[Twitter]] is lining up to bestow, framing this as an AI story misses the mark.
 
 Here is the actual stack of preconditions that had to be true for MEDVi to exist:
 
@@ -53,11 +53,11 @@ Here is the actual stack of preconditions that had to be true for MEDVi to exist
 
 **Second**, the regulatory environment around telehealth had to be in a state of, let's call it, permissive ambiguity. During COVID, the bumpers on the healthcare industry got thrown out the window. Restrictions on telehealth prescribing relaxed dramatically. A lot of the oversight mechanisms that existed to prevent exactly this kind of thing just... got quiet. And many of them haven't come back.
 
-**Third**, GLP-1 demand had to be absolutely insatiable. And it is. The demand for weight-loss drugs in America right now is, to use a technical term, *bonkers*. Wegovy, Ozempic, compounded semaglutide -- people want it, they want it now, and they don't want to go sit in a doctor's office to get it.
+**Third**, [[GLP-1]] demand had to be absolutely insatiable. And it is. The demand for weight-loss drugs in America right now is, to use a technical term, *bonkers*. Wegovy, Ozempic, compounded semaglutide -- people want it, they want it now, and they don't want to go sit in a doctor's office to get it.
 
 All three of those things had to be true. Independent of AI. Gallagher could have done this seven years ago if those three conditions had existed seven years ago. The AI part, whether its the website generation, the ad creative, the chatbot, they're all certainly nice and I'm sure were faster and cheaper than they would have been 7 years ago. Efficient, no doubt. But it's the wrapping paper, not the gift.
 
-As one person on Twitter put it: calling this an AI company is like calling a Shopify dropshipper a "manufacturing company" because they have a nice storefront. **The storefront isn't the business. The supply chain is the business.** And the supply chain here is 100% human, 100% regulated, and 0% built by ChatGPT.
+As one person on Twitter put it: calling this an AI company is like calling a [[Shopify]] dropshipper a "manufacturing company" because they have a nice storefront. **The storefront isn't the business. The supply chain is the business.** And the supply chain here is 100% human, 100% regulated, and 0% built by ChatGPT.
 
 ## Dragon No. 2: "This Is Genius Execution"
 
@@ -65,7 +65,7 @@ Some people looked at the story and saw something more refined: a visionary grow
 
 The "congrats" and "total Chad" and "get it, bro" sentiment was... robust. My favorite genre was the "they're just mad cause they didn't think of it" crowd. Classic.
 
-Again, I'm not here to pass judgement (that paragraph comes later). Getting to $400M in revenue in your first year is an extraordinary marketing achievement. The conversion funnel, the Facebook ad optimization, the sheer volume of customer acquisition all take real skill. Anybody who tries to deny that has never tried to do anything similar themselves. In telehealth, you can think of a particular concept we'll call "prescription friction," which is basically the drop-off rate between someone clicking an ad, landing on a site, and then *actually* completing a prescription. MEDVi clearly reduced that friction to near zero.
+Again, I'm not here to pass judgement (that paragraph comes later). Getting to $400M in revenue in your first year is an extraordinary marketing achievement. The conversion funnel, the [[Facebook]] ad optimization, the sheer volume of customer acquisition all take real skill. Anybody who tries to deny that has never tried to do anything similar themselves. In telehealth, you can think of a particular concept we'll call "prescription friction," which is basically the drop-off rate between someone clicking an ad, landing on a site, and then *actually* completing a prescription. MEDVi clearly reduced that friction to near zero.
 
 But here's the thing about reducing friction to near zero in healthcare: **some of that friction exists for a reason.**
 
@@ -91,7 +91,7 @@ It's not just consumers noticing stuff. Even before the New York Times piece cam
 
 The biggest flaw here lies in the question of the "one person billion dollar company." Billion dollars of what? Revenue? Here's the thing. **When your margins have 3-5 different exorbitant "takers" then, at some point, its more of a vanity metric than an actual worthwhile number**. If you're (1) paying two other companies for your entire physical infrastructure, (2) paying ungodly customer acquisition costs in an insanely competitive and completely commoditized market, (3) constantly losing customers to whoever has the latest "sign up now" discount, and (4) it's only a matter of time before "lawsuit costs" becomes a consistent part of your P&L, then I'm pretty hesitant to use "revenue" as an anchor for any company's value.
 
-Hims & Hers did $2.4B in GLP-1 revenue with 2.4K employees and generated 5.5% net margins. Again, people anchor to this guy doing ~16% margins with one person (two if you include his younger brother), then its a glorious tale of AI's efficiency gains. But, in my mind, that margin difference is a function of what other legitimate players are paying to adhere to compliance standards. If I don't have to actually worry about the patient's care experience, then sure... that saves some nickels.
+[[Hims & Hers]] did $2.4B in GLP-1 revenue with 2.4K employees and generated 5.5% net margins. Again, people anchor to this guy doing ~16% margins with one person (two if you include his younger brother), then its a glorious tale of AI's efficiency gains. But, in my mind, that margin difference is a function of what other legitimate players are paying to adhere to compliance standards. If I don't have to actually worry about the patient's care experience, then sure... that saves some nickels.
 
 ## Crimes Pays, Actually
 
@@ -123,6 +123,6 @@ If you're playing to make AI the default tool the world over, you see validation
 
 But if you're playing to survive for the long-haul? If you're trying to actually build something durable, something real, something that helps people and lasts? You might see something much simpler.
 
-You see a guy who made a crappy website, slapped it on top of someone else's healthcare infrastructure, pointed Facebook ads at people desperate for GLP-1s, and didn't bother to check whether the fake doctors on his site would pass a Google search or if losing 85% of your body weight would *checks notes* kill you. And you see an entire industry falling over itself to call that genius.
+You see a guy who made a crappy website, slapped it on top of someone else's healthcare infrastructure, pointed Facebook ads at people desperate for GLP-1s, and didn't bother to check whether the fake doctors on his site would pass a [[Alphabet|Google]] search or if losing 85% of your body weight would *checks notes* kill you. And you see an entire industry falling over itself to call that genius.
 
 The problem is that nobody thinks there's a right answer. And when I look at Jed's drawings? That's true. They can all be dragons, why not? But in the world of business building, customer needs (and potential death), margin pressure, and durability? There is a right or wrong answer. And I don't think this is the right answer.

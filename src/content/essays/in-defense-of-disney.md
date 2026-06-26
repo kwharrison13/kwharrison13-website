@@ -20,11 +20,11 @@ substack_url: "https://investing101.substack.com/p/in-defense-of-disney"
 
 ---
 
-One of the things that happens when you’ve been writing consistently for a long time is that you start to revisit life experiences. I was writing when I had my [third kid](https://investing101.substack.com/p/kids-30?utm_source=publication-search) and my [fourth kid](https://investing101.substack.com/p/even-more-a-father). I’m later than usual this week because I spent Saturday driving back from a family trip to Disneyland. That [same thing](https://investing101.substack.com/p/learning-to-dream?utm_source=publication-search) happened three years ago the last time I took my family to Disneyland.
+One of the things that happens when you’ve been writing consistently for a long time is that you start to revisit life experiences. I was writing when I had my [third kid](https://investing101.substack.com/p/kids-30?utm_source=publication-search) and my [fourth kid](https://investing101.substack.com/p/even-more-a-father). I’m later than usual this week because I spent Saturday driving back from a family trip to [[Disneyland]]. That [same thing](https://investing101.substack.com/p/learning-to-dream?utm_source=publication-search) happened three years ago the last time I took my family to Disneyland.
 
 Disneyland holds a special place in my heart because I feel a certain spiritual experience when I go. I perk up anytime I see anyone discussing it.
 
-I perked up a few months ago when I saw Mike Solana write a [Pirate Wires piece](https://www.piratewires.com/p/golden-age) about Disney as a city builder. When I wrote my piece last time I went, I talked about the book I had read, [Walt Disney and the Promise of Progress City](https://www.amazon.com/Walt-Disney-Promise-Progress-City/dp/B0DRDFHDDD); a great exploration of an element of Walt Disney that no one gives him enough credit for: a developer of the future. I’ll come back to that.
+I perked up a few months ago when I saw [[Mike Solana]] write a [Pirate Wires piece](https://www.piratewires.com/p/golden-age) about [[Disney]] as a city builder. When I wrote my piece last time I went, I talked about the book I had read, [Walt Disney and the Promise of Progress City](https://www.amazon.com/Walt-Disney-Promise-Progress-City/dp/B0DRDFHDDD); a great exploration of an element of [[Walt Disney]] that no one gives him enough credit for: a developer of the future. I’ll come back to that.
 
 But not everyone’s experience with Disney parks is rooted in futuristic urban planning. In fact, not everyone even has a positive feeling about these parks. So, given 90% of my brain capacity ended up thinking about Disneyland this week, that’s where my writing has trended.
 
@@ -34,9 +34,9 @@ But not everyone’s experience with Disney parks is rooted in futuristic urban 
 
 # It’s A Small (Awful?) World?
 
-The same way I always do when someone mentions Disney, I perked up a few weeks ago when I saw Katherine Boyle [tweet about](https://x.com/ktmboyle/status/1962174743961829716?s=46) disliking Disney because it had become optimized for adults. Someone else [described it](https://x.com/tunguz/status/1962178052861149247?s=46) in no uncertain terms: “I can’t think of a more miserable experience than going to one of the Disney parks.” I felt immediate defensiveness of the parks when I saw those reactions.
+The same way I always do when someone mentions Disney, I perked up a few weeks ago when I saw [[Katherine Boyle]] [tweet about](https://x.com/ktmboyle/status/1962174743961829716?s=46) disliking Disney because it had become optimized for adults. Someone else [described it](https://x.com/tunguz/status/1962178052861149247?s=46) in no uncertain terms: “I can’t think of a more miserable experience than going to one of the Disney parks.” I felt immediate defensiveness of the parks when I saw those reactions.
 
-Both tweets referenced a [NYT OpEd](https://www.nytimes.com/2025/08/28/opinion/disney-world-economy-middle-class-rich.html) called “[Disney and the Decline of America’s Middle Class](https://www.nytimes.com/2025/08/28/opinion/disney-world-economy-middle-class-rich.html?unlocked_article_code=1.iU8.jIf-.L2pr2svpYt9d&smid=url-share).” The piece describes how big companies have become more capable of monetizing the more affluent market as the middle class has disappeared. And that’s true. But the piece unfairly lays that injustice at the feet of Disney, while in the same breath admitting that, as rivals like Universal started to charge more to let people cut the lines, Disney held firm. They held firm for almost 20 years, before having to give in as basically every ticketed experience around did the same.
+Both tweets referenced a [NYT OpEd](https://www.nytimes.com/2025/08/28/opinion/disney-world-economy-middle-class-rich.html) called “[Disney and the Decline of America’s Middle Class](https://www.nytimes.com/2025/08/28/opinion/disney-world-economy-middle-class-rich.html?unlocked_article_code=1.iU8.jIf-.L2pr2svpYt9d&smid=url-share).” The piece describes how big companies have become more capable of monetizing the more affluent market as the [[Middleclass|middle class]] has disappeared. And that’s true. But the piece unfairly lays that injustice at the feet of Disney, while in the same breath admitting that, as rivals like Universal started to charge more to let people cut the lines, Disney held firm. They held firm for almost 20 years, before having to give in as basically every ticketed experience around did the same.
 
 The story contrasts two experiences: one household that earns $80K a year (in line with median household income) and a “tech executive” (because of course they want to take a shot at tech). The wealthier exec was able to pay way more to do more rides, in half the time, and have a great day with limited wait times. Meanwhile, the poorer family struggled when their electric wheelchair broke down and they had to save for years for that trip.
 
@@ -128,7 +128,7 @@ One idea was a disposable highway vehicle (we’re getting closer to that one wi
 
 ![Screenshot demonstrating yesterday’s tomorrow](/images/in-defense-of-disney-15882f51.png)
 
-“Motion pictures while in motion” remind me of the size of the display screens on a Tesla.
+“Motion pictures while in motion” remind me of the size of the display screens on a [[Tesla]].
 
 ![Framework diagram for yesterday’s tomorrow](/images/in-defense-of-disney-05875502.png)
 
@@ -140,7 +140,7 @@ But the reality is so much more than that. **What Walt Disney ultimately provide
 
 # A Prototype For Imagination
 
-I could write a book on the library of problems and solutions that Walt Disney’s imagination tackled (and many people have written those books)! But the critical takeaway for my own life is not necessarily to chronicle each one, from transportation, to urban design, agriculture, car dependency, lack of civic engagement, and technological stagnation. He was a genuine Renaissance Man in the depth and breadth of problems he attempted to tackle in his much too short 65 years.
+I could write a book on the library of problems and solutions that Walt Disney’s [[Imagination|imagination]] tackled (and many people have written those books)! But the critical takeaway for my own life is not necessarily to chronicle each one, from transportation, to urban design, agriculture, car dependency, lack of civic engagement, and technological stagnation. He was a genuine Renaissance Man in the depth and breadth of problems he attempted to tackle in his much too short 65 years.
 
 One [biography](https://www.amazon.com/Disney-Version-Life-Times-Commerce/dp/198211522X) of Walt Disney described his unique capability not as artistic genius, but rather “the exploration of technological innovation.” As the author of the Progress City book put it:
 
@@ -160,7 +160,7 @@ The solution? Deemphasize cars in living spaces and optimize, instead, more modu
 
 Again. I could write a book about the dreamed, yet unfulfilled promises of EPCOT (and many people have). But I’ll leave that for another time.
 
-Instead, my takeaway from all of this is that Walt Disney provided us with that fundamental [definition](https://www.reddit.com/r/disney/comments/2y3b81/can_someone_help_me_find_the_source_of_this_quote/?share_id=t-TWqqcD4xo6GGdIfdsDm&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1) of American progress through his WED Enterprises, which later became Walt Disney Imagineering:
+Instead, my takeaway from all of this is that Walt Disney provided us with that fundamental [definition](https://www.reddit.com/r/disney/comments/2y3b81/can_someone_help_me_find_the_source_of_this_quote/?share_id=t-TWqqcD4xo6GGdIfdsDm&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1) of American progress through his [[Disney Imagineering|WED Enterprises]], which later became Walt Disney Imagineering:
 
 > *“There’s really no secret about our approach. **We keep moving forward – opening up new doors and doing new things – because we’re curious. And curiosity keeps leading us down new paths**. We’re always exploring and experimenting. At WED, we call it Imagineering – the blending of creative imagination with technical know-how.”*
 
@@ -168,7 +168,7 @@ THAT is the prototype for imagination. And we’ve become far too removed from i
 
 It’s not even that there aren’t attempts. From [Starbase, TX](https://en.wikipedia.org/wiki/Starbase,_Texas) to [California Forever](https://en.wikipedia.org/wiki/California_Forever) there are visions that, in different ways, share a common ancestry with the original vision for EPCOT. But instead of adhering to the “definition of American progress” and trusting in our ability to find technological fixes that lead to problems, and then solving those problems, we get bogged down in negativity and skepticism. **We worry about conservation rather than progress and, in so doing, end up with (1) [shutdown projects](https://x.com/rmcentush/status/1971968093644902887) that would create jobs and usher in progress, for fear of the problems that it could bring about, and (2) allocating resources towards [slop machines](https://x.com/kwharrison13/status/1971617544135234022) that don’t offend anyones sense of second order ripple effects until its too late and we’re addicted to the dopamine pipes in our pocket.**
 
-I’m not saying don’t worry about the problems. That’s not progress, that’s just reckless. But rather, its a willingness to trust in our ability to solve problems and then solve the second order problems that our first solutions kick up too. Palmer Luckey has said the same thing about climate change. It’s not that he doesn’t believe in it, but that he is willing to believe in our ability to solve problems rather than doomsday shutdown anything that contributes to the problem.
+I’m not saying don’t worry about the problems. That’s not progress, that’s just reckless. But rather, its a willingness to trust in our ability to solve problems and then solve the second order problems that our first solutions kick up too. [[Palmer Luckey]] has said the same thing about climate change. It’s not that he doesn’t believe in it, but that he is willing to believe in our ability to solve problems rather than doomsday shutdown anything that contributes to the problem.
 
 I think one of the reasons culture feels so repetitive and we’re drowning in reboots, remakes, sequels, and prequels is because we’ve lost hope for anything better than what we had. Unlike Walt’s ability to learn from the past by bringing its idealistic aura into the future, we pine for the yesterday’s today. “The way things used to be.” **We wish for a world that was the way it used to be, rather than accepting the world as it is and trying to change it.**
 

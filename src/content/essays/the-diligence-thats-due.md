@@ -43,23 +43,23 @@ So let's talk about the questions people are trying to answer, the environment i
 
 # A Boring Topic With A Lot of Press
 
-Before I get into the meat, it's important to once again pulse check which of you are living under a rock (or living a healthy life not logging onto Twitter, which is the same thing.) In the last few months, the act of due diligence has really come into question on a few large transactions (if you can call the implosion of a crypto exchange, and disappearance of $10B a "transaction.")
+Before I get into the meat, it's important to once again pulse check which of you are living under a rock (or living a healthy life not logging onto [[Twitter]], which is the same thing.) In the last few months, the act of due diligence has really come into question on a few large transactions (if you can call the implosion of a crypto exchange, and disappearance of $10B a "transaction.")
 
 ## The Free Speecher
 
 First, there was Twitter. And boy, was that a roller coaster.
 
-In his attempt to reawaken free speech on Twitter, Elon Musk got a lot of flack for "waiving due diligence," but then seemingly he also misunderstood that he'd signed a binding merger agreement even before he brought up his concerns about bots on Twitter. That felt like a big misstep.
+In his attempt to reawaken free speech on Twitter, [[Elon Musk]] got a lot of flack for "waiving due diligence," but then seemingly he also misunderstood that he'd signed a binding merger agreement even before he brought up his concerns about bots on Twitter. That felt like a big misstep.
 
 On top of Musk's seeming lack of any diligence, you then had pretty significant capital providers flooding in with the famous promise of "no additional work required."
 
 ![Source:Twitter](/images/the-diligence-thats-due-2b57f4a2.png)
 
-Some people make the argument that this isn't the same as a typical venture round where none of the information is public. This is a publicly-traded company with all their financials available. Understandable. But somewhat naive. Large private equity firms like Apollo, Thoma Bravo, and others spent [$118B in take-private deals](https://www.forbes.com/sites/forbestechcouncil/2022/09/30/three-things-to-know-when-taking-a-public-company-private/?sh=61491147318d) last year. You can bet they're doing a lot more diligence than texting their friends, even though the company is public.
+Some people make the argument that this isn't the same as a typical venture round where none of the information is public. This is a publicly-traded company with all their financials available. Understandable. But somewhat naive. Large private equity firms like Apollo, [[Thoma Bravo]], and others spent [$118B in take-private deals](https://www.forbes.com/sites/forbestechcouncil/2022/09/30/three-things-to-know-when-taking-a-public-company-private/?sh=61491147318d) last year. You can bet they're doing a lot more diligence than texting their friends, even though the company is public.
 
 ## The Fraud
 
-Next, we have the ridiculously well-covered and dramatic implosion of FTX. Most notably, FTX had raised [over $1B](https://www.crunchbase.com/organization/ftx-exchange/investor_financials) from some very notable investors including Sequoia, Tiger, Temasek, and a host of others.
+Next, we have the ridiculously well-covered and dramatic implosion of FTX. Most notably, FTX had raised [over $1B](https://www.crunchbase.com/organization/ftx-exchange/investor_financials) from some very notable investors including [[Sequoia]], Tiger, Temasek, and a host of others.
 
 ![Source:Twitter](/images/the-diligence-thats-due-a00e7440.png)
 
@@ -73,7 +73,7 @@ These aren't the only isolated incidents of diligence coming under fire. 2021 wa
 
 # FOMO Fever
 
-The last few years have been a whirlwind of changes globally, in technology, and in culture. Keeping up with all of it can be difficult for anyone. The speed of change has created the perfect storm of FOMO for even the most disciplined investors. Regarding the FTX implosion, Jason Zweig had a [piece](https://www.wsj.com/articles/ftx-investors-due-diligence-11668736585) pointing to some of the logic behind what happened to investor judgement in 2021:
+The last few years have been a whirlwind of changes globally, in technology, and in culture. Keeping up with all of it can be difficult for anyone. The speed of change has created the perfect storm of FOMO for even the most disciplined investors. Regarding the FTX implosion, [[Jason Zweig]] had a [piece](https://www.wsj.com/articles/ftx-investors-due-diligence-11668736585) pointing to some of the logic behind what happened to investor judgement in 2021:
 
 > *"SBF may be at the center of what went wrong, but he didn’t act alone. Behind him lies a vast ecosystem of fantasy and fakery. It’s called the investing business. Despite their vaunted investing expertise, these firms all missed the many red flags fluttering high above FTX. **And seldom in financial history have red flags been redder than this.**I think the failure comes from what the English poet Samuel Taylor Coleridge called “[the willing suspension of disbelief](https://web.archive.org/web/20221118120233/https://archive.org/details/biographialitera00colerich/page/2/mode/1up?view=theater).” That “poetic faith,” he wrote, has the potential to make the supernatural credible to “every human being.”*
 
@@ -123,7 +123,7 @@ If you raised a round at a $1B+ valuation for <$10M ARR in 2021, and your VCs ha
 
 ### Where's The Focus?
 
-Firms like Tiger Global started responding to this speed by [paying hundreds of millions of dollars to Bain](https://www.generalist.com/briefing/tiger-global) for consulting engagements where they could simultaneously run diligence on dozens of companies at once. And [that work can be quite good](https://twitter.com/magdalenakala/status/1485321427024809993?s=20&t=69vIB8CYZkD-LlvfpPjZ0A); I've seen the output both at firms I've worked for, and in co-investing with firms like Tiger where they'll share the work they've done.
+Firms like [[Tiger Global Management|Tiger Global]] started responding to this speed by [paying hundreds of millions of dollars to Bain](https://www.generalist.com/briefing/tiger-global) for consulting engagements where they could simultaneously run diligence on dozens of companies at once. And [that work can be quite good](https://twitter.com/magdalenakala/status/1485321427024809993?s=20&t=69vIB8CYZkD-LlvfpPjZ0A); I've seen the output both at firms I've worked for, and in co-investing with firms like Tiger where they'll share the work they've done.
 
 But often, the trickiest question to answer doesn't come from the outside-in view you can get from market surveys, customer calls, and competitive analysis. In terms of volume of work, that can often be 80% of it. Instead, **the things that a company will likely live or die by are the 20% that comes from evaluating the internal engine the company has built.** Those aspects require investor judgement.
 
@@ -131,7 +131,7 @@ And in a world where firms like Tiger were moving so fast that you heard stories
 
 # Emphasizing The Economic Engine
 
-In 1986, Warren Buffett wrote, [in his annual letter](https://www.berkshirehathaway.com/letters/1986.html), some commentary on his diligence focus:
+In 1986, [[Warren Buffett]] wrote, [in his annual letter](https://www.berkshirehathaway.com/letters/1986.html), some commentary on his diligence focus:
 
 > *"If our success were to depend upon insights we developed through plant inspections, Berkshire would be in big trouble. Rather, in considering an acquisition, **we attempt to evaluate the economic characteristics of the business** - its competitive strengths and weaknesses - and the quality of the people we will be joining."*
 
@@ -155,8 +155,8 @@ Otherwise? It's better to unpack the entire story, the good and the bad. Because
 
 # What Does This Mean For Venture?
 
-Venture investors could do a better job treating startups like the more [professionalized asset class they’ve become](https://investing1012dot0.substack.com/p/the-professionalization-of-startups), with playbooks and processes that can be consistently evaluated. It shouldn’t just be about finding the Zuckerberg-esque messy genius touting an idea attached to “[a total addressable market of every person on the entire planet](https://web.archive.org/web/20221027180943/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/).” Startups can benefit from more operational excellence, and having informed investors that have seen a much wider variety of models than any one founder typically has. That way, they can push on the good and the bad of any given model.
+Venture investors could do a better job treating startups like the more [professionalized asset class they’ve become](https://investing1012dot0.substack.com/p/the-professionalization-of-startups), with playbooks and processes that can be consistently evaluated. It shouldn’t just be about finding the [[Mark Zuckerberg|Zuckerberg]]-esque messy genius touting an idea attached to “[a total addressable market of every person on the entire planet](https://web.archive.org/web/20221027180943/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/).” Startups can benefit from more operational excellence, and having informed investors that have seen a much wider variety of models than any one founder typically has. That way, they can push on the good and the bad of any given model.
 
 Rather than having investors who hide their heads in the sand saying "[the margins will improve with scale](https://twitter.com/kwharrison13/status/1590088075517911040?s=20&t=yavg0PkYuiWunw8E7A8aXQ)," you need more sophisticated analysts who want to get into the weeds, not just measure the heat that they're chasing.
 
-Founders could do a better job holding their investors to a higher bar. Charlie Munger has [this idea](https://fs.blog/knowledge-project-podcast/naval-ravikant/) about finding a spouse that you can apply to finding an investor: "To find a worthy [partner], be worthy of a worthy [partner]." **If you're looking for ways to obscure details, and tell the best picture, then you're going to get an investor who gravitates towards obscured details, and rosy pictures.**
+Founders could do a better job holding their investors to a higher bar. [[Charlie Munger]] has [this idea](https://fs.blog/knowledge-project-podcast/naval-ravikant/) about finding a spouse that you can apply to finding an investor: "To find a worthy [partner], be worthy of a worthy [partner]." **If you're looking for ways to obscure details, and tell the best picture, then you're going to get an investor who gravitates towards obscured details, and rosy pictures.**

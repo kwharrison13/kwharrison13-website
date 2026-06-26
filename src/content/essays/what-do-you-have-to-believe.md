@@ -32,7 +32,7 @@ Across thousands of meetings with startups over the course of my career, I’ve 
 
 I was talking about this with a friend and his response was fair and direct: “is there any case of a startup that doesn’t need a lot to go right to go big?” My response was that it isn’t a binary; either this will be easy or this will be hard. **In fact, if there is one binary in startups it is the universality of the fact that this will be hard.**
 
-Instead, as I explained to my friend, its a spectrum. A weighted average of all the things that have to go right. [I’ve written before](https://investing101.substack.com/p/risk-management-in-the-age-of-yolo) about how Marc Andreessen calls this “the onion theory of risk.”
+Instead, as I explained to my friend, its a spectrum. A weighted average of all the things that have to go right. [I’ve written before](https://investing101.substack.com/p/risk-management-in-the-age-of-yolo) about how [[Marc Andreessen]] calls this “the onion theory of risk.”
 
 # The Onion Theory of Risk
 
@@ -61,7 +61,7 @@ When I first wrote about the onion theory of risk it was in a piece called [Risk
 
 The “comfort” level I feel with risk is not innate; it is honed. Over time you become more comfortable with certain types of risk. Market risk is much less scary when I’ve seen how almost every market I’ve ever evaluated has proven to be larger than I expected. Hiring risk has become inextricably connected to “marketing risk” or “storytelling risk.” One leads to the other, so my comfort with one depends on my comfort with the other. But some risks have become unequivocally critical, like founder risk. There’s no chance if you get that one wrong.
 
-One of the ways to become comfortable with risk is to think about it more. A LOT more. Sequoia has a practice in their investment memos that we adopted when I was at Index Ventures. Originally, I believe the idea [came from](https://alphaideas.in/2021/11/08/pre-parade-pre-mortem/) Larry Summers: the pre-parade and the pre-mortem. Roelof Both explains it [this way](https://www.youtube.com/watch?v=1oYXDK9xhb4):
+One of the ways to become comfortable with risk is to think about it more. A LOT more. [[Sequoia]] has a practice in their investment memos that we adopted when I was at [[Index Ventures]]. Originally, I believe the idea [came from](https://alphaideas.in/2021/11/08/pre-parade-pre-mortem/) Larry Summers: the pre-parade and the [[Pre-Mortem|pre-mortem]]. Roelof Both explains it [this way](https://www.youtube.com/watch?v=1oYXDK9xhb4):
 
 > *“At the outset [of an investment], dream, for a second, if everything goes right. In the pre- parade, why should we imagine that this company could yield a 10x or 100x return for us? And then the pre-mortem really helps you focus on the key challenges the company has to overcome. There’s a version of that that the management team themselves needs to conduct which is; forget about the fact that you have three three years of runway; [what if] you only had 12 months left? What would you do? It is really clarifying to focus the mind.”*
 
@@ -83,13 +83,13 @@ The pre-mortem asks the harder question. What is the forward-looking **worst-cas
 
 The pre-mortem is harder because it requires a particular kind of paranoia that most founders have been coached not to display. A founder is supposed to project conviction. ***But the best founders I’ve met are paranoid in private and confident in public. They’ve already imagined every way the thing dies.***
 
-There is a great line in [The Founders](https://www.amazon.com/Founders-Story-Paypal-Entrepreneurs-Shaped/dp/1501197266) about David Sacks’s tenure at PayPal:
+There is a great line in [The Founders](https://www.amazon.com/Founders-Story-Paypal-Entrepreneurs-Shaped/dp/1501197266) about [[David Sacks]]’s tenure at [[PayPal]]:
 
 > *“‘**One of the thought experiments I ran through was, if I was running eBay Payments, what would I do to kill PayPal?**’ Sacks said. ‘And I came up with lots of different things! I was always worried that one day they were gonna figure it out.’”*
 
 That is the pre-mortem in operating mode. Sit in your competitor’s chair. Imagine the smartest, best-resourced version of the entity that wants to kill you. What do they do, and how do you survive it?
 
-The OG of this paranoid posture, of course, is Andy Grove, the former Intel CEO. The book he literally titled [Only The Paranoid Survive](https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821) is the foundational text on this idea:
+The OG of this paranoid posture, of course, is [[Andy Grove]], the former [[Intel]] CEO. The book he literally titled [Only The Paranoid Survive](https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821) is the foundational text on this idea:
 
 > *“**Business success contains the seeds of its own destruction.** The more successful you are, the more people want a chunk of your business and then another chunk and then another until there is nothing left. I believe that the prime responsibility of a manager is to guard constantly against other people’s attacks and to inculcate this guardian attitude in the people under his or her management.”*
 

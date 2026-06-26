@@ -2,23 +2,35 @@
 title: "Totalitarianism"
 type: "concept"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-19"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Animal Farm.md"
+  - "wiki/concepts/Propaganda.md"
+  - "wiki/books/How To Read a Book.md"
 tags: []
 aliases:
   - "Totalitarianism"
 related:
   - "[[Animal Farm]]"
+  - "[[Propaganda]]"
+  - "[[George Orwell]]"
+  - "[[1984]]"
+  - "[[Brave New World]]"
 ---
 
 # Totalitarianism
 
-_Stub — flagged during the 2026-06-19 connection sweep as an entity referenced across the wiki without its own page. Central theme of the highlights (Party power, the pigs assuming leadership, ruling and deceiving the masses); no page exists_
+Totalitarianism is the recurring subject of the dystopia cluster in Kyle's library — most directly in [Animal Farm](/books/animal-farm) (an edition whose highlights draw heavily on [1984](/books/1984)). The grounded machinery there is the mechanics of total control: the pigs who "did not actually work, but directed and supervised the others" and assumed leadership by "superior knowledge"; the Party that could "thrust its hand into the past" and say an event never happened; the slogan *"Who controls the past controls the future: who controls the present controls the past."* [George Orwell](/notes/george-orwell)'s argument, as the wiki frames it, is that revolutions devolve into the tyranny they overthrew, and that the Party seeks power not for the good of the majority but because "no one ever seizes power with the intention of relinquishing it."
+
+The thread connects outward to [Propaganda](/notes/propaganda) — Squealer's revisionism and the Party slogans as instruments of control — and to the broader idea that fiction can attack totalitarianism more powerfully than fact. [How To Read a Book](/books/how-to-read-a-book) preserves Adler's version of this: *"George Orwell's Animal Farm and his 1984 are both powerful attacks on totalitarianism. Aldous Huxley's Brave New World is an eloquent diatribe against the tyranny of technological progress."* Kyle's notes thus treat totalitarianism less as a political-science category than as the failure mode that the dystopia cluster ([Animal Farm](/books/animal-farm), [1984](/books/1984), [Brave New World](/books/brave-new-world)) reads as preventive medicine against.
+
+**Context:** Totalitarianism is a system of government that demands total subordination of the individual to the state, concentrating power in a single party or ruler and using propaganda, surveillance, and terror to control nearly all aspects of public and private life — the twentieth-century reference cases being Nazi Germany and the Stalinist Soviet Union, the latter the direct target of Orwell's *Animal Farm*.
 
 ## Where this appears
 
-- [Animal Farm](/books/animal-farm)
+- [Animal Farm](/books/animal-farm) — the Party/pigs power machinery, control of the past, and ruling-and-deceiving-the-masses thread
+- [Propaganda](/notes/propaganda) — Squealer's revisionism and Party slogans as instruments of totalitarian control
+- [How To Read a Book](/books/how-to-read-a-book) — Adler citing Orwell and Huxley as fiction that attacks totalitarianism more powerfully than factual studies

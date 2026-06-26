@@ -9,7 +9,7 @@ url: "https://www.ai-cio.com/news/almost-14-billion-pulled-calpers-equity-manage
 source_published: "2019      # year approximate — Ben Meng was CIO from Jan 2019; exact article date <TODO from source>"
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — March 30th, 2022 (Contrary Capital sourcing/diligence log): ~/Downloads/March 30th, 2022.md"
@@ -35,7 +35,7 @@ related:
 
 **Author:** Chief Investment Officer (ai-CIO)
 **URL:** https://www.ai-cio.com/news/almost-14-billion-pulled-calpers-equity-managers/
-**One-line:** *CalPERS terminated most of its external equity managers on long-term-underperformance grounds, reallocating to internal index strategies.*
+**One-line:** *[CalPERS](/notes/calpers) terminated most of its external equity managers on long-term-underperformance grounds, reallocating to internal index strategies.*
 
 ## Key Highlights
 

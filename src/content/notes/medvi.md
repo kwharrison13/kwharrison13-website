@@ -35,7 +35,7 @@ related:
 - Operating in a grey area, if not outright illegal: 800+ fake/fabricated doctor profiles (e.g. "Dr. Tuckr Carlzyn") with stock photos; **FDA Warning Letter #721455** (Feb 2026) for false/misleading misbranding claims; AI-generated deepfake before/after photos; a Delaware class-action (Nov 2025). See [Fraud](/notes/fraud). (source: The $1B Rorschach Test - Research)
 - Its clinician-network partner [OpenLoop Health](/notes/openloop-health) suffered a **data breach in Jan 2026 exposing 1.6M patient records**. (source: The $1B Rorschach Test - Research)
 - No meaningful clinical guardrails — testers got approved with absurd inputs (birthdate Feb 31; 7'11"/350lb told 94% chance of hitting goal; "wanted to be 60 lbs," approved). (source: The $1B Rorschach Test - Research)
-- Durability is questionable: thin/competed-away margins, high [CAC](/notes/cac) in a commoditized market, heavy churn, looming lawsuit costs — "a billion dollars of *what*?" (source: The $1B Rorschach Test - Research)
+- Durability is questionable: thin/competed-away margins, high [CAC](/notes/customer-acquisition-cost) in a commoditized market, heavy churn, looming lawsuit costs — "a billion dollars of *what*?" (source: The $1B Rorschach Test - Research)
 
 ## Mentioned in
 

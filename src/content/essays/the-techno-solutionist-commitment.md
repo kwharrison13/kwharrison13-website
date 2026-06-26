@@ -17,15 +17,15 @@ substack_url: "https://investing101.substack.com/p/the-techno-solutionist-commit
 
 ![The Techno-Solutionist Commitment](/images/the-techno-solutionist-commitment-6d45b694.png)
 
-On the Apollo 13 mission, an onboard explosion and mechanical failures meant that the ship's CO2 filter was malfunctioning and could have killed the astronauts. In [the movie](https://www.imdb.com/title/tt0112384/), there is a scene where a team at NASA dumps boxes of random items that represent everything the astronauts have onboard, saying "we need to find a way to make this round filter fit in this square hole."
+On the [[Apollo Program|Apollo 13]] mission, an onboard explosion and mechanical failures meant that the ship's CO2 filter was malfunctioning and could have killed the astronauts. In [the movie](https://www.imdb.com/title/tt0112384/), there is a scene where a team at NASA dumps boxes of random items that represent everything the astronauts have onboard, saying "we need to find a way to make this round filter fit in this square hole."
 
 I would describe this moment as quintessential techno-solutionism. So much conversation revolves around two extremes of a philosophical spectrum: techno-optimists and doomers. But **technology is, at its core, about solving problems. In fact, I would argue that just about every aspect of life is about solving problems**.
 
 Doctors solve sickness problems. Artists solve soul problems. Accountants solve tax problems. Therapists solve mind problems. Garbage folks solve *checks notes* garbage problems.
 
-I only came across the techno-solutionist moniker this week, thanks to [Alec Stapp](https://x.com/AlecStapp/status/2037204807165899209?s=20), but he got it from a [2021 piece](https://www.technologyreview.com/2021/07/13/1028295/proud-solutionist-history-technology-industry/) by Jason Crawford, who laid out the history of the concept back to at least the 1960s.
+I only came across the techno-solutionist moniker this week, thanks to [Alec Stapp](https://x.com/AlecStapp/status/2037204807165899209?s=20), but he got it from a [2021 piece](https://www.technologyreview.com/2021/07/13/1028295/proud-solutionist-history-technology-industry/) by [[Jason Crawford]], who laid out the history of the concept back to at least the 1960s.
 
-He describes the contrast between the defeatist pessimism of the late Paul Ehrlich on one hand, who wrote *The Population Bomb*, and declared the fight to feed humanity as "over." We'd lost, he said. And then Norman Borlaug on the other, who developed high-yield varieties of wheat that dramatically pushed forward that same fight to feed humanity. **Pessimistic about the problem, but not complacent, and optimistic about finding a solution.** Jason describes a solutionist this way:
+He describes the contrast between the defeatist pessimism of the late Paul Ehrlich on one hand, who wrote *The Population Bomb*, and declared the fight to feed humanity as "over." We'd lost, he said. And then [[Norman Borlaug]] on the other, who developed high-yield varieties of wheat that dramatically pushed forward that same fight to feed humanity. **Pessimistic about the problem, but not complacent, and optimistic about finding a solution.** Jason describes a solutionist this way:
 
 > "Solutionists may seem like optimists because solutionism is fundamentally positive. It advocates vigorously advancing against problems, neither retreating nor surrendering. But it is as far from a Panglossian, "all is for the best" optimism as it is from a fatalistic, doomsday pessimism. **It is a third way that avoids both complacency and defeatism, and we should wear the term with pride**."
 
@@ -41,7 +41,7 @@ My immediate response was to reject the premise. And, in fact, her assumption th
 
 But my fear is that my criticism of venture comes from a place of understanding that the average reader may not have. And frequently I have found that I may feel like I'm saying "this is broken, lets fix it!" and the response I get is, "yeah, it's broken! Lets burn it to the ground!"
 
-I was reminded of a quote I've [referenced before](https://investing101.substack.com/p/the-art-and-science-of-investing?utm_source=publication-search) from Walter Isaacson's biography of [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150) about understanding the rules before you break them:
+I was reminded of a quote I've [referenced before](https://investing101.substack.com/p/the-art-and-science-of-investing?utm_source=publication-search) from [[Walter Isaacson]]'s biography of [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150) about understanding the rules before you break them:
 
 > *"The Last Supper is a mix of scientific perspective and theatrical license, of intellect and fantasy, worthy of Leonardo. His study of perspective science had not made him rigid or academic as a painter. Instead, it was complemented by the cleverness and ingenuity he had picked up as a stage impresario. **Once he knew the rules, he became a master at fudging and distorting them**."*
 
@@ -51,7 +51,7 @@ But when this person's conclusion was "you can't do good if you raise venture ca
 
 ## A Defense For Capitalism
 
-First, I am abundantly and unequivocally a capitalist. I believe capitalism and market forces have done more to improve the global quality of life than anything, other than the ministry of Jesus Christ.
+First, I am abundantly and unequivocally a capitalist. I believe [[Capitalism|capitalism]] and market forces have done more to improve the global quality of life than anything, other than the ministry of [[Jesus|Jesus Christ]].
 
 There was a series of tweets this week, the first [saying](https://x.com/Heccles94/status/2036894059323613273) "capitalism creates poverty," and then a retweet doubling down and [saying](https://x.com/BenjaminPDixon/status/2037152454320525357), "capitalism *requires* poverty." The replies had dozens of responses demonstrating just how untrue those statements are.
 
@@ -73,11 +73,11 @@ I won't rehash everything wrong with venture capital because this blog represent
 
 In addition, there are countless instances where venture capital has been deployed in pursuit of innovations that make the world a worse place. That is also true. A few weeks ago, I [broke down](https://investing101.substack.com/p/hijacking-the-hucksters-hypebook) where the $3 trillion of venture capital over the last 20 years has gone:
 
-* **Big Wins**: The mystical power law 20%; maybe ~$600B went into Google, Facebook, Uber, Airbnb, Stripe, etc.
+* **Big Wins**: The mystical power law 20%; maybe ~$600B went into [[Alphabet|Google]], [[Facebook]], [[Uber]], Airbnb, [[Stripe]], etc.
 
 * **Modest Returns**: The 1-3x returns that make up ~15%; ~$450B that didn't return entire funds for investors, but didn't lose money.
 
-* **Productive Failure**: The ~25% of failures that make up a bedrock of what [I've written about before](https://investing101.substack.com/p/dr-tokens-or-how-i-learned-to-stop) as Silicon Valley's accelerated failure archive; a "density of documented, autopsied, learned-from failures." That's like $750B of the total.
+* **Productive Failure**: The ~25% of failures that make up a bedrock of what [I've written about before](https://investing101.substack.com/p/dr-tokens-or-how-i-learned-to-stop) as [[Silicon Valley]]'s accelerated failure archive; a "density of documented, autopsied, learned-from failures." That's like $750B of the total.
 
 * **Ineffectual Waste**: This is a ~27% cut that starts to get into our playbook; the $800B that went to the 47th food delivery app, the 18th D2C mattress brand. This category exploded during ZIRP and took a lot of capital with it.
 
@@ -95,7 +95,7 @@ My goal in writing this blog is the hope that we can increasingly push towards h
 
 A critical component of Solutionism is constructive criticism. The danger of default optimism is that it doesn't open itself up to the truth behind criticism. But the danger of default pessimism is that it represents an existential threat to the thing you're trying to solve.
 
-If you're saying "I don't want venture capital to exist" then no one in the venture capital apparatus has any interest in your criticism. The same is true if Democrats or Republicans think the opposing party should be wiped out. Or if atheists think Christianity should be outlawed. **Constructive criticism can** ***only*** **come from a place of love; anything else is an existential risk and will be treated as such.**
+If you're saying "I don't want venture capital to exist" then no one in the venture capital apparatus has any interest in your criticism. The same is true if Democrats or Republicans think the opposing party should be wiped out. Or if atheists think [[Christianity]] should be outlawed. **Constructive criticism can** ***only*** **come from a place of love; anything else is an existential risk and will be treated as such.**
 
 The problem is that people get addicted to criticism. They *love* fault-finding, especially with large organizations or amorphous industries. It can feel like a unifying force of any in-group; to identify your villains, and rage against the machine in an endless stream of displeasure and disappointment.
 
@@ -113,7 +113,7 @@ Leaders of the Church are the first to emphasize that "while the Gospel is perfe
 
 > *"**Except in the case of His only perfect Begotten Son, imperfect people are all God has ever had to work with. That must be terribly frustrating to Him, but He deals with it**. So should we. And when you see imperfection, remember that the limitation is not in the divinity of the work."*
 
-As a result of that human imperfection, there are certainly ways that the organization and administration of the Church could improve. But so many of the critics of the Church do not come from a place of constructive criticism. They represent Destructive Criticism; they do not think the Church of Jesus Christ of Latter-Day Saints should be allowed to exist. As a result, we are not interested in their criticism.
+As a result of that human imperfection, there are certainly ways that the organization and administration of the Church could improve. But so many of the critics of the Church do not come from a place of constructive criticism. They represent Destructive Criticism; they do not think the [[The Church of Jesus Christ of Latter-day Saints|Church of Jesus Christ of Latter-Day Saints]] should be allowed to exist. As a result, we are not interested in their criticism.
 
 Meanwhile, there are dozens of people working within the faith to understand aspects of our history, our doctrine, our culture, and to inform and instruct and cajole in a better direction. **That kind of constructive criticism is the only path towards any real viable solutions.**
 

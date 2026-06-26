@@ -31,7 +31,7 @@ related:
 
 ## Connections
 
-- Craig Harline — author; BYU historian
+- [Craig Harline](/notes/craig-harline) — author; BYU historian
 - [Future Mormon](/books/future-mormon) — where Kyle saw it cited
 - [The Next Mormons](/books/the-next-mormons) — also quotes Harline's memoir
 - [Adam S. Miller](/notes/adam-s-miller) — cited the "just be yourself" passage

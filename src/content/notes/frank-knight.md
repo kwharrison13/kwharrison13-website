@@ -2,14 +2,16 @@
 title: "Frank Knight"
 type: "person"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/What Is An Investor - Research.md"
 tags:
   - "investing"
+  - "economics"
+  - "uncertainty"
 aliases:
   - "Frank Knight"
   - "Frank H. Knight"
@@ -18,28 +20,20 @@ related:
   - "[[What Is An Investor - Research]]"
   - "[[What Is An Investor]]"
   - "[[Noah Smith]]"
+  - "[[Venture Capital]]"
 ---
 
 # Frank Knight
 
-**One-line:** *1920s University of Chicago economist who drew the foundational distinction between measurable "risk" and unmeasurable "uncertainty" — the idea Kyle borrows (via [Noah Smith](/notes/noah-smith)) to explain outsized venture returns.*
+The 1920s economist whose distinction between **risk** and **uncertainty** is the engine behind Kyle's [Knightian Uncertainty](/notes/knightian-uncertainty) concept and a section of his essay [What Is An Investor](/essays/what-is-an-investor) (per What Is An Investor - Research). In Knight's formulation, "risk" is a quantity susceptible of measurement — something you can insure, diversify, and price — while true "uncertainty" is radically distinct: a blue-water unknown where the odds of success aren't even known. Knight hypothesized that truly outsized business profits come from taking on *true uncertainty*: if the probability of success is known, gamblers flood the space willing to roll the dice, but if it's genuinely unknown, "only a few bold adventurers will stake their life's work and their fortunes."
 
-_Stub page — created from What Is An Investor - Research. Expand on a future pass._
+Kyle reaches Knight through [Noah Smith](/notes/noah-smith), who applies the distinction to venture in "Will VC produce fewer home runs in the future?" The application: as the VC/startup ecosystem becomes standardized and data-rich (Smith's 1975-vs-2015 contrast), uncertainty collapses into priceable risk, capital floods in, competition rises, and the odds of giant first-mover, network-effect outcomes fall — which is why the next $100B venture-backed company has gotten scarce. This is the [Knightian Uncertainty](/notes/knightian-uncertainty) thread that runs through Kyle's [Venture Capital](/notes/venture-capital) writing.
 
-## What we know
-
-- In the 1920s, defined the distinction between risk (a measurable quantity) and [uncertainty](/notes/knightian-uncertainty) (radically unmeasurable). (source: What Is An Investor - Research)
-- [Hypothesized](https://news.mit.edu/2010/explained-knightian-0602) that truly outsized business profits come from taking on *true uncertainty* — where gamblers won't gamble and only a few bold adventurers will stake their fortunes.
-- See [Knightian Uncertainty](/notes/knightian-uncertainty).
-
-## Connections
-
-- [Knightian Uncertainty](/notes/knightian-uncertainty) — the named concept derived from Knight's risk/uncertainty distinction.
-- [Noah Smith](/notes/noah-smith) — the conduit through which Kyle borrows Knight's distinction to explain outsized venture returns.
-- What Is An Investor - Research — the research note where Knight's framework is invoked.
-- [What Is An Investor](/essays/what-is-an-investor) — the essay that applies the risk/uncertainty distinction to investing.
+**Context:** Frank H. Knight (1885–1972) was a University of Chicago economist and a founder of the Chicago school; his 1921 book *Risk, Uncertainty and Profit* introduced the risk-vs-uncertainty distinction now called "Knightian uncertainty."
 
 ## Where this appears
 
-- What Is An Investor - Research
-- [What Is An Investor](/essays/what-is-an-investor)
+- What Is An Investor - Research — the verbatim Knight quotes and Smith's application to declining venture returns.
+- [Knightian Uncertainty](/notes/knightian-uncertainty) — the named concept derived from Knight's risk/uncertainty distinction.
+- [What Is An Investor](/essays/what-is-an-investor) — applies the distinction in "The Venture Capital Success Equation" section.
+- [Noah Smith](/notes/noah-smith) — the conduit who restates Knight's thesis for venture.

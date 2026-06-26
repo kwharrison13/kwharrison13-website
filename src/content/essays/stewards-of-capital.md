@@ -28,7 +28,7 @@ Based on my exhaustive study of the literary significance of this story (aka ski
 
 > *"French sociologist Jean-Claude Passeron saw the scorpion as a metaphor for Machiavellian politicians who **delude themselves by their unconscious tendency to rationalize their ill-conceived plans, and thereby lead themselves and their followers to ruin**."*
 
-[One idea](https://kwharrison13.com/portfolio-ideas) I often return to is a debate on human nature; one that I came across most acutely when [comparing the thinking](https://lawliberty.org/the-divide-between-jefferson-and-adams-on-human-nature-is-ours-too/) of John Adams vs. Thomas Jefferson. There's a lot of meat on the idea so I'll just summarize it.
+[One idea](https://kwharrison13.com/portfolio-ideas) I often return to is a debate on human nature; one that I came across most acutely when [comparing the thinking](https://lawliberty.org/the-divide-between-jefferson-and-adams-on-human-nature-is-ours-too/) of John Adams vs. [[Thomas Jefferson]]. There's a lot of meat on the idea so I'll just summarize it.
 
 On the one hand, people will act in their own self-interest and should be left free to do what they want, giving unfettered power to the people (Jefferson). On the other hand, people are riddled with inadequacies and easily swayed by misaligned incentives. They need guard rails, guidance, and systems to ensure people are protected from each other and themselves (Adams).
 
@@ -36,13 +36,13 @@ The world of company building is no different. On the one hand, founders can be 
 
 # Some Context
 
-In case you missed it, here's some relevant news to provide context for this week’s discussion. This week, John Foley, the founder and former CEO of Peloton, [announced](https://www.businessinsider.com/peloton-ex-ceo-john-foley-pivots-from-selling-bikes-to-custom-rugs-2022-11) a new company called Earnesta with a $25M Series A from Addition and True Ventures. The launch of his new D2C custom rug company comes after a pretty embattled few years running Peloton. Foley stepped down as CEO in February 2022 after seeing [87%](https://www.bloomberg.com/news/articles/2022-09-13/john-foley-s-peloton-exit-marks-end-with-company-that-made-him-billionaire?leadSource=uverify%20wall) of his net worth wiped out. As of June 2022, the company was burning $2B in cash a year to generate $3.5B of revenue (a 10% YoY decline).
+In case you missed it, here's some relevant news to provide context for this week’s discussion. This week, John Foley, the founder and former CEO of [[Peloton]], [announced](https://www.businessinsider.com/peloton-ex-ceo-john-foley-pivots-from-selling-bikes-to-custom-rugs-2022-11) a new company called Earnesta with a $25M Series A from Addition and True Ventures. The launch of his new D2C custom rug company comes after a pretty embattled few years running Peloton. Foley stepped down as CEO in February 2022 after seeing [87%](https://www.bloomberg.com/news/articles/2022-09-13/john-foley-s-peloton-exit-marks-end-with-company-that-made-him-billionaire?leadSource=uverify%20wall) of his net worth wiped out. As of June 2022, the company was burning $2B in cash a year to generate $3.5B of revenue (a 10% YoY decline).
 
 Full disclosure, I was working at TCV in 2018 when they led Peloton's [Series F](https://www.crunchbase.com/funding_round/peloton-interactive-series-f--6d648695) at a $3.5B valuation. Today? Peloton's market cap is $3.3B. I'll share thoughts on Foley's new business, and some of my thinking around these kinds of Second Acts in general.
 
 But first? I want to talk about the idea of stewardship.
 
-# What's In A Stewardship?
+# What's In A [[Stewardship]]?
 
 Capital allocation is a game of trust. First, there is capital creation. The people who actually own the money. Not on behalf of others, but they themselves generate capital. That can be as simple as a public school teacher earning their pension. Or as massive as someone [bootstrapping a company](https://www.bloomberg.com/news/articles/2021-05-31/cinven-said-to-near-deal-for-german-software-maker-think-cell) to $88M in revenue and $80M in profit. That's capital creation.
 
@@ -54,7 +54,7 @@ Some pushback to that idea is that each participant understands the risk. [90%](
 
 # The Sine Waves of Stewardship
 
-## WeWork
+## [[WeWork]]
 
 [I've written before](https://investing1012dot0.substack.com/p/the-rise-of-the-cash-man) about a dramatic sine wave example of capital destruction and second chances. In case you missed the WeWork drama, here's a quick summary:
 
@@ -90,7 +90,7 @@ Remember with WeWork that they raised ~$12B in equity and $9B in debt, and have 
 
 Now, let's look at Peloton. From 2012 to their IPO in 2019, Peloton raised $1.1B in equity. Since IPO, they've issued $2.6B in additional equity and raised ~$1.7B in debt. Total capital raised? ~$5.4B by June 2022. They have $1.3B in cash on the balance sheet, so that's total capital used of $4.1B. Their revenue? $3.6B. That's a cash conversion score of 0.87x. Not nearly as bad as WeWork. Worse if you only count their recurring revenue of [~$1.4B](https://www.statista.com/statistics/1203061/peloton-subscription-revenue/#:~:text=Peloton%20saw%20its%20global%20subscription,billion%20U.S.%20dollars%20in%202022.). Then their cash conversion drops to 0.34x.
 
-Peloton, WeWork, Uber, Beyond Meat. These are real businesses with real products. But their dramatic excess in terms of burn has led to quite a bit of capital destruction. Shouldn't there be some kind of reckoning when so much capital is created (other than [$500M](https://www.dailymail.co.uk/news/article-11307363/Peloton-founder-John-Foley-executives-hired-500m-insider-share-sales-suit-claims.html) of cash from insider stock sales)?
+Peloton, WeWork, [[Uber]], Beyond Meat. These are real businesses with real products. But their dramatic excess in terms of burn has led to quite a bit of capital destruction. Shouldn't there be some kind of reckoning when so much capital is created (other than [$500M](https://www.dailymail.co.uk/news/article-11307363/Peloton-founder-John-Foley-executives-hired-500m-insider-share-sales-suit-claims.html) of cash from insider stock sales)?
 
 Let's talk about John Foley's "Second Act."
 
@@ -130,7 +130,7 @@ The market is estimated at ~100M rugs sold in the US each year, representing a $
 
 If Addition wanted to see a 10x on that investment, that's $1B valuation (assuming no additional dilution, which is pretty unlikely.) The median software multiple is at [~4.5x revenue](https://cloudedjudgement.substack.com/p/bonus-clouded-judgement-11422-end), though if we've learned anything from 2022 it’s that we've got to stop treating non-software companies like software companies. But even at that multiple, Earnesta would have to generate $220M+ in revenue.
 
-When you look at retailers like Wayfair, Home Depot, West Elm (owned by Wiliams Sonoma), and Amazon (who are some of the largest sellers of rugs), those companies trade at ~0.5x - 2x revenue. Which means Earnesta would have to generate $500M - $2B of sales to generate that 10x return on their Series A.
+When you look at retailers like Wayfair, [[Home Depot]], West Elm (owned by Wiliams Sonoma), and [[Amazon]] (who are some of the largest sellers of rugs), those companies trade at ~0.5x - 2x revenue. Which means Earnesta would have to generate $500M - $2B of sales to generate that 10x return on their Series A.
 
 If the market does grow to that ~$25B mark by 2030, you're looking at needing a 2-8% market share. Massive flooring behemoths like Mohawk Industries (mostly focused on tile, not rugs) can generate $11B of revenue, and still only have [~2% global market share](https://ir.mohawkind.com/static-files/d127f0c4-5399-48e8-b771-6cf60e3997b5).
 
@@ -142,7 +142,7 @@ The bigger question is whether someone who spent billions in investor capital, r
 
 The biggest pushback to this is the reality that its pretty hard to build a $1B+ revenue business. And that's true. But when your business model is selling $1 for $0.50 in revenue, that's not as hard to scale as you might expect.
 
-# What Does This Mean For Venture Capital?
+# What Does This Mean For [[Venture Capital]]?
 
 Every investor, as a steward of capital, is responsible for where they put their dollars. For me? I'm not a huge fan of giving people more capital after they've demonstrated a real skill at lighting that money on fire.
 

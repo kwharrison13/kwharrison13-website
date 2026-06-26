@@ -6,7 +6,7 @@ rating: 4
 quake: false
 tags:
   - "company-building"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
@@ -23,7 +23,7 @@ Stone's earlier Amazon book — the prequel to [Amazon Unbound](/books/amazon-un
 
 4. **Pricing is a marketing strategy.** Tagged twice. Amazon's contrarian pricing didn't just attract customers — it positioned the brand. The pricing-IS-the-message framing.
 
-5. **"Day 1" / "Remain scared".** Bezos's recurring discipline. The institutional no vs. institutional yes — both are dangerous in different ways. Mainstream/majority/short-term/lack of vision is the failure mode; "the institutional no" is its symptom.
+5. **"[Day 1](/notes/day-1)" / "Remain scared".** Bezos's recurring discipline. The institutional no vs. institutional yes — both are dangerous in different ways. Mainstream/majority/short-term/lack of vision is the failure mode; "the institutional no" is its symptom.
 
 6. **Building primitives, not products.** "From Day One they identified the primitives that made up the most important components people would need." Decentralized infrastructure is more important than the products it enables — the AWS framing applied to operating philosophy generally.
 
@@ -52,7 +52,7 @@ The thesis the notes circle: Amazon is the cleanest available case study for wha
 - [Jeff Bezos](/notes/jeff-bezos) — Amazon's founder and the book's subject; customer obsession, "Day 1"/"remain scared," the regret-minimization framework, decentralization, and the six-page narrative all trace to him.
 - [Sam Walton](/notes/sam-walton) — Bezos underlined Walton's passage on borrowing competitors' best ideas; "every company in retail stands on the shoulders of giants."
 - [Clayton Christensen](/notes/clayton-christensen) — author of The Innovator's Dilemma; framework Bezos used to justify cannibalizing the print business with the Kindle.
-- [Nassim Nicholas Taleb](/notes/nassim-nicholas-taleb) — narrative-fallacy source; The Black Swan as required Amazon reading.
+- [Nassim Nicholas Taleb](/notes/nassim-taleb) — narrative-fallacy source; The Black Swan as required Amazon reading.
 - [Steve Jobs](/notes/steve-jobs) — recurring foil; Bezos studied Apple's control of the music business to model the Kindle, and avoided "Steve Jobs's mistake" of fat iPhone margins inviting competition.
 - [Walt Disney](/notes/walt-disney) — listed with Ford and Jobs as an entrepreneur turning imagination into physical reality.
 - [Charlie Munger](/notes/charlie-munger) / [Warren Buffett](/notes/warren-buffett) — operating-philosophy templates paired with Bezos throughout the notes.
@@ -81,15 +81,15 @@ The thesis the notes circle: Amazon is the cleanest available case study for wha
   > **Kyle:** *How will you measure your life? - you have to want the consequences of what you want.*
 - the Vanguard program, which stoked creativity and independence in its students and nurtured expansive, outside-the-box thinking. <!--rwid:rwid-c2b3551f8075-->
 - Julie Ray wrote in her book Turning On Bright Minds: A Parent Looks at Gifted Education in Texas, <!--rwid:rwid-fa17b946dc77-->
-- “To me Amazon is a story of a brilliant founder who personally drove the vision,” says Eric Schmidt, <!--rwid:rwid-8b0c32bf4361-->
+- “To me Amazon is a story of a brilliant founder who personally drove the vision,” says [Eric Schmidt](/notes/eric-schmidt), <!--rwid:rwid-8b0c32bf4361-->
 - With his consistent proclamations that he is building his company for the long term, Jeff Bezos has earned so much faith from his shareholders that investors are willing to patiently wait for the day when he decides to slow his expansion and cultivate healthy profits. <!--rwid:rwid-012d503be3bf-->
 - Bezos is a micromanager with a limitless spring of new ideas, and he reacts harshly to efforts that don’t meet his rigorous standards. <!--rwid:rwid-d685c9ef316b-->
 - Bezos is an excruciatingly prudent communicator for his own company. <!--rwid:rwid-8b3a73af3063-->
-- John Doerr, the venture capitalist who backed Amazon early and was on its board of directors for a decade, has dubbed Amazon’s miserly public-relations style “the Bezos Theory of Communicating.” He says Bezos takes a red pen to press releases, product descriptions, speeches, and shareholder letters, crossing out anything that does not speak simply and positively to customers. <!--rwid:rwid-5a9e1394793d-->
+- [John Doerr](/notes/john-doerr), the venture capitalist who backed Amazon early and was on its board of directors for a decade, has dubbed Amazon’s miserly public-relations style “the Bezos Theory of Communicating.” He says Bezos takes a red pen to press releases, product descriptions, speeches, and shareholder letters, crossing out anything that does not speak simply and positively to customers. <!--rwid:rwid-5a9e1394793d-->
 - There is so much stuff that has yet to be invented. There’s so much new that’s going to happen. People don’t have any idea yet how impactful the Internet is going to be and that this is still Day 1 in such a big way. Jeff Bezos <!--rwid:rwid-a6ab76a95d6f-->
-- PowerPoint decks or slide presentations are never used in meetings. Instead, employees are required to write six-page narratives laying out their points in prose, because Bezos believes doing so fosters critical thinking. <!--rwid:rwid-39f5e5fc8974-->
+- [PowerPoint](/notes/powerpoint) decks or slide presentations are never used in meetings. Instead, employees are required to write six-page narratives laying out their points in prose, because Bezos believes doing so fosters critical thinking. <!--rwid:rwid-39f5e5fc8974-->
 - He devotes his full attention to the conversation, and, unlike many other CEOs, he never gives you the sense that he is hurried or distracted—but he is highly circumspect about deviating from well-established, very abstract talking points. <!--rwid:rwid-ba87ff89e6ba-->
-  > **Kyle:** *Connect to Truman G. Madsen; ability to look into your soul*
+  > **Kyle:** *Connect to [Truman G. Madsen](/notes/truman-g-madsen); ability to look into your soul*
 - “We are genuinely customer-centric, we are genuinely long-term oriented and we genuinely like to invent. Most companies are not those things. They are focused on the competitor, rather than the customer. They want to work on things that will pay dividends in two or three years, and if they don’t work in two or three years they will move on to something else. And they prefer to be close-followers rather than inventors, because it’s safer. So if you want to capture the truth about Amazon, that is why we are different. Very few companies have all of those three elements.” <!--rwid:rwid-8be6243ce5f8-->
 - The narrative fallacy, Bezos explained, was a term coined by Nassim Nicholas Taleb in his 2007 book The Black Swan to describe how humans are biologically inclined to turn complex realities into soothing but oversimplified stories. Taleb argued that the limitations of the human brain resulted in our species’ tendency to squeeze unrelated facts and events into cause-and-effect equations and then convert them into easily understandable narratives. These stories, Taleb wrote, shield humanity from the true randomness of the world, the chaos of human experience, and, to some extent, the unnerving element of luck that plays into all successes and failures. <!--rwid:rwid-d6ba213c490f-->
 - In Taleb’s book—which, incidentally, all Amazon senior executives had to read—the author stated that the way to avoid the narrative fallacy was to favor experimentation and clinical knowledge over storytelling and memory. <!--rwid:rwid-dc3a9f3870bf-->
@@ -101,7 +101,7 @@ The thesis the notes circle: Amazon is the cleanest available case study for wha
   > **Kyle:** *#[Live the Library](/notes/live-the-library)*
 - Bezos also revered pioneering computer scientist Alan Kay and often quoted his observation that “point of view is worth 80 IQ points”—a reminder that looking at things in new ways can enhance one’s understanding. <!--rwid:rwid-5d70cbf3950e-->
 - “He went to school on everybody,” Minor says. “I don’t think there was anybody Jeff knew that he didn’t walk away from with whatever lessons he could.” <!--rwid:rwid-15d8a9c05901-->
-  > **Kyle:** *Connect to Gordon B. Hinckley story and the Sam Walton story*
+  > **Kyle:** *Connect to [Gordon B. Hinckley](/notes/gordon-b-hinckley) story and the Sam Walton story*
 - He was disciplined and precise, constantly recording ideas in a notebook he carried with him, as if they might float out of his mind if he didn’t jot them down. <!--rwid:rwid-cd3ad5a3c3f3-->
   > **Kyle:** *#[Portfolio Ideas](/notes/portfolio-ideas)*
 - Bezos had first encountered the Internet in an astrophysics class at Princeton in 1985 but hadn’t thought about its commercial potential until arriving at DESCO. Shaw and Bezos would meet for a few hours each week to brainstorm ideas for this coming technological wave, and then Bezos would take those ideas and investigate their feasibility. <!--rwid:rwid-cf457c3fad8f-->

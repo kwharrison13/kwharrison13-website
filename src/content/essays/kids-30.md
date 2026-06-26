@@ -27,7 +27,7 @@ But the more you establish frameworks, whether for investing, building, or livin
 
 In January 2020 I caught up with [Jake Saper](https://www.emcap.com/people/jake-saper/) at Emergence and the advice he gave me has been wildly helpful and contributed to the first three of these frameworks.
 
-The first thing he shared was about recognizing the lily pads in our lives. **What are the experiences that you've jumped to and from? And what have they contributed to who you are?**
+The first thing he shared was about recognizing the [[Lily Pads of Your Career|lily pads]] in our lives. **What are the experiences that you've jumped to and from? And what have they contributed to who you are?**
 
 ![Framework diagram for the lily pads of life](/images/kids-30-4bc8edf9.png)
 
@@ -47,15 +47,15 @@ I thought to myself, "what book would I carry around as the last thing I ever wa
 
 That list can change all the time. The important thing is not *who* is on your list of influences, but that you *have* a list. **That you are living life deliberately enough to have mentors. People to point to that you're actively learning from**.
 
-Since then I've kept track of some of the best examples of "Live the Library" to both refine my list and help evolve my way of thinking about my own library.
+Since then I've kept track of some of the best examples of "[[Live the Library]]" to both refine my list and help evolve my way of thinking about my own library.
 
-> *"Naval is a world-class operator instead of an armchair philosopher. But I don’t [just] take his perspectives, maxims, and thoughts seriously because of the business stuff. **There are lots of miserable “successful” people out there. Be careful about modeling those, as you will get all the bathwater with the baby.**" ([Tim Ferris, The Almanack of Naval Ravikant](https://www.navalmanack.com/))*
+> *"[[Naval Ravikant|Naval]] is a world-class operator instead of an armchair philosopher. But I don’t [just] take his perspectives, maxims, and thoughts seriously because of the business stuff. **There are lots of miserable “successful” people out there. Be careful about modeling those, as you will get all the bathwater with the baby.**" ([Tim Ferris, The Almanack of Naval Ravikant](https://www.navalmanack.com/))*
 
 > *"The fastest way to improve is to learn from others. **Read good books. Talk to people who have done it. Soak up the lessons of the past.** Learn from the experiments history has already run and you can start the race halfway finished." ([James Clear](https://twitter.com/agazdecki/status/1316767521039478786?s=20&t=RDikg87uO7-RqDM3Jncy7w))*
 
 ## What Gives You Energy?
 
-In Walter Isaacson's [biography of Leonardo Da Vinci](https://kwharrison13.com/bookshelf/full-bookshelf/leonardo-da-vinci) he points to a question asked by a lot of experts who have studied Da Vinci's life. "Why didn't Da Vinci finish many of the masterful projects he began? Or talked about? Why did he spend so much time pursuing random projects and hobby interests?"
+In [[Walter Isaacson]]'s [biography of Leonardo Da Vinci](https://kwharrison13.com/bookshelf/full-bookshelf/leonardo-da-vinci) he points to a question asked by a lot of experts who have studied Da Vinci's life. "Why didn't Da Vinci finish many of the masterful projects he began? Or talked about? Why did he spend so much time pursuing random projects and hobby interests?"
 
 > *"If posterity is poorer because of the time Leonardo spent immersed in passions from pageantry to architecture, **it is also true that his life was richer.**" (Walter Isaacson)*
 
@@ -91,7 +91,7 @@ Beyond that the people you work for and with are going to be a ridiculous portio
 
 The final framework here is a much longer-term project. This is what I call my "punch card" for personal life choices. Buffett has this framework for investments:
 
-> *"I could improve your ultimate financial welfare by giving you a ticket with only 20 slots in it—so that you had 20 punches representing all the investments that you got to make in a lifetime. And once you'd punched through the card, you couldn't make any more investments at all. Under those rules, **you'd think really carefully about what you did, and you'd be forced to load up on what you'd really thought about. So you'd do so much better.**" (Warren Buffett)*
+> *"I could improve your ultimate financial welfare by giving you a ticket with only 20 slots in it—so that you had 20 punches representing all the investments that you got to make in a lifetime. And once you'd punched through the card, you couldn't make any more investments at all. Under those rules, **you'd think really carefully about what you did, and you'd be forced to load up on what you'd really thought about. So you'd do so much better.**" ([[Warren Buffett]])*
 
 But instead of only being to make 20 investments, I ask myself "what if I could only make 20 choices? That's 5 every 20 years or so. What were the only 5 decisions that really mattered from ages 0 to 20? Or ages 20 to 40?
 

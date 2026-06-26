@@ -9,7 +9,7 @@ url: "https://a16z.com/2020/04/18/its-time-to-build/"
 source_published: "2020-04-18"
 confidence: "high"
 created: "2026-06-18"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "https://a16z.com/2020/04/18/its-time-to-build/"
@@ -47,8 +47,8 @@ related:
 ## Key Highlights
 
 - **Every Western institution was unprepared for the pandemic despite many prior warnings.** This monumental failure of institutional effectiveness will reverberate for the rest of the decade — and it traces to two failures: a failure of imagination (foresight) and, more importantly, a failure of *action* — "our widespread inability to *build*."
-- The complacency is everywhere, not just in the pandemic: in healthcare, in housing and the physical footprint of cities, in [Education](/notes/education), in manufacturing. "You see it throughout Western life, and specifically throughout American life." #[City Building](/notes/city-building)
-- **Housing:** we can't build enough housing in high-potential cities, so prices skyrocket (San Francisco) and regular people can't move in to take the jobs of the future. We can't build the cities themselves — when *Westworld* wanted to portray the American city of the future, they filmed in Singapore, not Seattle or LA or Austin.
+- The complacency is everywhere, not just in the pandemic: in healthcare, in housing and the physical footprint of cities, in [Education](/notes/education), in [manufacturing](/notes/manufacturing). "You see it throughout Western life, and specifically throughout American life." #[City Building](/notes/city-building)
+- **Housing:** we can't build enough housing in high-potential cities, so prices skyrocket (San Francisco) and regular people can't move in to take the jobs of the future. We can't build the cities themselves — when *Westworld* wanted to portray the American city of the future, they filmed in [Singapore](/notes/singapore), not Seattle or LA or Austin.
 - **Education:** top-end universities teach only a microscopic share of the world's 18-year-olds. The last major K-12 innovation was [Montessori](/notes/montessori) (1960s); we've done 50 years of education research that never reached deployment. We know one-to-one [Tutoring](/notes/tutoring) yields a two-standard-deviation gain (the [Bloom two-sigma effect](/notes/bloom-two-sigma-effect)), and we have the internet — so why haven't we built systems to match every learner with a tutor? #[Synthesis School](/notes/synthesis-school) #Apprenticeship
 - **Manufacturing:** US output is at an all-time high, yet key production is offshored to cheaper labor. We know how to build highly automated factories and the higher-paying jobs they create — so why aren't we building [Elon Musk](/notes/elon-musk)'s "[alien dreadnoughts](/notes/alien-dreadnoughts)," giant state-of-the-art factories across the country? #offshoring
 - **The problem is not money** (we fund endless wars, bank/airline/carmaker bailouts, a $2T rescue package in two weeks), **not capitalism** ([Nicholas Stern](/notes/nicholas-stern): capitalism is how we take care of people we don't know; these fields are already lucrative), and **not technical competence** (we already built the homes, schools, cars, and smartphones we have).

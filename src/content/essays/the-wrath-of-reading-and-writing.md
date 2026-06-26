@@ -11,7 +11,7 @@ substack_url: "https://investing101.substack.com/p/the-wrath-of-reading-and-writ
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/networked-conviction-roam-investing">Networked Conviction: Roam + Investing</a>, <a href="/essays/competitive-moats">Competitive Moats</a>, <a href="/essays/2022-in-books">2022 in Books</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/networked-conviction-roam-investing">Networked Conviction: Roam + Investing</a>, <a href="/essays/competitive-moats">Competitive Moats</a>, <a href="/essays/2022-in-books">2022 in Books</a></span></div>
 </aside>
 <!-- connections-end -->
 
@@ -19,7 +19,7 @@ substack_url: "https://investing101.substack.com/p/the-wrath-of-reading-and-writ
 
 This is not what I wanted to be writing today. Have you heard the phrase, "my eyes were too big for my stomach?" I've felt that a lot lately, only rather than loading up on a hefty plate of food my body could never consume, I instead tackle these concepts that are meaty beyond my capacity to tackle them, whether in time, talent, or energy.
 
-I have these grand ambitions to tackle large and complex topics. This weeks immovable object? Historical Futurism. Now, the good news is I've got quite the outline laid out. But I just couldn't get there this week.
+I have these grand ambitions to tackle large and complex topics. This weeks immovable object? [[Historical Futurism]]. Now, the good news is I've got quite the outline laid out. But I just couldn't get there this week.
 
 ![Illustration from The Wrath of Reading & Writing](/images/the-wrath-of-reading-and-writing-c83a414c.png)
 
@@ -46,22 +46,22 @@ But despite the tools and the obsession with productivity, I find myself constan
 [Back in March 2023 I tried something new](https://investing1012dot0.substack.com/p/competitive-moats) where I would attempt to document "what I was reading." I did it maybe three or four times before giving up. Why? Because the majority of my reading falls into three buckets:
 
 - (1) What I read for my investing work, which is usually deal-related and so I avoid talking about
-- (2) What I read as part of managing Contrary Research, [which you can always read here](https://research.contrary.com/)
+- (2) What I read as part of managing [[Contrary Research]], [which you can always read here](https://research.contrary.com/)
 - (3) What I read so that I can include it in whatever I'm writing about that week
 
 So I read plenty each week. But I feel a hunger for ideas and concepts that I glance, but never conceive. I want to read more, not so I can tally more books on my "[Books I Read](https://investing1012dot0.substack.com/p/2022-in-books)" list at the end of the year. **I want to read more because I can feel categories of limitations in my own understanding.**
 
 I keep coming up with these grand schemes of the schedules I'll set, or the apps I'll use to help me read more. But nothing sticks. So I'm brought back to that fundamental question, "why do I read?"
 
-One of my favorite pieces on reading is actually largely about why reading isn't "all that matters." [Frederik Gieschen](https://twitter.com/NeckarValue) wrote a piece called "[The Reading Obsession](https://neckar.substack.com/p/the-reading-obsession)." In it, he talks about how much investors LOVE to talk about how Warren Buffett just reads all day. The point he makes, instead, is that networking, building friendships, and traveling all played as important a role in Buffett's success as his reading.
+One of my favorite pieces on reading is actually largely about why reading isn't "all that matters." [Frederik Gieschen](https://twitter.com/NeckarValue) wrote a piece called "[The Reading Obsession](https://neckar.substack.com/p/the-reading-obsession)." In it, he talks about how much investors LOVE to talk about how [[Warren Buffett]] just reads all day. The point he makes, instead, is that networking, building friendships, and traveling all played as important a role in Buffett's success as his reading.
 
-But that concept brings me back to why I read, and it has to do with **the foundational relationship reading has with every aspect of a successful life.** Reading enables you to build a "prepared mind." This is a concept that came to my attention reading about Accel in the early days. In particular, they were inspired by a [Louis Pasteur quote](https://www.nhlbi.nih.gov/directors-messages/serendipity-and-the-prepared-mind):
+But that concept brings me back to why I read, and it has to do with **the foundational relationship reading has with every aspect of a successful life.** Reading enables you to build a "prepared mind." This is a concept that came to my attention reading about [[Accel]] in the early days. In particular, they were inspired by a [Louis Pasteur quote](https://www.nhlbi.nih.gov/directors-messages/serendipity-and-the-prepared-mind):
 
 > *“In the fields of observation **chance favors only the prepared mind**.”*
 
-Peter Fenton, at Benchmark, has also [talked a fair bit](https://aletteraday.substack.com/p/letter-47-peter-fenton-and-logan) about having a prepared mind:
+Peter Fenton, at [[Benchmark]], has also [talked a fair bit](https://aletteraday.substack.com/p/letter-47-peter-fenton-and-logan) about having a prepared mind:
 
-> *"**The prepared mind, in a sense, is reacting to a different aspect of where opportunities come from. Preconditions.** If you look at the great things that have happened in venture, there's a set of preconditions, a little bit like adaptation. Like people don't just start with a wing. It wasn't like all the sudden, insects could fly. There were preconditions, there little stubs that came off of amphibians, or fish, of course, we all came from fish, but if they didn't have a little stub, it wouldn't then compound towards the wings, so there's these preconditions. And so having a mobile phone penetration at 20% with GPS as a precondition for Uber, for Instagram."*
+> *"**The prepared mind, in a sense, is reacting to a different aspect of where opportunities come from. Preconditions.** If you look at the great things that have happened in venture, there's a set of preconditions, a little bit like adaptation. Like people don't just start with a wing. It wasn't like all the sudden, insects could fly. There were preconditions, there little stubs that came off of amphibians, or fish, of course, we all came from fish, but if they didn't have a little stub, it wouldn't then compound towards the wings, so there's these preconditions. And so having a mobile phone penetration at 20% with GPS as a precondition for [[Uber]], for [[Instagram]]."*
 
 In order for Buffett to be successful in networking, and traveling, and building relationships, he had to have “preconditions.” Reading gave him a prepared mind that he could take into those interactions. **Reading is the process by which we build a prepared mind.** If you haven't done the work to understand the concepts, you're much less prepared in every conversation you go into.
 
@@ -77,7 +77,7 @@ Though, personally, I'm not ready to give up on my consistency goal. Like an rec
 
 On [my personal website](https://kwharrison13.com/), I have a number of quotes that have struck me as most important to forming my way of thinking about the world and my place in it. But the one that I've kept close in mind since I really started writing towards the end of high school:
 
-*"I write because I don't know what I think until I read what I say." (Flannery O'Connor)*
+*"I write because I don't know what I think until I read what I say." ([[Flannery O'Connor]])*
 
 I've always liked that quote, though when I looked up [the full quote](https://quoteinvestigator.com/2023/01/26/think-read/) it's a bit different: "Like the old lady, I don’t know so well what I think until I see what I say; then I have to say it over again." And funny enough, I like that even more. I feel the same way about writing as I feel about talking.
 

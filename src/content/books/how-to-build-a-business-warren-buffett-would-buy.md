@@ -7,7 +7,7 @@ quake: false
 tags:
   - "capital-allocation"
   - "company-building"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 

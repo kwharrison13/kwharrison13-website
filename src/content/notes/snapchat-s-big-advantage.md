@@ -8,7 +8,7 @@ url: "https://www.perell.com/blog/snapchatsbigadvantage"
 source_published: "2016"
 confidence: "high"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/archive/clippings/Snapchat's Big Advantage.md"
@@ -30,13 +30,13 @@ related:
 
 **Author:** [David Perell](/notes/david-perell)
 **URL:** https://www.perell.com/blog/snapchatsbigadvantage
-**One-line:** *An early-Perell argument that Snapchat's edge isn't a feature but cultural fluency — as photographs shift from memory-keeping to talking, the company that sits at the center of ubiquitous documentation will win on its grasp of society and human psychology.*
+**One-line:** *An early-Perell argument that [Snapchat](/notes/snapchat)'s edge isn't a feature but cultural fluency — as photographs shift from memory-keeping to talking, the company that sits at the center of ubiquitous documentation will win on its grasp of society and human psychology.*
 
 ## Key claims
 
-- **Photographs changed use cases.** Per CEO Evan Spiegel: photos used to explain important memories; with the connected camera, "pictures are being used for talking." Kyle's prompt: what other legacy technology are we now using for a completely different use case?
+- **Photographs changed use cases.** Per CEO [Evan Spiegel](/notes/evan-spiegel): photos used to explain important memories; with the connected camera, "pictures are being used for talking." Kyle's prompt: what other legacy technology are we now using for a completely different use case?
 - **Culture is the real competency.** As technology's impact on society grows, the most successful companies will master "the ever-evolving interplay between technology and culture." The company at the center of **ubiquitous documentation** will leverage a deep awareness of society, culture, and human psychology.
-- **Cultural understanding is the differentiator vs. Silicon Valley.** Snapchat is — and will increasingly be — the primary communication method for digital natives who prize visual, effortless sharing, innovating around its core values: effortless connection, individualized creativity, and ephemerality.
+- **Cultural understanding is the differentiator vs. [Silicon Valley](/notes/silicon-valley).** Snapchat is — and will increasingly be — the primary communication method for digital natives who prize visual, effortless sharing, innovating around its core values: effortless connection, individualized creativity, and ephemerality.
 
 ## Notable quotes
 
@@ -46,9 +46,9 @@ related:
 
 ## Kyle's notes
 
-  > **Kyle:** *Have we closed the chapter on Snap vs. Instagram? Feels like none of those things ended up being sustainable moats.*
+  > **Kyle:** *Have we closed the chapter on [Snap](/notes/snapchat) vs. [Instagram](/notes/instagram)? Feels like none of those things ended up being sustainable moats.*
 
 ## How it connects
 
 - [David Perell](/notes/david-perell) — an early-career consumer-tech read betting on cultural understanding as a durable advantage.
-- Snap / Instagram — the thesis, and Kyle's hindsight skepticism about whether effortlessness/ephemerality were ever real moats.
+- [Snap](/notes/snapchat) / [Instagram](/notes/instagram) — the thesis, and Kyle's hindsight skepticism about whether effortlessness/ephemerality were ever real moats.

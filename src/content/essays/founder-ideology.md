@@ -19,7 +19,7 @@ substack_url: "https://investing101.substack.com/p/founder-ideology"
 
 ---
 
-One of the threads of Silicon Valley lore is this idea of founder ideology. Supposedly, it [originates](https://www.svpg.com/missionaries-vs-mercenaries/) with John Doerr: “we need teams of missionaries, not teams of mercenaries.” A friend of mine asked me recently if I saw common archetypes in the founders I interact with. Given the aforementioned lore, my default thought was this idea of missionaries and mercenaries. But it felt worth unpacking the fringes of the types of ideologies I’ve seen founders espouse.
+One of the threads of [[Silicon Valley]] lore is this idea of founder ideology. Supposedly, it [originates](https://www.svpg.com/missionaries-vs-mercenaries/) with [[John Doerr]]: “we need teams of missionaries, not teams of mercenaries.” A friend of mine asked me recently if I saw common archetypes in the founders I interact with. Given the aforementioned lore, my default thought was this idea of missionaries and mercenaries. But it felt worth unpacking the fringes of the types of ideologies I’ve seen founders espouse.
 
 # The Types
 
@@ -31,7 +31,7 @@ But even within that idolized status of missionary, there are two critical disti
 
 ### Believer
 
-*Examples: Patrick Collison, Brian Chesky, Stewart Butterfield*
+*Examples: [[Patrick Collison]], [[Brian Chesky]], Stewart Butterfield*
 
 First, there are the typical “Believers.” People who see an opportunity and pursue it.
 
@@ -43,13 +43,13 @@ These aren’t necessarily dogmatic missions. **They’re effective founder-led 
 
 ### Ideological Purists
 
-*Examples: Palmer Luckey, Alex Karp, Vitalik Buterin, Brian Armstrong)*
+*Examples: [[Palmer Luckey]], [[Alex Karp]], [[Vitalik Buterin]], Brian Armstrong)*
 
 A deeper manifestation of a believer missionary is an ideological purist. People who are committed whole-heartedly to what they’re doing, not because it makes sense but because its the *only* thing that makes sense. **Their companies are more than representations of a business model. They’re a representation of world views.**
 
 Because of the world-view inherent in the way these companies operate, they often result in cult followings as well. People who buy into that world-view see the companies as borderline religions. Ways to cheer on that organization’s attempt to actualize that worldview. I wrote about this in [Cultivating Cults](https://investing101.substack.com/p/cultivating-cults?utm_source=publication-search).
 
-One caveat. I went back and forth about whether Elon Musk should be in this bucket because he is most certainly an ideological purist when it comes to his beliefs about things like being an interplanetary species. But so much of what he does has what feels like a “professional” playbook that I actually think he’s a solid example of a successful rendition of our next bucket: a professional founder.
+One caveat. I went back and forth about whether [[Elon Musk]] should be in this bucket because he is most certainly an ideological purist when it comes to his beliefs about things like being an interplanetary species. But so much of what he does has what feels like a “professional” playbook that I actually think he’s a solid example of a successful rendition of our next bucket: a professional founder.
 
 ## Mercenary
 
@@ -65,19 +65,19 @@ However, the means by which different types of mercenaries engage in their journ
 
 ### Professional Founder
 
-*Examples: Eric Schmidt, Elon Musk, Sam Altman*
+*Examples: [[Eric Schmidt]], Elon Musk, [[Sam Altman]]*
 
 In my deeply studied, and data-driven ramshackle guess at a framework, I see a professional founder as someone who, more often than not, buys a vision rather than builds it. From that buy-in, they are then typically relentless executors.
 
-Eric Schmidt didn’t birth Google but was critical when he was bought in. Elon didn’t birth Tesla but it would be a distant memory if it wasn’t for his buy in. Sama wasn’t an AI researcher. He bought into an opportunity and then worked to make it happen.
+Eric Schmidt didn’t birth [[Alphabet|Google]] but was critical when he was bought in. Elon didn’t birth [[Tesla]] but it would be a distant memory if it wasn’t for his buy in. Sama wasn’t an AI researcher. He bought into an opportunity and then worked to make it happen.
 
-Professional founders are also not always “later founders.” I would argue Jeff Bezos is also a professional founder. He heard a stat about the internet growing and knew he had to get in on it. It wasn’t an undeniable vision around the transportability of books that drove him.
+Professional founders are also not always “later founders.” I would argue [[Jeff Bezos]] is also a professional founder. He heard a stat about the internet growing and knew he had to get in on it. It wasn’t an undeniable vision around the transportability of books that drove him.
 
-And again, Elon Musk carries a LOT of the characteristics of an ideological purist. And I’ll get to how these ideological bents are not necessarily fixed. But when I think about Elon Musk, the opportunistic problem-solving strikes me more as a professional founder. He hates LA traffic? He builds The Boring Company and gives it to someone else to run. He’s mad at OpenAI for succeeding? He builds xAI with other people. He sees end-to-end encrypted messaging as an important part of building X, the Everything App? He picks a fight with Telegram and smears their product. He’s, obviously, very effective at it. But it strikes me as a love of the game even more so than a pure, radical belief in the end-state.
+And again, Elon Musk carries a LOT of the characteristics of an ideological purist. And I’ll get to how these ideological bents are not necessarily fixed. But when I think about Elon Musk, the opportunistic problem-solving strikes me more as a professional founder. He hates LA traffic? He builds The Boring Company and gives it to someone else to run. He’s mad at [[OpenAI]] for succeeding? He builds xAI with other people. He sees end-to-end encrypted messaging as an important part of building X, the Everything App? He picks a fight with Telegram and smears their product. He’s, obviously, very effective at it. But it strikes me as a love of the game even more so than a pure, radical belief in the end-state.
 
 ### Huckster
 
-*Examples: Adam Neumann, Trevor Milton, Chamath Palihapitiya*
+*Examples: [[Adam Neumann]], Trevor Milton, [[Chamath Palihapitiya]]*
 
 While not all mercenary founders are bad, it’s when we get into huckster territory that it is almost universally bad.
 
@@ -97,7 +97,7 @@ Just like mercenary founders, they’re not all bad. But depending on your motiv
 
 ### Rebels
 
-*Examples: Travis Kalanick, Parker Conrad, Reid Hoffman*
+*Examples: Travis Kalanick, Parker Conrad, [[Reid Hoffman]]*
 
 Rebels are performers that have a “fake it ‘til you make it” energy, which can be powerful in startups. Whether its Travis Kalnick skirting the lines of what’s legal in the early days of ride share adoption, or Parker Conrad toeing the line between insurance broker and platform. I also thought of Reid Hoffman’s entire mentality around blitzscaling. It’s a more formalized version of “move fast and break things” that feels like trying to run across tiles as they fall in Mario. You can be successful if you just run fast enough.
 
@@ -107,7 +107,7 @@ But its when you start to cross the line that you enter more negative territory.
 
 ### Performance Artist
 
-*Examples: Elizabeth Holmes, Sam Bankman-Fried, [REDACTED]*
+*Examples: Elizabeth Holmes, [[Sam Bankman-Fried]], [REDACTED]*
 
 Granted, in our world of “looking the other way” on fraud (see Trevor Milton’s pardon), there are plenty of people lining up to justify Holmes’ or SBF’s behavior. But one tweet I saw recently, I think, summed it up well. Even if SBF’s investment portfolio could have made them whole, they did something wrong. If you steal $10, make $20 investing it, and then give the $10 back, you still stole it.
 
@@ -123,15 +123,15 @@ There are tons of examples you can look at of instances where people’s ideolog
 
 ## Zuck’s Journey
 
-Mark Zuckerberg is someone who has seemingly gone through several different ideologies in his life. At the very beginning? He was making a “who’s hotter” app at Harvard. He was maybe a believer in “social connections” but he was borderline a huckster, just hacking stuff together.
+[[Mark Zuckerberg]] is someone who has seemingly gone through several different ideologies in his life. At the very beginning? He was making a “who’s hotter” app at Harvard. He was maybe a believer in “social connections” but he was borderline a huckster, just hacking stuff together.
 
-But then over time, I genuinely think he became an ideological purist. The story that comes to mind most often is when he turned down Yahoo’s $1B acquisition offer. The TLDR is he walked into his board meeting and said “obviously we’re not gonna do this.” Peter Thiel took him aside and explained how much money that would mean for him, inviting him to think of what he could do with it!
+But then over time, I genuinely think he became an ideological purist. The story that comes to mind most often is when he turned down [[Yahoo]]’s $1B acquisition offer. The TLDR is he walked into his board meeting and said “obviously we’re not gonna do this.” [[Peter Thiel]] took him aside and explained how much money that would mean for him, inviting him to think of what he could do with it!
 
 “I would just build another social network.”
 
 That feels pretty ideologically pure where you can turn down $1B because you’re convinced of the thing you’re building.
 
-Then there is a phase where Zuck needs to learn to be a grown up. He clearly becomes a Professional Founder because he feels like he needs to be. Maybe there are hints of ideological purity, like buying Oculus or spending $10B on the Metaverse because he genuinely believes in the vision. But so much of what he does becomes opportunistic and calculated.
+Then there is a phase where Zuck needs to learn to be a grown up. He clearly becomes a Professional Founder because he feels like he needs to be. Maybe there are hints of ideological purity, like buying [[Oculus]] or spending $10B on the Metaverse because he genuinely believes in the vision. But so much of what he does becomes opportunistic and calculated.
 
 Today, as he’s been battered through a series of what feel like both personal and strategic chameleon phases, I have a hard time not seeing him as a huckster. He may not have crossed the line from Professional Founder to Huckster yet, but boy does it feel like he’s close.
 
@@ -139,7 +139,7 @@ Today, as he’s been battered through a series of what feel like both personal 
 
 I think Sam Altman has gone through a similar evolution. I would say that he started out as a Professional Founder. In my mind, that’s why he made sense as a choice to run YC. **Generally, Believers, and especially Ideological Purists, make pretty bad VCs because they’re far too concerned with the actualization of their own worldview that they struggle to split their attention.** But Sam ran YC like a Professional Founder. Helping build up the pieces of the ecosystem that felt opportunistically primed.
 
-Starting OpenAI was similar. I think he became bought into the pitches of smarter people when it came to AI and he saw the opportunity. Real Professional Founder vibes. But my sense is that the unbounded success of ChatGPT has quickly started to put him into Huckster territory.
+Starting OpenAI was similar. I think he became bought into the pitches of smarter people when it came to AI and he saw the opportunity. Real Professional Founder vibes. But my sense is that the unbounded success of [[ChatGPT]] has quickly started to put him into Huckster territory.
 
 His [recent response](https://x.com/wallstreetpro/status/1984918982369869828?s=20) to Brad Gerstner when asked, what felt like, a real softball question about how a company with $13B in revenue could handle $1.4T in spend?
 
@@ -157,7 +157,7 @@ There may be an argument that he was a Huckster all along, just a really lucky o
 
 This wasn’t just a new development at OpenAI. The reports go on to say:
 
-> *“Murati had surfaced claims that **Altman left his leadership role at Y Combinator for, according to the memo, “similar behaviors. He was creating chaos,** starting lots of new projects, pitting people against each other, and thus was not managing YC well.”*
+> *“Murati had surfaced claims that **Altman left his leadership role at [[Y Combinator]] for, according to the memo, “similar behaviors. He was creating chaos,** starting lots of new projects, pitting people against each other, and thus was not managing YC well.”*
 
 Maybe a Huckster all along. But in any event; he was no Ideological Purist. That’s for sure.
 

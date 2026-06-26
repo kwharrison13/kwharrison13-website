@@ -36,7 +36,7 @@ In life, we play games that are riddled with a lack of rules. And, to Nate's poi
 
 # The Games We Play
 
-In April 2021, [Ev Randle](https://twitter.com/everettrandle?lang=en), who was then at Founders Fund, and has since jumped to become a partner at Kleiner, wrote a piece called "[Playing Different Games: Why Tiger Is Eating Your Lunch (& Your Deals)." This was the peak of Tiger's dominance in the zirpy days of fast-moving, high-priced rounds that never seemed to end. A company would be [preempted 3 times in 9 months](https://twitter.com/kwharrison13/status/1696974336090128502?s=20).
+In April 2021, [Ev Randle](https://twitter.com/everettrandle?lang=en), who was then at [[Founders Fund]], and has since jumped to become a partner at Kleiner, wrote a piece called "[Playing Different Games: Why Tiger Is Eating Your Lunch (& Your Deals)." This was the peak of Tiger's dominance in the zirpy days of fast-moving, high-priced rounds that never seemed to end. A company would be [preempted 3 times in 9 months](https://twitter.com/kwharrison13/status/1696974336090128502?s=20).
 
 Now, no disrespect to Ev and his writing because (1) I think he is a sharp guy, and (2) I still think his piece is an exceptional exploration of changing business models within venture that you can learn a lot from. But there are some things that went very wrong and, with the benefit of hindsight, can be instructional.
 
@@ -50,7 +50,7 @@ Again, with the benefit of hindsight we know that this leads to a basket of over
 
 **In terms of rules, I actually agree there are very few "rules" in real life, but there** ***are*** **powerful forces. Forces that can be difficult to escape from or avoid.** As powerful as gravity, but as made up as capitalism. And some of these forces shape the way that companies are made, and capital is deployed.
 
-# Company Building Games
+# [[Company Building]] Games
 
 I'll start first with an example that I talk about quite a bit when talking about the AI hype happening right now. After the incredible whiplash of 2022 where venture investing dropped by ~60% from a peak of [$214B](https://dealroom.co/guides/global) in Q4 '21 to [$79B](https://dealroom.co/guides/global) in Q2 '23, I've tried very hard to wrap my head around how the AI hype can be just as fervent as 2021. Didn't we learn anything?
 
@@ -61,26 +61,26 @@ The important distinction is that within the AI landscape there are three distin
 These buckets are completely made up by me, and I'm sure much smarter people would disagree entirely. But this is how I've thought about the different things playing out in AI:
 
 1. **Corporate Fiefdoms:** Companies that have aligned themselves to large corporate interests, often driven by their cloud computing businesses.
-2. **Tools of the Trade:** Companies that leverage AI but spike in other areas (e.g. Replit is a code environment that leverages AI), or a tool that powers the overall ecosystem.
+2. **Tools of the Trade:** Companies that leverage AI but spike in other areas (e.g. [[Replit]] is a code environment that leverages AI), or a tool that powers the overall ecosystem.
 3. **Wrappers & Vaporware:** Things that are almost entirely indefensible, often with episodic revenue, and are primarily powered by something from one of the first two buckets.
 
-Here's where the danger of stupider games comes into play. So many companies are looking at OpenAI and saying "yup, that's the game I'm playing." **Your golf app that "leverages AI" to suggest personalized swing recommendations is definitively NOT playing the same game as OpenAI.**
+Here's where the danger of stupider games comes into play. So many companies are looking at [[OpenAI]] and saying "yup, that's the game I'm playing." **Your golf app that "leverages AI" to suggest personalized swing recommendations is definitively NOT playing the same game as OpenAI.**
 
-Recently, Sam Altman said he felt bad about all the advice he gave when he was running YC because they ignored 90%+ of if in building OpenAI. But Garry Tan, the current president of YC, made this point about different games:
+Recently, [[Sam Altman]] said he felt bad about all the advice he gave when he was running YC because they ignored 90%+ of if in building OpenAI. But Garry Tan, the current president of YC, made this point about different games:
 
 ![Source:Twitter](/images/player-different-stupider-games-7276d3c5.png)
 
-Don't get me wrong. OpenAI is an exceptional company. They've positioned themselves incredibly well in an AI boom, and that's what has allowed them to supposedly reach a [$1B revenue run rate](https://www.theinformation.com/articles/openai-passes-1-billion-revenue-pace-as-big-companies-boost-ai-spending?rc=ecjlpf) in just two years. But building a company like OpenAI is a dramatically different game than building Stripe, for example.
+Don't get me wrong. OpenAI is an exceptional company. They've positioned themselves incredibly well in an AI boom, and that's what has allowed them to supposedly reach a [$1B revenue run rate](https://www.theinformation.com/articles/openai-passes-1-billion-revenue-pace-as-big-companies-boost-ai-spending?rc=ecjlpf) in just two years. But building a company like OpenAI is a dramatically different game than building [[Stripe]], for example.
 
 So companies who not only base their operations on OpenAI, but also their valuation expectations, will end up finding themselves playing stupider games.
 
 I wrote a piece over a year ago called "[What's In a Valuation?](https://investing1012dot0.substack.com/p/valuations)" where I tried to unpack the "valuation stick" that founders pick up when they decide to raise at a massive valuation. When you pick up one end of the valuation stick, you end up picking up the other end that is fraught with significant expectations of outcome.
 
-Every company wants to have the biggest aspirations. And often, those hungry ambitions are what makes a great founder. But anchoring your expectations in a different game will almost always lead to dissatisfaction. Michael Jordan was the greatest basketball player of all time, but a [middling baseball player](https://www.jobsinsports.com/blog/2023/07/24/michael-jordan-good-at-baseball/#:~:text=Michael%20Jordan%20was%20not%20a,career%2C%20although%20not%20equally%20dominant.). **The games we play should shape our expectations about our potential outcomes.**
+Every company wants to have the biggest aspirations. And often, those hungry ambitions are what makes a great founder. But anchoring your expectations in a different game will almost always lead to dissatisfaction. [[Michael Jordan]] was the greatest basketball player of all time, but a [middling baseball player](https://www.jobsinsports.com/blog/2023/07/24/michael-jordan-good-at-baseball/#:~:text=Michael%20Jordan%20was%20not%20a,career%2C%20although%20not%20equally%20dominant.). **The games we play should shape our expectations about our potential outcomes.**
 
 Granted, [it isn't just founders](https://twitter.com/kwharrison13/status/1694109257325781203?s=20) that are shaping these expected (and often dramatically inflated) outcomes. The [business model of venture capital](https://investing1012dot0.substack.com/p/the-blackstone-of-innovation) has done a lot to force founders to focus on very different games because investors need very different outcomes to [make their own math work](https://twitter.com/jasonlk/status/1670021902612549632?s=20).
 
-# Capital Allocation Games
+# [[Capital Allocation]] Games
 
 My primary subject in my writing is about the business model of venture capital:
 
@@ -124,7 +124,7 @@ Choosing your investors comes with a lot of structural baggage. Your investors h
 
 # The Greatest Game? Or The Greatest Con?
 
-I mentioned earlier the fact that there are very few rules in the real world, but there are forces. I've written before about [the gravity of business-building](https://investing1012dot0.substack.com/p/the-reality-of-unrealistic-outliers). In that writing, I mentioned a quote about Leonardo Da Vinci and how, "once he knew the rules, he became a master at fudging and distorting them."
+I mentioned earlier the fact that there are very few rules in the real world, but there are forces. I've written before about [the gravity of business-building](https://investing1012dot0.substack.com/p/the-reality-of-unrealistic-outliers). In that writing, I mentioned a quote about [[Leonardo Da Vinci]] and how, "once he knew the rules, he became a master at fudging and distorting them."
 
 But back to Nate Bargatze's comment; "if you're confident, you can get away with quite a bit." Sometimes too much. **The lack of rules in the variety of games we play can often mean that the confidence game becomes the Rome to which all roads lead.** Just a question of who can be more confident. But just remember, con man comes from the idea of a confidence man. Who plays [confidence games](https://en.wikipedia.org/wiki/Confidence_trick). 😳
 
@@ -144,7 +144,7 @@ Also, it was hilarious to me that, when describing the meme-storm, Calacanis onl
 
 ![Source:Twitter](/images/player-different-stupider-games-5fa68510.png)
 
-But he didn't cause losses on Twitter! These weren't memes, or hurt feelings. These were people who listened to a guy who said "trust me. Have confidence in me." And then listened, and lost their money. And he goes on to call them "f\*cking losers" if they're not trying things and ✨iterating✨.
+But he didn't cause losses on [[Twitter]]! These weren't memes, or hurt feelings. These were people who listened to a guy who said "trust me. Have confidence in me." And then listened, and lost their money. And he goes on to call them "f\*cking losers" if they're not trying things and ✨iterating✨.
 
 ![Tweet referenced in The Greatest Game? Or The Greatest Con? section](/images/player-different-stupider-games-bfa36746.gif)
 

@@ -43,5 +43,5 @@ _None._
 
 - [Capital Allocation](/notes/capital-allocation) — the broader discipline of deploying scarce resources to their highest-value use; this is the same logic turned inward on attention and curiosity.
 - [Scarcity](/notes/scarcity) — the premise the mindset imposes: attention/interest is treated as scarce capital rather than something endless.
-- [Curiosity](/notes/curiosity) — the "felt" interest the dollar question disciplines, separating cheap stated curiosity from revealed priority.
+- [Curiosity](/notes/curious) — the "felt" interest the dollar question disciplines, separating cheap stated curiosity from revealed priority.
 - [Focus](/notes/focus) — the outcome of the budget constraint: forcing the dollar question radically prioritizes what is actually interesting.

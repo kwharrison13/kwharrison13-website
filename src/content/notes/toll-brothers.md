@@ -4,14 +4,14 @@ type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
-  - "Roam Research daily-note export — May 16th, 2018 (networking/sourcing call log): ~/Downloads/May 16th, 2018.md"
+  - "wiki/meetings/May 16th, 2018 — Matt Wilcox (Toll Brothers).md"
 tags:
   - "real-estate"
   - "homebuilder"
-  - "organization"
+  - "the-new-city"
 aliases:
   - "Toll Brothers"
 related:
@@ -21,12 +21,11 @@ related:
 
 # Toll Brothers
 
-**One-line definition:** *Homebuilder/developer where [Matt Wilcox](/notes/matt-wilcox) worked as a Land Acquisition Analyst.*
+Toll Brothers appears in Kyle's notes only as the employer of [Matt Wilcox](/notes/matt-wilcox), a Land Acquisition Analyst Kyle spoke with on a May 16th, 2018 — Matt Wilcox (Toll Brothers) networking call tied to his [The New City](/notes/the-new-city) thread. The source daily-note logged only the call header — no substantive notes about Toll Brothers itself were captured — so the company sits here primarily as a node connecting Matt Wilcox to Kyle's city-building / real-estate research.
 
-## How sources describe it
+**Context:** Toll Brothers is a publicly traded American homebuilder (NYSE: TOL), founded in 1967 and known for luxury single-family homes and master-planned communities.
 
-- Referenced only as [Matt Wilcox](/notes/matt-wilcox)'s employer; no further detail captured in the source. (May 16th, 2018 — Matt Wilcox (Toll Brothers))
+## Where this appears
 
-## Where it shows up
-
-- May 16th, 2018 — Matt Wilcox (Toll Brothers) — call header with [Matt Wilcox](/notes/matt-wilcox).
+- May 16th, 2018 — Matt Wilcox (Toll Brothers) — networking call with [Matt Wilcox](/notes/matt-wilcox) (Land Acquisition Analyst); header only, no notes captured.
+- [Matt Wilcox](/notes/matt-wilcox) — person page; Toll Brothers is his listed employer.

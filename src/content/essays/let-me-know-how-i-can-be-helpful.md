@@ -23,7 +23,7 @@ Did I fail out of guitar lessons? I never took them. Did I teach myself? Never t
 
 In our collective imagination we could harmonize and riff, but in reality you just had two dummies strum-a-dumbing on a couple instruments they had no fundamental understanding of. But the magic wasn't in having all the answers, and being perfect at playing. **The fun came from being together in a collaborative way, both enjoying the journey rather than the destination.**
 
-When I was at Coatue, I had the privilege of working with [Matt Mazzeo](https://twitter.com/Mazzeo). He was not only a funny guy and a great human being, he also had an incredible network. I once bought him a golden plunger to thank him for always being to able to unblock us when we couldn't get in touch with a company.
+When I was at [[Coatue]], I had the privilege of working with [Matt Mazzeo](https://twitter.com/Mazzeo). He was not only a funny guy and a great human being, he also had an incredible network. I once bought him a golden plunger to thank him for always being to able to unblock us when we couldn't get in touch with a company.
 
 ![Tweet referenced in Let Me Know How I Can Be Helpful](/images/let-me-know-how-i-can-be-helpful-6843c8dc.png)
 
@@ -49,23 +49,23 @@ Sometimes venture investors can remind you of the Joker's dog analogy:
 
 > *"Do I really look like a guy with a plan? You know what I am? I'm a dog chasing cars. I wouldn't know what to do with one if I caught it. **I just do things.**"*
 
-There is a balance between under-activity and overactivity. In some ways, people don't do enough things. When I worked at Amazon, I had their [leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) beat into me. One that comes to mind in this discussion is "Bias for Action." They describe the principle this way:
+There is a balance between under-activity and overactivity. In some ways, people don't do enough things. When I worked at [[Amazon]], I had their [leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) beat into me. One that comes to mind in this discussion is "Bias for Action." They describe the principle this way:
 
 > *"Speed matters in business. Many decisions and actions are reversible and do not need extensive study. **We value calculated risk taking**."*
 
-And I think that is accurate. Too many people quietly strangle their dreams under the weight of their never ending considerations and contemplations. There is power in being willing to move quickly. However, there is equal criticism for "overactivity." In his [1986 letter to shareholders](https://www.berkshirehathaway.com/letters/1986.html), Warren Buffett described this criticism:
+And I think that is accurate. Too many people quietly strangle their dreams under the weight of their never ending considerations and contemplations. There is power in being willing to move quickly. However, there is equal criticism for "overactivity." In his [1986 letter to shareholders](https://www.berkshirehathaway.com/letters/1986.html), [[Warren Buffett]] described this criticism:
 
-> *"**We should note that we expect to keep permanently our three primary holdings**, Capital Cities/ABC, Inc., GEICO Corporation, and The Washington Post. This attitude may seem old-fashioned in a corporate world in which **activity has become the order of the day.** Despite the enthusiasm for activity that has swept business and financial America, we will stick with our ‘til-death-do-us-part policy. It’s the only one with which Charlie and I are comfortable, it produces decent results, and it **lets our managers and those of our investees run their businesses free of distractions**."*
+> *"**We should note that we expect to keep permanently our three primary holdings**, Capital Cities/ABC, Inc., [[GEICO]] Corporation, and The [[Washington Post]]. This attitude may seem old-fashioned in a corporate world in which **activity has become the order of the day.** Despite the enthusiasm for activity that has swept business and financial America, we will stick with our ‘til-death-do-us-part policy. It’s the only one with which Charlie and I are comfortable, it produces decent results, and it **lets our managers and those of our investees run their businesses free of distractions**."*
 
-On the one hand you have hyperactive investors who feel the itch to make trades, make moves, make things happen. Were they good things? Who knows. But we did things. Peter Drucker has [a great quote](https://mother-of-invention.net/2021/06/06/you-get-what-you-measure-so-be-careful-what-you-measure/):
+On the one hand you have hyperactive investors who feel the itch to make trades, make moves, make things happen. Were they good things? Who knows. But we did things. [[Peter Drucker]] has [a great quote](https://mother-of-invention.net/2021/06/06/you-get-what-you-measure-so-be-careful-what-you-measure/):
 
 > *“What gets measured gets managed – even when it’s pointless to measure and manage it, and even if it harms the purpose of the organization to do so.”*
 
 I swear I heard this story somewhere, or something like it, but I've never been able to find it again to see if I'm telling it right. There is this idea about incentives. Somewhere, a country was trying to incentivize oil extractors to drill more oil wells. So the government said they would pay $1,000 for every foot these companies drill into the ground. But the cost of digging a well is meaningful, and turns out the first 100 feet are much easier to drill than the next 100 feet. So, because the government simply incentivized drilling, you had drilling companies going around drilling 100 foot holes everywhere to collect the easy money.
 
-Charlie Munger [likes to quote](https://twitter.com/CharlieMunger00/status/1392785876179046401?s=20) Pascal in saying "All of humanity’s problems stem from man’s inability to sit quietly in a room alone." But the point Buffett and Munger are making is not that *ALL* activity is bad, but activity for the sake of activity. The same is true for venture investors. Believing that just "doing things" is a measure of success can do more harm than good.
+[[Charlie Munger]] [likes to quote](https://twitter.com/CharlieMunger00/status/1392785876179046401?s=20) Pascal in saying "All of humanity’s problems stem from man’s inability to sit quietly in a room alone." But the point Buffett and Munger are making is not that *ALL* activity is bad, but activity for the sake of activity. The same is true for venture investors. Believing that just "doing things" is a measure of success can do more harm than good.
 
-Maybe the greatest example of this is Fast—the one-click checkout flame out. The company raised $120M and between skydiving trips, Hawaii getaways for all the employees, sponsored race cars, and custom-made action figures of the CEO, the company got to the point where they were burning [$10M per month](https://www.theinformation.com/articles/live-fast-die-young-behind-the-fall-of-a-one-click-wonder?rc=ecjlpf) when they were basically pre-product. Were they doing things? Lots of 'em. Any of 'em good? Definitely not.
+Maybe the greatest example of this is [[Fast]]—the one-click checkout flame out. The company raised $120M and between skydiving trips, Hawaii getaways for all the employees, sponsored race cars, and custom-made action figures of the CEO, the company got to the point where they were burning [$10M per month](https://www.theinformation.com/articles/live-fast-die-young-behind-the-fall-of-a-one-click-wonder?rc=ecjlpf) when they were basically pre-product. Were they doing things? Lots of 'em. Any of 'em good? Definitely not.
 
 When I [wrote about the topic of “let me know how I can be helpful” last time](https://investing1012dot0.substack.com/p/the-tales-of-their-usefulness-have), I talked about this idea of a "value-add audit." And I think that being measured in how you're impacting your companies is a critical piece of the "how can I be helpful" puzzle. One great example of this is [what Alexis Ohanian is building](https://twitter.com/alexisohanian/status/1637818379011600384?s=20) at Seven Seven Six where their system automatically generates an overview of what they've done to engage with their companies.
 
@@ -89,7 +89,7 @@ Another framing for this idea is that, at first, when your competence is quite l
 
 ![Chart illustrating correlating confidence with competence](/images/let-me-know-how-i-can-be-helpful-b16092e2.png)
 
-For venture investors who want to be helpful, there is an opportunity to avoid this over-inflated ego of competence. Competence is not a mindset. It is, in the words of Jeff Bezos' leadership principles, "a calculated risk." No matter how capable you actually are (or how capable you may think you are), there is always a possibility that your expertise could lead you and the company astray.
+For venture investors who want to be helpful, there is an opportunity to avoid this over-inflated ego of competence. Competence is not a mindset. It is, in the words of [[Jeff Bezos]]' leadership principles, "a calculated risk." No matter how capable you actually are (or how capable you may think you are), there is always a possibility that your expertise could lead you and the company astray.
 
 As a result, the best way to be helpful is not relentless gut-trusting, but rather an iterative exercise of data gathering, understanding, hypothesis testing, and reevaluation. Understand if you're helping or hurting, and then tweak the work to ensure optimal support. Wes Kao articulates it best:
 
@@ -119,7 +119,7 @@ I stumbled on this piece from [a tweet](https://twitter.com/rationalwalk/status/
 
 ### [Musk Admits Twitter Purchase Wasn’t ‘Financially Smart’—And He Paid Twice What It's Worth](https://www.forbes.com/sites/nicholasreimann/2023/04/17/musk-admits-twitter-purchase-wasnt-financially-smart-and-he-paid-twice-what-its-worth/?sh=54d1200c65c6) by Nicholas Reimann
 
-The acquisition of Twitter is one of the best episodes of Succession we could ask for.
+The acquisition of [[Twitter]] is one of the best episodes of Succession we could ask for.
 
 ### [Adobe’s Scott Belsky talks generative AI — and why it’s not going to end up like web3](https://techcrunch.com/2023/03/02/adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3/) by Ron Miller
 
@@ -127,6 +127,6 @@ I love it when people push towards making the argument for the practical use cas
 
 ### [Hunger Game](https://www.epsilontheory.com/hunger-games/)s by Ben Hunt
 
-This is the like the bizarro Superman version of Packy McCormick's "[Business Is The New Sports](https://www.notboring.co/p/business-is-the-new-sports)." This piece basically says, "oh its a sport alright. *A blood sport*." This idea of two narratives, the stock market is a great source of wealth, or as a great revolution? Both are suspect.
+This is the like the bizarro Superman version of [[Packy McCormick]]'s "[Business Is The New Sports](https://www.notboring.co/p/business-is-the-new-sports)." This piece basically says, "oh its a sport alright. *A blood sport*." This idea of two narratives, the stock market is a great source of wealth, or as a great revolution? Both are suspect.
 
-> *"Both of these stories are narratives for our very own Hunger Games, a spectacle that chews up the participants in the arena while delivering enormous profits to the networks (media, financial and political) that put them on."*
+> *"Both of these stories are narratives for our very own [[Hunger Games]], a spectacle that chews up the participants in the arena while delivering enormous profits to the networks (media, financial and political) that put them on."*

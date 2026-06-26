@@ -42,7 +42,7 @@ So I sought out a program for my kids. On Friday, Dax had his first speech class
 
 ![The Rhetorical Triangle](/images/we-need-a-renaissance-of-rhetoric-e649a43a.png)
 
-Rhetoric strikes me as a singularly powerful mechanism. In fact, all that [I’ve written about](https://investing101.substack.com/p/the-storytelling-of-investing) my love for storytelling really, at its core, stems more from a sense of awe for the power of rhetoric more than just characters and narratives. [I’ve written before](https://investing101.substack.com/p/the-ethos-of-nuance) about rhetoric. One of, if not my most impactful, “[Quake Books](https://kwharrison13.com/bookshelf)“ is a biography of John Quincy Adams. In one chapter, it talks about how much Adams loved the art of rhetoric, and even became a professor of it at Harvard:
+[[Rhetoric]] strikes me as a singularly powerful mechanism. In fact, all that [I’ve written about](https://investing101.substack.com/p/the-storytelling-of-investing) my love for storytelling really, at its core, stems more from a sense of awe for the power of rhetoric more than just characters and narratives. [I’ve written before](https://investing101.substack.com/p/the-ethos-of-nuance) about rhetoric. One of, if not my most impactful, “[Quake Books](https://kwharrison13.com/bookshelf)“ is a biography of [[John Quincy Adams]]. In one chapter, it talks about how much Adams loved the art of rhetoric, and even became a professor of it at Harvard:
 
 > ***“Rhetoric, in Adams’ day, meant classical rhetoric—the study of the means by which the classic authors deployed the arts of persuasion**. Adams knew very well that for many of his students “rhetoric” described a set of hurdles and obstacles and obscure regulations designed to limit the torrent of writing and speech to an orderly stream. Adams intended to rescue this ancient art from its modern slumber.   
 >   
@@ -50,7 +50,7 @@ Rhetoric strikes me as a singularly powerful mechanism. In fact, all that [I’v
 
 Rhetoric. Eloquence. The power of persuasion. That was the intellectual recipe that enabled the American experiment to spring up in the first place. I would go as far as to say that rhetoric is not only at the core of storytelling, but also the core ingredient behind [clarity of thought](https://investing101.substack.com/p/clarity-of-thought).
 
-**The idea of American republicanism and representation was particularly dependent on a fundamental idea of people willing to be convinced by** ***convincing*** **arguments worth being convinced of**. A [paraphrased idea](https://www.monticello.org/research-education/thomas-jefferson-encyclopedia/educated-citizenry-vital-requisite-our-survival-free-people-spurious/) attributed to Thomas Jefferson was that “an educated citizenry is a vital requisite for our survival as a free people.” The more educated you are, the more capable you are of engaging in rhetoric unto salvation.
+**The idea of American republicanism and representation was particularly dependent on a fundamental idea of people willing to be convinced by** ***convincing*** **arguments worth being convinced of**. A [paraphrased idea](https://www.monticello.org/research-education/thomas-jefferson-encyclopedia/educated-citizenry-vital-requisite-our-survival-free-people-spurious/) attributed to [[Thomas Jefferson]] was that “an [[Educated Citizenry|educated citizenry]] is a vital requisite for our survival as a free people.” The more educated you are, the more capable you are of engaging in rhetoric unto salvation.
 
 The problem? Rhetoric is dying. Or rather, it is being co-opted.
 
@@ -64,23 +64,23 @@ Unfortunately, the “powers that be” seem to be more aimed at further disabli
 
 # Your Language is Your World
 
-A few years ago I wrote a deep dive called “[The Openness of AI](https://research.contrary.com/report/the-openness-of-ai).” In it, I tackled what felt like a far-fetched idea: that AI systems wouldn’t just prove useful tools, but would actually transform modern language. I believe that is proving demonstrably true. In that piece, there is a section of Censorship. In effect, the ability to control the information people are exposed to impacts how people actually begin to think about the world.
+A few years ago I wrote a deep dive called “[The Openness of AI](https://research.contrary.com/report/the-openness-of-ai).” In it, I tackled what felt like a far-fetched idea: that AI systems wouldn’t just prove useful tools, but would actually transform modern language. I believe that is proving demonstrably true. In that piece, there is a section of [[Censorship]]. In effect, the ability to control the information people are exposed to impacts how people actually begin to think about the world.
 
 > *“The principle of [linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity), also known as [whorfianism](https://plato.stanford.edu/ENTRIES/linguistics/whorfianism.html), presents the hypothesis that **the structure of a language influences or even determines the way individuals perceive and think about the world**... As AI systems become inclusive of the [majority](https://arxiv.org/abs/2211.04325) of our data, the output of those same systems will start to shape people’s framing for reality.*
 >
-> *Several prominent philosophers have remarked on this intimate relationship between language, understanding, and power. French theorists Gilles Deleuze and Felix Guattari [wrote](http://individual.utoronto.ca/bmclean/hermeneutics/deleuze_suppl/DG_on_rhizome.htm) in their book, A Thousand Plateaus that “there is no mother tongue, only a power takeover by a dominant language within a political multiplicity.” German philosopher Ludwig Wittgenstein put it more bluntly, [saying](https://americanart.si.edu/artwork/limits-my-language-mean-limits-my-world-ludwig-wittgenstein-tractatus-logigo-philosphicus) “**the limits of your language are the limits of your world**.”*
+> *Several prominent philosophers have remarked on this intimate relationship between language, understanding, and power. French theorists Gilles Deleuze and Felix Guattari [wrote](http://individual.utoronto.ca/bmclean/hermeneutics/deleuze_suppl/DG_on_rhizome.htm) in their book, A Thousand Plateaus that “there is no mother tongue, only a power takeover by a dominant language within a political multiplicity.” German philosopher [[Wittgenstein|Ludwig Wittgenstein]] put it more bluntly, [saying](https://americanart.si.edu/artwork/limits-my-language-mean-limits-my-world-ludwig-wittgenstein-tractatus-logigo-philosphicus) “**the limits of your language are the limits of your world**.”*
 
-I love that line. “The limits of your language are the limits of your world.” Multiple people, including Karl Kraus, have [said](https://quoteinvestigator.com/2025/05/15/language-thought/) “language is the mother, not the handmaiden, of thought.” Supposedly, the mid-20th century poet W.H. Auden [said](https://dukechronicle.com/article/losing-battle-ai-cheating-20250227), “Words will tell you things you never thought or felt before.” For those of you who have read my writing for a while, you’ll see how this slots perfectly into [my modus operandi](https://x.com/kwharrison13/status/1683582931409698819): “I write because I don’t know what I think until I read what I say.”
+I love that line. “The limits of your language are the limits of your world.” Multiple people, including Karl Kraus, have [said](https://quoteinvestigator.com/2025/05/15/language-thought/) “language is the mother, not the handmaiden, of thought.” Supposedly, the mid-20th century poet [[W.H. Auden]] [said](https://dukechronicle.com/article/losing-battle-ai-cheating-20250227), “Words will tell you things you never thought or felt before.” For those of you who have read my writing for a while, you’ll see how this slots perfectly into [my modus operandi](https://x.com/kwharrison13/status/1683582931409698819): “I write because I don’t know what I think until I read what I say.”
 
 Language creates thinking. Your thinking is your world-view. Rhetoric is meant to be the battleground mechanism where language is sharpened into perspective. We decide what we believe because we’ve been *convinced*.
 
-But, seemingly due to the deluge of noise around us, people seem to increasingly be in pursuit of a way to off-load their thinking. Their perspective forming. Maybe its falling in-line with the party’s perspectives. Maybe its letting ChatGPT determine what you think. **But whether you cede your language to AI or a political party, the end result is the same. You lose your worldview**. Your perspective softens beyond recognition.
+But, seemingly due to the deluge of noise around us, people seem to increasingly be in pursuit of a way to off-load their thinking. Their perspective forming. Maybe its falling in-line with the party’s perspectives. Maybe its letting [[ChatGPT]] determine what you think. **But whether you cede your language to AI or a political party, the end result is the same. You lose your worldview**. Your perspective softens beyond recognition.
 
 Rarely is any one place proffered more time to the shaping of worldviews than school. By age 18, kids have spent [10%](https://www.childrensuniversity.co.uk/media/1151/percentage-of-time-outside-the-classroom.pdf) of their waking hours in the classroom.
 
 # Let The Children Think
 
-There are [multiple](https://dukechronicle.com/article/losing-battle-ai-cheating-20250227) [pieces](https://web.archive.org/web/20260110064007/https://nymag.com/intelligencer/article/openai-chatgpt-ai-cheating-education-college-students-school.html) exploring how AI has ushered in an age of AI cheating that spells the doom of education as we know it. Tyler Cowen [makes the point](https://www.thefp.com/p/ai-everyones-cheating-thats-good-news) that education was already in a “profound crisis -- the result of ideological capture, political monoculture, and extreme conformism.” I see these not as separate issues, but very much linked.
+There are [multiple](https://dukechronicle.com/article/losing-battle-ai-cheating-20250227) [pieces](https://web.archive.org/web/20260110064007/https://nymag.com/intelligencer/article/openai-chatgpt-ai-cheating-education-college-students-school.html) exploring how AI has ushered in an age of AI cheating that spells the doom of education as we know it. [[Tyler Cowen]] [makes the point](https://www.thefp.com/p/ai-everyones-cheating-thats-good-news) that education was already in a “profound crisis -- the result of ideological capture, political monoculture, and extreme conformism.” I see these not as separate issues, but very much linked.
 
 Already, education was warping around the lowest common denominator. What Cowen [describes](https://www.thefp.com/p/ai-everyones-cheating-thats-good-news) as a system that “evolved in the 20th century around what it is possible to teach, measure, and test *with ease*.” **We sanded off the rough edges of learning to the point of codifiability. Then we’re surprised that this factory-farmed program for idea dissemination becomes co-opted by those with ideological axes to grind? Where else would bad ideas go other than into the path of least resistance?**
 
@@ -88,7 +88,7 @@ And that trend isn’t slowing down. We’re seeing [multiple](https://www.compa
 
 Now, AI is proving quite capable of that system for lowest common denominator thinking. Surprise! A mass replicable education is mass replicable!
 
-Packy McCormick makes the exact right [point](https://x.com/packym/status/1920230277592371528?s=46) when he reacted to this existential threat to education from AI, saying: “The entire academic project needs unraveling if it can’t survive a tool that can help people learn better. Less focus on the means, more focus on the meaning.”
+[[Packy McCormick]] makes the exact right [point](https://x.com/packym/status/1920230277592371528?s=46) when he reacted to this existential threat to education from AI, saying: “The entire academic project needs unraveling if it can’t survive a tool that can help people learn better. Less focus on the means, more focus on the meaning.”
 
 I absolutely agree with the sentiment. Another way I’ve heard it said [comes from](https://www.snopes.com/fact-check/truth-carl-sagan-quote/) P.C. Hodgell’s novel Seeker’s Mask:
 
@@ -96,7 +96,7 @@ I absolutely agree with the sentiment. Another way I’ve heard it said [comes f
 
 There is another idea I touched on in my [Openness of AI](https://research.contrary.com/report/the-openness-of-ai) deep dive about different kinds of truth that also rears its ugly head sometimes in this discussion:
 
-> *“In the broader context of disinformation, a new term has emerged. Malinformation, a combination of “malware” and “disinformation.” One [definition](https://www.discoursemagazine.com/culture-and-society/2023/03/16/malinformation-and-the-wrong-truth/) of the term: “‘malinformation is classified as both intentional and harmful to others’—while being truthful.” In [a piece](https://www.discoursemagazine.com/culture-and-society/2023/03/16/malinformation-and-the-wrong-truth/) in Discourse Magazine, it discusses the public debate on COVID, vaccines, and the way government, media, and large tech companies like Twitter attempted to control the spread of misinformation:   
+> *“In the broader context of disinformation, a new term has emerged. [[Malinformation]], a combination of “malware” and “disinformation.” One [definition](https://www.discoursemagazine.com/culture-and-society/2023/03/16/malinformation-and-the-wrong-truth/) of the term: “‘malinformation is classified as both intentional and harmful to others’—while being truthful.” In [a piece](https://www.discoursemagazine.com/culture-and-society/2023/03/16/malinformation-and-the-wrong-truth/) in Discourse Magazine, it discusses the public debate on COVID, vaccines, and the way government, media, and large tech companies like [[Twitter]] attempted to control the spread of misinformation:   
 >   
 > “Describing true information as ‘malicious’ already falls into a gray area of regulating public speech. This assumes that the public is gullible and susceptible to harm from words, which necessitates authoritative oversight and filtering of intentionally harmful facts... It does not include intent or harm in the definition of malinformation at all. **Rather, ‘malicious’ is truthful information that is simply undesired and “misleading” from the point of view of those who lead the public somewhere. In other words, malinformation is the wrong truth**.”*
 
@@ -104,9 +104,9 @@ Does anyone else read that and immediately shout [Newspeak](https://en.wikipedia
 
 This idea of the “wrong truth” strikes at the core of what is wrong with the rhetoric behind the debates we’re having. Wrong ideas imply a judge. Who’s to say what ideas are wrong or right? Typically, its those overarching systems I mentioned earlier that many people are increasingly tempted to cede their thinking to. Political parties, group-think, cultural warriors.
 
-We’ll come back to AI as a thinking machine, but as a perspective machine or information interpreter, AI is often just a reflection of its makers. Why is OpenAI more woke than Grok? Look to their creators.
+We’ll come back to AI as a thinking machine, but as a perspective machine or information interpreter, AI is often just a reflection of its makers. Why is [[OpenAI]] more woke than Grok? Look to their creators.
 
-Peter Thiel [made the point](https://youtu.be/918qslcfwfY?t=560) that, often, these “off limits” parameters around certain ideas can frequently speak to their truth:
+[[Peter Thiel]] [made the point](https://youtu.be/918qslcfwfY?t=560) that, often, these “off limits” parameters around certain ideas can frequently speak to their truth:
 
 > ***“If you have ideas that are taboo, that you’re not allowed to discuss. My shortcut is to suspect they’re simply correct**. The example I like to give is Professor Bob Laughlin, who’s a Stanford physics professor, around 1998 he gets a Nobel Prize in physics. And he suffers from the extreme delusion that now that he has a Nobel Prize he finally has academic freedom and can talk about whatever he would like to talk about. There are all sorts of areas that are very taboo in the sciences. Questioning Darwinism, stem cell research, climate change; these are very dangerous areas. But he picked one even more dangerous than any of those three. He believed that most so-called scientists were basically stealing money from the government, engaging in borderline fraudulent science. Or that was incrementalist, and not worth much. His area of focus was high temperature superconductivity. He told me, at one, point there were maybe 50,000 papers written in that area and maybe 25 out of 50,000 had actually advanced the science at all. I don’t even need to tell you how that movie ended. He promptly got defunded, his students couldn’t get PhDs anymore. **So my hermeneutic suspicion is if you have an idea like stagnation in science, which immediately gets you deplatformed, that’s an idea we should take very seriously**.”*
 
@@ -132,7 +132,7 @@ If the limit of our language is the limit of our world then we are limited by th
 
 In many ways, LLMs are just like any other chat-enabled consumer application you’re currently addicted to. They’re built with maximum engagement in mind; that’s why sycophancy is so common. Complimentary reinforcement keeps you coming back for more.
 
-The difference is that Google never assumed it was responsible for the philosophical debate behind pagerank. For the most part, it was a simple algorithm. AI, on the other hand, is believed by its creators to be capable of eventual superintelligence. And they’re doing their darnedest to step into that role of rhetorical reasoning on your behalf.
+The difference is that [[Alphabet|Google]] never assumed it was responsible for the philosophical debate behind pagerank. For the most part, it was a simple algorithm. AI, on the other hand, is believed by its creators to be capable of eventual superintelligence. And they’re doing their darnedest to step into that role of rhetorical reasoning on your behalf.
 
 In 2023, there was [a piece](https://restofworld.org/2023/ai-developers-fiction-poetry-scale-ai-appen/) about how AI companies were hiring poets, novelists, and writers to feed their AI models. Why? Because textual autocomplete isn’t enough. As one academic put it; “replicating classical language forms is a way of looking prestigious.”
 
@@ -146,11 +146,11 @@ For those whose temperament doesn’t lend themselves to technological overthrow
 
 # Teethless Debates of Politics
 
-For most people, when you think of “debate,” you may think of Presidential debates. Unfortunately, Presidential debates have become a farce in political theater. Can you imagine Donald Trump with a pencil at a lectern, noting key points in his opponents argument to be sure to address?
+For most people, when you think of “debate,” you may think of Presidential debates. Unfortunately, Presidential debates have become a farce in political theater. Can you imagine [[Donald Trump]] with a pencil at a lectern, noting key points in his opponents argument to be sure to address?
 
 Even in more idealistic renditions of political debate, with shows like The West Wing, there is still a lot of theater. My family and I joke that, whenever the President’s staff in that show are losing an argument they just grandstand about how their opponent referred to their boss as “Bartlett” instead of *President* Bartlett.
 
-Every few months I’ll see a video from bygone eras of things like President Bush Sr. [answering a question](https://www.youtube.com/watch?v=YsmgPp_nlok) about immigration incredibly sensitively and humanely. Or John McCain [refusing](https://www.youtube.com/watch?v=JIjenjANqAk) to platform radical perspectives about Obama. Or President Obama and Mitt Romney [making gentle jokes](https://www.youtube.com/watch?v=Mhfrd4IZi-w) about having a presidential debate on Obama’s anniversary. That behavior is very out of vogue now.
+Every few months I’ll see a video from bygone eras of things like President Bush Sr. [answering a question](https://www.youtube.com/watch?v=YsmgPp_nlok) about immigration incredibly sensitively and humanely. Or [[John McCain]] [refusing](https://www.youtube.com/watch?v=JIjenjANqAk) to platform radical perspectives about Obama. Or President Obama and [[Mitt Romney]] [making gentle jokes](https://www.youtube.com/watch?v=Mhfrd4IZi-w) about having a presidential debate on Obama’s anniversary. That behavior is very out of vogue now.
 
 So what kind of debates do we have today?
 
@@ -158,15 +158,15 @@ So what kind of debates do we have today?
 
 There are countless examples of “debate” playing out in the modern public sphere.
 
-Elon Musk has had a number of rhetoric-driven showdowns with reporters, whether about [hate speech on Twitter](https://x.com/teslaownerssv/status/1714539862760776168?s=46&t=o_VXCnqx93PtfDFcrUrKDA) or [slavery and reparations](https://youtu.be/hhsfjBpKiTw?t=3122).
+[[Elon Musk]] has had a number of rhetoric-driven showdowns with reporters, whether about [hate speech on Twitter](https://x.com/teslaownerssv/status/1714539862760776168?s=46&t=o_VXCnqx93PtfDFcrUrKDA) or [slavery and reparations](https://youtu.be/hhsfjBpKiTw?t=3122).
 
 The [video](https://x.com/thogge/status/1714499315660648861?s=46&t=o_VXCnqx93PtfDFcrUrKDA) of Pierre Poilievre chomping an apple and refusing the premise of a series of questions about whether he’s “taking a page out of Donald Trump’s book.”
 
 A series of [videos](https://x.com/edels0n/status/1671604159794012167?s=20) of Gavin Newsom talking to Sean Hannity trying to unpack a number of complex issues and speak to data.
 
-Dave Smith and Douglas Murphy [debating](https://www.youtube.com/watch?v=Ah6kirkSwTg) the Israel-Hamas War on Joe Rogan.
+Dave Smith and Douglas Murphy [debating](https://www.youtube.com/watch?v=Ah6kirkSwTg) the Israel-Hamas War on [[Joe Rogan]].
 
-Dozens of debate clips from the [Oxford Student Union](https://www.youtube.com/user/OxfordUnion), or [Jubilee](https://www.youtube.com/@jubilee) YouTube videos of “one vs. many” debates, or countless “professional pundits” arguing different points.
+Dozens of debate clips from the [Oxford Student Union](https://www.youtube.com/user/OxfordUnion), or [Jubilee](https://www.youtube.com/@jubilee) [[YouTube]] videos of “one vs. many” debates, or countless “professional pundits” arguing different points.
 
 On the one hand, many of these arguments can be exposed as shallow upon closer inspection because of lack of “walking the walk” in the face of talking the talk. Gavin Newsom can be very convincing but his actions undermine his character. Elon Musk can make the point that we shouldn’t make race the central focus of our lives and just move on, but then retweet white supremacy hot takes.
 
@@ -192,9 +192,9 @@ If we’re to have any hope of not falling victims to the paternalistic inclinat
 
 [Research](https://www.conspicuouscognition.com/p/people-are-persuaded-by-rational) on “epistemic vigilance” shows that people are naturally skeptical. They don’t *want* to follow shallow missions or poor-faith arguments. But the preachers of sub-par missions and misleading arguments have become incredibly effective rhetoricians. **The only antidote is for broad swaths of people to regain the [lost art of rhetoric](https://www.youtube.com/watch?v=qAert4eHBRM) and understand the devices being used against them.**
 
-I’ve focused on the Socratic Rhetorical Triangle. But Plato generally argued *against* the kind of rhetoric encapsulated by ethos, pathos, and logos. **He saw rhetoric as a professional weapon that was capable of being wielded for one’s aims, regardless of truth**. Now, I’m not deep enough in ancient Greek philosophy to argue the specific ideological back and forth. But another intellectual trio comes from the Platonic tripartite conception of the soul as defined in The Republic: spiritedness (thymos), reason (logos), and desire (eros).
+I’ve focused on the Socratic Rhetorical Triangle. But [[Plato]] generally argued *against* the kind of rhetoric encapsulated by ethos, pathos, and logos. **He saw rhetoric as a professional weapon that was capable of being wielded for one’s aims, regardless of truth**. Now, I’m not deep enough in ancient Greek philosophy to argue the specific ideological back and forth. But another intellectual trio comes from the Platonic tripartite conception of the soul as defined in The Republic: spiritedness (thymos), reason (logos), and desire (eros).
 
-In Byrne Hobart’s book “[Boom: Bubbles and the end of Stagnation](https://www.amazon.com/Boom-Bubbles-Stagnation-Byrne-Hobart/dp/1953953476)“ he explains how one of these ancient Greek elements actually drives technological innovation:
+In [[Byrne Hobart]]’s book “[Boom: Bubbles and the end of Stagnation](https://www.amazon.com/Boom-Bubbles-Stagnation-Byrne-Hobart/dp/1953953476)“ he explains how one of these ancient Greek elements actually drives technological innovation:
 
 > *“Technological innovation is more driven by excess, exuberance, and irrationality than by cost-benefit analyses, rational calculation, and careful and deliberate planning. Reality-bending delusions are underrated drivers of techno-economic progress. In other words, **a necessary enabling condition for technological progress, which ultimately fuels human flourishing, is what the Ancient Greeks called thymos, which often gets translated as “spiritedness”—a relentless drive to transcend the limitations of a listless present.**”*
 
@@ -210,6 +210,6 @@ Another, similarly surprising, spark of intellectual discourse is the fact that 
 
 This is a powerful component of a movement to rekindle the most basic tenants of rhetoric — education. And I’m not talking about the hollowed-out factory-farmed ideologue assembly line I talked about earlier. I mean education in its purest form. Personal education. Less than [half](https://x.com/bookbeduion/status/2012170900125499654?s=46) of Americans read even a single book in the last 12 months. Seeing more mainstream influencers embracing the need for intellectual enrichment may be just the fan this flame needs.
 
-T.S. Eliot [wrote](https://x.com/durhamwasp/status/2012501556894093598?s=46) that “**We know too much, and are convinced of too little**. Our literature is a substitute for religion, and so is our religion.” The spring wells of our convictions have run dry. Life has become too loud; too complicated. The masses are desperate to offload the accountability of intellectual rigor. To stem the stampede we need to return to the core of what used to spark our spirits. Our thymos. God, family, freedom, peace.
+[[T.S. Eliot]] [wrote](https://x.com/durhamwasp/status/2012501556894093598?s=46) that “**We know too much, and are convinced of too little**. Our literature is a substitute for religion, and so is our religion.” The spring wells of our convictions have run dry. Life has become too loud; too complicated. The masses are desperate to offload the accountability of intellectual rigor. To stem the stampede we need to return to the core of what used to spark our spirits. Our thymos. God, family, freedom, peace.
 
 **We need a renaissance of rhetoric. We need a rekindling of thymos. We need to be better at convincing each other of things** ***worth*** **being convinced of. Because before conviction comes convincing.**

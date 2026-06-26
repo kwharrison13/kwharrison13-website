@@ -32,9 +32,9 @@ There's a specific reason I'm reflecting on my writing today. It's not that I ha
 
 Reflecting over my notes of topics, there's a plethora:
 
-- Unpacking how Y Combinator is one of many institutions that have shifted to build their offering around the [value chain of capital](https://investing101.substack.com/p/the-value-chain-of-capital). Transitioning from "build something people want" to "build something seed investors want."
+- Unpacking how [[Y Combinator]] is one of many institutions that have shifted to build their offering around the [value chain of capital](https://investing101.substack.com/p/the-value-chain-of-capital). Transitioning from "build something people want" to "build something seed investors want."
 - How being a contrarian is a luxury when whatever you're building or investing on is dependent on other people. Being contrarian and right requires a market willing to be rational -- and it usually isn't.
-- Reflecting on Dostoevsky's exploration of "what does it mean to be an extraordinary man?" And how does that relate to the ongoing trial of American Exceptionalism.
+- Reflecting on Dostoevsky's exploration of "what does it mean to be an extraordinary man?" And how does that relate to the ongoing trial of [[American Exceptionalism]].
 - Figuring out the methodology for determining and qualifying what constitutes a good quest based on who you are and what your values are.
 
 Each of these are big meaty topics I've been thinking about more and more, trying to unpack. But I've also got two boys who have started waking up early on Saturday morning, wanting to watch Avengers movies with me. And who am I to say no?
@@ -43,7 +43,7 @@ Instead, I decided to take a step back and think about my writing again. I start
 
 > *"I'm not involved in the venture space at all, but I enjoy your newsletter for your analytic, perceptive, and compassionate voice. When I read the way you link ideas and topics, week to week, it always makes me think of Eugene Schwartz's **'A better word for 'creativity' is 'connectivity.''**"*
 
-And I realized that one of the aspects of writing I enjoy so much is connectivity. The thing that lights up for me is when I realize that two ideas connect is intoxicating. And writing is just the way that I can release that feeling. I think that's why I, so often, return to the Flannery O'Connor quote:
+And I realized that one of the aspects of writing I enjoy so much is connectivity. The thing that lights up for me is when I realize that two ideas connect is intoxicating. And writing is just the way that I can release that feeling. I think that's why I, so often, return to the [[Flannery O'Connor]] quote:
 
 > *"I write because I don't know what I think until I read what I say."*
 

@@ -11,6 +11,7 @@ substack_url: "https://investing101.substack.com/p/king-making-vs-taste-making"
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/sapiens">Sapiens</a></span></div>
   <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/whats-in-a-post-mortem">What's In a Post-Mortem?</a>, <a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/historical-futurism">Historical Futurism</a></span></div>
 </aside>
 <!-- connections-end -->
@@ -25,7 +26,7 @@ Whether its the [Magna Carta](https://en.wikipedia.org/wiki/Magna_Carta), or the
 
 Power is such a poignant force that it becomes increasingly difficult to believe that the top-down influence is, in any way, avoidable. A lot of people give up on ever changing anything because the powerful elite will decide everything, whether we like it or not. But I think the reality is a lot more decentralized than you might expect.
 
-[I've written before](https://investing1012dot0.substack.com/p/the-storytelling-of-investing) about a quote from Sapiens that describes the power of collective agreement in the long-tail:
+[I've written before](https://investing1012dot0.substack.com/p/the-storytelling-of-investing) about a quote from [[Sapiens]] that describes the power of collective agreement in the long-tail:
 
 > *”There are no gods in the universe, no nations, no money, no human rights, no laws, and no justice **outside the common imagination of human beings.** Whether or not something is true doesn’t impact whether you believe it.”*
 
@@ -33,7 +34,7 @@ That is, I think, an important reality about most of our institutions and system
 
 The same is true in venture. VCs often [consider themselves](https://twitter.com/NeckarValue/status/1556393120404852738?s=20) "king makers," able to tip the scales in one direction or another. The breadth of their royalty doesn't come from any God, or divine right, but simply the size of their coffers.
 
-# The Kings Of Venture Capital
+# The Kings Of [[Venture Capital]]
 
 Over the course of the bull market from 2009 to 2021, venture capital has grown quite far from the "cottage industry" of old. More capital meant more spend, more spend meant bigger operations, and bigger ambitions. The bigger the outcome, the more justification there was for more capital. **How do you fight capital? With more capital.** *(Right? Cause fight fire with fire has been a staple of the firefighting industry for decades.)*
 
@@ -41,9 +42,9 @@ No firm has more represented this king making perspective than SoftBank's $100B 
 
 ![Quote card from The Kings Of Venture Capital section](/images/king-making-vs-taste-making-116113b9.png)
 
-Firms like Sequoia felt forced to respond to the Vision Fund with their own [$8B global growth fund](https://www.ft.com/content/2fd281f2-775a-11e8-8e67-1e1a0846c475), their largest fund ever.
+Firms like [[Sequoia]] felt forced to respond to the Vision Fund with their own [$8B global growth fund](https://www.ft.com/content/2fd281f2-775a-11e8-8e67-1e1a0846c475), their largest fund ever.
 
-And the king making wasn't subtle. Around the launch of the Vision Fund, SoftBank was very clear about their intentions to invest in Uber, who was still private at the time. But during negotiations, [Masa explicitly said](https://techcrunch.com/2017/08/07/softbank-lyft-uber/) (in effect) "I want to invest in Uber, but I could also want to invest in Lyft." *If you don't take money, I'll go across the street and give it to your enemy.*
+And the king making wasn't subtle. Around the launch of the Vision Fund, SoftBank was very clear about their intentions to invest in [[Uber]], who was still private at the time. But during negotiations, [Masa explicitly said](https://techcrunch.com/2017/08/07/softbank-lyft-uber/) (in effect) "I want to invest in Uber, but I could also want to invest in [[Lyft]]." *If you don't take money, I'll go across the street and give it to your enemy.*
 
 And don't get me wrong; capital can absolutely be a powerful differentiator in enabling a winner. There's a whole discussion on [what a moat is](https://medium.com/@EqualVentures/what-is-a-moat-and-why-does-it-matter-a5252ba39b08), and how capital can strengthen and accelerate a moat, though its [hardly a moat by itself](https://www.titan.com/research/2020/10/23/is-capital-a-moat). But that doesn't stop the Kings from trying to king make.
 
@@ -59,7 +60,7 @@ But after 8 months live, the app shutdown to much humming and hawing. The king w
 
 # The Role Of Taste Making
 
-What Quibi failed to recognize was that media companies like Disney or Netflix don't have divine right to entertain us. They wrack up billions in revenue entertaining us *because we want them to.* Everyone involved has tastes, and when someone comes along expecting to assert their tastes on you, they'll find themselves disappointed, and probably at least a little bit embarrassed.
+What Quibi failed to recognize was that media companies like [[Disney]] or [[Netflix]] don't have divine right to entertain us. They wrack up billions in revenue entertaining us *because we want them to.* Everyone involved has tastes, and when someone comes along expecting to assert their tastes on you, they'll find themselves disappointed, and probably at least a little bit embarrassed.
 
 ![Animated GIF related to the role of taste making](/images/king-making-vs-taste-making-336f9d08.gif)
 
@@ -79,9 +80,9 @@ Trevor Noah [gave an interview](https://youtu.be/8_gyL3o6dIs?t=586) where he was
 >   
 >  Lesley Stahl: **"No, society defines the line."**Trevor Noah: "You see what you're saying, 'society has decided.' But America is clearly divided in that half of society has said 'No, Dave Chapelle, we love what you said.' So if half of society is saying that he's right, and half of society is saying that he's wrong, then that means that there is no line. **Society is seeing the line from two different sides.**"*
 
-I think the reality is even more complicated than that. Every person represents a complex web of preferences, interests, incentives, and in-groups. The world is filled with a complex psychology; more complex than perhaps its ever been. Memes, and culture wars, and TikTok—these are all just windows into the complexity.
+I think the reality is even more complicated than that. Every person represents a complex web of preferences, interests, incentives, and in-groups. The world is filled with a complex psychology; more complex than perhaps its ever been. Memes, and culture wars, and [[TikTok]]—these are all just windows into the complexity.
 
-# Therefore, What?
+# [[Therefore, What?]]
 
 **In a world where capitalists are primarily concerned with building kingdoms, they're missing the point of what their capital is meant to create.** People are so [dramatically uninterested in monolithic decision makers](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital) dictating their tastes. Recently, I learned that the [most watched TV episode](https://en.wikipedia.org/wiki/List_of_most_watched_television_broadcasts_in_the_United_States) of all-time is the final episode of M\*A\*S\*H in 1983. And most of the highly watched TV shows are all from the 70s and 80s. Why? Because people still had a dramatically limited selection of shows to choose from, so most people were watching the same thing. But that’s not the case anymore. People contain multitudes, maybe more today than ever before.
 

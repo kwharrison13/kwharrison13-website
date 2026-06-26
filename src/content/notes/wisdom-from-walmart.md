@@ -8,7 +8,7 @@ url: "https://www.perell.com/blog/wal-mart"
 source_published: "2019"
 confidence: "high"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/archive/clippings/Wisdom From Walmart.md"
@@ -39,7 +39,7 @@ related:
 
 **Author:** [David Perell](/notes/david-perell)
 **URL:** https://www.perell.com/blog/wal-mart
-**One-line:** *[David Perell](/notes/david-perell)'s distillation of [Sam Walton](/notes/sam-walton) and [Walmart](/notes/walmart) — drawn largely from Walton's autobiography Sam Walton: Made in America — on competitiveness as relentless self-correction, frugality as [Customer Obsession](/notes/customer-obsession), the math of Discounting, [Vertical Integration](/notes/vertical-integration) in logistics, and pushing authority to the front lines.*
+**One-line:** *[David Perell](/notes/david-perell)'s distillation of [Sam Walton](/notes/sam-walton) and [Walmart](/notes/walmart) — drawn largely from Walton's autobiography [Sam Walton: Made in America](/notes/sam-walton-made-in-america) — on competitiveness as relentless self-correction, frugality as [Customer Obsession](/notes/customer-obsession), the math of [Discounting](/notes/discounting), [Vertical Integration](/notes/vertical-integration) in logistics, and pushing authority to the front lines.*
 
 ## Key claims
 
@@ -55,12 +55,12 @@ related:
 
 ### Frugality as customer obsession
 
-- **Walton's philosophy of Wal-Mart was simple: sell the highest quality goods at the lowest possible prices.** Frugality was built into his DNA.
+- **Walton's philosophy of Wal-Mart was simple: sell the highest quality goods at the lowest possible prices.** [Frugality](/notes/frugality) was built into his DNA.
 - On staying cheap even at $50 billion-plus: **"We exist to provide value to our customers, which means that in addition to quality and service, we have to save them money. Every time Wal-Mart spends one dollar foolishly, it comes right out of our customers' pockets."** Every dollar saved put them one step ahead of the competition. (A pure statement of [Customer Obsession](/notes/customer-obsession).)
 
 ### The math of discounting
 
-- By increasing volume Wal-Mart lowered prices; lower prices grew market share; greater market share built structural advantages that kept the virtuous cycle turning. (Discounting as flywheel.)
+- By increasing volume Wal-Mart lowered prices; lower prices grew market share; greater market share built structural advantages that kept the virtuous cycle turning. ([Discounting](/notes/discounting) as flywheel.)
 - Walton's worked example: **"say I bought an item for 80 cents. I found that by pricing it at $1.00 I could sell three times more of it than by pricing it at $1.20. I might make only half the profit per item, but because I was selling three times as many, the overall profit was much greater."**
 - **"This is really the essence of discounting: by cutting your price, you can boost your sales to a point where you earn far more at the cheaper retail price than you would have by selling the item at the higher price. You can lower your markup but earn more because of the increased volume."**
 - To Walton's surprise, there was far more business in small-town America than anybody — including Walton — had ever dreamed of ([Small Towns](/notes/small-towns)).
@@ -85,9 +85,9 @@ related:
 
 ## How it connects
 
-- [Sam Walton](/notes/sam-walton) / [Walmart](/notes/walmart) — the subject; this piece is a compact source for Walton's operating philosophy, drawn from Sam Walton: Made in America.
+- [Sam Walton](/notes/sam-walton) / [Walmart](/notes/walmart) — the subject; this piece is a compact source for Walton's operating philosophy, drawn from [Sam Walton: Made in America](/notes/sam-walton-made-in-america).
 - [Self-Criticism](/notes/self-criticism) / [Spirit of Humility](/notes/spirit-of-humility) — being "less afraid of being wrong than anyone," learning from every competitor and associate. Perell ties the same trait to [Charles Darwin](/notes/charles-darwin) (thinking in reverse) and [Gordon B. Hinckley](/notes/gordon-b-hinckley) (relentless cross-disciplinary curiosity).
 - [Customer Obsession](/notes/customer-obsession) — frugality reframed as saving the customer money; the Goizueta and Walton quotes.
-- Discounting — the lower-markup-higher-volume math as the structural engine of Wal-Mart's flywheel.
+- [Discounting](/notes/discounting) — the lower-markup-higher-volume math as the structural engine of Wal-Mart's flywheel.
 - [Vertical Integration](/notes/vertical-integration) — owning distribution/logistics for a durable cost-per-unit advantage.
 - [Small Towns](/notes/small-towns) / [Metrics](/notes/metrics) / [Accountability](/notes/accountability) — the under-served small-town market, the single sales-to-inventory metric, and front-line authority.

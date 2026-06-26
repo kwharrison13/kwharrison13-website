@@ -104,7 +104,7 @@ You are in control.
 
 ![Quote card from Doubt Your Doubts section](/images/the-self-own-of-doubt-120c80db.jpg)
 
-I’ll end with a phrase from a man who I believe is a prophet, seer, and revelator alive today, akin to Moses: Dieter F. Uchtdorf. This esteemed former pilot planted a confidence seed in my soul 13 years ago when [he said](https://www.youtube.com/watch?v=APwBCEjvSJQ):
+I’ll end with a phrase from a man who I believe is a prophet, seer, and revelator alive today, akin to Moses: [[Dieter F. Uchtdorf]]. This esteemed former pilot planted a confidence seed in my soul 13 years ago when [he said](https://www.youtube.com/watch?v=APwBCEjvSJQ):
 
 > *“Faith is to hope for things which are not seen but which are true. Therefore, please, my dear brothers and sisters, my dear friends, **first doubt your doubts before you doubt your faith**.”*
 

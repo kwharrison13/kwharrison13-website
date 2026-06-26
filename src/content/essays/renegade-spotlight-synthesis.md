@@ -26,9 +26,9 @@ In the past I've written about firms that I see as renegades. Firms like [Homebr
 
 ## The Renegade: Synthesis
 
-Today Synthesis announced a $12M round led by Balaji Srinivasan and Amjad Masad, the CEO of Replit. What Synthesis is doing represents a disruptive force in venture and innovation to me in two ways: (1) Going to like-minded founders to raise capital vs. having to take high-dilution round from a traditional VC, and (2) the community they're building of young innovators as they create the "Ender's Game of education."
+Today Synthesis announced a $12M round led by [[Balaji Srinivasan]] and [[Amjad Masad]], the CEO of [[Replit]]. What Synthesis is doing represents a disruptive force in venture and innovation to me in two ways: (1) Going to like-minded founders to raise capital vs. having to take high-dilution round from a traditional VC, and (2) the community they're building of young innovators as they create the "Ender's Game of education."
 
-Synthesis was born out of the school, Ad Astra, that Synthesis co-founder Josh Dahn started with Elon Musk as part of SpaceX. The first principles of that approach to education was focused on "producing the kind of students who can contribute to solving civilization-scale problems, like getting to Mars or transitioning to sustainable energy."
+Synthesis was born out of the school, Ad Astra, that Synthesis co-founder Josh Dahn started with [[Elon Musk]] as part of SpaceX. The first principles of that approach to education was focused on "producing the kind of students who can contribute to solving civilization-scale problems, like getting to Mars or transitioning to sustainable energy."
 
 Synthesis was a piece of the Ad Astra curriculum that was focused on games that teach students collaboration and innovative problem solving. Now they've built a standalone company and have proven the massive demand for a learning experience that prepares kids for a world that is much more complex and fast-moving. Synthesis has seen 5x revenue growth, and is months away from being cash flow positive.
 

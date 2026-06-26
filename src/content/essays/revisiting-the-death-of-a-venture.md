@@ -21,21 +21,21 @@ I know a lot of people who were obsessed with Game of Thrones. And I know a lot 
 
 While I can't empathize with the laundry list of medieval surprise deaths, I can relate with the experience having watched The Walking Dead for almost 10 seasons. The show would repeatedly, and gratuitously, kill off characters. Often, characters that you thought they could never do without.
 
-That feeling of week-after-week surprises, many of them gut punches, is how I feel about the news cycle in the world of tech. From the collapse of SVB to the firing of Sam Altman to the return of Sam Altman, it's been one hit after the other. This week was no exception.
+That feeling of week-after-week surprises, many of them gut punches, is how I feel about the news cycle in the world of tech. From the collapse of SVB to the firing of [[Sam Altman]] to the return of Sam Altman, it's been one hit after the other. This week was no exception.
 
 # ClosedView Venture Partners
 
-For those of you who didn't see the news, OpenView Venture Partners based in Boston abruptly [announced](https://www.forbes.com/sites/kenrickcai/2023/12/06/openview-collapse-two-senior-leaders-mackey-craven-ricky-pelletier-quit/?sh=19387cd342bd) that it was laying off the majority of its staff and shutting down new investments. This isn't a first time fund failing to raise a second, or a fringey crowdfunding idea that failed to take shape.
+For those of you who didn't see the news, [[OpenView Venture Partners]] based in Boston abruptly [announced](https://www.forbes.com/sites/kenrickcai/2023/12/06/openview-collapse-two-senior-leaders-mackey-craven-ricky-pelletier-quit/?sh=19387cd342bd) that it was laying off the majority of its staff and shutting down new investments. This isn't a first time fund failing to raise a second, or a fringey crowdfunding idea that failed to take shape.
 
-This is a nearly-twenty year old firm with $2.4B of AUM that has invested in companies like Calendly, Datadog, and Expensify. This is a firm that has had some of its investors listed on the Midas List. Of all the venture firms you would expect to shutdown, this was certainly not on my bingo card. So what happened?
+This is a nearly-twenty year old firm with $2.4B of AUM that has invested in companies like [[Calendly]], [[Datadog]], and [[Expensify]]. This is a firm that has had some of its investors listed on the Midas List. Of all the venture firms you would expect to shutdown, this was certainly not on my bingo card. So what happened?
 
-As far as all the reporting I've read, this was a case of a partnership that broke down. The firm had previously been led by its founder, Scott Maxwell, and three other general partners — Mackey Craven, Ricky Pelletier, and Blake Bartlett. Apparently quite suddenly, both Pelletier and Craven decided to leave the firm.
+As far as all the reporting I've read, this was a case of a partnership that broke down. The firm had previously been led by its founder, Scott Maxwell, and three other general partners — Mackey Craven, Ricky Pelletier, and [[Blake Bartlett]]. Apparently quite suddenly, both Pelletier and Craven decided to leave the firm.
 
 Did the firms most recent fund have crappy-looking returns? Sure. It was mostly deployed in 2021. Did the firm have a key man clause that could trigger LP action if certain folks left? Sure. Most firms do. But were the returns uniquely bad? Definitely not. No worse than some jungle cat-themed crossover folks we know. Was the key man clause triggered? No. Maxwell and Bartlett are still with the firm.
 
 So how does a venture fund die? Lucky for me, I've already written about this in detail.
 
-# The Death of a Venture Fund
+# [[The Death of a Venture Fund]]
 
 In May 2022, I wrote a piece called "[The Death of a Venture Fund](https://investing1012dot0.substack.com/p/death)" in which I unpacked the ways a VC firm can die, albeit a typically slow death, certainly compared to OpenView's shutdown seemingly within a few days. Some of the biggest drivers? Performance, playing it safe, succession planning, bad timing, or reputation destruction. Almost all of those things take time to kill a venture fund. Outside of outright fraud, its very rare for a venture fund to throw in the towel.
 
@@ -45,7 +45,7 @@ There are some firms who revolve their whole business around buying out the port
 
 While this specific firm shutdown may have caught a lot of folks off guard (not the least of which was probably many of the people on the OpenView team), the marked increase in VC shutdowns wasn't a surprise to everyone. Two of the best predictions I saw last year:
 
-The first came from Josh Wolfe at Lux:
+The first came from [[Josh Wolfe]] at Lux:
 
 ![Source:Twitter](/images/revisiting-the-death-of-a-venture-630a052a.png)
 
@@ -89,7 +89,7 @@ I would encourage you to go read his [whole presentation](https://fintechjunkie.
 
 I've previously referred to the types of firms that build their entire strategy around scale as "capital agglomerators." I explained it [this way](https://investing1012dot0.substack.com/p/player-different-stupider-games):
 
-> *"These are firms that are truly playing out the vision of becoming the [Blackstone of Innovation](https://investing1012dot0.substack.com/p/the-blackstone-of-innovation). The goal is just to raise as much capital as humanly possible. It is unlikely that any of these kinds of firms would do what Founders Fund did a few months ago in [cutting its latest venture fund in half](https://www.theinformation.com/briefings/founders-fund-cuts-size-of-latest-venture-fund?rc=ecjlpf). People will ask, "how, in 2023, can you do an investment with a few million of ARR for a $1B valuation?" Because capital agglomerators, by attracting massive LPs who are giving them $250M a pop, are playing a dramatically different game. No LP expects 10x returns on $250M of capital. They're more than happy with 2-3x returns. **So those firms are underwriting very different outcomes. They just need those $1B entry prices to become $2-3B companies.**"*
+> *"These are firms that are truly playing out the vision of becoming the [Blackstone of Innovation](https://investing1012dot0.substack.com/p/the-blackstone-of-innovation). The goal is just to raise as much capital as humanly possible. It is unlikely that any of these kinds of firms would do what [[Founders Fund]] did a few months ago in [cutting its latest venture fund in half](https://www.theinformation.com/briefings/founders-fund-cuts-size-of-latest-venture-fund?rc=ecjlpf). People will ask, "how, in 2023, can you do an investment with a few million of ARR for a $1B valuation?" Because capital agglomerators, by attracting massive LPs who are giving them $250M a pop, are playing a dramatically different game. No LP expects 10x returns on $250M of capital. They're more than happy with 2-3x returns. **So those firms are underwriting very different outcomes. They just need those $1B entry prices to become $2-3B companies.**"*
 
 Increased pressure on venture capital as an asset class will continue to further exacerbate concentration. LPs will look for exposure to what they see as the dominant fund managers and likely see a similar form of consolidation to what you've seen in fields like consulting ([Big 3](https://mconsultingprep.com/mbb-consulting-firms-mckinsey-bcg-bain)), accounting ([Big 4](https://big4accountingfirms.org/)), and [bulge-bracket banking](https://www.investopedia.com/terms/b/bulgebracket.asp).
 
@@ -111,6 +111,6 @@ One example? A comfort around capital intensity. I liked how Delian [recently pu
 
 > *"I think that if you look at it over the next decade what types of companies are going to be generating the most returns and have the most impact on society, I think people are going to realize that the falsehood of zero marginal cost of software was actually complete fake news, in that **if you have zero marginal cost it also means you have zero moat** because it means two Stanford grads can go build the same shitty piece of software and go sell it as well.   
 >   
-> I think venture capitalists are starting to awaken to the idea that ultimately what you need to be aiming for is the most long tail of outcomes. And if you look at the top 5 companies in the NASDAQ right now--Apple, Nvidia, Tesla. People are starting to realize that **in order to build these long tail outcome companies you actually need to build things that tend to be a little bit more capex expensive and so that tends to mean that its something that is easier done when you have venture capitalist effectively as a co-founder.** And so I think you'll see some more of it, mostly because I think the most interesting companies are going to be more capex intensive over the next decade."*
+> I think venture capitalists are starting to awaken to the idea that ultimately what you need to be aiming for is the most long tail of outcomes. And if you look at the top 5 companies in the NASDAQ right now--[[Apple]], [[Nvidia]], [[Tesla]]. People are starting to realize that **in order to build these long tail outcome companies you actually need to build things that tend to be a little bit more capex expensive and so that tends to mean that its something that is easier done when you have venture capitalist effectively as a co-founder.** And so I think you'll see some more of it, mostly because I think the most interesting companies are going to be more capex intensive over the next decade."*
 
 Comfort around capital intensity is not the only product that can keep a venture fund alive and thriving. There are a myriad of ways to stand out as a firm. But increasingly, the stakes have been raised. **And now its not just a question of facing superiority or irrelevance. It's a function of facing qualification for the [right to survive](https://investing1012dot0.substack.com/p/surviving-the-death-of-venture-capital), or death.**

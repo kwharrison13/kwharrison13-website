@@ -11,13 +11,13 @@ substack_url: "https://investing101.substack.com/p/hijacking-the-hucksters-hypeb
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
   <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-big-short">The Big Short</a></span></div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/dr-tokens-or-how-i-learned-to-stop">Dr. Tokens or: How I Learned to Stop Worrying and Love the AI Bubble</a>, <a href="/essays/institutionalized-belief-in-the-greater">Institutionalized Belief In The Greater Fool</a>, <a href="/essays/revisiting-clarity-of-thought">Revisiting Clarity of Thought</a>, <a href="/essays/cultivating-cults">Cultivating Cults</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/investing-101">Investing 101</a>, <a href="/essays/dr-tokens-or-how-i-learned-to-stop">Dr. Tokens or: How I Learned to Stop Worrying and Love the AI Bubble</a>, <a href="/essays/institutionalized-belief-in-the-greater">Institutionalized Belief In The Greater Fool</a>, <a href="/essays/revisiting-clarity-of-thought">Revisiting Clarity of Thought</a>, <a href="/essays/cultivating-cults">Cultivating Cults</a></span></div>
 </aside>
 <!-- connections-end -->
 
 ![Header image for Hijacking The Huckster's Hypebook](/images/hijacking-the-hucksters-hypebook-bee5b90bdcd6.png)
 
-This is a free weekly newsletter about the art and science of building and investing in tech companies. To receive Investing 101 in your inbox each week, subscribe here:
+This is a free weekly newsletter about the art and science of building and investing in tech companies. To receive [[Investing 101]] in your inbox each week, subscribe here:
 
 ---
 
@@ -27,7 +27,7 @@ Granted, plenty of it is subconscious biological framings and pre-programmings. 
 
 Those stories, however, aren't always good stories. Sometimes they're stories woven together to prey on our fears. Nazi Germany is a hallmark of bad stories. Other times the stories are too good to be true... because they are. Frauds, cons, and fantasies.
 
-**One of the most disconcerting realities of capital allocation is the incredibly fine line between fraud and fancy**. Are we investing ahead of future inflection? Or are we the last sucker at the dance? For every Sam Walton, there's more than one Bernie Madoff. For every Steve Jobs, there's more than one Elizabeth Holmes. For every Elon Musk, there's more than one Adam Neumann.
+**One of the most disconcerting realities of capital allocation is the incredibly fine line between fraud and fancy**. Are we investing ahead of future inflection? Or are we the last sucker at the dance? For every [[Sam Walton]], there's more than one Bernie Madoff. For every [[Steve Jobs]], there's more than one Elizabeth Holmes. For every [[Elon Musk]], there's more than one [[Adam Neumann]].
 
 *Billions* of dollars have been deployed both for good and for ill. Towards meaningful long-term outcomes *and* towards flash-in-the-pan fantasies. So much of my obsession with the art of capital allocation is in pursuit of more effective allocation. So when you see billions of dollars being deployed towards ineffectual missions, it grinds my gears.
 
@@ -49,18 +49,18 @@ One of the immediate hesitations you might have with this comp set is that they'
 
 * **Straight-Up Fraud**: These are the companies that we'll describe as "actively" committing crimes. Wirecard fabricated bank statements, Luckin' Coffee [fabricated](https://www.sec.gov/newsroom/press-releases/2020-319) retail receipts, Charlie Javice [made up](https://www.entrepreneur.com/business-news/charlie-javice-forbes-30-under-30-star-convicted-of-fraud/489306) users, Headspin made up [fake invoices](https://yro.slashdot.org/story/24/04/21/192254/lying-to-investors-co-founder-of-startup-headspin-gets-18-month-prison-sentence-for-fraud).
 * **Roads To Nowhere**: Here's where some tricky nuance comes in that requires this to be "the gospel according to Kyle." Many (most) of the people in this bucket *also* committed crimes. But my sense is that they were "fake it 'til you make it" tactics taken too far. Plenty of successful companies, like [Reddit](https://x.com/alexisohanian/status/2029316325802168389?s=20), faked users early on. Some just took it dramatically too far. And you could say the straight-up frauds were too, but faking a paper trail vs. faking capabilities feels different to me; so sue me (no... don't sue me.) Theranos, FTX, Nikola Motors, Chesapeake Energy, all built their roads on crime. But then there's Quibi, Stability AI, Juicero, Hopin. Not crimes... but not good.
-* **Bridges To Ugly**: This, I would describe, as a uniquely difficult bucket to qualify for. Seemingly, no crime. Also, not failing to do what they said they would do. In fact, they did exactly what they said they would do. But it turned out to be just absolutely horrific business internals to the point where the collapse is caused not by a shifting macro or falsified narrative. It just turns out to be an ugly business. The only example of this I could think of? WeWork. Maybe there are others. But I think its a pretty unique story.
+* **Bridges To Ugly**: This, I would describe, as a uniquely difficult bucket to qualify for. Seemingly, no crime. Also, not failing to do what they said they would do. In fact, they did exactly what they said they would do. But it turned out to be just absolutely horrific business internals to the point where the collapse is caused not by a shifting macro or falsified narrative. It just turns out to be an ugly business. The only example of this I could think of? [[WeWork]]. Maybe there are others. But I think its a pretty unique story.
 * **Fakery In Flight**: Here we tread dangerous water. Because, on these, the jury is still out. Prime example? Figure AI. The company has raised $2B+ at a valuation of $39B, all with effectively no revenue. Brett Adcock, the CEO, has [claimed](https://finance.yahoo.com/news/ceo-heavily-funded-humanoid-robot-185637777.html) the company has a massive deployment unfolding at a BMW plant. But BMW [pushed back](https://finance.yahoo.com/news/ceo-heavily-funded-humanoid-robot-185637777.html) on the details. Met with skepticism, Brett's gotten spicy online, sometimes litigious. Who knows, maybe he'll pull it off. Granted, we're still waiting for his last company, Archer Aviation, to turn a profit.
 
-Hype machines also go through evolutions. There are plenty of people who believed Tesla was a house of cards for years (some of them *still* believe that.) This is what I'm talking about; the fine line between fraud and fancy. Startups are, inherently, built on hot air. It can be difficult to toe the line between the two. **But when things do turn to fraud, or even just ineffectual waste, like some of the non-criminal Quibi's and Hopins of the world, it is a legitimate cost!**
+Hype machines also go through evolutions. There are plenty of people who believed [[Tesla]] was a house of cards for years (some of them *still* believe that.) This is what I'm talking about; the fine line between fraud and fancy. Startups are, inherently, built on hot air. It can be difficult to toe the line between the two. **But when things do turn to fraud, or even just ineffectual waste, like some of the non-criminal Quibi's and Hopins of the world, it is a legitimate cost!**
 
 ## The Real Cost of Hucksterism
 
 Let's do some rough math (read: estimates). From 2000 to today, there was ~$3 trillion of venture capital deployed in the US. As we all know, a good chunk of venture-backed startups fail. At *least* ~50% of that went to zero, so $1.5 trillion. But, similar to the inequality of hucksters, not all failure is created equal. Break down all $3 trillion into a couple buckets:
 
-* **Big Wins**: The mystical power law 20%; maybe ~$600B went into Google, Facebook, Uber, Airbnb, Stripe, etc.
+* **Big Wins**: The mystical power law 20%; maybe ~$600B went into [[Alphabet|Google]], [[Facebook]], [[Uber]], Airbnb, [[Stripe]], etc.
 * **Modest Returns**: The 1-3x returns that make up ~15%; ~$450B that didn't return entire funds for investors, but didn't lose money.
-* **Productive Failure**: The ~25% of failures that make up a bedrock of what [I've written about before](https://investing101.substack.com/p/dr-tokens-or-how-i-learned-to-stop) as Silicon Valley's accelerated failure archive; a "density of documented, autopsied, learned-from failures." That's like $750B of the total.
+* **Productive Failure**: The ~25% of failures that make up a bedrock of what [I've written about before](https://investing101.substack.com/p/dr-tokens-or-how-i-learned-to-stop) as [[Silicon Valley]]'s accelerated failure archive; a "density of documented, autopsied, learned-from failures." That's like $750B of the total.
 * **Ineffectual Waste**: This is a ~27% cut that starts to get into our playbook; the $800B that went to the 47th food delivery app, the 18th D2C mattress brand. This category exploded during ZIRP and took a lot of capital with it.
 * **Spectacular Failure**: This is the 10% of capital that found its way into massive black eyes; $300B for Jawbone, Katerra, Hopin, Quibi, the SPAC-era, most of the SoftBank Vision Fund, or even going back to the Dot-Com blowups like Webvan and Pets.com.
 * **Outright Fraud**: Finally, we have the ~3% that went to the criminals; $100B for FTX, Theranos, Nikola, Wirecard, SEC violations and DOJ indictments.
@@ -89,7 +89,7 @@ Hopin's founder, [Johnny Boufarhat](https://www.linkedin.com/in/johnny-boufarhat
 
 ## Media Manipulation as Air Cover
 
-Theranos was constantly lauded as a breakthrough on Forbes, Inc., Time, etc. FTX had the [infamous](https://web.archive.org/web/20221027181005/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/) Sequoia profile where he was playing League of Legends while pitching. On top of that, he was a major donor and/or investor to publications like Semafor and ProPublica. He even appeared on stage NYT DealBook Summit *after* being indicted but before being charged!
+Theranos was constantly lauded as a breakthrough on Forbes, Inc., Time, etc. FTX had the [infamous](https://web.archive.org/web/20221027181005/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/) [[Sequoia]] profile where he was playing League of Legends while pitching. On top of that, he was a major donor and/or investor to publications like Semafor and ProPublica. He even appeared on stage NYT DealBook Summit *after* being indicted but before being charged!
 
 Nikola Motors pursued public listing through a SPAC than enabled Trevor Milton to get online, and any media platform that would have him, to offer up what future prosecutors would describe as "lie after lie after lie."
 
@@ -117,21 +117,21 @@ Quibi has been described as a company more interested in legal warfare than prod
 
 Theranos had probably one of the most prestigious boards out there. Three former cabinet secretaries, two former senators, a retired admiral, a retired general. Tim Draper was defending Elizabeth Holmes, even after she was sentenced!
 
-Quibi was right down the fairway for media mogul founder, Jeffrey Katzenberg, a former Disney exec and DreamWorks founder, that he brought his own "associative approval" to the table.
+Quibi was right down the fairway for media mogul founder, Jeffrey Katzenberg, a former [[Disney]] exec and DreamWorks founder, that he brought his own "associative approval" to the table.
 
 SBF paid Tom Brady $55M, Steph Curry $35M, and Larry David $10M, all to endorse FTX. Some people described the strategy as "credibility laundering." It didn't stop at individuals. The company spent $130M on an NBA sponsorship, $135M to name the Miami Heat stadium, and on and on.
 
 Nikola Motors deliberately got large OEMs, like GM and Bosch, to invest in the company, framing it as having been vetted by "some of the largest organizations in the world."
 
-Adam Neumann had Jamie Dimon vouching for him, both personally and as the company's banker. He brought along "the world's smartest money" - - T. Rowe Price, Fidelity, Goldman Sachs, Harvard Management Company.
+Adam Neumann had Jamie Dimon vouching for him, both personally and as the company's banker. He brought along "the world's smartest money" - - T. Rowe Price, Fidelity, [[Goldman Sachs]], Harvard Management Company.
 
 ## Personal Mythology
 
 Elizabeth Holmes had her famous black turtleneck and deep voice. She said she had 50+ turtlenecks, even tracking down Issey Miyake to get her own authentic "Steve Jobs turtlenecks." When she got drunk, she would let the deep voice slip. It was her way of "being taken seriously."
 
-SBF had his messy hair and cargo shorts. In fact, the company's Bahamas HQ was supposedly designed based on SBF's crazy hair. Michael Lewis, who wrote The Big Short, was following SBF around for a book during his fall from grace, and yet Lewis' book *still* came out pretty grandiose / complimentary of SBF!
+SBF had his messy hair and cargo shorts. In fact, the company's Bahamas HQ was supposedly designed based on SBF's crazy hair. Michael Lewis, who wrote [[The Big Short]], was following SBF around for a book during his fall from grace, and yet Lewis' book *still* came out pretty grandiose / complimentary of SBF!
 
-Adam Neumann is, honestly, more myth than man. Barefoot walks through the streets of New York, ayahuasca-laced corporate retreats, the mission of "elevating human consciousness."
+Adam Neumann is, honestly, more myth than man. Barefoot walks through the streets of [[New York City|New York]], ayahuasca-laced corporate retreats, the mission of "elevating human consciousness."
 
 The founder of Wirecard cultivated the image of a quiet, brilliant Austrian technologist who "preferred letting the numbers speak."
 
@@ -139,7 +139,7 @@ Hopin's CEO? Every profile repeated the same arc: sick kid, bedroom coder, pande
 
 ## Invented Metrics as Goalpost Shifting
 
-WeWork's infamous Community Adjusted EBITDA that took out \*checks notes\* "marketing, G&A, development, design costs, building-level operating expenses including rent, utilities, building staff salaries, and amenities." What's even crazier? WeWork's CFO said he got "no pushback from investors" on that metric...
+WeWork's infamous Community Adjusted [[EBITDA]] that took out \*checks notes\* "marketing, G&A, development, design costs, building-level operating expenses including rent, utilities, building staff salaries, and amenities." What's even crazier? WeWork's CFO said he got "no pushback from investors" on that metric...
 
 I don't even know how to begin to unpack FTX's creation of its token dynamics as a mythical "metric." SBF used Alameda to prop up the price of FTT and the rest is history.
 

@@ -62,7 +62,7 @@ related:
 - [Philippe Laffont](/notes/philippe-laffont) / [Thomas Laffont](/notes/thomas-laffont) — founder and private-strategies lead.
 - [Alex Izydorczyk](/notes/alex-izydorczyk) — the 23-year-old head of data science at the center of the story.
 - [Alternative Data](/notes/alternative-data) / credit-card data — the raw material (vendors: Yodlee, Earnest, Facteus, IRI, Consumer Edge); a cautionary case in alt-data's edge decaying as it commoditizes.
-- The broader theme of founder-led firms struggling to genuinely delegate a new discipline — buy-in that's nominal at the top corrodes everything beneath it.
+- The broader theme of [founder-led firms](/notes/founder-led-firms) struggling to genuinely delegate a new discipline — buy-in that's nominal at the top corrodes everything beneath it.
 - [Data in Investing](/notes/data-in-investing) — the central question of the piece: whether and how data science can be melded with traditional fundamental investing, and the culture clash that hobbled Coatue's attempt.
 - [Moneyball](/notes/moneyball) — Thomas Laffont invoked the Astros' data-vs-scouts transition on the Domino panel as a model for Coatue's data effort, just as its quant fund was collapsing.
 - [Capital Allocation](/notes/capital-allocation) — a cautionary case in how a stock-picker's allocation instincts (scaling strategies on conviction rather than quantitative rationale) clashed with a systematic mandate.

@@ -27,12 +27,12 @@ At several different phases of my life, I've tried to encapsulate what I felt wa
 
 But I also have nuggets that have guided me through my life; different notes I’ve had played at different times:
 
-- Whatever you are, be a good one.
+- [[Whatever you are, be a good one]].
 - Don't rain on somebody's hustle.
 - Prepare for the worst, and expect the best to come from it.
 - Don't look to complain. Look to improve.
 
-Each of us has some version of the things we learn that guide our actions. [I've written before](https://investing101.substack.com/p/my-cup-runneth-over?utm_source=publication-search) about the moral obligation of wisdom acquisition. In it, I referenced [a talk](https://www.youtube.com/watch?v=jY1eNlL6NKs) by Charlie Munger:
+Each of us has some version of the things we learn that guide our actions. [I've written before](https://investing101.substack.com/p/my-cup-runneth-over?utm_source=publication-search) about the moral obligation of wisdom acquisition. In it, I referenced [a talk](https://www.youtube.com/watch?v=jY1eNlL6NKs) by [[Charlie Munger]]:
 
 > *"**The acquisition of wisdom is a moral duty. It's not something you do just to advance in life.** And there's a corollary to that idea that is very important. It requires that you're hooked on lifetime learning. Without lifetime learning, you people are not going to do very well. **You are not going to get very far in life based on what you already know. You're going to advance in life by what you learn after you leave here.**"*
 
@@ -40,11 +40,11 @@ So that knowledge we're gathering? That isn't a nice to have. It isn't even just
 
 # Writing Music
 
-For some people, your music becomes a collection of guiding principles. Some great examples include Morgan Housel's [Permanent Assumptions](https://collabfund.com/blog/permanent-assumptions/). He describes his music this way:
+For some people, your music becomes a collection of guiding principles. Some great examples include [[Morgan Housel]]'s [Permanent Assumptions](https://collabfund.com/blog/permanent-assumptions/). He describes his music this way:
 
 > *"Some things are always changing and can’t be known. There can also be a handful of things you have unshakable faith in – your permanent assumptions."*
 
-Others, like Patrick Collison, collect it in [bulleted lists of advice](https://patrickcollison.com/advice), or like Visa Veerasamy, in [lists](https://x.com/visakanv/status/1288662459138502656) of "30 things I learned by 30." **Each of these are attempting to do the same thing: take the music they're feeling swirl around them and then reaching out to capture it**.
+Others, like [[Patrick Collison]], collect it in [bulleted lists of advice](https://patrickcollison.com/advice), or like Visa Veerasamy, in [lists](https://x.com/visakanv/status/1288662459138502656) of "30 things I learned by 30." **Each of these are attempting to do the same thing: take the music they're feeling swirl around them and then reaching out to capture it**.
 
 One of the reasons people feel so drawn to create is because thats how you write the music. Whether its writing, tweeting, singing, talking, making videos, rapping, building, crafting — **we're reaching out to the things swirling around in our hearts and heads, and then doing what we can to live up to what we feel like we've been given**.
 

@@ -36,9 +36,9 @@ In a similar vein, there is a meme using images like Thomas Cole’s “[Course 
 
 An exceptional, and comparable, line exists in Herdotus’ *Histories* when Cyrus [says](https://www.reddit.com/r/AskHistorians/comments/hd78tv/does_the_aphorism_hard_times_create_strong_men/), “Soft lands breed soft men; wondrous fruits of the earth and valiant warriors do not grow from the same soil.”
 
-**I believe that venture capital is experiencing a comparable Fourth Turning**. Venture was born out of the crisis of WWII with an industrial surge and no system to build it; the government bootstrapped a capability with the help of Bell Labs, ARDC, etc., but needed something more sustainable going into the Cold War.
+**I believe that venture capital is experiencing a comparable Fourth Turning**. Venture was born out of the crisis of WWII with an industrial surge and no system to build it; the government bootstrapped a capability with the help of [[Bell Labs]], ARDC, etc., but needed something more sustainable going into the Cold War.
 
-- **(1) The High (1960-1980)**: The new civic order of venture capital emerges. Davis & Rock in 1961, Sequoia and Kleiner in 1972. A confident, cohesive professional craft forms; apprenticeship, power law discipline, partnership norms, strong institutions, shared values, collective confidence.
+- **(1) The High (1960-1980)**: The new civic order of venture capital emerges. Davis & Rock in 1961, [[Sequoia]] and Kleiner in 1972. A confident, cohesive professional craft forms; apprenticeship, power law discipline, partnership norms, strong institutions, shared values, collective confidence.
 - **(2) The Awakening (1980-2000)**: Venture catches religion as values are upheaved from a quiet financial craft to a world-changing mission. From Doerr-era mission-driven evangelism to the rapid succession of PC and internet rattling the world. Disciplined guild ethos of the 1970s overheats in the Dot Com amidst a genuine spiritual upheaval.
 - **(3) The Unraveling (2000-2020)**: Mission-driven and founder-friendlies win the culture war and become dominant, dismantling centralized standards. a16z starts in 2009 and shatters the partnership model with the platform model while YC industrializes seed investing. The single cohesive guild culture splinters into a thousand different brands, strategies, and personalities. Strengthening individualism (e.g. solo GPs), weakening shared norms (bad behavior abounds).
 - **(4) The Crisis (2020-2040?)**: That fragmented, individualized orders gets torn down. COVID may have been the spark, but the 2022 rate shock exacerbates it, we see SVB collapse, plus the 2021 vintage overhang from Tiger, SoftBank et al. Choking denominator effect, zombie funds, capital concentration. Every rebirth is catalyzed as the Crisis forges the new world order. Ours? The AI Supercycle. Do companies need more capital or less? Is capital a barbell or a spectrum?
@@ -69,9 +69,9 @@ Some are pure hype; pre-revenue labs being valued at multi-billion dollar valuat
 
 ![](/images/venture-capitals-fourth-turning-9dc2cdef.png)
 
-But the obvious pushback on the eve of SpaceX’s long-awaited IPO is that the outsized outcomes *are* coming! People will say OpenAI, Anthropic, and even SpaceX are the new hyperscalers. But are they? Or are they tentative hype-cycle benefactors with deep question marks around their long-term viability?
+But the obvious pushback on the eve of SpaceX’s long-awaited IPO is that the outsized outcomes *are* coming! People will say [[OpenAI]], Anthropic, and even SpaceX are the new hyperscalers. But are they? Or are they tentative hype-cycle benefactors with deep question marks around their long-term viability?
 
-The default optimism is to say things like SpaceX is undervalued at $1.75T, its launch business is immaterial relative to the $23T of TAM it’s going after, and the $26B of annual revenue its receiving from folks like Anthropic and Google is definitely durable and not incidental.
+The default optimism is to say things like SpaceX is undervalued at $1.75T, its launch business is immaterial relative to the $23T of TAM it’s going after, and the $26B of annual revenue its receiving from folks like Anthropic and [[Alphabet|Google]] is definitely durable and not incidental.
 
 And the default logic to support this kind of disparity is the promise of future opportunity. That’s not to say that these exceptional companies won’t prove to be relatively cheap today in the future as their businesses continue to swell. Many have done just that. But, despite the reality of the upside of the power law, that 80/20 split also means that 80% of the companies will NOT drive comparable outsized value to the 20% of outliers that will. **As a result, the majority of private companies are likely overvalued and always will be.**
 
@@ -85,7 +85,7 @@ What gets measured gets managed and the focus is, increasingly, being placed on 
 
 ![](/images/venture-capitals-fourth-turning-b36d9707.png)
 
-Firms like USV, Benchmark, etc. were built around a disciplined mentality of “your fund size is your strategy.” Meanwhile, capital agglomerators, like a16z, Lightspeed, etc. raced to build larger and larger empires, fueled by multi-billion dollar pools of AUM.
+Firms like USV, [[Benchmark]], etc. were built around a disciplined mentality of “your fund size is your strategy.” Meanwhile, capital agglomerators, like a16z, Lightspeed, etc. raced to build larger and larger empires, fueled by multi-billion dollar pools of AUM.
 
 ![](/images/venture-capitals-fourth-turning-13e8a900.png)
 
@@ -105,7 +105,7 @@ But at some point we have to stop and ask... are those rounds even venture capit
 
 The largest are actually more like sovereign / strategic investments: OpenAI’s $122B raise was the largest private round in history at an $852B valuation, and sovereign funds like GIC, Temasek, QIA, and Mubadala have become the definitive players, treating frontier AI as a sovereign-wealth-class asset rather than venture. Akin to new-age oil money.
 
-What’s more, the entire ecosystem is built around dramatically complex and interconnected circular incentives / funding mechanisms. Nvidia committing up to $100B to OpenAI to build data-centers, Google raising $80B in equity because bank financing is [choking](https://www.ft.com/content/08aba5e4-5834-4e79-a48d-989a2c5bad0f?syn-25a6b1a6=1) on the $1T+ investment this whole ecosystem is requiring.
+What’s more, the entire ecosystem is built around dramatically complex and interconnected circular incentives / funding mechanisms. [[Nvidia]] committing up to $100B to OpenAI to build data-centers, Google raising $80B in equity because bank financing is [choking](https://www.ft.com/content/08aba5e4-5834-4e79-a48d-989a2c5bad0f?syn-25a6b1a6=1) on the $1T+ investment this whole ecosystem is requiring.
 
 All of it is starting to “rhyme” with the vibes from 1929 or 2000; the kind of economic intertwining that typically precedes a Crisis climax rather than its opening.
 
@@ -113,21 +113,21 @@ All of it is starting to “rhyme” with the vibes from 1929 or 2000; the kind 
 
 Even more so than the shifting economic model of venture is the cultural ethos.
 
-In the early 2000s, Google [established](https://en.wikipedia.org/wiki/Don%27t_be_evil) the motto, “Don’t be evil.” Facebook’s [motto](https://hbr.org/2019/01/the-era-of-move-fast-and-break-things-is-over) of “move fast and break things” was never meant to extend to breaking democracy or people’s brains. OpenAI was started in 2015 *as a non-profit* to benefit all of humanity until they realized that benefit was so dramatically more monetizable than they originally realized.
+In the early 2000s, Google [established](https://en.wikipedia.org/wiki/Don%27t_be_evil) the motto, “Don’t be evil.” [[Facebook]]’s [motto](https://hbr.org/2019/01/the-era-of-move-fast-and-break-things-is-over) of “move fast and break things” was never meant to extend to breaking democracy or people’s brains. OpenAI was started in 2015 *as a non-profit* to benefit all of humanity until they realized that benefit was so dramatically more monetizable than they originally realized.
 
 Technology, for a long time, had a “make the world a better place” energy. So much so that it was a fundamental part of the joke in [a 2014 episode](https://www.youtube.com/watch?v=B8C5sjjhsso) of Silicon Valley making fun of a series of TechCrunch Disrupt pitches.
 
 You look at the categories that used to be hot and how they were framed, and it feels like a relic of a different civilization.
 
-MOOCs (”education for everyone”), One Laptop Per Child, Google Fiber, Facebook’s Internet.org/Free Basics (”connect the next billion”) the “sharing economy” sold as community (Airbnb “Belong Anywhere,” Uber “transportation for everyone”).
+MOOCs (”education for everyone”), One Laptop Per Child, Google Fiber, Facebook’s Internet.org/Free Basics (”connect the next billion”) the “sharing economy” sold as community (Airbnb “Belong Anywhere,” [[Uber]] “transportation for everyone”).
 
 Now, everything feels like it’s about arbitrage. Labor arbitrage in marketplaces, the gamblification of everything with prediction markets, AI companions optimized for time-on-app, content farms producing the purest of slop.
 
 That moral repositioning isn’t new; it’s been playing out for the last several years. But now its coming home to roost. People have a default negativity when it comes to technology.
 
-71% of Americans would oppose a data center near their home, up from 42% nine months earlier. A record number of data centers were canceled in Q1 2026 amid community resistance, and Morgan Stanley flagged public pushback as a binding constraint on AI buildout. Data-center even recently opposition helped tip recent elections in Virginia and Republican-leaning Georgia; candidates in both parties now treat it as toxic.
+71% of Americans would oppose a data center near their home, up from 42% nine months earlier. A record number of data centers were canceled in Q1 2026 amid community resistance, and [[Morgan Stanley]] flagged public pushback as a binding constraint on AI buildout. Data-center even recently opposition helped tip recent elections in Virginia and Republican-leaning Georgia; candidates in both parties now treat it as toxic.
 
-In fact, AI overall is viewed less favorably than Donald Trump or ICE.
+In fact, AI overall is viewed less favorably than [[Donald Trump]] or ICE.
 
 ![Source: WSJ](/images/venture-capitals-fourth-turning-246cdba6.png)
 
@@ -137,11 +137,11 @@ All of that, combined with VCs’ broader moves into explicit political activity
 
 For its whole history, venture operated *inside* the civic order’s economic subsystems. A financier allocates capital under rules that someone else writes. But a governing-class actor is something categorically different: **instead of following the rules, it writes new rules, staffs its own institutions, and provides its own definition of “legitimacy.”**
 
-The Unraveling of the first two decades of the 21st century broke the old system. You see it in the dissolution of institutional trust across the board. A stark contrast between the old-guard “values” that were trying to align with existing systems and “make the world a better place” vs. the new-age stance is Marc Andreessen’s [Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/). You would certainly expect it to lay out the case; what is the clarion call for techno-optimists everywhere? But what it also does is explicitly articulates “the enemy.”
+The Unraveling of the first two decades of the 21st century broke the old system. You see it in the dissolution of institutional trust across the board. A stark contrast between the old-guard “values” that were trying to align with existing systems and “make the world a better place” vs. the new-age stance is [[Marc Andreessen]]’s [Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/). You would certainly expect it to lay out the case; what is the clarion call for techno-optimists everywhere? But what it also does is explicitly articulates “the enemy.”
 
 > *“Our present society has been subjected to a mass demoralization campaign for six decades – against technology and against life – under varying names like “existential risk”, “sustainability”, “ESG”, “Sustainable Development Goals”, “social responsibility”, “stakeholder capitalism”, “Precautionary Principle”, “trust and safety”, “tech ethics”, “risk management”, “de-growth”, “the limits of growth”.”*
 
-**Almost every facet of technology’s new shape is a representative seizing of the “old guard.”** VCs moving directly into government roles, crypto and stablecoin enable a push into monetary control, defense-tech and American Dynamism reaches for the state’s monopoly on organized violence, tech-enabled super-PACs operating as open kingmakers, not quiet donors, network-state and “exit” ideas, charter cities, the Balaji-style ambition to literally reincarnate new nation states.
+**Almost every facet of technology’s new shape is a representative seizing of the “old guard.”** VCs moving directly into government roles, crypto and stablecoin enable a push into monetary control, defense-tech and American Dynamism reaches for the state’s monopoly on organized violence, tech-enabled super-PACs operating as open kingmakers, not quiet donors, network-state and “exit” ideas, charter cities, the [[Balaji Srinivasan|Balaji]]-style ambition to literally reincarnate new nation states.
 
 We’re not making the world a better place. We’re reshaping the world in our image.
 
@@ -181,7 +181,7 @@ Criticizing anything can be a real struggle because everything has nuance.
 
 Has technology become riddled with arbitrage-driven exploitation? Yes. But has it also always had a role in improving people’s quality of life? Also yes.
 
-And that continues. Biotech, GLP-1s, industrialization, etc.
+And that continues. Biotech, [[GLP-1|GLP-1s]], industrialization, etc.
 
 Focusing on *The Fourth Turning* can feel like a Nihilistic exercise; it ends with the Crisis. Bummer. But the reality is **the Crisis is the only turning that builds.** The High doesn’t author its own values; it inherits them from the Crisis that came right before it. The confident, institution-rich America of 1946 wasn’t conjured in 1946. It was forged between 1929 and 1945. **The worldview of the rebirth gets written *****during***** the reckoning, not after it.**
 

@@ -49,7 +49,7 @@ So let's lay out the landscape clearly. What is the status quo in venture that n
 
 ## An Unimpressive Musical Menagerie
 
-But first? Story time. I'm nobodies idea of a well-informed person when it comes to music. I'm a perfect example of a poser. **My music taste has been an adaptive muscle based on who I was trying to impress.** Before 2005 I was listening to country because that's what my parents listened to. In 2006 my brother got me into a weird combination of ska, [jazz](https://www.youtube.com/watch?v=ousaiByU1ko), and Weird Al. In 2007 I was listening to [System of a Down](https://www.youtube.com/watch?v=CSvFpBOe8eY) and Paramore to impress a girl that had way too many strong emotions for me to handle. I was like a far-right Republican on Facebook. I'd be into whatever you told me about.
+But first? Story time. I'm nobodies idea of a well-informed person when it comes to music. I'm a perfect example of a poser. **My music taste has been an adaptive muscle based on who I was trying to impress.** Before 2005 I was listening to country because that's what my parents listened to. In 2006 my brother got me into a weird combination of ska, [jazz](https://www.youtube.com/watch?v=ousaiByU1ko), and Weird Al. In 2007 I was listening to [System of a Down](https://www.youtube.com/watch?v=CSvFpBOe8eY) and Paramore to impress a girl that had way too many strong emotions for me to handle. I was like a far-right Republican on [[Facebook]]. I'd be into whatever you told me about.
 
 In 2008 I worked as a stage hand in a theatre where the director introduced me to Rage Against the Machine. Fast forward to today, I'm mostly listening to whatever Spotify's "Top Pop" playlist has for me (Again. Uninformed.) **But one song stuck with me from my random smattering of musical experiences.**
 
@@ -59,7 +59,7 @@ Venture capital is a tool to help spread impactful ideas. The renegades are reco
 
 ## The Disruptable
 
-So what is the status quo in venture? What is the disruptable standard? Every time I explain some of the negative driving forces in venture it often comes back to the way VC firms have structured themselves. Since the 60's and 70's when old-school firms like Kleiner and Sequoia were getting started these firms were structured around a partnership. **These partnerships were made up of mostly old white dudes and as far as the firm was concerned? They are God.** They dictate every aspect of the strategy of the firm.
+So what is the status quo in venture? What is the disruptable standard? Every time I explain some of the negative driving forces in venture it often comes back to the way VC firms have structured themselves. Since the 60's and 70's when old-school firms like Kleiner and [[Sequoia]] were getting started these firms were structured around a partnership. **These partnerships were made up of mostly old white dudes and as far as the firm was concerned? They are God.** They dictate every aspect of the strategy of the firm.
 
 > *"[No matter what they added](https://investing1012dot0.substack.com/p/productization?s=w) or took away they've always been the center of the universe in their respective firms. Lots of partners, few partners. Do they offer help with talent? Do they find you customers? Do they invest exclusively in niche dog-related verticals or do they invest across all physical and digital mediums?"*
 
@@ -117,7 +117,7 @@ Some firms? They're upfront about it. "Your bonus this year is lower because you
 
 ## The Innovator's Dilemma
 
-In 1997 Harvard professor Clayton Christensen published a book called "[The Innovator's Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)." There are a number of phenomenal lessons to be learned but I want to focus on this key idea of how large established players fail to innovate *even when they desperately want to.*
+In 1997 Harvard professor [[Clayton Christensen]] published a book called "[The Innovator's Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)." There are a number of phenomenal lessons to be learned but I want to focus on this key idea of how large established players fail to innovate *even when they desperately want to.*
 
 Large established firms do well by understanding the market in which they operate, listening to what customers want, and building for the mainstream. **Disruption occurs when a new way of doing things emerges.**
 

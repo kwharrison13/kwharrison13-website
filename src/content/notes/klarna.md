@@ -2,30 +2,31 @@
 title: "Klarna"
 type: "company"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/Watershed Climate Diligence — 2021.md"
-tags: []
+  - "wiki/diligence-research/Watershed Climate Diligence — 2021.md"
+tags:
+  - "fintech"
+  - "bnpl"
+  - "climate-tech"
 aliases:
   - "Klarna"
-related: []
+related:
+  - "[[Watershed Climate]]"
+  - "[[Watershed Climate Diligence — 2021]]"
+  - "[[Buy Now, Pay Later (BNPL)]]"
+  - "[[Carbon Accounting]]"
 ---
 
 # Klarna
 
-**One-line definition:** *BNPL fintech; Watershed customer using all three modules (~$150K spend).*
+Klarna appears in Kyle's Watershed Climate diligence as both a customer and a reference call. It is listed among Watershed's customer base ([Stripe](/notes/stripe), Shopify, Doordash, Sweetgreen, Square, Revolut, Figma, Airbnb, MongoDB) and is the employer of Janek Kose, Klarna's Climate Lead, who gave an expert reference call. Per Kose, Klarna had used Watershed for ~2 years before he joined in August, uses all three Watershed modules (carbon accounting, offsets, and reduction planning), and re-confirmed Watershed after a brief vendor evaluation — finding [Planetly](/notes/planetly)'s "user experience wasn't as advanced." His detail on the offsets marketplace (15–20 commoditized projects) and the reduction-planning module is one of the richer customer accounts in the dossier. The diligence framing reads Klarna as a maturing climate program ("rather young") inside a large fintech.
 
-## How sources describe it
+**Context:** Klarna is a Swedish fintech and one of the largest buy-now-pay-later ([BNPL](/notes/buy-now-pay-later-bnpl)) providers globally, founded in 2005.
 
-- BNPL fintech; Watershed customer using all three modules (~$150K spend). (source: Watershed Climate Diligence — 2021)
+## Where this appears
 
-## Where it shows up
-
-- Watershed Climate Diligence — 2021 — Watershed Climate Series B diligence (Index Ventures, 2021).
-
-## Related concepts
-
-_(stub — expand on a future pass)_
+- Watershed Climate Diligence — 2021 — listed as a Watershed customer; Klarna's Climate Lead (Janek Kose) gave a reference call detailing use of all three Watershed modules.

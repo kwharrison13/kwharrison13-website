@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-23"
-updated: "2026-06-23"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — April 30th, 2020: ~/Downloads/April 30th, 2020.md"
@@ -17,11 +17,12 @@ related:
   - "[[Talent Vortex]]"
   - "[[Powerhouse]]"
   - "[[The Polymath]]"
+  - "[[Toptal]]"
 ---
 
 # Talent
 
-_Stub — the recurring theme of sourcing, representing, developing, and accessing high-skill people._
+Talent is a recurring theme in Kyle's notes around sourcing, representing, developing, and accessing high-skill people. In his April 30th, 2020 Roam "Quick Capture" log, the concrete instance is on-demand access to expertise: a note praising Toptal as close to "a magic bullet for immersing yourself in a new industry" — you can know nothing about a business area, post your project, and have experts recommended to work with. The broader cluster threads through [Talent Identification](/notes/talent-identification) (spotting talent early), [Talent Vortex](/notes/talent-vortex) (how talent concentrates and compounds), and anti-library reads like [Powerhouse](/notes/powerhouse) (the CAA story of representing and monetizing talent) and [The Polymath](/notes/the-polymath) (versatility as a model of human capability).
 
 ## Quick Capture links — April 30th, 2020
 

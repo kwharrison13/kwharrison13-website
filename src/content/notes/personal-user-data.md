@@ -2,12 +2,14 @@
 title: "Personal User Data"
 type: "concept"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
+  - "wiki/concepts/Privacy.md"
+  - "wiki/companies/Amazon.md"
 tags: []
 aliases:
   - "Personal User Data"
@@ -19,7 +21,11 @@ related:
 
 # Personal User Data
 
-_Stub — concept captured from Kyle's June 29th, 2021 Roam "Quick Capture" reading log. The links below are sources Kyle saved to explore this topic; not yet synthesized._
+"Personal User Data" is the asset-and-ownership pole of a three-way cluster with [Privacy](/notes/privacy) and [Data Privacy](/notes/data-privacy), built from a June 29th, 2021 Roam "Quick Capture" reading log on surveillance, data ownership, and trust scoring. Where [Privacy](/notes/privacy) is the human-stakes pole, this page tracks the framing of personal data as a *resource* — something to be owned, valued, and possibly compensated for. The saved links below map that debate: the Economist's "we need to own our data as a human right and be compensated for it," MIT Tech Review's "let's make private data into a public good," a co-op that "lets patients monetize their own health data," and the contrary, darker end — WSJ's secret corporate "trust scores," "another tax on the poor: surrendering privacy for survival," Zuboff's *Age of Surveillance Capitalism*, and the Xinjiang DNA story. [Amazon ($AMZN)](/notes/amazon) is tagged as a node in the same thread, off the "constant consumer" reading.
+
+These remain unsynthesized reading pointers, kept verbatim. The most synthesized claim in the cluster lives on the [Privacy](/notes/privacy) page, where Harari's *[Homo Deus](/books/homo-deus)* frames personal data as "the most valuable resource most humans still have to offer."
+
+## Quick Capture links — June 29th, 2021
 
 ## Quick Capture links — June 29th, 2021
 

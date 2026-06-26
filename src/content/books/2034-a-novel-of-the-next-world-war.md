@@ -9,7 +9,7 @@ quake: false
 tags:
   - "technological-innovation"
   - "historical-futurism"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
@@ -36,7 +36,7 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 - This elusive it, which had held four generations of Mitchells in its thrall, was the sensation of flying by the seat of your pants, on pure instinct alone. <!--rwid:rwid-0a15f3ec7abe-->
 - “You don’t have time for this,” he said to Chowdhury, still picking through his diminishing bag of M&M’s. “Is that a threat?” “Not at all,” said Lin Bao, shaking his head sadly, feigning disappointment that Chowdhury would make such a suggestion. “I meant that your mother has been texting you, hasn’t she? Don’t you need to reply? <!--rwid:rwid-52a04bb32b4a-->
 - “Can you get a secure VoIP connection with Seventh Fleet Headquarters?” Hunt asked the radioman, who nodded and then began reconfiguring red and blue wires into the back of an old-fashioned laptop normally used on the quiet midwatches for video games; it was primitive and so perhaps a more secure way to connect. <!--rwid:rwid-b2801d44b0c1-->
-- Ever since the mid-2020s, when Iran had signed onto the Chinese “Belt and Road” global development initiative to prevent financial collapse after the coronavirus pandemic, they had helped project Chinese economic and military interests; but what was the scope of this seemingly new Sino-Iranian alliance? <!--rwid:rwid-36658acb80ef-->
+- Ever since the mid-2020s, when Iran had signed onto the Chinese “[Belt and Road](/notes/belt-and-road)” global development initiative to prevent financial collapse after the coronavirus pandemic, they had helped project Chinese economic and military interests; but what was the scope of this seemingly new Sino-Iranian alliance? <!--rwid:rwid-36658acb80ef-->
 - Those qualities Lin Bao had always admired in the Americans—their moral certitude, their single-minded determination, their blithe optimism—undermined them at this moment as they struggled to find a solution to a problem they didn’t understand. Our strengths become our weaknesses, thought Lin Bao. Always. <!--rwid:rwid-886091743b83-->
 - What the Americans lacked—or lost somewhere along the way—was imagination. As it was said of the 9/11 attacks, it would also be said of the Wén Rui incident: it was not a failure of American intelligence, but rather a failure of American imagination. And the more the Americans struggled, the more trapped they would become. <!--rwid:rwid-113f238b0fec-->
 - They knew everything already, including the smallest of details. Every exchange. Every gesture. Every word. Down to a single comment made about M&M’s. This was the point of the platters: to let Lin Bao know that nothing escaped their attention, lest he come to believe that any individual might assume an outsize role in this enterprise, lest he ever think that any one person could become greater than a single cog in the vast machinery of the People’s Republic—their republic. <!--rwid:rwid-36d7fdcef270-->

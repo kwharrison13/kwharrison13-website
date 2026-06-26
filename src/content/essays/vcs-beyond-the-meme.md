@@ -58,7 +58,7 @@ Now, that's not to say that being someone a founder can count on is the *only* r
 
 Outside of my "why", you have to then confront the practical reality of the job. I started to reflect on the question of what some of the best investors have done to build their careers? Well, people say investing is, first and foremost, a relationship business. Like any good cliche, it strikes of as much truth as the best memes. My rough, shoot-from-the-hip framework was that investors typically take one of two (or both) approaches to building relationships: (1) deeply personal, or (2) deeply contributive.
 
-For some investors, they focus on building friendships and those personal relationships trend towards opportunities to invest. Think about the number of investments that happen because people have worked together in the past, have kids in the same school, go to the same church, have the same hobbies, join the same poker match. Dozens of Midas List VCs have built their careers off of investing in the people they worked with at Google or PayPal or Palantir.
+For some investors, they focus on building friendships and those personal relationships trend towards opportunities to invest. Think about the number of investments that happen because people have worked together in the past, have kids in the same school, go to the same church, have the same hobbies, join the same poker match. Dozens of Midas List VCs have built their careers off of investing in the people they worked with at [[Alphabet|Google]] or [[PayPal]] or [[Palantir]].
 
 But the other approach is starting largely from scratch building relationships. **The thing I love about venture is that just describing the process got me excited all over again about the potential behind this job.** So I wanted to unpack the thinking that, previously, I've done through rambled ideas on a phone call. First, hopefully its helpful to other people who are starting to build out their relationships, and second, because I think going deeper into the thinking will help me better understand it.
 
@@ -98,13 +98,13 @@ Whether its from your existing network, friends-of-friends through your "superco
 
 You're not going into these conversations wondering "what am I going to get out of this?" You're trying to focus on what, if anything, can I do that would actually be helpful to this person. And for people who are just getting started, you might be thinking "what could I do that is useful to this person?" But you'd be surprised.
 
-Any compounding engine starts by just getting going.
+Any [[Compounding|compounding]] engine starts by just getting going.
 
-It reminds me of a [stat I read](https://x.com/kwharrison13/status/1811147382979248196) about MrBeast. He, basically, published a YouTube video every 11 days for 10 years. Consistency and shots on goal are critical in building any engine.
+It reminds me of a [stat I read](https://x.com/kwharrison13/status/1811147382979248196) about [[MrBeast]]. He, basically, published a [[YouTube]] video every 11 days for 10 years. [[Consistency]] and shots on goal are critical in building any engine.
 
 ![Tweet referenced in Actual Listening section](/images/vcs-beyond-the-meme-54ee9f0f.png)
 
-So lets say you go have a dozen conversations out of these initial nodes you've identified. One person is an engineer at Databricks, one is a product manager at Retool, one is a researcher at OpenAI, and one is an engineering manager at Wiz. In each conversation, your number one job is asking questions and listening to the person talk about what is important to them.
+So lets say you go have a dozen conversations out of these initial nodes you've identified. One person is an engineer at [[Databricks]], one is a product manager at [[Retool]], one is a researcher at [[OpenAI]], and one is an engineering manager at Wiz. In each conversation, your number one job is asking questions and listening to the person talk about what is important to them.
 
 - Engineer @ Databricks: Its his second job and he's really focused on progressing to manage people so he has experience running a team.
 - PM @ Retool: She's thinking about leaving to join a startup as an early employee.
@@ -121,7 +121,7 @@ What if I introduce the PM at Retool to the researcher at OpenAI? She wants to j
 
 Could be a fit. But maybe she said she's avoiding AI hype in picking the company she wants to join and he said he was only focused on engineers, not product hires right now.
 
-**If there is one cardinal sin that most VCs commit, its in being transactional and insincere.** Listening is the antidote to insincerity. If you're really listening to someone, regardless of what they might do for you, it is much more likely that you can sincerely help them. Also notice that in almost none of the qualifying criteria for who to look for is "starting a company" on the immediate docket. By focusing, primarily, on people who look interesting, you distance yourself from the transaction, which enables you to be less transactional.
+**If there is one cardinal sin that most VCs commit, its in being transactional and insincere.** [[Listening]] is the antidote to insincerity. If you're really listening to someone, regardless of what they might do for you, it is much more likely that you can sincerely help them. Also notice that in almost none of the qualifying criteria for who to look for is "starting a company" on the immediate docket. By focusing, primarily, on people who look interesting, you distance yourself from the transaction, which enables you to be less transactional.
 
 # Compounding Engine
 
@@ -137,7 +137,7 @@ If you have a spreadsheet of 600 people you meet over the course of three months
 
 When you meet someone as your 10th or 11th conversation, its just a matter of chance whether one of the first 10 people you met happen to have something that is valuable to the person you're on now. But by your 586th meeting, there are pretty high odds that someone in your pool of new friends might be interesting to the person you're talking to.
 
-What's more, lets start to focus in on founders. Say your 601st meeting is with someone who is a senior software engineer at Glean. They've been there for 3 years and were at Figma for several years before that. They were referred to you by someone at Databricks; one of the smartest people you've met so far. They're starting to build a company you're excited about. And they have three asks:
+What's more, lets start to focus in on founders. Say your 601st meeting is with someone who is a senior software engineer at Glean. They've been there for 3 years and were at [[Figma]] for several years before that. They were referred to you by someone at Databricks; one of the smartest people you've met so far. They're starting to build a company you're excited about. And they have three asks:
 
 - (1) I'm looking to hire engineers with a particular background
 - (2) I'm looking to meet people who are engineering managers at large companies as potential customers of what I’m building

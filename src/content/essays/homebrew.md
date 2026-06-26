@@ -24,17 +24,17 @@ The world continues to change more and more quickly. We're on [internet time](ht
 
 **I've dubbed the people driving those changing forces as "renegades."** These aren't just solo capitalists or startup funds. Any fund doing something new and disrupting the status quo in venture can be a renegade. One of my favorite things is to reflect on the impact these people are having. **I'm young enough in my career that I welcome radical change**. It shakes up the way startups get funded and how companies get built.
 
-As part of exploring these changes I'm excited to start a new series. Renegade Spotlights. When I see investors executing on new ways of disrupting venture I want to think publicly about what this means for venture capital.
+As part of exploring these changes I'm excited to start a new series. [[Renegade Spotlights]]. When I see investors executing on new ways of disrupting venture I want to think publicly about what this means for venture capital.
 
 ## The Renegade: Homebrew
 
-Hunter Walk and Satya Patel met while they were both working at Google pre-IPO before raising the [first Homebrew fund in 2013](https://techcrunch.com/2013/07/17/hunter-walk-and-satya-patels-homebrew-is-a-35m-seed-stage-fund-to-invest-in-the-bottom-up-economy/). One of the founding insights for Homebrew came from their early experience as angel investors. **“Even as one of the smallest parts of the cap table, we were often the first call when it came to product or fundraising advice for founders."**
+Hunter Walk and Satya Patel met while they were both working at [[Alphabet|Google]] pre-IPO before raising the [first Homebrew fund in 2013](https://techcrunch.com/2013/07/17/hunter-walk-and-satya-patels-homebrew-is-a-35m-seed-stage-fund-to-invest-in-the-bottom-up-economy/). One of the founding insights for Homebrew came from their early experience as angel investors. **“Even as one of the smallest parts of the cap table, we were often the first call when it came to product or fundraising advice for founders."**
 
-Fun fact; the name Homebrew isn't a homage to the team's love for coffee. The firm is named after a [Menlo Park computer club](https://en.wikipedia.org/wiki/Homebrew_Computer_Club) that was popular in the late 70's described as "the crucible for the entire [personal computing] industry." Steve Wozniak even credits the first Homebrew meeting as the inspiration to design the Apple I.
+Fun fact; the name Homebrew isn't a homage to the team's love for coffee. The firm is named after a [Menlo Park computer club](https://en.wikipedia.org/wiki/Homebrew_Computer_Club) that was popular in the late 70's described as "the crucible for the entire [personal computing] industry." Steve Wozniak even credits the first Homebrew meeting as the inspiration to design the [[Apple]] I.
 
 At Homebrew the core value prop of the firm has stayed pretty similar for almost 10 years. A hands-on seed fund writing a small number of checks to enable their close involvement with the companies they invest in. Some venture funds sometimes do mental gymnastics around who they really serve, talking publicly about the importance of founders while also recognizing the need to continue building AUM and keeping LPs happy. **But Homebrew has been clear since day one: “We look at entrepreneurs as our customers.**" That became even more relevant with their recent announcement (more below).
 
-Since starting out Homebrew has gone on to raise three core funds, adding up to ~$200M all of which have had [significant LP interest.](https://www.venturecapitaljournal.com/investors-are-clamoring-to-get-into-homebrews-next-fund/) They've invested in early stage rounds for companies like Plaid, Gusto, and Cruise.
+Since starting out Homebrew has gone on to raise three core funds, adding up to ~$200M all of which have had [significant LP interest.](https://www.venturecapitaljournal.com/investors-are-clamoring-to-get-into-homebrews-next-fund/) They've invested in early stage rounds for companies like [[Plaid]], Gusto, and Cruise.
 
 ## The Innovation: Homebrew IV(Ever)
 
@@ -67,7 +67,7 @@ Management fees also push funds towards an AUM accumulation game. If you're a ve
 
 > *"Homebrew began almost a decade ago as the answer to a very specific question, “How can we spend the rest of our careers together, working closely with a small number of founders during the earliest stages of their startups’ development to help **increase the probability they create a result they are proud of?”**"*
 
-[I've written before](https://investing1012dot0.substack.com/p/two-markets?s=w) about the ultimate summary of what founders want from investors as clearly articulated by Bryce Roberts: "[Improved odds](https://twitter.com/bryce/status/1404935957040615424?s=20&t=vO3JT7w8l2pPWlm9Dhay7w)." Homebrew clearly encapsulates that shared desire. **Their core focus is on increasing "the probability, velocity or scale of success of your startup."**
+[I've written before](https://investing1012dot0.substack.com/p/two-markets?s=w) about the ultimate summary of what founders want from investors as clearly articulated by [[Bryce Roberts]]: "[Improved odds](https://twitter.com/bryce/status/1404935957040615424?s=20&t=vO3JT7w8l2pPWlm9Dhay7w)." Homebrew clearly encapsulates that shared desire. **Their core focus is on increasing "the probability, velocity or scale of success of your startup."**
 
 When you look at Homebrew's unique value proposition you see over and over again this guiding principle of more effectively improving the odds of their portfolio company's success. They've defined their service offering around what can most effectively serve up those insights to their companies.
 
@@ -77,7 +77,7 @@ When you look at Homebrew's unique value proposition you see over and over again
 
 ![Illustration for Burning the Boats section](/images/homebrew-c319f264.png)
 
-**One of the biggest weaknesses that plague a lot of venture funds today is the inability to say no.** A venture fund? A talent arm? A growth fund? An NFT drop? A seed fund? A scout program? A business development team? A TikTok? Yes. Yes to all of it.
+**One of the biggest weaknesses that plague a lot of venture funds today is the inability to say no.** A venture fund? A talent arm? A growth fund? An NFT drop? A seed fund? A scout program? A business development team? A [[TikTok]]? Yes. Yes to all of it.
 
 ![Market landscape map for burning the boats](/images/homebrew-2e5a91e2.png)
 
@@ -89,7 +89,7 @@ When you look at Homebrew's unique value proposition you see over and over again
 
 [Satya and Hunter are self-effacing](https://twitter.com/satyap/status/1498540711011971074?s=20&t=KqX4ZaTNxk0xk6DZGbI89w), acknowledging their "small-fish" qualities in a big ocean of massive funds. They're not the biggest or most powerful venture fund in the world. But they're demonstrating a core shifting force in venture capital. The world is changing to become more dictated by what [unique value proposition](https://investing1012dot0.substack.com/p/productization?s=w) a fund can offer because it **reframes the relationship between VCs and founders to focus on what founders want.**
 
-While firms like Homebrew are changing the game it doesn't mean they're going to [overwhelm the entire established venture community.](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital?s=w) The "kingdoms" of folks like Sequoia or a16z are still powerhouses that aren’t going anywhere. But renegades shape the ecosystem to more effectively serve founders.
+While firms like Homebrew are changing the game it doesn't mean they're going to [overwhelm the entire established venture community.](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital?s=w) The "kingdoms" of folks like [[Sequoia]] or a16z are still powerhouses that aren’t going anywhere. But renegades shape the ecosystem to more effectively serve founders.
 
 > *"Our version of net promoter score with our founders is **if they are able to identify something within the last 30 days that we did for them that helped move the business forward and made a real difference."***
 

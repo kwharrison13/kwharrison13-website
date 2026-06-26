@@ -2,9 +2,9 @@
 title: "Tracy Britt Cool"
 type: "person"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-18"
-updated: "2026-06-18"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Kyle's manual link/reading capture — June 18, 2026 (batch import from saved bookmarks)"
@@ -14,18 +14,16 @@ aliases:
 related:
   - "[[Berkshire Hathaway]]"
   - "[[Investing: The Model]]"
+  - "[[Warren Buffett]]"
 ---
 
 # Tracy Britt Cool
 
-_Stub — captured from Kyle's manual link/reading capture on June 18, 2026. Synthesis pending._
+A [Warren Buffett](/notes/warren-buffett) protégé at [Berkshire Hathaway](/notes/berkshire-hathaway) who, per a WSJ piece Kyle saved on June 18, 2026, left the company to start her own firm. She appears in Kyle's notes as part of the [Berkshire Hathaway](/notes/berkshire-hathaway) orbit — listed among the company's people alongside Buffett and [Charlie Munger](/notes/charlie-munger) as the "protégé who left" — and is filed under the [Investing: The Model](/notes/investing-the-model) thread, Kyle's collection of links about Berkshire-style investing and the people it produced.
 
-## Quick Capture links — June 18, 2026
+**Context:** Tracy Britt Cool joined Berkshire Hathaway in 2009 as a financial assistant to Warren Buffett and went on to chair or run several Berkshire subsidiaries (including Pampered Chef, Larson-Juhl, and Benjamin Moore). In 2020 she left to co-found Kanbrick, an investment firm that takes long-term stakes in small and mid-sized companies, explicitly modeled on Berkshire's permanent-capital, hands-on-operating approach.
 
-_Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
+## Where this appears
 
-- https://www.wsj.com/amp/articles/warren-buffett-protege-to-leave-berkshire-start-own-firm-11568833200 — WSJ: Warren Buffett protégé Tracy Britt Cool to leave Berkshire and start her own firm. #[Berkshire Hathaway](/notes/berkshire-hathaway) #[Investing: The Model](/notes/investing-the-model)
-
-## Mentioned in
-
-_(auto-populated by lint)_
+- [Berkshire Hathaway](/notes/berkshire-hathaway) — listed in the company's people roster as the Buffett protégé who left to start her own firm (WSJ link saved June 18, 2026).
+- [Investing: The Model](/notes/investing-the-model) — filed under Kyle's Berkshire-as-investing-model link collection.

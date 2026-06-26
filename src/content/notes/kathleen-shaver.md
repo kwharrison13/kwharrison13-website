@@ -4,28 +4,22 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/Watershed Climate Diligence — 2021.md"
+  - "wiki/diligence-research/Watershed Climate Diligence — 2021.md"
 tags: []
 aliases:
   - "Kathleen Shaver"
-related: []
+related:
+  - "[[Watershed Climate Diligence — 2021]]"
+  - "[[Apple ($AAPL)]]"
 ---
 
 # Kathleen Shaver
 
-**One-line:** *Sustainability contact at Apple (diligence outreach target).*
+Sustainability contact at [Apple ($AAPL)](/notes/apple) whom Kyle emailed as a reference/customer-diligence outreach target during the Watershed Climate Diligence — 2021 work — the evaluation of Watershed's Series B (Index Ventures, 2021). In the diligence notes she sits on Kyle's "Emailed" list of corporate sustainability leaders contacted to validate demand for Watershed's carbon-measurement platform; the notes elsewhere flag Apple as a light carbon emitter and a connection Watershed expected to develop into later 2022.
 
-## What we know
+## Where this appears
 
-- Sustainability contact at Apple (diligence outreach target). (source: Watershed Climate Diligence — 2021)
-
-## Mentioned in
-
-- Watershed Climate Diligence — 2021 — Watershed Climate Series B diligence (Index Ventures, 2021).
-
-## Open questions
-
-_(stub — expand on a future pass)_
+- Watershed Climate Diligence — 2021 — listed as the Apple sustainability contact Kyle emailed for customer-reference diligence on Watershed.

@@ -41,7 +41,7 @@ Case in point? Talking to BYU business students.
 
 Don't get me wrong, some of them are great. But BYU has a bad habit of producing wannabe Mitt Romneys.
 
-When I give advice to those kinds of younger people, I find myself wanting to break down the walls and open up honestly. Provide the inside baseball. Instead, I get the worst version of asking ChatGPT "5 questions to ask someone while learning nothing." I can feel myself wanting to scream, “we’re just people! Be human! Throw away the canned questions and just open up your heart!”
+When I give advice to those kinds of younger people, I find myself wanting to break down the walls and open up honestly. Provide the inside baseball. Instead, I get the worst version of asking [[ChatGPT]] "5 questions to ask someone while learning nothing." I can feel myself wanting to scream, “we’re just people! Be human! Throw away the canned questions and just open up your heart!”
 
 So I've started taking to an approach I refer to as "barking in public."
 
@@ -59,7 +59,7 @@ It's not because it IS meaningless. Exceptional companies, capabilities, and out
 
 But it can FEEL meaningless. I don't think it has to feel that way, but it does. And it feels that way because we let it. Because we fall into a trap of unencumbered normativity. Everything has to be normal, or else.
 
-I've written [over](https://investing101.substack.com/p/the-meme-economy?utm_source=publication-search) and [over](https://investing101.substack.com/p/intellectual-seat-belts?utm_source=publication-search) and [over](https://investing101.substack.com/p/the-levers-of-innovation?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/the-meme-economy?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/cultivating-cults?utm_source=publication-search) again about an exceptional talk by [Visakan Veerasamy](https://twitter.com/visakanv), where he [talks](https://youtu.be/f_YUAQu-t0Q?t=814) about deviance:
+I've written [over](https://investing101.substack.com/p/the-meme-economy?utm_source=publication-search) and [over](https://investing101.substack.com/p/intellectual-seat-belts?utm_source=publication-search) and [over](https://investing101.substack.com/p/the-levers-of-innovation?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/the-meme-economy?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/cultivating-cults?utm_source=publication-search) again about an exceptional talk by [Visakan Veerasamy](https://twitter.com/visakanv), where he [talks](https://youtu.be/f_YUAQu-t0Q?t=814) about [[Deviance|deviance]]:
 
 > *"**Most human creativity is spent suppressing human creativity**. Deviance is punished by social regulation. That's why we don't have 1000x the greatness that we could have every year."*
 
@@ -138,7 +138,7 @@ The decline has continued ever so slightly over the last 12 years, hitting ~20% 
 
 # What a Contrarian
 
-Now, what I'm not describing is being contrarian for the sake of being contrarian. When I asked ChatGPT for "contrarian" ideas I feel like it was drinking from the poisoned well of nonsensical contrarian-for-contrarian's-sake ideas that a lot of hucksters and jabronis keep feeding it:
+Now, what I'm not describing is being [[Contrarianism|contrarian]] for the sake of being contrarian. When I asked ChatGPT for "contrarian" ideas I feel like it was drinking from the poisoned well of nonsensical contrarian-for-contrarian's-sake ideas that a lot of hucksters and jabronis keep feeding it:
 
 ![Illustration for What a Contrarian section](/images/barking-in-public-fa49092c.png)
 

@@ -4,28 +4,21 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/Watershed Climate Diligence — 2021.md"
+  - "wiki/diligence-research/Watershed Climate Diligence — 2021.md"
 tags: []
 aliases:
   - "Rini Banerjee"
-related: []
+related:
+  - "[[Watershed Climate Diligence — 2021]]"
 ---
 
 # Rini Banerjee
 
-**One-line:** *Index colleague; carbon-footprint perspective call Oct 19, 2021.*
+An Index Ventures colleague Kyle consulted during the 2021 Watershed Climate Diligence — 2021 work — specifically a "Carbon Footprint conversation" on October 19th, 2021. From the Index perspective, Banerjee walked through how carbon-footprint measurement leans on the Greenhouse Gas Emission Protocol: you plug in the data and the system calculates emissions for you, which would help companies plan their ESG strategy. The conversation also benchmarked Watershed against cheaper footprint-measurement alternatives (e.g. a tool called Metric, looked at with [Abdul Ly](/notes/abdul-ly)).
 
-## What we know
+## Where this appears
 
-- Index colleague; carbon-footprint perspective call Oct 19, 2021. (source: Watershed Climate Diligence — 2021)
-
-## Mentioned in
-
-- Watershed Climate Diligence — 2021 — Watershed Climate Series B diligence (Index Ventures, 2021).
-
-## Open questions
-
-_(stub — expand on a future pass)_
+- Watershed Climate Diligence — 2021 — carbon-footprint perspective call (Oct 19, 2021) framing GHG-protocol-based measurement and competitive comparisons during the Watershed Series B diligence.

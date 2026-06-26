@@ -39,7 +39,7 @@ Great literature can come in all shapes and forms.
 
 # What We Have Wrought
 
-Say what you will about Yuval Noah Harari, but I've always appreciated a concept he framed that I've written about [over](https://investing1012dot0.substack.com/p/the-storytelling-of-investing?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/controlling-your-own-destiny?utm_source=publication-search) again:
+Say what you will about [[Yuval Noah Harari]], but I've always appreciated a concept he framed that I've written about [over](https://investing1012dot0.substack.com/p/the-storytelling-of-investing?utm_source=publication-search) and [over](https://investing1012dot0.substack.com/p/controlling-your-own-destiny?utm_source=publication-search) again:
 
 > *“There are no nations, no money, no human rights, no laws, and no justice **outside the common imagination of human beings**. Whether or not something is true doesn’t impact whether you believe it.”*
 
@@ -55,15 +55,15 @@ And when it comes to what venture capital is, we sometimes think that the right 
 
 # Venture Capital's Unholy Trinity
 
-Howard Marks, who has so famously [written](https://www.amazon.com/Most-Important-Thing-Thoughtful-Publishing/dp/0231153686) about being "contrarian and right," wrote a letter in 2022 called "[I Beg To Differ](https://www.oaktreecapital.com/insights/memo/i-beg-to-differ)." In it, he talked about a similar concept to what I'm describing. The loudest people with the most capital create the extremes:
+[[Howard Marks]], who has so famously [written](https://www.amazon.com/Most-Important-Thing-Thoughtful-Publishing/dp/0231153686) about being "contrarian and right," wrote a letter in 2022 called "[I Beg To Differ](https://www.oaktreecapital.com/insights/memo/i-beg-to-differ)." In it, he talked about a similar concept to what I'm describing. The loudest people with the most capital create the extremes:
 
 > *"'The investment herd' refers to the masses of people (or institutions) that drive security prices one way or the other. **It’s their actions that take asset prices to bull market highs and sometimes bubbles and, in the other direction, to bear market territory and occasional crashes.** At these extremes, which are invariably overdone, it’s essential to act in a contrary fashion."*
 
 What Marks is describing is akin to a [Buffettism](https://fs.blog/mr-market/) about the market: **“In the short run, the market is a voting machine but in the long run it is a weighing machine.”** In the short run, the loudest people with the most capital are voting for what they want to happen. In the long run, a company has to stand on its own, for better or worse. And, in many cases, it will rise or fall despite the expectations of the masses. So you can attempt to make your contrarian bets, trusting in the long-term legitimacy of the market.
 
-Unfortunately, venture capital is uniquely resilient to this somewhat natural law. Not immune, but more resilient than the public markets. Venture capital has a much more palatable "halo effect." Self-fulfilling prophecies are much more possible in private markets. Its probably a combination of limited information access, capable hype engines (especially in the internet age), and big success stories like Google and Amazon that fuel FOMO. As a result, **the loudest people with the most capital in venture are a lot more influential than the loudest people with the most capital in the public markets** or real estate or bonds (whatever nerd is getting loud about bonds.)
+Unfortunately, venture capital is uniquely resilient to this somewhat natural law. Not immune, but more resilient than the public markets. Venture capital has a much more palatable "halo effect." Self-fulfilling prophecies are much more possible in private markets. Its probably a combination of limited information access, capable hype engines (especially in the internet age), and big success stories like [[Alphabet|Google]] and [[Amazon]] that fuel FOMO. As a result, **the loudest people with the most capital in venture are a lot more influential than the loudest people with the most capital in the public markets** or real estate or bonds (whatever nerd is getting loud about bonds.)
 
-[I've written before](https://investing1012dot0.substack.com/p/the-puritans-of-venture-capital) about a new type of firm: capital agglomerators. These are firms like a16z, General Catalyst, ICONIQ, Sequoia—firms that are raising billions of dollars at a time. Building out "[global investment companies](https://investing1012dot0.substack.com/p/different-strokes-for-different-folks)" that extend far beyond a simple venture fund.
+[I've written before](https://investing1012dot0.substack.com/p/the-puritans-of-venture-capital) about a new type of firm: capital agglomerators. These are firms like a16z, General Catalyst, ICONIQ, [[Sequoia]]—firms that are raising billions of dollars at a time. Building out "[global investment companies](https://investing1012dot0.substack.com/p/different-strokes-for-different-folks)" that extend far beyond a simple venture fund.
 
 ![Quote card from Venture Capital's Unholy Trinity section](/images/the-unholy-trinity-of-venture-capital-f26a25d3.png)
 
@@ -77,13 +77,13 @@ Like I said before, capital agglomerators are the one piece of this unholy trini
 
 > *"Firms that are building their business around having more resources, more exposure, and more coverage are ultimately optimizing for one thing: fees. The more fees you have, the bigger the business you can build. And fees are a derivative of AUM. So in reality, you're focused on the AUM aggregation game."*
 
-Now, capital agglomerators are the first ones to say **the last thing they're focused on is getting fat on fees. And I believe a lot of them. But the reality is that "what gets measured gets managed."** And when you look at large publicly traded PE firms, like Apollo, KKR, or Blackstone, you see that they trade on a multiple of their management fees (fee-related earnings, or FRE).
+Now, capital agglomerators are the first ones to say **the last thing they're focused on is getting fat on fees. And I believe a lot of them. But the reality is that "what gets measured gets managed."** And when you look at large publicly traded PE firms, like Apollo, KKR, or [[Blackstone]], you see that they trade on a multiple of their management fees (fee-related earnings, or FRE).
 
 Now, we don't yet have a venture capital firm that is publicly traded, but its not at all a stretch to think someday a16z, ICONIQ, or General Catalyst could be publicly traded. And I can almost guarantee they would also trade on fees rather than carry.
 
 So, as an agglomerator, how do you maximize fees? You raise as much capital as humanly possible. More funds, more strategies, more geos, more investors, more investments.
 
-And that's what we're seeing. a16z is getting [exposure](https://www.axios.com/2024/06/26/andreessen-horowitz-private-equity) to buyouts for its wealth management clients (which is a new business they [launched](https://www.axios.com/2023/06/23/andreessen-horowitz-expands-into-wealth-management) in 2023), General Catalyst [bought](https://www.generalcatalyst.com/stories/our-acquisition-of-summa-health) a health system and [launched](https://www.generalcatalyst.com/stories/the-unbundling-of-growth-equity) a customer acquisition lending fund, Thrive is [making](https://www.bloomberg.com/news/articles/2024-11-14/thrive-capital-in-talks-to-invest-about-1-billion-in-databricks) $1B bets on late stage companies like Databricks that, arguably, should be public.
+And that's what we're seeing. a16z is getting [exposure](https://www.axios.com/2024/06/26/andreessen-horowitz-private-equity) to buyouts for its wealth management clients (which is a new business they [launched](https://www.axios.com/2023/06/23/andreessen-horowitz-expands-into-wealth-management) in 2023), General Catalyst [bought](https://www.generalcatalyst.com/stories/our-acquisition-of-summa-health) a health system and [launched](https://www.generalcatalyst.com/stories/the-unbundling-of-growth-equity) a customer acquisition lending fund, Thrive is [making](https://www.bloomberg.com/news/articles/2024-11-14/thrive-capital-in-talks-to-invest-about-1-billion-in-databricks) $1B bets on late stage companies like [[Databricks]] that, arguably, should be public.
 
 As agglomerators have become more and more common, people's biggest question is always "who are the LPs willing to invest in these multi-billion dollar funds?!" Well, let's just say they're not your mother's LPs.
 
@@ -103,10 +103,10 @@ The LPs who really make these mega funds possible are [the LPs](https://www.5-ca
 
 - CPP Investment Board (Public Pension Fund) Canada: $61B in private markets
 - Kuwait Investment Authority (Sovereign Wealth Fund) Kuwait: $60B in private
-- GIC (Sovereign Wealth Fund) Singapore: $44B in private
+- GIC (Sovereign Wealth Fund) [[Singapore]]: $44B in private
 - ADIA (Sovereign Wealth Fund) UAE: $34B in private
 - CDPQ (Public Pension) Canada: $28B in private
-- CalPERS (Public Pension) California: $27B in private
+- [[CalPERS]] (Public Pension) California: $27B in private
 - APG (Asset Manager) Netherlands: $27B in private
 - Ontario Teachers Pension Plan (Public Pension) Canada: $26B in private
 - La Banque Postale (Bank) France: $26B in private
@@ -132,15 +132,15 @@ Now if it was just a duality of capital agglomerators and capital allocators, th
 
 !["Hungry, Hungry Capital Hippos"](/images/the-unholy-trinity-of-venture-capital-1aa3ee35.png)
 
-There's a Bill Gurley quote from 2016 that I've used [over](https://investing1012dot0.substack.com/p/vc-contagion) and [over](https://investing1012dot0.substack.com/p/blaspheming-against-the-hype) again that hints at the emergence of these capital absorbers; the hungry, hungry hippos of raising money:
+There's a [[Bill Gurley]] quote from 2016 that I've used [over](https://investing1012dot0.substack.com/p/vc-contagion) and [over](https://investing1012dot0.substack.com/p/blaspheming-against-the-hype) again that hints at the emergence of these capital absorbers; the hungry, hungry hippos of raising money:
 
 > *“Back in 1999, if a company raised $30mm before an IPO, that was considered a large historic raise. Today, private companies have raised 10x that amount and more. And consequently, the burn rates are 10x larger than they were back then. **All of which creates a voraciously hungry Unicorn. One that needs lots and lots of capital (if it is to stay on the current trajectory)**.”*
 
 He calls them hungry Unicorns, I call them hungry, hungry hippos cause fat little hippos are funnier than chunky unicorns. But today we have hungry, hungry capital hippos that the 2016 mind of Bill Gurley could never comprehend. Enter: The AI Bubble.
 
-OpenAI [raising](https://www.reuters.com/technology/artificial-intelligence/openai-closes-66-billion-funding-haul-valuation-157-billion-with-investment-2024-10-02/) $6.6B at a $157B valuation. Anthropic [raising](https://www.theinformation.com/articles/openai-rival-anthropic-has-floated-40-billion-valuation-in-early-talks-about-new-funding) almost $1B at a $40B valuation. Databricks [raising](https://finance.yahoo.com/news/thrive-capital-talks-invest-1-011927456.html) $1B at a $55B valuation. Ilya's Safe Superintelligence (SSI) [raised](https://www.fastcompany.com/91184294/openai-co-founder-sutskever-ai-startup-ssi-raises-1-billion) $1B at a $5B valuation because he \*checks notes\* said he was starting a company. If [Mira Murati](https://www.reuters.com/technology/artificial-intelligence/former-openai-technology-chief-mira-murati-raise-capital-new-ai-startup-sources-2024-10-18/) sneezes in a tissue, check it for AGI and give it a term sheet.
+[[OpenAI]] [raising](https://www.reuters.com/technology/artificial-intelligence/openai-closes-66-billion-funding-haul-valuation-157-billion-with-investment-2024-10-02/) $6.6B at a $157B valuation. Anthropic [raising](https://www.theinformation.com/articles/openai-rival-anthropic-has-floated-40-billion-valuation-in-early-talks-about-new-funding) almost $1B at a $40B valuation. Databricks [raising](https://finance.yahoo.com/news/thrive-capital-talks-invest-1-011927456.html) $1B at a $55B valuation. Ilya's Safe Superintelligence (SSI) [raised](https://www.fastcompany.com/91184294/openai-co-founder-sutskever-ai-startup-ssi-raises-1-billion) $1B at a $5B valuation because he \*checks notes\* said he was starting a company. If [Mira Murati](https://www.reuters.com/technology/artificial-intelligence/former-openai-technology-chief-mira-murati-raise-capital-new-ai-startup-sources-2024-10-18/) sneezes in a tissue, check it for AGI and give it a term sheet.
 
-I've seen some hungry hippos in my day, but these hippos I can guarantee can't see their toes. This is a level of capital intensity that, in prior generations, [built nations](https://www.archives.gov/exhibits/american_originals/loupurch.html/) and [put people](https://www.planetary.org/space-missions/apollo-11) on the moon. Sam Altman said he needed [$7 TRILLION](https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0) and we said "whoa" but we didn't say "no."
+I've seen some hungry hippos in my day, but these hippos I can guarantee can't see their toes. This is a level of capital intensity that, in prior generations, [built nations](https://www.archives.gov/exhibits/american_originals/loupurch.html/) and [put people](https://www.planetary.org/space-missions/apollo-11) on the moon. [[Sam Altman]] said he needed [$7 TRILLION](https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0) and we said "whoa" but we didn't say "no."
 
 ![Quote card from Capital Absorbers section](/images/the-unholy-trinity-of-venture-capital-f0922944.png)
 
@@ -178,7 +178,7 @@ So if I'm not necessarily sayings its bad, then what am I saying?
 
 # Therefore, What?
 
-Maybe I'm crazy... but I think traditional venture capital is the bookstores in 1997 that thought Amazon.com was a fad. I think traditional venture capital is the Mom & Pop grocers in the 70s right before Walmart [popped off](https://projects.flowingdata.com/walmart/) and they got friggin' Walton Rocked. And you can say "I stan independent bookstores" or "I shop local." But in 2023, Amazon and Walmart, respectively, had [574 billion](https://www.digitalcommerce360.com/amazon-ecommerce-facts-and-statistics/) and [648 billion](https://www.forrester.com/blogs/amazon-vs-walmart-revenue-and-profit-comparison-2010-2024/) reasons why you're lying.
+Maybe I'm crazy... but I think traditional venture capital is the bookstores in 1997 that thought Amazon.com was a fad. I think traditional venture capital is the Mom & Pop grocers in the 70s right before [[Walmart]] [popped off](https://projects.flowingdata.com/walmart/) and they got friggin' Walton Rocked. And you can say "I stan independent bookstores" or "I shop local." But in 2023, Amazon and Walmart, respectively, had [574 billion](https://www.digitalcommerce360.com/amazon-ecommerce-facts-and-statistics/) and [648 billion](https://www.forrester.com/blogs/amazon-vs-walmart-revenue-and-profit-comparison-2010-2024/) reasons why you're lying.
 
 Stated preference vs. revealed preference.
 
@@ -188,7 +188,7 @@ But a game is, as [they say](https://getyarn.io/yarn-clip/c3465401-838c-4a76-a0b
 
 I certainly wouldn't say capital agglomerators, and their commensurate allocators and absorbers, are the only strategy that work. In a world of Amazon and Walmart, we still have other grocery stores and bookshops. **But, by God, you know the only thing that is 100% certain to get sucked into a center of gravity like these behemoths? Something that isn't moving.**
 
-In the [words](https://www.churchofjesuschrist.org/study/scriptures/nt/rev/3?lang=eng) of Jesus Christ himself, "because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth." In other words, get busy livin' or get busy dyin'.
+In the [words](https://www.churchofjesuschrist.org/study/scriptures/nt/rev/3?lang=eng) of [[Jesus|Jesus Christ]] himself, "because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth." In other words, get busy livin' or get busy dyin'.
 
 To end, I'll return to Dr. Romero of Spy Kids fame. After his existential ponderance about God's fear of his own creations, he turns to face his audience with the [same response](https://www.youtube.com/watch?v=0RFwyobtnKA) I assume I'll have for many of you when you finish reading this:
 

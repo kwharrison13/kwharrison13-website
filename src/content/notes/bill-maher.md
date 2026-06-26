@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
@@ -25,6 +25,8 @@ related:
 # Bill Maher
 
 **One-line:** *Comedian and political commentator; source of the "don't be a hypocrite" segment on tribal, side-driven belief.*
+
+**Context:** Bill Maher (b. 1956) is an American comedian and the host of HBO's *Real Time with Bill Maher*, long known for a politically heterodox, free-speech-forward commentary style.
 
 ## What we know
 

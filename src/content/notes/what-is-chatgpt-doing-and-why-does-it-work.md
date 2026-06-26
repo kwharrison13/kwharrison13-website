@@ -9,7 +9,7 @@ url: "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-
 source_published: "2023-02-14"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/"
@@ -28,7 +28,7 @@ related:
 
 ## Key Highlights
 
-- ChatGPT is "always fundamentally trying to produce a 'reasonable continuation' of whatever text it's got so far — what one might expect someone to write after seeing what people have written on billions of webpages."
+- [ChatGPT](/notes/chatgpt) is "always fundamentally trying to produce a 'reasonable continuation' of whatever text it's got so far — what one might expect someone to write after seeing what people have written on billions of webpages."
 - Generating an essay is just asking "given the text so far, what should the next word be?" — over and over.
 - Always picking the highest-probability next word produces "flat" essays with no creativity. Introducing randomness (temperature) yields more interesting output.
 - There are ~40,000 commonly used words in English. Even 2-gram probabilities require 1.6 billion estimates; 3-grams: 60 trillion. 20-word fragments: more possibilities than particles in the universe — impossible to enumerate, must be approximated.

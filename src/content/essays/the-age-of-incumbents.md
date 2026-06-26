@@ -17,7 +17,7 @@ substack_url: "https://investing101.substack.com/p/the-age-of-incumbents"
 
 ![Header image for The Age of Incumbents](/images/the-age-of-incumbents-e6987ad3.png)
 
-Technology is a versatile little word. It can mean a whole host of things. Some people think technology began with computers, or software, or the internet. Other people think technology didn't really get going until ChatGPT came out.
+Technology is a versatile little word. It can mean a whole host of things. Some people think technology began with computers, or software, or the internet. Other people think technology didn't really get going until [[ChatGPT]] came out.
 
 But the reality is technology is simply "the application of scientific knowledge for practical purposes." So fire, or early stone tools, these are all technology.
 
@@ -27,11 +27,11 @@ However, even if technology as a concept has been a round for the entirety of re
 
 A fascinating exercise that I wish I could take a lot more time unpacking is to look through the [history of the S&P 500](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies#Selected_changes_to_the_list_of_S&P_500_components) as an almost archeological dig of business history. Since its creation in 1957, it has attempted to reflect the overall market by building an index of some of the biggest companies, weighted by market cap.
 
-Again, technology has played a part in basically every company on the list in one way or another. In 1957, there were even some technology bastions included that you'd recognize, like IBM, or Motorola. Folks like HP and Intel got added in 1974 and 1976 respectively. But by and large, the biggest companies were very different than today.
+Again, technology has played a part in basically every company on the list in one way or another. In 1957, there were even some technology bastions included that you'd recognize, like IBM, or Motorola. Folks like HP and [[Intel]] got added in 1974 and 1976 respectively. But by and large, the biggest companies were very different than today.
 
-In [1996](https://en.wikipedia.org/wiki/List_of_public_corporations_by_market_capitalization), for example, the largest companies by market cap were GE ($136B), Royal Dutch Shell ($128B), Coca-Cola ($117B), and ExxonMobil ($102B). Intel and Microsoft got into the list of biggest market caps in [1998](https://en.wikipedia.org/wiki/List_of_public_corporations_by_market_capitalization), and tech has been an increasingly larger part of that list ever since.
+In [1996](https://en.wikipedia.org/wiki/List_of_public_corporations_by_market_capitalization), for example, the largest companies by market cap were GE ($136B), Royal Dutch Shell ($128B), Coca-Cola ($117B), and ExxonMobil ($102B). Intel and [[Microsoft]] got into the list of biggest market caps in [1998](https://en.wikipedia.org/wiki/List_of_public_corporations_by_market_capitalization), and tech has been an increasingly larger part of that list ever since.
 
-Today, 7 of the top 10 companies by market cap are pure tech companies (not to mention Apple is [44%](https://www.cnbc.com/berkshire-hathaway-portfolio/) of Berkshire Hathaway's portfolio; by far their largest position).
+Today, 7 of the top 10 companies by market cap are pure tech companies (not to mention [[Apple]] is [44%](https://www.cnbc.com/berkshire-hathaway-portfolio/) of [[Berkshire Hathaway]]'s portfolio; by far their largest position).
 
 ![Source:companiesmarketcap.com](/images/the-age-of-incumbents-39805100.png)
 
@@ -49,12 +49,12 @@ One aspect of the early internet revolution was that it was just that: a revolut
 
 You can paint hundreds of similar pictures:
 
-- Tesla building in the blue-ocean space of EVs against 100+ year old auto companies.
+- [[Tesla]] building in the blue-ocean space of EVs against 100+ year old auto companies.
 - When Oracle got started in 1977, it was replacing IBM, who was already 66 years old as a company by then.
-- In 1999, Salesforce was displacing older companies, like SAP (1972), but was also introducing the world to SaaS, which let it beat out newer entrants like Siebel and Microsoft Dynamics, both launched in 1993.
-- In 1997, Netflix's biggest competitor (Blockbuster) was only 12 years old, but delivery (and later streaming) were revolutions.
+- In 1999, [[Salesforce]] was displacing older companies, like SAP (1972), but was also introducing the world to SaaS, which let it beat out newer entrants like Siebel and Microsoft Dynamics, both launched in 1993.
+- In 1997, [[Netflix]]'s biggest competitor (Blockbuster) was only 12 years old, but delivery (and later streaming) were revolutions.
 - In 1983, Intuit's Quicken was replacing paper accounting and accountants.
-- Even Uber, founded in 2009, was revolutionizing taxis, which had been around since [1897](https://www.thoughtco.com/hailing-history-of-the-taxi-1992541#:~:text=Gottlieb%20Daimler%20built%20the%20world's,world's%20first%20motorized%20taxi%20company.).
+- Even [[Uber]], founded in 2009, was revolutionizing taxis, which had been around since [1897](https://www.thoughtco.com/hailing-history-of-the-taxi-1992541#:~:text=Gottlieb%20Daimler%20built%20the%20world's,world's%20first%20motorized%20taxi%20company.).
 
 While there are still plenty of startups that are looking to revolutionize certain categories, and displace old incumbents, things have changed.
 
@@ -64,29 +64,29 @@ The age of lumbering dinosaurs is giving way to an interesting new paradigm: dyn
 
 Again, caveat, caveat, caveat. There are plenty of companies that are still slow-moving giants looking to be displaced. **But the low-hanging fruit of un-innovated categories and ripe-for-disruption incumbents is becoming slimmer and slimmer**.
 
-I hear pitches all the time about next-gen Datadog, next-gen Shopify, next-gen Airbnb, next-gen Procore, next-gen Toast, next-gen Snowflake, next-gen Databricks, next-gen HashiCorp.
+I hear pitches all the time about next-gen [[Datadog]], next-gen [[Shopify]], next-gen Airbnb, next-gen Procore, next-gen [[Toast]], next-gen [[Snowflake ($SNOW)|Snowflake]], next-gen [[Databricks]], next-gen [[HashiCorp]].
 
-I remember investing in Attentive in 2019, and talking about it to someone as the "next-gen Braze." The person I was talking to pushed back: "what are you talking about? Braze is only 8 years old. Braze is the next-gen Braze!"
+I remember investing in [[Attentive]] in 2019, and talking about it to someone as the "next-gen Braze." The person I was talking to pushed back: "what are you talking about? Braze is only 8 years old. Braze is the next-gen Braze!"
 
 Does that mean we shouldn't try to replace those companies? Absolutely not. That's the entrepreneur's calling: opportunity canvassing. Looking for weaknesses in markets they can take advantage of. But the reality is that Snowflake or Shopify are nothing like the WordPerfects and IBMs of yester-year.
 
 As [playbooks](https://investing1012dot0.substack.com/p/the-professionalization-of-startups) become more well-known, the arbitrage goes away. I've written about this [before](https://investing1012dot0.substack.com/p/the-professionalization-of-startups):
 
-> *"In 1970 you had a <1% chance of stumbling on someone working in tech. As the industry was just getting started in the mainstream during the 70s there was a total of 450K people working in the industry. Today? [12.2M people](https://www.zippia.com/advice/tech-industry-statistics/#:~:text=The%20U.S.%20tech%20market%20accounts,million%20workers%20as%20of%202020S). 1.7M of them work for Amazon, Apple, Google, and Facebook alone."*
+> *"In 1970 you had a <1% chance of stumbling on someone working in tech. As the industry was just getting started in the mainstream during the 70s there was a total of 450K people working in the industry. Today? [12.2M people](https://www.zippia.com/advice/tech-industry-statistics/#:~:text=The%20U.S.%20tech%20market%20accounts,million%20workers%20as%20of%202020S). 1.7M of them work for [[Amazon]], Apple, [[Alphabet|Google]], and [[Facebook]] alone."*
 
 So as startups set out to displace 100+ year old companies, recently crowned incumbents, or peer startups, there are some critical things to consider.
 
 # Tasty Addressable Markets (TAM)
 
-Peter Thiel has written a fair bit about markets and competition:
+[[Peter Thiel]] has written a fair bit about markets and competition:
 
-> *"**Competition is overrated.** In practice it is quite destructive and should be avoided wherever possible. Much better than fighting for scraps in existing markets is to create and own new ones."*
+> *"**[[Competition]] is overrated.** In practice it is quite destructive and should be avoided wherever possible. Much better than fighting for scraps in existing markets is to create and own new ones."*
 
 The reason for that is because big markets attract big eyes with big dollar signs in them. The bigger a market is known to be, the more it floods with people interested in getting a taste of it. For example? Business spend. There is over [$1 trillion](https://www.prnewswire.com/news-releases/ramp-significantly-expands-beyond-corporate-cards-builds-the-first-and-only-platform-where-businesses-can-finance-all-bills-301610436.html) of corporate spend. Big opportunity. And (quite) a few people have noticed.
 
 ![Source:Twitter](/images/the-age-of-incumbents-ce252519.png)
 
-In 2019, you could have thought the space was pretty well wrapped up. You had big incumbents like Concur (1993) and AmEx (1850), and initial entrants like Expensify (2008) and Brex (2017). Do you need another one? But 2019 was the year [Ramp](https://research.contrary.com/reports/ramp) launched. And they've grown to [$300M](https://techcrunch.com/2023/08/22/fintech-startup-ramp-raises-300m-at-a-28-lower-valuation-of-5-8b/)+ of annualized revenue. What's more? There have been some big new entrants into the space, including Stripe, Rippling, and Navan (fka TripActions).
+In 2019, you could have thought the space was pretty well wrapped up. You had big incumbents like Concur (1993) and AmEx (1850), and initial entrants like [[Expensify]] (2008) and [[Brex]] (2017). Do you need another one? But 2019 was the year [Ramp](https://research.contrary.com/reports/ramp) launched. And they've grown to [$300M](https://techcrunch.com/2023/08/22/fintech-startup-ramp-raises-300m-at-a-28-lower-valuation-of-5-8b/)+ of annualized revenue. What's more? There have been some big new entrants into the space, including [[Stripe]], Rippling, and Navan (fka [[TripActions]]).
 
 Big markets attract big attention. But big attention often favors incumbents. If Rippling already has a massive install base in enterprises, and is running sensitive systems for them, doesn't that give them an advantage? The advantage is so often driven largely by existing distribution.
 
@@ -96,9 +96,9 @@ Now this is one you've probably heard a lot before. But the best example of this
 
 ![Source:Twitter](/images/the-age-of-incumbents-6f24f1d5.png)
 
-Microsoft has done similar launches, like [Loop](https://www.theverge.com/2023/3/22/23651487/microsoft-loop-public-preview-notion-competitor) vs. Notion, or [Designer](https://medium.com/swlh/goodbye-canva-try-out-microsofts-ai-designer-and-create-designs-that-will-blow-your-mind-f1089d14513c) vs. Canva. Now... is ANYONE using Loop or Designer? I don't know. But I was one of the people in 2019 saying "who da eff is using Microsoft Teams?" **But that's the power of built in distribution. It's just easier to use that vs. a newer detached solution.**
+Microsoft has done similar launches, like [Loop](https://www.theverge.com/2023/3/22/23651487/microsoft-loop-public-preview-notion-competitor) vs. [[Notion]], or [Designer](https://medium.com/swlh/goodbye-canva-try-out-microsofts-ai-designer-and-create-designs-that-will-blow-your-mind-f1089d14513c) vs. Canva. Now... is ANYONE using Loop or Designer? I don't know. But I was one of the people in 2019 saying "who da eff is using Microsoft Teams?" **But that's the power of built in distribution. It's just easier to use that vs. a newer detached solution.**
 
-Interestingly, distribution can be technologically supported by existing scale (e.g. OpenAI with Microsoft) but sometimes get established in an instant. When ChatGPT came out in late 2022, Yann LeCunn [described](https://www.zdnet.com/article/chatgpt-is-not-particularly-innovative-and-nothing-revolutionary-says-metas-chief-ai-scientist/) it as "not particularly innovative," and "nothing revolutionary." And he's not wrong. But the interface was the first time a lot of people had been exposed to generative AI. Shockingly, ChatGPT wasn't a technological revolution, but an awareness revolution.
+Interestingly, distribution can be technologically supported by existing scale (e.g. [[OpenAI]] with Microsoft) but sometimes get established in an instant. When ChatGPT came out in late 2022, Yann LeCunn [described](https://www.zdnet.com/article/chatgpt-is-not-particularly-innovative-and-nothing-revolutionary-says-metas-chief-ai-scientist/) it as "not particularly innovative," and "nothing revolutionary." And he's not wrong. But the interface was the first time a lot of people had been exposed to generative AI. Shockingly, ChatGPT wasn't a technological revolution, but an awareness revolution.
 
 Seemingly overnight, OpenAI had an IBM-level awareness. So when they're then able to also weave DALL-E 3, a GPT app store, and (hopefully soon) a Sora video model all into one interface? That's powerful. When people go looking for APIs for their enterprise tool, they most often lean on awareness. The “IBM Effect.” And one of the big reasons OpenAI was able to catapult to [$2B+](https://www.reuters.com/technology/openai-hits-2-bln-revenue-milestone-ft-2024-02-09/) of revenue was because of that awareness.
 
@@ -114,7 +114,7 @@ The next generation asset will be data. The more data you have, the more you'll 
 
 Now, you'll see platforms with data, like [Reddit](https://www.theverge.com/2024/2/22/24080165/google-reddit-ai-training-data), [StackOverflow](https://www.wired.com/story/google-deal-stackoverflow-ai-giants-pay-for-data/?utm_social-type=owned&utm_source=linkedin&utm_campaign=wired&utm_medium=social&utm_brand=wired&mbid=social_linkedin), [Tumblr](https://www.businessinsider.com/tumblr-selling-user-data-ai-trianing-openai-midjourney-weird-2024-2?utm_medium=social&utm_source=linkedin&utm_campaign=insider-sf), etc. look to monetize that asset. Granted, the dichotomy is different. Facebook and Google had the eyeballs and made money on them. Now Google wants MORE data, and is willing to pay for it.
 
-But the reality is the data they're paying for is supplementary. Someone like Google can pay $60M to Reddit because they already have so much monetized data. But the incumbents are still positioned to make dramatically more money from those data-driven assets than the data providers. And the combination of access to data + massive install bases are the perfect combination to keep incumbents deeply entrenched.
+But the reality is the data they're paying for is supplementary. Someone like Google can pay $60M to [[Reddit]] because they already have so much monetized data. But the incumbents are still positioned to make dramatically more money from those data-driven assets than the data providers. And the combination of access to data + massive install bases are the perfect combination to keep incumbents deeply entrenched.
 
 So what could possible stop the concentration in tech from staying concentrated?
 

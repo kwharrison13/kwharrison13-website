@@ -4,7 +4,7 @@ type: "learning"
 format: "course-notes"
 publish: false
 created: "2026-06-22"
-updated: "2026-06-22"
+updated: "2026-06-26"
 confidence: "medium"
 description: "Lecture notes from a business creativity & innovation course — the cognitive process behind creativity, four theories of organizational change (life cycle, evolution, dialectic, teleology), institutional isomorphism, entrepreneurial theories of innovation, and social network analysis."
 sources:
@@ -71,7 +71,7 @@ Looks at a **single, independent firm**. Small growth → success → peak → d
 - **Radical change:** a new product, the same product via a new procedure, or more output from the same resources. (The assembly line is a major innovation — but it's a *process*, not a product.)
 - **Developing a network:** mergers & acquisitions (leverage someone else's strengths), buyouts/takeovers ("deleting the competition"). *"Someone else does something better. We can still defend our piece of market."*
 
-### 2. Evolution — *competitive survival*
+### 2. [Evolution](/notes/evolution) — *competitive survival*
 Geared toward **multiple organizations** competing; a probabilistic, "strongest survive" account.
 
 - **Lamarckian fitting:** the innovation must fulfill the requirements and expectations of the environment. Whatever the market wants wins — *regardless of quality*. It's not enough to be good; it must hit the **right market at the right time**.
@@ -83,7 +83,7 @@ Geared toward **multiple organizations** competing; a probabilistic, "strongest 
 ### 3. Dialectic — *opposition / conflict*
 A specific battle between two entities (**thesis** and **antithesis**) producing a **synthesis** different from both. Neither side need "win," but the combined outcome is the point.
 
-### 4. Teleology — *purposeful cooperation*
+### 4. [Teleology](/notes/teleology) — *purposeful cooperation*
 There is a **goal / end point**; the explanation of phenomena by the purpose they serve. Innovation is built **starting from the end** — it's a tool/proxy to achieve something beyond innovation itself.
 
 ---
@@ -97,7 +97,7 @@ It matters as much to understand when innovation **fails** as when it succeeds. 
 | **Prescribed / convergent** | 1st order | Within an existing archetypal template — recombination, incrementalism/addition, technical (= economic) efficiency. Small changes can accumulate into a major one. "Playing within the rules." |
 | **Constructive / radical** | 2nd order | A break with the past framework; generates unprecedented, novel forms. Creation of new opportunities, *enablement* (airplane, phone, radio, internet). "Changing the rules" (divergent change). |
 
-**Strategy vs. serendipity** — *serendipity* = a fortunate happenstance / pleasant surprise. Can ideas be deliberately cultivated, or do they just happen?
+**[Strategy](/notes/strategy) vs. serendipity** — *serendipity* = a fortunate happenstance / pleasant surprise. Can ideas be deliberately cultivated, or do they just happen?
 
 ### Institutions
 An **institution** = the rules, routines, and belief systems prevailing (and taken for granted) in a given environment (DiMaggio & Powell, 1983) — e.g. the family, marriage, being a student. Institutions *become* institutions when they are taken for granted; they provide stability and meet a psychological need for safety.
@@ -121,7 +121,7 @@ The paradox of **embedded agency** (Beckert, 1999): if structures and strategies
 
 Two anchoring quotes:
 
-> No fixed capital can yield any revenue but by means of a circulating capital — information? — **Adam Smith**
+> No fixed capital can yield any revenue but by means of a circulating capital — information? — **[Adam Smith](/notes/adam-smith)**
 
 > Any existing structures and all the conditions of doing business are always in a process of change. Every situation is being upset before it has had time to work itself out. Economic progress, in a capitalist society, means turmoil, through a process of **creative destruction**. — **J. Schumpeter**
 

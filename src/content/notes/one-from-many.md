@@ -25,9 +25,9 @@ related:
 
 **Why it's on the list:** *Visa founder Dee Hock's account of building Visa as a "chaordic" (chaos + order) organization — and a broader manifesto for decentralized, self-organizing institutions. A revised edition of his 1999 Birth of the Chaordic Age.*
 
-**Where I saw it:** Saved in Kyle's April 30th, 2020 Roam "Quick Capture" reading log, tagged #Visa. Surfaced alongside the Fast Company profile "The Trillion-Dollar Vision of Dee Hock"; Hock was recommended to Kyle by Tim Riser.
+**Where I saw it:** Saved in Kyle's April 30th, 2020 Roam "Quick Capture" reading log, tagged #Visa. Surfaced alongside the Fast Company profile "The Trillion-Dollar Vision of Dee Hock"; Hock was recommended to Kyle by [Tim Riser](/notes/tim-riser).
 
 ## Connections
 
 - [Visa](/notes/visakan-veerasamy) — the organization at the center of the book.
-- Tim Riser — recommended Dee Hock's thinking to Kyle.
+- [Tim Riser](/notes/tim-riser) — recommended Dee Hock's thinking to Kyle.

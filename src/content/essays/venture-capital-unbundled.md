@@ -22,9 +22,9 @@ Over the course of 2021, I was starting to notice a rising trend. It put an itch
 
 I wrote that piece in January 2022 and, to this day three years later, its still one of my top 10 most read pieces. The thesis I laid out in that piece is exactly what has happened.
 
-In that piece, I talked about people's shifting preferences for individuals over corporate brands. David Perell has a great piece called [Naked Brands](https://perell.com/nakedbrands/) that helped me articulate the idea: "Successful influencers are perceived as genuine, sincere, and most of all, transparent. They differ widely from institutions built during the industrial era."
+In that piece, I talked about people's shifting preferences for individuals over corporate brands. [[David Perell]] has a great piece called [Naked Brands](https://perell.com/nakedbrands/) that helped me articulate the idea: "Successful influencers are perceived as genuine, sincere, and most of all, transparent. They differ widely from institutions built during the industrial era."
 
-That same evolution has been impacting venture capital. Increasingly, there is a focus on the individual investor and what they're capable of. Venture capital had evolved from the monolithic brands of the early days the the feudalism of empire funds like a16z and General Catalyst to a rising trend of, what I termed, Renegades.
+That same evolution has been impacting [[Venture Capital|venture capital]]. Increasingly, there is a focus on the individual investor and what they're capable of. Venture capital had evolved from the monolithic brands of the early days the the feudalism of empire funds like a16z and General Catalyst to a rising trend of, what I termed, Renegades.
 
 ![Source:Investing 101](/images/venture-capital-unbundled-3fc36f24.png)
 
@@ -36,7 +36,7 @@ But even back in 2022, you had Renegades who were building actual funds: Katie H
 
 Now, don't get me wrong. I love being right. This is an example of me calling my shot in January 2022 before everyone started talking about it in December 2024. But I was also wrong. At the time, I thought the driver was the power of individual influence and an increasing preference of founders to work with specific people with specific vibes over a monolithic brand. And that’s part of it, but not the key part.
 
-What I've realized after writing 300K+ words about the history and dynamics of venture capital is that the core driving force behind the Unbundling of Venture Capital isn't the vibes and brands of the individual investors — it's the business model of venture capital itself that's driving the need to unbundle. Let me explain.
+What I've realized after writing 300K+ words about the history and dynamics of venture capital is that the core driving force behind the [[Unbundling]] of Venture Capital isn't the vibes and brands of the individual investors — it's the business model of venture capital itself that's driving the need to unbundle. Let me explain.
 
 # Many Reasons Behind The Moves
 
@@ -50,25 +50,25 @@ You're seeing a lot of investors move from one seat to another. The two biggest 
 
 *Caveat: I don't know all of these people and I can't speak to everyone's motivations, so a fair bit of this is conjecture on what might be going through people's heads.*
 
-One big move that caught folks off guard was Keith Rabois' [move](https://www.theinformation.com/articles/founders-funds-keith-rabois-to-return-to-khosla-ventures?rc=cfgvff) from Founders Fund to Khosla Ventures.
+One big move that caught folks off guard was [[Keith Rabois]]' [move](https://www.theinformation.com/articles/founders-funds-keith-rabois-to-return-to-khosla-ventures?rc=cfgvff) from [[Founders Fund]] to [[Khosla Ventures]].
 
-**One possible motivation for a big hitter to move from one fund to another could be succession planning.** Khosla and Founders Fund are both what I would describe as Key Man Firms (if I'm being nice) or Dictator Firms (if I'm being spicy.)
+**One possible motivation for a big hitter to move from one fund to another could be [[Succession Planning|succession planning]].** Khosla and Founders Fund are both what I would describe as Key Man Firms (if I'm being nice) or Dictator Firms (if I'm being spicy.)
 
-Khosla Ventures is Vinod Khosla's fund. Founders Fund is Peter Thiel's fund. It's logical to believe that one driver could have been that Keith saw a clearer path to inheriting a big chunk of Khosla sooner or easier than he could see the same happening at Founders Fund.
+Khosla Ventures is [[Vinod Khosla]]'s fund. Founders Fund is [[Peter Thiel]]'s fund. It's logical to believe that one driver could have been that Keith saw a clearer path to inheriting a big chunk of Khosla sooner or easier than he could see the same happening at Founders Fund.
 
 Succession planning is a whole other interesting topic about venture funds that would be worth unpacking in another post.
 
 **Another driver of these big moves can be less about taking over a firm, and more about playing a key role in a particular part of a firm.**
 
-Sticking with Khosla for a second, Ethan Choi [joined](https://www.linkedin.com/posts/ethanchoi_ethan-choi-activity-7170512541134041089-dTyb/) to lead their later stage investing efforts. He came from Accel, where its a much more established team with a lot less breathing room. That opportunity to be a big part of a key function for the firm is enticing.
+Sticking with Khosla for a second, Ethan Choi [joined](https://www.linkedin.com/posts/ethanchoi_ethan-choi-activity-7170512541134041089-dTyb/) to lead their later stage investing efforts. He came from [[Accel]], where its a much more established team with a lot less breathing room. That opportunity to be a big part of a key function for the firm is enticing.
 
-The same could be said about Sebastian Duesterhoeft [joining](https://lsvp.com/stories/meet-lightspeeds-newest-growth-partner-sebastian-duesterhoeft/) Lightspeed from Coatue. He would bring a specific growth DNA to the firm's later stage efforts.
+The same could be said about [[Sebastian Duesterhoeft]] [joining](https://lsvp.com/stories/meet-lightspeeds-newest-growth-partner-sebastian-duesterhoeft/) Lightspeed from [[Coatue]]. He would bring a specific growth DNA to the firm's later stage efforts.
 
 ## Fighting Little Sister Syndrome
 
 Other times people make moves because there is a lot of opportunity to move up in lateral motions, rather than sticking with existing firms. I've written about this before, describing it as [Little Sister Syndrome](https://investing101.substack.com/p/little-sister-syndrome?utm_source=publication-search). Often, bigger firms will hire someone as a specific thing, whether a young hustler, a shiny principal, a good operator — whatever it might be.
 
-People like Mark Fiorentino, previously at Index Ventures, or [Ev Randle](https://x.com/EverettRandle) and [Leigh Marie Braswell](https://x.com/LM_Braswell), who were both at Founders Fund. These are exceptionally talented investors. They're at good funds. They could stay at those funds for years, waiting and willing their progression. **Or they can move to a new firm, and skip 5+ years of clawing.** That's what all three of them did, with Ev and Leigh Marie joining Kleiner in [2022](https://www.kleinerperkins.com/perspectives/welcoming-everett-randle/) and [2023](https://www.kleinerperkins.com/perspectives/welcoming-leigh-marie-braswell/) respectively, while Mark [joined](https://baincapitalventures.com/insight/mark-fiorentino-brings-fintech-and-saas-expertise-to-bcv/) Bain Capital Ventures just this week.
+People like [[Mark Fiorentino]], previously at [[Index Ventures]], or [Ev Randle](https://x.com/EverettRandle) and [Leigh Marie Braswell](https://x.com/LM_Braswell), who were both at Founders Fund. These are exceptionally talented investors. They're at good funds. They could stay at those funds for years, waiting and willing their progression. **Or they can move to a new firm, and skip 5+ years of clawing.** That's what all three of them did, with Ev and Leigh Marie joining Kleiner in [2022](https://www.kleinerperkins.com/perspectives/welcoming-everett-randle/) and [2023](https://www.kleinerperkins.com/perspectives/welcoming-leigh-marie-braswell/) respectively, while Mark [joined](https://baincapitalventures.com/insight/mark-fiorentino-brings-fintech-and-saas-expertise-to-bcv/) Bain Capital Ventures just this week.
 
 These are all good reasons for people to switch jobs and there's plenty of explanations for what might drive those decisions.
 
@@ -84,11 +84,11 @@ If there's one thing I've exerted a LOT of words trying to articulate, its this 
 
 If I had to sum up a key idea across all of these pieces its that venture capital has started to revolve around the concept of "2% of the biggest number." Bigger funds, bigger teams, bigger portfolios, bigger checks, higher deployment velocity.
 
-Whether they admit it or not, what that creates is a pursuit for every big multi-stage venture firm to becoming like Blackstone, but focused on cutting edge innovation. But the politics and day-to-day logistics of building that kind of empire doesn't always sit well with every investor, nor do they all think its the appropriate strategy for success.
+Whether they admit it or not, what that creates is a pursuit for every big multi-stage venture firm to becoming like [[Blackstone]], but focused on cutting edge innovation. But the politics and day-to-day logistics of building that kind of empire doesn't always sit well with every investor, nor do they all think its the appropriate strategy for success.
 
 **Hence? Venture capital unbundled.**
 
-People's first reaction might be that venture capital isn't unbundling, it's dying. Some people might have seen the stat in late 2024 that the number of active VCs had dropped by [25%](https://www.ft.com/content/7a787423-9466-4e55-8c0e-8811cfe44dd3). Back in March 2022, Josh Wolfe was [predicting](https://investing101.substack.com/p/revisiting-the-death-of-a-venture?utm_source=publication-search) that between 50% and 75% of active investors in private markets would disappear.
+People's first reaction might be that venture capital isn't unbundling, it's dying. Some people might have seen the stat in late 2024 that the number of active VCs had dropped by [25%](https://www.ft.com/content/7a787423-9466-4e55-8c0e-8811cfe44dd3). Back in March 2022, [[Josh Wolfe]] was [predicting](https://investing101.substack.com/p/revisiting-the-death-of-a-venture?utm_source=publication-search) that between 50% and 75% of active investors in private markets would disappear.
 
 But the reality is that venture capital has always been a game of power laws (as well as a magnet for hucksters and charlatans). So once you (1) wash out the wanna-bes, and (2) fixate the aperture on the power law of investors, you see a different trend.
 
@@ -98,11 +98,11 @@ But the reality is that venture capital has always been a game of power laws (as
 
 A dozen new funds ranging from $30M to $350M. Two that I'll call out, not just because I know them personally, but because aspects of their strategy directly articulate aspects of the Great Unbundling taking place in venture.
 
-First? Chemistry Ventures started by Mark Goldberg of Index, Kristina Shen of a16z, and Ethan Kurzweil of Bessemer. In a [blog post](https://www.chemistry.vc/post/introducing-chemistry) from October 2024, the new firm articulated their manifesto:
+First? Chemistry Ventures started by [[Mark Goldberg]] of Index, [[Kristina Shen]] of a16z, and Ethan Kurzweil of [[Bessemer Venture Partners|Bessemer]]. In a [blog post](https://www.chemistry.vc/post/introducing-chemistry) from October 2024, the new firm articulated their manifesto:
 
 > ***We will "out-hustle the legacy firms that have grown distracted by scale."***
 
-Second? Hanabi Capital started by Mike Volpi, Bryan Offutt, and Ishani Thakur from Index. In a [piece](https://www.bnnbloomberg.ca/business/2024/12/23/venture-capital-partners-are-leaving-big-firms-in-droves/) from Bloomberg breaking the news about the new fund, they shared that Hanabi is "investing Volpi’s personal money as well as funds from his friends and family." [I've written before](https://investing101.substack.com/p/homebrew?utm_source=publication-search) about firms kicking against the pricks of managing outside money and, instead, managing their own money.
+Second? Hanabi Capital started by [[Mike Volpi]], Bryan Offutt, and Ishani Thakur from Index. In a [piece](https://www.bnnbloomberg.ca/business/2024/12/23/venture-capital-partners-are-leaving-big-firms-in-droves/) from Bloomberg breaking the news about the new fund, they shared that Hanabi is "investing Volpi’s personal money as well as funds from his friends and family." [I've written before](https://investing101.substack.com/p/homebrew?utm_source=publication-search) about firms kicking against the pricks of managing outside money and, instead, managing their own money.
 
 The combination of an emphasis on leanness and increasing attention paid to whose money is being managed all represent **a common counterpositioning: these investors don't want to be asset managers; they want to be adventure capitalists.**
 
@@ -110,17 +110,17 @@ The combination of an emphasis on leanness and increasing attention paid to whos
 
 This pursuit of "2% of the biggest number" is consuming venture capital. Empire firms are eating the asset class. And with it, **the role of adventure capitalist is being subsumed by the importance of asset management.**
 
-Lovers of the art and history of venture capital remember with reverence stories like Don Valentine investing in Atari. In the book, [The Power Law](https://www.amazon.com/Power-Law-Venture-Capital-Making/dp/052555999X), it tells it so well:
+Lovers of the art and history of venture capital remember with reverence stories like [[Don Valentine]] investing in Atari. In the book, [The Power Law](https://www.amazon.com/Power-Law-Venture-Capital-Making/dp/052555999X), it tells it so well:
 
 > *"In late 1974, a few weeks after his visit to Atari’s factory, Valentine made a decision. He was not going to invest yet: Atari was too chaotic. But he was not going to walk away: the potential was too terrific. **Instead, he would get involved cautiously, in stages, and he would start by rolling up his sleeves and writing an Atari business plan**."*
 
-That's the kind of adventure capitalism that used to personify venture capitalists of the Arthur Rock generation. People taking risks alongside founders to help build generational businesses. But now the industry is largely defined by pansy ass asset managers who did banking or consulting to shore up their safety nets before taking "pretend risk" with fungible "LP Daddy" money.
+That's the kind of adventure capitalism that used to personify venture capitalists of the [[Arthur Rock]] generation. People taking risks alongside founders to help build generational businesses. But now the industry is largely defined by pansy ass asset managers who did banking or consulting to shore up their safety nets before taking "pretend risk" with fungible "LP Daddy" money.
 
 Now, the focus is on size. Just get big. We can move the needle not with risk, but with scale.
 
 General Catalyst [becoming](https://www.generalcatalyst.com/stories/fundxii) **a "global Investment and transformation company."** Not just a venture fund. A company.
 
-Insight Partners just [raised](https://www.bloomberg.com/news/articles/2025-01-16/insight-partners-raises-12-5-billion-for-new-flagship-fund) a $12.5B fund. That's 2.5 years after the [LAST $12.5B](https://www.crunchbase.com/organization/insight-partners/investor_financials) fund they raised! And only five years after raising a [$9.5B](https://www.crunchbase.com/organization/insight-partners/investor_financials) fund. **That's ~$35B of capital in just five years.**
+[[Insight Partners]] just [raised](https://www.bloomberg.com/news/articles/2025-01-16/insight-partners-raises-12-5-billion-for-new-flagship-fund) a $12.5B fund. That's 2.5 years after the [LAST $12.5B](https://www.crunchbase.com/organization/insight-partners/investor_financials) fund they raised! And only five years after raising a [$9.5B](https://www.crunchbase.com/organization/insight-partners/investor_financials) fund. **That's ~$35B of capital in just five years.**
 
 In 2024, **75% of all venture dollars was raised by just 30 firms.**
 

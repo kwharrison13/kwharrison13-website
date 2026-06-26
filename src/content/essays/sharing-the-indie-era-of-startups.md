@@ -21,7 +21,7 @@ I’m a big fan of nuance. When I meet people who read my writing, I often get c
 
 [I’ve written before](https://investing1012dot0.substack.com/p/the-inescapable-debate-of-human-nature) about how the emergence of identity-based values can be the kiss of death for accepting nuance:
 
-> *“So often, people trust nuanced tribal group identity and political association without any basis of first principles. I'm not Mormon, or Christian, or Republican, or a Costco member. I am a system of values and beliefs that determine how I act. Group membership should be a lagging indicator of your beliefs, not a leading indicator. **When people substitute their own value system with a cookie-cutter platform from their in-group the first thing to die is nuance.**”*
+> *“So often, people trust nuanced tribal group identity and political association without any basis of first principles. I'm not [[Mormon]], or Christian, or Republican, or a [[Costco]] member. I am a system of values and beliefs that determine how I act. Group membership should be a lagging indicator of your beliefs, not a leading indicator. **When people substitute their own value system with a cookie-cutter platform from their in-group the first thing to die is nuance.**”*
 
 So one of the things that surprises people is when I (as a VC) am willing to say things like:
 

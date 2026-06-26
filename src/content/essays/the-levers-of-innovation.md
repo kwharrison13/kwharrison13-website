@@ -33,7 +33,7 @@ As life has become increasingly complex, interwoven, and messy, it becomes so mu
 
 I feel this way *all the time*. Everything is so intermingled and complicated that I struggle to know what to do to improve anything without unraveling anything else.
 
-That same feeling of inquisitive frustration was peaked by something [I tweeted](https://x.com/kwharrison13/status/1858921932051120469) this week. An exceptional question that Tyler Hogge asked Marc Andreessen. A similar complicated multi-variate problem is **"which part of the startup value chain is the constraint preventing us from 10x'ing the number of exceptional startups?"**
+That same feeling of inquisitive frustration was peaked by something [I tweeted](https://x.com/kwharrison13/status/1858921932051120469) this week. An exceptional question that Tyler Hogge asked [[Marc Andreessen]]. A similar complicated multi-variate problem is **"which part of the startup value chain is the constraint preventing us from 10x'ing the number of exceptional startups?"**
 
 In posting the question I got both a lot of interesting responses, additional data, and requests for what my perspective is. So that's what I've been chewing on this week and what I wanted to write about.
 
@@ -48,9 +48,9 @@ In Tyler's question to Pmarca, he lays out a few possible options to what stops 
 
 As I think about answering the question, there was a sequence of things that I thought were worth unpacking.
 
-First, what is an exceptional startup? At one point, Theranos, WeWork, Hopin, and FTX would have been considered exceptional startups. Do we want more of those? I think there is a mix of outcomes we want. We want more small business, even if they're lifestyle businesses. But we especially want more large outcomes that push human progress forward.
+First, what is an exceptional startup? At one point, Theranos, [[WeWork]], Hopin, and FTX would have been considered exceptional startups. Do we want more of those? I think there is a mix of outcomes we want. We want more small business, even if they're lifestyle businesses. But we especially want more large outcomes that push human progress forward.
 
-Second, what are we trying to unlock? Why do we want 10x the number of great startups? There is so much animosity against ambition, progress, technology as an industry. But the reality is that the protests of people who hate Elon Musk or hate technology is a privilege that, in large part, is enabled by (1) democratic freedoms that America affords, and (2) privilege engendered by the progress of the same technology those people now hate. But despite those protests, progress *is* good. And I desperately want more of it.
+Second, what are we trying to unlock? Why do we want 10x the number of great startups? There is so much animosity against ambition, progress, technology as an industry. But the reality is that the protests of people who hate [[Elon Musk]] or hate technology is a privilege that, in large part, is enabled by (1) democratic freedoms that America affords, and (2) privilege engendered by the progress of the same technology those people now hate. But despite those protests, progress *is* good. And I desperately want more of it.
 
 Finally, third, what is the bottleneck? What is the constraint that, if addressed, could unlock 10x more of what we're trying to unlock from question 2? So let's dive in.
 
@@ -88,7 +88,7 @@ When I look at the vast majority of other people's thoughts and responses to my 
 
 So, what makes an exceptional founder? And why is there a shortage of them? First, I'll start with the answer Pmarca gave 1.5 years after the tweet I shared. Then I'll summarize what other insights I've seen. First, [Marc's answer](https://www.youtube.com/watch?v=-hxeDjAxvJ8) to the question, "what makes a great founder?"
 
-> *"Intelligence, passion and courage. The first two are traits and the third one is a choice. I think courage is a choice. **Courage is a question of pain tolerance, right? So how many times are you willing to get punched in the face before you quit?** And here's maybe the biggest thing people don't understand about what it's like to be a startup founder is it gets very romanticized, right? And even when it, even when they fail, it still gets romanticized about like what a great adventure it was. But the reality of it is most of what happens is people telling you no and then they usually follow that with 'you're stupid,' right. No, I will not come to work for you. I will not leave my cushy job at Google to come work for you. No, I'm not gonna buy your product, you know, no, I'm not gonna run a story about your company. No, I'm not this, that, the other thing. And so a huge amount of what people have to do is just get used to just getting punched and the reason people don't understand this is because when you're a founder, you cannot let on that this is happening 'cause it will cause people to think that you're weak and they'll lose faith in you. So you have to pretend that you're having a great time when you're dying inside, right? You're just in misery. It is a level, this is actually one of the conclusions I think is that I think it's actually for most of these people on a risk adjusted basis, it's probably an irrational act. They could probably be more financially successful on average if they just got like a real job in at a big company. **But there's, you know, some people just have an irrational need to do something new and build something for themselves**."*
+> *"Intelligence, passion and courage. The first two are traits and the third one is a choice. I think courage is a choice. **Courage is a question of pain tolerance, right? So how many times are you willing to get punched in the face before you quit?** And here's maybe the biggest thing people don't understand about what it's like to be a startup founder is it gets very romanticized, right? And even when it, even when they fail, it still gets romanticized about like what a great adventure it was. But the reality of it is most of what happens is people telling you no and then they usually follow that with 'you're stupid,' right. No, I will not come to work for you. I will not leave my cushy job at [[Alphabet|Google]] to come work for you. No, I'm not gonna buy your product, you know, no, I'm not gonna run a story about your company. No, I'm not this, that, the other thing. And so a huge amount of what people have to do is just get used to just getting punched and the reason people don't understand this is because when you're a founder, you cannot let on that this is happening 'cause it will cause people to think that you're weak and they'll lose faith in you. So you have to pretend that you're having a great time when you're dying inside, right? You're just in misery. It is a level, this is actually one of the conclusions I think is that I think it's actually for most of these people on a risk adjusted basis, it's probably an irrational act. They could probably be more financially successful on average if they just got like a real job in at a big company. **But there's, you know, some people just have an irrational need to do something new and build something for themselves**."*
 
 ## Risk Appetite
 
@@ -100,19 +100,19 @@ My friend Eric Anderson asked the [question](https://x.com/ericmander/status/185
 
 ## Trauma & Suffering
 
-Another common response was not enough trauma and suffering. "Hard times create exceptional founders." [I've written before](https://investing1012dot0.substack.com/p/the-hardening-of-the-great-softening?utm_source=publication-search) about a comment that Josh Wolfe has made on the subject:
+Another common response was not enough trauma and suffering. "Hard times create exceptional founders." [I've written before](https://investing1012dot0.substack.com/p/the-hardening-of-the-great-softening?utm_source=publication-search) about a comment that [[Josh Wolfe]] has made on the subject:
 
 > *"He's famous for the saying, 'chips on shoulders put chips in pockets.' He believes that for people to build something truly great, they have to have an intense dissatisfaction or disaffection. He takes this to the logical conclusion that, while mindfulness and meditation may be good for individuals they are 'TERRIBLE for society.'"*
 
 When I wrote about this last time I said that "mindfulness, or self-satisfaction, can co-exist with dissatisfaction." You can be happy with yourself AND dissatisfied with the state of the world to the point of wanting to change it. So I don't know that we should want to traumatize our kids to help them be better founders.
 
-But trauma and suffering are different. I most certainly agree that doing hard, painful things is an important pre-requisite to being an exceptional founder. As Jensen Huang has said:
+But trauma and suffering are different. I most certainly agree that doing hard, painful things is an important pre-requisite to being an exceptional founder. As [[Jensen Huang]] has said:
 
 > *“If you want to build something great, it’s not easy. You have to suffer, you have to struggle, you have to endeavor. **And there are no such things that are great, that are easy to do**.”*
 
 ## Courage
 
-Peter Thiel [talks about](https://www.youtube.com/watch?v=E_vDZqQgmeQ) entrepreneurship, by definition, needing to be the act of doing something "new, different, that's not precisely been done before." And that act of going against the status quo requires courage. And, as Thiel explains:
+[[Peter Thiel]] [talks about](https://www.youtube.com/watch?v=E_vDZqQgmeQ) entrepreneurship, by definition, needing to be the act of doing something "new, different, that's not precisely been done before." And that act of going against the status quo requires courage. And, as Thiel explains:
 
 > *"Courage is in much shorter supply than genius."*
 
@@ -122,11 +122,11 @@ Theil's quote is a really interesting juxtaposition between willing to be differ
 
 > *"**Most human creativity is spent suppressing human creativity**. Deviance is punished by social regulation. That's why we don't have 1000x the greatness that we could have every year."*
 
-I think this idea is one of the absolute most critical, so I'll repeat it again! We spend so much of our creative effort not in creating, but in constraining. We leverage social regulation to punish deviance when, in reality, the ONLY way progress occurs is when deviance is unleashed. And I agree with Visa. If we could unlock deviance, and empower people to pursue their uniqueness, we would have "1000x the greatness."
+I think this idea is one of the absolute most critical, so I'll repeat it again! We spend so much of our creative effort not in creating, but in constraining. We leverage social regulation to punish [[Deviance|deviance]] when, in reality, the ONLY way progress occurs is when deviance is unleashed. And I agree with Visa. If we could unlock deviance, and empower people to pursue their uniqueness, we would have "1000x the greatness."
 
 ## Customer Focus
 
-People like Dan Scheinman [described](https://x.com/dscheinm/status/1859012391025180918) it as a shortage of founders who are "customer focused." In other words, are we building the right things that enable us to build an exceptional business? Look no further than Bezos' "Customer Obsession" leadership principle for evidence that this is true.
+People like Dan Scheinman [described](https://x.com/dscheinm/status/1859012391025180918) it as a shortage of founders who are "customer focused." In other words, are we building the right things that enable us to build an exceptional business? Look no further than [[Jeff Bezos|Bezos]]' "[[Customer Obsession]]" leadership principle for evidence that this is true.
 
 ## Top-of-Funnel For Founders
 
@@ -148,7 +148,7 @@ One of the responses to my tweet was quite thorough, and I loved the synthesis o
 >   
 > (1) **Freedom To Be vs. Freedom to Do**: Entrepreneurship thrives on human eccentricity; the freedom to think independently, and not have thoughts borrowed from the collective opinions of the people around you (e.g. deviance). This is different from political freedom to do things. Modern thinkers confuse equality with standardization.   
 >   
-> (2) **Normalization of Adversity**: People aren’t fundamentally scared of adversity, which is a key ingredient for greatness. People are scared of other people’s reactions to their adversity. If we have a culture where people going through struggles to live their dreams are respected, that culture will produce great founders. Today, social media glamorizes a perfect life and reduces tolerance for adversity. **We need a culture that respects the number of times someone got up after falling. Not the number of people who are watching someone pretend to never fall**.   
+> (2) **Normalization of Adversity**: People aren’t fundamentally scared of adversity, which is a key ingredient for greatness. People are scared of other people’s reactions to their adversity. If we have a culture where people going through struggles to live their dreams are respected, that culture will produce great founders. Today, [[Social Media|social media]] glamorizes a perfect life and reduces tolerance for adversity. **We need a culture that respects the number of times someone got up after falling. Not the number of people who are watching someone pretend to never fall**.   
 >   
 > (3) **Community-Driven**: You want to go fast, go alone. You want to go far, go together. The west is an extremely individualistic society, but look closely at the greatest entrepreneurs and you will find a little piece of the “East”. People who struggled abut found greatness want to help others achieve greatness. The people who are struggling should feel safe and supported by the community.   
 >   

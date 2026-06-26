@@ -75,9 +75,9 @@ All of these things are bad. **But it doesn't change the fact that America is a 
 
 # America's Scorecard
 
-**America has built the greatest entrepreneurial spirit of any nation** that has ever existed, leading to Silicon Valley and the creation of some of the most important companies in the world. ***But*** many of those companies have utilized anti-competitive practices, taken advantage of people, and (in many cases) literally exploit human slavery and child labor.
+**America has built the greatest entrepreneurial spirit of any nation** that has ever existed, leading to [[Silicon Valley]] and the creation of some of the most important companies in the world. ***But*** many of those companies have utilized anti-competitive practices, taken advantage of people, and (in many cases) literally exploit human slavery and child labor.
 
-**America has created the most influential cultural megaphone and magnifying lens** that has ever existed, leading to Hollywood and the creation of some of the greatest stories ever told. ***But*** Hollywood has also help up a myriad of atrocious human beings and given them untold positions of influence.
+**America has created the most influential cultural megaphone and magnifying lens** that has ever existed, leading to [[Hollywood]] and the creation of some of the greatest stories ever told. ***But*** Hollywood has also help up a myriad of atrocious human beings and given them untold positions of influence.
 
 **America has offered some of the most important innovations and innovators in agriculture**, from the mechanical reaper to precision agriculture, not to mention [Norman Borlaug](https://en.wikipedia.org/wiki/Norman_Borlaug), whose work is believed to have saved over a billion people worldwide from starvation. ***But*** we also have intensely monopolistic food conglomerators, like Monsanto and [Cargill](https://en.wikipedia.org/wiki/Cargill), that have wreaked havoc on the American food system.
 

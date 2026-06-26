@@ -5,14 +5,14 @@ year_read: "pre-2016"
 rating: 0
 quake: false
 tags: []
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-Al Gore's book on the decline of public reason, read with active counter-argument — the notes push back on the romanticization of pre-television public discourse. Three threads:
+[Al Gore](/notes/al-gore)'s book on the decline of public reason, read with active counter-argument — the notes push back on the romanticization of pre-television public discourse. Three threads:
 
 1. **The pre-television public wasn't actually that reasonable.** "When you read the reactions of people in the Hamilton and Adams biography, I don't necessarily are well-balanced, rational, informed decision making." Gore's nostalgia for an earlier rational era is treated as historically suspect.
 
@@ -36,12 +36,12 @@ Al Gore's book on the decline of public reason, read with active counter-argumen
 - “Why do reason, logic, and truth seem to play a sharply diminished role in the way America now makes important decisions?” <!--rwid:rwid-ef6817e3912f-->
 - “Reason—cold, calculating, unimpassioned reason—must furnish all materials for our future support and defence. Let those materials be moulded into general intelligence, sound morality, and in particular, a reverence for the Constitution and laws.” <!--rwid:rwid-99813150d80b-->
 - Our Founders’ faith in the viability of representative democracy rested on their trust in the wisdom of a well-informed citizenry, their <!--rwid:rwid-dc5e6b5288de-->
-- ingenious design for checks and balances, and their belief that the rule of reason is the natural sovereign of a free people. As Thomas Paine put it, “For as in absolute governments the king is law, so in free countries the law ought to be king and there ought to be no other.” <!--rwid:rwid-2b62a003c706-->
+- ingenious design for checks and balances, and their belief that the rule of reason is the natural sovereign of a free people. As [Thomas Paine](/notes/thomas-paine) put it, “For as in absolute governments the king is law, so in free countries the law ought to be king and there ought to be no other.” <!--rwid:rwid-2b62a003c706-->
 - Though pleased, of course, for my own campaign, I had a sense of foreboding for what this revealed about our democracy. Clearly, at least to some degree, the “consent of the governed” was becoming a commodity to be purchased by the highest bidder. <!--rwid:rwid-56b3ebaeebbd-->
-- The “marketplace of ideas” so beloved and so carefully protected by our Founders was a space in which “truths,” in John Stuart Mill’s words, could be discovered and refined through “the fullest and freest comparison of opposite opinions.” The print-based public sphere that had emerged from the books, pamphlets, and essays of the Enlightenment has, in the blinking eyes of a single generation, come to seem as remote as the horse and buggy. <!--rwid:rwid-7d24d4d57baf-->
+- The “marketplace of ideas” so beloved and so carefully protected by our Founders was a space in which “truths,” in John Stuart Mill’s words, could be discovered and refined through “the fullest and freest comparison of opposite opinions.” The print-based public sphere that had emerged from the books, pamphlets, and essays of the [Enlightenment](/notes/enlightenment) has, in the blinking eyes of a single generation, come to seem as remote as the horse and buggy. <!--rwid:rwid-7d24d4d57baf-->
 - Individuals receive, but they cannot send. They absorb, but they cannot share. They hear, but they do not speak. They see constant motion, but they do not move themselves. The “well-informed citizenry” is in danger of becoming the “well-amused audience.” <!--rwid:rwid-9634602bb1e6-->
-- Marshall McLuhan’s description of television as a “cool” medium—as opposed to the “hot” medium of print—was <!--rwid:rwid-b129f8a24880-->
-- “Any who act as if freedom’s defenses are to be found in suppression and suspicion and fear confess a doctrine that is alien to America.” Edward R. Murrow, whose courageous journalism was assaulted by Senator Joseph McCarthy, declared, “We will not be driven by fear into an age of unreason.” <!--rwid:rwid-87a4e34b7caa-->
+- [Marshall McLuhan](/notes/marshall-mcluhan)’s description of television as a “cool” medium—as opposed to the “hot” medium of print—was <!--rwid:rwid-b129f8a24880-->
+- “Any who act as if freedom’s defenses are to be found in suppression and suspicion and fear confess a doctrine that is alien to America.” [Edward R. Murrow](/notes/edward-r-murrow), whose courageous journalism was assaulted by Senator Joseph McCarthy, declared, “We will not be driven by fear into an age of unreason.” <!--rwid:rwid-87a4e34b7caa-->
 - “Error of opinion may be tolerated where reason is left free to combat it.” <!--rwid:rwid-2214a63636d6-->
 - In a democracy, the common (if usually unstated) assumption is that citizens operate as rational human beings, reasoning their way through the problems presented to them as if every question could be analyzed rationally and debated fairly until there is a well-reasoned collective conclusion. But the new research demonstrates that, of course, this is not the way it works at all. <!--rwid:rwid-2189ede732b0-->
 - Moreover, emotions have much more power to affect reason than reason does to affect emotions—particularly the emotion of fear. <!--rwid:rwid-a9e2bb074178-->

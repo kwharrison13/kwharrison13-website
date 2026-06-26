@@ -4,10 +4,10 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
-  - "Kyle's Roam research graph — 'The State of Startup Media' notes"
+  - "wiki/essays-research/The State of Startup Media - Research.md"
 tags:
   - "media"
 aliases:
@@ -15,16 +15,13 @@ aliases:
   - "SaaS Playbook"
 related:
   - "[[The State of Startup Media - Research]]"
+  - "[[The State of Startup Media]]"
 ---
 
 # The SaaS Playbook
 
-**One-line definition:** *SaaS strategy/metrics newsletter in Kyle's circa-2017 reading rotation.*
+A startup-media source in Kyle's reading rotation, captured in the research notes behind his essay [The State of Startup Media](/essays/the-state-of-startup-media). It appears in the circa-2017 inventory of newsletters and tech-media outlets Kyle tracked — listed alongside [StrictlyVC](/notes/strictlyvc) and Bay Area Tech Wire — as one entry in the dense map of "memes of production" feeds that essay surveys. The wiki holds no further detail about its content beyond its placement in that inventory.
 
-## How it shows up
+## Where this appears
 
-- Listed among the startup-media sources Kyle tracked circa 2017 (source: The State of Startup Media - Research — 2017 inventory).
-
-## Where it shows up
-
-- The State of Startup Media - Research — in the 2017 inventory of startup-media sources.
+- The State of Startup Media - Research — listed in the 2017 inventory of startup-media sources/newsletters Kyle tracked.

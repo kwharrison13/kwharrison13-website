@@ -18,11 +18,11 @@ substack_url: "https://investing101.substack.com/p/learning-to-dream"
 
 ![Header image for Learning To Dream](/images/learning-to-dream-9e5fa713.jpg)
 
-Bit of a delayed post this week because I spent some time with my family in Disneyland over the last few days. Getting to go to Disneyland has always had a special place in my heart. Not just because I’m a sucker for over-priced churros and cartoons. But because I've had a strange obsession with city building since I was pretty young.
+Bit of a delayed post this week because I spent some time with my family in [[Disneyland]] over the last few days. Getting to go to Disneyland has always had a special place in my heart. Not just because I’m a sucker for over-priced churros and cartoons. But because I've had a strange obsession with city building since I was pretty young.
 
 Growing up, my family would spend summers in [Luna, New Mexico](https://www.google.com/maps/place/Luna,+NM+87824/data=!4m2!3m1!1s0x872657604978da3f:0x4791be06c92592af?sa=X&ved=2ahUKEwis35Si6uP6AhVlKkQIHShNCtEQ8gF6BAh0EAE); a tiny little town in the middle of nowhere between Arizona and New Mexico where my Grandma grew up, and my family helped settle the town in the 1800s. When we would drive there from Albuquerque, my Dad would talk about all the little towns we drove through. He'd ask the question, "what makes a city?" And we'd talk about how communities get built around natural resources, large factories, universities, coal mines, and on and on. I became obsessed with the idea of why people come together.
 
-As I got older, this idea of "city building" became a [portfolio idea](https://kwharrison13.com/portfolio-ideas) and evolved to include concepts like urban planning and sociology. The same wonder I felt thinking about city building, I felt the first time I went to Disneyland walking down Main Street. Little did I know, this wasn't a fluke. Walt Disney was just as obsessed with city building.
+As I got older, this idea of "city building" became a [portfolio idea](https://kwharrison13.com/portfolio-ideas) and evolved to include concepts like urban planning and sociology. The same wonder I felt thinking about city building, I felt the first time I went to Disneyland walking down Main Street. Little did I know, this wasn't a fluke. [[Walt Disney]] was just as obsessed with city building.
 
 A few years ago, I read a book called [Walt Disney and the Promise of Progress City](https://kwharrison13.com/bookshelf/2020-in-books), a book focused on unpacking Walt Disney's obsession with building the city of the future. It's a tragedy that his vision for EPCOT was never fully realized.
 
@@ -36,9 +36,9 @@ I've written [several](https://investing1012dot0.substack.com/p/the-rise-of-the-
 
 There is so much hype in startups, especially over the last few years. I welcome a healthy economic correction to bring people back down to earth. But my fear is two-fold: (1) we'll forget how to dream entirely, and (2) we'll throw the baby out with the bath water and disregard the true visionaries along with the hucksters.
 
-[I've written before](https://investing1012dot0.substack.com/p/the-storytelling-of-investing) about the storytelling of investing, and how important a narrative is in evaluating an investment. Dan Loeb said being an investor "is to live constantly at the intersection of story and uncertainty." But unpacking that story comes later; dreaming the dream is letting yourself optimistically imagine what *could* be true, and then seek to help bring it about.
+[I've written before](https://investing1012dot0.substack.com/p/the-storytelling-of-investing) about the storytelling of investing, and how important a narrative is in evaluating an investment. [[Dan Loeb]] said being an investor "is to live constantly at the intersection of story and uncertainty." But unpacking that story comes later; dreaming the dream is letting yourself optimistically imagine what *could* be true, and then seek to help bring it about.
 
-Some people might think this is common sense. "We're working in the tech industry. Inventing the future is what we do." But in reality, some people approach their work in technology (whether as a founder, operator, or investor) a lot like a commodities trader; just managing risk and exposure. Very little imagination involved. Instead? Curiosity must be learned.
+Some people might think this is common sense. "We're working in the tech industry. Inventing the future is what we do." But in reality, some people approach their work in technology (whether as a founder, operator, or investor) a lot like a commodities trader; just managing risk and exposure. Very little imagination involved. Instead? [[Curiosity]] must be learned.
 
 Any attempt at honing curiosity, and imagination, has been a catastrophic failure. There is a [breadth of research](https://nesslabs.com/science-of-curiosity) on the topic of curiosity, and how it's being weeded out in formal education. In the book, Promise of Progress City, the author describes Walt Disney's approach to imagination this way:
 
@@ -58,11 +58,11 @@ The most curious people I know are constantly paying attention to how things wor
 
 > *"Always curious, Walt was frequently inspired by his trips abroad, and he brought back ideas that he would later integrate into Disneyland and his other projects. **The trips expanded his vision; they got him away from the stress at the studio and gave him a chance to travel, to observe, and to think.**"*
 
-Alan Rickman [said something similar](https://www.tiktok.com/@lessonsforacting/video/7141807820462230789?_r=1&_t=8WXpEvbo9gw&is_from_webapp=v1&item_id=7141807820462230789) when asked about what advice he would give to aspiring actors:
+[[Alan Rickman]] [said something similar](https://www.tiktok.com/@lessonsforacting/video/7141807820462230789?_r=1&_t=8WXpEvbo9gw&is_from_webapp=v1&item_id=7141807820462230789) when asked about what advice he would give to aspiring actors:
 
 > *"Forget about acting. Whatever you do as an actor is cumulative. Go to art galleries, listen to music, know what's happening on the news, in the world, and form your opinions, develop your taste and judgement. **So that when a quality piece of writing is put in front of you your imagination, which you've nurtured, has something to bounce off of**."*
 
-Yet another observant genius (and remixer) was Leonardo Da Vinci. In Walter Isaacson's biography of Da Vinci, he emphasized the artist's ability to observe as one of his ultimate skills; something that fed every other aspect of his creativity and vision.
+Yet another observant genius (and remixer) was Leonardo Da Vinci. In [[Walter Isaacson]]'s biography of Da Vinci, he emphasized the artist's ability to observe as one of his ultimate skills; something that fed every other aspect of his creativity and vision.
 
 > *"**Observe. Leonardo's greatest skill was his acute ability to observe things.** It was the talent that empowered his curiosity, and vice versa. It was not some magical gift but a product of his own effort."*
 
@@ -76,7 +76,7 @@ For Walt Disney? Those ideas often came from the World's Fair:
 
 ![Tweet referenced in Expose Yourself To The Best Ideas section](/images/learning-to-dream-5b619b9b.jpg)
 
-There is a shortage of breath taking collections of the world's best ideas. Honestly, one of the best places for this is on Twitter or TikTok where you can often be exposed to the best (and worst) things that people are working on.
+There is a shortage of breath taking collections of the world's best ideas. Honestly, one of the best places for this is on [[Twitter]] or [[TikTok]] where you can often be exposed to the best (and worst) things that people are working on.
 
 Some people are setting out to create new experiences to curate the best ideas the world has to offer, like [Cameron Wiese](https://twitter.com/camwiese) who is building [World's Fair Co](https://worldsfair.co/). **But there is plenty of need for aggregators of the very best imagineering that is taking place around the world, and across disciplines.**
 

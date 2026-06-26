@@ -24,13 +24,13 @@ Across my several ramblings I often talk about this idea that compels me to enjo
 
 The reason that line is so broad is because I believe it applies to almost everyone and everything. Everyone is an investor of something because they’re allocating finite things in their lives: money, attention, time, effort, love.
 
-This week has me reflecting on time, particularly 8 years. Also an arbitrary number but its meaningful to me. This week marks my 8th wedding anniversary. I’ve written about my family before, like when we had [our 3rd kid](https://investing1012dot0.substack.com/p/kids-30), thinking about my life as the “[ultimate investment committee](https://investing1012dot0.substack.com/p/youre-the-only-investment-that-matters),” and the [balance](https://investing1012dot0.substack.com/p/toil-we-must) between hard work and life satisfaction.
+This week has me reflecting on time, particularly 8 years. Also an arbitrary number but its meaningful to me. This week marks my 8th wedding anniversary. I’ve written about my family before, like when we had [our 3rd kid](https://investing1012dot0.substack.com/p/kids-30), thinking about my life as the “[ultimate investment committee](https://investing1012dot0.substack.com/p/youre-the-only-investment-that-matters),” and the [balance](https://investing1012dot0.substack.com/p/toil-we-must) between [[Hard Work|hard work]] and life satisfaction.
 
 My core takeaway in my life is that the more finite the resource? The better you need to allocate it. I can make and lose money, but time is something I never get enough of. So as an investor of time? My wife, and my family, are the most valuable things in my life.
 
 I have a wife that I truly don’t deserve. Every good thing in my life she’s made possible.
 
-Clayton Christensen, in his book “[How Will You Measure Your Life?](https://claytonchristensen.com/books/how-will-you-measure-your-life/)” tells a story about building a treehouse together with his kids. He had a blast building with them and was so excited for them to have the treehouse.
+[[Clayton Christensen]], in his book “[How Will You Measure Your Life?](https://claytonchristensen.com/books/how-will-you-measure-your-life/)” tells a story about building a treehouse together with his kids. He had a blast building with them and was so excited for them to have the treehouse.
 
 > *“But after it was finished, I rarely saw the children in it. The truth was that having the house wasn’t what really motivated them. It was the building of it, and how they felt about their own contribution, that they found satisfying. **I had thought the destination was what was important, but it turned out it was the journey.**”*
 

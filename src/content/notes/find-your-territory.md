@@ -41,12 +41,12 @@ related:
 
 ## Notable quotes
 
-> "Our job in this life is not to shape ourselves into some ideal we imagine we ought to be, but to find out who we already are and become it." — Steven Pressfield, The War of Art
+> "Our job in this life is not to shape ourselves into some ideal we imagine we ought to be, but to find out who we already are and become it." — [Steven Pressfield](/notes/steven-pressfield), [The War of Art](/notes/the-war-of-art)
 
 > "They hone their strengths, champion their edge, and rule their own territory."
 
 ## How it connects
 
-- Steven Pressfield / The War of Art — becoming who you already are rather than chasing an external ideal.
+- [Steven Pressfield](/notes/steven-pressfield) / [The War of Art](/notes/the-war-of-art) — becoming who you already are rather than chasing an external ideal.
 - [Competition](/notes/competition) — escaping the zero-sum status game by changing the game.
 - [Self-Reflection](/notes/self-reflection) — finding your edge as the prerequisite to your own territory.

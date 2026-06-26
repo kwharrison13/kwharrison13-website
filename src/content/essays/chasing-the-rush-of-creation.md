@@ -30,7 +30,7 @@ But as an investor, you find yourself constantly telling [stories of optimism](h
 
 **And parenting is the practice of projected ambitions.** I don't mean just the stereotypical high expectations of success a lot of parents foist on their kids. I mean a deeper version of the idea that "I just want what's best for my kids." You want education, friendship, social development, and entertainment all to be the best they can be. As a result, you find yourself often asking yourself, "what is *actually* best?"
 
-For example, recently my 6-year old son has been struggling with his school being a good fit for him. We found ourselves researching alternative schools and I kept feeling like I had no good basis for making that decision. So I started putting together [a course on K-5 education](https://kwharrison13.com/6b7f7efaabf648afaed6cd22ca80571f) (with the help of ChatGPT).
+For example, recently my 6-year old son has been struggling with his school being a good fit for him. We found ourselves researching alternative schools and I kept feeling like I had no good basis for making that decision. So I started putting together [a course on K-5 education](https://kwharrison13.com/6b7f7efaabf648afaed6cd22ca80571f) (with the help of [[ChatGPT]]).
 
 I find that same curiosity crop up whenever I meet a truly exceptional person, especially when they're young. I want to understand what circumstances helped them become who they are so that I might try and distill those lessons to offer to my children. That's what happened this week.
 
@@ -44,7 +44,7 @@ I consistently feel like we underestimate young people. From the rising age of p
 
 People are far more capable at a far earlier age than we typically give them credit for. And Alexa is certainly evidence of that. In our conversation, it was clear that so much of what she found herself doing was "breaking the rules" that are typical for someone her age.
 
-She started reading and exploring websites in 5th grade. Pretty soon she found herself fascinated by what websites could be. She also noticed that just about everyone needed a website. So, [in 2016](https://www.linkedin.com/in/alexakayman/details/experience/) (when she was ~11 years old) she started talking to small businesses in New York and, using no-code tools like Wix, would help them build websites.
+She started reading and exploring websites in 5th grade. Pretty soon she found herself fascinated by what websites could be. She also noticed that just about everyone needed a website. So, [in 2016](https://www.linkedin.com/in/alexakayman/details/experience/) (when she was ~11 years old) she started talking to small businesses in [[New York City|New York]] and, using no-code tools like Wix, would help them build websites.
 
 As she continued to stumble on different businesses, she came across a political organization whose name was way too long, and she helped them rebrand. That was her first exposure to marketing and growth. Eventually, she stumbled upon [Bloom](https://www.bloomapp.com/), an investing app for teens, and started as an intern with them. As she helped with marketing, she [helped](https://www.linkedin.com/in/alexakayman/) generate 10K sign-ups in 3 months with $0 in marketing spend.
 
@@ -54,15 +54,15 @@ But she's not just impressive. It's not simply over-achieverism. Instead, Alexa 
 
 That phrase — "chasing the rush of creation," — is right from Alexa's [personal website](https://alexakayman.com/index.html). And it was no surprise when I saw it after our conversation. When we first interviewed Alexa as a research fellow, she said her “biggest responsibility is to absorb and learn as much as possible.”
 
-> *"I grew up in the internet generation. The boom of social media created a generation of people excited to consume information, but in 5th grade I was interested in researching and building businesses. **I'm more interested in creation than consumption.**"*
+> *"I grew up in the internet generation. The boom of [[Social Media|social media]] created a generation of people excited to consume information, but in 5th grade I was interested in researching and building businesses. **I'm more interested in creation than consumption.**"*
 
 As we talked, I realized how true that is. The vast, vast majority of interactions that we have online are purely consumption. Inputs, with no desired outputs. Other than spending more time taking on more inputs. But Alexa isn't programmed that way.
 
 She discovered [YC's Startup Library](https://www.ycombinator.com/library) right before COVID, and that became a self-directed course on all things startups. That was par for the course for Alexa. "Rabbit holes are definitely an accurate description of how I teach myself things." As an only child with two parents who work, Alexa found herself with a lot of time to, in her words, "ask stupid questions and then go find the answers." The internet acted as the perfect gateway for that.
 
-"What about TV? Or TikTok?" I asked her. "Do you do anything mindless for fun?" She deleted TikTok because it wasn't a good habit, and instead focused on things [like Twitter](https://twitter.com/AlexaKayman) that felt like better places to observe and learn. [She does watch TV](https://alexakayman.com/reading.html), but she's watching shows like Succession. "I also enjoy watching the cinematic critiques that come with those kinds of shows on YouTube."
+"What about TV? Or [[TikTok]]?" I asked her. "Do you do anything mindless for fun?" She deleted TikTok because it wasn't a good habit, and instead focused on things [like Twitter](https://twitter.com/AlexaKayman) that felt like better places to observe and learn. [She does watch TV](https://alexakayman.com/reading.html), but she's watching shows like Succession. "I also enjoy watching the cinematic critiques that come with those kinds of shows on [[YouTube]]."
 
-Along with her watch list, she also has her [reading log](https://alexakayman.com/reading.html) with books like "Savage Inequalities" about America's educational system, or "The Intelligent Investor." Her natural curiosity always comes back to creation.
+Along with her watch list, she also has her [reading log](https://alexakayman.com/reading.html) with books like "Savage Inequalities" about America's educational system, or "[[The Intelligent Investor]]." Her natural curiosity always comes back to creation.
 
 > *"There is definitely a rush when I'm making something, even if its small. The excitement of it. **Creating things makes you feel in touch with the moments you're living.**"*
 

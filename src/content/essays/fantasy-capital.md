@@ -25,11 +25,11 @@ When I was in college I got in a big argument with a friend whose entire identit
 
 When he said that I realized it was true. I loved sports movies. Everything from [Remember the Titans](https://en.wikipedia.org/wiki/Remember_the_Titans) to [The Last Dance](https://bit.ly/3796OIe). What resonated the most was the story.
 
-This extends to more than just sports. People have gone looking for stories elsewhere in places like public equity markets. We've seen an explosion of retail investors over the last few years. [15% of retail investors](https://www.marketplacefairness.org/blog/retail-investors-statistics/) today got their start in 2020. Packy McCormick laid out this evolution perfectly in his piece, [Business is the New Sports](https://www.notboring.co/p/business-is-the-new-sports?s=r):
+This extends to more than just sports. People have gone looking for stories elsewhere in places like public equity markets. We've seen an explosion of retail investors over the last few years. [15% of retail investors](https://www.marketplacefairness.org/blog/retail-investors-statistics/) today got their start in 2020. [[Packy McCormick]] laid out this evolution perfectly in his piece, [Business is the New Sports](https://www.notboring.co/p/business-is-the-new-sports?s=r):
 
 > *"The stock market is perfect [during quarantine] - on all day, the news cycle continues into the night, and if you follow it even casually, you never have to be bored. **We treat our favorite companies more like our favorite teams, and our favorite business leaders more like our favorite athletes -- with all of the passion, frustration, and booing that implies.**"*
 
-The amount of consumer interest in business isn't just an interesting observation. It changes the way the "game" of business is played. Whether its how a [valuation](https://investing1012dot0.substack.com/p/valuations?s=w) is determined (see "Meme Stocks") or how your marketing campaign just needs [one meme-able moment](https://www.youtube.com/watch?v=dwfaCpWe0zY) and it’s nearly free. Companies have to adjust to the level of scrutiny and interest from the outside world. **People become invested in the stories and then they become invested in how the game is played. The same thing is happening in venture capital.**
+The amount of consumer interest in business isn't just an interesting observation. It changes the way the "game" of business is played. Whether its how a [valuation](https://investing1012dot0.substack.com/p/valuations?s=w) is determined (see "Meme Stocks") or how your marketing campaign just needs [one meme-able moment](https://www.youtube.com/watch?v=dwfaCpWe0zY) and it’s nearly free. Companies have to adjust to the level of scrutiny and interest from the outside world. **People become invested in the stories and then they become invested in how the game is played. The same thing is happening in [[Venture Capital|venture capital]].**
 
 ## The Story of Venture
 
@@ -69,7 +69,7 @@ Like any good startup the most critical initial ingredients are the visionary fo
 
 In a company there are a lot of [drawbacks in having co-CEOs](https://www.saastr.com/benefits-and-drawbacks-of-co-ceos/); imagine having 6+ CEOs. That's usually what it's like to work at a venture fund. When everyone is the leader? No one is.
 
-When you look at some of the most successful venture funds they typically have a clear leader and that leader is the visionary tone-setter for the firm. Whether it's Marc Andreessen at a16z or Sequoia's [recent leadership transition](https://twitter.com/sequoia/status/1511023473421795328?s=20&t=zrrfVytpG8cMH0Hpo28P6Q) from Doug Leone to Roelof Botha.
+When you look at some of the most successful venture funds they typically have a clear leader and that leader is the visionary tone-setter for the firm. Whether it's [[Marc Andreessen]] at a16z or [[Sequoia]]'s [recent leadership transition](https://twitter.com/sequoia/status/1511023473421795328?s=20&t=zrrfVytpG8cMH0Hpo28P6Q) from [[Doug Leone]] to [[Roelof Botha]].
 
 This isn't about dictatorship. [Social Capital](https://www.axios.com/2018/09/07/social-capital-collapse) is a great example of what happens to a venture firm when you have a dictator with all the control and limited vision. **This is about people wanting to be led by someone who inspires them.** I saw this over and over again [when I wrote my piece](https://investing1012dot0.substack.com/p/talent-vortex?s=w) on building talent vortexes into tech mafias.
 
@@ -91,7 +91,7 @@ A lack of clarity around the org chart [creates problems for both](https://inves
 
 *The Fantasy: When anyone asks the question 'how is your firm different?' you have a clear answer and can point to specific aspects of the firm that demonstrate that unique difference. You can describe what "product" you offer for founders that addresses a particular 'job-to-be-done' even if that product isn't for everyone.*
 
-When I worked at Amazon we would print an image of the "Amazon Flywheel" on the front of every presentation we handed out. Legend tells the tale of Father Bezos etching it on to a dinner napkin in a fever dream of innovation.
+When I worked at [[Amazon]] we would print an image of the "Amazon [[Flywheel]]" on the front of every presentation we handed out. Legend tells the tale of Father [[Jeff Bezos|Bezos]] etching it on to a dinner napkin in a fever dream of innovation.
 
 ![Framework diagram for product-led value proposition](/images/fantasy-capital-45d16e25.png)
 
@@ -143,6 +143,6 @@ A culture of evaluating the good and bad decisions a group has made is a natural
 
 ## Lets Be Better
 
-For some reason I think about [this tweet](https://twitter.com/micsolana/status/871137827886477312?s=20&t=oeGVmf7w1ra2n8MQcX3quQ) from Mike Solana all the time. When I have conversations with VCs and I hear the frustration a lot of them have I bring this up. “I just want us all to be amazing.” Most of us want to better than FOMO-driven heat-seekers (at least I think so.)
+For some reason I think about [this tweet](https://twitter.com/micsolana/status/871137827886477312?s=20&t=oeGVmf7w1ra2n8MQcX3quQ) from [[Mike Solana]] all the time. When I have conversations with VCs and I hear the frustration a lot of them have I bring this up. “I just want us all to be amazing.” Most of us want to better than FOMO-driven heat-seekers (at least I think so.)
 
 Take the opportunity to reflect on these "dream the dream" fantasies that other VCs keep pointing out. **And then see if we can't be better at what we do by making some of them a reality.**

@@ -23,17 +23,17 @@ Early in my life I thought about city building. I had written a business plan on
 
 ![Illustration from Teamshares, Hold Co's, & Corporate Cities](/images/teamshares-hold-cos-and-corporate-6974b6e3.png)
 
-That same fascination with city building led me to spend a lot of time thinking about things like Walt Disney, and his original vision for EPCOT (which I've written about several times [here](https://investing1012dot0.substack.com/p/learning-to-dream), [here](https://investing1012dot0.substack.com/p/the-cowards-conviction), and [here](https://investing1012dot0.substack.com/p/the-rise-of-the-cash-man).) I was always looking for these examples of purpose-built communities.
+That same fascination with city building led me to spend a lot of time thinking about things like [[Walt Disney]], and his original vision for EPCOT (which I've written about several times [here](https://investing1012dot0.substack.com/p/learning-to-dream), [here](https://investing1012dot0.substack.com/p/the-cowards-conviction), and [here](https://investing1012dot0.substack.com/p/the-rise-of-the-cash-man).) I was always looking for these examples of purpose-built communities.
 
 In 2014, after I sold my first company I spent time at Cambridge where I did a Supervision Thesis sponsored by a faculty member. My original proposal revolved around this same idea. I described it, at the time, as a fascination with "the way people interact with the world around them."
 
 ![Framework diagram from Teamshares, Hold Co's, & Corporate Cities](/images/teamshares-hold-cos-and-corporate-483d8c9e.png)
 
-Over time, my interest took shape in a fascination with holding companies. I loved studying Constellation Software, Berkshire Hathaway, and others. The kind of unified human experience I saw occurring in a city that was purpose built was always influenced by the *why* of a city. **What is the economic driver of a collection of people? Holding companies felt like a more direct representation of those aligned economic drivers.**
+Over time, my interest took shape in a fascination with holding companies. I loved studying [[Constellation Software]], [[Berkshire Hathaway]], and others. The kind of unified human experience I saw occurring in a city that was purpose built was always influenced by the *why* of a city. **What is the economic driver of a collection of people? Holding companies felt like a more direct representation of those aligned economic drivers.**
 
 The more I understood the value that a central entity could create by having a common goal and a core competency, the more I started looking for those in different business models. In 2019, I found one that perfectly articulated what was most compelling to me about this type of model.
 
-# Introducing Teamshares
+# Introducing [[Teamshares]]
 
 I got introduced to [Michael Sutherland Brown](https://www.linkedin.com/in/-masb/), [Alex Eu](https://www.linkedin.com/in/alexeu/), and [Kevin Shiiba](https://www.linkedin.com/in/kevinshiiba/) when they were just getting started building Teamshares. The company's original thesis was built to address a key equation around economic opportunity:
 
@@ -51,7 +51,7 @@ One of the firms I respect the most that has a very similar ethos of creating "b
 
 Solving the arduous process of becoming employee owned was Teamshares' original product; a Teamshares buyout if you will. Creating a mechanism that made it easier for owners to sell, and to do it in such a way that their employees would be capable of receiving and building ownership of the company over time.
 
-Increasingly, people are appreciating that the more ownership people feel over the companies they help to build, the more performance improves. In [a report](https://tribecap.co/1-trillion-in-equity-how-carta-is-set-to-unlock-the-private-markets/) on Carta, who has become an index on employee ownership, Tribe Capital makes this point:
+Increasingly, people are appreciating that the more ownership people feel over the companies they help to build, the more performance improves. In [a report](https://tribecap.co/1-trillion-in-equity-how-carta-is-set-to-unlock-the-private-markets/) on [[Carta]], who has become an index on employee ownership, Tribe Capital makes this point:
 
 > *"Without equity, it’s not possible to align incentives in a way that is attractive to highly skilled employees relative to other employment. **Widely-owned equity is the mechanism by which entrepreneurship spreads from just the founder to the entire team of employees** who devote substantial portions of their working life towards building something whose rewards they can take part in."*
 
@@ -59,9 +59,9 @@ Fast forward to today, Teamshares recently [announced](https://www.wsj.com/artic
 
 In aggregate, Teamshares has [$416M](https://www.wsj.com/articles/backed-with-245-million-teamshares-buys-small-businesses-boosts-employee-ownership-6d6db53c) of revenue across its companies. A family of companies that extends across butcher shops, a notary service, an auto-repair shop, and much more. Their model is an intricate one that they've executed incredibly well over the last few years. But beyond the specifics of the Teamshares model, I wanted to articulate a bit more about why the model is so compelling to me.
 
-# The Holding Company Model
+# The [[Holding Company]] Model
 
-I had the privilege of angel investing in Teamshares back when we first met in 2019. I invested [again](https://contrary.com/companies) when I got to Contrary. But Teamshares isn't the only time I've been exposed to this kind of model. In addition to investing in Teamshares (and holding a fair bit of Constellation Software stock), I've invested in or worked with organizations like [Merit Holdings](https://www.meritholdings.com/), [Eads Bridge Holdings](https://www.eadsbridgeholdings.com/), and [Sylva](https://www.withsylva.com/). Just this week I made my newest angel investment in [Workweek](https://workweek.com/) that has a very similar model albeit more of a build vs. buy approach to the members of their family of businesses.
+I had the privilege of angel investing in Teamshares back when we first met in 2019. I invested [again](https://contrary.com/companies) when I got to [[Contrary]]. But Teamshares isn't the only time I've been exposed to this kind of model. In addition to investing in Teamshares (and holding a fair bit of Constellation Software stock), I've invested in or worked with organizations like [Merit Holdings](https://www.meritholdings.com/), [Eads Bridge Holdings](https://www.eadsbridgeholdings.com/), and [Sylva](https://www.withsylva.com/). Just this week I made my newest angel investment in [Workweek](https://workweek.com/) that has a very similar model albeit more of a build vs. buy approach to the members of their family of businesses.
 
 Now, granted, all of these businesses have unique models and approaches. Some are more similar to funds, others are more traditional holding companies, and others are somewhere in the middle. But there are some unifying characteristics that make these models powerful.
 
@@ -75,7 +75,7 @@ For some, that can be as simple as being an exceptional business. Berkshire Hath
 
 But the same could be said of venture funds. Most VCs think portfolio theory protects them from their losers. But the reality is, if I invest in one [WeWork](https://investing1012dot0.substack.com/p/the-rise-of-the-cash-man) or one [Hopin](https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater) or one [FTX](https://archive.ph/2022.11.10-002447/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/), it actually has an impact on my decision making, and my business building muscle. The more exposure I get to negative data points, the more my overall data set becomes corrupted. Whether I acknowledge it or not. Whether I even realize it or not.
 
-## A Core Competency
+## A [[Core Competency]]
 
 Knowing what "good" is to you is the shared purpose of any holding company model. But a more deliberate question is how do you structure your business around a core competency? What are you uniquely good at?
 
@@ -107,7 +107,7 @@ As a result, most holding companies are better off understanding their core comp
 
 # What About Venture Scale?
 
-One of the biggest pushbacks these types of companies get is whether or not they are "venture scale." This question is, like many in the venture world, one of relativism. Its all a function of valuation. One company that I liked conceptually within this model was Opendoor (heck I even liked WeWork for the same reasons, but they just got too irresponsibly massive in their ambitions without the underlying business to back it up).
+One of the biggest pushbacks these types of companies get is whether or not they are "venture scale." This question is, like many in the venture world, one of relativism. Its all a function of valuation. One company that I liked conceptually within this model was [[Opendoor]] (heck I even liked [[WeWork]] for the same reasons, but they just got too irresponsibly massive in their ambitions without the underlying business to back it up).
 
 Opendoor is, I think, a good example of an interesting business that isn't worth what its ambitions wanted it to be worth. So one function of venture scale can be determined based on the valuation relative to traction and business model potential.
 
@@ -117,7 +117,7 @@ WeWork could still be an exceptional business. But its loaded with so much insur
 
 The broader question: take a business whose primary economic model is to deploy capital in pursuit of aggregated assets that increase in value; can that be a multi-billion dollar business? Yes.
 
-Whether its holding companies, like Constellation, Loews Corp, TransDigm, or asset allocators, like Blackstone, Apollo, or Ares. There are a number of case studies to point to of the potential size of these outcomes.
+Whether its holding companies, like Constellation, Loews Corp, TransDigm, or asset allocators, like [[Blackstone]], Apollo, or Ares. There are a number of case studies to point to of the potential size of these outcomes.
 
 ![Framework diagram for what about venture scale?](/images/teamshares-hold-cos-and-corporate-774b0150.png)
 

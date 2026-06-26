@@ -8,7 +8,7 @@ tags:
   - "capital-allocation"
   - "technological-innovation"
   - "company-building"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
@@ -38,7 +38,7 @@ The book is a useful field guide to the PLG vocabulary — PQLs, viral coefficie
 
 <!-- interconnections -->
 - [The Lean Startup](/books/the-lean-startup) — the [minimum viable product](/notes/minimum-viable-product) / [Experimentation](/notes/experimentation) spine of PLG: "release an MVP and then focus on evolving it," test the *negative* hypothesis, and treat data and an experimentation-driven mindset as core ingredients.
-- [Zero To One](/books/zero-to-one) — the counterpoint on [Distribution](/notes/distribution): PLG bets the product is its own distribution channel ("de-labor the distribution engine"), where Thiel argues distribution is a deliberate, under-respected discipline in its own right.
+- [Zero To One](/books/zero-to-one) — the counterpoint on [Distribution](/notes/distribution): PLG bets the product is its own distribution channel ("de-labor the distribution engine"), where [Thiel](/notes/peter-thiel) argues distribution is a deliberate, under-respected discipline in its own right.
 - [Flywheel](/notes/flywheel) — the most mature PLG companies "have built a flywheel where their product is acting as the primary driver of acquisition, retention and expansion."
 - [Network Effects](/notes/network-effects) — viral, network-effect products like [Calendly](/notes/calendly) are "really just targeting consumers inside an enterprise," using consumer-style growth tactics (invitations → conversion → viral coefficient) inside the org.
 <!-- /interconnections -->
@@ -84,7 +84,7 @@ The book is a useful field guide to the PLG vocabulary — PQLs, viral coefficie
 ### A more competitive, well-funded world
 
 - "**Benchmarking data shows that it's harder than ever for new SaaS companies to gain initial traction and reach the expansion stage.** More and more startups are vying for traction against extremely well-capitalized SaaS powerhouses. Not surprisingly, most struggle to break through. The median growth rate of startups with \$1–2.5M in ARR fell from 100% to 64% in just the last year. This begs the question: how much room is left for emerging startups?" _(see [Mike Speiser Playbook](/notes/mike-speiser-playbook))_
-- "Those on the front lines know that more competition means greater saturation of traditional marketing and sales channels, increasing [Customer Acquisition](/notes/customer-acquisition) costs ([CAC](/notes/cac)). **In fact, the cost of acquiring a customer has gone up by 65% in the past five years, according to a ProfitWell survey of 800 companies.**"
+- "Those on the front lines know that more competition means greater saturation of traditional marketing and sales channels, increasing [Customer Acquisition](/notes/customer-acquisition) costs ([CAC](/notes/cac)). **In fact, the cost of acquiring a customer has gone up by 65% in the past five years, according to a [ProfitWell](/notes/profitwell) survey of 800 companies.**"
 - "**As the pace of releasing new features has accelerated, it takes less and less time for competitors to copy your latest product innovation.** This commoditizes features and exacerbates price wars, eroding pricing power in the market."
 
 ### Consumerization of the enterprise
@@ -133,7 +133,7 @@ The book is a useful field guide to the PLG vocabulary — PQLs, viral coefficie
 - "Through our [Churn](/notes/churn) survey, **we found that a lot of our churn isn't actually due to customers being unhappy, but rather from people successfully completing a project and not knowing what to do next.** As a result, beyond the typical 'feature-based' content one would expect in a help center, our education team also creates content that is [Jobs To Be Done](/notes/jobs-to-be-done)-based in order to inspire customers to do more."
 - "[Mixpanel](/notes/mixpanel), a product analytics company, published a report in 2017 analyzing 572 products and 50 billion events. **In their research, they found that the top 10% of products outperformed the average by nearly 100% when it comes to retention.**"
 - "**The fastest growing SaaS companies see 89% annual logo retention and 109% net dollar retention (NDR) in their cohorts**, according to data from OpenView's SaaS benchmarking survey. That's compared to 82% and 90%, respectively, among slower growing companies."
-- "Early on, we decided that our department's North Star Metric would be [Net Revenue Retention](/notes/net-revenue-retention). **Eventually, I realized that while this was very motivating for my team, it ultimately did more harm than good.** The problem was that other departments assumed [Customer Success](/notes/customer-success) had retention covered, and therefore didn't include retention as part of their quarterly goals. This led to a lack of [Collaboration](/notes/collaboration) from other teams on projects that required cross-functional collaboration. **The typical response was, 'Improving net retention isn't part of my OKRs, so I can't prioritize this project.' While I still believe that net retention should remain our North Star Metric, we shifted from being the 'owner' of net retention to becoming the 'champions.'**"
+- "Early on, we decided that our department's [North Star Metric](/notes/north-star-metric) would be [Net Revenue Retention](/notes/net-revenue-retention). **Eventually, I realized that while this was very motivating for my team, it ultimately did more harm than good.** The problem was that other departments assumed [Customer Success](/notes/customer-success) had retention covered, and therefore didn't include retention as part of their quarterly goals. This led to a lack of [Collaboration](/notes/collaboration) from other teams on projects that required cross-functional collaboration. **The typical response was, 'Improving net retention isn't part of my OKRs, so I can't prioritize this project.' While I still believe that net retention should remain our North Star Metric, we shifted from being the 'owner' of net retention to becoming the 'champions.'**"
 
 #### On Net Promoter Score
 
@@ -164,4 +164,4 @@ The book is a useful field guide to the PLG vocabulary — PQLs, viral coefficie
 - "Marketing Campaigns allowed us to tap into an adjacent market called email marketing, which is five to six times larger than email infrastructure. The combination of filling a customer need and simultaneously giving ourselves more market headroom to accommodate rapid growth made this decision a no brainer."
 - "At SendGrid, we decided several years ago that it was important to build a [Pricing](/notes/pricing) function that would be responsible for doing the necessary homework to get pricing right. **We engaged a director, who owns several functions, and we hired two pricing professionals whose job it is to think about pricing all day every day. That might seem like a big investment, but it's been worth every penny.**"
 - "'Build something 100 people love, not something 1,000 people kind of like.' — [Brian Chesky](/notes/brian-chesky), CEO, Airbnb"
-- "In Silicon Valley, it's easy to get turned around and focus on the wrong things — investors, the ecosystem, your peers. But we've never lost sight of who we're here to serve, and that's been a core pillar of our success." _(see [Customer Obsession](/notes/customer-obsession))_
+- "In [Silicon Valley](/notes/silicon-valley), it's easy to get turned around and focus on the wrong things — investors, the ecosystem, your peers. But we've never lost sight of who we're here to serve, and that's been a core pillar of our success." _(see [Customer Obsession](/notes/customer-obsession))_

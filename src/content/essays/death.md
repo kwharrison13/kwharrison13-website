@@ -24,13 +24,13 @@ That clarity can be a powerful part of how we live our lives. Neil deGrasse Tyso
 
 > *"**It is the knowledge that I'm going to die that creates the focus that I bring to being alive. The urgency of accomplishment.** I fear living a life where I could have accomplished something and didn't."*
 
-As clarifying as a brush with death can be I wouldn't recommend productizing the experience like a vitamin pill. But to bring in another great thinker; Socrates said "the [unexamined](https://en.wikipedia.org/wiki/The_unexamined_life_is_not_worth_living#:~:text=%22The%20unexamined%20life%20is%20not,was%20subsequently%20sentenced%20to%20death.) life is not worth living."
+As clarifying as a brush with death can be I wouldn't recommend productizing the experience like a vitamin pill. But to bring in another great thinker; [[Socrates]] said "the [unexamined](https://en.wikipedia.org/wiki/The_unexamined_life_is_not_worth_living#:~:text=%22The%20unexamined%20life%20is%20not,was%20subsequently%20sentenced%20to%20death.) life is not worth living."
 
-When I was at Index we would include two sections in our memos that were popularized by Larry Summers. **We would write about a company's "pre-parade" and "pre-mortem." Not only a "dream the dream" scenario, but a "dream the nightmare."**
+When I was at [[Index Ventures|Index]] we would include two sections in our memos that were popularized by Larry Summers. **We would write about a company's "pre-parade" and "pre-mortem." Not only a "dream the dream" scenario, but a "dream the nightmare."**
 
-Roelof Botha brought up this same topic in a [recent Invest Like The Best episode](https://www.joincolossus.com/episodes/66371765/botha-sequoias-crucible-moment?tab=transcript) in an even more poignant way:
+[[Roelof Botha]] brought up this same topic in a [recent Invest Like The Best episode](https://www.joincolossus.com/episodes/66371765/botha-sequoias-crucible-moment?tab=transcript) in an even more poignant way:
 
-> *"Imagine the venture business in a decade, and Sequoia is gone. **We presided over the decline of Sequoia**, this team, the people here in this room, it was us. **What happened? What did we not do?**"*
+> *"Imagine the venture business in a decade, and [[Sequoia]] is gone. **We presided over the decline of Sequoia**, this team, the people here in this room, it was us. **What happened? What did we not do?**"*
 
 I loved this concept of evaluating your own potential cause of death as a venture firm. And I wanted to explore it more, though I certainly hesitated. I almost didn't write this post for fear of it coming across as subposting some firm I think is "dying." But that isn't my intent.
 
@@ -54,7 +54,7 @@ Fun fact. Asking a lot of your friends out of the blue, "why do you think your c
 
 I had ~30 conversations with folks across venture funds of all shapes and sizes and it becomes clear pretty quickly who hasn't thought about this question before, who has, and who *really* has. Some people definitely checked the "paranoid" box. **And interestingly enough the people who had the most thoughtful responses to this question were often the people who were either already leading their respective firms, or were in line to do so.**
 
-So what did people say? Performance. Succession planning. Politics. There was plenty of overlap in their answers. **What stuck out to me the most was how a lot of these fears closely aligned with the revolutions already going on in venture that I've been writing about.** The [productization](https://investing1012dot0.substack.com/p/productization?s=w) and improvement in a venture funds offering can improve performance. The [unbundling of venture](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital?s=w) and the emphasis on individual brands leads to more difficult succession planning. And the changes to ["eat what you kill" decision making](https://investing1012dot0.substack.com/p/talent?s=w) in venture firms leads to much more complex politics when you introduce talented non-investor contributors.
+So what did people say? Performance. [[Succession Planning|Succession planning]]. Politics. There was plenty of overlap in their answers. **What stuck out to me the most was how a lot of these fears closely aligned with the revolutions already going on in venture that I've been writing about.** The [productization](https://investing1012dot0.substack.com/p/productization?s=w) and improvement in a venture funds offering can improve performance. The [unbundling of venture](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital?s=w) and the emphasis on individual brands leads to more difficult succession planning. And the changes to ["eat what you kill" decision making](https://investing1012dot0.substack.com/p/talent?s=w) in venture firms leads to much more complex politics when you introduce talented non-investor contributors.
 
 So let’s dig in to the death of a venture fund.
 
@@ -62,9 +62,9 @@ So let’s dig in to the death of a venture fund.
 
 First and foremost venture capital is a returns-driven business. While it is crafted around helping to drive innovation it only exists because LPs look for yield on their capital and startup investing can, in the right circumstances, drive significant yield. I've written about this emphasis on performance [before](https://investing1012dot0.substack.com/p/talent?s=w).
 
-> *"Doug Leone [says it himself](https://www.thetwentyminutevc.com/podcast/doug-leone/). The two most important things are (1) performance, and (2) teamwork. But if you don't have number 1 then nothing else matters."*
+> *"[[Doug Leone]] [says it himself](https://www.thetwentyminutevc.com/podcast/doug-leone/). The two most important things are (1) performance, and (2) teamwork. But if you don't have number 1 then nothing else matters."*
 
-In 2006 Howard Marks wrote the now-famous memo, "[You Can't Eat IRR](https://www.oaktreecapital.com/docs/default-source/memos/2006-07-12-you-cant-eat-irr.pdf)." He unpacks all the problems with IRR in terms of relation to dollar size, time frame, and relation to actual dollars returned. Especially in an up-market like we've had for the last 13 years [IRR can be misleading](https://www.sethlevine.com/archives/2022/05/irr-is-a-vanity-metric.html). As many VCs have learned (or been reminded of) this year? The ultimate return is cash in your LP's pockets.
+In 2006 [[Howard Marks]] wrote the now-famous memo, "[You Can't Eat IRR](https://www.oaktreecapital.com/docs/default-source/memos/2006-07-12-you-cant-eat-irr.pdf)." He unpacks all the problems with IRR in terms of relation to dollar size, time frame, and relation to actual dollars returned. Especially in an up-market like we've had for the last 13 years [IRR can be misleading](https://www.sethlevine.com/archives/2022/05/irr-is-a-vanity-metric.html). As many VCs have learned (or been reminded of) this year? The ultimate return is cash in your LP's pockets.
 
 When you think about venture as a business of outlier returns there are a few aspects in the world of venture that are changing. If ignored they could easily be the cause of death for a number of venture firms going forward.
 
@@ -76,7 +76,7 @@ In categories like direct-carbon capture or space exploration you have dramatica
 
 If VCs are too afraid to venture into contrarian categories with big risks they could miss out on the next generation of venture returns. And I'm talking the old wild west of venture returns where there is significant costs but potentially reality-shattering outcomes.
 
-**VCs are facing the "Big Budget Effect" that is plaguing Hollywood studios right now.** In the year 2000 you had just three movies that had made $1B+. Titanic, Jurassic Park, and Star Wars Episode I. [Today you have 45+ movies](https://en.wikipedia.org/wiki/List_of_highest-grossing_films#Highest-grossing_films) that have made over $1B, and some of them have made $2B+ like Avengers and Avatar.
+**VCs are facing the "Big Budget Effect" that is plaguing [[Hollywood]] studios right now.** In the year 2000 you had just three movies that had made $1B+. Titanic, Jurassic Park, and Star Wars Episode I. [Today you have 45+ movies](https://en.wikipedia.org/wiki/List_of_highest-grossing_films#Highest-grossing_films) that have made over $1B, and some of them have made $2B+ like Avengers and Avatar.
 
 ![Framework diagram for fear of the unknown](/images/death-600b8767.png)
 
@@ -92,7 +92,7 @@ For the last few years VCs have been living off the maxim of "playing the game o
 
 Keep in mind even in late 2021 when valuations had skyrocketed in many cases; the [median forward revenue multiple](https://cloudedjudgement.substack.com/p/clouded-judgement-102921?s=r) for SaaS companies was still 15x. Nowadays that same median multiple? [6x forward revenue.](https://cloudedjudgement.substack.com/p/clouded-judgement-52022?s=r) Turns out 10x and lower is far from ancient history. It's current events.
 
-Bill Gurley laid this out quite well in a recent twitter thread.
+[[Bill Gurley]] laid this out quite well in a recent twitter thread.
 
 For every investor the danger is playing the game on the field and not thinking through the fundamental aspects of the game itself. Companies, in the long-run, are weighed on their abilities to generate cash flows while continuing to grow. **Funds that fail to think from those first principles will, in the long-run, suffer for it.**
 
@@ -132,7 +132,7 @@ Beyond those clear examples of reputation implosion there is a bigger thread tha
 
 Your reputation is your currency in venture. The most common proxy for reputation is your brand. If your brand doesn't represent the kind of credibility founders want to borrow? Then your money's no good. This is why the top venture funds remain disproportionally relevant when compared to public market investors. That isn’t true of hedge funds. Top-performing public funds are just as likely to be the top-performing fund next year as they are to be the worst-performing.
 
-In [a white paper](https://www.morganstanley.com/im/publication/insights/articles/articles_publictoprivateequityintheusalongtermlook_us.pdf) by Michael Mauboussin he makes this point around correlation of fund performance in venture over time. "Funds that have done well continue to do well." I first heard about the white paper in [an episode of Acquired](https://www.acquired.fm/episodes/andreessen-horowitz-part-ii) where they made it even more clear.
+In [a white paper](https://www.morganstanley.com/im/publication/insights/articles/articles_publictoprivateequityintheusalongtermlook_us.pdf) by [[Michael Mauboussin]] he makes this point around correlation of fund performance in venture over time. "Funds that have done well continue to do well." I first heard about the white paper in [an episode of Acquired](https://www.acquired.fm/episodes/andreessen-horowitz-part-ii) where they made it even more clear.
 
 > *"The postulate is that strength follows strength. That **when you do the best deals, you then start to realize [the flywheel](https://investing1012dot0.substack.com/p/contrary-my-renegade-of-choice?s=w) of getting the best entrepreneurs that are referred to you."***
 

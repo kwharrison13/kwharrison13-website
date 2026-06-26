@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
@@ -24,8 +24,10 @@ related:
   - "[[Naval Ravikant]]"
   - "[[Peter Thiel]]"
   - "[[Brie Wolfson]]"
+  - "[[Chamath Palihapitiya]]"
   - "[[Conviction-Led Contrarianism]]"
   - "[[The Almanack of Naval Ravikant]]"
+  - "[[The Unusual Ambitions of Chamath Palihapitiya]]"
 ---
 
 # Contrarianism
@@ -43,6 +45,7 @@ related:
 
 - [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — the title concept.
 - Conviction-Led Contrarianism - Research — research notes.
+- [The Unusual Ambitions of Chamath Palihapitiya](/notes/the-unusual-ambitions-of-chamath-palihapitiya) — [Chamath Palihapitiya](/notes/chamath-palihapitiya) framed as someone whose gift is "articulating non-mainstream ideas with vision and logic."
 
 ## Related concepts
 

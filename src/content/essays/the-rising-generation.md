@@ -52,7 +52,7 @@ Grades. Colleges. Medals. Awards. Kids lives revolve around outcomes. Parents fe
 
 Justine has a good [follow up point](https://twitter.com/venturetwins/status/1661812102041071617?s=20) to make here:
 
-> *"People blame social media/the Internet, but I think parenting plays a big role. **Many parents want to make life easier for their kids + give them a leg up, and go out of their way to remove obstacles**. This might be beneficial in the short-term, but has long-term consequences."*
+> *"People blame [[Social Media|social media]]/the Internet, but I think parenting plays a big role. **Many parents want to make life easier for their kids + give them a leg up, and go out of their way to remove obstacles**. This might be beneficial in the short-term, but has long-term consequences."*
 
 If your focus, as a parent, is on your children's outcomes, then what are obstacles but simply things to be removed to get to the actually important stuff? But what that leaves you with is a well-credentialed kid riddled with anxiety about the next outcome.
 
@@ -70,7 +70,7 @@ Being a Youtuber is the "bond trader" of most young people's lives. It’s what 
 
 Mike Birbiglia is one of my favorite comedians, and I have to credit him for telling a joke that brought this phrase to my attention. So even if Abe [didn't say it](https://santaclausind.org/blog/be-a-good-one), I still like the saying:
 
-> *"I stayed at a hotel last week in Washington, D.C. It was the Abraham Lincoln Suites, and they have these Abraham Lincoln quotes everywhere. And one of them was like, 'Whatever you are, be a good one.' I just don't feel like he should get credit for generalities like that. Like, 'How Are Ya?' -- Abraham Lincoln."*
+> *"I stayed at a hotel last week in Washington, D.C. It was the Abraham Lincoln Suites, and they have these [[Abraham Lincoln]] quotes everywhere. And one of them was like, '[[Whatever you are, be a good one]].' I just don't feel like he should get credit for generalities like that. Like, 'How Are Ya?' -- Abraham Lincoln."*
 
 When you hear cliché parents in cliché movies say cliché things like "you'll never make it as a rock star!" I'm reminded of this quote that my friend [Rex Woodbury showed me](https://digitalnative.substack.com/p/what-people-misunderstand-about-the) from a [2005 interview](https://www.wired.com/2005/10/are-you-ready-for-web-2-0/) with Barry Diller:
 
@@ -88,7 +88,7 @@ So does this contradict what I said about emphasizing experiences over outcomes?
 
 # Experiences Over Outcomes
 
-I c[ome back to this quote](https://investing1012dot0.substack.com/p/learning-to-dream) from Alan Rickman all the time, where he’s giving advice to aspiring young actors:
+I c[ome back to this quote](https://investing1012dot0.substack.com/p/learning-to-dream) from [[Alan Rickman]] all the time, where he’s giving advice to aspiring young actors:
 
 > *"Forget about acting. Whatever you do as an actor is cumulative. Go to art galleries, listen to music, know what's happening on the news, in the world, and form your opinions, develop your taste and judgement. **So that when a quality piece of writing is put in front of you your imagination, which you've nurtured, has something to bounce off of**."*
 
@@ -100,7 +100,7 @@ Is he saying "don't be an actor"? No. He's not invalidating the outcome entirely
 
 One of my "[quake books](https://kwharrison13.com/bookshelf)" is the biography of John Quincy Adams, which is a pretty weird one to choose. But I love the stories of both John Adams and his son, John Quincy Adams. They were for sure flawed people, but they had exceptional characteristics that I've learned from. From [journaling](https://www.masshist.org/jqadiaries/php/), to [education](https://press-pubs.uchicago.edu/founders/documents/a1_8_8s4.html), and more.
 
-One story that I think about all the time comes from a time when John Quincy Adams was serving as the U.S. Ambassador to Russia in 1809. His 8-year old son, George, was with him and I think about this passage from the biography by James Traub:
+One story that I think about all the time comes from a time when John Quincy Adams was serving as the U.S. Ambassador to Russia in 1809. His 8-year old son, George, was with him and I think about this passage from the biography by [[James Traub]]:
 
 > *"Adams spent the spring and early summer practicing the law in his desultory way, reading, and seeing to George's education, as his parents had seen to his. Every morning before eight he and George took turns reading to each other four chapters of the Bible, and then father and son talked about the meaning of the passages. He showed George the countries of the world on a map. He took George to a performance of Hamlet."*
 
@@ -110,7 +110,7 @@ That also reminds me of this exam from 1912 I saw [on Twitter](https://twitter.c
 
 ![Tweet referenced in The Capabilities of Kids section](/images/the-rising-generation-0aa58eb1.png)
 
-To some extent, we've lost sight of what young people are capable of. The average age of Hollywood stars goes up by [0.75](https://twitter.com/rev_cap/status/1647237620852838403?s=20) years every year. CEOs at the age they were hired [has gone from](https://twitter.com/rev_cap/status/1647237620852838403?s=20) ~45 in 2005 to ~68 in 2019.
+To some extent, we've lost sight of what young people are capable of. The average age of [[Hollywood]] stars goes up by [0.75](https://twitter.com/rev_cap/status/1647237620852838403?s=20) years every year. CEOs at the age they were hired [has gone from](https://twitter.com/rev_cap/status/1647237620852838403?s=20) ~45 in 2005 to ~68 in 2019.
 
 Liberty had a [great post](https://twitter.com/LibertyRPF/status/1679131574305013761?s=20) about Napoleon and young leaders back in July when a trailer for a new Napoleon movie came out. He credit Rian Whitton for making this point about Napoleon's age:
 
@@ -120,25 +120,25 @@ In [Liberty's post](https://www.libertyrpf.com/p/436-napoleon-and-young-leaders-
 
 I think about this every time I tell my kids they can't do something, or I think they need my help doing something. There is so much that parents have been programmed to see as unnecessary obstacles that its their job to remove. When in reality, we need a lot of reprogramming ourselves to see that kids are capable of much more than we give them credit for. **The more we can reprogram our expectations, the more our kids are enabled to do for themselves.**
 
-All of this makes me think about Derek Sivers who, after selling his company, is effectively living a dream of a life just writing and raising his children. From his book, "[Hell Yeah or No](https://sive.rs/pa)":
+All of this makes me think about [[Derek Sivers]] who, after selling his company, is effectively living a dream of a life just writing and raising his children. From his book, "[Hell Yeah or No](https://sive.rs/pa)":
 
 > *"**Since my son was born five years ago, I’ve spent at least thirty hours a week with him, just one-on-one, giving him my full attention.** But I’ve never written about parenting before because it’s a touchy subject — too easily misunderstood. So why am I writing about it today? **Because I realized that the parenting things I do for him are also for myself.** And that’s an idea worth sharing."*
 
 # The Silicon Valley Vibe Shift
 
-So what does all of this have to do with investing and company building? You've let me ramble about the thoughts going through my parenting head, now I'll bring it home. In 2007, when Facebook was just 3 years old, [Mark Zuckerberg spoke](https://www.cnet.com/culture/say-what-young-people-are-just-smarter/) to a group of YC founders:
+So what does all of this have to do with investing and company building? You've let me ramble about the thoughts going through my parenting head, now I'll bring it home. In 2007, when [[Facebook]] was just 3 years old, [Mark Zuckerberg spoke](https://www.cnet.com/culture/say-what-young-people-are-just-smarter/) to a group of YC founders:
 
 > *"Young people are just smarter. Why are most chess masters under 30? I don't know...Young people just have simpler lives. We may not own a car. We may not have family."*
 
-In the book [The Power Law](https://www.amazon.com/Power-Law-Venture-Capital-Making/dp/052555999X), it goes deeper into this early Silicon Valley mentality that Paul Graham was a big proponent of. The emergence of startups as a viable career path for younger people rode in tandem with the rise of the internet. [Paul Graham wrote](http://paulgraham.com/invtrend.html) in June 2013:
+In the book [The Power Law](https://www.amazon.com/Power-Law-Venture-Capital-Making/dp/052555999X), it goes deeper into this early [[Silicon Valley]] mentality that [[Paul Graham]] was a big proponent of. The emergence of startups as a viable career path for younger people rode in tandem with the rise of the internet. [Paul Graham wrote](http://paulgraham.com/invtrend.html) in June 2013:
 
-> *"When I graduated from college in 1986, there were essentially two options: get a job or go to grad school. **Now there's a third: start your own company. That's a big change... That kind of change, from 2 paths to 3, is the sort of big social shift that only happens once every few generations.** I think we're still at the beginning of this one. It's hard to predict how big a deal it will be. As big a deal as the Industrial Revolution? Maybe. Probably not. But it will be a big enough deal that it takes almost everyone by surprise, because those big social shifts always do."*
+> *"When I graduated from college in 1986, there were essentially two options: get a job or go to grad school. **Now there's a third: start your own company. That's a big change... That kind of change, from 2 paths to 3, is the sort of big social shift that only happens once every few generations.** I think we're still at the beginning of this one. It's hard to predict how big a deal it will be. As big a deal as the [[Industrial Revolution]]? Maybe. Probably not. But it will be a big enough deal that it takes almost everyone by surprise, because those big social shifts always do."*
 
-While Silicon Valley as an idea has always been one for rebels and outcasts, it hasn't necessarily been exclusively for young people. The quintessential birth story of Silicon Valley is the [Traitorous Eight](https://en.wikipedia.org/wiki/Traitorous_eight) who left Shockley to found Fairchild Semiconductor in 1957. At the time, the average age across all eight was ~32 years old. Not exactly the 19 or 20-year old archetypes we saw with the founders of Microsoft, Apple, or Facebook.
+While Silicon Valley as an idea has always been one for rebels and outcasts, it hasn't necessarily been exclusively for young people. The quintessential birth story of Silicon Valley is the [Traitorous Eight](https://en.wikipedia.org/wiki/Traitorous_eight) who left Shockley to found [[Fairchild Semiconductor]] in 1957. At the time, the average age across all eight was ~32 years old. Not exactly the 19 or 20-year old archetypes we saw with the founders of [[Microsoft]], [[Apple]], or Facebook.
 
 *I do, in fact, recognize the discomfort of having to acknowledge in writing that people my own age now were not, in fact, young.*
 
-Balaji Srinivasan has a great thread that I think brings this point home. Over the course of a week or so in May, Keith Rabois, Patrick Collison, and Sam Altman all made the observation that the dominant players in tech are no longer 20-year olds.
+[[Balaji Srinivasan]] has a great thread that I think brings this point home. Over the course of a week or so in May, [[Keith Rabois]], [[Patrick Collison]], and [[Sam Altman]] all made the observation that the dominant players in tech are no longer 20-year olds.
 
 ![Source:Twitter](/images/the-rising-generation-d0e7e2a3.png)
 
@@ -164,7 +164,7 @@ Now, before the SF loyalists freak out, I don't even think this is just a knock 
 
 Then, Venkatash turns to AI as a big catalyst for a lot of this cultural shift:
 
-> *"Finally, the curious culture that is emerging around the emerging AI industry. **Even though everybody in tech is talking incessantly about AI, they mostly talk like spectators rather than players.** Even though several of the major institutions of AI are in the region (Google, Facebook, Stanford, OpenAI, Tesla) it does not feel like Silicon Valley spiritually “owns” AI the way it did Web 2.0."*
+> *"Finally, the curious culture that is emerging around the emerging AI industry. **Even though everybody in tech is talking incessantly about AI, they mostly talk like spectators rather than players.** Even though several of the major institutions of AI are in the region ([[Alphabet|Google]], Facebook, Stanford, [[OpenAI]], [[Tesla]]) it does not feel like Silicon Valley spiritually “owns” AI the way it did Web 2.0."*
 
 Even Microsoft, who between their acquisition of GitHub and their massive partnership with OpenAI, is seemingly the biggest player in the current AI boom, *is based in Seattle*.
 
@@ -186,7 +186,7 @@ The last thing I want is to find myself with a 30-year old son, in the midst of 
 
 # Let's Ask Dax
 
-To wrap it up, and keep me grounded, I took the topic to my kids. My oldest son's name is Dax. He'll be 7 years old in a few months. This morning, he came down to say good morning and I asked him, "What do you want to be when you grow up?" His response?
+To wrap it up, and keep me grounded, I took the topic to my kids. My oldest son's name is Dax. He'll be 7 years old in a few months. This morning, he came down to say good morning and I asked him, "[[What do you want to be when you grow up?]]" His response?
 
 "A Ninja."
 

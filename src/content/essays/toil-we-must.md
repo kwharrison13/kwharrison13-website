@@ -22,7 +22,7 @@ For my Dad the thought immediately came to mind:
 > **Do it well or not at all."**   
 > (Paul H. Dunn)*
 
-Funny enough the idea of “anything worth doing is worth doing well,” is [credited to](https://www.sltrib.com/opinion/commentary/2017/10/25/holly-richardson-not-everything-worth-doing-is-worth-doing-well/#:~:text=%E2%80%9CWhatever%20is%20worth%20doing%20at,worth%20doing%20is%20worth%20overdoing.) a father writing to his son. My Dad's Dad was a forest ranger and my Mom's Dad was a chicken rancher. While hard work runs in my family I'm the beneficiary of hard work after the fact. My grandpa's worked the land so that my Dad could crunch numbers so that I could do… whatever it is I do. But it's certainly not chicken ranching.
+Funny enough the idea of “anything worth doing is worth doing well,” is [credited to](https://www.sltrib.com/opinion/commentary/2017/10/25/holly-richardson-not-everything-worth-doing-is-worth-doing-well/#:~:text=%E2%80%9CWhatever%20is%20worth%20doing%20at,worth%20doing%20is%20worth%20overdoing.) a father writing to his son. My Dad's Dad was a forest ranger and my Mom's Dad was a chicken rancher. While [[Hard Work|hard work]] runs in my family I'm the beneficiary of hard work after the fact. My grandpa's worked the land so that my Dad could crunch numbers so that I could do… whatever it is I do. But it's certainly not chicken ranching.
 
 I've wanted to think through the reality of hard work when it comes to startups and venture, and how you balance that with an increasing emphasis on mental health and quality of life. I kept collecting snippets on the idea thinking I would write about it eventually. And then a [venture funding announcement](https://oven.sh/) brought it top of mind for me this week.
 
@@ -32,11 +32,11 @@ But first? Some background. The evolution of our relationship with work has evol
 
 Nothing has taught me more about the changing relationship people have with work than [corporate TikTok](https://www.tiktok.com/@rod/video/7134714427860913450?is_copy_url=1&is_from_webapp=v1). Countless videos about companies mistreating their employees, expecting them to work overtime, creating a toxic culture that leads to waves of employees quitting.
 
-Reddit and TikTok have countless motivational resources for the practice of "quiet quitting," which is a definitely a misnomer; it’s not quitting its people doing the baseline of expectations. [Erica Pandey at Axios articulates the core idea:](https://www.axios.com/2022/08/23/gen-z-millennials-workers-generational-divide-workplace)
+[[Reddit]] and [[TikTok]] have countless motivational resources for the practice of "quiet quitting," which is a definitely a misnomer; it’s not quitting its people doing the baseline of expectations. [Erica Pandey at Axios articulates the core idea:](https://www.axios.com/2022/08/23/gen-z-millennials-workers-generational-divide-workplace)
 
 > *"The idea is to work to live, instead of living to work — stay on the payroll, but focus on fun, fulfilling activities outside of work."*
 
-The divide feels particularly poignant across generations. My friend [Rex](https://twitter.com/rex_woodbury), who I jokingly refer to as a Gen Z scholar, shared an interesting tidbit that was shocking to me as a Parks and Rec fan. Most Gen Zers don't like the character of Leslie Knope. She's a peppy motivated workaholic that can't stop making binders.
+The divide feels particularly poignant across generations. My friend [Rex](https://twitter.com/rex_woodbury), who I jokingly refer to as a Gen Z scholar, shared an interesting tidbit that was shocking to me as a [[Parks and Recreation|Parks and Rec]] fan. Most [[Gen Z|Gen Zers]] don't like the character of [[Leslie Knope]]. She's a peppy motivated workaholic that can't stop making binders.
 
 ![Animated GIF related to the culture of hustle](/images/toil-we-must-6c2ca297.gif)
 
@@ -82,19 +82,19 @@ This hard work vs. work-life balance dynamic flares up between two types of peop
 
 Neither of these groups are bad. They're simply people that prioritize their lives very differently. **But, as we find ourselves doing in pretty much whatever cultural circles we're drawing these days, they often villainize each other.** Devotees consider Balancers to be lazy snowflakes and Balancers consider Devotees to be either dictatorial robber barons (if they're in charge) or mindless zombies (if they're not).
 
-## Startups Are Hard
+## [[Startups]] Are Hard
 
 One key reason startups are uniquely hard is because they represent a different kind of work. Some day I'd like to go into the nuance of [building vs. maintaining](https://www.goodreads.com/quotes/276615-another-flaw-in-the-human-character-is-that-everybody-wants), but the key point here is that most startups represent the wizardry of building something out of nothing. That is hard to do. And to do it very well is harder than the average job.
 
 Don’t get me wrong. I acknowledge the privilege in that work. Working in tech to build startups has produced [millions of millionaires.](https://www.alvareztg.com/tech-is-making-millions-of-millionaires/) I wish that teachers and nurses and parents were appreciated enough to be made millionaires. That's a different battle to fight. But the reason so few startups workout is because they're really freaking hard to succeed at.
 
-Brie Wolfson wrote [a very good essay](https://every.to/p/what-i-miss-about-working-at-stripe) about her time working at Stripe. She acknowledges the work was both challenging and rewarding.
+[[Brie Wolfson]] wrote [a very good essay](https://every.to/p/what-i-miss-about-working-at-stripe) about her time working at [[Stripe]]. She acknowledges the work was both challenging and rewarding.
 
 The response to her article was similarly quite divisive. Some people loved the idea of working towards a bigger vision. Some people saw it as a greedy company having a negative impact on the lives of their employees.
 
-> *"There’s no way around it: the culture was demanding. I spent many late nights working. I cried more than a few times after feeling like I let a user or a colleague down. My heart would beat out of my chest before heading into an exec review. Once, my manager asked me to reconsider the vacation I had been planning because my team needed me. “If you go, who will cover your work?” I looked around at my colleagues who were also regularly working 15-hour days and decided to stay put. **I’m proud of that choice. Call me masochistic, but I have to admit that it felt good to care about anything that much. And, to be around people who I know cared that much too.** Lately, I can’t help but feel like Silicon Valley has lost this culture. I don’t hear people talking about work this way anymore. Maybe that’s for the best. Maybe it isn’t."*
+> *"There’s no way around it: the culture was demanding. I spent many late nights working. I cried more than a few times after feeling like I let a user or a colleague down. My heart would beat out of my chest before heading into an exec review. Once, my manager asked me to reconsider the vacation I had been planning because my team needed me. “If you go, who will cover your work?” I looked around at my colleagues who were also regularly working 15-hour days and decided to stay put. **I’m proud of that choice. Call me masochistic, but I have to admit that it felt good to care about anything that much. And, to be around people who I know cared that much too.** Lately, I can’t help but feel like [[Silicon Valley]] has lost this culture. I don’t hear people talking about work this way anymore. Maybe that’s for the best. Maybe it isn’t."*
 
-People read these descriptions of difficult life choices and intense work environments and they see it as exploitation. But these people are adults. They're choosing the kind of work they want to do. I worked at Amazon in their finance department. I only lasted 6 months because I was more bored working 32 hours a week making charts than I had been working 80 hours a week on a startup. **But the important takeaway? There are people who work hard at corporate jobs. There are people who want to not work that hard. Everyone's situation is unique and that's okay.**
+People read these descriptions of difficult life choices and intense work environments and they see it as exploitation. But these people are adults. They're choosing the kind of work they want to do. I worked at [[Amazon]] in their finance department. I only lasted 6 months because I was more bored working 32 hours a week making charts than I had been working 80 hours a week on a startup. **But the important takeaway? There are people who work hard at corporate jobs. There are people who want to not work that hard. Everyone's situation is unique and that's okay.**
 
 I don't see anything wrong with the way Oven framed what the work at their company will be like. If that isn't a fit for you that's okay. I doubt they think you're less of a person. And a lot of the comments on the tweet said things like, "oh apparently this isn't a safe space for a pregnant woman." Or "I see they never want you to see your kids again?"
 
@@ -194,7 +194,7 @@ I thought of [Charlie Munger’s 3 rules for a successful career](https://thepro
 
 Some combination of those things can lead to a much more fulfilling life, whether you’re working a lot or a little.
 
-# What Does This Mean For Venture Capital?
+# What Does This Mean For [[Venture Capital]]?
 
 For those of you who consistently read my writing, I may have strayed a bit from the "art of venture capital" this week. But the relevance to me is more obvious than I've probably made it.
 

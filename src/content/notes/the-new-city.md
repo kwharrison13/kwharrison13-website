@@ -2,9 +2,9 @@
 title: "The New City"
 type: "concept"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-23"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
@@ -35,7 +35,9 @@ related:
 
 # The New City
 
-_Stub page — partially written from wikilink references. "The New City" is a recurring thread in Kyle's work on smart cities, urban mobility, and govtech — the question of how cities modernize, procure, use data, and partner with the private sector._
+"The New City" is a recurring thread in Kyle's work on smart cities, urban mobility, and govtech — the question of how cities modernize, procure, use data, and partner with the private sector. It is grounded in two clusters of evidence: a [sourcing-call corpus](/notes/networking-calls) from May–June 2018 (the bulk of the references below), where Kyle worked through city procurement ([CoProcure](/notes/coprocure), [UrbanLeap](/notes/urbanleap)), mobility and autonomous vehicles ([new mobility](/notes/david-pickeral), [Adam Cohen](/notes/adam-cohen) on AVs and parking), municipal data ([City of Chicago](/notes/tom-schenk), [City of Dublin](/notes/doug-mccullough)), and civic-engagement tooling ([CivicLift](/notes/civiclift), [ELGL](/notes/elgl), [DigitalTown](/notes/digitaltown)); and a reading-list cluster of saved Quick Capture links on "cities running on software from the 80s," co-living ([Alternative Real Estate](/notes/alternative-real-estate)), and the future-of-work / economic-well-being material. The connective frame Kyle returns to is [Steve Case](/notes/steve-case)'s [Rise of the Rest](/notes/rise-of-the-rest) (regional investing) and, on the visionary end, [David Perell](/notes/david-perell)'s essay on Walt Disney as a city architect (the EPCOT planned-city ideal). It also threads into [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) via Joseph's [City Building](/notes/city-building) — building cities "after the order of heaven" — making "The New City" the secular-and-sacred meeting point of Kyle's urbanism interest.
+
+**Context:** "Smart cities" is a broad field covering municipal use of sensors, data platforms, and digital procurement; the figures and firms below (CoProcure, ELGL, UrbanLeap, etc.) are real govtech/urbanism organizations active in the late-2010s smart-city ecosystem.
 
 ## Related concepts
 

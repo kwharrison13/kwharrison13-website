@@ -36,10 +36,10 @@ Does that mean the founder can predict the future with certainty? Obviously not.
 
 When I dug into the history of the phrase “clarity of thought,” I found it had a pretty rich interconnected history across the hallmarks of critical thinking and effective reasoning. A couple of examples:
 
-- **Socrates, Plato, and Aristotle**: All emphasized clarity in reasoning [through rhetoric](https://investing101.substack.com/p/we-need-a-renaissance-of-rhetoric). Socrates’ method of questioning aimed to clarify assumptions and expose contradictions. Aristotle’s [Organon](https://press.princeton.edu/books/hardcover/9780691016504/the-complete-works-of-aristotle-volume-one?srsltid=AfmBOoolt-3EcTsj558RE-vsOjdq6S2vOI3oDpzXhyYzR67PPX-ryzTe) (a collection of logical treatises) outlined the structure of clear and valid arguments. “A deduction is speech (logos) in which, certain things having been supposed, something different from those supposed results of necessity because of their being so.”
-- **Thomas Aquinas**: [Used](https://www.newadvent.org/summa/1039.htm) the Latin word “claritas” (clarity or brightness) to describe not just physical clarity but intellectual lucidity. That included clear definition of terms, rigorous distinctions, and the transparency of argumentation.
-- **Descartes and Spinoza**: They emphasized clear and distinct ideas as the foundation of knowledge. Descartes famously [wrote](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/PHIL101-5.2.3.pdf) that truth must be built on ideas that are “clear and distinct.”
-- **Bertrand Russell, Ludwig Wittgenstein, & A.J. Ayer**: Each prioritized linguistic clarity and logical form. Wittgenstein’s [Tractatus](https://www.gutenberg.org/files/5740/5740-pdf.pdf) begins: “What can be said at all can be said clearly…”.
+- **[[Socrates]], Plato, and [[Aristotle]]**: All emphasized clarity in reasoning [through rhetoric](https://investing101.substack.com/p/we-need-a-renaissance-of-rhetoric). Socrates’ method of questioning aimed to clarify assumptions and expose contradictions. Aristotle’s [Organon](https://press.princeton.edu/books/hardcover/9780691016504/the-complete-works-of-aristotle-volume-one?srsltid=AfmBOoolt-3EcTsj558RE-vsOjdq6S2vOI3oDpzXhyYzR67PPX-ryzTe) (a collection of logical treatises) outlined the structure of clear and valid arguments. “A deduction is speech (logos) in which, certain things having been supposed, something different from those supposed results of necessity because of their being so.”
+- **[[Thomas Aquinas]]**: [Used](https://www.newadvent.org/summa/1039.htm) the Latin word “claritas” (clarity or brightness) to describe not just physical clarity but intellectual lucidity. That included clear definition of terms, rigorous distinctions, and the transparency of argumentation.
+- **[[Descartes]] and Spinoza**: They emphasized clear and distinct ideas as the foundation of knowledge. Descartes famously [wrote](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/PHIL101-5.2.3.pdf) that truth must be built on ideas that are “clear and distinct.”
+- **Bertrand Russell, [[Wittgenstein|Ludwig Wittgenstein]], & A.J. Ayer**: Each prioritized linguistic clarity and logical form. Wittgenstein’s [Tractatus](https://www.gutenberg.org/files/5740/5740-pdf.pdf) begins: “What can be said at all can be said clearly…”.
 
 A lot of these core ideas throughout the philosophies of a half dozen thinkers reflect critical concepts that I think demonstrate the characteristics of “clarity of thought.” So when I think about how they apply to founders, I walk away with the components below.
 
@@ -49,7 +49,7 @@ Any sound logical exercise begins with establishing what assumptions are being m
 
 > *“You can’t answer the question ‘why should people care?’ You have to answer the question, ‘why should I care?’ And that brings us back to first principles. **What is your value system? Why should YOU care?**“*
 
-The best founders are uniquely good at immediately beginning from a place where, when you hear their starting point, you think it is gobsmackingly obvious, almost to the point of being laughable. I’ve written before about a Marc Andreessen [quote](https://investing101.substack.com/p/conviction-led-contrarianism) where he explains why founders so often think they’re too late:
+The best founders are uniquely good at immediately beginning from a place where, when you hear their starting point, you think it is gobsmackingly obvious, almost to the point of being laughable. I’ve written before about a [[Marc Andreessen]] [quote](https://investing101.substack.com/p/conviction-led-contrarianism) where he explains why founders so often think they’re too late:
 
 > *“You’ve got some idea in your head, and as far as you’re concerned, the world should already work this way, which is why you’re pursuing it. **And so it’s a little inexplicable as to why it hasn’t happened to it… It must be just about to happen and I must be too late**.”*
 
@@ -57,7 +57,7 @@ As the presenter is outlining these concepts that, in the moment, feel obvious t
 
 Often where this comes from is demonstrable evidence; its not just your conjecture on the space but its speaking to your own lived experience or the demonstrated experience of early design partners or customers.
 
-The most compelling discussion of a topic often comes from people who have very clearly spent time thinking deeply about the issue and its interconnected ideas. Clarity comes first from raw curiosity. And in my experience, that’s a harder thing to teach. Either you have that or you don’t; there’s not an easy way to spur yourself towards innate curiosity. As Charlie Munger explained in a historical anecdote:
+The most compelling discussion of a topic often comes from people who have very clearly spent time thinking deeply about the issue and its interconnected ideas. Clarity comes first from raw curiosity. And in my experience, that’s a harder thing to teach. Either you have that or you don’t; there’s not an easy way to spur yourself towards innate curiosity. As [[Charlie Munger]] explained in a historical anecdote:
 
 > *“In advanced human civilization, culture greatly increases the effectiveness of curiosity in advancing knowledge. For instance, Athens (including its colony, Alexandria) developed much math and science out of pure curiosity while the Romans made almost no contribution to either math or science. They instead concentrated their attention on the “practical” engineering of mines, roads, aqueducts, etc. **Curiosity, enhanced by the best of modern education (which is by definition a minority part in many places), helps man to prevent or reduce bad consequences arising from other psychological tendencies.** The curious are also provided with much fun and wisdom long after formal education has ended.”*
 
@@ -65,7 +65,7 @@ The most compelling discussion of a topic often comes from people who have very 
 
 Every sound idea has some key concepts that will come up over and over again. Some of them can mean different things in different markets, or have different implications to different people. Using the words “interchange,” “marketplace,” “agentic”, “duel-use,” “commercialization,” “consumption,” “engagement,” and on and on. All these buzzwords that fill up our lives are shorthands for concepts.
 
-**The very best founders build a conceptual framework right in front of you so that you can easily hang different ideas, questions, and information from that framework**. Charlie Munger describes a “[Latticework](https://modelthinkers.com/mental-model/mungers-latticework) of Mental Models” that he uses to keep track of details of a particular idea:
+**The very best founders build a conceptual framework right in front of you so that you can easily hang different ideas, questions, and information from that framework**. Charlie Munger describes a “[Latticework](https://modelthinkers.com/mental-model/mungers-latticework) of [[Mental Models]]” that he uses to keep track of details of a particular idea:
 
 > *“The first rule is that you can’t really know anything if you just remember isolated facts and try and bang ’em back. If the facts don’t hang together on a latticework of theory, you don’t have them in a usable form. You’ve got to have models in your head. And you’ve got to array your experience, both vicarious and direct, on this latticework of models. **You may have noticed students who just try to remember and pound back what is remembered. Well, they fail in school and in life. You’ve got to hang experience on a latticework of models in your head**.”*
 
@@ -83,9 +83,9 @@ This can be a powerful mechanism that anyone can build for themselves. But when 
 
 Once the framework has been laid for what assumptions and frameworks you’re basing your perspective on, you’re ready for the crux of any pitch. The core idea has to be the most memorable aspect of any presentation if you’re hoping to demonstrate clarity of thought.
 
-This is why people default to “Uber for X”, “Anduril for Y”, or “Stripe for Z” types of pitches. Someone else has done the hard work to define a clear and distinct idea that you can piggy back off of.
+This is why people default to “[[Uber]] for X”, “[[Anduril]] for Y”, or “[[Stripe]] for Z” types of pitches. Someone else has done the hard work to define a clear and distinct idea that you can piggy back off of.
 
-The worst versions of this are derivative or limiting. You’re taking a clear and expansive idea like “Uber” or “Anduril” and you’re trimming it down to a more opaque meaning or smaller market. “Ramp for LATAM” or “Anduril for ships” or “Scale AI for marketing” — these are smaller aspects of something that these generational companies could also build already.
+The worst versions of this are derivative or limiting. You’re taking a clear and expansive idea like “Uber” or “Anduril” and you’re trimming it down to a more opaque meaning or smaller market. “[[Ramp]] for LATAM” or “Anduril for ships” or “[[Scale AI]] for marketing” — these are smaller aspects of something that these generational companies could also build already.
 
 The best versions of this, instead, may use an existing framework, maybe even an analogous name, but its not a subset of an existing company’s existing market. Its relying on the shorthand to accomplish a goal.
 

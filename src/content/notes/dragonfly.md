@@ -2,13 +2,16 @@
 title: "Dragonfly"
 type: "company"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-19"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
-  - "wiki/concepts/Standard.re.md"
-tags: []
+  - "wiki/companies/Standard.re.md"
+  - "wiki/meetings/June 6th, 2022 — Max Gasner & Zac Townsend (Standard.re).md"
+tags:
+  - "crypto"
+  - "venture-capital"
 aliases:
   - "Dragonfly"
 related:
@@ -17,8 +20,10 @@ related:
 
 # Dragonfly
 
-_Stub — flagged during the 2026-06-19 connection sweep as an entity referenced across the wiki without its own page. VC firm that pulled a term sheet on 'Luna Wednesday' — central to the fundraise narrative, no page_
+Dragonfly is the crypto VC firm that had given [Standard.re](/notes/standard-re) a signed term sheet and then pulled it on "Luna Wednesday" — the day the Luna/Terra collapse blew up the crypto market in mid-2022. Per the June 6th, 2022 call with [Max Gasner](/notes/max-gasner) and [Zac Townsend](/notes/zac-townsend), Dragonfly's withdrawal forced Standard.re to pause all its signed and unsigned term sheets, a setback the founders flagged as "a pretty big problem," even as they maintained they had 2.5 years of runway regardless. The episode is the pivot point of Standard.re's fundraise narrative in the wiki, pushing them to court strategics ([Coinbase](/notes/coinbase), Alchemy, [DCG](/notes/dcg)) and reinsurer venture arms instead.
+
+**Context:** Dragonfly (Dragonfly Capital) is a crypto-native venture firm investing across early- and growth-stage Web3 and digital-asset companies.
 
 ## Where this appears
 
-- [Standard.re](/notes/standard-re)
+- [Standard.re](/notes/standard-re) — gave Standard.re a signed term sheet, then pulled it on "Luna Wednesday," reshaping the fundraise.

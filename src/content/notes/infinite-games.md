@@ -9,7 +9,7 @@ url: "https://www.youngmoney.co/p/infinite-games"
 source_published: "2023-03-02"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "https://www.youngmoney.co/p/infinite-games"
@@ -23,7 +23,7 @@ related: []
 
 ## Key Highlights
 
-- James Carse: "There are at least two kinds of games: finite and infinite. A finite game is played for the purpose of winning, an infinite game for the purpose of continuing the play."
+- [James Carse](/notes/james-carse): "There are at least two kinds of games: finite and infinite. A finite game is played for the purpose of winning, an infinite game for the purpose of continuing the play."
 - We ask "Who are you?" but mean "Which boxes have you checked?" — single, married, kids, job, income, address, languages.
 - The paradox of finite winning: "The more we are recognized as winners, the more we know ourselves to be losers. That is why it is rare for the winners of highly coveted prizes to settle for their titles and retire. Winners must prove repeatedly they are winners."
 - "There is a contradiction here: If the prize for winning finite play is life, then the players are not properly alive. They are competing for life... Finite players play to live; they do not live their playing."

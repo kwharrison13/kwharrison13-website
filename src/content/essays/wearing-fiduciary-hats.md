@@ -45,7 +45,7 @@ But VCs, in their endless playing of the game, tend to forget that reality.
 
 The framework I use to help extrapolate what I should advise a founder about who's board I sit on is the idea of "wearing different hats."
 
-Frequently in a board meeting, I'll try to honestly express what my hope is about a particular event from Contrary's perspective (my firm). But then, I emphasize the need to "take off my Contrary hat" and "put on my XYZ board member hat." **And then, try to advise them in pursuit of what is best for the company even if it is NOT what is best for my firm.**
+Frequently in a board meeting, I'll try to honestly express what my hope is about a particular event from [[Contrary]]'s perspective (my firm). But then, I emphasize the need to "take off my Contrary hat" and "put on my XYZ board member hat." **And then, try to advise them in pursuit of what is best for the company even if it is NOT what is best for my firm.**
 
 Having that board member hat on allows me to focus on the first principles of the business and what could be done to most help it. And that multiple hat framework tends to work quite well for me.
 

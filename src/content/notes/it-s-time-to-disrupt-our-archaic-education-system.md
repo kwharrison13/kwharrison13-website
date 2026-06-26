@@ -8,7 +8,7 @@ url: "https://www.perell.com/blog/2016/3/14/education"
 source_published: "2016-03-14"
 confidence: "high"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/archive/clippings/It's Time To Disrupt Our Archaic Education System.md"
@@ -41,7 +41,7 @@ related:
 - **Current methods of education are boring and increasingly obsolete.** The classroom is supposed to be a center for fierce debate and gripping lectures; in reality Perell feels he "turns his brain off" when he enters it.
 - **Students have changed radically.** Citing [Marc Prensky](/notes/marc-prensky)'s 2001 essay *Digital Natives, Digital Immigrants*, today's students are "no longer the people our educational system was designed to teach" — they're wired for the rapid dissemination of information, raised with constant stimulation and the world's information at their fingertips. These trends only accelerate as technology pervades everyday life.
 - **The high cost of education promotes inequality and reduces quality of life.** Mediocre results don't justify the arduous sacrifices of students and their parents.
-- **The rise in tuition has coincided with increasing access to free education** (cf. [Online Education](/notes/online-education)). YouTube channels (CrashCourse, Seeker Stories, Shots of Awe) plus Coursera, Udacity, Lynda, Audible, and Khan Academy give unprecedented access to the sharpest minds in the world — more visually stimulating than most classrooms, covering science, philosophy, art, and history.
+- **The rise in tuition has coincided with increasing access to free education** (cf. [Online Education](/notes/online-education)). [YouTube](/notes/youtube) channels (CrashCourse, Seeker Stories, Shots of Awe) plus Coursera, Udacity, Lynda, [Audible](/notes/audible), and [Khan Academy](/notes/khan-academy) give unprecedented access to the sharpest minds in the world — more visually stimulating than most classrooms, covering science, philosophy, art, and history.
 - **A handful of teachers make the classroom irreplaceable — but they are few and far between.** "The quality of an education system cannot exceed the quality of its teachers" (cf. [Teacher Celebrities](/notes/teacher-celebrities)).
 - **The delta between old and young shows up as classroom inefficiency.** Younger generations are exponentially more inclined to use technology to discover the world, tackle complexity, and challenge assumptions. The education revolution is just beginning.
 

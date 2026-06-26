@@ -7,7 +7,7 @@ quake: false
 tags:
   - "company-building"
   - "people-over-politics"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
@@ -49,8 +49,8 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 - But I really had to have her support and counsel. For the past thirty years, at the end of every day, I had unloaded all my worries and concerns on Ann, and she had done the same to me. We’d give each other advice and perspective, not only on how to deal with a particular issue, but also on what was most important to us. Keeping life in perspective goes a long way to being able to confront problems with a calm head and sound judgment. Ann is my most trusted advisor; her judgment on the widest range of business, organizational, and human resources matters was more sound than any other I know. I simply could not turnaround the Olympics without her daily counsel. <!--rwid:rwid-e917a359582c-->
 - Over the years, I had followed a straightforward turnaround formula. First came the strategic audit, a complete review of every aspect of the business. Then came building the team, both in terms of selecting the right people and building unity and motivation. Finally, it was time to “focus, focus, focus.” Turnarounds that failed did so because management tried to do too many things rather than focus on what was critical. <!--rwid:rwid-e119f3695721-->
 - And like it or not, it is during the first few days that people form their impressions of a new leader. There’s no time for strategizing: what you do right away speaks volumes. What you do later isn’t being watched as intensely. <!--rwid:rwid-66d38aeba8e7-->
-- “The reason he asked for that receipt is that he will attach it to his expense report. And everyone back at headquarters who hears about it will know that Bill Marriott cares about 35 cents. He is careful with money.” It was a symbolic statement that was consistent with everything at Marriott—the details are important. <!--rwid:rwid-2906b114714c-->
-- My old boss, Bill Bain, had often said there is a scientific basis for trusting your gut instincts. He reasoned that there are all kinds of signals, body language signals that your subconscious brain detects without you even being aware of it. The reading of these subtle indicators can form your impressions of someone. And those impressions may thus be just as reasonable as your other inputs. Whether or not that is so, I’ve tended to listen to what I feel in my heart about people. <!--rwid:rwid-6557a2133d37-->
+- “The reason he asked for that receipt is that he will attach it to his expense report. And everyone back at headquarters who hears about it will know that [Bill Marriott](/notes/bill-marriott) cares about 35 cents. He is careful with money.” It was a symbolic statement that was consistent with everything at Marriott—the details are important. <!--rwid:rwid-2906b114714c-->
+- My old boss, [Bill Bain](/notes/bill-bain), had often said there is a scientific basis for trusting your gut instincts. He reasoned that there are all kinds of signals, body language signals that your subconscious brain detects without you even being aware of it. The reading of these subtle indicators can form your impressions of someone. And those impressions may thus be just as reasonable as your other inputs. Whether or not that is so, I’ve tended to listen to what I feel in my heart about people. <!--rwid:rwid-6557a2133d37-->
 - “Location, location, location” are to real estate as “people, people, people” are to an enterprise, be it a business, a charity, or an endeavor like the Olympics. <!--rwid:rwid-625a0b0de311-->
 - I like smart people, a lot. Bill Bain, my old boss, used to joke that most things can be fixed, but smart—or dumb—is forever. <!--rwid:rwid-401f3dced043-->
 - “It’s a good time to be of service, <!--rwid:rwid-3393355fa43b-->

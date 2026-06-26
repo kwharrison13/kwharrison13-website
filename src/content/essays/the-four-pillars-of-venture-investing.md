@@ -19,7 +19,7 @@ substack_url: "https://investing101.substack.com/p/the-four-pillars-of-venture-i
 
 Life is filled with trade-offs. I've [written before](https://investing101.substack.com/p/of-things-that-matter-most) about how everyone is an allocator of something "because they’re allocating finite things in their lives: money, attention, time, effort, love."
 
-Supposedly Mark Zuckerberg's sister, Randi Zuckerberg, says the "[entrepreneur's dilemma](https://www.reddit.com/r/startups/comments/48k2h6/work_sleep_family_fitness_or_friends_pick_3/)" is that **across work, sleep, family, fitness, and friend, you can have three of those five**. Trade-offs. If you want to work hard and prioritize sleep, then your family and friends will get deprioritized in favor of fitness If you want to prioritize family and fitness, then your friends and sleep will get sacrificed in favor of work.
+Supposedly [[Mark Zuckerberg]]'s sister, Randi Zuckerberg, says the "[entrepreneur's dilemma](https://www.reddit.com/r/startups/comments/48k2h6/work_sleep_family_fitness_or_friends_pick_3/)" is that **across work, sleep, family, fitness, and friend, you can have three of those five**. Trade-offs. If you want to work hard and prioritize sleep, then your family and friends will get deprioritized in favor of fitness If you want to prioritize family and fitness, then your friends and sleep will get sacrificed in favor of work.
 
 As any kid who grew up in the 90's, I immediately started thinking about Aladdin (the cartoon, not the Will Smith embarrassment). Spoiler alert. At the end of the movie, the villain Jafar has been making wishes to make himself more and more powerful. Finally, Aladdin [tricks him](https://www.youtube.com/watch?v=1iNaR1ie7YA) into wishing to be a genie. And while he does get "unlimited cosmic power," Aladdin reminds him of the [consequences of what he wants](https://www.churchofjesuschrist.org/study/general-conference/1995/10/swallowed-up-in-the-will-of-the-father?lang=eng). "Itty bitty living space."
 
@@ -39,11 +39,11 @@ The four core jobs of a venture investor, in my mind, are (1) finding, (2) picki
 
 ## Inbound & Outbound
 
-The beginning of any venture investor's usefulness begins with Finding. This is a part of the puzzle that is close to my heart because, like a lot of people, I grew up at a firm where finding, or "sourcing" was an intensely prioritized part of the culture. Firms like TCV, Insight, Bessemer, Summit — even more than other firms they prioritize the importance of sourcing as part of the job.
+The beginning of any venture investor's usefulness begins with Finding. This is a part of the puzzle that is close to my heart because, like a lot of people, I grew up at a firm where finding, or "sourcing" was an intensely prioritized part of the culture. Firms like TCV, Insight, [[Bessemer Venture Partners|Bessemer]], Summit — even more than other firms they prioritize the importance of sourcing as part of the job.
 
 But it's also a very unique type of sourcing. Building pipeline, chasing leads, following up. It's just like an outbound sales motion. We tracked "touches" with a company, assigned names in a pipeline, and had a pipeline review meeting every Monday. At TCV I was younger in my career, so I was covering ~8K companies that I was trying to prioritize, having 100+ calls with companies per month.
 
-Side note, but I also think people who have served Mormon missions are uniquely comfortable with this part of the job. When I served for two years trying to find people to teach about Jesus, I did something similar. I planned specific time for "finding" where I was knocking on doors. I tracked which neighborhoods I had covered before, I recorded names of "Potentials" in my daily planner. Also why Mormons are good at sales generally. 😉
+Side note, but I also think people who have served [[Mormon]] missions are uniquely comfortable with this part of the job. When I served for two years trying to find people to teach about Jesus, I did something similar. I planned specific time for "finding" where I was knocking on doors. I tracked which neighborhoods I had covered before, I recorded names of "Potentials" in my daily planner. Also why Mormons are good at sales generally. 😉
 
 But pipeline building isn't the only kind of sourcing investors do.
 
@@ -103,7 +103,7 @@ Early qualification takes into account how we found the company, what the detail
 
 When I wrote my Bubble Brains piece a little over a year ago, it was spurred by a conversation I had with a friend who [expressed](https://investing101.substack.com/p/the-bubble-brains-of-venture-capital?utm_source=publication-search) this sentiment:
 
-> *"It's gloomy out there, man. There is no original thinking among the funds in San Francisco. I don’t know what constitutes a “hot deal.” Because they got a term sheet from Sequoia?"*
+> *"It's gloomy out there, man. There is no original thinking among the funds in San Francisco. I don’t know what constitutes a “hot deal.” Because they got a term sheet from [[Sequoia]]?"*
 
 The group-think in venture investing is a phenomenon so multi-faceted and complex, it deserves to be studied by sociologists.
 
@@ -127,7 +127,7 @@ In my experience, winning deals often comes down to how an investor measures up 
 
 ## Making The Pie Bigger
 
-Chris Sacca has a great line about taking money. The only reason you should raise capital is if you think the addition of the person's money will ultimately make the pie bigger. If you can build a $1B pie and own 100% or 80% either way, you would rather have 100% right? But if you could own 100% of a $200M pie or 80% of a $1B pie, then you want the latter, so you take the money.
+[[Chris Sacca]] has a great line about taking money. The only reason you should raise capital is if you think the addition of the person's money will ultimately make the pie bigger. If you can build a $1B pie and own 100% or 80% either way, you would rather have 100% right? But if you could own 100% of a $200M pie or 80% of a $1B pie, then you want the latter, so you take the money.
 
 Every founder is weighing an investor for how much they'll help them make the overall pie bigger. And that encapsulates a lot of "[value add](https://investing101.substack.com/p/you-dont-want-my-value-add?utm_source=publication-search)."
 
@@ -145,17 +145,17 @@ Side note: I'd like to say that means that assholes don't win but... they do. Th
 
 ## Staying Out Of The Way
 
-Over the last few years, founders have started to prioritize another aspect of qualifying an investor. “*I want help and support, but I don't want them meddling*.” Look at [Bench Accounting](https://www.newcomer.co/p/the-limits-of-founder-friendly-what) for a recent example of what happens when founders and investors butt heads. Or Travis Kalanick and Uber as a much more dramatic example.
+Over the last few years, founders have started to prioritize another aspect of qualifying an investor. “*I want help and support, but I don't want them meddling*.” Look at [Bench Accounting](https://www.newcomer.co/p/the-limits-of-founder-friendly-what) for a recent example of what happens when founders and investors butt heads. Or Travis Kalanick and [[Uber]] as a much more dramatic example.
 
 An investor might pass the airport test, but there is a big difference in someone when they're out for drinks with you vs. if they're negotiating a ratchet clause in a future funding round forcing you to anchor yourself to specific milestones.
 
-Building a reputation as an investor that isn't trying to run a company over top of a founder is important. I wrote about [one possible example](https://investing101.substack.com/p/the-rise-of-the-cash-man?utm_source=publication-search) back in August 2022 where, maybe, a16z writing a $300M check for Adam Neumann's company was almost like a $300M marketing expense. a16z had historically gotten a black eye when they fired Parker Conrad from Zenefits; that came back to bite them when he rose again and built Rippling. Maybe backing Adam Neumann is a16z's way of saying, "but no, really, we support founders even after they've been disgraced and destroyed billions in value." Who knows.
+Building a reputation as an investor that isn't trying to run a company over top of a founder is important. I wrote about [one possible example](https://investing101.substack.com/p/the-rise-of-the-cash-man?utm_source=publication-search) back in August 2022 where, maybe, a16z writing a $300M check for [[Adam Neumann]]'s company was almost like a $300M marketing expense. a16z had historically gotten a black eye when they fired Parker Conrad from [[Zenefits]]; that came back to bite them when he rose again and built Rippling. Maybe backing Adam Neumann is a16z's way of saying, "but no, really, we support founders even after they've been disgraced and destroyed billions in value." Who knows.
 
 # Supporting
 
 Finally, you get to the end of the "transactional" part of the journey and progress into the stuff that actually takes up the bulk of the relationship, ironically. It's funny that every venture deal is typically the beginning of a decades-long journey but the decision to get into that relationship might take a few weeks, tops.
 
-Supporting a company is where the rubber meets the road and a VC actually puts up or shuts up. **Though, unfortunately, a lot of VCs find themselves neither putting up nor shutting up.** As Vinod Khosla [says](https://www.youtube.com/watch?v=tWkDSlAMuEY):
+Supporting a company is where the rubber meets the road and a VC actually puts up or shuts up. **Though, unfortunately, a lot of VCs find themselves neither putting up nor shutting up.** As [[Vinod Khosla]] [says](https://www.youtube.com/watch?v=tWkDSlAMuEY):
 
 > *"90% of investors add no value, in my assessment, and 70% of investors add negative value to a company."*
 

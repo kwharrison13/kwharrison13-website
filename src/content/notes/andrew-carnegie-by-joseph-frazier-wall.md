@@ -24,7 +24,7 @@ related:
 
 # Andrew Carnegie by Joseph Frazier Wall
 
-**Author:** Joseph Frazier Wall
+**Author:** [Joseph Frazier Wall](/notes/joseph-frazier-wall)
 
 **Why it's on the list:** *The definitive, Bancroft Prize-winning biography of [Andrew Carnegie](/notes/andrew-carnegie) — tracing his rise from immigrant bobbin boy to steel titan and pioneering philanthropist.*
 

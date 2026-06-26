@@ -4,21 +4,27 @@ type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — March 30th, 2022 (Contrary Capital sourcing/diligence log): ~/Downloads/March 30th, 2022.md"
-tags: []
+tags:
+  - "education"
+  - "edtech"
 aliases:
   - "Primer"
-related: []
+related:
+  - "[[Ryan Delk]]"
+  - "[[Candor]]"
 reference_count: 1
 ---
 
 # Primer
 
-_Stub page — auto-generated from wikilink references. Not yet written. Referenced in **1** wiki page._
+Identified in the Candor February update as the company of [Ryan Delk](/notes/ryan-delk), who is listed among [Candor](/notes/candor)'s existing investors alongside [Turner Novak](/notes/turner-novak) and [Alek Koenig](/notes/alek-koenig) (CEO of [Settle.co](/notes/settle-co)). The note establishes Primer as Ryan Delk's company; in Kyle's portfolio-update reading, the connection is Delk-as-angel-investor in Candor rather than any direct engagement with Primer itself.
+
+**Context:** Primer is an education company founded by Ryan Delk that builds tools and microschools to support homeschooling and independent K–12 education.
 
 ## Where this appears
 
-- March 30th, 2022 — Candor February Update (Kelsey Bishop)
+- March 30th, 2022 — Candor February Update (Kelsey Bishop) — referenced as [Ryan Delk](/notes/ryan-delk)'s company; Delk is named as an existing Candor investor.

@@ -19,7 +19,7 @@ substack_url: "https://investing101.substack.com/p/its-time-to-build-but-build-w
 
 COVID created a real time warp. It might shock you to hear that in a few months, it will have been four years since lockdowns started in the US. There is someone out there who was just starting high school when we went remote, and now they're gearing up to graduate.
 
-So that same time warp may make it feel funky that I'm spending a lot of my time this week thinking about and responding to a four year old essay. But in the [(paraphrased) words](https://www.goodreads.com/quotes/349651-never-read-a-book-that-is-not-a-year-old) of Ralph Waldo Emerson, "never read a book that's less than a year old." In the early days of COVID, Marc Andreessen put out an essay called "[It's Time To Build](https://a16z.com/its-time-to-build/)." **In it, he criticized the seriously lacking building capabilities "throughout Western life, and specifically throughout American life."**
+So that same time warp may make it feel funky that I'm spending a lot of my time this week thinking about and responding to a four year old essay. But in the [(paraphrased) words](https://www.goodreads.com/quotes/349651-never-read-a-book-that-is-not-a-year-old) of [[Ralph Waldo Emerson]], "never read a book that's less than a year old." In the early days of COVID, [[Marc Andreessen]] put out an essay called "[It's Time To Build](https://a16z.com/its-time-to-build/)." **In it, he criticized the seriously lacking building capabilities "throughout Western life, and specifically throughout American life."**
 
 Since releasing that essay, Andreessen also published [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/). This, among several other thought pieces, has crystalized a growing dichotomy between effective altruism (aka EA) and effective accelerationism (aka e/acc). As I've been thinking about the sudden dominance of e/acc, the world view it offers, and the things that are most important, I think many of the ideas behind accelerationism can trace some roots to Marc's "Time To Build" piece.
 
@@ -33,7 +33,7 @@ In the late 1800s / early 1900s, we used to have World Fairs that would consist 
 
 The [1962 World's Fair](https://www.seattle.gov/cityarchives/exhibits-and-education/digital-document-libraries/century-21-worlds-fair) in Seattle was the same, leading to the creation of the Space Needle! **The Eiffel Tower and the Space Needle took just 2 years and 1 year respectively to build. Name the last time we did something like that.** Now, granted, we have some people [trying](https://worldsfair.co/) to bring back the World's Fair, but that culture has really disappeared.
 
-What's taken its place? Mass production, quality destruction, and eventually production failure. Starting with [Ford's assembly line](https://www.history.com/this-day-in-history/fords-assembly-line-starts-rolling) for the Model T, we started to focus on quantity over quality. Offshoring further prioritized efficiency of cost, rather than efficiency of quality. **What's more, we saw the introduction of planned obsolescence.**
+What's taken its place? Mass production, quality destruction, and eventually production failure. Starting with [Ford's assembly line](https://www.history.com/this-day-in-history/fords-assembly-line-starts-rolling) for the Model T, we started to focus on quantity over quality. Offshoring further prioritized efficiency of cost, rather than efficiency of quality. **What's more, we saw the introduction of [[Planned Obsolescence|planned obsolescence]].**
 
 ## Planned Obsolescence
 
@@ -55,9 +55,9 @@ The [Centennial Light](https://en.wikipedia.org/wiki/Centennial_Light) stands as
 
 ![Source:The Verge](/images/its-time-to-build-but-build-what-56f38e16.png)
 
-Look no further than the myriad of different ports Apple has foisted on us over the years. Every computer has built in plans to force you to look for replacements, whether its for the software, hardware, battery, etc.
+Look no further than the myriad of different ports [[Apple]] has foisted on us over the years. Every computer has built in plans to force you to look for replacements, whether its for the software, hardware, battery, etc.
 
-Think about Airpods. Their [batteries](https://www.washingtonpost.com/technology/2019/10/08/everyones-airpods-will-die-weve-got-trick-replacing-them/) are built to need to be replaced. One of the reasons that Airpods has become such a massive revenue driver in its own right isn't just because of popularity. Having to replace our Airpods has effectively become a recurring revenue line item for Apple.
+Think about [[Airpods]]. Their [batteries](https://www.washingtonpost.com/technology/2019/10/08/everyones-airpods-will-die-weve-got-trick-replacing-them/) are built to need to be replaced. One of the reasons that Airpods has become such a massive revenue driver in its own right isn't just because of popularity. Having to replace our Airpods has effectively become a recurring revenue line item for Apple.
 
 ![Source:Reddit](/images/its-time-to-build-but-build-what-0853073d.png)
 
@@ -69,15 +69,15 @@ The Las Vegas Grand Prix was scheduled to take place in early November this year
 
 You might feel like you're hearing a lot more about different products getting recalled. You're not wrong. The total units of food recalled in 2022 was [700%](https://www.entrepreneur.com/business-news/why-are-there-so-many-food-recalls/458875) higher than 2021, with cases like Tyson recalling [30K pounds](https://www.tiktok.com/@cbseveningnews/video/7298820433325968686?_r=1&_t=8hjCg4DePwh) of Dino-Nuggies because of pieces of metal being found in them. Don't even get me started on [baby formula](https://www.fda.gov/news-events/press-announcements/fda-issues-warning-letters-three-infant-formula-manufacturers). The same is true of cars. Cases like [2M Tesla's](https://www.youtube.com/watch?v=3HTuiWkyEII) being recalled for issues with autopilot. Or Ford recalling [4M vehicles](https://jalopnik.com/ford-has-the-most-recalls-so-far-in-2023-report-1850647308) in 2023 alone.
 
-Infamous projects, like Boston's "[Big Dig](https://www.npr.org/podcasts/1205152723/the-big-dig)" represent Herculean dramas of failure. The [Wikipedia entry](https://en.wikipedia.org/wiki/Big_Dig) left me gobsmacked:
+Infamous projects, like [[Boston]]'s "[Big Dig](https://www.npr.org/podcasts/1205152723/the-big-dig)" represent Herculean dramas of failure. The [Wikipedia entry](https://en.wikipedia.org/wiki/Big_Dig) left me gobsmacked:
 
 > *"The Big Dig was the most expensive highway project in the United States, and was **plagued by cost overruns, delays, leaks, design flaws, charges of poor execution and use of substandard materials, criminal charges and arrests, and the death of one motorist.** The project was originally scheduled to be completed in 1998 at an estimated cost of $2.8 billion (in 1982 dollars, US$7.4 billion adjusted for inflation as of 2020). However, **the project was completed in December 2007 at a cost of over $8.08 billion (in 1982 dollars, $21.5 billion adjusted for inflation, meaning a cost overrun of about 190%) as of 2020.** The Boston Globe estimated that the project will ultimately cost $22 billion, including interest, and that it would not be paid off until 2038."*
 
 # Practiced Pondering
 
-I've [written before](https://investing1012dot0.substack.com/p/the-axis-of-building) about "the Axis of Building." In that piece, I [quoted](https://www.noahpinion.blog/p/the-build-nothing-country) Noah Smith talking about our position as a "build-nothing country":
+I've [written before](https://investing1012dot0.substack.com/p/the-axis-of-building) about "the Axis of Building." In that piece, I [quoted](https://www.noahpinion.blog/p/the-build-nothing-country) [[Noah Smith]] talking about our position as a "[[The Build-Nothing Country|build-nothing country]]":
 
-> *"Slashing the thicket of red tape that prevent development, and subordinating local interests to the needs of the nation itself, are no longer idle dreams — they are immediate necessities. **If we insist on continuing to be the Build-Nothing Country, our once-mighty middle class will sink into a genteel poverty, and someone else will build the future on the bones of our civilization**."*
+> *"Slashing the thicket of red tape that prevent development, and subordinating local interests to the needs of the nation itself, are no longer idle dreams — they are immediate necessities. **If we insist on continuing to be the Build-Nothing Country, our once-mighty [[Middleclass|middle class]] will sink into a genteel poverty, and someone else will build the future on the bones of our civilization**."*
 
 He touches on a critical idea. The idea that building often amounts to little more than "idle dreams." Andreessen touches on a similar idea in his "[Time to Build](https://a16z.com/its-time-to-build/)" essay:
 
@@ -93,17 +93,17 @@ Here's the timeline. In early 2020, Marc wrote the "Time to Build" essay. In it,
 
 > *"You see it in housing and the physical footprint of our cities. We can’t build nearly enough housing in our cities with surging economic potential—**which results in crazily skyrocketing housing prices in places like San Francisco, making it nearly impossible for regular people to move in and take the jobs of the future**."*
 
-Fast forward to [August 4th, 2022](https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061/). Marc Andreessen's hometown in Atherton, California ([the most expensive zip code in the US](https://www.propertyshark.com/Real-Estate-Reports/most-expensive-zip-codes-in-the-us/)) had some proposed plans to build multi-family homes. Andreessen and his wife wrote in [a public comment](https://web.archive.org/web/20220805013421/https://www.ci.atherton.ca.us/DocumentCenter/View/10529/Public-Comments-and-Summary-Info) (which now seems to be [taken down](https://www.ci.atherton.ca.us/DocumentCenter/View/10529/Public-Comments-and-Summary-Info)) that they were very much against the planned multi-family housing. A response commonly referred to as NIMBYism ("Not In My Back Yard"…ism).
+Fast forward to [August 4th, 2022](https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061/). Marc Andreessen's hometown in Atherton, California ([the most expensive zip code in the US](https://www.propertyshark.com/Real-Estate-Reports/most-expensive-zip-codes-in-the-us/)) had some proposed plans to build multi-family homes. Andreessen and his wife wrote in [a public comment](https://web.archive.org/web/20220805013421/https://www.ci.atherton.ca.us/DocumentCenter/View/10529/Public-Comments-and-Summary-Info) (which now seems to be [taken down](https://www.ci.atherton.ca.us/DocumentCenter/View/10529/Public-Comments-and-Summary-Info)) that they were very much against the planned multi-family housing. A response commonly referred to as NIMBYism ("[[NIMBY|Not In My Back Yard]]"…ism).
 
 ![Source:Wayback Machine](/images/its-time-to-build-but-build-what-41bb133d.png)
 
 The sequence of events can't help but strike you as funny. It reminds me of [this Neal Brennan bit](https://www.youtube.com/watch?v=4V-Qko1M3Zk). But the plot thickens.
 
-One more fast forward. Just a few weeks later on [August 15th, 2022](https://a16z.com/announcement/investing-in-flow/) a16z announced they were writing their largest single check into Adam Neumann's new company, Flow. Neumann's pitch played seemingly right into the same "housing shortage." In a16z's announcement, Marc Andreessen expressed a similar sentiment to his "Time To Build" essay:
+One more fast forward. Just a few weeks later on [August 15th, 2022](https://a16z.com/announcement/investing-in-flow/) a16z announced they were writing their largest single check into [[Adam Neumann]]'s new company, Flow. Neumann's pitch played seemingly right into the same "housing shortage." In a16z's announcement, Marc Andreessen expressed a similar sentiment to his "Time To Build" essay:
 
 > *"The demographic trends driving America’s housing market are impossible to ignore: **our country is creating households faster than we’re building houses. Structural shortages in available homes for sale push housing prices higher**, while young people are staying single for longer and increasingly concentrating in highly desirable urban centers. These factors put enormous pressure on rents in the nation’s most dynamic cities, starkly revealing the troubling realities of both sides of the housing market’s two historical models."*
 
-So. After driving WeWork up to $47B and down into eventual [bankruptcy](https://www.westsidespirit.com/news/wework-catches-its-breath-after-reaching-bankruptcy-agreement-with-18-landlords-ME2969718), what was Adam Neumann building? I wrote about the announcement at the time in a piece titled "[The Rise of The Cash Man](https://investing1012dot0.substack.com/p/the-rise-of-the-cash-man)." In it, I [quoted](https://www.vox.com/recode/2022/8/17/23309756/wework-adam-neumann-flow-andreessen-venture-capital) another piece that was pretty brutally honest about what Neumann seemed to be building:
+So. After driving [[WeWork]] up to $47B and down into eventual [bankruptcy](https://www.westsidespirit.com/news/wework-catches-its-breath-after-reaching-bankruptcy-agreement-with-18-landlords-ME2969718), what was Adam Neumann building? I wrote about the announcement at the time in a piece titled "[The Rise of The Cash Man](https://investing1012dot0.substack.com/p/the-rise-of-the-cash-man)." In it, I [quoted](https://www.vox.com/recode/2022/8/17/23309756/wework-adam-neumann-flow-andreessen-venture-capital) another piece that was pretty brutally honest about what Neumann seemed to be building:
 
 > *"While offering people the ability to gain some sort of equity stake in their apartments could help people build wealth, Flow’s rentals are probably for those who are already relatively rich. **The Nashville property Neumann bought, for instance, features a saltwater pool, valet trash pickup, and a dog park**."*
 
@@ -115,11 +115,11 @@ Here's another Sunday school answer / first principles truthism: **"Actions spea
 
 And here's the other thing. I don't mean to crap on Marc Andreessen. I have intense respect for him and [what he's built with a16z](https://x.com/kwharrison13/status/1618334651550142464?s=20). My whole vibe is attempting to live within the grey areas of nuance. Going back to what [I've written before](https://investing1012dot0.substack.com/p/the-inescapable-debate-of-human-nature) about beliefs, and actions. I think its important to attempt to define your own beliefs, not just use your in-group as a proxy:
 
-> *"So often, people trust nuanced tribal group identity and political association without any basis of first principles. I'm not Mormon, or Christian, or Republican, or a Costco member. I am a system of values and beliefs that determine how I act. Group membership should be a lagging indicator of your beliefs, not a leading indicator. **When people substitute their own value system with a cookie-cutter platform from their in-group the first thing to die is nuance**."*
+> *"So often, people trust nuanced tribal group identity and political association without any basis of first principles. I'm not [[Mormon]], or Christian, or Republican, or a [[Costco]] member. I am a system of values and beliefs that determine how I act. Group membership should be a lagging indicator of your beliefs, not a leading indicator. **When people substitute their own value system with a cookie-cutter platform from their in-group the first thing to die is nuance**."*
 
 So despite my in-group default to assume other VCs are doing what's best for technological progress, I instead choose to acknowledge nuance. I can simultaneously believe that Marc Andreessen is an exceptional investor and company builder, while also being inconsistent in (1) believing we need to build more housing, (2) deploying a NIMBY strategy in his hometown, and (3) funding a company that is likely going to do more for rich people than it will in solving the housing crisis.
 
-Another great quote to illustrate the importance of embracing nuance is a favorite of mine from F. Scott Fitzgerald:
+Another great quote to illustrate the importance of embracing nuance is a favorite of mine from [[F. Scott Fitzgerald]]:
 
 > *“The test of a first-rate intelligence is **the ability to hold two opposed ideas in mind at the same time and still retain the ability to function."***
 
@@ -127,7 +127,7 @@ All of this context informs how I'm reflecting on this most recent culture clash
 
 # Growth, At What Cost?
 
-At its core, capitalism is built on the principle of continuous growth. Ideas like profit motives, competition, and maximizing shareholder wealth are all driven by identifying opportunities to drive growth. **VCisms like "growth at all costs" and "move fast and break things," are trickle-down reflections of core pillars of capitalism. You want to drive growth.**
+At its core, [[Capitalism|capitalism]] is built on the principle of continuous growth. Ideas like profit motives, competition, and maximizing shareholder wealth are all driven by identifying opportunities to drive growth. **VCisms like "growth at all costs" and "move fast and break things," are trickle-down reflections of core pillars of capitalism. You want to drive growth.**
 
 Herein lies the nuance. Growth is not always a good thing. Every tech company is learning that in real-time. Am I decrying every form of economic growth? No. Am I calling for a Marxist revolution to level out any growth? No. **The nuance is in saying that growth, when it comes from buying $1 in exchange for $2, is bad growth**.
 
@@ -159,11 +159,11 @@ The analogy can continue. I'm not talking about eradicating, politicizing, or ou
 
 "Move fast and break things."
 
-"Blitzscaling."
+"[[Blitzscaling]]."
 
 The sudden emergence of effective accelerationism (e/acc) is the newest framework for the grow-or-die mantra. There isn't much of a mechanism in e/acc for purposeful growth. **And, in fact, calling for any form of limitations on e/acc will be given the scarlet letter; [branded as a decel](https://www.theinformation.com/articles/its-a-cult-inside-effective-accelerationism-the-pro-ai-movement-taking-over-silicon-valley)**.
 
-**The conversation is fertile ground.** Marc Andreessen's "[Techo-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)." Noah Smith's "[Thoughts on techno-optimism](https://www.noahpinion.blog/p/thoughts-on-techno-optimism)." Vitalik Buterin's [thread](https://x.com/VitalikButerin/status/1729251808936362327?s=20) on techno-optimism and the fear of decentralization, whose piece points to other responses in its own right, [Robin Hanson](https://www.overcomingbias.com/p/which-political-axis), [Joshua Gans](https://joshuagans.substack.com/p/marc-andreessens-techno-optimism), [Dave Karpf](https://davekarpf.substack.com/p/why-cant-our-tech-billionaires-learn), [Luca Ropek](https://gizmodo.com/marc-andreessen-is-wrong-about-everything-1850934367), [Ezra Klein](https://www.nytimes.com/2023/10/26/opinion/marc-andreessen-reactionary-futurism.html), James Pethokoukis's "[The Conservative Futurist](https://www.amazon.com/Conservative-Futurist-Create-Sci-Fi-Promised/dp/1546005544)" and Palladium's "[It's Time To Build for Good](https://www.palladiummag.com/2020/04/30/its-time-to-build-for-good/)". The Information's [declaration](https://www.theinformation.com/articles/its-a-cult-inside-effective-accelerationism-the-pro-ai-movement-taking-over-silicon-valley) that the e/acc movement is "a cult." [Explanations](https://x.com/BasedBeffJezos/status/1714115329712963784?s=20) from Beff Jezos. [Threads](https://x.com/wolfejosh/status/1730305756665127383?s=20) on "science fact vs. science fiction" from Josh Wolfe. Molly White's piece on "[effective obfuscation](https://newsletter.mollywhite.net/p/effective-obfuscation)."
+**The conversation is fertile ground.** Marc Andreessen's "[Techo-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)." Noah Smith's "[Thoughts on techno-optimism](https://www.noahpinion.blog/p/thoughts-on-techno-optimism)." [[Vitalik Buterin]]'s [thread](https://x.com/VitalikButerin/status/1729251808936362327?s=20) on techno-optimism and the fear of decentralization, whose piece points to other responses in its own right, [Robin Hanson](https://www.overcomingbias.com/p/which-political-axis), [Joshua Gans](https://joshuagans.substack.com/p/marc-andreessens-techno-optimism), [Dave Karpf](https://davekarpf.substack.com/p/why-cant-our-tech-billionaires-learn), [Luca Ropek](https://gizmodo.com/marc-andreessen-is-wrong-about-everything-1850934367), [Ezra Klein](https://www.nytimes.com/2023/10/26/opinion/marc-andreessen-reactionary-futurism.html), [[James Pethokoukis]]'s "[The Conservative Futurist](https://www.amazon.com/Conservative-Futurist-Create-Sci-Fi-Promised/dp/1546005544)" and Palladium's "[It's Time To Build for Good](https://www.palladiummag.com/2020/04/30/its-time-to-build-for-good/)". [[The Information]]'s [declaration](https://www.theinformation.com/articles/its-a-cult-inside-effective-accelerationism-the-pro-ai-movement-taking-over-silicon-valley) that the e/acc movement is "a cult." [Explanations](https://x.com/BasedBeffJezos/status/1714115329712963784?s=20) from [[Beff Jezos]]. [Threads](https://x.com/wolfejosh/status/1730305756665127383?s=20) on "science fact vs. science fiction" from [[Josh Wolfe]]. [[Molly White]]'s piece on "[effective obfuscation](https://newsletter.mollywhite.net/p/effective-obfuscation)."
 
 Andreessen, once again, puts into words the "growth before life" mentality:
 
@@ -177,7 +177,7 @@ Smith goes on to really masterfully articulate the nuanced balance that I've bee
 
 ## Normativity of Human Nature
 
-I could quote six or seven paragraphs from [Noah's piece](https://www.noahpinion.blog/p/thoughts-on-techno-optimism), but instead I'll try and build a Frankenstein quote that adequately reflects the bits that resonated with me about normative techno-optimism, and the role that human nature plays in progress:
+I could quote six or seven paragraphs from [Noah's piece](https://www.noahpinion.blog/p/thoughts-on-techno-optimism), but instead I'll try and build a Frankenstein quote that adequately reflects the bits that resonated with me about normative techno-optimism, and the role that [[Human Nature|human nature]] plays in progress:
 
 > *"Normative techno-optimism says that more technology will make the world a better place for humanity. **In fact, this kind of techno-optimism is surprisingly rare — even some of my favorite science fiction stories are implicitly or explicitly built around the idea that no matter how our capabilities improve, humans’ fundamental brutish nature will never change.**   
 >   
@@ -187,7 +187,7 @@ I could quote six or seven paragraphs from [Noah's piece](https://www.noahpinion
 >   
 > The main reason I think technological progress is usually good for humanity — **why I’m a techno-optimist of the “normative” variety — is that I fundamentally believe that humans should be given as much choice as possible.** This isn’t something I can prove with facts — it’s just a moral intuition. I am a humanist. I see human beings wanting things, and I want to give them what they want. This doesn’t always mean humans will be happier when they get what they want; sometimes we make choices that make us unhappy. But as a humanist, I believe my species has the right to choose."*
 
-Hopefully Noah Smith can forgive me for butchering his exceptional writing together to attempt to articulate my own point. But there is fundamental line that runs through this thinking. He encapsulates it perfectly when he says, "**Innovation requires faith in society, while it’s lack of faith ultimately leads to decelerationist impulses.**"
+Hopefully Noah Smith can forgive me for butchering his exceptional writing together to attempt to articulate my own point. But there is fundamental line that runs through this thinking. He encapsulates it perfectly when he says, "**[[Innovation]] requires faith in society, while it’s lack of faith ultimately leads to decelerationist impulses.**"
 
 My idea of purposeful growth is one that attempts to account for an "[all hands on deck](https://www.noahpinion.blog/p/thoughts-on-techno-optimism)" approach to solving problems, rather than a "get out of my way" mentality. As much as I philosophically agree with the ideas that Marc and e/acc proponents articulate, there is a nagging in the back of my mind. Marc's essay espouses this idea of "intellectual natural selection":
 
@@ -205,7 +205,7 @@ And what's more, people continue to [defer their thinking](https://investing1012
 
 As powerful as accelerationist ideas can be, there is a growing concern about e/acc as an ideology. [In a piece from The Information](https://www.theinformation.com/articles/its-a-cult-inside-effective-accelerationism-the-pro-ai-movement-taking-over-silicon-valley?utm_source=bensbites&utm_medium=newsletter&utm_campaign=daily-digest-maybe-it-s-all-about-money&rc=ecjlpf) a few months ago, several people expressed their concerns with the e/acc movement:
 
-> *"Christian Keil, chief of staff at satellite startup Astranis, initially put e/acc in his Twitter bio as a public proclamation that he was a “tech optimist.” But the movement’s endless memes and decel shaming don’t appeal to him. “There’s an element of this whole thing that’s very 4chan-y,” he said. “So I try to stay away from [it] as much as possible.”   
+> *"Christian Keil, chief of staff at satellite startup Astranis, initially put e/acc in his [[Twitter]] bio as a public proclamation that he was a “tech optimist.” But the movement’s endless memes and decel shaming don’t appeal to him. “There’s an element of this whole thing that’s very 4chan-y,” he said. “So I try to stay away from [it] as much as possible.”   
 >   
 > “There was very little talk about what the future is,” [Rahul Rai] said. Instead, he said, they were just calling out decels. “They have this immediate thing of if you’re not e/acc, you’re a decel,” Rai said. **“It’s very much how cults and religions operate, because that builds cohesion and unity amongst the people that are within the e/acc community.”** He doubled down on that statement: “It’s a cult.”*
 

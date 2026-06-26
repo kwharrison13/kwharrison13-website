@@ -11,7 +11,7 @@ substack_url: "https://investing101.substack.com/p/science-fictions-dueling-fate
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/nuclear-war-a-scenario">Nuclear War: a Scenario</a>, <a href="/books/2034-a-novel-of-the-next-world-war">2034: A Novel of the Next World War</a>, <a href="/books/brave-new-world">Brave New World</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/1984">1984</a>, <a href="/books/brave-new-world">Brave New World</a>, <a href="/books/nuclear-war-a-scenario">Nuclear War: a Scenario</a>, <a href="/books/2034-a-novel-of-the-next-world-war">2034: A Novel of the Next World War</a></span></div>
   <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/life-imitates-art">Life Imitates Art</a>, <a href="/essays/the-value-cycle">The Value Cycle</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a>, <a href="/essays/the-hits-business">The Hits Business</a>, <a href="/essays/panic-writing">Panic Writing</a></span></div>
 </aside>
 <!-- connections-end -->
@@ -36,7 +36,7 @@ The plot of Subservience, as far as I can tell, sounds like what an annoying tee
 
 This stark juxtaposition of these two movies taking a similar concept in *very* different directions had me **reflecting again on just how dramatically science fiction has changed over the last 25 years**. And, in particular, **what that means for the people who are collectively trying to dream up the future** in what they're building.
 
-# The Rise of Dystopia
+# The Rise of [[Dystopia]]
 
 [I've written before](https://investing1012dot0.substack.com/p/the-value-cycle?utm_source=publication-search) about the rise of dystopian fiction:
 
@@ -44,7 +44,7 @@ This stark juxtaposition of these two movies taking a similar concept in *very* 
 
 ![Source:Electric Lit](/images/science-fictions-dueling-fates-51084178.png)
 
-I think about this chart all the time. Where we had been slowly recovering fiction from the grips of the dystopian boom during WWII and the Cold War, it suddenly shot back up. This chart correlates the rise to 9/11, and maybe that's the case. In 2016, after Donald Trump's election, books like 1984, Brave New World, It Can't Happen Here, and The Handmaid's Tale all [topped](https://electricliterature.com/the-rise-of-dystopian-fiction-from-soviet-dissidents-to-70s-paranoia-to-murakami/) the charts.
+I think about this chart all the time. Where we had been slowly recovering fiction from the grips of the dystopian boom during WWII and the Cold War, it suddenly shot back up. This chart correlates the rise to 9/11, and maybe that's the case. In 2016, after [[Donald Trump]]'s election, books like [[1984]], [[Brave New World]], It Can't Happen Here, and The Handmaid's Tale all [topped](https://electricliterature.com/the-rise-of-dystopian-fiction-from-soviet-dissidents-to-70s-paranoia-to-murakami/) the charts.
 
 But whatever the drivers, there has been a myopic obsession with dystopian futures, with seemingly little thought given to how much this impacts the way people view their reality. Fiction and media does so much to shape people's lived experiences.
 
@@ -95,7 +95,7 @@ Often, fiction will kick up against cries for believability. But guess what? [Se
 
 I remember seeing [the trailer](https://en.wikipedia.org/wiki/Geostorm) for this movie in 2017. Right off the bat it starts out with some pretty heavy-handed exposition: "Thanks to a system of satellites, we can control our weather." From there it devolves into a hellish climate change-esque version of [Cloudy With a Chance of Meatballs](https://www.imdb.com/title/tt0844471/).
 
-It was, in the words of the film's Wikipedia page, "lambasted" by critics. One critic called it "big, dumb, and boring."
+It was, in the words of the film's [[Wikipedia]] page, "lambasted" by critics. One critic called it "big, dumb, and boring."
 
 Now, I've never actually seen the movie. But the trailer stuck with me because I remember thinking as it started, "huh... could we use satellites to control the weather?" But then the rest of the trailer proves its just another disaster-porn explosion-fest and you think "whatever" and move on with your life.
 
@@ -113,7 +113,7 @@ But what if we were to create fiction that didn't just scare the ever-living cra
 
 Lets go back to the industrial prison complex. How do we solve that?
 
-Funny enough, Palmer Luckey has talked about how, after leaving Oculus, he considered two other possible things to work on other than solving national security with Anduril. One of them was "solving incarceration." He explains his exploration [this way](https://youtu.be/dBeosjr7PyY?t=2336):
+Funny enough, [[Palmer Luckey]] has talked about how, after leaving [[Oculus]], he considered two other possible things to work on other than solving national security with [[Anduril]]. One of them was "solving incarceration." He explains his exploration [this way](https://youtu.be/dBeosjr7PyY?t=2336):
 
 > *"I wanted to basically take out the incentives of the private prison complex that exists today. Right now private prison companies are growing. There's more and more people being housed in privately operated prisons. They're publicly traded, and those companies have a strong incentive to lobby for and perpetuate laws that incarcerate people for the longest period of time for the least serious crime.   
 >   
@@ -123,7 +123,7 @@ Funny enough, Palmer Luckey has talked about how, after leaving Oculus, he consi
 >   
 > That would have been a game changer, and it would have been a very attractive business model to these governments that are always looking to delay their expenditures. The biggest problem that I ran into as I looked into this is it wasn't a technological problem. It was a lobbying and marketing and government affairs problem. And it wasn't at a federal level where you can basically convince a handful of people and then achieve success. It was going to be this locale by locale thing where you have a lot of people who depend on prisons for jobs, you have a lot of politicians who are very involved in it. And also, the deals are not re-competed very often. This isn't like enterprise software where people are always on the lookout for a way to get an edge or move to a new provider that could reduce their costs or risk. It's like 'oh yeah we're going to re-compete this deal in 35 years.' And so it would have been this thing where I just couldn't have made an impact fast enough."*
 
-Imagine a fiction series, akin to [Jack Reacher](https://bit.ly/3SSwxtk), traveling from jurisdiction to jurisdiction going to war with the monied incentives behind the existing prison status quo. Give the villains that are trying to make money off of "repeat offenders" into eternalized caricatures of evil in a particular fictional antagonist. We *want* people like Henry Kissinger or the Murdoch's to bristle at how they're portrayed in [The Trials of Henry Kissinger](https://www.imdb.com/title/tt0326306/) or [Succession](https://www.latimes.com/entertainment-arts/tv/story/2023-09-25/brian-cox-rupert-murdoch-succession-logan-roy). **When you do something for work that no one sees, you're profit-driven. When your friends and family** ***love*** **a show or book that portrays you as a monster? You become socially motivated.**
+Imagine a fiction series, akin to [Jack Reacher](https://bit.ly/3SSwxtk), traveling from jurisdiction to jurisdiction going to war with the monied incentives behind the existing prison status quo. Give the villains that are trying to make money off of "repeat offenders" into eternalized caricatures of evil in a particular fictional antagonist. We *want* people like [[Henry Kissinger]] or the Murdoch's to bristle at how they're portrayed in [The Trials of Henry Kissinger](https://www.imdb.com/title/tt0326306/) or [Succession](https://www.latimes.com/entertainment-arts/tv/story/2023-09-25/brian-cox-rupert-murdoch-succession-logan-roy). **When you do something for work that no one sees, you're profit-driven. When your friends and family** ***love*** **a show or book that portrays you as a monster? You become socially motivated.**
 
 And make it realistic. Study it out. What *would* it take to execute the "lobbying and marketing and government affairs" problem that Palmer saw? And don't tell me you can't make it interesting. [The West Wing](https://en.wikipedia.org/wiki/The_West_Wing) was one of the highest rated shows in history. Even [Veep](https://en.wikipedia.org/wiki/Veep) is borderline clairvoyant in its prediction of American politics. You can absolutely make boring things interesting. AND if they're accurate they can have an even more sophisticated impact on the real world.
 
@@ -131,19 +131,19 @@ And make it realistic. Study it out. What *would* it take to execute the "lobbyi
 
 ![Source:Twitter](/images/science-fictions-dueling-fates-07d0c411.png)
 
-As I was pondering how to end this piece my mind kept coming back to this tweet (or... xeet?) from Mike Solana. I just want us to be amazing. I want us to be better than we are. To dream up amazing fiction to inspire an amazing reality.
+As I was pondering how to end this piece my mind kept coming back to this tweet (or... xeet?) from [[Mike Solana]]. I just want us to be amazing. I want us to be better than we are. To dream up amazing fiction to inspire an amazing reality.
 
-I appreciate more and more seeing important people in tech criticize the lack of dreaming going on in our fiction. From Sam Altman decrying Oppenheimer's missed opportunity to inspire a generation of physicists:
+I appreciate more and more seeing important people in tech criticize the lack of dreaming going on in our fiction. From [[Sam Altman]] decrying Oppenheimer's missed opportunity to inspire a generation of physicists:
 
 ![Source:Twitter](/images/science-fictions-dueling-fates-3ebe3dab.png)
 
-To Beff Jezos acknowledging the threat posed by "doomers and their art."
+To [[Beff Jezos]] acknowledging the threat posed by "doomers and their art."
 
 ![Source:Twitter](/images/science-fictions-dueling-fates-a274128f.png)
 
 We can dream up better solutions. We can spend more time leveraging fiction, with all its unfettered intellectual capabilities, to tackle the problems facing our world. **I want Tolkien-level world-building. His [Legendarium](https://en.wikipedia.org/wiki/Tolkien%27s_legendarium) alone, which was just his expositional world-building resource, was 1.5 million words!** More than 10% of Tolkien's writing was *just* to add thoughtful context to his work.
 
-Andy Weir's The Martian is considered one of the most [scientifically accurate](https://pubs.aip.org/physicstoday/online/12054/The-Martian-A-science-movie-review) sci-fi movies. That's a fun detail on its own. Its particularly interesting as we get closer and closer to the possibility of manned missions to mars. But what about the problems facing us *right now*? **Where are the scientifically accurate treatments of tackling aging, disease, poverty, food shortages, energy dependence, climate change, or war?**
+[[Andy Weir]]'s The Martian is considered one of the most [scientifically accurate](https://pubs.aip.org/physicstoday/online/12054/The-Martian-A-science-movie-review) sci-fi movies. That's a fun detail on its own. Its particularly interesting as we get closer and closer to the possibility of manned missions to mars. But what about the problems facing us *right now*? **Where are the scientifically accurate treatments of tackling aging, disease, poverty, food shortages, energy dependence, climate change, or war?**
 
 I remember listening to a podcast where someone mentions the fact that its a shame that the best movie treatment of the reality of eventually overcoming the effects of aging is [In Time](https://en.wikipedia.org/wiki/In_Time) with Justin Timberlake. (I have no idea where I heard that; if you have any idea, LMK). Certainly an interesting movie, but **where are the hard-hitting well-researched books and movies and TV shows that try to portray potential future states as accurately as possible? Not just the problems, but the exploration of the solutions as well?**
 

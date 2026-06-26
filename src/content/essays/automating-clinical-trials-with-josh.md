@@ -17,7 +17,7 @@ substack_url: "https://investing101.substack.com/p/automating-clinical-trials-wi
 
 ![Header image for Automating Clinical Trials (with Josh Pacini @ Valinor)](/images/automating-clinical-trials-with-josh-79d7d942.png)
 
-I write a lot about science fiction. I've written about using science fiction as a [product roadmap](https://investing101.substack.com/p/life-imitates-art?utm_source=publication-search). I've unpacked the [dueling fates](https://investing101.substack.com/p/science-fictions-dueling-fates?utm_source=publication-search) of science fiction as a force for optimism or pessimism. I've talked about Palmer Luckey's [framework](https://investing101.substack.com/p/back-to-the-future?utm_source=publication-search) for looking back at past imagined futures for clues to what we should be building today. But my favorite piece I've written on the topic is called [Historical Futurism](https://investing101.substack.com/p/historical-futurism?utm_source=publication-search).
+I write a lot about science fiction. I've written about using science fiction as a [product roadmap](https://investing101.substack.com/p/life-imitates-art?utm_source=publication-search). I've unpacked the [dueling fates](https://investing101.substack.com/p/science-fictions-dueling-fates?utm_source=publication-search) of science fiction as a force for optimism or pessimism. I've talked about [[Palmer Luckey]]'s [framework](https://investing101.substack.com/p/back-to-the-future?utm_source=publication-search) for looking back at past imagined futures for clues to what we should be building today. But my favorite piece I've written on the topic is called [Historical Futurism](https://investing101.substack.com/p/historical-futurism?utm_source=publication-search).
 
 In that piece, I [framed](https://investing101.substack.com/p/historical-futurism?utm_source=publication-search) the act of "[opportunity canvassing](https://investing101.substack.com/p/long-enough-to-matter?utm_source=publication-search)" as this pursuit of a world worth creating:
 
@@ -41,7 +41,7 @@ That's the dystopian hellscape that *billions* of people live with every day. Wh
 
 My friend, [Josh Pacini](https://x.com/joshpacini), took inspiration from JRR Tolkien's dream of a land away from Middle Earth, where the weary could find rest, and healing, and peace – Valinor. When I think about the myriad of diseases that humanity is riddled by, I think about computer code. There are problems in our system. Bugs in the code.
 
-In 2023, when Jensen Huang, the CEO of Nvidia, was [asked](https://x.com/sethbannon/status/1732255802709491977) where he thought the next amazing revolution was going to come from, he said “digital biology” because **“for the very first time in human history, biology has the opportunity to be engineering, not science.”**
+In 2023, when [[Jensen Huang]], the CEO of [[Nvidia]], was [asked](https://x.com/sethbannon/status/1732255802709491977) where he thought the next amazing revolution was going to come from, he said “digital biology” because **“for the very first time in human history, biology has the opportunity to be engineering, not science.”**
 
 In my conversation with Josh, he didn't lay out the path to a miracle drug for every disease. Instead, he focused on what the most significant bottleneck is for us to have dramatically more breakthroughs in the fight to eradicate these diseases. That bottleneck? The failure rate of clinical trials. As Valinor's [mission statement](https://www.valinordiscovery.com/blog-posts/our-mission) explains:
 

@@ -51,9 +51,9 @@ So a key question is — why would anyone do that? Should you trust it? And shou
 
 # Heart On Your Sleeve
 
-There were a few examples of this that came to mind. The first was a personal experience. I remember years ago, my brother and I were trying to buy a few pieces of workout equipment. We went to a sporting goods store looking for something, and the guy that helped us said, "you can get it here, but its going to be way more expensive and not the best fit. But they have exactly what you're looking for at Walmart."
+There were a few examples of this that came to mind. The first was a personal experience. I remember years ago, my brother and I were trying to buy a few pieces of workout equipment. We went to a sporting goods store looking for something, and the guy that helped us said, "you can get it here, but its going to be way more expensive and not the best fit. But they have exactly what you're looking for at [[Walmart]]."
 
-I walked out of the store and commented to my brother, "that seemed dumb! That guy sent us away to shop at a different store, rather than spend money at his." My brother's response was immediate, and instructive. "I like that place way more now, knowing that they're not just trying to screw me over selling me the wrong thing." In 2004, my brother was already tuned into concepts like Jeff Bezos' "[customer obsession](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)."
+I walked out of the store and commented to my brother, "that seemed dumb! That guy sent us away to shop at a different store, rather than spend money at his." My brother's response was immediate, and instructive. "I like that place way more now, knowing that they're not just trying to screw me over selling me the wrong thing." In 2004, my brother was already tuned into concepts like [[Jeff Bezos]]' "[customer obsession](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)."
 
 [Jon Shieber](https://www.linkedin.com/in/jonathan-shieber-b27baa/) reminded me just yesterday that this same thing happens in [Miracle on 34th Street](https://www.imdb.com/title/tt0110527/) with the guy who built Jurassic Park and Matilda. When Kris Kringle starts working at the department store, Cole's, the manager hears from a woman that their Santa Claus is sending people to other stores where they can get things cheaper.
 
@@ -113,7 +113,7 @@ I think every person has a responsibility to treat their life like the "[Choose 
 
 On my [personal website](https://kwharrison13.com/essays), I have a collection of essays that I've titled "The Hall-of-Fame of Bad Behavior." The hucksters and grifters I've talked about there make up a who's-who of people who **I can almost guarantee** have never thought of themselves as the villain. Who are cocooned in their own self-importance, without the ability to generate self-criticism or reflection.
 
-And my takeaway is to try and be better than that. To try and be willing to start with "how could I be wrong about what I think or do?" As Charlie Munger said:
+And my takeaway is to try and be better than that. To try and be willing to start with "how could I be wrong about what I think or do?" As [[Charlie Munger]] said:
 
 > *“I have what I call an ‘iron prescription’ that helps me keep sane when I drift toward preferring one intense ideology over another. **I feel that I'm not entitled to have an opinion unless I can state the arguments against my position better than the people who are in opposition.** I think that I am qualified to speak only when I've reached that state.”*
 

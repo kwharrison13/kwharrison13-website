@@ -27,23 +27,23 @@ If you haven't seen the movie, I don't wanna spoil it for you... but it's almost
 
 I wasn't thinking about the movie for today's topic until I started googling around for some interesting context on non-zero-sum games and I kept coming across images from Arrival, [including T-shirts](https://www.lookhuman.com/design/339035-non-zero-sum-game/tshirt) (which I bought). And I was reminded of how central the concept is to the plot of the movie.
 
-In the film, 12 massive alien pods land on earth and hover in 12 different locations: US, China, Russia, UK, Pakistan, Sudan, etc. Each country spends time engaging with the alien life forms, trying to understand them and their language. Eventually, misunderstanding of the alien's intent leads to conflict, and the various nations shutting off shared communication about their findings.
+In the film, 12 massive alien pods land on earth and hover in 12 different locations: US, China, Russia, UK, [[Pakistan]], Sudan, etc. Each country spends time engaging with the alien life forms, trying to understand them and their language. Eventually, misunderstanding of the alien's intent leads to conflict, and the various nations shutting off shared communication about their findings.
 
 Eventually, the protagonist of the film realizes that each piece of information communicated contains 1/12th of a message, and that collaboration is required to unlock the answer. The whole purpose of the alien's visit is to unify humanity by offering them a language that unlocks the ability to see time as non-linear.
 
-When asked to explain non-zero-sum thinking as presented in Arrival, this was ChatGPT's response:
+When asked to explain non-zero-sum thinking as presented in Arrival, this was [[ChatGPT]]'s response:
 
 > *"In a non-zero-sum game, unlike zero-sum games where one party's gain is exactly balanced by another party's loss, the outcomes can be beneficial for all parties involved. The premise of non-zero-sum is crucial in "Arrival" because the film presents a scenario **where humanity is faced with the arrival of extraterrestrial beings, and the global response is initially fragmented and competitive, reflecting a zero-sum mindset** where each nation perceives the situation as a potential threat or gain at the expense of others.   
 >   
 > As the protagonist, Dr. Louise Banks (played by Amy Adams), progresses in her understanding of the alien language, she discovers that the language itself alters her perception of time, leading to a profound understanding of the aliens' intention. **The aliens have a non-linear perception of time and their purpose for contacting Earth is to unite humanity, implying a need for a cooperative, [non-zero-sum approach](https://www.youtube.com/watch?v=JX8qOoyxt8s) to solve a future crisis.** The aliens' gift of their language, which allows for this altered perception of time, is a tool for humanity to achieve cooperation and unity, highlighting the essence of non-zero-sum dynamics where mutual benefits can be achieved."*
 
-Understanding which games are zero-sum vs. non-zero-sum are a critical variable in [game theory](https://www.masterclass.com/articles/zero-sum-game-meaning). I've written before about [playing different games](https://investing1012dot0.substack.com/p/player-different-stupider-games) where I said, in effect, "the only stupid game is not knowing what games other people are playing." Identifying the players in a non-zero-sum game can be a form of arbitrage to optimize cooperation and outcomes. **And introducing and fostering more ambition in the world is one of those non-zero-sum-games.**
+Understanding which games are zero-sum vs. non-zero-sum are a critical variable in [game theory](https://www.masterclass.com/articles/zero-sum-game-meaning). I've written before about [playing different games](https://investing1012dot0.substack.com/p/player-different-stupider-games) where I said, in effect, "the only stupid game is not knowing what games other people are playing." Identifying the players in a non-zero-sum game can be a form of arbitrage to optimize cooperation and outcomes. **And introducing and fostering more [[Ambition|ambition]] in the world is one of those non-zero-sum-games.**
 
 # What's in a Commodity?
 
 Often, when we talk about something getting “[commoditized](https://www.investopedia.com/terms/c/commoditization.asp)” we're talking about how something becomes interchangable:
 
-> *"Commoditization moreover often **removes the individual, unique characteristics, and brand identity of the product so that it becomes interchangeable with other products of the same type**. Making commodities interchangeable allows competition with a basis of price only and not on different characteristics."*
+> *"[[Commoditization]] moreover often **removes the individual, unique characteristics, and brand identity of the product so that it becomes interchangeable with other products of the same type**. Making commodities interchangeable allows competition with a basis of price only and not on different characteristics."*
 
 But in broader terms, that more is in line with something becoming "fungible" (no NFT bros. I'm not talking about you). Turning something into a commodity effectively just means its something you can buy and sell. It can be a hot commodity, a rare commodity, an abundant commodity. **The state of the commodity impacts its price, but something being a commodity doesn’t mean it’s automatically more common or less valuable.**
 
@@ -51,7 +51,7 @@ When I talk about ambition being a rare commodity, there are two aspects I want 
 
 ## Ambition Is Rare
 
-In 2015, Bryce Roberts wrote an incredible blog post called "[Most People Won't](https://bryce.vc/post/64889707700/most-people-wont)." Recently, I stumbled on someone who had turned it into [a great video](https://x.com/bymaximise/status/1752530798643687466?s=20). The post is powerful:
+In 2015, [[Bryce Roberts]] wrote an incredible blog post called "[Most People Won't](https://bryce.vc/post/64889707700/most-people-wont)." Recently, I stumbled on someone who had turned it into [a great video](https://x.com/bymaximise/status/1752530798643687466?s=20). The post is powerful:
 
 > *"Most people want to be fit, most people aren’t.   
 >   
@@ -103,9 +103,9 @@ People who take that ambition, that willingness to put themselves out there, and
 
 In the world of company building, there's an important distinction between ambition and capital. Ambition is non-zero-sum; capital is not. If you were the only startup in the world, you would get all the capital. If you were one of ten startups in the world, you wouldn't necessarily get 10% of the capital. In a capitalist system, the best idea would get the majority of the capital. **And every dollar the best idea gets above 10% is a dollar that you're not getting.**
 
-Almost two years ago, [I wrote about](https://investing1012dot0.substack.com/p/lowercarbon) climate tech investing and Lowercarbon Capital. In it, I quoted Bill Gates talking about capital as a zero-sum game:
+Almost two years ago, [I wrote about](https://investing1012dot0.substack.com/p/lowercarbon) climate tech investing and Lowercarbon Capital. In it, I quoted [[Bill Gates]] talking about capital as a zero-sum game:
 
-> *"At Breakthrough Energy, we fund only technologies that could remove at least 500 million tons a year if they’re successful and fully implemented. That’s roughly 1 percent of global emissions. **Technologies that will never exceed 1 percent shouldn’t compete for the limited resources we have for getting to zero. There may be other good reasons to pursue them, but significantly reducing emissions won’t be one of them**."*
+> *"At [[Breakthrough Energy]], we fund only technologies that could remove at least 500 million tons a year if they’re successful and fully implemented. That’s roughly 1 percent of global emissions. **Technologies that will never exceed 1 percent shouldn’t compete for the limited resources we have for getting to zero. There may be other good reasons to pursue them, but significantly reducing emissions won’t be one of them**."*
 
 Now, granted. Bill Gates is talking about an even smaller sum to divvy up, which is the smaller subset of capital going towards things fighting to remove emissions. But the principle applies to capital more broadly. There is a finite amount of capital. Even in a world where we constantly feel like there is [too much capital](https://investing1012dot0.substack.com/p/the-puritans-of-venture-capital), there is still eventually a finite number. And it's zero-sum.
 
@@ -121,15 +121,15 @@ Some examples that came to mind:
 
 - [Anduril](https://research.contrary.com/reports/anduril)\*: Ambitions and a path to replacing defense primes like Raytheon ($120B) and Lockheed ($103B)
 - [Rippling](https://research.contrary.com/reports/rippling): Less clear, but could see them having the ambition and path to trying to replace HR behemoths like ADP ($102B)
-- [Zepto](https://research.contrary.com/reports/zepto)\*: [Ambitions from the founders](https://www.youtube.com/watch?v=3URK13AzWSA) to become the Sam Walton of India; Walmart ($455B)
+- [Zepto](https://research.contrary.com/reports/zepto)\*: [Ambitions from the founders](https://www.youtube.com/watch?v=3URK13AzWSA) to become the [[Sam Walton]] of India; [[Walmart]] ($455B)
 
 My partner, [Will Robbins](https://twitter.com/whrobbins), articulated really well some of the biggest categories that drive massive enduring companies:
 
 - **Industrial Conglomerates & Rollups**: [Koch](https://en.wikipedia.org/wiki/Koch_Industries) ($125B of revenue), Danaher ($179B market cap)
-- **Consumer Products (e.g. hardware, ads)**: Apple, Google, Tesla, Microsoft
-- **Centralized Retail**: Amazon, Walmart
-- **Specialized Technologies**: Novo Nordisk ($413B), TSMC ($531B)
-- **Consumer & Enterprise Financial Services**: JPM Chase ($505B), AmEx ($153B), Visa ($555B)
+- **[[Consumer Products]] (e.g. hardware, ads)**: [[Apple]], [[Alphabet|Google]], [[Tesla]], [[Microsoft]]
+- **Centralized [[Retail]]**: [[Amazon]], Walmart
+- **Specialized Technologies**: Novo Nordisk ($413B), [[TSMC]] ($531B)
+- **Consumer & Enterprise Financial Services**: JPM Chase ($505B), AmEx ($153B), [[Visa]] ($555B)
 
 # Therefore, What?
 
@@ -143,4 +143,4 @@ Large outcomes **ARE** attainable. You can articulate how you become a $100B com
 
 \_\_\_\_
 
-*\*[Contrary](https://www.contrary.com/legal) is an investor in Anduril and Zepto through one or more affiliates.*
+*\*[Contrary](https://www.contrary.com/legal) is an investor in [[Anduril]] and Zepto through one or more affiliates.*

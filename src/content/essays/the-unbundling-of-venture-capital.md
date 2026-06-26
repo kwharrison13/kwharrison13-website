@@ -18,11 +18,11 @@ In the 1950s when brands had their Don Draper-drenched hey day people [used bran
 
 Fast forward through Vietnam, Watergate, Chernobyl, the Gulf War, and #FreeBritney we're all feeling pretty bummed out. [Less than 35%](https://news.gallup.com/poll/352316/americans-confidence-major-institutions-dips.aspx) of people have confidence in institutions and the default trust we gave to brands has been diminished.
 
-More than ever we're interested in following people that we can empathize with and idolize. The [most followed accounts](https://en.wikipedia.org/wiki/List_of_most-followed_Instagram_accounts) on Instagram are people like Cristiano Renaldo, Kylie Jenner, and The Rock. **Some of the most recognizable people in the world are right up there with the most recognizable brands like Nike and Coca-Cola in their influence.**
+More than ever we're interested in following people that we can empathize with and idolize. The [most followed accounts](https://en.wikipedia.org/wiki/List_of_most-followed_Instagram_accounts) on [[Instagram]] are people like Cristiano Renaldo, Kylie Jenner, and The Rock. **Some of the most recognizable people in the world are right up there with the most recognizable brands like [[Nike]] and Coca-Cola in their influence.**
 
-## David Perell Nailed It
+## [[David Perell]] Nailed It
 
-The "Writing Guy" on Twitter, [David Perell](https://twitter.com/david_perell), wrote a fantastic series of posts on what he calls ["Naked Brands."](https://perell.com/nakedbrands/) He walks through examples across basketball, fashion, and music but the core idea is this:
+The "Writing Guy" on [[Twitter]], [David Perell](https://twitter.com/david_perell), wrote a fantastic series of posts on what he calls ["Naked Brands."](https://perell.com/nakedbrands/) He walks through examples across basketball, fashion, and music but the core idea is this:
 
 > "Inspired by transparency, [popular influencers] have built loyal followings, and now, they are building companies. **Successful influencers are perceived as genuine, sincere, and most of all, transparent. They differ widely from institutions built during the industrial era.** Brands built during the late-industrial era garnered trust through mass marketing, as opposed to transparency. This is no longer a sustainable strategy."
 
@@ -34,13 +34,13 @@ The most poignant example of a gatekeeper mentality comes in the form of a quote
 
 > "There is not that much talent in the world. There are very few people in very few closets in very few rooms that are really talented and can’t get out. **People with talent and expertise at making entertainment products are not going to be displaced by 1,800 people coming up with their videos that they think are going to have an appeal."** (Barry Diller)
 
-The year Barry Diller said this was the same year YouTube was created and proved that there were a lot more talented people in the world than anyone realized. Granted, in 2022 the vast majority of expressive and economic creation is still going through gatekeepers. But the world has woken up to the weaknesses of that model.
+The year Barry Diller said this was the same year [[YouTube]] was created and proved that there were a lot more talented people in the world than anyone realized. Granted, in 2022 the vast majority of expressive and economic creation is still going through gatekeepers. But the world has woken up to the weaknesses of that model.
 
-> "I am emphasizing the self-service nature of these platforms (AWS, Fulfillment by Amazon, and Kindle Direct Publishing) because it’s important for a reason I think is somewhat non-obvious: **even well-meaning gatekeepers slow innovation. When a platform is self-service, even the improbable ideas can get tried, because there’s no expert gatekeeper ready to say “that will never work!” And guess what—many of those improbable ideas do work**, and society is the beneficiary of that diversity." (Jeff Bezos)
+> "I am emphasizing the self-service nature of these platforms (AWS, Fulfillment by Amazon, and Kindle Direct Publishing) because it’s important for a reason I think is somewhat non-obvious: **even well-meaning gatekeepers slow innovation. When a platform is self-service, even the improbable ideas can get tried, because there’s no expert gatekeeper ready to say “that will never work!” And guess what—many of those improbable ideas do work**, and society is the beneficiary of that diversity." ([[Jeff Bezos]])
 
 ## What Does This Have to Do With Venture?
 
-When you look at the OG venture capital model it feels most like the monolithic brands. When the VC industry first got started in the 50's and 60's [it was 20 people](https://www.scaruffi.com/svhistory/arun3.html), all connected to Arthur Rock, a lot of whom were related. Fascinating enough, since then the names that started the show are a lot of the same ones who are best known today: Sutter Hill (1964), Mayfield (1963), Kleiner (1972), Sequoia (1972), and NEA (1978).
+When you look at the OG venture capital model it feels most like the monolithic brands. When the VC industry first got started in the 50's and 60's [it was 20 people](https://www.scaruffi.com/svhistory/arun3.html), all connected to [[Arthur Rock]], a lot of whom were related. Fascinating enough, since then the names that started the show are a lot of the same ones who are best known today: Sutter Hill (1964), Mayfield (1963), Kleiner (1972), [[Sequoia]] (1972), and NEA (1978).
 
 ![I assume this is what the 70's looked like because it was a really long time ago.](/images/the-unbundling-of-venture-capital-c6b3a99d.png)
 
@@ -80,13 +80,13 @@ The trends are early and venture still operates in much the same way as it has f
 
 ## The VC Renegades
 
-While Naked Brands is primarily focused on celebrities, influencers, and creators I believe there is an underlying element of truth that is impacting venture just as much. The reallocation of trust from brands to individuals is impacting the way founders view the types of investors they want to invite into their companies. The influence within venture has progressively decentralized away from the core brand into renegades leveraging the power of their own brand.
+While [[Naked Brands]] is primarily focused on celebrities, influencers, and creators I believe there is an underlying element of truth that is impacting venture just as much. The reallocation of trust from brands to individuals is impacting the way founders view the types of investors they want to invite into their companies. The influence within venture has progressively decentralized away from the core brand into renegades leveraging the power of their own brand.
 
 ![Illustration: Monolithic Brands](/images/the-unbundling-of-venture-capital-4f1f88d3.png)
 
 ### Monolithic Brands
 
-For the longest time people thought often of VC funds as “The Firm.” These amorphous blobs that judged you harshly and spit out cash. Just look at almost every pop culture reference to VCs. In The Social Network [you don't even see the VCs](https://www.youtube.com/watch?v=jynTRc8vcIA) that Zuckerberg tells off. You don't need to. You know the gist. Long board room. Stuffy suits. Money pushers.
+For the longest time people thought often of VC funds as “The Firm.” These amorphous blobs that judged you harshly and spit out cash. Just look at almost every pop culture reference to VCs. In The Social Network [you don't even see the VCs](https://www.youtube.com/watch?v=jynTRc8vcIA) that [[Mark Zuckerberg|Zuckerberg]] tells off. You don't need to. You know the gist. Long board room. Stuffy suits. Money pushers.
 
 ![Illustration for Monolithic Brands section](/images/the-unbundling-of-venture-capital-e8c0aa55.png)
 
@@ -98,21 +98,21 @@ Over the last 10 years there has been a shift in most ambitious venture funds. F
 
 [Doug Leone describes](https://www.thetwentyminutevc.com/doug-leone/) the decision Sequoia made to go into China pretty clearly. They decided to hire an on-the-ground team in China vs. starting it themselves, citing an episode of [Hogan's Heroes](https://youtu.be/e4dfuf69q_8?t=329). "We weren't sure someone else would get it right, but we knew we would get it wrong."
 
-You start to see this again and again in different venture funds. The mothership acknowledges its own inability to be everything so they start to appoint nodes. Neil Shen for Sequoia China. Chris Dixon for a16z Crypto. Dan Rose for Coatue Ventures. Some firms start to decentralize decision making to further acknowledge the importance of these nodes.
+You start to see this again and again in different venture funds. The mothership acknowledges its own inability to be everything so they start to appoint nodes. Neil Shen for Sequoia China. [[Chris Dixon]] for a16z Crypto. Dan Rose for [[Coatue|Coatue Ventures]]. Some firms start to decentralize decision making to further acknowledge the importance of these nodes.
 
 ### Renegades
 
 In just the last few years you've seen an increased number of renegades emerging in venture. These renegades are people who know the value of their own brand and reputation. They recognize the fundamental disruption going on in venture and are leaning into the opportunity it creates.
 
-> "One of our theories is to seek out opportunities where there's a major change. Major dislocation in the way things are. **Wherever there's turmoil, there's indecision. And wherever there's indecision, there's opportunity.** So we look for the confusion when the big companies are confused. When the other venture groups are confused. That's the time to start companies." (Don Valentine)
+> "One of our theories is to seek out opportunities where there's a major change. Major dislocation in the way things are. **Wherever there's turmoil, there's indecision. And wherever there's indecision, there's opportunity.** So we look for the confusion when the big companies are confused. When the other venture groups are confused. That's the time to start companies." ([[Don Valentine]])
 
 I’d say there is plenty of turmoil and indecision in venture these days. And this change goes beyond "[solo capitalists](https://nbt.substack.com/p/the-rise-of-the-solo-capitalists)." That model exists, but I think its an over-simplification of what's happening. The novelty of solo capitalists came from single individuals leading larger rounds without the support and resources of a traditional fund infrastructure.
 
-The appeal of a Renegade goes beyond what governance structure they choose. Lee Fixel is a powerful brand, but he also has Addition as a traditional firm with 20+ people. Harry Stebbings has 4 people he's working with. Harry actually founded a traditional venture fund called Stride with a former Accel partner before [stepping away from it](https://techcrunch.com/2021/02/07/harry-stebbings-is-leaving-stride-the-vc-firm-he-founded-with-fred-destin/) to focus on his podcast and raising a connected fund, 20VC. **The takeaway is not "fund = bad, being alone = good." It's a shifting of the focus towards the person. The influence they have as a renegade.** Harry realized he could do more leaning into his own brand than trying to force himself into a monolith.
+The appeal of a Renegade goes beyond what governance structure they choose. Lee Fixel is a powerful brand, but he also has Addition as a traditional firm with 20+ people. [[Harry Stebbings]] has 4 people he's working with. Harry actually founded a traditional venture fund called Stride with a former [[Accel]] partner before [stepping away from it](https://techcrunch.com/2021/02/07/harry-stebbings-is-leaving-stride-the-vc-firm-he-founded-with-fred-destin/) to focus on his podcast and raising a connected fund, 20VC. **The takeaway is not "fund = bad, being alone = good." It's a shifting of the focus towards the person. The influence they have as a renegade.** Harry realized he could do more leaning into his own brand than trying to force himself into a monolith.
 
 No one would argue these renegades are going to overwhelm the entire established venture community. The "kingdoms" of Sequoia, a16z, etc. are still powerhouses that aren’t going anywhere. But renegades exist in the ecosystem with them. They're not after-thoughts like regular angels that VCs might entice into a round to add flavor. They're frenemies that can contend for deals.
 
-VC renegades have emerged from different backgrounds, whether from traditional celebrity (Serena Williams, Ashton Kutcher), new media (Harry Stebbings, Packy McCormick), operating roles (Elad Gil, Josh Buckley, Lachy Groom) or spin-offs from traditional funds (Lee Fixel, Katie Haun, Dave Yuan). And I think this is just the beginning of these kinds of investors.
+VC renegades have emerged from different backgrounds, whether from traditional celebrity (Serena Williams, Ashton Kutcher), new media (Harry Stebbings, [[Packy McCormick]]), operating roles (Elad Gil, Josh Buckley, Lachy Groom) or spin-offs from traditional funds (Lee Fixel, Katie Haun, Dave Yuan). And I think this is just the beginning of these kinds of investors.
 
 ### The Magna Carta Moment in Venture
 
@@ -142,7 +142,7 @@ For every unhelpful VC there is a story of an investor helping to make a game-ch
 
 With solo capitalists a lot of people ask the question "will everyone go solo?" And I [agree with Sam Lessin](https://twitter.com/lessin/status/1471601729334497282), "I kinda doubt it." But again, the power of being a renegade in venture isn't just about being solo. You can choose whatever form works for you. The real trend is that more and more investor's influence is coming from the power of the individual rather than the firm.
 
-> "Big funds are absolutely going to have trouble competing for the next generation of investment talent. Now that you don't have to work somewhere big to be 'in the industry' **it is way harder to justify going to work for a big investment firm."** (Sam Lessin)
+> "Big funds are absolutely going to have trouble competing for the next generation of investment talent. Now that you don't have to work somewhere big to be 'in the industry' **it is way harder to justify going to work for a big investment firm."** ([[Sam Lessin]])
 
 Some people are pretty skeptical that anything will change and monolithic brands will continue to run the show. But a lot of those people are also the same ones whose paycheck is dependent on things not changing. **"It is difficult to get a man to understand something when his salary depends upon his not understanding it."**
 

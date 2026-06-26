@@ -2,9 +2,9 @@
 title: "Albert Hirschman"
 type: "person"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Utopia For Realists.md"
@@ -15,18 +15,18 @@ aliases:
 related:
   - "[[Overton Window]]"
   - "[[Utopia For Realists]]"
+  - "[[Rutger Bregman]]"
 ---
 
 # Albert Hirschman
 
-**One-line:** *Economist who argued reactionary arguments take three forms — futility, danger, perversity — and that utopias, once enacted, quickly look commonplace.*
+In [Utopia For Realists](/books/utopia-for-realists), [Rutger Bregman](/notes/rutger-bregman) invokes the economist Albert Hirschman to explain the predictable life-cycle of any utopian idea. Per Bregman's quote, Hirschman held that "utopias are initially attacked on three grounds: futility (it's not possible), danger (the risks are too great), and perversity (it will degenerate into dystopia)." But Hirschman also observed that "almost as soon as a utopia becomes a reality, it often comes to be seen as utterly commonplace" — Bregman's frame for why "the great milestones of civilization always have the whiff of utopia about them at first."
 
-_Stub page — created from [Utopia For Realists](/books/utopia-for-realists). Expand on a future pass._
+The [Overton Window](/notes/overton-window) concept page picks up the same Hirschman observation as one tracing of how the band of "politically acceptable" ideas moves: today's radical, once enacted, quickly looks ordinary.
 
-## What we know
+**Context:** Albert O. Hirschman (1915–2012) was a German-born economist and social theorist. The futility/danger/perversity triad comes from his 1991 book *The Rhetoric of Reaction*, which catalogued the recurring argumentative forms used to oppose progressive reform. He is also widely known for *Exit, Voice, and Loyalty*.
 
-- Frames how every utopian idea is first attacked. (source: [Utopia For Realists](/books/utopia-for-realists))
+## Where this appears
 
-## Mentioned in
-
-- [Utopia For Realists](/books/utopia-for-realists)
+- [Utopia For Realists](/books/utopia-for-realists) — his three-part anatomy of how every utopia is first attacked (futility, danger, perversity), then normalized
+- [Overton Window](/notes/overton-window) — cited as describing the same band-moving dynamic by which radical ideas become commonplace

@@ -31,7 +31,7 @@ Why are indexes such an effective strategy and so difficult to beat? One key rea
 
 ![Chart illustrating sum of the parts](/images/index-bets-from-products-to-people-2aec3dd5.png)
 
-There are a lot of people who don't like indexing and see it as a negative force in public markets. For all active investors who are trying to have strongly held opinions and make conviction bets they don't like the idea of someone just riding the overall market. Aswath Damodaran, an NYU Professor of Finance [perfectly summed up](https://elmwealth.com/aswath-damodaran-interview/) why some people don't like indexes:
+There are a lot of people who don't like indexing and see it as a negative force in public markets. For all active investors who are trying to have strongly held opinions and make conviction bets they don't like the idea of someone just riding the overall market. [[Aswath Damodaran]], an NYU Professor of Finance [perfectly summed up](https://elmwealth.com/aswath-damodaran-interview/) why some people don't like indexes:
 
 > *“Well, let’s start out by noting that many of these people who critique indexing have a very selfish reason for doing so – it’s taking away their living. And that’s for a very good reason, which is **they’ve not been very good at what they do for a living and indexing has exposed that.”***
 
@@ -45,7 +45,7 @@ Beyond just building a basket of companies to represent a trend there is also th
 
 > *"One lens through which to view companies is to ask "what companies are an index of their underlying market"? Index companies often take a cut of every transaction in their space, or are a piece of infrastructure everyone in the market needs. **These companies may be ways to participate in the market broadly without having to worry about who wins in it."***
 
-Companies like Stripe, Coinbase, or Nvidia have become ways to bet on digital payments, crypto, and AI without having to know who the right winner is. When you think about necessary infrastructure you have companies like Twilio for communications, Plaid for banking data, [Check](https://www.checkhq.com/) for payroll data, or [Cohere](https://cohere.ai/) for NLP. **These companies will be successful as long as there is increasing demand for the underlying data infrastructure they provide.**
+Companies like [[Stripe]], [[Coinbase]], or [[Nvidia]] have become ways to bet on digital payments, crypto, and AI without having to know who the right winner is. When you think about necessary infrastructure you have companies like [[Twilio]] for communications, [[Plaid]] for banking data, [Check](https://www.checkhq.com/) for payroll data, or [Cohere](https://cohere.ai/) for NLP. **These companies will be successful as long as there is increasing demand for the underlying data infrastructure they provide.**
 
 The most important question in evaluating an index is understanding the underlying trend. You can build an index of companies selling fax machines and camera film, but you probably won't do so well. Stripe is a successful index bet because digital payments has exploded and continues to become increasingly important. It's also given them direct access to every other adjacent category to online payments.
 
@@ -65,11 +65,11 @@ For a long time I've had this idea of a decentralized brain. Basically the idea 
 
 ![Illustration for Building a Community Index section](/images/index-bets-from-products-to-people-cb12081d.png)
 
-Not everyone agrees with this idea. I once had a friendly debate with Pat Grady about whether you can know everything. He pointed to the idea of building a latticework of memory to keep all types of information in your head without having to rely on other people. Certainly some value to this idea. Even Charlie Munger tends to [dismiss reliance on other people for your thinking.](http://www.koryrogers.com/share/Poor%20Charlie's%20Almanack%20by%20Charles%20T.%20Munger.pdf)
+Not everyone agrees with this idea. I once had a friendly debate with [[Pat Grady]] about whether you can know everything. He pointed to the idea of building a latticework of memory to keep all types of information in your head without having to rely on other people. Certainly some value to this idea. Even [[Charlie Munger]] tends to [dismiss reliance on other people for your thinking.](http://www.koryrogers.com/share/Poor%20Charlie's%20Almanack%20by%20Charles%20T.%20Munger.pdf)
 
 > *"If, in your thinking, you rely entirely on others, often through purchase of professional advice, whenever outside a small territory of your own, you will suffer much calamity."*
 
-But the idea of a decentralized brain doesn't remove your responsibility for having your own thoughts. It acknowledges a simple reality that Tom Nichols describes in his book, [The Death of Expertise](https://www.amazon.com/Death-Expertise-Campaign-Established-Knowledge/dp/0190469412):
+But the idea of a decentralized brain doesn't remove your responsibility for having your own thoughts. It acknowledges a simple reality that [[Tom Nichols]] describes in his book, [The Death of Expertise](https://www.amazon.com/Death-Expertise-Campaign-Established-Knowledge/dp/0190469412):
 
 > *"**No matter what our aspirations, we are bound by the reality of time and the undeniable limits of our talent.** We prosper because we specialize, and because we develop both formal and informal mechanisms and practices that allow us to trust each other in those specializations."*
 
@@ -89,13 +89,13 @@ As they've scaled Synthesis has let more and more people off their waiting list 
 
 > *"Our goal is to make Synthesis available to every child in the world. **But our first commitment is to the top 1% by cognitive ability and commitment.** Our current system is cutting off the runway for our most advanced students. We believe in doing the opposite—challenging these students as much as possible so that they build the capabilities to solve big problems for all of us. **Education is a positive-sum game.**"*
 
-Some people might jokingly point to Ender's Game as a bit dystopian of a reference for a children's game but it’s important to step back and remember the current educational system is more like the Hunger Games. Chrisman Frank, the CEO of Synthesis compares their approach to European soccer clubs. "Just as there are recreational soccer players, there are recreational Synthesis players. **But if you want to move up, the option is available and there is no speed limit.**"
+Some people might jokingly point to Ender's Game as a bit dystopian of a reference for a children's game but it’s important to step back and remember the current educational system is more like the [[Hunger Games]]. Chrisman Frank, the CEO of Synthesis compares their approach to European soccer clubs. "Just as there are recreational soccer players, there are recreational Synthesis players. **But if you want to move up, the option is available and there is no speed limit.**"
 
 That's how Synthesis is a community index. **They've built a scalable system in offering a game that effectively identifies the most committed and cognitively-capable students.** Arguably Synthesis can do this more effectively as a community than any individual could because they can avoid bias. A child might stand out as part of Synthesis regardless of whether they're going to Phillips Exeter Academy, working on a dairy farm in Poitou-Charentes, or selling solar lamps in Kampala.
 
 ### Replit
 
-Replit also came up in [my article last week](https://investing1012dot0.substack.com/p/renegade-spotlight-synthesis?s=w) because Amjad Masad, the CEO of Replit, co-led Synthesis' $12M round. [Amjad points to a critical vision](https://amasad.me/synthesis) where Replit and Synthesis are perfect complements.
+[[Replit]] also came up in [my article last week](https://investing1012dot0.substack.com/p/renegade-spotlight-synthesis?s=w) because [[Amjad Masad]], the CEO of Replit, co-led Synthesis' $12M round. [Amjad points to a critical vision](https://amasad.me/synthesis) where Replit and Synthesis are perfect complements.
 
 > *"Computers give humanity the power to solve some of the most critical problems our species has ever faced. However, until today, we have failed to leverage this unprecedented tool; we teach kids to be mere consumers of this powerful machine. **To change this, society needs three things: (1) access to the tool, (2) education in the complex skills necessary to use it, and (3) education in the problem-solving skills necessary to maximize the potential for human progress.** At Replit, we’re making computer programming accessible and learnable for anyone, no matter their background, location, or socio-economic status. That covers points 1 and 2, but what about point 3? We need a way to offer any kid from anywhere the opportunity to learn collaboration, critical thinking, and problem-solving so they can capitalize on the promise of computers. [That's where Synthesis comes in.]"*
 
@@ -105,7 +105,7 @@ Replit has grown to over 10M users and, as a product, attracts a "lover of the g
 
 > *"Repl.it is **not** a tool for building large-scale software. It's not for your legacy codebase. Repl.it is a tool for experimenting with new ideas. It's for being creative."*
 
-[In a deep dive](https://www.notboring.co/p/replit-remix-the-internet?s=r) on Replit that Packy McCormick did he described Replit's unique ethos as the result of feeling like a toy.
+[In a deep dive](https://www.notboring.co/p/replit-remix-the-internet?s=r) on Replit that [[Packy McCormick]] did he described Replit's unique ethos as the result of feeling like a toy.
 
 > *"Replit wants to build the future, and **to build the future, you don’t rebuild the old thing for the old customers**. You build something new that starts out [looking like a toy](https://cdixon.org/2010/01/03/the-next-big-thing-will-start-out-looking-like-a-toy/), and you build for the underserved, not just for moral reasons, but for strategic ones. It’s **disruptive innovation** meets the **compounding power of young users**. It’s more Roblox than Github".*
 
@@ -117,7 +117,7 @@ Replit has an unfair perspective on millions of builders based on their ability 
 
 ### Stripe, TikTok, and on and on
 
-There are countless other indexes worth thinking about. [Stripe](https://www.theinformation.com/articles/venture-capitalists-newest-threat-stripe?rc=ecjlpf) who, in addition to being an index bet on digital payments, is making an index bet on their people. Between Patrick and John Collison and Stripe directly they've invested in almost 100 companies, many of them founded by Stripe alumni. **Their talent funnel has given them a unique index on high quality people.** TikTok launched their [Creator Fund](https://newsroom.tiktok.com/en-us/introducing-the-200-million-tiktok-creator-fund) that quickly grew in expectation from $200M to $1B. **Their unique vantage point as a creator platform gives them the ability to build an index around the highest quality content producers** and then they can more effectively back those creators to increase the quality of the overall platform.
+There are countless other indexes worth thinking about. [Stripe](https://www.theinformation.com/articles/venture-capitalists-newest-threat-stripe?rc=ecjlpf) who, in addition to being an index bet on digital payments, is making an index bet on their people. Between Patrick and [[John Collison]] and Stripe directly they've invested in almost 100 companies, many of them founded by Stripe alumni. **Their talent funnel has given them a unique index on high quality people.** [[TikTok]] launched their [Creator Fund](https://newsroom.tiktok.com/en-us/introducing-the-200-million-tiktok-creator-fund) that quickly grew in expectation from $200M to $1B. **Their unique vantage point as a creator platform gives them the ability to build an index around the highest quality content producers** and then they can more effectively back those creators to increase the quality of the overall platform.
 
 ## What Does This Mean For Venture?
 
@@ -127,6 +127,6 @@ Don't get me wrong, I'm not a proponent of just index investing in private compa
 
 Building a community index isn't just a top of funnel mechanism. If Replit thought of their millions of creators as a simple means to an end but focused all their time, attention, and features on the "end," they would quickly frustrate and strangle the top. **A community index needs to be a product in itself in order to scale.** As a venture investor you need to identify the members of that community index and treat them like they're just as much of a customer as your portfolio founders.
 
-Supporting a community index means you're building products for these people that enable them to achieve their goals in life by participating. If its a talent network or an operator group or an angel syndicate -- whatever it is. The members of the index have to feel well served by what they're receiving. And **then** you have to figure out a way to capture value. Whether that's Synthesis inviting their best students into a new class, or Shopify investing in ([or buying](https://finance.yahoo.com/news/shopify-deliverr-acquisition-good-move-175116405.html)) the companies that most serve their ecosystem. **You're not only enabling the network within the index but you're also putting in place a mechanism for you to capture that value that gets created.**
+Supporting a community index means you're building products for these people that enable them to achieve their goals in life by participating. If its a talent network or an operator group or an angel syndicate -- whatever it is. The members of the index have to feel well served by what they're receiving. And **then** you have to figure out a way to capture value. Whether that's Synthesis inviting their best students into a new class, or [[Shopify]] investing in ([or buying](https://finance.yahoo.com/news/shopify-deliverr-acquisition-good-move-175116405.html)) the companies that most serve their ecosystem. **You're not only enabling the network within the index but you're also putting in place a mechanism for you to capture that value that gets created.**
 
 As the world continues to become more and more complicated VCs will frequently find themselves feeling like a 62-year old partner at a 50-year old venture firm trying to understand dogecoin unless they build community indexes of the best and brightest.

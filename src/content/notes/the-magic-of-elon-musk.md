@@ -37,7 +37,7 @@ related:
 ## Key claims
 
 - **Musk's standard of commitment is unachievable — and that's fine.** Average people are average because they prize deep relationships and share the same anxieties as everyone else; the drive for strong relationships is an integral part of the human condition. Aspiring to Musk's level is "both harmful and undesirable."
-- **One question drives him.** Musk judges his success by asking: *is my work helping humanity become a multi-planetary species?* (cf. Space Travel) Deep commitment and laser [Focus](/notes/focus) give him an unparalleled ability to out-work, out-think, and out-innovate everyone else.
+- **One question drives him.** Musk judges his success by asking: *is my work helping humanity become a multi-planetary species?* (cf. [Space Travel](/notes/space-travel)) Deep commitment and laser [Focus](/notes/focus) give him an unparalleled ability to out-work, out-think, and out-innovate everyone else.
 - **The drive is rooted in childhood trauma.** Verbal abuse from his father and physical abuse from peers sent Musk to the library for emotional safety; he read every book in both the local and school libraries, stoked by comics and sci-fi where a hero saves the world (cf. [Reading](/notes/reading)).
 - **He may simply not feel the pain** others would call a "uniquely human" experience — letting him ignore naysayers and push through.
 - **The causal chain:** "Goals breed commitment. Commitment breeds focus. Focus breeds achievement." ([Focus](/notes/focus))
@@ -59,4 +59,4 @@ related:
 - [David Perell](/notes/david-perell) — an early-career piece wrestling with the cost, not just the glory, of extreme ambition.
 - [Elon Musk](/notes/elon-musk) — the subject; the [Focus](/notes/focus) and pain-tolerance that define him.
 - [Reading](/notes/reading) — reading as both coping mechanism and the engine of Musk's range.
-- Space Travel — the multi-planetary mission that organizes everything he does.
+- [Space Travel](/notes/space-travel) — the multi-planetary mission that organizes everything he does.

@@ -17,7 +17,7 @@ substack_url: "https://investing101.substack.com/p/the-great-circle-of-life"
 
 ![The Great Circle of Life](/images/the-great-circle-of-life-d8accaae.png)
 
-> "Death begets death begets death." (Lorn au Arcos; Golden Son)
+> "Death begets death begets death." (Lorn au Arcos; [[Golden Son]])
 
 Technology has experienced any number of cycles. Some, like the internet and AI, have created super cycles that lead to massive speculative economic bubbles (e.g. the Dot Com and...whatever we're calling this). Others have created fertile playing fields, like SaaS and mobile.
 
@@ -31,9 +31,9 @@ Increasingly, those labels are meaningless. Every technology company uses the in
 
 ## Consumer Is Dead
 
-Consumer investing, arguably, lasted from 2005 (founding year of companies like Reddit and Yelp) to 2016 (founding year of TikTok). Since then, "consumer investors" have been desperately searching for the next great consumer platform. They tried D2C commerce, subscription boxes, scooters, incidental social, like BeReal, etc.
+Consumer investing, arguably, lasted from 2005 (founding year of companies like [[Reddit]] and [[Yelp]]) to 2016 (founding year of [[TikTok]]). Since then, "consumer investors" have been desperately searching for the next great consumer platform. They tried D2C commerce, subscription boxes, scooters, incidental social, like BeReal, etc.
 
-But, arguably, the only consumer platform to be build in the last 10 years, was ChatGPT. And most, if not all, of them missed it.
+But, arguably, the only consumer platform to be build in the last 10 years, was [[ChatGPT]]. And most, if not all, of them missed it.
 
 ## Software Is Dead
 
@@ -53,9 +53,9 @@ With AI, there are plenty of perma-bulls; horny for the latest doomer claim from
 
 And there are AI perma-bears who are convinced its fake, or simple, or incapable of ever driving real business value. They breathlessly share the latest stat of how little business ROI the most recent batch of AI projects are actually yielding.
 
-But even those less prone to shout "the emperor has no clothes" about AI seem intent to look for the signs of rigor mortis forming amidst the AI giants. Take, for example, OpenAI's stumbles over the last few weeks.
+But even those less prone to shout "the emperor has no clothes" about AI seem intent to look for the signs of rigor mortis forming amidst the AI giants. Take, for example, [[OpenAI]]'s stumbles over the last few weeks.
 
-In-chat shopping isn't converting the way they thought it would (so says their partners at Walmart), business adoption is slow (so they'll spend $10B with PE firms to deploy it), consumer adoption of ChatGPT has slowed (they thought they would blow past 1B users, but at EOY 2025, they slowed and have barely reached [900M](https://thunderbit.com/blog/chatgpt-adoption-statistics-business)).
+In-chat shopping isn't converting the way they thought it would (so says their partners at [[Walmart]]), business adoption is slow (so they'll spend $10B with PE firms to deploy it), consumer adoption of ChatGPT has slowed (they thought they would blow past 1B users, but at EOY 2025, they slowed and have barely reached [900M](https://thunderbit.com/blog/chatgpt-adoption-statistics-business)).
 
 So, now, they're starting to refocus the business. No more Stargate, no more in-house chips, internal hardware, etc. Even more telling, they're shifting focus away from consumer and going more all in on enterprise coding, where Anthropic has dominated.
 

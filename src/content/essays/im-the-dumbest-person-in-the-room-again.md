@@ -29,6 +29,6 @@ Learn to ask the best questions and to soak up everything you possibly can. As y
 
 [Lee Watanabe wrote a great piece](https://globaldigitalcitizen.org/the-importance-and-impact-of-asking-good-questions) focused on the importance of learning to ask the right questions. “Go forth and question. Be a 3-year old all over again. Love the discovery. Stay curious.”
 
-While at Amazon, I was exposed to their famous [leadership principles](https://www.amazon.jobs/principles), one of which is “Learn and Be Curious.” This doesn’t mean asking for step-by-step instructions. There is a balance between being the dumbest person in the room, and being a hard worker. You have to do as much as possible so that when you ask the questions, you’re known as someone who will legitimately learn, and not just use the answer as a handout that lets you avoid work.
+While at [[Amazon]], I was exposed to their famous [leadership principles](https://www.amazon.jobs/principles), one of which is “Learn and Be Curious.” This doesn’t mean asking for step-by-step instructions. There is a balance between being the dumbest person in the room, and being a hard worker. You have to do as much as possible so that when you ask the questions, you’re known as someone who will legitimately learn, and not just use the answer as a handout that lets you avoid work.
 
 As I start work at my new job, I’m eager to be the dumbest person in the room, because I’ve never learned more in any other situation.

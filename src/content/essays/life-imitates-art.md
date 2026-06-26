@@ -20,7 +20,7 @@ substack_url: "https://investing101.substack.com/p/life-imitates-art"
 
 # But First, A Movie Rant
 
-I feel like a perpetually disappointed nerd. Consistently excited by the newest thing / story / movie, but just... almost always bummed out by the result. The latest disappointment is just the trailer (not even the full movie) of a new sci-fi movie from Netflix called ATLAS.
+I feel like a perpetually disappointed nerd. Consistently excited by the newest thing / story / movie, but just... almost always bummed out by the result. The latest disappointment is just the trailer (not even the full movie) of a new sci-fi movie from [[Netflix]] called ATLAS.
 
 Who knows what the budget is, but it doesn't look cheap. And yet, in the year of our lord, 2024, we have dialogue from someone [criticizing](https://youtu.be/Jokpt_LJpbw?t=50) a futuristic robot for having a name because "you're a computer program."
 
@@ -66,7 +66,7 @@ Take, as just one recent example, the new movie that just came out, [Civil War](
 
 ![Source:Twitter](/images/life-imitates-art-a449318e.png)
 
-Now... I don't feel as strongly as Beff about this one. [I'm not an acceleration maxi](https://investing1012dot0.substack.com/p/its-time-to-build-but-build-what). Some of the best sci-fi I've ever seen is not optimistic. Some of my favorites, like [Children of Men](https://www.youtube.com/watch?v=2VT2apoX90o), [Idiocracy](https://www.youtube.com/watch?v=6lai9QhBibk), [Serenity](https://www.youtube.com/watch?v=w8JNjmK5lfk), or [Time Machine](https://www.youtube.com/watch?v=90T7iLuzFgg), are not exactly optimistic. Stories can be optimistic utopias or cautionary dystopias. As far as making good movies, and telling good stories, you can have compelling character arcs in both types of stories.
+Now... I don't feel as strongly as [[Beff Jezos|Beff]] about this one. [I'm not an acceleration maxi](https://investing1012dot0.substack.com/p/its-time-to-build-but-build-what). Some of the best sci-fi I've ever seen is not optimistic. Some of my favorites, like [Children of Men](https://www.youtube.com/watch?v=2VT2apoX90o), [Idiocracy](https://www.youtube.com/watch?v=6lai9QhBibk), [Serenity](https://www.youtube.com/watch?v=w8JNjmK5lfk), or [Time Machine](https://www.youtube.com/watch?v=90T7iLuzFgg), are not exactly optimistic. Stories can be optimistic utopias or cautionary dystopias. As far as making good movies, and telling good stories, you can have compelling character arcs in both types of stories.
 
 But I agree with the sentiment that **we don't have enough positive outlooks on the future upon which to draw inspiration**. And that's bad. That's bad for the dreamers who want to build a future. The world needs just as many storytellers as it does people to build those stories into reality.
 
@@ -82,7 +82,7 @@ Take one example with the movie [Her](https://www.youtube.com/watch?v=dJTU48_ygh
 
 # A Simple Idea
 
-That overview of Her reminds me of a great quote from Charlie Munger:
+That overview of Her reminds me of a great quote from [[Charlie Munger]]:
 
 *"Take one simple idea, and take it seriously."*
 

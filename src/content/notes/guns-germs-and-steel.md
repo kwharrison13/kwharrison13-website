@@ -23,7 +23,7 @@ related:
 
 # Guns, Germs, and Steel
 
-**Author:** Jared Diamond
+**Author:** [Jared Diamond](/notes/jared-diamond)
 
 **Why it's on the list:** *Argues that environmental and geographic factors, not innate differences, explain why some societies developed dominant technology, agriculture, and immunity to disease.*
 

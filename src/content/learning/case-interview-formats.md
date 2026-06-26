@@ -4,7 +4,7 @@ type: "learning"
 format: "guide"
 publish: false
 created: "2026-06-22"
-updated: "2026-06-22"
+updated: "2026-06-26"
 confidence: "high"
 description: "Victor Cheng's breakdown of the 7 case interview formats the major consulting firms use to evaluate candidates, the 6 skill areas they all test, and two schools of thought on how to prepare."
 sources:

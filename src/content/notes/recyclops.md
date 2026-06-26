@@ -4,7 +4,7 @@ type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-18"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Kyle's manual link/reading capture — June 18, 2026 (batch import from saved bookmarks)"
@@ -17,14 +17,10 @@ related:
 
 # Recyclops
 
-_Stub — concept captured from Kyle's manual link/reading capture on June 18, 2026. The links below are sources Kyle saved to explore this topic; not yet synthesized._
+A company captured under Kyle's [Recycling](/notes/recycling) interest during his June 18, 2026 batch import of saved bookmarks. The grounding evidence is thin: it sits alongside a saved CNBC piece on robots being used to help solve America's recycling crisis. The capture has not yet been synthesized into a thesis; Recyclops is parked here as a watchlist-style company tied to the recycling/waste theme.
 
-## Quick Capture links — June 18, 2026
+**Context:** Recyclops is a US recycling-and-waste startup that extends curbside-style recycling pickup to areas (often rural or underserved suburbs) where municipal curbside service is unavailable, using a network of local drivers.
 
-_Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
+## Where this appears
 
-- https://www.cnbc.com/amp/2019/07/26/meet-the-robots-being-used-to-help-solve-americas-recycling-crisis.html — CNBC: meet the robots helping solve America's recycling crisis. #[Recycling](/notes/recycling)
-
-## Related concepts
-
-- [Recycling](/notes/recycling)
+- [Recycling](/notes/recycling) — captured under the recycling theme; saved alongside a CNBC article on robotics in the US recycling crisis.

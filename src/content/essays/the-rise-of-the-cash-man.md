@@ -18,9 +18,9 @@ substack_url: "https://investing101.substack.com/p/the-rise-of-the-cash-man"
 
 ![Header image for The Rise of The Cash Man](/images/the-rise-of-the-cash-man-8e75d193.png)
 
-I think it will surprise no one to find that the best place to start writing about a venture-backed Adam Neumann fever dream is with Disneyland. 😉
+I think it will surprise no one to find that the best place to start writing about a venture-backed [[Adam Neumann]] fever dream is with [[Disneyland]]. 😉
 
-While Walt Disney gets credit for doing a lot of different things, one of the most significant undertakings he pursued was building the City of the Future. But the EPCOT (Experimental Prototype Community of Tomorrow) of today is a shadow of what Walt Disney envisioned it to be. A city with layers of living and transportation like nothing we have in any city today.
+While [[Walt Disney]] gets credit for doing a lot of different things, one of the most significant undertakings he pursued was building the City of the Future. But the [[EPCOT]] (Experimental Prototype Community of Tomorrow) of today is a shadow of what Walt Disney envisioned it to be. A city with layers of living and transportation like nothing we have in any city today.
 
 ![Illustration from The Rise of The Cash Man](/images/the-rise-of-the-cash-man-5aa28683.png)
 
@@ -30,9 +30,9 @@ I've been obsessed with the space-making that Walt Disney built into all his par
 
 Ever since then I've thought often about city building, urban planning, and I’ll read books like [Walt Disney and the Promise of Progress City](https://www.amazon.com/Walt-Promise-Progress-City-Gennawey/dp/0615540244). And Walt Disney wasn't alone. There is something primal about the desire to build the optimal living space. The ideal ecosystem for humans to have community, convenience, and culture that very few cities have been able to nail.
 
-Whether it's Marc Lore [building a utopia](https://www.usatoday.com/story/news/nation/2021/10/17/how-billionaire-marc-lore-plans-create-utopian-desert-city-telosa/5991523001/) or Bill Gates [building in Arizona](https://hwy.co/bill-gates-smart-city-in-arizona/). The Saudi Arabian government [building a Line](https://www.neom.com/en-us/regions/theline) in the desert or India [trying to retrofit 100 smart cities](https://en.wikipedia.org/wiki/Smart_Cities_Mission). A lot of people have this desire to build the optimal living space. And Adam Neumann happens to be the latest one.
+Whether it's Marc Lore [building a utopia](https://www.usatoday.com/story/news/nation/2021/10/17/how-billionaire-marc-lore-plans-create-utopian-desert-city-telosa/5991523001/) or [[Bill Gates]] [building in Arizona](https://hwy.co/bill-gates-smart-city-in-arizona/). The Saudi Arabian government [building a Line](https://www.neom.com/en-us/regions/theline) in the desert or India [trying to retrofit 100 smart cities](https://en.wikipedia.org/wiki/Smart_Cities_Mission). A lot of people have this desire to build the optimal living space. And Adam Neumann happens to be the latest one.
 
-And honestly? That's not a surprising vision for what he would try to do next (dramatically less surprising than a [blockchain-powered carbon market](https://www.flowcarbon.com/knowcarbon/flowcarbon-raises-70m-to-tokenize-carbon-credits-and-build-an-on-chain-market)). Neumann grew up on a [kibbutz](https://en.wikipedia.org/wiki/Kibbutz) as a child, an intentional community in Israel. He talked about it often as his inspiration for WeWork and how that expanded his vision into WeLive and WeLearn.
+And honestly? That's not a surprising vision for what he would try to do next (dramatically less surprising than a [blockchain-powered carbon market](https://www.flowcarbon.com/knowcarbon/flowcarbon-raises-70m-to-tokenize-carbon-credits-and-build-an-on-chain-market)). Neumann grew up on a [kibbutz](https://en.wikipedia.org/wiki/Kibbutz) as a child, an intentional community in Israel. He talked about it often as his inspiration for [[WeWork]] and how that expanded his vision into WeLive and WeLearn.
 
 Now? Rather than starting at Work and taking it Home, he's going right to the Home.
 
@@ -42,7 +42,7 @@ In case you have no idea what I'm talking about (and if so, bless your soul) [Ad
 
 Almost immediately the memes and hot takes started rolling in.
 
-But this isn't just a crazy meme story. This is an important opportunity to have a lot of different conversations. **It is for moments like these that I appreciate being on Twitter because it gets me out of my echo chamber and exposes me to a lot of different perspectives** from both bulls and bears. So what were the most common discussion topics?
+But this isn't just a crazy meme story. This is an important opportunity to have a lot of different conversations. **It is for moments like these that I appreciate being on [[Twitter]] because it gets me out of my echo chamber and exposes me to a lot of different perspectives** from both bulls and bears. So what were the most common discussion topics?
 
 ## "Why does Adam Neumann get to fail up?"
 
@@ -58,7 +58,7 @@ As a result it starts to feel like more of the same. Big corporate real estate o
 
 ## "This is a fundamental misunderstanding of the residential real estate market"
 
-I love following real estate Twitter (ReTwit) because it keeps me grounded as a VC. What those folks do is very difficult, messy, and gets very little pomp and circumstance. There were a lot of takes from exceptional real estate investors. The best summary I saw was from Moses Kagan; effectively saying “this is hard. And if you try and make it not hard? Then you make it bad."
+I love following real estate Twitter (ReTwit) because it keeps me grounded as a VC. What those folks do is very difficult, messy, and gets very little pomp and circumstance. There were a lot of takes from exceptional real estate investors. The best summary I saw was from [[Moses Kagan]]; effectively saying “this is hard. And if you try and make it not hard? Then you make it bad."
 
 In the words of an anonymous twitter account (who is both very funny and very grumpy):
 
@@ -66,17 +66,17 @@ In the words of an anonymous twitter account (who is both very funny and very gr
 
 ## "Marc Andreessen is a hypocrite"
 
-Recently Marc Andreessen came under fire for [strongly opposing](https://www.bloomberg.com/news/articles/2022-08-05/vc-marc-andreessen-opposes-plan-for-multi-family-atherton-housing) the building of housing in his hometown of Atherton. One of the biggest causes that exacerbates the housing shortage is wealthy people not wanting more homes to be built in the places people most want to live.
+Recently [[Marc Andreessen]] came under fire for [strongly opposing](https://www.bloomberg.com/news/articles/2022-08-05/vc-marc-andreessen-opposes-plan-for-multi-family-atherton-housing) the building of housing in his hometown of Atherton. One of the biggest causes that exacerbates the housing shortage is wealthy people not wanting more homes to be built in the places people most want to live.
 
 ## "This is a $350M marketing expense"
 
 [Eric Newcomer's take](https://www.newcomer.co/p/can-a-zebra-change-its-stripes) on the bet for a16z as a firm was one of the best articulated in terms of strategic advantage:
 
-> *"This whole saga has been great strategic positioning for the firm. **What Andreessen Horowitz has always understood better than anyone else is that the main audience for their marketing is founders.** So even if the masses find investing in Neumann distasteful, this sends a clear message to prospective founders that a16z wants to back the bold. And founders are the ones who can generate the billions in returns for Andreessen Horowitz that the firm needs to be successful."*
+> *"This whole saga has been great strategic positioning for the firm. **What [[a16z|Andreessen Horowitz]] has always understood better than anyone else is that the main audience for their marketing is founders.** So even if the masses find investing in Neumann distasteful, this sends a clear message to prospective founders that a16z wants to back the bold. And founders are the ones who can generate the billions in returns for Andreessen Horowitz that the firm needs to be successful."*
 
-He even points to one black eye that a16z has in their experience with Parker Conrad when they invested in Zenefits:
+He even points to one black eye that a16z has in their experience with Parker Conrad when they invested in [[Zenefits]]:
 
-> *"In fact, one of the most compelling Silicon Valley redemption arcs has involved a former Andreessen Horowitz founder. The firm ousted Parker Conrad from Zenefits only to watch Kleiner Perkins, Founders Fund, and Sequoia Capital invest in Conrad’s subsequent company, Rippling. Valued at $11.25 billion in May, Rippling is worth more than Zenefits ever was."*
+> *"In fact, one of the most compelling [[Silicon Valley]] redemption arcs has involved a former Andreessen Horowitz founder. The firm ousted Parker Conrad from Zenefits only to watch [[Kleiner Perkins]], [[Founders Fund]], and [[Sequoia|Sequoia Capital]] invest in Conrad’s subsequent company, Rippling. Valued at $11.25 billion in May, Rippling is worth more than Zenefits ever was."*
 
 Backing someone like Adam Neumann is no better counter example to what happened with Parker Conrad. The ultimate marketing campaign to reinforce how "founder friendly" they are... whatever that means in this scenario.
 
@@ -86,7 +86,7 @@ This was my least favorite take. Trying to brush aside WeWorks implosion as "so 
 
 Some numbers. WeWork raised $12B+ in equity and $9B+ in debt. Over $20B went into that "economic engine." Guess how much is left. $600M. They have $600M in cash on the balance sheet today. So what kind of output came from that $20B input? A business that is (1) declining in revenue growth (dropping from $3.4B to $2.5B in revenue during 2021), and (2) is still **to this day** losing $4.4B to generate that $2.5B in revenue.\*
 
-If you give me $100M and I go pay people $2 to give me $1 in revenue I'd go from $0 to $50M in revenue real quick. Everett Randle at Founders Fund said it even better:
+If you give me $100M and I go pay people $2 to give me $1 in revenue I'd go from $0 to $50M in revenue real quick. [[Everett Randle]] at Founders Fund said it even better:
 
 # Disclaimers, Caveats, and Concessions
 
@@ -217,7 +217,7 @@ Now for a lot of my FinTwit colleagues I know they’re reeling right now. The a
 
 > *“It's like, if I came to you and said ‘I'm going to take over the restaurant industry. I currently have five restaurants, but I'm going to offer every food imaginable. I'll be Le Bernardin, but with Chipotle service, and drive thrus like McDonald’s’”*
 
-I don’t disagree that the investment case is really difficult to make. But in a world of music label cabals, do you think a $10B revenue case for Spotify when they started out sounded sane? Or how [in 2007](https://twitter.com/dollarsanddata/status/1506249820050280454?s=20&t=S4OeCuihXMGeFV2dKrrP5A) analysts predicted Amazon would have ~$30B of revenue in 2020 and Amazon went on to generate $386B in 2020.
+I don’t disagree that the investment case is really difficult to make. But in a world of music label cabals, do you think a $10B revenue case for Spotify when they started out sounded sane? Or how [in 2007](https://twitter.com/dollarsanddata/status/1506249820050280454?s=20&t=S4OeCuihXMGeFV2dKrrP5A) analysts predicted [[Amazon]] would have ~$30B of revenue in 2020 and Amazon went on to generate $386B in 2020.
 
 If it works? It will still have sounded crazy. If it doesn’t work? We’ll all jump around saying, “I told you so.” [We’ll let the outcome dictate what we “actually” thought.](https://investing1012dot0.substack.com/p/the-outcome-distortion-complex)
 
@@ -233,7 +233,7 @@ They’re a phenomenal business, some of the very best. And that outcome already
 
 # Parting Thoughts
 
-Again, for me personally? I don’t buy it. I wouldn’t have made this bet. But I try to avoid raining on anyones hustle (though sometimes it’s hustle and sometimes [it’s A hustle](https://twitter.com/bigblackjacobin/status/1559210611812306947?s=20&t=ckmniEB44gICxGYecUFtIA).) I know [the housing market is incredibly riddled with problems](https://medium.com/@laurenself/why-i-a-female-millennial-fintech-founder-am-excited-about-adam-neumanns-new-startup-4f5b85fb1a6) and I would love to see it improved. The idealistic dreamer in me remembers the spiritual experiences I’ve had walking through the ethereal halls of the Disney kingdoms. I would love to see a revolutionary new way of living and connecting with our community. So I wish them the best, and pray they do as little harm to the little guys and gals.
+Again, for me personally? I don’t buy it. I wouldn’t have made this bet. But I try to avoid raining on anyones hustle (though sometimes it’s hustle and sometimes [it’s A hustle](https://twitter.com/bigblackjacobin/status/1559210611812306947?s=20&t=ckmniEB44gICxGYecUFtIA).) I know [the housing market is incredibly riddled with problems](https://medium.com/@laurenself/why-i-a-female-millennial-fintech-founder-am-excited-about-adam-neumanns-new-startup-4f5b85fb1a6) and I would love to see it improved. The idealistic dreamer in me remembers the spiritual experiences I’ve had walking through the ethereal halls of the [[Disney]] kingdoms. I would love to see a revolutionary new way of living and connecting with our community. So I wish them the best, and pray they do as little harm to the little guys and gals.
 
 One parting thought from me. I think overall we could do a better job of building companies that meet reality between the atoms and the bits. There are plenty of problems in the physical world that could benefit from digital solutions.
 

@@ -53,9 +53,9 @@ The stories are also incredibly compelling. The podcast shares stories of an aut
 
 Second, towards the end of [episode two](https://youtu.be/wqbsSjfeBEQ?t=2336), she hooked me with a framework that I've felt partial too myself. Magic is just science that we don't understand yet.
 
-She shared the story of the poet John Keats saying that Isaac Newton was destroying the poetry and wonder of the rainbow by reducing it to just being a prism of colors.
+She shared the story of the poet John Keats saying that [[Isaac Newton]] was destroying the poetry and wonder of the rainbow by reducing it to just being a prism of colors.
 
-She shared other examples of scientific breakthroughs that are first met with skepticism. Galileo and the sun as the center of the solar system. Gregor Mendel and the theory of genetics.
+She shared other examples of scientific breakthroughs that are first met with skepticism. [[Galileo Galilei|Galileo]] and the sun as the center of the solar system. Gregor Mendel and the theory of genetics.
 
 As the host of the podcast declared, "Many scientific breakthroughs that are rejected or ignored by academics and the public when introduced eventually become accepted as empirical truths about our world."
 
@@ -91,7 +91,7 @@ So, if The Telepathy Tapes are filled with demonstrations of these skills, what 
 
 ## The Credibility of the Creators
 
-The final nail in the coffin was the behavior and reputation of many of the key voices in the podcast. The creators of the show were actively [pursuing](https://skepticalinquirer.org/exclusive/the-telepathy-tapes-tries-to-silence-a-critic-and-fails/) take-down actions on small YouTube channels with ~500 subscribers, attempting to demonstrate some of the well-worn arguments against FC that are present in the Telepathy Tapes videos, despite those channels being well with their fair-use rights.
+The final nail in the coffin was the behavior and reputation of many of the key voices in the podcast. The creators of the show were actively [pursuing](https://skepticalinquirer.org/exclusive/the-telepathy-tapes-tries-to-silence-a-critic-and-fails/) take-down actions on small [[YouTube]] channels with ~500 subscribers, attempting to demonstrate some of the well-worn arguments against FC that are present in the Telepathy Tapes videos, despite those channels being well with their fair-use rights.
 
 What's more, the primary scientists involved in the tests pursued on the show include Diane Hennacy Powell who previously lost her medical license, is an active anti-vaxxer, and [hasn't](https://skepticalinquirer.org/exclusive/the-telepathy-tapes-a-dangerous-cornucopia-of-pseudoscience/) published any empirical studies or peer-reviewed research, and one of her only academic roles is as the Director of Research for an institute named for a famous proponent of alien abductions.
 

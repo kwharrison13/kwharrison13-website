@@ -10,7 +10,7 @@ substack_url: "https://investing101.substack.com/p/the-sine-waves-of-creativity"
 
 ![Header image for The Sine Waves of Creativity](/images/the-sine-waves-of-creativity-73aaa1df.png)
 
-This week marks the 126th week in a row I've written something on Substack. And I'm the first person to say they're not all winners. But when I started writing at the beginning of 2022, I knew that I would fail if I was too focused on the quality of writing, or the response online. So I set only one goal. Don't miss a week. And thus far I haven't.
+This week marks the 126th week in a row I've written something on [[Substack]]. And I'm the first person to say they're not all winners. But when I started writing at the beginning of 2022, I knew that I would fail if I was too focused on the quality of writing, or the response online. So I set only one goal. Don't miss a week. And thus far I haven't.
 
 But I'll tell you what, it can be an exhausting experience. Each week I wonder more and more what I'll write about. It's not that I don't have stuff that I WANT to write about. Its more a function of capacity.
 

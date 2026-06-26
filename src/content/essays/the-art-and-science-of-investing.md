@@ -11,7 +11,7 @@ substack_url: "https://investing101.substack.com/p/the-art-and-science-of-invest
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/productization">The Productization of Venture Capital</a>, <a href="/essays/having-a-conversation-with-yourself">Having a Conversation With Yourself: 2022</a>, <a href="/essays/of-things-that-matter-most">Of Things That Matter Most</a>, <a href="/essays/the-mysteries-of-an-economic-engine">The Mysteries of an Economic Engine</a>, <a href="/essays/the-diligence-thats-due">The Diligence That's Due</a>, <a href="/essays/the-tales-of-their-usefulness-have">The Tales of Usefulness Have Been Greatly Exaggerated</a>, <a href="/essays/the-rise-of-the-cash-man">The Rise of The Cash Man</a>, <a href="/essays/stewards-of-capital">Stewards of Capital</a>, <a href="/essays/fantasy-capital">Fantasy Capital</a>, <a href="/essays/the-reality-of-unrealistic-outliers">The Reality of Unrealistic Outliers</a>, <a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/markets-markets-and-markets">Markets, Markets, and Markets</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/investing-101">Investing 101</a>, <a href="/essays/productization">The Productization of Venture Capital</a>, <a href="/essays/having-a-conversation-with-yourself">Having a Conversation With Yourself: 2022</a>, <a href="/essays/of-things-that-matter-most">Of Things That Matter Most</a>, <a href="/essays/the-mysteries-of-an-economic-engine">The Mysteries of an Economic Engine</a>, <a href="/essays/the-diligence-thats-due">The Diligence That's Due</a>, <a href="/essays/the-tales-of-their-usefulness-have">The Tales of Usefulness Have Been Greatly Exaggerated</a>, <a href="/essays/the-rise-of-the-cash-man">The Rise of The Cash Man</a>, <a href="/essays/stewards-of-capital">Stewards of Capital</a>, <a href="/essays/fantasy-capital">Fantasy Capital</a>, <a href="/essays/the-reality-of-unrealistic-outliers">The Reality of Unrealistic Outliers</a>, <a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/markets-markets-and-markets">Markets, Markets, and Markets</a></span></div>
 </aside>
 <!-- connections-end -->
 
@@ -27,9 +27,9 @@ The poem is called "[The Calf Path](https://poets.org/poem/calf-path)," and it s
 
 [I've written before](https://investing1012dot0.substack.com/p/productization) about this idea of why we do the things we do.
 
-> *"To understand why you do something today you sometimes need only look at how it got started. Humans are creatures of habit, so **a lot of times we do things in large part because that's the way we started doing them. My Dad calls it the SALY principle (Same As Last Year).**"*
+> *"To understand why you do something today you sometimes need only look at how it got started. Humans are creatures of habit, so **a lot of times we do things in large part because that's the way we started doing them. My Dad calls it the [[SALY Principle|SALY principle]] (Same As Last Year).**"*
 
-As I [reflect](https://investing1012dot0.substack.com/p/having-a-conversation-with-yourself) on a year of writing Investing 101, I'm reminded of what originally drew me to this title for my writing: [Investing 101 2.0](https://investing1012dot0.substack.com/). And I'll stop you right there. No one really likes the name. It's a mouth full, and the branding is pretty confusing. I usually just shorten it to "Investing 101." Maybe some day I'll change it, but for now I came back to what intrigued me about the name.
+As I [reflect](https://investing1012dot0.substack.com/p/having-a-conversation-with-yourself) on a year of writing Investing 101, I'm reminded of what originally drew me to this title for my writing: [Investing 101 2.0](https://investing1012dot0.substack.com/). And I'll stop you right there. No one really likes the name. It's a mouth full, and the branding is pretty confusing. I usually just shorten it to "[[Investing 101]]." Maybe some day I'll change it, but for now I came back to what intrigued me about the name.
 
 ![Illustration for The Calf Path section](/images/the-art-and-science-of-investing-fdb3a42c.png)
 
@@ -47,11 +47,11 @@ And a lot of my writing has covered the myriad of reasons why the pursuit of tha
 
 # First? The 101.
 
-[I've quoted a great line](https://investing1012dot0.substack.com/p/the-reality-of-unrealistic-outliers) from Walter Isaacson's biography of Leonardo da Vinci before when it comes to a beginner's mind disrupting a craft:
+[I've quoted a great line](https://investing1012dot0.substack.com/p/the-reality-of-unrealistic-outliers) from [[Walter Isaacson]]'s biography of Leonardo da Vinci before when it comes to a beginner's mind disrupting a craft:
 
 > *"The Last Supper is a mix of scientific perspective and theatrical license, of intellect and fantasy, worthy of Leonardo. His study of perspective science had not made him rigid or academic as a painter. Instead, it was complemented by the cleverness and ingenuity he had picked up as a stage impresario. **Once he knew the rules, he became a master at fudging and distorting them**."*
 
-Being a constant student of the world around you is one of the most effective ways to identify opportunities for change. Creativity. Evolution. Jeff Bezos is famous for his commitment to this mentality of "always being at the beginning." In his [2016 investor letter](https://s2.q4cdn.com/299287126/files/doc_financials/annual/2016-Letter-to-Shareholders.pdf), he talked about the difference between Day 1 and Day 2 that has made up his constant appetite for experimentation:
+Being a constant student of the world around you is one of the most effective ways to identify opportunities for change. Creativity. Evolution. [[Jeff Bezos]] is famous for his commitment to this mentality of "always being at the beginning." In his [2016 investor letter](https://s2.q4cdn.com/299287126/files/doc_financials/annual/2016-Letter-to-Shareholders.pdf), he talked about the difference between [[Day 1]] and Day 2 that has made up his constant appetite for experimentation:
 
 > *"**Staying in Day 1 requires you to experiment patiently**, accept failures, plant seeds, protect saplings, and double down when you see [success]. **Day 2 is stasis**. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death. And that is why it is always Day 1.”*
 
@@ -59,7 +59,7 @@ Investing is the same way. When I first told some people I wanted to frame my wr
 
 For one thing, the world is constantly changing. We're on [internet time](https://twitter.com/balajis/status/1496359908563992579?s=20). Many aspects of the world in 2023 would be incomprehensible to people in the 1950's. And what's more, regardless of technology, the reality of every investment decision will always be different. **Investors who think of themselves as life-long learners will adjust easily. For those convinced they've already skipped ahead to Investing 102? They'll be in for a rude awakening.**
 
-Charlie Munger is considered one of the "philosopher kings" of the investing world—and he talks about learning *constantly*. In a [2007 commencement address](https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger) at USC he talked about Confucius, and Max Planck, but one quote from Epictetus struck me:
+[[Charlie Munger]] is considered one of the "philosopher kings" of the investing world—and he talks about learning *constantly*. In a [2007 commencement address](https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger) at USC he talked about [[Confucius]], and [[Max Planck]], but one quote from [[Epictetus]] struck me:
 
 **“It is impossible to begin to learn that which one thinks one already knows.”**
 
@@ -73,7 +73,7 @@ To return to the Isaacson quote about Da Vinci, "Once he knew the rules, he beca
 
 I would argue that almost every disruption in any industry came as the result of a student who studied closely enough to realize when the lessons were off. Going back to my Dad's SALY principle (I say it out loud like 'Sally'). A student can dig into something like [the steel industry](https://www.newyorker.com/magazine/2012/05/14/when-giants-fail) and say, "why do we do it that way?" And the answer might be, "because that's how we did it last year." But when you dig in, you start to see cracks. "Well it was stupid last year. And just because we did it last year, doesn't mean it's less stupid to do it that way this year." That's where disruptions come from.
 
-[I've written before](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital) about the opportunities that arise from these cracks in logic. Don Valentine put it so well when it comes to the "confusion" he looked for behind the companies to back.
+[I've written before](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital) about the opportunities that arise from these cracks in logic. [[Don Valentine]] put it so well when it comes to the "confusion" he looked for behind the companies to back.
 
 > *"One of our theories is to seek out opportunities where there's a major change. Major dislocation in the way things are. **Wherever there's turmoil, there's indecision. And wherever there's indecision, there's opportunity.** When it becomes obvious to anyone who reads Time magazine that it's useful to have a disk drive on a computer, then it's already too late in the cycle. So we look for the confusion when the big companies are confused. When the other venture groups are confused. That's the time to start companies."*
 
@@ -98,7 +98,7 @@ At least as far as I know, time only moves in one direction: forward. So time wi
 
 Progress is most often proactive, not inevitable. We can say, "obviously, in 50 years things will be better than they are now. But will they? It took mankind [4x](https://www.quora.com/It-took-humanity-approximately-4-times-longer-to-switch-from-copper-swords-to-steel-swords-than-it-took-to-switch-from-steel-swords-to-nuclear-bombs-What-s-another-Let-that-sink-in-fact) longer to switch from copper swords to steel swords than it did to switch from steel swords to nuclear bombs. So it got faster, but is that progress? Are we moving faster towards progress? Or apocalyptic doom? The dark ages happened, in spite of previous progress. Declines *can* happen. **Things could get worse before they get better.**
 
-In the world building startups, I often [come back](https://investing1012dot0.substack.com/p/markets-markets-and-markets) to this quote from Alan Kay.
+In the world building startups, I often [come back](https://investing1012dot0.substack.com/p/markets-markets-and-markets) to this quote from [[Alan Kay]].
 
 ***"The best way to predict the future is to invent it."***
 

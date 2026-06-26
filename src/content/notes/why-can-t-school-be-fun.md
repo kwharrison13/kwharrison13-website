@@ -44,7 +44,7 @@ related:
 - **We need more choice.** Americans get freedom of choice from airlines to toothpaste but a monolithic school system that hinders its imaginative constituents.
 - **Automation raises the stakes.** Computers will automate mindless tasks, "spelling the end of the menial jobs school prepares its students for" — 47% of jobs could be automated within two decades ([Automation](/notes/automation)). Schools should raise **global citizens**, not robotic conformists.
 - **[Montessori](/notes/montessori) points the way.** Intellectual and physical freedom, growth through trial and error instead of instruction, mixed-age interaction, no grades — a liberating system that nurtures imagination and an entrepreneurial spirit.
-- **Concrete reforms:** flipped classrooms (lectures at home, teachers as coaches, the best lectures distributed at zero marginal cost — [Teacher Celebrities](/notes/teacher-celebrities)); long-term group projects with real responsibilities ([Sora Schools](/notes/sora-schools), project-based learning); learning by **teaching others**; and protected time to pursue subjects independently.
+- **Concrete reforms:** flipped classrooms (lectures at home, teachers as coaches, the best lectures distributed at zero marginal cost — [Teacher Celebrities](/notes/teacher-celebrities)); long-term group projects with real responsibilities ([Sora Schools](/notes/sora-schools), [project-based learning](/notes/project-based-learning)); learning by **teaching others**; and protected time to pursue subjects independently.
 
 ## Notable quotes
 
@@ -61,6 +61,6 @@ related:
 ## How it connects
 
 - [David Perell](/notes/david-perell) — an early-career education piece, the most fully argued of his student-era reform writing.
-- [Alternative Education](/notes/alternative-education) / [Montessori](/notes/montessori) / [Sora Schools](/notes/sora-schools) / project-based learning — the models for trial-and-error, imagination-first schooling.
+- [Alternative Education](/notes/alternative-education) / [Montessori](/notes/montessori) / [Sora Schools](/notes/sora-schools) / [project-based learning](/notes/project-based-learning) — the models for trial-and-error, imagination-first schooling.
 - [Automation](/notes/automation) — the labor-market pressure that makes the reform urgent.
 - [Historical Futurism](/essays/historical-futurism) — the lens schools lack: reading trends forward instead of teaching for the past.

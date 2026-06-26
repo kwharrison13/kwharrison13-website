@@ -12,14 +12,15 @@ tags: []
 aliases:
   - "Feminism"
   - "feminism"
-related: []
+related:
+  - "[[Becoming]]"
 reference_count: 1
 ---
 
 # Feminism
 
-_Stub page — auto-generated from a Roam-style hashtag (`#feminism`). Not yet written. Referenced in **1** book page._
+A recurring tag Kyle applies to passages in [Becoming](/books/becoming), Michelle Obama's memoir. It marks the book's treatment of how women's voices get dismissed in public life — most pointedly the highlight "The easiest way to disregard a woman's voice is to package her as a scold," which Kyle flags with `#feminism`. In the wiki it sits alongside the book's other recurring tags (#[Black Lives Matter](/notes/black-lives-matter), `#diversity`, `#voting`), part of the social-and-civic thread running through Kyle's reading of the memoir.
 
 ## Where this appears
 
-- [Becoming](/books/becoming)
+- [Becoming](/books/becoming) — Kyle's `#feminism` tag on Michelle Obama's line that "the easiest way to disregard a woman's voice is to package her as a scold," among the memoir's recurring civic/social tags.

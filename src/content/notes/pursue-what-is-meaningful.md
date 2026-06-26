@@ -8,7 +8,7 @@ url: "https://www.perell.com/blog/meaningful"
 source_published: "2017"
 confidence: "high"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/archive/clippings/Pursue What Is Meaningful.md"
@@ -35,9 +35,9 @@ related:
 ## Key claims
 
 - **Life is suffering** — the most fundamental, irrefutable truth, going back to the beginning of recorded history and scripture. [2 Nephi 2](/notes/2-nephi-2):11: "there is an opposition in all things."
-- **Sacrifice now, gain later.** This idea is not innate — it had to be discovered. [Jordan Peterson](/notes/jordan-peterson) in 12 Rules for Life: sacrifice acts out the proposition that "something better might be attained in the future by giving up something of value in the present."
+- **Sacrifice now, gain later.** This idea is not innate — it had to be discovered. [Jordan Peterson](/notes/jordan-peterson) in [12 Rules for Life](/notes/12-rules-for-life): sacrifice acts out the proposition that "something better might be attained in the future by giving up something of value in the present."
 - **Reality is structured as if it can be bargained with.** "Long ago… we began to realize that reality was structured as if it could be bargained with" — behaving properly now can bring rewards in a future that does not yet exist.
-- **Meaning over expediency.** In the midst of his suffering, seconds before death, Socrates places meaning over expediency and dies in the name of truth.
+- **Meaning over expediency.** In the midst of his suffering, seconds before death, [Socrates](/notes/socrates) places meaning over expediency and dies in the name of truth.
 - **The compressed teaching** (Peterson): *Pursue what is meaningful, not what is expedient.*
 
 ## Notable quotes
@@ -50,6 +50,6 @@ related:
 
 ## How it connects
 
-- [Jordan Peterson](/notes/jordan-peterson) / 12 Rules for Life — the central source on sacrifice and meaning.
+- [Jordan Peterson](/notes/jordan-peterson) / [12 Rules for Life](/notes/12-rules-for-life) — the central source on sacrifice and meaning.
 - [2 Nephi 2](/notes/2-nephi-2) — the "opposition in all things" scripture Perell pairs with Peterson.
 - [David Perell](/notes/david-perell) — his compression instinct distilling a worldview to a single sentence.

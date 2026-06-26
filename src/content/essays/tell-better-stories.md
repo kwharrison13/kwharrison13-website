@@ -32,7 +32,7 @@ Burns’ point in emphasizing that line was this idea that history shows us how 
 
 Despite any asterisks of character or faults of the founders, the primary virtue that they embodied was the willingness to “risk their lives and their fortunes and their sacred honor” in pursuit of a cause in which they believed.
 
-But one of the things that is most powerful about that narrative that they unleashed is housed in the very first sentence of the second paragraph of the Declaration of Independence. A sentence that Walter Isaacson literally just wrote an [entire book](https://www.amazon.com/Greatest-Sentence-Ever-Written/dp/1982181311) about, calling it “the greatest sentence ever written.”
+But one of the things that is most powerful about that narrative that they unleashed is housed in the very first sentence of the second paragraph of the [[Declaration of Independence]]. A sentence that [[Walter Isaacson]] literally just wrote an [entire book](https://www.amazon.com/Greatest-Sentence-Ever-Written/dp/1982181311) about, calling it “the greatest sentence ever written.”
 
 > *“**We hold these truths to be self-evident, that all men are created equal**, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.”*
 
@@ -46,11 +46,11 @@ That’s the power of an exceptional story. It can extend further than you could
 
 # Being An American
 
-In Ken Burns’ documentary, George Washington is clearly the main character. And one of the most powerful capabilities that Burns emphasized for Washington was as a storyteller or sorts:
+In Ken Burns’ documentary, [[George Washington]] is clearly the main character. And one of the most powerful capabilities that Burns emphasized for Washington was as a storyteller or sorts:
 
 > *“[George Washington] was able to convince a Georgian and New Hampshirite that what they call their country, Georgia or New Hampshire, is **actually a state in a new thing. And that you’re an American; that you share something in common**.”*
 
-That sentiment has carried forward through several iterations of America as a concept. The famous farewell [address](https://www.reaganlibrary.gov/archives/speech/remarks-presentation-ceremony-presidential-medal-freedom-5) of Ronald Reagan often gets shared on social media, with this line in particular:
+That sentiment has carried forward through several iterations of America as a concept. The famous farewell [address](https://www.reaganlibrary.gov/archives/speech/remarks-presentation-ceremony-presidential-medal-freedom-5) of Ronald Reagan often gets shared on [[Social Media|social media]], with this line in particular:
 
 > *“A man wrote me and said: “You can go to live in France, but you cannot become a Frenchman. You can go to live in Germany or Turkey or Japan, but you cannot become a German, a Turk, or a Japanese. **But anyone, from any corner of the Earth, can come to live in America and become an American**.”*
 

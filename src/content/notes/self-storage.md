@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
@@ -16,7 +16,7 @@ related: []
 
 # Self-Storage
 
-_Stub — concept captured from Kyle's June 29th, 2021 Roam "Quick Capture" reading log. The links below are sources Kyle saved to explore this topic; not yet synthesized._
+Self-storage and on-demand storage as an investment / business-model theme, captured from Kyle's June 29th, 2021 Roam "Quick Capture" reading log. The saved links span the marketplace and on-demand ends of the category — SpareFoot (a storage-unit marketplace), Neighbor.com (peer-to-peer "Airbnb for storage"), and a TechCrunch report on Clutter raising a $200–250M round led by SoftBank for on-demand storage and moving. No narrative synthesis exists yet beyond the saved sources; the links below are what Kyle flagged to explore.
 
 ## Quick Capture links — June 29th, 2021
 

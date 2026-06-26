@@ -29,13 +29,13 @@ While this was the first time I think I framed it as "the loudest models," I've 
 
 Since then I've dug in [again](https://investing101.substack.com/p/building-mighty-small-businesses?utm_source=publication-search) and [again](https://investing101.substack.com/p/the-7-deadly-sins-of-venture-capital?utm_source=publication-search) on the idea of volume's correlation to power. And I've got to say, its pretty consistent.
 
-This week, I was thinking about some of the voices I see online. Often, I find myself listening to these arguments and I think to myself, "man, these people know way more about this than I do." I look at how many followers they have or the number of subscribers to their YouTube channel or the rankings of their podcast globally. I shrug and think to myself, “I guess they know what they’re talking about.” And sometimes I leave it at that. But sometimes I dig in, and I realize, "Oh... they're not smarter than me, they're just louder than me."
+This week, I was thinking about some of the voices I see online. Often, I find myself listening to these arguments and I think to myself, "man, these people know way more about this than I do." I look at how many followers they have or the number of subscribers to their [[YouTube]] channel or the rankings of their podcast globally. I shrug and think to myself, “I guess they know what they’re talking about.” And sometimes I leave it at that. But sometimes I dig in, and I realize, "Oh... they're not smarter than me, they're just louder than me."
 
 ![Source:Twitter](/images/the-volume-of-your-inaccuracy-16d0b05c.png)
 
 And granted, some of the responses to my tweet were things like "I think the people I see on the internet are dumber than dirt." And that's true too. **But it's not a function of the times people are demonstrably dumb; its the times when they're deceptively convincing**.
 
-As we've progressed deeper and deeper into an Attention Economy, our biggest problem is we've lost our inoculation to BS. We equate influence with informed. When you see someone with a large following, a big subscriber count, a large fund, or an endless stream of high-profile speaking engagements, you start to think, **"how wrong could they be if that many people think they're right?"**
+As we've progressed deeper and deeper into an [[Attention Economy]], our biggest problem is we've lost our inoculation to BS. We equate influence with informed. When you see someone with a large following, a big subscriber count, a large fund, or an endless stream of high-profile speaking engagements, you start to think, **"how wrong could they be if that many people think they're right?"**
 
 But here's the rub. **The volume of your inaccuracy does not change the veracity of your beliefs.**
 

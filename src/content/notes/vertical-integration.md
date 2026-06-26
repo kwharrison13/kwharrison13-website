@@ -34,7 +34,7 @@ related:
 ## Where it shows up
 
 - September 22nd, 2021 — Adam Chekroud (Spring Health) — Spring Health's vertical-integration thesis.
-- [Apple Earnings, An Interview with Jay Goldberg About Chips and Intel](/notes/apple-earnings-an-interview-with-jay-goldberg-about-chips-and-intel) — [Apple](/notes/apple) re-integrating down to the chip vs. [Qualcomm](/notes/qualcomm)'s merchant-silicon model; the [Clayton M. Christensen](/notes/clayton-m-christensen) integrate-then-modularize cycle.
+- [Apple Earnings, An Interview with Jay Goldberg About Chips and Intel](/notes/apple-earnings-an-interview-with-jay-goldberg-about-chips-and-intel) — [Apple](/notes/apple) re-integrating down to the chip vs. [Qualcomm](/notes/qualcomm)'s merchant-silicon model; the [Clayton M. Christensen](/notes/clayton-christensen) integrate-then-modularize cycle.
 
 ## Related concepts
 

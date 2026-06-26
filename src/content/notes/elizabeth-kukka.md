@@ -2,9 +2,9 @@
 title: "Elizabeth Kukka"
 type: "person"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
   - "raw/calls/May 31st, 2018.md"

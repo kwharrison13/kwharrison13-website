@@ -11,8 +11,8 @@ substack_url: "https://investing101.substack.com/p/books-20"
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/working-in-public">Working in Public</a>, <a href="/books/snow-crash">Snow Crash</a></span></div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/long-enough-to-matter">Long Enough To Matter</a>, <a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a>, <a href="/essays/eat-what-you-kill">Eat What You Kill</a>, <a href="/essays/institutionalized-belief-in-the-greater">Institutionalized Belief In The Greater Fool</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a>, <a href="/essays/open-source-knowledge">Open-Source Knowledge</a>, <a href="/essays/networked-conviction-roam-investing">Networked Conviction: Roam + Investing</a>, <a href="/essays/whats-in-a-post-mortem">What's In a Post-Mortem?</a>, <a href="/essays/the-meme-economy">The Meme Economy</a>, <a href="/essays/its-time-to-build-but-build-what">It's Time To Build... But Build What?</a>, <a href="/essays/building-the-global-knowledge-graph">Building the Global Knowledge Graph</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/walden">Walden</a>, <a href="/books/working-in-public">Working in Public</a>, <a href="/books/snow-crash">Snow Crash</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/investing-101">Investing 101</a>, <a href="/essays/a-latticework-of-knowledge">A Latticework of Knowledge</a>, <a href="/essays/long-enough-to-matter">Long Enough To Matter</a>, <a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a>, <a href="/essays/eat-what-you-kill">Eat What You Kill</a>, <a href="/essays/institutionalized-belief-in-the-greater">Institutionalized Belief In The Greater Fool</a>, <a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a>, <a href="/essays/open-source-knowledge">Open-Source Knowledge</a>, <a href="/essays/networked-conviction-roam-investing">Networked Conviction: Roam + Investing</a>, <a href="/essays/whats-in-a-post-mortem">What's In a Post-Mortem?</a>, <a href="/essays/the-meme-economy">The Meme Economy</a>, <a href="/essays/its-time-to-build-but-build-what">It's Time To Build... But Build What?</a>, <a href="/essays/building-the-global-knowledge-graph">Building the Global Knowledge Graph</a></span></div>
 </aside>
 <!-- connections-end -->
 
@@ -36,11 +36,11 @@ But I think for a lot of people, it isn't just the intake of cute imagery that c
 
 **What about reading a book that shakes you to your core?** Sometimes, sure, maybe you even want to eat it. It's just so all-encompassing. Something about that book impacted every aspect of you.
 
-I keep track of those types of experiences on [my personal website](https://kwharrison13.com/bookshelf). Ryan Holiday calls them "[quake books](https://ryanholiday.net/quake-reading/)." The fact that any book can have that effect on people speaks volumes to the power of the medium. **But, by and large, books are one of the most ineffective forms of information communication and ingestion.**
+I keep track of those types of experiences on [my personal website](https://kwharrison13.com/bookshelf). [[Ryan Holiday]] calls them "[quake books](https://ryanholiday.net/quake-reading/)." The fact that any book can have that effect on people speaks volumes to the power of the medium. **But, by and large, books are one of the most ineffective forms of information communication and ingestion.**
 
 # Putting Books on Trial
 
-The definitive piece that really cemented this question in my mind comes from Andy Matuschak, an applied researcher focused on education, who previously worked on education at Apple and Khan Academy. The piece is simply called, "[Why books don't work](https://andymatuschak.org/books/)." His core thesis?
+The definitive piece that really cemented this question in my mind comes from [[Andy Matuschak]], an applied researcher focused on education, who previously worked on education at [[Apple]] and [[Khan Academy]]. The piece is simply called, "[Why books don't work](https://andymatuschak.org/books/)." His core thesis?
 
 > *"As a medium, **books are surprisingly bad at conveying knowledge, and readers mostly don’t realize it**... Books don’t work for the same reason that lectures don’t work: neither medium has any explicit theory of how people actually learn things, and as a result, both mediums accidentally (and mostly invisibly) evolved around a theory that’s plainly false."*
 
@@ -52,7 +52,7 @@ What I've tried to do is unpack a bunch of interconnected ideas about the histor
 
 # The Investor's Perspective
 
-Before I dive in to the myriad of pools I've gone fishing in for perspective on this topic, I wanted to pause and reflect. Why, in a blog called Investing 101, is an exploration of books as an educational medium relevant?
+Before I dive in to the myriad of pools I've gone fishing in for perspective on this topic, I wanted to pause and reflect. Why, in a blog called [[Investing 101]], is an exploration of books as an educational medium relevant?
 
 **First, investing in its purest form is an exercise of information inputs and outputs.**
 
@@ -60,11 +60,11 @@ More broadly, I love this other quote from Andy Matuschak:
 
 > *"I spend a lot of time thinking about **why knowledge workers don't spend very much time thinking about knowledge work**."*
 
-A more investing-specific version of this idea [comes from](https://twitter.com/joshk/status/1386679426021216256?s=20) Josh Kopelman at First Round in a quote [I've written about before](https://investing1012dot0.substack.com/p/eat-what-you-kill):
+A more investing-specific version of this idea [comes from](https://twitter.com/joshk/status/1386679426021216256?s=20) Josh Kopelman at [[First Round Capital|First Round]] in a quote [I've written about before](https://investing1012dot0.substack.com/p/eat-what-you-kill):
 
 > *"So many investing teams spend a LOT of time making each investment decision -- **but so little time thinking about the frameworks / rubrics / systems that they use to guide their decision making process**."*
 
-Investing can, in many instances, be boiled down simply to taking in information on people, markets, products, problem statements, supply chains, technical capabilities, etc. and then making a decision (and backing that decision up with cash). **But given the fact that information ingestion is a huge swath of the job, it's pretty surprising we don't spend much time thinking about how to get better at that part of the job.**
+[[Investing]] can, in many instances, be boiled down simply to taking in information on people, markets, products, problem statements, supply chains, technical capabilities, etc. and then making a decision (and backing that decision up with cash). **But given the fact that information ingestion is a huge swath of the job, it's pretty surprising we don't spend much time thinking about how to get better at that part of the job.**
 
 Second, the implications of AI, in particular, are going to have a dramatic impact on our relationship in knowledge. As I'm exploring, investing in, and watching the evolution of things like large language models, I can't help but be struck with the need to better understand the medium of how people take in information.
 
@@ -146,7 +146,7 @@ The business model behind books seem to be pushing what gets published to the le
 
 Some people would say things like "well, authors used to get paid by the word, so we're just cutting out the fluff.” But that [wasn't exactly true](https://dickens.ucsc.edu/resources/faq/by-the-word.html). I think it has more to do with our increasingly short attention spans.
 
-As people read less and less, the book publishing industry is incentivized to get more and more dramatic and attention-grabbing. But the rub is that that has often been the case. [Books like](https://lithub.com/10-literary-classics-that-didnt-sell/) Moby Dick, The Sound and the Fury, Lord of the Flies, The Great Gatsby, The Waste Land, and Walden were all commercial disappointments that have gone on to be considered literary classics.
+As people read less and less, the book publishing industry is incentivized to get more and more dramatic and attention-grabbing. But the rub is that that has often been the case. [Books like](https://lithub.com/10-literary-classics-that-didnt-sell/) Moby Dick, The Sound and the Fury, Lord of the Flies, The Great Gatsby, The Waste Land, and [[Walden]] were all commercial disappointments that have gone on to be considered literary classics.
 
 In our search for a higher quality medium, I think we can largely disregard the publishing industry and the marketing hype around any particular book. In the [words of Ralph Waldo Emerson](https://www.goodreads.com/quotes/349651-never-read-a-book-that-is-not-a-year-old):
 
@@ -156,7 +156,7 @@ Our pursuit of a better information medium isn't in a better publishing industry
 
 # Building Back Books: Open Source Knowledge
 
-[I've written before](https://investing1012dot0.substack.com/p/open-source-knowledge) about this idea of "open source knowledge":
+[I've written before](https://investing1012dot0.substack.com/p/open-source-knowledge) about this idea of "[[Open Source Knowledge|open source knowledge]]":
 
 > *"**The world is a complex interconnected graph of all the things people know, and all the things people do as a result of what they know.** Those ideas are constantly evolving, and any attempt to capture them is ridiculously difficult. Especially in [internet time](https://twitter.com/balajis/status/1496359908563992579?s=20&t=Mlsc4asZ6JyI8s28vC7U9A).   
 >   
@@ -170,9 +170,9 @@ I also occasionally go to bat for the idea online.
 
 As an abstract concept, comparing open access content to open source software can be really interesting. But what doest that mean in practice?
 
-## The Practice: Note-taking
+## The Practice: [[Note-taking]]
 
-Quick bio on me. Twitter was a COVID discovery for me. I never really used it until the lockdowns happened. And my first discovery on Twitter that changed my life? [Roam Research](https://roamresearch.com/). For the first year or so on Twitter, Roam was all I could talk about. Before I started writing on Substack consistently in 2022, [the first piece I wrote](https://investing1012dot0.substack.com/p/roam-investing) was a massive encapsulation of how I use Roam in every aspect of my life, particularly in investing research.
+Quick bio on me. [[Twitter]] was a COVID discovery for me. I never really used it until the lockdowns happened. And my first discovery on Twitter that changed my life? [Roam Research](https://roamresearch.com/). For the first year or so on Twitter, Roam was all I could talk about. Before I started writing on [[Substack]] consistently in 2022, [the first piece I wrote](https://investing1012dot0.substack.com/p/roam-investing) was a massive encapsulation of how I use Roam in every aspect of my life, particularly in investing research.
 
 A core fundamental truth that I gained from using Roam, and taking more notes, and using Twitter more often was this idea of the atomic unit of thought. **Each idea is out in the universe as a singular atom.** What is most important is your ability to connect that one atomic unit to other atomic units. The more connections you make, the stronger that corpus of knowledge. This is just like the [neuroplasticity of your brain](https://www.verywellmind.com/what-is-brain-plasticity-2794886):
 
@@ -182,7 +182,7 @@ A core fundamental truth that I gained from using Roam, and taking more notes, a
 >   
 > **Neurons that are used frequently develop stronger connections. Those that are rarely or never used eventually die. By developing new connections and pruning away weak ones, the brain can adapt to the changing environment**."*
 
-In Roam, I can keep track of quotes that resonate with me. Each of those quotes is one atomic thought. For example, this quote from F. Scott Fitzgerald: "The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function." If you've heard that quote before, its a loose connection in your brain. For me, I can see all nine references of where I've connected that quote before. For example, you can see I used it in my pieces on [Post-Mortems](https://investing1012dot0.substack.com/p/whats-in-a-post-mortem), [The Meme Economy](https://investing1012dot0.substack.com/p/the-meme-economy), and [what to build](https://investing1012dot0.substack.com/p/its-time-to-build-but-build-what).
+In Roam, I can keep track of quotes that resonate with me. Each of those quotes is one atomic thought. For example, this quote from [[F. Scott Fitzgerald]]: "The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function." If you've heard that quote before, its a loose connection in your brain. For me, I can see all nine references of where I've connected that quote before. For example, you can see I used it in my pieces on [Post-Mortems](https://investing1012dot0.substack.com/p/whats-in-a-post-mortem), [The Meme Economy](https://investing1012dot0.substack.com/p/the-meme-economy), and [what to build](https://investing1012dot0.substack.com/p/its-time-to-build-but-build-what).
 
 ![Tweet referenced in The Practice: Note-taking section](/images/books-20-4fd64d5e.png)
 
@@ -190,7 +190,7 @@ Now, to each their own on the system or process you use. But **the key idea is c
 
 > *"Some people do absorb knowledge from books. Indeed, those are the people who really do think about what they’re reading. The process is often invisible. These readers’ inner monologues have sounds like: “This idea reminds me of…,” “This point conflicts with…,” “I don’t really understand how…,” etc. **If they take some notes, they’re not simply transcribing the author’s words: they’re summarizing, synthesizing, analyzing.***
 
-Andy goes on to explain how this skill for connecting ideas and questions at at the atomic thought level has a name in learning science: metacognition.
+Andy goes on to explain how this skill for connecting ideas and questions at at the atomic thought level has a name in learning science: [[Metacognition|metacognition]].
 
 ## The Science: Metacognition
 
@@ -202,7 +202,7 @@ Andy explains the relationship between metacognition and books [this way](https:
 >   
 > By shouldering some of readers’ self-monitoring and regulation, these authors’ efforts can indeed lighten the metacognitive burden. **But metacognition is an inherently dynamic process, evolving continuously as readers’ own conceptions evolve. Books are static. Prose can frame or stimulate readers’ thoughts, but prose can’t behave or respond to those thoughts as they unfold in each reader’s head. The reader must plan and steer their own feedback loops**."*
 
-[Francis Miller](https://twitter.com/francis_miller?lang=en), an awesome academic who I met through the RoamCult on Twitter, has a great piece that goes deeper into the cognitive load of metacognition entitled "[Multi-level summaries: A new approach to non-fiction books](https://www.francismiller.com/mls-paper/)."
+[Francis Miller](https://twitter.com/francis_miller?lang=en), an awesome academic who I met through the [[RoamCult]] on Twitter, has a great piece that goes deeper into the cognitive load of metacognition entitled "[Multi-level summaries: A new approach to non-fiction books](https://www.francismiller.com/mls-paper/)."
 
 In it, he contrasts the typical structure of a book as sequential vs. a subtextual meaning structure. The sequential structure looks like this:
 
@@ -220,7 +220,7 @@ Miller explains some of the negative implications behind the need for this trans
 
 Another way to think about the explicit meaning of key ideas is going back to the idea of connecting ideas at the atomic unit level. Core ideas that relate to each other, but the complexity of the sequential structure make those connections harder to make.
 
-David Perell has a great piece entitled "[Hyper Publishing: The Wiki Strategy](https://perell.com/essay/wiki-strategy/)." He talks about hyperlinks as the foundation of the internet. One of the things the typical hyperlink is missing, though, are called "backlinks." **Showing the back and forth relationship between an idea or piece of content.** In Perell's piece, he has this sick image of the reference links in the Bible. "In the photo [below], every single line represents a Biblical verse. The length of each line is proportional to how many times that verse is referred to in some way by some other verse."
+[[David Perell]] has a great piece entitled "[Hyper Publishing: The Wiki Strategy](https://perell.com/essay/wiki-strategy/)." He talks about hyperlinks as the foundation of the internet. One of the things the typical hyperlink is missing, though, are called "backlinks." **Showing the back and forth relationship between an idea or piece of content.** In Perell's piece, he has this sick image of the reference links in the Bible. "In the photo [below], every single line represents a Biblical verse. The length of each line is proportional to how many times that verse is referred to in some way by some other verse."
 
 ![Source:David Perell](/images/books-20-ba4aa235.png)
 
@@ -252,13 +252,13 @@ But for me, instead of trying to change the book medium, the best I can do is id
 
 You have to want new information [as much as you want air](https://johnftoles.com/tag/socrates/).
 
-> *"The ability to learn new things--whether thats calculus or hitting a fast ball--**requires stretching your brain past the point of what's familiar or comfortable**. And that stretch requires unbroken concentration." (Cal Newport)*
+> *"The ability to learn new things--whether thats calculus or hitting a fast ball--**requires stretching your brain past the point of what's familiar or comfortable**. And that stretch requires unbroken concentration." ([[Cal Newport]])*
 
 > *“By learning, retaining, and building on the retained basics, **we are creating a rich web of associated information. The more we know, the more information (hooks) we have to connect new information to, the easier we can form long-term memories.** […] Learning becomes fun. We have entered a virtuous circle of learning, and it seems as if our long-term memory capacity and speed are actually growing. **On the other hand, if we fail to retain what we have learned, for example, by not using effective strategies, it becomes increasingly difficult to learn information that builds on earlier learning. More and more knowledge gaps become apparent. Since we can’t really connect new information to gaps, learning becomes an uphill battle that exhausts us and takes the fun out of learning.** It seems as if we have reached the capacity limit of our brain and memory. Welcome to a vicious circle. Certainly, you would much rather be in a virtuous learning circle, so to remember what you have learned, you need to build effective long-term memory structures.” (Helmut D. Sachs)*
 
-## A Latticework of Knowledge
+## [[A Latticework of Knowledge]]
 
-> *"Well, the first rule is that you can’t really know anything if you just remember isolated facts and try and bang ’em back. If the facts don’t hang together on a latticework of theory, you don’t have them in a usable form. You’ve got to have models in your head. And you’ve got to array your experience, both vicarious and direct, on this latticework of models. **You may have noticed students who just try to remember and pound back what is remembered. Well, they fail in school and in life. You’ve got to hang experience on a latticework of models in your head.”** (Charlie Munger)*
+> *"Well, the first rule is that you can’t really know anything if you just remember isolated facts and try and bang ’em back. If the facts don’t hang together on a latticework of theory, you don’t have them in a usable form. You’ve got to have models in your head. And you’ve got to array your experience, both vicarious and direct, on this latticework of models. **You may have noticed students who just try to remember and pound back what is remembered. Well, they fail in school and in life. You’ve got to hang experience on a latticework of models in your head.”** ([[Charlie Munger]])*
 
 ## Identifying Cognitive Models
 
@@ -280,7 +280,7 @@ Another key benefit of developing a fine-tuned "books 2.0" approach to learning 
 
 In fact, this is one of the critical failings that people are worried about when it comes to people's decreasing book consumption. In The New Yorker, Caleb Crain makes [this point](https://web.archive.org/web/20240112044928/https://www.newyorker.com/magazine/2007/12/24/twilight-of-the-books):
 
-> *"Emotional responsiveness to streaming media harks back to the world of primary orality, and, as in Plato’s day, the solidarity amounts almost to a mutual possession. “Electronic technology fosters and encourages unification and involvement,” in McLuhan’s words. The viewer feels at home with his show, or else he changes the channel. The closeness makes it hard to negotiate differences of opinion. It can be amusing to read a magazine whose principles you despise, but it is almost unbearable to watch such a television show. **And so, in a culture of secondary orality, we may be less likely to spend time with ideas we disagree with**."*
+> *"Emotional responsiveness to streaming media harks back to the world of primary orality, and, as in [[Plato]]’s day, the solidarity amounts almost to a mutual possession. “Electronic technology fosters and encourages unification and involvement,” in McLuhan’s words. The viewer feels at home with his show, or else he changes the channel. The closeness makes it hard to negotiate differences of opinion. It can be amusing to read a magazine whose principles you despise, but it is almost unbearable to watch such a television show. **And so, in a culture of secondary orality, we may be less likely to spend time with ideas we disagree with**."*
 
 So, the less we're reading, the less comfortable we are with confronting ideas that oppose our own. And that makes us less well-equipped, in the words of Charlie Munger, to be entitled to have an opinion."
 
@@ -288,19 +288,19 @@ So, the less we're reading, the less comfortable we are with confronting ideas t
 
 ## Science Fiction as a Road Map
 
-[Andy makes a key point](https://andymatuschak.org/books/) about the world of information transference today that is, interestingly, addressed in a bunch of science fiction:
+[Andy makes a key point](https://andymatuschak.org/books/) about the world of information transference today that is, interestingly, addressed in a bunch of [[Science Fiction|science fiction]]:
 
 > *"Lectures, as a medium, have no carefully-considered cognitive model at their foundation. Yet if we were aliens observing typical lectures from afar, we might notice the implicit model they appear to share: “the lecturer says words describing an idea; the class hears the words and maybe scribbles in a notebook; then the class understands the idea.” In learning sciences, we call this model “[transmissionism](https://en.wiktionary.org/wiki/transmissionism).” **It’s the notion that knowledge can be directly transmitted from teacher to student, like transcribing text from one page onto another.** If only! The idea is so thoroughly discredited that “transmissionism” is only used pejoratively, in reference to naive historical teaching practices. Or as an ad-hominem in juicy academic spats."*
 
 There's so much more I could dig into about how the future portrays information sharing. But this idea of "transmissionism" immediately reminded me of the Matrix where Neo "uploads" Kung Fu.
 
-Here are some other sci-fi examples that ChatGPT gave me (I didn't fact check them, so hallucinate to your hearts desire):
+Here are some other sci-fi examples that [[ChatGPT]] gave me (I didn't fact check them, so hallucinate to your hearts desire):
 
 Movies:
 
 - "The Matrix" (1999) - This iconic film directed by the Wachowskis introduces the concept of a simulated reality where characters can download various skills and abilities directly into their minds.
-- "Johnny Mnemonic" (1995) - Based on a short story by William Gibson, this film features a data courier with a neural implant that allows him to store and transport sensitive information in his brain.
-- "Inception" (2010) - While not about downloading skills, this Christopher Nolan film delves into the manipulation of dreams and the mind, showcasing technology that can access and influence a person's subconscious.
+- "Johnny Mnemonic" (1995) - Based on a short story by [[William Gibson]], this film features a data courier with a neural implant that allows him to store and transport sensitive information in his brain.
+- "Inception" (2010) - While not about downloading skills, this [[Christopher Nolan]] film delves into the manipulation of dreams and the mind, showcasing technology that can access and influence a person's subconscious.
 - "Transcendence" (2014) - In this film, a scientist uploads his consciousness into a supercomputer, exploring themes of artificial intelligence and the merging of human and machine.
 - "Lucy" (2014) - Though more about unlocking human potential through brain-enhancing drugs, this movie features a protagonist who gains superhuman abilities as her brain's capabilities expand.
 

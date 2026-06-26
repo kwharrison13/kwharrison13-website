@@ -17,7 +17,7 @@ substack_url: "https://investing101.substack.com/p/the-horse-the-jockey-or-the-w
 
 ![Header image for The Horse, The Jockey, or The Whole Race?](/images/the-horse-the-jockey-or-the-whole-04c5eacf.png)
 
-Have you ever had that feeling when you have a thought and then you chuckle to yourself? Then you think about it again and you do some googling? Then your googling turns into a data gathering exercise and a chart? Then you post that chart on Twitter? And then [half a million](https://x.com/kwharrison13/status/1911938090786234475) people see it and you realize you maybe should have spent more than 6 minutes making it?
+Have you ever had that feeling when you have a thought and then you chuckle to yourself? Then you think about it again and you do some googling? Then your googling turns into a data gathering exercise and a chart? Then you post that chart on [[Twitter]]? And then [half a million](https://x.com/kwharrison13/status/1911938090786234475) people see it and you realize you maybe should have spent more than 6 minutes making it?
 
 That happened to me this week.
 
@@ -37,13 +37,13 @@ Several people pointed out that what you see here is a lot of firms strategy pla
 
 In one of the responses to the tweet, I met a new friend, [Minh](https://x.com/minhphan2301). And he pointed me to a few old quotes from different firms that displayed some very specific strategies.
 
-First? Marc Andreessen at a16z [talking about](https://youtu.be/uFX95HahaUs?t=2586) investing in competitors in \*checks notes\* 2014:
+First? [[Marc Andreessen]] at a16z [talking about](https://youtu.be/uFX95HahaUs?t=2586) investing in competitors in \*checks notes\* 2014:
 
-> *"Our policy, for sure on venture and growth rounds, is that we don't invest in conflicting companies. We only invest in one company in a category. So, if we invest in MySpace, and then Facebook comes along a year later. We're out. We can't do it, right? **And so every investment we make locks us out of a category**."*
+> *"Our policy, for sure on venture and growth rounds, is that we don't invest in conflicting companies. We only invest in one company in a category. So, if we invest in MySpace, and then [[Facebook]] comes along a year later. We're out. We can't do it, right? **And so every investment we make locks us out of a category**."*
 
 Now, here's the thing. That was 2014. In 2014, [a16z's AUM](https://investing101.substack.com/p/the-puritans-of-venture-capital) was ~$3B. Today? On track for $50B+. More than 10x in about a decade. **What may be true of a firm managing a few billion dollars is unlikely to hold true for a firm managing tens of billions of dollars.**
 
-Similarly, Minh turned me on to [a talk from 2015](https://youtu.be/f0dZ75L9I9M?t=1255) by Neil Shen. Granted, he was talking specifically about the strategy they enacted at, what was at the time, Sequoia China, when it come to ecommerce and how they chased different investments in what was clearly an important category:
+Similarly, Minh turned me on to [a talk from 2015](https://youtu.be/f0dZ75L9I9M?t=1255) by Neil Shen. Granted, he was talking specifically about the strategy they enacted at, what was at the time, [[Sequoia]] China, when it come to ecommerce and how they chased different investments in what was clearly an important category:
 
 > *"We have been really taking the major trend right. I remember back seven years ago, we decided that we should spend enough time, and put enough investment into e-commerce. We had a view that e-commerce will become very, very important in China. Probably even more important, compared with retail in the US. **So we amassed probably around 15 e-commerce companies in China. Some of those are not successful, but we did capture the top five to six very successful e-commerce in China.**   
 >   

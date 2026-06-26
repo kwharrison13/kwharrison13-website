@@ -8,7 +8,7 @@ url: "https://medium.com/craft-ventures/the-burn-multiple-51a7e43cb200"
 source_published: "2020-04-23"
 confidence: "high"
 created: "2026-06-24"
-updated: "2026-06-24"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/clippings/The Burn Multiple.md"
@@ -28,9 +28,9 @@ related:
 
 # The Burn Multiple
 
-**Author:** [David Sacks](/notes/david-sacks) (Craft Ventures)
+**Author:** [David Sacks](/notes/david-sacks) ([Craft Ventures](/notes/craft-ventures))
 **URL:** https://medium.com/craft-ventures/the-burn-multiple-51a7e43cb200
-**One-line:** *Defines the Burn Multiple (Net Burn / Net New ARR) as the single most revealing metric of a startup's capital efficiency — a catch-all that surfaces gross margin problems, churn, sales inefficiency, and founder discipline all at once.*
+**One-line:** *Defines the [Burn Multiple](/notes/burn-multiple) (Net Burn / Net New ARR) as the single most revealing metric of a startup's capital efficiency — a catch-all that surfaces gross margin problems, churn, sales inefficiency, and founder discipline all at once.*
 
 ## Key Highlights
 
@@ -55,4 +55,4 @@ related:
 - [Burn Multiple](/notes/burn-multiple) — the concept itself; this article is its original definition.
 - [Capital Efficiency](/notes/capital-efficiency) — the broader framework; Burn Multiple is Sacks's preferred metric within it.
 - [Product Market Fit](/notes/product-market-fit) — the Burn Multiple as a diagnostic: market-pull (low multiple) vs. product-push (high multiple).
-- [David Sacks](/notes/david-sacks) — author; co-founder of Craft Ventures, formerly Yammer/PayPal mafia.
+- [David Sacks](/notes/david-sacks) — author; co-founder of Craft Ventures, formerly Yammer/[PayPal](/notes/paypal) mafia.

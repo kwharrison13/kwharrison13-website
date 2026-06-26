@@ -17,7 +17,7 @@ substack_url: "https://investing101.substack.com/p/have-kids-or-dont-but-have-ki
 
 ![Header image for Have Kids. Or Don't. But Have Kids.](/images/have-kids-or-dont-but-have-kids-e127f121.png)
 
-I had an interesting experience this week. I was scrolling the artist formerly known as the Bird App, as anyone with a dopamine addiction is wont to do, and I saw a tweet from Delian at Founders Fund that made me stop and think.
+I had an interesting experience this week. I was scrolling the artist formerly known as the Bird App, as anyone with a dopamine addiction is wont to do, and I saw a tweet from Delian at [[Founders Fund]] that made me stop and think.
 
 ![Tweet referenced in Have Kids. Or Don't. But Have Kids.](/images/have-kids-or-dont-but-have-kids-e2cf62ae.png)
 
@@ -49,7 +49,7 @@ The desire to invent the future is, inherently, optimistic. You *want* there to 
 
 # The Purest Form of Hoping For a Better World
 
-I think often of a quote that I first heard from [a clip](https://www.youtube.com/watch?v=xdCgMvjVHDg) of a Ricky Gervais show (that I've never actually watched):
+I think often of a quote that I first heard from [a clip](https://www.youtube.com/watch?v=xdCgMvjVHDg) of a [[Ricky Gervais]] show (that I've never actually watched):
 
 > *"A society grows great when old men plant trees, the shade of which they know they will never sit in."*
 
@@ -70,7 +70,7 @@ But when could that not be true?
 Let me envision a few scenarios where someone would check the boxes of both (1) does not currently have kids and (2) does not want kids:
 
 - Financial: They don't believe they can support children
-- Resource Allocation: They prefer to spend their money on other things
+- [[Resource Allocation]]: They prefer to spend their money on other things
 - Freedom Maximalists: They don't want children to stop them from doing what they want to do when they want to do it
 - Health: They can't physically have kids, or having kids would put their lives in danger, or they have some kind of health issue that would make parenting impossible.
 - Philosophical: They believe parenting is not a necessary life goal
@@ -101,7 +101,7 @@ The final fundamental qualifier from Delian's tweet isn't that the person is say
 
 So many people focus on the need to grind towards their ambition as the driver for not having kids until they're old and dried up. Maybe.
 
-One of the best essays on parenting comes from Paul Graham and its called [Having Kids](https://www.paulgraham.com/kids.html). In it, he talks about the way your perspective on kids changes once you have them:
+One of the best essays on parenting comes from [[Paul Graham]] and its called [Having Kids](https://www.paulgraham.com/kids.html). In it, he talks about the way your perspective on kids changes once you have them:
 
 > *"One doesn't tend to associate kids with peace, but that's what you feel. You don't need to look any further than where you are right now. Before I had kids, I had moments of this kind of peace, but they were rarer. With kids it can happen several times a day."*
 
@@ -115,20 +115,20 @@ It's an important distinction that having kids does impact the way you live your
 
 And, for those ambitious enough to want to build something big, I'd like to point out that, on average, the founders of the 50 largest companies built in America had kids around the age of 28-29 (just a couple examples below):
 
-- [Warren Buffet](https://en.wikipedia.org/wiki/Warren_Buffett) (Berkshire Hathaway) - 23 when his first kid was born
-- [Sam Walton](https://en.wikipedia.org/wiki/Sam_Walton) (Walmart) - 26
+- [Warren Buffet](https://en.wikipedia.org/wiki/Warren_Buffett) ([[Berkshire Hathaway]]) - 23 when his first kid was born
+- [Sam Walton](https://en.wikipedia.org/wiki/Sam_Walton) ([[Walmart]]) - 26
 - [Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos) (AWS) - 36
-- [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) (Apple) - 23
+- [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) ([[Apple]]) - 23
 - [John D. Rockefeller](https://en.wikipedia.org/wiki/John_D._Rockefeller) (Standard Oil) - 27
-- [Larry Page](https://en.wikipedia.org/wiki/Larry_Page) (Google) - 36
-- [James Sinegal](https://en.wikipedia.org/wiki/James_Sinegal) (Costco) - 24
-- [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates) (Microsoft) - 42
+- [Larry Page](https://en.wikipedia.org/wiki/Larry_Page) ([[Alphabet|Google]]) - 36
+- [James Sinegal](https://en.wikipedia.org/wiki/James_Sinegal) ([[Costco]]) - 24
+- [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates) ([[Microsoft]]) - 42
 - [Henry Ford](https://en.wikipedia.org/wiki/Henry_Ford) (Ford) - 30
 - [Bill Durant](https://en.wikipedia.org/wiki/William_C._Durant) (GM) - 26
-- [Bernard Marcus](https://en.wikipedia.org/wiki/Bernard_Marcus) (Home Depot) - 26
-- [Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg) (Meta) - 31
-- [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) (Tesla) - 31
-- [Walt Disney](https://en.wikipedia.org/wiki/Walt_Disney) (Disney) - 32
+- [Bernard Marcus](https://en.wikipedia.org/wiki/Bernard_Marcus) ([[Home Depot]]) - 26
+- [Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg) ([[Facebook|Meta]]) - 31
+- [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) ([[Tesla]]) - 31
+- [Walt Disney](https://en.wikipedia.org/wiki/Walt_Disney) ([[Disney]]) - 32
 
 If they can do it, why can't you?
 
@@ -146,7 +146,7 @@ And for those founders and investors who are most endowed with an inherent optim
 
 # Therefore, What?
 
-So... reflecting on my tweet. Was it a shitty thing to say? I don't think so. Though, like everything about the internet, Twitter is probably the hardest place to articulate [nuance](https://investing101.substack.com/p/embrace-the-nuance?utm_source=publication-search). So for anyone my tweet and the doubling-down of this piece has offended, I do apologize. I don't mean to give offense. And I don't mean to impugn anyone's worth or life choices based on my own preferred framework.
+So... reflecting on my tweet. Was it a shitty thing to say? I don't think so. Though, like everything about the internet, [[Twitter]] is probably the hardest place to articulate [nuance](https://investing101.substack.com/p/embrace-the-nuance?utm_source=publication-search). So for anyone my tweet and the doubling-down of this piece has offended, I do apologize. I don't mean to give offense. And I don't mean to impugn anyone's worth or life choices based on my own preferred framework.
 
 But I stand by some core beliefs.
 

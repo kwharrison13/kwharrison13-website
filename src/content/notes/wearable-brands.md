@@ -8,7 +8,7 @@ url: "https://www.perell.com/blog/wearable-brands"
 source_published: "2017"
 confidence: "high"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/archive/clippings/Wearable Brands.md"
@@ -36,7 +36,7 @@ related:
 - **Brands are becoming lifestyle and personality signals.** As we move away from the mainstream toward distinct brands, the ones we support grow more diverse and reflect our unique preferences and personalities (Perell's experience at Uniqlo).
 - **People buy meaning, not utility.** Nobody flocks to Yeezy for the function — they wear it to actualize dreams, express themselves beyond words, and forge a personal connection to Kanye.
 - **Direct engagement builds community.** Gary Vaynerchuk shares hard-earned wisdom and engages followers directly, building a community of entrepreneurs around the attention he commands.
-- **Creators now out-influence celebrities.** The five most influential figures among Americans 13–18 were YouTubers; teens are *seven times* more emotionally attached to YouTube stars than traditional celebrities. Personalities have never had more sway over purchasing.
+- **Creators now out-influence celebrities.** The five most influential figures among Americans 13–18 were YouTubers; teens are *seven times* more emotionally attached to [YouTube](/notes/youtube) stars than traditional celebrities. Personalities have never had more sway over purchasing.
 
 ## Notable quotes
 

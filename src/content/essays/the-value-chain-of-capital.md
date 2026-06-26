@@ -19,9 +19,9 @@ substack_url: "https://investing101.substack.com/p/the-value-chain-of-capital"
 
 Andrew Stanton, one of the filmmakers at Pixar known for directing Finding Nemo, WALL-E, and more, gave a [TED Talk in 2012](https://youtu.be/KxDwieKpawg?t=14) where he talked about storytelling. At the beginning he tells a story about how an old Scottish man came by his colorful nickname. Now, I won't repeat the story, cause my Mom reads this blog. But give it a listen. And just think about what's in a name, and the story behind it.
 
-That's how I felt as I was reading the Wikipedia entry for the term "[Ponzi scheme](https://en.wikipedia.org/wiki/Ponzi_scheme)." I always forget that the term comes from a specific person; Charles Ponzi in 1920. His scheme of paying back his first wave of investors with the cash from his second wave of investors earned him [$220M](https://www.entrepreneur.com/business-news/who-is-charles-ponzi-the-shocking-story-behind-the-scheme/450538) in today's dollars. It wasn't the first known Ponzi scheme (that happened in 1869) and it wasn't the biggest (that probably goes to Bernie Maddoff, who caused the loss of [$20B in cash and $65B on paper](https://ny1.com/nyc/all-boroughs/entertainment/2022/10/11/kevin-bacon-opens-up-about-family-losing--most--of-their-money-in-madoff-scheme).) But Charles Ponzi's name would forever be attached to the scheme.
+That's how I felt as I was reading the [[Wikipedia]] entry for the term "[Ponzi scheme](https://en.wikipedia.org/wiki/Ponzi_scheme)." I always forget that the term comes from a specific person; Charles Ponzi in 1920. His scheme of paying back his first wave of investors with the cash from his second wave of investors earned him [$220M](https://www.entrepreneur.com/business-news/who-is-charles-ponzi-the-shocking-story-behind-the-scheme/450538) in today's dollars. It wasn't the first known Ponzi scheme (that happened in 1869) and it wasn't the biggest (that probably goes to Bernie Maddoff, who caused the loss of [$20B in cash and $65B on paper](https://ny1.com/nyc/all-boroughs/entertainment/2022/10/11/kevin-bacon-opens-up-about-family-losing--most--of-their-money-in-madoff-scheme).) But Charles Ponzi's name would forever be attached to the scheme.
 
-So what's got me thinking about Ponzi schemes? Yet another attempt to understand incentives in the world of venture capital. This time its using Instacart's cap table to unpack the value chain of capital.
+So what's got me thinking about Ponzi schemes? Yet another attempt to understand incentives in the world of venture capital. This time its using [[Instacart]]'s cap table to unpack the value chain of capital.
 
 # What Is The Venture Capital Value Chain?
 
@@ -43,7 +43,7 @@ Now, this is just a rough estimate because we don't have visibility into all the
 
 Granted, Instacart also hit [free cash flow positive](https://app.koyfin.com/fa/00000000-1c82-4912-88c6-8689b285ac75/41-h17umz) for the first time in 2022. So I don't even want to make the argument of this business being a cash inferno like others I've written about (like [WeWork](https://investing1012dot0.substack.com/p/the-rise-of-the-cash-man) or [Hopin](https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater)). Instead, the reality is that you can't just "not raise" the capital post-Series B. **Instacart, at least in its current state, needed at least ~$1.8B to generate that return for those early investors.**
 
-The headlines will talk about investors like Sequoia, who invested in Instacart's $8.5M Series A in 2013 at a $75M valuation. That position at the IPO is worth ~$1B (not accounting for dilution and future purchases.) Exceptional by any and every standard! But that's not the whole story. Sequoia has invested [$300M](https://www.cnbc.com/2023/09/15/sequoia-andreessen-set-to-take-massive-hit-on-2021-instacart-investment.html) total to generate a total [~$1.4B](https://www.forbes.com/sites/dereksaul/2023/09/19/here-are-the-big-investor-winners-in-instacarts-11-billion-ipo-debut-and-the-losers/?sh=4f3e15eb4e61) stake. Still a great 5x return. But for that Series I investment at $39B? Not as great in isolation.
+The headlines will talk about investors like [[Sequoia]], who invested in Instacart's $8.5M Series A in 2013 at a $75M valuation. That position at the IPO is worth ~$1B (not accounting for dilution and future purchases.) Exceptional by any and every standard! But that's not the whole story. Sequoia has invested [$300M](https://www.cnbc.com/2023/09/15/sequoia-andreessen-set-to-take-massive-hit-on-2021-instacart-investment.html) total to generate a total [~$1.4B](https://www.forbes.com/sites/dereksaul/2023/09/19/here-are-the-big-investor-winners-in-instacarts-11-billion-ipo-debut-and-the-losers/?sh=4f3e15eb4e61) stake. Still a great 5x return. But for that Series I investment at $39B? Not as great in isolation.
 
 ![Chart illustrating what is the venture capital value chain?](/images/the-value-chain-of-capital-2d4facef.png)
 
@@ -64,7 +64,7 @@ A lot of people like to use language like "passing the bag" and "bag holders" to
 
 Look back at our Instacart example. The early investors hold a much higher return than later investors, but all of them still own shares in a near-profitable ~$10B business with $1B+ in revenue. That's not just a bag of hot air, it's a real business.
 
-I've written before about a point that Bill Gurley was [making](https://abovethecrowd.com/2016/04/21/on-the-road-to-recap/) back in 2016 about how capital dependency has become a function of capital supply:
+I've written before about a point that [[Bill Gurley]] was [making](https://abovethecrowd.com/2016/04/21/on-the-road-to-recap/) back in 2016 about how capital dependency has become a function of capital supply:
 
 > *“Back in 1999, if a company raised $30mm before an IPO, that was considered a large historic raise. Today, private companies have raised 10x that amount and more. And consequently, **the burn rates are 10x larger than they were back then. All of which creates a voraciously hungry Unicorn. One that needs lots and lots of capital (if it is to stay on the current trajectory)**.”*
 
@@ -86,7 +86,7 @@ This drives home another point of the capital value chain. In a world of plentif
 
 ![Quote card from "What's It Worth?" section](/images/the-value-chain-of-capital-6302677a.png)
 
-This dynamic reminded me of a quote that I can't find, but I think is a Charlie Munger-ism. The idea that in public markets, you're not trying to predict what the market will do. You're trying to predict what other people predict the market will do. Howard Marks has [written about this idea](https://www.oaktreecapital.com/insights/memo/the-illusion-of-knowledge) quite a bit, that every forecast would have to account for the reactions of every participant in a market (which is why he hates forecasts):
+This dynamic reminded me of a quote that I can't find, but I think is a [[Charlie Munger]]-ism. The idea that in public markets, you're not trying to predict what the market will do. You're trying to predict what other people predict the market will do. [[Howard Marks]] has [written about this idea](https://www.oaktreecapital.com/insights/memo/the-illusion-of-knowledge) quite a bit, that every forecast would have to account for the reactions of every participant in a market (which is why he hates forecasts):
 
 > *"**Further, a model will have to predict how each group of participants in the economy will behave in a variety of environments.** But the vagaries are manifold. For example, consumers may behave one way at one moment and a different way at another similar moment. Given the large number of variables involved, it seems impossible that two “similar” moments will play out exactly the same way, and thus that we’ll witness the same behavior on the part of participants in the economy. **Among other things, participants’ behavior will be influenced by their psychology (or should I say their emotions?), and their psychology can be affected by qualitative, non-economic developments. How can those be modeled?"***
 
@@ -102,9 +102,9 @@ Another element of what something is worth is understanding when you can sell. [
 
 > *"**Venture funds, contrary to the marketing framework they like to reinforce, are not long-term thinkers. They’re a collection of short-term careerists focused on maximizing the amount of success they’re associated with.** As an individual investor, your economic interests are not as easily connected to long-term success, but instead short-term performance."*
 
-Even when you step back from the individual investor lens, and look at the incentives of the overall fund. Funds have lifecycles in which they're trying to deploy and reclaim capital. Selling is as an unavoidable part of the equation. Compounding in venture is much more limited than, say, a Berkshire Hathaway approach.
+Even when you step back from the individual investor lens, and look at the incentives of the overall fund. Funds have lifecycles in which they're trying to deploy and reclaim capital. Selling is as an unavoidable part of the equation. [[Compounding]] in venture is much more limited than, say, a [[Berkshire Hathaway]] approach.
 
-In [that video](https://youtu.be/4JHdt9Jy1Xg?t=2152) by Aswath Damodaran where he unpacks the returns of each round for Instacart, he makes this point about VCs:
+In [that video](https://youtu.be/4JHdt9Jy1Xg?t=2152) by [[Aswath Damodaran]] where he unpacks the returns of each round for Instacart, he makes this point about VCs:
 
 > *"I know over the last few decades, especially the last decade, when VCs were viewed as superstar investors; why? Because we saw stories of incredible success. This is selection bias in what we read. And also, some VCs are relentless self-promoters. They try to promote themselves as people who can judge businesses as amazing guagers of whether a business will pay off. I've never believed this about VCs. **I think most successful VCs share more with successful traders than they do successful investors. They play the pricing game. What does that mean? They get judged on timing. When they enter and when they exit.**"*
 
@@ -112,11 +112,11 @@ And when you look at some of the early successes in venture, there really is a s
 
 ## Netscape: Selling At The Right Time
 
-[Netscape](https://en.wikipedia.org/wiki/Netscape) was a web-browser founded in 1994 when Jim Clark recruited a young Marc Andreessen to be his co-founder. Just four months after being released, it had 75% market share. In August 1995, just 16 months after starting, Netscape went public at a $2.9B valuation with revenue doubling every quarter, before being acquired by AOL for $4.2B in stock in November 1998; ultimately closing at $10B in March 1999.
+[Netscape](https://en.wikipedia.org/wiki/Netscape) was a web-browser founded in 1994 when Jim Clark recruited a young [[Marc Andreessen]] to be his co-founder. Just four months after being released, it had 75% market share. In August 1995, just 16 months after starting, Netscape went public at a $2.9B valuation with revenue doubling every quarter, before being acquired by AOL for $4.2B in stock in November 1998; ultimately closing at $10B in March 1999.
 
-While Netscape had, at one point, controlled 90% of the browser market in the mid-90s, within a few years after the AOL acquisition Netscape had dropped to less than 1% in 2003 when AOL disbanded the company. The culprit? [Microsoft's Internet Explorer](https://www.zdnet.com/home-and-office/networking/how-ie-really-beat-netscape/). In classic Microsoft fashion, they were able to use their existing distribution to put the IE browser on every computer, regardless of the fact that it wasn't necessarily a better product.
+While Netscape had, at one point, controlled 90% of the browser market in the mid-90s, within a few years after the AOL acquisition Netscape had dropped to less than 1% in 2003 when AOL disbanded the company. The culprit? [Microsoft's Internet Explorer](https://www.zdnet.com/home-and-office/networking/how-ie-really-beat-netscape/). In classic [[Microsoft]] fashion, they were able to use their existing distribution to put the IE browser on every computer, regardless of the fact that it wasn't necessarily a better product.
 
-By the time AOL was buying Netscape, the company's market share had already fallen to [41.5%](https://www.zdnet.com/home-and-office/networking/us-report-microsoft-surpasses-netscape-in-browser-share/), compared to Internet Explorer's 43.8% share. Netscape is an example of a failed company, and a failed product. Granted, Microsoft was no easy competitor ([just ask Slack](https://www.cloudfuze.com/how-slack-and-microsoft-teams-are-changing-enterprise-collaboration/)). **But for Kleiner Perkins, who led Netscape's early rounds of funding, or for co-founder Marc Andreessen, the ultimate outcome didn't matter. Their time-boxed outcome was $10B.**
+By the time AOL was buying Netscape, the company's market share had already fallen to [41.5%](https://www.zdnet.com/home-and-office/networking/us-report-microsoft-surpasses-netscape-in-browser-share/), compared to Internet Explorer's 43.8% share. Netscape is an example of a failed company, and a failed product. Granted, Microsoft was no easy competitor ([just ask Slack](https://www.cloudfuze.com/how-slack-and-microsoft-teams-are-changing-enterprise-collaboration/)). **But for [[Kleiner Perkins]], who led Netscape's early rounds of funding, or for co-founder Marc Andreessen, the ultimate outcome didn't matter. Their time-boxed outcome was $10B.**
 
 That’s one of the obstacles of the value chain of capital. [I’ve written before](https://investing1012dot0.substack.com/p/stewards-of-capital) about this isolated scorecard for investors. **Investors are not measured by ultimate outcomes (e.g. the company from beginning to end), but rather are measured by intermittent outcomes (e.g. hold periods.) And in many instances, that intermittent outcome is completely divorced from that ultimate outcome.**
 
@@ -134,7 +134,7 @@ I could leave it at that. Being aware of the capital value chain has all sorts o
 
 Some people look at hype cycles with massive amounts of excitement, and capital, and see it through a very 'glass-half-full' lens. While a lot of individual investors may not make money from a hype cycle, there is a valuable social good that comes from increased capital deployment, so the net benefit to society is positive.
 
-Take, for example, the ride share wars. [I've written before](https://investing1012dot0.substack.com/p/cashkingmaker-or-killer) about the Uber vs. Lyft cash inferno. Some would argue that the billions of dollars that went into that space may not have generated positive investment outcomes for everyone, but it created a good product for people, so there was still that net positive.
+Take, for example, the ride share wars. [I've written before](https://investing1012dot0.substack.com/p/cashkingmaker-or-killer) about the [[Uber]] vs. [[Lyft]] cash inferno. Some would argue that the billions of dollars that went into that space may not have generated positive investment outcomes for everyone, but it created a good product for people, so there was still that net positive.
 
 [My own recent experience](https://x.com/kwharrison13/status/1706690328206733516?s=20) would indicate the breaking points behind what has been an actually fairly unsustainable business model. As the massive VC-enabled incentives for drivers go away the quality of the service goes down significantly. In some instances, that leaves a hollowed out industry (like taxi cabs) that may end up worse than it was before. Time will tell.
 
@@ -144,7 +144,7 @@ Here's another way to frame the question.
 
 ## Is Technological Progress Inevitable?
 
-If we didn't pour billions into AI... would we still get the same progress? If we hadn't had the dotcom bubble, would we still have Amazon? Or Google? I'm inclined to believe that progress is not inevitable, and needs to be coaxed with the right environment. But I'm also inclined to believe that it isn't just a function of capital.
+If we didn't pour billions into AI... would we still get the same progress? If we hadn't had the dotcom bubble, would we still have [[Amazon]]? Or [[Alphabet|Google]]? I'm inclined to believe that progress is not inevitable, and needs to be coaxed with the right environment. But I'm also inclined to believe that it isn't just a function of capital.
 
 First, the inevitability of technological progress.
 
@@ -152,13 +152,13 @@ I'm reminded of a video of [Neil deGrasse Tyson](https://youtu.be/tJJLvoDg2_E?t=
 
 He makes the point that the removal of science and math from the center of Islamic culture unwound the whole enterprise of that golden age. He also makes the argument that, while Islam has risen to become the second largest religion in the world, with 1.9B adherents, it contributes a small portion of technological advancements in the world. [One anecdote](https://www.fresnobee.com/opinion/letters-to-the-editor/article95792072.html) is the fact that while Muslims made up "23 percent of the world’s population, as of 2015, only 12 Nobel laureates have been Muslims, whereas 193 (22 percent) of the total 855 laureates have been Jewish, although Jews comprise less than 0.2 percent of the world’s population."
 
-In a great piece by L.M. Sacasas entitled "[Resistance Is Futile: The Myth of Tech Inevitability](https://theconvivialsociety.substack.com/p/resistance-is-futile-the-myth-of)", there is [a quote from historian Thomas Misa](https://www.press.jhu.edu/books/title/12658/leonardo-internet) that really stuck out to me:
+In a great piece by [[L.M. Sacasas]] entitled "[Resistance Is Futile: The Myth of Tech Inevitability](https://theconvivialsociety.substack.com/p/resistance-is-futile-the-myth-of)", there is [a quote from historian Thomas Misa](https://www.press.jhu.edu/books/title/12658/leonardo-internet) that really stuck out to me:
 
 > *“We lack a full picture of the technological alternatives that once existed as well as knowledge and understanding of the decision-making processes that winnowed them down. **We see only the results and assume, understandably but in error, that there was no other path to the present.** Yet it is a truism that the victors write the history, in technology as in war, and the technological ‘paths not taken’ are often suppressed or ignored.”*
 
 Looking at the curve of history, I think it is fair to say that technological progress is *not* inevitable. **The pursuit of progress is critical to manifesting it.** But that doesn't mean that capital destruction is a necessary ingredient.
 
-Take, for example, the amount of capital that other cities or countries have spent trying to replicate the environment in Silicon Valley. Despite the billions these other locations have invested attempting to attract the kind of technological revolution that we've seen in the Bay Area over the last 50 years, no one has succeeded.
+Take, for example, the amount of capital that other cities or countries have spent trying to replicate the environment in [[Silicon Valley]]. Despite the billions these other locations have invested attempting to attract the kind of technological revolution that we've seen in the Bay Area over the last 50 years, no one has succeeded.
 
 So it isn't just capital. Instead, I think we should focus less on the capital value chain, and more on the innovation value chain.
 

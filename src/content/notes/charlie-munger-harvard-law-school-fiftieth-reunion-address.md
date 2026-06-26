@@ -9,7 +9,7 @@ url: "https://www.kwharrison13.com/books/poor-charlie-s-almanack"
 source_published: "2005-01-01"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/books/poor-charlie-s-almanack.md"
@@ -56,10 +56,10 @@ Talk 5 of the eleven in Chapter Four of [Poor Charlie's Almanack](/books/poor-ch
 - Thus it follows, as the night the day, that in our most elite broadscale [Education](/notes/education) wherein we are trying to make silk purses out of silk, **we need for best results to have multidisciplinary coverage of immense amplitude, with all needed skills raised to an ever-maintained practice-based fluency, including considerable power of synthesis at boundaries between disciplines, with the highest fluency levels being achieved where they are most needed, with forward and reverse thinking techniques** being employed in a manner reminding one of [Inversion](/notes/inversion) in algebra, and with "[Checklists](/notes/checklists)" routines being a permanent part of the knowledge system. There can be no other way, no easier way, to broad scale worldly wisdom. **Thus the task, when first identified in its immense breadth, seems daunting, verging on impossible.** #[Multidisciplinary Thinking](/notes/multidisciplinary-thinking)
 - Moreover, we can believe in the attainability of broad multidisciplinary skill for the same reason the fellow from Arkansas gave for his belief in baptism: "I've seen it done." We all know of individuals, modern [Benjamin Franklin](/notes/benjamin-franklin)s, who have (1) achieved a massive multidisciplinary synthesis with less time in formal education than is now available to our numerous brilliant young and (2) thus become better performers in their own disciplines, not worse, despite diversion of learning time to matter outside the normal coverage of their own disciplines. #[Multidisciplinary Thinking](/notes/multidisciplinary-thinking)
   > **Kyle:** *Not a matter of time spent in school*
-- First, **many more courses should be mandatory, not optional.** And this, in turn, requires that the people who decide what is mandatory must possess large, multidisciplinary knowledge maintained in fluency. #General Education
+- First, **many more courses should be mandatory, not optional.** And this, in turn, requires that the people who decide what is mandatory must possess large, multidisciplinary knowledge maintained in fluency. #[General Education](/notes/general-education)
 - Second, **there should be much more problem-solving practice that crosses several disciplines**, including practice that mimics the function of the aircraft simulator in preventing loss of skills through disuse. #Practice
 - Incidentally, many elite private schools now wisely use such multidisciplinary methods in seventh grade science while, at the same time, many graduate schools have not yet seen the same light. This is one more sad example of Whitehead's “**fatal unconnectedness**" in education.
-- Third, **most soft-science professional schools should increase use of the best business periodicals**, like the Wall Street Journal, Forbes, Fortune, etc. #[Investing 101 2.0 Wiki](/notes/investing-101-2-0)
+- Third, **most soft-science professional schools should increase use of the best business periodicals**, like the Wall Street Journal, Forbes, [Fortune](/notes/fortune), etc. #[Investing 101 2.0 Wiki](/notes/investing-101-2-0)
 - I know no person in business, respected for verified good judgment, whose wisdom-, maintenance system does not include use of such periodicals. Why should academia be different?
 - Fourth, in filling scarce academic vacancies, **professors of superstrong, passionate, political ideology, whether on the left or right, should usually be avoided.** So also for students. Best-form multidisciplinary requires an objectivity such passionate people have lost, and a difficult synthesis is not likely to be achieved by minds in ideological fetters.
 - Fifth, **soft science should more intensely imitate the fundamental organizing ethos of hard science** (defined as the "fundamental four-discipline combination" of math, physics, chemistry, and engineering).
@@ -72,16 +72,16 @@ Talk 5 of the eleven in Chapter Four of [Poor Charlie's Almanack](/books/poor-ch
   - The Two-Track Analysis
     - What are the factors that really govern the interests involved, rationally considered? (for example, macro and micro-level economic factors).
     - What are the subconscious influences, where the brain at a subconscious level is automatically forming conclusions? (influences from instincts, emotions, cravings, and so on).
-  - Investing and Decision Making Checklist
+  - [Investing](/notes/investing) and Decision Making Checklist
     - Charlie's informal, but extensive, list of factors worthy of consideration.
   - Ultra-Simple, General Problem-Solving Notions (Pages 279-281):
     - Decide the big "no-brainer" questions first.
     - Apply numerical fluency.
     - Invert (think the problem through in reverse).
     - Apply elementary multidisciplinary wisdom, never relying entirely upon others.
-    - Watch for combinations of factors-the Lollapalooza effect.
-  - Psychology-Based Tendencies
-    - His famous Twenty-Five Standard Causes of Human Misjudgment
+    - Watch for combinations of factors-the [Lollapalooza](/notes/lollapalooza) effect.
+  - [Psychology](/notes/psychology)-Based Tendencies
+    - His famous [Twenty-Five Standard Causes of Human Misjudgment](/notes/twenty-five-standard-causes-of-human-misjudgment)
 
 ## Connections
 

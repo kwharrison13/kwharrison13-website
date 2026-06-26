@@ -11,8 +11,8 @@ substack_url: "https://investing101.substack.com/p/2023-in-books"
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-power-law-venture-capital-and-the-making-of-the-new-future">The Power Law: Venture Capital & the Making of the New Future</a>, <a href="/books/the-almanack-of-naval-ravikant">The Almanack of Naval Ravikant</a></span></div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-wrath-of-reading-and-writing">The Wrath of Reading & Writing</a>, <a href="/essays/on-writing">On Writing</a>, <a href="/essays/2022-in-books">2022 in Books</a>, <a href="/essays/the-professionalization-of-startups">The Professionalization of Startups</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/talent">Talent</a>, <a href="/books/the-power-law-venture-capital-and-the-making-of-the-new-future">The Power Law: Venture Capital & the Making of the New Future</a>, <a href="/books/the-almanack-of-naval-ravikant">The Almanack of Naval Ravikant</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/the-wrath-of-reading-and-writing">The Wrath of Reading & Writing</a>, <a href="/essays/on-writing">On Writing</a>, <a href="/essays/2022-in-books">2022 in Books</a>, <a href="/essays/the-professionalization-of-startups">The Professionalization of Startups</a></span></div>
 </aside>
 <!-- connections-end -->
 
@@ -39,14 +39,14 @@ This isn’t the first time I’ve spent reflecting on reading and writing in my
 > *“The majority of my reading falls into three buckets:*
 >
 > *(1) What I read for my investing work, which is usually deal-related and so I avoid talking about.   
-> (2) What I read as part of managing Contrary Research, [which you can always read here](https://research.contrary.com/).   
+> (2) What I read as part of managing [[Contrary Research]], [which you can always read here](https://research.contrary.com/).   
 > (3) What I read so that I can include it in whatever I'm writing about that week.*
 >
 > *So I read plenty each week. But I feel a hunger for ideas and concepts that I glance, but never conceive. I want to read more, not so I can tally more books on my "[Books I Read](https://investing1012dot0.substack.com/p/2022-in-books)" list at the end of the year. **I want to read more because I can feel categories of limitations in my own understanding.**”*
 
-But my conclusion continues to be not that I’m fine with what I’m reading. Its that I still need to find more room in my life to read more and more. My favorite strategy is what Ryan Holiday [has to say](https://ryanholiday.net/heres-some-stuff-worth-carrying-with-you-everywhere) about reading:
+But my conclusion continues to be not that I’m fine with what I’m reading. Its that I still need to find more room in my life to read more and more. My favorite strategy is what [[Ryan Holiday]] [has to say](https://ryanholiday.net/heres-some-stuff-worth-carrying-with-you-everywhere) about reading:
 
-> *“You should always have a book with you. Always. People often assume something about me: that I’m a [speed reader](https://ryanholiday.net/reading-isnt-a-race-how-speed-reading-and-spritz-completly-miss-the-point/). It’s the most common email I get. They see all the books I recommend every month in [my reading newsletter](https://ryanholiday.net/reading-newsletter/) and assume I must have some secret. They want to know [my trick for reading so fast](https://thoughtcatalog.com/ryan-holiday/2015/05/how-to-learn-the-art-of-speed-reading/). The truth is, even though I read hundreds of books each year, I actually read quite slow. In fact, I read deliberately slow. But what I also do is read all the time. [I am always carrying a book with me](https://www.instagram.com/p/BobjZcThtAR/). **Every time I get a second, I crack it open. I don’t install games on my phone—that’s time for reading. When I’m eating, on a plane, in a waiting room, or sitting in traffic in an Uber—I read. There’s no trick, no secret, no shortcut.** I like B.H. Liddell Hart’s old line that sometimes the longest way around is the shortest way home. If you put the time in, you get the results.”*
+> *“You should always have a book with you. Always. People often assume something about me: that I’m a [speed reader](https://ryanholiday.net/reading-isnt-a-race-how-speed-reading-and-spritz-completly-miss-the-point/). It’s the most common email I get. They see all the books I recommend every month in [my reading newsletter](https://ryanholiday.net/reading-newsletter/) and assume I must have some secret. They want to know [my trick for reading so fast](https://thoughtcatalog.com/ryan-holiday/2015/05/how-to-learn-the-art-of-speed-reading/). The truth is, even though I read hundreds of books each year, I actually read quite slow. In fact, I read deliberately slow. But what I also do is read all the time. [I am always carrying a book with me](https://www.instagram.com/p/BobjZcThtAR/). **Every time I get a second, I crack it open. I don’t install games on my phone—that’s time for reading. When I’m eating, on a plane, in a waiting room, or sitting in traffic in an [[Uber]]—I read. There’s no trick, no secret, no shortcut.** I like B.H. Liddell Hart’s old line that sometimes the longest way around is the shortest way home. If you put the time in, you get the results.”*
 
 So, while I lick my wounds and reflect on how to make more room for reading, I still wanted to reflect on some of the themes this year.
 
@@ -54,7 +54,7 @@ So, while I lick my wounds and reflect on how to make more room for reading, I s
 
 ### Fiction
 
-Every year as I’ve looked back on what I’ve read, I keep getting reminded of this Twitter interaction I had in 2020.
+Every year as I’ve looked back on what I’ve read, I keep getting reminded of this [[Twitter]] interaction I had in 2020.
 
 ![Source:Twitter](/images/2023-in-books-911de352.png)
 
@@ -66,7 +66,7 @@ I’ve enjoyed having a healthy diet of fiction in my repertoire. Going forward,
 
 ### Playbooks
 
-What books are left after you take out all the fiction, there isn’t much. But between Talent, The Power Law, and The Navalmanack, you start see these crystallized lessons from practitioners. I’ve [written before](https://investing1012dot0.substack.com/p/the-professionalization-of-startups) about the professionalization of startups:
+What books are left after you take out all the fiction, there isn’t much. But between [[Talent]], [[The Power Law: Venture Capital & the Making of the New Future|The Power Law]], and [[The Almanack of Naval Ravikant|The Navalmanack]], you start see these crystallized lessons from practitioners. I’ve [written before](https://investing1012dot0.substack.com/p/the-professionalization-of-startups) about the professionalization of startups:
 
 > *“If you step back and look at the breadth of startup experience that people have today you'll start to appreciate two things. First, it's impressive the kinds of incredible experience people have now built up. And second, we're really just getting into the first generation of that experience being widespread.”*
 

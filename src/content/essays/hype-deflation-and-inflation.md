@@ -43,9 +43,9 @@ I've written so often about hype that its become [a section](https://kwharrison1
 - [On Hype And Hot Air; May 2023](https://investing1012dot0.substack.com/p/on-hype-and-hot-air?utm_source=publication-search)
 - [The Pace of FOMO Cycles; October 2023](https://investing1012dot0.substack.com/p/the-pace-of-fomo-cycles?utm_source=publication-search)
 
-Throughout this whole corpus of exploration on the topic of hype I've highlighted categories that have come, and gone, and come again. Virtual reality in 2013 (Google Glass, Oculus), chatbots in 2016 (Intercom, Drift), meal kits in 2017 (Blue Apron), micro mobility in 2018 (Bird, Lime), web3 in 2021 (OpenSea, FTX), and AI in 2022 (OpenAI, Anthropic). We're starting to see the rising hype tide around the catch all that is American dynamism which touches on industrial categories, like aerospace, defense, manufacturing, etc.
+Throughout this whole corpus of exploration on the topic of hype I've highlighted categories that have come, and gone, and come again. Virtual reality in 2013 ([[Alphabet|Google]] Glass, [[Oculus]]), chatbots in 2016 (Intercom, Drift), meal kits in 2017 (Blue Apron), micro mobility in 2018 ([[Bird]], Lime), web3 in 2021 ([[OpenSea]], FTX), and AI in 2022 ([[OpenAI]], Anthropic). We're starting to see the rising hype tide around the catch all that is American dynamism which touches on industrial categories, like aerospace, defense, manufacturing, etc.
 
-**But one critical aspect of this equation is the word "cycle." We, too often focus so much on the up, or so much on the down, but not enough on the cyclicality of it.** Take VR. Google Glass was all the rage in 2013 when it first launched (and I mean [all the rage](https://www.google.com/search?sca_esv=89d0d0f18241ff13&sxsrf=ACQVn0_rYER_5_MR44xbk8WRe2HxPiQ_og:1713012612874&q=famous+people+wearing+google+glass&tbm=isch&source=lnms&prmd=ivnsmbtz&sa=X&ved=2ahUKEwiMk6Ginb-FAxW9NEQIHb-kDdMQ0pQJegQICxAB&biw=1163&bih=720&dpr=2.2#imgrc=gM58zK6gmG3LzM)!) Then it failed. Then Facebook [bought](https://about.fb.com/news/2014/03/facebook-to-acquire-oculus/) Oculus for $2B+. Then they fired Palmer Luckey. Then Apple [announced](https://www.apple.com/apple-vision-pro/) Vision Pro. It cycles over decades.
+**But one critical aspect of this equation is the word "cycle." We, too often focus so much on the up, or so much on the down, but not enough on the cyclicality of it.** Take VR. Google Glass was all the rage in 2013 when it first launched (and I mean [all the rage](https://www.google.com/search?sca_esv=89d0d0f18241ff13&sxsrf=ACQVn0_rYER_5_MR44xbk8WRe2HxPiQ_og:1713012612874&q=famous+people+wearing+google+glass&tbm=isch&source=lnms&prmd=ivnsmbtz&sa=X&ved=2ahUKEwiMk6Ginb-FAxW9NEQIHb-kDdMQ0pQJegQICxAB&biw=1163&bih=720&dpr=2.2#imgrc=gM58zK6gmG3LzM)!) Then it failed. Then [[Facebook]] [bought](https://about.fb.com/news/2014/03/facebook-to-acquire-oculus/) Oculus for $2B+. Then they fired [[Palmer Luckey]]. Then [[Apple]] [announced](https://www.apple.com/apple-vision-pro/) Vision Pro. It cycles over decades.
 
 Fred Wilson [talked](https://www.theblock.co/post/236076/union-square-ventures-fred-wilson-thinks-ai-interest-resembles-crypto-hype-cycle) last year about these types of hype cycles:
 
@@ -67,22 +67,22 @@ I think that the reason people get uncomfortable with hype cycles is because the
 
 That's an OG. The truly convicted. His concern is for the scientific progress in the space. Not the hype. Not the price. Not the ability to raise, or the revenue potential. He's truly convicted of the progress in the category, and is willing to acknowledge that too much excitement can be just as damaging as not enough.
 
-When I think about the truly convicted, I'm reminded of the story of Mark Zuckerberg turning down a $1B acquisition offer from Yahoo. Now, granted, in hindsight as Meta towers over Yahoo with a $1.3 TRILLION market cap, (compared to Yahoo getting scooped up by Apollo alongside AOL in [a $5B deal](https://www.axios.com/2023/08/29/yahoo-apollo-renaissance-jim-lanzone)) it's easy to say that was a good decision.
+When I think about the truly convicted, I'm reminded of the story of [[Mark Zuckerberg]] turning down a $1B acquisition offer from [[Yahoo]]. Now, granted, in hindsight as Meta towers over Yahoo with a $1.3 TRILLION market cap, (compared to Yahoo getting scooped up by Apollo alongside AOL in [a $5B deal](https://www.axios.com/2023/08/29/yahoo-apollo-renaissance-jim-lanzone)) it's easy to say that was a good decision.
 
 But at the time, Mark Zuckerberg was 22 years old, and owned 25% of Facebook. The company had $30M of revenue and was not profitable. Zuck [walked into the conversation](https://www.inc.com/allison-fass/peter-thiel-mark-zuckerberg-luck-day-facebook-turned-down-billion-dollars.html) about that decision with his conviction on his chest: "This is kind of a formality, just a quick board meeting, it shouldn't take more than 10 minutes. We're obviously not going to sell here."
 
-Peter Thiel pushed him to take the conversation seriously: "You own 25 percent. There's so much you could do with the money." Zuck's answer should be the war cry of every truly convicted soul: **"I don't know what I could do with the money. I'd just start another social networking site. I kind of like the one I already have."**
+[[Peter Thiel]] pushed him to take the conversation seriously: "You own 25 percent. There's so much you could do with the money." Zuck's answer should be the war cry of every truly convicted soul: **"I don't know what I could do with the money. I'd just start another social networking site. I kind of like the one I already have."**
 
-I haven't been able to find this from where I originally saw it, maybe a Twitter thread (so if you know what I'm talking about, send it to me). But when you look at some of the great companies over the last few years, they're almost never businesses that were built *within* the height of a hype cycle:
+I haven't been able to find this from where I originally saw it, maybe a [[Twitter]] thread (so if you know what I'm talking about, send it to me). But when you look at some of the great companies over the last few years, they're almost never businesses that were built *within* the height of a hype cycle:
 
-- Stripe was founded in 2009 while everyone was focused on social media.
-- Coinbase was founded in 2012 while everyone was focused on VR.
+- [[Stripe]] was founded in 2009 while everyone was focused on [[Social Media|social media]].
+- [[Coinbase]] was founded in 2012 while everyone was focused on VR.
 - OpenAI was founded in 2015 while everyone was focused on IoT
-- Anduril was founded in 2017 while everyone was focused on crypto.
+- [[Anduril]] was founded in 2017 while everyone was focused on crypto.
 
 **Palmer Luckey is one of the patron saints of the truly convicted.** In multiple interviews, he's refused to speak ill of Meta and Meta Quest, even though the company fired him, because he is still a committed believer in VR, and anything he could say critically about them could do damage to the category overall.
 
-His latest company, Anduril, is no exception. He's been through the hype cycle ringer. In 2019, Bloomberg [called](https://www.bloomberg.com/news/features/2019-10-03/tech-s-most-controversial-startup-now-makes-attack-drones) Anduril "tech's most controversial company.” Palmer himself [points out](https://www.youtube.com/watch?v=nK0NfL2M5L4&t=1s) that this was the same year where TikTok was banning users for calling attention to the Uyghur genocide in China, or banning users for posting homosexual content. This was the same year Adam Neumann paid himself tens of millions of dollars for the right to use the word "We." It was the year Uber was under federal investigation for its workplace culture. It was the year Facebook was getting hauled in front of Congress to testify.
+His latest company, Anduril, is no exception. He's been through the hype cycle ringer. In 2019, Bloomberg [called](https://www.bloomberg.com/news/features/2019-10-03/tech-s-most-controversial-startup-now-makes-attack-drones) Anduril "tech's most controversial company.” Palmer himself [points out](https://www.youtube.com/watch?v=nK0NfL2M5L4&t=1s) that this was the same year where [[TikTok]] was banning users for calling attention to the Uyghur genocide in China, or banning users for posting homosexual content. This was the same year [[Adam Neumann]] paid himself tens of millions of dollars for the right to use the word "We." It was the year [[Uber]] was under federal investigation for its workplace culture. It was the year Facebook was getting hauled in front of Congress to testify.
 
 > *"But of course, as a tiny defense company making a handful of purely defensive base security systems that committed the crime of building technology for the military, Anduril was the one that claimed the belt for the world's most controversial technology company."*
 
@@ -90,13 +90,13 @@ Nowadays, Palmer talks about going on his "I told you so" tour. A company founde
 
 What's more is even as other hype cycles rise, like AI, Palmer doesn't jump ship. He isn't like the Fortune 500s who were suddenly announcing their NFT plays in 2021. He embraces some of the hype, in as far as it empowers the thing he really believes in, which is building defense technology for the U.S. and its allies. He [says it himself](https://www.youtube.com/watch?v=6iu8l82GqJQ):
 
-> *"I love ChatGPT, not because I use it, but because my customers all use it and that has made them believe in AI. Even though my AI has nothing to do with large language models.”*
+> *"I love [[ChatGPT]], not because I use it, but because my customers all use it and that has made them believe in AI. Even though my AI has nothing to do with large language models.”*
 
 # Deflation & Inflation
 
 Hype is a physical force that deserves a place on the periodic table. The global social and economic impacts hype can have are just as powerful as oxygen or hydrogen. **But just as the elements are natural forces that we can bend to our will, hype is something we all ought to have a better grasp on.**
 
-Hype comes and goes. Stories wax and wane in people's minds. Conviction, true conviction, is not born of consent.
+Hype comes and goes. Stories wax and wane in people's minds. [[Conviction]], true conviction, is not born of consent.
 
 Conviction born from the draw of hype is rarely built to stand the test of time.
 

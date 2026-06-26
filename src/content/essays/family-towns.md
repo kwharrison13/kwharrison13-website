@@ -11,7 +11,7 @@ substack_url: "https://investing101.substack.com/p/family-towns"
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/learning-to-dream">Learning To Dream</a>, <a href="/essays/in-defense-of-disney">In Defense of Disney</a>, <a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/the-rise-of-the-cash-man">The Rise of The Cash Man</a>, <a href="/essays/networked-conviction-roam-investing">Networked Conviction: Roam + Investing</a>, <a href="/essays/touch-some-grass">Touch Some Grass</a>, <a href="/essays/back-to-the-grass">Back To The Grass</a>, <a href="/essays/taking-a-breath">Taking a Breath</a>, <a href="/essays/pondering-the-grass">Pondering The Grass</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/investing-101">Investing 101</a>, <a href="/essays/learning-to-dream">Learning To Dream</a>, <a href="/essays/in-defense-of-disney">In Defense of Disney</a>, <a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/the-rise-of-the-cash-man">The Rise of The Cash Man</a>, <a href="/essays/networked-conviction-roam-investing">Networked Conviction: Roam + Investing</a>, <a href="/essays/touch-some-grass">Touch Some Grass</a>, <a href="/essays/back-to-the-grass">Back To The Grass</a>, <a href="/essays/taking-a-breath">Taking a Breath</a>, <a href="/essays/pondering-the-grass">Pondering The Grass</a></span></div>
 </aside>
 <!-- connections-end -->
 
@@ -25,11 +25,11 @@ Because we didn’t fly, anywhere we went we were driving. With Albuquerque, New
 
 Whenever we would drive, I remember distinctly talking to my Dad about all these towns that we would drive through. Taking speculative guesses at why they were there based on what we saw. College towns? Refineries? Factories? Military bases?
 
-On one particularly eventful trip, we drove the ~27 hours to Orlando, Florida to go to Walt Disney World. A core node in my brain revolves around city building and urban development because of Walt Disney (I’ve written about that [over](https://investing101.substack.com/p/learning-to-dream?utm_source=publication-search), and [over](https://investing101.substack.com/p/in-defense-of-disney?utm_source=publication-search), and [over](https://investing101.substack.com/p/historical-futurism?utm_source=publication-search), and [over](https://investing101.substack.com/p/the-rise-of-the-cash-man?utm_source=publication-search) again.)
+On one particularly eventful trip, we drove the ~27 hours to Orlando, Florida to go to Walt Disney World. A core node in my brain revolves around city building and urban development because of [[Walt Disney]] (I’ve written about that [over](https://investing101.substack.com/p/learning-to-dream?utm_source=publication-search), and [over](https://investing101.substack.com/p/in-defense-of-disney?utm_source=publication-search), and [over](https://investing101.substack.com/p/historical-futurism?utm_source=publication-search), and [over](https://investing101.substack.com/p/the-rise-of-the-cash-man?utm_source=publication-search) again.)
 
-On another trip we drove to Nauvoo, Illinois. It’s a town that has a unique religious importance for me because it was a city that my ancestors, early members of The Church of Jesus Christ of Latter-Day Saints, built with their bare hands, carving it out of a swamp until it eventually rivaled Chicago in size at the time.
+On another trip we drove to [[Nauvoo]], Illinois. It’s a town that has a unique religious importance for me because it was a city that my ancestors, early members of [[The Church of Jesus Christ of Latter-day Saints|The Church of Jesus Christ of Latter-Day Saints]], built with their bare hands, carving it out of a swamp until it eventually rivaled [[Chicago]] in size at the time.
 
-In fact, in the [very first blog post](https://investing101.substack.com/p/roam-investing?utm_source=publication-search) I ever wrote on Investing 101, I talked about different portfolio ideas I have that I aggregate information around, and one of them was “City Building.” In it, I mentioned a napkin that I wrote up when I was 11 and we were touring Nauvoo. The vision was to build a Disney-esque getaway location where you could enjoy an authentic frontier town experience.
+In fact, in the [very first blog post](https://investing101.substack.com/p/roam-investing?utm_source=publication-search) I ever wrote on [[Investing 101]], I talked about different portfolio ideas I have that I aggregate information around, and one of them was “[[City Building]].” In it, I mentioned a napkin that I wrote up when I was 11 and we were touring Nauvoo. The vision was to build a [[Disney]]-esque getaway location where you could enjoy an authentic frontier town experience.
 
 ![](/images/family-towns-daba7046.png)
 
@@ -37,9 +37,9 @@ The reason my mind is dwelling on the science of towns is because I’m off the 
 
 ![](/images/family-towns-8646289f.png)
 
-Named after [Solomon Luna](https://en.wikipedia.org/wiki/Solomon_Luna), the wealthiest man in New Mexico at one point, but it was settled by Mormon ranchers in 1883. One of those ranchers? William Laney Jr. His father, William Leany, was born in Logan, Kentucky in 1814 and was baptized into The Church of Jesus Christ of Latter-Day Saints in 1833. He then moved to Missouri to join with the main body of the church. After being chased out of Missouri and Nauvoo, he moved to Utah.
+Named after [Solomon Luna](https://en.wikipedia.org/wiki/Solomon_Luna), the wealthiest man in New Mexico at one point, but it was settled by [[Mormon]] ranchers in 1883. One of those ranchers? William Laney Jr. His father, William Leany, was born in Logan, Kentucky in 1814 and was baptized into The Church of Jesus Christ of Latter-Day Saints in 1833. He then moved to Missouri to join with the main body of the church. After being chased out of Missouri and Nauvoo, he moved to Utah.
 
-His son, William Laney, Jr. was born in Salt Lake City, Utah in 1848. At the age of 35, he was asked to move with a group of Saints to settle in New Mexico. He was my great-great-great grandpa. Since then, there have been Laneys / Thompsons / Shupes living in Luna. My daughter’s name is Eve Luna Harrison.
+His son, William Laney, Jr. was born in [[Salt Lake City]], Utah in 1848. At the age of 35, he was asked to move with a group of Saints to settle in New Mexico. He was my great-great-great grandpa. Since then, there have been Laneys / Thompsons / Shupes living in Luna. My daughter’s name is Eve Luna Harrison.
 
 ![William Laney Jr. and Harriet Ellen Fuller Laney](/images/family-towns-1f1221aa.png)
 

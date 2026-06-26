@@ -31,17 +31,17 @@ So, when thinking about what I could pull together, it was to take a few of the 
 
 # "Who Has Beliefs? And Who Has None?"
 
-The first nugget is Tim Walz's [comments](https://x.com/Tim_Walz/status/1902197581586833643) on Tesla's stock price. This is one that I feel like has been discussed ad nauseam by both sides of the political spectrum. But I'm not as angry about conservative vs. liberal talking points. I'm drawn in by what it says about stated vs. revealed beliefs.
+The first nugget is Tim Walz's [comments](https://x.com/Tim_Walz/status/1902197581586833643) on [[Tesla]]'s stock price. This is one that I feel like has been discussed ad nauseam by both sides of the political spectrum. But I'm not as angry about conservative vs. liberal talking points. I'm drawn in by what it says about stated vs. revealed beliefs.
 
 ![Source:Twitter](/images/beliefs-blockbusters-and-boyhood-896057b1.png)
 
 Liberals, in general, are the party of climate change prioritization. It's often described as an existential threat; maybe the only threat that matters because it could lead to human extinction. So if you think climate change is an important issue, and you believe that decarbonization is the best path forward then vehicle electrification is a critical piece of that puzzle.
 
-Tesla is, by all accounts, a key catalyst in that evolution. Tesla's success explicitly caused car manufacturers like [GM](https://www.reuters.com/technology/artificial-intelligence/gm-use-nvidia-ai-chips-software-automate-vehicles-factories-2025-03-18/?utm_source=chatgpt.com) and [Toyota](https://www.businessinsider.com/toyota-china-factory-tesla-elon-musk-lead-turn-things-around-2025-2?utm_source=chatgpt.com) to prioritize electrification. The adoption of of Tesla's North American Charging Standard ([NACS](https://en.wikipedia.org/wiki/North_American_Charging_System)) by companies like GM and Ford have further pushed the distribution of electric vehicles. Whether you like Elon Musk or not, Tesla has played a critical role in pushing forward EVs.
+Tesla is, by all accounts, a key catalyst in that evolution. Tesla's success explicitly caused car manufacturers like [GM](https://www.reuters.com/technology/artificial-intelligence/gm-use-nvidia-ai-chips-software-automate-vehicles-factories-2025-03-18/?utm_source=chatgpt.com) and [Toyota](https://www.businessinsider.com/toyota-china-factory-tesla-elon-musk-lead-turn-things-around-2025-2?utm_source=chatgpt.com) to prioritize electrification. The adoption of of Tesla's North American Charging Standard ([NACS](https://en.wikipedia.org/wiki/North_American_Charging_System)) by companies like GM and Ford have further pushed the distribution of electric vehicles. Whether you like [[Elon Musk]] or not, Tesla has played a critical role in pushing forward EVs.
 
 As a liberal standard bearer, like Tim Walz, I would think that the prioritization of climate change would rise above the petty squabbles of political figure heads. Apparently, it does not. **Garnering the support of "Us" against the monolith of "Them" is more important than any singular issue, including the existential threat of climate change.**
 
-The demonstration reminded me of another interaction I saw on Twitter. First, if you aren't familiar, [Lulu](https://x.com/lulumeservey) is one of the absolute BEST follows on Twitter. She often breaks down the comms strategy of different high profile launches, events, or celebrity breakups. They're great. She did that in reflecting on the launch of Gavin Newsom's new podcast where his first guests were Republican luminaries like Charlie Kirk and Steve Bannon.
+The demonstration reminded me of another interaction I saw on [[Twitter]]. First, if you aren't familiar, [Lulu](https://x.com/lulumeservey) is one of the absolute BEST follows on Twitter. She often breaks down the comms strategy of different high profile launches, events, or celebrity breakups. They're great. She did that in reflecting on the launch of Gavin Newsom's new podcast where his first guests were Republican luminaries like Charlie Kirk and Steve Bannon.
 
 First, I was also impressed by the podcast. Again, anyone who jumps right to "how does this align with my [conservative/liberal] approved world view?" is just going to be angry. But if you can reflect on it honestly, its really interesting to see someone engage with a political opponent in such a balanced way. It's very rare in modern politics. And I thought it was interesting.
 
@@ -53,9 +53,9 @@ But when you unpack the substance of many of Newsom's discussion topics, you fin
 
 **Beliefs are beliefs, regardless of how politically, financially, and personally advantageous they are.**
 
-I'll give you an example of an unwavering belief that I have a ton of respect for. I've watched dozens of interviews with Palmer Luckey, the founder of Anduril. So many interviews that I can't actually remember which ones he's talked about this in, but he has.
+I'll give you an example of an unwavering belief that I have a ton of respect for. I've watched dozens of interviews with [[Palmer Luckey]], the founder of [[Anduril]]. So many interviews that I can't actually remember which ones he's talked about this in, but he has.
 
-If you're not familiar with the context, before Anduril, Palmer was the founder of Oculus which he sold to Facebook for $2B. Later, he was fired from Facebook because of a small political donation that he made. Palmer describes it as one of the most formative experiences of his life because he was so soundly betrayed, and it has formed an immense chip on his shoulder.
+If you're not familiar with the context, before Anduril, Palmer was the founder of [[Oculus]] which he sold to [[Facebook]] for $2B. Later, he was fired from Facebook because of a small political donation that he made. Palmer describes it as one of the most formative experiences of his life because he was so soundly betrayed, and it has formed an immense chip on his shoulder.
 
 Despite having plenty of evidence that he was illegally fired for political beliefs, he has explicitly said he made a deliberate choice NOT to go scorched earth on Facebook with lawsuits. Why would he do that? Because he believes in VR.
 
@@ -63,11 +63,11 @@ He believes in VR so much that he said no to a $1B offer from Facebook. It wasn'
 
 He believes in VR so much that, even after he was summarily attacked for benign political donations, and thrown to the wolves by Facebook as a corporate entity, he STILL chooses not to go scorched earth on the company. Because, ultimately, though he might win the legal battle, he would do damage to the VR industry. **And his beliefs run deeply in support of VR, regardless of how personally damaging it was to let the record stand in obscurity.**
 
-Conviction in something is measured by your willingness to maintain that belief, despite how uncomfortable it becomes for you. I was reminded of [the quote](https://www.youtube.com/watch?v=wdhAUHMm5-0) from the Hamilton musical when he chooses to side with a political enemy like Thomas Jefferson over Aaron Burr for a specific reason: “Jefferson has beliefs. Burr has none.”
+[[Conviction]] in something is measured by your willingness to maintain that belief, despite how uncomfortable it becomes for you. I was reminded of [the quote](https://www.youtube.com/watch?v=wdhAUHMm5-0) from the Hamilton musical when he chooses to side with a political enemy like [[Thomas Jefferson]] over Aaron Burr for a specific reason: “Jefferson has beliefs. Burr has none.”
 
 # The Hits Business Strikes Back
 
-The second nugget is the massive [$320M](https://www.hindustantimes.com/entertainment/hollywood/netflixs-most-expensive-film-the-electric-state-budget-avatar-the-avengers-rejected-by-universal-320-million-flop-101742564043311.html) flop that is Netflix's new movie, The Electric State. Seemingly unconnected, but when I think about beliefs, I think about incentives. And the most powerful incentive is money.
+The second nugget is the massive [$320M](https://www.hindustantimes.com/entertainment/hollywood/netflixs-most-expensive-film-the-electric-state-budget-avatar-the-avengers-rejected-by-universal-320-million-flop-101742564043311.html) flop that is [[Netflix]]'s new movie, The Electric State. Seemingly unconnected, but when I think about beliefs, I think about incentives. And the most powerful incentive is money.
 
 ![Illustration for The Hits Business Strikes Back section](/images/beliefs-blockbusters-and-boyhood-4b383403.png)
 
@@ -81,9 +81,9 @@ And when I look at why so many of these movies are terrible, its because they re
 
 And as sad as it makes me, it aligns directly to what the studios who make movies believe in: profit.
 
-Most Hollywood studios are either publicly traded companies themselves, or are part of public companies. So there is the ever-present overhang of earnings calls and stock prices to contend with. That's why you see things like David Zaslav, the CEO of Warner Brothers, [saying explicitly](https://www.hollywoodreporter.com/tv/tv-news/harry-potter-tv-series-officially-happening-at-max-1235371717/) that the studio would focus on tried-and-true IP:
+Most [[Hollywood]] studios are either publicly traded companies themselves, or are part of public companies. So there is the ever-present overhang of earnings calls and stock prices to contend with. That's why you see things like [[David Zaslav]], the CEO of Warner Brothers, [saying explicitly](https://www.hollywoodreporter.com/tv/tv-news/harry-potter-tv-series-officially-happening-at-max-1235371717/) that the studio would focus on tried-and-true IP:
 
-> ***“We’re going to focus on franchises.** We haven’t had a Superman movie in 13 years. We haven’t done a Harry Potter in 15 years. The DC movies and the Harry Potter movies provided a lot of the profits for Warner Bros … over the past 25 years.”*
+> ***“We’re going to focus on franchises.** We haven’t had a Superman movie in 13 years. We haven’t done a [[Harry Potter]] in 15 years. The DC movies and the Harry Potter movies provided a lot of the profits for Warner Bros … over the past 25 years.”*
 
 These kinds of people make movies, not because they believe in the power of storytelling, but because they believe in the centrality of making as much money as possible. Which brings me to The Electric State.
 
@@ -116,7 +116,7 @@ What struck me as interesting about this story isn't that white young men haven'
 
 The TLDR of the story is the show creator read several news reports about young women who had been murdered with a Knife in the UK. One of the more high profile stories that sparked his interest was about a black man who stabbed a young girl to death with a knife (that's what the tweet above is angry about). He felt like exploring those stories through a show.
 
-Out of curiosity, I asked ChatGPT a couple of questions (did not fact check details...)
+Out of curiosity, I asked [[ChatGPT]] a couple of questions (did not fact check details...)
 
 First, have knife crimes really increased in the UK? Because I've heard that before. They most certainly have; knife crimes (not necessarily murders) have risen 80% over the last decade. Knife murders, on the other hand, have eerily remained pretty flat with almost exactly 250 of them in the UK each year since 2018.
 
@@ -138,7 +138,7 @@ The political parties we belong to, the companies we build and invest in, the pr
 
 For some, they may think that concern isn't worth the effort because who we are is who we are, and we're too busy fighting the fight of our ideological in-groups to be bothered with the question of SHOULD we be in that particular in-group? However, who you are is not a fixed state. I genuinely believe that you can change. But it is a deliberate choice.
 
-So often, we default to "well, my in-group thinks Donald Trump is a fascist or the second coming of Jesus Christ, so I should too." Or "well, Tesla is the carrier of the apocalypse, or humanity's only future for stock gains, so I’ll go with that." It’s the path of least resistance.
+So often, we default to "well, my in-group thinks [[Donald Trump]] is a fascist or the second coming of [[Jesus|Jesus Christ]], so I should too." Or "well, Tesla is the carrier of the apocalypse, or humanity's only future for stock gains, so I’ll go with that." It’s the path of least resistance.
 
 Instead, we should be more willing to embrace nuance. Unpack our beliefs. And say "even though my in-group is bothered by the actions of the CEO of Tesla, electrifying vehicles is a core belief for me as I understand climate change. Therefore, my values will overwhelm my in-group precedents.”
 

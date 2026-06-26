@@ -21,7 +21,7 @@ substack_url: "https://investing101.substack.com/p/the-magic-of-world-building"
 
 “You might say, ‘I’m not the creative type.’... If that is how you feel, think again…** and remember that you are spirit [children] of the most creative Being in the universe**. Isn’t it remarkable to think that your very spirits are fashioned by an endlessly creative and eternally compassionate God?” ([Dieter F. Uchtdorf](https://www.churchofjesuschrist.org/study/general-conference/2008/10/happiness-your-heritage?lang=eng))
 
-Recently, I was listening to the [Binge Mode podcast](https://open.spotify.com/playlist/6dPsggAViCF6mMn6YzPLve) where each season is an in-depth exploration of a specific universe. Marvel, Game of Thrones, Star Wars -- this particular season was about Harry Potter.
+Recently, I was listening to the [Binge Mode podcast](https://open.spotify.com/playlist/6dPsggAViCF6mMn6YzPLve) where each season is an in-depth exploration of a specific universe. Marvel, Game of Thrones, Star Wars -- this particular season was about [[Harry Potter]].
 
 Theirs is a spoiler-full approach, so from the very beginning they’re reading into the subtext. In the first few chapters, Albus Dumbledore is discussing with Minerva McGonagall how exactly Voldemort died when trying to kill the infant Harry Potter. Dumbledore’s response? “We may never know how he survived.”
 
@@ -61,7 +61,7 @@ You feel cheated of the cleverness. Disappointed by the lack of payoff.
 
 The secret to a good story, holding in balance that cleverness and clarity, is akin to what makes a good magic trick. Being able to follow along but not knowing where the ending will take you.
 
-In Christopher Nolan’s *[The Prestige](https://www.imdb.com/title/tt0482571/)*, there is a [scene](https://www.youtube.com/watch?v=92HtQFQOVwc) when Christian Bale, an up-and-coming magician, is being implored by his wife to explain a particular magic trick. He showed her that he could catch a bullet fired from a gun. She presses him to explain it, but when he finally does, she admits with almost condescending dismissiveness, “once you know... its actually very obvious.”
+In [[Christopher Nolan]]’s *[The Prestige](https://www.imdb.com/title/tt0482571/)*, there is a [scene](https://www.youtube.com/watch?v=92HtQFQOVwc) when Christian Bale, an up-and-coming magician, is being implored by his wife to explain a particular magic trick. He showed her that he could catch a bullet fired from a gun. She presses him to explain it, but when he finally does, she admits with almost condescending dismissiveness, “once you know... its actually very obvious.”
 
 The magic is gone. The creative compact is broken.
 
@@ -85,7 +85,7 @@ Take Star Wars, for example, as a pot of intellectual property that has been sha
 
 George Lucas made the original Star Wars as a True Blue Creative Capitalist. High risk, high reward. He famously took a huge [salary cut](https://nofilmschool.com/george-lucas-star-wars-rights-gamble) to keep merchandizing rights. Even after the success of the first film, George Lucas opted to [self-finance](https://parade.com/1391976/samuelmurrian/george-lucas-net-worth/) Empire Strikes Back because the profits from the market enabled him to avoid studio overreach. **Ultimate entrepreneurial capitalism; letting it all ride behind something you believe in and getting a big payout**.
 
-Once Star Wars had become large and established, Disney “seized the means of production.” Now, you have a centralized access point to any Star Wars stories, whether you like it or not. And, unfortunately, Disney has been proving the inadequacy of the communist model ever since. It’s been almost 15 years since Disney bought Star Wars and almost a decade since they started making new Star Wars stories, but it seems like they *continue* to be insulated from the market’s feedback that these new stories are *not good*.
+Once Star Wars had become large and established, [[Disney]] “seized the means of production.” Now, you have a centralized access point to any Star Wars stories, whether you like it or not. And, unfortunately, Disney has been proving the inadequacy of the communist model ever since. It’s been almost 15 years since Disney bought Star Wars and almost a decade since they started making new Star Wars stories, but it seems like they *continue* to be insulated from the market’s feedback that these new stories are *not good*.
 
 Granted, you can call this communism or you can chalk it up to monopolism. Whether its communism and you *can’t* hear the market feedback, or its monopolism and you *won’t* hear the feedback; the result is the same. Inefficient market equilibrium. And that leads to audience disappointment rather than delight.
 
@@ -97,7 +97,7 @@ Contrast that with the sequel trilogy. It’s a soulless departure from the orig
 
 Another instructive comparison comes from a great series of mysteries; [Knives Out](https://en.wikipedia.org/wiki/Knives_Out_(film_series)). Daniel Craig is an eclectic Southern sleuth; Benoit Blanc. In the first movie he solves the already-solved murder of a millionaire author, in the second he solves the murder mystery within a murder mystery propping up a tech empire, and in the third movie he addresses the unaddressable resurrection of a murderous priest.
 
-Knives Out was also born in the “free market” where Rian Johnson, the director of the series, had control over his set of Agatha Christie-inspired tales. The first movie was a smash success and birthed a franchise. Arguably, the second one was not as good. But I would say Rian Johnson was able to react to the market pressure and improve some things for the third movie.
+Knives Out was also born in the “free market” where [[Rian Johnson]], the director of the series, had control over his set of Agatha Christie-inspired tales. The first movie was a smash success and birthed a franchise. Arguably, the second one was not as good. But I would say Rian Johnson was able to react to the market pressure and improve some things for the third movie.
 
 ![Source: Rotten Tomatoes](/images/the-magic-of-world-building-9f82ce6f.png)
 
@@ -119,15 +119,15 @@ A few years ago, Will Manidis perfectly articulated something I had been trying 
 
 ![Source: Twitter](/images/the-magic-of-world-building-b7df95c7.png)
 
-**Putting skin in the game is the ultimate calling card of the Creative Capitalist**. Just one massive example that comes to mind; Peter Thiel put up 76% of the first fund for Founders Fund himself. Since then, he has consistently put up ~20% of each fund himself on average.
+**Putting skin in the game is the ultimate calling card of the Creative Capitalist**. Just one massive example that comes to mind; [[Peter Thiel]] put up 76% of the first fund for [[Founders Fund]] himself. Since then, he has consistently put up ~20% of each fund himself on average.
 
 ![Source: The Generalist](/images/the-magic-of-world-building-e3724710.png)
 
-In any Creative endeavor, be it in the realm of imagination or reality, **commitment more often leads to Competent Creation** **than does hedged decision by committee**. Because when you know you’re committed, *you care* more deeply than anyone. No one cared about Star Wars more than George Lucas. Tolkien and Sanderson committed *decades* of their lives to their World Building. Elon Musk used $100M of his $180M after-tax fortune from the sale of PayPal to found SpaceX (another $70M he put in Tesla).
+In any Creative endeavor, be it in the realm of imagination or reality, **commitment more often leads to Competent Creation** **than does hedged decision by committee**. Because when you know you’re committed, *you care* more deeply than anyone. No one cared about Star Wars more than George Lucas. Tolkien and Sanderson committed *decades* of their lives to their World Building. [[Elon Musk]] used $100M of his $180M after-tax fortune from the sale of [[PayPal]] to found SpaceX (another $70M he put in [[Tesla]]).
 
 ## Iteration
 
-While the villain of my prior section was consistently Disney, redemption comes from the unlikeliest of places; in this case, from the history of Walt Disney itself. In a quote [I’ve written about before](https://investing101.substack.com/p/in-defense-of-disney), Walt Disney himself articulated how he went about building some of the most durable worlds we still have today:
+While the villain of my prior section was consistently Disney, redemption comes from the unlikeliest of places; in this case, from the history of [[Walt Disney]] itself. In a quote [I’ve written about before](https://investing101.substack.com/p/in-defense-of-disney), Walt Disney himself articulated how he went about building some of the most durable worlds we still have today:
 
 > “There’s really no secret about our approach. **We keep moving forward – opening up new doors and doing new things – because we’re curious**. And curiosity keeps leading us down new paths. We’re always exploring and experimenting. At WED, we call it Imagineering – the blending of creative imagination with technical know-how.”
 
@@ -139,7 +139,7 @@ The idea of planting a flag of the future you want to iterate towards is a funct
 
 The exhaustive planning that goes into competent World Building doesn’t always have to be meticulously laid out decades in advance. Things like J.K. Rowling leaving Dumbledore as mysterious, or having things like Tom Riddle’s diary in the second book; those are breadcrumbs. **Narrative anchors left as portals in time and story.**
 
-Startup narratives operate the same way. You plant a flag in the ground around your North Star vision. But then you build the details up along the way. A good story can flex to fit the details as they develop. Rowling’s horcruxes fit well into a world that was build around connective relationships and artifacts. SpaceX’s “expansion” into AI fits nicely into its core competencies; building Colossus is much more “them” even than competing with OpenAI or Anthropic.
+Startup narratives operate the same way. You plant a flag in the ground around your North Star vision. But then you build the details up along the way. A good story can flex to fit the details as they develop. Rowling’s horcruxes fit well into a world that was build around connective relationships and artifacts. SpaceX’s “expansion” into AI fits nicely into its core competencies; building [[Colossus]] is much more “them” even than competing with [[OpenAI]] or Anthropic.
 
 ## The Stories We Need
 

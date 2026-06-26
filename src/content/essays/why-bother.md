@@ -44,7 +44,7 @@ A line comes to mind that [I’ve written about](https://investing101.substack.c
 
 > *“We don’t know which will be the 10%. And the ones that were the 10% five years ago won’t necessarily be the 10% today. **So we’re all in competition to be in that top that deserves to live**.”*
 
-The presence of success maintains the prevalence of hope. If no one *ever* won the lottery, then eventually people would stop playing. My wife and I recently rewatched The Hunger Games, and there was [an interaction](https://www.youtube.com/watch?v=f88oLXuXiPo) that stuck with me. President Snow is talking to the Seneca Crane, the Head Gamemaker:
+The presence of success maintains the prevalence of hope. If no one *ever* won the lottery, then eventually people would stop playing. My wife and I recently rewatched The [[Hunger Games]], and there was [an interaction](https://www.youtube.com/watch?v=f88oLXuXiPo) that stuck with me. President Snow is talking to the Seneca Crane, the Head Gamemaker:
 
 > *“President Snow: Seneca, why do you think we have a winner?   
 >   
@@ -68,7 +68,7 @@ And who is to say who is “special?” Who is the arbiter of success?
 
 ## “What Do You Have To Believe?”
 
-To be successful, you don’t need to convince everyone. Palmer Luckey once [spoke](https://www.youtube.com/watch?v=Pnc5G0RzTLw) an important truth: **“you need to care about that 1% of the world that is going to be your ride or die.”** In the long-run, in order to be successful, you don’t have to convince everyone. You have to convince a select group of people. **Everyone has dependencies. But our dependencies are not everyone.**
+To be successful, you don’t need to convince everyone. [[Palmer Luckey]] once [spoke](https://www.youtube.com/watch?v=Pnc5G0RzTLw) an important truth: **“you need to care about that 1% of the world that is going to be your ride or die.”** In the long-run, in order to be successful, you don’t have to convince everyone. You have to convince a select group of people. **Everyone has dependencies. But our dependencies are not everyone.**
 
 If you’re building a business, you don’t have to sell to every addressable customer. Just enough to grow. You don’t have to convince every investor, just enough to survive. You don’t have to convince everyone to work for you, just the ones that matter.
 
@@ -84,7 +84,7 @@ Everyone “underwrites” variables across every aspect of their life that requ
 
 What my friend is noticing is *their* inability to underwrite those particular founders.
 
-But guess what? There are people who [passed](https://www.cracked.com/amp/pictofacts-166-the-21-stupidest-things-ever-said-by-powerful-people?utm_source=Facebook%20CRD&utm_medium=photow_bitly&utm_campaign=social%20account&fbclid=IwY2xjawNWqfxleHRuA2FlbQIxMABicmlkETFzMUdPQWVUMDZzN3lDSEVaAR7QXe17kJcnxiFIeBCHSPBELwf4KQtfspAj2r3h-chN9OGfqBte_dKkmnPkFw_aem_y7fG-UXd7JvQj_3Nj0JD-A) on investing in Apple because they met Steve Jobs in all his stinky, hippie, barefoot glory. They couldn’t underwrite his ability to be successful. But, turns out, he was *quite* successful.
+But guess what? There are people who [passed](https://www.cracked.com/amp/pictofacts-166-the-21-stupidest-things-ever-said-by-powerful-people?utm_source=Facebook%20CRD&utm_medium=photow_bitly&utm_campaign=social%20account&fbclid=IwY2xjawNWqfxleHRuA2FlbQIxMABicmlkETFzMUdPQWVUMDZzN3lDSEVaAR7QXe17kJcnxiFIeBCHSPBELwf4KQtfspAj2r3h-chN9OGfqBte_dKkmnPkFw_aem_y7fG-UXd7JvQj_3Nj0JD-A) on investing in [[Apple]] because they met [[Steve Jobs]] in all his stinky, hippie, barefoot glory. They couldn’t underwrite his ability to be successful. But, turns out, he was *quite* successful.
 
 I felt like those three reasons sufficed, but I kept coming back to this framing my friend offered up. “Why bother?” **In the face of relative measurements of success, unknown outcomes, and varying scorecards from different participants, why don’t more people just give up?**
 
@@ -112,7 +112,7 @@ You can take the moral of the film to be that some people truly are special. Wha
 
 There is no “everyone can be a hero” lesson in The Incredibles. Normal people are seen as NPCs for the most part; quirky side-characters to offer character exposition at best. The only real character arcs are those who are “Super.” That doesn’t typically bother audiences because they don’t see themselves as the normies, they see themselves as the superheroes. They, too, are on the hero’s journey. But the reality of the story is that the majority of people are, in fact, normal. And only a select few are special.
 
-My friend, I think, would resonate with that world view. There are the special few; the rest should know their place. I’m reminded of a few weeks ago [when I wrote about](https://investing101.substack.com/p/what-is-an-extraordinary-man) Crime & Punishment and the idea of the “extraordinary man” in relation to the normies:
+My friend, I think, would resonate with that world view. There are the special few; the rest should know their place. I’m reminded of a few weeks ago [when I wrote about](https://investing101.substack.com/p/what-is-an-extraordinary-man) [[Crime & Punishment]] and the idea of the “extraordinary man” in relation to the normies:
 
 > *“In the wake of the rise of the extraordinary, we are left with the ordinary. Those lumps of people; a mass that, as Raskolnikov describes it, **“exist in the world only so that finally, through some effort, with great strain, it may finally bring into the world one somewhat independent man in a thousand.”***
 

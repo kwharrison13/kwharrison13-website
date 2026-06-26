@@ -26,15 +26,15 @@ It’s my 5th year writing this blog every week without missing a week, bringing
 
 I’m going to be 34 years old, I’ve been married for 12 years, I have four kids (9, 6, 3, 1), I’ve started two companies, and sold one of them. Now that my wife and I are done having kids, and I just need to not suck at raising the ones I have, its left me also thinking through how to establish a life and routine that will be uninterrupted by another massive paradigm shift like adding another kid to the mix.
 
-Contrary is my primary life’s work right now. I didn’t start the firm, but I joined four years in. This year marks my 5th year at the firm, and we’re currently investing out of our fifth fund. As part of the firm, I built [Contrary Research](research.contrary.com); one of the largest private market research platforms in the world. We have 100K+ subscribers and have written 500+ reports across hundreds of companies and dozens of industry deep dives.
+[[Contrary]] is my primary life’s work right now. I didn’t start the firm, but I joined four years in. This year marks my 5th year at the firm, and we’re currently investing out of our fifth fund. As part of the firm, I built [Contrary Research](research.contrary.com); one of the largest private market research platforms in the world. We have 100K+ subscribers and have written 500+ reports across hundreds of companies and dozens of industry deep dives.
 
-**Investing. Family. Contrary. I’m in a position where a lot of my life is now in my control and at the mercy of my own systems and structure**. Bill Gates once [said](https://www.goodreads.com/quotes/302999-most-people-overestimate-what-they-can-do-in-one-year) “most people overestimate what they can do in one year and underestimate what they can do in ten years.” After I sold my first company, I had a hill I would walk down frequently. I called it my “10 Year Hill.”
+**[[Investing]]. Family. Contrary. I’m in a position where a lot of my life is now in my control and at the mercy of my own systems and structure**. [[Bill Gates]] once [said](https://www.goodreads.com/quotes/302999-most-people-overestimate-what-they-can-do-in-one-year) “most people overestimate what they can do in one year and underestimate what they can do in ten years.” After I sold my first company, I had a hill I would walk down frequently. I called it my “10 Year Hill.”
 
 ![Quote card from Investing 101](/images/investing-101-72b44838.png)
 
-I would stand at the top of it looking out and wondering where I would be in 10 years. Now, over a decade later, I’ve worked at four different investment firms, helped deploy billions of dollars into companies like Databricks, ServiceTitan, Figma, Robinhood, and a whole host of others. And I can tell you one thing; I didn’t see any of that when I stood at the top of my 10 Year Hill. Now, here I am, trying to build a new venture firm based on a decade of observing venture capital and how it’s evolving. And I find myself again wondering, what will the next decade hold?
+I would stand at the top of it looking out and wondering where I would be in 10 years. Now, over a decade later, I’ve worked at four different investment firms, helped deploy billions of dollars into companies like [[Databricks]], [[ServiceTitan]], [[Figma]], [[Robinhood]], and a whole host of others. And I can tell you one thing; I didn’t see any of that when I stood at the top of my 10 Year Hill. Now, here I am, trying to build a new venture firm based on a decade of observing venture capital and how it’s evolving. And I find myself again wondering, what will the next decade hold?
 
-The new year finds me reflecting on where each of these aspects of my life has placed me. Taking an inventory of that, I went through four key areas of my work: **(1) Reading, (2) Research, (3) Writing, and (4) Investing. These four buckets feel like the compounding engine of my life for translating ideas into actions:**
+The new year finds me reflecting on where each of these aspects of my life has placed me. Taking an inventory of that, I went through four key areas of my work: **(1) Reading, (2) [[Research]], (3) Writing, and (4) Investing. These four buckets feel like the compounding engine of my life for translating ideas into actions:**
 
 - Reading broadly exposes me to ideas
 - Research allows me to dive deeper into the most compelling nuggets I uncover
@@ -47,19 +47,19 @@ What’s more, the process is cyclical. The most interesting ideas I want to rea
 
 ![Source:2025 in Books](/images/investing-101-36b09a5d.png)
 
-I’ve always had my books spread out across the house. But after a recent move, we’ve finally got them all (almost all) in one place. A little over 1K books. That, plus a [massive list](https://kwharrison13.com/bookshelf/book-shopping-list) of books to read has me thinking harder about what I’ll read this year. In particular, [this piece](https://x.com/gregoryblotnick/status/2004666738789810374?s=20) inspired me to read The Story of Civilization books by Will and Ariel Durant. Between long, dense history books, world-building science fiction audiobooks, books I can read on my Kindle app, and more... I’ve got a lot to read.
+I’ve always had my books spread out across the house. But after a recent move, we’ve finally got them all (almost all) in one place. A little over 1K books. That, plus a [massive list](https://kwharrison13.com/bookshelf/book-shopping-list) of [[Books To Read|books to read]] has me thinking harder about what I’ll read this year. In particular, [this piece](https://x.com/gregoryblotnick/status/2004666738789810374?s=20) inspired me to read The Story of Civilization books by Will and Ariel Durant. Between long, dense history books, world-building science fiction audiobooks, books I can read on my Kindle app, and more... I’ve got a lot to read.
 
-Rather than selecting ahead of time all the books I’ll read, instead I wanted to set a goal of how many pages to read each day. I did a similar exercise so I could finish The Book of Mormon in 6 months and it worked quite well.
+Rather than selecting ahead of time all the books I’ll read, instead I wanted to set a goal of how many pages to read each day. I did a similar exercise so I could finish [[The Book of Mormon]] in 6 months and it worked quite well.
 
 So lets assume the average book is 350 pages long. I want to read ~40 books a year. That’s 14K pages. If I want to get there by the end of the year I need to read 38 pages a day; lets round up and say 40. Now, there are four categories that I want to focus most of my reading around: (1) history, (2) scripture, (3) fiction, and (4) what I’ll call professional context. Books that have to do with technology, economics, and business building in general.
 
 So to keep things simple I’ll work to create space for each kind of reading and aim to read 10 pages per day per category. **In the morning, 10 pages of history and 10 pages of scripture, throughout the day, 10 of professional context, and at night 10 of fiction.** We’ll see what impact that has on upping my reading time but my main focus is broadening the surface area of ideas I’m exposed to.
 
-I’m significantly more hesitant to set a specific goal for reading things like essays, white papers, and other shorter form writing. But I got exposed to an [exceptional challenge](https://youtu.be/_W-r7ABrMYU?t=511) from Ray Bradbury this year around this kind of reading. Here’s how he explains it:
+I’m significantly more hesitant to set a specific goal for reading things like essays, white papers, and other shorter form writing. But I got exposed to an [exceptional challenge](https://youtu.be/_W-r7ABrMYU?t=511) from [[Ray Bradbury]] this year around this kind of reading. Here’s how he explains it:
 
-> *“I’ll give you a program to follow every night. **For the next thousand nights, before you go to bed read one short story, one poem, and one essay.** One poem from the vast history of poetry; stay away from most modern poems, its crap. Read the great poets; Shakespeare, Alexander Pope, Robert Frost. And then a short story a night and an essay a night. From various fields; archeology, zoology, biology. All the great philosophers, comparing them. They’re crammed with pomegranate ideas. God, you’ll be full of stuff. **Full of ideas and metaphors along with your own perceptions of life and your own personal experience. The more metaphors you can cram yourself with, they’ll bounce around inside your head and make new metaphors**. That’s why you’re doing this.”*
+> *“I’ll give you a program to follow every night. **For the next thousand nights, before you go to bed read one short story, one poem, and one essay.** One poem from the vast history of poetry; stay away from most modern poems, its crap. Read the great poets; Shakespeare, Alexander Pope, [[Robert Frost]]. And then a short story a night and an essay a night. From various fields; archeology, zoology, biology. All the great philosophers, comparing them. They’re crammed with pomegranate ideas. God, you’ll be full of stuff. **Full of ideas and metaphors along with your own perceptions of life and your own personal experience. The more metaphors you can cram yourself with, they’ll bounce around inside your head and make new metaphors**. That’s why you’re doing this.”*
 
-The combination of tracking my reading volume from books plus my attempt at tackling Bradbury’s reading challenge, that’s a massive top of funnel of ideas to more fully build out what Charlie Munger called a “[latticework of knowledge](https://investing101.substack.com/p/a-latticework-of-knowledge).”
+The combination of tracking my reading volume from books plus my attempt at tackling Bradbury’s reading challenge, that’s a massive top of funnel of ideas to more fully build out what [[Charlie Munger]] called a “[latticework of knowledge](https://investing101.substack.com/p/a-latticework-of-knowledge).”
 
 # Research
 
@@ -72,9 +72,9 @@ On the one hand, I have a topical collection of resources that I want to use to 
 
 ![Tweet referenced in Research section](/images/investing-101-c804ea82.png)
 
-On the other hand, I also want to keep my mind open to the ideas that I get exposed to, whether from my top-of-funnel reading or my broader Twitter addiction.
+On the other hand, I also want to keep my mind open to the ideas that I get exposed to, whether from my top-of-funnel reading or my broader [[Twitter]] addiction.
 
-**For me, the research process is all about going** ***down*** **the rabbit hole. But once I get down there, I have a series of outlets with different formats that I can use for research output**. Contrary Research [deep dives](https://research.contrary.com/report) are one of them. My writing on this blog can be another (see below). So rather than having specific research goals, the act of reading on one end and writing on the other has research in the middle; but the writing output is more where my goals ended up focusing on.
+**For me, the research process is all about going** ***down*** **the rabbit hole. But once I get down there, I have a series of outlets with different formats that I can use for research output**. [[Contrary Research]] [deep dives](https://research.contrary.com/report) are one of them. My writing on this blog can be another (see below). So rather than having specific research goals, the act of reading on one end and writing on the other has research in the middle; but the writing output is more where my goals ended up focusing on.
 
 # Writing
 
@@ -104,7 +104,7 @@ Sometimes, it will just be a micro essay version of my full piece in a given wee
 
 ![Source:Investing 101](/images/investing-101-c4d45398.png)
 
-The blog post that it started it all! When I first created this Substack, it was to publish a piece back in 2021 where I unpacked my investment research process. Roam Research, as a tool, was a central part of the process. **But really the critical element was unpacking how my ideas connected to each other. Hence the title; “networked conviction.”** Since then, I’ve gotten a few requests for more detail around my research and investment process:
+The blog post that it started it all! When I first created this [[Substack]], it was to publish a piece back in 2021 where I unpacked my investment research process. [[Roam Research]], as a tool, was a central part of the process. **But really the critical element was unpacking how my ideas connected to each other. Hence the title; “networked conviction.”** Since then, I’ve gotten a few requests for more detail around my research and investment process:
 
 ![Framework diagram for networked conviction: my investing journal](/images/investing-101-c137d3ac.png)
 

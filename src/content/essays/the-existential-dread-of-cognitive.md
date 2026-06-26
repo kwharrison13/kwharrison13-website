@@ -29,7 +29,7 @@ Still constituting a "book," but dramatically shorter. Perfect! The librarian le
 
 I don't remember what I got on the assignment. I actually still have [the paper I wrote](https://docs.google.com/document/d/1JS1O3-wJACt3-VE2Pjk_gMFKd8v__6s6/edit?usp=sharing&ouid=106496738941809884077&rtpof=true&sd=true), and reading it makes me think I probably didn't get a great grade. But that chance encounter with Dostoevsky was my introduction to existentialism, and Russian literature more broadly. I discovered books like Crime and Punishment and Anna Karenina that would become some of my favorite books.
 
-When I re-read that paper that I wrote thinking about the existential place I often find myself, I was struck by this quote from Will Durant:
+When I re-read that paper that I wrote thinking about the existential place I often find myself, I was struck by this quote from [[Will Durant]]:
 
 > *“So much of our lives is meaningless, a self-canceling vacillation and futility. We strive with the chaos about and within, but **we should believe all the while that there is something vital and significant in us, could we but decipher our own souls**.”*
 
@@ -49,7 +49,7 @@ Then my friend perfectly captured the things I'd been feeling (edited for clarit
 >   
 > Getting bigger forces you to say yes to things you might not otherwise say yes to. I'm more interested, instead, in punching our industry in the face by helping as many VCs as possible succeed, **building competitors to the most mediocre of VCs so that they can get eaten faster**."*
 
-I realized that a lot of this same frustration is why I wanted to [join a firm like Contrary](https://investing1012dot0.substack.com/p/contrary-my-renegade-of-choice). **I wanted to do things differently in an attempt to do things better.** Conveniently, as I was brewing all of this in my mind, Paul Graham published a great essay today to go along with it called "[How To Do Great Work](http://paulgraham.com/greatwork.html)."
+I realized that a lot of this same frustration is why I wanted to [join a firm like Contrary](https://investing1012dot0.substack.com/p/contrary-my-renegade-of-choice). **I wanted to do things differently in an attempt to do things better.** Conveniently, as I was brewing all of this in my mind, [[Paul Graham]] published a great essay today to go along with it called "[How To Do Great Work](http://paulgraham.com/greatwork.html)."
 
 In it, he set out to articulate a recipe for answering this question: "If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like?" Here was a snapshot of it:
 
@@ -57,7 +57,7 @@ In it, he set out to articulate a recipe for answering this question: "If you co
 
 The rest of the essay is exceptional, but this key idea of noticing gaps and exploring the promising ones resonated with me. My writing is so often about the art and science of investing itself, rather than just company building, because its a reflection of my own exploration into my chosen field.
 
-My main piece that kicked off my process for exploring changes in venture capital and then writing about them was in "[The Unbundling of Venture Capital](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital)." In it, I used a quote from Don Valentine that is very similar to this idea from Paul Graham:
+My main piece that kicked off my process for exploring changes in venture capital and then writing about them was in "[The Unbundling of Venture Capital](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital)." In it, I used a quote from [[Don Valentine]] that is very similar to this idea from Paul Graham:
 
 > *"One of our theories is to seek out opportunities where there's a major change. Major dislocation in the way things are. **Wherever there's turmoil, there's indecision. And wherever there's indecision, there's opportunity.** So we look for the confusion when the big companies are confused. When the other venture groups are confused. That's the time to start companies."*
 
@@ -67,11 +67,11 @@ That's what I want to be doing. Identifying the gaps in how companies get funded
 
 Finally, I was led to another piece [I wrote about last year](https://investing1012dot0.substack.com/p/i-choose-optimism). Trae Stephens and Markie Wagner wrote a phenomenal piece called "[Choosing Good Quests](https://www.piratewires.com/p/choose-good-quests). Read the whole piece.
 
-As it relates to my feelings about venture capital, it comes down to what we're incentivized to build. I often find myself articulating this by using Hollywood as an analogy. The "business of blockbusters" has pushed movie studios to focus on spin-offs, sequels, and reboots. While this can lead to exciting movies, it rarely leads to unique stories.
+As it relates to my feelings about venture capital, it comes down to what we're incentivized to build. I often find myself articulating this by using [[Hollywood]] as an analogy. The "business of blockbusters" has pushed movie studios to focus on spin-offs, sequels, and reboots. While this can lead to exciting movies, it rarely leads to unique stories.
 
-I'm reminded of a story where Steven Spielberg complained that he had almost been forced to release his film, [Lincoln](https://bit.ly/439JXDx), as a mini-series instead of a full feature film because he couldn't get anyone to fund it! A movie made by Steven Spielberg, starring Daniel Day-Lewis! But the studio model had pushed those unique stories into the periphery in favor of massive blockbuster potential.
+I'm reminded of a story where [[Steven Spielberg]] complained that he had almost been forced to release his film, [Lincoln](https://bit.ly/439JXDx), as a mini-series instead of a full feature film because he couldn't get anyone to fund it! A movie made by Steven Spielberg, starring [[Daniel Day-Lewis]]! But the studio model had pushed those unique stories into the periphery in favor of massive blockbuster potential.
 
-Venture capital is facing a similar problem. The economic model pushes for bigger and bigger outcomes, that require more and more capital. This leads to larger funds, larger rounds, more cash burn, and more exorbitant ambitions. And don’t get me wrong, I don’t have any problems with ambition! I want to see the full unlock of human potential. Automation, robotics, diseases cured, and space traversed. But the ambitions are, so often, [luxury dog houses dressed up as solutions to the housing crisis](https://investing1012dot0.substack.com/p/the-rise-of-the-cash-man).
+Venture capital is facing a similar problem. The economic model pushes for bigger and bigger outcomes, that require more and more capital. This leads to larger funds, larger rounds, more cash burn, and more exorbitant ambitions. And don’t get me wrong, I don’t have any problems with ambition! I want to see the full unlock of human potential. [[Automation]], robotics, diseases cured, and space traversed. But the ambitions are, so often, [luxury dog houses dressed up as solutions to the housing crisis](https://investing1012dot0.substack.com/p/the-rise-of-the-cash-man).
 
 The world of change-making would be much better off if venture capitalists would leave the financial engineering to the "growth investors" and focus, instead, on being the idealistic enablers that they were meant to be. Nerdy fans of science fiction, human progress, and Utopian idealism. **The world, instead, moves further and further from manifesting the imaginable, descending deeper into a culture war of frustration and fear.**
 

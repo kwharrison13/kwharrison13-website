@@ -37,11 +37,11 @@ Let's reminisce on some hype cycles.
 
 ## Micro-Mobility
 
-In 2017, companies like Lime and Bird were founded to revolutionize the world of micro-mobility. Seemingly over night, major cities were starting to see armies of electric scooters available for every day users.
+In 2017, companies like Lime and [[Bird]] were founded to revolutionize the world of micro-mobility. Seemingly over night, major cities were starting to see armies of electric scooters available for every day users.
 
 ![Chart illustrating micro-mobility](/images/the-hype-cycles-of-venture-capital-57f2c80a.png)
 
-Within a few years these companies had [raised billions](https://www.crunchbase.com/organization/limebike/company_financials/funding_rounds) of dollars from firms like Sequoia, Index, CRV, Coatue, and a16z. Everyone had a thesis on the space; some people making it a big part of their profile as an investor where they were investing in the future of transportation.
+Within a few years these companies had [raised billions](https://www.crunchbase.com/organization/limebike/company_financials/funding_rounds) of dollars from firms like [[Sequoia]], [[Index Ventures|Index]], CRV, [[Coatue]], and a16z. Everyone had a thesis on the space; some people making it a big part of their profile as an investor where they were investing in the future of transportation.
 
 In late 2021, amidst the SPAC boom (another trend that became [some investors personalities](https://www.wsj.com/articles/when-spac-man-chamath-palihapitiya-speaks-reddit-and-wall-street-listen-11615006818)) Bird became a public company. They'd taken a hit during COVID (no one was scootering during the pandemic) but had come back in 2021 and ended the year at $205M in revenue, up 36% from where they were before COVID.
 
@@ -51,11 +51,11 @@ The company had a valuation of [$2.3B](https://www.pymnts.com/news/ipo/2021/bird
 
 ## Social Audio
 
-During the pandemic everyone was trapped at home baking bread and sinking into existential pits. But then a whisper of hope appeared in the Twittersphere. Something better than gold was starting to make the rounds. An invite to [Clubhouse](https://www.clubhouse.com/). The latest social app was listening in on live audio sessions. And if you didn't have an invite? You were missing out on Oprah Winfrey and Ashton Kutcher chatting about who knows what! Some people were [paying $125+](https://medium.datadriveninvestor.com/clubhouse-everything-to-know-about-the-invite-only-social-network-6563cfb019d) just to get an invite to the app.
+During the pandemic everyone was trapped at home baking bread and sinking into existential pits. But then a whisper of hope appeared in the Twittersphere. Something better than gold was starting to make the rounds. An invite to [Clubhouse](https://www.clubhouse.com/). The latest social app was listening in on live audio sessions. And if you didn't have an invite? You were missing out on [[Oprah Winfrey]] and Ashton Kutcher chatting about who knows what! Some people were [paying $125+](https://medium.datadriveninvestor.com/clubhouse-everything-to-know-about-the-invite-only-social-network-6563cfb019d) just to get an invite to the app.
 
 ![Tweet referenced in Social Audio section](/images/the-hype-cycles-of-venture-capital-41b1e016.png)
 
-The prospect of a new social platform was exciting; nothing new had really come on the scene since Snap was founded in 2011. And that excitement led to one of the hottest venture rounds anyone had seen in a while. VCs were tripping over each other to invest, calling in favors to celebrities (Obama himself got a call.) It all culminated in a16z leading the company's Series C at a [$4B valuation](https://techcrunch.com/2021/04/19/clubhouse/) in April 2021.
+The prospect of a new social platform was exciting; nothing new had really come on the scene since [[Snap]] was founded in 2011. And that excitement led to one of the hottest venture rounds anyone had seen in a while. VCs were tripping over each other to invest, calling in favors to celebrities (Obama himself got a call.) It all culminated in a16z leading the company's Series C at a [$4B valuation](https://techcrunch.com/2021/04/19/clubhouse/) in April 2021.
 
 There were some people who saw the hype, and couldn't help but lay out the bear case. Something didn't feel right about the vision people were selling. What was the more likely realistic outcome?
 
@@ -73,7 +73,7 @@ But the psychology of the investors who fluctuate from one thing to the next des
 
 For every tourist in a category, there are true thought leaders (using that phrase not ironically.) People who have dug into a field, and are legitimately well-versed in the area. Even people who have focused on transportation and went deep on micro-mobility? Guess what? Cities still suck to traverse, and we continue to need better solutions, so I'm glad those investors are backing the founders reinventing the ways we get around.
 
-Take Chris Dixon as a perfect example. No one can call him a crypto tourist. In a [recent profile](https://www.theinformation.com/articles/chris-dixon-sticks-to-crypto-investing-plan-amid-crash?rc=ecjlpf) about his continued belief in the crypto ecosystem there was a story of Dixon's friend Michael Ovitz (founder of the talent agency CAA), chiding Dixon about crypto:
+Take [[Chris Dixon]] as a perfect example. No one can call him a crypto tourist. In a [recent profile](https://www.theinformation.com/articles/chris-dixon-sticks-to-crypto-investing-plan-amid-crash?rc=ecjlpf) about his continued belief in the crypto ecosystem there was a story of Dixon's friend Michael Ovitz (founder of the talent agency CAA), chiding Dixon about crypto:
 
 > *“I will call him consistently, and if there’s some terrible headline, I’ll joke with him, ‘How are you feeling about crypto now?’ But he hasn’t wavered once,” Ovitz said. **“He doesn’t react. He just calmly says, ‘Nope, still long.**’”*
 
@@ -83,7 +83,7 @@ We're not talking about the Chris Dixon's of the world. The hype cycles are ofte
 
 The idea of "[the current thing](https://eriktorenberg.substack.com/p/the-current-thing-part-1)" is much bigger than venture capital. It's an observation that extends across cultural moments, and what the masses seem to be focusing on at any given time. Election misinformation, gun violence, Ukraine, and more. Heavy stuff. One way that I know the latest venture "trend" is usually not in the mass media zeitgeist is because of how rarely my family members have any idea what I'm talking about.
 
-*"Do you know what DAOs are? Okay, let me start from the beginning. GameStop wasn't doing well, right? Have you spent any time on Reddit?"*
+*"Do you know what DAOs are? Okay, let me start from the beginning. GameStop wasn't doing well, right? Have you spent any time on [[Reddit]]?"*
 
 Few people have more to say about this phenomenon of the current thing than [Marc Andreessen](https://twitter.com/pmarca). Every time I see his commentary, it makes me think more deeply about how much I've bought into a narrative vs. my own thinking. If you can observe in yourself tribalism, group-think, or blanket rejection of counter-points to your beliefs? Then you're probably bought in to the current thing.
 
@@ -99,13 +99,13 @@ For some people, that's just seeing trends that anyone can see. And in many case
 
 # The Contrarian View
 
-Another way of saying that is "being contrarian, and right." The name of my firm is literally Contrary, so it's something we think about a lot. If you think and do what everyone else is thinking and doing, that's a fine way to make friends but not a recipe for outsized investment returns. Finding the things about which very few people agree with you is the way to create opportunity for massive outcomes.
+Another way of saying that is "being contrarian, and right." The name of my firm is literally [[Contrary]], so it's something we think about a lot. If you think and do what everyone else is thinking and doing, that's a fine way to make friends but not a recipe for outsized investment returns. Finding the things about which very few people agree with you is the way to create opportunity for massive outcomes.
 
-Peter Thiel is often the investor people think of when it comes to making contrarian bets. There’s [a quote of his](https://fs.blog/peter-thiel-zero-to-one/) that always surprises me because it moves away from just "disagreeing with everyone" to focus on a more important dynamic for doing things differently:
+[[Peter Thiel]] is often the investor people think of when it comes to making contrarian bets. There’s [a quote of his](https://fs.blog/peter-thiel-zero-to-one/) that always surprises me because it moves away from just "disagreeing with everyone" to focus on a more important dynamic for doing things differently:
 
 > *"The most contrarian thing of all is not to oppose the crowd but to **think for yourself**."*
 
-Paul Graham has [a great essay](http://www.paulgraham.com/think.html) on this exact topic of thinking for yourself:
+[[Paul Graham]] has [a great essay](http://www.paulgraham.com/think.html) on this exact topic of thinking for yourself:
 
 > *"There are some kinds of work that you can't do well without thinking differently from your peers. To be a successful scientist, for example, it's not enough just to be correct. Your ideas have to be both correct and novel. You can't publish papers saying things other people already know. **You need to say things no one else has realized yet.** The same is true for investors. It's not enough for a public market investor to predict correctly how a company will do. If a lot of other people make the same prediction, the stock price will already reflect it, and there's no room to make money. **The only valuable insights are the ones most other investors don't share.**"*
 
@@ -115,7 +115,7 @@ The good news is, I don't think most people become VCs without having some curio
 
 The next two are much harder.
 
-It takes a lot of confidence to want to think for yourself. Venture often requires you to not only feel the need to avoid being told what to think, but feeding off the desire to be told your thinking is wrong. Keith Rabois [put it this way](https://www.thetwentyminutevc.com/keith-rabois/):
+It takes a lot of confidence to want to think for yourself. Venture often requires you to not only feel the need to avoid being told what to think, but feeding off the desire to be told your thinking is wrong. [[Keith Rabois]] [put it this way](https://www.thetwentyminutevc.com/keith-rabois/):
 
 > *“My litmus test for am I doing the job of venture right is **how many of my peers laugh at my investments.**”*
 

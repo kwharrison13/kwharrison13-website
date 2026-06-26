@@ -86,7 +86,7 @@ _A verbatim personal collection of LDS / gospel quotations, given to Kyle by his
 - [M. Russell Ballard](/notes/m-russell-ballard) — cited on Preach My Gospel in members' homes and a mission as "the greatest education in the world."
 - [Truman G. Madsen](/notes/truman-g-madsen) — quoted on the depth of Joseph Smith, living revelation, and strict honesty.
 - [Hugh Nibley](/notes/hugh-nibley) — source of the "which way you are facing" definition of repentance.
-- [Robert L. Millet](/notes/robert-l-millet) — quoted on "we see things as we really are" and maturing into joint-heirs with Christ.
+- [Robert L. Millet](/notes/robert-millet) — quoted on "we see things as we really are" and maturing into joint-heirs with Christ.
 - [Parley P. Pratt](/notes/parley-p-pratt) — source of the long passage on the spirit body and the premortal "school of love."
 - [C.S. Lewis](/notes/c-s-lewis) — quoted on there being "no neutral ground in the universe."
 - [T.S. Eliot](/notes/t-s-eliot) — source of the "knowledge we have lost in information" lines from "The Rock."
@@ -123,7 +123,7 @@ _A verbatim personal collection of LDS / gospel quotations, given to Kyle by his
 - “When obedience ceases to become an irritant and becomes our quest, in that moment God will endow [us] with power.” [Ezra Taft Benson](/notes/ezra-taft-benson)
 - -Page 2-
 - “All objections…hinge on…whether the Book of Mormon is true.” [Ezra Taft Benson](/notes/ezra-taft-benson)
-- “We don’t see things as they really are; we see things as we really are.” [Robert Millet](/notes/robert-l-millet)
+- “We don’t see things as they really are; we see things as we really are.” [Robert Millet](/notes/robert-millet)
 - “We would be lonely living anywhere but in the presence of God.” [Henry B. Eyring](/notes/henry-b-eyring)
 - “There is no reward for half-hearted obedience. We must become vigorous and enthusiastic about living our religion, for God commands that we serve Him with all our heart, with all our might, with all our strength, and with the very best of our intelligence. With Him there can be no halfway measures. We must be fully with Him or we may be classes with those who are against Him. ‘Then what shall we do? Put on the armor of God. That is what we are to do.’” [Mark E. Peterson](/notes/mark-e-peterson)
 - -Page 3-
@@ -221,7 +221,7 @@ _A verbatim personal collection of LDS / gospel quotations, given to Kyle by his
 - “...nothing that is good denieth the Christ, but acknowledgeth that He is.”
 - — [Moroni 10:6](/notes/moroni-10-6)
 - “To some people work is the dullest of drudgery, but to others it is an exciting part of life. One way to enjoy life’s fullest benefits is to learn to love work.”
-- — [Gospel Principles Manual](/notes/gospel-principles-manual)
+- — [Gospel Principles Manual](/notes/gospel-principles)
 - “Doing nothing is the hardest work of all, because one can never top to rest.”
 - — Anonymous
 - “The same God that placed that star in a precise orbit millennia before it appeared over Bethlehem in celebration of the birth of the babe, has given at least equal attention to the placement of each of us in a precise human orbit so that he may, if we will, illuminate the landscape of our individual lives so that our light may not only lead others, but warm them as well.”
@@ -531,7 +531,7 @@ _A verbatim personal collection of LDS / gospel quotations, given to Kyle by his
 - — [Neal A. Maxwell](/notes/neal-a-maxwell)
 - Born Again: A Child of God’s Fullness
 - “It was never intended that we remain children forever—even the children of Christ. The gospel plan has been given that we might mature spiritually to the point where we become joint-heirs or co-inheritors, with Christ, and thus become sons and daughters of God, meaning the Father.”
-- — [Robert L. Millet](/notes/robert-l-millet)
+- — [Robert L. Millet](/notes/robert-millet)
 - -Page 64-
 - Death is a Blessing
 - “The only difference between the old and young dying is, one lives longer in heaven and eternal light and glory than the other, and is freed a little sooner from this miserable, wicked world.”

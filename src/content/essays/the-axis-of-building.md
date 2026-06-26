@@ -47,7 +47,7 @@ But, unfortunately, that most certainly isn't always the case.
 
 While the cost of getting someone into space is a great example of improving costs, the reality is that the US gave up on getting people into space [in 2011](https://en.wikipedia.org/wiki/STS-135). It required SpaceX, a private company, to jumpstart that muscle again so that they could dramatically reduce the cost. Most often, the easiest place to find places to criticize costs will come in government. In particular, infrastructure projects.
 
-- It costs New York [$2.6B](https://twitter.com/antoniogm/status/1553419988924395520?s=20) *per mile* of railways or subways that they want to build. (For comparison, its costs [$65M](https://twitter.com/antoniogm/status/1553419988924395520?s=20) per mile in Spain).
+- It costs [[New York City|New York]] [$2.6B](https://twitter.com/antoniogm/status/1553419988924395520?s=20) *per mile* of railways or subways that they want to build. (For comparison, its costs [$65M](https://twitter.com/antoniogm/status/1553419988924395520?s=20) per mile in Spain).
 - The MTA spending [$100M](https://twitter.com/tanayj/status/1665470564364959753?s=20) to build platform barriers at 3 subway stations in New York
 - New York worked to replace eight escalators and upgrade some fire alarms, and it cost [$62M](https://twitter.com/JamesSurowiecki/status/1523268528224489472?s=20) (which is ~13% of what it cost to build the Hoover Dam).
 - San Francisco spending [$1.7M](https://twitter.com/jithamithra/status/1584938643638173696?s=20) to built a single toilet, and it's going to take 3 years!
@@ -55,9 +55,9 @@ While the cost of getting someone into space is a great example of improving cos
 - In general, it takes the US government [3.5](https://twitter.com/Noahpinion/status/1654499023775051779?s=20) years to review any individual renewable energy project.
 - [La Sombrita](https://twitter.com/search?q=La%20Sombrita&src=typed_query) was a project that built ineffectual shade structures at bus stops, all to [avoid](https://twitter.com/Austen/status/1660177103185391617?s=20) triggering "multi-agency coordination."
 
-Noah Smith has a great piece called "[The Build-Nothing Country](https://www.noahpinion.blog/p/the-build-nothing-country)," where he unpacks some of the dynamics that make it so expensive to build anything in the US. This line at the end, in particular, really struck me:
+[[Noah Smith]] has a great piece called "[The Build-Nothing Country](https://www.noahpinion.blog/p/the-build-nothing-country)," where he unpacks some of the dynamics that make it so expensive to build anything in the US. This line at the end, in particular, really struck me:
 
-> *"Slashing the thicket of red tape that prevent development, and subordinating local interests to the needs of the nation itself, are no longer idle dreams — they are immediate necessities. If we insist on continuing to be the Build-Nothing Country, **our once-mighty middle class will sink into a genteel poverty, and someone else will build the future on the bones of our civilization**."*
+> *"Slashing the thicket of red tape that prevent development, and subordinating local interests to the needs of the nation itself, are no longer idle dreams — they are immediate necessities. If we insist on continuing to be the [[The Build-Nothing Country|Build-Nothing Country]], **our once-mighty middle class will sink into a genteel poverty, and someone else will build the future on the bones of our civilization**."*
 
 People generally have a difficult time thinking long-term, no matter how much they say they're long-term thinkers. I remember hearing this idea that the reason a year felt *so long* when I was a kid was because when you're 10 years old, 1 year is 10% of your life. But when you're 30, 1 year is 3% of your life. So it makes sense that as you get older, it feels like each year is shorter. It's because it is in relative terms.
 
@@ -65,7 +65,7 @@ When it comes to the capabilities of our civilization, people seem unable to app
 
 # The Axis of Building In The World of Startups
 
-One of the best collections of impressive achievements with an emphasis on speed is [Patrick Collison's list](https://patrickcollison.com/fast) of "examples of people quickly accomplishing ambitious things together." In it, he mentions examples like Disneyland (built in 366 days), the Eiffel Tower (793 days), Javascript (prototyped in 10 days), or the iPod (290 days from conception to shipping).
+One of the best collections of impressive achievements with an emphasis on speed is [Patrick Collison's list](https://patrickcollison.com/fast) of "examples of people quickly accomplishing ambitious things together." In it, he mentions examples like [[Disneyland]] (built in 366 days), the Eiffel Tower (793 days), Javascript (prototyped in 10 days), or the iPod (290 days from conception to shipping).
 
 When it comes to entrepreneurship, the [lean startup methodology](https://theleanstartup.com/) has been fairly common. The idea of rapid prototyping and iteration. "[Move fast and break things](https://hbr.org/2019/01/the-era-of-move-fast-and-break-things-is-over)." The important of speed comes as no surprise to the startup initiated.
 
@@ -81,7 +81,7 @@ In my wildly uninformed and anecdotally supported perspective, I would boil down
 
 > *"**The more dependencies you introduce to your business, the more you're at the mercy of other people's narratives.** In a world of naysayers, sad-sops, and storytellers (who are grumpy), look for those opportunities to grow organically, rely on yourself, and build with fewer people who are more bought into the vision. Don't be afraid of dependencies, but only depend on dependencies that are dependable."*
 
-Just like governments are riddled with different political departments, competing agencies, and combative constituencies, startups can increasingly become battlegrounds between the perspectives of founders, employees, investors, and customers. Amazon's [customer obsession](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) isn't just good marketing, its an act of prioritizing dependencies. "We're going to put our customer dependency first."
+Just like governments are riddled with different political departments, competing agencies, and combative constituencies, startups can increasingly become battlegrounds between the perspectives of founders, employees, investors, and customers. [[Amazon]]'s [customer obsession](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) isn't just good marketing, its an act of prioritizing dependencies. "We're going to put our customer dependency first."
 
 If you prioritize every investor, every kind of customer, and every employee then you'll quickly find that everything takes longer, and it's more expensive. One of the most common discussions I have with early stage founders is how to know where to focus their efforts with customers. If you want to sell to enterprise customers, then getting caught up serving SMBs can be death by a thousand costs that slow you down and make everything more expensive.
 
@@ -93,7 +93,7 @@ I've written [over](https://investing1012dot0.substack.com/p/cashkingmaker-or-ki
 
 The US government, and governments in general, are terrible at effectively measuring how well they're spending their money. The bureaucracy and quid-pro-quo drive up costs everywhere you look. From [healthcare](https://www.acponline.org/acp-newsroom/americas-health-care-system-in-state-of-decline) to [education](https://www.brookings.edu/blog/brown-center-chalkboard/2022/11/01/the-alarming-state-of-the-american-student-in-2022/) and general [quality of life](https://www.usnews.com/news/best-countries/articles/2020-09-11/a-global-anomaly-the-us-declines-in-annual-quality-of-life-report), there are any number of data points to look at in articulating areas of decline in America.
 
-While companies are typically more effective stewards of capital than the US government (low bar), there are still instances of inefficiency. [I've written several times before](https://investing1012dot0.substack.com/p/blaspheming-against-the-hype) about this quote from Bill Gurley:
+While companies are typically more effective stewards of capital than the US government (low bar), there are still instances of inefficiency. [I've written several times before](https://investing1012dot0.substack.com/p/blaspheming-against-the-hype) about this quote from [[Bill Gurley]]:
 
 > *"Never in the history of venture capital have early stage startups had access to so much capital. Back in 1999, if a company raised $30mm before an IPO, that was considered a large historic raise. Today, private companies have raised 10x that amount and more. And consequently, the burn rates are 10x larger than they were back then. **All of which creates a voraciously hungry Unicorn. One that needs lots and lots of capital (if it is to stay on the current trajectory)**."*
 

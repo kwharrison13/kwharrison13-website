@@ -10,13 +10,13 @@ substack_url: "https://investing101.substack.com/p/touch-some-grass"
 
 ![Header image for Touch Some Grass](/images/touch-some-grass-e041f85c.png)
 
-I enjoy a good biography as much as the next person, maybe more so. I love reading the stories of Benjamin Franklin, Katharine Graham, Warren Buffett, and others who have lived pretty extraordinary lives, and accomplished significant things. Anytime I enter a bookstore, I head for the biographies section first
+I enjoy a good biography as much as the next person, maybe more so. I love reading the stories of [[Benjamin Franklin]], Katharine Graham, [[Warren Buffett]], and others who have lived pretty extraordinary lives, and accomplished significant things. Anytime I enter a bookstore, I head for the biographies section first
 
 My wife refers to this affectionately as a "boring hobby." I'm not sure what she means by that; the woman contains multitudes.
 
 But as I've read about many of the best investors in history (in part thanks to great resources from folks like [Frederik Gieschen](https://twitter.com/NeckarValue) and [Conor Mac](https://twitter.com/InvestmentTalkk)), I've noticed two important takeaways: **(1) they seem to be thinking about investing all the time, and (2) they're NOT talking about investing all the time.**
 
-What do they talk about a LOT? Psychology.
+What do they talk about a LOT? [[Psychology]].
 
 So much of success in life, business, and investing, is mastering yourself. Your bias', your habits, your fears, and your aspirations.
 

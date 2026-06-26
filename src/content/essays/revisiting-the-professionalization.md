@@ -26,7 +26,7 @@ substack_url: "https://investing101.substack.com/p/revisiting-the-professionaliz
 
 ---
 
-In [Morgan Housel](https://twitter.com/morganhousel)'s book, "[The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681)," he tells the story of Bill Gates' one-in-a-million life. And he wasn't talking about being a billionaire. Or starting a successful company. He was talking about having access to a computer in 1968.
+In [Morgan Housel](https://twitter.com/morganhousel)'s book, "[The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681)," he tells the story of [[Bill Gates]]' one-in-a-million life. And he wasn't talking about being a billionaire. Or starting a successful company. He was talking about having access to a computer in 1968.
 
 Most university graduate programs didn't have a computer like the one Bill Gates had access to in eighth grade at Lakeside School in Washington.
 
@@ -37,7 +37,7 @@ Most university graduate programs didn't have a computer like the one Bill Gates
 - And only about 300 of them attended Lakeside School.
 - Start with 303 million, end with 300.
 
-One in a million high-school-age students attended the high school that had the combination of cash and foresight to buy a computer. **Bill Gates happened to be one of them.**Bill Gates has even said, “If there wasn’t a Lakeside there wouldn’t be a Microsoft.”
+One in a million high-school-age students attended the high school that had the combination of cash and foresight to buy a computer. **Bill Gates happened to be one of them.**Bill Gates has even said, “If there wasn’t a Lakeside there wouldn’t be a [[Microsoft]].”
 
 ![Quote card from Revisiting The Professionalization of Startups](/images/revisiting-the-professionalization-4e346bde.png)
 
@@ -45,7 +45,7 @@ How crazy that we've gone from a one-in-a-million chance to even have access to 
 
 With the dramatic race forward in technology you’ve seen an explosion in the number of people who can build and scale technology companies. In just the last few decades we've gone from a small group of hobby hackers to a professional workforce of highly trained tech employees.
 
-In 1970 you had a <1% chance of stumbling on someone working in tech. As the industry was just getting started in the mainstream during the 70s there was a total of [450K](https://www.census.gov/newsroom/press-releases/2016/cb16-139.html) people working in the industry out of a population of [203M](https://en.wikipedia.org/wiki/1970_United_States_census). Today? There are [9.4M](https://www.comptia.org/content/research/state-of-the-tech-workforce), even despite [500K of layoffs](https://layoffs.fyi/) since 2022. Nearly [2 million](https://companiesmarketcap.com/tech/largest-tech-companies-by-number-of-employees/) workers in tech are employed by Amazon, Microsoft, Google, and Apple alone! (At least now you have a [~3%](https://www.worldometers.info/world-population/us-population/) chance of running into someone working in tech.)
+In 1970 you had a <1% chance of stumbling on someone working in tech. As the industry was just getting started in the mainstream during the 70s there was a total of [450K](https://www.census.gov/newsroom/press-releases/2016/cb16-139.html) people working in the industry out of a population of [203M](https://en.wikipedia.org/wiki/1970_United_States_census). Today? There are [9.4M](https://www.comptia.org/content/research/state-of-the-tech-workforce), even despite [500K of layoffs](https://layoffs.fyi/) since 2022. Nearly [2 million](https://companiesmarketcap.com/tech/largest-tech-companies-by-number-of-employees/) workers in tech are employed by [[Amazon]], Microsoft, [[Alphabet|Google]], and [[Apple]] alone! (At least now you have a [~3%](https://www.worldometers.info/world-population/us-population/) chance of running into someone working in tech.)
 
 ![Source:CompTIA, October 2023](/images/revisiting-the-professionalization-7f857e1b.png)
 
@@ -59,27 +59,27 @@ The number of people with experience building, scaling, and selling SaaS has onl
 
 If you step back and look at the breadth of startup experience that people have today you'll start to appreciate two things. First, it's impressive the kinds of incredible experience people have now built up. And second, we're really just getting into the first generation of that experience being widespread.
 
-There are countless examples of things that people couldn't have had much experience in because they're so new: cloud security, generative AI, transformer architecture, Kubernetes — all of these are ~10ish years old.
+There are countless examples of things that people couldn't have had much experience in because they're so new: cloud security, generative AI, transformer architecture, [[Kubernetes]] — all of these are ~10ish years old.
 
 Here's just one example within product-led growth.
 
 ## The Process: Product-Led Growth
 
-Today product-led growth is one of peoples favorite business models to talk about. Tons of well-known companies claim it. Datadog, Stripe, Github, and Mailchimp. In September 2023, [~91%](https://productled.com/blog/saas-growth-benchmarks-and-product-led-trends) of companies planned to increase investment in product-led growth. Sales has progressed from being directed by CIOs to org-specific execs and today is being driven by the end-user.
+Today product-led growth is one of peoples favorite business models to talk about. Tons of well-known companies claim it. [[Datadog]], [[Stripe]], Github, and Mailchimp. In September 2023, [~91%](https://productled.com/blog/saas-growth-benchmarks-and-product-led-trends) of companies planned to increase investment in product-led growth. Sales has progressed from being directed by CIOs to org-specific execs and today is being driven by the end-user.
 
 ![Source:OpenView](/images/revisiting-the-professionalization-664dc89b.png)
 
-PLG has really come into vogue over the last few years. Companies like Adobe or Shopify have been offering some of their products self-serve since the early 2000s. But effectively balancing bottom-up PLG and top-down sales hasn't been common until recently.
+PLG has really come into vogue over the last few years. Companies like [[Adobe]] or [[Shopify]] have been offering some of their products self-serve since the early 2000s. But effectively balancing bottom-up PLG and top-down sales hasn't been common until recently.
 
 ![Illustration for The Process: Product-Led Growth section](/images/revisiting-the-professionalization-07ef9b10.png)
 
-When you look at enterprise sales it has historically still been heavily account-based. Only within the last 10 years or so have you seen companies like Slack, Dropbox, and Twilio pioneer the balance between PLG and enterprise sales.
+When you look at enterprise sales it has historically still been heavily account-based. Only within the last 10 years or so have you seen companies like Slack, [[Dropbox]], and [[Twilio]] pioneer the balance between PLG and enterprise sales.
 
-One of the best descriptions of this strategy evolution comes in a Stratechery interview from 2020 where [Jeff Lawson, the former CEO of Twilio](https://stratechery.com/2020/twilio-acquires-segment-what-is-segment-an-interview-with-twilio-ceo-jeff-lawson/), is explaining how even the most product-led companies have to figure out sales sooner or later:
+One of the best descriptions of this strategy evolution comes in a [[Stratechery]] interview from 2020 where [Jeff Lawson, the former CEO of Twilio](https://stratechery.com/2020/twilio-acquires-segment-what-is-segment-an-interview-with-twilio-ceo-jeff-lawson/), is explaining how even the most product-led companies have to figure out sales sooner or later:
 
-> *"I’ll tell you a story of how we came to invest quite a bit in sales. We now have a very large and very productive, fantastic salesforce. But for a long time, we struggled with understanding how much we should invest in sales. I was influenced by Mike and Scott at Atlassian because they always famously said, **“Whatever you’re going to spend on sales, just put it into the product to make the product better. Anytime a customer needs to talk to a sales person, that’s a bug you have to go fix.”***   
+> *"I’ll tell you a story of how we came to invest quite a bit in sales. We now have a very large and very productive, fantastic salesforce. But for a long time, we struggled with understanding how much we should invest in sales. I was influenced by Mike and Scott at [[Atlassian]] because they always famously said, **“Whatever you’re going to spend on sales, just put it into the product to make the product better. Anytime a customer needs to talk to a sales person, that’s a bug you have to go fix.”***   
 >   
-> *Then you talk to them and you’re like, “So you guys hate salespeople.” They’re like, “Well, not really.” And I’m like, “Well, what do you mean? You don’t have any and you tell everyone how having salespeople is like the death of the business.” And they’re like, **“Oh no, we have salespeople, we just call them something else. We just call them Support Specialists or Customer Success, or just some other name. But yeah, they’re basically doing sales.”***   
+> *Then you talk to them and you’re like, “So you guys hate salespeople.” They’re like, “Well, not really.” And I’m like, “Well, what do you mean? You don’t have any and you tell everyone how having salespeople is like the death of the business.” And they’re like, **“Oh no, we have salespeople, we just call them something else. We just call them Support Specialists or [[Customer Success]], or just some other name. But yeah, they’re basically doing sales.”***   
 >   
 > ***Great products do make people want to use them, absolutely, but relationships matter too.*** *We’ve really evolved and innovated on this dual pronged approach of getting initial momentum with developers and then you follow through with a great sales process and that has allowed us to land larger and larger accounts."*
 
@@ -89,9 +89,9 @@ As companies have started to figure out how to balance product-first building wi
 
 ![Framework diagram for the people: kyle parrish; from dropbox to figma](/images/revisiting-the-professionalization-3f01a21d.png)
 
-Kyle Parrish started in one of the most traditional enterprise sales orgs: ADP. Big lumbering old-school software with massive teams dialing for dollars. As he was trying to find the kind of team and environment that would better resonate with him he got introduced to Dropbox. He joined in 2011 when the company was at around [$30M of revenue](https://techcrunch.com/2011/08/30/index-leads-4-billion-valuation-round-in-dropbox/).
+[[Kyle Parrish]] started in one of the most traditional enterprise sales orgs: ADP. Big lumbering old-school software with massive teams dialing for dollars. As he was trying to find the kind of team and environment that would better resonate with him he got introduced to Dropbox. He joined in 2011 when the company was at around [$30M of revenue](https://techcrunch.com/2011/08/30/index-leads-4-billion-valuation-round-in-dropbox/).
 
-You can definitely argue that Dropbox is one of the early pioneers in balancing PLG with enterprise sales. [Kyle certainly does.](https://podcast.openviewpartners.com/public/32/OV-%7C-BUILD-21cbd466/1f57a5d0) “**We were early on in 2011 at Dropbox in having this consumer freemium model that also had an enterprise play**." From there he joined Figma as the first Head of Sales. "I was the only non-technical person in the company at the time." Where Dropbox was pioneering this balance between product and sales, Figma would go on to truly master it.
+You can definitely argue that Dropbox is one of the early pioneers in balancing PLG with enterprise sales. [Kyle certainly does.](https://podcast.openviewpartners.com/public/32/OV-%7C-BUILD-21cbd466/1f57a5d0) “**We were early on in 2011 at Dropbox in having this consumer freemium model that also had an enterprise play**." From there he joined [[Figma]] as the first Head of Sales. "I was the only non-technical person in the company at the time." Where Dropbox was pioneering this balance between product and sales, Figma would go on to truly master it.
 
 ## The Playbook: Figma's Approach
 
@@ -119,7 +119,7 @@ People who have spent years not just learning but *inventing* these playbooks 
 
 ![Illustration for The Evolution of Startup Nodes section](/images/revisiting-the-professionalization-7cf09668.png)
 
-*Update: I made these graphics in early 2022. In [February 2023](https://www.linkedin.com/in/alyssa-henry-0905692/), Alyssa became the CEO of the Square business within Block.*
+*Update: I made these graphics in early 2022. In [February 2023](https://www.linkedin.com/in/alyssa-henry-0905692/), Alyssa became the CEO of the [[Square]] business within Block.*
 
 ![Illustration for The Evolution of Startup Nodes section](/images/revisiting-the-professionalization-17652cee.png)
 
@@ -145,7 +145,7 @@ Previously I’ve written about [the unbundling of venture capital.](https://in
 
 > *“**There is a long-tail of super talented people who may not be the best investor for everyone, but for a specific group they'll be the perfect investor.”***
 
-The same is true in tech. For a long time we've looked at technology as the work of these genius Gods. Not a benevolent God, but the emotional Gods of the Greek Pantheon. Steve Jobs, the God of Beauty who would hurl desks and F-bombs at mere mortals. Elon Musk, the God of Lightning whose children are little furry dog coins. These characters that we build up to be larger than life (even when they sort of [tank on SNL](https://www.forbes.com/sites/maddieberg/2021/05/09/elon-musks-snl-gig-was-a-bust-for-the-billionaire-and-dogecoin-but-a-boom-for-nbc/?sh=1a4cb740c14f)).
+The same is true in tech. For a long time we've looked at technology as the work of these genius Gods. Not a benevolent God, but the emotional Gods of the Greek Pantheon. [[Steve Jobs]], the God of Beauty who would hurl desks and F-bombs at mere mortals. [[Elon Musk]], the God of Lightning whose children are little furry dog coins. These characters that we build up to be larger than life (even when they sort of [tank on SNL](https://www.forbes.com/sites/maddieberg/2021/05/09/elon-musks-snl-gig-was-a-bust-for-the-billionaire-and-dogecoin-but-a-boom-for-nbc/?sh=1a4cb740c14f)).
 
 The internet allows people to more effectively distribute their creativity and find their niche audiences. That is the same force that is impacting venture as people look for humans that they can understand and relate to who offer products that perfectly fit their needs. We're seeing the same appreciation start to grow in tech. **As important as the Elon Musks of the world are, people are starting to more fully appreciate the people behind the curtain, like [Gwynne Shotwell](https://en.wikipedia.org/wiki/Gwynne_Shotwell).**
 
@@ -159,7 +159,7 @@ Shotwell is exactly the kind of leader that I most enjoy learning from and worki
 
 Back in 2022 [Jeff Burke](https://twitter.com/Jeff_Burke14) at [Replit](https://replit.com/) described his experience to me this way:
 
-> *“When I was at Cisco I remember talking to my manager and they kept talking about how they were happy to never go much higher than their current level. They asked me what I wanted in my career and I thought, ‘I want to be the CEO.’ **That’s when I realized I was different than most of the people I worked with. I wasn’t prideful. But I had ambition.**”*
+> *“When I was at [[Cisco]] I remember talking to my manager and they kept talking about how they were happy to never go much higher than their current level. They asked me what I wanted in my career and I thought, ‘I want to be the CEO.’ **That’s when I realized I was different than most of the people I worked with. I wasn’t prideful. But I had ambition.**”*
 
 **These are the people that build the future.** No one who has been the visionary founder would disagree with the game-changing role these people play in turning that vision into reality. As the art of building technology companies has progressed and become more demystified it has become easier to see the people who make things happen. **These are the people to watch.**
 

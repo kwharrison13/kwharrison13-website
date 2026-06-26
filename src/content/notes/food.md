@@ -4,11 +4,13 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
-tags: []
+tags:
+  - "food"
+  - "agtech"
 aliases:
   - "Food"
 related:
@@ -17,29 +19,10 @@ related:
 
 # Food
 
-_Stub — concept captured from Kyle's June 29th, 2021 Roam "Quick Capture" reading log. The links below are sources Kyle saved to explore this topic; not yet synthesized._
+Food is a reading thread Kyle has tracked rather than a synthesized thesis. It originated as a June 29th, 2021 Roam "Quick Capture" reading log — a set of saved links clustered around food security (wheat genomics improving security and reducing allergies), the American farmer/trade-war crisis, sustainable agriculture, vertical and hydroponic farming, and the environmental footprint of food (notably beef and climate). The same list surfaces food/agtech startups — Siete Foods, Your Super, Renewal Mill, Indigo Ag, and Terviva — and is mirrored on the sibling [Agriculture](/notes/agriculture) concept page, with which it shares the same source capture. The thread sits at the intersection of food security, sustainability, and the startups trying to reshape how food is grown and consumed.
 
-## Quick Capture links — June 29th, 2021
+**Context:** "Food" as a category spans food security, agricultural production, nutrition, and the climate/environmental footprint of food systems — an area of growing venture and policy attention given concerns about supply resilience, emissions (especially from livestock), and the rise of alternative-protein and indoor-farming startups.
 
-- https://www.axios.com/wheat-gene-map-could-improve-food-security-and-allergies-666b75fd-5452-428b-a0cc-042414b9e4ed.html
-- https://www.eater.com/2018/9/14/17855080/american-farmers-crisis-trade-war
-- https://www.axios.com/newsletters/axios-future-ab1f6929-9dc5-449e-ba42-7c18b2692dbf.html?chunk=4#story4
-- https://www.harvardmagazine.com/2018/03/sustainable-agriculture-and-food-security
-- http://www.fao.org/zhc/detail-events/en/c/243143/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosprorata&stream=top-stories
-- https://www.eater.com/2018/7/3/17531192/vertical-farming-agriculture-hydroponic-greens
-- https://www.axios.com/growing-food-staggering-environmental-footprint-65a6d84e-3188-4b59-b68e-53dfe70a85de.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosgenerate&stream=top
-- https://www.axios.com/beef-americas-dinner-and-a-juicy-climate-controversy-01db45eb-fa84-4aaa-90a1-2dbb47075c94.html
-- https://www.worldwildlife.org/projects/coca-cola-partnership-project-rio-grande-rio-bravo
-- https://www.terviva.com/
-- https://www.bbc.com/news/health-46865204?utm_source=pocket&utm_medium=email&utm_campaign=pockethits
-- https://sietefoods.com/
-- https://yoursuper.com/
-- https://www.renewalmill.com/
-- https://www.indigoag.com/
-- https://www.forbes.com/sites/maggiemcgrath/2017/06/28/the-25-most-innovative-ag-tech-startups/?sh=77f1eb748830
-- https://drive.google.com/file/d/1ReMJgqouMADgTzkrPfp_Ng_LObkq9lcx/view
-- https://www.linkedin.com/in/jordankraftlambert/
+## Where this appears
 
-## Related concepts
-
-- [Agriculture](/notes/agriculture)
+- [Agriculture](/notes/agriculture) — shares the same June 29th, 2021 Quick Capture reading list (food security, vertical farming, agtech startups).

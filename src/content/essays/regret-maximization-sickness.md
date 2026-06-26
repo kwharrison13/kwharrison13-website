@@ -19,11 +19,11 @@ substack_url: "https://investing101.substack.com/p/regret-maximization-sickness"
 
 # Turning
 
-In the New Testament, Jesus Christ teaches the parable of the [prodigal son](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/15?lang=eng&id=p11-p32#p11). A man had two sons. The younger son asks for his inheritance and leaves, running off to the big city, and wastes all his money on "riotous living." After he is left with nothing, he finds himself eating out of a trough with the pigs.
+In the New Testament, [[Jesus|Jesus Christ]] teaches the parable of the [prodigal son](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/15?lang=eng&id=p11-p32#p11). A man had two sons. The younger son asks for his inheritance and leaves, running off to the big city, and wastes all his money on "riotous living." After he is left with nothing, he finds himself eating out of a trough with the pigs.
 
 But then, Christ says, he "came to himself." I like the way Psalms [puts it](https://www.churchofjesuschrist.org/study/scriptures/ot/ps/119?lang=eng&id=p59#p59): "**I thought on my ways, and turned my feet** unto thy testimonies." There is a Hebrew word that has a similar sentiment: שׁוּב — shuv — which means to turn back, return, go back, or turn around. In English, the word is repentance.
 
-I heard a [talk](https://www.churchofjesuschrist.org/study/general-conference/2019/04/36nelson?lang=eng) by Russell M. Nelson, who I believe is akin to a modern-day Moses, where he explained that "the word for repentance in the Greek New Testament is metanoeo. The prefix meta- means 'change.' The suffix -noeo is related to Greek words that mean 'mind,' 'knowledge,' 'spirit,' and 'breath.'"
+I heard a [talk](https://www.churchofjesuschrist.org/study/general-conference/2019/04/36nelson?lang=eng) by [[Russell M. Nelson]], who I believe is akin to a modern-day Moses, where he explained that "the word for repentance in the Greek New Testament is metanoeo. The prefix meta- means 'change.' The suffix -noeo is related to Greek words that mean 'mind,' 'knowledge,' 'spirit,' and 'breath.'"
 
 **So when the Prodigal Son "came to himself" it means he turned. Turned away from sin and towards God. He changed his mind, his knowledge, his spirit**. When he returned to his father, he thought he could at least be a servant. But when he returned, his father didn't miss a beat. "For this my son was dead, and is alive again; he was lost, and is found." No brow-beating, no blaming. Just joy at a return.
 
@@ -31,11 +31,11 @@ In introducing the parable, Christ [explained](https://www.churchofjesuschrist.o
 
 # Regret
 
-So. Why did I start a blog post on an investing blog with the prodigal son? Because the prodigal son is the story I think of most when I reflect on regret. **Regret is a poison. The sunk cost fallacy of the soul**. Regret will, more often than not, lead us to making worse decisions rather than better decisions.
+So. Why did I start a blog post on an investing blog with the prodigal son? Because the prodigal son is the story I think of most when I reflect on regret. **[[Regret]] is a poison. The sunk cost fallacy of the soul**. Regret will, more often than not, lead us to making worse decisions rather than better decisions.
 
-Almost exactly a year ago I wrote a similar post entitled "[Regret Porn](https://investing101.substack.com/p/regret-porn?utm_source=publication-search)." In it, I explained this common feeling of FOMO in reverse. Seeing a sign that says "what would you have if you put $10K into Amazon's IPO?" or "what if you had bought Bitcoin in 2012?" These what-if scenarios are designed to foster regret.
+Almost exactly a year ago I wrote a similar post entitled "[Regret Porn](https://investing101.substack.com/p/regret-porn?utm_source=publication-search)." In it, I explained this common feeling of FOMO in reverse. Seeing a sign that says "what would you have if you put $10K into [[Amazon]]'s IPO?" or "what if you had bought Bitcoin in 2012?" These what-if scenarios are designed to foster regret.
 
-In that piece, I also talked about Jeff Bezos' "[regret minimization framework](https://alyjuma.medium.com/the-regret-minimization-framework-how-jeff-bezos-made-decisions-4d5a86deaf24)." Trying to do the thing that you will most regret NOT doing when you're 80 years old.
+In that piece, I also talked about [[Jeff Bezos]]' "[regret minimization framework](https://alyjuma.medium.com/the-regret-minimization-framework-how-jeff-bezos-made-decisions-4d5a86deaf24)." Trying to do the thing that you will most regret NOT doing when you're 80 years old.
 
 But today, as I find myself ruminating on a similar topic, I realize that so much of life has become focused not on regret minimization but on regret maximization. We are all sick with regret. It weaves together a fear cocktail that paralyzes so many.
 
@@ -65,11 +65,11 @@ In any decision we've made, we can feel overcome by regret. We realize we are no
 
 But there is a better way. There is grace that we can offer ourselves. For those who so choose, there is also grace that Jesus Christ can offer. There is [another talk](https://speeches.byu.edu/talks/brad-wilcox/his-grace-is-sufficient/) that I've always enjoyed about the grace that Christ can offer in the pursuit of not giving up or being overcome by the regret that we may have maximized:
 
-> *"There should never be just two options: perfection or giving up. When learning the piano, are the only options performing at Carnegie Hall or quitting? No. **Growth and development take time. Learning takes time. When we understand grace, we understand that God is long-suffering, that change is a process, and that repentance is a pattern in our lives.** When we understand grace, we understand that the blessings of Christ’s Atonement are continuous and His strength is [perfect in our weakness](https://www.churchofjesuschrist.org/study/scriptures/nt/2-cor/12?lang=eng&id=9). When we understand grace, we can “[continue](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/67?lang=eng&id=13) in patience until [we] are perfected."*
+> *"There should never be just two options: perfection or giving up. When learning the piano, are the only options performing at Carnegie Hall or quitting? No. **Growth and development take time. Learning takes time. When we understand grace, we understand that God is long-suffering, that change is a process, and that repentance is a pattern in our lives.** When we understand grace, we understand that the blessings of Christ’s [[Atonement]] are continuous and His strength is [perfect in our weakness](https://www.churchofjesuschrist.org/study/scriptures/nt/2-cor/12?lang=eng&id=9). When we understand grace, we can “[continue](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/67?lang=eng&id=13) in patience until [we] are perfected."*
 
 # Therefore, What?
 
-Investing is the act of voting for the future. You vote with your dollars. You're not inventing the future. That's what we need founders for. But investing, by its nature, is typically an act of hope. Granted, you can vote for scenarios that lack hope. But venture capitalists, in particular, need to be hopeful people.
+[[Investing]] is the act of voting for the future. You vote with your dollars. You're not inventing the future. That's what we need founders for. But investing, by its nature, is typically an act of hope. Granted, you can vote for scenarios that lack hope. But venture capitalists, in particular, need to be hopeful people.
 
 Regret is the antidote to hope. When I look back and wish the future from yesterday looked different than the today that I'm living in, I cede my control. I cannot change the past, so regret can only be self-punishment.
 

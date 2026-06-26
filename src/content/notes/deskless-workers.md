@@ -4,25 +4,27 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
-tags: []
+tags:
+  - "future-of-work"
+  - "labor"
 aliases:
   - "Deskless Workers"
+  - "Deskless Workforce"
 related:
   - "[[Future of Work]]"
+  - "[[Automation]]"
 ---
 
 # Deskless Workers
 
-_Stub — concept captured from Kyle's June 29th, 2021 Roam "Quick Capture" reading log. The links below are sources Kyle saved to explore this topic; not yet synthesized._
+A workforce segment Kyle flagged within his broader [Future of Work](/notes/future-of-work) reading. It surfaced as a tagged link in his June 29th, 2021 Roam "Quick Capture" reading log — a Deskless Workforce report saved alongside sources on apprenticeships, robots demoralizing co-workers, remote work, and AI-driven [Automation](/notes/automation) and reskilling. In that log it is one slice of the labor-and-automation thread rather than a developed thesis; the saved link marks it as a topic Kyle wanted to explore.
 
-## Quick Capture links — June 29th, 2021
+**Context:** "Deskless workers" is an industry term for employees who do not work at a desk or primarily on a computer — frontline workers in retail, manufacturing, logistics, healthcare, hospitality, construction, and field service. They are often cited as a large, historically under-served majority of the global workforce and a target market for purpose-built workforce software.
 
-- http://desklessworkforce2018.com/?utm_source=Kauffman%2BFellows%2BJournal&utm_campaign=ed45d7960c-EMAIL_CAMPAIGN_2019_03_08_08_12&utm_medium=email&utm_term=0_9d87896aa8-ed45d7960c-337859105&mc_cid=ed45d7960c&mc_eid=db77101ab2 - #[Deskless Workers](/notes/deskless-workers)
+## Where this appears
 
-## Related concepts
-
-- [Future of Work](/notes/future-of-work)
+- [Future of Work](/notes/future-of-work) — Deskless Workers tagged as a segment within the June 29th, 2021 Quick Capture reading log on automation, reskilling, and the changing nature of work.

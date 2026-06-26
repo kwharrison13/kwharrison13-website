@@ -19,7 +19,7 @@ substack_url: "https://investing101.substack.com/p/even-more-a-father"
 
 Forgive me if I wax poetic and a bit theological this week. I'm feeling, [once again](https://investing1012dot0.substack.com/p/decades), quite reflective. I started my blog almost three years ago. Not long after I started it, I wrote [Kids 3.0](https://investing1012dot0.substack.com/p/kids-30) after my wife and I had our third kid. At the time, I made a web3 joke. I don't have a 4.0 joke, so all I can say is my wife and I welcomed our fourth kid to the family this week!
 
-I was reflecting on some of the parenting advice I've gotten over the years and I still think one of the things that stuck with me the most came from a religious leader I had years ago. He told me that fatherhood can be summed up by a Robert Frost poem called "[The Pasture](https://www.poetryfoundation.org/poems/44270/the-pasture)":
+I was reflecting on some of the parenting advice I've gotten over the years and I still think one of the things that stuck with me the most came from a religious leader I had years ago. He told me that fatherhood can be summed up by a [[Robert Frost]] poem called "[The Pasture](https://www.poetryfoundation.org/poems/44270/the-pasture)":
 
 > *I'm going out to clean the pasture spring;   
 > I'll only stop to rake the leaves away   

@@ -4,7 +4,7 @@ type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — December 14th, 2021 (Index Ventures networking/sourcing log): ~/Downloads/December 14th, 2021.md"

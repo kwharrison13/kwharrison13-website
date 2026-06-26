@@ -27,7 +27,7 @@ We chuckled. The chuckling slowed. We paused.
 
 "We've never met in person, have we?"
 
-You see, this was an internet friend. Someone I've met through the magic of Twitter, and probably wouldn't have met otherwise. As my friend and I talked about how weird it is to feel like such good friends, but to have never met, I started to think about it. And I realized ~75%+ of the people I interact with frequently (excluding people I work with), I've never met most of them in person.
+You see, this was an internet friend. Someone I've met through the magic of [[Twitter]], and probably wouldn't have met otherwise. As my friend and I talked about how weird it is to feel like such good friends, but to have never met, I started to think about it. And I realized ~75%+ of the people I interact with frequently (excluding people I work with), I've never met most of them in person.
 
 # Twitter Context
 
@@ -41,7 +41,7 @@ I wanted to address the second one first.
 
 Now, my Mom tells me not to respond to criticism on the internet, and that I'm "special just the way I am." All good points. But one reason I wanted to spend some more time thinking about this is because I think I did a bad job of clearly communicating what I was trying to say.
 
-Never at any point in my thread did I say, "look how right I was, aren't I a genius?" The model I built showed an aggressive growth path that, based on typical growth trajectories for a company, wasn't the most likely. The reason I thought it was such a fascinating story was because I happened to have landed at a $19.5B outcome 3.5 years before Figma got acquired for $20B. But in my model, I had that happening in 2025, and when they were at almost $1B of revenue. Not in 2022 when they're at $400M of revenue. So I was wrong.
+Never at any point in my thread did I say, "look how right I was, aren't I a genius?" The model I built showed an aggressive growth path that, based on typical growth trajectories for a company, wasn't the most likely. The reason I thought it was such a fascinating story was because I happened to have landed at a $19.5B outcome 3.5 years before [[Figma]] got acquired for $20B. But in my model, I had that happening in 2025, and when they were at almost $1B of revenue. Not in 2022 when they're at $400M of revenue. So I was wrong.
 
 But if you believe me when I say I know I was wrong, and the numbers matching up are just a coincidence, it should hopefully become easier to believe that the story is true. Also? Because I have the "receipts" to prove it.
 
@@ -53,7 +53,7 @@ Beyond me feeling obligated to defend my honor, there is a much more interesting
 
 I talked about this idea of [financial gravity](https://twitter.com/kwharrison13/status/1571889620027342848?s=20&t=riKaWugYtGWQufFsXZnW1g); basically that a company's ability to just continue to grow exponentially becomes increasingly difficult as they scale. And that you can look for the things that could make a company capable of defying gravity.
 
-In Walter Isaacson's biography of [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150), he has this great line about the rules of art:
+In [[Walter Isaacson]]'s biography of [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150), he has this great line about the rules of art:
 
 > *"The Last Supper is a mix of scientific perspective and theatrical license, of intellect and fantasy, worthy of Leonardo. His study of perspective science had not made him rigid or academic as a painter. Instead, it was complemented by the cleverness and ingenuity he had picked up as a stage impresario. **Once he knew the rules, he became a master at fudging and distorting them."***
 
@@ -73,9 +73,9 @@ But there's a reason I felt comfortable enough to walk into an interview and try
 
 Every time I mention this concept it feels fluffy, and indefensible. "Oh, just build a good product? Yeah, no duh." But this feels like the bedrock foundation that almost every good company is built on, at least for companies started within the last 15 years.
 
-Certainly, companies like Oracle or Microsoft have built products that aren't exactly delightful. Their approach has been more like a bad relative who moved in with you for a week to get "back on their feet," and now they're so deeply entrenched in your finances, and social circles, and [TV-worthy comedy-dramas](https://www.youtube.com/watch?v=tk9iWXsdB-8) that you'll never get rid of them.
+Certainly, companies like Oracle or [[Microsoft]] have built products that aren't exactly delightful. Their approach has been more like a bad relative who moved in with you for a week to get "back on their feet," and now they're so deeply entrenched in your finances, and social circles, and [TV-worthy comedy-dramas](https://www.youtube.com/watch?v=tk9iWXsdB-8) that you'll never get rid of them.
 
-But even older companies, like Apple? Delightful products that people are obsessed with. That product love just does not go away. I always find myself coming back to [this quote](https://research.contrary.com/reports/ramp) from Eric Glyman, the CEO of Ramp:
+But even older companies, like [[Apple]]? Delightful products that people are obsessed with. That product love just does not go away. I always find myself coming back to [this quote](https://research.contrary.com/reports/ramp) from Eric Glyman, the CEO of [[Ramp]]:
 
 > *“**As always, our top priority is empowering our customers with incredible products and building the team and culture to deliver on that.** These inputs — customer focus, product obsession, and commitment to talent — are what we focus on every day. Growth is just the output.”*
 
@@ -101,7 +101,7 @@ Market sizes can be fickle things, especially when they don't seem to be very bi
 
 The way I describe a thesis is (1) what is the powerful tailwind that exists independent of this company? And (2) how is this company well-positioned to take advantage of that trend? The better you understand that first tailwind, the better you can assess the market.
 
-From the early days of Figma, the CEO Dylan Field, was already tapped into this idea of the increasing importance of design. He has a famous graphic that he [wrote about in 2017](https://techcrunch.com/2017/05/31/here-are-some-reasons-behind-techs-design-shortage/?fbclid=IwAR3_kFPSO85oGTTWS8BXAYZx8KzOtHdA1b5Gud_j17XcXzxyFrLXZMPz_us) where he shows how the ratio of designers to engineers was starting to shift. You see companies like IBM go from 1 designer for every 72 engineers down to 1 designer for every 8 engineers.
+From the early days of Figma, the CEO [[Dylan Field]], was already tapped into this idea of the increasing importance of design. He has a famous graphic that he [wrote about in 2017](https://techcrunch.com/2017/05/31/here-are-some-reasons-behind-techs-design-shortage/?fbclid=IwAR3_kFPSO85oGTTWS8BXAYZx8KzOtHdA1b5Gud_j17XcXzxyFrLXZMPz_us) where he shows how the ratio of designers to engineers was starting to shift. You see companies like IBM go from 1 designer for every 72 engineers down to 1 designer for every 8 engineers.
 
 ![Quote card from Addressing an Unaddressable Market section](/images/the-reality-of-unrealistic-outliers-aea43fb8.png)
 
@@ -115,9 +115,9 @@ You can build a company with a so-so market. But the weight of gravity will alwa
 
 These are the kinds of examples that people should constantly be looking for, and studying: **businesses that can defy gravity.** Study the commonalities in how these companies’ unique positions set them up to defy any of these standards and rules-of-thumb.
 
-When you look at some of the [best acquisitions](https://www.acquired.fm/episodes/acquired-top-ten-the-best-acquisitions-of-all-time) of all-time you see companies like Instagram or YouTube that have scaled at ridiculous rates.
+When you look at some of the [best acquisitions](https://www.acquired.fm/episodes/acquired-top-ten-the-best-acquisitions-of-all-time) of all-time you see companies like [[Instagram]] or [[YouTube]] that have scaled at ridiculous rates.
 
-Or you have companies like Salesforce. From the time they went public in 2004 they had 14 quarters of 50%+ growth, and aside from a few quarters, **they have grown at least 20% every quarter for almost 20 years straight!**
+Or you have companies like [[Salesforce]]. From the time they went public in 2004 they had 14 quarters of 50%+ growth, and aside from a few quarters, **they have grown at least 20% every quarter for almost 20 years straight!**
 
 ![Source:Koyfin](/images/the-reality-of-unrealistic-outliers-653fbc62.png)
 
@@ -127,8 +127,8 @@ At the end of the day a lot of these things can feel like platitudes. I've liste
 
 And no, I don't believe that these kinds of exceptional outcomes are the simple result of massive waves of free money from the Fed, or whatever hand-wavey macro justification you want to try and slap on it. **Every business is operating in the same economic environment. And yet, some still become exceptional.**
 
-But these gravity-defying characteristics aren’t the whole equation. It’s one thing to identify some characteristics that make a company special. But nothing matters if you don’t do anything about it. At the end of the day, I can ask myself “what do you have to believe about this company?” And make my pros and cons. **But real conviction is becoming a part of the story.** Investing in the company. Or better yet? Going to work there. No better way to go all in on something you have actual conviction in that to put your life and career behind it.
+But these gravity-defying characteristics aren’t the whole equation. It’s one thing to identify some characteristics that make a company special. But nothing matters if you don’t do anything about it. At the end of the day, I can ask myself “what do you have to believe about this company?” And make my pros and cons. **But real [[Conviction|conviction]] is becoming a part of the story.** Investing in the company. Or better yet? Going to work there. No better way to go all in on something you have actual conviction in that to put your life and career behind it.
 
-When I had that job interview I was focused on a different style of investing; more slow and stable. It’s one of the reasons that interviewer was so skeptical of my expectations. And that was a turning point for me, where I decided, “If I’m going to be investing in companies, I want to be investing in the companies that at least have the potential to defy gravity.” It’s one of the reasons I went on to work at firms like Coatue, and Index instead (both investors in Figma 😉).
+When I had that job interview I was focused on a different style of investing; more slow and stable. It’s one of the reasons that interviewer was so skeptical of my expectations. And that was a turning point for me, where I decided, “If I’m going to be investing in companies, I want to be investing in the companies that at least have the potential to defy gravity.” It’s one of the reasons I went on to work at firms like [[Coatue]], and [[Index Ventures|Index]] instead (both investors in Figma 😉).
 
 That desire to invest in gravity-defying companies is also the reason I’m so excited about [Contrary.](http://contrary.com) The ability to back exceptional people, even before they start companies, gives me a front-row seat to some of the most exceptional builders, and I wouldn’t trade that for anything.

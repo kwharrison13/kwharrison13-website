@@ -33,7 +33,7 @@ The framework that came to mind as we were talking was three fold:
 
 # Controlling Mindshare
 
-The word zeitgeist is an incredibly important and effective one. “The defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time.” The internet has sparked an explosion of zeitgeists all around us. The job of a founder is to capture that zeitgeist.
+The word [[Zeitgeist|zeitgeist]] is an incredibly important and effective one. “The defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time.” The internet has sparked an explosion of zeitgeists all around us. The job of a founder is to capture that zeitgeist.
 
 In some cases, culture canonizes a movement for you. In anti-pornography, it’s “gooning.” In housing shortages, its “NIMBYism.” In those instances, there is no excuse for you to not completely envelop and own that cultural canon. No aspect of that conversation should come up without you being involved. Ideally, the conversation comes up *because* you are involved.
 
@@ -41,7 +41,7 @@ In some cases, culture canonizes a movement for you. In anti-pornography, it’s
 
 For much of my career, I’ve had this framework for a founder. If I could call anyone in the world to get advice on this particular market, is this founder the person I would call? The same is true of mindshare. I should be blown away by the level of understanding you have of a particular category. The depth of experience, the well of connections, the caliber of insights. You should embody the category you’re in. What I’ve [described before](https://investing101.substack.com/p/founder-ideology) as an “ideological purist.”
 
-I frequently turn to Palmer Luckey as an excellent example of this. He embodied VR for a decade. To this day, he hesitates to bad mouth Meta because he doesn’t want them to stop investing in VR as an industry. Even as his attention has turned to defense technology, and he’s become a Zeitgeist Pilot in that category, he is still a force in the gaming world.
+I frequently turn to [[Palmer Luckey]] as an excellent example of this. He embodied VR for a decade. To this day, he hesitates to bad mouth [[Facebook|Meta]] because he doesn’t want them to stop investing in VR as an industry. Even as his attention has turned to defense technology, and he’s become a Zeitgeist Pilot in that category, he is still a force in the gaming world.
 
 Once a founder has conquered that particular zeitgeist, it then extends to the product, the platform they’ve built, the team around them, the GTM exercises around sales and marketing. **But if it doesn’t start in the heart of the founder, it will never get there.**
 
@@ -53,11 +53,11 @@ A soft voice *with* capital is a passive investor. A loud voice *without* capita
 
 **But a loud voice with capital? A conqueror.**
 
-That’s why, among his many incredible accomplishments as a founder and engineer, Elon Musk’s perhaps single greatest accomplishment is not just his ability to raise capital, but to rally an investor base that enables his particular brand of operations.
+That’s why, among his many incredible accomplishments as a founder and engineer, [[Elon Musk]]’s perhaps single greatest accomplishment is not just his ability to raise capital, but to rally an investor base that enables his particular brand of operations.
 
 It can be easy to feel blocked by this phase. “I’m passionate but I just can’t fundraise successfully.” Then you’re not playing the right game. Capital is not 1:1 equated with venture capital. There are, in fact, different mechanisms.
 
-Raising venture capital is a particular game. And don’t get me wrong, VCs *love* Zeitgeist Pilots. If you’re an effective storyteller and you can inspire an investor with the raw potential of what you’re building, you can play the VC game effectively. In fact, some VCs can even coach you on playing that game better to raise your vision. Like when Ben Horowitz told Ali Ghodsi, the CEO of Databricks, when the company was worth $1B that he was underselling the opportunity saying they could 10x, pushing him instead to say they would be 10x Oracle; a $2 TRILLION company.
+Raising venture capital is a particular game. And don’t get me wrong, VCs *love* Zeitgeist Pilots. If you’re an effective storyteller and you can inspire an investor with the raw potential of what you’re building, you can play the VC game effectively. In fact, some VCs can even coach you on playing that game better to raise your vision. Like when [[Ben Horowitz]] told Ali Ghodsi, the CEO of [[Databricks]], when the company was worth $1B that he was underselling the opportunity saying they could 10x, pushing him instead to say they would be 10x Oracle; a $2 TRILLION company.
 
 ![Source:Not Boring](/images/becoming-a-cult-leader-5038bb89.png)
 
@@ -69,4 +69,4 @@ But the reality of capital is material. Without capital, you’re just a voice s
 
 # Bear The Standard
 
-Embody the Zeitgeist Pilot. Command the capital machine. Become the standard bearer for your mission. Believe it with your entire being. Like Zuckerberg turning down $1B acquisition from Yahoo because he would just “build another social network,” become fixed in your determination to pursue hell or high water if they’re on the path to achieving your mission. God speed.
+Embody the Zeitgeist Pilot. Command the capital machine. Become the standard bearer for your mission. Believe it with your entire being. Like [[Mark Zuckerberg|Zuckerberg]] turning down $1B acquisition from [[Yahoo]] because he would just “build another social network,” become fixed in your determination to pursue hell or high water if they’re on the path to achieving your mission. God speed.

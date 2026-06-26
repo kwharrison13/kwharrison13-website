@@ -21,7 +21,7 @@ In many ways, I feel extremely blessed. The title of this piece comes from [Psal
 
 I've heard several variations of [this idea](https://shelf.io/blog/digital-dementia-and-the-overloaded-brain/): "**we’re now exposed to as much data in a single day as someone in the 15th century would be in their entire lifetime**." We read more than people ever read. We interact with more people than anyone would have ever met before. Despite [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number), I don't need to maintain a stable social relationship with everyone on the internet who still gets to live rent-free in my head.
 
-All those books, movies, shows, tweets, podcasts, talks, YouTube videos, emails, and random interactions *fill* our heads with information, for better or for worse.
+All those books, movies, shows, tweets, podcasts, talks, [[YouTube]] videos, emails, and random interactions *fill* our heads with information, for better or for worse.
 
 And the volume is only going to increase exponentially. Every AI pitch emphasizes this idea of "augmenting human capability." And, in many ways, those capabilities will enable users to sift through the noise to identify the signal more effectively. But in most non-structured use cases, there will still be a need for human capability when it comes to determining what to listen to (i.e. [tastemaking](https://investing1012dot0.substack.com/p/king-making-vs-taste-making?utm_source=publication-search)). And on top of that, a ton of the use cases for AI are generative, meaning the volume of text and videos and information is only going to increase at an effective [zero marginal cost](https://every.to/napkin-math/when-creation-goes-to-zero).
 
@@ -39,13 +39,13 @@ An important logical assumption from that is that before you can act, or decide 
 
 # The Moral Obligation of Wisdom Acquisition
 
-I've referenced that T.S. Eliot quote enough times in my life that, when I turned back to each reference in my notes, I came across a collection of other related quotes, all of which start to form a picture of something that is not just a nice to have, but a moral obligation. The first, and clearest, comes from a reference to Confucius used in [a talk](https://www.youtube.com/watch?v=jY1eNlL6NKs) by Charlie Munger:
+I've referenced that [[T.S. Eliot]] quote enough times in my life that, when I turned back to each reference in my notes, I came across a collection of other related quotes, all of which start to form a picture of something that is not just a nice to have, but a moral obligation. The first, and clearest, comes from a reference to [[Confucius]] used in [a talk](https://www.youtube.com/watch?v=jY1eNlL6NKs) by [[Charlie Munger]]:
 
 > *"**The acquisition of wisdom is a moral duty. It's not something you do just to advance in life.** And there's a corollary to that idea that is very important. It requires that you're hooked on lifetime learning. Without lifetime learning, you people are not going to do very well. **You are not going to get very far in life based on what you already know. You're going to advance in life by what you learn after you leave here.**"*
 
-And more than the point Charlie Munger makes about the importance of learning in our own progression, there is an obligation to learn that comes from a [paraphrased idea](https://www.monticello.org/research-education/thomas-jefferson-encyclopedia/educated-citizenry-vital-requisite-our-survival-free-people-spurious/) attributed to Thomas Jefferson's:
+And more than the point Charlie Munger makes about the importance of learning in our own progression, there is an obligation to learn that comes from a [paraphrased idea](https://www.monticello.org/research-education/thomas-jefferson-encyclopedia/educated-citizenry-vital-requisite-our-survival-free-people-spurious/) attributed to [[Thomas Jefferson]]'s:
 
-> *"An educated citizenry is a vital requisite for our survival as a free people."*
+> *"An [[Educated Citizenry|educated citizenry]] is a vital requisite for our survival as a free people."*
 
 So is learning important to help us grow as people? Most definitely. But is it also critical in maintaining any semblance of a free and informed democracy? Also yes. Without well-informed beliefs, we start to become reminiscent of Paul's description of children [in Ephesians 4](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/4?lang=eng): "tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive."
 
@@ -73,7 +73,7 @@ But to go one step deeper in building a true index of your beliefs would require
 
 # Narrative Violations & Birthing Hype Cycles
 
-Before you set out to index your ideas, you'd be well served by revisiting an idea [I've referenced before](https://investing1012dot0.substack.com/p/its-time-to-build-but-build-what?utm_source=publication-search) from Ralph Waldo Emerson: "never read a book that's less than a year old." In other words, **there is a danger in any attempt at gathering information that you'll fall victim to the weight of popular narrative and recency bias.**
+Before you set out to index your ideas, you'd be well served by revisiting an idea [I've referenced before](https://investing1012dot0.substack.com/p/its-time-to-build-but-build-what?utm_source=publication-search) from [[Ralph Waldo Emerson]]: "never read a book that's less than a year old." In other words, **there is a danger in any attempt at gathering information that you'll fall victim to the weight of popular narrative and recency bias.**
 
 One [example](https://bedrockcap.com/letter) of how to avoid falling in-line with the popular narrative comes from Bedrock, whose entire brand revolves around finding narrative violations.
 

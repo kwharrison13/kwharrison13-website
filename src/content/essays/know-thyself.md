@@ -19,13 +19,13 @@ substack_url: "https://investing101.substack.com/p/know-thyself"
 
 For whatever reason, I've been thinking about [The Matrix](https://investing101.substack.com/p/venture-capital-doesnt-exist) a lot lately. The particular [scene](https://www.youtube.com/watch?v=svfDdcPmELk) that came to mind this week is when Neo is talking to the Oracle about whether he's The One. She points his attention to a sign that reads "Know Thyself" in Latin. She follows up with "I'm going to let you in on a little secret. Being The One is just like being in love. No one can tell you you're in love. You just know it. Through and through. Balls to bones."
 
-That scene came to mind as a statement about the nature of self-knowledge itself. You can't be told who you are. You can't A/B test your way into identity. You can't read enough Twitter threads or listen to enough podcasts to have someone else hand you the answer. You either know, or you don't. And most people don't.
+That scene came to mind as a statement about the nature of self-knowledge itself. You can't be told who you are. You can't A/B test your way into identity. You can't read enough [[Twitter]] threads or listen to enough podcasts to have someone else hand you the answer. You either know, or you don't. And most people don't.
 
 In particular, that came to mind this week because I had a conversation with a friend who is considering new roles and, like so many conversations I've had about career paths, it always came back to belief systems and knowing enough about yourself to know what your motivations should be.
 
 ## Naval's Compass
 
-[I've written before](https://investing101.substack.com/p/crafting-your-average) about a [quote](https://www.navalmanack.com/) from Naval Ravikant:
+[I've written before](https://investing101.substack.com/p/crafting-your-average) about a [quote](https://www.navalmanack.com/) from [[Naval Ravikant]]:
 
 > "All you should do is what you want to do. If you stop trying to figure out how to do things the way other people want you to do them, you get to listen to the little voice inside your head that wants to do things a certain way. Then, you get to be you... **Be yourself, with passionate intensity.**"
 
@@ -41,7 +41,7 @@ It's like trying to use a compass that doesn't know where north is. You can spin
 
 So where do you get your filter?
 
-## Two Theories of Motivation
+## Two Theories of [[Motivation]]
 
 Just in the last few weeks I've seen two frameworks for what internal filter you can anchor to. And they are... not the same.
 
@@ -57,7 +57,7 @@ Palmer's argument, stripped to its core, is this: don't follow your dreams. Foll
 
 His point is anchored to skills: if you're an average kid who isn't particularly charismatic, isn't particularly good at video editing, isn't particularly good at any of the things required to be a successful YouTuber... why would we tell that kid to follow that dream? In fact, their lives will be miserable trying to chase something they're not equipped to do. Think how much happier they would be if they focused on their actual skill set and said, "Where can I punch above my weight? Where do I have an unfair advantage?"
 
-I don't think Palmer is anti-dreams of any kind. He's anti-*bad* dreams. He's fine with astronaut dreams. He's fine with moon-colony dreams. (He literally wants to be the mayor of a city on the moon; a very Palmer Luckey thing to want.) **His issue is with dreams that were implanted by an algorithm rather than forged by genuine capability and curiosity.**
+I don't think Palmer is anti-dreams of any kind. He's anti-*bad* dreams. He's fine with astronaut dreams. He's fine with moon-colony dreams. (He literally wants to be the mayor of a city on the moon; a very [[Palmer Luckey]] thing to want.) **His issue is with dreams that were implanted by an algorithm rather than forged by genuine capability and curiosity.**
 
 Pretty important distinction.
 
@@ -67,7 +67,7 @@ So which is it? Follow your interest or follow your talent?
 
 But that, to me, doesn't feel like the right question. The right question isn't *passion or skill.* It's **do you know yourself well enough to understand where those two things overlap?**
 
-Because here's the thing. Paul Graham isn't telling you to follow a dream divorced from capability. He's telling you to follow *excitement* which, in his framework, is a signal from your subconscious that you've found something you're wired to be good at. Interest isn't random. It's diagnostic. The things that genuinely fascinate you tend to be the things where your brain has some structural advantage, some pattern-matching instinct that makes the work feel less like work.
+Because here's the thing. [[Paul Graham]] isn't telling you to follow a dream divorced from capability. He's telling you to follow *excitement* which, in his framework, is a signal from your subconscious that you've found something you're wired to be good at. Interest isn't random. It's diagnostic. The things that genuinely fascinate you tend to be the things where your brain has some structural advantage, some pattern-matching instinct that makes the work feel less like work.
 
 And Palmer Luckey isn't telling you to grind away at something you hate just because you're good at it. He's telling you to be honest about the gap between what you want and what you can do, and then either close that gap or pick a different dream.
 
@@ -105,7 +105,7 @@ Real self-knowledge includes knowing what you need from other people. What you o
 
 ## The First Principles of You
 
-[I've written before](https://investing101.substack.com/p/the-inescapable-debate-of-human-nature) that "identifying the first principles of who you are is becoming dangerously well-packaged from all sorts of identity groups." And I think that's gotten worse, not better. There are a hundred frameworks now for telling you who you should be. Your Enneagram, your attachment style, your MBTI, your political tribe, your diet, your productivity system. All of them offering a pre-fab identity you can adopt wholesale rather than doing the harder work of building one from scratch.
+[I've written before](https://investing101.substack.com/p/the-inescapable-debate-of-human-nature) that "identifying the [[First Principles Thinking|first principles]] of who you are is becoming dangerously well-packaged from all sorts of identity groups." And I think that's gotten worse, not better. There are a hundred frameworks now for telling you who you should be. Your Enneagram, your attachment style, your MBTI, your political tribe, your diet, your productivity system. All of them offering a pre-fab identity you can adopt wholesale rather than doing the harder work of building one from scratch.
 
 **The more you cede personal responsibility for deciding who you are, the more you empower the people who ultimately are deciding the value system of your in-group.** And that's dangerous. Because those people don't know you. They can't. They're optimizing for the group, not for the individual.
 

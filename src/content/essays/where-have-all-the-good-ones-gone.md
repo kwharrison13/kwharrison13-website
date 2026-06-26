@@ -15,7 +15,7 @@ substack_url: "https://investing101.substack.com/p/where-have-all-the-good-ones-
 </aside>
 <!-- connections-end -->
 
-*Quick Disclosure: Views expressed in this post are my own and not the views of Contrary LLC or any affiliate. None of the content should be construed or relied upon in any manner as investment, legal, tax, or other advice. You should consult your own advisers as to these matters. Certain information has been obtained from third party sources and has not been independently verified. See <https://contrary.com/legal> for additional important information.*
+*Quick Disclosure: Views expressed in this post are my own and not the views of [[Contrary]] LLC or any affiliate. None of the content should be construed or relied upon in any manner as investment, legal, tax, or other advice. You should consult your own advisers as to these matters. Certain information has been obtained from third party sources and has not been independently verified. See <https://contrary.com/legal> for additional important information.*
 
 ![Header image for Where Have All The Good Ones Gone?](/images/where-have-all-the-good-ones-gone-d69792b7.png)
 
@@ -23,17 +23,17 @@ Telling your kids about Santa Claus is such a tricky minefield. Is it fun preten
 
 One of the reasons kids are so easy to trick? They *want* to believe in things. They love the idea of magic and superheroes. They want that world to exist. But being a parent sometimes feels like you only have two jobs: (1) feed them, and (2) be the one to break the news that the world can be a really sucky place sometimes.
 
-Optimism is such a drug. People want so bad for the best case scenario to be true. We, too, are so trickable. For a species that had the majority of our "coming of age" years in a time when the life expectancy was [20-25 years](https://exarc.net/questions/how-old-did-people-get-prehistory-ch) and we were hunted more often than the hunter, it's surprising how optimistic we've been able to remain.
+[[Optimism]] is such a drug. People want so bad for the best case scenario to be true. We, too, are so trickable. For a species that had the majority of our "coming of age" years in a time when the life expectancy was [20-25 years](https://exarc.net/questions/how-old-did-people-get-prehistory-ch) and we were hunted more often than the hunter, it's surprising how optimistic we've been able to remain.
 
 This is the other side of the storytelling coin that I find myself [talking about so often](https://investing1012dot0.substack.com/p/the-meme-economy). If you end up believing enough stories that aren't true, or getting overwhelmed with how often stories turn out to be a huge bummer, optimism becomes increasingly more difficult to muster.
 
 # Cash App: Too Good To Be True?
 
-This week has been a real humdinger for bummers. But let's start with the one that had the most impact on me mentally. Already, I couldn't help but notice that fintech has had a... rough couple of months. Where companies like Robinhood, Coinbase, and Affirm used to be worth $30-40B+ *each*, in a basket of recently IPO'ed fintech companies the aggregate value isn't even worth $30B.
+This week has been a real humdinger for bummers. But let's start with the one that had the most impact on me mentally. Already, I couldn't help but notice that fintech has had a... rough couple of months. Where companies like [[Robinhood]], [[Coinbase]], and [[Affirm]] used to be worth $30-40B+ *each*, in a basket of recently IPO'ed fintech companies the aggregate value isn't even worth $30B.
 
 ![Illustration for Cash App: Too Good To Be True? section](/images/where-have-all-the-good-ones-gone-22e5db97.png)
 
-Block (the artist formerly known as Square) has been one of the bastions of the fintech world, held up as an example of success where most others stumble. Then yesterday, Block hit a bit of a Hindenburg moment. A short seller firm (appropriately named Hindenburg Research) published a report on the company.
+Block (the artist formerly known as [[Square]]) has been one of the bastions of the fintech world, held up as an example of success where most others stumble. Then yesterday, Block hit a bit of a Hindenburg moment. A short seller firm (appropriately named Hindenburg Research) published a report on the company.
 
 In it, they characterized Block in a not-so-great light. In Hindenburg's words, "the magic behind [Block] has not been innovation, but its willingness to mislead investors, facilitate fraud, avoid regulation & dress up predatory products as revolutionary tech." As a result (at least in part), Block saw $10B of market cap get wiped out.
 
@@ -55,9 +55,9 @@ And I'm not going to lie, the report really bummed me out. Honestly, I hope it's
 
 # Weaving Tales of Woe In Tech
 
-Like most of the tech world, I also tuned in to the [TikTok hearings](https://www.youtube.com/watch?v=lDtROKstZb0) in Congress where the CEO of TikTok was uniquely and uniformly skewered by American politicians from both political parties. The ups and downs of the hearing are disheartening for a number of reasons.
+Like most of the tech world, I also tuned in to the [TikTok hearings](https://www.youtube.com/watch?v=lDtROKstZb0) in Congress where the CEO of [[TikTok]] was uniquely and uniformly skewered by American politicians from both political parties. The ups and downs of the hearing are disheartening for a number of reasons.
 
-The growing conflict with the authoritarian government in China, the threat of technological imbalance in a potential global conflict (as displayed in future-focused "historical" fiction books like [2034](https://kwharrison13.com/ad17f7d516334a96b42ad8da486887e6)), the mental health crisis among young people (including increasing rates of suicide), and so, so much more. So many bummers. Mike Solana did a great job live tweeting the hearings with his own special flavor.
+The growing conflict with the authoritarian government in China, the threat of technological imbalance in a potential global conflict (as displayed in future-focused "historical" fiction books like [2034](https://kwharrison13.com/ad17f7d516334a96b42ad8da486887e6)), the mental health crisis among young people (including increasing rates of suicide), and so, so much more. So many bummers. [[Mike Solana]] did a great job live tweeting the hearings with his own special flavor.
 
 Two things happened to my mood yesterday: (1) I got really bummed, and (2) I let myself spiral into all sorts of over-simplification and logical fallacies. But the bummers just kept coming to mind.
 
@@ -65,19 +65,19 @@ Two things happened to my mood yesterday: (1) I got really bummed, and (2) I let
 
 With the Block fiasco, you start to question a lot of the validity of much of the fintech movement over the last few years. Robinhood is effectively [invasive gambling](https://www.nytimes.com/2021/06/30/technology/robinhood-fined-misleading-customers.html). Root and Lemonade are just [worse alternatives](https://www.businessofbusiness.com/articles/a-tale-of-two-insurtechs-lemonade-and-root-have-cool-apps-but-can-they-turn-a-profit/) for insurance companies.
 
-What about TikTok? That leads you down a rabbit hole of the nightmares of social media writ large. Whether its the intense neuroscientific programming we saw explained in [documentary form](https://www.thesocialdilemma.com/), or the [insane content moderation efforts](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona) that have pushed content moderators to legitimate cases of PTSD, and even suicide.
+What about TikTok? That leads you down a rabbit hole of the nightmares of [[Social Media|social media]] writ large. Whether its the intense neuroscientific programming we saw explained in [documentary form](https://www.thesocialdilemma.com/), or the [insane content moderation efforts](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona) that have pushed content moderators to legitimate cases of PTSD, and even suicide.
 
-Then there are the classic examples of companies that we all try and [squint to not think about how they tick](https://twitter.com/ClayTravis/status/1213997346675208192?s=20), whether it's Apple's [sweat shops](https://www.theverge.com/2021/5/10/22428899/apple-suppliers-china-uyghur-forced-labor-report) or Tesla's [cobalt mines](https://youtu.be/CIWvk3gJ_7E?t=329).
+Then there are the classic examples of companies that we all try and [squint to not think about how they tick](https://twitter.com/ClayTravis/status/1213997346675208192?s=20), whether it's [[Apple]]'s [sweat shops](https://www.theverge.com/2021/5/10/22428899/apple-suppliers-china-uyghur-forced-labor-report) or [[Tesla]]'s [cobalt mines](https://youtu.be/CIWvk3gJ_7E?t=329).
 
-You also have businesses that may just not be great businesses. [Netflix's fundamentals](https://2030investments.substack.com/p/netflix-poor-business-fundamentals). Meta's need for a return to fundamentals, and a [decade of efficiency](https://www.mbi-deepdives.com/meta2023/) after burning [$13B](https://techcrunch.com/2023/02/03/metas-reality-labs-lost-13-7-billion-on-vr-and-ar-last-year/) pursuing the metaverse.
+You also have businesses that may just not be great businesses. [Netflix's fundamentals](https://2030investments.substack.com/p/netflix-poor-business-fundamentals). [[Facebook|Meta]]'s need for a return to fundamentals, and a [decade of efficiency](https://www.mbi-deepdives.com/meta2023/) after burning [$13B](https://techcrunch.com/2023/02/03/metas-reality-labs-lost-13-7-billion-on-vr-and-ar-last-year/) pursuing the metaverse.
 
-Amazon? [Exploiting workers](https://www.theguardian.com/commentisfree/2021/may/26/amazon-workers-are-rising-up-around-the-world-to-say-enough). Berkshire? Hawking [sugar water](https://www.investopedia.com/ask/answers/052615/why-did-warren-buffett-invest-heavily-cocacola-ko-late-1980s.asp) and [sugar sugar](https://einvestingforbeginners.com/warren-buffett-sees-candies-daah/#:~:text=We%20could%20infer%20from%20his,or%20160%25%2B%20per%20year.). Saudi Aramco? Get out of here. Purdue? [Fueling the opioid epidemic](https://www.nytimes.com/2021/09/01/health/purdue-sacklers-opioids-settlement.html).
+[[Amazon]]? [Exploiting workers](https://www.theguardian.com/commentisfree/2021/may/26/amazon-workers-are-rising-up-around-the-world-to-say-enough). Berkshire? Hawking [sugar water](https://www.investopedia.com/ask/answers/052615/why-did-warren-buffett-invest-heavily-cocacola-ko-late-1980s.asp) and [sugar sugar](https://einvestingforbeginners.com/warren-buffett-sees-candies-daah/#:~:text=We%20could%20infer%20from%20his,or%20160%25%2B%20per%20year.). Saudi Aramco? Get out of here. Purdue? [Fueling the opioid epidemic](https://www.nytimes.com/2021/09/01/health/purdue-sacklers-opioids-settlement.html).
 
 You see what I mean? Spiraling. So what pulled me out?
 
 # Optimizing Your Optimism
 
-As easy as it is to criticize social media, it's also the exact thing that helped me get some perspective on what started out as not a great morning. I started messaging some of my favorite Twitter friends who think about a lot of these same questions. And I was reminded of a couple important realities:
+As easy as it is to criticize social media, it's also the exact thing that helped me get some perspective on what started out as not a great morning. I started messaging some of my favorite [[Twitter]] friends who think about a lot of these same questions. And I was reminded of a couple important realities:
 
 1. Businesses are fundamentally problem solving engines
 2. Believing the negatives outweigh the positives of technological progress is a position for inconsiderate people in privilege
@@ -95,7 +95,7 @@ But they are the best mechanism we have come up with thus far for producing inno
 >   
 > There is also a lot of first principles thinking that you can apply to understand what an engine might look like at scale. And throughout the company-building process there is always a need to dream the dream, [and tell the story](https://investing1012dot0.substack.com/p/the-storytelling-of-investing). **But analyzing a company with an economic engine that is starting to turn is a metrics-driven, first-principles process that more people need to do.** And the people who are doing it need to always look for ways to do it better."*
 
-If Netflix has crappy fundamentals? Then it should be punished by public markets. But that doesn't negate the massive impact they had on kicking off the [streaming era](https://www.nytimes.com/2019/11/18/business/media/streaming-hollywood-revolution.html). Did that lead to more competitors, more bundles of offerings? Sure. But that's competition, and competition is good for consumers, which pushes people to create better offerings. If Netflix sucks, then let capitalism punish it. Because that's an incredible motivator to drive quality.
+If [[Netflix]] has crappy fundamentals? Then it should be punished by public markets. But that doesn't negate the massive impact they had on kicking off the [streaming era](https://www.nytimes.com/2019/11/18/business/media/streaming-hollywood-revolution.html). Did that lead to more competitors, more bundles of offerings? Sure. But that's competition, and competition is good for consumers, which pushes people to create better offerings. If Netflix sucks, then let capitalism punish it. Because that's an incredible motivator to drive quality.
 
 Believing that companies CAN be incredible, and then holding them to that bar is important. Maybe Hindenburg Research just hates Block, and wants to make a boatload of money shorting the stock. But if they're right about what the company is doing? *That's a good thing for them to call out.* **People being willing to both dream the dream AND criticize the dreamers represent a much healthier ecosystem than unchecked dreamers or lazy pessimists.**
 
@@ -119,7 +119,7 @@ Technology may have amplified many of those basest instincts we have, but those 
 
 Solving those problems, and lifting us away from the “worst possible version” of ourselves is a worthy goal. But humanity’s problems can’t be something we just lay at the feet of technology. We could do more looking inside ourselves.
 
-I’ve always liked [this quote](https://www.goodreads.com/quotes/58081-to-put-the-world-in-order-we-must-first-put) from Confucius about the importance of individual accountability:
+I’ve always liked [this quote](https://www.goodreads.com/quotes/58081-to-put-the-world-in-order-we-must-first-put) from [[Confucius]] about the importance of individual accountability:
 
 *“To put the world in order, we must first put the nation in order; to put the nation in order, we must first put the family in order; to put the family in order; we must first cultivate our personal life; we must first set our hearts right.”*
 
@@ -129,11 +129,11 @@ Finally, let's return to that age-old drug: optimism. It can often feel like cho
 
 ![Framework diagram for putting optimism & pessimism to work](/images/where-have-all-the-good-ones-gone-f62ead79.png)
 
-Geoff Lewis, a not-VC at Bedrock, [shared](https://www.nytimes.com/2019/11/18/business/media/streaming-hollywood-revolution.html) a great framework yesterday around optimism vs. pessimism that has been updated to adjust for the current macroeconomic environment. He also credited Patrick Collison for helping to push his thinking:
+Geoff Lewis, a not-VC at Bedrock, [shared](https://www.nytimes.com/2019/11/18/business/media/streaming-hollywood-revolution.html) a great framework yesterday around optimism vs. [[Pessimism|pessimism]] that has been updated to adjust for the current macroeconomic environment. He also credited [[Patrick Collison]] for helping to push his thinking:
 
 > ***Geoff in 2021**: "I have noticed this juxtaposition of a generalized pessimism with a specific optimism about the company and the things within the locus of control."*
 >
-> ***Patrick Collison in 2023**: "At Stripe, we want to be micro pessimists and macro optimists."*
+> ***Patrick Collison in 2023**: "At [[Stripe]], we want to be micro pessimists and macro optimists."*
 >
 > ***Geoff in 2023**: "In March 2023, I think Patrick and I were only half-right. Now, the best stance to take is to be both micro pessimistic and macro pessimistic. **The value in taking a pessimistic stance is that it imbues you with the agency to do something about all the risks to your business.** And so in a world where the macro is stable, you want to focus on the micro of your own organization. In a world where the macro is unstable, by being pessimistic about the macro you can take agency over developing contingency plans. The era of techno-optimism is over. That doesn't mean there's not going to be phenomenally great technologies that are going to be good for the world. But it does mean that **I believe the entrepreneurs building those companies are going to have a pretty pessimistic stance on both the micro and the macro. But, they're also going to take agency over it, and do whatever they can to survive**."*
 
@@ -141,7 +141,7 @@ In other words? "[Prepare for the worst, and expect the best to come from it](ht
 
 In reality, I think that this view is still bent towards optimism. If you didn't believe you *could* have agency and impact the outcomes of your business, you wouldn't do anything in the first place. Believing that anything is changeable is, by nature, optimistic. Just like "[the arc of the moral universe is long, but it bends toward justice](https://obamawhitehouse.archives.gov/blog/2011/10/21/arc-moral-universe-long-it-bends-toward-justice)," so too is **the arc of human development long, but it bends towards progress.**
 
-My go-to [source of optimism](https://www.notboring.co/p/weekly-dose-of-optimism-34) is Packy McCormick. He's done a great job of keeping a stiff upper lip through hell and high water. In a recent piece called "[The Happiness Hypothesis](https://www.notboring.co/p/the-happiness-hypothesis)," he laid out the case for why technology has the purpose of creating more "potential for happiness":
+My go-to [source of optimism](https://www.notboring.co/p/weekly-dose-of-optimism-34) is [[Packy McCormick]]. He's done a great job of keeping a stiff upper lip through hell and high water. In a recent piece called "[The Happiness Hypothesis](https://www.notboring.co/p/the-happiness-hypothesis)," he laid out the case for why technology has the purpose of creating more "potential for happiness":
 
 > *"**The purpose of technology is to increase the potential for happiness, but most people don’t feel like technology makes them much happier.** In fact, in the short-term, technology can make many feel unhappy — the gains from new technologies are unevenly distributed at the beginning, and ever-increasing efficiency creates a meaning vacuum that needs to be filled.   
 >   
@@ -151,7 +151,7 @@ My go-to [source of optimism](https://www.notboring.co/p/weekly-dose-of-optimism
 
 It's not enough to say "progress = happiness." There are a lot of components missing that should make you capable of stepping back and being critically pessimistic about your potential optimism.
 
-I feel the same way about religion. I'm Christian, but I get incredibly bothered by "mainstream Christianity." People who just dogmatically refuse to believe any non-Christians can be happy, or have doctrine or culture that is valuable, or that anything that is remotely misaligned from your beliefs is therefore heresy, punishable by ostracism. Is your faith really based on the earth being 6,000 years old? Or can you abstract to a more first principles approach?
+I feel the same way about religion. I'm Christian, but I get incredibly bothered by "mainstream [[Christianity]]." People who just dogmatically refuse to believe any non-Christians can be happy, or have doctrine or culture that is valuable, or that anything that is remotely misaligned from your beliefs is therefore heresy, punishable by ostracism. Is your faith really based on the earth being 6,000 years old? Or can you abstract to a more first principles approach?
 
 The same is true of tech. The [two opposing ideas](https://www.goodreads.com/quotes/64918-the-test-of-a-first-rate-intelligence-is-the-ability-to) that every person working in technology needs to maintain are (1) technological progress is good, (2) technological progress brings with it a lot of social and moral dilemmas that shouldn't just be [swept under the rug](https://www.timesofisrael.com/instagram-does-harm-to-teenagers-facebook-has-been-suppressing-these-findings/).
 

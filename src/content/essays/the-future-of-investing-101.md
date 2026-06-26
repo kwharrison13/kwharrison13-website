@@ -19,11 +19,11 @@ substack_url: "https://investing101.substack.com/p/the-future-of-investing-101"
 
 # Where Did I Come From?
 
-In March 2020, I had an idea of this concept: "you can explore the basics of investing by exploring the boundaries." The basics (101) would be informed by the revolution (2.0). That led me to coming up with the name Investing 101 2.0.
+In March 2020, I had an idea of this concept: "you can explore the basics of investing by exploring the boundaries." The basics (101) would be informed by the revolution (2.0). That led me to coming up with the name [[Investing 101 2.0]].
 
-Much to the chagrin of anyone I know who has a sense for marketing and SEO, that led to the Substack domain of "investing1012dot0.substack.com." Not an easy one to explain to someone who isn't in front of a computer.
+Much to the chagrin of anyone I know who has a sense for marketing and SEO, that led to the [[Substack]] domain of "investing1012dot0.substack.com." Not an easy one to explain to someone who isn't in front of a computer.
 
-Despite coming up with the idea in early 2020, I didn't write anything until March 2021. My [first post](https://investing1012dot0.substack.com/p/roam-investing?utm_source=publication-search) was an exploration of my research process for investing and, in particular, how I use Roam Research. Since then, my writing has evolved into this blog. Spurred by the goal of "never miss a week" and driven by the philosophy of "I write because I don't know what I think until I read what I say."
+Despite coming up with the idea in early 2020, I didn't write anything until March 2021. My [first post](https://investing1012dot0.substack.com/p/roam-investing?utm_source=publication-search) was an exploration of my research process for investing and, in particular, how I use [[Roam Research]]. Since then, my writing has evolved into this blog. Spurred by the goal of "never miss a week" and driven by the philosophy of "I write because I don't know what I think until I read what I say."
 
 Since then, I've written 397,570 words across 156 individual posts. Some of that has helped me unpack my thinking around things like:
 

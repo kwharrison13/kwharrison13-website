@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
   - "wiki/books/The Invention of Russia.md"
@@ -18,16 +18,8 @@ reference_count: 1
 
 # Nina Linchenko
 
-**One-line:** *Person who recommended [The Invention of Russia](/books/the-invention-of-russia) to Kyle.*
+The person who recommended [The Invention of Russia](/books/the-invention-of-russia) by [Arkady Ostrovsky](/notes/arkady-ostrovsky) to Kyle (recorded in the book page's people roster). Beyond that recommendation, who she is and her relationship to Kyle is not yet captured in the corpus.
 
-## What we know
+## Where this appears
 
-- Recommended [The Invention of Russia](/books/the-invention-of-russia) by [Arkady Ostrovsky](/notes/arkady-ostrovsky) to Kyle (source: highlight-export metadata on [The Invention of Russia](/books/the-invention-of-russia)).
-
-## Mentioned in
-
-- [The Invention of Russia](/books/the-invention-of-russia) — recommended the book.
-
-## Open questions
-
-- Who Nina Linchenko is and her relationship to Kyle — not yet captured.
+- [The Invention of Russia](/books/the-invention-of-russia) — credited as the person who recommended Ostrovsky's book to Kyle.

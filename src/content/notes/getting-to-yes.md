@@ -23,7 +23,7 @@ related:
 
 # Getting to Yes
 
-**Author:** Roger Fisher and William Ury and Bruce Patton
+**Author:** [Roger Fisher](/notes/roger-fisher) and [William Ury](/notes/william-ury) and [Bruce Patton](/notes/bruce-patton)
 
 **Why it's on the list:** *Presents principled negotiation—separating people from the problem, focusing on interests not positions, and inventing mutually beneficial options judged by objective criteria.*
 

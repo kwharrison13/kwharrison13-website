@@ -37,7 +37,7 @@ A lot of VCs are predicting that many of them will fail, in some instances as hi
 
 For many of these companies, the biggest reality that they will have to face is that for most of these companies, any valuation mark from 2020 - 2021 aren't just one of many data points. They're ***irrelevant*** data points.
 
-In the words of Bill Gurley, "forget those prices happened."
+In the words of [[Bill Gurley]], "forget those prices happened."
 
 As I reflect on the most likely causes of death for a company in the current market correction, there were a few key areas that came to mind:
 
@@ -46,7 +46,7 @@ As I reflect on the most likely causes of death for a company in the current mar
 3. Being unwilling to control burn
 4. Being uncomfortable with layoffs
 
-# Investor's Expectations
+# Investor's [[Expectations]]
 
 As much as VCs want to be partners in helping you build a business, at the end of the day **their business only works if they're realistic about what your company can eventually be worth**. That equation dictates the entirety of their returns. No matter how helpful you find them, or how impactful they are on your business, if your company doesn't go on to be worth more than they paid, then they don't make money.
 
@@ -74,7 +74,7 @@ Today, investors have some specific expectations about unit economics, profitabi
 
 Those expectations are shaping investors view of what valuation makes sense. The significant gap between investors expectations and founders expectations will keep the funding market moving slowly, if at all.
 
-Think of it this way. **Valuation and traction are like your left and your right leg.** How far you step out with your right leg is your valuation. If you only take a small step forward on your left leg (traction), then it becomes that much harder for your right leg the next time you take a step. The same is true of raising a round. Investors will be expecting you to take full steps in order to justify another full step on the valuation leg.
+Think of it this way. **[[Valuation]] and traction are like your left and your right leg.** How far you step out with your right leg is your valuation. If you only take a small step forward on your left leg (traction), then it becomes that much harder for your right leg the next time you take a step. The same is true of raising a round. Investors will be expecting you to take full steps in order to justify another full step on the valuation leg.
 
 ![Chart illustrating investor's expectations](/images/thinning-the-herd-6a5c4f58.png)
 
@@ -90,7 +90,7 @@ Down rounds are the uncomfortable equivalent of public market price corrections.
 
 For most high growth tech companies, debt is a pretty limited option, especially when you're burning ~$5M a month like many of these companies are. Even convertible notes can be a pretty expensive source of capital. Sometimes you'll have to bite the bullet and be willing to take a significant down round if traction isn't keeping up.
 
-Holden Spaht, a Managing Partner at Thoma Bravo, [put it this way](https://techcrunch.com/2023/01/02/we-need-to-destigmatize-down-rounds-in-2023/):
+Holden Spaht, a Managing Partner at [[Thoma Bravo]], [put it this way](https://techcrunch.com/2023/01/02/we-need-to-destigmatize-down-rounds-in-2023/):
 
 > *"The truth is, there’s no one-size-fits-all solution. The funding route you take has enormous consequences for the future of your company, and so it shouldn’t be clouded by ego or driven by media appetites."*
 
@@ -100,7 +100,7 @@ When you think about the mechanism of a down round, that re-pricing activity is 
 
 Hedge funds and mutual funds that manage more liquid pools of capital have certain requirements that force them to disclose their internal valuations for private companies more often. In a recent [Bloomberg article](https://www.bloomberg.com/graphics/2023-hedge-funds-private-company-share-valuation/#xj4y7vzkg), they laid out how some of the private companies have faired who raised from these types of large crossover investors. For the most part, it ain't pretty.
 
-Secondary markets are another pulse showing the lack of demand that investors have for these overvalued companies. In a Crunchbase article (that has strangely been deleted since), [they mentioned](https://web.archive.org/web/20230117133843/https://news.crunchbase.com/startups/secondary-market-unicorn-valuations/) two secondaries marketplaces and the trends they've seen recently:
+Secondary markets are another pulse showing the lack of demand that investors have for these overvalued companies. In a [[Crunchbase]] article (that has strangely been deleted since), [they mentioned](https://web.archive.org/web/20230117133843/https://news.crunchbase.com/startups/secondary-market-unicorn-valuations/) two secondaries marketplaces and the trends they've seen recently:
 
 > *"Many tech companies have performed mass layoffs and cut costs in the past year in an attempt to cling to their valuations. **But those valuations are all but worthless on the secondary market, where it’s all about what a buyer is willing to pay for a slice of a private company**. In November, Forge Capital saw companies trade at around 47% lower compared to valuations set with their most recent rounds of funding. EquityZen reported stocks were trading at an average of 40% lower."*
 

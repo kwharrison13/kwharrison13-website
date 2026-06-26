@@ -4,28 +4,24 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/Watershed Climate Diligence — 2021.md"
+  - "wiki/diligence-research/Watershed Climate Diligence — 2021.md"
 tags: []
 aliases:
   - "Rebecca Dell"
-related: []
+related:
+  - "[[ClimateWorks]]"
+  - "[[Watershed Climate Diligence — 2021]]"
 ---
 
 # Rebecca Dell
 
-**One-line:** *Industry Program Director at ClimateWorks, former Obama advisor; Watershed Climate Week 2021.*
+Industry Program Director at the [ClimateWorks](/notes/climateworks) Foundation and a former Obama-administration advisor, surfaced in Kyle's Watershed Climate Diligence — 2021 notes during Watershed's 2021 Climate Week. In a "Buying Clean" breakout, Dell was interviewed by Shayle Kann (Energy Impact Partners) on the power of corporate purchasing to decarbonize heavy industry — making the case that just three core building materials (cement, steel, and basic chemicals) account for roughly 20% of greenhouse-gas emissions, and that buying alliances investing in cleaner processes can drive those costs down below high-carbon options. She appears in the diligence as one of the named industrial-decarbonization experts in the climate ecosystem around Watershed.
 
-## What we know
+**Context:** Rebecca Dell is a materials scientist who leads industrial decarbonization work at the ClimateWorks Foundation, focusing on cement, steel, and chemicals.
 
-- Industry Program Director at ClimateWorks, former Obama advisor; Watershed Climate Week 2021. (source: Watershed Climate Diligence — 2021)
+## Where this appears
 
-## Mentioned in
-
-- Watershed Climate Diligence — 2021 — Watershed Climate Series B diligence (Index Ventures, 2021).
-
-## Open questions
-
-_(stub — expand on a future pass)_
+- Watershed Climate Diligence — 2021 — interviewed at Watershed Climate Week 2021 on clean buying and cutting emissions from cement/steel/chemicals; cited as a [ClimateWorks](/notes/climateworks) industry expert.

@@ -4,28 +4,22 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
-  - "wiki/meetings/Watershed Climate Diligence — 2021.md"
+  - "wiki/diligence-research/Watershed Climate Diligence — 2021.md"
 tags: []
 aliases:
   - "Christie Kim"
-related: []
+related:
+  - "[[Watershed Climate Diligence — 2021]]"
+  - "[[Nan Ransohoff]]"
 ---
 
 # Christie Kim
 
-**One-line:** *Index colleague (Nan Ransohoff went to college with her sister).*
+A personal-network reference point that surfaced during Index Ventures' 2021 Watershed diligence. In the background notes for the expert call with [Nan Ransohoff](/notes/nan-ransohoff) (Stripe Climate), the connection is that Ransohoff went to college with Christie Kim's sister — i.e. Kim appears only as the relational bridge that situated how Kyle/Index knew Ransohoff, not as a subject of the diligence herself. No further detail on Kim is recorded in the source.
 
-## What we know
+## Where this appears
 
-- Index colleague (Nan Ransohoff went to college with her sister). (source: Watershed Climate Diligence — 2021)
-
-## Mentioned in
-
-- Watershed Climate Diligence — 2021 — Watershed Climate Series B diligence (Index Ventures, 2021).
-
-## Open questions
-
-_(stub — expand on a future pass)_
+- Watershed Climate Diligence — 2021 — named in the background to the [Nan Ransohoff](/notes/nan-ransohoff) expert call: Ransohoff went to college with Christie Kim's sister.

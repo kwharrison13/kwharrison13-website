@@ -24,7 +24,7 @@ Picture this. A company pitches you on the idea of selling anime comic books onl
 
 Now they tell you within a few short decades they'll have built the largest logistics network in the world, not only to deliver anime, but anything you could want. On top of that they'll be powering 1/3 of the internet. Do you actually buy that?
 
-The story may be all too obvious, but this is effectively what happened with Amazon. I think all the time about the audacity of being able to buy into the vision of world domination for Amazon back in 1999. And a lot of people *didn't* buy it.
+The story may be all too obvious, but this is effectively what happened with [[Amazon]]. I think all the time about the audacity of being able to buy into the vision of world domination for Amazon back in 1999. And a lot of people *didn't* buy it.
 
 ![Illustration for The Audacity section](/images/building-a-product-engine-2dc9d7a8.png)
 
@@ -32,7 +32,7 @@ But when we look around at the market correction today I think a LOT about the n
 
 ## A Weighing Machine
 
-[I've written before](https://investing1012dot0.substack.com/p/valuations?s=w) about a famous quote from Warren Buffet's sensei, Ben Graham:
+[I've written before](https://investing1012dot0.substack.com/p/valuations?s=w) about a famous quote from Warren Buffet's sensei, [[Ben Graham]]:
 
 > *“In the short run, the market is a **voting machine** – reflecting a voter-registration test that requires only money, not intelligence or emotional stability – but in the long run, the market is a **weighing machine**.”*
 
@@ -40,11 +40,11 @@ Right now everyone is voting with fear in the public markets. What is the bear c
 
 But what did he mean by a weighing machine? [Another quote by Semil Shah](https://semilshah.com/2022/01/29/the-market-is-the-greatest-critic/) has really stuck with me over the last few months:
 
-> *"**Companies big and small will be examined through the lens of growth narratives driven by product diversity**. It’s no longer good enough to just handle online storage, or to just facilitate online meetings, or to just empower consumers to freely trade securities. [Investors] are likely going to reallocate their money into companies that demonstrate the vision and execution to not only acquire assets like Instagram and WhatsApp, but also key infrastructure like Parse and Onavo; or assets like Slack and Tableau; or assets like Minecraft, LinkedIn, and Activision. **The public markets will likely reward those companies who can diversify their product lines into messaging, analytics, gaming, and more — those special companies and business leaders who continue to bundle value into their platforms.**"*
+> *"**Companies big and small will be examined through the lens of growth narratives driven by product diversity**. It’s no longer good enough to just handle online storage, or to just facilitate online meetings, or to just empower consumers to freely trade securities. [Investors] are likely going to reallocate their money into companies that demonstrate the vision and execution to not only acquire assets like [[Instagram]] and WhatsApp, but also key infrastructure like Parse and Onavo; or assets like Slack and Tableau; or assets like Minecraft, [[LinkedIn]], and Activision. **The public markets will likely reward those companies who can diversify their product lines into messaging, analytics, gaming, and more — those special companies and business leaders who continue to bundle value into their platforms.**"*
 
 While this is most dramatically true of public investors who are seeking safety in established platforms this philosophy will also continue to be much more relevant as venture investors consider what investments they want to make.
 
-Semil's most poignant example was Microsoft. It's insane to consider the fact that the same company responsible for Windows OS and Azure also own properties like Linkedin, Xbox, Activision (almost), and Github. Everyone is down but overall Microsoft has held up relatively well this year compared to the market.
+Semil's most poignant example was [[Microsoft]]. It's insane to consider the fact that the same company responsible for Windows OS and Azure also own properties like Linkedin, Xbox, Activision (almost), and Github. Everyone is down but overall Microsoft has held up relatively well this year compared to the market.
 
 ![Chart illustrating a weighing machine](/images/building-a-product-engine-e63299d8.png)
 
@@ -60,11 +60,11 @@ When you look at what Amazon has been able to accomplish you see a dream come tr
 
 ### Building a Product Engine
 
-In Brad Stone's book [The Everything Store he quotes](https://www.wgbh.org/news/commentary/2019/10/23/can-jeff-bezos-and-amazon-adapt-to-the-end-of-our-love-affair-with-tech) Danny Hillis, a friend of Jeff Bezos', about the unique qualities of Amazon:
+In [[Brad Stone]]'s book [The Everything Store he quotes](https://www.wgbh.org/news/commentary/2019/10/23/can-jeff-bezos-and-amazon-adapt-to-the-end-of-our-love-affair-with-tech) Danny Hillis, a friend of [[Jeff Bezos]]', about the unique qualities of Amazon:
 
 > *“If you look at why Amazon is so different than almost any other company that started early on the Internet, **it’s because Jeff approached it from the very beginning with that long-term vision.** It was a multidecade project. The notion that he can accomplish a huge amount with a larger time frame, if he is steady about it, is fundamentally his philosophy.”*
 
-What struck me when I read both The Everything Store and Amazon Unbound was the intense commitment to experimentation that Amazon has as a culture. The willingness to tackle "big hairy ambitious goals" without the same institutional fear that other large organizations have. Take, as an example, Amazon's experience trying and failing to launch the Fire Phone.
+What struck me when I read both [[The Everything Store]] and [[Amazon Unbound]] was the intense commitment to experimentation that Amazon has as a culture. The willingness to tackle "big hairy ambitious goals" without the same institutional fear that other large organizations have. Take, as an example, Amazon's experience trying and failing to launch the Fire Phone.
 
 > *"Bezos didn’t penalize Ian Freed and other Fire Phone managers, **sending a strong message inside Amazon that taking risks was rewarded**. Ian Freed, the vice president in charge of the project, said “I made a mistake and Jeff made a mistake. We didn’t align the Fire Phone’s value proposition with the Amazon brand, which is great value.” **Freed said that Bezos told him afterward, “You can’t, for one minute, feel bad about the Fire Phone. Promise me you won’t lose a minute of sleep.”***
 
@@ -120,9 +120,9 @@ The more likely outcome in neobanks is similar aggregation to what we've seen in
 
 ![Chart illustrating the neobanked](/images/building-a-product-engine-1514c7d5.png)
 
-Cash App has become a [cultural phenomenon](https://digitalnative.substack.com/p/the-rise-of-cash-app-?s=r) that no bank has experienced. Cash App as a standalone unit has continued to ship features and products that keep them relevant, but this is a reflection of the broader product velocity that Square has shown over the last 10 years.
+Cash App has become a [cultural phenomenon](https://digitalnative.substack.com/p/the-rise-of-cash-app-?s=r) that no bank has experienced. Cash App as a standalone unit has continued to ship features and products that keep them relevant, but this is a reflection of the broader product velocity that [[Square]] has shown over the last 10 years.
 
-Another example of product velocity is what we're seeing coming out of financial Infrastructure companies like Stripe and Plaid. [Stripe launched](https://twitter.com/amix3k/status/1404792644409167873?s=20&t=ZtxycvMjTQfxpYk-00Btbw) two products in the first 5 years and then proceeded to launch 10+ more in their second 5 years. Plaid is starting to follow suit launching [KYC/AML](https://plaid.com/blog/introducing-identity-verification/) and [data connectivity](https://plaid.com/blog/introducing-data-connectivity-solutions/) just this year.
+Another example of product velocity is what we're seeing coming out of financial Infrastructure companies like [[Stripe]] and [[Plaid]]. [Stripe launched](https://twitter.com/amix3k/status/1404792644409167873?s=20&t=ZtxycvMjTQfxpYk-00Btbw) two products in the first 5 years and then proceeded to launch 10+ more in their second 5 years. Plaid is starting to follow suit launching [KYC/AML](https://plaid.com/blog/introducing-identity-verification/) and [data connectivity](https://plaid.com/blog/introducing-data-connectivity-solutions/) just this year.
 
 ## What Does This Mean For Venture?
 

@@ -7,7 +7,7 @@ quake: false
 tags:
   - "historical-futurism"
   - "open-source-knowledge"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
@@ -49,16 +49,16 @@ key_takeaways_status: "written"
 - "This article, therefore, cost me so much painful attention, and my faults in it vexed me so much, and I made so little progress in amendment, and had such frequent relapses, that I was almost ready to give up the attempt, and content myself with a faulty character in that respect, like the man who, in buying an ax of a smith, my neighbor, desired to have the whole of its surface as bright as the edge. The smith consented to grind it bright for him if he would turn the wheel; he turn'd while the smith press'd the broad face of the ax hard and heavily on the stone, which made the turning of it very fatiguing. The man came every now and then from the wheel to see how the work went on, and at length would take his ax as it was, without further grinding. 'No,' said the smith, 'turn on, turn on; we shall have it bright by-and-by; as yet, it is only speckled.' 'Yes,' says the man, '__but I think I like a speckled ax best__.'"
 - Referring to a disagreeable acquaintance of Franklin's who was not on his side — "I did not, however, aim at gaining his favor by paying any servile respect to him, but, after some time, took this other method. Having heard that he had in his library a certain very scarce and curious book; I wrote a note to him, expressing my desire of perusing that book, and requesting he would do me the favor of lending it to me for a few days. He sent it immediately, and I returned it in about a week with another note, expressing strongly my sense of favor. When we next met in the House, he spoke to me (which he had never done before), and with great civility; and he ever after manifested a readiness to serve me on all occasion, so that we became great friends, and our friendship continued to his death. This is another instance of the truth of an old maxim I had learned, which says __'He that has once done you a kindness will be more ready to do you another, than he whom you yourself have obliged.'__"
 - Benjamin Franklin's virtues:
-    - **Temperance:** Eat not to dullness; drink not to elevation
+    - **[Temperance](/notes/temperance):** Eat not to dullness; drink not to elevation
     - **Silence:** Speak not but what may benefit others or yourself; avoid trifling conversation
     - **Order:** Let all your things have their places; let each part of your business have its time.
     - **Resolution:** Resolve to perform what you ought; perform without fail what you resolve.
-    - **Frugality:** Make no expense but to do good to others or yourself i.e. waste nothing.
+    - **[Frugality](/notes/frugality):** Make no expense but to do good to others or yourself i.e. waste nothing.
     - **Industry:** Lose no time; be always employed in something useful; cut off all unnecessary actions.
     - **Sincerity:** Use no hurtful deceit; think innocently and justly; and, if you speak, speak accordingly.
-    - **Justice:** Wrong none by doing injuries, or omitting the benefits that are your duty.
+    - **[Justice](/notes/justice):** Wrong none by doing injuries, or omitting the benefits that are your duty.
     - **Moderation:** Avoid extremes; forbear resenting injuries so much as you think they deserve
     - **Cleanliness:** Tolerate no uncleanliness in body, cloaths, or habitation.
     - **Tranquility:** Be not disturbed by trifles, or at accidents common or unavoidable
     - **Chastity:** Rarely use venery but for health or offspring, never to dulness, weakness, or the injury of your own or another's peace or reputation.
-    - **Humility:** Imitate Jesus and Socrates
+    - **[Humility](/notes/humility):** Imitate Jesus and Socrates

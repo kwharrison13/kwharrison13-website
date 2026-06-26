@@ -2,9 +2,9 @@
 title: "Jesus"
 type: "person"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/books/The Autobiography of Benjamin Franklin.md"
@@ -16,16 +16,19 @@ related:
   - "[[Benjamin Franklin]]"
   - "[[Thirteen Virtues]]"
   - "[[Jesus Christ — Topical Study]]"
+  - "[[Atonement]]"
 ---
 
 # Jesus
 
-Appears here as one of the two models [Benjamin Franklin](/notes/benjamin-franklin) named for the thirteenth of his [Thirteen Virtues](/notes/thirteen-virtues), humility: "Imitate Jesus and Socrates." For the gospel-study deep-dive on the Savior's life and atonement, see Jesus Christ — Topical Study (Topical Journal 1.154, 1.171 — "Christ Has Experienced All").
+This page is the resolution target for two distinct threads in Kyle's corpus. First, the secular reference: in [The Autobiography of Benjamin Franklin](/books/the-autobiography-of-benjamin-franklin), Jesus is one of the two models [Benjamin Franklin](/notes/benjamin-franklin) named for the thirteenth of his [Thirteen Virtues](/notes/thirteen-virtues), humility — "Imitate Jesus and Socrates" (alongside [Socrates](/notes/socrates)).
 
-## What we know
+Second, and far larger, the `Jesus Christ` alias makes this the landing point for the Savior as He appears across Kyle's gospel-study and Come Follow Me corpus — the central figure of the [Book of Mormon](/notes/book-of-mormon) chapters Kyle annotates. In [3 Nephi 11](/notes/3-nephi-11), the resurrected Christ descends to the Nephites at Bountiful, inviting them one by one to feel the prints in His hands and feet ("Christ never gives up"). In [Alma 7](/notes/alma-7), Alma 7:11–13 is the verse Kyle returns to for *how* the [Atonement](/notes/atonement) reaches a person individually — Christ taking "upon him their infirmities… that he may know according to the flesh how to succor his people," learning to heal by His own experience rather than by revelation alone. In [Atheism](/notes/atheism), following Christ is framed as freeing rather than constraining ("we are obedient because we can see"). For the full deep-dive on the Savior's life and atonement, see Jesus Christ — Topical Study (Topical Journal — "Christ Has Experienced All").
 
-_Stub. Referenced via the [Thirteen Virtues](/notes/thirteen-virtues) in [The Autobiography of Benjamin Franklin](/books/the-autobiography-of-benjamin-franklin). Expand on a future pass that reads sources engaging Christianity or religious-intellectual themes directly._
+## Where this appears
 
-## Mentioned in
-
-- [The Autobiography of Benjamin Franklin](/books/the-autobiography-of-benjamin-franklin)
+- [The Autobiography of Benjamin Franklin](/books/the-autobiography-of-benjamin-franklin) — "Imitate Jesus and Socrates," the model for Franklin's virtue of humility
+- [3 Nephi 11](/notes/3-nephi-11) — the resurrected Christ ministering among the Nephites; "Christ never gives up"
+- [Alma 7](/notes/alma-7) — Alma 7:11–13 on Christ learning to succor His people by personal experience (the Atonement applied individually)
+- [Atheism](/notes/atheism) — following Christ framed as freeing, against Korihor / unbelief in the Come Follow Me studies
+- [3 Nephi 17](/notes/3-nephi-17), [3 Nephi 18](/notes/3-nephi-18), [3 Nephi 19](/notes/3-nephi-19), [Alma 13](/notes/alma-13), [Alma 39](/notes/alma-39), [Alma 42](/notes/alma-42), [Corianton](/notes/corianton), [D&C 131](/notes/dandc-131) — gospel-study and scripture-chapter pages where Christ is the central subject

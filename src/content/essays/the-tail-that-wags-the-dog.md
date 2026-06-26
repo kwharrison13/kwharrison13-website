@@ -17,7 +17,7 @@ substack_url: "https://investing101.substack.com/p/the-tail-that-wags-the-dog"
 
 ![Pavlov’s Dog](/images/the-tail-that-wags-the-dog-920d5fb1.jpg)
 
-We all crave individuality. We want to feel like we are our own person. A person with unique perspectives and charm. And I don't mean the grander argument about free will, I'm just talking about how most people want to see their own decision making capabilities. We all want to be non-conformists, just like everybody else.
+We all crave individuality. We want to feel like we are our own person. A person with unique perspectives and charm. And I don't mean the grander argument about [[Free Will|free will]], I'm just talking about how most people want to see their own decision making capabilities. We all want to be non-conformists, just like everybody else.
 
 I was reminded of [the scene from Life of Brian](https://www.youtube.com/watch?v=KHbzSif78qQ) where's he's speaking to a crowd, encouraging them to think for themselves: "You're all individuals!" The crowd repeats back, "We're all individuals!" Except one guy in the front, who sheepishly responds, "I'm not," before getting shushed.
 
@@ -25,7 +25,7 @@ People are like that. Seeking non-conformity through conformity. The more you pa
 
 ![Tweet referenced in The Tail That Wags The Dog](/images/the-tail-that-wags-the-dog-75d2b1fe.gif)
 
-But after a while, the conformity starts to feel insane. You start to feel red pilled, and notice cracks in the reasons why people do things. The psychology behind everybody's beliefs can sometimes be much louder than the beliefs people are screaming on Twitter. Like Truman on The Truman Show starting to see the cracks in his reality.
+But after a while, the conformity starts to feel insane. You start to feel red pilled, and notice cracks in the reasons why people do things. The psychology behind everybody's beliefs can sometimes be much louder than the beliefs people are screaming on [[Twitter]]. Like Truman on The Truman Show starting to see the cracks in his reality.
 
 ![Tweet referenced in The Tail That Wags The Dog](/images/the-tail-that-wags-the-dog-201a4d2e.gif)
 
@@ -33,7 +33,7 @@ You can start to feel trapped. You know you're being lied to, or things are bein
 
 > *"None are more hopelessly enslaved than those who falsely believe they are free." (Johann Wolfgang von Goethe)*
 
-Unfortunately, a LOT of people's philosophical stances are more reflective of the famous Upton Sinclair quote:
+Unfortunately, a LOT of people's philosophical stances are more reflective of the famous [[Upton Sinclair]] quote:
 
 > *"It is difficult to get a man to understand something, when his salary depends on his not understanding it."*
 
@@ -43,7 +43,7 @@ The same is painfully true in venture capital. [I've written before](https://inv
 
 In a perfect world, investing should be an act of taking your world view and deploying capital to try and shape reality to that world view. If you believe a future is optimal, you should try to help build it. Investments become a lagging indicator of your beliefs. Often, however, the opposite happens. Whatever investments you end up making can play a big role in shaping your world view. Investments become a leading indicator of your beliefs.
 
-One example from my own career. I had an acquaintance who was a fairly tenured investor at a different big established firm, and we would interact frequently. While I was at Coatue, we invested in [Snyk](https://research.contrary.com/reports/snyk). If you're not familiar with the company, the only critical part to understand for this story is that Snyk is a developer security product.
+One example from my own career. I had an acquaintance who was a fairly tenured investor at a different big established firm, and we would interact frequently. While I was at [[Coatue]], we invested in [Snyk](https://research.contrary.com/reports/snyk). If you're not familiar with the company, the only critical part to understand for this story is that [[Snyk]] is a developer security product.
 
 Rather than having developers write code, and then security folks look for vulnerabilities later, Snyk brings security into the code-writing process. This is called "[shift left security](https://snyk.io/learn/shift-left-security/)," because if you laid out the development lifecycle, security is shifting left, or earlier, in that development lifecycle.
 
@@ -57,15 +57,15 @@ I explained how 67% of developers have shipped code with known vulnerabilities.
 
 That went on for years. From Snyk's [$1B valuation](https://www.crunchbase.com/funding_round/snyk-series-c--57155319) in 2020 until they were [valued at $7.5B](https://www.crunchbase.com/funding_round/snyk-series-g--a0c23f97) in 2022. Then, around this time I heard from someone else at this guy's firm that he was on the war path internally. "How could we have missed Snyk? We need to do a post-mortem to understand this clear mishap."
 
-Granted, most investors can't even admit that they're ever wrong. Some, like my acquaintance, were willing to at least say they got something wrong. But it happens once it was effectively undeniable. **Almost no one can admit they're wrong in the midst of the fight. As the battle rages on.** Why? Incentives. They have a financial incentive invested in the world view that investment demands.
+Granted, most investors can't even admit that they're ever wrong. Some, like my acquaintance, were willing to at least say they got something wrong. But it happens once it was effectively undeniable. **Almost no one can admit they're wrong in the midst of the fight. As the battle rages on.** Why? [[Incentives]]. They have a financial incentive invested in the world view that investment demands.
 
-I will say I don't think every investor is just making decisions haphazardly and then slapping a world view on it after the fact. Most investors **DO** believe the world view reflected in their investments when they make the investment. **But, unlike John Maynard Keynes, regardless of if the facts change, their mind will remain unchanged as long as they have dollars at risk.**
+I will say I don't think every investor is just making decisions haphazardly and then slapping a world view on it after the fact. Most investors **DO** believe the world view reflected in their investments when they make the investment. **But, unlike [[John Maynard Keynes]], regardless of if the facts change, their mind will remain unchanged as long as they have dollars at risk.**
 
 Nowhere is that more prevalent today than in AI. Not only is there haphazard world views slapped on after an investment is made, but there's also a fierce debate playing out more publicly online than is typical.
 
-# The Substack Heard 'Round The X
+# The [[Substack]] Heard 'Round The X
 
-This week, the fight that put a lot of VCs world views out in the open was [a post from John Luttig](https://blog.johnluttig.com/p/the-future-of-foundation-models-is), a partner at Founders Fund. In it, he took the stance open-source AI will ultimately be inferior to closed-source.
+This week, the fight that put a lot of VCs world views out in the open was [a post from John Luttig](https://blog.johnluttig.com/p/the-future-of-foundation-models-is), a partner at [[Founders Fund]]. In it, he took the stance open-source AI will ultimately be inferior to closed-source.
 
 ![Source:Twitter](/images/the-tail-that-wags-the-dog-8b82ad0a.png)
 
@@ -79,7 +79,7 @@ I'm more interested in unpacking the incentives at play behind both the world vi
 
 The key takeaway is that John believes open-source was, maybe once, long ago, a public good, but has mostly become a "freemium marketing strategy." Every company has eventually monetized through paid products:
 
-> *"Red Hat [hid CentOS](https://www.redhat.com/en/blog/furthering-evolution-centos-stream?sc_cid=701f2000000tyBjAAI) behind a subscription service, ElasticSearch [changed their licensing](https://www.elastic.co/blog/why-license-change-aws) after accidentally seeding competition, and Databricks [owns the IP](https://news.ycombinator.com/item?id=29234462) that accelerates Apache Spark."*
+> *"Red Hat [hid CentOS](https://www.redhat.com/en/blog/furthering-evolution-centos-stream?sc_cid=701f2000000tyBjAAI) behind a subscription service, ElasticSearch [changed their licensing](https://www.elastic.co/blog/why-license-change-aws) after accidentally seeding competition, and [[Databricks]] [owns the IP](https://news.ycombinator.com/item?id=29234462) that accelerates Apache Spark."*
 
 He makes the argument that it will be the same with AI. Companies will eventually have to cede their open-source ra-ra feel good vibes, and grow up, and adopt a functioning business model.
 
@@ -91,7 +91,7 @@ Next, he points out that, while open-source AI has been able to reach some perfo
 
 > *"Frontier models were trained on the corpus of the internet, but that data source is a commodity – **model differentiation over the next decade will come from proprietary data, both via model usage and private data sources**."*
 
-And it's a fair point. While open models from Meta, Mistral, and a few others have occasionally gotten into the top of the performance leaderboard, of the top 10 models right now, only one of them isn't proprietary.
+And it's a fair point. While open models from [[Facebook|Meta]], Mistral, and a few others have occasionally gotten into the top of the performance leaderboard, of the top 10 models right now, only one of them isn't proprietary.
 
 ![Source:Arena Leaderboard](/images/the-tail-that-wags-the-dog-5fee849f.png)
 
@@ -111,17 +111,17 @@ Right off the bat, John makes the point that he believes the people championing 
 
 > *"An unusual open-source alliance has formed among developers who want handouts, academics who embrace publishing culture, libertarians who fear centralized speech control and regulatory capture, Elon who doesn’t want his nemesis to win AI, and Zuck who doesn’t want to be beholden to yet another tech platform."*
 
-But what's important to note is that the pro-proprietary crowd have their incentives displayed just as clearly. At the end of the post, John reminds people that his firm, Founders Fund, is an investor in OpenAI.
+But what's important to note is that the pro-proprietary crowd have their incentives displayed just as clearly. At the end of the post, John reminds people that his firm, Founders Fund, is an investor in [[OpenAI]].
 
-It's important to note that OpenAI has [spent](https://reuters.com/legal/transactional/openai-expands-lobbying-efforts-hiring-former-us-senator-2024-03-12/) heavily on AI lobbying, [hired](https://reuters.com/legal/transactional/openai-expands-lobbying-efforts-hiring-former-us-senator-2024-03-12/) a former US senator, and Sam Altman seems to be on a one-man Terror Tour to scare the crap out of anyone who will listen, [calling for](https://youtu.be/qnevlCeN3HU?t=220) the equivalent of "international weapons inspectors" for AI.
+It's important to note that OpenAI has [spent](https://reuters.com/legal/transactional/openai-expands-lobbying-efforts-hiring-former-us-senator-2024-03-12/) heavily on AI lobbying, [hired](https://reuters.com/legal/transactional/openai-expands-lobbying-efforts-hiring-former-us-senator-2024-03-12/) a former US senator, and [[Sam Altman]] seems to be on a one-man Terror Tour to scare the crap out of anyone who will listen, [calling for](https://youtu.be/qnevlCeN3HU?t=220) the equivalent of "international weapons inspectors" for AI.
 
-It seems to have paid off, because Sam Altman was included on a [federal AI advisory panel](https://federalnewsnetwork.com/artificial-intelligence/2024/04/dhs-fills-out-ai-safety-board-with-major-tech-execs/) that, while it includes likeminded folks such as Satya Nadella @ Microsoft, Dario Amodei @ Anthropic, and Sundar Pichai @ Google, it actively excludes the likes of Zuckerberg or Yann LeCunn @ Meta.
+It seems to have paid off, because Sam Altman was included on a [federal AI advisory panel](https://federalnewsnetwork.com/artificial-intelligence/2024/04/dhs-fills-out-ai-safety-board-with-major-tech-execs/) that, while it includes likeminded folks such as Satya Nadella @ [[Microsoft]], Dario Amodei @ Anthropic, and Sundar Pichai @ [[Alphabet|Google]], it actively excludes the likes of [[Mark Zuckerberg|Zuckerberg]] or Yann LeCunn @ Meta.
 
 Another big proponent of the pro-proprietary crowd? [Vinod Khosla](https://x.com/vkhosla/status/1789345720706961838). He's been incredibly vocal about the national security risk of open-source AI.
 
-Once again, it's important to note that Vinod has been investing in OpenAI since it was a non-profit. He has a multi-billion dollar position that is dependent on OpenAI being successful. Ironically, he says "open source is good for VC's and innovation. Open Source SOTA models is really bad for national security." What he fails to add is that while "open-source is good for VCs, closed-source is good for ME as a VC."
+Once again, it's important to note that Vinod has been investing in OpenAI since it was a non-profit. He has a multi-billion dollar position that is dependent on OpenAI being successful. Ironically, he says "open source is good for VC's and innovation. [[Open Source]] SOTA models is really bad for national security." What he fails to add is that while "open-source is good for VCs, closed-source is good for ME as a VC."
 
-Josh Wolfe, on the other hand, comes right out and says the quiet part out loud:
+[[Josh Wolfe]], on the other hand, comes right out and says the quiet part out loud:
 
 ![Source:Twitter](/images/the-tail-that-wags-the-dog-2086a63a.png)
 
@@ -143,7 +143,7 @@ Martin's [response](https://x.com/martin_casado/status/1793041023406408127)? Yes
 
 From e/accs like [Beff Jezos](https://x.com/BasedBeffJezos/status/1793034345881477288) to YC boss [Gary Tan](https://x.com/garrytan/status/1793077385568702505) to Epic Games CEO [Tim Sweeney](https://x.com/TimSweeneyEpic/status/1793053812040556940) and 8VC founding GP, [Alex Kolicich](https://x.com/AlexKolicich/status/1793022859826405822) to [Sarah Guo](https://x.com/saranormous/status/1793363171241009414) at Conviction. Everyone had a take.
 
-Now, some people might like the open spirited debate. It's a battle of ideas and let the best ones win. But the main problem with that is that that's rarely the case. When you look at OpenAI with more than $11 billion in a war chest, or when you look at Amazon / Microsoft / Google wading heavily into the war, clearly intent on securing AI as an extension of the Cloud Wars, you realize that there is a lot of money that could drastically tip the scales of an "open and honest debate of ideas."
+Now, some people might like the open spirited debate. It's a battle of ideas and let the best ones win. But the main problem with that is that that's rarely the case. When you look at OpenAI with more than $11 billion in a war chest, or when you look at [[Amazon]] / Microsoft / Google wading heavily into the war, clearly intent on securing AI as an extension of the Cloud Wars, you realize that there is a lot of money that could drastically tip the scales of an "open and honest debate of ideas."
 
 # Fuel on The Fire
 
@@ -159,9 +159,9 @@ My concern with this particular fire, instead, is the complex interweaving betwe
 
 [I've written before](https://investing1012dot0.substack.com/p/the-inescapable-debate-of-human-nature) about this idea of beliefs. This is a quote I've re-referenced [over](https://investing1012dot0.substack.com/p/intellectual-seat-belts) and [over](https://investing1012dot0.substack.com/p/oh-say-what-is-truth) and [over](https://investing1012dot0.substack.com/p/sharing-the-indie-era-of-startups) and [over](https://investing1012dot0.substack.com/p/its-time-to-build-but-build-what) again now. In fact, its probably become the theme of my thinking over the last 12 months or so:
 
-> *"So often, people trust nuanced tribal group identity and political association without any basis of first principles. I'm not Mormon, or Christian, or Republican, or a Costco member. I am a system of values and beliefs that determine how I act. **Group membership should be a lagging indicator of your beliefs, not a leading indicator.** When people substitute their own value system with a cookie-cutter platform from their in-group the first thing to die is nuance."*
+> *"So often, people trust nuanced tribal group identity and political association without any basis of first principles. I'm not [[Mormon]], or Christian, or Republican, or a [[Costco]] member. I am a system of values and beliefs that determine how I act. **Group membership should be a lagging indicator of your beliefs, not a leading indicator.** When people substitute their own value system with a cookie-cutter platform from their in-group the first thing to die is nuance."*
 
-Mike Solana put it a good way in response to the kerfuffle. Granted, I think he was taking a strong counter-positioned stance against the open-source AI folks given their response. But his last line rang true for me across both ends of the spectrum on this (and most other) arguments.
+[[Mike Solana]] put it a good way in response to the kerfuffle. Granted, I think he was taking a strong counter-positioned stance against the open-source AI folks given their response. But his last line rang true for me across both ends of the spectrum on this (and most other) arguments.
 
 ![Source:Twitter](/images/the-tail-that-wags-the-dog-128c8f75.png)
 
@@ -169,7 +169,7 @@ Mike Solana put it a good way in response to the kerfuffle. Granted, I think he 
 
 But the biggest problem is that people aren't just studying this stuff out in their minds, forming a world view, defining their beliefs, and then engaging in earnest debate for the highest quality ideas. **The debate is riddled with financial and professional incentives left and right.** And what's worse, a lot of the discourse plays out on Twitter where people may not even connect the dots of the incentives behind the argument.
 
-Very few people understand how Cathie Wood or Chamath Palihapitiya made money off of people believing their bonkers claims on Twitter. And that was bad. What people thought were good-faith discussions online led to dramatic amounts of wealth getting wiped out. *And that's bad!* That shouldn't just be a cost of doing business. That shouldn't just be a cautionary tale for doing your own research.
+Very few people understand how Cathie Wood or [[Chamath Palihapitiya]] made money off of people believing their bonkers claims on Twitter. And that was bad. What people thought were good-faith discussions online led to dramatic amounts of wealth getting wiped out. *And that's bad!* That shouldn't just be a cost of doing business. That shouldn't just be a cautionary tale for doing your own research.
 
 There has to be an understanding that everyone's arguments come with an inherent bias. We need to do a better job of internalizing the externalities that go into the technology we buy and build. This is why one of my favorite people to watch is Chris Sacca. He's running a firm with a very clear bias towards a specific outcome: sustainability. But he does it in a way that clearly articulates his incentives. I wrote about this when I [profiled them](https://investing1012dot0.substack.com/p/lowercarbon?utm_source=publication-search):
 

@@ -8,16 +8,16 @@ tags:
   - "company-building"
   - "language-of-discourse"
   - "ideological-family-tree"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-Clayton Christensen's values-as-strategy book read with two specific applied lessons. Two threads:
+[Clayton Christensen](/notes/clayton-christensen)'s values-as-strategy book read with two specific applied lessons. Two threads:
 
-1. **Short-term-metric bias as the systemic failure.** "This is exactly why Amazon ignores short term metrics." The Christensen frame as direct ancestor of the Bezos discipline documented in [The Everything Store](/books/the-everything-store) and [Amazon Unbound](/books/amazon-unbound).
+1. **Short-term-metric bias as the systemic failure.** "This is exactly why [Amazon](/notes/amazon) ignores short term metrics." The Christensen frame as direct ancestor of the [Bezos](/notes/jeff-bezos) discipline documented in [The Everything Store](/books/the-everything-store) and [Amazon Unbound](/books/amazon-unbound).
 
 2. **Use strategy process to find career fulfillment.** Christensen's actual recipe — apply business-strategy frameworks to personal direction. The methodological move that the rest of the book elaborates on.
 <!-- /key-takeaways -->

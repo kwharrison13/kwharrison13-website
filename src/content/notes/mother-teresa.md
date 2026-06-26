@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-19"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/books/The Priesthood Power of Women.md"
@@ -17,8 +17,10 @@ related:
 
 # Mother Teresa
 
-_Stub — flagged during the 2026-06-19 connection sweep as an entity referenced across the wiki without its own page. Quoted ('If you judge people, you have no time to love them') in the book's section on not judging exceptions_
+In [The Priesthood Power of Women](/books/the-priesthood-power-of-women), Mother Teresa is invoked for a single line — "If you judge people, you have no time to love them" — within the book's section on not judging exceptions. The quote functions as a moral counterweight to condemnation: a call to prioritize love over judgment.
+
+**Context:** Mother Teresa (1910–1997) was a Catholic nun and missionary who founded the Missionaries of Charity in Kolkata, India; she was canonized as a saint by the Catholic Church in 2016.
 
 ## Where this appears
 
-- [The Priesthood Power of Women](/books/the-priesthood-power-of-women)
+- [The Priesthood Power of Women](/books/the-priesthood-power-of-women) — quoted ("If you judge people, you have no time to love them") in the discussion of not judging exceptions.

@@ -43,7 +43,7 @@ I'm certainly one of those skeptics that worry about how well a company can comp
 
 Since I originally wrote about this back in [March 2023](https://investing101.substack.com/p/competitive-moats), that conversation has presented a new dynamic. The launch of DeepSeek has been [called](https://www.newyorker.com/news/the-financial-page/is-deepseek-chinas-sputnik-moment) a "Sputnik moment." Now, granted, I'm still relatively convinced that DeepSeek is [a Chinese psyop](https://x.com/PalmerLuckey/status/1884351579240927677). But the response has been telling.
 
-Sam Altman, the CEO of OpenAI, who everyone would have pointed to in March 2023 as "the most defensible AI company" has had to adjust their thought process. One of the most under discussed comments came from a Reddit AMA where Sam Altman said this:
+[[Sam Altman]], the CEO of [[OpenAI]], who everyone would have pointed to in March 2023 as "the most defensible AI company" has had to adjust their thought process. One of the most under discussed comments came from a [[Reddit]] AMA where Sam Altman said this:
 
 ![Source:Reddit](/images/revisiting-competitive-moats-2b365439.png)
 
@@ -67,7 +67,7 @@ Back to [Evan's post about AI](https://every.to/napkin-math/when-content-creatio
 
 > *"When AI automates content creation costs to zero, the effects will be far-reaching. **More and more power will accrue in those companies that have novel acquisition methods that do no rely on any gatekeeper.** In previous editions of this column, I’ve [argued](https://every.to/napkin-math/the-addiction-economy) that “addiction will be the blood sacrifice required of consumers for businesses to win.” These tools will only exacerbate that dynamic."*
 
-Customer acquisition will be a unique and powerful battlefield as companies look to set themselves apart. That's why [brand](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital) and reach will become more important than ever. In an era of automated creation, you'll need to be even more creative with how you get your stuff in front of people. I've said before that ChatGPT, as [astounding](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) as it is for a technical breakthrough, is an even more astounding [distribution breakthrough](https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/).
+Customer acquisition will be a unique and powerful battlefield as companies look to set themselves apart. That's why [brand](https://investing1012dot0.substack.com/p/the-unbundling-of-venture-capital) and reach will become more important than ever. In an era of automated creation, you'll need to be even more creative with how you get your stuff in front of people. I've said before that [[ChatGPT]], as [astounding](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) as it is for a technical breakthrough, is an even more astounding [distribution breakthrough](https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/).
 
 However, as important as novel acquisition methods are, or even the ability to drive "addiction" in Evan's words, **your kingdom is not simply your acquisition funnel.** You build a kingdom around people, so having an acquisition strategy is the only way to merit a kingdom. But when you actually build the castle, it has to be more than that.
 
@@ -95,7 +95,7 @@ Danger is the reality of building an early stage business (and early can be used
 
 # Vying For Velocity
 
-I would argue that how "young" a company is comes largely as a function of how quickly they're changing (cue the [ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus) analogy). A company that is fairly stagnant can still do well, but they're not as young, and therefore pace of innovation matters less than hunkering down. Apple and Microsoft were both founded in the mid-1970s. But I see Microsoft as a young company, and Apple as... not.
+I would argue that how "young" a company is comes largely as a function of how quickly they're changing (cue the [ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus) analogy). A company that is fairly stagnant can still do well, but they're not as young, and therefore pace of innovation matters less than hunkering down. [[Apple]] and [[Microsoft]] were both founded in the mid-1970s. But I see Microsoft as a young company, and Apple as... not.
 
 Now, I'm no public analyst. So lot's of people would fight me on this. But just from my shallowly informed view, Apple largely rides the benefits of a series of near-monopolies when it comes to things like the [App Store](https://appleinsider.com/articles/21/11/13/lawsuit-targets-apples-ios-app-store-monopoly), iOS, and [Apple Pay](https://www.theverge.com/2022/7/18/23269369/apple-pay-class-action-lawsuit-antitrust-tap-to-pay-eu).
 
@@ -111,13 +111,13 @@ Most of the very best companies have these same types of visualizations to demon
 
 ![Source:Datadog](/images/revisiting-competitive-moats-929ad2f1.png)
 
-When I think about core pillars of the software world, like Salesforce, ServiceNow, or Adobe, they've all extended their product capabilities pretty dramatically. In [a great post](https://mslotnick.substack.com/p/a-unified-theory-of-lowno-code-middleware?utm_source=%2Fsearch%2Fsalesforce&utm_medium=reader2) on the future of enterprise applications, Matt Slotnick uses Salesforce as an example, and explains their product extendability this way:
+When I think about core pillars of the software world, like [[Salesforce]], [[ServiceNow]], or [[Adobe]], they've all extended their product capabilities pretty dramatically. In [a great post](https://mslotnick.substack.com/p/a-unified-theory-of-lowno-code-middleware?utm_source=%2Fsearch%2Fsalesforce&utm_medium=reader2) on the future of enterprise applications, Matt Slotnick uses Salesforce as an example, and explains their product extendability this way:
 
 > *"Salesforce has long understood that their core value and defensibility is that businesses are inherently customer centric, and the most valuable data at a company is the data related to how they sell to and serve their end customers. This has led Salesforce to be a system of record for managing data on arguably a company’s most important asset.   
 >   
-> Data has gravity, and this system of record both commands immense value on its own, but also creates influence on all other systems within an organization. **Other systems need to play well with Salesforce, because if they don’t, they’re unlikely to be adopted. This makes Salesforce the System of Record. They have leveraged this to build a number of other large businesses in addition to sales — namely marketing cloud, service cloud, commerce cloud.**"*
+> Data has gravity, and this system of record both commands immense value on its own, but also creates influence on all other systems within an organization. **Other systems need to play well with Salesforce, because if they don’t, they’re unlikely to be adopted. This makes Salesforce the [[System of Record]]. They have leveraged this to build a number of other large businesses in addition to sales — namely marketing cloud, service cloud, commerce cloud.**"*
 
-One company that hasn't as successfully extended itself is Workday. That doesn't mean that Workday doesn't have any competitive moats, but it doesn't seem to have a rapid pace of innovation. As a result, you have to start to really evaluate the longevity of any existing advantage they have.
+One company that hasn't as successfully extended itself is [[Workday]]. That doesn't mean that Workday doesn't have any competitive moats, but it doesn't seem to have a rapid pace of innovation. As a result, you have to start to really evaluate the longevity of any existing advantage they have.
 
 ![Source: Koyfin](/images/revisiting-competitive-moats-c5d4a95a.png)
 
@@ -127,7 +127,7 @@ The longevity of those competitive moats can be the difference between life and 
 
 # So When Do Moats Matter?
 
-There is an ocean of thought processes around competitive moats and what makes a definitive advantage. Great books have been written, like [Competition Demystified](https://www.amazon.com/Competition-Demystified-Radically-Simplified-Approach/dp/1591841801) or [Moats and Marathons](https://www.amazon.com/dp/B09K7VP5BV/ref=cm_sw_r_tw_dp_1KYB77XV9CDNRX7FG8AG), as well as some [great work](https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&sourceid=csplusresearchcp&document_id=1066439791&serialid=4uA2wHojCvFKzqWfwIyDvkSN1pkXRpb43LvyclLcJsk%3D&cspId=null) from folks like Michael Mauboussin. Other folks have introduced frameworks for "[new moats](https://news.greylock.com/the-new-moats-53f61aeac2d9)" like building systems of intelligence, rather than systems of record.
+There is an ocean of thought processes around competitive moats and what makes a definitive advantage. Great books have been written, like [Competition Demystified](https://www.amazon.com/Competition-Demystified-Radically-Simplified-Approach/dp/1591841801) or [Moats and Marathons](https://www.amazon.com/dp/B09K7VP5BV/ref=cm_sw_r_tw_dp_1KYB77XV9CDNRX7FG8AG), as well as some [great work](https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&sourceid=csplusresearchcp&document_id=1066439791&serialid=4uA2wHojCvFKzqWfwIyDvkSN1pkXRpb43LvyclLcJsk%3D&cspId=null) from folks like [[Michael Mauboussin]]. Other folks have introduced frameworks for "[new moats](https://news.greylock.com/the-new-moats-53f61aeac2d9)" like building systems of intelligence, rather than systems of record.
 
 Counterpoint Global has [put out a list](https://twitter.com/punchcardinvest/status/1579039530325139456?s=20) of dozens of companies with what they refer to as "wide moat businesses." Each of them could be an interesting case study, and there's no doubt many of them have classic competitive advantages.
 
@@ -135,11 +135,11 @@ One of the biggest prophets of competitive moats is [Warren Buffett himself](htt
 
 > *"If you are evaluating a business, **the number one question you want to ask yourself is whether the competitive advantage has been made stronger and more durable**. That’s more important than the P&L for a given year."*
 
-Elad Gil [put together](https://blog.eladgil.com/p/defensibility-and-competition) a pretty extensive list of typical moats including things like network effects, platform effects, product velocity, complex sales, regulation, and scale. Similarly, McKinsey has a broad framework for the sources of competitive advantage:
+Elad Gil [put together](https://blog.eladgil.com/p/defensibility-and-competition) a pretty extensive list of typical moats including things like network effects, platform effects, product velocity, complex sales, regulation, and scale. Similarly, [[McKinsey]] has a broad framework for the sources of competitive advantage:
 
 ![Source:Twitter](/images/revisiting-competitive-moats-a643a66c.png)
 
-There's a lot of interesting literature here, all of it with merit. For my perspective, I agree with Elon Musk and Fat Baby Funds (boy, that's an interesting sentence, huh?) **I think that competitive moats can be powerful. But if you believe that they're enough to save you from an ever-increasing pace of innovation in every category, I think you're delusional.**
+There's a lot of interesting literature here, all of it with merit. For my perspective, I agree with [[Elon Musk]] and Fat Baby Funds (boy, that's an interesting sentence, huh?) **I think that competitive moats can be powerful. But if you believe that they're enough to save you from an ever-increasing pace of innovation in every category, I think you're delusional.**
 
 Going forward, the very best companies will be those that have nailed a very specific pain point for a very specific type of person. They'll have formed a novel acquisition method for bringing those customers as cheaply as possible, and they'll have the product velocity and quality to keep those customers around for as long as possible.
 
@@ -153,11 +153,11 @@ Foundation models, GPT wrappers, as Michael explains, it's all technology that, 
 
 Even with hard tech stuff, the [Bannister Effect](https://www.vlr.gg/359922/roger-bannister-effect) often kicks in. Once one person makes a breakthrough in CRISPR, nuclear fission, robotics, etc. then pretty quickly a lot of people can do it. **So tech doesn’t really stand up as a good moat.**
 
-Google wasn’t necessarily the better search engine, Facebook wasn’t necessarily the best social network, they just had more consumer adoption and that gave them network effects, cash flow, the ability to stay ahead.
+[[Alphabet|Google]] wasn’t necessarily the better search engine, [[Facebook]] wasn’t necessarily the best social network, they just had more consumer adoption and that gave them network effects, cash flow, the ability to stay ahead.
 
 At the end of the day its the ability to innovate and execute. Most definitely cash can help. But history has proven time and time again that a team with sub-par innovation and execution, even with $1B+, will almost never outperform a team with a focus and capability around innovation and execution.
 
-I think, all the time, about the quote from Warren Buffett:
+I think, all the time, about the quote from [[Warren Buffett]]:
 
 > *“In the short run, the market is a voting machine, but in the long run, it is a weighing machine.”*
 

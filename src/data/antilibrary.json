@@ -1,5 +1,25 @@
 [
   {
+    "title": "12 Rules for Life",
+    "full_title": "12 Rules for Life: An Antidote to Chaos",
+    "author": "Jordan Peterson",
+    "published": "2018",
+    "pages": 409,
+    "amazon_url": "https://www.amazon.com/s?k=12+Rules+for+Life+Jordan+Peterson",
+    "where_seen": [
+      "Cited in Pursue What Is Meaningful (David Perell) on sacrifice and meaning"
+    ],
+    "connections": [
+      {
+        "title": "Jordan Peterson",
+        "url": "/notes/jordan-peterson"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "12-rules-for-life"
+  },
+  {
     "title": "A Canticle for Leibowitz",
     "full_title": "A Canticle for Leibowitz",
     "author": "Walter M. Miller Jr.",
@@ -216,6 +236,26 @@
     "slug": "andrew-carnegie-by-joseph-frazier-wall"
   },
   {
+    "title": "B.F. Skinner (book)",
+    "full_title": "B. F. Skinner: A Life",
+    "author": "Daniel W. Bjork",
+    "published": "1993",
+    "pages": 298,
+    "amazon_url": "https://www.amazon.com/s?k=B.+F.+Skinner+A+Life+Daniel+W.+Bjork",
+    "where_seen": [
+      "Cited in Charlie Munger — A Lesson on Elementary Worldly Wisdom, Revisited alongside the point that humans learn by biologically-enhanced trial and error."
+    ],
+    "connections": [
+      {
+        "title": "Daniel W. Bjork",
+        "url": "/notes/daniel-w-bjork"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "b-f-skinner-book"
+  },
+  {
     "title": "Babbitt",
     "full_title": "Babbitt",
     "author": "Sinclair Lewis",
@@ -325,6 +365,21 @@
       "science"
     ],
     "slug": "braiding-sweetgrass"
+  },
+  {
+    "title": "Building a Second Brain",
+    "full_title": "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential",
+    "author": "Tiago Forte",
+    "published": "2022",
+    "pages": 272,
+    "amazon_url": "https://www.amazon.com/s?k=Building+a+Second+Brain+Tiago+Forte",
+    "where_seen": [
+      "Cited in Hyper Publishing and Not So Lazy & Entitled Millennials- David Perell as the note-storage system behind modular publishing"
+    ],
+    "connections": [],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "building-a-second-brain"
   },
   {
     "title": "Business Adventures",
@@ -500,6 +555,26 @@
       "capital-allocation"
     ],
     "slug": "f-i-a-s-c-o"
+  },
+  {
+    "title": "Fifth Discipline",
+    "full_title": "The Fifth Discipline: The Art & Practice of The Learning Organization",
+    "author": "Peter Senge",
+    "published": "1990",
+    "pages": 445,
+    "amazon_url": "https://www.amazon.com/s?k=The+Fifth+Discipline+Peter+Senge",
+    "where_seen": [
+      "Cited in The Trillion-Dollar Vision of Dee Hock — Peter Senge called Dee Hock one of the most original thinkers on organizations."
+    ],
+    "connections": [
+      {
+        "title": "Peter Senge",
+        "url": "/notes/peter-senge"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "fifth-discipline"
   },
   {
     "title": "Finite and Infinite Games",
@@ -728,6 +803,30 @@
     "slug": "ice-age"
   },
   {
+    "title": "Industries of the Future",
+    "full_title": "The Industries of the Future",
+    "author": "Alec Ross",
+    "published": "2016",
+    "pages": 320,
+    "amazon_url": "https://www.amazon.com/s?k=The+Industries+of+the+Future+Alec+Ross",
+    "where_seen": [
+      "Cited in The Future of Work (Article) for the West Virginia vs. Estonia parable"
+    ],
+    "connections": [
+      {
+        "title": "Alec Ross",
+        "url": "/notes/alec-ross"
+      },
+      {
+        "title": "Estonia",
+        "url": "/notes/estonia"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "industries-of-the-future"
+  },
+  {
     "title": "Influence",
     "full_title": "Influence: The Psychology of Persuasion",
     "author": "Robert Cialdini",
@@ -930,6 +1029,26 @@
     "slug": "men-to-match-my-mountains"
   },
   {
+    "title": "Mere Christianity",
+    "full_title": "Mere Christianity",
+    "author": "C.S. Lewis",
+    "published": "1952",
+    "pages": 227,
+    "amazon_url": "https://www.amazon.com/s?k=Mere+Christianity+C.S.+Lewis",
+    "where_seen": [
+      "Cited in Why You're Christian — C.S. Lewis's 'liar, lunatic, or Lord' trilemma, which Kyle pairs with Hitchens."
+    ],
+    "connections": [
+      {
+        "title": "C.S. Lewis",
+        "url": "/notes/c-s-lewis"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "mere-christianity"
+  },
+  {
     "title": "Mistakes Were Made (But Not by Me)",
     "full_title": "Mistakes Were Made (but Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts",
     "author": "Carol Tavris and Elliot Aronson",
@@ -1100,6 +1219,26 @@
     "slug": "only-the-paranoid-survive"
   },
   {
+    "title": "Outliers: Why Some People Succeed and Some Don't",
+    "full_title": "Outliers: The Story of Success",
+    "author": "Malcolm Gladwell",
+    "published": "2008",
+    "pages": 309,
+    "amazon_url": "https://www.amazon.com/s?k=Outliers+Malcolm+Gladwell",
+    "where_seen": [
+      "Cited in On the Nature of Long-Term Holds for the 10,000-hour rule"
+    ],
+    "connections": [
+      {
+        "title": "Malcolm Gladwell",
+        "url": "/notes/malcolm-gladwell"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "outliers-why-some-people-succeed-and-some-don-t"
+  },
+  {
     "title": "Overtreated",
     "full_title": "Overtreated: Why Too Much Medicine Is Making Us Sicker and Poorer",
     "author": "Shannon Brownlee",
@@ -1136,6 +1275,26 @@
       "republic-of-letters"
     ],
     "slug": "paradise-lost"
+  },
+  {
+    "title": "Pilgrim's Progress",
+    "full_title": "The Pilgrim's Progress from This World, to That Which Is to Come",
+    "author": "John Bunyan",
+    "published": "1678",
+    "pages": 336,
+    "amazon_url": "https://www.amazon.com/s?k=Pilgrim%27s+Progress+John+Bunyan",
+    "where_seen": [
+      "Cited in Charlie Munger — The Psychology of Human Misjudgment — Munger names its protagonist among the characters he wants to emulate."
+    ],
+    "connections": [
+      {
+        "title": "John Bunyan",
+        "url": "/notes/john-bunyan"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "pilgrim-s-progress"
   },
   {
     "title": "Player Piano",
@@ -1253,6 +1412,45 @@
       "technological-innovation"
     ],
     "slug": "reinventing-discovery"
+  },
+  {
+    "title": "Sam Walton: Made in America",
+    "full_title": "Sam Walton: Made in America",
+    "author": "Sam Walton",
+    "published": "1992",
+    "pages": 346,
+    "amazon_url": "https://www.amazon.com/s?k=Sam+Walton+Made+in+America",
+    "where_seen": [
+      "Cited in Wisdom From Walmart — David Perell's distillation of Sam Walton draws largely from this autobiography."
+    ],
+    "connections": [
+      {
+        "title": "Sam Walton",
+        "url": "/notes/sam-walton"
+      },
+      {
+        "title": "David Perell",
+        "url": "/notes/david-perell"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "sam-walton-made-in-america"
+  },
+  {
+    "title": "Start With Why",
+    "full_title": "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+    "author": "Simon Sinek",
+    "published": "2009",
+    "pages": 256,
+    "amazon_url": "https://www.amazon.com/s?k=Start+with+Why+Simon+Sinek",
+    "where_seen": [
+      "Cited in Charlie Munger — The Psychology of Human Misjudgment — Kyle tags Carl Braun's rule that every communication must explain *Why* with this idea."
+    ],
+    "connections": [],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "start-with-why"
   },
   {
     "title": "Stuck in Place",
@@ -1433,6 +1631,10 @@
     ],
     "connections": [
       {
+        "title": "Royal Skousen",
+        "url": "/notes/royal-skousen"
+      },
+      {
         "title": "Future Mormon",
         "url": "/books/future-mormon"
       },
@@ -1473,6 +1675,26 @@
       "technological-innovation"
     ],
     "slug": "the-cathedral-and-the-bazaar"
+  },
+  {
+    "title": "The Checklist Manifesto",
+    "full_title": "The Checklist Manifesto: How to Get Things Right",
+    "author": "Atul Gawande",
+    "published": "2009",
+    "pages": 240,
+    "amazon_url": "https://www.amazon.com/s?k=The+Checklist+Manifesto+Atul+Gawande",
+    "where_seen": [
+      "Cited in Naval Ravikant — The Angel Philosopher — Naval's stance on checklists"
+    ],
+    "connections": [
+      {
+        "title": "Atul Gawande",
+        "url": "/notes/atul-gawande"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "the-checklist-manifesto"
   },
   {
     "title": "The Coddling of the American Mind",
@@ -1778,6 +2000,26 @@
     "slug": "the-knowledge-illusion"
   },
   {
+    "title": "The Lessons of History",
+    "full_title": "The Lessons of History",
+    "author": "Will Durant and Ariel Durant",
+    "published": "1968",
+    "pages": 128,
+    "amazon_url": "https://www.amazon.com/s?k=The+Lessons+of+History+Will+Ariel+Durant",
+    "where_seen": [
+      "Reviewed by David Perell in The Lessons Of History Book Review"
+    ],
+    "connections": [
+      {
+        "title": "David Perell",
+        "url": "/notes/david-perell"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "the-lessons-of-history"
+  },
+  {
     "title": "The Lincoln Highway",
     "full_title": "The Lincoln Highway: A Novel",
     "author": "Amor Towles",
@@ -1817,6 +2059,26 @@
       "technological-innovation"
     ],
     "slug": "the-maniac"
+  },
+  {
+    "title": "The Mirage of Knowledge",
+    "full_title": "The Death of Expertise: The Campaign Against Established Knowledge and Why It Matters",
+    "author": "Tom Nichols",
+    "published": "2017",
+    "pages": 272,
+    "amazon_url": "https://www.amazon.com/s?k=Tom+Nichols+The+Death+of+Expertise",
+    "where_seen": [
+      "Tagged in a note on Charlie Munger — A Lesson on Elementary Worldly Wisdom, Revisited about balancing outside perspective against trusting others' expertise (#The Mirage of Knowledge #Tom Nichols)."
+    ],
+    "connections": [
+      {
+        "title": "Tom Nichols",
+        "url": "/notes/tom-nichols"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "the-mirage-of-knowledge"
   },
   {
     "title": "The Mormon Experience",
@@ -1928,6 +2190,28 @@
       "company-building"
     ],
     "slug": "the-outsiders"
+  },
+  {
+    "title": "The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success",
+    "full_title": "The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success",
+    "author": "William N. Thorndike",
+    "published": "2012",
+    "pages": 272,
+    "amazon_url": "https://www.amazon.com/s?k=The+Outsiders+Eight+Unconventional+CEOs+William+Thorndike",
+    "where_seen": [
+      "Cited in On the Nature of Long-Term Holds — quoted via author Will Thorndike"
+    ],
+    "connections": [
+      {
+        "title": "Will Thorndike",
+        "url": "/notes/will-thorndike"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "capital-allocation"
+    ],
+    "slug": "the-outsiders-eight-unconventional-ceos-and-their-radically-rational-blueprint-for-success"
   },
   {
     "title": "The Polymath",
@@ -2188,6 +2472,10 @@
     ],
     "connections": [
       {
+        "title": "Giorgio Agamben",
+        "url": "/notes/giorgio-agamben"
+      },
+      {
         "title": "Future Mormon",
         "url": "/books/future-mormon"
       },
@@ -2246,6 +2534,26 @@
       "religious-intellectualism"
     ],
     "slug": "the-varieties-of-religious-experience"
+  },
+  {
+    "title": "The War of Art",
+    "full_title": "The War of Art: Break Through the Blocks and Win Your Inner Creative Battles",
+    "author": "Steven Pressfield",
+    "published": "2002",
+    "pages": 165,
+    "amazon_url": "https://www.amazon.com/s?k=The+War+of+Art+Steven+Pressfield",
+    "where_seen": [
+      "Cited in Find Your Territory"
+    ],
+    "connections": [
+      {
+        "title": "Steven Pressfield",
+        "url": "/notes/steven-pressfield"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "the-war-of-art"
   },
   {
     "title": "The Warren Buffett Portfolio",
@@ -2318,6 +2626,26 @@
       "ideological-family-tree"
     ],
     "slug": "the-wealth-of-nations"
+  },
+  {
+    "title": "The World is Flat",
+    "full_title": "The World Is Flat: A Brief History of the Twenty-First Century",
+    "author": "Thomas Friedman",
+    "published": "2005",
+    "pages": 488,
+    "amazon_url": "https://www.amazon.com/s?k=The+World+Is+Flat+Thomas+Friedman",
+    "where_seen": [
+      "Cited in The Future of Work (Article) — the Globalization 3.0 frame"
+    ],
+    "connections": [
+      {
+        "title": "Thomas Friedman",
+        "url": "/notes/thomas-friedman"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "the-world-is-flat"
   },
   {
     "title": "Thinking in Systems",
@@ -2439,6 +2767,10 @@
     ],
     "connections": [
       {
+        "title": "Craig Harline",
+        "url": "/notes/craig-harline"
+      },
+      {
         "title": "Future Mormon",
         "url": "/books/future-mormon"
       },
@@ -2519,5 +2851,29 @@
       "technological-innovation"
     ],
     "slug": "where-is-my-flying-car"
+  },
+  {
+    "title": "Why Information Grows",
+    "full_title": "Why Information Grows: The Evolution of Order, from Atoms to Economies",
+    "author": "Cesar Hidalgo",
+    "published": "2015",
+    "pages": 256,
+    "amazon_url": "https://www.amazon.com/s?k=Why+Information+Grows+Cesar+Hidalgo",
+    "where_seen": [
+      "Cited in Critical States"
+    ],
+    "connections": [
+      {
+        "title": "Cesar Hidalgo",
+        "url": "/notes/cesar-hidalgo"
+      },
+      {
+        "title": "Phase Transition",
+        "url": "/notes/phase-transition"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "why-information-grows"
   }
 ]

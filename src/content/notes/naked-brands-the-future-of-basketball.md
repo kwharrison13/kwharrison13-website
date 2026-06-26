@@ -8,7 +8,7 @@ url: "https://www.perell.com/blog/naked-brands-basketball"
 source_published: "2017"
 confidence: "high"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/archive/clippings/Naked Brands- The Future of Basketball.md"
@@ -38,10 +38,10 @@ related:
 
 ## Key claims
 
-- **On social media, people want to connect with people — not companies**, and with stars — not teams. "The Decision" set dominos in motion just days after LeBron opened his Twitter account and launched his website and management company.
+- **On [social media](/notes/social-media), people want to connect with people — not companies**, and with stars — not teams. "The Decision" set dominos in motion just days after LeBron opened his [Twitter](/notes/twitter) account and launched his website and management company.
 - **"The Decision" was decade-defining.** It ushered in an age where athletes "express themselves, circumvent large media outlets, and connect with fans on their own terms."
 - **The NBA gives athletes a bigger megaphone**, encouraging vocal roles in politics, culture, and social action. Per the *New York Times*, the league solved the attention problem by becoming "a place for latching on to players and teams… [via] tweets that develop a public-facing personality."
-- **Fans demand more than play** — transparent relationships, exclusive merch, firm social stances; it's only a matter of time before athletes run their own YouTube vlogs.
+- **Fans demand more than play** — transparent relationships, exclusive merch, firm social stances; it's only a matter of time before athletes run their own [YouTube](/notes/youtube) vlogs.
 - **The medium is the message** ([Marshall McLuhan](/notes/marshall-mcluhan)): "All media works us over completely… and leaves no part of us untouched."
 - **Beats by Dre is the template.** Jimmy Iovine seeded prototype headphones to LeBron's manager before the 2008 Olympics; "the hype was immediate" and athlete-driven demand followed.
 

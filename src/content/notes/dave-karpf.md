@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/It's Time To Build... But Build What - Research.md"
@@ -16,14 +16,16 @@ aliases:
   - "Karpf"
 related:
   - "[[Techno-Optimism]]"
+  - "[[Marc Andreessen]]"
+  - "[[It's Time To Build... But Build What - Research]]"
 ---
 
 # Dave Karpf
 
-**One-line:** *Writer/academic; "Why can't our tech billionaires learn?" responds critically to the manifesto.*
+Writer and academic whose essay "Why can't our tech billionaires learn?" appears in Kyle's It's Time To Build... But Build What - Research notes as one of the critical responses to [Marc Andreessen](/notes/marc-andreessen)'s [Techno-Optimist Manifesto](/notes/techno-optimism). The research file gathers Karpf alongside a roster of reactions — [Noah Smith](/notes/noah-smith), [Vitalik Buterin](/notes/vitalik-buterin), [Robin Hanson](/notes/robin-hanson), [Ezra Klein](/notes/ezra-klein) ("Reactionary Futurism"), and others — that Kyle's essay folds in to map the debate over techno-optimism and "It's Time To Build."
 
-_Stub page — created from It's Time To Build... But Build What - Research. Expand on a future pass._
+**Context:** Dave Karpf is a political scientist and associate professor at George Washington University's School of Media and Public Affairs, known for writing on technology, politics, and the rhetoric of Silicon Valley, including his Substack newsletter.
 
 ## Where this appears
 
-- It's Time To Build... But Build What - Research
+- It's Time To Build... But Build What - Research — listed among critical responses to the Techno-Optimist Manifesto via his essay "Why can't our tech billionaires learn?"

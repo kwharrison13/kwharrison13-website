@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "people-over-politics"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
@@ -19,7 +19,7 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-- [Utopia For Realists](/books/utopia-for-realists) — Bregman draws directly on [Esther Duflo](/notes/esther-duflo)'s RCT work (the Hyderabad microcredit study) to argue cash transfers beat microcredit; this book is the evidentiary backbone of his anti-poverty chapter.
+- [Utopia For Realists](/books/utopia-for-realists) — [Bregman](/notes/rutger-bregman) draws directly on [Esther Duflo](/notes/esther-duflo)'s RCT work (the Hyderabad microcredit study) to argue cash transfers beat microcredit; this book is the evidentiary backbone of his anti-poverty chapter.
 <!-- /interconnections -->
 
 ## Highlights

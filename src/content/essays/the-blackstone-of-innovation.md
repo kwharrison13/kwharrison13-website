@@ -18,7 +18,7 @@ substack_url: "https://investing101.substack.com/p/the-blackstone-of-innovation"
 
 ![Header image for The Blackstone of Innovation](/images/the-blackstone-of-innovation-346632b9.png)
 
-Biographies can be incredibly humanizing. You take these people that feel larger than life, and hear about their mistakes and embarrassments. One story that I enjoyed comes from the book "[What It Takes](https://www.amazon.com/What-Takes-Lessons-Pursuit-Excellence/dp/1501158147)," by Stephen Schwarzman, the founder of Blackstone.
+Biographies can be incredibly humanizing. You take these people that feel larger than life, and hear about their mistakes and embarrassments. One story that I enjoyed comes from the book "[What It Takes](https://www.amazon.com/What-Takes-Lessons-Pursuit-Excellence/dp/1501158147)," by [[Stephen Schwarzman]], the founder of [[Blackstone]].
 
 As a junior banker, he'd built a financial model (pre-Excel, just cranking out paper calculations), and as he and his boss were flying to present it to their client his boss realized he'd made an error in his calculations. He handed it back to Schwarzman and said, "just pull out the bad pages, and it can still work."
 
@@ -26,7 +26,7 @@ When they arrived at the client's offices, his boss began the presentation:
 
 > *"'As you can see from the analysis . . . I think we have a statistical error.' As he spoke, he all but launched himself across the table grabbing our presentation books from the board members. “I can talk you through this without any numbers.” I had been so freaked out by my mistake that instead of tearing out the bad pages, I had torn out the good ones. I could have melted under the table. We left the company, got in the cab, and rode back to the airport. Not a word. Right before they called the plane, Eric turned to me: **‘If you ever do that to me again, I’m firing you on the spot.’”***
 
-Stephen Schwarzman has a net worth today of $26 billion, and even he made stupid mistakes like that. You start to see this human side of people who have built massive institutions in a way that makes them feel a little more comprehendible. But then you remember that Blackstone is an $800B+ behemoth. They gave rise to BlackRock, which is now managing $10 trillion of assets. Less and less comprehensible. Another quote from Schwarzman's book frames this massive aggregation of assets:
+Stephen Schwarzman has a net worth today of $26 billion, and even he made stupid mistakes like that. You start to see this human side of people who have built massive institutions in a way that makes them feel a little more comprehendible. But then you remember that Blackstone is an $800B+ behemoth. They gave rise to [[BlackRock]], which is now managing $10 trillion of assets. Less and less comprehensible. Another quote from Schwarzman's book frames this massive aggregation of assets:
 
 > *"[One] way we thought about building our business was to keep challenging ourselves with an open-ended question: **Why not?** **If we came across the right person to scale a business in a great investment class, why not? If we could apply our strengths, our network, and our resources to make that business a success, why not?** Other firms, we felt, defined themselves too narrowly, limiting their ability to innovate. They were advisory firms, or investment firms, or credit firms, or real estate firms. Yet they were all pursuing financial opportunity."*
 
@@ -48,7 +48,7 @@ Along the way, what you've gotten is a pretty powerful law of large numbers in a
 
 # The Business of Venture Capital
 
-In venture capital, the ethos is so often clearly articulated as "we are helping you build your business right alongside you." And while there are a number of exceptional VCs who are founder-focused, its important to remember the business model of venture capital.
+In venture capital, the ethos is so often clearly articulated as "we are helping you build your business right alongside you." And while there are a number of exceptional VCs who are founder-focused, its important to remember the business model of [[Venture Capital|venture capital]].
 
 At its core, venture is an asset management industry. Some firms, like Homebrew, [take a unique approach](https://investing1012dot0.substack.com/p/homebrew) by investing out of an ever green fund made of their own money. But that's a rare exception. The vast majority of the venture capital world operates under a typical fund structure: raise capital from LPs, take a management fee, invest over the course of 5-10 years, collect carry on the performance of those investments.
 
@@ -60,7 +60,7 @@ I don't mean to imply that no VC is founder-focused, many are. Many are building
 
 Some people will point out, "well, but the carry is earned off the return that the founders create. So half of the business model revolves around founders." And that's true. But VCs only have access to the carry because the LPs agreed to give it to them.
 
-Take this as an example. Accel invested $12.7M in Facebook in 2005, and that generated a [700x return](https://www.unquote.com/unquote/analysis/62802/accel-to-set-returns-record-with-700x-facebook-multiple). But of that $8.8B return, Accel got 20%. They didn't get it from Zuckerberg. They got it as their contractual reward from LPs. "For investing my money, I'll give you 2% every year, and 20% of the money you make me after I get my money back." **So every "revenue stream" for a VC is coming from LPs. Not from founders.**
+Take this as an example. [[Accel]] invested $12.7M in [[Facebook]] in 2005, and that generated a [700x return](https://www.unquote.com/unquote/analysis/62802/accel-to-set-returns-record-with-700x-facebook-multiple). But of that $8.8B return, Accel got 20%. They didn't get it from [[Mark Zuckerberg|Zuckerberg]]. They got it as their contractual reward from LPs. "For investing my money, I'll give you 2% every year, and 20% of the money you make me after I get my money back." **So every "revenue stream" for a VC is coming from LPs. Not from founders.**
 
 And as a founder you need to be aware of this, and thoughtful of it. Because, just like Facebook, [if you're not the customer? You're the product](https://www.quora.com/Who-originally-suggested-that-if-youre-not-paying-for-the-product-you-are-the-product#VCgNs).
 
@@ -98,7 +98,7 @@ Those $1B+ funds are already becoming more and more of the [concentrated](https:
 >
 > *If you look at all public tech companies today,[fewer than 50](https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/?page=1/) have achieved that valuation.*
 >
-> *This mentality and the concentration of capital into only a handful of funds is creating an[ever-growing funding gap](https://www.laconiacapitalgroup.com/blog/enmeshment) between the founders whom these funds back and everyone else. What’s more, larger funds are creating a close network of hype in their quest to engineer the next $50bn+ Uber, which means they[naturally end up investing in a lot of the same companies.](https://youtu.be/M5IzFvBQ-Zo?t=3186)"*
+> *This mentality and the concentration of capital into only a handful of funds is creating an[ever-growing funding gap](https://www.laconiacapitalgroup.com/blog/enmeshment) between the founders whom these funds back and everyone else. What’s more, larger funds are creating a close network of hype in their quest to engineer the next $50bn+ [[Uber]], which means they[naturally end up investing in a lot of the same companies.](https://youtu.be/M5IzFvBQ-Zo?t=3186)"*
 
 So let's dig more into what can happen with this kind of concentration.
 
@@ -112,7 +112,7 @@ Tiger made [361](https://techcrunch.com/2022/07/10/tiger-global-to-slow-down-sta
 
 Some people refer to these massive portfolios as an "index strategy" where you have collective exposure to a huge swath of the private tech markets. I keep thinking about that, and it's never exactly sat right with me. Let me explain why.
 
-Now, granted, there is a whole discussion to be had about the pros and cons of index funds, and [the impact they have on the market](https://www.investopedia.com/how-index-funds-are-hurting-investors-and-the-market-4688627#:~:text=The%20Rise%20of%20Index%20Funds%20and%20Concentration%20of%20Ownership&text=Index%20funds%20control%2017.2%25%20of,up%20from%203.5%25%20in%202000.). But one point I'd make is that the largest index fund is the Vanguard Total Stock Market Index Fund, which is [$1.3 trillion](https://www.investopedia.com/investing/biggest-mutual-funds/), representing [~2%](https://siblisresearch.com/data/us-stock-market-value/) of the U.S. equity market. Vanguard as a whole has $8 trillion of AUM, which is ~17% of U.S. equities. Given the disparate strategies, and allocations, I wouldn’t say that index funds move the entire market for better or worse.
+Now, granted, there is a whole discussion to be had about the pros and cons of [[Index Funds|index funds]], and [the impact they have on the market](https://www.investopedia.com/how-index-funds-are-hurting-investors-and-the-market-4688627#:~:text=The%20Rise%20of%20Index%20Funds%20and%20Concentration%20of%20Ownership&text=Index%20funds%20control%2017.2%25%20of,up%20from%203.5%25%20in%202000.). But one point I'd make is that the largest index fund is the [[Vanguard]] Total Stock Market Index Fund, which is [$1.3 trillion](https://www.investopedia.com/investing/biggest-mutual-funds/), representing [~2%](https://siblisresearch.com/data/us-stock-market-value/) of the U.S. equity market. Vanguard as a whole has $8 trillion of AUM, which is ~17% of U.S. equities. Given the disparate strategies, and allocations, I wouldn’t say that index funds move the entire market for better or worse.
 
 Among later stage startups, the largest venture funds can make up a majority of those rounds as they write larger checks. What's even more impactful is that they move the market in a way that doesn’t happen in public markets. So when Tiger and a16z get aggressive in pricing rounds, it trickles down to the rest of the market as a comp. That trickle down affect impacts the rest of the market as worse companies look for comparable valuations.
 
@@ -140,7 +140,7 @@ Founders will continue to get bundled as larger firms start thinking about their
 
 As the aggregation of assets in venture continues, there will be pros and cons. Some of the value-add of different venture firms is made possible because they become a center of gravity, and that's powerful. But for founders, it’s important to understand the business model of these larger firms and how much or how little your company's outcome may move the needle for them, and therefore how motivated they are for you.
 
-At Contrary, I think we've found a way to avoid some of the misaligned incentives that exist, even as we also grow our AUM. [Contrary's focus is on people, first and foremost](https://investing1012dot0.substack.com/p/contrary-my-renegade-of-choice). We have a community of several hundred talented builders and future founders that we support, and every aspect of our "product engine," we build with them in mind. As a result, everything we do is meant to benefit, as much as possible, the builders in our ecosystem, even if we're not investors (yet).
+At [[Contrary]], I think we've found a way to avoid some of the misaligned incentives that exist, even as we also grow our AUM. [Contrary's focus is on people, first and foremost](https://investing1012dot0.substack.com/p/contrary-my-renegade-of-choice). We have a community of several hundred talented builders and future founders that we support, and every aspect of our "product engine," we build with them in mind. As a result, everything we do is meant to benefit, as much as possible, the builders in our ecosystem, even if we're not investors (yet).
 
 We launched [Contrary Research](https://research.contrary.com/) to the public, rather than keeping it for our companies / founders because (1) our research will get better as we expose it to the outside world to tell us what we're wrong about, and (2) we can share (what is hopefully) a balanced perspective. If we use our research to pump just our own portfolio companies, then some of the folks in our community might suffer from a limited perspective, and that breaks our flywheel.
 

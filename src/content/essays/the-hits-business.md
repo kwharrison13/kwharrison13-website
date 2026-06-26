@@ -18,7 +18,7 @@ substack_url: "https://investing101.substack.com/p/the-hits-business"
 
 ![Header image for The Hits Business](/images/the-hits-business-64266c6a.png)
 
-Movies are my thing. From the age of 10 to 19 all I wanted to do was go to Hollywood. I voraciously consumed the Coen Brothers, Quentin Tarantino, Christopher Nolan, Martin Scorsese, Rian Johnson. I was inspired by stories like Jared Hess, a fellow BYU grad, writing and directing [Napoleon Dynamite](https://en.wikipedia.org/wiki/Napoleon_Dynamite) for $400K and making $46M.
+Movies are my thing. From the age of 10 to 19 all I wanted to do was go to [[Hollywood]]. I voraciously consumed the [[Coen Brothers]], [[Quentin Tarantino]], [[Christopher Nolan]], [[Martin Scorsese]], [[Rian Johnson]]. I was inspired by stories like Jared Hess, a fellow BYU grad, writing and directing [Napoleon Dynamite](https://en.wikipedia.org/wiki/Napoleon_Dynamite) for $400K and making $46M.
 
 The main problem was I was never a very good filmmaker. My magnum opus was [Pokemon Love Song](https://www.youtube.com/watch?v=AEP7Vh6Rwk4). Good... not great. But that hasn't stopped me from being obsessed with movies.
 
@@ -42,13 +42,13 @@ The second time was in [The Existential Dread of Cognitive Dissonance](https://i
 >   
 > As it relates to my feelings about venture capital, it comes down to what we're incentivized to build. I often find myself articulating this by using Hollywood as an analogy. The "business of blockbusters" has pushed movie studios to focus on spin-offs, sequels, and reboots. While this can lead to exciting movies, it rarely leads to unique stories.   
 >   
-> I'm reminded of a story where Steven Spielberg complained that he had almost been forced to release his film, [Lincoln](https://bit.ly/439JXDx), as a mini-series instead of a full feature film because he couldn't get anyone to fund it! A movie made by Steven Spielberg, starring Daniel Day-Lewis! But the studio model had pushed those unique stories into the periphery in favor of massive blockbuster potential.   
+> I'm reminded of a story where [[Steven Spielberg]] complained that he had almost been forced to release his film, [Lincoln](https://bit.ly/439JXDx), as a mini-series instead of a full feature film because he couldn't get anyone to fund it! A movie made by Steven Spielberg, starring [[Daniel Day-Lewis]]! But the studio model had pushed those unique stories into the periphery in favor of massive blockbuster potential.   
 >   
 > **Venture capital is facing a similar problem. The economic model pushes for bigger and bigger outcomes, that require more and more capital. This leads to larger funds, larger rounds, more cash burn, and more exorbitant ambitions.** And don’t get me wrong, I don’t have any problems with ambition! I want to see the full unlock of human potential. Automation, robotics, diseases cured, and space traversed. But the ambitions are, so often, [luxury dog houses dressed up as solutions to the housing crisis](https://investing1012dot0.substack.com/p/the-rise-of-the-cash-man).*
 
 Whether its the "big budget effect" or the "business of blockbusters," the focus of this line of thinking has always come back to the idea that, increasingly, the models of both Hollywood and venture capital revolve around "hits." The hits business is, in many ways, just a reflection of the power law. 20% of the inputs will lead to 80% of the output. But I think its more complex than that. **The shape of the industry is changing under the weight of these increasingly centralized focal points.**
 
-# The Silver Screen & Silicon Valley Parallel
+# The Silver Screen & [[Silicon Valley]] Parallel
 
 There are two charts that give off the same energy. The first is a chart showing the number of movies released over time, jumping to more than 15K per year after 2013:
 
@@ -60,7 +60,7 @@ The second is the a chart showing the AUM across venture skyrocketing to $1 tril
 
 Something clearly changed in both of these industries to justify the shift. Granted, its several things, many of which I'm not qualified or smart enough to unpack (e.g. fiscal policy, globalization, etc.) **But one thing that has certainly played a role in this rapid acceleration is the increasing consistency of hits.**
 
-For tech, it was the rise of FAANG (or whatever we're calling it these days). In 2012 the only tech company in the [top 10 names](https://www.howthemarketworks.com/2012-top-500-companies/) in the Fortune 500 was HP. Today, that [same list](https://fortune.com/ranking/fortune500/) has Apple, Amazon, and Alphabet with a long line of other big successes.
+For tech, it was the rise of FAANG (or whatever we're calling it these days). In 2012 the only tech company in the [top 10 names](https://www.howthemarketworks.com/2012-top-500-companies/) in the [[Fortune]] 500 was HP. Today, that [same list](https://fortune.com/ranking/fortune500/) has [[Apple]], [[Amazon]], and [[Alphabet]] with a long line of other big successes.
 
 For Hollywood, it was the increasing bankability of blockbusters. While [Jaws](https://bit.ly/3yCA3kv), in 1975, is considered the "first" big summer blockbuster, it was more a function of exceptions vs. rules. But when you look at the [highest grossing films](https://en.wikipedia.org/wiki/List_of_highest-grossing_films), those that have made over $1B have certainly gotten more consistent. **In the 90s and early 2000s there was less than one billion dollar movie per year on average vs. into the 2010s you saw an average of 3 per year.**
 
@@ -72,7 +72,7 @@ For Hollywood, it was the increasing bankability of blockbusters. While [Jaws](h
 
 Right up there with pattern recognition, the [power law](https://en.wikipedia.org/wiki/Power_law) is one of the most frequently used concepts to talk about venture capital. So much so that one of [the best books](https://www.amazon.com/Power-Law-Venture-Capital-Making/dp/052555999X) about the industry took it as its title. When people have unpacked industry returns for venture funds they often find the majority of the returns are driven by just a handful of companies out of thousands funded each year.
 
-The same is true in public markets where, for example, a few big tech companies, like Microsoft, Nvidia, Amazon, Google, and Meta, make up almost [40%](https://www.visualcapitalist.com/sp-500-earnings-growth-forecasts-vs-big-tech/) of the S&P 500. Across thousands of stocks there is so much attention and power pulled towards a select group of names.
+The same is true in public markets where, for example, a few big tech companies, like [[Microsoft]], [[Nvidia]], Amazon, Google, and [[Facebook|Meta]], make up almost [40%](https://www.visualcapitalist.com/sp-500-earnings-growth-forecasts-vs-big-tech/) of the S&P 500. Across thousands of stocks there is so much attention and power pulled towards a select group of names.
 
 One important distinction is that, while these select few names that make up the "20% of inputs" are critical for the market in aggregate they are not always the most important thing at the individual level.
 
@@ -98,9 +98,9 @@ In one particularly [judgey piece](https://www.pastemagazine.com/movies/intellec
 
 > *"The pivot to the IP Era feels simple, because it feels familiar. **It’s because tidy, consistent, sustainable profits aren’t enough. There must be growth**. There must be domination. There must be Shared Universes."*
 
-Most Hollywood studios are either publicly traded companies themselves, or are part of public companies. So there is the ever-present overhang of earnings calls and stock prices to contend with. That's why you see things like David Zaslav, the CEO of Warner Brothers, [saying explicitly](https://www.hollywoodreporter.com/tv/tv-news/harry-potter-tv-series-officially-happening-at-max-1235371717/) that the studio would focus on tried-and-true IP:
+Most Hollywood studios are either publicly traded companies themselves, or are part of public companies. So there is the ever-present overhang of earnings calls and stock prices to contend with. That's why you see things like [[David Zaslav]], the CEO of Warner Brothers, [saying explicitly](https://www.hollywoodreporter.com/tv/tv-news/harry-potter-tv-series-officially-happening-at-max-1235371717/) that the studio would focus on tried-and-true IP:
 
-> ***“We’re going to focus on franchises.** We haven’t had a Superman movie in 13 years. We haven’t done a Harry Potter in 15 years. The DC movies and the Harry Potter movies provided a lot of the profits for Warner Bros … over the past 25 years.”*
+> ***“We’re going to focus on franchises.** We haven’t had a Superman movie in 13 years. We haven’t done a [[Harry Potter]] in 15 years. The DC movies and the Harry Potter movies provided a lot of the profits for Warner Bros … over the past 25 years.”*
 
 That was in November 2022. Despite what increasingly feels like audience fatigue with multiverses and extended universes, the profit motive reigns supreme, making the studio execs willing to say the quiet part out loud.
 
@@ -108,15 +108,15 @@ The AI bubble we're experiencing right now feels comparable. The audience fatigu
 
 Are audiences getting tired of big bulky sequels and reboots? Maybe. But then Inside Out 2 becomes the [fastest movie](https://www.youtube.com/watch?v=kJNDtf4AEmI) to hit $1 billion at the box office. So we're gonna keep doing what we're doing.
 
-Is "grow at all costs" a dangerous strategy? Maybe. But OpenAI burned through [$8.5B](https://finance.yahoo.com/news/report-claims-openai-burned-8-105046378.html) to get to [$3.4B](https://www.theinformation.com/articles/openais-annualized-revenue-doubles-to-3-4-billion-since-late-2023?rc=ecjlpf) in revenue, doubling every 6 months. So we're gonna keep doing what we're doing.
+Is "grow at all costs" a dangerous strategy? Maybe. But [[OpenAI]] burned through [$8.5B](https://finance.yahoo.com/news/report-claims-openai-burned-8-105046378.html) to get to [$3.4B](https://www.theinformation.com/articles/openais-annualized-revenue-doubles-to-3-4-billion-since-late-2023?rc=ecjlpf) in revenue, doubling every 6 months. So we're gonna keep doing what we're doing.
 
 Again, I'm not passing judgement on these strategies. To each their own.
 
 I'm not the kind of cinephile to decry massive IP plays as a bastardization of the art. In fact, I just saw [Deadpool & Wolverine](https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine) which was an egregious display of IP exploitation, and I loved it.
 
-Nor am I an angry socialist that thinks tech companies shouldn't exist and we should just give everyone money. I *love* the concentration of capital into companies like SpaceX or Anduril because I *want* them to exist, and I massively respect what they've accomplished.
+Nor am I an angry socialist that thinks tech companies shouldn't exist and we should just give everyone money. I *love* the concentration of capital into companies like SpaceX or [[Anduril]] because I *want* them to exist, and I massively respect what they've accomplished.
 
-But here's the key difference. I don't love Deadpool & Wolverine or SpaceX or whatever just because they're big. I love them because they're good. I'm not attracted to the monopolistic profits. I'm attracted to the quality-of-life improving outcomes. **But, in many cases, the pursuit of the big will come at the sacrifice of the good.**
+But here's the key difference. I don't love [[Deadpool & Wolverine]] or SpaceX or whatever just because they're big. I love them because they're good. I'm not attracted to the monopolistic profits. I'm attracted to the quality-of-life improving outcomes. **But, in many cases, the pursuit of the big will come at the sacrifice of the good.**
 
 # Building ~~Big~~ Good Outcomes
 
@@ -136,21 +136,21 @@ Does a bigger team mean not all of them are as good of investors? Usually.
 
 Often my sense is the people pursuing the big believe that it is mutually exclusive with the good. They're satisfied with the "good enough." But I think that's wrong. I think thats as wrong in moviemaking as it is in company building. **You can build outcomes that are just as big while also focusing on what is good. Whether thats a good movie, in terms of quality, or a good business in terms of profitability, externalities, and overall outcomes.**
 
-One of my very favorite pieces about the movie business came out last year; Mario Gabriele's [A24: The Rise of a Cultural Conglomerate](https://www.generalist.com/briefing/a24). In it, he tells the story of the independent entertainment company, [A24](https://en.wikipedia.org/wiki/A24), that was started in 2012 and went on to helped bring to life movies like Everything Everywhere All At Once, Uncut Gems, Lady Bird, and Moonlight, among others.
+One of my very favorite pieces about the movie business came out last year; [[Mario Gabriele]]'s [A24: The Rise of a Cultural Conglomerate](https://www.generalist.com/briefing/a24). In it, he tells the story of the independent entertainment company, [A24](https://en.wikipedia.org/wiki/A24), that was started in 2012 and went on to helped bring to life movies like Everything Everywhere All At Once, Uncut Gems, Lady Bird, and Moonlight, among others.
 
 There is so much in his piece that I can't unpack here; you should read it. It's exceptional. But in re-reading the piece, I realized that there are several takeaways from how A24 has built its business that can be instructive for how we could improve the way companies are built and funded.
 
 ## At the Mercy of the Zeitgeist
 
-Throughout Mario's piece on A24, he makes it clear that one critical advantage the company has is its focus on embracing and understanding culture; the zeitgeist, the general vibes.
+Throughout Mario's piece on A24, he makes it clear that one critical advantage the company has is its focus on embracing and understanding culture; the [[Zeitgeist|zeitgeist]], the general vibes.
 
-There's a whole other piece I could write on [Thomas Tull's](https://www.theinformation.com/articles/secretive-billionaire-thomas-tulls-never-ending-transformation?rc=ecjlpf) empire, Legendary Entertainment, and the [formula](https://www.forbes.com/sites/natalierobehmed/2016/02/10/the-global-mogul/) he used to weaponize globalization, and in particular the [Chinese market](https://www.washingtonpost.com/news/wonk/wp/2016/09/24/chinas-influence-over-hollywood-grows/), to achieve sizable success. But its quite afield from what I take away from A24. Tull and other big studios have realized that they can create a better shot at bigger outcomes if they create fairly generalized, un-opinionated, mass appeal movies that can succeed in every international market.
+There's a whole other piece I could write on [Thomas Tull's](https://www.theinformation.com/articles/secretive-billionaire-thomas-tulls-never-ending-transformation?rc=ecjlpf) empire, [[Legendary Entertainment]], and the [formula](https://www.forbes.com/sites/natalierobehmed/2016/02/10/the-global-mogul/) he used to weaponize globalization, and in particular the [Chinese market](https://www.washingtonpost.com/news/wonk/wp/2016/09/24/chinas-influence-over-hollywood-grows/), to achieve sizable success. But its quite afield from what I take away from A24. Tull and other big studios have realized that they can create a better shot at bigger outcomes if they create fairly generalized, un-opinionated, mass appeal movies that can succeed in every international market.
 
 A24, on the other hand, took the position that what the cultural vibe participants were desperate for was unique perspectives. Noticing the increasing emphasis on sequels to the detriment of original IP, the company made a bet, as Mario [explains](https://www.generalist.com/briefing/a24):
 
 > *"A24’s founders had noticed this decay. Rather than bemoaning it, however, they spotted an opening. Just because big studios didn’t want to make opinionated indie films anymore didn’t mean that audiences didn’t want to watch them. **On the contrary, amidst an increasingly homogeneous cultural landscape, projects with a genuine point of view could have an outsized impact.** “Films didn’t seem as exciting to us as when we started our careers,” Katz [noted](https://www.gq.com/story/a24-studio-oral-history). “And that signaled an opportunity.”*
 
-One key difference between a creator, like Mr. Beast or [MKBHD](https://www.youtube.com/user/marquesbrownlee), and a company like A24, is that creators represent tastemakers while A24 is a taste connoisseur. And in order to attract the right tastes, you have to have a pulse on the market. For entertainment, social media represented that pulse. [Understanding](https://www.generalist.com/briefing/a24) "internet culture, fandom, and customer acquisition has been critical to [A24's] success."
+One key difference between a creator, like Mr. Beast or [MKBHD](https://www.youtube.com/user/marquesbrownlee), and a company like A24, is that creators represent tastemakers while A24 is a taste connoisseur. And in order to attract the right tastes, you have to have a pulse on the market. For entertainment, [[Social Media|social media]] represented that pulse. [Understanding](https://www.generalist.com/briefing/a24) "internet culture, fandom, and customer acquisition has been critical to [A24's] success."
 
 That may seem obvious today but it very much wasn't in 2012 when A24 got started. "Over the past decade, no studio has more efficiently inserted itself into the online zeitgeist, seasoning our feeds with [satanic goats](https://twitter.com/blackphillip) and Oscar Isaac [dance](https://youtu.be/b7C69HqnV8s) sequences."
 

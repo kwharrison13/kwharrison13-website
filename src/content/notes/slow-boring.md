@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-19"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/people/Matt Yglesias.md"
@@ -13,12 +13,15 @@ aliases:
   - "Slow Boring"
 related:
   - "[[Matt Yglesias]]"
+  - "[[One Billion Americans]]"
 ---
 
 # Slow Boring
 
-_Stub — flagged during the 2026-06-19 connection sweep as an entity referenced across the wiki without its own page. Yglesias's namesake publication, cited in the one-line definition as the surface where his political/economic writing appears; no wiki page exists yet._
+Slow Boring is the namesake newsletter of [Matt Yglesias](/notes/matt-yglesias), the political and economic writer Kyle cites for the "increase immigration to one billion Americans" idea in his Great Softening research. In Kyle's notes it functions as the surface where Yglesias's writing on American population, immigration, and dynamism appears — the publication paired with his book [One Billion Americans](/notes/one-billion-americans).
+
+**Context:** Slow Boring is the Substack newsletter Matthew Yglesias launched in 2020 after leaving Vox, named for Max Weber's line that "politics is a strong and slow boring of hard boards." It covers U.S. politics and policy from a wonkish, abundance-minded angle.
 
 ## Where this appears
 
-- [Matt Yglesias](/notes/matt-yglesias)
+- [Matt Yglesias](/notes/matt-yglesias) — his namesake publication, the surface for his political/economic writing.

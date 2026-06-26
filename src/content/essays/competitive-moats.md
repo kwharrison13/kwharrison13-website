@@ -31,7 +31,7 @@ So let's talk about competitive moats, and particularly why, for a big part of t
 
 # All That Matters
 
-One of the things that has brought defensibility and competitive moats to the forefront of the conversation recently has been the newest wave of AI startups. When a whole swath of companies are building on the same open source foundation models, or as wrappers around ChatGPT, can they really be [defensible in the long run](https://twitter.com/travismcpeak/status/1631320397668028416?s=20)?
+One of the things that has brought defensibility and competitive moats to the forefront of the conversation recently has been the newest wave of AI startups. When a whole swath of companies are building on the same open source foundation models, or as wrappers around [[ChatGPT]], can they really be [defensible in the long run](https://twitter.com/travismcpeak/status/1631320397668028416?s=20)?
 
 I'm certainly one of those skeptics that worry about how well a company can compete when their underlying technology has the same nuts and bolts as every other product tackling the same problem. But when you look at what really matters, you start to feel like defensibility might just be for dummies.
 
@@ -45,7 +45,7 @@ The last decade or so of company building has largely revolved around cash burn.
 
 [I've written before](https://investing1012dot0.substack.com/p/cashkingmaker-or-killer) about some of these case studies that personified this era of (often irresponsible) spending:
 
-> *"For a lot of people, ride-sharing was one of the original "Cash War" battlegrounds. There were a lot of competitors and the ones that stuck around were the ones that could fundraise most effectively. Uber and Lyft raced to raise more money, to spend more on marketing, to open new markets, and to attract more drivers.   
+> *"For a lot of people, ride-sharing was one of the original "Cash War" battlegrounds. There were a lot of competitors and the ones that stuck around were the ones that could fundraise most effectively. [[Uber]] and [[Lyft]] raced to raise more money, to spend more on marketing, to open new markets, and to attract more drivers.   
 >   
 > And when you look at the history of capital raised the numbers are staggering and the difference is stark... Uber raised $25B to generate $17.5B in revenue. Lyft raised $5B to generate $3.2B in revenue.   
 >   
@@ -85,11 +85,11 @@ Danger is the reality of building an early stage business (and early can be used
 
 # Vying For Velocity
 
-I would argue that how "young" a company is comes largely as a function of how quickly they're changing (cue the [ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus) analogy). A company that is fairly stagnant can still do well, but they're not as young, and therefore pace of innovation matters less than hunkering down. Apple and Microsoft were both founded in the mid-1970s. But I see Microsoft as a young company, and Apple as... not.
+I would argue that how "young" a company is comes largely as a function of how quickly they're changing (cue the [ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus) analogy). A company that is fairly stagnant can still do well, but they're not as young, and therefore pace of innovation matters less than hunkering down. [[Apple]] and [[Microsoft]] were both founded in the mid-1970s. But I see Microsoft as a young company, and Apple as... not.
 
 Now, I'm no public analyst. So lot's of people would fight me on this. But just from my shallowly informed view, Apple largely rides the benefits of a series of near-monopolies when it comes to things like the [App Store](https://appleinsider.com/articles/21/11/13/lawsuit-targets-apples-ios-app-store-monopoly), iOS, and [Apple Pay](https://www.theverge.com/2022/7/18/23269369/apple-pay-class-action-lawsuit-antitrust-tap-to-pay-eu).
 
-Microsoft, on the other hand, feels like a company that has evolved dramatically over and over again (granted, they have plenty of their own monopolies). The transition from shipping physical disks to universalizing Windows to the Office suite to Azure, and now while they're old in years, but young in spirit, we get to watch them go through an AI evolution with OpenAI. Sometimes it feels like watching your elderly uncle reinvent himself. But it's still transformative.
+Microsoft, on the other hand, feels like a company that has evolved dramatically over and over again (granted, they have plenty of their own monopolies). The transition from shipping physical disks to universalizing Windows to the Office suite to Azure, and now while they're old in years, but young in spirit, we get to watch them go through an AI evolution with [[OpenAI]]. Sometimes it feels like watching your elderly uncle reinvent himself. But it's still transformative.
 
 ![Animated GIF related to vying for velocity](/images/competitive-moats-78512d4c.gif)
 
@@ -101,13 +101,13 @@ Most of the very best companies have these same types of visualizations to demon
 
 ![Datadog is another example](/images/competitive-moats-7271b57e.png)
 
-When I think about core pillars of the software world, like Salesforce, ServiceNow, or Adobe, they've all extended their product capabilities pretty dramatically. In [a great post](https://mslotnick.substack.com/p/a-unified-theory-of-lowno-code-middleware?utm_source=%2Fsearch%2Fsalesforce&utm_medium=reader2) on the future of enterprise applications, Matt Slotnick uses Salesforce as an example, and explains their product extendability this way:
+When I think about core pillars of the software world, like [[Salesforce]], [[ServiceNow]], or [[Adobe]], they've all extended their product capabilities pretty dramatically. In [a great post](https://mslotnick.substack.com/p/a-unified-theory-of-lowno-code-middleware?utm_source=%2Fsearch%2Fsalesforce&utm_medium=reader2) on the future of enterprise applications, Matt Slotnick uses Salesforce as an example, and explains their product extendability this way:
 
 > *"Salesforce has long understood that their core value and defensibility is that businesses are inherently customer centric, and the most valuable data at a company is the data related to how they sell to and serve their end customers. This has led Salesforce to be a system of record for managing data on arguably a company’s most important asset.   
 >   
-> Data has gravity, and this system of record both commands immense value on its own, but also creates influence on all other systems within an organization. **Other systems need to play well with Salesforce, because if they don’t, they’re unlikely to be adopted. This makes Salesforce the System of Record. They have leveraged this to build a number of other large businesses in addition to sales — namely marketing cloud, service cloud, commerce cloud.**"*
+> Data has gravity, and this system of record both commands immense value on its own, but also creates influence on all other systems within an organization. **Other systems need to play well with Salesforce, because if they don’t, they’re unlikely to be adopted. This makes Salesforce the [[System of Record]]. They have leveraged this to build a number of other large businesses in addition to sales — namely marketing cloud, service cloud, commerce cloud.**"*
 
-One company that hasn't as successfully extended itself is Workday. That doesn't mean that Workday doesn't have any competitive moats, but it doesn't seem to have a rapid pace of innovation. As a result, you have to start to really evaluate the longevity of any existing advantage they have.
+One company that hasn't as successfully extended itself is [[Workday]]. That doesn't mean that Workday doesn't have any competitive moats, but it doesn't seem to have a rapid pace of innovation. As a result, you have to start to really evaluate the longevity of any existing advantage they have.
 
 The longevity of those competitive moats can be the difference between life and death. [In a newsletter](https://www.permanentequity.com/weekly/the-weekly-edition-52-july-3rd-2020) from Permanent Equity a few years ago, they made this great point about the "saving grace" of competitive moats, and how it can only go so far:
 
@@ -115,7 +115,7 @@ The longevity of those competitive moats can be the difference between life and 
 
 # So When Do Moats Matter?
 
-There is an ocean of thought processes around competitive moats and what makes a definitive advantage. Great books have been written, like [Competition Demystified](https://www.amazon.com/Competition-Demystified-Radically-Simplified-Approach/dp/1591841801) or [Moats and Marathons](https://www.amazon.com/dp/B09K7VP5BV/ref=cm_sw_r_tw_dp_1KYB77XV9CDNRX7FG8AG), as well as some [great work](https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&sourceid=csplusresearchcp&document_id=1066439791&serialid=4uA2wHojCvFKzqWfwIyDvkSN1pkXRpb43LvyclLcJsk%3D&cspId=null) from folks like Michael Mauboussin. Other folks have introduced frameworks for "[new moats](https://news.greylock.com/the-new-moats-53f61aeac2d9)" like building systems of intelligence, rather than systems of record.
+There is an ocean of thought processes around competitive moats and what makes a definitive advantage. Great books have been written, like [Competition Demystified](https://www.amazon.com/Competition-Demystified-Radically-Simplified-Approach/dp/1591841801) or [Moats and Marathons](https://www.amazon.com/dp/B09K7VP5BV/ref=cm_sw_r_tw_dp_1KYB77XV9CDNRX7FG8AG), as well as some [great work](https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&sourceid=csplusresearchcp&document_id=1066439791&serialid=4uA2wHojCvFKzqWfwIyDvkSN1pkXRpb43LvyclLcJsk%3D&cspId=null) from folks like [[Michael Mauboussin]]. Other folks have introduced frameworks for "[new moats](https://news.greylock.com/the-new-moats-53f61aeac2d9)" like building systems of intelligence, rather than systems of record.
 
 Counterpoint Global has [put out a list](https://twitter.com/punchcardinvest/status/1579039530325139456?s=20) of dozens of companies with what they refer to as "wide moat businesses." Each of them could be an interesting case study, and there's no doubt many of them have classic competitive advantages.
 
@@ -123,11 +123,11 @@ One of the biggest prophets of competitive moats is [Warren Buffett himself](htt
 
 > *"If you are evaluating a business, **the number one question you want to ask yourself is whether the competitive advantage has been made stronger and more durable**. That’s more important than the P&L for a given year."*
 
-Elad Gil [recently put together](https://blog.eladgil.com/p/defensibility-and-competition) a pretty extensive list of typical moats including things like network effects, platform effects, product velocity, complex sales, regulation, and scale. Similarly, McKinsey has a broad framework for the sources of competitive advantage:
+Elad Gil [recently put together](https://blog.eladgil.com/p/defensibility-and-competition) a pretty extensive list of typical moats including things like network effects, platform effects, product velocity, complex sales, regulation, and scale. Similarly, [[McKinsey]] has a broad framework for the sources of competitive advantage:
 
 ![Source:Twitter](/images/competitive-moats-fe791497.png)
 
-There's a lot of interesting literature here, all of it with merit. For my perspective, I agree with Elon Musk and Fat Baby Funds (boy, that's an interesting sentence, huh?) **I think that competitive moats can be powerful. But if you believe that they're enough to save you from an ever-increasing pace of innovation in every category, I think you're delusional.**
+There's a lot of interesting literature here, all of it with merit. For my perspective, I agree with [[Elon Musk]] and Fat Baby Funds (boy, that's an interesting sentence, huh?) **I think that competitive moats can be powerful. But if you believe that they're enough to save you from an ever-increasing pace of innovation in every category, I think you're delusional.**
 
 Going forward, the very best companies will be those that have nailed a very specific pain point for a very specific type of person. They'll have formed a novel acquisition method for bringing those customers as cheaply as possible, and they'll have the product velocity and quality to keep those customers around for as long as possible.
 
@@ -139,7 +139,7 @@ I haven't touched as much on the implications for venture here, other than the t
 
 A fund is how you generate the most carry with the fewest people, you're just optimizing the mechanism. A firm, on the other hand, is (1) generating exceptional returns, but also (2) building enduring enterprise value.
 
-Enterprise value has to come from having a compounding advantage. A fund can ebb and flow in its quality. A firm has value creation that is replicable. Blackstone is one of the best examples of this, and [one that I return to often](https://investing1012dot0.substack.com/p/the-blackstone-of-innovation). They've built a repeatable mechanism for creating value (a firm), not just a strategy for a particular asset class (a fund).
+Enterprise value has to come from having a compounding advantage. A fund can ebb and flow in its quality. A firm has value creation that is replicable. [[Blackstone]] is one of the best examples of this, and [one that I return to often](https://investing1012dot0.substack.com/p/the-blackstone-of-innovation). They've built a repeatable mechanism for creating value (a firm), not just a strategy for a particular asset class (a fund).
 
 > *"[We] keep challenging ourselves with an open-ended question: Why not? **If we came across the right person to scale a business in a great investment class, why not? If we could apply our strengths, our network, and our resources to make that business a success, why not?** Other firms, we felt, defined themselves too narrowly, limiting their ability to innovate. They were advisory firms, or investment firms, or credit firms, or real estate firms. Yet they were all pursuing financial opportunity."*
 
@@ -158,11 +158,11 @@ The only reading I do is often the "just-in-time" resources I need to read for m
 So, as a way to try and expand my reading I've decided to include this new section at the end of each week's post. Throughout the week, I save links to articles that I think look the most interesting to me, and then read them as part of writing each week's post. I’ll only include it if I’ve read it. We'll see how well this works for me:
 
 - [Rekindling US productivity for a new era](https://www.mckinsey.com/mgi/our-research/rekindling-us-productivity-for-a-new-era#at-a-glance) by McKinsey
-- [The Build-Nothing Country](https://noahpinion.substack.com/p/the-build-nothing-country) by Noah Smith
-- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) by Stephen Wolfram
-- [The AppetiZIRP](https://www.notboring.co/p/the-appetizirp) by Packy McCormick
-- [We’re Selling Entrepreneurship Short](https://bryce.medium.com/were-selling-entrepreneurship-short-79ca4fc6316) by Bryce Roberts
-- [Bonfire of the consultancies](https://www.prospectmagazine.co.uk/arts-and-books/bonfire-of-the-consultancies-lionel-barber) by Lionel Barber
-- [To Save America, Restore Our Frontier](https://blog.joelonsdale.com/p/to-save-america-restore-our-frontier) by Joe Lonsdale
-- [How to Trick Investors & VCs](https://onlycfo.substack.com/p/how-to-trick-investors-and-vcs) by OnlyCFO
-- [Infinite Games](https://www.youngmoney.co/p/infinite-games) by Jack Raines
+- [The Build-Nothing Country](https://noahpinion.substack.com/p/the-build-nothing-country) by [[Noah Smith]]
+- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) by [[Stephen Wolfram]]
+- [The AppetiZIRP](https://www.notboring.co/p/the-appetizirp) by [[Packy McCormick]]
+- [We’re Selling Entrepreneurship Short](https://bryce.medium.com/were-selling-entrepreneurship-short-79ca4fc6316) by [[Bryce Roberts]]
+- [Bonfire of the consultancies](https://www.prospectmagazine.co.uk/arts-and-books/bonfire-of-the-consultancies-lionel-barber) by [[Lionel Barber]]
+- [To Save America, Restore Our Frontier](https://blog.joelonsdale.com/p/to-save-america-restore-our-frontier) by [[Joe Lonsdale]]
+- [How to Trick Investors & VCs](https://onlycfo.substack.com/p/how-to-trick-investors-and-vcs) by [[OnlyCFO]]
+- [Infinite Games](https://www.youngmoney.co/p/infinite-games) by [[Jack Raines]]

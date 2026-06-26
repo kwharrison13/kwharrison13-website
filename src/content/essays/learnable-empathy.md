@@ -28,11 +28,11 @@ I'm no doctor, and I haven't spent nearly enough time on VC twitter to believe t
 
 And I firmly believe that a lack of empathy is not only one of the biggest obstacles in our political and social life, but it is one of the biggest obstacles to becoming a successful investor.
 
-# What's The Valuation Multiple on Empathy?
+# What's The [[Valuation]] Multiple on [[Empathy]]?
 
-There is a [Tiktok audio](https://www.tiktok.com/@kash.d.frenchie/video/7113267511902375214?is_copy_url=1&is_from_webapp=v1&q=it%20doesn%27t%20cost%20anything%20to%20be%20nice&t=1665065129873) that makes the rounds every few month; it’s a conversation between two people. The first person says, "Just a reminder that it costs zero dollars to be nice." And the other person responds, "how much is it to be an a\*\*hole? I can Venmo you." Love it. Solid joke. Well executed.
+There is a [Tiktok audio](https://www.tiktok.com/@kash.d.frenchie/video/7113267511902375214?is_copy_url=1&is_from_webapp=v1&q=it%20doesn%27t%20cost%20anything%20to%20be%20nice&t=1665065129873) that makes the rounds every few month; it’s a conversation between two people. The first person says, "Just a reminder that it costs zero dollars to be nice." And the other person responds, "how much is it to be an a\*\*hole? I can [[Venmo]] you." Love it. Solid joke. Well executed.
 
-I'm no Debbie downer looking to rain on funny jokes. But that TikTok came to mind because it’s an example of how empathy isn't always something that immediately comes to mind as being valuable. The internet has taught us that it's more important to be right than to be understanding. If you're right then you get likes. If you're understanding? No one cares.
+I'm no Debbie downer looking to rain on funny jokes. But that [[TikTok]] came to mind because it’s an example of how empathy isn't always something that immediately comes to mind as being valuable. The internet has taught us that it's more important to be right than to be understanding. If you're right then you get likes. If you're understanding? No one cares.
 
 There is also the more old-school idea that empathy is a very emotional thing; fine for casual elevator courtesy, and things like that. But it doesn’t have much place in business. When companies have corporate values like "we're a family," other people would say that's inappropriate. We're not family. We're co-workers. This is a business. We have a bottom line. We're optimizing for performance and profits, not niceness.
 
@@ -42,7 +42,7 @@ So what does it cost to be an a\*\*hole? It might cost you an opportunity to inv
 
 # Practical Applications of Empathy
 
-One of the easiest, and most often used, examples of empathy is about customer empathy. The better you can empathize with a potential user or customer, the better you can build products for them. There is a story in *Amazon Unbound* about the development of the Fire Phone, which went on to be a [massive flop](https://www.failory.com/amazon/fire-phone) of a product.
+One of the easiest, and most often used, examples of empathy is about customer empathy. The better you can empathize with a potential user or customer, the better you can build products for them. There is a story in *[[Amazon Unbound]]* about the development of the Fire Phone, which went on to be a [massive flop](https://www.failory.com/amazon/fire-phone) of a product.
 
 > *“Does anyone actually use the calendar on their phone?” [Jeff Bezos] asked in one meeting. “We do use the calendar, yes,” someone who did not have several personal assistants replied."*
 
@@ -50,13 +50,13 @@ That was an example of a lack of user empathy from someone who happened to be ou
 
 This is one, of many, reasons why [the lack of](https://www.thirdway.org/report/women-wanted-the-equity-gap-in-venture-capital) women and BIPOC in venture is a problem. There are massive markets that wealthy white men who went to one of two schools may struggle to see and appreciate. That is also one of the drivers behind the [majority](https://dot.la/venture-capital-2650047652.html) of venture dollars going to white men. There is a meaningful empathy problem in venture capital.
 
-The less empathy one group has for another, the more likely that unempathetic group is to devolve into groupthink. Charlie Munger put it this way:
+The less empathy one group has for another, the more likely that unempathetic group is to devolve into groupthink. [[Charlie Munger]] put it this way:
 
 > *"It is almost everywhere the case that extremes of ideology are maintained with great intensity and with great antipathy to non-believers, causing extremes of cognitive dysfunction. **One antidote to intense, deliberate maintenance of groupthink is an extreme culture of courtesy, kept in place despite ideological differences.** Another antidote is to deliberately bring in able and articulate disbelievers of incumbent groupthink."*
 
-General lack of empathy is most noticeable in politics. There is a very clear (and increasingly divisive) two-sided conflict. That may be the reason some of my favorite quotes about empathy come from politicians, or people who have been heavily exposed to politics. Abraham Lincoln [said](https://jamesclear.com/why-facts-dont-change-minds), "I don't like that man. I must get to know him better." Michelle Obama put it this way: “When voters got to see me as a person, they understood that the caricatures were untrue. **I’ve learned that it’s harder to hate up close**.”
+General lack of empathy is most noticeable in politics. There is a very clear (and increasingly divisive) two-sided conflict. That may be the reason some of my favorite quotes about empathy come from politicians, or people who have been heavily exposed to politics. [[Abraham Lincoln]] [said](https://jamesclear.com/why-facts-dont-change-minds), "I don't like that man. I must get to know him better." [[Michelle Obama]] put it this way: “When voters got to see me as a person, they understood that the caricatures were untrue. **I’ve learned that it’s harder to hate up close**.”
 
-The more empathy you can develop, the more effectively you can develop products, hire high quality people, communicate a vision, and build a movement. That’s why Steve Jobs [described marketing](https://www.youtube.com/watch?v=22jfMkMXl68) as being about “values.”
+The more empathy you can develop, the more effectively you can develop products, hire high quality people, communicate a vision, and build a movement. That’s why [[Steve Jobs]] [described marketing](https://www.youtube.com/watch?v=22jfMkMXl68) as being about “values.”
 
 > *“Marketing is about values. It's a complicated and noisy world, and we're not going to get a chance to get people to remember much about us. No company is. **So we have to be really clear about what we want them to know about us.**”*
 
@@ -78,11 +78,11 @@ Does that mean I suddenly condone rich people yelling at everyone who works for 
 
 You don't have to be okay with who someone is or how they act. I can understand that guy is under a lot of pressure, and he lets it take control of him. I can empathize with that, having now been a manager who is also under pressure. But when I feel my patience crack, or I get frustrated with the people I work with I take my understanding of his behavior, and have to recognize that I want to be different. I need to turn away from being an a\*\*hole (even though it's free.) By no means am I perfect, I will always make mistakes. The things that make me different is actively trying to choose to be different.
 
-# What Does This Mean For Venture Capital?
+# What Does This Mean For [[Venture Capital]]?
 
 Venture capital has an empathy problem. Understanding founders, LPs, customers, and employees isn't an easy web to wrangle. And a lot of VCs don't do it well.
 
-I often think about [this quote](https://investing1012dot0.substack.com/p/talent?s=w) from Doug Leone, and [return to it](https://investing1012dot0.substack.com/p/death) a lot: *"The two most important things are (1) performance, and (2) teamwork. But if you don't have number 1 then nothing else matters."*
+I often think about [this quote](https://investing1012dot0.substack.com/p/talent?s=w) from [[Doug Leone]], and [return to it](https://investing1012dot0.substack.com/p/death) a lot: *"The two most important things are (1) performance, and (2) teamwork. But if you don't have number 1 then nothing else matters."*
 
 This is a performance business. At the end of the day, if you're not making money it doesn't matter whether you're nice or not. I'm a believer that in the long run, though, that the more people who want to work with you, the more likely you are to be successful.
 

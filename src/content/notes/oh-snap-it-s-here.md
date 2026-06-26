@@ -8,7 +8,7 @@ url: "https://www.perell.com/blog/2015/5/16/oh-snap-its-here"
 source_published: "2015-05-16"
 confidence: "high"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "raw/archive/clippings/Oh Snap, It's Here.md"
@@ -36,7 +36,7 @@ related:
 ## Key claims
 
 - SnapChat became Perell's **main method of digital interaction** with friends since arriving at school — a tool for sharing perspective broadly with classmates rather than hiding in a personal bubble, with "artistic touches" that enable a freedom of expression unique to the app.
-- **Sometimes the product matters; sometimes the experience does.** People are alternately enthralled with a specific product and enamored with a unique digital *experience* — the specific tool doesn't always matter (e.g. Instagram Stories) as much as the feeling the experience produces.
+- **Sometimes the product matters; sometimes the experience does.** People are alternately enthralled with a specific product and enamored with a unique digital *experience* — the specific tool doesn't always matter (e.g. [Instagram](/notes/instagram) Stories) as much as the feeling the experience produces.
 - The app is **near-irrelevant to anyone born before 1990** — chalked up to [Metcalfe's Law](/notes/metcalfe-s-law) (the network is composed of the cohort using it), CEO troubles, or a stigma against the SnapChat brand.
 - **SnapChat will keep growing because it gives millennials the communication traits they crave most:** autonomy, simplicity, and visual appeal.
 

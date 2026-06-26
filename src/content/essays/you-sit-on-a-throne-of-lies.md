@@ -36,7 +36,7 @@ The man who has songs written about him in dozens of different languages.
 
 The man who inspired one of the most commercially impactful seasons of the year where people spend [$1.2 trillion](https://fortunly.com/statistics/christmas-spending-statistics/) globally, in celebration.
 
-That man, of course, is Jesus Christ.
+That man, of course, is [[Jesus|Jesus Christ]].
 
 ![Source:Deseret News](/images/you-sit-on-a-throne-of-lies-f0c15681.png)
 
@@ -95,7 +95,7 @@ In Plato’s Republic, Book III, there is introduced a critical concept that has
 
 For Plato, it was the story of social hierarchy. Men made of different metal by God; finer creatures crafted of Gold, lesser of iron or brass. This year, I’ve been reading the [Red Rising Saga](https://www.goodreads.com/series/117100-red-rising-saga) by Pierce Brown; a science fiction future where men have colonized the solar system and leveraged a comparable class of genetic differentiation. Golds rule, Silvers count, Yellows heal, and so on. Plato’s analogy made flesh. From Plato to The Jackal, the justification is in unification, despite the noble lie.
 
-There is an epistemological debate throughout history around a lie’s justifications. A noble truth? Or a consistent sin? St. Augustine [debates](https://ronconte.com/2011/02/07/is-lying-always-wrong-part-3-saint-augustine/) the merits of whether a lie can be excused if its “useful.” Machiavelli sees it as a [critical lesson](https://www.google.com/books/edition/Thoughts_on_Machiavelli/oi2GDwAAQBAJ?hl=en) to “learn how to use the nature of both men and beasts wisely to ensure the stability of [a] regime” with the force of a lion and the deception of a fox.
+There is an epistemological debate throughout history around a lie’s justifications. A noble truth? Or a consistent sin? [[St. Augustine]] [debates](https://ronconte.com/2011/02/07/is-lying-always-wrong-part-3-saint-augustine/) the merits of whether a lie can be excused if its “useful.” Machiavelli sees it as a [critical lesson](https://www.google.com/books/edition/Thoughts_on_Machiavelli/oi2GDwAAQBAJ?hl=en) to “learn how to use the nature of both men and beasts wisely to ensure the stability of [a] regime” with the force of a lion and the deception of a fox.
 
 Everything from founding myths to unifying narratives rests on this idea of justification in elaboration. The mythology of the American Founders serves a particular unifying purpose and for that reason, its been allowed to persist; even defended vigorously. There’s a lot that’s been said about memetics and the way ideas percolate. Propaganda during WWII and the Cold War served what most see as both good and evil causes; supporting the American War Effort and propping up both the Socialist and the Communist machines.
 
@@ -109,7 +109,7 @@ While there are plenty of different view points, I *have* to believe in truth; n
 
 Whether it comes to religion, economics, company building, relationships, or any other aspect of my life. I have to believe that there is truth. Nuanced truth, yes. But truth, nonetheless.
 
-**In many cases, one of the biggest obstacles is that the nuance is so haze-inducing that it renders the shape of truth completely immaterial**. Something feels so complex and nuanced that it loses all definition. God, I think, can often feel this way. When I listen to the most prominent atheists, from Stephen Fry and Ricky Gervais to Richard Dawkins and Sam Harris, their skepticism always sounds exactly the same as the doubters in Christmas movies.
+**In many cases, one of the biggest obstacles is that the nuance is so haze-inducing that it renders the shape of truth completely immaterial**. Something feels so complex and nuanced that it loses all definition. God, I think, can often feel this way. When I listen to the most prominent atheists, from [[Stephen Fry]] and [[Ricky Gervais]] to [[Richard Dawkins]] and Sam Harris, their skepticism always sounds exactly the same as the doubters in Christmas movies.
 
 You listen to these grown people, living in a world where Santa Claus is legitimate canon. He does actually exist. Tim Allen does, actually, fly the sleigh. And they say things like “how can he get to every house in the world?” Meanwhile, apparently they, never once, have wondered, “where did these presents come from that I didn’t buy?” In a world where the magic is seen, acknowledged, and understood, they look like the biggest idiots around. Kids watching those movies know how ridiculously frustrating those skeptics manifest as.
 
@@ -117,7 +117,7 @@ The advantage that the atheists have in the real-world over these Santa-doubting
 
 # The Mystery of Godliness
 
-In The Church of Jesus Christ of Latter-Day Saints, we have men chosen as apostles of Jesus Christ. At any given time, we typically we have 15 of them. Three in a First Presidency; akin to Peter, James, and John in the New Testament, and then 12 Apostles. One such man was J. Reuben Clark, and he offered a famous quote about truth:
+In The [[Church of Jesus Christ of Latter-Day Saints]], we have men chosen as apostles of Jesus Christ. At any given time, we typically we have 15 of them. Three in a First Presidency; akin to Peter, James, and John in the New Testament, and then 12 Apostles. One such man was [[J. Reuben Clark]], and he offered a famous quote about truth:
 
 > *“If we have the truth, it cannot be harmed by investigation. If we have not the truth, it ought to be harmed.”*
 

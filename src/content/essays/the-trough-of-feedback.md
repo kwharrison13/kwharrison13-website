@@ -43,7 +43,7 @@ One of the most common refrains about venture investing is that its a "relations
 
 If you're a lawyer, you generally know the clients you want to bag. And you either get them or you don't. Wealth management; either they're wealthy or they're not. In sales, even if they say no, you'll likely always want to sell to them. That doesn't change.
 
-**But in venture? You're not just in a relationship business. You're in a relationship business with targets that have constantly fluctuating value.** Pass on a seed today? It might be the hottest Series A next year. Annoy a Stripe operator on Twitter? They might be the next "hot" founder. Mistreat a CTO in one company? They might leave and never want to take your money when they start their own company.
+**But in venture? You're not just in a relationship business. You're in a relationship business with targets that have constantly fluctuating value.** Pass on a seed today? It might be the hottest Series A next year. Annoy a [[Stripe]] operator on [[Twitter]]? They might be the next "hot" founder. Mistreat a CTO in one company? They might leave and never want to take your money when they start their own company.
 
 As a result? **Most VCs became spineless, submissive, love-hungry puppies that will do anything for anyone's validation**. This leads to several unfortunate realities about most VCs: (1) they're skeptical of anyone who likes them, (2) they're rarely honest about when they might be wrong, and, most importantly, (3) they're usually incapable of providing valuable feedback due to a dynamic I call "The Trough of Feedback." I'll touch on the first two briefly before getting the meat of it in the third one.
 
@@ -51,7 +51,7 @@ As a result? **Most VCs became spineless, submissive, love-hungry puppies that w
 
 I've seen countless examples of VCs who are immediately skeptical if a founder demonstrates an excitement to work with them. Every time I see it, I think of the Groucho Marx story from the video above. **"I don't want to belong to any club that would accept me as a member."**
 
-Most VCs have developed a sort of Pavlovian conditioning. Like a bell means dinner, a founder who ignores you or puts you off usually correlates directly with the quality of a deal. The meaner the founder is to you, the more likely it is the company is the next Google. So what happens when a founder says, "I'd love to find a way to work with you?" A VC's reaction is immediate:
+Most VCs have developed a sort of Pavlovian conditioning. Like a bell means dinner, a founder who ignores you or puts you off usually correlates directly with the quality of a deal. The meaner the founder is to you, the more likely it is the company is the next [[Alphabet|Google]]. So what happens when a founder says, "I'd love to find a way to work with you?" A VC's reaction is immediate:
 
 ![Animated GIF related to a club that would accept me as a member?](/images/the-trough-of-feedback-76175869.gif)
 
@@ -59,7 +59,7 @@ Most VCs have developed a sort of Pavlovian conditioning. Like a bell means dinn
 
 I have neither the time, nor the psychology PhD to unpack why most VCs have such a sense of self-loathing. But my guess is it just has to do with their famous pattern recognition. The best founders running the best companies don't have to perform, so they don't give VCs much deference. So investors have learned that pattern: **the less deference they give to me, the higher quality the company probably is.**
 
-Think about it! SBF was [playing](https://x.com/stevegraham/status/1591685394042847232?s=20) League of Legends during a pitch to Sequoia, and they *[loved](https://web.archive.org/web/20221027181005/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)* it.
+Think about it! SBF was [playing](https://x.com/stevegraham/status/1591685394042847232?s=20) League of Legends during a pitch to [[Sequoia]], and they *[loved](https://web.archive.org/web/20221027181005/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)* it.
 
 The Erlich Bachman School of Negotiation.
 
@@ -97,7 +97,7 @@ The common reasons why VCs pass, and the reason the feedback is so weak, is some
 
 There are lots of common reasons and perspectives. VCs don't want to get [cancelled](https://x.com/rsg/status/1506975046341959681?s=20) for feedback that was too honest when founders talk to each other. Other VCs have tried to give feedback, but some founders get combative and it [doesn't go well](https://x.com/pitdesi/status/1283895632739131392?s=20).
 
-Most often I think about Brian Chesky's [7 Rejections](https://medium.com/@bchesky/7-rejections-7d894cbaa084) from 2008 when they were trying to raise $150K for 10% of Airbnb. "Not in our area of focus," "market opportunity doesn't seem large enough," "not an area we're currently investing in," "technical staffing (?)", "we've always struggled with travel as a category."
+Most often I think about [[Brian Chesky]]'s [7 Rejections](https://medium.com/@bchesky/7-rejections-7d894cbaa084) from 2008 when they were trying to raise $150K for 10% of Airbnb. "Not in our area of focus," "market opportunity doesn't seem large enough," "not an area we're currently investing in," "technical staffing (?)", "we've always struggled with travel as a category."
 
 The reality is I could make a bull argument, or a bear argument for just about any company at any stage. Most VCs could. It's not a question of what is true or not, it's what are you willing to believe? [I've written about this before](https://investing1012dot0.substack.com/p/the-storytelling-of-investing):
 

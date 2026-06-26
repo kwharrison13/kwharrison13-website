@@ -19,7 +19,7 @@ substack_url: "https://investing101.substack.com/p/a-fungible-worldview"
 
 [I've written before](https://investing101.substack.com/p/crafting-your-average) about the fact that you can only think about one thing at a time. No matter how fast you try and run, no matter how much content you try and consume, no matter how much capital you seek to deploy — all of it can only happen one thought at a time.
 
-Sometimes those individual choices can feel so fleeting that they may not even matter. What's one more YouTube video? What's one more doughnut? What's one more angry blowup at my partner? What's one more flyer investment in a founder riddled in red flags that may or may not work out?
+Sometimes those individual choices can feel so fleeting that they may not even matter. What's one more [[YouTube]] video? What's one more doughnut? What's one more angry blowup at my partner? What's one more flyer investment in a founder riddled in red flags that may or may not work out?
 
 But as I said last time I [wrote](https://investing101.substack.com/p/crafting-your-average) about this idea: **"You, as a person, are the sum total of all the things you do, think, hear, write, and say."**
 
@@ -51,7 +51,7 @@ Roy also defends Cluely [saying](https://x.com/im_roy_lee/status/193626721867495
 
 The attention currency is only worth something if you can spend it, and Cluely's attention engine seems to be minting something that is spendable. Roy has [said](https://x.com/MollySOShea/status/1936153450284564507) they've closed consumer and enterprise revenue as a result of the controversial hype machine:
 
-> *"The only reason that I have the contracts that I do right now is because the decision makers at these enterprise companies have seen my Twitter and think I'm funny. I would never have these contracts is I was just some lame, posting about this random transluscent glass screen overlay. If that's all Cluely was, just AI sales calls, I wouldn't have these contracts. **I have these contracts because I'm willing to take the risk be polarizing and some people support me**."*
+> *"The only reason that I have the contracts that I do right now is because the decision makers at these enterprise companies have seen my [[Twitter]] and think I'm funny. I would never have these contracts is I was just some lame, posting about this random transluscent glass screen overlay. If that's all Cluely was, just AI sales calls, I wouldn't have these contracts. **I have these contracts because I'm willing to take the risk be polarizing and some people support me**."*
 
 And Cluely's investors stand by that strategy. Bryan Kim, who led a16z's Series A in Cluely, [said](https://x.com/tbpn/status/1936197679987761510) on TBPN that "a lot of people think it's just hype, just stunts. But the truth is that he's actually converting that into revenue." And if you're surprised by that, then you haven't been paying attention to the evolution of a16z.
 
@@ -61,25 +61,25 @@ My most popular pieces have been writing about the "[Blackstone of Innovation](h
 
 ## Scale & Velocity
 
-a16z is the first corporate venture fund, not in the sense that its sponsored by a corporation, like Intel Capital or PayPal Ventures, but in that the venture fund IS a corporation. The firm is managing *at least* [$56 billion](https://capitalaum.com/venture-capital/andreessenhorowitz-menlopark-ca.htm) across a half dozen different strategies, and has over 500 employees. If that's not a corporation, I don't know what qualifies.
+a16z is the first corporate venture fund, not in the sense that its sponsored by a corporation, like [[Intel]] Capital or [[PayPal]] Ventures, but in that the venture fund IS a corporation. The firm is managing *at least* [$56 billion](https://capitalaum.com/venture-capital/andreessenhorowitz-menlopark-ca.htm) across a half dozen different strategies, and has over 500 employees. If that's not a corporation, I don't know what qualifies.
 
 I've also written extensively about how these types of firms are not in the business of "venture scale returns." That doesn't mean they don't want to make money or bet on big companies. But it means that their business model doesn't require them to put up 10x funds or 20% IRR. [The Unholy Trinity of Venture Capital](https://investing101.substack.com/p/the-unholy-trinity-of-venture-capital) is the best piece I've written on why thats the case.
 
-But suffice it to say, a16z is the epitome of venture capital's new ethos of scale and velocity. They want bigger funds, more people, more investments, and they HAVE to be in the winner. Which means that they'll [gladly back](https://investing101.substack.com/p/the-horse-the-jockey-or-the-whole) multiple companies in the same space. Take foundation model companies as an example. They're in, at least, five, [investing in](https://x.com/kwharrison13/status/1911938090786234475) OpenAI, xAI, Thinking Machines, Mistral, and SSI.
+But suffice it to say, a16z is the epitome of venture capital's new ethos of scale and velocity. They want bigger funds, more people, more investments, and they HAVE to be in the winner. Which means that they'll [gladly back](https://investing101.substack.com/p/the-horse-the-jockey-or-the-whole) multiple companies in the same space. Take foundation model companies as an example. They're in, at least, five, [investing in](https://x.com/kwharrison13/status/1911938090786234475) [[OpenAI]], xAI, Thinking Machines, Mistral, and SSI.
 
 I've written before about how this pursuit of scale and velocity can lead to what I described above: a fungible worldview.
 
-In a piece I wrote in August 2022 called [The Rise of The Cash Man](https://investing101.substack.com/p/the-rise-of-the-cash-man) I talked about how a16z wrote its single largest check at the time into Adam Neumann's new company, Flow.
+In a piece I wrote in August 2022 called [The Rise of The Cash Man](https://investing101.substack.com/p/the-rise-of-the-cash-man) I talked about how a16z wrote its single largest check at the time into [[Adam Neumann]]'s new company, Flow.
 
 a16z went through a dizzying philosophical journey.
 
-In April 2020, Marc Andreessen [declared](https://a16z.com/its-time-to-build/) "it's time to build," touching on, among other things, our inability to build adequate housing. But at the same time, Andreessen was [pushing](https://www.bloomberg.com/news/articles/2022-08-05/vc-marc-andreessen-opposes-plan-for-multi-family-atherton-housing) to stop new housing developments in his own town. Then, a16z's investment in Flow [described](https://a16z.com/announcement/investing-in-flow/) the company as a "direct strike" on the housing market. The [strike](https://investing101.substack.com/p/the-rise-of-the-cash-man)? Saltwater pools and dog valets.
+In April 2020, [[Marc Andreessen]] [declared](https://a16z.com/its-time-to-build/) "it's time to build," touching on, among other things, our inability to build adequate housing. But at the same time, Andreessen was [pushing](https://www.bloomberg.com/news/articles/2022-08-05/vc-marc-andreessen-opposes-plan-for-multi-family-atherton-housing) to stop new housing developments in his own town. Then, a16z's investment in Flow [described](https://a16z.com/announcement/investing-in-flow/) the company as a "direct strike" on the housing market. The [strike](https://investing101.substack.com/p/the-rise-of-the-cash-man)? Saltwater pools and dog valets.
 
 So we need to build. But not here. But the housing crisis needs to be solved. For rich people with saltwater pools.
 
 On top of that, Flow has demonstrated one thread of a clear tie to a need, both for capital intensive businesses like Flow (buying up luxury rental properties) and a16z (raising $5B+ every few years) to connect themselves to the largest pools of capital.
 
-In June 2025, a16z [doubled down](https://a16z.com/announcement/flow/) on Flow, saying the "momentum has allowed Flow to reach beyond the United States... [launching] operations in Saudi Arabia." Right in line with a16z's and Adam Neumann's very [public courtship](https://techcrunch.com/2023/04/01/andreessen-horowitz-is-now-openly-courting-capital-from-saudi-arabia-despite-u-s-strains/) of Saudi money. Meanwhile, a16z's American Dynamism practice typically emphasizes the need for the US to "[fortify](https://a16z.com/american-dynamism-50-2025/?utm_source=chatgpt.com)" itself against influence.
+In June 2025, a16z [doubled down](https://a16z.com/announcement/flow/) on Flow, saying the "momentum has allowed Flow to reach beyond the United States... [launching] operations in Saudi Arabia." Right in line with a16z's and Adam Neumann's very [public courtship](https://techcrunch.com/2023/04/01/andreessen-horowitz-is-now-openly-courting-capital-from-saudi-arabia-despite-u-s-strains/) of Saudi money. Meanwhile, a16z's [[American Dynamism]] practice typically emphasizes the need for the US to "[fortify](https://a16z.com/american-dynamism-50-2025/?utm_source=chatgpt.com)" itself against influence.
 
 So how does a16z, as a firm, think about the housing crisis? Or taking Saudi oil money? Unclear. But what is clear? Scale. And velocity.
 
@@ -115,11 +115,11 @@ So how can someone who espouses such an inspiring and almost pure worldview, lik
 
 # The Means & The End
 
-I had previously only tangentially heard about what Cluely does / is doing, and had found it distasteful and annoying. Digging into the details to write this piece, I will admit that I understand the strategy. This idea of leveraging a "[stunt marketing](https://youtu.be/yesds-SQmkM?t=1281)" machine to generate attention currency and then convert that into revenue? It makes sense. In a world increasingly driven by social media, hype, and attention, distribution is a difficult nut to crack.
+I had previously only tangentially heard about what Cluely does / is doing, and had found it distasteful and annoying. Digging into the details to write this piece, I will admit that I understand the strategy. This idea of leveraging a "[stunt marketing](https://youtu.be/yesds-SQmkM?t=1281)" machine to generate attention currency and then convert that into revenue? It makes sense. In a world increasingly driven by [[Social Media|social media]], hype, and attention, distribution is a difficult nut to crack.
 
 Despite understanding the strategy, though, I take my ultimate issue with the self-described worldview that Roy Lee seems to take in how he's building Cluely.
 
-In an [interview](https://www.youtube.com/watch?v=yesds-SQmkM&t=1834s) with Molly O'Shea on Sourcery, Roy and Molly have this interesting back and forth starting with a conversation about Elon Musk. As Roy explains:
+In an [interview](https://www.youtube.com/watch?v=yesds-SQmkM&t=1834s) with Molly O'Shea on Sourcery, Roy and Molly have this interesting back and forth starting with a conversation about [[Elon Musk]]. As Roy explains:
 
 > *"Elon Musk is the most controversial person in the world, and he's a founder that everyone looks up to. He's undeniably made it. When you become big enough, you become untouchable and the risk of controversy becomes as close to zero as it gets. Elon can say whatever the f\*ck he wants."*
 
@@ -145,7 +145,7 @@ Roy’s approach to using controversy to sell software reminds me of Mr. Beast u
 
 Controversy is, indeed, a marketing tactic. But inviting controversy only works long-term if you're **also right**. As Roy admits himself:
 
-> *"Every single great person in the world has had a point in their lives where they face extreme controversy. When you fail, you become SBF. When you win, you become Elon Musk and Sam Altman. At the end of the line, the person with the most attention has 50% of people rooting against them and 50% of people rooting for them. **The only thing is if you can hit escape velocity before pissing off too many people**."*
+> *"Every single great person in the world has had a point in their lives where they face extreme controversy. When you fail, you become SBF. When you win, you become Elon Musk and [[Sam Altman]]. At the end of the line, the person with the most attention has 50% of people rooting against them and 50% of people rooting for them. **The only thing is if you can hit escape velocity before pissing off too many people**."*
 
 Controversy, in itself, is rarely a viable long-term strategy. Unless, maybe, you’re Martin Shkreli.
 

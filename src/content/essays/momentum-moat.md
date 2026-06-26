@@ -19,7 +19,7 @@ substack_url: "https://investing101.substack.com/p/momentum-moat"
 
 ---
 
-Over the last few years I’ve written several times about competitive moats. From whether Elon Musk [thinks they matter](https://investing101.substack.com/p/revisiting-competitive-moats?utm_source=publication-search) to whether [cash can be a moat](https://investing101.substack.com/p/cashkingmaker-or-killer?utm_source=publication-search) to whether moats can be [manufactured rather than earned](https://investing101.substack.com/p/king-making-vs-taste-making?utm_source=publication-search). This past week, Bryan Kim, a partner at a16z, [tweeted](https://x.com/kirbyman01/status/1978459011629592886) a very specific claim:
+Over the last few years I’ve written several times about competitive moats. From whether [[Elon Musk]] [thinks they matter](https://investing101.substack.com/p/revisiting-competitive-moats?utm_source=publication-search) to whether [cash can be a moat](https://investing101.substack.com/p/cashkingmaker-or-killer?utm_source=publication-search) to whether moats can be [manufactured rather than earned](https://investing101.substack.com/p/king-making-vs-taste-making?utm_source=publication-search). This past week, Bryan Kim, a partner at a16z, [tweeted](https://x.com/kirbyman01/status/1978459011629592886) a very specific claim:
 
 > *“$2M ARR in three months used to be impressive. Now we expect it within ten days. **Right now, momentum is the only moat**.”*
 
@@ -47,13 +47,13 @@ The [louder these types of firms get](https://investing101.substack.com/p/the-lo
 
 # Competition Is For Suckers
 
-**The deeper irony about the “momentum is the only moat” is that momentum is actually an anti-moat.** Packy McCormick made this point well:
+**The deeper irony about the “momentum is the only moat” is that momentum is actually an anti-moat.** [[Packy McCormick]] made this point well:
 
 ![Source:Twitter](/images/momentum-moat-abdb4957.png)
 
-This hearkens back to the [wisdom of Zero to One](https://www.goodreads.com/work/quotes/25332940-zero-to-one-notes-on-start-ups-or-how-to-build-the-future) where Peter Thiel says competition is for suckers.
+This hearkens back to the [wisdom of Zero to One](https://www.goodreads.com/work/quotes/25332940-zero-to-one-notes-on-start-ups-or-how-to-build-the-future) where [[Peter Thiel]] says competition is for suckers.
 
-> *“Tolstoy opens Anna Karenina by observing: “All happy families are alike; each unhappy family is unhappy in its own way.” Business is the opposite. **All happy companies are different: each one earns a monopoly by solving a unique problem. All failed companies are the same: they failed to escape competition**.”*
+> *“[[Leo Tolstoy|Tolstoy]] opens Anna Karenina by observing: “All happy families are alike; each unhappy family is unhappy in its own way.” Business is the opposite. **All happy companies are different: each one earns a monopoly by solving a unique problem. All failed companies are the same: they failed to escape competition**.”*
 
 Like every other investor, I hear pitches every week of companies that have gotten to a couple million of ARR in shorter and shorter time frames. For every story like this, it attracts a massive influx of copy cats. And people can point to enough examples where a company wasn’t the first to do something, so if so-and-so and can grow so big so quickly, what’s the stop me from fast following and getting there to?
 
@@ -67,7 +67,7 @@ Take code gen for example. Where you have Cursor hitting $1B of ARR, you also ha
 
 As one person [pointed out](https://x.com/petkevichdan/status/1978657623575498834) to Bryan’s original “momentum is the only moat” post, anything that can go from $0 to $2M in 10 days can just as quickly go back down to zero. The same is true of a LOT of the revenue in hyped categories.
 
-Take OpenSeas as an example. In 2021, at its peak, OpenSea was doing $122M of revenue *per month*! The company raised at a [$13.3B valuation](https://www.panewslab.com/en/articles/4d03c3oo) of that momentum. Then? The market cratered and OpenSea hasn’t recovered to peak hype levels.
+Take OpenSeas as an example. In 2021, at its peak, [[OpenSea]] was doing $122M of revenue *per month*! The company raised at a [$13.3B valuation](https://www.panewslab.com/en/articles/4d03c3oo) of that momentum. Then? The market cratered and OpenSea hasn’t recovered to peak hype levels.
 
 ![Source:Dune](/images/momentum-moat-e65ee396.png)
 
@@ -75,13 +75,13 @@ Does that mean OpenSea is a bad business? Not necessarily. OpenSea is, supposedl
 
 Today likely has many of the same cases. Companies that are seeing massively inflated revenue. Annualizing revenue that, based on the quality, has no business being annualized. Counting free trials as not just revenue, but then annualizing that revenue. Pricing that revenue at such a point that it only explodes because the company is selling $2 for $1.
 
-As an investor investing into that “momentum,” you’re paying up by putting a multiple on revenue that is very unlikely to materialize in the long-term. The burnout we’re likely to see among a number of investors who try and play this game will be because, as Yoni Rechtman at Slow Ventures [puts it](https://99d.substack.com/p/but-ai-companies-grow-so-fast?r=kh7v&utm_medium=ios&triedRedirect=true), “this is a marathon AND a sprint.” Momentum investors are, too often, only focused on the sprint.
+As an investor investing into that “momentum,” you’re paying up by putting a multiple on revenue that is very unlikely to materialize in the long-term. The burnout we’re likely to see among a number of investors who try and play this game will be because, as Yoni Rechtman at [[Slow Ventures]] [puts it](https://99d.substack.com/p/but-ai-companies-grow-so-fast?r=kh7v&utm_medium=ios&triedRedirect=true), “this is a marathon AND a sprint.” Momentum investors are, too often, only focused on the sprint.
 
 # Momentum != Speed of Innovation
 
 While Elon Musk pointed out that moats may not matter and that, instead, what matters is the pace of innovation, people will often incorrectly correlate that to “traction.” Alex Immerman, another a16z partner, corrected Bryan and [said](https://x.com/aleximm/status/1979293661138686427) that “momentum isn’t the moat; it’s the boat.”
 
-> *“**It is what gets you to the island where you can build a fortress. At the earliest stages (where BK invests), there are no moats. Momentum earns you the ability to build moats**. The classics have not changed in the ChatGPT era. Switching costs, network effects, economies of scale, brand, and proprietary data were sources of defensibility before and they remain so now. Models are more available, product components are cheaper, and the pace is faster—but the physics of defensibility are the same.”*
+> *“**It is what gets you to the island where you can build a fortress. At the earliest stages (where BK invests), there are no moats. Momentum earns you the ability to build moats**. The classics have not changed in the [[ChatGPT]] era. Switching costs, network effects, economies of scale, brand, and proprietary data were sources of defensibility before and they remain so now. Models are more available, product components are cheaper, and the pace is faster—but the physics of defensibility are the same.”*
 
 What Musk is describing as “pace of innovation” is less about the numbers you’re putting up and more about the cycle of innovation you’re enabling. There are people who are building sub-par engines on top of unsustainable models and are experiencing high-volume outputs from that (e.g. ARR growth). But that doesn’t automatically correlate to an engine capable of high speed innovation. Higher quality products, step-function improvements in capability, teams capable of routing out inefficiencies, etc.
 

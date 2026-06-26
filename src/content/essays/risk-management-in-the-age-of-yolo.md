@@ -37,13 +37,13 @@ In the world of investing, there is a lot of talk about risk. In the last few ye
 
 When it comes to building and investing in startups, it seems that success can largely come from two ridiculously complex buckets: (1) risk management, and (2) luck.
 
-There's a whole other post that could be written about luck. First? Your mental health depends on your accepting that luck is often maniacally random, and unfair. Second? There is a wealth of literature around [the concept](https://instituteforgiving.org/2015/02/25/luck-favors-the-prepared-mind/#:~:text=As%20Louis%20Pasteur%20said%2C%20%E2%80%9CLuck,create%20positive%20and%20optimistic%20thoughts.) from Louis Pasteur that "luck favors the prepared mind.”
+There's a whole other post that could be written about luck. First? Your mental health depends on your accepting that luck is often maniacally random, and unfair. Second? There is a wealth of literature around [the concept](https://instituteforgiving.org/2015/02/25/luck-favors-the-prepared-mind/#:~:text=As%20Louis%20Pasteur%20said%2C%20%E2%80%9CLuck,create%20positive%20and%20optimistic%20thoughts.) from [[Louis Pasteur]] that "luck favors the prepared mind.”
 
 But in my mind, risk management is separate from those things. Here's the best, most quintessential answer to the question, "what product do founders want to buy from investors?"
 
 In other words? Reduced risk.
 
-Building a company is a massive multivariable calculation of risk-adjusted outcomes. Think about all the checklists you've ever seen where investors tick through the aspects they look for in a potential investment. Marc Andreessen [calls this the "onion theory of risk](https://knowen-production.s3.amazonaws.com/uploads/attachment/file/2771/pmarca-blog-ebook.pdf)”. Each aspect of a business is another layer:
+Building a company is a massive multivariable calculation of risk-adjusted outcomes. Think about all the checklists you've ever seen where investors tick through the aspects they look for in a potential investment. [[Marc Andreessen]] [calls this the "onion theory of risk](https://knowen-production.s3.amazonaws.com/uploads/attachment/file/2771/pmarca-blog-ebook.pdf)”. Each aspect of a business is another layer:
 
 - **Founder Risk**: Does the startup have the right founding team? A great technologist, plus someone who can run the company? Is the technologist really all that? Is the business person capable of running the company?
 - **Market Risk**: Is there a market for the product (using the term product and service interchangeably)? Will anyone want it? Will they pay for it? How much will they pay? How do we know?
@@ -72,9 +72,9 @@ But the reality is, when you step back to survey the big picture you see that th
 
 “Staying in the game is more important than winning a single hand.”
 
-In investing, you'll have ups, and you'll have downs. But the only thing that matters is not getting knocked out of the game. No one doubts Warren Buffett is an exceptional investor; but a huge chunk of his success can be attributed to simply how long he’s been playing the game. [90% of his wealth](https://www.barrons.com/articles/warren-buffett-has-amassed-over-90-of-his-wealth-since-he-turned-65-51648738715) was created after he turned 65. The movie Wall Street [puts it this way](https://twitter.com/NeckarValue/status/1497230176530440202?s=20): "Remember there are no shortcuts, son. Quick buck artists come and go with every bull market. The steady players make it through the bear."
+In investing, you'll have ups, and you'll have downs. But the only thing that matters is not getting knocked out of the game. No one doubts [[Warren Buffett]] is an exceptional investor; but a huge chunk of his success can be attributed to simply how long he’s been playing the game. [90% of his wealth](https://www.barrons.com/articles/warren-buffett-has-amassed-over-90-of-his-wealth-since-he-turned-65-51648738715) was created after he turned 65. The movie Wall Street [puts it this way](https://twitter.com/NeckarValue/status/1497230176530440202?s=20): "Remember there are no shortcuts, son. Quick buck artists come and go with every bull market. The steady players make it through the bear."
 
-When you look at some of the best investors, there are countless examples of this mentality. Howard Marks [quoted](https://twitter.com/lhamtil/status/1057782515631558661?s=20) Julian Robertson in his 1997 letter about the mentality of longevity:
+When you look at some of the best investors, there are countless examples of this mentality. [[Howard Marks]] [quoted](https://twitter.com/lhamtil/status/1057782515631558661?s=20) Julian Robertson in his 1997 letter about the mentality of longevity:
 
 > *"[Julian] Robertson compares today's fund managers to the Phoenician sea captains of thousands of years ago who were paid a percentage of the value of the goods they transported and thus **were incentivized to design boats which emphasized speed over safety**. This worked as long as the weather was good, but the storms that eventually came consigned the less safe ships to the bottom of the sea. He goes on as follows:   
 >   
@@ -116,7 +116,7 @@ Jamin Ball had a great summary intro to probability a few months ago [when he ta
 
 > *"**Tail risk describes the potential of a rare event, as predicted by a probability distribution** (mathematically this is generally a move of 3 standard deviations outside the mean). If the graph above represents a distribution curve of outcomes, you can think of tail risk as the red shaded area. In “normal” times tail risk is quite low. This is the blue distribution line. You can barely see the red shaded area under the curve. **However, currently the distribution of outcomes is the orange line, which makes the possibility of tail risk much higher**. Right now, I think the market is saying 'the potential for a really bad outcome is quite high.'"*
 
-Another interesting story to illustrate probability comes from the field of behavioral economics, and thinkers like Richard Thaler, Amos Tversky, and Daniel Kahneman. In one example of the implications of probabilistic thinking, some economists have attempted to [value a human life](https://www.nber.org/system/files/chapters/c3964/c3964.pdf). One illustration of this principle comes from [the example](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=4079&context=sclr) of the window washer:
+Another interesting story to illustrate probability comes from the field of behavioral economics, and thinkers like Richard Thaler, Amos Tversky, and [[Daniel Kahneman]]. In one example of the implications of probabilistic thinking, some economists have attempted to [value a human life](https://www.nber.org/system/files/chapters/c3964/c3964.pdf). One illustration of this principle comes from [the example](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=4079&context=sclr) of the window washer:
 
 > *"Assume that a window washer demands $500 in additional compensation to move from washing windows on the first floor to washing windows on the twentieth floor of a skyscraper. **Assuming that the additional nineteen-story suspension increases the window washer's probability of death from one in 10,000 to two in 10,000, economists assert that the window washer values her life at $5 million**."*
 
@@ -130,7 +130,7 @@ I had a conversation recently with a founder who is in the earliest days of his 
 
 If I were to rephrase his question, he's effectively asking "which of those do you believe in more?" But the reality is, when it comes to the majority of company building, the only thing that really matters *is what the founder believes*. I've written before about [the role storytelling plays in investing](https://investing1012dot0.substack.com/p/the-storytelling-of-investing), and it's a critical piece. For investors their investments represent their beliefs. For founders, their beliefs are reflected in their companies. Maybe when you're evaluating your "financing risk," then the storytelling of the investor matters as well.
 
-Belief is what drives you forward. Narrative can move mountains. But a line from the movie, [A Few Good Men](https://en.wikipedia.org/wiki/A_Few_Good_Men), comes to mind: "It doesn't matter what I believe. It only matters what I can prove." In other words? Everyone has a story, until they get punched in the face by reality.
+Belief is what drives you forward. Narrative can move mountains. But a line from the movie, [A Few Good Men](https://en.wikipedia.org/wiki/A_Few_Good_Men), comes to mind: "It doesn't matter what I believe. It only matters what I can prove." In other words? [[Everyone Has a Story|Everyone has a story]], until they get punched in the face by reality.
 
 My answer to that founder's question was: “that's why they call this a game. That's why they talk about placing bets. You have to decide what you believe. How strongly do you believe it? And how much are you willing to bet on it?”
 

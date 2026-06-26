@@ -32,7 +32,7 @@ related:
 
 ## Connections
 
-- Royal Skousen — author / editor of the critical edition
+- [Royal Skousen](/notes/royal-skousen) — author / editor of the critical edition
 - [The Book of Mormon](/books/the-book-of-mormon) — the text it reconstructs
 - [Future Mormon](/books/future-mormon) — where Kyle saw it cited
 - [Adam S. Miller](/notes/adam-s-miller) — cited Skousen's edition

@@ -31,7 +31,7 @@ Audrey II, the aforementioned sentient murder plant, has a driving refrain throu
 
 Venture capital is no exception. Every engine needs fuel. Every process has inputs and outputs. But eventually, when incentives align, you start to see a hunger that is dangerously self-reinforcing.
 
-Capital owners will rationally seek to multiply their wealth. But too often they hunger for risk. Capital allocators should pursue great investments. But too often they hunger for a way to deploy capital quickly. Startups want fuel to grow their businesses. But too often they hunger for cash as a status symbol or for their own quick enrichment.
+Capital owners will rationally seek to multiply their wealth. But too often they hunger for risk. Capital allocators should pursue great investments. But too often they hunger for a way to deploy capital quickly. [[Startups]] want fuel to grow their businesses. But too often they hunger for cash as a status symbol or for their own quick enrichment.
 
 Together these perverse appetites form their own sort of sentient murder plant. Maybe we can call it Audrey VC.
 
@@ -41,7 +41,7 @@ Together these perverse appetites form their own sort of sentient murder plant. 
 
 **Venture capital enables the perpetuation of unsustainable models in favor of eventual scale**. This isn’t necessarily a bad thing. The runway to experiment has been critical for any number of businesses.
 
-Apple, Google, Facebook, Amazon, Salesforce, and so many others are companies that operated unsustainably for a while with the help of funding, in order to reach scale and become cash generating machines, with billions in annual cash flows today.
+[[Apple]], [[Alphabet|Google]], [[Facebook]], [[Amazon]], [[Salesforce]], and so many others are companies that operated unsustainably for a while with the help of funding, in order to reach scale and become cash generating machines, with billions in annual cash flows today.
 
 ![Framework diagram for the first generation of vc subsidies](/images/vc-contagion-d7307055.png)
 
@@ -53,9 +53,9 @@ But any good thing taken to excess can become problematic. The same is true with
 
 ## **Uber, But For Taxis**
 
-[In that same post on cash burn](https://investing1012dot0.substack.com/p/cashkingmaker-or-killer), I talked a lot about Uber and Lyft. When you look at Uber ($78B market cap, $31B in 2022 revenue) vs. Lyft ($3B market cap, $4B in 2022 revenue) you see a clear argument for burning hard to dominate a market. But Uber isn’t necessarily out of the woods yet.
+[In that same post on cash burn](https://investing1012dot0.substack.com/p/cashkingmaker-or-killer), I talked a lot about [[Uber]] and [[Lyft]]. When you look at Uber ($78B market cap, $31B in 2022 revenue) vs. Lyft ($3B market cap, $4B in 2022 revenue) you see a clear argument for burning hard to dominate a market. But Uber isn’t necessarily out of the woods yet.
 
-Over the course of just the last six years since Uber went public, it has lost [$30B+](https://slate.com/business/2022/05/uber-subsidy-lyft-cheap-rides.html) in market cap. In one company [memo](https://www.cnbc.com/2022/05/09/uber-to-cut-down-on-costs-treat-hiring-as-a-privilege-ceo-email.html) last year, Uber's CEO, Dara Khosrowshahi, made what feels like a stunning call-to-action for a 10+ year old business:
+Over the course of just the last six years since Uber went public, it has lost [$30B+](https://slate.com/business/2022/05/uber-subsidy-lyft-cheap-rides.html) in market cap. In one company [memo](https://www.cnbc.com/2022/05/09/uber-to-cut-down-on-costs-treat-hiring-as-a-privilege-ceo-email.html) last year, Uber's CEO, [[Dara Khosrowshahi]], made what feels like a stunning call-to-action for a 10+ year old business:
 
 > *“This next period will be different, and it will require a different approach… **We have to make sure our unit economics work before we go big**.”*
 
@@ -83,13 +83,13 @@ Granted, Airbnb has done a fair bit better job than Uber taking that subsidized 
 
 ## **Netflix: What's Old Is New**
 
-Finally, we have Netflix. Older than Uber or Airbnb (founded in 1997, compared to the other two in 2009 and 2008 respectively.) When the company [started streaming](https://www.makeuseof.com/how-when-netflix-start-brief-company-history/) in 2007, one of the main ideas was to provide subscription-based access to entire seasons all at once, effectively inventing the term [binge-watching](https://www.viaccess-orca.com/blog/binge-watching-changed-way-watch-produce-television).
+Finally, we have [[Netflix]]. Older than Uber or Airbnb (founded in 1997, compared to the other two in 2009 and 2008 respectively.) When the company [started streaming](https://www.makeuseof.com/how-when-netflix-start-brief-company-history/) in 2007, one of the main ideas was to provide subscription-based access to entire seasons all at once, effectively inventing the term [binge-watching](https://www.viaccess-orca.com/blog/binge-watching-changed-way-watch-produce-television).
 
 ![Illustration for Netflix: What's Old Is New section](/images/vc-contagion-bcff37f5.png)
 
 From 2015 to 2019, Netflix was spending dramatically on their vision of building an entertainment empire, burning [$9B+](https://app.koyfin.com/fa/00000000-1c82-4912-88c6-8689b285ac75/eq-k0d1vn) in cash. In 2021 alone, the company spent [$17B+](https://www.statista.com/statistics/964789/netflix-content-spend-worldwide/#:~:text=The%20content%20spending%20of%20Netflix,billion%20U.S.%20dollars%20on%20content.) on content, racking up ~$27B of debt in the process.
 
-In 2022, the bill came due to some extent. Netflix saw increased competition from rivals like Prime Video, HBO, Disney+, and a slew of up-and-comers like Apple TV, Peacock, and AL’s Toy Barn and Streaming Service (I assume). In April 2022, Netflix [lost](https://www.wsj.com/articles/netflix-hits-its-ceiling-11650407847?mod=article_inline) subscribers for the first time in over a decade. The result was billions in market cap wiped out.
+In 2022, the bill came due to some extent. Netflix saw increased competition from rivals like Prime Video, HBO, [[Disney|Disney+]], and a slew of up-and-comers like Apple TV, Peacock, and AL’s Toy Barn and Streaming Service (I assume). In April 2022, Netflix [lost](https://www.wsj.com/articles/netflix-hits-its-ceiling-11650407847?mod=article_inline) subscribers for the first time in over a decade. The result was billions in market cap wiped out.
 
 Reed Hasting’s [response](https://www.wsj.com/articles/netflix-facing-reality-check-subscriber-loss-stock-plummet-cut-costs-vows-to-curb-its-profligate-ways-11650547424)?
 
@@ -99,7 +99,7 @@ It sure is.
 
 In a return to old-school business models, Netflix is now exploring an [ad-based version](https://www.wsj.com/articles/netflix-earnings-q1-2022-11650325682?mod=article_inline) of the product to drive revenue, [releasing](https://www.cnet.com/culture/entertainment/netflix-is-trying-no-binge-release-schedules-for-shows-its-about-time/) episodes episodically rather than all at once to keep subscribers coming back, and [cracking down](https://www.theverge.com/2023/5/23/23734725/netflix-password-sharing-us-pricing-streaming) on account sharing.
 
-There's a famous [quote](https://quoteinvestigator.com/2011/08/09/remain-solvent/), sometimes [attributed](https://businessjournaldaily.com/markets-can-stay-irrational-the-investors-edge/) to John Maynard Keynes, about the market’s stubbornness in acting the way you want it to:
+There's a famous [quote](https://quoteinvestigator.com/2011/08/09/remain-solvent/), sometimes [attributed](https://businessjournaldaily.com/markets-can-stay-irrational-the-investors-edge/) to [[John Maynard Keynes]], about the market’s stubbornness in acting the way you want it to:
 
 > *“The market can remain irrational longer than you can remain solvent.”*
 
@@ -115,7 +115,7 @@ It is a reality that the vast majority of funded companies start their lives as 
 
 ![Framework diagram for the unavoidable weight of business gravity](/images/vc-contagion-4d9b53cc.png)
 
-**When the inevitable weight of business gravity smashes into the face of an unsuspecting subsidy darling, it can get ugly.** That is happening more and more as the subsidy subsides, the cash funnel shuts off, and companies have their lack of sustainability exposed. In the [words](https://fortune.com/2022/10/03/warren-buffett-famous-quotes-swimming-naked-interest-rates-debt-zombies/) of **Warren Buffett**, “only when the tide goes out do you learn who has been swimming naked.”
+**When the inevitable weight of business gravity smashes into the face of an unsuspecting subsidy darling, it can get ugly.** That is happening more and more as the subsidy subsides, the cash funnel shuts off, and companies have their lack of sustainability exposed. In the [words](https://fortune.com/2022/10/03/warren-buffett-famous-quotes-swimming-naked-interest-rates-debt-zombies/) of **[[Warren Buffett]]**, “only when the tide goes out do you learn who has been swimming naked.”
 
 As the amount of venture capital exploded from [$23B](https://www.statista.com/statistics/280260/venture-capital-fund-raising-by-holding-companies-in-the-usa/) in 2012 to [$345B](https://www.statista.com/statistics/277501/venture-capital-amount-invested-in-the-united-states-since-1995/) in 2021, the appetite for funding unsustainable growth only increased. The [business model of venture](https://investing1012dot0.substack.com/p/the-blackstone-of-innovation) is increasingly about aggregating as much AUM as possible. As a result, that sends VCs out looking for cash-hungry startups that want to consume ever more capital.
 
@@ -133,7 +133,7 @@ This idea that a near majority of venture dollars are going towards ads has beco
 
 Lee has some [solid math later in his thread](https://twitter.com/terronk/status/1436222621054504994?s=20) that if 40% of VC money were going to ads, then startups would account for 25% of Google and Facebook's revenue, which can’t be right. I agree with him. I don’t think startups are relying on extraordinary ad spend for pop up ads.
 
-But the reality is that sales and marketing are some of the most significant portions of spend for the majority of companies. In Lee’s thread, he makes this argument about Snowflake’s S&M budget:
+But the reality is that sales and marketing are some of the most significant portions of spend for the majority of companies. In Lee’s thread, he makes this argument about [[Snowflake ($SNOW)|Snowflake]]’s S&M budget:
 
 ![Source:Twitter](/images/vc-contagion-5d1c5d63.png)
 
@@ -155,7 +155,7 @@ The world has become incredibly noisy. While 40% of all VC dollars going to Face
 
 The phrase “[turtles all the way down](https://en.wikipedia.org/wiki/Turtles_all_the_way_down)” is such a [weird phrase](https://twitter.com/kwharrison13/status/1661370187222851585?s=20) that I end up using more than I would expect. Just picture a turtle laying on a slightly larger turtle, laying on a slightly larger turtle into infinity. Got it? Good. Moving on.
 
-A few people have pointed out this potential for “VC contagion” that exists in a GTM ecosystem of startups selling to each other. *Newcomer* [first reported](https://www.newcomer.co/p/is-palantir-buying-revenue) that Palantir was effectively buying revenue by pairing SPAC pipe investments with contracts for its services. Byrne Hobart [called](https://www.thediff.co/archive/on-betting-against-the-hong-kong/) it “roundtripping.” The argument goes that Palantir was sending money out, so that it could come back in, and they could book it as revenue.
+A few people have pointed out this potential for “VC contagion” that exists in a GTM ecosystem of startups selling to each other. *Newcomer* [first reported](https://www.newcomer.co/p/is-palantir-buying-revenue) that [[Palantir]] was effectively buying revenue by pairing SPAC pipe investments with contracts for its services. [[Byrne Hobart]] [called](https://www.thediff.co/archive/on-betting-against-the-hong-kong/) it “roundtripping.” The argument goes that Palantir was sending money out, so that it could come back in, and they could book it as revenue.
 
 Unfortunately, the SPACs Palantir invested in have declined in value by [~80%](https://www.bloomberg.com/opinion/articles/2022-11-29/palantir-failed-to-spot-pattern-in-spac-debacle?ref=thediff.co&leadSource=uverify%20wall) on average. So there’s a lot less revenue to come back to you from your investments if a number of those investments go out of business. This type of strategy isn’t limited to Palantir’s SPAC investments.
 
@@ -163,7 +163,7 @@ Moses Sternstein [explained](https://www.therandomwalk.co/p/a-self-licking-ice-c
 
 > *“If my startup revenue (which I used to raise lots of VC dollars) is just your VC dollars (which you raised based on revenue that is, in fact, some other startup’s VC dollars, etc.), **then it’s VC dollars all the way down.** Different startups trading VC dollars with each other (and then calling it “revenue”) is no path to $100M in revenue.”*
 
-One of the most common examples of this kind of behavior has been a fairly well-established playbook, most notably [executed by Brex](https://research.contrary.com/reports/brex) in selling to YC startups. Brex started with [billboards](https://www.producthunt.com/stories/how-brex-is-building-the-startup-marketing-playbook-beyond-the-billboards) in SF, and eventually became a staple for YC-backed startups. As of November 2022, [80%](https://techcrunch.com/2022/11/02/brex-techstars-partnership-henrique-dubugras/) of YC companies were using Brex.
+One of the most common examples of this kind of behavior has been a fairly well-established playbook, most notably [executed by Brex](https://research.contrary.com/reports/brex) in selling to YC startups. [[Brex]] started with [billboards](https://www.producthunt.com/stories/how-brex-is-building-the-startup-marketing-playbook-beyond-the-billboards) in SF, and eventually became a staple for YC-backed startups. As of November 2022, [80%](https://techcrunch.com/2022/11/02/brex-techstars-partnership-henrique-dubugras/) of YC companies were using Brex.
 
 The strategy has worked well for Brex in times of plenty. But the question still remains, how well will that strategy play out in a world where funding dropped by [30%](https://www.statista.com/statistics/277501/venture-capital-amount-invested-in-the-united-states-since-1995/) from 2021 to 2022, and isn't looking much better in 2023?
 
@@ -171,7 +171,7 @@ The strategy has worked well for Brex in times of plenty. But the question still
 
 # **A ‘Dream The Dream’ Premium**
 
-The fervor of the last few years has been driven by what I call a “dream the dream” premium. Investors continued to see larger and larger potential outcomes. In early 2021, some of the most highly valued companies—Snowflake, Cloudflare, Datadog, Crowdstrike—were trading at an average of 52.9x NTM revenue.
+The fervor of the last few years has been driven by what I call a “dream the dream” premium. Investors continued to see larger and larger potential outcomes. In early 2021, some of the most highly valued companies—Snowflake, [[Cloudflare]], [[Datadog]], Crowdstrike—were trading at an average of 52.9x NTM revenue.
 
 ![Source:Clouded Judgement(Feb. 5, 2021)](/images/vc-contagion-ffc0c4a2.png)
 ](/images/vc-contagion-ffc0c4a2.png)
@@ -181,7 +181,7 @@ More capital chasing more startups competing for (supposedly) unlimited total ad
 
 One customer realized they were spending [$65M](https://thenewstack.io/datadogs-65m-bill-and-why-developers-should-care/) on Datadog in early 2022. After growing [52.8%](https://www.reuters.com/technology/microsoft-amazon-results-highlight-softening-cloud-business-2023-01-23/) in 2021, AWS saw growth slow down to [18.8%](https://www.reuters.com/technology/microsoft-amazon-results-highlight-softening-cloud-business-2023-01-23/) in 2022 as people realized maybe they were spending too much on cloud computing.
 
-That “dream the dream” premium started to become a nightmare. Klarna, at one time the world’s second most valuable fintech company at a [$45.6B](https://sifted.eu/articles/klarna-fintech-valuation-timeline) valuation, saw an 85% decline to [$6.7B](https://techcrunch.com/2022/07/11/klarna-confirms-800m-raise-as-valuation-drops-85-to-6-7b/). Stripe, Instacart, Reddit, [Cybereason](https://www.axios.com/2023/04/24/cybereason-cuts-valuation-loses-unicorn-status) all saw drops of varying shapes and sizes.
+That “dream the dream” premium started to become a nightmare. [[Klarna]], at one time the world’s second most valuable fintech company at a [$45.6B](https://sifted.eu/articles/klarna-fintech-valuation-timeline) valuation, saw an 85% decline to [$6.7B](https://techcrunch.com/2022/07/11/klarna-confirms-800m-raise-as-valuation-drops-85-to-6-7b/). [[Stripe]], [[Instacart]], [[Reddit]], [Cybereason](https://www.axios.com/2023/04/24/cybereason-cuts-valuation-loses-unicorn-status) all saw drops of varying shapes and sizes.
 
 The reality is that some of those companies are exceptional companies that will someday surpass their all-time highs, while some of them may not make it out of 2023 alive. But venture capital did very few favors to these companies as they pushed them deeper, and deeper into unsustainability with very little visibility into the path forward.
 
@@ -189,11 +189,11 @@ The reality is that some of those companies are exceptional companies that will 
 
 # **Is Venture Capital Killing Itself?**
 
-Venture capital is a complex business. The professionalized practice of venture investing isn't even [100 years old](https://en.wikipedia.org/wiki/Venture_capital) yet. In early 2013, Paul Graham was [cautioning](http://www.paulgraham.com/fr.html) founders to be thoughtful of whether to raise money or not:
+Venture capital is a complex business. The professionalized practice of venture investing isn't even [100 years old](https://en.wikipedia.org/wiki/Venture_capital) yet. In early 2013, [[Paul Graham]] was [cautioning](http://www.paulgraham.com/fr.html) founders to be thoughtful of whether to raise money or not:
 
 > ***“Such a high proportion of successful startups raise money that it might seem fundraising is one of the defining qualities of a startup. Actually it isn’t.** Rapid growth is what makes a company a startup. Most companies in a position to grow rapidly find that (a) taking outside money helps them grow faster, and (b) their growth potential makes it easy to attract such money. It's so common for both (a) and (b) to be true of a successful startup that practically all do raise outside money. **But there may be cases where a startup either wouldn't want to grow faster, or outside money wouldn't help them to, and if you're one of them, don't raise money.”***
 
-In 2016, Bill Gurley was [making](https://abovethecrowd.com/2016/04/21/on-the-road-to-recap/) the same point about ever-increasing pools of capital creating a generation of ever-hungrier startups:
+In 2016, [[Bill Gurley]] was [making](https://abovethecrowd.com/2016/04/21/on-the-road-to-recap/) the same point about ever-increasing pools of capital creating a generation of ever-hungrier startups:
 
 > *“Back in 1999, if a company raised $30mm before an IPO, that was considered a large historic raise. Today, private companies have raised 10x that amount and more. And consequently, **the burn rates are 10x larger than they were back then. All of which creates a voraciously hungry Unicorn. One that needs lots and lots of capital (if it is to stay on the current trajectory)**.”*
 
@@ -205,7 +205,7 @@ Venture capital, as an institution, has developed a number of “[move fast and 
 
 All of this can start to feel really pessimistic. Don’t get me wrong. I’m a huge optimist. Economically, technologically, spiritually, and socially I believe things will be better in the future than they are today. I would consider myself an optimism maximalist. But, like an ostrich with its head in the sand, you don’t move forward if you’re not willing to take your head out and look around. This is an exercise in being willing to look around.
 
-What’s wrong with the model for funding innovation that we have? How can we make it better? I always come back to this [idea](https://discoveryinaction.com.au/circle-of-concern-v-circle-of-control/#:~:text=The%20Circle%20of%20Concern%20%E2%80%93%20the,about%20%E2%80%93%20either%20directly%20or%20indirectly) from Stephen Covey: circles of control, circles of influence, and circles of concern. While I can’t control a global economic system, there are certainly aspects of my firm, my companies, and those within the sound of my voice (or keyboard) that I *can* influence.
+What’s wrong with the model for funding innovation that we have? How can we make it better? I always come back to this [idea](https://discoveryinaction.com.au/circle-of-concern-v-circle-of-control/#:~:text=The%20Circle%20of%20Concern%20%E2%80%93%20the,about%20%E2%80%93%20either%20directly%20or%20indirectly) from [[Stephen Covey]]: circles of control, circles of influence, and circles of concern. While I can’t control a global economic system, there are certainly aspects of my firm, my companies, and those within the sound of my voice (or keyboard) that I *can* influence.
 
 I don’t want venture capital to go anywhere, because I don’t want startups to go anywhere. I don’t want there to be less experimentation, I want there to be more. But I also want there to be less of an attitude of shoot first, ask questions later.
 

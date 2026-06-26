@@ -33,7 +33,7 @@ Building businesses isn’t so different. Sometimes for a company to go the dist
 
 # The Music Has Stopped
 
-The reality of the macro economic environment is that the music has very much stopped. Publicly traded tech companies are, on average, [down ~48% YTD](https://app.koyfin.com/myw/a977f05f-25a3-4ba7-9749-b9b50d4016e2). Companies like Okta, Twilio, and Asana are down over 75% YTD.
+The reality of the macro economic environment is that the music has very much stopped. Publicly traded tech companies are, on average, [down ~48% YTD](https://app.koyfin.com/myw/a977f05f-25a3-4ba7-9749-b9b50d4016e2). Companies like [[Okta]], [[Twilio]], and Asana are down over 75% YTD.
 
 The reality of the game on the field has been endless access to cash. With rates low, providers of capital were desperate for yield. So, many flooded into funding tech companies that could use that cash to push towards extreme growth. In the startup world, this often meant that certain attractive categories could have a dozen companies, all effectively the same, but that are getting funded to tackle the same market.
 
@@ -43,7 +43,7 @@ But what happens when all that money suddenly gets sucked out of the room? Lit o
 
 ![Chart illustrating the music has stopped](/images/age-of-acquisition-d69e7f56.png)
 
-**One reason the shut off of access to cash causes this atrophy in a crowded space is because most of them, built to chase growth, structured their strategy around unsustainable customer acquisition costs.** Couple of examples? Uber vs. Lyft. Bird vs. Lime. Casper vs. Purple. Most of these companies saw drops in valuation from billions to millions. Many of them are built on an [unhealthy reliance on paid marketing](https://blimpp.com/e-commerce-startups-customer-acquisition-and-why-dtc-brands-are-so-bad-at-it/).
+**One reason the shut off of access to cash causes this atrophy in a crowded space is because most of them, built to chase growth, structured their strategy around unsustainable customer acquisition costs.** Couple of examples? [[Uber]] vs. [[Lyft]]. [[Bird]] vs. Lime. Casper vs. Purple. Most of these companies saw drops in valuation from billions to millions. Many of them are built on an [unhealthy reliance on paid marketing](https://blimpp.com/e-commerce-startups-customer-acquisition-and-why-dtc-brands-are-so-bad-at-it/).
 
 The same is true in the B2B world. When you have tons of companies getting funded that are offering similar nominal product improvements, and then pouring fuel onto a GTM fire, you're going to have a lot of outbound sales that go unanswered. So you're spending more to acquire those same customers, since all your competitors are out there with very similar messaging.
 
@@ -53,7 +53,7 @@ When capital is plentiful? They're all competing for the same subset of customer
 
 # A Cleansing
 
-One important thing to note is that, while this starvation of capital is [painful for a lot of people](https://layoffs.fyi/), it is healthier for the ecosystem. [I've written before](https://investing1012dot0.substack.com/p/pain?s=w) about a tweet that Harry Stebbings deleted. It was a hot take, but I think there is a lot to be learned from his insight:
+One important thing to note is that, while this starvation of capital is [painful for a lot of people](https://layoffs.fyi/), it is healthier for the ecosystem. [I've written before](https://investing1012dot0.substack.com/p/pain?s=w) about a tweet that [[Harry Stebbings]] deleted. It was a hot take, but I think there is a lot to be learned from his insight:
 
 > *"Effectively his point was that there is a natural selection among startups. Not every company will survive and it can be a healthy recycling of talent back into other companies. **In a world of abundant capital fewer companies are dying**, which means talent doesn't recycle as often."*
 
@@ -71,13 +71,13 @@ But there is a landscape for M&A that I'm excited about as we get to dream what 
 
 # What To Expect
 
-Granted, I'm not the first person to predict this kind of onslaught in M&A. Bankers at Goldman Sachs are [expecting a wave of M&A among private tech companies in 2023](https://www.theinformation.com/articles/expect-a-wave-of-private-tech-m-a-in-2023-goldman-bankers-say?rc=ecjlpf). They put it this way:
+Granted, I'm not the first person to predict this kind of onslaught in M&A. Bankers at [[Goldman Sachs]] are [expecting a wave of M&A among private tech companies in 2023](https://www.theinformation.com/articles/expect-a-wave-of-private-tech-m-a-in-2023-goldman-bankers-say?rc=ecjlpf). They put it this way:
 
-> *"Consolidation among private tech firms is set to pick up—especially among startups that had to abandon hope of going public this year. A dramatic drop in tech stock prices has derailed firms, including Instacart and Reddit, that were gearing up for initial public offerings. The same drop in prices, though, makes it easier for acquisitions to get done. And with fundraising for startups harder, competing firms that proliferated **during the era of cheap venture funding may start to feel pressure to consolidate.**"*
+> *"Consolidation among private tech firms is set to pick up—especially among startups that had to abandon hope of going public this year. A dramatic drop in tech stock prices has derailed firms, including [[Instacart]] and [[Reddit]], that were gearing up for initial public offerings. The same drop in prices, though, makes it easier for acquisitions to get done. And with fundraising for startups harder, competing firms that proliferated **during the era of cheap venture funding may start to feel pressure to consolidate.**"*
 
 There are a lot of different kinds of acquisitions. Different companies will be trying to solve for different things; both the acquirer and the acquired. Whether it's largely about talent (an acquihire), intellectual property, or just customer penetration.
 
-In some cases, acquiring a company whose been able to acquire a lot of your target customers is an effective way to quickly grow your market share. Though, that isn't always the case. Take Robinhood for example.
+In some cases, acquiring a company whose been able to acquire a lot of your target customers is an effective way to quickly grow your market share. Though, that isn't always the case. Take [[Robinhood]] for example.
 
 Right now, Robinhood is valued at $7.8B and they have [15.9M MAUs](https://www.businessofapps.com/data/robinhood-statistics/). For another brokerage like Charles Schwab or a bank to acquire Robinhood, they would effectively be paying $520 per customer. Customer acquisition costs for a typical brokerage or bank run from [$200](https://www.revechat.com/blog/customer-acquisition-cost/#:~:text=Most%20benchmarks%20say%20that%20the,and%20saturation%20of%20digital%20channels.) - [$500](https://www.quora.com/What-is-the-customer-acquisition-cost-for-brokerage-firms-like-Charles-Schwab-Fidelity-TD-Ameritrade-etc) per customer. **It's cheaper to just keep acquiring customers through their normal channels than it would be to acquire Robinhood.**
 
@@ -89,11 +89,11 @@ The most splashy acquisitions we sometimes see are large corporate mergers; near
 
 ## Big + Small
 
-These are often the most [well-known acquisitions](https://www.acquired.fm/episodes/acquired-top-ten-the-best-acquisitions-of-all-time). Facebook buys Instagram. Google buys YouTube. eBay buys PayPal. Disney buys Marvel. As crazy as the numbers may make this sound, even recent acquisitions like [Activision being acquired for ~$70B](https://www.forbes.com/sites/greatspeculations/2022/01/18/microsoft-to-acquire-activision-blizzard-for-69-billion/?sh=63a16ba8285d) by Microsoft is a bigger player buying a smaller one, when you consider Microsoft's $1.8 trillion market cap. Or [Adobe buying Figma for $20B](https://news.adobe.com/news/news-details/2022/Adobe-to-Acquire-Figma/default.aspx), when their market cap is ~$150B.
+These are often the most [well-known acquisitions](https://www.acquired.fm/episodes/acquired-top-ten-the-best-acquisitions-of-all-time). [[Facebook]] buys [[Instagram]]. [[Alphabet|Google]] buys [[YouTube]]. eBay buys [[PayPal]]. [[Disney]] buys Marvel. As crazy as the numbers may make this sound, even recent acquisitions like [Activision being acquired for ~$70B](https://www.forbes.com/sites/greatspeculations/2022/01/18/microsoft-to-acquire-activision-blizzard-for-69-billion/?sh=63a16ba8285d) by [[Microsoft]] is a bigger player buying a smaller one, when you consider Microsoft's $1.8 trillion market cap. Or [Adobe buying Figma for $20B](https://news.adobe.com/news/news-details/2022/Adobe-to-Acquire-Figma/default.aspx), when their market cap is ~$150B.
 
-This is certainly one area of M&A that I'm excited to watch. **There are a number of companies that are bolstering their [product platforms](https://twitter.com/kwharrison13/status/1592577355146330112?s=20&t=n0tIyF_2Lm61c0hYVyWJ8g), and expanding their addressable market that would love to snap up some innovative additions**. Snowflake, even after dropping ~57% YTD, is still valued at $45B and has $3.9B in cash. They've already [acquired StreamLit for $800M](https://research.contrary.com/reports/databrick-vs-snowflake). Between cash and stock purchasing power, there are a lot of companies who will struggle to live up to their valuations, and more than a few of them are in data infrastructure, one of the hottest categories in 2021. Just take a look at [their partner ecosystem](https://www.snowflake.com/partners/technology-partners/). Lots of interesting targets.
+This is certainly one area of M&A that I'm excited to watch. **There are a number of companies that are bolstering their [product platforms](https://twitter.com/kwharrison13/status/1592577355146330112?s=20&t=n0tIyF_2Lm61c0hYVyWJ8g), and expanding their addressable market that would love to snap up some innovative additions**. [[Snowflake ($SNOW)|Snowflake]], even after dropping ~57% YTD, is still valued at $45B and has $3.9B in cash. They've already [acquired StreamLit for $800M](https://research.contrary.com/reports/databrick-vs-snowflake). Between cash and stock purchasing power, there are a lot of companies who will struggle to live up to their valuations, and more than a few of them are in data infrastructure, one of the hottest categories in 2021. Just take a look at [their partner ecosystem](https://www.snowflake.com/partners/technology-partners/). Lots of interesting targets.
 
-Datadog is worth $23B and has $1.7B in cash. CrowdStrike is worth $31B and has $2.3B in cash. Not to mention bigger names like ServiceNow, or smaller names like GitLab, and then there’s the ever-hungry likes of Microsoft, Google, and Amazon.
+[[Datadog]] is worth $23B and has $1.7B in cash. [[CrowdStrike]] is worth $31B and has $2.3B in cash. Not to mention bigger names like [[ServiceNow]], or smaller names like [[GitLab]], and then there’s the ever-hungry likes of Microsoft, [[Alphabet|Google]], and [[Amazon]].
 
 ## Small + Small
 
@@ -107,7 +107,7 @@ Like Ankur [mentioned above](https://twitter.com/ankurnagpal/status/158019221366
 
 Another approach to watch is firms whose models are built around aggregating interesting companies. The most common player here? Private equity.
 
-Private equity can account for massive acquisitions, like Vista's [$16.5B acquisition](https://pitchbook.com/news/articles/vista-equity-elliott-citrix-acquisition-software#:~:text=Vista%20Equity%20Partners%20and%20Elliott,on%20record%20by%20private%20equity.) of Citrix, or Thoma Bravo's [$12.3B acquisition](https://research.contrary.com/reports/unlocking-the-cybersecurity-landscape) of Proofpoint. But there are hundreds of PE firms buying up software companies for much smaller outcomes. This can represent a perfectly good home for software companies that are smaller, and have slowed their growth. Like Thoma Bravo's [$1.3B acquisition](https://www.usertesting.com/company/newsroom/press-releases/usertesting-be-acquired-thoma-bravo-and-sunstone-partners-13bn) of UserTesting; that’s a smaller company, <$200M of revenue, growing ~40% YoY.
+Private equity can account for massive acquisitions, like Vista's [$16.5B acquisition](https://pitchbook.com/news/articles/vista-equity-elliott-citrix-acquisition-software#:~:text=Vista%20Equity%20Partners%20and%20Elliott,on%20record%20by%20private%20equity.) of Citrix, or [[Thoma Bravo]]'s [$12.3B acquisition](https://research.contrary.com/reports/unlocking-the-cybersecurity-landscape) of Proofpoint. But there are hundreds of PE firms buying up software companies for much smaller outcomes. This can represent a perfectly good home for software companies that are smaller, and have slowed their growth. Like Thoma Bravo's [$1.3B acquisition](https://www.usertesting.com/company/newsroom/press-releases/usertesting-be-acquired-thoma-bravo-and-sunstone-partners-13bn) of [[UserTesting]]; that’s a smaller company, <$200M of revenue, growing ~40% YoY.
 
 ### Roll up Vehicles
 

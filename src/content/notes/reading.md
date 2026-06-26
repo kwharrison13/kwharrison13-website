@@ -2,33 +2,40 @@
 title: "Reading"
 type: "concept"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-16"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources: []
 tags: []
 aliases:
   - "Reading"
 related:
+  - "[[Books]]"
+  - "[[How To Take Smart Notes]]"
   - "[[Walden]]"
   - "[[China in Ten Words]]"
+  - "[[Poor Charlie's Almanack]]"
   - "[[Six-Page Narratives]]"
-  - "[[Charlie Munger: A Lesson on Elementary Worldly Wisdom"
-  - "Revisited]]"
+  - "[[Literature]]"
+  - "[[Self-Guided Learning]]"
 ---
 
 # Reading
 
-_Stub. Referenced across one or more book pages. Synthesis pending — fill on a future ingestion pass that reads the relevant source material._
+Reading runs as a recurring thread across Kyle's corpus, less as a leisure activity than as the raw input to thinking and compounding knowledge. The discipline shows up first as a *quality* concern: in [Walden](/books/walden), [Henry David Thoreau](/notes/henry-david-thoreau) makes "the case for reading the classics in their original languages and not lulling the mind on 'Easy Reading,'" and that "to read true books in a true spirit… will task the reader more than any exercise the customs of the day esteem." [How To Take Smart Notes](/books/how-to-take-smart-notes) reframes reading as the front end of research and idea-generation — "good ideas come from when ideas have sex: the intersection of different things that you've been reading" — and warns that constant interruption (email, soundbites) erodes the attention span reading depends on. In [China in Ten Words](/books/china-in-ten-words), Yu Hua's "reading famine" of the Cultural Revolution makes the same point from scarcity: encountering an author "of a different time, a different country" and finding one's own sensation. [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) ties reading to [Charlie Munger](/notes/charlie-munger)'s [latticework](/notes/latticework) and lifelong learning.
 
-## One-line
+The second thread is *not letting a proxy become the target*. A [James Clear](/notes/james-clear) quote Kyle saved (July 2nd, 2020) sharpens it: "The real goal is not to read more books. The goal is to understand what you read. Don't let a proxy become the target." Against that, the page also collects the volume case — a clipped BOOKSTORES video and [Tim Urban](/notes/tim-urban)'s arithmetic that thirty minutes a day compounds into ~1,000 books over a lifetime, "the power of habits" applied to reading. Together they frame reading as a habit-driven input whose payoff is comprehension and connection, not a count — the same understanding-over-throughput logic that runs through [Self-Guided Learning](/notes/self-guided-learning) and [Books](/notes/books).
 
-_(nothing yet — placeholder)_
+**Context:** "Reading" here is a personal-knowledge-management theme, not a single book or framework — Kyle's standing interest in how, what, and why to read, drawn from across his library rather than any one source.
 
-## Where it shows up
+## Where this appears
 
-_(auto-populated by lint)_
+- [Walden](/books/walden) — reading the classics in the original; rejecting "Easy Reading."
+- [How To Take Smart Notes](/books/how-to-take-smart-notes) — reading as research input; idea-sex; attention as the scarce resource.
+- [China in Ten Words](/books/china-in-ten-words) — the Cultural Revolution "reading famine" and finding oneself in a foreign author.
+- [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — reading tied to Munger's mental-models and lifelong learning.
+- [Benjamin Franklin: An American Life](/books/benjamin-franklin-an-american-life), [John Quincy Adams](/books/john-quincy-adams) — reading as moral/intellectual formation in their educations.
 
 # Quotes
 

@@ -4,10 +4,10 @@ type: "company"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
-  - "Kyle's Roam research graph — 'The State of Startup Media' notes"
+  - "wiki/essays-research/The State of Startup Media - Research.md"
 tags:
   - "media"
   - "venture-capital"
@@ -15,16 +15,15 @@ aliases:
   - "PE Hub"
 related:
   - "[[The State of Startup Media - Research]]"
+  - "[[The State of Startup Media]]"
 ---
 
 # PE Hub
 
-**One-line definition:** *Private-equity and venture deal-news publication — part of Kyle's circa-2017 reading rotation.*
+PE Hub appears in the research behind Kyle's essay [The State of Startup Media](/essays/the-state-of-startup-media) as one entry in his 2017 startup-media inventory — the "before" snapshot of what he was reading/following before the post-COVID explosion of business writing. It is listed alongside [PitchBook News](/notes/pitchbook) in the deal-news cluster of that inventory (Axios Pro Rata, [StrictlyVC](/notes/strictlyvc), Fortune Term Sheet, etc.). In the essay's argument it is a data point in the "old shorthand for how you learn about startups" that the piece contends has since fragmented — there is "no single go-to place" anymore.
 
-## How it shows up
+**Context:** PE Hub is a private-equity and venture-capital deal-news publication, historically part of the Buyouts Insider / PEI family of trade media covering dealmaking, fundraising, and exits.
 
-- Listed among the startup-media sources Kyle tracked circa 2017 (source: The State of Startup Media - Research — 2017 inventory).
+## Where this appears
 
-## Where it shows up
-
-- The State of Startup Media - Research — in the 2017 inventory of startup-media sources.
+- The State of Startup Media - Research — listed in the 2017 inventory of startup-media sources Kyle tracked, in the deal-news cluster with PitchBook News.

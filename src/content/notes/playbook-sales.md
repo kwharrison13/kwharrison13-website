@@ -2,9 +2,9 @@
 title: "Playbook: Sales"
 type: "concept"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
@@ -13,15 +13,15 @@ aliases:
   - "Playbook: Sales"
   - "Playbook — Sales"
 related:
-  - "[[Growth]]"
-  - "[[Playbook: Growth]]"
-  - "[[Playbooks]]"
   - "[[Sales]]"
+  - "[[Growth]]"
+  - "[[Playbook — Growth]]"
+  - "[[Playbooks]]"
 ---
 
 # Playbook: Sales
 
-_Stub — concept captured from Kyle's June 29th, 2021 Roam "Quick Capture" reading log. The links below are sources Kyle saved to explore this topic; not yet synthesized._
+**Playbook: Sales** is one slot in Kyle's [Playbooks](/notes/playbooks) system — a per-function bucket (alongside [Playbook — Growth](/notes/playbook-growth), Playbook: Product, Playbook: Marketing, Playbook: M&A, etc.) where he files operating reading on a single discipline. This page collects the sources Kyle saved to study **sales** as a craft from his June 29th, 2021 Roam "Quick Capture" log, captured verbatim below; the synthesized treatment of the discipline lives on the [Sales](/notes/sales) concept page, which frames sales as a recurring operational skill in tension with product-led, bottom-up adoption. The saved pointers (a sales-leader podcast, an HBR Andreessen/Barksdale "how to make money" episode, a growth-persistence research paper) are unsynthesized reading, kept as-is.
 
 ## Quick Capture links — June 29th, 2021
 
@@ -32,7 +32,6 @@ _Stub — concept captured from Kyle's June 29th, 2021 Roam "Quick Capture" read
 
 ## Related concepts
 
-- [Growth](/notes/growth)
-- [Playbook: Growth](/notes/playbook-growth)
-- [Playbooks](/notes/playbooks)
-- [Sales](/notes/sales)
+- [Sales](/notes/sales) — the synthesized hub for the discipline.
+- [Growth](/notes/growth) / [Playbook — Growth](/notes/playbook-growth) — the paired growth-side playbook (which shares these same saved links).
+- [Playbooks](/notes/playbooks) — the per-function index this page belongs to.

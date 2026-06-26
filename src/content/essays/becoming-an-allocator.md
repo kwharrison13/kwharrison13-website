@@ -23,7 +23,7 @@ This week's post will be brief. This happens every once in a while where I attem
 
 Instead, this week I'm left reflecting on a question I was asked in a recent podcast (I'll share once its released.) The question was about whether I consider myself an investor first, and a writer second? Or a writer first, and an investor second?
 
-On the surface, its an easy question to answer. Investing is what pays my bills. Writing is what keeps my mind sharp. So you could easily argue I'm an investor before anything else.
+On the surface, its an easy question to answer. [[Investing]] is what pays my bills. Writing is what keeps my mind sharp. So you could easily argue I'm an investor before anything else.
 
 But I tried to more thoughtfully respond to the question. If I were to sum up how I think about myself, and my life, I gravitate towards the word "allocator." Pretty lame response maybe, but stick with me.
 

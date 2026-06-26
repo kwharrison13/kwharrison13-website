@@ -27,13 +27,13 @@ But I don't want to. I, occasionally, want to write about very different topics,
 
 Because, like I said. "I write because I don't know what I think until I read what I say." So for better or worse, I write about what I'm thinking about. **And the reason I haven't optimized my writing for any particular audience or niche is because I want to write about what I'm thinking about.**
 
-This week is somewhat unique because I have only really been able to think about one thing. I find myself in a reflective mood. I'm on paternity leave, so that already makes me pensive, and then the holiday has left me reflecting on a very specific event. But it spans across a discussion on homelessness, faith, Jesus Christ, morals, and stated vs. revealed values. **If that's not your bag, I totally get it. You can skip this week and I'll see you back here next week for the VC content you know and love**.
+This week is somewhat unique because I have only really been able to think about one thing. I find myself in a reflective mood. I'm on paternity leave, so that already makes me pensive, and then the holiday has left me reflecting on a very specific event. But it spans across a discussion on homelessness, faith, [[Jesus|Jesus Christ]], morals, and stated vs. revealed values. **If that's not your bag, I totally get it. You can skip this week and I'll see you back here next week for the VC content you know and love**.
 
 # The Kaysville Condemnation
 
 I'll cut to the chase to bring you up to speed on the event that has me not just reflective, but repulsed. Bothered to such a degree that I couldn't write about anything else this week.
 
-In Utah, just north of Salt Lake, you have Davis County. Over the last few weeks, there have been three cities in Davis County—North Salt Lake, Fruit Heights and Kaysville—that have taken a firm stance. **They're a hard** ***no*** **on making sure homeless people in their communities don't freeze to death when temperatures drop**.
+In Utah, just north of [[Salt Lake]], you have Davis County. Over the last few weeks, there have been three cities in Davis County—North Salt Lake, Fruit Heights and Kaysville—that have taken a firm stance. **They're a hard** ***no*** **on making sure homeless people in their communities don't freeze to death when temperatures drop**.
 
 For context, Utah can hit [20°F](https://www.daviscountyutah.gov/ced/planning/climate-geography) in the winter or lower. Anything below 32°F is [freezing](https://study.com/learn/lesson/freezing-point-water-temperature-equation-examples.html.html#:~:text=What%20Temperature%20Is%20Freezing%3F,begin%20to%20turn%20into%20ice.). But anywhere below 50°F, people can be subject to hypothermia, frost bite, and exposure, all of which can lead to death.
 
@@ -69,7 +69,7 @@ And none of the people who reacted so aggressively against those centers is trip
 
 # Therefore, What?
 
-I've seen people making this out to be about Mormons, or conservatives, or whatever. But this is not an identity issue. This is a humanity issue. Jesus made it pretty succinct. Regardless of all the trimmings and rituals of religion, regardless of all the sects and creeds, regardless of all the disagreements, [he said](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22?lang=eng&id=37-40#p37) there were two things that were the most important:
+I've seen people making this out to be about [[Church of Jesus Christ of Latter-Day Saints|Mormons]], or conservatives, or whatever. But this is not an identity issue. This is a humanity issue. Jesus made it pretty succinct. Regardless of all the trimmings and rituals of religion, regardless of all the sects and creeds, regardless of all the disagreements, [he said](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22?lang=eng&id=37-40#p37) there were two things that were the most important:
 
 First and great commandment number one?
 
@@ -79,7 +79,7 @@ And the second? Like unto it.
 
 ***"Thou shalt love thy neighbour as thyself."***
 
-This isn't about what religion these people are. This isn't about what political party they associate with. This isn't about the color of their skin or the language they speak. As a member of The Church of Jesus Christ of Latter-Day Saints, I am often cast in a few specific lens in terms of how people see me. But I have, instead, always taken comfort in a more merciful view of the afterlife.
+This isn't about what religion these people are. This isn't about what political party they associate with. This isn't about the color of their skin or the language they speak. As a member of [[The Church of Jesus Christ of Latter-day Saints|The Church of Jesus Christ of Latter-Day Saints]], I am often cast in a few specific lens in terms of how people see me. But I have, instead, always taken comfort in a more merciful view of the afterlife.
 
 When we meet God at the end of this life, I feel strongly that there will not be an ID check. A membership card we have to present. There won’t even be a judgement, with a bar and executioner. There be a weighing of who we are. The sum total of our acts, good and bad. And what that turned us into.
 
@@ -105,7 +105,7 @@ And these parents who applaud the signatories of death upon the less fortunate, 
 
 But safety, bought by the suffering of others, is not safety any more than the head thrust into the sand is safety. It is blindness.
 
-Empathy is earned by doling out to others what we would have for ourselves.
+[[Empathy]] is earned by doling out to others what we would have for ourselves.
 
 Safety? Security? Warmth? Love? Support? Kindness? We cannot craft these things ourselves. We can extend them to others and, in so doing, become a beneficiary of the same.
 

@@ -2,29 +2,39 @@
 title: "Quantifying Human Capital"
 type: "concept"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-17"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
+  - "wiki/books/The Expertise Economy.md"
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
-tags: []
+tags:
+  - "human-capital"
+  - "learning"
+  - "workforce"
 aliases:
   - "Quantifying Human Capital"
 related:
   - "[[The Expertise Economy]]"
+  - "[[People Capital]]"
+  - "[[Skills Quotient]]"
+  - "[[Kelly Palmer]]"
+  - "[[John Bingham on Human Capital]]"
 ---
 
 # Quantifying Human Capital
 
-_Stub — concept captured from Kyle's June 29th, 2021 Roam "Quick Capture" reading log. The links below are sources Kyle saved to explore this topic; not yet synthesized._
+The move from *assuming* a workforce's capability to *measuring* it — treating people as a developable, countable asset rather than a commodity. This is the operational thesis Kyle pulls from [The Expertise Economy](/books/the-expertise-economy) (by [Kelly Palmer](/notes/kelly-palmer) and [David Blake](/notes/david-blake)). The book's concrete instrument is the [Skills Quotient](/notes/skills-quotient) (SQ = skills you have ÷ skills you need × 100), proposed as a way to quantify how well-equipped a person or workforce is and to surface threats and opportunities — notably flagging anyone scoring above 90, because high performers will look for growth elsewhere if it isn't offered internally.
 
-## Quick Capture links — June 29th, 2021
+The idea pairs tightly with [People Capital](/notes/people-capital): the claim that people are the differentiator in a business, illustrated in Kyle's notes by Apple's retail VP Stephanie Fehr — *"If you're going to employ people anyways... why not make them the differentiator? They're not a commodity."* Kyle attaches his own recurring thread, [John Bingham on Human Capital](/notes/john-bingham-on-human-capital), to this passage, framing human capital as something to be invested in and counted rather than commoditized. A separate June 29th, 2021 Roam "Quick Capture" log shows Kyle exploring the literal accounting version of this — older experiments (R. G. Barry & Co., AT&T, ExxonMobil) that reported "net investments in human resources" as supplemental balance-sheet data, plus sabermetrics and human-capital-analytics references as analogies for measuring people.
 
-- https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/BUS209_CH_3.pdf
-- https://books.google.com/books?id=Uw2ACgAAQBAJ&pg=PA86&lpg=PA86&dq=An%2Bitem%2Bshould%2Bbe%2Brecognized%2Bin%2Bthe%2Bfinancial%2Bstatements%2Bif%2Bit%2Bis%2Ban%2Belement,%2Bis%2Bmeasurable,%2Band%2Bis%2Brelevant%2Band%2Brepresentationally%2Bfaithful.%2BConsider%2Bhuman%2Bresources.%2BR.%2BG.%2BBarry%2B%26%2BCo.%2Bat%2Bone%2Btime%2Breported%2Bas%2Bsupplemental%2Bdata%2Btotal%2Bassets%2Bof%2B$14,055,926,%2Bincluding%2B$986,094%2Bfor%2B%E2%80%9CNet%2Binvestments%2Bin%2Bhuman%2Bresources.%E2%80%9D%2BAT%26T%2Band%2BExxonMobil%2Balso%2Bexperimented%2Bwith%2Bhuman%2Bresource%2Baccounting.%2BShould%2Bwe%2Bvalue%2Bemployees%2Bfor&source=bl&ots=OUVXT5nOLw&sig=ACfU3U0wX2C7MYPVEuV0uKJibqzfD7oa0A&hl=en&sa=X&ved=2ahUKEwibp6fIueTgAhUkJTQIHcfvCbIQ6AEwAHoECAAQAQ#v=onepage&q=An%20item%20should%20be%20recognized%20in%20the%20financial%20statements%20if%20it%20is%20an%20element%2C%20is%20measurable%2C%20and%20is%20relevant%20and%20representationally%20faithful.%20Consider%20human%20resources.%20R.%20G.%20Barry%20%26%20Co.%20at%20one%20time%20reported%20as%20supplemental%20data%20total%20assets%20of%20%2414%2C055%2C926%2C%20including%20%24986%2C094%20for%20%E2%80%9CNet%20investments%20in%20human%20resources.%E2%80%9D%20AT%26T%20and%20ExxonMobil%20also%20experimented%20with%20human%20resource%20accounting.%20Should%20we%20value%20employees%20for&f=false
-- https://www.google.com/books/edition/_/Uw2ACgAAQBAJ?hl=en&gbpv=1&pg=PA86&dq=An%2Bitem%2Bshould%2Bbe%2Brecognized%2Bin%2Bthe%2Bfinancial%2Bstatements%2Bif%2Bit%2Bis%2Ban%2Belement,%2Bis%2Bmeasurable,%2Band%2Bis%2Brelevant%2Band%2Brepresentationally%2Bfaithful.%2BConsider%2Bhuman%2Bresources.%2BR.%2BG.%2BBarry%2B%26%2BCo.%2Bat%2Bone%2Btime%2Breported%2Bas%2Bsupplemental%2Bdata%2Btotal%2Bassets%2Bof%2B$14,055,926,%2Bincluding%2B$986,094%2Bfor%2B%E2%80%9CNet%2Binvestments%2Bin%2Bhuman%2Bresources.%E2%80%9D%2BAT%26T%2Band%2BExxonMobil%2Balso%2Bexperimented%2Bwith%2Bhuman%2Bresource%2Baccounting.%2BShould%2Bwe%2Bvalue%2Bemployees%2Bfor
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkwharrison13%2FSVeEcG7L6v.png?alt=media&token=be570c65-9e39-4b94-8941-9dfc745663e9)
-- https://www.hrdive.com/news/nyu-launches-masters-in-human-capital-analytics/545906/
-- https://en.wikipedia.org/wiki/Sabermetrics
-- https://www.byustore.com/Packet-Mba-693R-Readings-W-Electronic-Access-Code?quantity=1
+**Context:** "Human capital accounting" (or human resource accounting) is a long-running, never-standardized attempt to put a measurable value on a workforce; *The Expertise Economy: How the Smartest Companies Use Learning to Engage, Compete, and Succeed* (Palmer & Blake, 2018) is a modern learning-and-development take on the same impulse. (General background.)
+
+## Where this appears
+
+- [The Expertise Economy](/books/the-expertise-economy) — the book's operational thesis that capability should be measured (via the [Skills Quotient](/notes/skills-quotient)) rather than assumed; people as differentiator, not commodity.
+- [People Capital](/notes/people-capital) — the paired idea that workforce capability is a measurable balance-sheet asset.
+- [Skills Quotient](/notes/skills-quotient) — the concrete metric that operationalizes quantifying human capital.
+- [Kelly Palmer](/notes/kelly-palmer) — co-author who originates the framework.
+- [John Bingham on Human Capital](/notes/john-bingham-on-human-capital) — Kyle's personal thread on people-as-differentiator attached to the book's passage.

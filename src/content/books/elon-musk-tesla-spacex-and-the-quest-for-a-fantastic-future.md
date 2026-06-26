@@ -7,7 +7,7 @@ quake: false
 tags:
   - "technological-innovation"
   - "company-building"
-last_imported: "2026-06-25"
+last_imported: "2026-06-26"
 key_takeaways_status: "written"
 ---
 
@@ -48,13 +48,13 @@ This biography sits in the library as a reference for the Musk persona, but the 
 - That’s Elon. Do or die but don’t give up.” <!--rwid:rwid-1bce06669235-->
 - The process had been painful. Musk had yearned to be a leader, but the people around him struggled to see how Musk as the CEO could work. As far as Musk was concerned, they were all wrong, and he set out to prove his point with what would end up being even more dramatic results. <!--rwid:rwid-bede71ec0781-->
 - “Don’t worry about the methods or if they’re unsound. Just get the job done. It comes from Elon. He listens, asks good questions, is fast on his feet, and gets to the bottom of things.” <!--rwid:rwid-df137f456200-->
-- At Zip2 and PayPal, he felt comfortable standing up for his positions and directing teams of coders. At SpaceX, he had to pick things up on the job. Musk initially relied on textbooks to form the bulk of his rocketry knowledge. But as SpaceX hired one brilliant person after another, Musk realized he could tap into their stores of knowledge. He would trap an engineer in the SpaceX factory and set to work grilling him about a type of valve or specialized material. <!--rwid:rwid-0a3c60d01971-->
+- At [Zip2](/notes/zip2) and [PayPal](/notes/paypal), he felt comfortable standing up for his positions and directing teams of coders. At SpaceX, he had to pick things up on the job. Musk initially relied on textbooks to form the bulk of his rocketry knowledge. But as SpaceX hired one brilliant person after another, Musk realized he could tap into their stores of knowledge. He would trap an engineer in the SpaceX factory and set to work grilling him about a type of valve or specialized material. <!--rwid:rwid-0a3c60d01971-->
 - One of my favorite things about Elon is his ability to make enormous decisions very quickly. That is still how it works today.” <!--rwid:rwid-132568d6d124-->
 - He will outmaneuver you, outthink you, and out-execute you. <!--rwid:rwid-7a4fe0e7081e-->
 - The guiding principle at SpaceX is to embrace your work and get stuff done. People who await guidance or detailed instructions languish. The same goes for workers who crave feedback. And the absolute worst thing that someone can do is inform Musk that what he’s asking is impossible. <!--rwid:rwid-75a4345328ec-->
 - “There is a fundamental problem with regulators. If a regulator agrees to change a rule and something bad happens, they could easily lose their career. Whereas if they change a rule and something good happens, they don’t even get a reward. So, it’s very asymmetric. It’s then very easy to understand why regulators resist changing the rules. It’s because there’s a big punishment on one side and no reward on the other. How would any rational person behave in such a scenario?” <!--rwid:rwid-3f01433ec098-->
 - There’s a degree to which it’s just never enough for Musk, no matter what it is. <!--rwid:rwid-93c40f4b9f1b-->
-- Tesla was, in effect, willed into existence by Musk and reflects his personality as much as Intel, Microsoft, and Apple reflect the personalities of their founders. <!--rwid:rwid-b2db79a2d7ea-->
+- Tesla was, in effect, willed into existence by Musk and reflects his personality as much as [Intel](/notes/intel), [Microsoft](/notes/microsoft), and [Apple](/notes/apple) reflect the personalities of their founders. <!--rwid:rwid-b2db79a2d7ea-->
 - An argument could easily be made that spending money on this sort of thing at such a precarious moment in the Model S and Tesla’s history was somewhere between daft and batshit crazy. Surely Musk did not have the gall to try to revamp the very idea of the automobile and build an energy network at the same time with a budget equivalent to what Ford and ExxonMobil spend on their annual holiday parties. But that was the exact plan. Musk, Straubel, and others inside Tesla had mapped out this all-or-nothing play long ago and built certain features into the Model S with the Superchargers in mind.* <!--rwid:rwid-0a6b589b6680-->
 - “At some other company, it would be a public relations group putting something like this together,” Gracias said. “Elon felt like it was the most important problem facing Tesla at the time and that’s always what he deals with and how he prioritizes. It could kill the car and represented an existential threat against the business. Have there been moments where his unconventional style in these types of situations has made me cringe? Yes. But I trust that it will work out in the end.” <!--rwid:rwid-ac04e63462f0-->
 - They spent two years studying solar technology and the dynamics of the business, reading research reports, interviewing people, and attending conferences along the way. <!--rwid:rwid-b00da8abf6b4-->

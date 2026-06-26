@@ -28,11 +28,11 @@ In the past I've written about firms that I see as renegades. Firms like [Homebr
 
 In 2018 [Dan Portillo left Greylock](https://www.linkedin.com/pulse/all-good-things-must-end-daniel-portillo/) after having spent 7 years as a Talent Partner. He'd joined from Mozilla where he grew their talent team from 20 to 300+ and saw first-hand the impact high quality talent can have on a company.
 
-Soon after leaving Greylock he honed a different model of contributing to a company's success beyond writing a check and [launched Sweat Equity Ventures.](https://www.prweb.com/releases/sweat_equity_ventures_launches_new_value_accelerator_model_of_venture_capital/prweb16891292.htm) While they raised a $30M pool of capital none of that money would go into purchasing equity from startups. The cash all went in to paying for operating expenses within Sweat Equity Ventures (SEV). When a company offers equity to SEV they don't just get a casual service offering as one-of-many things out of their venture investors.
+Soon after leaving [[Greylock Partners|Greylock]] he honed a different model of contributing to a company's success beyond writing a check and [launched Sweat Equity Ventures.](https://www.prweb.com/releases/sweat_equity_ventures_launches_new_value_accelerator_model_of_venture_capital/prweb16891292.htm) While they raised a $30M pool of capital none of that money would go into purchasing equity from startups. The cash all went in to paying for operating expenses within Sweat Equity Ventures (SEV). When a company offers equity to SEV they don't just get a casual service offering as one-of-many things out of their venture investors.
 
 > *"We give founders what they often cobble together from a collection of consultants, advisors and the services arm of VC firms - but with **a dedicated team with a proven track record and established working relationships, clear deliverables, and real skin in the game.”***
 
-Where at Greylock Dan would maybe have an annual budget of $2M to spend on talent across the whole portfolio he could now spend $2M on a single company out of this pool of capital. Dan worked alongside companies like Coda, Grafana, Finix, and Ubiquity6 as part of SVE. While working with Ubiquity6 [he met Phin Barnes](https://www.forbes.com/sites/alexkonrad/2022/06/07/with-240-million-fund-the-general-partnership-looks-to-revamp-value-added-vc-for-founders/?sh=54ca34fa44fe), who was also an investor and board member at the company from First Round.
+Where at Greylock Dan would maybe have an annual budget of $2M to spend on talent across the whole portfolio he could now spend $2M on a single company out of this pool of capital. Dan worked alongside companies like Coda, Grafana, Finix, and Ubiquity6 as part of SVE. While working with Ubiquity6 [he met Phin Barnes](https://www.forbes.com/sites/alexkonrad/2022/06/07/with-240-million-fund-the-general-partnership-looks-to-revamp-value-added-vc-for-founders/?sh=54ca34fa44fe), who was also an investor and board member at the company from [[First Round Capital|First Round]].
 
 Phin acknowledged the way the venture ecosystem was changing and forcing investors to be more reactive vs. building long-term working relationships. This wasn't the kind of close-partnership he and Dan preferred with the companies they worked with. So [when Phin left First Round in 2020](https://firstround.medium.com/commencement-e1a402f5c622) a new partnership was born. The General Partnership.
 
@@ -80,13 +80,13 @@ So who are the people driving all the value that TheGP is offering?
 
 TheGP calls their team of 25 full-time experts ["The Builders."](https://www.thegp.com/news/thegp-raises-fund-redefine-value-in-VC-with-equity)
 
-> *"Our Builders have built some of Silicon Valley’s most iconic products, from Google’s Knowledge Graph to YouTube’s infrastructure to Redfin’s marketplace model, and scaled teams at companies like Stripe, Robinhood, and Uber from their earliest stages."*
+> *"Our Builders have built some of Silicon Valley’s most iconic products, from [[Alphabet|Google]]’s Knowledge Graph to [[YouTube]]’s infrastructure to Redfin’s marketplace model, and scaled teams at companies like [[Stripe]], [[Robinhood]], and [[Uber]] from their earliest stages."*
 
 When you look at the caliber of people working within the functional pillars at TheGP these aren't just casual participants. These are seasoned experts.
 
-***Talent:*** [Anthony Kline](https://www.linkedin.com/in/anthonyklinesf/) who was the Head of Executive Recruiting at Stripe for 3+ years or [Dino Lamela](https://www.linkedin.com/in/dinolamela/) who was the Director of Global Talent at Databricks for 6 years.
+***Talent:*** [Anthony Kline](https://www.linkedin.com/in/anthonyklinesf/) who was the Head of Executive Recruiting at Stripe for 3+ years or [Dino Lamela](https://www.linkedin.com/in/dinolamela/) who was the Director of Global Talent at [[Databricks]] for 6 years.
 
-***GTM:*** [Ross Wiethoff](https://www.linkedin.com/in/ross-wiethoff-bb089334/) who was a Head of Sales at Square or [Danny Oliveri](https://www.linkedin.com/in/danny-oliveri-46a1782/) who was a VP of Enterprise Sales at Oracle
+***GTM:*** [Ross Wiethoff](https://www.linkedin.com/in/ross-wiethoff-bb089334/) who was a Head of Sales at [[Square]] or [Danny Oliveri](https://www.linkedin.com/in/danny-oliveri-46a1782/) who was a VP of Enterprise Sales at Oracle
 
 ***Product & Engineering:*** [Stas Baranov](https://www.linkedin.com/in/stas-baranov/) who spent 12 years as a Staff Tech Lead Manager at Google or [Sasha Aickin](https://www.linkedin.com/in/sasha-aickin-718163/) who was the CTO at Redfin
 
@@ -96,7 +96,7 @@ When you look at the caliber of people working within the functional pillars at 
 
 When I look at some of the talented folks TheGP has been able to attract, they're likely there because if they went to work for any other venture firm they *would be* second-class citizens. But at TheGP they're front-and-center. They ***are*** the business model.
 
-The unbundling of venture doesn't always mean you strike off on your own to start something net new. You're starting to see firms like Long Journey Ventures that [describe themselves](https://www.longjourney.vc/value) as a "federation of angel investors and operators." Firms like TheGP act almost as a "business-in-a-box" for talented operators who want to work alongside companies without needing to build up a firm around themselves.
+The unbundling of venture doesn't always mean you strike off on your own to start something net new. You're starting to see firms like [[Long Journey Ventures]] that [describe themselves](https://www.longjourney.vc/value) as a "federation of angel investors and operators." Firms like TheGP act almost as a "business-in-a-box" for talented operators who want to work alongside companies without needing to build up a firm around themselves.
 
 > *“In venture, there’s the investors, then there’s everyone else. And here [at TheGP], there’s us, and then there’s an investor." ([Dan Portillo](https://www.forbes.com/sites/alexkonrad/2022/06/07/with-240-million-fund-the-general-partnership-looks-to-revamp-value-added-vc-for-founders/?sh=54ca34fa44fe))*
 
