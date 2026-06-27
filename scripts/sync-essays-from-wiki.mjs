@@ -119,6 +119,24 @@ function syncOne(filePath) {
   const { frontmatter: wfm, body: wbody } = parseFrontmatter(raw);
   const title = wfm.title || path.basename(filePath, '.md');
   const slug = wfm.website_slug || slugify(title);
+
+  // Publish gate: an essay goes public ONLY when explicitly `publish: true`. A
+  // draft / under-construction essay (publish: false, or the field absent) is
+  // NEVER synced — and if a website copy already exists, it is pruned, so flipping
+  // an essay back to private actually takes it down off the live site. (Drafts can
+  // therefore safely live in wiki/essays/ with publish:false; wiki/essays-research/
+  // is a separate dir that never reaches this script at all.)
+  const isPublic = String(wfm.publish).toLowerCase() === 'true';
+  if (!isPublic) {
+    const target = slug ? path.join(WEBSITE_ESSAYS, `${slug}.md`) : null;
+    let removed = false;
+    if (target && fs.existsSync(target)) {
+      if (!dryRun) fs.rmSync(target);
+      removed = true;
+    }
+    return { private: true, slug, removed, file: path.basename(filePath) };
+  }
+
   const date = wfm.date_published || wfm.date || wfm.created;
   if (!slug) return { skipped: true, reason: 'empty slug', file: path.basename(filePath) };
   if (!date) return { skipped: true, reason: 'no date', file: path.basename(filePath) };
