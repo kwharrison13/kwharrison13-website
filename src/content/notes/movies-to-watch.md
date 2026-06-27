@@ -15,7 +15,9 @@ tags:
 aliases:
   - "movies-to-watch"
   - "Movies to Watch"
-related: []
+related:
+  - "[[Companies to Watch]]"
+  - "[[Books To Read]]"
 ---
 
 # Movies to Watch

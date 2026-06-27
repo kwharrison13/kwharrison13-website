@@ -21,6 +21,8 @@ related:
   - "[[The Black Swan]]"
   - "[[Michael Nielsen]]"
   - "[[Reading]]"
+  - "[[Companies to Watch]]"
+  - "[[Movies to Watch]]"
 reference_count: 8
 ---
 
