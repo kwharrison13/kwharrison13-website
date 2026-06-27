@@ -179,12 +179,17 @@ function main() {
     console.error(`error: wiki essays dir not found: ${WIKI_ESSAYS}`);
     process.exit(1);
   }
-  let wrote = 0, unchanged = 0, skipped = [];
+  let wrote = 0, unchanged = 0, skipped = [], priv = [], tookDown = [];
   const seen = new Map();
   const collisions = [];
   for (const f of fs.readdirSync(WIKI_ESSAYS)) {
     if (!f.endsWith('.md') || f.startsWith('.')) continue;
     const r = syncOne(path.join(WIKI_ESSAYS, f));
+    if (r.private) {
+      priv.push(r.file);
+      if (r.removed) tookDown.push(`${r.file} → ${dryRun ? 'would take down' : 'took down'} /essays/${r.slug}`);
+      continue;
+    }
     if (r.skipped) { skipped.push(`${r.file} (${r.reason})`); continue; }
     if (seen.has(r.slug)) collisions.push(`${r.slug}  <- ${f} & ${seen.get(r.slug)}`);
     else seen.set(r.slug, f);
@@ -192,8 +197,12 @@ function main() {
     else wrote++;
   }
   console.log(
-    `${dryRun ? '[dry-run] ' : ''}essays: ${wrote} ${dryRun ? 'would write' : 'written'}, ${unchanged} unchanged, ${skipped.length} skipped`,
+    `${dryRun ? '[dry-run] ' : ''}essays: ${wrote} ${dryRun ? 'would write' : 'written'}, ${unchanged} unchanged, ${priv.length} private (not published), ${skipped.length} skipped`,
   );
+  if (tookDown.length) {
+    console.log(`\n🔒 private essays pruned from site: ${tookDown.length}`);
+    for (const t of tookDown) console.log(`  - ${t}`);
+  }
   if (skipped.length) for (const s of skipped.slice(0, 20)) console.log(`  skip: ${s}`);
   if (collisions.length) {
     console.log(`\nslug collisions: ${collisions.length}`);
