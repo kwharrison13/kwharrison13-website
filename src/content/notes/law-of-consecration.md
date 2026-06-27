@@ -25,6 +25,8 @@ related:
   - "[[might"
   - "mind"
   - "and strength]]"
+  - "[[Law of Consecration — Sunday School (August 29"
+  - "2021)]]"
 reference_count: 2
 ---
 

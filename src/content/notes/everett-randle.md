@@ -19,7 +19,7 @@ related:
   - "[[Founders Fund]]"
   - "[[Kleiner Perkins]]"
   - "[[The Productization of Venture Capital]]"
-  - "[[The Rise of Adam Neumann - Research]]"
+  - "[[The Rise of The Cash Man - Research]]"
   - "[[The Puritans of Venture Capital]]"
   - "[[October 17th, 2022 — Everett Randle to Kleiner Perkins]]"
 ---

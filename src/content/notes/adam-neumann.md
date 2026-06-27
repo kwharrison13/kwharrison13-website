@@ -19,7 +19,7 @@ related:
   - "[[It's Time To Build... But Build What - Research]]"
   - "[[The Hits Business - Research]]"
   - "[[The Rise of The Cash Man]]"
-  - "[[The Rise of Adam Neumann - Research]]"
+  - "[[The Rise of The Cash Man - Research]]"
   - "[[Flow]]"
   - "[[Marc Andreessen]]"
   - "[[Venture Capital]]"

@@ -20,7 +20,7 @@ related:
   - "[[It's Time To Build]]"
   - "[[Techno-Optimism]]"
   - "[[Effective Accelerationism]]"
-  - "[[The Rise of Adam Neumann - Research]]"
+  - "[[The Rise of The Cash Man - Research]]"
   - "[[Talent]]"
   - "[[The Power Law: Venture Capital & the Making of the New Future]]"
   - "[[Building American Dynamism]]"
