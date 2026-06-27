@@ -183,9 +183,9 @@ Some of these "other things that could be meaningful" remind me of Neumann's [ea
 So you've pulled on all these threads. There's a business model in there somewhere, so what would that eventual amalgamation of parts and products look like? And more importantly, what could it trade for? What are some of the comps?
 
 - Holding Company: MidWestOne, Towne (mortgage banks), Mid-American Apartment Communities
-- Property Management: AppFolio (property management software)
+- Property Management: [[AppFolio]] (property management software)
 - Subscription Community: Q&K International (branded apartments)
-- Data Business: CoStar (multi-family data company)
+- Data Business: [[CoStar]] (multi-family data company)
 
 Mix in some crypto exposure and you've got a very option-heavy vehicle. Arpit Gupta was right to describe it as probably a combination of any number of existing things that you can then market as one and [justify a tech company valuation.](https://www.vox.com/recode/2019/8/14/20804029/wework-ipo-tech-company-valuation)
 
@@ -227,7 +227,7 @@ However. For me personally I often look at “is there precedent for such a scal
 
 ![Quote card from Your Skepticisms Be Damned section](/images/the-rise-of-the-cash-man-075bddc1.png)
 
-When you get super pragmatic and strike out all the fluff you have a fancy property management company. What does the precedent look like for that? Take Greystar as an example.
+When you get super pragmatic and strike out all the fluff you have a fancy property management company. What does the precedent look like for that? Take [[Greystar]] as an example.
 
 They’re a phenomenal business, some of the very best. And that outcome already puts Flow’s valuation underwater. I often quote Mike Tyson in saying, “everyone has a plan until they get punched in the face.” A lot of “visionary” companies have a great plan. But the face punch of reality comes for us all.
 
