@@ -17,8 +17,11 @@ aliases:
 related:
   - "[[September 13th, 2022 — Harry Stebbings Podcast]]"
   - "[[Founders Fund]]"
+  - "[[Kleiner Perkins]]"
   - "[[The Productization of Venture Capital]]"
+  - "[[The Rise of Adam Neumann - Research]]"
   - "[[The Puritans of Venture Capital]]"
+  - "[[October 17th, 2022 — Everett Randle to Kleiner Perkins]]"
 ---
 
 # Everett Randle
@@ -29,8 +32,11 @@ Randle's "Playing Different Games" middle-squeeze thesis is load-bearing for Kyl
 
 **Context:** Everett Randle is a venture investor known for his Substack essay "Playing Different Games" (2021), which argued that venture firms compete in distinct strategic "games" and that the undifferentiated middle is most exposed.
 
+In October 2022 Kyle noted Randle **moving from [Founders Fund](/notes/founders-fund) to [Kleiner Perkins](/notes/kleiner-perkins)** (source: October 17th, 2022 — Everett Randle to Kleiner Perkins).
+
 ## Where this appears
 
+- October 17th, 2022 — Everett Randle to Kleiner Perkins — people-move note: Founders Fund → Kleiner Perkins.
 - September 13th, 2022 — Harry Stebbings Podcast — Kyle cites Randle's "Dead Zone" framing for firms stuck in the undifferentiated middle.
 - The Productization of Venture Capital - Research — listed among surveyed investors (at Founders Fund) for the "what products does your firm offer?" study.
 - The Puritans of Venture Capital - Research — Randle's "Playing Different Games" middle-squeeze thesis (and its wrong Tiger call) underpins the three-games argument.

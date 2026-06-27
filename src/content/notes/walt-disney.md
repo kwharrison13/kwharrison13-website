@@ -25,6 +25,7 @@ related:
   - "[[Christopher Alexander]]"
   - "[[Utopia]]"
   - "[[A24]]"
+  - "[[In Defense of Disney - Research]]"
 reference_count: 2
 ---
 

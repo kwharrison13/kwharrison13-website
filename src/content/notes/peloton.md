@@ -15,6 +15,10 @@ aliases:
 related:
   - "[[Watershed Climate Diligence — 2021]]"
   - "[[Watershed Climate]]"
+  - "[[John Foley]]"
+  - "[[Ernesta]]"
+  - "[[Stewards of Capital]]"
+  - "[[Stewards of Capital - Research]]"
 ---
 
 # Peloton

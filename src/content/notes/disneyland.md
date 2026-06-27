@@ -13,6 +13,7 @@ aliases:
   - "Disneyland"
 related:
   - "[[How Callaway Golf Increases Fan Engagement During Major Championship Weeks]]"
+  - "[[In Defense of Disney - Research]]"
 reference_count: 2
 ---
 

@@ -23,6 +23,8 @@ related:
   - "[[Berkshire Hathaway Annual Letters]]"
   - "[[Cost of Capital]]"
   - "[[Benchmark]]"
+  - "[[The Rise of Adam Neumann - Research]]"
+  - "[[Flow]]"
 reference_count: 7
 ---
 

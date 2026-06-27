@@ -18,6 +18,7 @@ related:
   - "[[Adaptive Realty]]"
   - "[[March 5th, 2020 — Moses Kagan (Adaptive Realty)]]"
   - "[[SMB]]"
+  - "[[The Rise of Adam Neumann - Research]]"
   - "[[Teamshares]]"
 ---
 

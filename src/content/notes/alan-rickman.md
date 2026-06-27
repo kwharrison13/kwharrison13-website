@@ -1,28 +1,28 @@
 ---
 title: "Alan Rickman"
-type: "concept"
+type: "person"
 publish: false
 confidence: "low"
-created: "2026-06-16"
-updated: "2026-06-25"
+created: "2026-06-26"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
-  - "wiki/books/Discipline Is Destiny.md"
+  - "Kyle's Roam research graph — 'The Rising Generation' notes"
 tags: []
 aliases:
   - "Alan Rickman"
 related:
-  - "[[Discipline Is Destiny]]"
-  - "[[Ryan Holiday]]"
-reference_count: 1
+  - "[[The Rising Generation - Research]]"
 ---
 
 # Alan Rickman
 
-Appears in [Discipline Is Destiny](/books/discipline-is-destiny) as the source of a one-line aphorism Kyle flagged: *"Everything you do is cumulative."* [Ryan Holiday](/notes/ryan-holiday) uses the quote to anchor the Stoic argument that discipline is built in the daily and undramatic — the "Same as Last Year" / continuous-improvement frame where small repeated actions compound over time rather than relying on heroic single efforts.
+**One-line:** *Actor whose advice to aspiring young actors gives Kyle the experiences-over-outcomes core of [The Rising Generation](/essays/the-rising-generation).*
 
-**Context:** Alan Rickman (1946–2016) was a British actor known for roles including Severus Snape in the Harry Potter films, Hans Gruber in *Die Hard*, and Colonel Brandon in *Sense and Sensibility*.
+## What we know
 
-## Where this appears
+- Advice to aspiring young actors that Kyle returns to often: *"Forget about acting. Whatever you do as an actor is cumulative. Go to art galleries, listen to music… So that when a quality piece of writing is put in front of you your imagination, which you've nurtured, has something to bounce off of."* Not a rejection of the outcome (acting) — an emphasis on the experiences that shape who you are when you arrive at it. (source: The Rising Generation - Research)
 
-- [Discipline Is Destiny](/books/discipline-is-destiny) — quoted ("Everything you do is cumulative") to support the book's emphasis on daily, compounding discipline over the dramatic
+## Mentioned in
+
+- The Rising Generation - Research — the "Experiences Over Outcomes" section.

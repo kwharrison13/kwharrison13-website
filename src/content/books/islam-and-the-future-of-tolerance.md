@@ -15,7 +15,7 @@ key_takeaways_status: "written"
 
 <!-- key-takeaways -->
 - The book hunts for common ground in "the universality of human, democratic, and secular values" rather than in theology.
-- Nawaz's core move is interpretive: scripture "has no voice of its own," so Islam in practice is whatever its adherents read it to be — which makes Islamism and jihadism *politicized contemporary readings*, not Islam and jihad as such.
+- Nawaz's core move is interpretive: scripture "has no voice of its own," so Islam in practice is whatever its adherents read it to be — which makes [Islamism](/notes/islamism) and jihadism *politicized contemporary readings*, not Islam and jihad as such.
 - It rejects the naïve "jihad just means inner struggle" line while insisting armed struggle in any tradition can be just or unjust, defensive or offensive — and that religiously-motivated warfare is not unique to Islam.
 - Harris's recurring complaint: that "Islamophobia" gets treated as a bigger problem than literalist Islam, and that critiquing an idea is conflated with bigotry.
 <!-- /key-takeaways -->
@@ -23,7 +23,7 @@ key_takeaways_status: "written"
 ## Connections
 
 <!-- interconnections -->
-**People:** Sam Harris — one of the two interlocutors; presses the case that critiquing Islam is not bigotry. Maajid Nawaz — former Islamist; argues Islam is what its adherents interpret it to be.
+**People:** [Sam Harris](/notes/sam-harris) — one of the two interlocutors; presses the case that critiquing Islam is not bigotry. [Maajid Nawaz](/notes/maajid-nawaz) — former Islamist; argues Islam is what its adherents interpret it to be.
 
 **Concepts:** [Free Speech](/notes/free-speech) — "Critiquing Islam, critiquing any idea, is not bigotry." [Religious Intellectualism](/notes/religious-intellectualism) — the interpretive theory of scripture (no text "has its own voice").
 <!-- /interconnections -->

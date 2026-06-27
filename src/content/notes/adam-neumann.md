@@ -19,8 +19,12 @@ related:
   - "[[It's Time To Build... But Build What - Research]]"
   - "[[The Hits Business - Research]]"
   - "[[The Rise of The Cash Man]]"
+  - "[[The Rise of Adam Neumann - Research]]"
+  - "[[Flow]]"
   - "[[Marc Andreessen]]"
   - "[[Venture Capital]]"
+  - "[[Stewards of Capital]]"
+  - "[[Stewards of Capital - Research]]"
 ---
 
 # Adam Neumann

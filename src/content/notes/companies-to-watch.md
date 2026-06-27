@@ -37,7 +37,7 @@ The dedicated `wiki/companies-to-watch/` folder:
 - LlamaIndex — "Building the data framework for LLMs"; saved link, June 8th, 2023 call log
 - Hometogo — short-term rental marketplace; June 2026 inbox capture
 - Meetglimpse — June 2026 inbox capture
-- Siftery — June 2026 inbox capture
+- [Siftery](/notes/siftery) — June 2026 inbox capture
 - Make School — SF-based alternative higher education program (YC-affiliated); tagged #[Alternative Education](/notes/alternative-education), June 2026 inbox capture
 - Curatio — all-secondary situation, ~$80M ARR; flagged by Cathy Gao, July 19th, 2024 call
 - Defense Unicorns — defense software; flagged by Cathy Gao, July 19th, 2024 call
