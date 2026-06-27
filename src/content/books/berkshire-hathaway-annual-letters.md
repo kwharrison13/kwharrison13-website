@@ -20,7 +20,7 @@ Reading this less as passive consumption and more as building out an investment 
 
 2. **The [Family of Companies](/notes/family-of-companies) / Holding Co model.** Berkshire treated as a model for VC fund structure — a portfolio that holds and compounds rather than churns. "Funds or collections of shareholders, if assembled correctly, could much more effectively be leveraged as a collaborative body."
 
-3. **The [Bifurcation of Investing](/notes/bifurcation-of-investing).** A conceptual framework hammered out across the notes. As funds grow they're forced to move upmarket, leaving a long tail of smaller opportunities. [Tracy Britt-Cole](/notes/tracy-britt-cole)'s departure from Berkshire as the recurring case study.
+3. **The [Bifurcation of Investing](/notes/bifurcation-of-investing).** A conceptual framework hammered out across the notes. As funds grow they're forced to move upmarket, leaving a long tail of smaller opportunities. [Tracy Britt Cool](/notes/tracy-britt-cool)'s departure from Berkshire as the recurring case study.
 
 4. **Working with people you respect; finding multipliers.** Multiple notes circle the same observation — both in business partnership and (explicitly) in marriage. "Don't look for someone you can fix, or whose glaring flaws you think you can patch over with your own strengths. Find people who will excel with or without you." Tag: [Two Complete People](/notes/two-complete-people).
 
