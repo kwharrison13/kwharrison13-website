@@ -22,7 +22,7 @@ reference_count: 1
 
 # Sahil Bloom
 
-Writer/curator cited in Kyle's Historical Futurism - Research doc. In the "Literature of Dreaming" reading lists, Bloom's "Futurology" thread is one of the curated entry points behind the [Historical Futurism](/essays/historical-futurism) essay — and Kyle credits Bloom with exposing him to the [Future(s) Studies subreddit](/notes/futurology).
+Writer/curator cited in Kyle's Historical Futurism - Research doc. In the "Literature of Dreaming" reading lists, Bloom's "Futurology" thread is one of the curated entry points behind the [Historical Futurism](/notes/historical-futurism) essay — and Kyle credits Bloom with exposing him to the [Future(s) Studies subreddit](/notes/futurology).
 
 **Context:** Sahil Bloom is a writer, investor, and content creator known for his widely-followed Twitter/X threads and *The Curiosity Chronicle* newsletter on mental models, wealth, and self-improvement.
 

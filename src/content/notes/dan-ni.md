@@ -19,7 +19,7 @@ reference_count: 1
 
 # Dan Ni
 
-A person Kyle had a conversation with that fed the "A Failure To Dream" section of Historical Futurism - Research. The takeaway from that conversation: there is basically no good optimistic fiction, and that shortage is upstream of a lot of things — it leads to poor perception of tech in the media and overt pessimism. The point reinforces the essay's central argument that the scarcity of optimistic storytelling carries a real downstream cost for innovation. See [Historical Futurism](/essays/historical-futurism).
+A person Kyle had a conversation with that fed the "A Failure To Dream" section of Historical Futurism - Research. The takeaway from that conversation: there is basically no good optimistic fiction, and that shortage is upstream of a lot of things — it leads to poor perception of tech in the media and overt pessimism. The point reinforces the essay's central argument that the scarcity of optimistic storytelling carries a real downstream cost for innovation. See [Historical Futurism](/notes/historical-futurism).
 
 ## Where this appears
 

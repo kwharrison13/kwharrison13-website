@@ -24,7 +24,7 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 
 **People:** [George Orwell](/notes/george-orwell) — author; the allegory's argument that revolutions devolve into the tyranny they overthrew.
 
-**Concepts:** [Propaganda](/notes/propaganda) — Squealer's revisionism and the Party slogans as instruments of control. [War](/notes/war) — framed as deliberate destruction of surplus labor to keep the masses too poor to think. [Historical Futurism](/essays/historical-futurism) — the book read as preventive medicine against trading freedom for security.
+**Concepts:** [Propaganda](/notes/propaganda) — Squealer's revisionism and the Party slogans as instruments of control. [War](/notes/war) — framed as deliberate destruction of surplus labor to keep the masses too poor to think. [Historical Futurism](/notes/historical-futurism) — the book read as preventive medicine against trading freedom for security.
 <!-- /interconnections -->
 
 ## Highlights

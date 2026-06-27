@@ -11,7 +11,7 @@ substack_url: "https://investing101.substack.com/p/automating-clinical-trials-wi
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/life-imitates-art">Life Imitates Art</a>, <a href="/essays/science-fictions-dueling-fates">Science Fiction's Dueling Fates</a>, <a href="/essays/back-to-the-future">Back To The Future</a>, <a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/long-enough-to-matter">Long Enough To Matter</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/life-imitates-art">Life Imitates Art</a>, <a href="/essays/science-fictions-dueling-fates">Science Fiction's Dueling Fates</a>, <a href="/essays/back-to-the-future">Back To The Future</a>, <a href="/essays/historical-futurism">Historical Futurism (Essay)</a>, <a href="/essays/long-enough-to-matter">Long Enough To Matter</a></span></div>
 </aside>
 <!-- connections-end -->
 

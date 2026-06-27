@@ -59,7 +59,7 @@ related:
 
 - **The Meme Economy - Research** — one of the three "What I'm Reading" pieces feeding [The Meme Economy](/essays/the-meme-economy). Altman's "future of humanity should be determined by humanity" and the gradual-transition framing rhyme with the essay's thread that narratives shape reality.
 - **[The Meme Economy](/essays/the-meme-economy)** — the published essay this piece was read into; the "AGI determined by humanity" line is one of its source quotes.
-- **[Historical Futurism](/essays/historical-futurism)** — the present-tense, paint-the-future-you-want posture, shared with [The Enchanted Notebook](/notes/the-enchanted-notebook).
+- **[Historical Futurism](/notes/historical-futurism)** — the present-tense, paint-the-future-you-want posture, shared with [The Enchanted Notebook](/notes/the-enchanted-notebook).
 - **[The Enchanted Notebook](/notes/the-enchanted-notebook)** — paired here as another instance of the optimistic, future-you-want-to-build framing.
 - **[Storytelling](/notes/storytelling)** — Altman's claim that sharing progress publicly shapes the AGI transition treats narrative as a steering mechanism for the future.
 - **People:** [Sam Altman](/notes/sam-altman) — the author, writing as OpenAI's mission statement on stewarding AGI.

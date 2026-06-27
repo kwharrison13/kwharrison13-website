@@ -44,7 +44,7 @@ key_takeaways_status: "written"
 - [Mimetics](/notes/mimetics) — [René Girard](/notes/ren-girard)'s mimetic desire (popularized by Thiel) explains how bubbles channel imitation and FOMO into productive coordination.
 - [Nuclear Energy](/notes/nuclear-energy) — the Manhattan Project and nuclear power are the book's purest "apocalyptic technology" case study of an innovation-accelerating bubble.
 - [Crypto](/notes/crypto) — Bitcoin is analyzed as a self-referential "bubble machine" and social bubble, with Nakamoto cast as a sacrificing messianic founder.
-- [Historical Futurism](/essays/historical-futurism) — the book's whole frame: reading past megaprojects to recover an ambitious vision of the future.
+- [Historical Futurism](/notes/historical-futurism) — the book's whole frame: reading past megaprojects to recover an ambitious vision of the future.
 - [Progress Studies](/notes/progress-studies) — diagnoses techno-scientific stagnation (declining TFP, diminishing research returns, the reproducibility crisis) and prescribes bubbles as the exit ramp.
 - [Capital Allocation](/notes/capital-allocation) — distinguishes innovation-accelerating bubbles from financialization-driven mean-reversion bubbles and critiques [Private Equity](/notes/private-equity) / passive investing as present-oriented.
 - [Bell Labs](/notes/bell-labs), [Xerox PARC](/notes/xerox-parc), [Skunk Works](/books/skunk-works) — the corporate R&D labs whose bubble-like dynamics produced the transistor, the GUI, and Cold War aerospace.

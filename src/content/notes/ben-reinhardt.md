@@ -20,7 +20,7 @@ reference_count: 1
 
 # Ben Reinhardt
 
-Appears in Kyle's [Historical Futurism](/essays/historical-futurism) research as the author of a curated reading thread on "Where's My Flying Car," cited in the section collecting curated reading lists alongside [Daniel Ek](/notes/daniel-ek)'s and [Sahil Bloom](/notes/sahil-bloom)'s lists. He sits in the research's roster of futurist-leaning thinkers feeding the historical-futurism theme.
+Appears in Kyle's [Historical Futurism](/notes/historical-futurism) research as the author of a curated reading thread on "Where's My Flying Car," cited in the section collecting curated reading lists alongside [Daniel Ek](/notes/daniel-ek)'s and [Sahil Bloom](/notes/sahil-bloom)'s lists. He sits in the research's roster of futurist-leaning thinkers feeding the historical-futurism theme.
 
 **Context:** Ben Reinhardt is a researcher and writer focused on advancing technology and research-funding models — known for the essay "Where Is My Flying Car?" / "Why Does DARPA Work?" and for founding Speculative Technologies (formerly PARPA), an effort to build new R&D institutions.
 

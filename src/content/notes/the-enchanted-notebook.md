@@ -72,6 +72,6 @@ related:
 ## How it connects
 
 - **The Meme Economy - Research** — a "What I'm Reading" piece feeding [The Meme Economy](/essays/the-meme-economy). The present-tense, "paint-the-future" method is the constructive twin of the essay's [Reality Distortion Field](/notes/reality-distortion-field) thread: storytelling as a tool that *builds* reality, not just describes it.
-- **[Historical Futurism](/essays/historical-futurism)** — Kurzweil's hyper-optimistic, exponential-curve futurism is the canonical case.
+- **[Historical Futurism](/notes/historical-futurism)** — Kurzweil's hyper-optimistic, exponential-curve futurism is the canonical case.
 - **[Storytelling](/notes/storytelling)** — "innovation is half storytelling"; the Amazon Future Press Release as a writing discipline (cf. Amazon's six-page narratives in The Storytelling of Investing - Research).
 - **People/Orgs:** [Packy McCormick](/notes/packy-mccormick), [Ray Kurzweil](/notes/ray-kurzweil), [Not Boring](/notes/not-boring), [Jeff Bezos](/notes/jeff-bezos), [Michael Dempsey](/notes/michael-dempsey). **Books:** [The Singularity is Near](/notes/the-singularity-is-near).

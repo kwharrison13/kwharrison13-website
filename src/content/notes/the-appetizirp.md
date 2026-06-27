@@ -54,5 +54,5 @@ related:
 - [Kurt Vonnegut](/notes/kurt-vonnegut) — the pessimistic pole of the automation debate via *Player Piano* (1952): mechanization breeds unemployment, unrest, and lost dignity.
 - [Isaac Asimov](/notes/isaac-asimov) — the optimistic counter via *Whatever You Wish*: machines free humans for literature, arts, and philosophy, making work elective.
 - [Abundance](/notes/abundance) — the underlying thesis that productivity and globalization push more people past basic survival needs.
-- [Historical Futurism](/essays/historical-futurism) — the frame for reading present "phenomena" as previews of a much stranger future.
+- [Historical Futurism](/notes/historical-futurism) — the frame for reading present "phenomena" as previews of a much stranger future.
 - [Science Fiction](/notes/science-fiction) — the Vonnegut/Asimov tension that structures the essay's argument about a post-automation society.

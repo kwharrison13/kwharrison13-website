@@ -34,3 +34,5 @@ The template is meant to make research *consistent* — the same headings get fi
 - [Networked Conviction — Roam + Investing](/essays/networked-conviction-roam-investing) — described as one of his two main "list" pages and demoed step-by-step as the scaffolding he drags into each company page
 - Networked Conviction — Roam + Investing - Research — research notes underlying that essay
 - [Investment Frameworks](/notes/investment-frameworks) — the companion frameworks library, cross-linked as the other half of his research toolkit
+
+> **See also:** the Learning resource of the same name — Investment Memo Template (Learning) (different page; same title, lives in the `learning/` collection at `/learning/investment-memo-template`).

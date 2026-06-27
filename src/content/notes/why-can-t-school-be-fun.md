@@ -39,7 +39,7 @@ related:
 
 ## Key claims
 
-- **School is built for the wrong era.** "The only certainty is uncertainty." 65% of students entering primary school today will work jobs that don't exist yet. The system was built for the industrial revolution, not the digital revolution — and schools aren't equipped to be [historical futurists](/essays/historical-futurism) who understand trends backwards and forwards.
+- **School is built for the wrong era.** "The only certainty is uncertainty." 65% of students entering primary school today will work jobs that don't exist yet. The system was built for the industrial revolution, not the digital revolution — and schools aren't equipped to be [historical futurists](/notes/historical-futurism) who understand trends backwards and forwards.
 - **It teaches compliance and punishes difference.** Windowless classrooms, "straight from the textbook" lectures, fear-inducing rituals; kids who wander off the well-lit path get bad grades ([Alternative Education](/notes/alternative-education)).
 - **We need more choice.** Americans get freedom of choice from airlines to toothpaste but a monolithic school system that hinders its imaginative constituents.
 - **Automation raises the stakes.** Computers will automate mindless tasks, "spelling the end of the menial jobs school prepares its students for" — 47% of jobs could be automated within two decades ([Automation](/notes/automation)). Schools should raise **global citizens**, not robotic conformists.
@@ -56,11 +56,11 @@ related:
 
 ## Kyle's notes
 
-  > **Kyle:** *Schools aren't equipped to be [Historical Futurism](/essays/historical-futurism)'s and understand the trends backwards and forwards.*
+  > **Kyle:** *Schools aren't equipped to be [Historical Futurism](/notes/historical-futurism)'s and understand the trends backwards and forwards.*
 
 ## How it connects
 
 - [David Perell](/notes/david-perell) — an early-career education piece, the most fully argued of his student-era reform writing.
 - [Alternative Education](/notes/alternative-education) / [Montessori](/notes/montessori) / [Sora Schools](/notes/sora-schools) / [project-based learning](/notes/project-based-learning) — the models for trial-and-error, imagination-first schooling.
 - [Automation](/notes/automation) — the labor-market pressure that makes the reform urgent.
-- [Historical Futurism](/essays/historical-futurism) — the lens schools lack: reading trends forward instead of teaching for the past.
+- [Historical Futurism](/notes/historical-futurism) — the lens schools lack: reading trends forward instead of teaching for the past.

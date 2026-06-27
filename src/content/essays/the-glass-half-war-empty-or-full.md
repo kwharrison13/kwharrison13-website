@@ -11,7 +11,7 @@ substack_url: "https://investing101.substack.com/p/the-glass-half-war-empty-or-f
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/taking-a-breath">Taking a Breath</a>, <a href="/essays/i-choose-optimism">I Choose Optimism</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/the-meme-economy">The Meme Economy</a>, <a href="/essays/being-honest-about-intellectual-honesty">Being Honest About Intellectual Honesty</a>, <a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/the-gospel-of-ark-invest">The Gospel of ARK Invest</a>, <a href="/essays/its-time-to-build-but-build-what">It's Time To Build... But Build What?</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/taking-a-breath">Taking a Breath</a>, <a href="/essays/i-choose-optimism">I Choose Optimism</a>, <a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/the-meme-economy">The Meme Economy</a>, <a href="/essays/being-honest-about-intellectual-honesty">Being Honest About Intellectual Honesty</a>, <a href="/essays/historical-futurism">Historical Futurism (Essay)</a>, <a href="/essays/the-gospel-of-ark-invest">The Gospel of ARK Invest</a>, <a href="/essays/its-time-to-build-but-build-what">It's Time To Build... But Build What?</a></span></div>
 </aside>
 <!-- connections-end -->
 

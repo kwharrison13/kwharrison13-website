@@ -44,7 +44,7 @@ A specific marginal frame worth keeping: "Our personal identities and our areas 
 - [Romney — A Reckoning](/books/romney-a-reckoning) — adjacent on the educated-electorate question.
 - [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — the "increasing confidence without increasing performance" frame surfaces in both; Munger's [Spirit of Humility](/notes/spirit-of-humility).
 - [The Righteous Mind](/books/the-righteous-mind) — Nichols cites [Jonathan Haidt](/notes/jonathan-haidt) on values overriding facts ("almost everyone finds a way to stick with their values and reject the evidence").
-- [Talent](/books/talent) — adjacent on what genuine domain expertise actually looks like.
+- [Talent (Book)](/books/talent) — adjacent on what genuine domain expertise actually looks like.
 
 **Concepts:**
 

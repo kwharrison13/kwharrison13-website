@@ -33,3 +33,5 @@ The page pairs with [Investment Memo Template](/notes/investment-memo-template) 
 - [Networked Conviction — Roam + Investing](/essays/networked-conviction-roam-investing) — described as a core reusable Roam page; the block-referenceable collection of investors' frameworks, with the Munger checklist rationale
 - [Investment Memo Template](/notes/investment-memo-template) — paired counterpart; frameworks are the checklist library, the template is the memo structure
 - Networked Conviction — Roam + Investing - Research — research notes on splitting framework vs. memo templates and building a metadata index of frameworks
+
+> **See also:** the Learning resource of the same name — Investment Frameworks (Learning) (different page; same title, lives in the `learning/` collection at `/learning/investment-frameworks`).

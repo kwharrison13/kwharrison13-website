@@ -25,7 +25,7 @@ reference_count: 1
 
 # Story Summit
 
-The Story Summit appears in Kyle's Historical Futurism - Research notes as an example under "The Artist's Rendition — visual storytelling," the essay section about artists translating speculative dreams back to everyday people. Per those notes it is an event hosted by science-fiction author [Ken Liu](/notes/ken-liu) (surfaced via Alexandria Labs), cited as one of the cultural venues where storytellers help close the [Historical Futurism](/essays/historical-futurism) feedback loop from imagined futures to forecasting to building.
+The Story Summit appears in Kyle's Historical Futurism - Research notes as an example under "The Artist's Rendition — visual storytelling," the essay section about artists translating speculative dreams back to everyday people. Per those notes it is an event hosted by science-fiction author [Ken Liu](/notes/ken-liu) (surfaced via Alexandria Labs), cited as one of the cultural venues where storytellers help close the [Historical Futurism](/notes/historical-futurism) feedback loop from imagined futures to forecasting to building.
 
 Kyle's notes carry only that single reference; the precise scope, format, and organizer of the summit are not detailed beyond the Ken Liu / Alexandria Labs framing.
 

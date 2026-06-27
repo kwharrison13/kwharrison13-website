@@ -42,7 +42,7 @@ This is the most professionally-aligned book in the library — Buffett as scaff
 - [Buffett: The Biography](/books/buffett-the-biography) — primary biographical source on the same subject.
 - [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism) — direct thematic opposite. Worth holding in tension.
 - [The Almanack of Naval Ravikant](/books/the-almanack-of-naval-ravikant) — adjacent compound-knowledge framing.
-- [Talent](/books/talent) — the people-multiplier thesis surfaces in both.
+- [Talent (Book)](/books/talent) — the people-multiplier thesis surfaces in both.
 - [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — the alternative-VC frame; Berkshire as VC-shaped-differently.
 - [Skunk Works](/books/skunk-works) — culture-as-competitive-moat overlap.
 - [The Founders](/books/the-founders) — talent-vortex / scenius overlap; [PayPal](/notes/paypal) as a network of multipliers.

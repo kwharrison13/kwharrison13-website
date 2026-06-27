@@ -19,7 +19,7 @@ reference_count: 1
 
 # Gene Roddenberry
 
-Gene Roddenberry appears in Kyle's Historical Futurism - Research in the roster of people whose work feeds the [Historical Futurism](/essays/historical-futurism) essay — listed alongside science-fiction and futurist figures such as [Arthur C. Clarke](/notes/arthur-c-clarke), [Isaac Asimov](/notes/isaac-asimov), [William Gibson](/notes/william-gibson), [Ursula K. Le Guin](/notes/ursula-k-le-guin), [Ray Bradbury](/notes/ray-bradbury), and [Gerard K. O'Neill](/notes/gerard-k-o-neill). He sits among the storytellers whose imagined futures Kyle is mining for how speculative fiction shapes (and is shaped by) its era's optimism about technology and civilization.
+Gene Roddenberry appears in Kyle's Historical Futurism - Research in the roster of people whose work feeds the [Historical Futurism](/notes/historical-futurism) essay — listed alongside science-fiction and futurist figures such as [Arthur C. Clarke](/notes/arthur-c-clarke), [Isaac Asimov](/notes/isaac-asimov), [William Gibson](/notes/william-gibson), [Ursula K. Le Guin](/notes/ursula-k-le-guin), [Ray Bradbury](/notes/ray-bradbury), and [Gerard K. O'Neill](/notes/gerard-k-o-neill). He sits among the storytellers whose imagined futures Kyle is mining for how speculative fiction shapes (and is shaped by) its era's optimism about technology and civilization.
 
 **Context:** Gene Roddenberry (1921–1991) was an American screenwriter and producer best known as the creator of *Star Trek*, whose optimistic, post-scarcity vision of the future became one of the most influential frames in 20th-century science fiction.
 

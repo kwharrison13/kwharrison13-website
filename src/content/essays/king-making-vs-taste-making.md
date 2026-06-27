@@ -12,7 +12,7 @@ substack_url: "https://investing101.substack.com/p/king-making-vs-taste-making"
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
   <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/sapiens">Sapiens</a></span></div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/whats-in-a-post-mortem">What's In a Post-Mortem?</a>, <a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/historical-futurism">Historical Futurism</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-storytelling-of-investing">The Storytelling of Investing</a>, <a href="/essays/whats-in-a-post-mortem">What's In a Post-Mortem?</a>, <a href="/essays/the-unbundling-of-venture-capital">The Unbundling of Venture Capital</a>, <a href="/essays/historical-futurism">Historical Futurism (Essay)</a></span></div>
 </aside>
 <!-- connections-end -->
 

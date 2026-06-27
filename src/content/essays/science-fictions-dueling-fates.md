@@ -12,7 +12,7 @@ substack_url: "https://investing101.substack.com/p/science-fictions-dueling-fate
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
   <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/1984">1984</a>, <a href="/books/brave-new-world">Brave New World</a>, <a href="/books/nuclear-war-a-scenario">Nuclear War: a Scenario</a>, <a href="/books/2034-a-novel-of-the-next-world-war">2034: A Novel of the Next World War</a></span></div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/life-imitates-art">Life Imitates Art</a>, <a href="/essays/the-value-cycle">The Value Cycle</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a>, <a href="/essays/the-hits-business">The Hits Business</a>, <a href="/essays/panic-writing">Panic Writing</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/historical-futurism">Historical Futurism (Essay)</a>, <a href="/essays/life-imitates-art">Life Imitates Art</a>, <a href="/essays/the-value-cycle">The Value Cycle</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a>, <a href="/essays/the-hits-business">The Hits Business</a>, <a href="/essays/panic-writing">Panic Writing</a></span></div>
 </aside>
 <!-- connections-end -->
 

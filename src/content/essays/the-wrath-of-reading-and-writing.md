@@ -11,7 +11,7 @@ substack_url: "https://investing101.substack.com/p/the-wrath-of-reading-and-writ
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/historical-futurism">Historical Futurism</a>, <a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/networked-conviction-roam-investing">Networked Conviction: Roam + Investing</a>, <a href="/essays/competitive-moats">Competitive Moats</a>, <a href="/essays/2022-in-books">2022 in Books</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/networked-conviction-roam-investing">Networked Conviction: Roam + Investing</a>, <a href="/essays/competitive-moats">Competitive Moats</a>, <a href="/essays/2022-in-books">2022 in Books</a></span></div>
 </aside>
 <!-- connections-end -->
 

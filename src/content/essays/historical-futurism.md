@@ -1,5 +1,5 @@
 ---
-title: "Historical Futurism"
+title: "Historical Futurism (Essay)"
 date: 2023-07-29
 tags: ["culture", "investing"]
 excerpt: "Using Science Fiction to Invent the Future"

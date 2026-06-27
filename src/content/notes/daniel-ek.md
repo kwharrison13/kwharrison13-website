@@ -19,7 +19,7 @@ reference_count: 1
 
 # Daniel Ek
 
-Referenced in Historical Futurism - Research as the source of a curated book list (shared via his @eldsjal account on X) that Kyle filed among the futurism-and-speculative-fiction reading lists feeding the essay's "Literature Of Dreaming" section. See [Historical Futurism](/essays/historical-futurism).
+Referenced in Historical Futurism - Research as the source of a curated book list (shared via his @eldsjal account on X) that Kyle filed among the futurism-and-speculative-fiction reading lists feeding the essay's "Literature Of Dreaming" section. See [Historical Futurism](/notes/historical-futurism).
 
 **Context:** Daniel Ek is the Swedish entrepreneur who co-founded and runs Spotify, the music-streaming company.
 

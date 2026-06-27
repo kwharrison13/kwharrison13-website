@@ -25,7 +25,7 @@ reference_count: 3
 
 # Arthur C. Clarke
 
-A science-fiction writer and futurist who recurs across Kyle's corpus as a touchstone for [Historical Futurism](/essays/historical-futurism) — the practice of forecasting technology's shape and timing. In Kyle's research, Clarke's 1960s-written "21st-century timeline" optimistically projected a rapid path from the lunar landing to planetary colonization by 2000 and fusion power in the 1980s–90s, and his short story "The Nine Billion Names of God" appears on Kyle's curated SF reading list (Historical Futurism - Research).
+A science-fiction writer and futurist who recurs across Kyle's corpus as a touchstone for [Historical Futurism](/notes/historical-futurism) — the practice of forecasting technology's shape and timing. In Kyle's research, Clarke's 1960s-written "21st-century timeline" optimistically projected a rapid path from the lunar landing to planetary colonization by 2000 and fusion power in the 1980s–90s, and his short story "The Nine Billion Names of God" appears on Kyle's curated SF reading list (Historical Futurism - Research).
 
 Clarke also threads through two of Kyle's read books. In [Amazon Unbound](/books/amazon-unbound), Clarke is named (alongside [Isaac Asimov](/notes/isaac-asimov) and Robert A. Heinlein) as one of the SF authors [Jeff Bezos](/notes/jeff-bezos) treated as a "blueprint" for conversational computing — the inevitability-of-voice belief that drove Alexa. In [The Idea Factory](/books/the-idea-factory), Clarke supplies the book's title image: he called Bell Labs "a factory for ideas" whose "production lines are invisible," and had earlier written an obscure paper anticipating geosynchronous communications satellites — the very idea John Pierce later pursued at Bell Labs.
 

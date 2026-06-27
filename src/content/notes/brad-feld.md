@@ -25,7 +25,7 @@ reference_count: 3
 
 # Brad Feld
 
-A venture capitalist and prolific writer who recurs in Kyle's notes mainly as the author of [How To Predict The Future](/notes/how-to-predict-the-future) (feld.com, 2012) — a long read Kyle annotated. In that piece Feld lays out his core forecasting method: use the smooth, *linear* trend in underlying hardware to time the *non-linear* technology disruptions that ride on top of it ("forget about trying to predict advancements in software and just look at the hardware trend"). That essay anchors Feld's place in Kyle's [Historical Futurism](/essays/historical-futurism) and [Forecasting](/notes/forecasting) threads (Historical Futurism - Research).
+A venture capitalist and prolific writer who recurs in Kyle's notes mainly as the author of [How To Predict The Future](/notes/how-to-predict-the-future) (feld.com, 2012) — a long read Kyle annotated. In that piece Feld lays out his core forecasting method: use the smooth, *linear* trend in underlying hardware to time the *non-linear* technology disruptions that ride on top of it ("forget about trying to predict advancements in software and just look at the hardware trend"). That essay anchors Feld's place in Kyle's [Historical Futurism](/notes/historical-futurism) and [Forecasting](/notes/forecasting) threads (Historical Futurism - Research).
 
 Feld also appears in Kyle's media-landscape thinking: his long-running blog (cited as "Feld Notes" / Feld Thoughts) is listed alongside [Stratechery](/notes/stratechery), Exponential View, and [Gates Notes](/notes/bill-gates) as an example of an influential operator-written publication (The State of Startup Media - Research).
 

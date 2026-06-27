@@ -66,7 +66,7 @@ I’ve enjoyed having a healthy diet of fiction in my repertoire. Going forward,
 
 ### Playbooks
 
-What books are left after you take out all the fiction, there isn’t much. But between [[Talent]], [[The Power Law: Venture Capital & the Making of the New Future|The Power Law]], and [[The Almanack of Naval Ravikant|The Navalmanack]], you start see these crystallized lessons from practitioners. I’ve [written before](https://investing1012dot0.substack.com/p/the-professionalization-of-startups) about the professionalization of startups:
+What books are left after you take out all the fiction, there isn’t much. But between [[Talent (Book)]], [[The Power Law: Venture Capital & the Making of the New Future|The Power Law]], and [[The Almanack of Naval Ravikant|The Navalmanack]], you start see these crystallized lessons from practitioners. I’ve [written before](https://investing1012dot0.substack.com/p/the-professionalization-of-startups) about the professionalization of startups:
 
 > *“If you step back and look at the breadth of startup experience that people have today you'll start to appreciate two things. First, it's impressive the kinds of incredible experience people have now built up. And second, we're really just getting into the first generation of that experience being widespread.”*
 

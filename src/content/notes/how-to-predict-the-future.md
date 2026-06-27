@@ -52,5 +52,5 @@ _Verbatim excerpts Kyle captured, in source order._
 
 - [Brad Feld](/notes/brad-feld) — author.
 - [Forecasting](/notes/forecasting) — the article's core method: linear trends to time non-linear events.
-- [Historical Futurism](/essays/historical-futurism) — predicting the shape and timing of future technology.
+- [Historical Futurism](/notes/historical-futurism) — predicting the shape and timing of future technology.
 - [William Hertling](/notes/william-hertling) — sci-fi novelist whose near-term AI fiction prompts the piece.

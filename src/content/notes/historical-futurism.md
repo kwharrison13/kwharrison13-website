@@ -31,12 +31,12 @@ related:
 
 **One-line:** *Treating the future as a discipline by looking **backward** at how the past imagined its future ("looking back to see forward") — to build a feedback loop of foundational futures → a literature of dreaming → dreamers → forecasting → building. A cousin of [open-source knowledge](/notes/open-source-knowledge): open-source imagination. The thesis is that the shortage of **optimistic** [science fiction](/notes/science-fiction) has a real downstream cost, because to invent the future people first need to be inspired by hopeful visions of it.*
 
-This is the recurring concept/thesis Kyle tags as #[Historical Futurism](/essays/historical-futurism) across his notes. The published essay is [Historical Futurism (Essay)](/essays/historical-futurism) (subtitle: *"Using Science Fiction to Invent the Future"*); the full research dossier is Historical Futurism - Research.
+This is the recurring concept/thesis Kyle tags as #[Historical Futurism](/notes/historical-futurism) across his notes. The published essay is [Historical Futurism (Essay)](/essays/historical-futurism) (subtitle: *"Using Science Fiction to Invent the Future"*); the full research dossier is Historical Futurism - Research.
 
 ## Captured entries
 
 - https://amp.theguardian.com/books/2019/jul/25/what-will-palestine-be-like-in-2048-writers-turn-to-sci-fi-for-the-answer — Guardian: "What will Palestine be like in 2048? Writers turn to sci-fi for the answer." Fiction as a tool for imagining a real place's future. #[Science Fiction](/notes/science-fiction)
-- https://en.m.wikipedia.org/wiki/Future_of_Humanity_Institute — Wikipedia: the Future of Humanity Institute (Oxford; Nick Bostrom's multidisciplinary center for big-picture research on humanity's long-term future). Saved in Kyle's April 30th, 2020 Roam "Quick Capture" log. #[Historical Futurism](/essays/historical-futurism)
+- https://en.m.wikipedia.org/wiki/Future_of_Humanity_Institute — Wikipedia: the Future of Humanity Institute (Oxford; Nick Bostrom's multidisciplinary center for big-picture research on humanity's long-term future). Saved in Kyle's April 30th, 2020 Roam "Quick Capture" log. #[Historical Futurism](/notes/historical-futurism)
 
 ## Related concepts
 
