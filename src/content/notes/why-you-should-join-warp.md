@@ -46,12 +46,12 @@ related:
 - As of 2021, there were roughly 1.8 million software developers in North America working in industries ranging from technology to healthcare to financial services.
 - Software engineers are expensive, both to recruit and retain. Companies will pay top dollar to maximize the productivity of their developers, either through SaaS tools (Jira, CircleCI, IntelliJ) or other means (pallets of RedBull, 8pm dinner service, free bananas at Amazon).
 - For example, [Salesforce ($CRM)](/notes/salesforce) came to dominate the CRM market by introducing the first cloud-based offering with a revolutionary SaaS-style pricing model. They then expanded into marketing tools, data visualization, enterprise communications, and building the nicest offices in San Francisco.
-- In the status quo, engineering managers use tools like LinearB and Jellyfish to track high-level, task-related analytics to identify bottlenecks (i.e. unreviewed PRs) and optimize workflows.
+- In the status quo, engineering managers use tools like [LinearB](/notes/linearb) and [Jellyfish](/notes/jellyfish) to track high-level, task-related analytics to identify bottlenecks (i.e. unreviewed PRs) and optimize workflows.
 - In the status quo, an engineer's productivity on terminal-related work is heavily dependent on their individual proficiency with the command line. It's difficult for an individual to be effective without knowing a significant number of commands and flags by heart.
 - A performance benchmark comparison of these terminals done by the Warp team can be found [here](https://docs.warp.dev/performance/performance).
 - They don't pose a competitive risk to Warp, like how [Pencil Project](https://pencil.evolus.vn/) never posed a threat to Figma.
 - Warp fills a large gap in the market by providing a terminal that is just as accessible as it is powerful. It will build a long-term advantage by capturing the hearts and minds of the next generation of programmers just as they're starting.
-- That said, the open source terminal with the strongest potential of becoming a competitor would be Hyper. Hyper was developed by and is actively maintained by Vercel, the unicorn startup behind Next.js, a popular front-end framework. Hyper is already very popular and Vercel already has a strong relationship with and understanding of engineering teams.
+- That said, the open source terminal with the strongest potential of becoming a competitor would be Hyper. Hyper was developed by and is actively maintained by [Vercel](/notes/vercel), the unicorn startup behind Next.js, a popular front-end framework. Hyper is already very popular and Vercel already has a strong relationship with and understanding of engineering teams.
 - Even here, however, Warp would have an upper hand due to performance: since Hyper is built using web technologies (HTML/JS/CSS, WebGL), it is orders of magnitude slower than the Rust-based Warp. This will not only hinder group adoption of their main terminal, but it will also make writing performant UI and compute-heavy extensions/overlays to it difficult.
 - A developer community will build extensions for an "app store" similar to the one on VSCode, which will provide additional value to every Warp user. It'll be difficult for competitors to get individuals to leave because a new terminal ecosystem would have far fewer apps and extensions.
 - They have a level of craftsmanship and obsession rarely found on engineering teams, partially due to how everyone on the team uses the product every day.
@@ -71,6 +71,6 @@ related:
 
 - [Warp](/notes/warp) — the subject; the Rust-based, cloud-native, team-oriented terminal emulator led by [Zach Lloyd](/notes/zach-lloyd). Kyle met with Zach in NYC the same week (see October 17th, 2022 — Contrary HQ Sync).
 - [Zach Lloyd](/notes/zach-lloyd) — Warp's CEO, whose "product-first" essay frames the engineering culture.
-- Vercel — maintainer of Hyper, the open-source terminal flagged as Warp's strongest potential competitor (but slower because it's web-tech based).
+- [Vercel](/notes/vercel) — maintainer of Hyper, the open-source terminal flagged as Warp's strongest potential competitor (but slower because it's web-tech based).
 - [Salesforce](/notes/salesforce) — cited as the model for a cloud-first wedge expanding into an adjacent platform.
-- LinearB / Jellyfish — incumbent engineering-analytics tools that measure developer bottlenecks at a higher level than the terminal.
+- [LinearB](/notes/linearb) / [Jellyfish](/notes/jellyfish) — incumbent engineering-analytics tools that measure developer bottlenecks at a higher level than the terminal.

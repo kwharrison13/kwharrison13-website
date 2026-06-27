@@ -30,7 +30,7 @@ related:
 
 - A Rust-based terminal emulator, initially on macOS — pitched as the first terminal to give everyone (not just veterans) "terminal superpowers," the first designed for the cloud, and the first designed for teams (source: [Why You Should Join Warp](/notes/why-you-should-join-warp)).
 - CEO is [Zach Lloyd](/notes/zach-lloyd), who prizes a "product-first" engineering culture.
-- Strongest potential competitor framed as Hyper (maintained by Vercel, behind Next.js), but Warp claims a performance edge because Hyper is built on web tech (HTML/JS/CSS, WebGL) vs. Rust.
+- Strongest potential competitor framed as Hyper (maintained by [Vercel](/notes/vercel), behind Next.js), but Warp claims a performance edge because Hyper is built on web tech (HTML/JS/CSS, WebGL) vs. Rust.
 - Plans a VSCode-style extension "app store" as an ecosystem moat; Mike Krieger (Instagram co-founder) cited as a daily-driver fan.
 - Kyle (at [Contrary](/notes/contrary)) flagged Warp as an existing-portfolio relationship to deepen, planning to meet "Zach @ Warp" in NYC the week of October 17, 2022 (source: October 17th, 2022 — Contrary HQ Sync).
 

@@ -24,6 +24,7 @@ related:
   - "[[Wisdom]]"
   - "[[Intelligence]]"
   - "[[Where Is Wisdom? — Russell M. Nelson]]"
+  - "[[Zeal Without Knowledge — Hugh Nibley]]"
 reference_count: 1
 ---
 

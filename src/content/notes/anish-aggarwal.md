@@ -26,7 +26,7 @@ related:
 ## What we know
 
 - At [Alkeon](/notes/alkeon) (the growth-equity / venture firm) as of October 2022 (source: October 17th, 2022 — Anish Aggarwal (Alkeon)).
-- Read on portfolio/market: Fiddler Labs was doing well; Papaya Global wasn't doing great, nor were similar companies like Oyster HR.
+- Read on portfolio/market: [Fiddler Labs](/notes/fiddler-labs) was doing well; [Papaya Global](/notes/papaya-global) wasn't doing great, nor were similar companies like [Oyster HR](/notes/oyster-hr).
 
 ## Mentioned in
 
