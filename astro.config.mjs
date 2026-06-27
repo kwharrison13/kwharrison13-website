@@ -50,6 +50,9 @@ export default defineConfig({
     // "The Navalmanack" is the informal name for "The Almanack of Naval Ravikant"
     // (the catalog title / canonical /books slug); a dup stub page was deleted.
     '/books/the-navalmanack': '/books/the-almanack-of-naval-ravikant',
+    // "VC: An American History" uses website_slug: "vc" for a short canonical URL;
+    // preserve the default title-slug URL that was previously linked/indexed.
+    '/books/vc-an-american-history': '/books/vc',
   },
   markdown: {
     remarkPlugins: [remarkStripRwid],
