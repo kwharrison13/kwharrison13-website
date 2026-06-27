@@ -48,7 +48,7 @@ _Saved in Kyle's April 30th, 2020 Roam "Quick Capture" log._
 - Christopher Vanzetta at [Reddit](/notes/reddit)
 - Kara Chambers at The Motley Fool
 - [Brittany Rohde](/notes/brittany-rohde) at [GitLab](/notes/gitlab)
-- Colleen Neary at Faire
+- [Colleen Neary](/notes/colleen-neary) at Faire
 - Marisa Fezza at [Ro](/notes/ro)
 
 ## Chief People Officer / Head of People / VP of People

@@ -39,6 +39,10 @@ The dedicated `wiki/companies-to-watch/` folder:
 - Meetglimpse — June 2026 inbox capture
 - Siftery — June 2026 inbox capture
 - Make School — SF-based alternative higher education program (YC-affiliated); tagged #[Alternative Education](/notes/alternative-education), June 2026 inbox capture
+- Curatio — all-secondary situation, ~$80M ARR; flagged by Cathy Gao, July 19th, 2024 call
+- Defense Unicorns — defense software; flagged by Cathy Gao, July 19th, 2024 call
+- Tandem — Series A prescription-concierge ([a16z](/notes/a16z)); flagged by [Zabie Elmgren](/notes/zabie-elmgren), September 23rd, 2024 call
+- Saronic — Seed-stage naval defense ([a16z](/notes/a16z) / [American Dynamism](/notes/american-dynamism)); flagged by [Zabie Elmgren](/notes/zabie-elmgren), September 23rd, 2024 call
 
 ## Where this appears
 
