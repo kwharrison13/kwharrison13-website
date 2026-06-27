@@ -43,7 +43,7 @@ related:
 
 ## In Kyle's analysis
 
-[The Rise of The Cash Man](/essays/the-rise-of-the-cash-man) uses Flow not to endorse it (Kyle is explicitly **not a bull**) but to reverse-engineer "the venture process" — how a firm "makes the numbers work" on a [storyteller](/notes/storytelling) founder by stacking component businesses (RRE hold-co · property management · subscription community · data) into a comp sheet (~6x forward revenue, comps AppFolio / CoStar / Greystar) and a WeWork-scale forward model (~$30B / 10x if it works; "WeWork 2.0" at 1–2x revenue if it raises $20B and falls short). The pragmatic floor: "strike out all the fluff and you have a fancy property management company," whose best-in-class comp (Greystar) already puts Flow's valuation underwater. See the full notes in The Rise of The Cash Man - Research.
+[The Rise of The Cash Man](/essays/the-rise-of-the-cash-man) uses Flow not to endorse it (Kyle is explicitly **not a bull**) but to reverse-engineer "the venture process" — how a firm "makes the numbers work" on a [storyteller](/notes/storytelling) founder by stacking component businesses (RRE hold-co · property management · subscription community · data) into a comp sheet (~6x forward revenue, comps [AppFolio](/notes/appfolio) / [CoStar](/notes/costar) / [Greystar](/notes/greystar)) and a WeWork-scale forward model (~$30B / 10x if it works; "WeWork 2.0" at 1–2x revenue if it raises $20B and falls short). The pragmatic floor: "strike out all the fluff and you have a fancy property management company," whose best-in-class comp ([Greystar](/notes/greystar)) already puts Flow's valuation underwater. See the full notes in The Rise of The Cash Man - Research.
 
 ## Where this appears
 

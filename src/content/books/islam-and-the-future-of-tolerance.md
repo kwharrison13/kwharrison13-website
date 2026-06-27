@@ -7,7 +7,7 @@ quake: false
 tags:
   - "religious-intellectualism"
   - "people-over-politics"
-last_imported: "2026-06-26"
+last_imported: "2026-06-27"
 key_takeaways_status: "written"
 ---
 

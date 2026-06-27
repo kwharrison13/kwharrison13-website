@@ -7,7 +7,7 @@ quake: false
 tags:
   - "technological-innovation"
   - "people-over-politics"
-last_imported: "2026-06-26"
+last_imported: "2026-06-27"
 key_takeaways_status: "written"
 ---
 

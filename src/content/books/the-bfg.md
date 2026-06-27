@@ -5,7 +5,7 @@ year_read: 2024
 rating: 3
 quake: false
 tags: []
-last_imported: "2026-06-26"
+last_imported: "2026-06-27"
 key_takeaways_status: "written"
 ---
 

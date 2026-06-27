@@ -9,7 +9,7 @@ quake: true
 tags:
   - "religious-intellectualism"
   - "ideological-family-tree"
-last_imported: "2026-06-26"
+last_imported: "2026-06-27"
 key_takeaways_status: "written"
 ---
 

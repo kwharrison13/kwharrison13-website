@@ -6,7 +6,7 @@ rating: 4
 quake: false
 tags:
   - "capital-allocation"
-last_imported: "2026-06-26"
+last_imported: "2026-06-27"
 key_takeaways_status: "written"
 ---
 
