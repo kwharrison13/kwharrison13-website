@@ -8,6 +8,7 @@ updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — April 30th, 2020: ~/Downloads/April 30th, 2020.md"
+  - "Roam export — Talent (people leaders / recruiting marketplaces / HR investors): ~/Downloads/Talent.md"
 tags:
   - "talent"
 aliases:
@@ -29,6 +30,45 @@ Talent is a recurring theme in Kyle's notes around sourcing, representing, devel
 _Saved in Kyle's April 30th, 2020 Roam "Quick Capture" log._
 
 - On accessing expertise on demand: "There's rarely a magic bullet for immersing yourself in a new industry—but Toptal is pretty close. You can know nothing about a particular business area, but post your project on Toptal and they will recommend experts for you to work with. So let's say you want to develop an app that helps salons book appointments more efficiently. You can post that exact sentence on Toptal and they'll help you find mobile developers. It's that simple."
+
+## Talent / recruiting marketplaces
+
+- Triplebyte
+- Toptal — hasn't raised since 2012, might be struggling.
+
+## People leaders (talent / recruiting)
+
+- [Johnny Curl](/notes/johnny-curl) at [GO1](/notes/go1)
+- [Natalie Gavello](/notes/natalie-gavello) at [Persona](/notes/persona)
+- Bruce Lee Lang at [Retool](/notes/retool)
+- [Olivia Gochnour](/notes/olivia-gochnour) at [Tiled](/notes/tiled)
+- [Amber Kammer](/notes/amber-kammer) at [Weave](/notes/weave)
+- [Mattson Heiner](/notes/mattson-heiner) at [Adobe](/notes/adobe)
+- [Shilo Riddle](/notes/shilo-riddle) at [Spiff](/notes/spiff)
+- Christopher Vanzetta at [Reddit](/notes/reddit)
+- Kara Chambers at The Motley Fool
+- [Brittany Rohde](/notes/brittany-rohde) at [GitLab](/notes/gitlab)
+- Colleen Neary at Faire
+- Marisa Fezza at [Ro](/notes/ro)
+
+## Chief People Officer / Head of People / VP of People
+
+- Jessica Neal, former Chief Talent Officer at [Netflix](/notes/netflix)
+- Mary Francis, Global Head of People at [Uber ($UBER)](/notes/uber)
+- Carolyn Frey, Chief People Officer at [Curology](/notes/curology) — previously at [Philz Coffee](/notes/philz-coffee)
+- [Kristen Hayward](/notes/kristen-hayward), Head of People at [Superhuman](/notes/superhuman)
+- [Alexandra Agnoletti](/notes/alexandra-agnoletti), Head of People at [Segment](/notes/segment)
+- Shaya Fidel, Head of People at Tray.io
+- [Catherine Saarinen](/notes/catherine-saarinen), Head of People at [RevenueCat](/notes/revenuecat)
+- Katie Morrow, VP of People Operations at Podium
+- Erica Alioto, Head of People at Grammarly
+- [Veronica Pohls](/notes/veronica-pohls), VP of People at [Mercury](/notes/mercury)
+- [Marie Szuts](/notes/marie-szuts), former VP of People at [Figma](/notes/figma)
+- Margie Lee-Johnson, VP of People at [Addepar](/notes/addepar)
+
+## HR investors
+
+- Robby Peters at People Tech Partners
 
 ## Related concepts
 
