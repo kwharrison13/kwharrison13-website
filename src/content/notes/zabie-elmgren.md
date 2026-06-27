@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-25"
+updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Pave Diligence — 2021.md"
@@ -20,6 +20,8 @@ aliases:
 related:
   - "[[September 17th, 2021 — Zabie Elmgren on Employee Ownership]]"
   - "[[December 13th, 2021 — Zabie Elmgren (Human Capital)]]"
+  - "[[September 23rd, 2024 — Zabie Elmgren (Chemistry Ventures)]]"
+  - "[[Chemistry Ventures]]"
   - "[[Index Ventures]]"
   - "[[Human Capital]]"
   - "[[Employee Ownership]]"
@@ -38,4 +40,6 @@ Zabie Elmgren is a talent/recruiting contact of Kyle's at [Index Ventures](/note
 - December 13th, 2021 — Zabie Elmgren (Human Capital) — long talent/networking conversation about the [Human Capital](/notes/human-capital) model and its "parachute-in" pivot at [Index Ventures](/notes/index-ventures).
 - September 17th, 2021 — Zabie Elmgren on Employee Ownership — emailed founder-facing resources (equity spreadsheet + beginner guide) on communicating equity value to early employees. #[Employee Ownership](/notes/employee-ownership)
 - November 5th, 2021 — Intro to Perennial fka Cloud Agronomics (Zabie Elmgren) — Elmgren as the intro point for the Perennial (climate / soil-carbon) sourcing call.
+- November 5th, 2021 — Intro to Perennial fka Cloud Agronomics (Zabie Elmgren) — Elmgren as the intro point for the Perennial (climate / soil-carbon) sourcing call.
+- September 23rd, 2024 — Zabie Elmgren (Chemistry Ventures) — now at [Chemistry Ventures](/notes/chemistry-ventures); walked through two investing themes (back-office logistics automation, security/vulnerability remediation) plus [a16z](/notes/a16z) companies to watch (Tandem, Saronic).
 - Pave Diligence — 2021 — appears in Kyle's contact map around talent and compensation tooling.

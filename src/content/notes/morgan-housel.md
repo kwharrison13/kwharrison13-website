@@ -6,7 +6,8 @@ confidence: "medium"
 created: "2026-06-16"
 updated: "2026-06-26"
 last_updated_by: "agent"
-sources: []
+sources:
+  - "Roam Research daily-note export — September 23rd, 2024: ~/Downloads/September 23rd, 2024.md"
 tags: []
 aliases:
   - "Morgan Housel"
@@ -19,6 +20,11 @@ related:
   - "[[Warren Buffett]]"
   - "[[Howard Marks]]"
   - "[[Financial Independence]]"
+  - "[[September 23rd"
+  - "2024 — Morgan Housel (On Jack Raines)]]"
+  - "[[Jack Raines]]"
+  - "[[Collaborative Fund]]"
+  - "[[Nick Maggiulli]]"
 ---
 
 # Morgan Housel
@@ -37,6 +43,7 @@ Beyond the book, Housel anchors Kyle's "storytelling of investing" thread. The [
 - [Naked Brands](/notes/naked-brands) — the Naked Brands interview: free-flowing information, content, and trust in asset management.
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — Kyle's margin note connecting buyer-attribute marketing to Housel on Buffett and Marks.
 - [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — listed among the people in the investing/behavioral cluster.
+- September 23rd, 2024 — Morgan Housel (On Jack Raines) — reference call assessing [Jack Raines](/notes/jack-raines) as a writer/hire; Housel's [Collaborative Fund](/notes/collaborative-fund) experience with brand vs. marketing and self-starter writers ([Nick Maggiulli](/notes/nick-maggiulli) as the only comparable young talent).
 
 
 ## Full Reading List

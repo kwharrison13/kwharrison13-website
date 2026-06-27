@@ -23,6 +23,8 @@ related:
   - "[[June 26th, 2026 — Contrary Research Office Hours]]"
   - "[[Harry Stebbings]]"
   - "[[Ramp]]"
+  - "[[September 23rd, 2024 — Eric Tarczynski (Contrary Update)]]"
+  - "[[Foundations & Frontiers]]"
   - "[[Julie Chen]]"
   - "[[Joel Kwartler]]"
   - "[[Hook.xyz]]"
@@ -47,6 +49,7 @@ related:
 - **Portfolio updates Kyle tracked.** [Candor](/notes/candor) ([Kelsey Bishop](/notes/kelsey-bishop)) ran through Contrary's monthly investor-update stream that Kyle read across 2022; the [Contrary - Portfolio Updates (Feb 2022)](/notes/contrary-portfolio-updates-feb-2022) log captures one such sweep.
 - **Tools-for-thought sourcing.** [Plexus](/notes/plexus) surfaced in a 1x1 with [Luke Piette](/notes/luke-piette) during a [Tools For Thought](/notes/tools-for-thought) / [Brain Interfaces](/notes/brain-interfaces) thread, "situating Plexus within the tools-for-thought space Kyle was tracking at Contrary" (alongside [Ideaflow](/notes/ideaflow) and [Roam Research](/notes/roam-research)).
 - **LP / capital context.** The deal-flow log connects out to LP-base reading — [Almost $14 Billion Pulled From CalPERS Equity Managers](/notes/almost-14-billion-pulled-from-calpers-equity-managers) and [Assembly Bill 2041 — UC Office of the Chief Investment Officer](/notes/assembly-bill-2041-uc-office-of-the-chief-investment-officer) ([UC Investments](/notes/uc-investments)).
+- **Fund 5 fundraising / strategy.** The September 23rd, 2024 — Eric Tarczynski (Contrary Update) call with [Eric Tarczynski](/notes/eric-tarczynski) covers the tight budget, ~$40M closed against a ~$75M ceiling, the Fund 5/Fund 6 path and DPI goals, the future of [Foundations & Frontiers](/essays/introducing-foundations-and-frontiers), and letting Jen run Research as a product org.
 
 ## Related concepts
 

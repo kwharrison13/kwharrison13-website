@@ -17,6 +17,8 @@ related:
   - "[[Taylor Greene]]"
   - "[[March 5th, 2020 — Taylor Greene (Collaborative Fund)]]"
   - "[[Teamshares]]"
+  - "[[Morgan Housel]]"
+  - "[[September 23rd, 2024 — Morgan Housel (On Jack Raines)]]"
 ---
 
 # Collaborative Fund
@@ -30,3 +32,4 @@ The call is significant in Kyle's notes less as company diligence than as a care
 ## Where this appears
 
 - March 5th, 2020 — Taylor Greene (Collaborative Fund) — reference call with [Taylor Greene](/notes/taylor-greene), who led [Teamshares](/notes/teamshares)' Seed round from Collaborative Fund; covers the Teamshares origin (ExitPlace), the storytelling thesis, and fundraise-as-the-risk framing.
+- September 23rd, 2024 — Morgan Housel (On Jack Raines) — partner [Morgan Housel](/notes/morgan-housel) on Collaborative Fund's hiring/brand philosophy: hiring self-starter writers and "just go do your thing," building brand over marketing, not tracking attribution/KPIs, and an endowment that reached out via Housel's blog.

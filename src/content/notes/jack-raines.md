@@ -16,6 +16,8 @@ related:
   - "[[Infinite Games]]"
   - "[[Young Money]]"
   - "[[Embrace The Nuance - Research]]"
+  - "[[September 23rd, 2024 — Morgan Housel (On Jack Raines)]]"
+  - "[[Morgan Housel]]"
 ---
 
 # Jack Raines
@@ -28,3 +30,5 @@ Jack Raines is a writer whose work runs through [Young Money](/notes/young-money
 
 - [Infinite Games](/notes/infinite-games) — Raines is the author; the long-read is his application of [James Carse](/notes/james-carse)'s framework to life.
 - Embrace The Nuance - Research — his "Ask Good Questions" piece is cited on asking better questions to cut through information overload.
+- September 23rd, 2024 — Morgan Housel (On Jack Raines) — [Morgan Housel](/notes/morgan-housel) assesses Raines as a writer/hire: "age-adjusted, the best writer in the world," exceptional prose and maturity, the shitposting-vs-LP tension, and why high-tier writers resist being molded.
+- May 2nd, 2024 — Guillermo Campos — Raines introduced Kyle to [Guillermo Campos](/notes/guillermo-campos).

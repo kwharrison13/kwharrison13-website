@@ -15,6 +15,7 @@ aliases:
 related:
   - "[[Historical Futurism - Research]]"
   - "[[Forecasting]]"
+  - "[[September 23rd, 2024 — Morgan Housel (On Jack Raines)]]"
 reference_count: 1
 ---
 
@@ -27,3 +28,4 @@ Surfaces in the Historical Futurism - Research notes as the writer behind *Dolla
 ## Where this appears
 
 - Historical Futurism - Research — cited (via *Dollars and Data*) for the point that failed predictions don't matter, supporting the essay's case on forecasting humility.
+- September 23rd, 2024 — Morgan Housel (On Jack Raines) — [Morgan Housel](/notes/morgan-housel) names Maggiulli as the only writer comparable to [Jack Raines](/notes/jack-raines), and one of just two writers in the last decade whose first post made him think "this guy has it."

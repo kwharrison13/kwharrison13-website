@@ -20,6 +20,7 @@ related:
   - "[[Turn River Capital]]"
   - "[[April 5th, 2022 — Frederik Gieschen & Eric Tarczynski (Contrary Research)]]"
   - "[[March 5th, 2020 — Eric Tarczynski (Contrary Capital)]]"
+  - "[[September 23rd, 2024 — Eric Tarczynski (Contrary Update)]]"
 ---
 
 # Eric Tarczynski
@@ -35,5 +36,6 @@ Kyle's earliest reference is the March 5th, 2020 — Eric Tarczynski (Contrary C
 - March 5th, 2020 — Eric Tarczynski (Contrary Capital) — early reference call during Kyle's Teamshares diligence; SaaS roll-ups and the stay-vs-jump tradeoff
 - June 24th, 2021 — Brainstorm with Gokul Rajaram, Eric Tarczynski & Saanya Ojha — brainstorm on building a sourcing universe and pre-empting rounds
 - April 5th, 2022 — Frederik Gieschen & Eric Tarczynski (Contrary Research) — strategy for Contrary Research, the Research Fellow role and differentiation
+- September 23rd, 2024 — Eric Tarczynski (Contrary Update) — Fund 5 fundraising/budget, the future of [Foundations & Frontiers](/essays/introducing-foundations-and-frontiers), and feedback that Kyle should let Jen run Research as a product org
 - [Contrary](/notes/contrary) — the firm he founded; the community-first-then-fund model Kyle joined as a Partner
 - [Contrary 2.0](/notes/contrary-2-0) / Contrary Growth — later-stage evolution of the firm referenced in Kyle's notes

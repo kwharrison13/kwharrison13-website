@@ -20,6 +20,28 @@
     "slug": "12-rules-for-life"
   },
   {
+    "title": "28 Lessons from Start-ups That Failed",
+    "full_title": "28 Lessons from Start-ups That Failed",
+    "author": "Michael Dariano",
+    "published": "2016",
+    "pages": "<TODO from source>",
+    "amazon_url": "https://www.amazon.com/s?k=28+Lessons+from+Start-ups+That+Failed+Michael+Dariano",
+    "where_seen": [
+      "Recommended by Morgan Housel on Thinking and Walking — Morgan Housel (Invest Like the Best Ep. 4)"
+    ],
+    "connections": [
+      {
+        "title": "Morgan Housel",
+        "url": "/notes/morgan-housel"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "company-building"
+    ],
+    "slug": "28-lessons-from-start-ups-that-failed"
+  },
+  {
     "title": "A Canticle for Leibowitz",
     "full_title": "A Canticle for Leibowitz",
     "author": "Walter M. Miller Jr.",
@@ -1884,6 +1906,29 @@
       "religious-intellectualism"
     ],
     "slug": "the-government-of-god"
+  },
+  {
+    "title": "The Great Depression: A Diary",
+    "full_title": "The Great Depression: A Diary",
+    "author": "Benjamin Roth",
+    "published": "2009",
+    "pages": 288,
+    "amazon_url": "https://www.amazon.com/s?k=The+Great+Depression+A+Diary+Benjamin+Roth",
+    "where_seen": [
+      "Recommended by Morgan Housel on Thinking and Walking — Morgan Housel (Invest Like the Best Ep. 4)"
+    ],
+    "connections": [
+      {
+        "title": "Morgan Housel",
+        "url": "/notes/morgan-housel"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "investing",
+      "personal-finance"
+    ],
+    "slug": "the-great-depression-a-diary"
   },
   {
     "title": "The Great Stagnation",

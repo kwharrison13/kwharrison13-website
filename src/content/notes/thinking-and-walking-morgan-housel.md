@@ -78,5 +78,5 @@ Blogs Housel flagged (tagged `#look-it-up` in the source):
 
 Books recommended (route to the anti-library, `#books-to-read`):
 
-- 28 Lessons from Start-ups That Failed — Michael Dariano
-- The Great Depression: A Diary — Benjamin Roth
+- [28 Lessons from Start-ups That Failed](/notes/28-lessons-from-start-ups-that-failed) — Michael Dariano
+- [The Great Depression: A Diary](/notes/the-great-depression-a-diary) — Benjamin Roth
