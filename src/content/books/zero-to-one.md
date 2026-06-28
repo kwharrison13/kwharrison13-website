@@ -8,7 +8,7 @@ tags:
   - "capital-allocation"
   - "technological-innovation"
   - "company-building"
-last_imported: "2026-06-27"
+last_imported: "2026-06-28"
 key_takeaways_status: "written"
 ---
 

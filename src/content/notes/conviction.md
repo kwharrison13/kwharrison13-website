@@ -41,3 +41,4 @@ The negative pole is just as important to the framing. [Bill Maher](/notes/bill-
 - [Contrarianism](/notes/contrarianism) — the paired concept conviction legitimizes.
 - [Naval Ravikant](/notes/naval-ravikant) · [Palmer Luckey](/notes/palmer-luckey) · [Chris Paik](/notes/chris-paik) · [Louis Rossmann](/notes/louis-rossmann) · [Bill Maher](/notes/bill-maher) — case-study figures in the conviction framing.
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — original `#conviction` hashtag source.
+- Accusations Of Culthood Are Always... (tweet) — [roon](/notes/roon) reframes cult accusations as jealousy of deep conviction: "everyone wishes they believed in anything so strongly."

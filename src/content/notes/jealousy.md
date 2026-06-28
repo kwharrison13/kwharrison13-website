@@ -13,7 +13,8 @@ aliases:
   - "Jealousy"
 related:
   - "[[Naval Ravikant — The Angel Philosopher]]"
-reference_count: 2
+  - "[[Accusations Of Culthood Are Always... (tweet)]]"
+reference_count: 3
 ---
 
 # Jealousy
@@ -23,3 +24,4 @@ Jealousy appears in [Naval Ravikant — The Angel Philosopher](/notes/naval-ravi
 ## Where this appears
 
 - [Naval Ravikant — The Angel Philosopher](/notes/naval-ravikant-the-angel-philosopher) — framed as a self-defeating, "poisonous" emotion Naval worked to overcome.
+- Accusations Of Culthood Are Always... (tweet) — [roon](/notes/roon) argues accusations of culthood are "always layered in jealousy"; everyone envies those who believe something so strongly.
