@@ -8,6 +8,7 @@ updated: "2026-06-28"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Philosophy 101 By Socrates.md"
+  - "wiki/books/The Design of Everyday Things.md"
 tags:
   - "republic-of-letters"
 aliases:
@@ -16,6 +17,7 @@ aliases:
 related:
   - "[[Philosophy 101 By Socrates]]"
   - "[[The Smartest Kids in The World]]"
+  - "[[The Design of Everyday Things]]"
 ---
 
 # Powell's
@@ -26,3 +28,4 @@ Powell's Books — the Portland independent bookstore — surfaces in Kyle's cor
 
 - [Philosophy 101 By Socrates](/books/philosophy-101-by-socrates) — recommended by Powell's.
 - [The Smartest Kids in The World](/books/the-smartest-kids-in-the-world) — recommended by Powell's.
+- [The Design of Everyday Things](/books/the-design-of-everyday-things) — recommended by Powell's (per Kyle's 2017 in books writeup).

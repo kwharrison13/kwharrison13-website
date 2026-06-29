@@ -9,6 +9,7 @@ last_updated_by: "agent"
 sources:
   - "wiki/books/Essentialism.md"
   - "wiki/books/Hillbilly Elegy.md"
+  - "wiki/books/The Design of Everyday Things.md"
 tags: []
 aliases:
   - "Learned Helplessness"
@@ -16,7 +17,8 @@ related:
   - "[[Essentialism]]"
   - "[[Hillbilly Elegy]]"
   - "[[Identity Formation]]"
-reference_count: 2
+  - "[[The Design of Everyday Things]]"
+reference_count: 3
 ---
 
 # Learned Helplessness
@@ -25,9 +27,12 @@ The psychological condition in which a person stops believing their efforts affe
 
 In [Hillbilly Elegy](/books/hillbilly-elegy), [J. D. Vance](/notes/j-d-vance) names the term directly to describe his own youth: the belief "that the choices I made had no effect on the outcomes in my life." The wiki note pairs it with the home message that countered the neighborhood's fatalism — "I received a different message at home. And that just might have saved me" — linking it to [Identity Formation](/notes/identity-formation) as the counterforce to inherited helplessness.
 
+[Don Norman](/notes/don-norman) gives the idea a design twist in [The Design of Everyday Things](/books/the-design-of-everyday-things): **"taught helplessness."** He asks whether common technology and math phobias are a form of learned helplessness in which "a few instances of failure in what appear to be straightforward situations generalize to every technological object, every mathematics problem" — and argues that the design of everyday things (and of math courses) is "almost guaranteed to cause this." Here the helplessness isn't just learned from the world; it's *engineered in* by bad design.
+
 **Context:** "Learned helplessness" was coined by psychologist Martin Seligman from 1960s experiments showing that subjects conditioned to experience uncontrollable outcomes stopped trying to escape even when escape became possible. It is now a foundational concept in research on depression, motivation, and resilience.
 
 ## Where this appears
 
 - [Essentialism](/books/essentialism) — the mathematically-challenged child and the two organizational responses (checking out vs. compulsive "do-it-all" hyperactivity)
 - [Hillbilly Elegy](/books/hillbilly-elegy) — [J. D. Vance](/notes/j-d-vance) names the term for the youthful belief that one's choices don't affect outcomes, countered by a different message at home
+- [The Design of Everyday Things](/books/the-design-of-everyday-things) — [Don Norman](/notes/don-norman)'s "taught helplessness": bad design conditioning people to blame themselves for technology and math failures

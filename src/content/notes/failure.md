@@ -10,6 +10,7 @@ sources:
   - "wiki/books/The Power Law — Venture Capital & the Making of the New Future.md"
   - "wiki/books/What It Takes.md"
   - "wiki/books/The Parents' Guide to Boys.md"
+  - "wiki/books/The Design of Everyday Things.md"
 tags: []
 aliases:
   - "Failure"
@@ -18,7 +19,8 @@ related:
   - "[[The Power Law]]"
   - "[[The Parents' Guide to Boys]]"
   - "[[Risk Management]]"
-reference_count: 3
+  - "[[The Design of Everyday Things]]"
+reference_count: 4
 ---
 
 # Failure
@@ -27,8 +29,11 @@ A recurring theme across Kyle's reading: failure as a permitted, instructive inp
 
 In [What It Takes](/books/what-it-takes), [Stephen A. Schwarzman](/notes/stephen-a-schwarzman) treats defining mistakes as the best teachers — the typos, the botched deal book, the Edgcomb loss and the screaming investor: "Failures are often the best teachers… You must not bury your failures but talk about them openly and analyze what went wrong." He frames the lesson at the inflection point: "If you fail, they see only the failure… But it's at these inflection points that the most important lessons in business and life are learned." Kyle's note attaches [David O. McKay](/notes/david-o-mckay)'s "No other success can compensate for failure in the home." In [The Parents' Guide to Boys](/books/the-parents-guide-to-boys), the same idea appears in child-rearing: "failure is the first step toward success," with losing as what teaches a boy to become a winner — though boys are warned not to let either failure or success define them unless an adult encourages it.
 
+[Don Norman](/notes/don-norman) makes the linguistic move explicit in [The Design of Everyday Things](/books/the-design-of-everyday-things): "We need to remove the word *failure* from our vocabulary, replacing it instead with *learning experience*. To fail is to learn." For makers he flips it into a quality bar — "If designers and researchers do not sometimes fail, it is a sign that they are not trying hard enough."
+
 ## Where this appears
 
 - [The Power Law](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — Khosla's "what was the message?" framing of structurally permissible failure; the Valley's evolutionary trial-and-failure dynamic.
 - [What It Takes](/books/what-it-takes) — Schwarzman's defining mistakes (the Edgcomb loss) as teachers you talk about openly rather than bury.
 - [The Parents' Guide to Boys](/books/the-parents-guide-to-boys) — failure as the first step toward success; losing as what teaches a boy to win.
+- [The Design of Everyday Things](/books/the-design-of-everyday-things) — [Don Norman](/notes/don-norman) replaces "failure" with "learning experience"; if designers never fail they aren't trying hard enough.

@@ -8,21 +8,29 @@ updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Amazon Unbound.md"
+  - "wiki/books/The Design of Everyday Things.md"
 tags: []
 aliases:
   - "User-Centered Design"
+  - "Human-Centered Design"
+  - "HCD"
 related:
   - "[[Amazon Unbound]]"
   - "[[Customer Obsession]]"
-reference_count: 1
+  - "[[The Design of Everyday Things]]"
+  - "[[Don Norman]]"
+reference_count: 2
 ---
 
 # User-Centered Design
 
 In Kyle's notes on [Amazon Unbound](/books/amazon-unbound), user-centered design is the lens he applies (tagged alongside #Empathy) to Amazon's operating model — the [Jeff Bezos](/notes/jeff-bezos) discipline of "working backwards" from the customer and treating [Customer Obsession](/notes/customer-obsession) as leadership principle #1. The book describes employees being trained to model Bezos's fourteen leadership principles daily, and being asked to write up "the most customer obsessed thing I had ever done." Practically it shows up as the press-release-first innovation ritual ("tell me what would be a magical product, then tell me how to get there") and the [Six-Page Narratives](/notes/six-page-narratives) memo culture — starting from the desired customer experience and reasoning back to the product.
 
+The phrase's popular origin is [Don Norman](/notes/don-norman)'s [The Design of Everyday Things](/books/the-design-of-everyday-things), where Human-Centered Design (HCD) is defined as the discipline of "avoid[ing] specifying the problem as long as possible but instead… iterat[ing] upon repeated approximations," grounded in direct [Observation](/notes/observation) of real users — "There is no substitute for direct observation of and interaction with the people who will be using the product." Norman's complement is that error is a design failure, not a user failure.
+
 **Context:** User-centered design is a product-development philosophy that grounds decisions in the needs, behaviors, and empathy for the end user rather than internal or technical constraints — closely related to Amazon's "customer obsession" / "working backwards" doctrine.
 
 ## Where this appears
 
 - [Amazon Unbound](/books/amazon-unbound) — Kyle tags Amazon's customer-obsession / working-backwards model as #User-Centered Design #Empathy.
+- [The Design of Everyday Things](/books/the-design-of-everyday-things) — [Don Norman](/notes/don-norman)'s HCD: defer the problem, iterate on approximations, observe real users in their natural environment.
