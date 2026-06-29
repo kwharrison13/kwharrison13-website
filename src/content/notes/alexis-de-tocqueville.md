@@ -21,6 +21,7 @@ related:
   - "[[American Zion]]"
   - "[[2054]]"
   - "[[Andrew Jackson]]"
+  - "[[Founders' Son]]"
 reference_count: 1
 ---
 

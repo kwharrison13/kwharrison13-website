@@ -63,7 +63,7 @@ related:
 
 - [Morgan Housel](/notes/morgan-housel) — the guest; this is early-career Housel, pre–*Psychology of Money*.
 - [Patrick O'Shaughnessy](/notes/patrick-o-shaughnessy) — host; Ep. 4 of his podcast.
-- The Motley Fool — where Housel used to write. (Note from the source: Mark Brooks at Permanent Equity also came out of The Motley Fool.)
+- The Motley Fool — where Housel used to write. (Note from the source: Mark Brooks at [Permanent Equity](/notes/permanent-equity) also came out of The Motley Fool.)
 - Derek Thompson / The Atlantic — referenced on pleasure-and-work flow.
 - [Reading](/notes/reading) and [Writing](/notes/writing) as a single compounding loop.
 - [Personal Finance](/notes/personal-finance) — the house/education/car heuristic.

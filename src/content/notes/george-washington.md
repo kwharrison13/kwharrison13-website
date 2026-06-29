@@ -15,6 +15,7 @@ aliases:
 related:
   - "[[American Sphinx]]"
   - "[[John Quincy Adams]]"
+  - "[[Founders' Son]]"
 ---
 
 # George Washington

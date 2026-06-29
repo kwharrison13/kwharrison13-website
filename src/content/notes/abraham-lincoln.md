@@ -18,6 +18,9 @@ related:
   - "[[Lincoln (Movie)]]"
   - "[[Leadership]]"
   - "[[John Quincy Adams]]"
+  - "[[Founders' Son]]"
+  - "[[Richard Brookhiser]]"
+  - "[[Founding Fathers]]"
 ---
 
 # Abraham Lincoln
@@ -28,7 +31,10 @@ The second thread runs through the [Emancipation Proclamation](/notes/emancipati
 
 **Context:** Abraham Lincoln (1809–1865) was the 16th President of the United States, who led the Union through the Civil War, issued the Emancipation Proclamation (1863), and was assassinated in 1865. (General background.)
 
+A third, deeper thread runs through [Founders' Son](/books/founders-son) — Richard Brookhiser's intellectual biography reading Lincoln as the self-conscious heir of the [Founding Fathers](/notes/founding-fathers). Lincoln "made a political philosophy, almost a theology, out of a man's right to own the fruits of his own labor"; treated the [Declaration of Independence](/notes/declaration-of-independence) as "the end" and the Constitution as "the means"; and in the 1838 Lyceum Address named the danger that an ambitious "towering genius" (a [Napoleon](/notes/napoleon)) would seek glory overturning the republic rather than maintaining it — answering that "the cure for the disease of self-government [is] self-government" (see [Build vs. Maintain](/notes/build-vs-maintain), [Self-Government](/notes/self-government)). His leadership-by-submission-to-the-voters model recurs here too: "The people had spoken, and Lincoln meant to do what he had told them he would do until they spoke differently."
+
 ## Where this appears
 
 - [2054](/books/2054) — a pre–Civil War Lincoln speech ("die by suicide") is quoted as the thematic anchor for the novel's internal-division warning.
 - [Emancipation Proclamation](/notes/emancipation-proclamation) — Lincoln (via [Lincoln (Movie)](/notes/lincoln-movie)) cited as the leadership model of acting against constituent will yet submitting it to the voters, contrasted with [John Quincy Adams](/books/john-quincy-adams).
+- [Founders' Son](/books/founders-son) — Brookhiser's intellectual biography of Lincoln as the founders' heir; the Declaration as "the principle of Liberty to all," the build-vs-maintain "towering genius" warning, and emancipation by voter approval.

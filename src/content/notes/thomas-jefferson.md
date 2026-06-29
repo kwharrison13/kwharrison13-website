@@ -20,6 +20,7 @@ related:
   - "[[The Death of Expertise]]"
   - "[[Republic of Letters]]"
   - "[[John Adams]]"
+  - "[[Founders' Son]]"
 reference_count: 2
 ---
 

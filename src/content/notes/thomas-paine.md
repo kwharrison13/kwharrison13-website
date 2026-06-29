@@ -16,6 +16,7 @@ aliases:
 related:
   - "[[Amusing Ourselves To Death]]"
   - "[[The Assault on Reason]]"
+  - "[[Founders' Son]]"
 ---
 
 # Thomas Paine

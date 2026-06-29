@@ -16,6 +16,7 @@ aliases:
 related:
   - "[[Joseph Smith Lecture 2 — Joseph's Personality and Character]]"
   - "[[Joseph Smith]]"
+  - "[[Founders' Son]]"
 ---
 
 # Stephen A. Douglas

@@ -15,6 +15,7 @@ related:
   - "[[John Quincy Adams]]"
   - "[[John C. Calhoun]]"
   - "[[Andrew Jackson]]"
+  - "[[Founders' Son]]"
 reference_count: 1
 ---
 
