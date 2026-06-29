@@ -17,6 +17,7 @@ aliases:
 related:
   - "[[Skunk Works]]"
   - "[[The Kill Chain]]"
+  - "[[What You Should Know About Politics... But Don't]]"
 ---
 
 # Military-Industrial Complex
