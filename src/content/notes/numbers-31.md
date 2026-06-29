@@ -18,7 +18,7 @@ reference_count: 1
 
 # Numbers 31
 
-Numbers 31 appears in Obedience — Topical Study (the "Nephi and Laban — sin vs. transgression" entry) as one of the scriptural instances where God's chosen people are commanded to kill, set against the commandment "thou shalt not kill" ([Exodus 20](/notes/exodus-20):13). Kyle lists Numbers 31:17–19 alongside other such passages to set up the apparent contradiction he wants to study: we are told not to kill, yet servants of God are occasionally *commanded* to kill — resolved, in the study, through [Joseph Smith](/notes/joseph-smith)'s principle that "that which is wrong under one circumstance, may be and often is, right under another," government by revelation adapted to circumstances. It frames Nephi's slaying of Laban as obedience under constraint rather than deliberate murder.
+Numbers 31 appears in Obedience — Topical Study (the "Nephi and Laban — sin vs. transgression" entry) as one of the scriptural instances where God's chosen people are commanded to kill, set against the commandment "thou shalt not kill" (Exodus 20:13). Kyle lists Numbers 31:17–19 alongside other such passages to set up the apparent contradiction he wants to study: we are told not to kill, yet servants of God are occasionally *commanded* to kill — resolved, in the study, through [Joseph Smith](/notes/joseph-smith)'s principle that "that which is wrong under one circumstance, may be and often is, right under another," government by revelation adapted to circumstances. It frames Nephi's slaying of Laban as obedience under constraint rather than deliberate murder.
 
 **Context:** Numbers 31 records Israel's war against the Midianites at the Lord's command through Moses; verses 17–19 contain the directive concerning the captives.
 
