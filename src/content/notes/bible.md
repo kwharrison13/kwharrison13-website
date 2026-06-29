@@ -15,6 +15,7 @@ aliases:
 related:
   - "[[John Quincy Adams]]"
   - "[[Hyper Publishing: The Wiki Strategy]]"
+  - "[[Old Testament]]"
 reference_count: 1
 ---
 
