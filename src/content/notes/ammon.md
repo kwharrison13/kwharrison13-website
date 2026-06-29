@@ -37,4 +37,4 @@ In the following week's chapters Ammon's converts (the Anti-Nephi-Lehies) "never
 - June 22–28, 2020. Alma 17–22: "I Will Make an Instrument of Thee" — the anchor study; "I will be thy servant," service as missionary work, and Ammon as the model for how to begin teaching
 - June 29–July 5, 2020. Alma 23–29: "They Never Did Fall Away" — Ammon's converts who "never did fall away" and his refusal to boast except "in my God" ([Alma 26](/notes/alma-26))
 - Teaching Repentance — Ammon (with Nephi son of Helaman) as a master teacher of "sweet boldness" who teaches without overt invitation
-- [What I Want My Son to Know before He Leaves on His Mission](/notes/what-i-want-my-son-to-know-before-he-leaves-on-his-mission) — Alma 17:25 cited as a mission charge: service is the measure of success
+- What I Want My Son to Know before He Leaves on His Mission — Alma 17:25 cited as a mission charge: service is the measure of success

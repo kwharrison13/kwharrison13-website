@@ -9,13 +9,23 @@ last_updated_by: "agent"
 sources:
   - "wiki/books/John Quincy Adams.md"
   - "wiki/long-reads/Hyper Publishing- The Wiki Strategy.md"
-tags: []
+  - "/Users/kwharrison13/Downloads/Bible.md"
+tags:
+  - "scripture-index"
+  - "old-testament"
+  - "new-testament"
 aliases:
   - "Bible"
+  - "The Bible"
+  - "Holy Bible"
 related:
   - "[[John Quincy Adams]]"
   - "[[Hyper Publishing: The Wiki Strategy]]"
   - "[[Old Testament]]"
+  - "[[New Testament]]"
+  - "[[Come"
+  - "Follow Me]]"
+  - "[[Gospel Study Content]]"
 reference_count: 1
 ---
 
@@ -26,6 +36,15 @@ The Bible surfaces in Kyle's notes from two angles. In [John Quincy Adams](/book
 The [Hyper Publishing: The Wiki Strategy](/notes/hyper-publishing-the-wiki-strategy) long read uses the Bible as the proof case for a structural argument about knowledge: it is "one of the world's largest hyperlinked documents" — 66 books, 1,189 chapters, 31,173 verses, 63,779 cross-references — and "stays influential by connecting disparate stories into a cohesive structure." The piece's thesis, "a network of individuals is infinitely more intelligent than any single person," is anchored to the Bible as the model: by "incorporating insights from countless individuals" and holding them together "by a web of hyperlinks," it remains "the most influential text in human history." This framing is directly relevant to Kyle's own wiki strategy.
 
 **Context:** The Bible is the central religious text of Christianity, a collection of books written across centuries; its dense internal cross-referencing has made it a frequent metaphor for hypertext and networked knowledge.
+
+## Scripture-study index
+
+This page also serves as the **root structural index** of Kyle's scripture study — the canon gathered in two divisions, each linking out to its own index page (and from there to the individual books and chapters), so that weekly [Come, Follow Me](/notes/come-follow-me) reading and topical studies all hang off a single spine:
+
+- Old Testament — the first division (39 books): the Law, the historical books, the wisdom and poetic books, and the major and minor prophets.
+- New Testament — the second division (27 books): the Gospels, Acts, the epistles, and Revelation.
+
+See also Gospel Study Content — the master index of Kyle's gospel-study corpus.
 
 ## Where this appears
 

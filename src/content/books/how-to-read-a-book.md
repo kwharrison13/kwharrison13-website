@@ -259,7 +259,7 @@ A side thread worth flagging: the question of whether reading FICTION can stretc
 - Knowledge, if you please, consists in those opinions that can be defended, opinions for which there is evidence of one kind or another. If we really know something, in this sense, we must believe that we can convince others of what we know. <!--rwid:rwid-814c255b9024-->
   > **Kyle:** *#[Mormon Apologetics](/notes/mormon-apologetics)*
 - We can do no more than opine that something is true when we have no evidence or reason for the statement other than our personal feeling or prejudice. We can say that it is true and that we know it when we have objective evidence that other reasonable men are likely to accept. <!--rwid:rwid-391552633d90-->
-  > **Kyle:** *#[Why I Believe](/notes/why-i-believe)*
+  > **Kyle:** *#Why I Believe*
 - The first is this. Since men are animals as well as rational, it is necessary to acknowledge the emotions you bring to a dispute, or those that arise in the course of it. Otherwise you are likely to be giving vent to feelings, not stating reasons. You may even think you have reasons, when all you have are strong feelings. <!--rwid:rwid-98247f865562-->
 - Second, you must make your own assumptions explicit. You must know what your prejudices—that is, your prejudgments—are. Otherwise you are not likely to admit that your opponent may be equally entitled to different assumptions. Good controversy should not be a quarrel about assumptions. <!--rwid:rwid-f9755cb79086-->
   > **Kyle:** *I want to see the block references in your thinking*
