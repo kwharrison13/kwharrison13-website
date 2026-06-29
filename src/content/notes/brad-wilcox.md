@@ -16,6 +16,7 @@ aliases:
   - "Brad Wilcox"
 related:
   - "[[His Grace is Sufficient]]"
+  - "[[His Grace Is Sufficient — Brad Wilcox]]"
   - "[[Atonement]]"
   - "[[Repentance]]"
   - "[[General Conference- October 2021]]"
@@ -32,5 +33,6 @@ His book [His Grace is Sufficient](/notes/his-grace-is-sufficient) is cited in K
 
 ## Where this appears
 
+- His Grace Is Sufficient — Brad Wilcox — his landmark 2011 BYU devotional on grace, transcribed in full with Kyle's emphasis.
 - General Conference- October 2021 — Wilcox's Saturday Evening address on repentance, worthiness, and loving Christ over hating oneself.
 - June 15–21, 2020. Alma 13–16: "Enter into the Rest of the Lord" — his book [His Grace is Sufficient](/notes/his-grace-is-sufficient) cited on sanctification and the desire to change.

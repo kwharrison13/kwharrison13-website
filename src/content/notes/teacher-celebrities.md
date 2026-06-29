@@ -26,7 +26,7 @@ related:
 ## How sources describe it
 
 - In [It's Time To Disrupt Our Archaic Education System](/notes/it-s-time-to-disrupt-our-archaic-education-system), [David Perell](/notes/david-perell) concedes that "there are teachers who make the classroom experience irreplaceable," but they "are few and far between," invoking the line "the quality of an education system cannot exceed the quality of its teachers."
-- [The Smartest Kids in The World](/books/the-smartest-kids-in-the-world) uses that same line directly: Amanda Ripley argues a system "cannot exceed the quality of its teachers," and that making teaching *harder* to enter (as in Finland) is what makes the profession respected and attractive.
+- [The Smartest Kids in The World](/books/the-smartest-kids-in-the-world) uses that same line directly: [Amanda Ripley](/notes/amanda-ripley) argues a system "cannot exceed the quality of its teachers," and that making teaching *harder* to enter (as in Finland) is what makes the profession respected and attractive.
 
 ## Where it shows up
 

@@ -23,6 +23,7 @@ related:
   - "[[Brad Wilcox]]"
   - "[[Atonement]]"
   - "[[Repentance]]"
+  - "[[His Grace Is Sufficient — Brad Wilcox]]"
 reference_count: 1
 ---
 
@@ -34,8 +35,11 @@ The talk anchors a thread Kyle traces through scripture about weakness made stre
 
 **Context:** "His Grace Is Sufficient" is a widely circulated devotional address given by Brad Wilcox at Brigham Young University in 2011, arguing that grace is not a final reward for those who have done their best but an enabling power available throughout the process of becoming.
 
+**Full talk:** the complete devotional text (and Kyle's emphasis) lives at His Grace Is Sufficient — Brad Wilcox in gospel-study.
+
 ## Where this appears
 
+- His Grace Is Sufficient — Brad Wilcox — the full BYU devotional (July 12, 2011), three movements on grace "sufficient to cover us, sufficient to transform us, and sufficient to help us"
 - A Mighty Change of Heart — Ezra Taft Benson — paired with Ether 12:27's "weak things made strong" promise and the faith-precedes-repentance argument
 - June 15–21, 2020. Alma 13–16: "Enter into the Rest of the Lord" — tied to sanctification and the case against [Universalism](/notes/universalism)
 - September 14–20, 2020. 3 Nephi 8–11: "Arise and Come Forth unto Me" — quoted for "changed, not just cleansed" and Christ's never-ending gathering
