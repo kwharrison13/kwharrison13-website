@@ -15,6 +15,8 @@ substack_url: "https://investing101.substack.com/p/the-bifurcation-of-capital-is
 </aside>
 <!-- connections-end -->
 
+![Header image for The Bifurcation of Capital is Inevitable](/images/the-bifurcation-of-capital-is-inevitable-header.png)
+
 *Previously published in [Investing 101](https://investing101.substack.com/p/the-bifurcation-of-capital-is-inevitable) on June 27, 2026.*
 
 ---
