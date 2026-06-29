@@ -20,6 +20,8 @@ related:
   - "[[Why Books Don't Work]]"
   - "[[The Science of Learning]]"
   - "[[Remote — Office Not Required]]"
+  - "[[Education Nation]]"
+  - "[[Howard Gardner]]"
 reference_count: 4
 ---
 

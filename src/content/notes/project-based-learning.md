@@ -14,6 +14,7 @@ aliases:
   - "project-based learning"
 related:
   - "[[Sora Schools]]"
+  - "[[Education Nation]]"
 reference_count: 1
 ---
 

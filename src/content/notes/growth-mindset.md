@@ -20,6 +20,7 @@ related:
   - "[[Character Skills]]"
   - "[[Curriculum]]"
   - "[[Roam Research]]"
+  - "[[Education Nation]]"
 reference_count: 1
 ---
 

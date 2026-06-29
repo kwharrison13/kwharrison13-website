@@ -18,6 +18,7 @@ related:
   - "[[Stretching The Heavens]]"
   - "[[Discipline Is Destiny]]"
   - "[[Saints — No Unhallowed Hand]]"
+  - "[[His Grace Is Sufficient — Brad Wilcox]]"
 ---
 
 # Spencer W. Kimball
