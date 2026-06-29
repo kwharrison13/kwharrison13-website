@@ -11,15 +11,11 @@ substack_url: "https://investing101.substack.com/p/hijacking-the-hucksters-hypeb
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
   <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-big-short">The Big Short</a></span></div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/investing-101">Investing 101</a>, <a href="/essays/dr-tokens-or-how-i-learned-to-stop">Dr. Tokens or: How I Learned to Stop Worrying and Love the AI Bubble</a>, <a href="/essays/institutionalized-belief-in-the-greater">Institutionalized Belief In The Greater Fool</a>, <a href="/essays/revisiting-clarity-of-thought">Revisiting Clarity of Thought</a>, <a href="/essays/cultivating-cults">Cultivating Cults</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/dr-tokens-or-how-i-learned-to-stop">Dr. Tokens or: How I Learned to Stop Worrying and Love the AI Bubble</a>, <a href="/essays/institutionalized-belief-in-the-greater">Institutionalized Belief In The Greater Fool</a>, <a href="/essays/revisiting-clarity-of-thought">Revisiting Clarity of Thought</a>, <a href="/essays/cultivating-cults">Cultivating Cults</a></span></div>
 </aside>
 <!-- connections-end -->
 
 ![Header image for Hijacking The Huckster's Hypebook](/images/hijacking-the-hucksters-hypebook-bee5b90bdcd6.png)
-
-This is a free weekly newsletter about the art and science of building and investing in tech companies. To receive [[Investing 101]] in your inbox each week, subscribe here:
-
----
 
 Stories run the world. Every movement, every nation, every life choice. They all stem from stories. From phenomenal cosmic stories about the makings of the universe and the identity of God down to the most minuscule motivations to wake up early and workout in the morning; every aspect of our existence revolves around a story that we're choosing to believe.
 

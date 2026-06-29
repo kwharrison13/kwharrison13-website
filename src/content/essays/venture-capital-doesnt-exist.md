@@ -10,15 +10,11 @@ substack_url: "https://investing101.substack.com/p/venture-capital-doesnt-exist"
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/investing-101">Investing 101</a>, <a href="/essays/build-whats-fundable">“Build What’s Fundable”</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/build-whats-fundable">“Build What’s Fundable”</a>, <a href="/essays/player-different-stupider-games">Playing Different (Stupider) Games</a></span></div>
 </aside>
 <!-- connections-end -->
 
 ![Header image for Venture Capital Doesn't Exist](/images/venture-capital-doesnt-exist-header.png)
-
-This is a free weekly newsletter about the art and science of building and investing in tech companies. To receive [[Investing 101]] in your inbox each week, subscribe here:
-
----
 
 This week, I talked to Madeline Renbarger [about](https://www.newcomer.co/p/founders-fund-general-catalyst-and) megafunds. Why? Because this past week, Founder's Fund raised $6B, Spark raised $3B, and GC is reportedly in talks to raise $10B. Her question struck me as an important one that I've found myself responding to more and more lately:
 

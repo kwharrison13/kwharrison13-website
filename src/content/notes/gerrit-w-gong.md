@@ -15,7 +15,9 @@ aliases:
 related:
   - "[[General Conference — October 2021]]"
   - "[[General Conference — April 2020]]"
-reference_count: 2
+  - "[[Matthew Gong]]"
+  - "[[Birthday Letters — Matthew Gong]]"
+reference_count: 3
 ---
 
 # Gerrit W. Gong
@@ -24,7 +26,10 @@ An apostle of The Church of Jesus Christ of Latter-day Saints whose General Conf
 
 **Context:** Gerrit W. Gong (b. 1953) is a member of the Quorum of the Twelve Apostles of The Church of Jesus Christ of Latter-day Saints, the first of East Asian descent called to that body, ordained in 2018.
 
+His son [Matthew Gong](/notes/matthew-gong), who is openly queer, reflects on Gerrit's calling and on being a queer member of the Church in Birthday Letters — Matthew Gong — drawing a careful line between "the Church" and "my father": "I have never seen him desire a position of power… My father is a good man."
+
 ## Where this appears
 
 - General Conference — October 2021 — talk on rebuilding broken trust and forgiveness that "looks liberally into the future"
 - General Conference — April 2020 — talk on the Atonement ("we owed a debt we could not pay") and complementary contrasts
+- Birthday Letters — Matthew Gong — his son Matthew's birthday letter reflecting on Gerrit's calling and on being queer in the Church

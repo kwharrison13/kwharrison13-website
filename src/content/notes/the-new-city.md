@@ -4,13 +4,14 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-26"
+updated: "2026-06-28"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
   - "wiki/books/Joseph Smith — Rough Stone Rolling.md"
   - "Roam Research daily-note export — May 16th, 2018 (networking/sourcing call log): ~/Downloads/May 16th, 2018.md"
   - "Roam Research daily-note export — June 1st, 2018 (networking/sourcing call log): ~/Downloads/June 1st, 2018.md"
+  - "Roam Research page export — 'The New City' (resource dump: smart-cities/urbanism reading list, Walt Disney, Future Cities Reading Group): ~/Downloads/The New City.md"
 tags:
   - "smart-cities"
   - "mobility"
@@ -19,6 +20,7 @@ tags:
 aliases:
   - "The New City"
 related:
+  - "[[Prosperable]]"
   - "[[Networking Calls]]"
   - "[[Rise of the Rest]]"
   - "[[Future of Work]]"
