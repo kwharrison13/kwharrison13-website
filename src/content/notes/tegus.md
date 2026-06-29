@@ -39,3 +39,4 @@ Tegus also recurs as a *tool* Kyle and others used and as a competitive landmark
 - November 8th, 2021 — George Sivulka (Hebbia) — "Tegus clones" in the research-tooling space.
 - November 8th, 2021 — Contrary Growth Brainstorm (Saanya Ojha) — Tegus referenced in Contrary's growth/positioning discussion.
 - October 4th, 2021 — Behavioral Health Expert Transcripts · September 29th, 2021 — Walter Chen (Sacra) — Tegus as expert-network reference points.
+- April 16th, 2021 — Lars Hamilton (High Alpha Innovation) — [Lars Hamilton](/notes/lars-hamilton) on Tegus and the wider expert-network / customer-research tool landscape his team uses.

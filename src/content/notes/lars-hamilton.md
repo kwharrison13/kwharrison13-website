@@ -16,6 +16,8 @@ related:
   - "[[High Alpha Innovation]]"
   - "[[Venture Studio]]"
   - "[[July 2nd, 2020 — Lars Hamilton (High Alpha Innovation)]]"
+  - "[[April 16th, 2021 — Lars Hamilton (High Alpha Innovation)]]"
+  - "[[Tegus]]"
 ---
 
 # Lars Hamilton
@@ -25,4 +27,5 @@ Kyle's contact at [High Alpha Innovation](/notes/high-alpha-innovation), the sou
 ## Where this appears
 
 - July 2nd, 2020 — Lars Hamilton (High Alpha Innovation) — call on the venture-studio model, how it differs from existing-business investors, and a reading list for defining the space.
+- April 16th, 2021 — Lars Hamilton (High Alpha Innovation) — Hamilton on [Tegus](/notes/tegus) and the expert-network / customer-research tools his team uses (GLG, Zintro, OfficeHours, NewtonX, askattest, Prolific).
 - [High Alpha Innovation](/notes/high-alpha-innovation) — the firm Hamilton is Kyle's contact at.

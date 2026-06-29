@@ -31,6 +31,7 @@ Index's diligence machinery surfaces a recurring set of companies in the wiki: a
 
 ## Where this appears
 
+- April 16th, 2021 — Adrianna Ma (Index Ventures) — Adrianna Ma on crossover funds, the [Bifurcation in Investing](/notes/bifurcation-in-investing), and whether Index should run a pre-IPO/crossover product.
 - Pave Diligence — 2021 — Index's pre-emptive Series C dossier on [Pave](/notes/pave); thesis, partnership pre-brief, portfolio-company data network.
 - December 14th, 2021 — Benjy Boateng (Index Ventures) — [Benjy Boateng](/notes/benjy-boateng)'s executive-relationships / BD playbook.
 - December 14th, 2021 — Erik Kriessmann (Index Ventures) — [Erik Kriessmann](/notes/erik-kriessmann) on building a VC talent function.
