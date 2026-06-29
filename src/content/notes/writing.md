@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-25"
+updated: "2026-06-28"
 last_updated_by: "agent"
 sources:
   - "wiki/books/How To Take Smart Notes.md"
@@ -12,6 +12,7 @@ sources:
   - "wiki/concepts/Open Source Knowledge.md"
   - "wiki/long-reads/Riding the Writing Wave.md"
   - "wiki/essays-research/Books 2.0 - Research.md"
+  - "Roam Research daily-note export — July 14th, 2020: ~/Downloads/July 14th, 2020.md"
 tags:
   - "writing"
   - "language-of-discourse"
@@ -25,6 +26,9 @@ related:
   - "[[Open Source Knowledge]]"
   - "[[Reading]]"
   - "[[Self-Reflection]]"
+  - "[[Content Consumption]]"
+  - "[[July 14th"
+  - "2020]]"
 ---
 
 # Writing
@@ -36,6 +40,16 @@ That individual discipline scales into an organizational one. [Six-Page Narrativ
 Writing is also where the Books 2.0 - Research thread treats the act as civilizational: "writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs." [Riding the Writing Wave](/notes/riding-the-writing-wave) ([David Perell](/notes/david-perell)) sits in the practitioner register — writing, editing, and creativity as a craft to be ridden rather than forced.
 
 **Context:** Writing-as-thinking is a long-standing idea (Joan Didion's "I write entirely to find out what I'm thinking"; Paul Graham's essays on the same). The Zettelkasten / [Niklas Luhmann](/notes/niklas-luhmann) tradition and Amazon's six-pager culture are two of its most-cited modern instantiations.
+
+## Reflection — July 14th, 2020
+
+From the July 14th, 2020 daily log, Kyle tied [Content Consumption](/notes/content-consumption) to creation — does over-reading crowd out making?
+
+> Can't remember where I heard the quote but it was something like "people who spend their time on Facebook will never build something like Facebook"
+>
+> *mutes political statements about Facebook being evil*
+>
+> Is it true of people who try and read too much stuff? They'll never write the great stuff? Or do you just need to be really good at reading effectively?
 
 ## Where this appears
 
@@ -49,3 +63,4 @@ Writing is also where the Books 2.0 - Research thread treats the act as civiliza
 - [Amazon Unbound](/books/amazon-unbound) — Bezos's reading/writing discipline and the OP1 written-plan cycle
 - [Benjamin Franklin — An American Life](/books/benjamin-franklin-an-american-life) / [The Autobiography of Benjamin Franklin](/books/the-autobiography-of-benjamin-franklin) — Franklin's self-made writing apprenticeship
 - [John Quincy Adams](/books/john-quincy-adams) — writing as a lifelong intellectual practice
+- July 14th, 2020 — the consumption-vs-creation reflection: does reading too much crowd out writing the great stuff?

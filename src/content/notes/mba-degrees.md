@@ -21,6 +21,7 @@ aliases:
   - "Master of Business Administration"
   - "MBA Research"
 related:
+  - "[[Social MBA]]"
   - "[[Education]]"
   - "[[Henry Mintzberg]]"
   - "[[Managers Not MBAs]]"
@@ -61,6 +62,8 @@ The marketing clusters around a stable set of claims: rigor/analytics, leadershi
 - **Aine Donovan (HBR), "Can Ethics Classes Cure Cheating?"** — Environment shapes behavior: once MBAs are "in the mechanics of business — particularly… finance — it's easier… to compromise their values." When authority figures ask people to act against their own values, most comply (the same people-pleasing Heffernan names). See [Business Ethics](/notes/business-ethics).
 
 ## The "Social MBA" thread
+
+> Kyle's own program proposal building on this counter-current — a supplementary social-impact major bolted onto existing MBAs — lives on its own page: **[Social MBA](/notes/social-mba)**.
 
 A counter-current: a growing pool of MBAs using the degree as a **springboard into the social sector**, inspired by [Muhammad Yunus](/notes/muhammad-yunus)'s Grameen Bank and [Wendy Kopp](/notes/wendy-kopp)'s Teach for America.
 
