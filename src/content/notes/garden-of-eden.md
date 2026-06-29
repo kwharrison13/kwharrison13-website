@@ -37,5 +37,5 @@ Both poles cross-reference Eden as the pivot: [Primitivism](/notes/primitivism) 
 - The Hardening Of The Great Softening - Research — Kyle poses Eden as the "progression or primitivism?" question and lands on progressivism.
 - [Primitivism](/notes/primitivism) — names Eden as the test case for whether the human ideal is a return to a simpler state.
 - [Progressivism](/notes/progressivism) — frames Eden as the primitivist ideal of return that progressivism pushes against.
-- [Genesis 2](/notes/genesis-2) — the garden is planted eastward in Eden, with the tree of life and the tree of knowledge.
+- Genesis 2 — the garden is planted eastward in Eden, with the tree of life and the tree of knowledge.
 - Genesis 3 — the Fall and the expulsion from the garden.
