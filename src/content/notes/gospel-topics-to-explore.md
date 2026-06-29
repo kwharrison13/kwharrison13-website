@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-25"
+updated: "2026-06-28"
 last_updated_by: "agent"
 sources:
   - "wiki/gospel-study/1 Nephi 16–22 — I Will Prepare the Way before You.md"
@@ -12,10 +12,15 @@ sources:
   - "wiki/gospel-study/July 20–26, 2020. Alma 36–38: \"Look to God and Live\".md"
   - "wiki/gospel-study/June 15–21, 2020. Alma 13–16: \"Enter into the Rest of the Lord\".md"
   - "wiki/long-reads/Why You're Christian.md"
-tags: []
+  - "raw/archive/inbox/Seeker of Truth Blog.md"
+tags:
+  - "gospel-study"
+  - "seeker-of-truth"
 aliases:
   - "Gospel Topics to Explore"
-related: []
+related:
+  - "[[000 — Seeker of Truth]]"
+  - "[[Gospel Topics]]"
 reference_count: 1
 ---
 
@@ -32,3 +37,26 @@ The flagged items run a wide range: narrative observations (do [Laman](/notes/la
 - July 20–26, 2020. Alma 36–38: "Look to God and Live" — tags The Spirit of Prophecy and Entropy as topics to pursue
 - June 15–21, 2020. Alma 13–16: "Enter into the Rest of the Lord" — "Silence in the Scriptures"; whether nothing is ever "too much" to overcome
 - [Why You're Christian](/notes/why-you-re-christian) — Kyle's margin question on whether morality exists without an eternal construct
+
+## Study List
+
+*A running list of topics, doctrines, and threads Kyle wants to study — captured for the 000 — Seeker of Truth blog research queue.*
+
+- Make a list of where I need to repent and tie it to doctrines I can study:
+    - Sometimes clicking on what I know will be inappropriate → **virtue / chastity**
+    - Exaggerating details or blatantly lying for convenience (e.g. "my mom drove off with our pills," "Dax spilled water on all his diapers") → **honesty / integrity**
+    - Reveling in things that are questionable; bonding over shows like *Silicon Valley* → **purity**
+    - Getting incredibly angry when things don't go my way → **patience & long suffering**
+    - Gossip → ??
+- [C.S. Lewis](/notes/c-s-lewis) — quote about "I want it all. I will not accept anything less."
+- How does God teach us to LEARN WITH HIM? — Jacob 4:14; D&C "in your heart and in your mind"; "study it out in your mind."
+- [Lectures on Faith](/notes/lectures-on-faith)
+    - Alma Smith — "if you think He can then I believe it."
+    - Power of words — Hebrews 11:3
+- Fear in the scriptures — [biblestudytools.com/dictionary/fear](https://www.biblestudytools.com/dictionary/fear/)
+
+## Talks to Study
+
+- [Knowing the Godhead](https://www.churchofjesuschrist.org/study/ensign/2016/01/knowing-the-godhead?lang=eng) — [Jeffrey R. Holland](/notes/jeffrey-r-holland)
+- [Why 1820? (PDF)](http://www.colterreed.net/spokenwrit/media/Why%201820.pdf) — Hyrum W. Smith
+- [Bill Carpenter's Conversion Story](/notes/bill-carpenter)
