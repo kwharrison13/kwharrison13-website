@@ -1,5 +1,5 @@
 ---
-title: "The Smartest Kids in The World"
+title: "The Smartest Kids in the World"
 author: "Amanda Ripley"
 year_read: 2017
 rating: 4

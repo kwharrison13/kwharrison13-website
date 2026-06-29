@@ -11,6 +11,7 @@ substack_url: "https://investing101.substack.com/p/america"
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/the-smartest-kids-in-the-world">The Smartest Kids in the World</a></span></div>
   <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-tail-that-wags-the-dog">The Tail That Wags The Dog</a></span></div>
 </aside>
 <!-- connections-end -->
