@@ -4,16 +4,18 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-18"
-updated: "2026-06-25"
+updated: "2026-06-28"
 last_updated_by: "agent"
 sources:
   - "wiki/gospel-study/July 6–12, 2020. Alma 30–31: \"The Virtue of the Word of God\".md"
   - "wiki/books/The Life of John Taylor.md"
+  - "wiki/gospel-study/The Collective Writings of Kyle William Harrison.md"
 tags: []
 aliases:
   - "Collective Writings"
 related:
   - "[[The Life of John Taylor]]"
+  - "[[The Collective Writings of Kyle William Harrison]]"
 reference_count: 2
 ---
 
@@ -25,5 +27,6 @@ In [The Life of John Taylor](/books/the-life-of-john-taylor), Kyle connects a Ta
 
 ## Where this appears
 
+- The Collective Writings of Kyle William Harrison — the anthology's own preface and table of contents (epigraph, statement of purpose, and the list of component volumes).
 - July 6–12, 2020. Alma 30–31: "The Virtue of the Word of God" — tags a mission recording about being guided idea-to-idea ("line upon line") into the Collective Writings store.
 - [The Life of John Taylor](/books/the-life-of-john-taylor) — connects Taylor's passage on liberty to a poem Kyle has filed under Collective Writings.
