@@ -16,6 +16,8 @@ substack_url: "https://investing101.substack.com/p/every-moat-becomes-moot"
 </aside>
 <!-- connections-end -->
 
+![Header image for Every Moat Becomes Moot](/images/every-moat-becomes-moot-header.png)
+
 *The corpus of my "second brain" comes from the books I've read, the essays I've written, the meetings / conversations I've had, and the tweets I've consumed. Over the last few weeks, I've been using a personalized iteration of [Karpathy's LLM Knowledge Base](https://x.com/karpathy/status/2039805659525644595?lang=en) to fully ingest all the notes I already have across Roam, Notion, Google Docs, etc.*
 
 *I'm only ~1/50th of the way through that process and already I have 3M+ words of context in my second brain. But one of the immediate exercises I can do is asking it to look for connections of ideas I've tacitly made across book notes and essay research fodder that I may not have explicitly drawn myself. The first one that caught my eye was about moats.*
