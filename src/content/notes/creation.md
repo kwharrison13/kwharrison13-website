@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-18"
-updated: "2026-06-25"
+updated: "2026-06-28"
 last_updated_by: "agent"
 sources:
   - "wiki/gospel-study/Plan of Salvation — Topical Study.md"
@@ -18,6 +18,7 @@ related:
   - "[[The Faith of a Scientist]]"
   - "[[The Fall of Adam of Eve]]"
   - "[[Atonement]]"
+  - "[[Genesis 1]]"
 reference_count: 2
 ---
 
@@ -33,3 +34,4 @@ In [The Faith of a Scientist](/books/the-faith-of-a-scientist), Creation is appr
 
 - Plan of Salvation — Topical Study — Creation as one of the three pillars; the purpose of the earth, the two estates' commandments, and Lehi's Tree of Life vision
 - [The Faith of a Scientist](/books/the-faith-of-a-scientist) — Creation through natural theology: arguments for a Creator and the reconciliation of scriptural "creative periods" with the age of the earth
+- Genesis 1 — the six days of Creation: God creating heaven and earth by his word and making man in his own image

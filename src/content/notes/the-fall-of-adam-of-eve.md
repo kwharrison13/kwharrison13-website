@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-18"
-updated: "2026-06-25"
+updated: "2026-06-28"
 last_updated_by: "agent"
 sources:
   - "wiki/gospel-study/Plan of Salvation — Topical Study.md"
@@ -17,6 +17,9 @@ related:
   - "[[Creation]]"
   - "[[Atonement]]"
   - "[[Plan of Salvation — Topical Study]]"
+  - "[[Genesis 3]]"
+  - "[[Adam]]"
+  - "[[Eve]]"
 reference_count: 1
 ---
 
@@ -31,3 +34,4 @@ The Fall is also the source of the mortal "natural man" who, per [Mosiah 3](/not
 ## Where this appears
 
 - Plan of Salvation — Topical Study — one of the three pillars (Creation · Fall · Atonement); framed as "downward, yet forward" and as the origin of the fallen "natural man."
+- Genesis 3 — the scriptural account of the Fall: the serpent, the fruit, the curse, and the expulsion from Eden.

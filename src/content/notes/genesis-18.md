@@ -13,10 +13,14 @@ aliases:
   - "Genesis 18"
 related:
   - "[[Abraham]]"
+  - "[[Genesis 18 (KJV)]]"
 reference_count: 1
 ---
 
 # Genesis 18
+
+**Full text:** Genesis 18 (KJV)
+
 
 A chapter of the Old Testament book of Genesis, cited in Kyle's gospel study of Mormon 1–6 for Abraham's intercession on behalf of the righteous. The specific verse drawn on is Genesis 18:23 — "And Abraham drew near, and said, **Wilt thou also destroy the righteous with the wicked?**" — used as a scriptural cross-reference for the theme that the presence of the righteous can stay judgment, set against Mormon's lament over a people who would not repent.
 

@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-26"
+updated: "2026-06-28"
 last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The Hardening Of The Great Softening' notes"
@@ -20,6 +20,8 @@ related:
   - "[[Progressivism]]"
   - "[[The Hardening Of The Great Softening - Research]]"
   - "[[Lindy Principle]]"
+  - "[[Genesis 2]]"
+  - "[[Genesis 3]]"
 ---
 
 # Garden of Eden
@@ -35,3 +37,5 @@ Both poles cross-reference Eden as the pivot: [Primitivism](/notes/primitivism) 
 - The Hardening Of The Great Softening - Research — Kyle poses Eden as the "progression or primitivism?" question and lands on progressivism.
 - [Primitivism](/notes/primitivism) — names Eden as the test case for whether the human ideal is a return to a simpler state.
 - [Progressivism](/notes/progressivism) — frames Eden as the primitivist ideal of return that progressivism pushes against.
+- [Genesis 2](/notes/genesis-2) — the garden is planted eastward in Eden, with the tree of life and the tree of knowledge.
+- Genesis 3 — the Fall and the expulsion from the garden.
