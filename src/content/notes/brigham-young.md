@@ -19,6 +19,7 @@ related:
   - "[[American Zion]]"
   - "[[Joseph Smith]]"
   - "[[Temporal Wealth and the Kingdom of God — Brigham Young]]"
+  - "[[Salvation — Brigham Young]]"
   - "[[Saints — No Unhallowed Hand]]"
   - "[[City Building]]"
   - "[[Righteous in the Dark]]"

@@ -8,7 +8,7 @@ tags:
   - "city-building"
   - "people-over-politics"
   - "historical-futurism"
-last_imported: "2026-06-28"
+last_imported: "2026-06-29"
 key_takeaways_status: "written"
 ---
 
