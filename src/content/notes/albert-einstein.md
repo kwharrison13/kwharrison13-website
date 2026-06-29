@@ -1,6 +1,6 @@
 ---
 title: "Albert Einstein"
-type: "concept"
+type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
@@ -25,7 +25,6 @@ related:
   - "[[Curiosity]]"
   - "[[The Man From The Future]]"
   - "[[Range]]"
-reference_count: 1
 ---
 
 # Albert Einstein

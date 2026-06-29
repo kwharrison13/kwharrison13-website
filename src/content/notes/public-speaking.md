@@ -10,6 +10,7 @@ sources:
   - "wiki/books/The Self-Driven Child.md"
   - "wiki/books/How To Take Smart Notes.md"
   - "wiki/books/John Quincy Adams.md"
+  - "wiki/books/TED Talks — The Official TED Guide to Public Speaking.md"
   - "wiki/long-reads/Charlie Munger — Harvard School Commencement Speech.md"
   - "wiki/long-reads/Charlie Munger — USC Gould School of Law Commencement Address.md"
 tags: []
@@ -18,6 +19,7 @@ aliases:
 related:
   - "[[John Quincy Adams]]"
   - "[[How To Take Smart Notes]]"
+  - "[[TED Talks: The Official TED Guide to Public Speaking]]"
   - "[[Rhetoric]]"
   - "[[Writing]]"
   - "[[Charlie Munger — Harvard School Commencement Speech]]"
@@ -30,10 +32,13 @@ reference_count: 1
 
 Across Kyle's sources public speaking is treated less as a performance skill than as civic and intellectual infrastructure. The richest treatment is in [John Quincy Adams](/books/john-quincy-adams): Adams' Harvard rhetoric professorship framed oratory as "the connective tissue of republican self-government," modeled on [Cicero](/notes/cicero). For the ancients "the talent of public speaking was the key to the highest dignities," and Adams argued America — "the one nation in which a vestige of those republics survived" — needed eloquent men as no other nation did. The professorship gave "a purpose to his vast but aimless reading," converging the classical, the Christian, and the republican.
 
+The craft side gets its fullest treatment in [Chris Anderson](/notes/chris-anderson)'s [TED Talks: The Official TED Guide to Public Speaking](/books/ted-talks-the-official-ted-guide-to-public-speaking), where the speaker's only job is to take an idea that matters and "rebuild it inside the minds of listeners" — there is no formula, connection precedes content, and every talk needs a single *throughline* (encapsulable in fifteen words). Anderson frames the modern moment as a "renaissance in public speaking": as machines absorb specialist tasks, live human idea-sharing matters *more*, not less.
+
 A counter-current runs through [How To Take Smart Notes](/books/how-to-take-smart-notes), which warns of speech's slack: in oral presentations "we easily get away with unfounded claims," distracting from argumentative gaps with confident gestures, whereas [Writing](/notes/writing) forces us to confront what we don't actually understand. [Charlie Munger](/notes/charlie-munger) threads brevity into the theme — in his [Charlie Munger — Harvard School Commencement Speech](/notes/charlie-munger-harvard-school-commencement-speech) he invokes [Samuel Johnson](/notes/samuel-johnson) on *Paradise Lost* ("No one ever wished it longer") and [Cicero](/notes/cicero)/[Demosthenes](/notes/demosthenes) to judge speeches by whether one wished them longer; in his [Charlie Munger — USC Gould School of Law Commencement Address](/notes/charlie-munger-usc-gould-school-of-law-commencement-address) he quotes [Epictetus](/notes/epictetus): "First learn the meaning of what you say, and then speak." In [The Self-Driven Child](/books/the-self-driven-child) the tag attaches to one of Kyle's own notes, flagging public speaking as a domain of [Anxiety](/notes/anxiety) and developed competence.
 
 ## Where this appears
 
+- [TED Talks: The Official TED Guide to Public Speaking](/books/ted-talks-the-official-ted-guide-to-public-speaking) — Chris Anderson's craft guide: rebuild the idea inside listeners' minds, the throughline, connection before content, the [Curse of Knowledge](/notes/curse-of-knowledge)
 - [John Quincy Adams](/books/john-quincy-adams) — Adams' Harvard rhetoric professorship: oratory as the connective tissue of republican self-government, modeled on Cicero
 - [How To Take Smart Notes](/books/how-to-take-smart-notes) — the counterpoint: oral presentations let us get away with unfounded claims that writing exposes
 - [Charlie Munger — Harvard School Commencement Speech](/notes/charlie-munger-harvard-school-commencement-speech) — judging speeches by brevity, via Samuel Johnson on *Paradise Lost*

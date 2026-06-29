@@ -1841,6 +1841,32 @@
     "slug": "the-essays-of-warren-buffett"
   },
   {
+    "title": "The Fabric of Reality",
+    "full_title": "The Fabric of Reality: The Science of Parallel Universes—and Its Implications",
+    "author": "David Deutsch",
+    "published": "1997",
+    "pages": 390,
+    "amazon_url": "https://www.amazon.com/s?k=The+Fabric+of+Reality+David+Deutsch",
+    "where_seen": [
+      "Cited in TED Talks: The Official TED Guide to Public Speaking — the book whose argument convinced Chris Anderson to take over TED"
+    ],
+    "connections": [
+      {
+        "title": "David Deutsch",
+        "url": "/notes/david-deutsch"
+      },
+      {
+        "title": "TED Talks: The Official TED Guide to Public Speaking",
+        "url": "/books/ted-talks-the-official-ted-guide-to-public-speaking"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "open-source-knowledge"
+    ],
+    "slug": "the-fabric-of-reality"
+  },
+  {
     "title": "The Fish That Ate the Whale",
     "full_title": "The Fish That Ate the Whale: The Life and Times of America's Banana King",
     "author": "Rich Cohen",

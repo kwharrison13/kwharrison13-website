@@ -22,6 +22,7 @@ aliases:
   - "Social MBA Program"
 related:
   - "[[MBA Degrees]]"
+  - "[[Social Sustainability Reporting Among Companies]]"
   - "[[Social Entrepreneurship]]"
   - "[[Corporate University]]"
   - "[[Henry Mintzberg]]"
@@ -54,7 +55,7 @@ From Kyle's notebook ([the scanned pages](attachments/social-mba/social-mba-rese
 - **Structure:** a **Vision** (2–3 pages → value proposition) feeding a **Major**, which is built from **Courses** (two — *Social Entrepreneurship* and *Corporate Social Responsibility*) plus **Internships** (links to businesses — non-profits and CSR functions).
 - **The pitch as a service:** IDEA → COURSES → NETWORK (internships). "Sell the idea, the whole package **+ maintenance for 2–3 years**" — helping with hiring, course improvement, and curating the internship network. **Price floated at $50,000–$100,000 + maintenance.**
 - **The wedge:** "Exploit the uncertainty about new *Financial Times* indicators." Figure out how to track the FT's evolving key indicators (from graduating salary toward broader measures). "Business wants to be liked by an important sector of the world (social responsibility) regardless of how much they care about non-profits."
-- **"History of BYU Social Minor"** — an interview guide for the existing BYU social-innovation minor: why was it created, how long did it take, how many courses were built *just* for it vs. pre-existing, biggest issues and strengths, how attractive it is in the professional world, how Kyle would expand it, and what it costs the school (faculty, curriculum). Captured answers/notes: reference Ashoka U and the syllabus; any graduate can get it; it's a certificate for undergrad minors; only **two** courses were created, specifically modified *main* courses; "versatility of variety, but not the biggest sell"; **#1 benefit = it's interesting because it's rare.**
+- **"History of BYU Social Minor"** — an interview guide for the existing BYU social-innovation minor (why was it created, how many courses were built *just* for it, biggest issues/strengths, professional attractiveness, cost to the school). Kyle's notes on the page: reference Ashoka U and the syllabus; any graduate can get it; it's a certificate for undergrad minors; only **two** courses were created, specifically modified *main* courses; "versatility of variety, but not the biggest sell"; **#1 benefit = it's interesting because it's rare.** The fully-answered version of this interview is its own section below.
 
 ## The supervision arc (Stefano Tesselli)
 
@@ -77,6 +78,37 @@ Notes Kyle gathered on where the field was already moving — the evidence base 
 ## Target-school strategy
 
 The beachhead is schools with **strong undergraduate business programs but weak MBAs** — they're already geared toward business and "have the potential to have good MBAs; maybe it's time to start offering something else." Named candidates: **BYU**, **Northeastern**, and the **University of Oregon** (with Tulane and Rollins noted as other solid undergrad programs).
+
+## History of the BYU Social Innovation Minor
+
+The fully-answered version of the interview above — BYU's existing social-innovation minor as the working precedent for the Social MBA, run through **Todd**, the Ballard Center director. Todd's answers are verbatim; Kyle's notes are his read on what each answer means for the business case.
+
+**1. Why was the minor created? How long did it take? How hard was it to create?**
+> Todd: *"Several students were completing significant course work in social innovation and wanted to have something to acknowledge that experience. Once it was determined that it was wanted, the bureaucracy was not complicated."*
+
+  > **Kyle:** *We could do a TON of research here. We know from experience it's a very millennial attitude to want to change the world — so businesses will want it (for their companies and their MBA rankings) AND students will want it regardless of whether employers do. That's basically our market valuation: the market is huge on both the individual-consumer level and the enterprise level.*
+
+**2. How many courses were created just for the minor? How many previously existed?**
+> Todd: *"All of the courses already existed for the most part, but the two MAIN courses were adjusted to introduce the minor."*
+
+  > **Kyle:** *I've emailed Todd, Aaron Miller and Paul Godfrey for syllabi from key classes in the MPA program and the social-innovation minor — that content will be really telling. Next step: figure out how to get approvals/endorsements for our program (like the quotes on the back of a book) from key people — leaders of successful non-profits AND big businesses that want socially-minded employees (maybe quotes from Heather's or Jacqueline's bosses).*
+
+**3. What have been the largest issues? What are its biggest strengths?**
+> Todd: *"None of particular note."*
+
+  > **Kyle:** *We need to play the "what if" game for best/worst-case scenarios. Hypothetical: Jace and I fly out to meet the MBA director at the University of San Francisco — what could he or she get excited about, and what could they throw at us?*
+
+**4. How attractive is it in the professional world? Is that increasing? Examples?**
+> Todd: *"Its #1 appeal is as an interesting conversation topic in interviews. It allows students to bring it up more officially."*
+
+  > **Kyle:** *Lots of research to do here. Talking with Heather and Jacqueline will give insight, but the bigger lever is the changing metrics — see [Social Sustainability Reporting Among Companies](/notes/social-sustainability-reporting-among-companies).*
+
+**5. If you were to estimate how much it costs BYU (curriculum, faculty, etc.)?**
+> Todd: *"No one has placed a hard number to it, but it isn't significant. The Marriott School is really only interested in its demand on their resources (faculty, classrooms, etc.). Because they already had the classes and the curriculum for the most part, it was fairly easy to organize. The courses represent 10 years of teaching in this area. We attend Ashoka U's Exchange every year and bring some things back to our classes."*
+
+  > **Kyle:** *The question: how do we sell a program BYU assembled from existing parts? Most colleges won't have access to BYU-level resources — most don't have a Ballard Center equivalent. So how do we package this in a way that's financially viable?*
+
+The value-proposition engine for all of this — why social-impact exposure shifts from "nice to have" to *needed* — is the parallel change in MBA rankings and corporate financial reporting, captured on **[Social Sustainability Reporting Among Companies](/notes/social-sustainability-reporting-among-companies)**.
 
 ## Corporate education vs. the MBA (Lindsay Ryan)
 
@@ -121,6 +153,7 @@ Kyle's reading and study list for the research (cited, not necessarily read — 
 ## Connections
 
 - [MBA Degrees](/notes/mba-degrees) — the companion dossier: the critique of the MBA and the primary interviews. *Social MBA* is the **proposed solution**; *MBA Degrees* is the **problem statement**.
+- [Social Sustainability Reporting Among Companies](/notes/social-sustainability-reporting-among-companies) — the value-proposition engine: changing MBA ranking metrics + the triple bottom line / ESG shift in corporate financial reporting that turns social-impact exposure from optional to *needed*.
 - [Social Entrepreneurship](/notes/social-entrepreneurship) — the field the program is built to serve; the Academy of Management tailwind and the Stanford/NYU/Columbia programs sit here too.
 - [Corporate University](/notes/corporate-university) — the Lindsay Ryan corporate-education thread (in-house MBAs, 70-20-10, the "learning laboratory") is a sibling model to the bolt-on Social MBA.
 - [Managers Not MBAs](/books/managers-not-mbas) / [Henry Mintzberg](/notes/henry-mintzberg) — the structural critique the proposal answers; Costin's "administration ≠ management" reframe.

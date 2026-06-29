@@ -18,6 +18,7 @@ related:
   - "[[Thirteen Virtues]]"
   - "[[The Courage To Be Disliked]]"
   - "[[Benjamin Franklin: An American Life]]"
+  - "[[Philosophy 101 By Socrates]]"
 ---
 
 # Socrates
@@ -36,3 +37,4 @@ He also appears in Kyle's Spiritual Quotes — Greatest Hits collection via the 
 - [Plato](/notes/plato) — Socrates as Plato's teacher in the Athenian lineage.
 - [Thirteen Virtues](/notes/thirteen-virtues) — paired with Jesus as the exemplar Franklin invokes for Humility.
 - Spiritual Quotes — Greatest Hits — "An unexamined life is not worth living."
+- [Philosophy 101 By Socrates](/books/philosophy-101-by-socrates) — [Peter Kreeft](/notes/peter-kreeft)'s introduction to philosophy taught through Socrates; highlights drawn from his trial and final words ("No evil can happen to a good man").

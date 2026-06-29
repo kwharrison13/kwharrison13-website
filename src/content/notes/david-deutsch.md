@@ -17,6 +17,7 @@ aliases:
   - "Deutsch"
 related:
   - "[[The Beginning of Infinity]]"
+  - "[[The Fabric of Reality]]"
   - "[[Techno-Optimism]]"
   - "[[Global Optimism]]"
 ---
@@ -33,3 +34,4 @@ In What's In a Post-Mortem - Research, Deutsch returns via The Beginning of Infi
 
 - It's Time To Build... But Build What - Research — his "we have a duty to be optimistic" line closes Andreessen's Techno-Optimist Manifesto, used in the e/acc section.
 - What's In a Post-Mortem - Research — *The Beginning of Infinity* and the Principle of Optimism ("all evils are caused by insufficient knowledge"; "conjecture and criticism") frame real optimism vs. "happy ears."
+- [TED Talks: The Official TED Guide to Public Speaking](/books/ted-talks-the-official-ted-guide-to-public-speaking) — [The Fabric of Reality](/notes/the-fabric-of-reality)'s knowledge-vs-understanding argument is the passage [Chris Anderson](/notes/chris-anderson) credits with convincing him to take over TED.

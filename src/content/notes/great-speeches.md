@@ -75,7 +75,7 @@ The inspiration to think about the best speeches Kyle has heard came from this c
 - Randy Pausch, ["Time Management"](https://jamesclear.com/great-speeches/time-management-by-randy-pausch)
 - Anna Quindlen, ["1999 Mount Holyoke Commencement Speech"](https://jamesclear.com/great-speeches/1999-mount-holyoke-commencement-speech-by-anna-quindlen)
 - [John Roberts](/notes/john-pierce), ["I Wish You Bad Luck"](https://jamesclear.com/great-speeches/i-wish-you-bad-luck-by-john-roberts)
-- Sir Ken Robinson, ["Do Schools Kill Creativity?"](https://jamesclear.com/great-speeches/do-schools-kill-creativity-by-ken-robinson)
+- [Sir Ken Robinson](/notes/ken-robinson), ["Do Schools Kill Creativity?"](https://jamesclear.com/great-speeches/do-schools-kill-creativity-by-ken-robinson)
 - J.K. Rowling, ["The Fringe Benefits of Failure"](https://jamesclear.com/great-speeches/the-fringe-benefits-of-failure-and-the-importance-of-imagination-by-j-k-rowling)
 - George Saunders, ["Failures of Kindness"](https://jamesclear.com/great-speeches/failures-of-kindness-by-george-saunders)
 - [Claude Shannon](/notes/claude-shannon), ["Creative Thinking"](https://jamesclear.com/great-speeches/creative-thinking-by-claude-shannon)

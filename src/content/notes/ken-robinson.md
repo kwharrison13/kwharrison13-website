@@ -8,11 +8,14 @@ updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/books/The Self-Driven Child.md"
+  - "wiki/books/TED Talks — The Official TED Guide to Public Speaking.md"
 tags: []
 aliases:
   - "Ken Robinson"
+  - "Sir Ken Robinson"
 related:
   - "[[The Self-Driven Child]]"
+  - "[[TED Talks: The Official TED Guide to Public Speaking]]"
 ---
 
 # Ken Robinson
@@ -24,3 +27,4 @@ Education thinker invoked in [The Self-Driven Child](/books/the-self-driven-chil
 ## Where this appears
 
 - [The Self-Driven Child](/books/the-self-driven-child) — cited as a leading thinker on the passion-skill intersection; his *The Element* is recommended to parents as a tool for helping kids find autonomous purpose.
+- [TED Talks: The Official TED Guide to Public Speaking](/books/ted-talks-the-official-ted-guide-to-public-speaking) — quoted on the essay formula: a good essay answers "What? So what? Now what?"
