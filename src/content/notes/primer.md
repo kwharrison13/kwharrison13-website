@@ -28,3 +28,5 @@ Identified in the Candor February update as the company of [Ryan Delk](/notes/ry
 ## Where this appears
 
 - March 30th, 2022 — Candor February Update (Kelsey Bishop) — referenced as [Ryan Delk](/notes/ryan-delk)'s company; Delk is named as an existing Candor investor.
+- July 27th, 2022 — Primer Investment Memo (Shrug.vc) — Shrug.vc LP memo on Primer's $15M Series A (Founders Fund / Keith Rabois); Clubs → Microschools strategy, team, and funding.
+- July 27th, 2022 — Rishi Gowda on Primer — diligence perspective on Microschools, quality control at scale, and location sourcing as the key risk.

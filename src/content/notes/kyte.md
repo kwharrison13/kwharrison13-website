@@ -36,3 +36,4 @@ By the April 2025 update call, Kyte was being acquired by Vay (a remote-driving 
 - November 7th, 2022 — Cleared Email — reading Kyte's Sep 2022 Contrary portfolio update
 - August 29th, 2022 — daily-log mention of reading a Kyte update from Ludwig Schoenack
 - [Ludwig Schoenack](/notes/ludwig-schoenack) — Kyte co-founder who authored the investor updates
+- July 27th, 2022 — Jeremy Tsui (Finley CMS) — Kyte cited as a capital-markets / debt-facility use case in the Finley CMS call

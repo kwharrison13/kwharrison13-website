@@ -24,7 +24,7 @@ related:
 ## What we know
 
 - Works at [Finley CMS](/notes/finley-cms) (source: July 27th, 2022 call).
-- Finley helps borrowers handle multiple facilities with multiple capital providers and avoid getting buried in reporting/compliance; focuses on first-time borrowers over mature ones. Cited Aditi Shankar as a case study of someone who shouldn't be bogged down. Discussed [Kyte](/notes/kyte)'s capital-markets process.
+- Finley helps borrowers handle multiple facilities with multiple capital providers and avoid getting buried in reporting/compliance; focuses on first-time borrowers over mature ones. Cited [Aditi Shankar](/notes/aditi-shankar) as a case study of someone who shouldn't be bogged down. Discussed [Kyte](/notes/kyte)'s capital-markets process.
 
 ## Mentioned in
 

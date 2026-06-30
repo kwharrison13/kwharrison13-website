@@ -23,7 +23,7 @@ related:
 ## What we know
 
 - Works at [Bain Capital Ventures](/notes/bain-capital-ventures) (source: July 27th, 2022 call).
-- Discussed how venture firms concentrate power in two senior partners and the [Eat What You Kill](/essays/eat-what-you-kill) dynamic, citing Peter Fenton on firms that keep partners in power past 55 falling off the leaderboard.
+- Discussed how venture firms concentrate power in two senior partners and the [Eat What You Kill](/essays/eat-what-you-kill) dynamic, citing [Peter Fenton](/notes/peter-fenton) on firms that keep partners in power past 55 falling off the leaderboard.
 
 ## Mentioned in
 

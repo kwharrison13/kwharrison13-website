@@ -27,3 +27,4 @@ Spend-management company backed by [Keith Rabois](/notes/keith-rabois) / [Founde
 ## Where this appears
 
 - The Talent Vortex - Research
+- July 27th, 2022 — Vincent Xue — call on whether better products are enough and what an Amazon-style secondary growth ring would look like for Ramp.
