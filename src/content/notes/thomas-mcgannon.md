@@ -8,16 +8,18 @@ updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Historical Futurism - Research.md"
+  - "Roam Research daily-note export — July 27th, 2022: ~/Downloads/July 27th, 2022.md"
 tags:
   - "historical-futurism"
 aliases:
   - "Thomas McGannon"
 related:
   - "[[Historical Futurism - Research]]"
+  - "[[July 27th, 2022 — Thomas McGannon (Podcast Recording)]]"
   - "[[Historical Futurism]]"
   - "[[Incentives]]"
   - "[[Ubiquity]]"
-reference_count: 1
+reference_count: 2
 ---
 
 # Thomas McGannon
@@ -27,3 +29,4 @@ A conversation partner whose jam session with Kyle seeded two of the load-bearin
 ## Where this appears
 
 - Historical Futurism - Research — credited with the "50-year news" opening device and the "incentivized + ubiquitous" framework for what makes inventions stick.
+- July 27th, 2022 — Thomas McGannon (Podcast Recording) — the recorded podcast conversation that seeded both ideas; Kyle answered McGannon's pre-submitted questions on time allocation, historical futurism, talent, and venture vs. hedge-fund investing.
