@@ -21,11 +21,11 @@ related:
 
 # Colleen Neary
 
-**One-line:** *On the recruiting side at Faire; gave a customer reference for [Pave](/notes/pave).*
+**One-line:** *On the recruiting side at [Faire](/notes/faire); gave a customer reference for [Pave](/notes/pave).*
 
 ## What we know
 
-- Works in recruiting at Faire, having come to the recruiting side from the HR side of the house (source: October 18th, 2021 — Colleen Neary (Faire) — Pave Diligence).
+- Works in recruiting at [Faire](/notes/faire), having come to the recruiting side from the HR side of the house (source: October 18th, 2021 — Colleen Neary (Faire) — Pave Diligence).
 - Dating [Damir Becirovic](/notes/damir-becirovic); after demoing Pave told him he "HAS to look into this company" (source: October 18th, 2021 — Colleen Neary (Faire) — Pave Diligence).
 - Strongly positive on Pave for the offer process; Faire plugs Pave into Greenhouse and Docusign and believes it had signed a contract with Pave (source: October 18th, 2021 — Colleen Neary (Faire) — Pave Diligence).
 
