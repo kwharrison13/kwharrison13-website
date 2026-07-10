@@ -19,6 +19,7 @@ related:
   - "[[Jack Welch]]"
   - "[[The Man Who Broke Capitalism]]"
   - "[[The Messy Marketplace]]"
+  - "[[Bundle]]"
 ---
 
 # Capital Allocation

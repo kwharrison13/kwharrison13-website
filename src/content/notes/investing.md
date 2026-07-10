@@ -30,6 +30,9 @@ A broad hub tag Kyle attaches across his reading to investor letters, frameworks
 _Link Kyle saved to this topic in his April 30th, 2020 Roam "Quick Capture" log._
 
 - https://moiglobal.com/wp-content/uploads/Semper-Vic-Partners-L.P.-Letter-to-Investors-April-2020.pdf — Semper Vic Partners L.P. letter to investors, April 2020 (Tom Russo's long-term global-value fund, hosted by MOI Global). Also queued in articles-to-read. #articles-to-read
+[- Investors to study from @PrefShares](https://x.com/PrefShares/status/1245166837576470528)
+	- 1. Warren Buffett 2. Stanley Druckenmiller 3. Peter Lynch 4. Joel Greenblatt 5. Shelby Davis 6. George Soros 7. Ben Graham 8. Walter Schloss 9. David Tepper 10. Ray Dalio 
+	- Honor Roll: Ed Seykota, Terry Smith, Jim Simons, Dan Loeb, Bill Gurley, Peter Thiel, Ben Franklin
 
 ## Quotes
 

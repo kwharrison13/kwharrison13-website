@@ -28,6 +28,7 @@ related:
   - "[[Conviction-Led Contrarianism]]"
   - "[[The Almanack of Naval Ravikant]]"
   - "[[The Unusual Ambitions of Chamath Palihapitiya]]"
+  - "[[Bill Maher]]"
 ---
 
 # Contrarianism

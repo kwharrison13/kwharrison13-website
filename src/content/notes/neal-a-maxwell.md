@@ -25,6 +25,7 @@ related:
   - "[[Self-Mastery — Topical Study]]"
   - "[[Diligence]]"
   - "[[His Grace Is Sufficient — Brad Wilcox]]"
+  - "[[Joseph Smith- A Choice Seer]]"
 reference_count: 1
 ---
 

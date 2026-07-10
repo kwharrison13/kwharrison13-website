@@ -17,6 +17,8 @@ aliases:
 related:
   - "[[The Profile]]"
   - "[[The Profile but for companies]]"
+  - "[[The Profile Dossier: Chris Hadfield, the Astronaut Who Conquered Fear]]"
+  - "[[The Profile: America's therapist & the billionaire criticizing the rich]]"
 ---
 
 # Polina Marinova
@@ -33,3 +35,5 @@ Her newsletter also lent its name to one of Kyle's own idea-tags, [The Profile b
 - [The Profile Dossier- Elon Musk, The Architect Of The Future](/notes/the-profile-dossier-elon-musk-the-architect-of-the-future) — a Profile Dossier deep-dive on Elon Musk she authored, read by Kyle on 2020-07-02.
 - [The Profile- The Musk Of Steamy Romance & The Civil Rights Leader Full Of Hope](/notes/the-profile-the-musk-of-steamy-romance-and-the-civil-rights-leader-full-of-hope) — a Musk-themed edition she authored, read the same day.
 - [The Profile but for companies](/notes/the-profile-but-for-companies) — Kyle's idea-tag named after her newsletter's people-profile format, applied to company storytelling.
+- [The Profile Dossier: Chris Hadfield, the Astronaut Who Conquered Fear](/notes/the-profile-dossier-chris-hadfield-the-astronaut-who-conquered-fear) — a Profile Dossier she authored, read by Kyle on 2020-06-10.
+- [The Profile: America's therapist & the billionaire criticizing the rich](/notes/the-profile-america-s-therapist-and-the-billionaire-criticizing-the-rich) — a weekly edition she authored, read the same day.

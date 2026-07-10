@@ -22,6 +22,7 @@ related:
   - "[[Working in Public]]"
   - "[[TerraPower]]"
   - "[[Breakthrough Energy]]"
+  - "[[Norman Borlaug]]"
 reference_count: 1
 ---
 

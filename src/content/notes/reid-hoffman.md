@@ -24,6 +24,7 @@ related:
   - "[[PayPal Mafia]]"
   - "[[Platform Risk]]"
   - "[[Networking]]"
+  - "[[Chris Yeh]]"
 ---
 
 # Reid Hoffman

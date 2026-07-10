@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-29"
-updated: "2026-06-29"
+updated: "2026-06-30"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — July 27th, 2022: ~/Downloads/July 27th, 2022.md"
@@ -14,6 +14,8 @@ aliases:
   - "Sam Crowder"
 related:
   - "[[Bain Capital Ventures]]"
+  - "[[Eat What You Kill]]"
+  - "[[Peter Fenton]]"
 ---
 
 # Sam Crowder

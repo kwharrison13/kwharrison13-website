@@ -25,6 +25,7 @@ related:
   - "[[David Sacks]]"
   - "[[PayPal]]"
   - "[[Storytelling as Leadership]]"
+  - "[[Jeremy Stoppelman]]"
 ---
 
 # Max Levchin

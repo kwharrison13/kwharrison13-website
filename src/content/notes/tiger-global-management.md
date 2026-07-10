@@ -19,6 +19,7 @@ related:
   - "[[The Power Law — Venture Capital & the Making of the New Future]]"
   - "[[Sebastian Mallaby]]"
   - "[[Venture Capital]]"
+  - "[[Whale Rock]]"
 reference_count: 8
 ---
 

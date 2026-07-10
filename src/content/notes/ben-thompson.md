@@ -21,6 +21,9 @@ related:
   - "[[Colossus]]"
   - "[[Working in Public]]"
   - "[[Open-Source Knowledge]]"
+  - "[[Aggregation Theory (07.21.15)]]"
+  - "[[Defining Aggregators (09.26.17)]]"
+  - "[[Aggregation Theory]]"
 ---
 
 # Ben Thompson
@@ -35,6 +38,8 @@ related:
 ## Mentioned in
 
 - Open-Source Knowledge - Research — Stratechery as a depth vs. scale contrast.
+- [Aggregation Theory (07.21.15)](/notes/aggregation-theory-07-21-15) — his founding [Aggregation Theory](/notes/aggregation-theory) essay; Kyle read it on June 10th, 2020.
+- [Defining Aggregators (09.26.17)](/notes/defining-aggregators-09-26-17) — his formal definition of aggregators (three characteristics + Level 1/2/3 taxonomy).
 
 ## Connections
 

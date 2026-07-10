@@ -15,6 +15,8 @@ related:
   - "[[Working in Public]]"
   - "[[Ben Thompson]]"
   - "[[Stratechery]]"
+  - "[[Aggregation Theory (07.21.15)]]"
+  - "[[Defining Aggregators (09.26.17)]]"
 ---
 
 # Aggregation Theory
@@ -26,3 +28,5 @@ related:
 ## Where this appears
 
 - [Working in Public](/books/working-in-public) — Ben Thompson's platforms-vs-aggregators and "faceless publisher" distinctions run throughout the book's analysis of how platforms reshape their creators.
+- [Aggregation Theory (07.21.15)](/notes/aggregation-theory-07-21-15) — Thompson's founding essay (the [Stratechery](/notes/stratechery) original Kyle read on June 10th, 2020).
+- [Defining Aggregators (09.26.17)](/notes/defining-aggregators-09-26-17) — Thompson's formal definition: the three aggregator characteristics and the Level 1/2/3 supply-cost taxonomy.

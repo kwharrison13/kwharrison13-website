@@ -18,6 +18,7 @@ related:
   - "[[Goals]]"
   - "[[Investing]]"
   - "[[Reading]]"
+  - "[[Charles Duhigg]]"
 reference_count: 1
 ---
 

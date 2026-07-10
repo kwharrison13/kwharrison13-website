@@ -24,6 +24,7 @@ related:
   - "[[Charlie Munger — The Psychology of Human Misjudgment]]"
   - "[[Man-with-a-Hammer Tendency]]"
   - "[[Self-Criticism]]"
+  - "[[Jonathan Haidt]]"
 reference_count: 1
 ---
 

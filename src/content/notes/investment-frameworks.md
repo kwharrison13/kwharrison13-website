@@ -19,6 +19,7 @@ related:
   - "[[Networked Conviction — Roam + Investing]]"
   - "[[Investment Memo Template]]"
   - "[[Charlie Munger]]"
+  - "[[Bill Gurley]]"
 reference_count: 2
 ---
 

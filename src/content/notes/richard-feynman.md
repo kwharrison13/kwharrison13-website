@@ -22,6 +22,7 @@ related:
   - "[[William Shockley]]"
   - "[[Poor Charlie's Almanack]]"
   - "[[The Man From The Future]]"
+  - "[[Eric Drexler]]"
 ---
 
 # Richard Feynman

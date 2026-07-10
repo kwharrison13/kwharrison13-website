@@ -26,6 +26,7 @@ related:
   - "[[Breaking into VC]]"
   - "[[Educated Electorate]]"
   - "[[The Death of Expertise]]"
+  - "[[Philip Tetlock]]"
 reference_count: 1
 ---
 

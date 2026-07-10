@@ -7,7 +7,7 @@ quake: false
 tags:
   - "technological-innovation"
   - "company-building"
-last_imported: "2026-06-29"
+last_imported: "2026-07-10"
 key_takeaways_status: "written"
 ---
 

@@ -13,6 +13,7 @@ aliases:
   - "Cecil O. Samuelson"
 related:
   - "[[Why You're Christian]]"
+  - "[[Joseph Smith- A Choice Seer]]"
 reference_count: 4
 ---
 

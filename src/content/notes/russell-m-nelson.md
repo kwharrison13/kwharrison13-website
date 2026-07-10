@@ -29,6 +29,7 @@ related:
   - "[[The Priesthood Power of Women]]"
   - "[[Feed My Sheep]]"
   - "[[Faith is Not Blind]]"
+  - "[[The Future of the Church- Preparing the World for the Savior's Second Coming]]"
 ---
 
 # Russell M. Nelson

@@ -4,7 +4,7 @@ type: "company"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-26"
+updated: "2026-06-30"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Watershed Climate Diligence — 2021.md"
@@ -21,6 +21,7 @@ related:
   - "[[Berkshire Hathaway Annual Letters]]"
   - "[[Watershed]]"
   - "[[Pave]]"
+  - "[[Tobi Lutke]]"
 ---
 
 # Shopify

@@ -22,6 +22,9 @@ related:
   - "[[TAM Arbitrage]]"
   - "[[Philippe Laffont]]"
   - "[[December 14th, 2021 — Erik Kriessmann (Index Ventures)]]"
+  - "[[March 31st, 2020 — Wei Guo (Whale Rock)]]"
+  - "[[Wei Guo]]"
+  - "[[Whale Rock]]"
 ---
 
 # Coatue
