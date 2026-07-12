@@ -33,7 +33,7 @@ function embedFor(data: typeof d): { type: 'youtube' | 'apple' | 'spotify' | nul
 }
 const embed = embedFor(d);
 
-// Header artwork: explicit image wins; else the YouTube max-res thumbnail.
+// Artwork = the teaser thumbnail: explicit image wins; else the YouTube max-res thumb.
 const headerImage = d.image || (d.youtube_id ? `https://img.youtube.com/vi/${d.youtube_id}/maxresdefault.jpg` : null);
 
 function fmtDate(s?: string): string | null {
@@ -86,9 +86,11 @@ const jsonLd = {
   <h1 class="page-title">{d.title}</h1>
   {withLine && <p class="pod-byline">{withLine}</p>}
 
-  {/* Show a hero when Kyle gave an explicit image; otherwise only for non-YouTube
-      (a YouTube item's auto-thumbnail would be redundant above its own embed). */}
-  {(d.image || (headerImage && embed.type !== 'youtube')) && (
+  {/* The image is the listing teaser thumbnail. On the detail page we show it only
+      when there's NO video embed — a YouTube page shows just its embed (which already
+      displays the thumbnail before play), so we don't duplicate a big hero above it.
+      Audio (Apple/Spotify) and press items still get the image as artwork. */}
+  {headerImage && embed.type !== 'youtube' && (
     <img class="pod-hero" src={headerImage} alt={d.title} />
   )}
 
