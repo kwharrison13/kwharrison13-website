@@ -48,6 +48,7 @@ Index's diligence machinery surfaces a recurring set of companies in the wiki: a
 - [Adyen](/notes/adyen) — sourcing/diligence call log that surfaced Adyen as the growth-thesis example.
 - [CapitalG](/notes/capitalg) — Index sourcing call surfaced CapitalG's [Uptycs](/notes/uptycs) term sheet.
 - [Grow Therapy](/notes/grow-therapy) · [Headway](/notes/headway) — surfaced via an Index [Behavioral Health](/notes/behavioral-health) expert call.
+- Project Omar Little — Index's confidential internal competitive teardown of [Sequoia](/notes/sequoia) (2021), scoring each workstream copy-vs-differentiate against the "firm of the future" positioning (Fund Differentiation).
 
 ---
 

@@ -24,6 +24,8 @@ related:
   - "[[Watershed Climate]]"
   - "[[Instacart]]"
   - "[[Kleiner Perkins]]"
+  - "[[Project Omar Little]]"
+  - "[[Index Ventures]]"
 ---
 
 # Sequoia
@@ -43,3 +45,4 @@ On the deal side Sequoia recurs as a co-investor in Kyle's diligence work. Water
 - [Instacart](/notes/instacart) — Sequoia's early returns and the capital-dependency critique
 - [Doug Leone](/notes/doug-leone) — Sequoia partner referenced in Kyle's notes
 - [Noname Security](/notes/noname-security) / Noname Security - Diligence, Pave Diligence — 2021, CaptivateIQ Diligence — 2021, ReadySet - Pre-Brief — September 27th, 2021 — diligence/deal contexts where Sequoia appears as a comparable or investor
+- Project Omar Little — [Index Ventures](/notes/index-ventures)' confidential internal competitive teardown of Sequoia (2021): a workstream-by-workstream copy-vs-differentiate scoring of Sequoia's sourcing, winning strategy, corporate network, marketing, and recruiting
