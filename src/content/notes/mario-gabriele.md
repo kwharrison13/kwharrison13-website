@@ -37,3 +37,4 @@ related:
 ## Mentioned in
 
 - [The Hits Business](/essays/the-hits-business) / The Hits Business - Research
+- June 15th, 2022 — Trent Schumann (Harris Holdings) — a [Coatue](/notes/coatue) LP cites Gabriele's report on the firm as "indicative of the culture"

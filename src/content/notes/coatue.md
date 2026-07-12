@@ -44,3 +44,4 @@ Coatue is the crossover/hedge-fund-style firm founded by [Philippe Laffont](/not
 - December 14th, 2021 — Erik Kriessmann (Index Ventures) — Kriessmann on Coatue's unprogrammatic talent function
 - February 9th, 2022 — Nick Gagnet (Coatue) — deal-intel call (ESG pod) with a Coatue contact
 - June 24th, 2021 — Gordon Tsai (Coatue), June 29th, 2021 — Jeff Tang (Coatue), March 30th, 2022 — Rahul Chitturi (Coatue) — Coatue sourcing/deal calls
+- June 15th, 2022 — Trent Schumann (Harris Holdings) — [Harris Holdings](/notes/harris-holdings) as a Coatue LP weighing its venture fund; references the [Mario Gabriele](/notes/mario-gabriele) report as "indicative of the culture"

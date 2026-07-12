@@ -21,6 +21,7 @@ related:
   - "[[Venture Capital]]"
   - "[[Whale Rock]]"
   - "[[March 31st, 2020 — Wei Guo (Whale Rock)]]"
+  - "[[Project Joe Exotic — Tiger Global Competitive Analysis]]"
 reference_count: 8
 ---
 
