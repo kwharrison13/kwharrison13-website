@@ -1,0 +1,220 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { getBacklinks } from '../../lib/backlinks';
+
+export async function getStaticPaths() {
+  const podcasts = await getCollection('podcasts');
+  return podcasts.map((pod) => ({
+    params: { slug: pod.slug },
+    props: { pod },
+  }));
+}
+
+const { pod } = Astro.props;
+const { Content } = await pod.render();
+const backlinks = await getBacklinks(`/podcasts/${pod.slug}`);
+const d = pod.data;
+
+// --- Embed + artwork derivation -------------------------------------------
+function embedFor(data: typeof d): { type: 'youtube' | 'apple' | 'spotify' | null; src: string } {
+  if (data.youtube_id) {
+    return { type: 'youtube', src: `https://www.youtube.com/embed/${data.youtube_id}` };
+  }
+  const url = data.url || '';
+  if (/podcasts\.apple\.com/.test(url)) {
+    return { type: 'apple', src: url.replace('podcasts.apple.com', 'embed.podcasts.apple.com') };
+  }
+  const sp = url.match(/open\.spotify\.com\/episode\/([A-Za-z0-9]+)/);
+  if (sp) {
+    return { type: 'spotify', src: `https://open.spotify.com/embed/episode/${sp[1]}` };
+  }
+  return { type: null, src: '' };
+}
+const embed = embedFor(d);
+
+// Header artwork: explicit image wins; else the YouTube max-res thumbnail.
+const headerImage = d.image || (d.youtube_id ? `https://img.youtube.com/vi/${d.youtube_id}/maxresdefault.jpg` : null);
+
+function fmtDate(s?: string): string | null {
+  if (!s) return null;
+  const str = String(s).trim();
+  if (/^\d{4}$/.test(str)) return str;
+  const dt = new Date(str);
+  if (isNaN(dt.valueOf())) return str;
+  return dt.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
+}
+const dateStr = fmtDate(d.episode_date);
+
+// "Kyle as guest → the host & show"; "Kyle as host → his guest".
+const withLine = d.role === 'host'
+  ? (d.guest ? `with ${d.guest}` : '')
+  : [d.show, d.host && d.host !== d.show ? `hosted by ${d.host}` : ''].filter(Boolean).join(' · ');
+
+const sourceLabel: Record<string, string> = {
+  youtube: 'Watch on YouTube',
+  apple: 'Listen on Apple Podcasts',
+  spotify: 'Listen on Spotify',
+  web: 'Read the article',
+};
+const ctaLabel = sourceLabel[d.source || ''] || 'View original';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': d.format === 'press' ? 'NewsArticle' : 'PodcastEpisode',
+  name: d.title,
+  datePublished: d.episode_date || undefined,
+  url: `https://kwharrison13.com/podcasts/${pod.slug}`,
+  ...(d.url ? { sameAs: d.url } : {}),
+};
+---
+
+<BaseLayout
+  title={d.title}
+  currentPage="podcasts"
+  description={d.excerpt || `${d.title}${d.show ? ' — ' + d.show : ''}`}
+  ogType="article"
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <a href="/podcasts" class="back-link">← All podcasts</a>
+
+  <div style="margin: 10px 0 6px;">
+    <span class="update-tag">{d.format || d.type || 'podcast'}</span>
+    {dateStr && <span style="font-size: 12px; color: var(--text-tertiary); margin-left: 8px;">{dateStr}</span>}
+  </div>
+  <h1 class="page-title">{d.title}</h1>
+  {withLine && <p class="pod-byline">{withLine}</p>}
+
+  {headerImage && embed.type !== 'youtube' && (
+    <img class="pod-hero" src={headerImage} alt={d.title} />
+  )}
+
+  {embed.type === 'youtube' && (
+    <div class="pod-embed video"><iframe src={embed.src} title={d.title} frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen loading="lazy"></iframe></div>
+  )}
+  {embed.type === 'apple' && (
+    <div class="pod-embed audio"><iframe src={embed.src} title={d.title} frameborder="0"
+      height="175" allow="autoplay *; encrypted-media *; clipboard-write" loading="lazy"></iframe></div>
+  )}
+  {embed.type === 'spotify' && (
+    <div class="pod-embed audio"><iframe src={embed.src} title={d.title} frameborder="0"
+      height="175" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+  )}
+
+  {d.url && (
+    <a class="pod-cta" href={d.url} target="_blank" rel="noreferrer">{ctaLabel} ↗</a>
+  )}
+
+  <div class="section-divider" style="margin-top: 24px;"></div>
+
+  <div class="prose">
+    <Content />
+  </div>
+
+  {backlinks.length > 0 && (
+    <section class="backlinks">
+      <h2 class="backlinks-title">Referenced in</h2>
+      <ul class="backlinks-list">
+        {backlinks.map((bl) => (
+          <li>
+            <a href={bl.url}>{bl.title}</a>
+            <span class="backlinks-kind">{bl.kind === 'books' ? 'book' : bl.kind === 'essays' ? 'essay' : bl.kind === 'podcasts' ? 'podcast' : 'note'}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+</BaseLayout>
+
+<style>
+  .back-link {
+    display: inline-block;
+    font-size: 13px;
+    color: var(--text-tertiary);
+    text-decoration: none;
+    margin-bottom: 4px;
+  }
+  .back-link:hover { color: var(--accent); }
+  .pod-byline {
+    font-size: 14px;
+    color: var(--text-secondary);
+    margin: 4px 0 18px;
+  }
+  .pod-hero {
+    width: 100%;
+    max-width: 720px;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    margin-bottom: 18px;
+    display: block;
+  }
+  .pod-embed {
+    max-width: 720px;
+    margin-bottom: 18px;
+  }
+  .pod-embed.video {
+    position: relative;
+    width: 100%;
+    max-width: 720px;
+    aspect-ratio: 16 / 9;
+    border-radius: var(--radius);
+    overflow: hidden;
+    border: 1px solid var(--border);
+  }
+  .pod-embed.video iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .pod-embed.audio iframe {
+    width: 100%;
+    border-radius: 12px;
+  }
+  .pod-cta {
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--accent);
+    text-decoration: none;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 7px 14px;
+    transition: all 0.15s ease;
+  }
+  .pod-cta:hover { border-color: var(--accent); box-shadow: var(--shadow-md); }
+
+  .backlinks {
+    margin-top: 48px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+    max-width: 640px;
+  }
+  .backlinks-title {
+    font-family: var(--font-display);
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--text);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin: 0 0 14px;
+  }
+  .backlinks-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 6px; }
+  .backlinks-list li { display: flex; align-items: baseline; gap: 10px; font-size: 14.5px; }
+  .backlinks-list a {
+    color: var(--accent);
+    text-decoration: underline;
+    text-decoration-color: color-mix(in srgb, var(--accent) 30%, transparent);
+    text-underline-offset: 2px;
+  }
+  .backlinks-list a:hover { text-decoration-color: var(--accent); }
+  .backlinks-kind {
+    font-size: 11px;
+    color: var(--text-tertiary);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+</style>

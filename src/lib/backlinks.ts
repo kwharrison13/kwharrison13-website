@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 export type Backlink = {
   title: string;
   url: string;
-  kind: 'books' | 'essays' | 'notes';
+  kind: 'books' | 'essays' | 'notes' | 'podcasts';
 };
 
 let cache: Map<string, Backlink[]> | null = null;
@@ -20,7 +20,7 @@ let cache: Map<string, Backlink[]> | null = null;
 export async function buildBacklinksIndex(): Promise<Map<string, Backlink[]>> {
   if (cache) return cache;
   const idx = new Map<string, Backlink[]>();
-  const collections: Backlink['kind'][] = ['books', 'essays', 'notes'];
+  const collections: Backlink['kind'][] = ['books', 'essays', 'notes', 'podcasts'];
   for (const kind of collections) {
     const entries = await getCollection(kind);
     for (const entry of entries) {
@@ -28,7 +28,7 @@ export async function buildBacklinksIndex(): Promise<Map<string, Backlink[]>> {
       const body = entry.body || '';
       const seen = new Set<string>();
       // Match markdown links to internal pages
-      const re = /\]\((\/(?:books|essays|notes)\/[a-z0-9-]+)\/?\)/g;
+      const re = /\]\((\/(?:books|essays|notes|podcasts)\/[a-z0-9-]+)\/?\)/g;
       let m: RegExpExecArray | null;
       while ((m = re.exec(body)) !== null) {
         const target = m[1];

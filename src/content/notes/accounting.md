@@ -25,6 +25,7 @@ related:
   - "[[Warren Buffett]]"
   - "[[Luca Pacioli]]"
   - "[[Best-in-Class Tech Stacks]]"
+  - "[[Finance]]"
 reference_count: 4
 ---
 

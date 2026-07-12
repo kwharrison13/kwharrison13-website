@@ -1,277 +1,88 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+// Podcasts are wiki-native (wiki/podcasts/*.md → synced into the `podcasts`
+// collection). Each card links to a rich internal page at /podcasts/<slug>.
+const all = (await getCollection('podcasts'))
+  .filter((p) => p.data.publish !== false)
+  .sort((a, b) => {
+    const da = new Date(a.data.episode_date || 0).valueOf();
+    const db = new Date(b.data.episode_date || 0).valueOf();
+    return (isNaN(db) ? 0 : db) - (isNaN(da) ? 0 : da);
+  });
+
+const sections = [
+  { key: 'appearance', heading: 'My Podcast Appearances' },
+  { key: 'hosted', heading: 'My Podcasts' },
+  { key: 'media', heading: 'Other Media' },
+];
+
+// Deterministic gradient hue from a string (for cards without a thumbnail).
+function hue(s: string): number {
+  let h = 0;
+  for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) % 360;
+  return h;
+}
+function initials(s?: string): string {
+  if (!s) return '◉';
+  const words = s.replace(/[^A-Za-z0-9 ]/g, '').split(/\s+/).filter(Boolean);
+  if (words.length === 1) return words[0].slice(0, 3).toUpperCase();
+  return words.slice(0, 3).map((w) => w[0]).join('').toUpperCase();
+}
+
+const sourceName: Record<string, string> = {
+  youtube: 'YouTube', apple: 'Apple Podcasts', spotify: 'Spotify', web: '',
+};
+
+function card(p: (typeof all)[number]) {
+  const d = p.data;
+  const thumb = d.image || (d.youtube_id ? `https://img.youtube.com/vi/${d.youtube_id}/mqdefault.jpg` : null);
+  const source = sourceName[d.source || ''] || d.show || '';
+  return { d, slug: p.slug, thumb, source };
+}
 ---
 
 <BaseLayout title="Podcasts" currentPage="podcasts" description="Podcast appearances, hosted conversations, and media coverage featuring Kyle Harrison on venture capital, AI, and startups.">
   <h1 class="page-title">Podcasts</h1>
-  <p class="page-subtitle">
-    Conversations, appearances, and media coverage.
-  </p>
+  <p class="page-subtitle">Conversations, appearances, and media coverage — each with the full episode, notes, and connections.</p>
 
   <div class="section-divider"></div>
 
-  <!-- My Podcast Appearances -->
-  <h2 class="section-heading">My Podcast Appearances</h2>
-  <div class="section-divider"></div>
-
-  <div class="pod-grid">
-    <a class="pod-card" href="https://www.youtube.com/watch?v=_VLmImQvjXQ" target="_blank" rel="noreferrer">
-      <img class="pod-thumb" src="https://img.youtube.com/vi/_VLmImQvjXQ/mqdefault.jpg" alt="90% of VCs Are Neutral to Negative Value — Run the Numbers with CJ Gustafson" loading="lazy" />
-      <div class="pod-info">
-        <span class="pod-source yt">YouTube</span>
-        <span class="pod-title">"90% of VCs Are Neutral to Negative Value" — Run the Numbers with CJ Gustafson</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://podcasts.apple.com/us/podcast/intel-chips-and-americas-future/id1615629580?i=1000721832806" target="_blank" rel="noreferrer">
-      <div class="pod-icon-wrap" style="--pod-gradient: linear-gradient(135deg, hsl(280, 50%, 35%) 0%, hsl(280, 40%, 22%) 100%);"><span class="pod-icon-initials">RG</span></div>
-      <div class="pod-info">
-        <span class="pod-source ap">Apple Podcasts</span>
-        <span class="pod-title">Intel, Chips and America's Future — Riskgaming</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://www.youtube.com/watch?v=3bbn6SzNZD8&t=8999s" target="_blank" rel="noreferrer">
-      <img class="pod-thumb" src="https://img.youtube.com/vi/3bbn6SzNZD8/mqdefault.jpg" alt="TBPN | Tuesday, August 5th" loading="lazy" />
-      <div class="pod-info">
-        <span class="pod-source yt">YouTube</span>
-        <span class="pod-title">TBPN | Tuesday, August 5th</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://www.youtube.com/watch?v=wGzpW1CMJFs" target="_blank" rel="noreferrer">
-      <img class="pod-thumb" src="https://img.youtube.com/vi/wGzpW1CMJFs/mqdefault.jpg" alt="AGI, Seriously + Foundation Model Polyamory — Newcomer" loading="lazy" />
-      <div class="pod-info">
-        <span class="pod-source yt">YouTube</span>
-        <span class="pod-title">AGI, Seriously + Foundation Model Polyamory — Newcomer</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://www.youtube.com/watch?v=eEfTQYNzi1A" target="_blank" rel="noreferrer">
-      <img class="pod-thumb" src="https://img.youtube.com/vi/eEfTQYNzi1A/mqdefault.jpg" alt="Contrary GP on Talent &amp; Research-Driven Investing — Venture with Grace" loading="lazy" />
-      <div class="pod-info">
-        <span class="pod-source yt">YouTube</span>
-        <span class="pod-title">Contrary GP on Talent & Research-Driven Investing — Venture with Grace</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://www.youtube.com/watch?v=17jjM5SUH_A" target="_blank" rel="noreferrer">
-      <img class="pod-thumb" src="https://img.youtube.com/vi/17jjM5SUH_A/mqdefault.jpg" alt="Techno-Optimism, Talent Vortexes, &amp; Writing Investing 101 — Sourcery with Molly O'Shea" loading="lazy" />
-      <div class="pod-info">
-        <span class="pod-source yt">YouTube</span>
-        <span class="pod-title">Techno-Optimism, Talent Vortexes, & Writing "Investing 101" — Sourcery with Molly O'Shea</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://podcasts.apple.com/us/podcast/capital-inferno-heaven-feat-kyle-harrison/id1636629847?i=1000651937412" target="_blank" rel="noreferrer">
-      <div class="pod-icon-wrap" style="--pod-gradient: linear-gradient(135deg, hsl(240, 50%, 35%) 0%, hsl(240, 40%, 22%) 100%);"><span class="pod-icon-initials">DR</span></div>
-      <div class="pod-info">
-        <span class="pod-source ap">Apple Podcasts</span>
-        <span class="pod-title">Capital Inferno Heaven — Down Round</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://open.spotify.com/episode/1mJ3eDykmSFuRDM62oHiEH" target="_blank" rel="noreferrer">
-      <div class="pod-icon-wrap" style="--pod-gradient: linear-gradient(135deg, hsl(45, 50%, 35%) 0%, hsl(45, 40%, 22%) 100%);"><span class="pod-icon-initials">IE</span></div>
-      <div class="pod-info">
-        <span class="pod-source sp">Spotify</span>
-        <span class="pod-title">Venture Capital, Mormonism, and Driving Your Own Life — The Idea Exchange</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://www.youtube.com/watch?v=OQJvG5FXYew&t=54s" target="_blank" rel="noreferrer">
-      <img class="pod-thumb" src="https://img.youtube.com/vi/OQJvG5FXYew/mqdefault.jpg" alt="Venture Capital: Kyle Harrison — Colby Howard Wants Your Job" loading="lazy" />
-      <div class="pod-info">
-        <span class="pod-source yt">YouTube</span>
-        <span class="pod-title">Venture Capital: Kyle Harrison — Colby Howard Wants Your Job</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://www.youtube.com/watch?v=Y3l9YZdFHmY" target="_blank" rel="noreferrer">
-      <img class="pod-thumb" src="https://img.youtube.com/vi/Y3l9YZdFHmY/mqdefault.jpg" alt="The Centralization of Power in AI — MLOps Podcast #181" loading="lazy" />
-      <div class="pod-info">
-        <span class="pod-source yt">YouTube</span>
-        <span class="pod-title">The Centralization of Power in AI — MLOps Podcast #181</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://podcasts.apple.com/us/podcast/037-kyle-harrison-on-investing-in-people-talent-vortexes/id1671838630?i=1000630218061" target="_blank" rel="noreferrer">
-      <div class="pod-icon-wrap" style="--pod-gradient: linear-gradient(135deg, hsl(170, 50%, 35%) 0%, hsl(170, 40%, 22%) 100%);"><span class="pod-icon-initials">AO</span></div>
-      <div class="pod-info">
-        <span class="pod-source ap">Apple Podcasts</span>
-        <span class="pod-title">Investing in People, Talent Vortexes, Writing, & Tradition vs Progress — Audience of One</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://podcasts.apple.com/us/podcast/kyle-harrison-navigating-the-ai-investment-landscape/id1613934397?i=1000626788116" target="_blank" rel="noreferrer">
-      <div class="pod-icon-wrap" style="--pod-gradient: linear-gradient(135deg, hsl(30, 50%, 35%) 0%, hsl(30, 40%, 22%) 100%);"><span class="pod-icon-initials">RAI</span></div>
-      <div class="pod-info">
-        <span class="pod-source ap">Apple Podcasts</span>
-        <span class="pod-title">Navigating the AI Investment Landscape — Redefining AI</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://podcasts.apple.com/us/podcast/funding-the-future-kyle-harisson-general-partner-at/id1619104989?i=1000625368204" target="_blank" rel="noreferrer">
-      <div class="pod-icon-wrap" style="--pod-gradient: linear-gradient(135deg, hsl(260, 55%, 35%) 0%, hsl(260, 45%, 22%) 100%);"><span class="pod-icon-initials">B</span></div>
-      <div class="pod-info">
-        <span class="pod-source ap">Apple Podcasts</span>
-        <span class="pod-title">Funding the Future — Builders by Frontlines.io</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://podcasts.apple.com/cy/podcast/386-finding-product-market-fit-as-a-venture-firm/id888084300?i=1000615685439" target="_blank" rel="noreferrer">
-      <div class="pod-icon-wrap" style="--pod-gradient: linear-gradient(135deg, hsl(0, 0%, 45%) 0%, hsl(0, 0%, 25%) 100%);"><span class="pod-icon-initials">TFR</span></div>
-      <div class="pod-info">
-        <span class="pod-source ap">Apple Podcasts</span>
-        <span class="pod-title">Finding Product-Market Fit as a Venture Firm — The Full Ratchet</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://www.youtube.com/watch?v=f9v01qT-uaE" target="_blank" rel="noreferrer">
-      <img class="pod-thumb" src="https://img.youtube.com/vi/f9v01qT-uaE/mqdefault.jpg" alt="VC Contagion: Is Venture Capital Killing Itself? — Newcomer" loading="lazy" />
-      <div class="pod-info">
-        <span class="pod-source yt">YouTube</span>
-        <span class="pod-title">VC Contagion: Is Venture Capital Killing Itself? — Newcomer</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://podcasts.apple.com/ca/podcast/ghp-96-vc-18-backing-bold-founders-from-seed-to-scale/id1518625049?i=1000602030488" target="_blank" rel="noreferrer">
-      <div class="pod-icon-wrap" style="--pod-gradient: linear-gradient(135deg, hsl(200, 50%, 35%) 0%, hsl(200, 40%, 22%) 100%);"><span class="pod-icon-initials">GH</span></div>
-      <div class="pod-info">
-        <span class="pod-source ap">Apple Podcasts</span>
-        <span class="pod-title">Backing Bold Founders from Seed to Scale — The Generation Hustle Podcast</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://podcasts.apple.com/us/podcast/e47-your-fund-size-is-your-strategy-with-kyle-harrison/id1460467707?i=1000594267026" target="_blank" rel="noreferrer">
-      <div class="pod-icon-wrap" style="--pod-gradient: linear-gradient(135deg, hsl(210, 55%, 40%) 0%, hsl(210, 45%, 25%) 100%);"><span class="pod-icon-initials">SHR</span></div>
-      <div class="pod-info">
-        <span class="pod-source ap">Apple Podcasts</span>
-        <span class="pod-title">Your Fund Size Is Your Strategy — Sand Hill Road</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://podcasts.apple.com/us/podcast/20vc-why-75-of-active-investors-will-disappear-in/id958230465?i=1000583401830" target="_blank" rel="noreferrer">
-      <div class="pod-icon-wrap" style="--pod-gradient: linear-gradient(135deg, hsl(15, 60%, 45%) 0%, hsl(15, 50%, 28%) 100%);"><span class="pod-icon-initials">20VC</span></div>
-      <div class="pod-info">
-        <span class="pod-source ap">Apple Podcasts</span>
-        <span class="pod-title">20VC: Why 75% of Active Investors Will Disappear — The Twenty Minute VC</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://podcasts.apple.com/gb/podcast/kyle-harrison-gp-at-contrary-cinematographer-turned/id1625166477?i=1000577795872" target="_blank" rel="noreferrer">
-      <div class="pod-icon-wrap" style="--pod-gradient: linear-gradient(135deg, hsl(330, 55%, 35%) 0%, hsl(330, 45%, 22%) 100%);"><span class="pod-icon-initials">UP</span></div>
-      <div class="pod-info">
-        <span class="pod-source ap">Apple Podcasts</span>
-        <span class="pod-title">Cinematographer Turned Investor, Time as a Resource — Unlimited Partners</span>
-      </div>
-    </a>
-  </div>
-
-  <div class="section-divider" style="margin-top: 40px;"></div>
-
-  <!-- My Podcasts -->
-  <h2 class="section-heading">My Podcasts</h2>
-  <div class="section-divider"></div>
-
-  <div class="pod-grid">
-    <a class="pod-card" href="https://www.youtube.com/watch?v=PB6YhViOcp4" target="_blank" rel="noreferrer">
-      <img class="pod-thumb" src="https://img.youtube.com/vi/PB6YhViOcp4/mqdefault.jpg" alt="Speculative Obsession (with Michael Dempsey)" loading="lazy" />
-      <div class="pod-info">
-        <span class="pod-source yt">YouTube</span>
-        <span class="pod-title">Speculative Obsession (with Michael Dempsey)</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://www.youtube.com/watch?v=Z4wG-M2FuEQ" target="_blank" rel="noreferrer">
-      <img class="pod-thumb" src="https://img.youtube.com/vi/Z4wG-M2FuEQ/mqdefault.jpg" alt="A Return To Artisanal Venture (with Rex Woodbury)" loading="lazy" />
-      <div class="pod-info">
-        <span class="pod-source yt">YouTube</span>
-        <span class="pod-title">A Return To Artisanal Venture (with Rex Woodbury)</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://www.youtube.com/watch?v=64vq66wmYjo" target="_blank" rel="noreferrer">
-      <img class="pod-thumb" src="https://img.youtube.com/vi/64vq66wmYjo/mqdefault.jpg" alt="The 7 Deadly Sins of Venture Capital (with Dan Gray)" loading="lazy" />
-      <div class="pod-info">
-        <span class="pod-source yt">YouTube</span>
-        <span class="pod-title">The 7 Deadly Sins of Venture Capital (with Dan Gray)</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://www.youtube.com/watch?v=dAxvSvzEw90&t=26s" target="_blank" rel="noreferrer">
-      <img class="pod-thumb" src="https://img.youtube.com/vi/dAxvSvzEw90/mqdefault.jpg" alt="When History Rhymes (with Beezer Clarkson)" loading="lazy" />
-      <div class="pod-info">
-        <span class="pod-source yt">YouTube</span>
-        <span class="pod-title">When History Rhymes (with Beezer Clarkson)</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://www.youtube.com/watch?v=fiqFcJsP7dw&t=10s" target="_blank" rel="noreferrer">
-      <img class="pod-thumb" src="https://img.youtube.com/vi/fiqFcJsP7dw/mqdefault.jpg" alt="The Loudest Models (with Trace Cohen)" loading="lazy" />
-      <div class="pod-info">
-        <span class="pod-source yt">YouTube</span>
-        <span class="pod-title">The Loudest Models (with Trace Cohen)</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://podcasts.apple.com/us/podcast/research-radio/id1700574886" target="_blank" rel="noreferrer">
-      <div class="pod-icon-wrap" style="--pod-gradient: linear-gradient(135deg, hsl(355, 55%, 40%) 0%, hsl(355, 45%, 25%) 100%);"><span class="pod-icon-initials">RR</span></div>
-      <div class="pod-info">
-        <span class="pod-source ap">Apple Podcasts</span>
-        <span class="pod-title">Research Radio — Full Archive on Apple Podcasts</span>
-      </div>
-    </a>
-  </div>
-
-  <div class="section-divider" style="margin-top: 40px;"></div>
-
-  <!-- Other Media -->
-  <h2 class="section-heading">Other Media</h2>
-  <div class="section-divider"></div>
-
-  <div class="pod-grid">
-    <a class="pod-card" href="https://techcrunch.com/2025/04/17/ramp-is-trying-to-get-the-us-government-as-a-customer-after-seeing-a-tweet-from-doge/" target="_blank" rel="noreferrer">
-      <div class="pod-icon-wrap"><span class="pod-icon-emoji">📰</span></div>
-      <div class="pod-info">
-        <span class="pod-source tc">TechCrunch</span>
-        <span class="pod-title">Ramp is trying to get the US government as a customer after seeing a tweet from DOGE</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://www.bloomberg.com/news/articles/2025-01-28/vcs-who-bet-300-billion-on-ai-say-deepseek-will-fuel-industry" target="_blank" rel="noreferrer">
-      <div class="pod-icon-wrap"><span class="pod-icon-emoji">📰</span></div>
-      <div class="pod-info">
-        <span class="pod-source bb">Bloomberg</span>
-        <span class="pod-title">VCs Who Bet $300 Billion on AI Say DeepSeek Will Fuel Industry</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://www.nytimes.com/2024/12/13/technology/andreessen-horowitz-benchmark-venture-capital.html" target="_blank" rel="noreferrer">
-      <div class="pod-icon-wrap"><span class="pod-icon-emoji">📰</span></div>
-      <div class="pod-info">
-        <span class="pod-source nyt">New York Times</span>
-        <span class="pod-title">Andreessen Horowitz, Benchmark, and the Battle for Venture Capital</span>
-      </div>
-    </a>
-
-    <a class="pod-card" href="https://www.newcomer.co/p/founders-fund-general-catalyst-and" target="_blank" rel="noreferrer">
-      <div class="pod-icon-wrap"><span class="pod-icon-emoji">📰</span></div>
-      <div class="pod-info">
-        <span class="pod-source nc">Newcomer</span>
-        <span class="pod-title">Founders Fund, General Catalyst, and the Megafund Moment</span>
-      </div>
-    </a>
-  </div>
-
+  {sections.map((section) => {
+    const items = all.filter((p) => (p.data.category || 'appearance') === section.key).map(card);
+    if (items.length === 0) return null;
+    return (
+      <>
+        <h2 class="section-heading">{section.heading}</h2>
+        <div class="section-divider"></div>
+        <div class="pod-grid">
+          {items.map(({ d, slug, thumb, source }) => (
+            <a class="pod-card" href={`/podcasts/${slug}`}>
+              {thumb ? (
+                <img class="pod-thumb" src={thumb} alt={d.title} loading="lazy" />
+              ) : d.format === 'press' ? (
+                <div class="pod-icon-wrap"><span class="pod-icon-emoji">📰</span></div>
+              ) : (
+                <div class="pod-icon-wrap" style={`--pod-gradient: linear-gradient(135deg, hsl(${hue(d.show || d.title)}, 50%, 35%) 0%, hsl(${hue(d.show || d.title)}, 40%, 22%) 100%);`}>
+                  <span class="pod-icon-initials">{initials(d.show)}</span>
+                </div>
+              )}
+              <div class="pod-info">
+                {source && <span class="pod-source">{source}</span>}
+                <span class="pod-title">{d.title}</span>
+              </div>
+            </a>
+          ))}
+        </div>
+        <div class="section-divider" style="margin-top: 40px;"></div>
+      </>
+    );
+  })}
 </BaseLayout>
 
 <style>
-  .pod-grid {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-  }
+  .pod-grid { display: flex; flex-direction: column; gap: 8px; }
   .pod-card {
     display: flex;
     align-items: center;
@@ -285,76 +96,32 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     transition: all 0.15s ease;
     cursor: pointer;
   }
-  .pod-card:hover {
-    border-color: var(--accent);
-    box-shadow: var(--shadow-md);
-    padding-left: 16px;
-  }
+  .pod-card:hover { border-color: var(--accent); box-shadow: var(--shadow-md); padding-left: 16px; }
   .pod-thumb {
-    width: 120px;
-    height: 68px;
-    object-fit: cover;
-    border-radius: 6px;
-    flex-shrink: 0;
+    width: 120px; height: 68px; object-fit: cover; border-radius: 6px; flex-shrink: 0;
   }
   .pod-icon-wrap {
-    width: 120px;
-    height: 68px;
-    border-radius: 6px;
+    width: 120px; height: 68px; border-radius: 6px;
     background: var(--pod-gradient, linear-gradient(135deg, hsl(220, 45%, 35%) 0%, hsl(220, 35%, 22%) 100%));
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-shrink: 0;
-    position: relative;
-    overflow: hidden;
+    display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+    position: relative; overflow: hidden;
   }
   .pod-icon-initials {
-    font-family: var(--font-display);
-    font-size: 20px;
-    font-weight: 600;
-    color: rgba(255, 255, 255, 0.85);
-    letter-spacing: -0.02em;
-    text-align: center;
-    line-height: 1.1;
+    font-family: var(--font-display); font-size: 20px; font-weight: 600;
+    color: rgba(255, 255, 255, 0.85); letter-spacing: -0.02em; text-align: center; line-height: 1.1;
   }
-  .pod-icon-emoji {
-    font-size: 28px;
-  }
-  .pod-info {
-    display: flex;
-    flex-direction: column;
-    gap: 3px;
-    min-width: 0;
-  }
+  .pod-icon-emoji { font-size: 28px; }
+  .pod-info { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
   .pod-source {
-    font-size: 11px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--accent);
+    font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: var(--accent);
   }
   .pod-title {
-    font-size: 14px;
-    font-weight: 500;
-    color: var(--text);
-    line-height: 1.35;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
+    font-size: 14px; font-weight: 500; color: var(--text); line-height: 1.35;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
   }
   @media (max-width: 600px) {
-    .pod-thumb,
-    .pod-icon-wrap {
-      width: 80px;
-      height: 45px;
-    }
-    .pod-icon-emoji {
-      font-size: 20px;
-    }
-    .pod-title {
-      font-size: 13px;
-    }
+    .pod-thumb, .pod-icon-wrap { width: 80px; height: 45px; }
+    .pod-icon-emoji { font-size: 20px; }
+    .pod-title { font-size: 13px; }
   }
 </style>

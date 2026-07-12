@@ -57,6 +57,36 @@ const notes = defineCollection({
   }),
 });
 
+const podcasts = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    type: z.string().optional(),           // 'podcast'
+    format: z.string().optional(),         // podcast | interview | press | archive
+    category: z.string().optional(),       // appearance | hosted | media
+    role: z.string().optional(),           // guest | host
+    publish: z.boolean().default(true),
+    excerpt: z.string().optional(),
+    show: z.string().optional(),           // podcast / show / publication name
+    host: z.string().optional(),
+    guest: z.string().optional(),
+    episode_date: z.coerce.string().optional(),
+    source: z.string().optional(),         // youtube | apple | spotify | web
+    url: z.string().optional(),            // canonical external link
+    youtube_id: z.string().optional(),
+    image: z.string().optional(),          // header image (public /images/ path)
+    slug: z.string().optional(),
+    created: z.string().optional(),
+    updated: z.string().optional(),
+    last_updated_by: z.string().optional(),
+    confidence: z.enum(['low', 'medium', 'high']).optional(),
+    sources: z.array(z.string()).optional(),
+    tags: z.array(z.string()).optional(),
+    aliases: z.array(z.string()).optional(),
+    related: z.array(z.string()).optional(),
+  }),
+});
+
 const learning = defineCollection({
   type: 'content',
   schema: z.object({
@@ -76,4 +106,4 @@ const learning = defineCollection({
   }),
 });
 
-export const collections = { essays, books, notes, learning };
+export const collections = { essays, books, notes, learning, podcasts };
