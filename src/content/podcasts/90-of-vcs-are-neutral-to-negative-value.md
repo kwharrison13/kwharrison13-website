@@ -39,8 +39,6 @@ related:
   - "[[The Bifurcation of Capital is Inevitable]]"
 ---
 
-> **Status:** Complete — transcript cleaned, summary + connections wired. Thumbnail renders from `youtube_id`.
-
 ## Summary
 
 A wide-ranging conversation with CJ Gustafson on the *Run the Numbers* podcast about the evolving mechanics of venture capital. Kyle lays out his core framing — the industry has bifurcated into **capital glomerators** (mega-funds optimizing for AUM and fees, comfortable with 1.5–2x returns) and **cottage keepers** (small, deliberately-capped funds that need 7–10x to work) — and argues the "stupidest game" is playing one game without realizing a competitor is playing a fundamentally different one that disadvantages you.
