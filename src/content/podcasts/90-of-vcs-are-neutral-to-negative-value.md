@@ -39,7 +39,7 @@ related:
   - "[[The Bifurcation of Capital is Inevitable]]"
 ---
 
-> **Status:** Transcript cleaned; summary + connections wired. Awaiting a header image from Kyle.
+> **Status:** Complete — transcript cleaned, summary + connections wired. Thumbnail renders from `youtube_id`.
 
 ## Summary
 

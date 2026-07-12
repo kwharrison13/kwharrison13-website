@@ -171,6 +171,8 @@ This is a second-pass rebuild. The first version covered the **surface architect
 
 57. **Movies, TV, song lyrics, and scripture are cited as authoritative texts, on par with investors and philosophers.** Secondhand Lions next to Munger; a hymn as a section title; Game of Thrones' "power resides where men believe it resides" as a thesis anchor. Latter-day Saint scripture and General Conference talks are a *regular reference class*, hyperlinked to churchofjesuschrist.org, integrated un-flagged into business essays. The high/low juxtaposition is deliberate. Never quarantine a pop-culture or scripture citation as "just an analogy," and don't hide the faith references.
 
+57b. **Assume the reader hasn't seen it. Give the one or two sentences of context the point needs, then make the point, and NEVER rehash the plot.** When you reach for a movie, show, or novel as evidence, write for the person who's never seen a frame of it. Set only the scene the argument actually stands on: who the character is, the single relevant fact, in a sentence or two, then move. Don't recap the arc, don't lean on shared fandom, and don't strand the reader who doesn't get the reference. This is the media-reference cousin of Rule 51's credential appositive (*"Aswath Damodaran, a Professor of Finance at NYU…"*): introduce a character the way you'd introduce a person, with just enough for a stranger. Kyle does exactly this in the corpus, "In shows like Breaking Bad, you have justifications for a myriad of violence supported by the idea that…" hands the reader the relevant premise before making the point, never a plot summary. **The test: could someone who's never watched it still follow your argument and feel its force?** A reference that only lands for fans is a reference that lost half the room. (Note the boundary with Rule 11's cold open, where a *scene* can carry a whole paragraph, the scene is the anecdote and gets room to breathe; a mid-essay citation earns only the sentence or two the point requires.)
+
 58. **Tweets/X posts are cited with a screenshot image plus a `Source:Twitter` alt-text caption**; the actual link goes in the surrounding prose. ChatGPT outputs are occasionally cited as a quotable source (*"When asked to explain X, this was ChatGPT's response:"*), as a citable source, not a ghostwriter.
 
 ---
@@ -385,6 +387,7 @@ This is a second-pass rebuild. The first version covered the **surface architect
 - [ ] **Hyperlink anchors are 2–3 words** (ideally the actionable verb), never full sentences; every source **re-linked on second mention** so no scrolling back.
 - [ ] A coined concept named, scare-quoted, and **Capitalized** thereafter.
 - [ ] Mix of high (philosophy, scripture, classic lit) and low (TikTok, country song, tweet) references.
+- [ ] Every movie/show/book reference gives a stranger just enough context to feel the point, without rehashing the plot (Rule 57b).
 - [ ] Lands in the **nuanced middle**; refuses a tribal verdict; discloses own incentive/position inline (a formal Contrary footer is optional, not required).
 - [ ] Money as **$100M / $1B / $600K**; multiples as **10x**; estimates carry **~**; numbers specific.
 - [ ] **Bolded thesis sentences** throughout (20–40); a few ALL-CAPS stress words; single-word italics.
