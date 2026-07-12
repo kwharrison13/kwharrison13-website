@@ -21,6 +21,9 @@ related:
   - "[[Jony Ive]]"
   - "[[Apple Earnings"
   - "An Interview with Jay Goldberg About Chips and Intel]]"
+  - "[[An Interview with Eric Seufert about Apple"
+  - "Facebook"
+  - "and Mobile Advertising]]"
 ---
 
 # Apple

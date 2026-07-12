@@ -21,6 +21,7 @@ related:
   - "[[Koyfin]]"
   - "[[Networked Conviction — Roam + Investing - Research]]"
   - "[[Ben Thompson]]"
+  - "[[Platforms in an Aggregator World]]"
 ---
 
 # Substack

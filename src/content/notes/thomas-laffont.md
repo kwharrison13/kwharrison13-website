@@ -17,6 +17,7 @@ related:
   - "[[Inside the Rise and Fall of Coatue's Quant Fund]]"
   - "[[Philippe Laffont]]"
   - "[[The Puritans of Venture Capital]]"
+  - "[[Alexander Izydorczyk]]"
 ---
 
 # Thomas Laffont

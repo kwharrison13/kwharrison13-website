@@ -39,6 +39,8 @@ related:
   - "[[Storytelling]]"
   - "[[Joseph Smith Lecture 2 — Joseph's Personality and Character]]"
   - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
+  - "[[Rat's Nest Problems]]"
+  - "[[The Moral Edifice of Meritocracy]]"
 ---
 
 # First Principles Thinking

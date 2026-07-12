@@ -24,6 +24,7 @@ related:
   - "[[value investing]]"
   - "[[Social Capital]]"
   - "[[VC Contagion - Research]]"
+  - "[[Contrarianism]]"
 reference_count: 6
 ---
 

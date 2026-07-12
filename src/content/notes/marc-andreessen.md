@@ -26,6 +26,7 @@ related:
   - "[[Building American Dynamism]]"
   - "[[Ben Horowitz]]"
   - "[[Nuclear Energy]]"
+  - "[[Max Levchin]]"
 ---
 
 # Marc Andreessen

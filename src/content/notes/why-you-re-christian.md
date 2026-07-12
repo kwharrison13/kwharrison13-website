@@ -29,6 +29,7 @@ related:
   - "[[Tom Holland]]"
   - "[[Fyodor Dostoevsky]]"
   - "[[Pascal's Wager]]"
+  - "[[The Moral Edifice of Meritocracy]]"
   - "[[C.S. Lewis]]"
   - "[[Mere Christianity]]"
   - "[[Christopher Hitchens]]"

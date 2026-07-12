@@ -16,6 +16,8 @@ related:
   - "[[Self-Mastery]]"
   - "[[Solitude]]"
   - "[[Journals]]"
+  - "[[The Man Who Reads 1"
+  - "000 Articles a Day]]"
 reference_count: 1
 ---
 

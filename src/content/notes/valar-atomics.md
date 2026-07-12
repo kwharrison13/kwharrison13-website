@@ -19,6 +19,7 @@ related:
   - "[[Contrary]]"
   - "[[Anduril]]"
   - "[[Capital Allocator Mindset]]"
+  - "[[Rat's Nest Problems]]"
 ---
 
 # Valar Atomics

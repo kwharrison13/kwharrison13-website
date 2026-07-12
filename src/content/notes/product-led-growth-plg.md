@@ -25,6 +25,9 @@ related:
   - "[[Boostup.ai]]"
   - "[[Consumerization of the Enterprise]]"
   - "[[Distribution]]"
+  - "[[Twilio Acquires Segment"
+  - "What is Segment"
+  - "An Interview with Twilio CEO Jeff Lawson]]"
 reference_count: 1
 ---
 

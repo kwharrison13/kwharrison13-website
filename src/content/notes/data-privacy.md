@@ -15,6 +15,7 @@ related:
   - "[[Amazon ($AMZN)]]"
   - "[[Personal User Data]]"
   - "[[Privacy]]"
+  - "[[An Interview with Eric Seufert about Apple, Facebook, and Mobile Advertising]]"
 ---
 
 # Data Privacy

@@ -21,6 +21,7 @@ related:
   - "[[Owner Earnings]]"
   - "[[Valuation]]"
   - "[[Private Equity]]"
+  - "[[Institutionalized Belief In The Greater Fool]]"
 reference_count: 1
 ---
 

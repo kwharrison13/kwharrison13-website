@@ -24,6 +24,7 @@ related:
   - "[[TAM]]"
   - "[[Content Marketing]]"
   - "[[Index Ventures]]"
+  - "[[Institutionalized Belief In The Greater Fool]]"
 ---
 
 # Datadog

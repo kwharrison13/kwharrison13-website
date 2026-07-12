@@ -21,6 +21,7 @@ related:
   - "[[Confluence]]"
   - "[[Figma]]"
   - "[[Linear]]"
+  - "[[Twilio Acquires Segment, What is Segment, An Interview with Twilio CEO Jeff Lawson]]"
 ---
 
 # Atlassian

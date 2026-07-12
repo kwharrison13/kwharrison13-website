@@ -36,6 +36,7 @@ related:
   - "[[Remote: Office Not Required]]"
   - "[[Charlie Munger: Investment Practices of Leading Charitable Foundations]]"
   - "[[On the Nature of Long-Term Holds]]"
+  - "[[Investing]]"
 ---
 
 # Investing 101 2.0

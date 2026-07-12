@@ -32,6 +32,7 @@ related:
   - "[[The Innovative University]]"
   - "[[Disrupting Class]]"
   - "[[Make the internet a public utility]]"
+  - "[[June 10th, 2020]]"
 ---
 
 # Opinion: Let's fix college first, before rushing to reopen campuses

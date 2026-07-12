@@ -25,6 +25,7 @@ related:
   - "[[Inversion]]"
   - "[[Circle of Competence]]"
   - "[[The Black Swan]]"
+  - "[[Investment Frameworks]]"
 ---
 
 # Charlie Munger

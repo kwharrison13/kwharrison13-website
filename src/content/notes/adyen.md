@@ -19,6 +19,7 @@ related:
   - "[[Mark Goldberg]]"
   - "[[Index Ventures]]"
   - "[[Payments]]"
+  - "[[Institutionalized Belief In The Greater Fool]]"
 ---
 
 # Adyen

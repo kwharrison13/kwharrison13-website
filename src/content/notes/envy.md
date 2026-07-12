@@ -21,6 +21,7 @@ related:
   - "[[Charlie Munger]]"
   - "[[Pride]]"
   - "[[Anger]]"
+  - "[[The Selfie Generation]]"
 reference_count: 2
 ---
 

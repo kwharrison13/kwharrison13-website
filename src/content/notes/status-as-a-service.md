@@ -17,6 +17,7 @@ related:
   - "[[Eugene Wei]]"
   - "[[Social Capital]]"
   - "[[Creator Economy]]"
+  - "[[The Selfie Generation]]"
 ---
 
 # Status as a Service

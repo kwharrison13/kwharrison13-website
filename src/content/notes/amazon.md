@@ -21,6 +21,7 @@ related:
   - "[[Personal User Data]]"
   - "[[Privacy]]"
   - "[[Flywheel]]"
+  - "[[The Anti-Amazon Alliance]]"
 ---
 
 # Amazon

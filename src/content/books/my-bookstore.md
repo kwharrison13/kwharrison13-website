@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "republic-of-letters"
-last_imported: "2026-07-10"
+last_imported: "2026-07-12"
 key_takeaways_status: "written"
 ---
 

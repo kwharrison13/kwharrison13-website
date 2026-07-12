@@ -21,6 +21,7 @@ related:
   - "[[Satan]]"
   - "[[Temptation]]"
   - "[[Henry B. Eyring]]"
+  - "[[1 Nephi 22]]"
 reference_count: 1
 ---
 

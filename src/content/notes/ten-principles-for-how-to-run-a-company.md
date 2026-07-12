@@ -26,6 +26,7 @@ related:
   - "[[Thomas S. Monson]]"
   - "[[F. Scott Fitzgerald]]"
   - "[[Default to transparency]]"
+  - "[[June 10th, 2020]]"
 ---
 
 # Ten Principles for How to Run a Company

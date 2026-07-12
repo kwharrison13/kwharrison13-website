@@ -23,6 +23,7 @@ related:
   - "[[Growth]]"
   - "[[Management]]"
   - "[[M&A]]"
+  - "[[Investing]]"
   - "[[Playbook: Sales]]"
   - "[[Playbook: Product]]"
   - "[[Playbook: Growth]]"

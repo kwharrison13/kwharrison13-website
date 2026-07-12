@@ -26,6 +26,7 @@ related:
   - "[[Matt Schulman]]"
   - "[[Internalizing Negative Externalities]]"
   - "[[The Market Is The Greatest Critic]]"
+  - "[[An Interview with Eric Seufert about Apple, Facebook, and Mobile Advertising]]"
 reference_count: 1
 ---
 

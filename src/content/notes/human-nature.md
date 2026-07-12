@@ -21,6 +21,7 @@ related:
   - "[[The Man From The Future]]"
   - "[[Game Theory]]"
   - "[[Conditioning]]"
+  - "[[The Moral Edifice of Meritocracy]]"
 reference_count: 3
 ---
 

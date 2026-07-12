@@ -26,6 +26,8 @@ related:
   - "[[Intellectual Honesty]]"
   - "[[The Trillion-Dollar Vision of Dee Hock]]"
   - "[[Visa]]"
+  - "[[Ten Principles for How to Run a Company]]"
+  - "[[Niko Canner]]"
 reference_count: 2
 ---
 

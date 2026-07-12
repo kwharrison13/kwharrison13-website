@@ -29,6 +29,7 @@ related:
   - "[[Abandon a Book]]"
   - "[[Daily Routine]]"
   - "[[Ralph Waldo Emerson]]"
+  - "[[June 10th, 2020]]"
 ---
 
 # The Man Who Reads 1,000 Articles a Day

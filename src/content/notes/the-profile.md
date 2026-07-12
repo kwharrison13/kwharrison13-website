@@ -19,6 +19,8 @@ related:
   - "[[Elon Musk]]"
   - "[[The Profile: The Musk of steamy romance & the civil rights leader full of hope]]"
   - "[[The Profile Dossier: Elon Musk, the Architect of the Future]]"
+  - "[[The Profile Dossier: Chris Hadfield, the Astronaut Who Conquered Fear]]"
+  - "[[The Profile: America's therapist & the billionaire criticizing the rich]]"
 ---
 
 # The Profile

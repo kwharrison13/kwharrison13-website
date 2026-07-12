@@ -19,6 +19,7 @@ related:
   - "[[Balto.ai]]"
   - "[[Cresta.ai - Diligence]]"
   - "[[CCaaS]]"
+  - "[[Institutionalized Belief In The Greater Fool]]"
 reference_count: 1
 ---
 

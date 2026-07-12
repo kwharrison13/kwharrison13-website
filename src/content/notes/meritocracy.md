@@ -16,6 +16,7 @@ related:
   - "[[Thomas Jefferson]]"
   - "[[Benjamin Franklin]]"
   - "[[The Death of Expertise]]"
+  - "[[The Moral Edifice of Meritocracy]]"
 ---
 
 # Meritocracy

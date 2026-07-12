@@ -20,6 +20,7 @@ related:
   - "[[Gordon B. Hinckley]]"
   - "[[Jeffrey R. Holland]]"
   - "[[Boyd K. Packer]]"
+  - "[[Ten Principles for How to Run a Company]]"
 ---
 
 # Thomas S. Monson

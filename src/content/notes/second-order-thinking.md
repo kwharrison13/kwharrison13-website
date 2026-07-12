@@ -15,6 +15,7 @@ related:
   - "[[The Great Mental Models Volume 1 — General Thinking Concepts]]"
   - "[[Garrett Hardin]]"
   - "[[Climate Change]]"
+  - "[[Rat's Nest Problems]]"
 ---
 
 # Second-Order Thinking

@@ -19,6 +19,8 @@ related:
   - "[[Playbooks]]"
   - "[[James Clear]]"
   - "[[Semper Vic Partners — Letter to Investors, April 2020]]"
+  - "[[How Do Venture Capitalists Make Decisions?]]"
+  - "[[March 31st, 2020 — Wei Guo (Whale Rock)]]"
 ---
 
 # Investing

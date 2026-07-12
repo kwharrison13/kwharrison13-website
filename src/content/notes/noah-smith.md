@@ -25,6 +25,7 @@ related:
   - "[[Frank Knight]]"
   - "[[What Is An Investor]]"
   - "[[It's Time To Build]]"
+  - "[[The Selfie Generation]]"
   - "[[Venture Capital]]"
 ---
 

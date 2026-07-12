@@ -25,6 +25,8 @@ related:
   - "[[Sora Schools]]"
   - "[[Online Education]]"
   - "[[The Science of Learning]]"
+  - "[[Flockjay]]"
+  - "[[Opinion: Let's fix college first, before rushing to reopen campuses]]"
 ---
 
 # Alternative Education

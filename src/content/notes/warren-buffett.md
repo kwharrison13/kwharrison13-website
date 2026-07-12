@@ -22,6 +22,8 @@ related:
   - "[[The Man Who Broke Capitalism]]"
   - "[[Poor Charlie's Almanack]]"
   - "[[Value Investing]]"
+  - "[[Institutionalized Belief In The Greater Fool]]"
+  - "[[Capital Allocation]]"
 ---
 
 # Warren Buffett

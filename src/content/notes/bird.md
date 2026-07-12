@@ -16,6 +16,7 @@ aliases:
 related:
   - "[[Matt Curwood]]"
   - "[[Transportation]]"
+  - "[[Institutionalized Belief In The Greater Fool]]"
 ---
 
 # Bird

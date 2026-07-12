@@ -18,6 +18,8 @@ related:
   - "[[University disruption]]"
   - "[[Alternative Education]]"
   - "[[Education]]"
+  - "[[Opinion: Let's fix college first"
+  - "before rushing to reopen campuses]]"
 ---
 
 # Online Education

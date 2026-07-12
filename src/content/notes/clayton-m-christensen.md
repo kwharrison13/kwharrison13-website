@@ -21,6 +21,7 @@ related:
   - "[[Apple]]"
   - "[[Intel]]"
   - "[[Faith]]"
+  - "[[Opinion: Let's fix college first, before rushing to reopen campuses]]"
 reference_count: 3
 ---
 

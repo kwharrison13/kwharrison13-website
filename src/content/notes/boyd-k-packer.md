@@ -30,6 +30,8 @@ related:
   - "[[Chad's Big Quote Book]]"
   - "[[Stretching The Heavens]]"
   - "[[Leonard Arrington]]"
+  - "[[Joseph Smith- A Choice Seer]]"
+  - "[[The Future of the Church- Preparing the World for the Savior's Second Coming]]"
 reference_count: 2
 ---
 

@@ -25,6 +25,8 @@ related:
   - "[[PRISM]]"
   - "[[Tribe Capital]]"
   - "[[Contrary Capital]]"
+  - "[[Point72]]"
+  - "[[Alexander Izydorczyk]]"
 reference_count: 2
 ---
 

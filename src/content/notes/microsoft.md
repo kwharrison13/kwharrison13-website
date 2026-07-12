@@ -25,6 +25,9 @@ related:
   - "[[Okta]]"
   - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
   - "[[Microsoft Active Directory]]"
+  - "[[Salesforce Acquires Slack"
+  - "Salesforce's Reasoning"
+  - "Salesforce's Opportunity]]"
 reference_count: 1
 ---
 

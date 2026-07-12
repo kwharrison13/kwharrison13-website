@@ -23,6 +23,9 @@ related:
   - "[[Range]]"
   - "[[How To Take Smart Notes]]"
   - "[[James Clear]]"
+  - "[[Ten Principles for How to Run a Company]]"
+  - "[[Niko Canner]]"
+  - "[[Rat's Nest Problems]]"
 ---
 
 # Systems Thinking

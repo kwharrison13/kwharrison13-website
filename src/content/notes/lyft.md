@@ -21,6 +21,7 @@ related:
   - "[[Sam Arons]]"
   - "[[Watershed Climate Diligence — 2021]]"
   - "[[Cash—Kingmaker or Killer - Research]]"
+  - "[[Institutionalized Belief In The Greater Fool]]"
 ---
 
 # Lyft

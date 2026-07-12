@@ -19,6 +19,7 @@ related:
   - "[[Ernesta]]"
   - "[[Stewards of Capital]]"
   - "[[Stewards of Capital - Research]]"
+  - "[[Institutionalized Belief In The Greater Fool]]"
 ---
 
 # Peloton

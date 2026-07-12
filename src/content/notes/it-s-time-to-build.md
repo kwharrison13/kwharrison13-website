@@ -36,6 +36,7 @@ related:
   - "[[Milton Friedman]]"
   - "[[Building American Dynamism]]"
   - "[[Progress Studies]]"
+  - "[[June 10th, 2020]]"
 ---
 
 # It's Time To Build

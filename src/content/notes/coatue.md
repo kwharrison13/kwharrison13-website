@@ -25,6 +25,7 @@ related:
   - "[[March 31st, 2020 — Wei Guo (Whale Rock)]]"
   - "[[Wei Guo]]"
   - "[[Whale Rock]]"
+  - "[[Rev 2 \\\"Data Science and the Future of Investing\\\" - Coatue Management & Point72]]"
 ---
 
 # Coatue

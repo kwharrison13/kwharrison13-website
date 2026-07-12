@@ -13,6 +13,7 @@ aliases:
   - "Sebastian Mallaby"
 related:
   - "[[The Power Law — Venture Capital & the Making of the New Future]]"
+  - "[[Tiger Global Management]]"
 reference_count: 1
 ---
 

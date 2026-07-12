@@ -13,6 +13,7 @@ aliases:
   - "Morality"
 related:
   - "[[Why You're Christian]]"
+  - "[[The Moral Edifice of Meritocracy]]"
 reference_count: 2
 ---
 

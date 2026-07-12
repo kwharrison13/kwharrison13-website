@@ -14,6 +14,9 @@ aliases:
   - "LinkedIn"
 related:
   - "[[The Storytelling of Investing - Research]]"
+  - "[[Salesforce Acquires Slack"
+  - "Salesforce's Reasoning"
+  - "Salesforce's Opportunity]]"
 ---
 
 # LinkedIn

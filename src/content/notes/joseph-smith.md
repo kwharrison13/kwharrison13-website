@@ -24,6 +24,7 @@ related:
   - "[[Truman G. Madsen]]"
   - "[[The King Follett Sermon]]"
   - "[[Faith is Not Blind]]"
+  - "[[Joseph Smith- A Choice Seer]]"
 ---
 
 # Joseph Smith

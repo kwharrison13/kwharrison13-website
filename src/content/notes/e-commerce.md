@@ -19,6 +19,8 @@ related:
   - "[[E-Commerce Tech Roll-Up]]"
   - "[[eBay]]"
   - "[[Pattern]]"
+  - "[[Institutionalized Belief In The Greater Fool]]"
+  - "[[The Anti-Amazon Alliance]]"
 ---
 
 # E-Commerce

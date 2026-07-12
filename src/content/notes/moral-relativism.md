@@ -20,6 +20,7 @@ related:
   - "[[Faith is Not Blind]]"
   - "[[Absolute Truth]]"
   - "[[Tolerance]]"
+  - "[[The Moral Edifice of Meritocracy]]"
 reference_count: 2
 ---
 

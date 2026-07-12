@@ -13,6 +13,7 @@ aliases:
   - "Tim Cook"
 related:
   - "[[HealthOS]]"
+  - "[[Facebook's Earnings, Zuckerberg vs. Cook, Apple and Facebook Parallels]]"
 reference_count: 2
 ---
 

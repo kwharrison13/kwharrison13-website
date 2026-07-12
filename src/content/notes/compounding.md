@@ -25,6 +25,7 @@ related:
   - "[[On the Nature of Long-Term Holds]]"
   - "[[Capital Allocation]]"
   - "[[Buffett — The Biography]]"
+  - "[[Rat's Nest Problems]]"
 ---
 
 # Compounding

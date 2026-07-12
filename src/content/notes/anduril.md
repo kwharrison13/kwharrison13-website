@@ -39,6 +39,7 @@ related:
   - "[[The Man From The Future]]"
   - "[[Katherine Boyle]]"
   - "[[Building American Dynamism]]"
+  - "[[Rat's Nest Problems]]"
 ---
 
 # Anduril

@@ -25,6 +25,7 @@ related:
   - "[[Faith is Not Blind]]"
   - "[[Stretching The Heavens]]"
   - "[[Leonard Arrington and the Writing of Mormon History]]"
+  - "[[Joseph Smith- A Choice Seer]]"
 reference_count: 1
 ---
 

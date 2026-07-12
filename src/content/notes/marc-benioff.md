@@ -16,6 +16,7 @@ related:
   - "[[The Renaissance of Rise and Grind - Research]]"
   - "[[Salesforce]]"
   - "[[Salesforce Ventures]]"
+  - "[[Salesforce Acquires Slack, Salesforce's Reasoning, Salesforce's Opportunity]]"
 reference_count: 2
 ---
 

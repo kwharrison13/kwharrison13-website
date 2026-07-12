@@ -24,6 +24,9 @@ related:
   - "[[Uptycs]]"
   - "[[Gainsight]]"
   - "[[Okta]]"
+  - "[[Salesforce Acquires Slack"
+  - "Salesforce's Reasoning"
+  - "Salesforce's Opportunity]]"
 reference_count: 1
 ---
 

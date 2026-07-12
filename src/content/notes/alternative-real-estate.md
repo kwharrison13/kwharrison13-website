@@ -24,6 +24,8 @@ related:
   - "[[Malls]]"
   - "[[Parking Lots]]"
   - "[[Fifth Partners]]"
+  - "[[Opinion: Let's fix college first"
+  - "before rushing to reopen campuses]]"
 reference_count: 1
 ---
 

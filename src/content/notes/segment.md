@@ -20,6 +20,7 @@ related:
   - "[[Customer Data Platform]]"
   - "[[mParticle]]"
   - "[[Contenda]]"
+  - "[[Twilio Acquires Segment, What is Segment, An Interview with Twilio CEO Jeff Lawson]]"
 reference_count: 1
 ---
 

@@ -17,6 +17,9 @@ related:
   - "[[Stratechery]]"
   - "[[Aggregation Theory (07.21.15)]]"
   - "[[Defining Aggregators (09.26.17)]]"
+  - "[[Platforms in an Aggregator World]]"
+  - "[[Publishing is Back to the Future]]"
+  - "[[The Anti-Amazon Alliance]]"
 ---
 
 # Aggregation Theory

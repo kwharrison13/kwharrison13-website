@@ -23,6 +23,7 @@ related:
   - "[[M. Russell Ballard]]"
   - "[[Dallin H. Oaks]]"
   - "[[Consecration]]"
+  - "[[Joseph Smith- A Choice Seer]]"
 reference_count: 6
 ---
 

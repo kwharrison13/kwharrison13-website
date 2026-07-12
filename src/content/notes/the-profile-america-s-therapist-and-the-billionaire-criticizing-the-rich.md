@@ -22,6 +22,7 @@ related:
   - "[[The Profile]]"
   - "[[Just Mercy (book)]]"
   - "[[Just Mercy (movie)]]"
+  - "[[June 10th, 2020]]"
 ---
 
 # The Profile: America's therapist & the billionaire criticizing the rich

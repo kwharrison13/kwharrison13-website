@@ -20,6 +20,7 @@ related:
   - "[[Hook.xyz]]"
   - "[[DigitalTown]]"
   - "[[Alternative Investing]]"
+  - "[[Institutionalized Belief In The Greater Fool]]"
 ---
 
 # Crypto

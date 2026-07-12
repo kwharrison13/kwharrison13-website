@@ -20,6 +20,7 @@ related:
   - "[[Sebastian Mallaby]]"
   - "[[Venture Capital]]"
   - "[[Whale Rock]]"
+  - "[[March 31st, 2020 — Wei Guo (Whale Rock)]]"
 reference_count: 8
 ---
 

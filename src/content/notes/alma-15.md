@@ -18,6 +18,7 @@ related:
   - "[[Zeezrom]]"
   - "[[Amulek]]"
   - "[[Alma the Younger]]"
+  - "[[Alma 8]]"
 reference_count: 3
 ---
 

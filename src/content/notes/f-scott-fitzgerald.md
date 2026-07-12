@@ -22,6 +22,7 @@ related:
   - "[[How To Take Smart Notes]]"
   - "[[The Meme Economy - Research]]"
   - "[[Embrace The Nuance - Research]]"
+  - "[[Ten Principles for How to Run a Company]]"
 ---
 
 # F. Scott Fitzgerald

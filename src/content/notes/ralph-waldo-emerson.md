@@ -22,6 +22,8 @@ related:
   - "[[Alex Karp]]"
   - "[[Digital Minimalism]]"
   - "[[American Zion]]"
+  - "[[The Man Who Reads 1"
+  - "000 Articles a Day]]"
 reference_count: 1
 ---
 

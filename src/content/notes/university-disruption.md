@@ -24,6 +24,10 @@ related:
   - "[[Online Education]]"
   - "[[Teacher Celebrities]]"
   - "[[David Perell]]"
+  - "[[Flockjay]]"
+  - "[[Opinion: Let's fix college first, before rushing to reopen campuses]]"
+  - "[[Bob Zemsky]]"
+  - "[[Shaan Hathiramani]]"
 ---
 
 # University Disruption

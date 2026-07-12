@@ -23,6 +23,7 @@ related:
   - "[[Customer Obsession]]"
   - "[[What I Found in a Thousand Towns]]"
   - "[[Vertical Integration]]"
+  - "[[The Anti-Amazon Alliance]]"
 ---
 
 # Walmart

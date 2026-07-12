@@ -17,6 +17,7 @@ related:
   - "[[Scarcity]]"
   - "[[Curiosity]]"
   - "[[Focus]]"
+  - "[[Rat's Nest Problems]]"
 ---
 
 # Capital Allocator Mindset

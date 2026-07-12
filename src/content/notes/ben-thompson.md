@@ -24,6 +24,12 @@ related:
   - "[[Aggregation Theory (07.21.15)]]"
   - "[[Defining Aggregators (09.26.17)]]"
   - "[[Aggregation Theory]]"
+  - "[[An Interview with Eric Seufert about Apple, Facebook, and Mobile Advertising]]"
+  - "[[Platforms in an Aggregator World]]"
+  - "[[Publishing is Back to the Future]]"
+  - "[[Salesforce Acquires Slack, Salesforce's Reasoning, Salesforce's Opportunity]]"
+  - "[[The Anti-Amazon Alliance]]"
+  - "[[Twilio Acquires Segment, What is Segment, An Interview with Twilio CEO Jeff Lawson]]"
 ---
 
 # Ben Thompson
