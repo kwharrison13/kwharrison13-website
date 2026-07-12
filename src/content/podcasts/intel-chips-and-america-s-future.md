@@ -39,8 +39,6 @@ related:
   - "[[Freedom's Forge]]"
 ---
 
-![Riskgaming — Intel, chips and America's future, hosted by Danny Crichton](/images/podcasts/intel-chips-and-americas-future.jpg)
-
 ## Summary
 
 An episode of **[Lux Capital](/notes/lux-capital)'s** _Riskgaming_ podcast, hosted by Danny Crichton, with Kyle as the guest. The conversation is built around the [Contrary Research](/essays/contrary-research) report Kyle co-authored with Maxx Yung, **Building an American TSMC** — a look at the accidental history, precarious present, and difficult future of U.S. semiconductor fabrication.
