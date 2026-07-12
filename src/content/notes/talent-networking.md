@@ -51,7 +51,7 @@ At [Index Ventures](/notes/index-ventures), "Talent Networking" was also the nam
   - Eric Sullano — JumpSearch
   - Michelle Kuo — JumpSearch
   - Chris Vasquez — Quantum Talent Group
-- **Engineering**
+- **[Engineering](/notes/engineering)**
   - Josh Lieberman — KMS Technology
   - Sam Wang — Ancestry
   - Jacob Martin — former [Home Depot](/notes/home-depot)
@@ -60,7 +60,7 @@ At [Index Ventures](/notes/index-ventures), "Talent Networking" was also the nam
 - **[Operations](/notes/operations)**
   - Joe Schlichter — [Lyft](/notes/lyft) — #Marketplaces
   - Paul Luning — Operations & Growth
-- **Finance**
+- **[Finance](/notes/finance)**
   - Brandon Simins at [Attentive](/notes/attentive)
   - Steven Wu at [Qualtrics](/notes/qualtrics)
   - "On Deck": [Steven Wu](https://www.linkedin.com/in/stevencwu/), [Susan Sung](https://www.linkedin.com/in/susansung/), and [Jason Morimoto](https://www.linkedin.com/in/jason-morimoto/) — referred to me by Brandon Simins
@@ -98,11 +98,11 @@ Each cell of the matrix gets mapped for both **Individuals** and **Companies**:
   - [Marketing](/notes/marketing)
 - **Dev / Engineering**
   - [Product](/notes/product)
-  - Engineering
+  - [Engineering](/notes/engineering)
   - Design
 - **[Operations](/notes/operations)**
   - CEO
   - COO
-  - Finance — *Rising Star / Accessible:* [Susan Phan](/notes/susan-phan) — VP of Finance at Gem; former Strategic Finance at [Dropbox](/notes/dropbox). *Company (overall):* Strategic Finance at [Dropbox](/notes/dropbox).
+  - [Finance](/notes/finance) — *Rising Star / Accessible:* [Susan Phan](/notes/susan-phan) — VP of Finance at Gem; former Strategic Finance at [Dropbox](/notes/dropbox). *Company (overall):* Strategic Finance at [Dropbox](/notes/dropbox).
   - Legal
-  - HR
+  - [HR](/notes/hr)

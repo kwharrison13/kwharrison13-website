@@ -10,6 +10,7 @@ sources:
   - "wiki/diligence-research/Pave Diligence — 2021.md"
   - "Roam Research daily-note export — December 14th, 2021 (Index Ventures networking/sourcing log): ~/Downloads/December 14th, 2021.md"
   - "Roam Research export — Index Ventures internal working page (focus/thesis, team org chart, 2021 review): ~/Downloads/Index Ventures.md"
+  - "Roam Research export — Index Differentiation (Kyle's internal project on Index's founder-facing differentiation): ~/Downloads/Index Differentiation.md"
   - "wiki/attachments/index-ventures/growth-planning.pdf"
 tags: []
 aliases:
@@ -25,6 +26,9 @@ related:
   - "[[Shardul Shah]]"
   - "[[Mark Goldberg]]"
   - "[[Project Joe Exotic — Tiger Global Competitive Analysis]]"
+  - "[[Differentiation in Venture]]"
+  - "[[Talent Networking]]"
+  - "[[Playbooks]]"
 reference_count: 6
 ---
 
@@ -370,6 +374,35 @@ The founding strategy deck for the **Index Growth** practice, built as Kyle was 
 **Tooling:** pull portfolio data out of board decks and email into a sortable database (iLevel, Carta, G2 Crowd) to benchmark "story vs. snapshot" and catch inflections (Figma, Discord, Roblox); fill data-science gaps (Synaptic, G2Track, Brandwatch, usage datasets like GitHub/Stack Overflow/Twitch/Discord); build a "CRM" for diligence vendors and an "Index Strategic Advisors" bench; and use the **talent team as a growth signal** — tracking where key operators land next (Stripe/Dropbox → Retool, Square/Uber → Faire, AppDynamics → DataRobot).
 
 **Implementation timeline:** *Q4 2020* — Day 1 pod starts ASAP; leave the year with a shortlist of 5–10 portfolio companies to double down on. *Q1/Q2 2021* — Growth Pods staffed as Kyle joins in January; new internal meetings begin; Conviction List 2.0; memo template by EoY, with broader tooling/benchmarking taking longer.
+
+### Index Differentiation
+
+Kyle's internal project on how Index articulates its differentiation to founders — the "why us" beyond generic value-add.
+
+**Index team perspective**
+
+- **[Molly Alter](/notes/molly-alter)** — text on May 18th, 2021, on the sell-mode pitch:
+  > If I'm really going into sell mode I do this sort of "I'm not going to bullshit you" thing where I say "Look every single firm is going to talk a big game about value add. We have all of that, of course, and in my opinion it's a notably strong offering. But you can access many of our resources at our competitors' platforms as well.
+  >
+  > If I were a founder, the two things I'd care most about beyond value added resources are 1/ track record and 2/ the person.
+  >
+  > On track record, it's important not just for being branded an "Index company" or for the thrill of being in good company. It's because at its core what we're building is a network of what we think are the best businesses on the planet. Across stages and geographies and verticals. There's power to that — you're not getting best practices, benchmarks, customers and community from just any assorted portfolio. You're getting it from the Index portfolio, which we and our own LPs know to be incredibly strong.
+  >
+  > Now if we reduce the world to funds that have good value added services AND a top tier portfolio, I'd argue we're in a realm of fewer than 10 funds. And this is where it comes down to the people. If all else is equal across these 10, who do you want to spend your board meetings with? Who will be empathetic and proactive for any problem — ridiculous or serious. I can't guarantee that you feel this level of comfort and trust around me — but if you do, I think it's something to listen to.
+- **[Rachel Hansen](/notes/rachel-hansen)** — differentiation around marketing / messaging?
+- **[Chris Ahn](/notes/chris-ahn)**
+- **[Rex Woodbury](/notes/rex-woodbury)**
+
+**Resources**
+
+- Project Omar Little (referenced as "Project Omar Liddle")
+- Jan's section in AGM ([Jan Hammer](/notes/jan-hammer))
+
+**General resources**
+
+- [Bifurcation in Investing](/notes/bifurcation-in-investing)
+- [Everett Randle](/notes/everett-randle)
+- Related: [Differentiation in Venture](/notes/differentiation-in-venture) — Kyle's broader thesis that differentiation kills the long tail of undifferentiated firms.
 
 ### Strategy
 

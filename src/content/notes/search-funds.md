@@ -18,6 +18,7 @@ related:
   - "[[On the Nature of Long-Term Holds]]"
   - "[[Holding Company]]"
   - "[[Capital Allocation]]"
+  - "[[Final Search Fund Advice... (tweet)]]"
 ---
 
 # Search Funds

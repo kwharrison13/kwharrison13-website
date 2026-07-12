@@ -11,6 +11,7 @@ sources:
   - "wiki/diligence-research/CaptivateIQ Diligence — 2021.md"
   - "wiki/meetings/June 24th, 2021 — Quick Capture: The Rise of Superpower Tech.md"
   - "raw/archive/inbox/Best-in-Class Tech Stacks (Roam outline).md"
+  - "Roam exports — per-function branches (Best-in-Class Tech Stacks): ~/Downloads/{Sales,Marketing,Community,Customer Success,Operations,Finance,Accounting,Customer Support,HR,Product,Engineering}.md"
 tags:
   - "product"
   - "gtm"
@@ -27,6 +28,17 @@ related:
   - "[[Cocoon]]"
   - "[[The Community Fund]]"
   - "[[People Tech Partners]]"
+  - "[[Sales]]"
+  - "[[Marketing]]"
+  - "[[Community]]"
+  - "[[Customer Success]]"
+  - "[[Customer Support]]"
+  - "[[Operations]]"
+  - "[[Finance]]"
+  - "[[Accounting]]"
+  - "[[HR]]"
+  - "[[Talent]]"
+  - "[[Engineering]]"
 ---
 
 # Best-in-Class Tech Stacks
@@ -46,7 +58,7 @@ As a tag, it collects Kyle's product-craft reading and sits alongside [Product](
 
 ## The Stack Map
 
-The working outline behind this lens (from Kyle's Roam capture). Each company function is tracked across six facets — **Playbook, Companies (best-in-class tools), People, Positions, Funds, Segments** — so a function can be mapped both as a hiring org and as a category of point-solution tooling to source from. Most branches are still scaffolds; populated entries are listed below.
+The working outline behind this lens (from Kyle's Roam capture). Each company function is tracked across six facets — **Playbook, Companies (best-in-class tools), People, Positions, Funds, Segments** — so a function can be mapped both as a hiring org and as a category of point-solution tooling to source from. The full detail for each function — the operator network (named contacts + outreach status), the best-in-class tooling by category, playbooks, positions, and segments — now lives on that function's own page (linked in each heading below, under its "Best-in-Class Tech Stack" section). The summary below is the index.
 
 **People to follow** (one operator per function, from the capture):
 - [Customer Support](/notes/customer-support) — [@Austen](https://twitter.com/Austen/status/1341059862550048769)
@@ -55,27 +67,33 @@ The working outline behind this lens (from Kyle's Roam capture). Each company fu
 
 ### [Sales](/notes/sales)
 - **Playbook:** [Playbook — Sales](/notes/playbook-sales)
+- **Companies (tools):** Forecasting ([Clari](/notes/clari)) · Note-taking (Scratchpad, Dooly.ai, Rattle) · [PLG](/notes/product-led-growth-plg) (Toplyne.io, Correlated) · Buying process ([Prelay](/notes/prelay), Buyerassist.io)
 - **Positions:** Chief Revenue Officer (CRO) · VP of Sales · Director of Sales · Sales Manager · Sales Operations Manager · Sales Coordinator · Sales Enablement · Director of Business Development · Head of Partnerships · Senior Account Executives (Sales) · Account Executive
 - **Segments:** Pre-Sale · Business Development · Partnerships
   - Pre-Sale note: BuyerAssist is part of a new crop of startups focused on helping vendors and buyers work together on complicated sales — others include Accord, MetaCX, Dealpoint, and Recapped.io ([source](https://techcrunch.com/2021/06/08/buyerassist-launches-with-2m-in-funding-to-help-b2b-sales-team-keep-their-buyers-engaged/)).
+- **Operator network:** see [Sales](/notes/sales) (Tier 1–3 contacts).
 
 ### [Marketing](/notes/marketing)
 - **Playbooks:** [Playbook — Growth](/notes/playbook-growth) · [Playbook — Marketing](/notes/playbook-marketing)
 - **Positions:** Chief Marketing Officer (CMO) · Director of Marketing · Digital Marketing Coordinator · Paid Marketing Coordinator · Marketing Coordinator · Creative Director · Graphic Design Specialist · Copy Writer
 
 ### [Community](/notes/community)
+- **Companies (tools):** Community management (Common Room, Circle.so, Orbit Labs, Discourse, Commsor, Mobilize.io) · Offline (Eventbrite, Meetup, Gather, Splash, Cvent) · Events (Hopin, Bevy, On24)
 - **Funds:** The Community Fund
+- **Primary research:** three expert calls on the community-management space (Ashley Lengen/Slack on Bevy, Philippe Theriault/MayaData on Commsor, Jacob Peters/Commsor) live on the [Community](/notes/community) page.
 
 ### [Customer Success](/notes/customer-success)
 - **Positions:** Chief Customer Officer · Head of Customer Success · Customer Success Manager
+- **Operator network:** see [Customer Success](/notes/customer-success).
 
 ### [Operations](/notes/operations)
 - **Playbooks:** [Playbook — Operations](/notes/playbook-operations) · [Playbook — M&A](/notes/playbook-manda)
 - **Positions:** Head of Operations
 - **Segments:** Corporate Development
 
-### Finance
-- **Playbooks:** [Playbook — Finance](/notes/playbook-finance) · Playbook — Supply Chain
+### [Finance](/notes/finance)
+- **Companies (tools):** [Anrok](/notes/anrok) (sales-tax compliance) · Cocoon (leave management)
+- **Playbooks:** [Playbook: Finance](/notes/playbook-finance) · [Playbook — Finance](/notes/playbook-finance) · Playbook — Supply Chain
 - **Positions:** Chief Financial Officer (CFO) · Head of Finance
 
 ### [Accounting](/notes/accounting)
@@ -86,24 +104,32 @@ The working outline behind this lens (from Kyle's Roam capture). Each company fu
 _(scaffold — no entries yet)_
 
 ### [Customer Support](/notes/customer-support)
-_(scaffold — no entries yet)_
+- **Companies (market map):** Chatbots (Lang.ai, Level AI, Forethought, Ada Support, Zowie) · Telephony ([Five9](/notes/five9), [Genesys](/notes/genesys), [NICE](/notes/nice), Edify CX) · Coaching ([Observe.ai](/notes/observe-ai), [Cresta.ai](/notes/cresta-ai), [Balto.ai](/notes/balto-ai)) · Relevant names (Assembled)
+- **Operator network + market slides:** see [Customer Support](/notes/customer-support).
 
-### HR / [Talent](/books/talent)
-- **Playbook:** Playbook — Technical Recruiting
-- **Companies:**
-  - Compensation Planning: [Pave](/notes/pave) (fka Trove) · [Assemble](/notes/assemble) · [Welcome (Comp Planning)](/notes/welcome-comp-planning) · [Compaas](/notes/compaas)
-  - Candidate Experience: Guide.co · ModernLoop
-  - Applicant Tracking System (ATS): Gem
-  - Employee Leave Management: Cocoon
-- **Positions:** Chief People Officer · Head of Talent
+### [HR](/notes/hr) and [Talent](/books/talent)
+
+Split into two pages: **[HR](/notes/hr)** for people operations, **[Talent](/books/talent)** for talent acquisition (per Kyle's structure).
+
+**[HR](/notes/hr)** (people ops)
+- **Companies:** Compensation Planning ([Pave](/notes/pave) fka Trove · [Assemble](/notes/assemble) · [Welcome (Comp Planning)](/notes/welcome-comp-planning) · [Compaas](/notes/compaas)) · Employee Leave Management (Cocoon)
+- **Positions:** Chief People Officer
 - **Funds:** People Tech Partners
 - **Segments:** HRIS · Contingent Labor (VNDLY · Utmost)
+
+**[Talent](/books/talent)** (talent acquisition)
+- **Playbook:** Technical Recruiting ([saved PDF](../attachments/talent/technical-recruiting-playbook.pdf))
+- **Companies:** ATS (Gem) · Candidate Experience (Guide.co · ModernLoop)
+- **Positions:** Head of Talent
+- **People:** people-leader / recruiting network on the [Talent](/books/talent) page.
 
 ### Compliance
 - **Segments:** Identity & Access Management
 
 ### [Product](/notes/product)
 - **Positions:** Chief Product Officer (CPO) · Product Manager · Director of Product · [Head of Product](/notes/head-of-product)
+- **Operator network:** see [Product](/notes/product) (Mamuna Oladipo, Vinod Ramachandran, Chirag Shah).
 
-### Engineering
+### [Engineering](/notes/engineering)
 - **Positions:** Chief Technology Officer (CTO) · Chief Engineering Officer
+- **Operator network:** [Dave Thompson](/notes/dave-thompson), Eric Reynolds (both [Kong](/notes/kong)) — see [Engineering](/notes/engineering).

@@ -4,12 +4,13 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-16"
-updated: "2026-06-25"
+updated: "2026-07-12"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
   - "wiki/books/Product Led Growth — The End User Era.md"
   - "wiki/long-reads/Oh Snap, It's Here.md"
+  - "Roam export — Product (Best-in-Class Tech Stacks branch): ~/Downloads/Product.md"
 tags: []
 aliases:
   - "Product"
@@ -37,6 +38,27 @@ The page also collects a "Quick Capture" reading log from Kyle's June 29th, 2021
 - [Playbook — Product](/notes/playbook-product) — the playbook companion page
 - [Best-in-Class Tech Stacks](/notes/best-in-class-tech-stacks) — the tooling counterpart
 - [Playbooks](/notes/playbooks) — the broader playbooks hub
+
+## Best-in-Class Tech Stack
+
+The product branch of the [Best-in-Class Tech Stacks](/notes/best-in-class-tech-stacks) sourcing map — the operator network and the framework Kyle uses to track product leaders.
+
+### Operator network
+
+- Mamuna Oladipo at [Shopify ($SHOP)](/notes/shopify) — [LinkedIn](https://www.linkedin.com/in/mamuna/)
+- Vinod Ramachandran at [Affirm ($AFRM)](/notes/affirm) — [LinkedIn](https://www.linkedin.com/in/vinodkumarramachandran/)
+- Chirag Shah at [MongoDB](/notes/mongodb) — [LinkedIn](https://www.linkedin.com/in/chisha/)
+
+### Tracking framework
+
+The Roam capture scaffolds two lenses for mapping product talent and tooling (branches still empty):
+
+- **Individuals:** _Existing Leadership_ (Accessible · Aspirational) and _Rising Stars_ (Accessible · Aspirational)
+- **Companies:** _Overall_ and _Time-boxed_
+
+### Positions
+
+Chief Product Officer (CPO) · Product Manager · Director of Product · [Head of Product](/notes/head-of-product)
 
 ## Quick Capture links — June 29th, 2021
 

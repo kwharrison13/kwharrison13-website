@@ -4,11 +4,12 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-23"
-updated: "2026-06-26"
+updated: "2026-07-12"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — April 30th, 2020: ~/Downloads/April 30th, 2020.md"
   - "Roam export — Talent (people leaders / recruiting marketplaces / HR investors): ~/Downloads/Talent.md"
+  - "Roam export — HR (Best-in-Class Tech Stacks branch; recruiting items split into Talent): ~/Downloads/HR.md"
 tags:
   - "talent"
 aliases:
@@ -19,6 +20,8 @@ related:
   - "[[Powerhouse]]"
   - "[[The Polymath]]"
   - "[[Toptal]]"
+  - "[[Best-in-Class Tech Stacks]]"
+  - "[[HR]]"
 ---
 
 # Talent
@@ -69,6 +72,23 @@ _Saved in Kyle's April 30th, 2020 Roam "Quick Capture" log._
 ## HR investors
 
 - Robby Peters at People Tech Partners
+
+## Best-in-Class Tech Stack (recruiting)
+
+The talent-acquisition side of the [Best-in-Class Tech Stacks](/notes/best-in-class-tech-stacks) HR/Talent branch — the recruiting tooling and roles Kyle tracks. The people-operations side (comp planning, leave, HRIS, contingent labor) lives on the [HR](/notes/hr) page.
+
+### Best-in-class tools
+
+- **Applicant Tracking System (ATS):** Gem
+- **Candidate Experience:** Guide.co · ModernLoop
+
+### Positions
+
+- Head of Talent
+
+### Playbooks
+
+- **Technical Recruiting** — [Playbook (PDF, saved locally)](../attachments/talent/technical-recruiting-playbook.pdf). Source: Roam `imgs/app/kwharrison13` Firebase `{{pdf}}` embed.
 
 ## Related concepts
 
