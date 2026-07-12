@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-25"
+updated: "2026-07-12"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Berkshire Hathaway Annual Letters.md"
@@ -14,6 +14,7 @@ sources:
   - "wiki/long-reads/Naked Brands.md"
   - "wiki/long-reads/The Greatest Thing Since Sliced Bread.md"
   - "wiki/long-reads/Wearable Brands.md"
+  - "Roam export — Marketing (Best-in-Class Tech Stacks branch): ~/Downloads/Marketing.md"
 tags: []
 aliases:
   - "Marketing"
@@ -22,6 +23,7 @@ related:
   - "[[Influencers]]"
   - "[[The Everything Store]]"
   - "[[The Greatest Thing Since Sliced Bread]]"
+  - "[[Best-in-Class Tech Stacks]]"
 reference_count: 2
 ---
 
@@ -41,3 +43,32 @@ A second cluster of [Perell](/notes/david-perell)-adjacent long-reads tracks mar
 - [Wearable Brands](/notes/wearable-brands) — branding as identity and self-expression in the digital age
 - [Brave New World Revisited](/books/brave-new-world-revisited) — commercial propaganda and "motivational research" as persuasion machinery
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — brand and consumer franchise as durable competitive advantage
+
+## Best-in-Class Tech Stack
+
+The marketing branch of the [Best-in-Class Tech Stacks](/notes/best-in-class-tech-stacks) sourcing map — operator contacts, growth/marketing playbooks, and the marketing org chart Kyle tracks.
+
+### Operator network
+
+- Reached out to Aaron West at Healthline — Director of Marketing
+- Paz Macdonald at [Hyperscience](/notes/hyperscience) — [LinkedIn](https://www.linkedin.com/in/pazmacdonald/)
+
+### Positions
+
+Chief Marketing Officer (CMO) · Director of Marketing · Digital Marketing Coordinator · Paid Marketing Coordinator · Marketing Coordinator · Creative Director · Graphic Design Specialist · Copy Writer
+
+### Playbooks
+
+**Growth**
+- [Marc Andreessen & Jim Barksdale on How to Make Money — HBR IdeaCast](https://hbr.org/ideacast/2014/07/marc-andreessen-and-jim-barksdale-on-how-to-make-money)
+- [Modeling Growth Rates — LSV (PDF)](http://lsvasset.com/pdf/research-papers/Level+Persistence_of_Growth_Rates_FINAL.pdf)
+- [Sales Leader Podcast #24](https://salesleaderpodcast.fireside.fm/24)
+- [Freemium vs. Free Trial vs. Hybrid — The Marketing Playbook](https://medium.com/the-marketing-playbook/freemium-vs-free-trial-vs-hybrid-customer-acquisition-model-b8cd3287f9f0)
+
+**Marketing**
+- The Secret Sauce of Growth Hacking — Austin Allred
+- [The Marketing Playbook (Medium)](https://medium.com/the-marketing-playbook)
+- [6 Demand-Gen Playbooks from Top Enterprise Startups](https://medium.com/@priyankasomrah/6-demand-gen-playbooks-from-top-enterprise-startups-4893a6b9f0d8)
+- Email Marketing: [2019 Email Benchmark & Engagement Study — SendGrid](https://sendgrid.com/resource/2019-email-benchmark-and-engagement-study/)
+- [B2B SaaS Marketing Playbook — Dru Riley](https://druriley.com/b2b-saas-marketing-playbook/)
+- [Marketing reference (Amazon Kindle)](https://www.amazon.com/dp/B00CZVCPQ4/)

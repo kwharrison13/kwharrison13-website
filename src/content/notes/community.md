@@ -4,11 +4,12 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-25"
+updated: "2026-07-12"
 last_updated_by: "agent"
 sources:
   - "wiki/books/What I Found in a Thousand Towns.md"
   - "wiki/meetings/November 8th, 2021 — Community Building Thesis (Bernard Liang).md"
+  - "Roam export — Community (Best-in-Class Tech Stacks branch, incl. expert calls): ~/Downloads/Community.md"
 tags:
   - "city-building"
   - "company-building"
@@ -22,6 +23,9 @@ related:
   - "[[Bernard Liang]]"
   - "[[Dan McMurtrie]]"
   - "[[Memetics]]"
+  - "[[Best-in-Class Tech Stacks]]"
+  - "[[Commsor]]"
+  - "[[Bevy]]"
 reference_count: 6
 ---
 
