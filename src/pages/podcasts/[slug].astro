@@ -86,7 +86,9 @@ const jsonLd = {
   <h1 class="page-title">{d.title}</h1>
   {withLine && <p class="pod-byline">{withLine}</p>}
 
-  {headerImage && embed.type !== 'youtube' && (
+  {/* Show a hero when Kyle gave an explicit image; otherwise only for non-YouTube
+      (a YouTube item's auto-thumbnail would be redundant above its own embed). */}
+  {(d.image || (headerImage && embed.type !== 'youtube')) && (
     <img class="pod-hero" src={headerImage} alt={d.title} />
   )}
 
