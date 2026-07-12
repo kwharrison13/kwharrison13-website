@@ -17,7 +17,8 @@ confidence: "medium"
 created: "2026-07-12"
 updated: "2026-07-12"
 last_updated_by: "agent"
-sources: []
+sources:
+  - "https://research.contrary.com/report/building-an-american-tsmc"
 tags:
   - "podcast"
   - "semiconductors"
@@ -36,7 +37,7 @@ related:
 
 ## Summary
 
-Kyle joins John Coogan and Jordi Hays on [TBPN](/notes/tbpn) to unpack [Contrary Research](/essays/contrary-research)'s latest deep dive, **building an American [TSMC](/notes/tsmc)**. The core argument: the US depends on Taiwan for 90%+ of advanced semiconductors, and that is "probably the dumbest bottleneck we could possibly be in" — an existential vulnerability given a plausible China 2027 invasion timeline that Xi has pointed to. The startup ecosystem, however good, can't reach leading-edge scale fast enough, so Kyle argues [Intel](/notes/intel) — despite "sending up emergency flares" — is America's only realistic path to sovereign leading-edge capacity.
+Kyle joins John Coogan and Jordi Hays on [TBPN](/notes/tbpn) to unpack [Contrary Research](/essays/contrary-research)'s latest deep dive, **[Building an American TSMC](https://research.contrary.com/report/building-an-american-tsmc)**. The core argument: the US depends on Taiwan for 90%+ of advanced semiconductors, and that is "probably the dumbest bottleneck we could possibly be in" — an existential vulnerability given a plausible China 2027 invasion timeline that Xi has pointed to. The startup ecosystem, however good, can't reach leading-edge scale fast enough, so Kyle argues [Intel](/notes/intel) — despite "sending up emergency flares" — is America's only realistic path to sovereign leading-edge capacity.
 
 His through-lines: the "American TSMC" is **a mindset and an ecosystem, not a single company**; policy should incentivize American companies to buy American-made chips to build up domestic "reps"; Intel Foundry must be treated as a growth engine to invest in, not "an ugly stepchild" (four foundry leaders in three years, a title demoted from *president* to *general manager* buried under two other jobs); and the deepest missing ingredient is a founder-mode visionary leader plus a patient investor base — he contrasts Lip-Bu Tan's cut-after-cut posture with [Jensen Huang](/notes/jensen-huang), and Intel's "Wall Street weenies" with the extraordinary [Tesla](/notes/tesla) investor base [Elon Musk](/notes/elon-musk) has assembled. Companion to Kyle's essay [Chips For America](/essays/chips-for-america) and the Silicon Shield framing that runs through it.
 
@@ -50,7 +51,7 @@ _Lightly cleaned for readability (speech-to-text artifacts corrected, names norm
 
 **Host:** What's new in your world? Break it down for us.
 
-**Kyle Harrison:** We're just launching our latest deep dive from Contrary Research. For folks who don't know, Contrary Research is our private-markets research database we launched a couple of years ago. Contrary is a venture fund, but our focus is on talent and on research — finding the best ideas, the best people, and bringing them together. Contrary Research has published research on 500 different companies; I think we've got most of your sponsors on the list, so we're working our way down. We just published our latest deep dive on building an American TSMC. The TL;DR: we're completely dependent on Taiwan for 90-plus percent of advanced semiconductors, and it's probably the dumbest bottleneck we could possibly be in. It feels like we're basically just hoping it doesn't become a problem — when it could become the most significant geopolitical flashpoint and effectively lead to World War III. So it feels like there's something we should do about it. We go through the options: Do we build it from scratch? Do we borrow it from TSMC? Do we try to buy it from some willing sellers?
+**Kyle Harrison:** We're just launching our latest deep dive from Contrary Research. For folks who don't know, Contrary Research is our private-markets research database we launched a couple of years ago. Contrary is a venture fund, but our focus is on talent and on research — finding the best ideas, the best people, and bringing them together. Contrary Research has published research on 500 different companies; I think we've got most of your sponsors on the list, so we're working our way down. We just published our latest deep dive on [building an American TSMC](https://research.contrary.com/report/building-an-american-tsmc). The TL;DR: we're completely dependent on Taiwan for 90-plus percent of advanced semiconductors, and it's probably the dumbest bottleneck we could possibly be in. It feels like we're basically just hoping it doesn't become a problem — when it could become the most significant geopolitical flashpoint and effectively lead to World War III. So it feels like there's something we should do about it. We go through the options: Do we build it from scratch? Do we borrow it from TSMC? Do we try to buy it from some willing sellers?
 
 **Host:** It seems consensus that Intel is not the American TSMC. Is TSMC the American TSMC? Is Samsung the American TSMC? We've seen a lot of progress from both — Elon doing a big deal with Samsung, TSMC obviously seeing great results out in Arizona. What's your take on just porting or expanding the current set of fab companies that are doing quite well?
 
@@ -107,6 +108,7 @@ _Lightly cleaned for readability (speech-to-text artifacts corrected, names norm
 - SemiAnalysis, Bucco Capital — sources for the China 2027 timeline and the Tesla-investor-base point.
 
 **Concepts & writing**
+- [Building an American TSMC](https://research.contrary.com/report/building-an-american-tsmc) — the [Contrary Research](/essays/contrary-research) deep dive this whole conversation is about (primary source).
 - [Chips For America](/essays/chips-for-america) — Kyle's essay; the direct written counterpart to this conversation.
 - Silicon Shield — Taiwan's dependence-as-protection doctrine and the cultural blowback to reshoring.
 - China 2027 — the invasion-timeline urgency framing (Xi's stated horizon).
