@@ -73,7 +73,7 @@ The inspiration to think about the best speeches Kyle has heard came from this c
 - Nathan Myhrvold, ["Roadkill on the Information Highway"](https://jamesclear.com/great-speeches/roadkill-on-the-information-highway-by-nathan-myhrvold)
 - Randy Pausch, ["Achieving Your Childhood Dreams"](https://jamesclear.com/great-speeches/achieving-your-childhood-dreams-by-randy-pausch)
 - Randy Pausch, ["Time Management"](https://jamesclear.com/great-speeches/time-management-by-randy-pausch)
-- Anna Quindlen, ["1999 Mount Holyoke Commencement Speech"](https://jamesclear.com/great-speeches/1999-mount-holyoke-commencement-speech-by-anna-quindlen)
+- [Anna Quindlen](/notes/anna-quindlen), ["1999 Mount Holyoke Commencement Speech"](https://jamesclear.com/great-speeches/1999-mount-holyoke-commencement-speech-by-anna-quindlen)
 - [John Roberts](/notes/john-pierce), ["I Wish You Bad Luck"](https://jamesclear.com/great-speeches/i-wish-you-bad-luck-by-john-roberts)
 - [Sir Ken Robinson](/notes/ken-robinson), ["Do Schools Kill Creativity?"](https://jamesclear.com/great-speeches/do-schools-kill-creativity-by-ken-robinson)
 - J.K. Rowling, ["The Fringe Benefits of Failure"](https://jamesclear.com/great-speeches/the-fringe-benefits-of-failure-and-the-importance-of-imagination-by-j-k-rowling)

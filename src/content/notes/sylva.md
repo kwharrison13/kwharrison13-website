@@ -18,7 +18,8 @@ related:
   - "[[Tom Guthrie]]"
   - "[[Tritium Partners]]"
   - "[[Mark Neider]]"
-reference_count: 1
+  - "[[June 20th, 2023 — Matt Harsha-Strong (Uplight)]]"
+reference_count: 2
 ---
 
 # Sylva
@@ -33,3 +34,4 @@ By late 2023, Mark Neider of Tritium Partners — an investor in the company —
 - November 7th, 2022 — Cleared Email — September/October updates noting Sylva's operating goals (member-acquisition channel, revenue diversification, core data infrastructure).
 - October 16th, 2023 — Mark Neider (Tritium Partners) — investor's candid read on Sylva's professional-communities roll-up playbook and where it stood.
 - August 29th, 2022 — daily log noting a July update from [Tom Guthrie](/notes/tom-guthrie) at Sylva.
+- June 20th, 2023 — Matt Harsha-Strong (Uplight) — Sylva-diligence expert call: Kyle probed [AES Corporation](/notes/aes-corporation)'s M&A / roll-up playbook (screening, manager retention, earn-outs vs. incentives, hurdle rates) as a lens on the professional-communities roll-up thesis.

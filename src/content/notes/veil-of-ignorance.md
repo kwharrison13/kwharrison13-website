@@ -19,6 +19,7 @@ related:
   - "[[The American Dream — Stop Calling it Capitalism]]"
   - "[[The Hardening Of The Great Softening - Research]]"
   - "[[Shortest Way Home]]"
+  - "[[The Fairness Principle — How the Veil of Ignorance Helps Test Fairness]]"
 ---
 
 # Veil of Ignorance
@@ -28,6 +29,7 @@ related:
 ## How sources describe it
 
 - In the Great Softening research, Kyle invokes it as a test of American fairness: "What country would you live in if you didn't know what race or gender you were going to be?" — paired with "Where does someone born in poverty have a better economic opportunity?"
+- [The Fairness Principle — How the Veil of Ignorance Helps Test Fairness](/notes/the-fairness-principle-how-the-veil-of-ignorance-helps-test-fairness) ([Shane Parrish](/notes/shane-parrish), recommended by [Charlie Munger](/notes/charlie-munger)) — the canonical explainer: a fairness *test* drawn from [John Rawls](/notes/john-rawls)'s *A Theory of Justice*, the everyday version of [Empathy](/notes/empathy), and kin to the Tragedy of the Commons.
 
 ## Where it shows up
 

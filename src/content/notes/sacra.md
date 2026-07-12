@@ -18,6 +18,7 @@ related:
   - "[[Contrary Research]]"
   - "[[Open-Source Knowledge]]"
   - "[[Equity Research]]"
+  - "[[June 20th, 2023 — Derek Weber (SaxonWeber)]]"
 ---
 
 # Sacra
@@ -32,6 +33,7 @@ related:
 ## Where it shows up
 
 - Open-Source Knowledge - Research — market landscape.
+- June 20th, 2023 — Derek Weber (SaxonWeber) — cited as a private-markets competitor whose report let you click a company listing and see embedded reports.
 
 ## Related concepts
 

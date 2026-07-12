@@ -18,6 +18,7 @@ related:
   - "[[Open Source]]"
   - "[[Intrinsic Motivation]]"
   - "[[Network Effects]]"
+  - "[[My Bookstore]]"
 ---
 
 # Commons

@@ -19,6 +19,7 @@ related:
   - "[[Six-Page Narratives]]"
   - "[[Literature]]"
   - "[[Self-Guided Learning]]"
+  - "[[My Bookstore]]"
 ---
 
 # Reading

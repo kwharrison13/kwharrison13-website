@@ -18,7 +18,9 @@ aliases:
 related:
   - "[[July 10th, 2018 — Adrian Tuck (Tendril)]]"
   - "[[Adrian Tuck]]"
-reference_count: 1
+  - "[[Uplight]]"
+  - "[[June 20th, 2023 — Matt Harsha-Strong (Uplight)]]"
+reference_count: 2
 ---
 
 # Tendril
@@ -32,3 +34,4 @@ On the financials Tuck shared, the core business did ~$36M in 2018 revenue (targ
 ## Where this appears
 
 - July 10th, 2018 — Adrian Tuck (Tendril) — Kyle's call with CEO Adrian Tuck on Tendril's utilities-software product, pricing, competition (Opower), financials, and a contemplated majority-sale deal.
+- June 20th, 2023 — Matt Harsha-Strong (Uplight) — [Uplight](/notes/uplight)'s CFO names Tendril as one of the six companies merged in 2019 to form Uplight.

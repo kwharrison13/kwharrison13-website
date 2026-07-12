@@ -25,6 +25,7 @@ related:
   - "[[Open-Source Knowledge]]"
   - "[[Erasmus]]"
   - "[[Storytelling]]"
+  - "[[My Bookstore]]"
 ---
 
 # Republic of Letters

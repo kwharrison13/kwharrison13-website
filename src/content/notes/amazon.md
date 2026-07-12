@@ -22,6 +22,7 @@ related:
   - "[[Privacy]]"
   - "[[Flywheel]]"
   - "[[The Anti-Amazon Alliance]]"
+  - "[[My Bookstore]]"
 ---
 
 # Amazon

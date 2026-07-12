@@ -14,8 +14,9 @@ tags:
 aliases:
   - "Contrary"
   - "Contrary Capital"
-  - "Contrary Capital"
+  - "Contrary Research"
 related:
+  - "[[June 20th, 2023 — Derek Weber (SaxonWeber)]]"
   - "[[September 13th, 2022 — Harry Stebbings Podcast]]"
   - "[[March 5th, 2020 — Eric Tarczynski (Contrary Capital)]]"
   - "[[Eric Tarczynski]]"
@@ -50,6 +51,7 @@ related:
 - **Tools-for-thought sourcing.** [Plexus](/notes/plexus) surfaced in a 1x1 with [Luke Piette](/notes/luke-piette) during a [Tools For Thought](/notes/tools-for-thought) / [Brain Interfaces](/notes/brain-interfaces) thread, "situating Plexus within the tools-for-thought space Kyle was tracking at Contrary" (alongside [Ideaflow](/notes/ideaflow) and [Roam Research](/notes/roam-research)).
 - **LP / capital context.** The deal-flow log connects out to LP-base reading — [Almost $14 Billion Pulled From CalPERS Equity Managers](/notes/almost-14-billion-pulled-from-calpers-equity-managers) and [Assembly Bill 2041 — UC Office of the Chief Investment Officer](/notes/assembly-bill-2041-uc-office-of-the-chief-investment-officer) ([UC Investments](/notes/uc-investments)).
 - **Fund 5 fundraising / strategy.** The September 23rd, 2024 — Eric Tarczynski (Contrary Update) call with [Eric Tarczynski](/notes/eric-tarczynski) covers the tight budget, ~$40M closed against a ~$75M ceiling, the Fund 5/Fund 6 path and DPI goals, the future of [Foundations & Frontiers](/essays/introducing-foundations-and-frontiers), and letting Jen run Research as a product org.
+- **Research-brand distribution.** In June 20th, 2023 — Derek Weber (SaxonWeber), Kyle explored embedding Contrary Research content under [SaxonWeber](/notes/saxonweber)'s secondaries platform, with open access to their private-markets data.
 
 ## Related concepts
 
