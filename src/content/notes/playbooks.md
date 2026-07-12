@@ -4,10 +4,11 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-26"
+updated: "2026-07-12"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
+  - "Roam Research export — Playbooks (Kyle's playbook-aggregation project page): ~/Downloads/Playbooks.md"
   - "wiki/essays/The Professionalization of Startups.md"
   - "wiki/essays/Revisiting The Professionalization of Startups.md"
   - "wiki/essays/The State of Startup Media.md"
@@ -38,6 +39,42 @@ related:
 But Kyle's essays carry an explicit caution. In the "Playing the Playbook Game" retrospective, he notes that many companies now follow "fairly established playbooks," which raises two questions: how much arbitrage is left in the known-knowns, and how exposed a well-known playbook becomes to manipulation. There is a spectrum "where playbooks can be transformative or manipulative" — as the game becomes well-understood, people start "playing on the weaknesses of the game itself." His closing advice: "learn from the people, processes, and playbooks that have been explored. But don't turn them into dogma."
 
 Within the wiki, "Playbooks" also functions as a hub for a family of domain-specific operating guides — [Playbook: Sales](/notes/playbook-sales), [Playbook: Product](/notes/playbook-product), [Playbook: Growth](/notes/playbook-growth), [Playbook: Marketing](/notes/playbook-marketing), [Playbook: Operations](/notes/playbook-operations), [Playbook: Finance](/notes/playbook-finance), [Playbook: M&A](/notes/playbook-manda), and others — alongside the broader operating concepts ([Product](/notes/product), [Sales](/notes/sales), [Growth](/notes/growth), [Management](/notes/management), [M&A](/notes/manda)) they instantiate. The Quick Capture links below are sources Kyle saved while building out this topic.
+
+## Playbook aggregation (Roam project)
+
+Kyle's running plan for which operating playbooks to build out, prioritized. Open-source reference list of docs: [almanac.io](https://almanac.io/home).
+
+**Skills — Priority 1**
+
+- Playbook: Technical Recruiting
+- [Playbook: Marketing](/notes/playbook-marketing)
+- [Playbook: Growth](/notes/playbook-growth)
+- [Playbook: Sales](/notes/playbook-sales)
+- [Playbook: M&A](/notes/playbook-manda)
+- [Playbook: Product](/notes/playbook-product)
+- [Playbook: Finance](/notes/playbook-finance)
+
+**Skills — Priority 2**
+
+- [Playbook: Taxes](/notes/playbook-taxes)
+- Playbook: Leadership
+- [Playbook: Government Regulation](/notes/playbook-government-regulation)
+- Playbook: Professional Services
+- Playbook: Consumer Packaged Goods
+- Playbook: Marketplaces
+- [Playbook: Operations](/notes/playbook-operations)
+- Playbook: Supply Chain
+- Playbook: Real Estate
+
+**Vertical**
+
+- [Playbook: Restaurants](/notes/playbook-restaurants)
+
+**Playbooks to review**
+
+- [OpenView Labs ebooks](https://labs.openviewpartners.com/ebooks/)
+- [Adam Keesling thread](https://twitter.com/adam_keesling/status/1193673507487436800?s=11)
+- [Josh James — My Startup Rules](https://www.joshjames.com/category/my-startup-rules/)
 
 ## Quick Capture links — June 29th, 2021
 

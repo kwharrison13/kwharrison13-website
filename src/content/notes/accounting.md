@@ -4,13 +4,14 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-25"
+updated: "2026-07-12"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Berkshire Hathaway Annual Letters.md"
   - "wiki/books/Double Entry.md"
   - "wiki/long-reads/Charlie Munger — The Great Financial Scandal of 2003.md"
   - "wiki/long-reads/How to Trick Investors and VCs.md"
+  - "Roam export — Accounting (Best-in-Class Tech Stacks branch): ~/Downloads/Accounting.md"
 tags:
   - "capital-allocation"
   - "finance"
@@ -23,6 +24,7 @@ related:
   - "[[How to Trick Investors and VCs]]"
   - "[[Warren Buffett]]"
   - "[[Luca Pacioli]]"
+  - "[[Best-in-Class Tech Stacks]]"
 reference_count: 4
 ---
 
@@ -40,3 +42,16 @@ Accounting recurs across Kyle's reading as a measurement technology that is indi
 - [Double Entry](/books/double-entry) — the book's central subject, traced from [Luca Pacioli](/notes/luca-pacioli) to modern audit, the "expectations gap," and national-income accounting.
 - [Charlie Munger: The Great Financial Scandal of 2003](/notes/charlie-munger-the-great-financial-scandal-of-2003) — a parable where the scandal turns on incentive-driven accounting fictions at fictional "Quant Tech."
 - [How to Trick Investors and VCs](/notes/how-to-trick-investors-and-vcs) — walks through "honest accounting shenanigans" (capitalized commissions, software capitalization, gross-margin optics) startups use to flatter investors.
+
+## Best-in-Class Tech Stack
+
+The accounting branch of the [Best-in-Class Tech Stacks](/notes/best-in-class-tech-stacks) sourcing map — reference playbooks and the org chart Kyle tracks.
+
+### Positions
+
+- Controller
+- Bookkeeper
+
+### Playbooks
+
+- [Six Strategies for Your Tax Playbook — PBMares](https://www.pbmares.com/six-strategies-for-your-tax-playbook/)

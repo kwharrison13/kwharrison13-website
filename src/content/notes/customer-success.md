@@ -4,10 +4,11 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-26"
+updated: "2026-07-12"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Planhat - Diligence.md"
+  - "Roam export — Customer Success (Best-in-Class Tech Stacks branch): ~/Downloads/Customer Success.md"
 tags:
   - "customer-success"
 aliases:
@@ -22,6 +23,7 @@ related:
   - "[[Gainsight]]"
   - "[[Churn]]"
   - "[[Net Revenue Retention]]"
+  - "[[Best-in-Class Tech Stacks]]"
 reference_count: 1
 ---
 
@@ -39,3 +41,17 @@ As a software category, Customer Success is the subject of Kyle's Planhat - Dili
 - [Product Led Growth — The End User Era](/books/product-led-growth-the-end-user-era) — the book's core claim that in PLG companies "sales doesn't die — it turns into customer success."
 - [Product Led Growth (PLG)](/notes/product-led-growth-plg) — CS as the shape consultative sales takes once the product leads the go-to-market motion.
 - [Gainsight](/notes/gainsight), [Catalyst](/notes/catalyst), [Vitally](/notes/vitally), [ChurnZero](/notes/churnzero), [ToTango](/notes/totango), [Strikedeck](/notes/strikedeck) — vendor pages in the CS category, all sourced from the Planhat diligence.
+
+## Best-in-Class Tech Stack
+
+The customer-success branch of the [Best-in-Class Tech Stacks](/notes/best-in-class-tech-stacks) sourcing map — the operator network and org chart Kyle tracks for the function.
+
+### Operator network
+
+- Aaron Montague at [Lucid](/notes/lucid) — Head of Enterprise Customer Success
+- Craig McLennan at [Microsoft](/notes/microsoft) — VP of Customer Success
+- Miles Beckstead at UnitQ
+
+### Positions
+
+Chief Customer Officer · Head of Customer Success · Customer Success Manager
