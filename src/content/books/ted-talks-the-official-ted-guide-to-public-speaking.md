@@ -7,7 +7,7 @@ quake: false
 tags:
   - "language-of-discourse"
   - "republic-of-letters"
-last_imported: "2026-07-13"
+last_imported: "2026-07-14"
 key_takeaways_status: "written"
 ---
 

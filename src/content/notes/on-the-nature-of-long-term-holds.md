@@ -34,6 +34,7 @@ related:
   - "[[Small Business]]"
   - "[[Rat's Nest Problems]]"
   - "[[Taxes]]"
+  - "[[Operations]]"
 ---
 
 > Yale case study, May 28, 2020. By [A.J. Wasserstein](/notes/a-j-wasserstein), [Mark Agnew](/notes/mark-agnew), and [Brian O'Connor](/notes/brian-o-connor). Annotated by Kyle (highlights + notes preserved verbatim below). Companion piece: On the Nature of Long-Term Holds (twitter thread).
