@@ -20,6 +20,7 @@ related:
   - "[[Becoming]]"
   - "[[The Ride of a Lifetime]]"
   - "[[The Crucible of Doubt]]"
+  - "[[The Fairness Principle: How the Veil of Ignorance Helps Test Fairness]]"
 reference_count: 2
 ---
 

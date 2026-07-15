@@ -16,6 +16,7 @@ aliases:
 related:
   - "[[Veil of Ignorance]]"
   - "[[The Hardening Of The Great Softening - Research]]"
+  - "[[The Fairness Principle: How the Veil of Ignorance Helps Test Fairness]]"
 ---
 
 # John Rawls

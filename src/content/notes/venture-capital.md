@@ -24,6 +24,7 @@ related:
   - "[[The Power Law — Venture Capital & the Making of the New Future]]"
   - "[[Tiger Global Management]]"
   - "[[How Do Venture Capitalists Make Decisions?]]"
+  - "[[Index Ventures]]"
 reference_count: 3
 ---
 

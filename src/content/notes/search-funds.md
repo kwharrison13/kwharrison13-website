@@ -19,6 +19,7 @@ related:
   - "[[Holding Company]]"
   - "[[Capital Allocation]]"
   - "[[Final Search Fund Advice... (tweet)]]"
+  - "[[Search Fund Advice Megathread... (tweet)]]"
 ---
 
 # Search Funds

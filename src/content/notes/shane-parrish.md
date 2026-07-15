@@ -22,6 +22,7 @@ related:
   - "[[Naval Ravikant]]"
   - "[[Charlie Munger]]"
   - "[[John Muir]]"
+  - "[[The Fairness Principle: How the Veil of Ignorance Helps Test Fairness]]"
 ---
 
 # Shane Parrish

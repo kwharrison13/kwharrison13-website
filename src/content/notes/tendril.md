@@ -20,6 +20,7 @@ related:
   - "[[Adrian Tuck]]"
   - "[[Uplight]]"
   - "[[June 20th, 2023 — Matt Harsha-Strong (Uplight)]]"
+  - "[[Simple Energy]]"
 reference_count: 2
 ---
 

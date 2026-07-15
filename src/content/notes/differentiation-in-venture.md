@@ -21,6 +21,7 @@ related:
   - "[[Dead Zone]]"
   - "[[Jobs to Be Done]]"
   - "[[Venture Capital]]"
+  - "[[Index Ventures]]"
 ---
 
 # Differentiation in Venture
