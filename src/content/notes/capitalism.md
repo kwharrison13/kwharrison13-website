@@ -25,6 +25,8 @@ related:
   - "[[Temporarily Embarrassed Millionaires]]"
   - "[[Financialization]]"
   - "[[Exploitation]]"
+  - "[[China in Ten Words]]"
+  - "[[Double Entry]]"
 reference_count: 1
 ---
 

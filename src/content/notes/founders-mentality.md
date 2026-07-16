@@ -26,6 +26,7 @@ related:
   - "[[Talent Vortex]]"
   - "[[First Principles Thinking]]"
   - "[[Storytelling as Leadership]]"
+  - "[[Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future]]"
 ---
 
 # Founders Mentality

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Founding Fathers"
-related: []
+related:
+  - "[[Founders' Son]]"
 reference_count: 1
 ---
 

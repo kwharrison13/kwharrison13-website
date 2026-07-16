@@ -25,6 +25,7 @@ related:
   - "[[The King Follett Sermon]]"
   - "[[Faith is Not Blind]]"
   - "[[Joseph Smith- A Choice Seer]]"
+  - "[[Brigham Young: Pioneer Prophet]]"
 ---
 
 # Joseph Smith

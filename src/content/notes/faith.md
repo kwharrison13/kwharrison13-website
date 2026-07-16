@@ -23,6 +23,7 @@ related:
   - "[[Perfect Knowledge]]"
   - "[[Hope — Topical Study]]"
   - "[[Atonement]]"
+  - "[[Future Mormon]]"
 reference_count: 1
 ---
 

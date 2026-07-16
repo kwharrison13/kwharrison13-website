@@ -31,6 +31,7 @@ related:
   - "[[Blue Origin]]"
   - "[[Josh Wolfe]]"
   - "[[June 6th, 2022 — Katherine Boyle (a16z)]]"
+  - "[[Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future]]"
 ---
 
 # Building American Dynamism

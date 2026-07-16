@@ -17,6 +17,7 @@ related:
   - "[[History of the Church]]"
   - "[[Republic of Letters]]"
   - "[[Saints — No Unhallowed Hand]]"
+  - "[[Brigham Young: Pioneer Prophet]]"
 ---
 
 # Institution Building

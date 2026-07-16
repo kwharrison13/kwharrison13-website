@@ -24,6 +24,7 @@ related:
   - "[[Grace]]"
   - "[[Repentance]]"
   - "[[How To Apply The Atonement]]"
+  - "[[Future Mormon]]"
 reference_count: 1
 ---
 

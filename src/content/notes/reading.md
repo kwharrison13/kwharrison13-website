@@ -20,6 +20,7 @@ related:
   - "[[Literature]]"
   - "[[Self-Guided Learning]]"
   - "[[My Bookstore]]"
+  - "[[Founders' Son]]"
 ---
 
 # Reading

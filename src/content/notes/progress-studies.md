@@ -24,6 +24,7 @@ related:
   - "[[City Building]]"
   - "[[Matt Clancy]]"
   - "[[Mark Lutter]]"
+  - "[[Brave New World Revisited]]"
 reference_count: 1
 ---
 

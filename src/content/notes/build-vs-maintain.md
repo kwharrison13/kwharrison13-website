@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Build vs. Maintain"
-related: []
+related:
+  - "[[Founders' Son]]"
 reference_count: 1
 ---
 

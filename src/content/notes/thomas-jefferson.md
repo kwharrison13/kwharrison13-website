@@ -21,6 +21,7 @@ related:
   - "[[Republic of Letters]]"
   - "[[John Adams]]"
   - "[[Founders' Son]]"
+  - "[[Benjamin Franklin: An American Life]]"
 reference_count: 2
 ---
 

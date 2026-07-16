@@ -26,6 +26,7 @@ related:
   - "[[Erasmus]]"
   - "[[Storytelling]]"
   - "[[My Bookstore]]"
+  - "[[American Sphinx]]"
 ---
 
 # Republic of Letters

@@ -9,7 +9,7 @@ tags:
   - "capital-allocation"
   - "company-building"
   - "open-source-knowledge"
-last_imported: "2026-07-15"
+last_imported: "2026-07-16"
 key_takeaways_status: "written"
 ---
 

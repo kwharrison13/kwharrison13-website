@@ -20,6 +20,9 @@ related:
   - "[[The Man Who Broke Capitalism]]"
   - "[[The Messy Marketplace]]"
   - "[[Bundle]]"
+  - "[[Buffett: The Biography]]"
+  - "[[Driven]]"
+  - "[[Flying Blind]]"
 ---
 
 # Capital Allocation

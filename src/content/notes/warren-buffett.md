@@ -24,6 +24,8 @@ related:
   - "[[Value Investing]]"
   - "[[Institutionalized Belief In The Greater Fool]]"
   - "[[Capital Allocation]]"
+  - "[[Double Entry]]"
+  - "[[Essentialism]]"
 ---
 
 # Warren Buffett

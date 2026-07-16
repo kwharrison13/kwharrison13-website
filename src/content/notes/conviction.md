@@ -22,6 +22,9 @@ related:
   - "[[Naval Ravikant]]"
   - "[[Palmer Luckey]]"
   - "[[Elon Musk]]"
+  - "[[Elon Musk: Tesla"
+  - "SpaceX"
+  - "and the Quest for a Fantastic Future]]"
 reference_count: 1
 ---
 

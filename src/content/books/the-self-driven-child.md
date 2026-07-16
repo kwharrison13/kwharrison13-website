@@ -8,7 +8,7 @@ tags:
   - "company-building"
   - "people-over-politics"
   - "ideological-family-tree"
-last_imported: "2026-07-15"
+last_imported: "2026-07-16"
 key_takeaways_status: "written"
 ---
 

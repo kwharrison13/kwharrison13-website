@@ -21,6 +21,7 @@ related:
   - "[[The Man From The Future]]"
   - "[[Josh Wolfe]]"
   - "[[Jeff Bezos]]"
+  - "[[21 Lessons for the 21st Century]]"
 reference_count: 1
 ---
 

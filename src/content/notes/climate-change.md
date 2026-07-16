@@ -22,6 +22,7 @@ related:
   - "[[Nuclear Energy]]"
   - "[[It's Time To Build]]"
   - "[[CleanCapital]]"
+  - "[[Double Entry]]"
 reference_count: 1
 ---
 

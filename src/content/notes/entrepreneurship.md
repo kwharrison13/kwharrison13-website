@@ -24,6 +24,8 @@ related:
   - "[[The Magnolia Story]]"
   - "[[Hard Work]]"
   - "[[Africa]]"
+  - "[[Alibaba: The House That Jack Ma Built]]"
+  - "[[China in Ten Words]]"
 ---
 
 # Entrepreneurship

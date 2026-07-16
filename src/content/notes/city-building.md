@@ -28,6 +28,9 @@ related:
   - "[[Byrne Hobart]]"
   - "[[Tyler Cowen]]"
   - "[[Progress Studies]]"
+  - "[[American Sphinx]]"
+  - "[[Brigham Young: Pioneer Prophet]]"
+  - "[[Evicted: Poverty and Profit in the American City]]"
 ---
 
 # City Building

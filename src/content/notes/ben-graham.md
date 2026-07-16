@@ -20,6 +20,7 @@ related:
   - "[[Buffett — The Biography]]"
   - "[[The Psychology of Money]]"
   - "[[Efficient Market Theory]]"
+  - "[[Berkshire Hathaway Annual Letters]]"
 ---
 
 # Ben Graham

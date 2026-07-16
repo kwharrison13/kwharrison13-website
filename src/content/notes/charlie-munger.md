@@ -26,6 +26,8 @@ related:
   - "[[Circle of Competence]]"
   - "[[The Black Swan]]"
   - "[[Investment Frameworks]]"
+  - "[[Atomic Habits]]"
+  - "[[Berkshire Hathaway Annual Letters]]"
 ---
 
 # Charlie Munger

@@ -16,6 +16,7 @@ related:
   - "[[American Sphinx]]"
   - "[[Benjamin Franklin]]"
   - "[[Thomas Jefferson]]"
+  - "[[Founders' Son]]"
 ---
 
 # Declaration of Independence

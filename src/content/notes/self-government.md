@@ -15,6 +15,7 @@ related:
   - "[[Educated Electorate]]"
   - "[[Thomas Jefferson]]"
   - "[[Democracy]]"
+  - "[[Founders' Son]]"
 ---
 
 # Self-Government

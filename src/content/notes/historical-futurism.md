@@ -25,6 +25,7 @@ related:
   - "[[Open Source Knowledge]]"
   - "[[Speculative Fiction]]"
   - "[[Utopias]]"
+  - "[[Boom: Bubbles & The End of Stagnation]]"
 ---
 
 # Historical Futurism

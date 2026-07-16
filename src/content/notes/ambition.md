@@ -25,6 +25,7 @@ related:
   - "[[Golden Handcuffs]]"
   - "[[Progressivism]]"
   - "[[Leslie Knope]]"
+  - "[[Founders' Son]]"
 reference_count: 1
 ---
 

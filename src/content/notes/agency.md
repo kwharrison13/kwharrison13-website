@@ -22,6 +22,7 @@ related:
   - "[[Chad's Big Quote Book]]"
   - "[[Faith is Not Blind]]"
   - "[[Free Will]]"
+  - "[[Future Mormon]]"
 reference_count: 2
 ---
 

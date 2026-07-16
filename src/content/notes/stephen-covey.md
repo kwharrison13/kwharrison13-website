@@ -19,6 +19,7 @@ related:
   - "[[The Courage To Be Disliked]]"
   - "[[Our Towns]]"
   - "[[Scarcity Mindset]]"
+  - "[[Benjamin Franklin: An American Life]]"
 reference_count: 4
 ---
 

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Reason"
-related: []
+related:
+  - "[[Founders' Son]]"
 reference_count: 1
 ---
 

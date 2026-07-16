@@ -21,6 +21,7 @@ related:
   - "[[Grace]]"
   - "[[M. Russell Ballard]]"
   - "[[Chad's Big Quote Book]]"
+  - "[[Future Mormon]]"
 reference_count: 1
 ---
 
