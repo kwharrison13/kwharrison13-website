@@ -7,7 +7,7 @@ quake: false
 tags:
   - "company-building"
   - "people-over-politics"
-last_imported: "2026-07-16"
+last_imported: "2026-07-17"
 key_takeaways_status: "written"
 ---
 
