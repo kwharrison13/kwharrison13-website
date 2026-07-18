@@ -26,6 +26,7 @@ related:
   - "[[The Rise of The Cash Man - Research]]"
   - "[[Flow]]"
   - "[[Institutionalized Belief In The Greater Fool]]"
+  - "[[The Rise of The Cash Man]]"
 reference_count: 7
 ---
 

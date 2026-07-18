@@ -21,6 +21,7 @@ related:
   - "[[The Square Deal]]"
   - "[[Unions]]"
   - "[[Gerald Zahavi]]"
+  - "[[Endicott-Johnson Shoe Company]]"
   - "[[City Building]]"
   - "[[Welfare Capitalism]]"
   - "[[George F. Johnson and His Industrial Democracy]]"

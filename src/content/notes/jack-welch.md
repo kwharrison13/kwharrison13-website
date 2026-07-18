@@ -26,6 +26,7 @@ related:
   - "[[Share Buybacks]]"
   - "[[Capital Allocation]]"
   - "[[Charlie Munger — A Lesson on Elementary Worldly Wisdom]]"
+  - "[[Milton Friedman]]"
 ---
 
 # Jack Welch

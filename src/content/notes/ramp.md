@@ -17,6 +17,7 @@ related:
   - "[[Altimeter]]"
   - "[[Contrary]]"
   - "[[Pave]]"
+  - "[[Toast]]"
 reference_count: 1
 ---
 

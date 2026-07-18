@@ -28,6 +28,7 @@ related:
   - "[[Investment Frameworks]]"
   - "[[Atomic Habits]]"
   - "[[Berkshire Hathaway Annual Letters]]"
+  - "[[Shane Parrish]]"
 ---
 
 # Charlie Munger

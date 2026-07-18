@@ -16,6 +16,7 @@ related:
   - "[[John Quincy Adams]]"
   - "[[Leadership]]"
   - "[[Emancipation Proclamation]]"
+  - "[[Abraham Lincoln]]"
 reference_count: 1
 ---
 

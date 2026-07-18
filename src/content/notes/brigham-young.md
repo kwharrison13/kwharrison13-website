@@ -24,6 +24,7 @@ related:
   - "[[City Building]]"
   - "[[Righteous in the Dark]]"
   - "[[What I Want My Son to Know before He Leaves on His Mission]]"
+  - "[[Lorenzo Snow]]"
 ---
 
 # Brigham Young

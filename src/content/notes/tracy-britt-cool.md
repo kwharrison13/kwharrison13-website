@@ -20,6 +20,7 @@ related:
   - "[[Investing: The Model]]"
   - "[[Bifurcation of Investing]]"
   - "[[Warren Buffett]]"
+  - "[[The Bifurcation of Capital is Inevitable]]"
 ---
 
 # Tracy Britt Cool

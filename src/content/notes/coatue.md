@@ -26,6 +26,7 @@ related:
   - "[[Wei Guo]]"
   - "[[Whale Rock]]"
   - "[[Rev 2 \\\"Data Science and the Future of Investing\\\" - Coatue Management & Point72]]"
+  - "[[Sebastian Duesterhoeft]]"
 ---
 
 # Coatue

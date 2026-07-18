@@ -22,6 +22,7 @@ related:
   - "[[Brian Feinstein]]"
   - "[[Christine Deakers]]"
   - "[[Bessemer Venture Partners]]"
+  - "[[Company Building]]"
 ---
 
 # Vertical SaaS

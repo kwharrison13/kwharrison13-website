@@ -22,6 +22,7 @@ related:
   - "[[United Order]]"
   - "[[Employee Ownership]]"
   - "[[Brigham Young]]"
+  - "[[Hugh B. Brown]]"
 reference_count: 5
 ---
 

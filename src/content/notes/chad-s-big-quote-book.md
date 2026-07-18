@@ -1,6 +1,6 @@
 ---
 title: "Chad's Big Quote Book"
-type: "article"
+type: "concept"
 publish: false
 confidence: "high"
 created: "2026-06-16"
@@ -56,6 +56,7 @@ related:
   - "[[Come"
   - "Follow Me]]"
   - "[[Joseph Smith Lecture 2 — Joseph's Personality and Character]]"
+  - "[[Hugh B. Brown]]"
 ---
 
 # Chad's Big Quote Book

@@ -31,6 +31,7 @@ related:
   - "[[American Sphinx]]"
   - "[[Brigham Young: Pioneer Prophet]]"
   - "[[Evicted: Poverty and Profit in the American City]]"
+  - "[[The Rise of The Cash Man]]"
 ---
 
 # City Building

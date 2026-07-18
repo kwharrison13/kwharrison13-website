@@ -13,6 +13,7 @@ aliases:
   - "Gokul Rajaram"
 related:
   - "[[Square]]"
+  - "[[Eric Tarczynski]]"
 reference_count: 1
 ---
 

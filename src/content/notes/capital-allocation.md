@@ -23,6 +23,9 @@ related:
   - "[[Buffett: The Biography]]"
   - "[[Driven]]"
   - "[[Flying Blind]]"
+  - "[[The Bifurcation of Capital is Inevitable]]"
+  - "[[Rat's Nest Problems]]"
+  - "[[Investment Frameworks]]"
 ---
 
 # Capital Allocation

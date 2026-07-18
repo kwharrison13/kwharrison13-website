@@ -20,6 +20,7 @@ related:
   - "[[Bejul Somaia]]"
   - "[[Will Kohler]]"
   - "[[Persona]]"
+  - "[[Sebastian Duesterhoeft]]"
 ---
 
 # Lightspeed Venture Partners

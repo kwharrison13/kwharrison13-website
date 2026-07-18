@@ -24,6 +24,7 @@ related:
   - "[[Game Theory]]"
   - "[[RAND]]"
   - "[[Civil-Military Fusion]]"
+  - "[[Quantum Computing]]"
 reference_count: 1
 ---
 

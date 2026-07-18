@@ -19,6 +19,7 @@ aliases:
   - "Perennial"
 related:
   - "[[Carbon Offsets]]"
+  - "[[Zabie Elmgren]]"
 ---
 
 # Perennial fka Cloud Agronomics

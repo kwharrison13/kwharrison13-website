@@ -37,6 +37,7 @@ related:
   - "[[Faith — Topical Study]]"
   - "[[Eye single to the glory of God]]"
   - "[[Christ Is Risen; Faith in Him Will Move Mountains — Russell M. Nelson]]"
+  - "[[D&C 29]]"
 ---
 
 # Brother of Jared

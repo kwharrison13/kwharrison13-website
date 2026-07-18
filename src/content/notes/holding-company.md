@@ -21,6 +21,7 @@ related:
   - "[[Capital Allocation]]"
   - "[[Permanent Capital]]"
   - "[[Family of Companies]]"
+  - "[[The Bifurcation of Capital is Inevitable]]"
 ---
 
 # Holding Company

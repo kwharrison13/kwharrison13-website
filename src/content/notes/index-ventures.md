@@ -29,6 +29,8 @@ related:
   - "[[Differentiation in Venture]]"
   - "[[Talent Networking]]"
   - "[[Playbooks]]"
+  - "[[Zabie Elmgren]]"
+  - "[[Mike Volpi]]"
 reference_count: 6
 ---
 

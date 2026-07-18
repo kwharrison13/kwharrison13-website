@@ -30,6 +30,7 @@ related:
   - "[[Sequoia]]"
   - "[[Kleiner Perkins]]"
   - "[[Decarbonization]]"
+  - "[[Chris Cox]]"
 ---
 
 # Watershed Climate

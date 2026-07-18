@@ -27,6 +27,8 @@ related:
   - "[[Ben Horowitz]]"
   - "[[Nuclear Energy]]"
   - "[[Max Levchin]]"
+  - "[[The Rise of The Cash Man]]"
+  - "[[Contrary GP on Talent and Research-Driven Investing]]"
 ---
 
 # Marc Andreessen

@@ -28,6 +28,7 @@ related:
   - "[[Visa]]"
   - "[[Ten Principles for How to Run a Company]]"
   - "[[Niko Canner]]"
+  - "[[Abraham Lincoln]]"
 reference_count: 2
 ---
 

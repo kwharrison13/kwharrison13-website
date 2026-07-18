@@ -7,7 +7,7 @@ quake: false
 tags:
   - "city-building"
   - "people-over-politics"
-last_imported: "2026-07-17"
+last_imported: "2026-07-18"
 key_takeaways_status: "written"
 ---
 

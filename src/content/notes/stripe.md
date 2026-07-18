@@ -20,6 +20,7 @@ related:
   - "[[Product Led Growth — The End User Era]]"
   - "[[Institutionalized Belief In The Greater Fool]]"
   - "[[Platforms in an Aggregator World]]"
+  - "[[Watershed Climate]]"
 ---
 
 # Stripe

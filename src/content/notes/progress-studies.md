@@ -25,6 +25,7 @@ related:
   - "[[Matt Clancy]]"
   - "[[Mark Lutter]]"
   - "[[Brave New World Revisited]]"
+  - "[[Tyler Cowen]]"
 reference_count: 1
 ---
 

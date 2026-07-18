@@ -32,6 +32,10 @@ related:
   - "[[Almost $14 Billion Pulled From CalPERS Equity Managers]]"
   - "[[Assembly Bill 2041 — UC Office of the Chief Investment Officer]]"
   - "[[Venture Capital]]"
+  - "[[AGI, Seriously + Foundation Model Polyamory]]"
+  - "[[Intel, Chips, and America's Future]]"
+  - "[[TBPN — August 5, 2025]]"
+  - "[[Contrary GP on Talent and Research-Driven Investing]]"
 ---
 
 # Contrary

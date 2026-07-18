@@ -25,6 +25,7 @@ related:
   - "[[Repentance]]"
   - "[[How To Apply The Atonement]]"
   - "[[Future Mormon]]"
+  - "[[Faith]]"
 reference_count: 1
 ---
 

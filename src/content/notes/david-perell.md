@@ -24,6 +24,7 @@ related:
   - "[[The Great Mental Models Volume 1 — General Thinking Concepts]]"
   - "[[Poor Charlie's Almanack]]"
   - "[[The New City]]"
+  - "[[Marshall McLuhan]]"
 ---
 
 # David Perell

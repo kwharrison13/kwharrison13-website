@@ -19,6 +19,7 @@ related:
   - "[[Tail Events]]"
   - "[[Compounding]]"
   - "[[Value Investing]]"
+  - "[[Michael Mauboussin]]"
 ---
 
 # Investment Returns

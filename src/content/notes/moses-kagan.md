@@ -20,6 +20,7 @@ related:
   - "[[SMB]]"
   - "[[The Rise of The Cash Man - Research]]"
   - "[[Teamshares]]"
+  - "[[The Rise of The Cash Man]]"
 ---
 
 # Moses Kagan

@@ -25,6 +25,7 @@ related:
   - "[[Tiger Global Management]]"
   - "[[How Do Venture Capitalists Make Decisions?]]"
   - "[[Index Ventures]]"
+  - "[[Tom Perkins]]"
 reference_count: 3
 ---
 

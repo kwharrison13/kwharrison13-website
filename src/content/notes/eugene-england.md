@@ -17,6 +17,7 @@ related:
   - "[[Terryl Givens]]"
   - "[[The Faith of a Scientist]]"
   - "[[Joseph Smith]]"
+  - "[[Hugh B. Brown]]"
 reference_count: 2
 ---
 

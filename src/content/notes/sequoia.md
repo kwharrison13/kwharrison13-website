@@ -26,6 +26,7 @@ related:
   - "[[Kleiner Perkins]]"
   - "[[Project Omar Little]]"
   - "[[Index Ventures]]"
+  - "[[Benchmark]]"
 ---
 
 # Sequoia

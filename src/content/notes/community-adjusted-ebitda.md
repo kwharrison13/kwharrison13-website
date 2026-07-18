@@ -14,6 +14,7 @@ aliases:
   - "Community-Adjusted EBITDA"
 related:
   - "[[The Storytelling of Investing - Research]]"
+  - "[[Bill Gurley]]"
 ---
 
 # Community-Adjusted EBITDA

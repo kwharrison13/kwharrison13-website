@@ -21,6 +21,7 @@ related:
   - "[[Braving The Wilderness]]"
   - "[[The Death of Expertise]]"
   - "[[Beware Of Pride]]"
+  - "[[Humility]]"
 ---
 
 # Spirit of Humility

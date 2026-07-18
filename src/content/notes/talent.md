@@ -22,6 +22,7 @@ related:
   - "[[Toptal]]"
   - "[[Best-in-Class Tech Stacks]]"
   - "[[HR]]"
+  - "[[Marc Andreessen]]"
 ---
 
 # Talent

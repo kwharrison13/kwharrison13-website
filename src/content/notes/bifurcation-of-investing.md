@@ -20,6 +20,7 @@ related:
   - "[[Venture Capital]]"
   - "[[Data in Investing]]"
   - "[[Power Law]]"
+  - "[[The Bifurcation of Capital is Inevitable]]"
 ---
 
 # Bifurcation of Investing

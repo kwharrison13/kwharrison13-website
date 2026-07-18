@@ -35,6 +35,7 @@ related:
   - "[[The Power Law: Venture Capital & the Making of the New Future]]"
   - "[[Essentialism]]"
   - "[[Peter Thiel's Religion]]"
+  - "[[Transhumanism]]"
 ---
 
 # Peter Thiel

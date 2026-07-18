@@ -22,6 +22,7 @@ related:
   - "[[The Rise of The Cash Man - Research]]"
   - "[[The Puritans of Venture Capital]]"
   - "[[October 17th, 2022 — Everett Randle to Kleiner Perkins]]"
+  - "[[The Rise of The Cash Man]]"
 ---
 
 # Everett Randle
