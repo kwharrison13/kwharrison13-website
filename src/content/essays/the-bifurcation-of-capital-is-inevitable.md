@@ -11,6 +11,7 @@ substack_url: "https://investing101.substack.com/p/the-bifurcation-of-capital-is
 <!-- connections-start -->
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/berkshire-hathaway-annual-letters">Berkshire Hathaway Annual Letters</a></span></div>
   <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/the-blackstone-of-innovation">The Blackstone of Innovation</a>, <a href="/essays/investing-101">Investing 101</a>, <a href="/essays/the-puritans-of-venture-capital">The Puritans of Venture Capital</a>, <a href="/essays/the-unholy-trinity-of-venture-capital">The Unholy Trinity of Venture Capital</a>, <a href="/essays/build-whats-fundable">“Build What’s Fundable”</a>, <a href="/essays/venture-capitals-fourth-turning">Venture Capital's Fourth Turning</a>, <a href="/essays/venture-capital-doesnt-exist">Venture Capital Doesn't Exist</a></span></div>
 </aside>
 <!-- connections-end -->
