@@ -17,6 +17,8 @@ aliases:
 related:
   - "[[March 30th, 2022 — Deal Announcements]]"
   - "[[Founders Fund]]"
+  - "[[Vareto]]"
+  - "[[Pigment]]"
 ---
 
 # Mosaic.Tech

@@ -104,7 +104,7 @@ The working outline behind this lens (from Kyle's Roam capture). Each company fu
 _(scaffold — no entries yet)_
 
 ### [Customer Support](/notes/customer-support)
-- **Companies (market map):** Chatbots (Lang.ai, Level AI, Forethought, Ada Support, Zowie) · Telephony ([Five9](/notes/five9), [Genesys](/notes/genesys), [NICE](/notes/nice), Edify CX) · Coaching ([Observe.ai](/notes/observe-ai), [Cresta.ai](/notes/cresta-ai), [Balto.ai](/notes/balto-ai)) · Relevant names (Assembled)
+- **Companies (market map):** Chatbots (Lang.ai, Level AI, Forethought, [Ada Support](/notes/ada-support), Zowie) · Telephony ([Five9](/notes/five9), [Genesys](/notes/genesys), [NICE](/notes/nice), Edify CX) · Coaching ([Observe.ai](/notes/observe-ai), [Cresta.ai](/notes/cresta-ai), [Balto.ai](/notes/balto-ai)) · Relevant names (Assembled)
 - **Operator network + market slides:** see [Customer Support](/notes/customer-support).
 
 ### [HR](/notes/hr) and [Talent](/books/talent)

@@ -39,7 +39,7 @@ The customer-support branch of the [Best-in-Class Tech Stacks](/notes/best-in-cl
 
 ### Market map (by category)
 
-- **Chatbots:** Lang.ai · Level AI · Forethought · Ada Support · Zowie
+- **Chatbots:** Lang.ai · Level AI · Forethought · [Ada Support](/notes/ada-support) · Zowie
 - **Agent routing** _(scaffold)_
 - **Call analytics** _(scaffold)_
 - **Telephony:** [Five9](/notes/five9) · [Genesys](/notes/genesys) · [NICE](/notes/nice) · Edify CX
