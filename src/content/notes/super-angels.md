@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-25"
+updated: "2026-07-19"
 last_updated_by: "agent"
 sources:
   - "wiki/meetings/June 6th, 2022 — Maximus (AngelList Docs).md"
@@ -23,6 +23,8 @@ related:
   - "[[Long Journey Ventures]]"
   - "[[Maximus]]"
   - "[[Arielle Zuckerberg]]"
+  - "[[Pogo]]"
+  - "[[Josh Buckley]]"
 reference_count: 4
 ---
 
@@ -40,3 +42,44 @@ The concept is load-bearing in the [SignalRank](/notes/signalrank) thesis: [Rob 
 - June 6th, 2022 — Arielle Zuckerberg (Long Journey Ventures) — Long Journey's values-led angel base (Lin, Thiel, Andreessen, Dixon, Rabois, Sacks)
 - June 6th, 2022 — Rob Hodgkinson (SignalRank) — SignalRank's seed round raised from "super angels with deep pockets and access to capital"
 - December 13th, 2021 — Cloudeagle.ai Intro — notable-operator super-angel backing flagged on an early company
+
+## Case study — Pogo's $14.8M raise (led by Josh Buckley)
+
+A textbook super-angel cap table: rather than a lead institutional check, Pogo stacked ~30 operator-founders, executives, and cultural names as a credibility-and-access roster. Announced as a **$14.8M raise led by Josh Buckley**, with participation from Village Global, [SLOW](/notes/slow-ventures), [20VC](/notes/20-minute-vc), SHRUG, MANTIS, HYPER, and Night Capital. The angel roster:
+
+| Angel | Title |
+|---|---|
+| Alex Pall & Drew Taggart | The Chainsmokers |
+| Amit Vasudev & Alex MacCaw | Founders of Clearbit |
+| Ari Litan | COO of LayerZero |
+| [Ashley Mayer](/notes/ashley-mayer) | VP Comms of [Glossier](/notes/glossier) |
+| Baron Davis | NBA All-Star |
+| Claire Hughes Johnson | COO of [Stripe](/notes/stripe) |
+| Eric Kirby | CPO of Oracle Data Cloud |
+| [Erik Torenberg](/notes/erik-torenberg) | Founder of On Deck |
+| Gabe Leydon | Founder of Machine Zone |
+| George Ruan & Ryan Hudson | Founders of [Honey](/notes/honey-io) |
+| [Harry Stebbings](/notes/harry-stebbings) | Founder of [20VC](/notes/20-minute-vc) |
+| [Henry Ward](/notes/henry-ward) | Founder of [Carta](/notes/carta) |
+| Jeffrey Katzenberg | Chairman of Disney |
+| Jenny Fleiss | Founder of Rent The Runway |
+| Jon Oringer | Founder of Shutterstock |
+| Julian Shapiro | Founder of Demand Curve |
+| Julian Weisser | Founder of On Deck |
+| [Lenny Rachitsky](/notes/lenny-rachitsky) | Lenny's Newsletter |
+| Louis Beryl | Founder of Earnest |
+| Manik Gupta | CPO of [Uber](/notes/uber) |
+| Mathilde Collin | Founder of Front |
+| Melissa Tan | Head of Growth at [Webflow](/notes/webflow) |
+| Miguel Burger-Calderon | Founder of Ethyca |
+| [Ryan Delk](/notes/ryan-delk) | Founder of [Primer](/notes/primer) |
+| Ryan Tedder | OneRepublic |
+| [Sam Lessin](/notes/sam-lessin) | VP Product of [Facebook](/notes/facebook) |
+| Scott Belsky | CPO of [Adobe](/notes/adobe) |
+| Siqi Chen | Founder of Runway |
+| Soleio | Head of Design at [Dropbox](/notes/dropbox) |
+| Sophia Amoruso | Founder of Nasty Gal |
+| Tyler Willis | Founder of Unsupervised |
+| Vindi Banga | President of Unilever |
+
+*…and many more.*

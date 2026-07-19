@@ -22,6 +22,7 @@ related:
   - "[[Clari]]"
   - "[[Smartsheet]]"
   - "[[Spiff]]"
+  - "[[Adaptive Planning]]"
 reference_count: 1
 ---
 

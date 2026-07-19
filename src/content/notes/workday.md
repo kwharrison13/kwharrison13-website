@@ -21,6 +21,7 @@ related:
   - "[[CaptivateIQ Diligence]]"
   - "[[Carta]]"
   - "[[Xactly]]"
+  - "[[Adaptive Planning]]"
 ---
 
 # Workday
