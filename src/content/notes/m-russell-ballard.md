@@ -26,6 +26,7 @@ related:
   - "[[Holy Ghost]]"
   - "[[Enduring to the End]]"
   - "[[The Priesthood Power of Women]]"
+  - "[[Quorum of the Twelve]]"
 reference_count: 2
 ---
 

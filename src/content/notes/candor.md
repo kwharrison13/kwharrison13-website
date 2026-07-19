@@ -17,6 +17,7 @@ aliases:
 related:
   - "[[Kelsey Bishop]]"
   - "[[Contrary Capital]]"
+  - "[[Andrew Farah]]"
 reference_count: 6
 ---
 

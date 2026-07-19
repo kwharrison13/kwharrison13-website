@@ -20,6 +20,7 @@ related:
   - "[[Kate Clark]]"
   - "[[Updating The Hype Cycle]]"
   - "[[Updating The Hype Cycle - Research]]"
+  - "[[Del Johnson]]"
 ---
 
 # The Information

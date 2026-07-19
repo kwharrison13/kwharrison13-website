@@ -24,6 +24,7 @@ related:
   - "[[Virtue]]"
   - "[[Humility — Topical Study]]"
   - "[[Mosiah 3]]"
+  - "[[Mosiah 7]]"
 reference_count: 5
 ---
 

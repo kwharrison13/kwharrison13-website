@@ -26,6 +26,7 @@ related:
   - "[[Speculative Fiction]]"
   - "[[Utopias]]"
   - "[[Boom: Bubbles & The End of Stagnation]]"
+  - "[[Law of Accelerating Returns]]"
 ---
 
 # Historical Futurism

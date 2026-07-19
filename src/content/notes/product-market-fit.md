@@ -29,6 +29,7 @@ related:
   - "[[Burn Multiple]]"
   - "[[Capital Efficiency]]"
   - "[[The Burn Multiple]]"
+  - "[[Leland]]"
 reference_count: 4
 ---
 

@@ -42,6 +42,7 @@ related:
   - "[[Amusing Ourselves To Death]]"
   - "[[The Greatest Sentence Ever Written]]"
   - "[[Russell M. Nelson]]"
+  - "[[Adams vs. Jefferson]]"
 ---
 
 # Voice of the People

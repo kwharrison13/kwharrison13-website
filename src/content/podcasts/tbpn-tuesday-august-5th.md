@@ -33,6 +33,7 @@ related:
   - "[[Contrary]]"
   - "[[Intel]]"
   - "[[TSMC]]"
+  - "[[a16z]]"
 ---
 
 ## Summary

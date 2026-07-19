@@ -18,6 +18,7 @@ related:
   - "[[Republic of Letters]]"
   - "[[Saints — No Unhallowed Hand]]"
   - "[[Brigham Young: Pioneer Prophet]]"
+  - "[[Quorum of the Twelve]]"
 ---
 
 # Institution Building

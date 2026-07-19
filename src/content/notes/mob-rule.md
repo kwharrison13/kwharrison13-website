@@ -15,6 +15,7 @@ related:
   - "[[Voice of the People]]"
   - "[[Educated Electorate]]"
   - "[[Democracy]]"
+  - "[[Adams vs. Jefferson]]"
 reference_count: 1
 ---
 

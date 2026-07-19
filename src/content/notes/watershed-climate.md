@@ -31,6 +31,7 @@ related:
   - "[[Kleiner Perkins]]"
   - "[[Decarbonization]]"
   - "[[Chris Cox]]"
+  - "[[Sweetgreen]]"
 ---
 
 # Watershed Climate

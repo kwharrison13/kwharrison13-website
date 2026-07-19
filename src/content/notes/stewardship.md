@@ -19,6 +19,7 @@ related:
   - "[[Brigham Young]]"
   - "[[Temporal Wealth and the Kingdom of God — Brigham Young]]"
   - "[[Saints — No Unhallowed Hand]]"
+  - "[[Quorum of the Twelve]]"
 reference_count: 2
 ---
 

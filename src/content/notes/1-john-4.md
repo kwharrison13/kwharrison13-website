@@ -23,6 +23,7 @@ related:
   - "[[Teaching Repentance]]"
   - "[[Anti-Christ — Topical Study]]"
   - "[[Neal A. Maxwell]]"
+  - "[[1 John 2]]"
 reference_count: 7
 ---
 
