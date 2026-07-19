@@ -10,6 +10,7 @@ sources:
   - "wiki/diligence-research/Cresta.ai - Diligence.md"
   - "wiki/companies/CleanCapital.md"
   - "wiki/meetings/June 24th, 2021 — Eric Menees (TradeUp).md"
+  - "wiki/meetings/October 4th, 2022 — Michael McElvaney (SoFi).md"
 tags:
   - "fintech"
   - "lending"
@@ -19,6 +20,8 @@ related:
   - "[[Pathlight]]"
   - "[[CleanCapital]]"
   - "[[Cresta.ai - Diligence]]"
+  - "[[Michael McElvaney]]"
+  - "[[October 4th, 2022 — Michael McElvaney (SoFi)]]"
 reference_count: 1
 ---
 
@@ -35,3 +38,4 @@ SoFi also surfaces as a talent-pedigree marker. In the June 24th, 2021 — Eric 
 - Cresta.ai - Diligence — Kyle's TODO to introduce SoFi to [Pathlight](/notes/pathlight) and other performance-management vendors.
 - [CleanCapital](/notes/cleancapital) — cited as the loan-refinancing playbook CleanCapital aimed to translate into clean-energy finance.
 - June 24th, 2021 — Eric Menees (TradeUp) — TradeUp's BD leader flagged as one of SoFi's first ~30 employees.
+- October 4th, 2022 — Michael McElvaney (SoFi) — FP&A leader [Michael McElvaney](/notes/michael-mcelvaney) on SoFi's finance-systems stack and its selection of [IBM Planning Analytics](/notes/ibm-planning-analytics) over [Anaplan](/notes/anaplan)/[Adaptive Planning](/notes/adaptive-planning).

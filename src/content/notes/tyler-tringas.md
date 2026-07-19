@@ -21,7 +21,7 @@ related:
 
 # Tyler Tringas
 
-**One-line:** *Founder of Calm Fund; a bootstrapped cleantech founder (started ~2010, couldn't get funding, bootstrapped and sold to PE) who now runs a research-heavy fund built around a rigorous 5-page investment brief.*
+**One-line:** *Founder of [Calm Fund](/notes/calm-fund); a bootstrapped cleantech founder (started ~2010, couldn't get funding, bootstrapped and sold to PE) who now runs a research-heavy fund built around a rigorous 5-page investment brief.*
 
 ## Mentioned in
 

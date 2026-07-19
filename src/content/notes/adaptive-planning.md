@@ -33,7 +33,8 @@ related:
 ## Where this appears
 
 - Adaptive Planning - Diligence — expert-call diligence notes on the product, pricing, competitive positioning vs. [Anaplan](/notes/anaplan)/Excel/legacy, and integration story (now also carries AFP-conference landscape context).
-- November 5th, 2018 — AFP Conference Prep — recurs as a benchmark competitor in [Kyle](/notes/kyle-harrison)'s TCV FP&A/CPM landscape map (Vena, Host Analytics, [Anaplan](/notes/anaplan), Workiva all positioned against it).
+- November 5th, 2018 — AFP Conference Prep — recurs as a benchmark competitor in [Kyle](/notes/kyle-harrison)'s TCV FP&A/CPM landscape map (Vena, Host Analytics, [Anaplan](/notes/anaplan), [Workiva](/notes/workiva) all positioned against it).
 - [Workday](/notes/workday) — acquirer; Adaptive is offered as Workday's planning product.
 - CaptivateIQ Diligence — 2021 — referenced as Adaptive Planning in the FP&A/planning landscape.
 - August 17th, 2022 — Steven Wu (Qualtrics) — named in a skeptical read of the FP&A market (Vareto, [Anaplan](/notes/anaplan), OneStream).
+- October 4th, 2022 — Michael McElvaney (SoFi) — one of the FP&A tools [SoFi](/notes/sofi) evaluated before selecting [IBM Planning Analytics](/notes/ibm-planning-analytics).
