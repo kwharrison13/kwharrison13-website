@@ -29,14 +29,14 @@ related:
 
 # Vareto
 
-**Vareto** is a modern FP&A / financial planning and reporting platform, co-founded and led by Kat Orekhova. It targets the reporting-and-close workflow first (dashboards, variance review, drill-down from tables into journal entries) and expands into planning, positioning itself against legacy incumbents [Adaptive Planning](/notes/adaptive-planning) and [Anaplan](/notes/anaplan) and newer entrants [Cube Software](/notes/cube-software), [Pigment](/notes/pigment), and [Mosaic.Tech](/notes/mosaic-tech).
+**Vareto** is a modern FP&A / financial planning and reporting platform, co-founded and led by [Kat Orekhova](/notes/kat-orekhova). It targets the reporting-and-close workflow first (dashboards, variance review, drill-down from tables into journal entries) and expands into planning, positioning itself against legacy incumbents [Adaptive Planning](/notes/adaptive-planning) and [Anaplan](/notes/anaplan) and newer entrants [Cube Software](/notes/cube-software), [Pigment](/notes/pigment), and [Mosaic.Tech](/notes/mosaic-tech).
 
 ## Product & positioning
 
 - **Reporting / close first.** Day-one mission-critical features let finance review a close on day 1–2 instead of waiting for books to fully close; dashboards compress hours of work to ~30 minutes. The "explore" drill-down (table → underlying journal entries) is a standout — one customer stopped logging into NetSuite entirely.
 - **All-in pricing.** Priced ~$20–25K all-in, vs. [Cube](/notes/cube-software)'s per-integration model (~$30K + per-connector charges) and [Adaptive](/notes/adaptive-planning)'s ~$100K-with-services. The sale is consistently weighed against hiring another analyst — the pitch is delivering "1/3 of an analyst or better."
 - **Interface.** Repeatedly praised as a pleasure to use and streamlined — cited as more approachable than [Pigment](/notes/pigment) for bringing in non-finance business partners.
-- **Planning roadmap.** Foundations built; per Kat Orekhova, "10x better than any other product out there" on data management (framed vs. [Anaplan](/notes/anaplan)), with table-stakes items (multi-currency, multi-entity) and scenario tooling in progress. Customers still often forecast in Google Sheets, with Vareto easing the connection down to cost-center level.
+- **Planning roadmap.** Foundations built; per [Kat Orekhova](/notes/kat-orekhova), "10x better than any other product out there" on data management (framed vs. [Anaplan](/notes/anaplan)), with table-stakes items (multi-currency, multi-entity) and scenario tooling in progress. Customers still often forecast in Google Sheets, with Vareto easing the connection down to cost-center level.
 
 ## Competitive read (from customer diligence)
 
