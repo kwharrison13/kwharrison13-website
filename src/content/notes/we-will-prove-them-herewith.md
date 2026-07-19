@@ -19,7 +19,7 @@ reference_count: 1
 
 # We Will Prove Them Herewith
 
-A scriptural phrase from [Abraham 3](/notes/abraham-3):25 — "And we will prove them herewith, to see if they will do all things whatsoever the Lord their God shall command them" — that Kyle uses as a throughline in Temporal Wealth and the Kingdom of God — Brigham Young. In his note there he frames it as the organizing logic of mortality: "everything is about proving what we will do." Applied to wealth specifically, mortality is read as a proving ground in which the Lord gives temporal resources "to see what they will do with it" — making stewardship of money and possessions a test of obedience rather than an end in itself.
+A scriptural phrase from Abraham 3:25 — "And we will prove them herewith, to see if they will do all things whatsoever the Lord their God shall command them" — that Kyle uses as a throughline in Temporal Wealth and the Kingdom of God — Brigham Young. In his note there he frames it as the organizing logic of mortality: "everything is about proving what we will do." Applied to wealth specifically, mortality is read as a proving ground in which the Lord gives temporal resources "to see what they will do with it" — making stewardship of money and possessions a test of obedience rather than an end in itself.
 
 **Context:** Abraham 3:25 is a verse in the Pearl of Great Price (Latter-day Saint scripture) describing the premortal council's purpose for earth life as a probationary test of agency and obedience.
 

@@ -24,7 +24,7 @@ reference_count: 1
 
 # The Wicked Take the Truth to be Hard
 
-A scripture chain Kyle builds around [1 Nephi 16](/notes/1-nephi-16):2 — *"the guilty taketh the truth to be hard, for it cutteth them to the very center."* The pattern: when a prophet or witness speaks plainly, the guilty respond not with repentance but with anger at the messenger. Kyle's paired note is that the hard things are still bearable — God "will not suffer you to be tempted above that ye are able" ([1 Corinthians 10](/notes/1-corinthians-10):13) — so the hardness is a sign the truth has landed, not a reason to flee it.
+A scripture chain Kyle builds around 1 Nephi 16:2 — *"the guilty taketh the truth to be hard, for it cutteth them to the very center."* The pattern: when a prophet or witness speaks plainly, the guilty respond not with repentance but with anger at the messenger. Kyle's paired note is that the hard things are still bearable — God "will not suffer you to be tempted above that ye are able" (1 Corinthians 10:13) — so the hardness is a sign the truth has landed, not a reason to flee it.
 
 He traces the same dynamic across multiple Book of Mormon episodes. In Alma 13–16, the people seek to destroy Alma and Amulek because they were "angry with Alma, because of the plainness of his words unto Zeezrom." In Helaman 7–12, the judges are angry with Nephi "because he spake plainly unto them concerning their secret works of darkness." In Helaman 13–16, Samuel the Lamanite says outright, "because it was hard against you, ye are angry with me and do seek to destroy me" — and the unbelievers cast stones at him rather than simply walk away. The recurring tell is that the wicked attack the truth-teller instead of reckoning with the truth.
 

@@ -18,7 +18,7 @@ reference_count: 1
 
 # The Correct Name of the Church
 
-A talk Kyle flagged "to read" during his study of [3 Nephi 27](/notes/3-nephi-27), where the resurrected Christ instructs the Nephites that his church must be called in his name and "built upon my gospel" — not in name only. Kyle ties this to [Matthew 7](/notes/matthew-7):21-23, where Christ tells those who prophesied and cast out devils "in thy name," yet "I never knew you" (expanded in the [Joseph Smith Translation](/notes/joseph-smith-translation) to "Ye never knew me"): bearing the right name is necessary but not sufficient; the church must also be built on Christ's truth and his people must actually do the will of the Father.
+A talk Kyle flagged "to read" during his study of 3 Nephi 27, where the resurrected Christ instructs the Nephites that his church must be called in his name and "built upon my gospel" — not in name only. Kyle ties this to Matthew 7:21-23, where Christ tells those who prophesied and cast out devils "in thy name," yet "I never knew you" (expanded in the [Joseph Smith Translation](/notes/joseph-smith-translation) to "Ye never knew me"): bearing the right name is necessary but not sufficient; the church must also be built on Christ's truth and his people must actually do the will of the Father.
 
 **Context:** This is one of a recurring set of teachings in the Church of Jesus Christ of Latter-day Saints emphasizing the use of the full, revealed name of the Church rather than nicknames — a theme President Russell M. Nelson revisited prominently in 2018.
 

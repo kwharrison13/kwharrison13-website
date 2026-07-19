@@ -19,7 +19,7 @@ reference_count: 1
 
 # Questions of the Soul
 
-A personal organizing tag Kyle uses in his gospel-study notes to flag open spiritual or doctrinal questions worth returning to and pondering. In the October 12–18, 2020. 3 Nephi 20–26: "Ye Are the Children of the Covenant" study, it marks a reflection on Christ's command in [3 Nephi 20](/notes/3-nephi-20):1 not to "cease to pray" in one's heart — Kyle questions whether he sometimes uses "I'm praying in my heart all the time" as an excuse to skip spoken prayer. The tag functions less as a doctrinal concept than as a recurring inbox for soul-level questions surfaced during scripture study.
+A personal organizing tag Kyle uses in his gospel-study notes to flag open spiritual or doctrinal questions worth returning to and pondering. In the October 12–18, 2020. 3 Nephi 20–26: "Ye Are the Children of the Covenant" study, it marks a reflection on Christ's command in 3 Nephi 20:1 not to "cease to pray" in one's heart — Kyle questions whether he sometimes uses "I'm praying in my heart all the time" as an excuse to skip spoken prayer. The tag functions less as a doctrinal concept than as a recurring inbox for soul-level questions surfaced during scripture study.
 
 ## Where this appears
 

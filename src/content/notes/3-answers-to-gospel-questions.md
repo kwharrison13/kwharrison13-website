@@ -22,9 +22,9 @@ reference_count: 3
 
 # 3 Answers to Gospel Questions
 
-**3 Answers to Gospel Questions** is Kyle's framework — drawn from the [Brother of Jared](/notes/brother-of-jared) and the sealed barges — for how God answers prayer. The three problems with the barges, named in [Ether 2](/notes/ether-2):19 ("in them there is no light... whither shall we steer... we cannot breathe"), map to three distinct kinds of answer:
+**3 Answers to Gospel Questions** is Kyle's framework — drawn from the [Brother of Jared](/notes/brother-of-jared) and the sealed barges — for how God answers prayer. The three problems with the barges, named in Ether 2:19 ("in them there is no light... whither shall we steer... we cannot breathe"), map to three distinct kinds of answer:
 
-1. **No Light → you must think for yourself.** The Lord answers with a question ("What will ye that I should do?"), and the Brother of Jared molds sixteen stones himself before asking the Lord to touch them — the [D&C 9](/notes/dandc-9) pattern of studying it out, then asking.
+1. **No Light → you must think for yourself.** The Lord answers with a question ("What will ye that I should do?"), and the Brother of Jared molds sixteen stones himself before asking the Lord to touch them — the D&C 9 pattern of studying it out, then asking.
 2. **No Steering → God will take care of it.**
 3. **No Air → God tells us what to do.** A direct, step-by-step commandment.
 

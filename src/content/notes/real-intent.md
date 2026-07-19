@@ -22,7 +22,7 @@ reference_count: 2
 
 # Real Intent
 
-The doctrine that sincerity of heart — not merely the outward act — is what gives an act spiritual value. In Moroni 7–9, Kyle draws it from Mormon's sermon: **"a man being evil cannot do that which is good… except he shall do it with real intent it profiteth him nothing"** (Moroni 7:6–10). You know people by their fruits, and the same test of sincerity gates the promise of [Moroni 10](/notes/moroni-10):4 — that one must ask "with a sincere heart, with real intent, having faith in Christ" to receive a witness of truth.
+The doctrine that sincerity of heart — not merely the outward act — is what gives an act spiritual value. In Moroni 7–9, Kyle draws it from Mormon's sermon: **"a man being evil cannot do that which is good… except he shall do it with real intent it profiteth him nothing"** (Moroni 7:6–10). You know people by their fruits, and the same test of sincerity gates the promise of Moroni 10:4 — that one must ask "with a sincere heart, with real intent, having faith in Christ" to receive a witness of truth.
 
 In Alma 17–22 Kyle adds the active dimension: **real intent requires a commitment to act on the answer received.** His example is [Joseph Smith](/notes/joseph-smith), who "went into the grove not with an idle curiosity, but with real intent," alongside Lamoni and his father, who moved from offering "half my kingdom" to "all that I possess." The concept is grouped there with [Faith](/notes/faith), [Prayer](/notes/prayer), and conversion as a core missionary-work theme.
 

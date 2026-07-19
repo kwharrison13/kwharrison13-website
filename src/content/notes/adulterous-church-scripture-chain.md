@@ -25,7 +25,7 @@ reference_count: 1
 
 # Adulterous Church: Scripture Chain
 
-A scripture-chain label in Kyle's Come Follow Me study of [3 Nephi 27](/notes/3-nephi-27)–4 Nephi. It anchors on [3 Nephi 27](/notes/3-nephi-27):32, where Christ sorrows over the fourth generation who "will sell me for silver and for gold, and for that which moth doth corrupt and which thieves can break through and steal." Kyle's note frames the theme: "How willing we are to trade Christ for what we think has worth but ultimately will never last." The chain is grouped in the study with the larger arc of [Apostasy](/notes/apostasy) and the [pride cycle](/notes/the-pride-cycle) — the people who, within a few generations of Christ's visit, abandon their covenant for worldly riches.
+A scripture-chain label in Kyle's Come Follow Me study of 3 Nephi 27–4 Nephi. It anchors on 3 Nephi 27:32, where Christ sorrows over the fourth generation who "will sell me for silver and for gold, and for that which moth doth corrupt and which thieves can break through and steal." Kyle's note frames the theme: "How willing we are to trade Christ for what we think has worth but ultimately will never last." The chain is grouped in the study with the larger arc of [Apostasy](/notes/apostasy) and the [pride cycle](/notes/the-pride-cycle) — the people who, within a few generations of Christ's visit, abandon their covenant for worldly riches.
 
 ## Where this appears
 

@@ -21,8 +21,8 @@ reference_count: 1
 
 # Alfred Kyungu
 
-A speaker Kyle noted in his General Conference- October 2021 study (Church of Jesus Christ of Latter-day Saints semiannual general conference). Kyle's notes pair Kyungu — alongside Christoffel Golden — with [D&C 128](/notes/dandc-128):22, the "shall we not go on in so great a cause? Go forward and not backward" passage on the work of redeeming the dead, suggesting that scripture anchored or was invoked in Kyungu's remarks.
+A speaker Kyle noted in his General Conference- October 2021 study (Church of Jesus Christ of Latter-day Saints semiannual general conference). Kyle's notes pair Kyungu — alongside Christoffel Golden — with D&C 128:22, the "shall we not go on in so great a cause? Go forward and not backward" passage on the work of redeeming the dead, suggesting that scripture anchored or was invoked in Kyungu's remarks.
 
 ## Where this appears
 
-- General Conference- October 2021 — conference speaker; associated in Kyle's notes with [D&C 128](/notes/dandc-128):22
+- General Conference- October 2021 — conference speaker; associated in Kyle's notes with D&C 128:22

@@ -53,7 +53,7 @@ The anthology gathers several component volumes:
 
 ## How it gets used
 
-In the [Alma 30](/notes/alma-30)–31 gospel-study, Kyle tags the anthology against "Mission Recording 33," a recording he made on his mission about feeling guided "from idea to idea and finally leading to a conclusion" — God offering "not a definitive answer but a path to more understanding." He was struck to rediscover that the recording was about Alma 30, which he hadn't remembered when re-encountering the chapter.
+In the Alma 30–31 gospel-study, Kyle tags the anthology against "Mission Recording 33," a recording he made on his mission about feeling guided "from idea to idea and finally leading to a conclusion" — God offering "not a definitive answer but a path to more understanding." He was struck to rediscover that the recording was about Alma 30, which he hadn't remembered when re-encountering the chapter.
 
 In [The Life of John Taylor](/books/the-life-of-john-taylor), Kyle connects a Taylor passage on liberty and refusing to be a slave to "a poem from Collective Writings" — "when you see an outstretched hand you exclaim that is an enslaving band" — showing the anthology functioning as a cross-reference store: a place where a line he has collected illuminates something he reads later.
 

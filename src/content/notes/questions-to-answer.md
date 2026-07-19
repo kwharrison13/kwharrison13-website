@@ -20,7 +20,7 @@ reference_count: 1
 
 # Questions to Answer
 
-A personal organizing tag Kyle uses in his gospel-study notes to flag questions he wants to think through and be able to explain — often the work of translating a doctrine into terms a skeptical or secular audience would accept. In the November 23–29, 2020. Ether 12–15: "By Faith All Things Are Fulfilled" study, it marks his intent to explore [Faith](/notes/faith) "in a worldly context" and better explain it to people who see religious faith as simplistic: his note observes that everyone has faith in things they can't see and "then receive a witness afterwards," echoing [Ether 12](/notes/ether-12):6 ("faith is things which are hoped for and not seen"). The tag is a to-do list of apologetic or explanatory questions rather than a standalone doctrine.
+A personal organizing tag Kyle uses in his gospel-study notes to flag questions he wants to think through and be able to explain — often the work of translating a doctrine into terms a skeptical or secular audience would accept. In the November 23–29, 2020. Ether 12–15: "By Faith All Things Are Fulfilled" study, it marks his intent to explore [Faith](/notes/faith) "in a worldly context" and better explain it to people who see religious faith as simplistic: his note observes that everyone has faith in things they can't see and "then receive a witness afterwards," echoing Ether 12:6 ("faith is things which are hoped for and not seen"). The tag is a to-do list of apologetic or explanatory questions rather than a standalone doctrine.
 
 ## Where this appears
 

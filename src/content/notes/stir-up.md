@@ -19,7 +19,7 @@ reference_count: 1
 
 # Stir Up
 
-A scripture-study theme Kyle draws from Helaman 8 in his Helaman 7–12 notes. It hangs on [Helaman 8](/notes/helaman-8):7, where the corrupt judges "did stir up the people to anger against Nephi, and raised contentions among them." Kyle's takeaway is a personal rubric: "If you find yourself stirring up anyone to anger you've made a mistake." It sits beside his treatment of [Pride](/notes/pride) and [Pride cometh before the fall](/notes/pride-cometh-before-the-fall) in the same chapter — provoking others to anger is read as the fruit of pride and contention rather than righteousness.
+A scripture-study theme Kyle draws from Helaman 8 in his Helaman 7–12 notes. It hangs on Helaman 8:7, where the corrupt judges "did stir up the people to anger against Nephi, and raised contentions among them." Kyle's takeaway is a personal rubric: "If you find yourself stirring up anyone to anger you've made a mistake." It sits beside his treatment of [Pride](/notes/pride) and [Pride cometh before the fall](/notes/pride-cometh-before-the-fall) in the same chapter — provoking others to anger is read as the fruit of pride and contention rather than righteousness.
 
 ## Where this appears
 

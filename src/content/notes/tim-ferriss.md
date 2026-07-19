@@ -13,6 +13,7 @@ tags: []
 aliases:
   - "Tim Ferriss"
   - "Timothy Ferriss"
+  - "Tim Ferris"
 related:
   - "[[How To Be a Capitalist Without Any Capital]]"
   - "[[The 4-Hour Workweek]]"

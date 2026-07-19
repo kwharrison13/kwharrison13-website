@@ -34,7 +34,7 @@ related:
 
 ## Key claims
 
-- **Life is suffering** — the most fundamental, irrefutable truth, going back to the beginning of recorded history and scripture. [2 Nephi 2](/notes/2-nephi-2):11: "there is an opposition in all things."
+- **Life is suffering** — the most fundamental, irrefutable truth, going back to the beginning of recorded history and scripture. 2 Nephi 2:11: "there is an opposition in all things."
 - **Sacrifice now, gain later.** This idea is not innate — it had to be discovered. [Jordan Peterson](/notes/jordan-peterson) in [12 Rules for Life](/notes/12-rules-for-life): sacrifice acts out the proposition that "something better might be attained in the future by giving up something of value in the present."
 - **Reality is structured as if it can be bargained with.** "Long ago… we began to realize that reality was structured as if it could be bargained with" — behaving properly now can bring rewards in a future that does not yet exist.
 - **Meaning over expediency.** In the midst of his suffering, seconds before death, [Socrates](/notes/socrates) places meaning over expediency and dies in the name of truth.
@@ -51,5 +51,5 @@ related:
 ## How it connects
 
 - [Jordan Peterson](/notes/jordan-peterson) / [12 Rules for Life](/notes/12-rules-for-life) — the central source on sacrifice and meaning.
-- [2 Nephi 2](/notes/2-nephi-2) — the "opposition in all things" scripture Perell pairs with Peterson.
+- 2 Nephi 2 — the "opposition in all things" scripture Perell pairs with Peterson.
 - [David Perell](/notes/david-perell) — his compression instinct distilling a worldview to a single sentence.

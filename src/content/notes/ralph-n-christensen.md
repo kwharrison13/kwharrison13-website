@@ -21,7 +21,7 @@ reference_count: 1
 
 # Ralph N. Christensen
 
-Speaker of the BYU–Idaho devotional "Fulfilling the Measure of Our Creation", which Kyle studied and annotated. Christensen frames "the measure of our creation" — drawing on [D&C 88](/notes/dandc-88):19 and [Brigham Young](/notes/brigham-young) — as living again with God and becoming like Him, and lays out three ways to fill that measure: (1) understanding and accepting the doctrine of who we are and what we can become, (2) accepting our roles as worthy men and women, and (3) using agency as an expression of obedience. A recurring thread in his talk is the rejection of "the lie that you are just not celestial material," anchored in the reach of the Savior's Atonement.
+Speaker of the BYU–Idaho devotional "Fulfilling the Measure of Our Creation", which Kyle studied and annotated. Christensen frames "the measure of our creation" — drawing on D&C 88:19 and [Brigham Young](/notes/brigham-young) — as living again with God and becoming like Him, and lays out three ways to fill that measure: (1) understanding and accepting the doctrine of who we are and what we can become, (2) accepting our roles as worthy men and women, and (3) using agency as an expression of obedience. A recurring thread in his talk is the rejection of "the lie that you are just not celestial material," anchored in the reach of the Savior's Atonement.
 
 ## Where this appears
 

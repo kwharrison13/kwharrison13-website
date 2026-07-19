@@ -18,7 +18,7 @@ reference_count: 1
 
 # The Declaration of Independence
 
-In Kyle's Come Follow Me study of [Helaman 7](/notes/helaman-7)–12, the Declaration of Independence is set alongside the Book of Mormon's "[Voice of the People](/notes/voice-of-the-people)" passages ([Mosiah 29](/notes/mosiah-29):26–27) as a scriptural-civic parallel. The Nephites' descent into wickedness — with "Gadianton robbers filling the judgment-seats, having usurped the power and authority of the land" — prompts the reflection that when the voice of the people chooses iniquity, "then is the time that the judgments of God will come upon you."
+In Kyle's Come Follow Me study of Helaman 7–12, the Declaration of Independence is set alongside the Book of Mormon's "[Voice of the People](/notes/voice-of-the-people)" passages (Mosiah 29:26–27) as a scriptural-civic parallel. The Nephites' descent into wickedness — with "Gadianton robbers filling the judgment-seats, having usurped the power and authority of the land" — prompts the reflection that when the voice of the people chooses iniquity, "then is the time that the judgments of God will come upon you."
 
 Kyle quotes the Declaration's preamble at length — "We hold these truths to be self-evident, that all men are created equal... that whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it" — and draws the lesson that "when we find ourselves in a position where our leaders no longer strive to do what is right, but lead themselves and others astray down paths of darkness, it becomes our 'duty to throw off such' leaders." The document thus serves in his notes as a secular echo of the Nephite warning about righteous self-governance and the consequences of collective iniquity.
 

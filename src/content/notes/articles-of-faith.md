@@ -40,5 +40,6 @@ The articles recur as a doctrinal index across Kyle's gospel study. Christian Re
 
 - [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) — the creed-aversion debate over adopting them; Article 11 on liberty of conscience
 - Articles of Faith — Topical Study — dedicated study working through the articles
+- Articles of Faith 1 — the verbatim thirteen articles (Pearl of Great Price text page)
 - Christian Reformation, Zion, and Seekers — Articles 5, 6, 9 mapped onto Reformers and Seekers
 - Teachings of Presidents of the Church: Joseph Smith — Article 10 on the gathering of Israel and Zion

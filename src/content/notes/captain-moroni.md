@@ -22,9 +22,9 @@ reference_count: 1
 
 # Captain Moroni
 
-Captain Moroni appears in Kyle's study of [Mormon 1](/notes/mormon-1)–6 (October 26–November 1, 2020. Mormon 1–6: "I Would That I Could Persuade All … to Repent") as the faith-built foil to Mormon's people. Where Mormon's people fortify their cities "with our might" and are still driven out ([Mormon 2](/notes/mormon-2):4), Captain Moroni's defenses ([Alma 49](/notes/alma-49)) were built in **faith, not fear** — and that distinction is the lesson Kyle draws: "Fortify in faith, not fear." He reads the war chapters as a model of personal spiritual warfare, noting that by being wise, listening to the Spirit, and heeding the prophets, Captain Moroni succeeded — and that without those, the Nephites faltered.
+Captain Moroni appears in Kyle's study of Mormon 1–6 (October 26–November 1, 2020. Mormon 1–6: "I Would That I Could Persuade All … to Repent") as the faith-built foil to Mormon's people. Where Mormon's people fortify their cities "with our might" and are still driven out (Mormon 2:4), Captain Moroni's defenses (Alma 49) were built in **faith, not fear** — and that distinction is the lesson Kyle draws: "Fortify in faith, not fear." He reads the war chapters as a model of personal spiritual warfare, noting that by being wise, listening to the Spirit, and heeding the prophets, Captain Moroni succeeded — and that without those, the Nephites faltered.
 
-**Context:** Captain Moroni is a Book of Mormon military leader in the book of Alma (not to be confused with the prophet Moroni, son of Mormon), celebrated in Latter-day Saint scripture as a defender of liberty who "raised the title of liberty" ([Alma 46](/notes/alma-46)).
+**Context:** Captain Moroni is a Book of Mormon military leader in the book of Alma (not to be confused with the prophet Moroni, son of Mormon), celebrated in Latter-day Saint scripture as a defender of liberty who "raised the title of liberty" (Alma 46).
 
 ## Where this appears
 

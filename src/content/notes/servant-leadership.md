@@ -23,7 +23,7 @@ reference_count: 2
 
 # Servant Leadership
 
-Servant leadership shows up in Kyle's notes as a bridge between scripture and capital allocation — the same model surfacing in a gospel study and a business book. In October 12–18, 2020. 3 Nephi 20–26: "Ye Are the Children of the Covenant", Christ models it directly: He gives the multitude bread and wine that neither they nor the disciples brought, *serving the apostles first* and then sending them to do likewise ([3 Nephi 20](/notes/3-nephi-20):3–7). Christ is the source of the living bread, and the leader serves before he sends.
+Servant leadership shows up in Kyle's notes as a bridge between scripture and capital allocation — the same model surfacing in a gospel study and a business book. In October 12–18, 2020. 3 Nephi 20–26: "Ye Are the Children of the Covenant", Christ models it directly: He gives the multitude bread and wine that neither they nor the disciples brought, *serving the apostles first* and then sending them to do likewise (3 Nephi 20:3–7). Christ is the source of the living bread, and the leader serves before he sends.
 
 In [Working Toward Zion](/books/working-toward-zion) the same principle appears in the language of business. The page cites [Sam Walton](/notes/sam-walton)'s prediction that free enterprise "must benefit the workers, the shareholders, the communities," with management adopting "a philosophy of servant leadership" — listening to the "line soldiers" rather than taking care of itself first — and Ray Noorda at Novell putting customers first, employees second, shareholders third. It connects to Kyle's broader interest in [Stewardship](/notes/stewardship) and worker-aligned ownership.
 

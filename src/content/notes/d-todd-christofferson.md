@@ -25,7 +25,7 @@ reference_count: 3
 
 A member of the Quorum of the Twelve Apostles of [The Church of Jesus Christ of Latter-day Saints](/notes/the-church-of-jesus-christ-of-latter-day-saints) whose teachings recur across Kyle's gospel study. In Kyle's notes from General Conference (October 2021), Christofferson teaches that "God's love is universal to all yet individual to each," that this love is not "unconditional" in the sense of guaranteeing salvation "just as we are," and that "ours is not a religion of rationalization, or perfectionism — ours is a religion of repentance"; because God loves us, He does not want to leave us as we are.
 
-He anchors two of Kyle's topical syntheses. In Chosen Leaders, Christofferson's teaching that "it is in the 'furnace of affliction' that we are chosen" ([Isaiah 48](/notes/isaiah-48):10, [1 Nephi 20](/notes/1-nephi-20):10) is the load-bearing distinction between being *called* and being *chosen*. In Faith — Topical Study, he is quoted that "divine covenants make strong Christians… in times of distress let your covenants be paramount," with God keeping His promise to finish our faith.
+He anchors two of Kyle's topical syntheses. In Chosen Leaders, Christofferson's teaching that "it is in the 'furnace of affliction' that we are chosen" (Isaiah 48:10, 1 Nephi 20:10) is the load-bearing distinction between being *called* and being *chosen*. In Faith — Topical Study, he is quoted that "divine covenants make strong Christians… in times of distress let your covenants be paramount," with God keeping His promise to finish our faith.
 
 **Context:** D. Todd Christofferson has served as an apostle in The Church of Jesus Christ of Latter-day Saints since 2008.
 

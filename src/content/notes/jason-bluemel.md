@@ -23,7 +23,7 @@ reference_count: 3
 
 # Jason Bluemel
 
-A missionary (referred to as "Elder Jason Bluemel") whose teaching on love-driven outreach Kyle quotes across several missionary-work studies. The recurring line is his answer to how we love strangers: "If I love that person, I'm going to go talk to them" — cited in Preach My Gospel Missionary, Missionary Work — Topical Study, and Teaching Repentance. In Teaching Repentance, the quote grounds the argument that boldness flows from love — "each invitation is an expression of love" — linked there to the concept of [The Flow](/notes/the-flow) and set against [1 John 4](/notes/1-john-4):17–18 ("perfect love casteth out fear").
+A missionary (referred to as "Elder Jason Bluemel") whose teaching on love-driven outreach Kyle quotes across several missionary-work studies. The recurring line is his answer to how we love strangers: "If I love that person, I'm going to go talk to them" — cited in Preach My Gospel Missionary, Missionary Work — Topical Study, and Teaching Repentance. In Teaching Repentance, the quote grounds the argument that boldness flows from love — "each invitation is an expression of love" — linked there to the concept of [The Flow](/notes/the-flow) and set against 1 John 4:17–18 ("perfect love casteth out fear").
 
 He appears in those studies among other missionary-work authorities such as [David A. Bednar](/notes/david-a-bednar), [Boyd K. Packer](/notes/boyd-k-packer), and [Jeffrey R. Holland](/notes/jeffrey-r-holland), but his contribution is the single practical maxim above rather than a body of doctrine.
 

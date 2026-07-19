@@ -28,7 +28,7 @@ key_takeaways_status: "written"
 
 6. **Lead by encouragement, not criticism.** The Komatsu story — "he didn't come into my area and tell me all about the weaknesses that I already knew about" — against the "spirit of [criticism](/notes/criticism)": *restrain your tongues; it is so much nobler to speak constructively.*
 
-7. **"This is the Lord's church, the Lord's problem — not mine."** The delegation of ultimate responsibility that frees a leader to simply work the problem. Kyle's note ties it to [Mosiah 26](/notes/mosiah-26): *"This is my church."* Revelation as iterative process, not lightning bolt — the smaller-temples idea "developed over many years and a variety of experiences."
+7. **"This is the Lord's church, the Lord's problem — not mine."** The delegation of ultimate responsibility that frees a leader to simply work the problem. Kyle's note ties it to Mosiah 26: *"This is my church."* Revelation as iterative process, not lightning bolt — the smaller-temples idea "developed over many years and a variety of experiences."
 
 8. **People over programs.** "People are more important than programs and efficiency." The recurring [Elder Klebingat](/notes/elder-klebingat) note — *never allow this to become more of a program than a ministry* — marks the same nerve four times.
 

@@ -19,7 +19,7 @@ reference_count: 1
 
 # Graven Images
 
-A scriptural idea Kyle reframes away from its literal sense. In his Come Follow Me study of [3 Nephi 20](/notes/3-nephi-20)–[3 Nephi 26](/notes/3-nephi-26), the prophecy that the Lord will "cut off" thy graven images (3 Nephi 21:17) is read not as a warning about *"giant golden statues (there is a shortage of those today)"* but as *"anything you put before God"* — a framing he credits to [Camden Harrison](/notes/camden-harrison). The note connects this to the worry over "worldly possessions and the things that we build up unto ourselves," which become the things we worship, and lands on the operative question: *"Are you building things that will last?"* (cross-referenced to the pearl-of-great-price parable in [Matthew 13](/notes/matthew-13):45-46).
+A scriptural idea Kyle reframes away from its literal sense. In his Come Follow Me study of 3 Nephi 20–3 Nephi 26, the prophecy that the Lord will "cut off" thy graven images (3 Nephi 21:17) is read not as a warning about *"giant golden statues (there is a shortage of those today)"* but as *"anything you put before God"* — a framing he credits to [Camden Harrison](/notes/camden-harrison). The note connects this to the worry over "worldly possessions and the things that we build up unto ourselves," which become the things we worship, and lands on the operative question: *"Are you building things that will last?"* (cross-referenced to the pearl-of-great-price parable in Matthew 13:45-46).
 
 ## Where this appears
 

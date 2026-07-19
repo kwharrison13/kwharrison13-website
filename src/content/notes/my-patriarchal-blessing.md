@@ -20,7 +20,7 @@ reference_count: 1
 
 # My Patriarchal Blessing
 
-A personal, recurring tag Kyle uses in his [gospel-study](/notes/gospel-study) notes to mark scriptural moments that echo counsel from his own patriarchal blessing. In his study of [Alma 17](/notes/alma-17)–22 ("I Will Make an Instrument of Thee"), he tags the missionary example of [Ammon](/notes/ammon) — and the line "Be an example to your fellow missionary" — with #[My Patriarchal Blessing](/notes/my-patriarchal-blessing), drawing a thread between Ammon's leadership among his fellow servants and guidance Kyle received personally.
+A personal, recurring tag Kyle uses in his [gospel-study](/notes/gospel-study) notes to mark scriptural moments that echo counsel from his own patriarchal blessing. In his study of Alma 17–22 ("I Will Make an Instrument of Thee"), he tags the missionary example of [Ammon](/notes/ammon) — and the line "Be an example to your fellow missionary" — with #[My Patriarchal Blessing](/notes/my-patriarchal-blessing), drawing a thread between Ammon's leadership among his fellow servants and guidance Kyle received personally.
 
 **Context:** In The Church of Jesus Christ of Latter-day Saints, a patriarchal blessing is a one-time personal blessing given by an ordained patriarch, declaring lineage and offering individualized counsel and promises. Members often treat it as a private, lifelong reference text. The specific contents of Kyle's blessing are private and not recorded in these notes.
 

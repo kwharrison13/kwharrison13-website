@@ -21,7 +21,7 @@ reference_count: 1
 
 In Kyle's Parables study, the **Kingdom of Heaven** is the phrase Matthew favors (Mark uses [Kingdom of God](/notes/kingdom-of-god)), and while the Bible usually treats the two synonymously, the study draws an LDS distinction. The **Kingdom of Heaven** refers to the divinely ordained government in all matters — the heavenly state of earth, established only when Jesus reigns ("Thy kingdom come… in earth, as it is in Heaven") — whereas the **Kingdom of God** connotes the church on earth, established by divine authority but claiming no temporal rule.
 
-Many of the [Matthew 13](/notes/matthew-13) parables open with "The Kingdom of Heaven is like unto…" — the sower considering different kinds of ground (the different people within and near the gospel), the pearl versus treasure (actively searching vs. stumbling upon), and the net versus wheat-and-tares (letting good and bad show themselves before the final separation, which Christ performs).
+Many of the Matthew 13 parables open with "The Kingdom of Heaven is like unto…" — the sower considering different kinds of ground (the different people within and near the gospel), the pearl versus treasure (actively searching vs. stumbling upon), and the net versus wheat-and-tares (letting good and bad show themselves before the final separation, which Christ performs).
 
 **Context:** "Kingdom of Heaven" (Greek *basileia tōn ouranōn*) is used almost exclusively in the Gospel of Matthew, where it parallels the "Kingdom of God" found in Mark and Luke; many scholars attribute the substitution to Jewish reverence for avoiding the divine name.
 

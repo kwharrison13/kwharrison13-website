@@ -39,7 +39,7 @@ An apostle of The Church of Jesus Christ of Latter-day Saints whose words recur 
 
 ## Where this appears
 
-- Content with the Things Allotted unto Us — Neal A. Maxwell — his April 2000 General Conference address on circumstantial contentment within our "allotted acreage" ([Alma 29](/notes/alma-29))
+- Content with the Things Allotted unto Us — Neal A. Maxwell — his April 2000 General Conference address on circumstantial contentment within our "allotted acreage" (Alma 29)
 - [Faith is Not Blind](/books/faith-is-not-blind) — scholarship + discipleship; "Jesus will eventually request… the very things which are most difficult"
 - [Stretching The Heavens](/books/stretching-the-heavens) — apostle/correspondent England edited; recipient of the "Abrahamic test" letter; meekness and the "past feeling" exchange
 - [Chad's Big Quote Book](/notes/chad-s-big-quote-book) — quoted on God's individual care and the imperfect but improving disciple

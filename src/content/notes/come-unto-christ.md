@@ -20,7 +20,7 @@ reference_count: 1
 
 # Come Unto Christ
 
-"Come unto Christ" is the culminating theme of Moroni's Exhortations — the last of [Moroni](/notes/moroni)'s eight strong invitations to act in his final chapter ([Moroni 10](/notes/moroni-10):30–34). In Kyle's study, the key inversion is that the invitation does *not* read "become perfect and then come unto Christ," but rather "we must come unto Christ and be perfect IN HIM." Establishing that the Book of Mormon is true is the *beginning* of the conversation, not the end.
+"Come unto Christ" is the culminating theme of Moroni's Exhortations — the last of [Moroni](/notes/moroni)'s eight strong invitations to act in his final chapter (Moroni 10:30–34). In Kyle's study, the key inversion is that the invitation does *not* read "become perfect and then come unto Christ," but rather "we must come unto Christ and be perfect IN HIM." Establishing that the Book of Mormon is true is the *beginning* of the conversation, not the end.
 
 Kyle ties the phrase to its companion theme, [Remember](/notes/remember): many of Moroni's exhortations open with "remember," which [Boyd K. Packer](/notes/boyd-k-packer) called the most important word in the English language. Coming unto Christ, in this reading, is sustained by remembering — God's mercy, His goodness, and one's own covenants — rather than by a single light-switch conversion.
 

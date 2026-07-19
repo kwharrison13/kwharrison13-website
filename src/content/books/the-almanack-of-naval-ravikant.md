@@ -15,15 +15,24 @@ key_takeaways_status: "written"
 ## Key Takeaways
 
 <!-- key-takeaways -->
-_No highlights captured in `raw/books/` for this book. Metadata is from `raw/books.json`. Add a Readwise export to `raw/books/the-almanack-of-naval-ravikant.md` and re-ingest, or write takeaways manually._
+_[The Almanack of Naval Ravikant](/books/the-almanack-of-naval-ravikant)_ compiles roughly a decade of [Naval Ravikant](/notes/naval-ravikant)'s thinking on wealth and happiness — drawn from his tweets, podcasts, and interviews — collected and edited by Eric Jorgenson, with a foreword by [Tim Ferriss](/notes/tim-ferriss) and illustrations by Jack Butcher. Two arcs run through it: **Wealth** (build specific knowledge, gain leverage, take accountability, own equity, and get paid for judgment) and **Happiness** (a learnable skill of presence, peace, and shedding a rigid identity to see reality clearly).
+
+🔒 The full text is archived privately in this wiki and is **not** reproduced on the public site — see the note under Highlights.
 <!-- /key-takeaways -->
 
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+- [Naval Ravikant](/notes/naval-ravikant) — the book's subject; his "How to Get Rich (without getting lucky)" tweetstorm and "4 Kinds of Luck" frame Part I.
+- [Tim Ferriss](/notes/tim-ferriss) — wrote the foreword and is a recurring interviewer/source.
+- Eric Jorgenson — compiled and edited the book as a public-service project.
+- [AngelList](/notes/angellist) — the company Naval co-founded and chairs.
 <!-- /interconnections -->
 
 ## Highlights
 
-_No source highlights captured._
+🔒 **The full text of this book is kept as a private note.**
+
+The complete text of _The Almanack of Naval Ravikant_ is archived privately in this wiki and isn't reproduced on the public site, out of respect for the authors' copyright. Every idea and word belongs to [Naval Ravikant](/notes/naval-ravikant) and his editor Eric Jorgenson.
+
+The book is offered **free** in digital / Kindle form at [navalmanack.com](https://www.navalmanack.com/), and in print on [Amazon](https://www.amazon.com/Almanack-Naval-Ravikant-Wealth-Happiness/dp/1544514212).

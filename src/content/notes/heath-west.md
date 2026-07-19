@@ -19,7 +19,7 @@ reference_count: 1
 
 # Heath West
 
-A convert Kyle knew personally, referenced in his Come Follow Me study of [Alma 17](/notes/alma-17)–[Alma 22](/notes/alma-22) as a real-world parallel to the scriptural account of converts facing family opposition. Studying Lamoni's father's anger at his son's conversion ([Alma 20](/notes/alma-20):13), Kyle is *"reminded of Heath West's experience telling his Mom about wanting to join the church and how angry she was"* — illustrating "the experience of converts" and the principle that those who bring the gospel should let new converts see the love behind it.
+A convert Kyle knew personally, referenced in his Come Follow Me study of Alma 17–Alma 22 as a real-world parallel to the scriptural account of converts facing family opposition. Studying Lamoni's father's anger at his son's conversion (Alma 20:13), Kyle is *"reminded of Heath West's experience telling his Mom about wanting to join the church and how angry she was"* — illustrating "the experience of converts" and the principle that those who bring the gospel should let new converts see the love behind it.
 
 ## Where this appears
 

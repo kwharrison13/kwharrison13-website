@@ -18,7 +18,7 @@ reference_count: 1
 
 # Episode 6: "Indescribable Compassion"
 
-Kyle references this episode in his notes on General Conference — October 2021, inside [Brent H. Nielson](/notes/brent-h-nielson)'s talk on faith and unanswered prayer (tagged #[But If Not...](/notes/but-if-not)). The note pairs it with [Mark 2](/notes/mark-2):3–5 — the four men who lowered the man sick of the palsy through the roof, and Jesus seeing _their_ faith — and distills the episode to a single line: **"Your faith is beautiful."** It sits in a cluster of Kyle's reflections on faith as a skill rather than a binary, and on whether God answers prayer through other people.
+Kyle references this episode in his notes on General Conference — October 2021, inside [Brent H. Nielson](/notes/brent-h-nielson)'s talk on faith and unanswered prayer (tagged #[But If Not...](/notes/but-if-not)). The note pairs it with Mark 2:3–5 — the four men who lowered the man sick of the palsy through the roof, and Jesus seeing _their_ faith — and distills the episode to a single line: **"Your faith is beautiful."** It sits in a cluster of Kyle's reflections on faith as a skill rather than a binary, and on whether God answers prayer through other people.
 
 **Context:** "Indescribable Compassion" is the title of Episode 6 of Season 1 of _The Chosen_, the multi-season dramatized series on the life of Jesus Christ, which depicts the healing of the paralytic lowered through the roof.
 

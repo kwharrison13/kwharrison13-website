@@ -23,7 +23,7 @@ reference_count: 2
 
 > **Pointer page.** The substantive treatment lives in the canonical Godly Sorrow — Topical Study (a private `gospel-study` topical journal, *Topical Journal 1.31–1.32*). This lightweight concept page exists so that bare [Godly Sorrow](/notes/godly-sorrow) references resolve to a page on the public site — the Topical Study itself is never synced to the website.
 
-The doctrine of two kinds of remorse: **godly sorrow** that leads to [Self-Reflection](/notes/self-reflection) and change, versus the "sorrow of the world" that only makes a person angry at being shown their own awfulness — the "sorrowing of the damned." The scriptural anchor is [2 Corinthians 7](/notes/2-corinthians-7):10 — "For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death" — paired with [Mormon 2](/notes/mormon-2):13's "sorrowing of the damned." See the Topical Study for the full treatment.
+The doctrine of two kinds of remorse: **godly sorrow** that leads to [Self-Reflection](/notes/self-reflection) and change, versus the "sorrow of the world" that only makes a person angry at being shown their own awfulness — the "sorrowing of the damned." The scriptural anchor is 2 Corinthians 7:10 — "For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death" — paired with Mormon 2:13's "sorrowing of the damned." See the Topical Study for the full treatment.
 
 ## Where this appears
 

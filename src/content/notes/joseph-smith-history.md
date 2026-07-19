@@ -36,4 +36,5 @@ The Articles of Faith — Topical Study uses Joseph Smith History as the source 
 
 - First Vision — Topical Study — JSH as the source text for the First Vision; dating, the Methodist/agency note (JSH 1:8), and the multiple-accounts question
 - Joseph Smith — A Young Seer — JSH 1:27–29 on the difficulties and temptations of Joseph's youth
+- Joseph Smith—History 1 · Joseph Smith—History 2 — the verbatim Pearl of Great Price text pages
 - Articles of Faith — Topical Study — JSH (via the Wentworth Letter) as the source of the thirteen Articles of Faith

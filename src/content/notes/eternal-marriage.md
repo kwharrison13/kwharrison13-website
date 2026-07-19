@@ -20,7 +20,7 @@ reference_count: 1
 
 # Eternal Marriage
 
-In Kyle's topical study 8 Points of the Gospel (drawn from [3 Nephi 27](/notes/3-nephi-27) and his mission Topical Journal), eternal marriage is named as **the gate to the celestial kingdom** — sealed through the Holy Spirit of Promise ([D&C 132](/notes/dandc-132):7). The frame ties marriage directly to the purpose of earth life in that study: God is described as "a man and a woman" capable of creating life, and the use or abuse of the procreative powers is the test of Godhood, which [Boyd K. Packer](/notes/boyd-k-packer) taught must be both powerful and nearly constant for it to be a real test.
+In Kyle's topical study 8 Points of the Gospel (drawn from 3 Nephi 27 and his mission Topical Journal), eternal marriage is named as **the gate to the celestial kingdom** — sealed through the Holy Spirit of Promise (D&C 132:7). The frame ties marriage directly to the purpose of earth life in that study: God is described as "a man and a woman" capable of creating life, and the use or abuse of the procreative powers is the test of Godhood, which [Boyd K. Packer](/notes/boyd-k-packer) taught must be both powerful and nearly constant for it to be a real test.
 
 The note records that worthiness in eternal marriage is known by the feelings given through the Spirit of Promise — if living God's way, one would "forget yourself and walk out of the temple with the desire of building up your spouse" — and links the doctrine into the broader arc of becoming a "Reforming Perfectionist" through the process of [Consecration](/notes/consecration).
 

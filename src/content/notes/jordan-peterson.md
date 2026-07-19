@@ -22,7 +22,7 @@ reference_count: 1
 
 # Jordan Peterson
 
-A clinical psychologist and author whose ideas on sacrifice and meaning feed Kyle's notes via [12 Rules for Life](/notes/12-rules-for-life). In [Pursue What Is Meaningful](/notes/pursue-what-is-meaningful), Peterson is the central source on the idea that "sacrifice now, gain later" is a discovered (not innate) proposition — that "something better might be attained in the future by giving up something of value in the present" — compressed into the maxim "Pursue what is meaningful, not what is expedient." That long-read pairs Peterson's framing with the scriptural "opposition in all things" of [2 Nephi 2](/notes/2-nephi-2).
+A clinical psychologist and author whose ideas on sacrifice and meaning feed Kyle's notes via [12 Rules for Life](/notes/12-rules-for-life). In [Pursue What Is Meaningful](/notes/pursue-what-is-meaningful), Peterson is the central source on the idea that "sacrifice now, gain later" is a discovered (not innate) proposition — that "something better might be attained in the future by giving up something of value in the present" — compressed into the maxim "Pursue what is meaningful, not what is expedient." That long-read pairs Peterson's framing with the scriptural "opposition in all things" of 2 Nephi 2.
 
 His earliest appearance in the wiki is a September 17th, 2021 daily-log note recording simply that Kyle watched his videos — an early touchpoint that the later long-read develops into a fuller engagement with his thinking on meaning.
 

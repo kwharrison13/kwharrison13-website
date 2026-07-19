@@ -18,7 +18,7 @@ reference_count: 1
 
 # Historian
 
-In Kyle's [Mormon 1](/notes/mormon-1)–6 study, the office of *historian* surfaces as a character profile. When Ammaron entrusts the young [Mormon](/notes/mormon-1) with the Nephite records, he picks him for being "a sober child, and… quick to observe" ([Mormon 1](/notes/mormon-1):2) — and Kyle reads those two traits as the defining qualifications for a good historian: first, being **dedicated to maintaining people's trust** as best one can, and second, **effectively and unavoidably observing the world around oneself**. The note treats the historian less as a chronicler of events than as a trustworthy, clear-eyed witness — someone whose value rests on credibility and attentiveness rather than on access or rank.
+In Kyle's Mormon 1–6 study, the office of *historian* surfaces as a character profile. When Ammaron entrusts the young Mormon with the Nephite records, he picks him for being "a sober child, and… quick to observe" (Mormon 1:2) — and Kyle reads those two traits as the defining qualifications for a good historian: first, being **dedicated to maintaining people's trust** as best one can, and second, **effectively and unavoidably observing the world around oneself**. The note treats the historian less as a chronicler of events than as a trustworthy, clear-eyed witness — someone whose value rests on credibility and attentiveness rather than on access or rank.
 
 This connects to a recurring thread in Kyle's reading: observation as a discipline (echoed in the "be observant" lesson he draws from [Walt Disney](/notes/walt-disney)), and record-keeping as stewardship (a theme he flags in [Saints — No Unhallowed Hand](/books/saints-no-unhallowed-hand)).
 

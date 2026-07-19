@@ -104,7 +104,7 @@ A useful index of Munger's tendencies: [novelinvestor.com — Charlie Munger's T
 - **So pronounced is the tendency in man to quickly remove doubt by reaching some decision** that behavior to counter the tendency is required from judges and jurors.
   > **Kyle:** *Reminds me of [Doubt (movie)](/notes/doubt-movie); SISTER ALOYSIUS: **I have doubts! I have such doubts!***
 - When Marley's miserable ghost says, "I wear the chains I forged in life," he is talking about chains of [Habits](/notes/habits) that were too light to be felt before they became too strong to be broken.
-  - [2 Nephi 28](/notes/2-nephi-28):21-22
+  - 2 Nephi 28:21-22
     - 21 And others will he pacify, **and lull them away into carnal security**, that they will say: All is well in Zion; yea, Zion prospereth, all is well. and **thus the devil cheateth their souls, and leadeth them away carefully down to hell.**
     - 22 And behold, others he flattereth away, and telleth them there is no hell; and he saith unto them: I am no devil, for there is none. and thus he whispereth in their ears, **until he grasps them with his awful chains,** from whence there is no deliverance.
 - **Also tending to be maintained in place by the anti change tendency of the brain are one's previous conclusions, human loyalties, reputational identity, commitments, accepted role in a civilization, etc**. It is not entirely clear why evolution would program into man's brain an anti-change mode alongside his tendency to quickly remove doubt.
