@@ -15,6 +15,7 @@ aliases:
   - "United Order"
 related:
   - "[[Working Toward Zion]]"
+  - "[[Approaching Zion]]"
   - "[[Brigham Young — Pioneer Prophet]]"
   - "[[Saints — No Unhallowed Hand]]"
   - "[[Brigham Young]]"

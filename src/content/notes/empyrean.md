@@ -1,10 +1,10 @@
 ---
 title: "Empyrean"
-type: "company"
+type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-16"
-updated: "2026-06-25"
+updated: "2026-07-19"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Joseph Smith — Rough Stone Rolling.md"
@@ -19,7 +19,7 @@ related:
 
 # Empyrean
 
-Not a company — this page was mis-bucketed by stub auto-generation. "Empyrean" appears in [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) as a Kyle-note concept tag attached to the highlight describing Nauvoo's name ("of Hebrew origin… signifies a beautiful situation, or place, carrying with it, also, the idea of rest"). Kyle's note reads "*Empyrean: Ideal place*" and tags it alongside [Valued Empyrean](/notes/valued-empyrean) and Utopia. The term also surfaces under [Institution Building](/notes/institution-building) in the book's connections (the Church, City of Zion, School of the Prophets, priesthood, and temple framed as institutions), paired with [Valued Empyrean](/notes/valued-empyrean). It is best understood as a concept — an ideal/utopian place — in Kyle's reading of Joseph Smith's city-building, not an organization.
+A concept, not a company (moved back from `wiki/companies/` on 2026-07-19 — distinct from the [Valued Empyrean](/notes/valued-empyrean) company page). "Empyrean" appears in [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling) as a Kyle-note concept tag attached to the highlight describing Nauvoo's name ("of Hebrew origin… signifies a beautiful situation, or place, carrying with it, also, the idea of rest"). Kyle's note reads "*Empyrean: Ideal place*" and tags it alongside [Valued Empyrean](/notes/valued-empyrean) and Utopia. The term also surfaces under [Institution Building](/notes/institution-building) in the book's connections (the Church, City of Zion, School of the Prophets, priesthood, and temple framed as institutions), paired with [Valued Empyrean](/notes/valued-empyrean). It is best understood as a concept — an ideal/utopian place — in Kyle's reading of Joseph Smith's city-building, not an organization.
 
 **Context:** "Empyrean" classically denotes the highest heaven — the abode of light, fire, or God in ancient cosmology and in Dante's Paradiso; figuratively, an ideal or sublime realm.
 

@@ -15,6 +15,7 @@ aliases:
 related:
   - "[[8 Points of the Gospel]]"
   - "[[Working Toward Zion]]"
+  - "[[Approaching Zion]]"
   - "[[Neal A. Maxwell]]"
   - "[[Zion]]"
   - "[[Stewardship]]"

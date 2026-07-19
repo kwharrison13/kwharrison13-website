@@ -83,6 +83,21 @@
     }
   ],
   "library": {
+    "2014": [
+      {
+        "title": "Approaching Zion",
+        "author": "Hugh Nibley",
+        "rating": 0,
+        "tags": [
+          "zion",
+          "consecration",
+          "united-order",
+          "religious-intellectualism",
+          "capital-allocation"
+        ],
+        "quake": false
+      }
+    ],
     "2016": [
       {
         "title": "Made To Stick",
@@ -2615,6 +2630,16 @@
         "rating": 0,
         "tags": [
           "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Myths of Innovation",
+        "author": "Scott Berkun",
+        "rating": 0,
+        "tags": [
+          "technological-innovation",
+          "company-building"
         ],
         "quake": false
       }

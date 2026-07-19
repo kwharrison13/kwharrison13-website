@@ -34,6 +34,19 @@ Read primarily as a parent — but with constant overlay between developmental n
 8. **Interest discovery is the actual parenting job.** Expose them to people whose lives they can idolize and learn from. "Focus on becoming useful" (John Adams). Lily pads of a career; "what gives you energy?" The [Thiel](/notes/peter-thiel) Fellowship and trade school as valid paths.
 
 The throughline: parenting is less about producing outcomes and more about building the psychology behind being good at things.
+
+### Framing going in
+
+Top-level notes captured while reading:
+
+- **You can't force anyone to do anything.** Everything has to be a conversation about why they should *want* to do something. ([Intrinsic Motivation](/notes/intrinsic-motivation))
+- **Behavior-focused vs. intention-focused parenting.**
+- *"I'm grateful for this stuff. I don't know how people successfully parent without understanding this nuance."* — [Camden Harrison](/notes/camden-harrison)
+- **The pyramid:**
+  - **Excel** — you have to understand the bias you have.
+  - **Thrive** — you can get by.
+  - **Survive** — biases exist for a reason.
+- **Parenting can feel monotonous, boring, and unrewarding** because we're focused on *extrinsic* motivation when, in reality, it should be THE most important thing you do. ([Intrinsic Motivation](/notes/intrinsic-motivation))
 <!-- /key-takeaways -->
 
 ## Connections

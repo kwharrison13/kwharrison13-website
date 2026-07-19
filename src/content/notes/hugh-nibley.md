@@ -7,6 +7,7 @@ created: "2026-06-16"
 updated: "2026-06-25"
 last_updated_by: "agent"
 sources:
+  - "wiki/books/Approaching Zion.md"
   - "wiki/books/Atomic Habits.md"
   - "wiki/books/Working Toward Zion.md"
   - "wiki/books/How To Take Smart Notes.md"
@@ -16,6 +17,7 @@ tags: []
 aliases:
   - "Hugh Nibley"
 related:
+  - "[[Approaching Zion]]"
   - "[[Working Toward Zion]]"
   - "[[How To Take Smart Notes]]"
   - "[[Stretching The Heavens]]"
@@ -35,6 +37,7 @@ Nibley is also the apologetic reference point in Kyle's gospel-study material. [
 
 ## Where this appears
 
+- [Approaching Zion](/books/approaching-zion) — Nibley's own book (Collected Works, Vol. 9); the definitive Kyle-read source for his indictment of materialism, "goods of first vs. second intent," and consecration as a present obligation.
 - [Working Toward Zion](/books/working-toward-zion) — cited among modern LDS leaders on consecration and "keep your money clean."
 - [How To Take Smart Notes](/books/how-to-take-smart-notes) — his "one thing at a time" passage attached to the book's argument on attention.
 - [Atomic Habits](/books/atomic-habits) — Kyle's tentative source for "you have to want the consequences of the things you want."

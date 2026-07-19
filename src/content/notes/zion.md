@@ -20,6 +20,7 @@ aliases:
 related:
   - "[[Working Toward Zion]]"
   - "[[American Zion]]"
+  - "[[Approaching Zion]]"
   - "[[The Process of Zion]]"
   - "[[United Order]]"
   - "[[Consecration]]"
