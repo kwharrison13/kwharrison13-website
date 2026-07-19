@@ -42,3 +42,9 @@ The book is offered **free** in digital / Kindle form at [navalmanack.com](https
 > 🔒 **The full text of this book is kept private.**
 >
 > Kyle keeps a complete personal copy of *The Almanack of Naval Ravikant* in his private knowledge base for reference and study. Out of respect for the author's copyright, the full text isn't published here — only the highlights, notes, and connections above.
+
+## Full Book
+
+> 🔒 **The full text of this book is kept private.**
+>
+> Kyle keeps a complete personal copy of *The Almanack of Naval Ravikant* in his private knowledge base for reference and study. Out of respect for the author's copyright, the full text isn't published here — only the highlights, notes, and connections above.
