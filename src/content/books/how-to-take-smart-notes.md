@@ -283,3 +283,9 @@ A recurring meta-note: several highlights carry Kyle's #[Find the Quote](/notes/
 - “We believe in all truth, no matter to what subject it may refer. No sect or religious denomination [or, I may say, no searcher of truth] in the world possesses a single principle of truth that we do not accept or that we will reject. **We are willing to receive all truth, from whatever source it may come; for truth will stand, truth will endure.”** [Joseph F. Smith](/notes/joseph-f-smith)
 - Comparing notes also helps us to detect contradictions, paradoxes or oppositions–important facilitators for insight. **When we realise that we used to accept two contradicting ideas as equally true, we know that we have a problem–and problems are good because we now have something to solve.** A paradox can be a sign that we haven’t thought thoroughly enough about a problem or, conversely, that we exhausted the possibilities of a certain paradigm. Finally, oppositions help to shape ideas by providing contrast. [Albert Rothenberg](/notes/albert-rothenberg) **suggests that the construction of oppositions is the most reliable way of generating new ideas** (Rothenberg 1971; 1996; 2015).
 - “The test of a first-rate intelligence is **the ability to hold two opposed ideas in mind at the same time and still retain the ability to function."** [F. Scott Fitzgerald](/notes/f-scott-fitzgerald)
+
+## Full Book
+
+> 🔒 **The full text of this book is kept private.**
+>
+> Kyle keeps a complete personal copy of *How To Take Smart Notes* in his private knowledge base for reference and study. Out of respect for the author's copyright, the full text isn't published here — only the highlights, notes, and connections above.

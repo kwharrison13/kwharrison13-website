@@ -392,21 +392,32 @@ function syncBook(wikiFile) {
     key_takeaways_status: 'written',
   };
 
+  // A `## Full Book` section (verbatim book text) is PRIVATE — Obsidian only.
+  // It's copyrighted material Kyle keeps for personal study and must never ship.
+  // Split it off the body BEFORE anything else so it can't leak: the Highlights
+  // grab below reads to EOF, so without this the whole book would land in the
+  // public Highlights block. On the public page it's replaced by a locked notice.
+  const fullBookIdx = wbody.search(/^## Full Book\s*$/m);
+  const hasFullBook = fullBookIdx >= 0;
+  const wbodyPublic = hasFullBook ? wbody.slice(0, fullBookIdx) : wbody;
+
   // Parse wiki body into sections
-  const sections = parseSections(wbody);
+  const sections = parseSections(wbodyPublic);
   const keyTakeaways = sections['Key Takeaways'] || '_Under Consideration — to be added._';
   const publicInter = sections['Public Connections'] || '_No cross-book interconnections identified yet._';
 
   // Highlights (incl. Kyle's `> **Kyle:**` notes) come from the WIKI page — the
   // wiki is the single source of truth, so edits made in Obsidian propagate here.
-  // The `## Highlights` section is the last in a book page, so grab everything from
-  // that heading to EOF (a highlight quote could itself contain a `## ` line, which
-  // a section-splitter would wrongly cut). Run it through resolveWikilinks so any
-  // [[X]]/#[[X]] inside a note becomes a /notes link; rwid markers + blockquotes
-  // pass through untouched. Falls back to preserving the existing website block only
-  // if the wiki page has no Highlights (defensive — shouldn't happen for publish:true).
+  // The `## Highlights` section is the last PUBLIC section in a book page (a
+  // `## Full Book` section, if present, sits after it and was already stripped
+  // above), so grab everything from that heading to the end of the public body (a
+  // highlight quote could itself contain a `## ` line, which a section-splitter
+  // would wrongly cut). Run it through resolveWikilinks so any [[X]]/#[[X]] inside
+  // a note becomes a /notes link; rwid markers + blockquotes pass through untouched.
+  // Falls back to preserving the existing website block only if the wiki page has
+  // no Highlights (defensive — shouldn't happen for publish:true).
   let existingHighlightsBlock = '';
-  const wikiHl = wbody.match(/^## Highlights\s*\n([\s\S]*)$/m);
+  const wikiHl = wbodyPublic.match(/^## Highlights\s*\n([\s\S]*)$/m);
   if (wikiHl) {
     existingHighlightsBlock = resolveWikilinks(wikiHl[1].trim());
   } else if (fs.existsSync(targetPath)) {
@@ -432,6 +443,20 @@ function syncBook(wikiFile) {
     '',
     existingHighlightsBlock,
   ];
+
+  // Locked stand-in for a private `## Full Book` section. The verbatim text stays
+  // in the wiki; the public page gets only this notice (rendered as a callout by
+  // the book-prose blockquote styles).
+  if (hasFullBook) {
+    bodyParts.push(
+      '',
+      '## Full Book',
+      '',
+      '> 🔒 **The full text of this book is kept private.**',
+      '>',
+      `> Kyle keeps a complete personal copy of *${wfm.title}* in his private knowledge base for reference and study. Out of respect for the author\'s copyright, the full text isn\'t published here — only the highlights, notes, and connections above.`,
+    );
+  }
 
   const output = serializeFrontmatter(newFm) + '\n\n' + bodyParts.join('\n') + '\n';
 
