@@ -6,7 +6,7 @@ rating: 2
 quake: false
 tags:
   - "city-building"
-last_imported: "2026-07-19"
+last_imported: "2026-07-20"
 key_takeaways_status: "written"
 ---
 

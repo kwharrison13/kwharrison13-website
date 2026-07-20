@@ -8,7 +8,7 @@ tags:
   - "technological-innovation"
   - "republic-of-letters"
   - "open-source-knowledge"
-last_imported: "2026-07-19"
+last_imported: "2026-07-20"
 key_takeaways_status: "written"
 ---
 

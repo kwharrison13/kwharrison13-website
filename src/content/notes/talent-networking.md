@@ -99,7 +99,7 @@ Each cell of the matrix gets mapped for both **Individuals** and **Companies**:
 - **Dev / Engineering**
   - [Product](/notes/product)
   - [Engineering](/notes/engineering)
-  - Design
+  - [Design](/notes/design)
 - **[Operations](/notes/operations)**
   - CEO
   - COO
