@@ -34,7 +34,7 @@ related:
   - "[[Talent]]"
   - "[[The Power Law: Venture Capital & the Making of the New Future]]"
   - "[[Essentialism]]"
-  - "[[Peter Thiel's Religion]]"
+  - "[[raw/clippings/Peter Thiel's Religion]]"
   - "[[Transhumanism]]"
 ---
 

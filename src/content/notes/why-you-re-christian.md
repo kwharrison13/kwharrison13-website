@@ -93,7 +93,7 @@ related:
 
 ## How it connects
 
-- [David Perell](/notes/david-perell) — author; pairs with his other faith-and-ideas pieces (e.g. [Peter Thiel's Religion](/notes/peter-thiel-s-religion)).
+- [David Perell](/notes/david-perell) — author; pairs with his other faith-and-ideas pieces (e.g. wiki/long-reads/Peter Thiel's Religion).
 - [Christianity](/notes/christianity) / [Morality](/notes/morality) / [First Principles](/notes/first-principles-thinking) — the core argument: examine the lineage of your moral beliefs.
 - [Tom Holland](/notes/tom-holland) — the "most transformative development in Western history" framing of Christianity's legacy.
 - [Fyodor Dostoevsky](/notes/fyodor-dostoevsky) / [Pascal's Wager](/notes/pascal-s-wager) — the wager that a world without God can't ground righteousness.
