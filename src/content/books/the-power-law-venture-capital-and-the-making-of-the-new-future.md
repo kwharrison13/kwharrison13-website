@@ -7,7 +7,7 @@ quake: false
 tags:
   - "capital-allocation"
   - "republic-of-letters"
-last_imported: "2026-07-20"
+last_imported: "2026-07-21"
 key_takeaways_status: "written"
 ---
 

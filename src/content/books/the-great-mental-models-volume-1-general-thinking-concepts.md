@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "open-source-knowledge"
-last_imported: "2026-07-20"
+last_imported: "2026-07-21"
 key_takeaways_status: "written"
 ---
 

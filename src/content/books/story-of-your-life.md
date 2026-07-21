@@ -6,7 +6,7 @@ rating: 4
 quake: false
 tags:
   - "historical-futurism"
-last_imported: "2026-07-20"
+last_imported: "2026-07-21"
 key_takeaways_status: "written"
 ---
 
