@@ -9,6 +9,7 @@ last_updated_by: "agent"
 sources:
   - "wiki/books/Amazon Unbound.md"
   - "wiki/diligence-research/Watershed Climate Diligence — 2021.md"
+  - "raw/archive/clippings/The Rebel Alliance.md"
 tags:
   - "cloud-infrastructure"
 aliases:
@@ -21,6 +22,7 @@ related:
   - "[[Jeff Bezos]]"
   - "[[Subscription Economy]]"
   - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
+  - "[[The Rebel Alliance]]"
 ---
 
 # AWS
@@ -41,3 +43,4 @@ In the SaaS-economics thread, AWS is the reason software gross margins are so hi
 - Noname Security - Diligence — API-security positioning relative to AWS API Gateway; AWS "bloat."
 - September 17th, 2021 — Wiz.io Pre-Brief (Shardul Shah) — AWS scale/fragmentation as the security opening for Wiz.
 - VC Contagion - Research — AWS/Snowflake usage softness as a TAM-inflation tell.
+- [The Rebel Alliance](/notes/the-rebel-alliance) — cited as historical precedent: a $100B+ integrated cloud platform that still spawned a multi-billion-dollar ecosystem of specialist companies above it.

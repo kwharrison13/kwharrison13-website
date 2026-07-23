@@ -4,10 +4,11 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-07-23"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Open-Source Knowledge - Research.md"
+  - "wiki/long-reads/Who’s Afraid of Chinese Models?.md"
 tags:
   - "writers"
   - "technology"
@@ -15,6 +16,7 @@ tags:
 aliases:
   - "Ben Thompson"
 related:
+  - "[[Who’s Afraid of Chinese Models?]]"
   - "[[Stratechery]]"
   - "[[Open-Source Knowledge - Research]]"
   - "[[Contrary Research]]"
@@ -43,6 +45,7 @@ related:
 
 ## Mentioned in
 
+- [Who’s Afraid of Chinese Models?](/notes/who-s-afraid-of-chinese-models) — his own Stratechery piece arguing frontier-lab panic over Chinese open models is mostly overblown, except on cybersecurity.
 - Open-Source Knowledge - Research — Stratechery as a depth vs. scale contrast.
 - [Aggregation Theory (07.21.15)](/notes/aggregation-theory-07-21-15) — his founding [Aggregation Theory](/notes/aggregation-theory) essay; Kyle read it on June 10th, 2020.
 - [Defining Aggregators (09.26.17)](/notes/defining-aggregators-09-26-17) — his formal definition of aggregators (three characteristics + Level 1/2/3 taxonomy).

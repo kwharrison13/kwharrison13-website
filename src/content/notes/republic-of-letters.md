@@ -9,6 +9,7 @@ last_updated_by: "agent"
 sources:
   - "Kyle's Roam research graph — 'The State of Startup Media' notes"
   - "raw/books/reinventing-knowledge-from-alexandria-to-the-internet.md"
+  - "raw/archive/clippings/Does anything I write matter anymore?.md"
 tags:
   - "republic-of-letters"
   - "historical-futurism"
@@ -27,6 +28,7 @@ related:
   - "[[Storytelling]]"
   - "[[My Bookstore]]"
   - "[[American Sphinx]]"
+  - "[[Does Anything I Write Matter Anymore?]]"
 ---
 
 # Republic of Letters
@@ -53,6 +55,7 @@ Per *Reinventing Knowledge*, every Republic-of-Letters period shares these — a
 - [The State of Startup Media](/essays/the-state-of-startup-media) — the whole essay; subtitle is literally *A Newfound Republic of Letters*.
 - The State of Startup Media - Research — the research backbone, with the ten illustrating quotes.
 - [Reinventing Knowledge: From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — the source frame; "the single most recurring framing" in Kyle's marginalia.
+- [Does Anything I Write Matter Anymore?](/notes/does-anything-i-write-matter-anymore) — Noah Smith explicitly calls the early-2010s blogosphere "a little 'republic of letters'," now eroded by Substack-driven monetization siloing.
 
 ## Related concepts
 

@@ -9,7 +9,7 @@ url: "https://noahpinion.substack.com/p/the-build-nothing-country"
 source_published: "2023-02-27"
 confidence: "high"
 created: "2026-06-17"
-updated: "2026-06-26"
+updated: "2026-07-23"
 last_updated_by: "agent"
 sources:
   - "https://noahpinion.substack.com/p/the-build-nothing-country"
@@ -30,6 +30,7 @@ related:
   - "[[Progress Studies]]"
   - "[[It's Time To Build]]"
   - "[[Noahpinion]]"
+  - "[[The American Age Was The Human Age]]"
 ---
 
 ## Key Highlights
@@ -54,3 +55,4 @@ related:
 - [Climate Change](/notes/climate-change) — relates to the green-energy section, where solar and wind face NIMBY opposition despite the $400B IRA allocation.
 - [Distributed Energy Model](/notes/distributed-energy-model) — bears on the transmission-line and renewable-buildout obstacles the essay cites.
 - [Progress Studies](/notes/progress-studies) — the wider question of why a wealthy country has lost the capacity to build the future.
+- [The American Age Was The Human Age](/notes/the-american-age-was-the-human-age) — Smith's 250th-anniversary essay explicitly calls back to this piece's "equilibrium of sclerosis" diagnosis.

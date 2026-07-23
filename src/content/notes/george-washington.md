@@ -9,6 +9,7 @@ last_updated_by: "agent"
 sources:
   - "wiki/books/American Sphinx.md"
   - "wiki/books/John Quincy Adams.md"
+  - "raw/archive/clippings/Neil Gorsuch The Heroes of 1776.md"
 tags: []
 aliases:
   - "George Washington"
@@ -16,6 +17,7 @@ related:
   - "[[American Sphinx]]"
   - "[[John Quincy Adams]]"
   - "[[Founders' Son]]"
+  - "[[Neil Gorsuch: The Heroes of 1776]]"
 ---
 
 # George Washington
@@ -28,3 +30,4 @@ Across both founding-era biographies in the wiki, Washington appears as a stabil
 
 - [American Sphinx](/books/american-sphinx) — cited as the one founder immune to the conspiratorial mentality of 1790s politics.
 - [John Quincy Adams](/books/john-quincy-adams) — the model for the "stood for, not ran for" ethic of office-seeking and a benchmark of presidential stature.
+- [Neil Gorsuch: The Heroes of 1776](/notes/neil-gorsuch-the-heroes-of-1776) — quoted describing the bloodied, shoeless march to Valley Forge.

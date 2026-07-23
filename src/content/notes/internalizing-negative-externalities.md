@@ -51,5 +51,5 @@ related:
 - [The Square Deal](/notes/the-square-deal) — held up as proof that internalizing externalities and turning a profit are both achievable.
 - [The Value Cycle](/essays/the-value-cycle) — Kyle's essay that frames the Gross vs. Net Value Creation distinction at the heart of this page.
 - [Venture Capital](/notes/venture-capital) — the target of critiques that measure tech in Net rather than Gross Value Creation terms.
-- [Facebook](/notes/facebook) — cited as a product with large Gross value but fuzzier Net value once externalities are weighed.
+- [Facebook](/notes/meta-company) — cited as a product with large Gross value but fuzzier Net value once externalities are weighed.
 - [Capital Allocation](/notes/capital-allocation) — the broader frame for weighing costs an organization imposes versus the value it creates.

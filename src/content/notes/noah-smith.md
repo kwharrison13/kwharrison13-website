@@ -4,13 +4,18 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-26"
+updated: "2026-07-23"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/It's Time To Build... But Build What - Research.md"
   - "wiki/essays-research/What Is An Investor - Research.md"
   - "wiki/long-reads/The Build-Nothing Country.md"
   - "wiki/long-reads/It's Time To Build.md"
+  - "raw/archive/clippings/Does anything I write matter anymore?.md"
+  - "raw/archive/clippings/I have never been working class.md"
+  - "raw/archive/clippings/Stop screeching about immigration, and get smart about it.md"
+  - "raw/archive/clippings/The American age was the human age.md"
+  - "raw/archive/clippings/The American suburbs are better than you think.md"
 tags:
   - "technological-innovation"
   - "language-of-discourse"
@@ -28,6 +33,11 @@ related:
   - "[[The Selfie Generation]]"
   - "[[Venture Capital]]"
   - "[[Del Johnson]]"
+  - "[[Does Anything I Write Matter Anymore?]]"
+  - "[[I Have Never Been Working Class]]"
+  - "[[Stop Screeching About Immigration, And Get Smart About It]]"
+  - "[[The American Age Was The Human Age]]"
+  - "[[The American Suburbs Are Better Than You Think]]"
 ---
 
 # Noah Smith
@@ -46,3 +56,8 @@ Smith also anchors part of [What Is An Investor](/essays/what-is-an-investor). K
 - It's Time To Build... But Build What - Research — appears in the techno-optimism reading notes.
 - [Knightian Uncertainty](/notes/knightian-uncertainty) / [Frank Knight](/notes/frank-knight) — the uncertainty distinction Smith invokes for venture.
 - [Techno-Optimism](/notes/techno-optimism) / [Venture Capital](/notes/venture-capital) — the broader threads his writing feeds.
+- [Does Anything I Write Matter Anymore?](/notes/does-anything-i-write-matter-anymore) — Smith's reflection on punditry's declining leverage under populism, Substack monetization, and AI content saturation.
+- [I Have Never Been Working Class](/notes/i-have-never-been-working-class) — Smith's argument that American class is about future earning potential, not present-day snapshot, applied to critique PMC socialism and manufactured "working class" champions.
+- [Stop Screeching About Immigration, And Get Smart About It](/notes/stop-screeching-about-immigration-and-get-smart-about-it) — his case for skilled, legal immigration as the antidote to America's fertility crisis.
+- [The American Age Was The Human Age](/notes/the-american-age-was-the-human-age) — his 250th-anniversary essay on American sclerosis, declining patriotism, and the looming end of "the human age" under AI.
+- [The American Suburbs Are Better Than You Think](/notes/the-american-suburbs-are-better-than-you-think) — his evidence-based defense of suburbia against the urbanist critique on commutes and loneliness.

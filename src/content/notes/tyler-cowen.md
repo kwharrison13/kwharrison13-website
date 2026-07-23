@@ -12,6 +12,7 @@ sources:
   - "wiki/books/Talent (Book).md"
   - "wiki/books/Boom — Bubbles & The End of Stagnation.md"
   - "wiki/concepts/Progress Studies.md"
+  - "raw/archive/clippings/Does anything I write matter anymore?.md"
 tags:
   - "economics"
   - "education"
@@ -27,6 +28,7 @@ related:
   - "[[Daniel Gross]]"
   - "[[City Building]]"
   - "[[AI Cheating in Education]]"
+  - "[[Does Anything I Write Matter Anymore?]]"
 ---
 
 # Tyler Cowen
@@ -44,3 +46,4 @@ In Kyle's [We Need a Renaissance of Rhetoric](/essays/we-need-a-renaissance-of-r
 - [Boom — Bubbles & The End of Stagnation](/books/boom-bubbles-and-the-end-of-stagnation) — his *Great Stagnation* thesis as the diagnostic backdrop for the book's argument.
 - [Progress Studies](/notes/progress-studies) — co-namer of the movement (with Patrick Collison) in the 2019 Atlantic essay.
 - [AI Cheating in Education](/notes/ai-cheating-in-education) · [City Building](/notes/city-building) — adjacent concept threads he anchors.
+- [Does Anything I Write Matter Anymore?](/notes/does-anything-i-write-matter-anymore) — Noah Smith invokes Cowen's "writing for the AIs" framing.

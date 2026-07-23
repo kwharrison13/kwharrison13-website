@@ -50,7 +50,7 @@ related:
 
 > "Chance favors the prepared mind." — [Louis Pasteur](/notes/louis-pasteur)
 
-> "If [Facebook](/notes/facebook) connects you with people from your past, Twitter connects you with people in your future."
+> "If [Facebook](/notes/meta-company) connects you with people from your past, Twitter connects you with people in your future."
 
 > "Always dress well enough to walk into a bathroom at a hotel you're not staying at and get away with it." (the "Hotel Bathroom" dress code)
 

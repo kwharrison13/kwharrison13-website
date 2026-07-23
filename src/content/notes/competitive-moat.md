@@ -8,6 +8,7 @@ updated: "2026-06-26"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Berkshire Hathaway Annual Letters.md"
+  - "raw/archive/clippings/Invisible Companies.md"
 tags: []
 aliases:
   - "Competitive Moat"
@@ -19,6 +20,7 @@ related:
   - "[[Capital Allocation]]"
   - "[[Buy and Never Sell]]"
   - "[[Skunk Works]]"
+  - "[[Invisible Companies]]"
 ---
 
 # Competitive Moat
@@ -32,3 +34,4 @@ Two qualifications run through the notes. First, the moat must be *enduring* —
 ## Where this appears
 
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — the moat-around-the-castle concept (GEICO cost advantage, Coca-Cola/Gillette brands), the "enduring moat" criterion, "widening the moat" over short-term earnings, and Kyle's margins/retention generalization.
+- [Invisible Companies](/notes/invisible-companies) — the counterpoint case: moat-less businesses (funeral parlors, parking lots, vertical-market software) that sustain outsized profits anyway, because no competitor ever notices the opportunity ("competitive neglect").

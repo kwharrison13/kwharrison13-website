@@ -8,7 +8,7 @@ tags:
   - "capital-allocation"
   - "republic-of-letters"
   - "open-source-knowledge"
-last_imported: "2026-07-21"
+last_imported: "2026-07-23"
 key_takeaways_status: "written"
 ---
 
@@ -36,6 +36,12 @@ _[The Almanack of Naval Ravikant](/books/the-almanack-of-naval-ravikant)_ compil
 The complete text of _The Almanack of Naval Ravikant_ is archived privately in this wiki and isn't reproduced on the public site, out of respect for the authors' copyright. Every idea and word belongs to [Naval Ravikant](/notes/naval-ravikant) and his editor Eric Jorgenson.
 
 The book is offered **free** in digital / Kindle form at [navalmanack.com](https://www.navalmanack.com/), and in print on [Amazon](https://www.amazon.com/Almanack-Naval-Ravikant-Wealth-Happiness/dp/1544514212).
+
+## Full Book
+
+> 🔒 **The full text of this book is kept private.**
+>
+> Kyle keeps a complete personal copy of *The Almanack of Naval Ravikant* in his private knowledge base for reference and study. Out of respect for the author's copyright, the full text isn't published here — only the highlights, notes, and connections above.
 
 ## Full Book
 

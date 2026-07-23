@@ -4,9 +4,10 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-26"
+updated: "2026-07-23"
 last_updated_by: "agent"
-sources: []
+sources:
+  - "raw/archive/clippings/Peter Thiel's Religion.md"
 tags:
   - "writing"
   - "open-source-knowledge"
@@ -25,6 +26,8 @@ related:
   - "[[Poor Charlie's Almanack]]"
   - "[[The New City]]"
   - "[[Marshall McLuhan]]"
+  - "[[Peter Thiel's Religion]]"
+  - "[[Peter Thiel]]"
 ---
 
 # David Perell
@@ -37,6 +40,7 @@ He is also the named author of the [Historical Futurism](/notes/historical-futur
 
 ## Where this appears
 
+- [Peter Thiel's Religion](/notes/peter-thiel-s-religion) — Perell's own long-form profile of [Peter Thiel](/notes/peter-thiel), reading Thiel's worldview through [Rene Girard](/notes/rene-girard)'s Mimetic Theory and Christian eschatology; his most extensive single piece in Kyle's corpus.
 - [The Death of Expertise](/books/the-death-of-expertise) — the "translate academic research for everyday people" tweet, tied to the expert-to-public translation gap.
 - [The Great Mental Models Volume 1 — General Thinking Concepts](/books/the-great-mental-models-volume-1-general-thinking-concepts) — Kyle note on Perell's "knowledge workers should train like athletes."
 - [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — a Sam Walton "willing to change his mind" quote sourced from a Perell article.

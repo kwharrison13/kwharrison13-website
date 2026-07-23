@@ -4,7 +4,7 @@ type: "company"
 publish: false
 confidence: "medium"
 created: "2026-06-19"
-updated: "2026-06-26"
+updated: "2026-07-23"
 last_updated_by: "agent"
 sources:
   - "wiki/long-reads/Planning for AGI and Beyond.md"
@@ -12,6 +12,10 @@ sources:
   - "wiki/essays-research/The Cogsec Chronicles - Research.md"
   - "wiki/meetings/October 16th, 2023 — Peter Nixey (Intentional.io).md"
   - "wiki/tweets/Heard From LPs This Week... (tweet).md"
+  - "wiki/long-reads/America’s Open-Model Paradox.md"
+  - "wiki/long-reads/Another Open Source AI Debate.md"
+  - "wiki/long-reads/Let AI Burn.md"
+  - "wiki/long-reads/Who’s Afraid of Chinese Models?.md"
 tags: []
 aliases:
   - "OpenAI"
@@ -21,6 +25,9 @@ related:
   - "[[The Meme Economy - Research]]"
   - "[[The Tail That Wags The Dog - Research]]"
   - "[[Anthropic]]"
+  - "[[America’s Open-Model Paradox]]"
+  - "[[Who’s Afraid of Chinese Models?]]"
+  - "[[Let AI Burn]]"
 ---
 
 # OpenAI
@@ -41,3 +48,6 @@ The **darker register** runs through *The Cogsec Chronicles - Research*, which c
 - Heard From LPs This Week... (tweet) — the OpenAI/Anthropic access fever-pitch among LPs.
 - January 24th, 2024 — Outreach for SF Trip — an SF-trip outreach contact at OpenAI.
 - November 7th, 2022 — Cleared Email — GPT-3 as an LLM vendor that Cohere/Nvidia tried to displace.
+- [America’s Open-Model Paradox](/notes/america-s-open-model-paradox) — named as a Western frontier lab whose terms of service block lawful distillation, part of the argument that Chinese open weights are becoming the default teacher model instead.
+- [Who’s Afraid of Chinese Models?](/notes/who-s-afraid-of-chinese-models) — one of the two compute-constrained frontier labs (with Anthropic) currently able to charge premium inference prices; also named among labs facing Chinese open-model competitive pressure.
+- [Let AI Burn](/notes/let-ai-burn) — central subject of Ed Zitron's AI-bubble critique; cited (with Anthropic) as ~89% of the largest AI companies' revenue, and Sam Altman's floated 5%-equity proposal is analyzed.

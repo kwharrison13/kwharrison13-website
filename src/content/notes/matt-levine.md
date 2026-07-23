@@ -4,17 +4,19 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-19"
-updated: "2026-06-26"
+updated: "2026-07-23"
 last_updated_by: "agent"
 sources:
   - "wiki/people/Adam Neumann.md"
   - "wiki/meetings/August 29th, 2022 — Anna-Sofia Lesiv.md"
+  - "wiki/long-reads/Untruth Machines.md"
 tags: []
 aliases:
   - "Matt Levine"
 related:
   - "[[Adam Neumann]]"
   - "[[Anna-Sofia Lesiv]]"
+  - "[[Untruth Machines]]"
 ---
 
 # Matt Levine
@@ -27,3 +29,4 @@ Financial commentator and author of Bloomberg's "Money Stuff" column, cited acro
 
 - [Adam Neumann](/notes/adam-neumann) — Kyle quotes Levine's "Money Stuff" line on Neumann making money by acting crazy around Masayoshi Son
 - August 29th, 2022 — Anna-Sofia Lesiv — cited as the model for writing about complex financial concepts so they "feel obvious," for laymen and experts alike
+- [Untruth Machines](/notes/untruth-machines) — his newsletter item on the economics of fake Spotify streaming fraud (bots generating ~1,000 streams for $1 against artist payouts of a few dollars per 1,000 real streams)

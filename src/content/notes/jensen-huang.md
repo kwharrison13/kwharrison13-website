@@ -4,16 +4,18 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-19"
-updated: "2026-06-26"
+updated: "2026-07-23"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Chip War.md"
+  - "wiki/long-reads/Who’s Afraid of Chinese Models?.md"
 tags: []
 aliases:
   - "Jensen Huang"
 related:
   - "[[Chip War]]"
   - "[[Nvidia]]"
+  - "[[Who’s Afraid of Chinese Models?]]"
 ---
 
 # Jensen Huang
@@ -27,3 +29,4 @@ He is also cited in [Chip War](/books/chip-war) among the industry luminaries �
 ## Where this appears
 
 - [Chip War](/books/chip-war) — credited with the CUDA bet that opened GPUs to general-purpose computing, and quoted as one of the executives declaring Moore's Law dead.
+- [Who’s Afraid of Chinese Models?](/notes/who-s-afraid-of-chinese-models) — his framing of Nvidia GPUs as "token factories" (tokens-per-second, cost-per-token metrics), engaged by Ben Thompson's argument that reasoning-model token inefficiency complicates that framing.

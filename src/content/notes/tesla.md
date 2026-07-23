@@ -4,13 +4,14 @@ type: "company"
 publish: false
 confidence: "medium"
 created: "2026-06-19"
-updated: "2026-06-26"
+updated: "2026-07-23"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Elon Musk — Tesla, SpaceX, and the Quest for a Fantastic Future.md"
   - "wiki/people/Elon Musk.md"
   - "wiki/books/Walt Disney and the Promise of Progress City.md"
   - "wiki/essays-research/Renegade Spotlight — Lowercarbon - Research.md"
+  - "raw/archive/clippings/Elon Musk Discreetly Bought a $1 Billion Gas Turbine Company to Power AI. Here's What it Means for SpaceX Investors..md"
 tags:
   - "electric-vehicles"
   - "energy"
@@ -39,3 +40,4 @@ Tesla also appears in the Renegade Spotlight — Lowercarbon - Research notes as
 - [Elon Musk](/notes/elon-musk) — Tesla as the flagship of Musk's operating record (incl. the Shanghai Gigafactory contrast in [Amazon Unbound](/books/amazon-unbound)).
 - [Walt Disney and the Promise of Progress City](/books/walt-disney-and-the-promise-of-progress-city) — Kyle's note that Disney needs a Walt-caliber CEO and a Tesla partnership or acquisition.
 - Renegade Spotlight — Lowercarbon - Research — Tesla's early-adopter-to-mainstream shift as a climate-adoption case study.
+- [Elon Musk Discreetly Bought a $1 Billion Gas Turbine Company to Power AI. Here's What it Means for SpaceX Investors.](/notes/elon-musk-discreetly-bought-a-1-billion-gas-turbine-company-to-power-ai-here-s-what-it-means-for-spacex-investors) — cited as Musk's prior renewable-energy vehicle (2016 SolarCity acquisition, solar roof) as a contrast to SpaceX's natural-gas-reliant AI data centers.

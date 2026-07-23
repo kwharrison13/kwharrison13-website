@@ -43,3 +43,4 @@ In the venture-critique thread, Palantir is the cautionary case. The VC Contagio
 - [Alex Karp](/notes/alex-karp) — co-founder and CEO of Palantir
 - [Peter Thiel](/notes/peter-thiel) — co-founder of Palantir
 - September 7th, 2021 — Anshul Gupta (Actively) — Palantir (with C3.ai) invoked as the heavy-services trap a startup must avoid by going self-serve
+- [Peter Thiel's Religion](/notes/peter-thiel-s-religion) — named alongside DeepMind as an example of Thiel's Founders Fund investing in companies with little competition, consistent with his monopoly-over-competition philosophy

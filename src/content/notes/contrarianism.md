@@ -47,6 +47,7 @@ related:
 - [Conviction-Led Contrarianism](/essays/conviction-led-contrarianism) — the title concept.
 - Conviction-Led Contrarianism - Research — research notes.
 - [The Unusual Ambitions of Chamath Palihapitiya](/notes/the-unusual-ambitions-of-chamath-palihapitiya) — [Chamath Palihapitiya](/notes/chamath-palihapitiya) framed as someone whose gift is "articulating non-mainstream ideas with vision and logic."
+- [Peter Thiel's Religion](/notes/peter-thiel-s-religion) — Thiel's "don't copy your neighbors" distilled from [Rene Girard](/notes/rene-girard)'s Mimetic Theory; Jeff Bezos: "contrarians are usually wrong," Thiel's reply: "Contrarians may be mostly wrong, but when they get it right, they get it really right."
 
 ## Related concepts
 

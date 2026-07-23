@@ -4,10 +4,11 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-07-23"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Open-Source Knowledge - Research.md"
+  - "wiki/long-reads/Who’s Afraid of Chinese Models?.md"
 tags:
   - "media"
   - "technology"
@@ -15,6 +16,7 @@ tags:
 aliases:
   - "Stratechery"
 related:
+  - "[[Who’s Afraid of Chinese Models?]]"
   - "[[Ben Thompson]]"
   - "[[Colossus]]"
   - "[[Contrary Research]]"
@@ -41,6 +43,7 @@ related:
 
 ## Where it shows up
 
+- [Who’s Afraid of Chinese Models?](/notes/who-s-afraid-of-chinese-models) — Ben Thompson's July 2026 piece on Chinese open-weight AI models and marginal-cost economics.
 - Open-Source Knowledge - Research — depth vs. scale.
 
 ## Related concepts

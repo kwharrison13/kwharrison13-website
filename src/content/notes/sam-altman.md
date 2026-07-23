@@ -6,7 +6,8 @@ confidence: "medium"
 created: "2026-06-16"
 updated: "2026-06-26"
 last_updated_by: "agent"
-sources: []
+sources:
+  - "wiki/long-reads/Let AI Burn.md"
 tags: []
 aliases:
   - "Sam Altman"
@@ -19,6 +20,7 @@ related:
   - "[[Talent]]"
   - "[[Nuclear Energy]]"
   - "[[The $1B Rorschach Test - Research]]"
+  - "[[Let AI Burn]]"
 ---
 
 # Sam Altman
@@ -39,3 +41,4 @@ On the optimistic side, Altman anchors the [Abundance](/notes/abundance) pole of
 - [Talent](/books/talent) — quoted on founder idiosyncrasies and talent signals (fast email, improvement across meetings)
 - Networked Conviction — Roam + Investing - Research — his "How to Invest in Startups" on spotting greatness early
 - [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) / [Reinventing Knowledge: From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — named in Kyle's reading notes
+- [Let AI Burn](/notes/let-ai-burn) — his floated proposal to hand 5% of OpenAI equity (~$42 billion) to a public vehicle is analyzed and dismissed by Ed Zitron as not a meaningful bailout.

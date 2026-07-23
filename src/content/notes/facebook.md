@@ -50,3 +50,4 @@ Meta/Facebook recurs across Kyle's notes in three registers. **As a credential a
 - [Matt Schulman](/notes/matt-schulman) — ex-Facebook, founder of Pave
 - Pave Diligence — 2021, Watershed Climate Diligence — 2021 — diligence dossiers referencing Facebook backgrounds
 - [Microsoft](/notes/microsoft), [Starburst](/notes/starburst) — related company pages
+- [Peter Thiel's Religion](/notes/peter-thiel-s-religion) — Thiel's $500,000 seed investment, partly informed by [Rene Girard](/notes/rene-girard)'s Mimetic Theory ("doubly Mimetic" — it spread by word of mouth and is about word of mouth)

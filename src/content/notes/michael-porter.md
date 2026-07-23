@@ -9,6 +9,7 @@ last_updated_by: "agent"
 sources:
   - "wiki/books/No Apology.md"
   - "wiki/people/Nathan Baschez.md"
+  - "raw/archive/clippings/Invisible Companies.md"
 tags: []
 aliases:
   - "Michael Porter"
@@ -16,6 +17,7 @@ related:
   - "[[No Apology]]"
   - "[[Nathan Baschez]]"
   - "[[The Competitive Advantage of Nations]]"
+  - "[[Invisible Companies]]"
 ---
 
 # Michael Porter
@@ -28,3 +30,4 @@ Porter appears across the wiki as the authority on competitive strategy and nati
 
 - [No Apology](/books/no-apology) — cited twice (stringent standards enhancing national advantage; education/training as decisive) as an authority in Romney's economic argument.
 - [Nathan Baschez](/notes/nathan-baschez) — invokes Porter's "bargaining power of suppliers" to argue that weakening labor power cost workers compounding equity over time.
+- [Invisible Companies](/notes/invisible-companies) — his barriers-to-entry framework is cited (alongside Jay Barney's) as one of the two classic explanations the piece argues can't account for "invisible companies."

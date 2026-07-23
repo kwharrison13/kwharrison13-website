@@ -75,7 +75,7 @@ related:
 - **Curate your feed**
   - To get better at writing: "Read good writers." Perell looks at the books his favorite authors read.
   - Follow the people that people you like follow; unfollow anyone who stresses or spams you.
-  - Twitter has fewer users than [Instagram](/notes/instagram)/[Facebook](/notes/facebook) — it takes work to build the feed you want, but it pays off.
+  - Twitter has fewer users than [Instagram](/notes/instagram)/[Facebook](/notes/meta-company) — it takes work to build the feed you want, but it pays off.
 - **Your Twitter presence**
   - Your pinned tweet introduces people to you. [Note-taking](/notes/note-taking) is a conversation with your past self.
   - Every tweet = a single idea; "your presentation is as important as your content." First line = the subject line of an email.

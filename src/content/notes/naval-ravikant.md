@@ -10,6 +10,7 @@ sources:
   - "wiki/essays-research/Conviction-Led Contrarianism - Research.md"
   - "https://www.navalmanack.com/"
   - "raw/archive/clippings/Naval Ravikant- The Angel Philosopher [The Knowledge Project Ep. #18.md"
+  - "raw/archive/clippings/The Rebel Alliance.md"
 tags:
   - "company-building"
   - "language-of-discourse"
@@ -24,6 +25,7 @@ related:
   - "[[The Almanack of Naval Ravikant]]"
   - "[[Atomic Habits]]"
   - "[[Naval Ravikant — The Angel Philosopher]]"
+  - "[[The Rebel Alliance]]"
 ---
 
 # Naval Ravikant
@@ -42,3 +44,4 @@ His aphorisms also surface inside Kyle's book notes. [Atomic Habits](/books/atom
 - [The Almanack of Naval Ravikant](/books/the-almanack-of-naval-ravikant) — the compiled book of his thinking, in Kyle's read library
 - [AngelList](/notes/angellist) — the company he co-founded, central to his identity here
 - [Naval Ravikant — The Angel Philosopher](/notes/naval-ravikant-the-angel-philosopher) — the Knowledge Project (Shane Parrish) interview clipping
+- [The Rebel Alliance](/notes/the-rebel-alliance) — thanked in the piece's acknowledgments for feedback on drafts

@@ -4,17 +4,20 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-16"
-updated: "2026-06-25"
+updated: "2026-07-23"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Berkshire Hathaway Annual Letters.md"
+  - "raw/archive/clippings/The American age was the human age.md"
 tags: []
 aliases:
   - "Patriotism"
   - "patriotism"
 related:
   - "[[Berkshire Hathaway Annual Letters]]"
-reference_count: 1
+  - "[[The American Age Was The Human Age]]"
+  - "[[Noah Smith]]"
+reference_count: 2
 ---
 
 # Patriotism
@@ -23,6 +26,9 @@ In the [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-lett
 
 For Buffett this is less flag-waving than an investing thesis: long-term faith in American productivity and human potential as the bedrock reason to stay invested and ignore the "prophets of doom."
 
+A more pessimistic data point comes from [Noah Smith](/notes/noah-smith)'s [The American Age Was The Human Age](/notes/the-american-age-was-the-human-age): as of mid-2026, Americans report less pride in their nation than people in any other major world region — a reversal from America's historically unusual patriotism, and part of Smith's broader argument that political factions are now organized more around mutual hatred than any positive vision of the country's future.
+
 ## Where this appears
 
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — Buffett's optimism about the long-run American system as a counter to deficit fears and doom-mongering
+- [The American Age Was The Human Age](/notes/the-american-age-was-the-human-age) — Americans now less patriotic than any other major world region, per Smith's 250th-anniversary essay

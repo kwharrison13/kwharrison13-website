@@ -37,7 +37,7 @@ related:
 ## Key claims
 
 - **Travel and vacation are polar opposites.** Vacation is a hedonistic escape — fine dining, ego-driven luxury, beaches with fiction and margaritas — that doesn't yield the intangibles of a life well lived: worldly wisdom, moving experiences, the windy journey toward your authentic self (Travel vs. Vacation, Think Month).
-- **Avoiding discomfort costs you the growth.** "By avoiding uncomfortable local experiences, we miss opportunities for critical self-examination and personal growth." On autopilot we wrap our minds in [Netflix](/notes/netflix), [Facebook](/notes/facebook), and [Snapchat](/notes/snapchat) instead of reflecting ([Self-Reflection](/notes/self-reflection)).
+- **Avoiding discomfort costs you the growth.** "By avoiding uncomfortable local experiences, we miss opportunities for critical self-examination and personal growth." On autopilot we wrap our minds in [Netflix](/notes/netflix), [Facebook](/notes/meta-company), and [Snapchat](/notes/snapchat) instead of reflecting ([Self-Reflection](/notes/self-reflection)).
 - **Stay long enough to be changed.** Lasting benefit emerges only when you spend enough time in one place to fully embrace it — which is why we fall in love with the places we travel; like lovers, they become permanent memories that shape us.
 - **"Well-traveled" is a mindset, not a passport-stamp count.** It's earned through momentous experiences that foster introspection — a mental journey that doesn't begin until we divorce ourselves from unquestioned habits and routines.
 

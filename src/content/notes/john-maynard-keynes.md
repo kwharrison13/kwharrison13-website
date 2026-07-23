@@ -12,6 +12,7 @@ sources:
   - "wiki/books/Double Entry.md"
   - "wiki/books/Catastrophic Care.md"
   - "wiki/books/Poor Charlie's Almanack.md"
+  - "raw/archive/clippings/Does anything I write matter anymore?.md"
 tags:
   - "economics"
 aliases:
@@ -24,6 +25,7 @@ related:
   - "[[Catastrophic Care]]"
   - "[[Universal Basic Income]]"
   - "[[GDP]]"
+  - "[[Does Anything I Write Matter Anymore?]]"
 ---
 
 # John Maynard Keynes
@@ -42,3 +44,4 @@ He is not treated uncritically. [The Man From The Future](/books/the-man-from-th
 - [Catastrophic Care](/books/catastrophic-care) — the closing "When the facts change, I change my mind" epigraph framing the author's about-face.
 - [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) — a Keynes biography among Munger's father's absorbed reading; the conventional-failure framing.
 - The Hardening Of The Great Softening - Research — the 15-hour-week thread in Kyle's essay research.
+- [Does Anything I Write Matter Anymore?](/notes/does-anything-i-write-matter-anymore) — Noah Smith opens with Keynes's "slaves of some defunct economist" line to argue for the power of idea injection.

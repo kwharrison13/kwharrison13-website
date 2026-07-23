@@ -74,7 +74,7 @@ A textbook super-angel cap table: rather than a lead institutional check, Pogo s
 | Miguel Burger-Calderon | Founder of Ethyca |
 | [Ryan Delk](/notes/ryan-delk) | Founder of [Primer](/notes/primer) |
 | Ryan Tedder | OneRepublic |
-| [Sam Lessin](/notes/sam-lessin) | VP Product of [Facebook](/notes/facebook) |
+| [Sam Lessin](/notes/sam-lessin) | VP Product of [Facebook](/notes/meta-company) |
 | Scott Belsky | CPO of [Adobe](/notes/adobe) |
 | Siqi Chen | Founder of Runway |
 | Soleio | Head of Design at [Dropbox](/notes/dropbox) |

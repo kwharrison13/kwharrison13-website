@@ -4,10 +4,11 @@ type: "company"
 publish: false
 confidence: "medium"
 created: "2026-06-23"
-updated: "2026-06-26"
+updated: "2026-07-23"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — April 30th, 2020: ~/Downloads/April 30th, 2020.md"
+  - "raw/archive/clippings/Storm clouds gather over America’s financial supremacy.md"
 tags:
   - "fintech"
   - "payments"
@@ -21,6 +22,7 @@ related:
   - "[[The Trillion-Dollar Vision of Dee Hock]]"
   - "[[Leadership]]"
   - "[[Peter Senge]]"
+  - "[[Storm Clouds Gather Over America's Financial Supremacy]]"
 ---
 
 # Visa
@@ -42,3 +44,4 @@ _Links Kyle saved on this topic in his April 30th, 2020 Roam "Quick Capture" log
 - [One from Many](/notes/one-from-many) — Hock's book on building Visa as a chaordic organization (anti-library)
 - [Leadership](/notes/leadership) — where Kyle filed the Dee Hock organizational-thinking thread
 - [Peter Senge](/notes/peter-senge) / [Fifth Discipline](/notes/fifth-discipline) — source of the "most original thinkers on organization" endorsement of Hock
+- [Storm Clouds Gather Over America's Financial Supremacy](/notes/storm-clouds-gather-over-america-s-financial-supremacy) — Visa (with Mastercard) named as exposed to sovereign-payments-system fragmentation, starting with Brazil's Pix and U.S. trade threats over it.

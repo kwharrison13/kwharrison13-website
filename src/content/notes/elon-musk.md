@@ -4,12 +4,14 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-15"
-updated: "2026-06-19"
+updated: "2026-07-23"
 last_updated_by: "agent"
 sources:
   - "raw/readwise/Elon Musk by Ashlee Vance.md"
   - "raw/readwise/The Founders by Jimmy Soni.md"
   - "raw/readwise/Amazon Unbound by Brad Stone.md"
+  - "raw/archive/clippings/Elon Musk Discreetly Bought a $1 Billion Gas Turbine Company to Power AI. Here's What it Means for SpaceX Investors..md"
+  - "raw/archive/clippings/SpaceX Sinks Back to Where It Started.md"
 tags:
   - "tesla"
   - "spacex"
@@ -76,6 +78,8 @@ related:
 - [Elon Musk (Vance)](/books/elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future) — subject of the entire book (the SpaceX / Tesla years)
 - [Amazon Unbound](/books/amazon-unbound) — referenced as parallel founder, Tesla-China contrast, and SpaceX-vs-Blue-Origin context
 - [The Profile Dossier: Elon Musk, the Architect of the Future](/notes/the-profile-dossier-elon-musk-the-architect-of-the-future) — a [Profile](/notes/the-profile) long-form dossier Kyle read in July 2020.
+- [Elon Musk Discreetly Bought a $1 Billion Gas Turbine Company to Power AI. Here's What it Means for SpaceX Investors.](/notes/elon-musk-discreetly-bought-a-1-billion-gas-turbine-company-to-power-ai-here-s-what-it-means-for-spacex-investors) — SpaceX's (Musk-led) quiet ~$1B acquisition of gas turbine supplier APR Energy, despite the company's public solar-first framing.
+- [SpaceX Sinks Back to Where It Started](/notes/spacex-sinks-back-to-where-it-started) — SpaceX shares (Musk's "rocket-satellite-AI venture") slumping to their lowest post-IPO level.
 
 ## Open questions
 

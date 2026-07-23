@@ -10,6 +10,7 @@ sources:
   - "wiki/essays-research/Networked Conviction — Roam + Investing - Research.md"
   - "wiki/long-reads/News in the Age of Abundance.md"
   - "wiki/meetings/November 15th, 2021 — Rob Koyfman (Koyfin).md"
+  - "raw/archive/clippings/Does anything I write matter anymore?.md"
 tags:
   - "publishing"
   - "creator-economy"
@@ -22,6 +23,7 @@ related:
   - "[[Networked Conviction — Roam + Investing - Research]]"
   - "[[Ben Thompson]]"
   - "[[Platforms in an Aggregator World]]"
+  - "[[Does Anything I Write Matter Anymore?]]"
 ---
 
 # Substack
@@ -37,3 +39,4 @@ In [News in the Age of Abundance](/notes/news-in-the-age-of-abundance), Substack
 - Networked Conviction — Roam + Investing - Research — Kyle's own investing newsletter is on Substack; notes treat it as the leading paid-content trend with a discovery/curation gap.
 - [News in the Age of Abundance](/notes/news-in-the-age-of-abundance) — cited as the pro-independent-writer counterpoint to the "subscription media fragments society" critique.
 - November 15th, 2021 — Rob Koyfman (Koyfin) — Koyfin discusses providing its tools to financial Substack writers as a distribution channel.
+- [Does Anything I Write Matter Anymore?](/notes/does-anything-i-write-matter-anymore) — Noah Smith argues Substack's email-subscription incentives silo writers from each other, eroding the cross-writer conversation of the early blogosphere.

@@ -10,6 +10,7 @@ sources:
   - "wiki/books/Berkshire Hathaway Annual Letters.md"
   - "wiki/essays-research/Surviving The Death of Venture Capital - Research.md"
   - "wiki/essays-research/Networked Conviction — Roam + Investing - Research.md"
+  - "raw/archive/clippings/Invisible Companies.md"
 tags: []
 aliases:
   - "Constellation Software"
@@ -17,6 +18,7 @@ related:
   - "[[Berkshire Hathaway Annual Letters]]"
   - "[[Surviving The Death of Venture Capital - Research]]"
   - "[[Tiny Capital]]"
+  - "[[Invisible Companies]]"
 ---
 
 # Constellation Software
@@ -27,8 +29,11 @@ In Surviving The Death of Venture Capital - Research, Constellation is the arche
 
 **Context:** Constellation Software Inc. is a Toronto-listed (TSX: CSU) holding company founded by Mark Leonard in 1995. It acquires and operates hundreds of vertical-market software businesses and is widely studied as a disciplined serial-acquirer and capital-allocation compounder.
 
+In [Invisible Companies](/notes/invisible-companies), Constellation is cited as the modern archetype for exploiting "competitive neglect" — buying small (often sub-$5 million), boring vertical-market software businesses (marina management, ski-lift ticketing, funeral-home record-keeping, library cataloging, oil-and-gas pipeline scheduling) that VC backers or founders had given up on as too small or slow-growing. It has compounded shareholder returns at roughly 34%/year since its 2006 IPO, versus ~11% for Berkshire Hathaway over the same period, and estimates 38,000+ vertical-market software businesses remain available to buy.
+
 ## Where this appears
 
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — a live portfolio reference; Kyle notes Constellation halting publication of its annual letters and deal details.
 - Surviving The Death of Venture Capital - Research — the archetype for Constellation-style holding-company / roll-up exits for orphaned products.
 - Networked Conviction — Roam + Investing - Research — Malcolm Gillespie's M&A work at Constellation across multiple industrial-software verticals.
+- [Invisible Companies](/notes/invisible-companies) — the modern archetype for "competitive neglect": buying boring vertical-market software businesses no one else was looking at.

@@ -4,11 +4,12 @@ type: "company"
 publish: false
 confidence: "medium"
 created: "2026-06-19"
-updated: "2026-06-26"
+updated: "2026-07-23"
 last_updated_by: "agent"
 sources:
   - "wiki/companies/Maximus.md"
   - "wiki/concepts/Super Angels.md"
+  - "raw/archive/clippings/Synthetic SpaceX trading a press release.md"
 tags:
   - "crypto"
   - "fintech"
@@ -18,6 +19,7 @@ related:
   - "[[Maximus]]"
   - "[[Super Angels]]"
   - "[[Fred Ehrsam]]"
+  - "[[SpaceX]]"
 ---
 
 # Coinbase
@@ -30,3 +32,4 @@ Coinbase enters Kyle's notes not as a company he diligenced but through its co-f
 
 - [Maximus](/notes/maximus) — Fred Ehrsam, a Coinbase co-founder, appears on the Maximus super-angel cap-table roster.
 - [Super Angels](/notes/super-angels) — Coinbase cited as the credential behind Ehrsam's place on the Maximus operator-founder roster.
+- [Synthetic SpaceX: Trading a Press Release](/notes/synthetic-spacex-trading-a-press-release) — first venue to list a [SpaceX](/books/elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future) perpetual futures contract (June 4, days before SpaceX's IPO); cited for its funding-rate disclosures and dilution-driven rebasing behavior.

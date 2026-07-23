@@ -4,9 +4,10 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-26"
+updated: "2026-07-23"
 last_updated_by: "agent"
-sources: []
+sources:
+  - "raw/archive/clippings/What Makes Us Rich.md"
 tags:
   - "investing"
   - "mental-models"
@@ -16,6 +17,7 @@ aliases:
   - "Charles Munger"
 related:
   - "[[Poor Charlie's Almanack]]"
+  - "[[What Makes Us Rich]]"
   - "[[Warren Buffett]]"
   - "[[Berkshire Hathaway]]"
   - "[[Buffett — The Biography]]"
@@ -48,3 +50,4 @@ In [Buffett — The Biography](/books/buffett-the-biography), Munger is the part
 - [Atomic Habits](/books/atomic-habits), [Discipline Is Destiny](/books/discipline-is-destiny), [How To Take Smart Notes](/books/how-to-take-smart-notes) — books where Munger's discipline/humility threads surface as cross-references.
 - [The Everything Store](/books/the-everything-store) — Munger/Buffett invoked as operating-philosophy templates paired with Bezos.
 - [Gordon B. Hinckley — Go Forward With Faith](/books/gordon-b-hinckley-go-forward-with-faith) — part of the LDS frame Kyle reads Munger against.
+- [What Makes Us Rich](/notes/what-makes-us-rich) — MBI Deep Dives essay invoking Munger's emphasis on equanimity as essential to surviving as a long-term investor.
