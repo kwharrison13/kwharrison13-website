@@ -3,22 +3,90 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import SearchBar from '../../components/SearchBar.astro';
 import { getCollection } from 'astro:content';
 import { essayIconSvg } from '../../lib/essayIcon';
+import { essayWordCount, readingMinutes, formatWords } from '../../lib/wordCount';
 
-// Load essays from content collection, sorted by date descending
-const essays = (await getCollection('essays')).sort(
-  (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf()
-);
+// Load essays from content collection, sorted by date descending.
+// Word counts + reading times are derived from each essay's markdown body at
+// build time, so they refresh automatically whenever an essay is added.
+const essays = (await getCollection('essays'))
+  .map((essay) => {
+    const words = essayWordCount(essay.body);
+    return { essay, words, minutes: readingMinutes(words) };
+  })
+  .sort(
+    (a, b) => new Date(b.essay.data.date).valueOf() - new Date(a.essay.data.date).valueOf()
+  );
+
+// ── "Never Miss a Week" year stats ─────────────────────────────
+// The weekly-essay streak started in 2022, so we tally each year from 2022 on:
+// distinct weeks posted (dedup by ISO week so a double-post week still counts
+// once) and total words across those essays. The current year is YTD.
+const STREAK_START_YEAR = 2022;
+const currentYear = new Date().getFullYear();
+
+// ISO week number (1–53) for a date — Thursday-anchored, per ISO-8601.
+function isoWeek(d: Date): number {
+  const date = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
+  const day = date.getUTCDay() || 7;
+  date.setUTCDate(date.getUTCDate() + 4 - day);
+  const yearStart = new Date(Date.UTC(date.getUTCFullYear(), 0, 1));
+  return Math.ceil(((date.getTime() - yearStart.getTime()) / 86400000 + 1) / 7);
+}
+
+const byYear = new Map<number, { weekKeys: Set<string>; words: number }>();
+for (const { essay, words } of essays) {
+  const d = new Date(essay.data.date);
+  const year = d.getFullYear();
+  if (year < STREAK_START_YEAR) continue;
+  const entry = byYear.get(year) ?? { weekKeys: new Set<string>(), words: 0 };
+  entry.weekKeys.add(`${year}-${isoWeek(d)}`);
+  entry.words += words;
+  byYear.set(year, entry);
+}
+
+const yearStats = Array.from(byYear.entries())
+  .map(([year, { weekKeys, words }]) => ({
+    year,
+    weeks: weekKeys.size,
+    words,
+    ytd: year === currentYear,
+  }))
+  .sort((a, b) => b.year - a.year);
+
+const totalWeeks = yearStats.reduce((sum, y) => sum + y.weeks, 0);
+const totalWords = yearStats.reduce((sum, y) => sum + y.words, 0);
 ---
 
 <BaseLayout title="Essays" currentPage="essays" description="Essays by Kyle Harrison on venture capital, startups, investing, technology, and building things that compound across generations.">
   <h1 class="page-title">Essays</h1>
   <p class="page-subtitle">Recent writing from Investing 101 and beyond.</p>
 
+  <section class="streak">
+    <div class="streak-header">
+      <div class="streak-title">One Rule: Never Miss a Week</div>
+      <div class="streak-sub">
+        {formatWords(totalWords)} words across {totalWeeks} weekly essays since {STREAK_START_YEAR}.
+      </div>
+    </div>
+    <div class="streak-grid">
+      {yearStats.map((y) => (
+        <div class="streak-year">
+          <div class="streak-year-label">
+            {y.year}{y.ytd && <span class="streak-ytd">YTD</span>}
+          </div>
+          <div class="streak-words">{formatWords(y.words)}</div>
+          <div class="streak-words-label">words</div>
+          <div class="streak-weeks">{y.weeks} {y.weeks === 1 ? 'week' : 'weeks'} posted</div>
+        </div>
+      ))}
+    </div>
+  </section>
+
   <SearchBar context="essays" />
 
   <div class="section-divider"></div>
 
-  {essays.map((essay) => (
+  {essays.map(({ essay, words, minutes }) => (
     <a href={`/essays/${essay.slug}`} style="text-decoration: none; color: inherit;">
       <div class="update-card">
         <div class="update-icon" set:html={essayIconSvg(essay.data)} />
@@ -28,9 +96,99 @@ const essays = (await getCollection('essays')).sort(
           <div class="update-meta">
             <span class="update-tag">{essay.data.tag}</span>
             {new Date(essay.data.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
+            <span class="update-dot">·</span>
+            <span>{formatWords(words)} words</span>
+            <span class="update-dot">·</span>
+            <span>{minutes} min read</span>
           </div>
         </div>
       </div>
     </a>
   ))}
 </BaseLayout>
+
+<style>
+  .streak {
+    margin-top: 24px;
+    padding: 22px 24px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+  }
+
+  .streak-header {
+    padding-bottom: 16px;
+    margin-bottom: 18px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .streak-title {
+    font-family: var(--font-display);
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--text);
+  }
+
+  .streak-sub {
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin-top: 4px;
+  }
+
+  .streak-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 12px;
+  }
+
+  .streak-year {
+    padding: 14px 16px;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+  }
+
+  .streak-year-label {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--text-tertiary);
+    letter-spacing: 0.03em;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .streak-ytd {
+    font-size: 9px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--accent);
+    background: var(--accent-soft);
+    padding: 1px 5px;
+    border-radius: 3px;
+  }
+
+  .streak-words {
+    font-family: var(--font-display);
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--text);
+    margin-top: 8px;
+    line-height: 1.1;
+  }
+
+  .streak-words-label {
+    font-size: 11px;
+    color: var(--text-tertiary);
+    margin-top: 1px;
+  }
+
+  .streak-weeks {
+    font-size: 12px;
+    color: var(--accent);
+    margin-top: 8px;
+  }
+
+  .update-dot { color: var(--border); }
+</style>
