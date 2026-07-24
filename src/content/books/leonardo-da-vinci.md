@@ -7,7 +7,7 @@ quake: false
 tags:
   - "technological-innovation"
   - "open-source-knowledge"
-last_imported: "2026-07-23"
+last_imported: "2026-07-24"
 key_takeaways_status: "written"
 ---
 

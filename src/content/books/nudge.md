@@ -7,7 +7,7 @@ quake: false
 tags:
   - "capital-allocation"
   - "people-over-politics"
-last_imported: "2026-07-23"
+last_imported: "2026-07-24"
 key_takeaways_status: "written"
 ---
 
