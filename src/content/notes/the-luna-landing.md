@@ -24,11 +24,11 @@ related:
 
 # The Luna Landing
 
-**One-line:** *Kyle's working title for a multi-venture program to help his family town — Luna, New Mexico — thrive: knowing its history, telling its story, building a hunting economy on the family land, and moving the town toward incorporation.*
+**One-line:** *Kyle's working title for a multi-venture program to help his family town — [Luna, New Mexico](/notes/luna-new-mexico) — thrive: knowing its history, telling its story, building a hunting economy on the family land, and moving the town toward incorporation.*
 
 This is the **umbrella hub / execution program** for everything Luna. It is a *program*, not a reading lens — real money, family land, permits, and a civic incorporation process. The wiki is organized by *type* (books, people, concepts, companies, meetings), so The Luna Landing is a **view assembled by links**, not a folder: this hub page plus liberal wikilinks out to the pages that live in their natural type-folders.
 
-Kyle's ancestor William Laney Jr. was sent to help settle Luna in 1883; four-plus generations of Laneys / Thompsons / Shupes have lived there, and the family still owns land Kyle will inherit. The origin narrative is his published essay [Family Towns](/essays/family-towns) — "wanting to find ways to help it thrive is a compelling intellectual exercise for me, whether I'm successful or not."
+Kyle's ancestor [William Laney Jr.](/notes/william-laney-jr) was sent to help settle Luna in 1883; four-plus generations of Laneys / Thompsons / Shupes have lived there, and the family still owns land Kyle will inherit. The origin narrative is his published essay [Family Towns](/essays/family-towns) — "wanting to find ways to help it thrive is a compelling intellectual exercise for me, whether I'm successful or not."
 
 ## The Luna Landing vs. City Building
 
@@ -43,7 +43,7 @@ Most of Luna is **not** city building (oral history = heritage; elk tags / meat 
 
 ### 1. History — knowing Luna
 Working through a book-form history of Luna and interviewing relatives, capturing the oral history before it's lost.
-- People (ancestors + living relatives; double as novel character bibles): William Laney Jr.
+- People (ancestors + living relatives; double as novel character bibles): [William Laney Jr.](/notes/william-laney-jr)
 - Interviews / oral histories → `wiki/meetings/` (dated, `publish: false` forever).
 - The history book → `wiki/books/` **only if Kyle has read it** (rule 14); otherwise it's a source to work through, not a read-library entry.
 
@@ -51,20 +51,20 @@ Working through a book-form history of Luna and interviewing relatives, capturin
 An *East of Eden*–style novel (minus the sociopathy) about Kyle's great-grandpa and great-grandma — two very different people and lives. Lives in the dedicated **`wiki/fiction/`** folder: see The Luna Novel. Research lives on the people pages and in `wiki/essays-research/`; the manuscript drafts live in `wiki/fiction/` (`publish: false`, no wikilinks in prose).
 
 ### 3. The hunting economy — a venture cluster
-A hunting business that starts as a lead-gen marketplace and expands into owned hunts, a lodge, a meat-locker business for hunters, and executive retreats. Sub-thesis hub: **Luna Hunting Economy**. First vehicle: **Gila Hunts**.
+A hunting business that starts as a lead-gen marketplace and expands into owned hunts, a lodge, a meat-locker business for hunters, and executive retreats. Sub-thesis hub: **[Luna Hunting Economy](/notes/luna-hunting-economy)**. First vehicle: **[Gila Hunts](/notes/gila-hunts)**.
 
-The key move: **the durable asset is the market knowledge, not the first company.** Market maps live in shared `wiki/concepts/` pages every future venture reuses — Hunt Outfitter Industry, Trophy Hunting Economics, Lead-Gen Marketplace, NM Tag Draw System, Gila — so Gila Hunts is the first probe that *populates a reusable map*, and the lodge inherits it on day one.
+The key move: **the durable asset is the market knowledge, not the first company.** Market maps live in shared `wiki/concepts/` pages every future venture reuses — [Hunt Outfitter Industry](/notes/hunt-outfitter-industry), [Trophy Hunting Economics](/notes/trophy-hunting-economics), [Lead-Gen Marketplace](/notes/lead-gen-marketplace), [NM Tag Draw System](/notes/nm-tag-draw-system), [Gila](/notes/gila) — so [Gila Hunts](/notes/gila-hunts) is the first probe that *populates a reusable map*, and the lodge inherits it on day one.
 
 ### 4. Nonprofit / incorporation — civic
-A nonprofit that pursues grants and helps Luna work toward becoming an incorporated village. Concepts: Municipal Incorporation (NM), Incorporated Village, Rural Grants. Grant landscape + the NM incorporation process live in a `wiki/diligence-research/` loading dock.
+A nonprofit that pursues grants and helps Luna work toward becoming an incorporated village. Concepts: [Municipal Incorporation (NM)](/notes/municipal-incorporation-nm), [Incorporated Village](/notes/incorporated-village), [Rural Grants](/notes/rural-grants). Grant landscape + the NM incorporation process live in a `wiki/diligence-research/` loading dock.
 
 ## Map
 
-- **Place:** Luna, New Mexico
-- **History:** William Laney Jr. · relatives (`wiki/meetings/`) · history book (`wiki/books/`, only if read)
+- **Place:** [Luna, New Mexico](/notes/luna-new-mexico)
+- **History:** [William Laney Jr.](/notes/william-laney-jr) · relatives (`wiki/meetings/`) · history book (`wiki/books/`, only if read)
 - **Novel:** The Luna Novel
-- **Hunting economy:** Luna Hunting Economy → Gila Hunts · Hunt Outfitter Industry · Trophy Hunting Economics · Lead-Gen Marketplace · NM Tag Draw System · Gila
-- **Civic:** Municipal Incorporation (NM) · Incorporated Village · Rural Grants
+- **Hunting economy:** [Luna Hunting Economy](/notes/luna-hunting-economy) → [Gila Hunts](/notes/gila-hunts) · [Hunt Outfitter Industry](/notes/hunt-outfitter-industry) · [Trophy Hunting Economics](/notes/trophy-hunting-economics) · [Lead-Gen Marketplace](/notes/lead-gen-marketplace) · [NM Tag Draw System](/notes/nm-tag-draw-system) · [Gila](/notes/gila)
+- **Civic:** [Municipal Incorporation (NM)](/notes/municipal-incorporation-nm) · [Incorporated Village](/notes/incorporated-village) · [Rural Grants](/notes/rural-grants)
 
 ## Where it shows up
 

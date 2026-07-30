@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-23"
+updated: "2026-07-30"
 last_updated_by: "agent"
 sources:
   - "Tweet thread by @drydenwtbrown, 2020-09-23 (Bluebook Cities / charter-city origin story)"
@@ -32,6 +32,7 @@ related:
   - "[[Brigham Young: Pioneer Prophet]]"
   - "[[Evicted: Poverty and Profit in the American City]]"
   - "[[The Rise of The Cash Man]]"
+  - "[[The Luna Landing]]"
 ---
 
 # City Building
