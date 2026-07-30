@@ -17,6 +17,7 @@ related:
   - "[[Berkshire Hathaway Annual Letters]]"
   - "[[Autonomy]]"
   - "[[Warren Buffett]]"
+  - "[[Constellation Software]]"
 ---
 
 # Tiny Capital

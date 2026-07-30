@@ -21,6 +21,10 @@ related:
   - "[[Michael Elnick]]"
   - "[[Sacra]]"
   - "[[Contrary Research]]"
+  - "[[Fuzzco]]"
+  - "[[Gartner]]"
+  - "[[Hebbia]]"
+  - "[[Project Joe Exotic — Tiger Global Competitive Analysis]]"
 ---
 
 # Tegus

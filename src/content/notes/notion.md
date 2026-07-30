@@ -21,6 +21,8 @@ related:
   - "[[Joseph Ambeault]]"
   - "[[Sunil Patro]]"
   - "[[Typeform]]"
+  - "[[Airtable]]"
+  - "[[Roam Research — Diligence (2021)]]"
 reference_count: 1
 ---
 

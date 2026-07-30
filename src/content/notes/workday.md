@@ -22,6 +22,9 @@ related:
   - "[[Carta]]"
   - "[[Xactly]]"
   - "[[Adaptive Planning]]"
+  - "[[Zenefits]]"
+  - "[[Adaptive Planning - Diligence]]"
+  - "[[Cash—Kingmaker or Killer - Research]]"
 ---
 
 # Workday

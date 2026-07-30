@@ -19,6 +19,7 @@ aliases:
   - "One from Many: VISA and the Rise of Chaordic Organization"
 related:
   - "[[Visa]]"
+  - "[[The Trillion-Dollar Vision of Dee Hock]]"
 ---
 
 # One from Many

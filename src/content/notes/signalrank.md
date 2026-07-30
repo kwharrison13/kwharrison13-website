@@ -20,6 +20,9 @@ related:
   - "[[Super Angels]]"
   - "[[Venture Capital]]"
   - "[[Permanent Capital]]"
+  - "[[Crunchbase]]"
+  - "[[Netflix]]"
+  - "[[Oak HC/FT]]"
 ---
 
 # SignalRank

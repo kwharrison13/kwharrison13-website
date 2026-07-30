@@ -23,6 +23,10 @@ related:
   - "[[The Power Law: Venture Capital & the Making of the New Future]]"
   - "[[Paul Graham]]"
   - "[[Talent (Book)]]"
+  - "[[Brex]]"
+  - "[[YC Continuity]]"
+  - "[[Deepnote - Pre-Brief — September 27th"
+  - "2021]]"
 reference_count: 5
 ---
 

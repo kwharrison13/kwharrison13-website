@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-25"
+updated: "2026-07-25"
 last_updated_by: "agent"
 sources:
   - "wiki/gospel-study/June 15–21, 2020. Alma 13–16: \"Enter into the Rest of the Lord\".md"
@@ -21,6 +21,7 @@ related:
   - "[[Faith]]"
   - "[[Obedience — Topical Study]]"
   - "[[Prosperity Gospel]]"
+  - "[[Consider The Lillies]]"
 reference_count: 1
 ---
 

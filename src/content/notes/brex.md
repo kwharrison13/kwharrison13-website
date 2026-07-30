@@ -21,6 +21,8 @@ related:
   - "[[Y Combinator]]"
   - "[[Altimeter]]"
   - "[[Network Effects]]"
+  - "[[The Mysteries of an Economic Engine - Research]]"
+  - "[[VC Contagion - Research]]"
 reference_count: 1
 ---
 

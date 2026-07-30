@@ -8,7 +8,7 @@ tags:
   - "historical-futurism"
   - "language-of-discourse"
   - "ideological-family-tree"
-last_imported: "2026-07-29"
+last_imported: "2026-07-30"
 key_takeaways_status: "written"
 ---
 

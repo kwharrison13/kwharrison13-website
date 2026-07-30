@@ -22,6 +22,9 @@ related:
   - "[[Collaborative Fund]]"
   - "[[Inspired Capital]]"
   - "[[Working Toward Zion]]"
+  - "[[Adaptive Realty]]"
+  - "[[Kensington Permanent Capital]]"
+  - "[[Ohana Capital]]"
 reference_count: 1
 ---
 

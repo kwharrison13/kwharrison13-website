@@ -19,6 +19,8 @@ related:
   - "[[Nir Rothenberg]]"
   - "[[NeoSec]]"
   - "[[Noname Security]]"
+  - "[[NSO Group]]"
+  - "[[Noname Security - Diligence]]"
 ---
 
 # Rapyd

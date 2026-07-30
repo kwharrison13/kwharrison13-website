@@ -29,6 +29,8 @@ related:
   - "[[Reading]]"
   - "[[Personal Finance]]"
   - "[[The Motley Fool]]"
+  - "[[28 Lessons from Start-ups That Failed]]"
+  - "[[The Great Depression: A Diary]]"
 ---
 
 # Thinking and Walking — Morgan Housel

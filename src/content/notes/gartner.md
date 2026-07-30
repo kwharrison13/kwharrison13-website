@@ -18,6 +18,7 @@ related:
   - "[[DevSecOps]]"
   - "[[Tegus]]"
   - "[[ZoomInfo]]"
+  - "[[Tegus - Pre-Brief — September 27th, 2021]]"
 ---
 
 # Gartner

@@ -20,6 +20,7 @@ related:
   - "[[Sprig]]"
   - "[[First Round Review]]"
   - "[[Venture Capital]]"
+  - "[[Sprig fka UserLeap - Diligence]]"
 ---
 
 # First Round Capital

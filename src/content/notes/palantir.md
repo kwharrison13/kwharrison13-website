@@ -25,6 +25,7 @@ related:
   - "[[Alex Karp]]"
   - "[[Peter Thiel]]"
   - "[[VC Contagion - Research]]"
+  - "[[Peter Thiel's Religion]]"
 ---
 
 # Palantir

@@ -19,6 +19,7 @@ related:
   - "[[Customer Data Platform]]"
   - "[[Segment]]"
   - "[[Michael Katz]]"
+  - "[[Redpoint]]"
 ---
 
 # mParticle

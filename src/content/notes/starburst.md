@@ -26,6 +26,7 @@ related:
   - "[[Dremio]]"
   - "[[Snowflake ($SNOW)]]"
   - "[[Data Lake]]"
+  - "[[Databricks]]"
 reference_count: 1
 ---
 

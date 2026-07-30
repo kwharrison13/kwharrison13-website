@@ -19,6 +19,10 @@ related:
   - "[[The Kill Chain]]"
   - "[[Robert Pottroff]]"
   - "[[TSMC]]"
+  - "[[The Gospel of ARK Invest - Research]]"
+  - "[[Another Open Source AI Debate]]"
+  - "[[Let AI Burn]]"
+  - "[[Who’s Afraid of Chinese Models?]]"
 ---
 
 # Nvidia

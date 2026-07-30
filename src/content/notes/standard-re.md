@@ -21,6 +21,8 @@ related:
   - "[[Crypto]]"
   - "[[Insurance]]"
   - "[[Ramp]]"
+  - "[[DCG]]"
+  - "[[Dragonfly]]"
 ---
 
 # Standard.re

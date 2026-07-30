@@ -17,6 +17,7 @@ related:
   - "[[Tyler Payne]]"
   - "[[Venture Studio]]"
   - "[[Venture Capital]]"
+  - "[[Alta Ventures]]"
 ---
 
 # Atomic Ventures

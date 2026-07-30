@@ -25,6 +25,7 @@ related:
   - "[[Historical Futurism]]"
   - "[[The Enchanted Notebook]]"
   - "[[Storytelling]]"
+  - "[[OpenAI]]"
 ---
 
 # Planning for AGI and Beyond

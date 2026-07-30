@@ -19,6 +19,7 @@ related:
   - "[[Hannah Seal]]"
   - "[[Guru]]"
   - "[[Shelf.io]]"
+  - "[[Fonoa]]"
 reference_count: 1
 ---
 

@@ -22,6 +22,8 @@ related:
   - "[[Webflow]]"
   - "[[Anrok]]"
   - "[[Lantern]]"
+  - "[[Cartooli]]"
+  - "[[WhaleSync]]"
 reference_count: 1
 ---
 

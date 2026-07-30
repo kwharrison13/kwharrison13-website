@@ -17,6 +17,7 @@ related:
   - "[[Ryan Delk]]"
   - "[[Candor]]"
   - "[[Tobi Lutke]]"
+  - "[[Shrug.vc]]"
 reference_count: 1
 ---
 

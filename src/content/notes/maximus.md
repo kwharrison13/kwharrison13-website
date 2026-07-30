@@ -20,6 +20,7 @@ related:
   - "[[Ryan Holiday]]"
   - "[[Shopify]]"
   - "[[Coinbase]]"
+  - "[[Ryan Holiday's Daily Stoic]]"
 ---
 
 # Maximus

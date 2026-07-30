@@ -17,6 +17,7 @@ aliases:
 related:
   - "[[Data in Investing]]"
   - "[[Alexander Izydorczyk]]"
+  - "[[Rev 2 \\\"Data Science and the Future of Investing\\\" - Coatue Management & Point72]]"
 ---
 
 # Point72

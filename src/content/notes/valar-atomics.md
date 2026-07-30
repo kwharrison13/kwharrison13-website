@@ -20,6 +20,8 @@ related:
   - "[[Anduril]]"
   - "[[Capital Allocator Mindset]]"
   - "[[Rat's Nest Problems]]"
+  - "[[Rat's Nest Problems - Research]]"
+  - "[[The Golden Goose]]"
 ---
 
 # Valar Atomics

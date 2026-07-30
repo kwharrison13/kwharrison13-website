@@ -14,6 +14,7 @@ aliases:
 related:
   - "[[Pave Diligence — 2021]]"
   - "[[Index Ventures]]"
+  - "[[Discord]]"
 reference_count: 1
 ---
 

@@ -20,6 +20,7 @@ related:
   - "[[CalPERS]]"
   - "[[SoFi]]"
   - "[[Climate Change]]"
+  - "[[Carval]]"
 ---
 
 # CleanCapital

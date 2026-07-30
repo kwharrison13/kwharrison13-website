@@ -19,6 +19,7 @@ related:
   - "[[Open-Source Knowledge]]"
   - "[[Equity Research]]"
   - "[[June 20th, 2023 — Derek Weber (SaxonWeber)]]"
+  - "[[Tegus]]"
 ---
 
 # Sacra

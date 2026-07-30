@@ -7,7 +7,7 @@ quake: false
 tags:
   - "religious-intellectualism"
   - "open-source-knowledge"
-last_imported: "2026-07-29"
+last_imported: "2026-07-30"
 key_takeaways_status: "written"
 ---
 

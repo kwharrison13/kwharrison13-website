@@ -16,6 +16,7 @@ related:
   - "[[APIMetrics]]"
   - "[[November 8th"
   - "2021 — David O'Neill (APIMetrics)]]"
+  - "[[Dynatrace]]"
 reference_count: 1
 ---
 

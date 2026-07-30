@@ -21,6 +21,8 @@ related:
   - "[[Marie Szuts]]"
   - "[[Joel Kwartler]]"
   - "[[Joseph Ambeault]]"
+  - "[[Atlassian]]"
+  - "[[GitLab]]"
 reference_count: 1
 ---
 

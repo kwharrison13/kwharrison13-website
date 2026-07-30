@@ -19,6 +19,8 @@ related:
   - "[[How To Read a Book]]"
   - "[[Note-taking]]"
   - "[[Tools For Thought]]"
+  - "[[Roam Research — Diligence (2021)]]"
+  - "[[Charlie Munger: Philanthropy Roundtable]]"
 ---
 
 # Roam Research

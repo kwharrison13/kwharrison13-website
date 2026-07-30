@@ -18,6 +18,7 @@ related:
   - "[[Max Levchin]]"
   - "[[The Founders]]"
   - "[[Jeff Bezos]]"
+  - "[[Zip2]]"
 ---
 
 # X.com

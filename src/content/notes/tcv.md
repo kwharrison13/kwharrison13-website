@@ -21,6 +21,8 @@ related:
   - "[[Index Ventures]]"
   - "[[Contrary]]"
   - "[[September 13th, 2022 — Harry Stebbings Podcast]]"
+  - "[[mParticle — Diligence (2018)]]"
+  - "[[Contrary GP on Talent & Research-Driven Investing]]"
 ---
 
 # TCV

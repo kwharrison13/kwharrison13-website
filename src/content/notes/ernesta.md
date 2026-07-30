@@ -20,6 +20,7 @@ related:
   - "[[Addition]]"
   - "[[Peloton]]"
   - "[[Stewards of Capital]]"
+  - "[[Mohawk Industries]]"
 ---
 
 Direct-to-consumer custom rug startup founded by [John Foley](/notes/john-foley) after he stepped down from [Peloton](/notes/peloton). Raised a $25M Series A at a ~$100M pre-launch valuation, led by [Addition](/notes/addition) and True Ventures (both early Peloton investors). Plans to source carpet rolls in bulk from B2B partners in Georgia, cut them to order in a New Jersey warehouse, and ship direct — eschewing storefronts to target ~50% gross margins (vs. Peloton's ~19%), with sales beginning spring 2023.

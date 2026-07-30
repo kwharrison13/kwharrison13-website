@@ -19,6 +19,7 @@ related:
   - "[[BetterHelp]]"
   - "[[Teladoc]]"
   - "[[Spring Health]]"
+  - "[[Ginger]]"
 ---
 
 # Talkspace

@@ -18,6 +18,8 @@ related:
   - "[[Sales Intelligence]]"
   - "[[6sense]]"
   - "[[ZoomInfo]]"
+  - "[[Crayon]]"
+  - "[[Klue]]"
 ---
 
 # Slintel

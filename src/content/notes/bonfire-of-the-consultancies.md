@@ -20,6 +20,10 @@ aliases:
   - "Bonfire of the Consultancies"
 related:
   - "[[Capitalism]]"
+  - "[[The Big Con]]"
+  - "[[When McKinsey Comes to Town]]"
+  - "[[Cambridge Analytica]]"
+  - "[[McKinsey]]"
 ---
 
 ## Key Highlights

@@ -25,6 +25,7 @@ related:
   - "[[Vareto]]"
   - "[[Cube Software]]"
   - "[[Pigment]]"
+  - "[[OnPlan]]"
 ---
 
 # Adaptive Planning

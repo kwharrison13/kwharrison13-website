@@ -20,6 +20,7 @@ aliases:
 related:
   - "[[Ravi Parikh]]"
   - "[[Mark Goldberg]]"
+  - "[[Chainalysis]]"
 ---
 
 # Benchling

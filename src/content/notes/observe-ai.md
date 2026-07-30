@@ -21,6 +21,8 @@ related:
   - "[[Gong]]"
   - "[[Chao Xu]]"
   - "[[Kostia Pertsovskyi]]"
+  - "[[Samsung]]"
+  - "[[Cresta.ai - Diligence]]"
 reference_count: 1
 ---
 

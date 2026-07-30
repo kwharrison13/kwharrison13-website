@@ -22,6 +22,8 @@ related:
   - "[[Microsoft Active Directory]]"
   - "[[SailPoint]]"
   - "[[Single-Sign On (SSO)]]"
+  - "[[Microsoft]]"
+  - "[[Salesforce]]"
 ---
 
 # Okta

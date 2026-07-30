@@ -19,6 +19,7 @@ related:
   - "[[Lilly Chen]]"
   - "[[Developer Relations]]"
   - "[[Segment]]"
+  - "[[Honeycomb]]"
 reference_count: 2
 ---
 

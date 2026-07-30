@@ -21,6 +21,8 @@ related:
   - "[[Open-Source Knowledge]]"
   - "[[David Perell]]"
   - "[[How to Crush It on Twitter: David Perell and Matthew Kobach Workshop]]"
+  - "[[Defining Aggregators (09.26.17)]]"
+  - "[[How to Maximize Serendipity]]"
 reference_count: 2
 ---
 

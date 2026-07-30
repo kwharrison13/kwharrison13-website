@@ -18,6 +18,7 @@ related:
   - "[[Chris Power]]"
   - "[[SpaceX]]"
   - "[[Manufacturing]]"
+  - "[[He Came From Oz To Save American Manufacturing — EP 80 Chris Power]]"
 ---
 
 # Hadrian

@@ -18,6 +18,7 @@ related:
   - "[[Cresta.ai]]"
   - "[[Balto.ai]]"
   - "[[Randy Clapp]]"
+  - "[[Observe.ai]]"
 ---
 
 # CallMiner

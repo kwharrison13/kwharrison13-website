@@ -20,6 +20,8 @@ related:
   - "[[The Talent Vortex - Research]]"
   - "[[Stripe]]"
   - "[[Plaid]]"
+  - "[[Pendo]]"
+  - "[[Sprig]]"
 reference_count: 1
 ---
 

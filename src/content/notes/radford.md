@@ -21,6 +21,8 @@ related:
   - "[[AON]]"
   - "[[Carta]]"
   - "[[Shareworks]]"
+  - "[[PayScale]]"
+  - "[[Remote.com]]"
 reference_count: 1
 ---
 

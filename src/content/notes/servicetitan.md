@@ -20,6 +20,7 @@ related:
   - "[[Assemble]]"
   - "[[Pave fka Trove]]"
   - "[[Stripe]]"
+  - "[[ShopMonkey]]"
 reference_count: 4
 ---
 

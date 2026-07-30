@@ -16,6 +16,7 @@ related:
   - "[[Apple]]"
   - "[[fabless]]"
   - "[[Vertical Integration]]"
+  - "[[Apple Earnings, An Interview with Jay Goldberg About Chips and Intel]]"
 ---
 
 # Qualcomm

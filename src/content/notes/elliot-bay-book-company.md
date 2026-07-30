@@ -14,6 +14,7 @@ aliases:
   - "The Elliott Bay Book Company"
 related:
   - "[[Speeches That Changed The World]]"
+  - "[[Me and Earl and The Dying Girl]]"
 ---
 
 # Elliot Bay Book Company

@@ -17,6 +17,7 @@ related:
   - "[[Starburst]]"
   - "[[Deepnote]]"
   - "[[September 17th, 2021 — Steve Malouf (Datadog) on Prelay]]"
+  - "[[Deepnote - Pre-Brief — September 27th, 2021]]"
 reference_count: 1
 ---
 

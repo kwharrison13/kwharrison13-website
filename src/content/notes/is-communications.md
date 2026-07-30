@@ -19,6 +19,7 @@ related:
   - "[[Michael Mulquin]]"
   - "[[The New City]]"
   - "[[City Building]]"
+  - "[[Smart Cities Association]]"
 ---
 
 # IS Communications

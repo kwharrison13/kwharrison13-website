@@ -14,6 +14,7 @@ aliases:
   - "ARK Invest"
 related:
   - "[[The Storytelling of Investing - Research]]"
+  - "[[The Gospel of ARK Invest - Research]]"
 ---
 
 # ARK Invest

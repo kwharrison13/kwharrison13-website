@@ -24,6 +24,7 @@ related:
   - "[[Ben Thompson]]"
   - "[[Platforms in an Aggregator World]]"
   - "[[Does Anything I Write Matter Anymore?]]"
+  - "[[How Substack Has Spawned a New Class of Newsletter Entrepreneurs]]"
 ---
 
 # Substack

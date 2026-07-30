@@ -18,6 +18,7 @@ aliases:
 related:
   - "[[September 22nd, 2021 — Sunil Patro (SignEasy)]]"
   - "[[SignEasy]]"
+  - "[[HelloSign]]"
 ---
 
 # DocuSign

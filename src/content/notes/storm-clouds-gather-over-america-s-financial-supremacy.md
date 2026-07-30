@@ -22,6 +22,7 @@ aliases:
   - "Storm Clouds Gather Over America’s Financial Supremacy"
 related:
   - "[[Visa]]"
+  - "[[The Economist]]"
 ---
 
 # Storm Clouds Gather Over America's Financial Supremacy

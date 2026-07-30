@@ -26,6 +26,7 @@ related:
   - "[[Surgical Reading]]"
   - "[[Reading]]"
   - "[[Quitting a book]]"
+  - "[[Books 2.0 - Research]]"
 ---
 
 # Surgical Reading: How to Read 12 Books at Once

@@ -18,6 +18,8 @@ related:
   - "[[Contrary]]"
   - "[[Pave]]"
   - "[[Toast]]"
+  - "[[Brex]]"
+  - "[[Chainalysis]]"
 reference_count: 1
 ---
 

@@ -29,6 +29,7 @@ related:
   - "[[Mentorship]]"
   - "[[BYU]]"
   - "[[Paul Graham]]"
+  - "[[Young Entrepreneurs Academy]]"
 ---
 
 [Lucas Li](/notes/lucas-li)'s 2014 business plan for **YPYS (Your Passion, Your Solution)**, a not-for-profit designed to leverage college and high school student energy to address social issues. Piloted from Provo, UT, with plans to expand state-by-state. The plan was developed in preparation for an Oxford Social Seminar.

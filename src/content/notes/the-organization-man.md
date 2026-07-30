@@ -19,6 +19,7 @@ aliases:
   - "The Organization Man by William H. Whyte"
 related:
   - "[[Brave New World Revisited]]"
+  - "[[The Future of American Sports]]"
 ---
 
 # The Organization Man

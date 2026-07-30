@@ -21,6 +21,7 @@ related:
   - "[[Carbon Offsets]]"
   - "[[Carlos Gonzalez-Cardenas]]"
   - "[[Julia Andre]]"
+  - "[[Pachama]]"
 reference_count: 1
 ---
 

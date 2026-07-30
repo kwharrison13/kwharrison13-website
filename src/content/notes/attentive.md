@@ -14,6 +14,8 @@ aliases:
   - "Attentive"
 related:
   - "[[Digital Creators]]"
+  - "[[Equinox Is More Than A Gym. It's A Church.]]"
+  - "[[The Future of Work (Article)]]"
 reference_count: 5
 ---
 

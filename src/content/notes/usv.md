@@ -19,6 +19,7 @@ related:
   - "[[Rebecca Kaden]]"
   - "[[The Rebel Alliance]]"
   - "[[Nick Grossman]]"
+  - "[[Project Joe Exotic — Tiger Global Competitive Analysis]]"
 ---
 
 # USV

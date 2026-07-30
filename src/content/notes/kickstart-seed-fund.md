@@ -19,6 +19,8 @@ related:
   - "[[Serene Papenfuss]]"
   - "[[Utah Tech Ecosystem]]"
   - "[[Fundraising]]"
+  - "[[CloudApp]]"
+  - "[[Contrary GP on Talent & Research-Driven Investing]]"
 reference_count: 1
 ---
 

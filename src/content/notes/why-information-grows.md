@@ -18,6 +18,7 @@ aliases:
 related:
   - "[[Cesar Hidalgo]]"
   - "[[Phase Transition]]"
+  - "[[Critical States]]"
 reference_count: 3
 ---
 

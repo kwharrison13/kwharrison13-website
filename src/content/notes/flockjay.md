@@ -17,6 +17,7 @@ related:
   - "[[Shaan Hathiramani]]"
   - "[[Alternative Education]]"
   - "[[University Disruption]]"
+  - "[[Opinion: Let's fix college first, before rushing to reopen campuses]]"
 ---
 
 # Flockjay

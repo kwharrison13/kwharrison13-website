@@ -26,6 +26,7 @@ tags:
   - "intel"
 aliases:
   - "TBPN — Tuesday, August 5th"
+  - "TBPN — August 5, 2025"
 related:
   - "[[Chips For America]]"
   - "[[Building American Dynamism]]"

@@ -15,6 +15,11 @@ aliases:
   - "$SNOW"
 related:
   - "[[Fivetran]]"
+  - "[[Databricks]]"
+  - "[[Starburst]]"
+  - "[[Tableau]]"
+  - "[[Starburst - Diligence]]"
+  - "[[The Mysteries of an Economic Engine - Research]]"
 reference_count: 7
 ---
 

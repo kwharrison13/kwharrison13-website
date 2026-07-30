@@ -21,6 +21,7 @@ related:
   - "[[Cisco]]"
   - "[[City Building]]"
   - "[[Procurement]]"
+  - "[[IEEE Smart City Standards Committee]]"
 ---
 
 # Venture Smarter

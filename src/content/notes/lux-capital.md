@@ -16,6 +16,8 @@ aliases:
 related:
   - "[[Open-Source Knowledge - Research]]"
   - "[[Josh Wolfe]]"
+  - "[[How To Build If… It's Time To Build?]]"
+  - "[[Lux Ventures VII Q4 2022 Report]]"
 ---
 
 # Lux Capital

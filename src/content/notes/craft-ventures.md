@@ -13,6 +13,7 @@ aliases:
   - "Craft Ventures"
 related:
   - "[[David Sacks]]"
+  - "[[The Burn Multiple]]"
 reference_count: 5
 ---
 

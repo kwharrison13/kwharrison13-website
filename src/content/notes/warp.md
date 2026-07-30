@@ -20,6 +20,8 @@ related:
   - "[[Why You Should Join Warp]]"
   - "[[Contrary]]"
   - "[[Vercel]]"
+  - "[[Jellyfish]]"
+  - "[[LinearB]]"
 ---
 
 # Warp

@@ -28,6 +28,7 @@ related:
   - "[[Talent]]"
   - "[[GDP]]"
   - "[[Debt]]"
+  - "[[McKinsey]]"
 ---
 
 ## Key Highlights

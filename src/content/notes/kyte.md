@@ -19,6 +19,7 @@ related:
   - "[[Ludwig Schoenack]]"
   - "[[Vay]]"
   - "[[Thomas von der Ohe]]"
+  - "[[Finley CMS]]"
 ---
 
 # Kyte

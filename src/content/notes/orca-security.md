@@ -21,6 +21,7 @@ related:
   - "[[CrowdStrike ($CRWD)]]"
   - "[[Palo Alto Networks ($PANW)]]"
   - "[[Nir Rothenberg]]"
+  - "[[Aqua Security]]"
 reference_count: 2
 ---
 

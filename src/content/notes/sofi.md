@@ -22,6 +22,9 @@ related:
   - "[[Cresta.ai - Diligence]]"
   - "[[Michael McElvaney]]"
   - "[[October 4th, 2022 — Michael McElvaney (SoFi)]]"
+  - "[[IBM Planning Analytics]]"
+  - "[[Planful]]"
+  - "[[Tableau]]"
 reference_count: 1
 ---
 

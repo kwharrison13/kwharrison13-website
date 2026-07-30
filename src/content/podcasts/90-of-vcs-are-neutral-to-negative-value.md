@@ -27,6 +27,7 @@ tags:
 aliases:
   - "“90% of VCs Are Neutral to Negative Value”"
   - "90% of VCs Are Neutral to Negative Value"
+  - "90 Percent of VCs Are Neutral to Negative Value"
   - "Kyle Harrison on Run the Numbers"
   - "Run the Numbers — Kyle Harrison"
 related:

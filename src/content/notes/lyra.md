@@ -19,6 +19,7 @@ related:
   - "[[Spring Health]]"
   - "[[Behavioral Health]]"
   - "[[Adam Chekroud]]"
+  - "[[Ginger]]"
 ---
 
 # Lyra

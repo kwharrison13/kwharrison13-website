@@ -23,6 +23,8 @@ related:
   - "[[Logan Bartlett]]"
   - "[[Jordan Segall]]"
   - "[[Erica Brescia]]"
+  - "[[Fly.io]]"
+  - "[[Jasper.ai]]"
 reference_count: 1
 ---
 

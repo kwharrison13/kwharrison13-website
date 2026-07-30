@@ -21,6 +21,7 @@ related:
   - "[[David Mark]]"
   - "[[Signal Sciences]]"
   - "[[Appsflyer]]"
+  - "[[ReadySet - Pre-Brief — September 27th, 2021]]"
 ---
 
 # Cloudflare

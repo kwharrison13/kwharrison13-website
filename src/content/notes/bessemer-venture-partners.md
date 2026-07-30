@@ -21,6 +21,9 @@ related:
   - "[[Brian Feinstein]]"
   - "[[Mike Droesch]]"
   - "[[Vertical Software]]"
+  - "[[Ten Lessons from a Decade of Vertical Software Investing]]"
+  - "[[Vertical Software— A Founder's Guide to Success]]"
+  - "[[Cash—Kingmaker or Killer - Research]]"
 reference_count: 1
 ---
 

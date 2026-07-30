@@ -16,6 +16,8 @@ aliases:
   - "Chemistry"
 related:
   - "[[Zabie Elmgren]]"
+  - "[[Saronic]]"
+  - "[[Tandem (Company)]]"
 ---
 
 # Chemistry Ventures

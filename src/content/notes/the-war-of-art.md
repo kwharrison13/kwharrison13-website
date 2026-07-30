@@ -17,6 +17,7 @@ aliases:
   - "The War of Art: Break Through the Blocks and Win Your Inner Creative Battles"
 related:
   - "[[Steven Pressfield]]"
+  - "[[Find Your Territory]]"
 reference_count: 3
 ---
 

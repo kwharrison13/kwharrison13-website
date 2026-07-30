@@ -18,6 +18,7 @@ aliases:
   - "Micron Technology"
 related:
   - "[[Manufacturing]]"
+  - "[[Inside Micron's Attempts to Reindustrialize the Dying American Heartland]]"
 ---
 
 # Micron

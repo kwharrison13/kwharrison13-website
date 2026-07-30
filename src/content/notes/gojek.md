@@ -22,6 +22,7 @@ related:
   - "[[George Do]]"
   - "[[Salt Security]]"
   - "[[Kong]]"
+  - "[[Noname Security - Diligence]]"
 ---
 
 # Gojek

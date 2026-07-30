@@ -27,6 +27,7 @@ related:
   - "[[Unions]]"
   - "[[City Building]]"
   - "[[George F. Johnson and His Industrial Democracy]]"
+  - "[[Endicott-Johnson]]"
 ---
 
 # Endicott-Johnson Shoe Company

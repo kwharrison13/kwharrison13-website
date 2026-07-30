@@ -18,6 +18,7 @@ related:
   - "[[Tyler Payne]]"
   - "[[Nikita Parekh]]"
   - "[[Watershed Climate Diligence — 2021]]"
+  - "[[JP Morgan]]"
 ---
 
 # Goldman Sachs

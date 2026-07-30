@@ -22,6 +22,7 @@ related:
   - "[[Rami Ghanem]]"
   - "[[October 17th, 2022 — Rami Ghanem (Macro)]]"
   - "[[Zendesk]]"
+  - "[[Intercom]]"
 ---
 
 # Macro (Customer Support)

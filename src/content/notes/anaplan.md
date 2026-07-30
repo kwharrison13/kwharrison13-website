@@ -23,6 +23,8 @@ related:
   - "[[Smartsheet]]"
   - "[[Spiff]]"
   - "[[Adaptive Planning]]"
+  - "[[Vareto]]"
+  - "[[Adaptive Planning - Diligence]]"
 reference_count: 1
 ---
 

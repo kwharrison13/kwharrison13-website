@@ -18,6 +18,7 @@ related:
   - "[[Chorus]]"
   - "[[Cresta.ai]]"
   - "[[Amit Bendov]]"
+  - "[[Observe.ai]]"
 reference_count: 1
 ---
 

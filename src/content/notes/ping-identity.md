@@ -21,6 +21,7 @@ related:
   - "[[Michael Isbitski]]"
   - "[[Firewall]]"
   - "[[Salt Security]]"
+  - "[[Elastic Beam]]"
 ---
 
 # Ping Identity

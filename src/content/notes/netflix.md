@@ -18,6 +18,7 @@ aliases:
 related:
   - "[[ANTENNA]]"
   - "[[SignalRank]]"
+  - "[[Defining Aggregators (09.26.17)]]"
 ---
 
 # Netflix

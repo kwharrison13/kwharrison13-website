@@ -20,6 +20,7 @@ related:
   - "[[Notion]]"
   - "[[Brianne Kimmel]]"
   - "[[Net Promoter Score]]"
+  - "[[SurveyMonkey]]"
 ---
 
 # Typeform

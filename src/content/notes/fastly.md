@@ -18,6 +18,7 @@ related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[Signal Sciences]]"
   - "[[Cloudflare]]"
+  - "[[ReadySet - Pre-Brief — September 27th, 2021]]"
 ---
 
 # Fastly

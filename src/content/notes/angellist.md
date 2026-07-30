@@ -18,6 +18,7 @@ related:
   - "[[Mana Ventures]]"
   - "[[Rolling Funds]]"
   - "[[WeFunder]]"
+  - "[[Naval Ravikant — The Angel Philosopher]]"
 ---
 
 # AngelList

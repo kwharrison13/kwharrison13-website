@@ -15,7 +15,9 @@ sources:
 tags: []
 aliases:
   - "Building a Second Brain"
-related: []
+related:
+  - "[[Hyper Publishing]]"
+  - "[[Not So Lazy & Entitled Millennials: David Perell]]"
 reference_count: 4
 ---
 

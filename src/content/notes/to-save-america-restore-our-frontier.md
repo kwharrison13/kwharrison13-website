@@ -26,6 +26,7 @@ related:
   - "[[Progress Studies]]"
   - "[[It's Time To Build]]"
   - "[[Google]]"
+  - "[[Cicero Institute]]"
 ---
 
 ## Key Highlights

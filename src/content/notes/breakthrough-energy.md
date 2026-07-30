@@ -21,6 +21,7 @@ related:
   - "[[Natural Selection Among Startups]]"
   - "[[Renegade Spotlight — Lowercarbon - Research]]"
   - "[[Lowercarbon Capital]]"
+  - "[[TerraPower]]"
 reference_count: 1
 ---
 

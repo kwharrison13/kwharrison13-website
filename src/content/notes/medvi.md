@@ -22,6 +22,8 @@ related:
   - "[[GLP-1]]"
   - "[[Telehealth]]"
   - "[[One-Person Billion Dollar Company]]"
+  - "[[Hims & Hers]]"
+  - "[[The $1B Rorschach Test - Research]]"
 ---
 
 # MEDVI

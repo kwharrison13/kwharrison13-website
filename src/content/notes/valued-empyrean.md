@@ -22,6 +22,7 @@ related:
   - "[[Intrinsic Value - User Research]]"
   - "[[September 17th, 2021 — Darwin Harrison (Valued Empyrean — Behavioral Health)]]"
   - "[[August 18th, 2021 — Valued Empyrean (Conor White-Sullivan & Darwin Harrison)]]"
+  - "[[Koch Industries]]"
 reference_count: 2
 ---
 

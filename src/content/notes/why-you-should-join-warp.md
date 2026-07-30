@@ -28,6 +28,8 @@ related:
   - "[[Usman Hanif]]"
   - "[[Vercel]]"
   - "[[Salesforce]]"
+  - "[[Jellyfish]]"
+  - "[[LinearB]]"
 ---
 
 # Why You Should Join Warp

@@ -23,6 +23,7 @@ related:
   - "[[The New City]]"
   - "[[GovTech]]"
   - "[[City Building]]"
+  - "[[What Works Cities]]"
 ---
 
 # ELGL

@@ -15,6 +15,7 @@ aliases:
 related:
   - "[[November 8th, 2021 — Serene Papenfuss (Kickstart Seed Fund)]]"
   - "[[Utah Tech Ecosystem]]"
+  - "[[Divvy]]"
 ---
 
 # Pluralsight

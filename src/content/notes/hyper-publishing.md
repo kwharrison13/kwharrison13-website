@@ -28,6 +28,7 @@ related:
   - "[[Morgan Housel]]"
   - "[[Tyler Cowen]]"
   - "[[Building a Second Brain]]"
+  - "[[Hyper Publishing: The Wiki Strategy]]"
 ---
 
 # Hyper Publishing

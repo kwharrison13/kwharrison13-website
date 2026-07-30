@@ -19,6 +19,11 @@ related:
   - "[[Deepnote]]"
   - "[[CaptivateIQ Diligence]]"
   - "[[The Power Law — Venture Capital & the Making of the New Future]]"
+  - "[[Pyn]]"
+  - "[[Deepnote - Pre-Brief — September 27th"
+  - "2021]]"
+  - "[[Pyn - Diligence]]"
+  - "[[Sprig fka UserLeap - Diligence]]"
 reference_count: 1
 ---
 

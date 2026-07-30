@@ -16,6 +16,7 @@ related:
   - "[[Pave Diligence — 2021]]"
   - "[[Carta]]"
   - "[[Pave fka Trove - Diligence]]"
+  - "[[Allbirds]]"
 reference_count: 1
 ---
 

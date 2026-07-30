@@ -18,6 +18,8 @@ related:
   - "[[The Power Law: Venture Capital & the Making of the New Future]]"
   - "[[Josh Curry]]"
   - "[[Cash—Kingmaker or Killer - Research]]"
+  - "[[Lyft]]"
+  - "[[Defining Aggregators (09.26.17)]]"
 ---
 
 # Uber

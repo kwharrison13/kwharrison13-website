@@ -18,6 +18,8 @@ related:
   - "[[Walt Disney and the Promise of Progress City]]"
   - "[[Tesla ($TSLA)]]"
   - "[[A24]]"
+  - "[[Nike]]"
+  - "[[The Greatest Thing Since Sliced Bread]]"
 reference_count: 2
 ---
 

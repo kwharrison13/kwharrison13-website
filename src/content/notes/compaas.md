@@ -22,6 +22,8 @@ related:
   - "[[Bethanye Blount]]"
   - "[[Carta]]"
   - "[[ChartHop]]"
+  - "[[Alation]]"
+  - "[[Algolia]]"
 ---
 
 # Compaas

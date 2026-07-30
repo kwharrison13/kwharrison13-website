@@ -18,6 +18,9 @@ related:
   - "[[Texas Instruments]]"
   - "[[Innovator's Dilemma]]"
   - "[[Apple]]"
+  - "[[ASML]]"
+  - "[[Intel]]"
+  - "[[Nvidia]]"
 reference_count: 1
 ---
 

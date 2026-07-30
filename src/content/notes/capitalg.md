@@ -22,6 +22,7 @@ related:
   - "[[Venture Capital]]"
   - "[[Index Ventures]]"
   - "[[Ganesh Pai]]"
+  - "[[Alphabet]]"
 ---
 
 # CapitalG

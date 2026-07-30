@@ -17,6 +17,7 @@ related:
   - "[[Mario Gabriele]]"
   - "[[The Hits Business]]"
   - "[[A24]]"
+  - "[[Generalist Capital]]"
 ---
 
 # The Generalist

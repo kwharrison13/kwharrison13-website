@@ -18,7 +18,8 @@ tags:
   - "historical-futurism"
 aliases:
   - "Infinite Games"
-related: []
+related:
+  - "[[Finite and Infinite Games]]"
 ---
 
 ## Key Highlights

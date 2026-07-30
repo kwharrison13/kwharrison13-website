@@ -27,6 +27,7 @@ related:
   - "[[Investment Returns]]"
   - "[[Investing]]"
   - "[[Contrarian]]"
+  - "[[Aclima]]"
 ---
 
 # The Unusual Ambitions of Chamath Palihapitiya

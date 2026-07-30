@@ -15,6 +15,8 @@ aliases:
   - "Instagram"
 related:
   - "[[Snap]]"
+  - "[[America Runs On Instagram]]"
+  - "[[Snapchat's Big Advantage]]"
 reference_count: 6
 ---
 

@@ -20,6 +20,7 @@ related:
   - "[[Super Angels]]"
   - "[[Fred Ehrsam]]"
   - "[[SpaceX]]"
+  - "[[Synthetic SpaceX: Trading a Press Release]]"
 ---
 
 # Coinbase

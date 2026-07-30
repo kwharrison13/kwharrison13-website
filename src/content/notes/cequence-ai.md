@@ -20,6 +20,7 @@ aliases:
 related:
   - "[[Salt Security Diligence — 2021]]"
   - "[[API Security]]"
+  - "[[Noname Security - Diligence]]"
 ---
 
 # Cequence.ai

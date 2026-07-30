@@ -21,6 +21,8 @@ related:
   - "[[Rhetoric]]"
   - "[[Embrace The Nuance]]"
   - "[[Truth]]"
+  - "[[Embrace The Nuance - Research]]"
+  - "[[We Need a Renaissance of Rhetoric - Research]]"
 reference_count: 1
 ---
 

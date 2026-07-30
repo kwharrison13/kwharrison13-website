@@ -22,6 +22,7 @@ related:
   - "[[Carlos Gonzalez-Cardenas]]"
   - "[[Pachama]]"
   - "[[Balderton Capital]]"
+  - "[[BlackRock]]"
 ---
 
 # Sylvera

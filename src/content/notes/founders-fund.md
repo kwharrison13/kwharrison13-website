@@ -19,6 +19,8 @@ related:
   - "[[Delian Asparouhov]]"
   - "[[Keith Rabois]]"
   - "[[Peter Thiel's Religion]]"
+  - "[[Mosaic.Tech]]"
+  - "[[The Tail That Wags The Dog - Research]]"
 reference_count: 2
 ---
 

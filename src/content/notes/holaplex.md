@@ -13,6 +13,7 @@ aliases:
   - "Holaplex"
 related:
   - "[[FormFn]]"
+  - "[[OpenSea]]"
 reference_count: 1
 ---
 

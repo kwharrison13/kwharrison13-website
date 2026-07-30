@@ -15,6 +15,7 @@ aliases:
 related:
   - "[[Dan Shipper]]"
   - "[[The Notetaking Cold War]]"
+  - "[[The Man Who Reads 1,000 Articles a Day]]"
 ---
 
 # Superorganizers

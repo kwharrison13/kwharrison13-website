@@ -24,6 +24,8 @@ related:
   - "[[Elon Musk]]"
   - "[[Disney]]"
   - "[[Walt Disney]]"
+  - "[[The Gospel of ARK Invest - Research]]"
+  - "[[Elon Musk Discreetly Bought a $1 Billion Gas Turbine Company to Power AI. Here's What it Means for SpaceX Investors.]]"
 ---
 
 # Tesla

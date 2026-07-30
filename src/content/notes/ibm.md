@@ -18,6 +18,7 @@ related:
   - "[[David Pickeral]]"
   - "[[Microsoft]]"
   - "[[Cisco]]"
+  - "[[IBM Planning Analytics]]"
 ---
 
 # IBM

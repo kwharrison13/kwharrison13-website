@@ -24,6 +24,7 @@ related:
   - "[[What I Found in a Thousand Towns]]"
   - "[[Vertical Integration]]"
   - "[[The Anti-Amazon Alliance]]"
+  - "[[Sam Walton: Made in America]]"
 ---
 
 # Walmart

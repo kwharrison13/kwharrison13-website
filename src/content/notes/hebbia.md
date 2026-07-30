@@ -20,6 +20,7 @@ related:
   - "[[November 8th"
   - "2021 — George Sivulka (Hebbia)]]"
   - "[[Tegus]]"
+  - "[[Elastic]]"
 reference_count: 1
 ---
 

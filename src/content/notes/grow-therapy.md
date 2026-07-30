@@ -23,6 +23,8 @@ related:
   - "[[Index Ventures]]"
   - "[[Insurance]]"
   - "[[Healthcare]]"
+  - "[[Psychology Today]]"
+  - "[[Theravo]]"
 ---
 
 # Grow Therapy

@@ -17,6 +17,7 @@ related:
   - "[[Lars Hamilton]]"
   - "[[High Alpha]]"
   - "[[Venture Studio]]"
+  - "[[Why Venture Capital Doesn't Build The Things We Really Need]]"
 ---
 
 # High Alpha Innovation

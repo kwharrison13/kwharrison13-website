@@ -17,6 +17,7 @@ related:
   - "[[Nick Calla]]"
   - "[[High Alpha Innovation]]"
   - "[[Venture Studio]]"
+  - "[[Pathlight]]"
 ---
 
 # High Alpha

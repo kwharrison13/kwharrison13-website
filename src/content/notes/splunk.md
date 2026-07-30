@@ -19,6 +19,7 @@ related:
   - "[[September 17th, 2021 — Monad Pre-Brief (Max Rimpel)]]"
   - "[[Salt Security]]"
   - "[[SIEM]]"
+  - "[[Cribl]]"
 reference_count: 3
 ---
 

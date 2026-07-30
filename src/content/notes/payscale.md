@@ -21,6 +21,10 @@ related:
   - "[[Abhishek Mahajan]]"
   - "[[Shareworks]]"
   - "[[Radford]]"
+  - "[[Francisco Partners]]"
+  - "[[Warburg Pincus]]"
+  - "[[Zenefits]]"
+  - "[[Pave Diligence — 2021]]"
 reference_count: 3
 ---
 

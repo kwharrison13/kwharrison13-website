@@ -16,6 +16,7 @@ aliases:
   - "Base10"
 related:
   - "[[Jason Kong]]"
+  - "[[Vetcove]]"
 ---
 
 # Base10 Partners

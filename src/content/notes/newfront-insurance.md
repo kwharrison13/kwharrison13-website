@@ -16,6 +16,7 @@ aliases:
   - "New Front Insurance"
 related:
   - "[[Pave Diligence — 2021]]"
+  - "[[Discord]]"
 ---
 
 # Newfront Insurance

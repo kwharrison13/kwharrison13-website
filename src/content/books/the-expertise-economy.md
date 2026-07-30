@@ -7,7 +7,7 @@ quake: false
 tags:
   - "people-over-politics"
   - "open-source-knowledge"
-last_imported: "2026-07-29"
+last_imported: "2026-07-30"
 key_takeaways_status: "written"
 ---
 

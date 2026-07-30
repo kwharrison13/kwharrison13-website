@@ -23,6 +23,7 @@ related:
   - "[[Pave]]"
   - "[[Tobi Lutke]]"
   - "[[An Interview with Eric Seufert about Apple, Facebook, and Mobile Advertising]]"
+  - "[[Heirloom]]"
 ---
 
 # Shopify

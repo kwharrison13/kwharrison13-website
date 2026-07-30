@@ -24,6 +24,9 @@ related:
   - "[[Capital Allocation]]"
   - "[[Venture Capital]]"
   - "[[Robinhood]]"
+  - "[[Bundle]]"
+  - "[[Facebook]]"
+  - "[[Toast]]"
 ---
 
 # The Market Is The Greatest Critic

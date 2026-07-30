@@ -23,6 +23,7 @@ related:
   - "[[A24]]"
   - "[[Intellectual Property]]"
   - "[[Power Law]]"
+  - "[[The Hits Business - Research]]"
 ---
 
 # Legendary Entertainment

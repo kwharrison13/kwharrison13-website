@@ -25,6 +25,7 @@ related:
   - "[[LP]]"
   - "[[Private Equity]]"
   - "[[Crypto]]"
+  - "[[Indie.vc]]"
 ---
 
 ## Key Highlights

@@ -13,6 +13,7 @@ aliases:
   - "Eads Bridge Holdings"
 related:
   - "[[Michael Dempsey]]"
+  - "[[Company Building In The Curiosity Phase of AI]]"
 reference_count: 4
 ---
 

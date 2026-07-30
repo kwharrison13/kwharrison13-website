@@ -19,6 +19,7 @@ aliases:
 related:
   - "[[FormFn]]"
   - "[[Garnet]]"
+  - "[[OpenSea]]"
 reference_count: 1
 ---
 

@@ -22,6 +22,7 @@ related:
   - "[[Wordsmiths]]"
   - "[[Zappos]]"
   - "[[The State of Startup Media]]"
+  - "[[Roam Research — Diligence (2021)]]"
 ---
 
 # Bridgewater Associates

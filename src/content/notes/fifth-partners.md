@@ -20,6 +20,7 @@ related:
   - "[[Tom Peterson]]"
   - "[[Alternative Real Estate]]"
   - "[[July 2nd, 2020 — Lars Hamilton (High Alpha Innovation)]]"
+  - "[[Sodalicious]]"
 ---
 
 # Fifth Partners

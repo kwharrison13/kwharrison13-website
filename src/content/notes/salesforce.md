@@ -27,6 +27,7 @@ related:
   - "[[Salesforce Acquires Slack"
   - "Salesforce's Reasoning"
   - "Salesforce's Opportunity]]"
+  - "[[Salesforce Ventures]]"
 reference_count: 1
 ---
 

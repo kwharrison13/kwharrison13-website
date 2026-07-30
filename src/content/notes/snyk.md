@@ -23,6 +23,7 @@ related:
   - "[[Prabhath Karanth]]"
   - "[[DevSecOps]]"
   - "[[David Mark]]"
+  - "[[The Tail That Wags The Dog - Research]]"
 ---
 
 # Snyk

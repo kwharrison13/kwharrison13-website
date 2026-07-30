@@ -22,6 +22,7 @@ related:
   - "[[Whale Rock]]"
   - "[[March 31st, 2020 — Wei Guo (Whale Rock)]]"
   - "[[Project Joe Exotic — Tiger Global Competitive Analysis]]"
+  - "[[The Blackstone of Innovation - Research]]"
 reference_count: 8
 ---
 

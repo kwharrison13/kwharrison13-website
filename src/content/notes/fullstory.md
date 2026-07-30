@@ -17,6 +17,8 @@ related:
   - "[[Sprig fka UserLeap - Diligence]]"
   - "[[Sprig]]"
   - "[[Joseph Ambeault]]"
+  - "[[Codecademy]]"
+  - "[[Hotjar]]"
 ---
 
 # FullStory

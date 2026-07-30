@@ -20,6 +20,10 @@ related:
   - "[[Planhat - Diligence]]"
   - "[[Salesforce]]"
   - "[[ToTango]]"
+  - "[[Catalyst]]"
+  - "[[ChurnZero]]"
+  - "[[Custify]]"
+  - "[[Medallia]]"
 reference_count: 1
 ---
 

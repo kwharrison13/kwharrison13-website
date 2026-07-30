@@ -16,6 +16,9 @@ related:
   - "[[Working Toward Zion]]"
   - "[[Mondragon]]"
   - "[[Value Added Ventures]]"
+  - "[[Want to Do Finance for the Poor? Then Use Microcredit to Labor Among Beggars"
+  - "Addicts"
+  - "and Thieves]]"
 reference_count: 1
 ---
 

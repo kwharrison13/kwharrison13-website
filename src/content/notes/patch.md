@@ -20,6 +20,8 @@ related:
   - "[[Watershed Climate]]"
   - "[[Climate Change]]"
   - "[[Afterpay ($AFTPY)]]"
+  - "[[Planetly]]"
+  - "[[Watershed Climate Diligence — 2021]]"
 ---
 
 # Patch

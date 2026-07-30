@@ -20,6 +20,7 @@ related:
   - "[[Index Ventures]]"
   - "[[Payments]]"
   - "[[Institutionalized Belief In The Greater Fool]]"
+  - "[[Institutionalized Belief In The Greater Fool - Research]]"
 ---
 
 # Adyen

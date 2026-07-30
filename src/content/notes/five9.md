@@ -18,6 +18,8 @@ related:
   - "[[CCaaS]]"
   - "[[Cresta.ai]]"
   - "[[Cresta.ai - Diligence]]"
+  - "[[Genesys]]"
+  - "[[NICE]]"
 reference_count: 1
 ---
 

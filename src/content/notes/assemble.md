@@ -19,6 +19,8 @@ related:
   - "[[Lisa Wallace]]"
   - "[[Pave fka Trove]]"
   - "[[ServiceTitan]]"
+  - "[[ChartHop]]"
+  - "[[Pave Diligence — 2021]]"
 ---
 
 # Assemble

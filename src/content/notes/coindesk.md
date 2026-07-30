@@ -16,6 +16,7 @@ related:
   - "[[Bradley Miles]]"
   - "[[Breaking into VC]]"
   - "[[Crypto]]"
+  - "[[FanCoin]]"
 ---
 
 # CoinDesk

@@ -19,6 +19,10 @@ related:
   - "[[Tegus]]"
   - "[[Henry Schuck]]"
   - "[[Nisha Swarup]]"
+  - "[[Bombora]]"
+  - "[[Gartner]]"
+  - "[[Slintel]]"
+  - "[[Tegus - Pre-Brief — September 27th, 2021]]"
 ---
 
 # ZoomInfo

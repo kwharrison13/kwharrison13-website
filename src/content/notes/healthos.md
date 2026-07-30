@@ -27,6 +27,9 @@ related:
   - "[[Apple ($AAPL)]]"
   - "[[Tim Cook]]"
   - "[[HIPAA]]"
+  - "[[Eight Sleep]]"
+  - "[[Oura]]"
+  - "[[WHOOP]]"
 ---
 
 # healthOS

@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Silicon Valley Bank"
-related: []
+related:
+  - "[[The Meme Economy - Research]]"
 reference_count: 1
 ---
 

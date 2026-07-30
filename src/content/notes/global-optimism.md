@@ -17,6 +17,8 @@ related:
   - "[[Christiana Figueres]]"
   - "[[Watershed Climate Diligence — 2021]]"
   - "[[Watershed Climate]]"
+  - "[[Center for Climate & Energy Solutions]]"
+  - "[[What's In a Post-Mortem - Research]]"
 ---
 
 # Global Optimism

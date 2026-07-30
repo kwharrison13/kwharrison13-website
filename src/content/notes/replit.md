@@ -20,6 +20,7 @@ related:
   - "[[Saanya Ojha]]"
   - "[[Packy McCormick]]"
   - "[[September 13th, 2022 — Harry Stebbings Podcast]]"
+  - "[[Updating The Hype Cycle - Research]]"
 ---
 
 # Replit
