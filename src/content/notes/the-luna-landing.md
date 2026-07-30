@@ -2,31 +2,70 @@
 title: "The Luna Landing"
 type: "concept"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-16"
-updated: "2026-06-25"
+updated: "2026-07-30"
 last_updated_by: "agent"
 sources:
-  - "wiki/books/Our Towns.md"
-  - "wiki/books/The Self-Driven Child.md"
-  - "wiki/long-reads/The Magical Touch of Finn Beales.md"
-tags: []
+  - "raw/archive/inbox/luna-landing-organization-brief.md"
+  - "wiki/essays/Family Towns.md"
+tags:
+  - "city-building"
 aliases:
   - "The Luna Landing"
+  - "Luna Landing"
 related:
-  - "[[Photography]]"
-  - "[[Prosperable]]"
-reference_count: 1
+  - "[[Luna, New Mexico]]"
+  - "[[City Building]]"
+  - "[[Our Towns]]"
+  - "[[Family Towns]]"
+  - "[[Nauvoo]]"
 ---
 
 # The Luna Landing
 
-The Luna Landing is one of Kyle's personal project tags — a recurring filing label rather than an external concept — that he attaches to reading he is collecting around it. From the contexts where it appears, the cluster seems to braid two strands: **place and craft.** In [Our Towns](/books/our-towns) he tags it (alongside [Prosperable](/notes/prosperable)) to a passage on a quiet "Spiritual Sanctuary" — two hundred acres of forest with tamed paths, resting spots, and weatherproof journals where visitors "walk, meditate, and record their thoughts." In [The Self-Driven Child](/books/the-self-driven-child) he tags it to a passage on "forest bathing" (*shinrin-yoku*) and nature as an antidote to screen-saturated, depleted attention. And in the [Finn Beales](/notes/the-magical-touch-of-finn-beales) long-read — a profile of a Welsh landscape photographer who built a brand on Instagram — David Perell filed the piece under "[Photography](/notes/photography) / The Luna Landing," suggesting the project also has a photographic/visual dimension.
+**One-line:** *Kyle's working title for a multi-venture program to help his family town — Luna, New Mexico — thrive: knowing its history, telling its story, building a hunting economy on the family land, and moving the town toward incorporation.*
 
-Taken together the references point to a project about restorative, nature-rooted, reflective space and its photographic craft. The exact scope is idiosyncratic to Kyle's notes and not defined in any single source.
+This is the **umbrella hub / execution program** for everything Luna. It is a *program*, not a reading lens — real money, family land, permits, and a civic incorporation process. The wiki is organized by *type* (books, people, concepts, companies, meetings), so The Luna Landing is a **view assembled by links**, not a folder: this hub page plus liberal wikilinks out to the pages that live in their natural type-folders.
 
-## Where this appears
+Kyle's ancestor William Laney Jr. was sent to help settle Luna in 1883; four-plus generations of Laneys / Thompsons / Shupes have lived there, and the family still owns land Kyle will inherit. The origin narrative is his published essay [Family Towns](/essays/family-towns) — "wanting to find ways to help it thrive is a compelling intellectual exercise for me, whether I'm successful or not."
 
-- [Our Towns](/books/our-towns) — tagged to the Pathways Spiritual Sanctuary passage: forest paths, resting spots, and journals for reflection.
-- [The Self-Driven Child](/books/the-self-driven-child) — tagged to the "forest bathing" / nature-as-antidote-to-screens passage.
-- [The Magical Touch of Finn Beales](/notes/the-magical-touch-of-finn-beales) — Perell filed this landscape-photographer profile under Photography / The Luna Landing.
+## The Luna Landing vs. City Building
+
+[City Building](/notes/city-building) and The Luna Landing are different *kinds* of thing:
+
+- **[City Building](/notes/city-building) is a lens** — a "portfolio idea" in Kyle's reading-serendipity sense, the bucket he tags books/tweets to so casual consumption compounds. Its job is *directional information ingestion*. It's greenfield/charter-cities flavored.
+- **The Luna Landing is a program** — an execution hub with sub-ventures. Its job is *doing*.
+
+Most of Luna is **not** city building (oral history = heritage; elk tags / meat locker = land-and-resource business; grants / 501(c)(3) = civic; the novel = literary). So City Building is **one parent theme via `related:`** — the biggest single intellectual feeder — **not a container**. The links are bidirectional peers. A closer single sub-thesis is [Our Towns](/books/our-towns): revitalizing an *existing* town rather than founding one greenfield.
+
+## The four workstreams
+
+### 1. History — knowing Luna
+Working through a book-form history of Luna and interviewing relatives, capturing the oral history before it's lost.
+- People (ancestors + living relatives; double as novel character bibles): William Laney Jr.
+- Interviews / oral histories → `wiki/meetings/` (dated, `publish: false` forever).
+- The history book → `wiki/books/` **only if Kyle has read it** (rule 14); otherwise it's a source to work through, not a read-library entry.
+
+### 2. The novel — a historical novel
+An *East of Eden*–style novel (minus the sociopathy) about Kyle's great-grandpa and great-grandma — two very different people and lives. Lives in the dedicated **`wiki/fiction/`** folder: see The Luna Novel. Research lives on the people pages and in `wiki/essays-research/`; the manuscript drafts live in `wiki/fiction/` (`publish: false`, no wikilinks in prose).
+
+### 3. The hunting economy — a venture cluster
+A hunting business that starts as a lead-gen marketplace and expands into owned hunts, a lodge, a meat-locker business for hunters, and executive retreats. Sub-thesis hub: **Luna Hunting Economy**. First vehicle: **Gila Hunts**.
+
+The key move: **the durable asset is the market knowledge, not the first company.** Market maps live in shared `wiki/concepts/` pages every future venture reuses — Hunt Outfitter Industry, Trophy Hunting Economics, Lead-Gen Marketplace, NM Tag Draw System, Gila — so Gila Hunts is the first probe that *populates a reusable map*, and the lodge inherits it on day one.
+
+### 4. Nonprofit / incorporation — civic
+A nonprofit that pursues grants and helps Luna work toward becoming an incorporated village. Concepts: Municipal Incorporation (NM), Incorporated Village, Rural Grants. Grant landscape + the NM incorporation process live in a `wiki/diligence-research/` loading dock.
+
+## Map
+
+- **Place:** Luna, New Mexico
+- **History:** William Laney Jr. · relatives (`wiki/meetings/`) · history book (`wiki/books/`, only if read)
+- **Novel:** The Luna Novel
+- **Hunting economy:** Luna Hunting Economy → Gila Hunts · Hunt Outfitter Industry · Trophy Hunting Economics · Lead-Gen Marketplace · NM Tag Draw System · Gila
+- **Civic:** Municipal Incorporation (NM) · Incorporated Village · Rural Grants
+
+## Where it shows up
+
+_(auto-populated by lint)_
