@@ -9,7 +9,7 @@ tags:
   - "historical-futurism"
   - "republic-of-letters"
   - "open-source-knowledge"
-last_imported: "2026-07-24"
+last_imported: "2026-07-29"
 key_takeaways_status: "written"
 ---
 

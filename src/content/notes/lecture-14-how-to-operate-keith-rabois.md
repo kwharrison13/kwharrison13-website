@@ -60,7 +60,7 @@ related:
 
 > "Steve would ask me, 'how many things have you said no to?' And I would list all these sacrificial things I'd said no to. But he knew I wasn't really interested in doing those things anyways. What focus means is saying no to something that, with every bone in your body, think is a phenomenal idea and you wake up thinking about it, but you say no to it because you're focusing on something else." — [Jony Ive](/notes/jony-ive) on [Steve Jobs](/notes/steve-jobs)
 
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkwharrison13%2FvLmK1EA1ZT.03.41%20AM.png?alt=media&token=e30fee5c-17c1-49fb-960c-0ddfa563ec4f)
+![](/images/wiki-notes/lecture-14-how-to-operate-keith-rabois/vLmK1EA1ZT.03.41_AM.png) <!-- src: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkwharrison13%2FvLmK1EA1ZT.03.41%20AM.png?alt=media&token=e30fee5c-17c1-49fb-960c-0ddfa563ec4f -->
 
 ## How it connects
 
