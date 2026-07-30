@@ -55,6 +55,12 @@ const yearStats = Array.from(byYear.entries())
 
 const totalWeeks = yearStats.reduce((sum, y) => sum + y.weeks, 0);
 const totalWords = yearStats.reduce((sum, y) => sum + y.words, 0);
+
+// Whether any essays predate the streak (2016–2021), which gates the
+// "Pre-2022 Essays" filter button.
+const hasPre2022 = essays.some(
+  ({ essay }) => new Date(essay.data.date).getFullYear() < STREAK_START_YEAR
+);
 ---
 
 <BaseLayout title="Essays" currentPage="essays" description="Essays by Kyle Harrison on venture capital, startups, investing, technology, and building things that compound across generations.">
@@ -70,15 +76,23 @@ const totalWords = yearStats.reduce((sum, y) => sum + y.words, 0);
     </div>
     <div class="streak-grid">
       {yearStats.map((y) => (
-        <div class="streak-year">
+        <button type="button" class="streak-year" data-filter-year={y.year} aria-pressed="false">
           <div class="streak-year-label">
             {y.year}{y.ytd && <span class="streak-ytd">YTD</span>}
           </div>
           <div class="streak-words">{formatWords(y.words)}</div>
           <div class="streak-words-label">words</div>
           <div class="streak-weeks">{y.weeks} {y.weeks === 1 ? 'week' : 'weeks'} posted</div>
-        </div>
+        </button>
       ))}
+    </div>
+    <div class="streak-footer">
+      <span class="streak-hint">Tap a year to filter essays</span>
+      {hasPre2022 && (
+        <button type="button" class="streak-pre" data-filter-pre aria-pressed="false">
+          Pre-2022 Essays →
+        </button>
+      )}
     </div>
   </section>
 
@@ -86,8 +100,13 @@ const totalWords = yearStats.reduce((sum, y) => sum + y.words, 0);
 
   <div class="section-divider"></div>
 
+  <div class="filter-status" data-filter-status hidden>
+    <span class="filter-label" data-filter-label></span>
+    <button type="button" class="filter-clear" data-filter-clear>× Show all</button>
+  </div>
+
   {essays.map(({ essay, words, minutes }) => (
-    <a href={`/essays/${essay.slug}`} style="text-decoration: none; color: inherit;">
+    <a href={`/essays/${essay.slug}`} class="essay-link" data-essay-year={new Date(essay.data.date).getFullYear()} style="text-decoration: none; color: inherit;">
       <div class="update-card">
         <div class="update-icon" set:html={essayIconSvg(essay.data)} />
         <div class="update-content">
@@ -146,7 +165,98 @@ const totalWords = yearStats.reduce((sum, y) => sum + y.words, 0);
     background: var(--bg);
     border: 1px solid var(--border);
     border-radius: 6px;
+    text-align: left;
+    width: 100%;
+    font-family: inherit;
+    cursor: pointer;
+    transition: border-color 0.15s ease, background 0.15s ease;
+    -webkit-appearance: none;
+    appearance: none;
   }
+
+  .streak-year:hover {
+    border-color: var(--accent);
+  }
+
+  .streak-year.is-active {
+    border-color: var(--accent);
+    background: var(--accent-soft);
+  }
+
+  .streak-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-top: 16px;
+    flex-wrap: wrap;
+  }
+
+  .streak-hint {
+    font-size: 12px;
+    color: var(--text-tertiary);
+  }
+
+  .streak-pre {
+    font-family: var(--font-body);
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--text-secondary);
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 6px 12px;
+    cursor: pointer;
+    transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+  }
+
+  .streak-pre:hover {
+    border-color: var(--accent);
+    color: var(--text);
+  }
+
+  .streak-pre.is-active {
+    border-color: var(--accent);
+    background: var(--accent-soft);
+    color: var(--accent);
+  }
+
+  .filter-status {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 4px;
+    padding-bottom: 12px;
+  }
+
+  /* The HTML `hidden` attribute must win over the flex display above. */
+  .filter-status[hidden] { display: none; }
+
+  .filter-label {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--text);
+  }
+
+  .filter-clear {
+    font-family: var(--font-body);
+    font-size: 12px;
+    color: var(--text-secondary);
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 4px 6px;
+    border-radius: 4px;
+    transition: color 0.15s ease, background 0.15s ease;
+  }
+
+  .filter-clear:hover {
+    color: var(--accent);
+    background: var(--nav-hover);
+  }
+
+  .essay-link[hidden] { display: none; }
 
   .streak-year-label {
     font-family: var(--font-mono);
@@ -192,3 +302,66 @@ const totalWords = yearStats.reduce((sum, y) => sum + y.words, 0);
 
   .update-dot { color: var(--border); }
 </style>
+
+<script>
+  // Year filtering for the essays list. Toggling is client-side: the year
+  // stat cards and the "Pre-2022" button hide/show essay links by their
+  // data-essay-year. Clicking the active filter again clears it.
+  const STREAK_START = 2022;
+  const cards = Array.from(document.querySelectorAll<HTMLElement>('.essay-link'));
+  const yearBtns = Array.from(document.querySelectorAll<HTMLButtonElement>('[data-filter-year]'));
+  const preBtn = document.querySelector<HTMLButtonElement>('[data-filter-pre]');
+  const status = document.querySelector<HTMLElement>('[data-filter-status]');
+  const label = document.querySelector<HTMLElement>('[data-filter-label]');
+  const clearBtn = document.querySelector<HTMLButtonElement>('[data-filter-clear]');
+
+  type Filter = { type: 'year'; year: number } | { type: 'pre' } | null;
+  let active: Filter = null;
+
+  function apply() {
+    let count = 0;
+    for (const card of cards) {
+      const y = Number(card.dataset.essayYear);
+      let show = true;
+      if (active?.type === 'year') show = y === active.year;
+      else if (active?.type === 'pre') show = y < STREAK_START;
+      card.hidden = !show;
+      if (show) count++;
+    }
+
+    for (const btn of yearBtns) {
+      const on = active?.type === 'year' && active.year === Number(btn.dataset.filterYear);
+      btn.classList.toggle('is-active', on);
+      btn.setAttribute('aria-pressed', on ? 'true' : 'false');
+    }
+    if (preBtn) {
+      const on = active?.type === 'pre';
+      preBtn.classList.toggle('is-active', on);
+      preBtn.setAttribute('aria-pressed', on ? 'true' : 'false');
+    }
+
+    if (active && status && label) {
+      const what = active.type === 'pre' ? 'pre-2022 essays' : `essays from ${active.year}`;
+      label.textContent = `Showing ${count} ${what}`;
+      status.hidden = false;
+    } else if (status) {
+      status.hidden = true;
+    }
+  }
+
+  for (const btn of yearBtns) {
+    btn.addEventListener('click', () => {
+      const year = Number(btn.dataset.filterYear);
+      active = active?.type === 'year' && active.year === year ? null : { type: 'year', year };
+      apply();
+    });
+  }
+  preBtn?.addEventListener('click', () => {
+    active = active?.type === 'pre' ? null : { type: 'pre' };
+    apply();
+  });
+  clearBtn?.addEventListener('click', () => {
+    active = null;
+    apply();
+  });
+</script>
