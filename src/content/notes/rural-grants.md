@@ -30,6 +30,7 @@ related:
 - Categories of rural grants (federal USDA Rural Development, state NM programs, foundations, infrastructure/water/land).
 - Which require incorporated status (ties to [Municipal Incorporation (NM)](/notes/municipal-incorporation-nm) / [Incorporated Village](/notes/incorporated-village)) vs. nonprofit 501(c)(3) status.
 - Fit for Luna's specific needs (water, land, tourism, community development).
+- **Precedent — the NM Unit Fund.** After the Gila diversion was defunded in 2020, New Mexico's "Unit Fund" (well over $100M) was redirected to small, practical water projects across southwest NM — water-line and well repairs, treatment systems, effluent reuse (source: [Water in Catron County](/notes/water-in-catron-county)). A live channel of water-infrastructure money in exactly [Luna's county](/notes/catron-county).
 
 ## Related
 

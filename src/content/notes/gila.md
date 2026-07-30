@@ -17,6 +17,8 @@ related:
   - "[[Luna, New Mexico]]"
   - "[[Luna Hunting Economy]]"
   - "[[NM Tag Draw System]]"
+  - "[[Catron County]]"
+  - "[[Water in Catron County]]"
 ---
 
 # Gila
@@ -31,6 +33,7 @@ related:
 - Why it's a hunting destination — elk units, game quality, reputation.
 - Access, terrain, seasons — the operating context for owned hunts, a lodge, and retreats.
 - Ties into the [NM Tag Draw System](/notes/nm-tag-draw-system) units that cover this region.
+- **Water & fire context:** the Gila river system, the failed AWSA diversion, the Gila River Adjudication, and the megadrought-driven fire regime (Whitewater-Baldy 2012, Sacaton 2026) are covered in [Water in Catron County](/notes/water-in-catron-county) — directly relevant to land, access, and the durability of hunts/lodge/retreats.
 
 ## Related
 

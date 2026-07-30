@@ -16,6 +16,7 @@ aliases:
   - "Luna Landing"
 related:
   - "[[Luna, New Mexico]]"
+  - "[[Catron County]]"
   - "[[City Building]]"
   - "[[Our Towns]]"
   - "[[Family Towns]]"
@@ -58,9 +59,16 @@ The key move: **the durable asset is the market knowledge, not the first company
 ### 4. Nonprofit / incorporation — civic
 A nonprofit that pursues grants and helps Luna work toward becoming an incorporated village. Concepts: [Municipal Incorporation (NM)](/notes/municipal-incorporation-nm), [Incorporated Village](/notes/incorporated-village), [Rural Grants](/notes/rural-grants). Grant landscape + the NM incorporation process live in a `wiki/diligence-research/` loading dock.
 
+## Cross-cutting research (place, land, water, tourism)
+
+Beyond the four workstreams, the program collects durable reference research on the region — water, land, tourism, and community-building functions — that feeds every venture and the civic effort.
+
+- **Water:** [Water in Catron County](/notes/water-in-catron-county) — a 140-year history of water scarcity and conflict in [Catron County](/notes/catron-county) (interstate cap, the failed Gila diversion, the Augustin Plains export fight, the [Southwestern Megadrought](/notes/southwestern-megadrought)). Concepts: [Acequias](/notes/acequias), [Prior Appropriation](/notes/prior-appropriation), [Southwestern Megadrought](/notes/southwestern-megadrought).
+- **Place:** [Catron County](/notes/catron-county) — the containing county (largest, emptiest in NM).
+
 ## Map
 
-- **Place:** [Luna, New Mexico](/notes/luna-new-mexico)
+- **Place:** [Luna, New Mexico](/notes/luna-new-mexico) · [Catron County](/notes/catron-county)
 - **History:** [William Laney Jr.](/notes/william-laney-jr) · relatives (`wiki/meetings/`) · history book (`wiki/books/`, only if read)
 - **Novel:** The Luna Novel
 - **Hunting economy:** [Luna Hunting Economy](/notes/luna-hunting-economy) → [Gila Hunts](/notes/gila-hunts) · [Hunt Outfitter Industry](/notes/hunt-outfitter-industry) · [Trophy Hunting Economics](/notes/trophy-hunting-economics) · [Lead-Gen Marketplace](/notes/lead-gen-marketplace) · [NM Tag Draw System](/notes/nm-tag-draw-system) · [Gila](/notes/gila)
