@@ -19,13 +19,21 @@ related:
   - "[[NM Tag Draw System]]"
   - "[[Catron County]]"
   - "[[Water in Catron County]]"
+  - "[[E-PLUS]]"
+  - "[[Gila & Catron County Hunt Guide Directory]]"
 ---
 
 # Gila
 
 **One-line:** *The Gila region of southwestern New Mexico — wilderness and public land near [Luna, New Mexico](/notes/luna-new-mexico) — the geographic and namesake anchor of the [Luna Hunting Economy](/notes/luna-hunting-economy) and [Gila Hunts](/notes/gila-hunts).*
 
-> **Stub — to populate.** Durable, shared market-map page for the [Luna Hunting Economy](/notes/luna-hunting-economy).
+## What we know (July 2026 research)
+
+- **The elk units.** Luna sits in the **GMU 16 complex** (+ 15, 23, 24). **16A** = the celebrated trophy unit right at Luna; **16D** = the most hyped trophy-bull unit in NM (record-book bulls, hardest draw); **16C/16E** strong (360"+ possible); **16B** = mostly Gila Wilderness, horseback/foot only, milder draw. Area trophy quality 320–350"+ (source: Luna Landing Retreat — Master Reference).
+- **Multi-species, ~10 huntable months.** Elk is the franchise; bear, cougar, javelina, turkey, predators fill the shoulders (many OTC). Jun–Aug is the off-season (fishing / retreat amenities carry).
+- **Gila Wilderness** — the first designated wilderness in the U.S. (1924), ~571k acres, foot/horseback only; a brandable "birthplace of American wilderness" story and the terrain constraint for guiding (USFS special-use permits).
+- **The wider asset corridor** (dark-sky sanctuary, Gila Cliff Dwellings, Mogollon ghost town) clusters south along US-180 — see Luna Landing Retreat — Master Reference.
+- Supply-side operators: [Gila & Catron County Hunt Guide Directory](/notes/gila-and-catron-county-hunt-guide-directory); tag mechanics: [NM Tag Draw System](/notes/nm-tag-draw-system) + [E-PLUS](/notes/e-plus).
 
 ## What to capture here
 

@@ -31,6 +31,7 @@ related:
 - Which require incorporated status (ties to [Municipal Incorporation (NM)](/notes/municipal-incorporation-nm) / [Incorporated Village](/notes/incorporated-village)) vs. nonprofit 501(c)(3) status.
 - Fit for Luna's specific needs (water, land, tourism, community development).
 - **Precedent — the NM Unit Fund.** After the Gila diversion was defunded in 2020, New Mexico's "Unit Fund" (well over $100M) was redirected to small, practical water projects across southwest NM — water-line and well repairs, treatment systems, effluent reuse (source: [Water in Catron County](/notes/water-in-catron-county)). A live channel of water-infrastructure money in exactly [Luna's county](/notes/catron-county).
+- **Water-augmentation funding.** A [Cloud Seeding](/notes/cloud-seeding) pilot could draw a **Bureau of Reclamation WaterSMART** cost-share + state appropriations (2024 HB 130 ~$1M; 2025 SB 471/HB 362 ~$3.6M), sponsored through a local Soil & Water Conservation District (source: [Southwestern New Mexico Cloud Seeding Pilot](/notes/southwestern-new-mexico-cloud-seeding-pilot)).
 
 ## Related
 

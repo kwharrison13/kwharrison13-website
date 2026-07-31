@@ -35,7 +35,7 @@ related:
 
 **One-line:** *A single-file reference — science, viability, economics, regulatory path, proposal outline, and key contacts — for a winter cloud-seeding pilot over the Mogollon–Gila high country, framed around drought resilience and water supply (not fire suppression).*
 
-> **Why this is here:** the **water-augmentation** strand of [The Luna Landing](/notes/the-luna-landing) — a companion to [Water in Catron County](/notes/water-in-catron-county) and [Southwestern Megadrought](/notes/southwestern-megadrought). The general concept lives on Cloud Seeding; this doc is the NM-specific playbook. Private (`publish: false`); the contacts below are preserved for reference, not published. **Figures and contacts should be re-verified before any formal outreach.**
+> **Why this is here:** the **water-augmentation** strand of [The Luna Landing](/notes/the-luna-landing) — a companion to [Water in Catron County](/notes/water-in-catron-county) and [Southwestern Megadrought](/notes/southwestern-megadrought). The general concept lives on [Cloud Seeding](/notes/cloud-seeding); this doc is the NM-specific playbook. Private (`publish: false`); the contacts below are preserved for reference, not published. **Figures and contacts should be re-verified before any formal outreach.**
 
 ---
 
@@ -293,7 +293,7 @@ proposal. Figures and contacts should be re-verified before formal outreach.*
 
 ## Connections
 
-- Cloud Seeding — the reusable weather-modification concept.
+- [Cloud Seeding](/notes/cloud-seeding) — the reusable weather-modification concept.
 - [Water in Catron County](/notes/water-in-catron-county) · [Southwestern Megadrought](/notes/southwestern-megadrought) — the water-scarcity context this responds to.
 - [Rural Grants](/notes/rural-grants) — Bureau of Reclamation WaterSMART + state appropriations as funding paths; the SWCD sponsor vehicle.
 - [Catron County](/notes/catron-county) · [The Luna Landing](/notes/the-luna-landing) — the place and program.

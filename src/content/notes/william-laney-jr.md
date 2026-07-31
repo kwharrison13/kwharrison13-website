@@ -19,6 +19,9 @@ related:
   - "[[The Luna Landing]]"
   - "[[Family Towns]]"
   - "[[Wilford Woodruff]]"
+  - "[[Harriet Ellen Fuller]]"
+  - "[[William Sheppard Laney]]"
+  - "[[Laney Family Land at Luna]]"
 ---
 
 # William Laney Jr.
@@ -30,8 +33,9 @@ related:
 - **Born in [Salt Lake City](/notes/salt-lake), Utah, in 1848** (source: [Family Towns](/essays/family-towns)).
 - **At age 35 (1883), asked to move with a group of Saints to settle in New Mexico** — one of the [Mormon](/notes/mormon) ranchers who settled [Luna, New Mexico](/notes/luna-new-mexico) (source: [Family Towns](/essays/family-towns)). Per Kyle's organization brief, he was **sent by [Wilford Woodruff](/notes/wilford-woodruff)** to help settle Luna.
 - **Father: William Leany**, born in Logan, Kentucky in 1814, baptized into [The Church of Jesus Christ of Latter-day Saints](/notes/the-church-of-jesus-christ-of-latter-day-saints) in 1833; moved to Missouri, was chased out of Missouri and [Nauvoo](/notes/nauvoo), and settled in Utah (source: [Family Towns](/essays/family-towns)). _(Note the essay's spelling: father "Leany," son "Laney.")_
-- **Married Harriet Ellen Fuller Laney** (source: [Family Towns](/essays/family-towns) photo caption).
-- **Five generations** of Laneys / Thompsons / Shupes have lived in Luna since (source: [Family Towns](/essays/family-towns)).
+- **Lived 1848–1922**; married **[Harriet Ellen Fuller](/notes/harriet-ellen-fuller)** (1852–1932) (source: [Laney Family Land at Luna](/notes/laney-family-land-at-luna), [Family Towns](/essays/family-towns)).
+- **Patented ~146.5 acres** at Luna (Section 5, T6S R20W + Section 33, T5S R20W) — homestead patent issued **January 30, 1892**, when this was still Socorro County (Catron County was carved out in 1921) (source: [Laney Family Land at Luna](/notes/laney-family-land-at-luna)). His son [William Sheppard Laney](/notes/william-sheppard-laney) patented an adjoining ~61.8 acres in 1916; combined family holding ~208 acres, none held by a Laney today.
+- **Five generations** of Laneys / Thompsons / Shupes have lived in Luna since (source: [Family Towns](/essays/family-towns)). Direct line: → [William Sheppard Laney](/notes/william-sheppard-laney) → [Helen Laney](/notes/helen-laney) → [Patricia Thompson](/notes/patricia-thompson) → Kyle.
 
 ## Novel character bible
 

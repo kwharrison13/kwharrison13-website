@@ -190,9 +190,9 @@ Likely the same family branch, spreading across neighboring sections:
 
 ## Connections
 
-- [William Laney Jr.](/notes/william-laney-jr) — the 1892 patentee, first Laney in NM; Harriet Ellen Fuller his wife.
-- William Sheppard Laney — the 1916 patentee, his son; Sara Edna Adair his wife.
-- Helen Laney m. Patrick Allen Thompson → Patricia Thompson m. William Dale Shupe — the line down to Kyle's grandparents.
+- [William Laney Jr.](/notes/william-laney-jr) — the 1892 patentee, first Laney in NM; [Harriet Ellen Fuller](/notes/harriet-ellen-fuller) his wife.
+- [William Sheppard Laney](/notes/william-sheppard-laney) — the 1916 patentee, his son; [Sara Edna Adair](/notes/sara-edna-adair) his wife.
+- [Helen Laney](/notes/helen-laney) m. [Patrick Allen Thompson](/notes/patrick-allen-thompson) → [Patricia Thompson](/notes/patricia-thompson) m. [William Dale Shupe](/notes/william-dale-shupe) — the line down to Kyle's grandparents.
 - [Luna, New Mexico](/notes/luna-new-mexico) · [Catron County](/notes/catron-county) — the place and county.
 - The Luna Novel — the ancestors here are the candidate character bibles.
 - [The Luna Landing](/notes/the-luna-landing) — land is the shared thread across history, the novel, and any land-assembly venture (see the E-PLUS strategy).

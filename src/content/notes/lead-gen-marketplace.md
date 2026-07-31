@@ -17,13 +17,22 @@ related:
   - "[[Luna Hunting Economy]]"
   - "[[Gila Hunts]]"
   - "[[Hunt Outfitter Industry]]"
+  - "[[Programmatic SEO]]"
+  - "[[FishingBooker]]"
+  - "[[Network Effects]]"
 ---
 
 # Lead-Gen Marketplace
 
 **One-line:** *A marketplace whose initial wedge is generating and routing qualified leads to supply-side operators (here, hunt outfitters) — the model [Gila Hunts](/notes/gila-hunts) starts with before moving into owned inventory.*
 
-> **Stub — to populate.** Durable, shared market-map page for the [Luna Hunting Economy](/notes/luna-hunting-economy). See the broader [Marketplaces](/notes/marketplaces) and [B2B Marketplaces](/notes/b2b-marketplaces) concept pages for the general model; this page holds the lead-gen-specific playbook as Kyle learns it.
+## What we know (July 2026 research, via [Gila Hunts](/notes/gila-hunts))
+
+- **Cold start — solve supply first, constrain hard.** Pick the hard side (guides), seed manually (Andrew Chen's supply-first sequence; Lenny Rachitsky's 17-marketplace study found direct recruitment dominant). Constrain to a niche + geography for liquidity density (Airbnb→NYC, DoorDash→one suburb). Do things that don't scale.
+- **Disintermediation is the central risk.** A high-value, low-frequency purchase (a16z's "occasional splurge") maximizes leakage — both sides can transact off-platform after the first match. Defenses: **own the deposit/booking**, on-platform reviews, and a **supply-side CRM** (come for the tool). Keep the rake defensible (Gurley on over-raking).
+- **[Programmatic SEO](/notes/programmatic-seo) is the top-of-funnel moat** — templated pages across the dimension space; the data pages are a single-player hook that pulls demand in before the network exists.
+- **Canonical example: FishingBooker** — bootstrapped to ~$28M revenue on free listings + 10–30% commission + programmatic local SEO; solved supply by doing captains' marketing for them.
+- **Metrics:** liquidity (the metric), match/fill rate, GMV, take rate (watch compression), time-to-book, utilization.
 
 ## What to capture here
 

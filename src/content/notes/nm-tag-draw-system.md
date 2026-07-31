@@ -18,13 +18,20 @@ related:
   - "[[Luna Hunting Economy]]"
   - "[[Trophy Hunting Economics]]"
   - "[[Gila]]"
+  - "[[E-PLUS]]"
 ---
 
 # NM Tag Draw System
 
 **One-line:** *New Mexico's system for allocating hunting tags/licenses (draws, quotas, outfitter allocations, unit boundaries) — the regulatory layer that gates supply in the [Luna Hunting Economy](/notes/luna-hunting-economy).*
 
-> **Stub — to populate.** Durable, shared market-map page for the [Luna Hunting Economy](/notes/luna-hunting-economy).
+## What we know (July 2026 research)
+
+- **Pure random draw, no preference/bonus points** — equal odds every year, so hunters apply annually. 2026 elk deadline **March 18**, results **~April 22** (source: Gila Hunts — Diligence, Luna Landing Retreat — Master Reference).
+- **The 84/6/10 rule** — elk tags split **84% residents / 6% DIY nonresidents / 10% "outfitter pool"** (nonresidents who apply through a registered outfitter). Booking a registered outfitter *materially raises* a nonresident's odds — a genuine, sellable value prop (and the wedge for [Gila Hunts](/notes/gila-hunts)).
+- **Premium Gila bull odds are very low** (~0.1–4%); up to 3 hunters/application, 3 choices.
+- **OTC / zone-quota species** (bear, cougar, javelina, turkey, predators) need no draw — buy a license, hunt within season/quota (zones close at ~90% of harvest limit). **Sellable day one**; they keep a marketplace/lodge liquid year-round.
+- **[E-PLUS](/notes/e-plus) is the private-land alternative** — landowner elk authorizations issued by acreage/habitat formula, usable/sellable/tradeable. The only way to promise a client a guaranteed elk tag.
 
 ## What to capture here
 

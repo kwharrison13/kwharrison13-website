@@ -52,7 +52,7 @@ Working through a book-form history of Luna and interviewing relatives, capturin
 An *East of Eden*–style novel (minus the sociopathy) about Kyle's great-grandpa and great-grandma — two very different people and lives. Lives in the dedicated **`wiki/fiction/`** folder: see The Luna Novel. Research lives on the people pages and in `wiki/essays-research/`; the manuscript drafts live in `wiki/fiction/` (`publish: false`, no wikilinks in prose).
 
 ### 3. The hunting economy — a venture cluster
-A hunting business that starts as a lead-gen marketplace and expands into owned hunts, a lodge, a meat-locker business for hunters, and executive retreats. Sub-thesis hub: **[Luna Hunting Economy](/notes/luna-hunting-economy)**. First vehicle: **[Gila Hunts](/notes/gila-hunts)**.
+A hunting business that starts as a lead-gen marketplace and expands into owned hunts, a lodge, a meat-locker business for hunters, and executive retreats. Sub-thesis hub: **[Luna Hunting Economy](/notes/luna-hunting-economy)**. Two ventures have emerged: **[Gila Hunts](/notes/gila-hunts)** (the verified marketplace, software) and the **Luna retreat/lodge** (place-based corporate retreats + seasonal owned hunts, Lodge-at-Chama model, gated by [E-PLUS](/notes/e-plus) tags).
 
 The key move: **the durable asset is the market knowledge, not the first company.** Market maps live in shared `wiki/concepts/` pages every future venture reuses — [Hunt Outfitter Industry](/notes/hunt-outfitter-industry), [Trophy Hunting Economics](/notes/trophy-hunting-economics), [Lead-Gen Marketplace](/notes/lead-gen-marketplace), [NM Tag Draw System](/notes/nm-tag-draw-system), [Gila](/notes/gila) — so [Gila Hunts](/notes/gila-hunts) is the first probe that *populates a reusable map*, and the lodge inherits it on day one.
 
@@ -63,15 +63,18 @@ A nonprofit that pursues grants and helps Luna work toward becoming an incorpora
 
 Beyond the four workstreams, the program collects durable reference research on the region — water, land, tourism, and community-building functions — that feeds every venture and the civic effort.
 
-- **Water:** [Water in Catron County](/notes/water-in-catron-county) — a 140-year history of water scarcity and conflict in [Catron County](/notes/catron-county) (interstate cap, the failed Gila diversion, the Augustin Plains export fight, the [Southwestern Megadrought](/notes/southwestern-megadrought)). Concepts: [Acequias](/notes/acequias), [Prior Appropriation](/notes/prior-appropriation), [Southwestern Megadrought](/notes/southwestern-megadrought).
+- **Water:** [Water in Catron County](/notes/water-in-catron-county) — a 140-year history of water scarcity and conflict in [Catron County](/notes/catron-county) (interstate cap, the failed Gila diversion, the Augustin Plains export fight, the [Southwestern Megadrought](/notes/southwestern-megadrought)). Concepts: [Acequias](/notes/acequias), [Prior Appropriation](/notes/prior-appropriation), [Southwestern Megadrought](/notes/southwestern-megadrought). Augmentation option: [Southwestern New Mexico Cloud Seeding Pilot](/notes/southwestern-new-mexico-cloud-seeding-pilot) → [Cloud Seeding](/notes/cloud-seeding).
+- **Land:** [Laney Family Land at Luna](/notes/laney-family-land-at-luna) — the family's ~208-acre homestead patents (1892 + 1916) and where the ground went; E-PLUS Land Strategy — Luna — the elk-tag land-assembly analysis ([E-PLUS](/notes/e-plus)).
+- **Tourism / retreat:** Luna Landing Retreat — Master Reference — the place-based destination-retreat venture; playbook concept [Small-Town Revitalization](/notes/small-town-revitalization) (Leavenworth / Fredericksburg / Marfa) → [Tourism](/notes/tourism).
 - **Place:** [Catron County](/notes/catron-county) — the containing county (largest, emptiest in NM).
 
 ## Map
 
 - **Place:** [Luna, New Mexico](/notes/luna-new-mexico) · [Catron County](/notes/catron-county)
-- **History:** [William Laney Jr.](/notes/william-laney-jr) · relatives (`wiki/meetings/`) · history book (`wiki/books/`, only if read)
+- **History & land:** [William Laney Jr.](/notes/william-laney-jr) · [Laney Family Land at Luna](/notes/laney-family-land-at-luna) · relatives (`wiki/meetings/`) · history book (`wiki/books/`, only if read)
 - **Novel:** The Luna Novel
-- **Hunting economy:** [Luna Hunting Economy](/notes/luna-hunting-economy) → [Gila Hunts](/notes/gila-hunts) · [Hunt Outfitter Industry](/notes/hunt-outfitter-industry) · [Trophy Hunting Economics](/notes/trophy-hunting-economics) · [Lead-Gen Marketplace](/notes/lead-gen-marketplace) · [NM Tag Draw System](/notes/nm-tag-draw-system) · [Gila](/notes/gila)
+- **Hunting economy:** [Luna Hunting Economy](/notes/luna-hunting-economy) → [Gila Hunts](/notes/gila-hunts) (marketplace) · retreat/lodge · [E-PLUS](/notes/e-plus) · [Hunt Outfitter Industry](/notes/hunt-outfitter-industry) · [Trophy Hunting Economics](/notes/trophy-hunting-economics) · [Lead-Gen Marketplace](/notes/lead-gen-marketplace) · [NM Tag Draw System](/notes/nm-tag-draw-system) · [Gila](/notes/gila)
+- **Water & tourism:** [Water in Catron County](/notes/water-in-catron-county) · [Cloud Seeding](/notes/cloud-seeding) · [Small-Town Revitalization](/notes/small-town-revitalization) · [Tourism](/notes/tourism)
 - **Civic:** [Municipal Incorporation (NM)](/notes/municipal-incorporation-nm) · [Incorporated Village](/notes/incorporated-village) · [Rural Grants](/notes/rural-grants)
 
 ## Where it shows up

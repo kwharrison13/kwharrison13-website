@@ -24,7 +24,13 @@ related:
 
 **One-line:** *The supply side of guided hunting — outfitters and guides who sell and run hunts — the market [Gila Hunts](/notes/gila-hunts) first probes as a lead-gen marketplace.*
 
-> **Stub — to populate.** This is a durable, shared market-map page for the [Luna Hunting Economy](/notes/luna-hunting-economy). It is intentionally reusable across every venture (marketplace → owned hunts → lodge → meat locker → retreats). As Kyle learns the market — via outfitter/guide calls (`wiki/meetings/`), business plans (`wiki/long-reads/`), and running [Gila Hunts](/notes/gila-hunts) — the knowledge lands **here**, not inside any one company page, so the next venture inherits it.
+## What we know (July 2026 research)
+
+- **Supply census exists:** [Gila & Catron County Hunt Guide Directory](/notes/gila-and-catron-county-hunt-guide-directory) tiers the Gila outfitters — Catron-based (Tier 1: San Francisco River Outfitters, Gila & Apache Outfitters, U-Trail's Elite Gila, Southwest NM Trophy, H&A), Eastern Gila / Sierra County (Beaverhead, Big Rim), and out-of-area operators covering the Gila.
+- **Mostly small-to-mid independents, not chains** — many with weak, outdated websites (the opening for [Gila Hunts](/notes/gila-hunts) and [Programmatic SEO](/notes/programmatic-seo)).
+- **Two licensing barriers protect supply:** NM outfitter/guide **registration** (guide $50 res / $100 nonres; outfitter $500; new outfitters must show 3 yrs prior guiding; written contracts + surety bond; NMDGF 505-476-8066) and a **USFS Gila Wilderness special-use permit** (limited, foot/horseback only; Gila NF Supervisor 575-388-8201). Existing permit-holders have a real moat.
+- **How ratings actually work:** no "Yelp for hunt guides" — trust ranks first-hand references > forums (Rokslide, Hunt Talk, ArcheryTalk) > NMDGF/USFS verification > sparse Google reviews. (Full methodology in the directory.)
+- **Some owners broker landowner tags** (e.g. Gila & Apache Outfitters) — the partner path for the retreat venture (E-PLUS Land Strategy — Luna).
 
 ## What to capture here
 
