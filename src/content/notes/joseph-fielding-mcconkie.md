@@ -1,27 +1,34 @@
 ---
 title: "Joseph Fielding McConkie"
-type: "concept"
+type: "person"
 publish: false
-confidence: "low"
-created: "2026-06-17"
-updated: "2026-06-25"
+confidence: "medium"
+created: "2026-07-31"
+updated: "2026-07-31"
 last_updated_by: "agent"
 sources:
-  - "wiki/gospel-study/Alma 13–16 — Enter into the Rest of the Lord.md"
-tags: []
+  - "wiki/concepts/Answers — Straightforward Answers to Tough Gospel Questions.md"
+tags:
+  - "religious-intellectualism"
+  - "mormonism"
 aliases:
   - "Joseph Fielding McConkie"
 related:
   - "[[Answers: Straightforward Answers to Tough Gospel Questions]]"
-reference_count: 1
+  - "[[Bruce R. McConkie]]"
+  - "[[Women and the Priesthood]]"
 ---
 
 # Joseph Fielding McConkie
 
-Latter-day Saint gospel writer cited in Kyle's gospel study as the author of [Answers: Straightforward Answers to Tough Gospel Questions](/notes/answers-straightforward-answers-to-tough-gospel-questions). The book surfaces in the Alma 13–16 — Enter into the Rest of the Lord notes under the theme of [Women and the Priesthood](/notes/women-and-the-priesthood), appearing alongside [Spencer W. Kimball](/notes/spencer-w-kimball)'s teaching that women were given certain assignments and men foreordained to certain priesthood tasks in the premortal world.
+**One-line:** *Latter-day Saint author and BYU professor of ancient scripture; son of apostle [Bruce R. McConkie](/notes/bruce-r-mcconkie).*
 
-**Context:** Joseph Fielding McConkie (1941–2013) was a professor of ancient scripture at Brigham Young University and a son of LDS apostle Bruce R. McConkie. He authored a number of books on Latter-day Saint doctrine and scripture, including *Answers: Straightforward Answers to Tough Gospel Questions*.
+## What we know
 
-## Where this appears
+- Author of [Answers: Straightforward Answers to Tough Gospel Questions](/notes/answers-straightforward-answers-to-tough-gospel-questions), a question-and-answer volume Kyle cites — especially its chapter on [Women and the Priesthood](/notes/women-and-the-priesthood).
+- Longtime professor of ancient scripture at Brigham Young University, and a prolific author on Latter-day Saint doctrine and the standard works.
 
-- Alma 13–16 — Enter into the Rest of the Lord — cited as author of *Answers: Straightforward Answers to Tough Gospel Questions* in the section on Women and the Priesthood
+## Mentioned in
+
+- [Answers: Straightforward Answers to Tough Gospel Questions](/notes/answers-straightforward-answers-to-tough-gospel-questions) — author.
+- [Women and the Priesthood](/notes/women-and-the-priesthood) — his *Answers* is a reference point in Kyle's study of the topic.

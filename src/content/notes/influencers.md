@@ -28,6 +28,7 @@ related:
   - "000 True Fans]]"
   - "[[Creator Economy]]"
   - "[[Marketing]]"
+  - "[[Entity Ideas]]"
 reference_count: 1
 ---
 
@@ -46,3 +47,12 @@ The concept also appears on the more skeptical, knowledge-gatekeeping side of Ky
 - [The Attention Game](/notes/the-attention-game) — influencers/creators as the entrepreneurial class rewarded by depth over reach
 - [Catherine Yeo](/notes/catherine-yeo) — her creator and Wikipedia research overlaps the influencer/creator landscape
 - Open-Source Knowledge - Research — the "92% trust an influencer over a celebrity" stat, set against gatekept notability
+
+## Entity Ideas capture (Roam)
+
+_Raw idea notes from Kyle's Roam [Entity Ideas](/notes/entity-ideas) page (ingested 2026-07-31). Preserved verbatim so the ideation-phase capture survives._
+
+- https://www.theverge.com/2019/4/4/18293981/instagram-igtv-influencer-stars-talent-scouting-justin-antony
+- Stephen Walter's idea about a venture fund for influencers to diversify their ability to invest in businesses they like
+- "Angels-as-a-Service"
+- https://techcrunch.com/2020/03/11/superpeer/

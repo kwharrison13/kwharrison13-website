@@ -4,9 +4,10 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-19"
-updated: "2026-06-26"
+updated: "2026-07-31"
 last_updated_by: "agent"
 sources:
+  - "Roam Research — \\\"Trends\\\" page (Entity Ideas / Trends.vc deep-dive candidates), ingested 2026-07-31"
   - "wiki/meetings/November 18th, 2021 — FinTech Names (Frank Rotman, QED Investors).md"
   - "wiki/people/Inder Takhar.md"
 tags: []
@@ -30,3 +31,10 @@ Fintech (financial technology) is a recurring coverage sector across Kyle's sour
 
 - November 18th, 2021 — FinTech Names (Frank Rotman, QED Investors) — QED's internal notes on fintech companies preparing fundraises, forwarded for diligence.
 - [Inder Takhar](/notes/inder-takhar) — fintech as his primary coverage sector at Village Capital's accelerator/fund.
+
+## Quick Capture — "Trends" idea log (Roam)
+
+_Deep-dive / entity-idea candidates Kyle logged on his Roam "Trends" page. Ingested 2026-07-31._
+
+- [Planswell](https://www.linkedin.com/company/planswell/about/) — financial planning.
+- Get a handle on the big names and how to feel about them — e.g. [SoFi](/notes/sofi), LendingClub, [Plaid](/notes/plaid), Lemonade, Credit Karma, NerdWallet.

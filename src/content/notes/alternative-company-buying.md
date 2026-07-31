@@ -13,6 +13,7 @@ aliases:
   - "Alternative Company Buying"
 related:
   - "[[On the Nature of Long-Term Holds]]"
+  - "[[Entity Ideas]]"
 reference_count: 1
 ---
 
@@ -23,3 +24,11 @@ The theme of acquiring and holding a business to operate and grow it indefinitel
 ## Where this appears
 
 - [On the Nature of Long-Term Holds](/notes/on-the-nature-of-long-term-holds) — applied to Don MacAskill's SmugMug philosophy: building an enduring company you control instead of optimizing for an exit.
+
+## Entity Ideas capture (Roam)
+
+_Raw idea notes from Kyle's Roam [Entity Ideas](/notes/entity-ideas) page (ingested 2026-07-31). Preserved verbatim so the ideation-phase capture survives._
+
+- **Tags:** #[Teamshares](/notes/teamshares)
+- [twitter.com/exitround](http://twitter.com/exitround)
+- Guy from WSJ on Linkedin (Tomio)

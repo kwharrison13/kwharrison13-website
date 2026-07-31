@@ -23,6 +23,9 @@ related:
   - "[[Clubhouse is a Unicorn(?); Clubhouse Versus Podcasts; Monetization"
   - "Moderation"
   - "and Monopoly]]"
+  - "[[Online Education]]"
+  - "[[Gaming]]"
+  - "[[Shopify for Creators]]"
 reference_count: 9
 ---
 
@@ -38,3 +41,7 @@ A recurring theme across Kyle's [David Perell](/notes/david-perell)-era long rea
 - [The Attention Game](/notes/the-attention-game) — creators competing in markets of abundance.
 - [The Future of Work (Article)](/notes/the-future-of-work-article) — the consumer-connection edge where new opportunity emerges.
 - [The Magical Touch of Finn Beales](/notes/the-magical-touch-of-finn-beales) — a creator reaching brands and a global audience directly via platforms.
+
+## Deep Dives context
+
+Kyle used "Digital Creators" as a top-level bucket in his Roam **Deep Dives** research index, grouping the creator-facing markets he was tracking: [Online Education](/notes/online-education), [Gaming](/notes/gaming), and community. The connective idea — arming individual creators with direct-to-audience tooling — also shows up as the [Shopify for Creators](/notes/shopify-for-creators) entity idea.

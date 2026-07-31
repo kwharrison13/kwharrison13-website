@@ -1,7 +1,9 @@
 ---
 title: "John Adams"
 author: "David McCullough"
-year_read: 2016
+year_read:
+  - 2016
+  - 2026
 rating: 5
 quake: false
 tags:

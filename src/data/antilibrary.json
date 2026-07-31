@@ -450,6 +450,21 @@
     "slug": "capitalism-and-freedom"
   },
   {
+    "title": "Cribsheet",
+    "full_title": "Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool",
+    "author": "Emily Oster",
+    "published": "2019",
+    "pages": 352,
+    "amazon_url": "https://www.amazon.com/s?k=Cribsheet+Emily+Oster",
+    "where_seen": [
+      "Highlights captured in Kyle's Roam graph via Readwise (sampled — not a full read); surfaced in the 2026-07-31 (highlights)-page audit."
+    ],
+    "connections": [],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "cribsheet"
+  },
+  {
     "title": "David and Goliath",
     "full_title": "David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",
     "author": "Malcolm Gladwell",
@@ -555,6 +570,60 @@
       "people-over-politics"
     ],
     "slug": "don-t-shoot"
+  },
+  {
+    "title": "Edison (Book)",
+    "full_title": "Edison",
+    "author": "Edmund Morris",
+    "published": "2019",
+    "pages": 800,
+    "amazon_url": "https://www.amazon.com/s?k=Edison+Edmund+Morris",
+    "where_seen": [
+      "Listed under 2027 (to-read) in Kyle's Roam 'Books Read' page."
+    ],
+    "connections": [
+      {
+        "title": "Leonardo Da Vinci",
+        "url": "/books/leonardo-da-vinci"
+      },
+      {
+        "title": "Benjamin Franklin — An American Life",
+        "url": "/books/benjamin-franklin-an-american-life"
+      },
+      {
+        "title": "The Idea Factory",
+        "url": "/books/the-idea-factory"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "historical-futurism"
+    ],
+    "slug": "edison-book"
+  },
+  {
+    "title": "Ergodicity",
+    "full_title": "Ergodicity: Definition, Examples, And Implications, As Simple As Possible",
+    "author": "Luca Dellanna",
+    "published": "2020",
+    "pages": 120,
+    "amazon_url": "https://www.amazon.com/s?k=Ergodicity+Luca+Dellanna",
+    "where_seen": [
+      "Listed under 2027 (to-read) in Kyle's Roam 'Books Read' page (moved here from the reading queue — it is a short book, not an article)."
+    ],
+    "connections": [
+      {
+        "title": "The Black Swan",
+        "url": "/books/the-black-swan"
+      },
+      {
+        "title": "Nassim Nicholas Taleb",
+        "url": "/notes/nassim-taleb"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "ergodicity"
   },
   {
     "title": "F.I.A.S.C.O.",
@@ -718,6 +787,34 @@
     "slug": "harlem-shuffle"
   },
   {
+    "title": "His Very Best",
+    "full_title": "His Very Best: Jimmy Carter, a Life",
+    "author": "Jonathan Alter",
+    "published": "2020",
+    "pages": 800,
+    "amazon_url": "https://www.amazon.com/s?k=His+Very+Best+Jonathan+Alter",
+    "where_seen": [
+      "Listed under Themes → Presidents in Kyle's Roam 'Books Read' page (no year bucket — a to-read)."
+    ],
+    "connections": [
+      {
+        "title": "John Adams",
+        "url": "/books/john-adams"
+      },
+      {
+        "title": "American Sphinx",
+        "url": "/books/american-sphinx"
+      },
+      {
+        "title": "John Quincy Adams",
+        "url": "/books/john-quincy-adams"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "his-very-best"
+  },
+  {
     "title": "How the Scots Invented the Modern World",
     "full_title": "How the Scots Invented the Modern World: The True Story of How Western Europe's Poorest Nation Created Our World and Everything in It",
     "author": "Arthur Herman",
@@ -825,6 +922,21 @@
     "slug": "ice-age"
   },
   {
+    "title": "In the Cells of the Eggplant",
+    "full_title": "In the Cells of the Eggplant",
+    "author": "David Chapman",
+    "published": "2021",
+    "pages": "0            # TODO: confirm (web book / no fixed print length)",
+    "amazon_url": "https://www.amazon.com/s?k=In+the+Cells+of+the+Eggplant+David+Chapman",
+    "where_seen": [
+      "Listed under 2027 (to-read) in Kyle's Roam 'Books Read' page."
+    ],
+    "connections": [],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "in-the-cells-of-the-eggplant"
+  },
+  {
     "title": "Industries of the Future",
     "full_title": "The Industries of the Future",
     "author": "Alec Ross",
@@ -891,6 +1003,30 @@
       "technological-innovation"
     ],
     "slug": "irresistible"
+  },
+  {
+    "title": "John Quincy Adams — Diaries",
+    "full_title": "John Quincy Adams: Diaries 1779–1848 (Library of America)",
+    "author": "John Quincy Adams (ed. David Waldstreicher)",
+    "published": "2017",
+    "pages": 1600,
+    "amazon_url": "https://www.amazon.com/s?k=John+Quincy+Adams+Diaries+John+Quincy+Adams+%28ed.+David+Waldstreicher%29",
+    "where_seen": [
+      "Highlights captured in Kyle's Roam graph via Readwise (sampled — not a full read); surfaced in the 2026-07-31 (highlights)-page audit."
+    ],
+    "connections": [
+      {
+        "title": "John Quincy Adams",
+        "url": "/books/john-quincy-adams"
+      },
+      {
+        "title": "John Adams",
+        "url": "/books/john-adams"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "john-quincy-adams-diaries"
   },
   {
     "title": "Jony Ive: The Genius Behind Apple's Greatest Products",
@@ -982,6 +1118,21 @@
       "historical-futurism"
     ],
     "slug": "living-within-limits"
+  },
+  {
+    "title": "Mandate for Leadership",
+    "full_title": "Mandate for Leadership: The Conservative Promise",
+    "author": "The Heritage Foundation",
+    "published": "2023",
+    "pages": 920,
+    "amazon_url": "https://www.amazon.com/s?k=Mandate+for+Leadership+The+Heritage+Foundation",
+    "where_seen": [
+      "Listed under 2027 (to-read) in Kyle's Roam 'Books Read' page."
+    ],
+    "connections": [],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "mandate-for-leadership"
   },
   {
     "title": "Mastering the Rockefeller Habits",
@@ -1219,28 +1370,6 @@
     "slug": "one-from-many"
   },
   {
-    "title": "Only the Paranoid Survive",
-    "full_title": "Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company",
-    "author": "Andrew S. Grove",
-    "published": "1996",
-    "pages": 240,
-    "amazon_url": "https://www.amazon.com/s?k=Only+the+Paranoid+Survive+Andrew+S.+Grove",
-    "where_seen": [
-      "Cited in Chip War — surfaced during the 2026-06-19 connection sweep."
-    ],
-    "connections": [
-      {
-        "title": "Chip War",
-        "url": "/books/chip-war"
-      }
-    ],
-    "recommendations": 1,
-    "tags": [
-      "company-building"
-    ],
-    "slug": "only-the-paranoid-survive"
-  },
-  {
     "title": "Outliers: Why Some People Succeed and Some Don't",
     "full_title": "Outliers: The Story of Success",
     "author": "Malcolm Gladwell",
@@ -1317,6 +1446,30 @@
     "recommendations": 1,
     "tags": [],
     "slug": "pilgrim-s-progress"
+  },
+  {
+    "title": "Plato's Republic",
+    "full_title": "The Republic",
+    "author": "Plato",
+    "published": "c. 375 BC",
+    "pages": 416,
+    "amazon_url": "https://www.amazon.com/s?k=Plato%27s+Republic+Plato",
+    "where_seen": [
+      "Listed under 2027 (to-read) in Kyle's Roam 'Books Read' page."
+    ],
+    "connections": [
+      {
+        "title": "Plato",
+        "url": "/notes/plato"
+      },
+      {
+        "title": "The Republic of Cicero",
+        "url": "/books/the-republic-of-cicero"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "plato-s-republic"
   },
   {
     "title": "Player Piano",
@@ -1411,6 +1564,21 @@
       "education"
     ],
     "slug": "punished-by-rewards"
+  },
+  {
+    "title": "Redwall",
+    "full_title": "Redwall",
+    "author": "Brian Jacques",
+    "published": "1986",
+    "pages": 351,
+    "amazon_url": "https://www.amazon.com/s?k=Redwall+Brian+Jacques",
+    "where_seen": [
+      "Highlights captured in Kyle's Roam graph via Readwise (sampled — not a full read); surfaced in the 2026-07-31 (highlights)-page audit."
+    ],
+    "connections": [],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "redwall"
   },
   {
     "title": "Reinventing Discovery",
@@ -2049,6 +2217,69 @@
     "slug": "the-hidden-persuaders"
   },
   {
+    "title": "The Hobbit",
+    "full_title": "The Hobbit, or There and Back Again",
+    "author": "J.R.R. Tolkien",
+    "published": "1937",
+    "pages": 310,
+    "amazon_url": "https://www.amazon.com/s?k=The+Hobbit+J.R.R.+Tolkien",
+    "where_seen": [
+      "Highlights captured in Kyle's Roam graph via Readwise (sampled — not a full read); surfaced in the 2026-07-31 (highlights)-page audit."
+    ],
+    "connections": [
+      {
+        "title": "J.R.R. Tolkien",
+        "url": "/notes/j-r-r-tolkien"
+      },
+      {
+        "title": "The Fellowship of the Ring",
+        "url": "/books/the-fellowship-of-the-ring"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "the-hobbit"
+  },
+  {
+    "title": "The Innovators",
+    "full_title": "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",
+    "author": "Walter Isaacson",
+    "published": "2014",
+    "pages": 560,
+    "amazon_url": "https://www.amazon.com/s?k=The+Innovators+Walter+Isaacson",
+    "where_seen": [
+      "Highlights captured in Kyle's Roam graph via Readwise (sampled — not a full read); surfaced in the 2026-07-31 (highlights)-page audit."
+    ],
+    "connections": [
+      {
+        "title": "Walter Isaacson",
+        "url": "/notes/walter-isaacson"
+      },
+      {
+        "title": "Leonardo Da Vinci",
+        "url": "/books/leonardo-da-vinci"
+      },
+      {
+        "title": "The Idea Factory",
+        "url": "/books/the-idea-factory"
+      },
+      {
+        "title": "Bundling",
+        "url": "/notes/unbundling"
+      },
+      {
+        "title": "Unbundling",
+        "url": "/notes/unbundling"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "technological-innovation",
+      "historical-futurism"
+    ],
+    "slug": "the-innovators"
+  },
+  {
     "title": "The Knowledge Illusion",
     "full_title": "The Knowledge Illusion: Why We Never Think Alone",
     "author": "Steven Sloman, Philip Fernbach",
@@ -2069,6 +2300,29 @@
       "open-source-knowledge"
     ],
     "slug": "the-knowledge-illusion"
+  },
+  {
+    "title": "The Lectures on Faith in Historical Perspective",
+    "full_title": "The Lectures on Faith in Historical Perspective",
+    "author": "Larry E. Dahl and Charles D. Tate Jr. (editors)",
+    "published": "1990",
+    "pages": 372,
+    "amazon_url": "https://www.amazon.com/s?k=The+Lectures+on+Faith+in+Historical+Perspective+Dahl+Tate",
+    "where_seen": [
+      "Listed under 'Other Resources' on Kyle's Lectures on Faith study page (Roam)"
+    ],
+    "connections": [
+      {
+        "title": "Lectures on Faith",
+        "url": "/notes/lectures-on-faith"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "gospel-study",
+      "lds"
+    ],
+    "slug": "the-lectures-on-faith-in-historical-perspective"
   },
   {
     "title": "The Lessons of History",
@@ -2699,6 +2953,21 @@
     "slug": "the-wealth-of-nations"
   },
   {
+    "title": "The Wild Robot",
+    "full_title": "The Wild Robot",
+    "author": "Peter Brown",
+    "published": "2016",
+    "pages": 279,
+    "amazon_url": "https://www.amazon.com/s?k=The+Wild+Robot+Peter+Brown",
+    "where_seen": [
+      "Highlights captured in Kyle's Roam graph via Readwise (sampled — not a full read); surfaced in the 2026-07-31 (highlights)-page audit."
+    ],
+    "connections": [],
+    "recommendations": 1,
+    "tags": [],
+    "slug": "the-wild-robot"
+  },
+  {
     "title": "The World is Flat",
     "full_title": "The World Is Flat: A Brief History of the Twenty-First Century",
     "author": "Thomas Friedman",
@@ -2802,6 +3071,23 @@
     "recommendations": 1,
     "tags": [],
     "slug": "travels-with-charley"
+  },
+  {
+    "title": "Valve Handbook for New Employees",
+    "full_title": "Valve: Handbook for New Employees",
+    "author": "Valve Corporation",
+    "published": "2012",
+    "pages": 56,
+    "amazon_url": "https://www.amazon.com/s?k=Valve+Handbook+for+New+Employees+Valve+Corporation",
+    "where_seen": [
+      "Listed under 2027 (to-read) in Kyle's Roam 'Books Read' page."
+    ],
+    "connections": [],
+    "recommendations": 1,
+    "tags": [
+      "company-building"
+    ],
+    "slug": "valve-handbook-for-new-employees"
   },
   {
     "title": "Walden Two",
@@ -2946,5 +3232,32 @@
     "recommendations": 1,
     "tags": [],
     "slug": "why-information-grows"
+  },
+  {
+    "title": "Workers, Managers, and Welfare Capitalism",
+    "full_title": "Workers, Managers, and Welfare Capitalism: The Shoeworkers and Tanners of Endicott Johnson, 1890–1950",
+    "author": "Gerald Zahavi",
+    "published": "1988",
+    "pages": 261,
+    "amazon_url": "https://www.amazon.com/s?k=Workers%2C+Managers%2C+and+Welfare+Capitalism+Gerald+Zahavi",
+    "where_seen": [
+      "Listed under 2027 (to-read) in Kyle's Roam 'Books Read' page.",
+      "Extends George F. Johnson and His Industrial Democracy (read 2025)."
+    ],
+    "connections": [
+      {
+        "title": "George F. Johnson and His Industrial Democracy",
+        "url": "/books/george-f-johnson-and-his-industrial-democracy"
+      },
+      {
+        "title": "Gerald Zahavi",
+        "url": "/notes/gerald-zahavi"
+      }
+    ],
+    "recommendations": 1,
+    "tags": [
+      "company-building"
+    ],
+    "slug": "workers-managers-and-welfare-capitalism"
   }
 ]

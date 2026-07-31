@@ -4,9 +4,10 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-25"
+updated: "2026-07-31"
 last_updated_by: "agent"
 sources:
+  - "Roam Research — \\\"Trends\\\" page (Entity Ideas / Trends.vc deep-dive candidates), ingested 2026-07-31"
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
   - "wiki/diligence-research/Coder - Diligence.md"
   - "Roam Research daily-note export — September 17th, 2021 (Index Ventures sourcing/diligence log): ~/Downloads/September 17th, 2021.md"
@@ -38,3 +39,10 @@ The [Monad](/notes/monad) pre-brief (via [Max Rimpel](/notes/max-rimpel)) frames
 - [Developer-Led Security](/notes/developer-led-security) — the thesis that runtime security must serve the DevOps/developer audience, not just security teams.
 - Coder - Diligence — DevOps market sizing ($5.2B→$15B) and DevOps engineers as adoption gatekeepers for cloud dev environments.
 - September 17th, 2021 — Monad Pre-Brief (Max Rimpel) — Monad as the bridge letting DevOps and security teams collaborate over shared data.
+
+## Quick Capture — "Trends" idea log (Roam)
+
+_Deep-dive / entity-idea candidates Kyle logged on his Roam "Trends" page. Ingested 2026-07-31._
+
+- Anything in a developer's tech stack.
+- GitPrime — engineering productivity analytics.

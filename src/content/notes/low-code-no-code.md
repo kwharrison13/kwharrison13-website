@@ -4,10 +4,11 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-19"
-updated: "2026-06-26"
+updated: "2026-07-31"
 last_updated_by: "agent"
 sources:
   - "wiki/people/Julie Chen.md"
+  - "Roam Research — \\\"Trends\\\" page + linked \\\"Low Code / No Code\\\" page (Entity Ideas / Trends.vc deep-dive candidates), ingested 2026-07-31"
 tags:
   - "low-code"
   - "no-code"
@@ -41,3 +42,20 @@ The theme also frames Kyle's read on the category's edges. In his [Replit](/note
 - [Replit](/notes/replit) — the no-code movement flagged as a competitive vector; "starts to look like coding itself."
 - Makerpad / Ben Tossell — no-code education and the "No Code Founder" stance.
 - Actively — no-code AI for domain experts, contrasted with DS-knowledge-requiring GUIs.
+
+## Quick Capture — "Trends" idea log (Roam)
+
+_Deep-dive / entity-idea candidates Kyle logged on his Roam "Trends" page (and its linked "Low Code / No Code" page, marked done on ingest). Ingested 2026-07-31._
+
+- **Theme.** "Constrained engineering resources is a driver for a lot of businesses building Low Code / No Code tools for workers."
+- **Players logged on Trends** — Glide, [Retool](/notes/retool), DashDash.
+
+### Folded from the Roam "Low Code / No Code" page
+
+- **Key players** — [Retool](/notes/retool), Rows fka DashDash.
+- **Front-end builders** — [Bubble](/notes/bubble) (competes with [Figma](/notes/figma)).
+- **Internal tools** — [Retool](/notes/retool), Airplane.dev, StackerHQ, Internal.io.
+- **Data visualization** — Odyssey ([Colin Zima](https://www.linkedin.com/in/colinzima/), ex-Google; strong founder background). Positioned as a next-gen Looker built on the "new" data stack (Snowflake, dbt, Transform); Looker's inability to partner with Snowflake seen as the opening. Contrasted against Business Intelligence / Looker (manage data inputs vs. create data-driven outputs).
+- **Middleware** — [WhaleSync](/notes/whalesync).
+- **"Big Idea"** — when will we see the first $1B+ software company built without any code? ([kwharrison13 tweet](https://twitter.com/kwharrison13/status/1270324177455611907)).
+- **Market map** — 17 low-code market-map screenshots saved to `wiki/attachments/low-code-no-code/` (`low-code-no-code-01…17`). Not embedded inline (concept pages sync to the notes collection; inline `../attachments` image embeds break the Astro build).

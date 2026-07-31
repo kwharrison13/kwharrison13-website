@@ -18,6 +18,7 @@ related:
   - "[[Shipping Container]]"
   - "[[Evicted: Poverty and Profit in the American City]]"
   - "[[Berkshire Hathaway Annual Letters]]"
+  - "[[Entity Ideas]]"
 reference_count: 1
 ---
 
@@ -66,3 +67,17 @@ _Reading-list links from Kyle's June 29th, 2021 Roam daily-note "Quick Capture" 
 - https://autocamp.com/
 
 **Related:** [3-D Printing](/notes/3-d-printing), [Shipping Container](/notes/shipping-container)
+
+## Entity Ideas capture (Roam)
+
+_Raw idea notes from Kyle's Roam [Entity Ideas](/notes/entity-ideas) page (ingested 2026-07-31). Preserved verbatim so the ideation-phase capture survives._
+
+- **Tags:** [Alternative Home Ownership](/notes/alternative-home-ownership)
+- https://node.eco/
+- Blokable
+- ICON - 3d printing houses
+- Housing for Seniors
+- Think through the zoning / real estate purchases for these houses and [Tiny Homes](/notes/tiny-homes) more broadly
+- ==**Relevant Articles**==
+  - https://www.builtinchicago.org/2020/04/02/livly-raises-8m
+  - https://www.businesswire.com/news/home/20200402005545/en/HouseCanary-Acquires-Real-Estate-Technology-Startup-Dropmodel

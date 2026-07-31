@@ -20,6 +20,7 @@ related:
   - "[[Education]]"
   - "[[Opinion: Let's fix college first"
   - "before rushing to reopen campuses]]"
+  - "[[Digital Creators]]"
 ---
 
 # Online Education
@@ -34,8 +35,11 @@ related:
 
 - [It's Time To Disrupt Our Archaic Education System](/notes/it-s-time-to-disrupt-our-archaic-education-system) — free online resources outpacing the lecture hall.
 
+Kyle also filed Online Education under the [Digital Creators](/notes/digital-creators) bucket of his Roam **Deep Dives** research — the same "internet collapses gatekeepers" thesis, applied to teaching: individual experts reaching learners directly, outside the institution.
+
 ## Related concepts
 
 - [University disruption](/notes/university-disruption)
 - [Alternative Education](/notes/alternative-education)
 - [Education](/notes/education)
+- [Digital Creators](/notes/digital-creators)

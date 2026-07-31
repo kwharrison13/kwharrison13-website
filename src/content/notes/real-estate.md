@@ -52,3 +52,9 @@ As an **engine of inequality**, [Evicted](/books/evicted) (by [Matthew Desmond](
 _Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
 
 - https://www.marketwatch.com/amp/story/guid/BC71A5C0-2294-11EA-8A61-E93FB9972FB5 — MarketWatch — rental property / real estate piece (late 2019). (→ articles-to-read) #[Rental Properties](/notes/rental-properties)
+
+## Quick Capture — "Trends" idea log (Roam)
+
+_Kyle's Roam "Trends" page logged "[Real Estate](/notes/real-estate) - [Alternative Home Ownership](/notes/alternative-home-ownership)" as a deep-dive theme. The proptech / alternative-ownership players (Homie, Divvy Homes, Home Bay, ListReports, micro real estate) are captured on [Alternative Home Ownership](/notes/alternative-home-ownership) and [Home Buying](/notes/home-buying). Ingested 2026-07-31._
+
+> **See also:** Real Estate Holdings — Kyle's private, personal real-estate holdings (properties, mortgages, geography notes), in the Personal Life section. This concept page is the public-facing *reading theme*; that one is the private personal counterpart.

@@ -4,10 +4,11 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-26"
+updated: "2026-07-31"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
+  - "Roam Research — \\\"Trends\\\" page (Entity Ideas / Trends.vc deep-dive candidates), ingested 2026-07-31"
 tags: []
 aliases:
   - "Geospatial Data"
@@ -38,3 +39,11 @@ Read together, the saved links point at a single investment-adjacent thesis: as 
 - https://theodi.org/article/ordnance-survey-and-other-data-stewards-must-innovate-to-keep-up-with-the-private-sector/
 - https://docs.google.com/document/d/1ZB6wlqPPD_0N-UGIRhKf7EgnsfBqyK9bU1rcsVuafCs/edit
 - https://drive.google.com/file/d/1Z3utFmNgbzEuCT_ud7wz4OAMX8Hr_lc3/view
+
+## Quick Capture — "Trends" idea log (Roam)
+
+_Deep-dive / entity-idea candidates Kyle logged on his Roam "Trends" page. Ingested 2026-07-31._
+
+- Boundless
+- Orbital Analytics
+- Descartes Labs

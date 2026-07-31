@@ -2530,6 +2530,156 @@
         "quake": false
       }
     ],
+    "2026": [
+      {
+        "title": "Blood Meridian",
+        "author": "Cormac McCarthy",
+        "rating": 4,
+        "tags": [
+          "language-of-discourse"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Do You Remember Luna",
+        "author": "",
+        "rating": 0,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "East of Eden",
+        "author": "John Steinbeck",
+        "rating": 0,
+        "tags": [
+          "language-of-discourse"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "rating": 0,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "In Sacred Loneliness",
+        "author": "Todd Compton",
+        "rating": 0,
+        "tags": [
+          "religious-intellectualism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "John Adams",
+        "author": "David McCullough",
+        "rating": 5,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Light Bringer",
+        "author": "Pierce Brown",
+        "rating": 0,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Only the Paranoid Survive",
+        "author": "Andrew S. Grove",
+        "rating": 0,
+        "tags": [
+          "company-building"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Our Oriental Heritage",
+        "author": "Will Durant",
+        "rating": 0,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Out of Control",
+        "author": "Kevin Kelly",
+        "rating": 0,
+        "tags": [
+          "technological-innovation"
+        ],
+        "quake": false
+      },
+      {
+        "title": "Starship Troopers",
+        "author": "Robert A. Heinlein",
+        "rating": 0,
+        "tags": [
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The Anduril Thesis (Book)",
+        "author": "Kyle Harrison",
+        "rating": 0,
+        "tags": [
+          "technological-innovation",
+          "company-building",
+          "historical-futurism"
+        ],
+        "quake": false
+      },
+      {
+        "title": "The City of Ember",
+        "author": "Jeanne DuPrau",
+        "rating": 0,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "The Fellowship of the Ring",
+        "author": "J.R.R. Tolkien",
+        "rating": 0,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "The Phantom Tollbooth",
+        "author": "Norton Juster",
+        "rating": 0,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "The Return of the King",
+        "author": "J.R.R. Tolkien",
+        "rating": 0,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "The Two Towers",
+        "author": "J.R.R. Tolkien",
+        "rating": 0,
+        "tags": [],
+        "quake": false
+      },
+      {
+        "title": "Zita the Spacegirl 1",
+        "author": "Ben Hatke",
+        "rating": 0,
+        "tags": [],
+        "quake": false
+      }
+    ],
     "pre-2016": [
       {
         "title": "Double Entry",

@@ -26,6 +26,7 @@ related:
   - "[[Fifth Partners]]"
   - "[[Opinion: Let's fix college first"
   - "before rushing to reopen campuses]]"
+  - "[[Entity Ideas]]"
 reference_count: 1
 ---
 
@@ -50,3 +51,12 @@ _Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
 - July 2nd, 2020 — Lars Hamilton (High Alpha Innovation) — Fifth Partners' modular-homes work flagged here
 - The Massive Farms Emerging Beneath Our Cities — repurposing under-used urban space for farming
 - [Malls](/notes/malls) · [Parking Lots](/notes/parking-lots) — the canonical under-utilized assets to reimagine
+
+## Entity Ideas capture (Roam)
+
+_Raw idea notes from Kyle's Roam [Entity Ideas](/notes/entity-ideas) page (ingested 2026-07-31). Preserved verbatim so the ideation-phase capture survives._
+
+- Thinking through aggregate roll up plays that are low-touch, high similarity locations like data centers, warehouses, etc.
+- https://www.privateequitywire.co.uk/2020/03/04/283591/actis-create-usd250-million-african-data-centre-platform
+- Malls for cloud kitchens: https://www.linkedin.com/feed/news/empty-malls-filling-our-stomachs-5096330/
+- Warehouses for fulfillment centers

@@ -16,6 +16,7 @@ aliases:
   - "Shopify"
   - "Shopify ($SHOP)"
 related:
+  - "[[Shopify ($SHOP) — Deep Dive]]"
   - "[[Platform]]"
   - "[[Webflow]]"
   - "[[Berkshire Hathaway Annual Letters]]"
@@ -36,6 +37,7 @@ As a **diligence reference customer**, Shopify shows up as a marquee logo valida
 
 ## Where this appears
 
+- Shopify ($SHOP) — Deep Dive — Kyle's Roam **Deep Dives** page on Shopify (a stock widget plus an unfilled [Investment Memo Template](/notes/investment-memo-template) scaffold; no substantive analysis was written there).
 - [Berkshire Hathaway Annual Letters](/books/berkshire-hathaway-annual-letters) — recurring portfolio name in Kyle's Buffett reading notes / live-deal memo.
 - [Platform](/notes/platform) · [Webflow](/notes/webflow) — a present-day dominant platform to "build your career where the people are."
 - Watershed Climate Diligence — 2021 — Watershed reference customer ([Stacy Kauk](/notes/stacy-kauk)); trend-setter whose adoption drives word-of-mouth demand.

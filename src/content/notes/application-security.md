@@ -4,9 +4,10 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-26"
+updated: "2026-07-31"
 last_updated_by: "agent"
 sources:
+  - "Roam Research — \\\"Trends\\\" page (Entity Ideas / Trends.vc deep-dive candidates), ingested 2026-07-31"
   - "wiki/diligence-research/Noname Security - Diligence.md"
   - "wiki/diligence-research/Salt Security Diligence — 2021.md"
   - "wiki/diligence-research/Coder - Diligence.md"
@@ -42,3 +43,16 @@ The recurring strategic question in the Noname Security - Diligence notes is whe
 - [Developer Productivity](/notes/developer-productivity) — paired with the AppSec shift-left in the cloud-dev thesis
 - November 15th, 2021 — Ken Elefant (API Security) — bear/bull case on AppSec valuations (Salt, Noname)
 - [Prabhath Karanth](/notes/prabhath-karanth) — security priority stack placing AppSec second, API security medium within it
+
+## Quick Capture — "Trends" idea log (Roam)
+
+_[Application Security](/notes/application-security) was flagged as a deep-dive candidate on Kyle's Roam "Trends" page. The linked Roam page (marked done on ingest) held Contrast Security's security-posture description, folded below. Ingested 2026-07-31._
+
+**Contrast Security — security posture (from the linked Roam page):**
+
+- **Infrastructure Security** — hosted in a secure data center, managed by trusted staff, systems kept hardened/patched; network defended and segmented by firewalls, detecting and blocking network and application attacks.
+- **Data Protection** — strong encryption everywhere data is transmitted or stored; universal authentication and access control; extensive protections against injection and other attacks.
+- **Developer Protection** — designed to be quick to install and use, eliminate false alarms, never interfere with applications, and scale to large numbers of servers.
+- **Rugged Development** — a secure development life cycle; developers trained in standard security defenses; extensive threat modeling and minimized attack surface; tooling to protect and manage source code and artifacts.
+- **Security Verification** — an independent team runs architecture analysis, code review, and penetration testing, including running Contrast on itself, throughout the secure development life cycle.
+- **Transparent Security** — commitment to informing customers of security issues, letting them export their data at any time, and purging it on departure.

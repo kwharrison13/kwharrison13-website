@@ -8,6 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/networked-conviction-004"
 ---
 
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/investing-101">Investing 101</a>, <a href="/essays/build-whats-fundable">“Build What’s Fundable”</a>, <a href="/essays/teamshares-hold-cos-and-corporate">Teamshares, Hold Co's, & Corporate Cities</a>, <a href="/essays/the-holding-companies-of-our-hearts">The Holding Companies of Our Hearts</a>, <a href="/essays/revisiting-clarity-of-thought">Revisiting Clarity of Thought</a>, <a href="/essays/conviction-capitalists">Conviction Capitalists</a></span></div>
+</aside>
+<!-- connections-end -->
+
 ![](/images/networked-conviction-004-1-acfc52d0.jpg)
 
 As part of Networked Conviction, the paid portion of my newsletter, I [set out](https://investing101.substack.com/p/investing-101) with the intention of revolving my thinking around three different buckets: (1) portfolio updates on the companies I’ve invested in, (2) my own version of [Request For Startups](https://investing101.substack.com/p/build-whats-fundable), and (3) general investing ideas (frameworks, templates, etc.)

@@ -16,6 +16,7 @@ aliases:
   - "E-Commerce Tech Roll-Up"
   - "Ecommerce Tech Roll-Up"
 related:
+  - "[[Entity Ideas]]"
   - "[[E-Commerce]]"
   - "[[eBay]]"
   - "[[CrazyLister]]"
@@ -36,3 +37,19 @@ The E-Commerce Tech Roll-Up is an investment thesis Kyle captured in his April 3
 _Saved in Kyle's April 30th, 2020 Roam "Quick Capture" log._
 
 - Victor Levitin created CrazyLister in 2013 in response to sellers' frustration over the complicated process of posting items on [eBay](/notes/ebay). — the kind of point-solution seller tool that roll-ups target. #[E-Commerce](/notes/e-commerce)
+
+## Entity Ideas capture (Roam)
+
+_Raw idea notes from Kyle's Roam [Entity Ideas](/notes/entity-ideas) page (ingested 2026-07-31). Preserved verbatim so the ideation-phase capture survives._
+
+- **Tags:** #E-Commerce
+- Pattern fka iServe
+- https://www.linkedin.com/company/digivante/
+- https://www.linkedin.com/company/sellics/about/
+- Whatever business Jidy Chitta is working for
+- Bold Commerce
+- Cin7 + Unleashed Software
+- https://goamify.com/
+- ==**Similar Roll-Ups**==
+  - Perch - https://www.perchhq.com/ - focused on buying FBA businesses
+  - Thrasio - https://www.thras.io/

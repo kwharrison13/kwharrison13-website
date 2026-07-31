@@ -70,7 +70,7 @@ related:
     - USPS, Fedex, and UPS deliver the actual packages
 - [Marketing](/notes/marketing) channels with marginal costs (e.g. [Attentive](/notes/attentive)) can help create incentives for higher quality marketing; no-cost or low-cost channels are bound to become dumping grounds for attention experimentation (e.g. email, [Facebook ($META)](/notes/facebook), etc.)
 - **Search in Retail:** 49% of Internet shoppers start their searches on Amazon, only 22% on Google; Amazon's share is far higher for Prime subscribers. #brick-and-mortar
-- Amazon (incl. 3rd-party merchant sales) ≈ 6% of U.S. retail sales vs. [Walmart](/notes/walmart) ≈ 9% (Benedict Evans, Dec. 2019). #e-commerce penetration
+- Amazon (incl. 3rd-party merchant sales) ≈ 6% of U.S. retail sales vs. [Walmart](/notes/walmart) ≈ 9% (Benedict Evans, Dec. 2019). #[e-commerce penetration](/notes/e-commerce-penetration)
 
 ## How it connects
 

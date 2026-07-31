@@ -16,6 +16,7 @@ related:
   - "[[What It Takes]]"
   - "[[Frederik Gieschen]]"
   - "[[Storytelling]]"
+  - "[[Entity Ideas]]"
 reference_count: 2
 ---
 
@@ -29,3 +30,16 @@ The tag also captures the *outside* of fund-building. In his notes on [Frederik 
 
 - [What It Takes](/books/what-it-takes) — Schwarzman's depersonalized, team-based investment decision-making after the Edgcomb loss
 - April 5th, 2022 — Reading Frederik Gieschen's Writing — Gieschen on how hard it is to spin out and raise a first fund without pedigree and backing
+
+## Entity Ideas capture (Roam)
+
+_Raw idea notes from Kyle's Roam [Entity Ideas](/notes/entity-ideas) page (ingested 2026-07-31). Preserved verbatim so the ideation-phase capture survives._
+
+- Value Add Offerings
+  - Customer Sourcing
+  - Talent Sourcing
+- Quotes
+  - “Every investment, we have to create a heat map of every company that touches this space, understand how they relate to each other, and know that we’re picking the right approach. That’s how we’re going to build a great firm. We don’t let the investment’s time frame dictate what investments we’re going to make.” - [Philippe Laffont](/notes/philippe-laffont)
+  - “I want to force the organization to be proactive and go out to become the best XYZ analyst in the world, learn about every player, come back and educate everyone else, and then we’re all smarter.” - [Philippe Laffont](/notes/philippe-laffont)
+- Videos
+  - [▶ video](https://www.youtube.com/watch?v=a6oxclPIaxs)

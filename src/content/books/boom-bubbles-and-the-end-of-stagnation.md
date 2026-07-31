@@ -38,7 +38,7 @@ key_takeaways_status: "written"
 - [Paul Graham](/notes/paul-graham) — his [Yahoo](/notes/yahoo) "de facto Ponzi scheme" account and the Harvard "reading period" founding observation are quoted at length.
 - [Steve Jobs](/notes/steve-jobs) — the "reality distortion field" that bubbles manufacture is traced through Jobs's management style.
 - [Richard Feynman](/notes/richard-feynman) and [Vannevar Bush](/notes/vannevar-bush) — [Feynman](/notes/richard-feynman) as the [Manhattan Project](/notes/manhattan-project)'s anti-bureaucratic genius; Bush's "[As We May Think](/notes/as-we-may-think)" as a PARC-shaping prophecy.
-- [Andy Grove](/notes/andy-grove) — *Only the Paranoid Survive* cited as the canonical strategy text once chips moved from technology-rewarded to strategy-rewarded.
+- [Andy Grove](/notes/andy-grove) — *[Only the Paranoid Survive](/books/only-the-paranoid-survive)* cited as the canonical strategy text once chips moved from technology-rewarded to strategy-rewarded.
 
 **Concepts:**
 - [Mimetics](/notes/mimetics) — [René Girard](/notes/ren-girard)'s mimetic desire (popularized by Thiel) explains how bubbles channel imitation and FOMO into productive coordination.

@@ -66,3 +66,9 @@ _Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
 - https://www.cnbc.com/amp/2019/08/07/here-are-5-things-i-regret-not-doing-before-retiring-early-at-34.html — CNBC: 5 things I regret not doing before retiring early at 34. #[Retirement](/notes/retirement) #[Financial Independence](/notes/financial-independence)
 - https://www.businessinsider.com/personal-finance/early-retiree-money-spreadsheet-habit-tracking-strategy-2019-8 — Business Insider: an early retiree's money spreadsheet & habit-tracking strategy. #[Retirement](/notes/retirement)
 - https://www.cnbc.com/amp/2019/07/05/how-much-money-do-you-need-to-retire.html — CNBC: how much money do you need to retire. #[Retirement](/notes/retirement)
+
+## Quick Capture — "Trends" idea log (Roam)
+
+_Kyle's Roam "Trends" page logged "Credit Cards / [Personal Finance](/notes/personal-finance)" as a fintech deep-dive theme. The consumer-credit / neobank players (Chime, Apple Card, Aspiration) are captured on [Credit Cards](/notes/credit-cards). Ingested 2026-07-31._
+
+> **See also:** Personal Finances — Kyle's private, personal financial planning (accounts, 401k/IRA/529, estate to-dos), in the Personal Life section. This concept page is the public-facing *reading theme*; that one is the private personal counterpart.

@@ -8,6 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/networked-conviction-002"
 ---
 
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/investing-101">Investing 101</a>, <a href="/essays/networked-conviction-001">Networked Conviction 001</a>, <a href="/essays/when-history-rhymes-with-beezer-clarkson">When History Rhymes (with Beezer Clarkson)</a>, <a href="/essays/build-whats-fundable">“Build What’s Fundable”</a></span></div>
+</aside>
+<!-- connections-end -->
+
 ![](/images/networked-conviction-002-1-6d0349eb.jpg)
 
 My goal (read: hope) is to try and share these Investing Journal Entries as ***often*** as possible, whether about the companies I’m investing in (or, potentially, thinking about investing in? Maybe open sourcing some of my thinking about potential investments), the startups I want to see, and the broader universe of investing ideas / lessons / frameworks that I’m getting exposed to.

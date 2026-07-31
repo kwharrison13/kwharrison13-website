@@ -16,6 +16,7 @@ aliases:
   - "Okta"
   - "Okta ($OKTA)"
 related:
+  - "[[Okta ($OKTA) — Deep Dive]]"
   - "[[Identity & Access Management]]"
   - "[[Todd McKinnon]]"
   - "[[Todd McKinnon — Creating and Defining a New Market Category]]"
@@ -36,6 +37,7 @@ Okta is also the pressure-test case in Kyle's Identity & Access Management Dilig
 
 ## Where this appears
 
+- Okta ($OKTA) — Deep Dive — Kyle's private Roam **Deep Dives** dossier on Okta: market drivers/TAM, the five workforce-identity products, CIAM and Zero Trust, the Microsoft/Azure AD competitive threat (a CTO survey suggesting Azure AD wins >half of new cloud-identity deployments), pricing, differentiation, and partnerships.
 - [Todd McKinnon — Creating and Defining a New Market Category](/notes/todd-mckinnon-creating-and-defining-a-new-market-category) — the McKinnon interview on the SaaSure→identity pivot, timing, category creation, and the customer-identity second act.
 - Identity & Access Management Diligence — 2021 — Okta as the stickiness/commoditization test case and the Active Directory bull case.
 - [Identity & Access Management](/notes/identity-and-access-management) — the concept page; Okta is the worked example for the "why isn't IAM a moat?" question.

@@ -8,6 +8,14 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/networked-conviction-006"
 ---
 
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/boom-bubbles-and-the-end-of-stagnation">Boom: Bubbles & The End of Stagnation</a>, <a href="/books/chip-war">Chip War</a>, <a href="/books/the-kill-chain">The Kill Chain</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/hijacking-the-hucksters-hypebook">Hijacking The Huckster's Hypebook</a>, <a href="/essays/build-whats-fundable">“Build What’s Fundable”</a>, <a href="/essays/dr-tokens-or-how-i-learned-to-stop">Dr. Tokens or: How I Learned to Stop Worrying and Love the AI Bubble</a>, <a href="/essays/talent">Why Most VCs Suck At Talent</a>, <a href="/essays/the-professionalization-of-startups">The Professionalization of Startups</a>, <a href="/essays/competitive-moats">Competitive Moats</a>, <a href="/essays/the-hype-cycles-of-venture-capital">The Hype Cycles of Venture Capital</a>, <a href="/essays/a-tale-of-two-markets">A Tale of Two Markets</a>, <a href="/essays/the-anduril-thesis">The Anduril Thesis</a></span></div>
+</aside>
+<!-- connections-end -->
+
 ![](/images/networked-conviction-006-1-0a7cd6f0.jpg)
 
 One of the simultaneously most satisfying and disheartening parts of my job is constantly being a mile wide and an inch deep in some of the most interesting conversations in the world.

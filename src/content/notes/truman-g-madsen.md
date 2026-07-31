@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-19"
+updated: "2026-07-31"
 last_updated_by: "agent"
 sources:
   - "https://speeches.byu.edu/talks/truman-g-madsen/joseph-smiths-personality-and-character/"
@@ -21,6 +21,7 @@ related:
   - "[[Joseph Smith Lecture 2 — Joseph's Personality and Character]]"
   - "[[Chad's Big Quote Book]]"
   - "[[1 Nephi 16–22 — I Will Prepare the Way before You]]"
+  - "[[Key People To Study]]"
 ---
 
 # Truman G. Madsen
@@ -37,6 +38,12 @@ related:
 - [The Self-Driven Child](/books/the-self-driven-child)
 - Joseph Smith Lecture 1 — The First Vision and Its Aftermath — author of the lecture (first in the series).
 - [Joseph Smith Lecture 2 — Joseph's Personality and Character](/notes/joseph-smith-lecture-2-joseph-s-personality-and-character) — author of the lecture.
+
+## Study project
+
+Flagged on Kyle's Key People To Study list, with a plan to go through the Joseph Smith lectures in detail again:
+- The BYU *Joseph Smith's Personality and Character* lecture ([speeches.byu.edu](https://speeches.byu.edu/talks/truman-g-madsen/joseph-smiths-personality-and-character/)).
+- The sequel, *The Life and Teachings of the Prophet Joseph*, available as an audiobook from [Deseret Book](https://deseretbook.com/p/life-teachings-prophet-joseph-truman-g-madsen-2597).
 
 ## Open questions
 

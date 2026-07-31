@@ -12,7 +12,7 @@ substack_url: "https://investing101.substack.com/p/the-anduril-thesis"
 <aside class="wiki-connections">
   <div class="wiki-connections-label">Wiki Connections</div>
   <div class="wiki-connections-row"><span class="wiki-connections-kind">Books</span><span class="wiki-connections-items"><a href="/books/skunk-works">Skunk Works</a></span></div>
-  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/contrary-research">Contrary Research</a></span></div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/contrary-research">Contrary Research</a>, <a href="/essays/networked-conviction-006">Networked Conviction 006</a></span></div>
 </aside>
 <!-- connections-end -->
 

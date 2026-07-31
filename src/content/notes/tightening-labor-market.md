@@ -4,10 +4,11 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-25"
+updated: "2026-07-31"
 last_updated_by: "agent"
 sources:
   - "wiki/diligence-research/Pave Diligence — 2021.md"
+  - "Roam Research — \\\"Trends\\\" page (Entity Ideas / Trends.vc deep-dive candidates), ingested 2026-07-31"
 tags: []
 aliases:
   - "Tightening Labor Market"
@@ -25,3 +26,7 @@ A tailwind cited in the 2021 diligence on [Pave](/notes/pave). The thesis: a tig
 ## Where this appears
 
 - Pave Diligence — 2021 — cited as a demand tailwind for intelligent, personalized HR/compensation tooling and for Pave's real-time pay-data network effects.
+
+## Quick Capture — "Trends" idea log (Roam)
+
+_Flagged as a macro tailwind / deep-dive theme on Kyle's Roam "Trends" page (no additional players logged there). Ingested 2026-07-31._

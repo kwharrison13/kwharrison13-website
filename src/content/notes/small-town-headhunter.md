@@ -16,6 +16,7 @@ related:
   - "[[Prosperable]]"
   - "[[City Building]]"
   - "[[Scarcity Mindset]]"
+  - "[[Entity Ideas]]"
 reference_count: 1
 ---
 
@@ -28,3 +29,12 @@ The "headhunter" framing is literal in several of the book's vignettes: Higgins 
 ## Where this appears
 
 - [Our Towns](/books/our-towns) — the "handful of forceful people" who reshape a region's economy (Higgins, Pelletier, Vendetti, the Padnoses); Kyle tags it across multiple highlights, paired with [Prosperable](/notes/prosperable) and the talent-retention theme.
+
+## Entity Ideas capture (Roam)
+
+_Raw idea notes from Kyle's Roam [Entity Ideas](/notes/entity-ideas) page (ingested 2026-07-31). Preserved verbatim so the ideation-phase capture survives._
+
+- https://www.linkedin.com/pulse/lure-workers-small-cities-try-new-approach-paying-people-chip-cutter/
+- Figure out how to run a bare-bones head hunting operation, and go find employees for small towns, and facilitate these "come-home" grants. Maybe monetize on a % of the bonus and/or a small percentage of their pay? Or a subscription by towns?
+- https://www.nytimes.com/2019/04/03/upshot/americas-biggest-economic-challenge-may-be-demographic-decline.html
+- https://twitter.com/ne0liberal/status/1197947419037773824?s=11

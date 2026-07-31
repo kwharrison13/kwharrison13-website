@@ -1,7 +1,9 @@
 ---
 title: "Blood Meridian"
 author: "Cormac McCarthy"
-year_read: 2024
+year_read:
+  - 2024
+  - 2026
 rating: 4
 quake: false
 tags:

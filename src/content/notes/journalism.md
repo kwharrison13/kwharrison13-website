@@ -22,6 +22,7 @@ related:
   - "[[News in the Age of Abundance]]"
   - "[[Berkshire Hathaway Annual Letters]]"
   - "[[Incentives]]"
+  - "[[Entity Ideas]]"
 reference_count: 1
 ---
 
@@ -48,3 +49,18 @@ _Reading-list links from Kyle's June 29th, 2021 Roam daily-note "Quick Capture" 
 
 - https://www.nbcnews.com/tech/tech-news/drowned-out-algorithm-pro-vaccination-advocates-struggle-be-heard-online-n976321
 - https://www.nicholasjrobinson.com/blog/culture-2-0/burning-digital-books-and-the-fight-over-online-ideology
+
+## Entity Ideas capture (Roam)
+
+_Raw idea notes from Kyle's Roam [Entity Ideas](/notes/entity-ideas) page (ingested 2026-07-31). Preserved verbatim so the ideation-phase capture survives._
+
+- Subtitle
+- Notes
+  - https://x.com/carnage4life/status/1785262530086248729?s=46&t=o_VXCnqx93PtfDFcrUrKDA
+  - https://x.com/ericnewcomer/status/1787484839572103260?s=46&t=o_VXCnqx93PtfDFcrUrKDA
+  - https://x.com/parismartineau/status/1787899093718602228?s=46&t=o_VXCnqx93PtfDFcrUrKDA
+  - https://x.com/nmasc_/status/1788724724547441070?s=46&t=o_VXCnqx93PtfDFcrUrKDA
+  - https://x.com/sarthakgh/status/1788937476330906009?s=46&t=o_VXCnqx93PtfDFcrUrKDA
+  - https://x.com/billmaher/status/1789144982500278735?s=46&t=o_VXCnqx93PtfDFcrUrKDA
+- Full Text
+- Content Ideas

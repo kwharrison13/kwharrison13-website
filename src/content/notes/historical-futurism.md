@@ -17,6 +17,7 @@ tags:
 aliases:
   - "Historical Futurism"
 related:
+  - "[[Entity Ideas]]"
   - "[[Historical Futurism (Essay)]]"
   - "[[Historical Futurism - Research]]"
   - "[[Science Fiction]]"
@@ -50,3 +51,18 @@ This is the recurring concept/thesis Kyle tags as #[Historical Futurism](/notes/
 - [Open Source Knowledge](/notes/open-source-knowledge) — framed as a cousin concept: historical futurism as "open-source imagination."
 - [Historical Futurism (Essay)](/essays/historical-futurism) — the published essay (*"Using Science Fiction to Invent the Future"*) articulating this thesis.
 - Historical Futurism - Research — the full research dossier behind the essay.
+
+## Entity Ideas capture (Roam)
+
+_Raw idea notes from Kyle's Roam [Entity Ideas](/notes/entity-ideas) page (ingested 2026-07-31). Preserved verbatim so the ideation-phase capture survives._
+
+- https://chatgpt.com/share/67ba1cba-bfdc-8000-90b6-e90bee9414cb
+- https://www.perplexity.ai/page/the-institute-of-historical-fu-0LNth4beTmS3VqLAHesSmA
+- https://m.youtube.com/watch?v=X0TpRGXKdog
+- I just assumed they were the museum thing cause that’s what it looked like from the outside.
+- Learning 1: Institute of the Future = pretty cool
+  - http://www.iftf.org/home/
+- Learning 2: We should start a museum called “Museum of Yesterday’s Future”
+  - Create a profession out of studying how people have viewed the future and combine that with futurism to learn from those trends
+- Axios Post
+- [🖼️ image (saved locally)](../attachments/historical-futurism/historical-futurism-1.png)

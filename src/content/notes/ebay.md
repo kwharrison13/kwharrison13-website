@@ -21,6 +21,9 @@ related:
   - "[[E-Commerce]]"
   - "[[E-Commerce Tech Roll-Up]]"
   - "[[Competition]]"
+  - "[[Unbundling]]"
+  - "[[Adevinta]]"
+  - "[[Craigslist]]"
 ---
 
 # eBay
@@ -37,3 +40,4 @@ In Kyle's [E-Commerce](/notes/e-commerce) notes, eBay is the marketplace whose s
 - [E-Commerce](/notes/e-commerce) — the marketplace whose seller pain points spawned tools like CrazyLister.
 - [E-Commerce Tech Roll-Up](/notes/e-commerce-tech-roll-up) — eBay as marketplace context for the seller-tooling roll-up thesis.
 - Cash—Kingmaker or Killer - Research — eBay as a competitive benchmark ("Why did GOAT beat eBay?").
+- [Unbundling](/notes/unbundling) · [Adevinta](/notes/adevinta) — in Kyle's Deep Dives "Bundling and Unbundling" bucket he tracked eBay selling its classifieds business to [Adevinta](/notes/adevinta) ($9.2B, 2020) — a general marketplace shedding a vertical.

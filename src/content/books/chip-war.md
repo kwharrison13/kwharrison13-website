@@ -43,7 +43,7 @@ The book is less digested-and-synthesized than the other reads in this batch —
 
 **People:**
 - [Morris Chang](/notes/morris-chang) — central figure; leaves [Texas Instruments](/notes/texas-instruments) after being passed over for CEO and founds TSMC, the canonical [Innovator's Dilemma](/notes/innovator-s-dilemma) departure.
-- [Andy Grove](/notes/andy-grove) — *Only the Paranoid Survive*; "disrupts [Intel](/notes/intel) himself" by abandoning DRAM for microprocessors, and warns late in life about offshoring locking the US out of emerging industries.
+- [Andy Grove](/notes/andy-grove) — *[Only the Paranoid Survive](/books/only-the-paranoid-survive)*; "disrupts [Intel](/notes/intel) himself" by abandoning DRAM for microprocessors, and warns late in life about offshoring locking the US out of emerging industries.
 - [Chris Miller](/notes/chris-miller) — author; frames the US-China rivalry as a contest decided by computing power rather than steel or atomic weapons.
 - [Andrew Marshall](/notes/andrew-marshall) — [Office of Net Assessment](/notes/net-assessment) strategist who argued the US should exploit its computing lead to "shift concepts of warfare," the intellectual root of the precision-strike revolution.
 - [Bill Perry](/notes/bill-perry) — commissions the [DARPA](/notes/darpa) "Assault Breaker" program integrating sensors, guided weapons, and communications — the early vision of [Sensor Fusion](/notes/sensor-fusion).

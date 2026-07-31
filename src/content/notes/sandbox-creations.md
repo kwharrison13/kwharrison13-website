@@ -1,0 +1,189 @@
+---
+title: "Sandbox Creations"
+type: "company"
+publish: false
+confidence: "low"
+created: "2026-07-31"
+updated: "2026-07-31"
+last_updated_by: "agent"
+sources:
+  - "Roam Research — Entity Ideas page (idea capture, ingested 2026-07-31)"
+tags:
+  - "business-idea"
+  - "ideation"
+aliases:
+  - "Sandbox Creations"
+related:
+  - "[[Entity Ideas]]"
+  - "[[Crystal Block]]"
+  - "[[Sandbox Creations Emails]]"
+  - "[[Notes from Meetings]]"
+---
+
+# Sandbox Creations
+
+> 💡 **Ideation-stage idea** — one of Kyle's [Entity Ideas](/notes/entity-ideas) business concepts, captured from his Roam notebook. Not an operating company; preserved here so the idea (and its research) survives.
+
+## Idea capture (from Roam)
+
+- Misc. Notes
+  - Sandbox Creations
+  - _[Account credentials for GoDaddy (new + old) and the website login were captured here in Roam — **redacted on ingest**; do not store plaintext passwords in the wiki.]_
+  - Accidental Genius domain expires 2019
+  - Social media companies
+  - •NUVI = software for social media analytics
+  - •Tim Robinson
+  - •[Timothy.mitt.robinson@gmail.com](mailto:Timothy.mitt.robinson@gmail.com)
+  - Here are the comments I jotted down. Some of them we will have to address together or just me and Brandon or its just feedback. I definitely don’t want it to sound like criticism! This is freaking amazing. More progress than we’ve made in months. So you’re all wonderful people and I have nothing but love.
+  - Website Aesthetics
+  - ⁃For pictures, it would be great if we could use stuff we’ve created ourselves. Brandon, could we use that amazing picture you took from “I Heard the Bells” with Hunter up on the mountain? I’ll look through some of my stuff and see what I have, I think I have some cool pictures from Cambridge I could have us use as well.
+  - ⁃At least as I’ve sold Sandbox to people, I like the alliteration of Creative vs. Client so maybe we could use that instead of Startup? Or say “Are you a Business?”
+  - ⁃When I look at my account, it lists my skills and experience in a very blocky way. Is there a way we could have my name next to like an empty avatar face or whatever and then have boxes like a resume? I attached a screenshot of a mockup.
+  - ⁃Also, another good question to ask when they register would be “What would you define yourself as?” and have options like Videographer, Photographer, Designer, Programmer, or Other. Having other is my favorite option cause then they could type in something like “Dreamer” or “Optimist” or something artsy.
+  - ⁃How hard would it be to let them link their work to their profile? Like YouTube links, etc?
+  - User Experience
+  - ⁃When I was submitting my experience and skills, I was trying to think about what a creative would want to see there. It would be cool to have a list of skills (like on Y-connect.) Brandon and I could write up a list. How hard would it be to have that?
+  - ⁃Brandon, you would know about this better than me. What would a creative want to see there? What would you put in my experiences? I was thinking we could have spots to link to their portfolio YouTube channel as well?
+  - ⁃Jason, how hard would it be to have a spot where they can upload a profile picture?
+  - Website Content
+  - ⁃We need to create a ton of stuff but here are my random thoughts
+  - ⁃An explainer video to show what we do. Here are some links to videos that I really like for this kind of thing.
+  - ⁃A list of what kind of people would fall under each category. “A local business looking for some sweet promotional material?” or “A filmmaker desperately looking for their next collaboration?” Stuff like that.
+  - ⁃We need the entire About Us section
+  - Similar Websites
+  - Also, Jason, just for your reference, here is a list of links to websites that do things like we do. Obviously we don’t want to copy them, I just thought this would be a good way to show you what kind of ways other creatives are displaying their process.
+  - Other than that, Brandon I’ll respond to your email about content, etc.
+- Lectures
+  - Become the expert in your field. Take to research all sections, do field research, do the write up yourself, have one person responsible for all the documents.
+  - Talking about something becomes easier when you know what you're talking about.
+  - Executive summary: not a detailed plan, just a pitch with what's in it for the investors. You have to cover the proponents that impact them.
+  - Hernando Cortez: burn the ships.
+  - More choices don't always mean you'll have the best result
+  - Libertarian paternalism: nudges not shoves
+  - Be a knowledge sharer
+  - Help other people succeed
+  - Remove more of your decisions
+  - Ryan Schill
+  - [rydavids@gmail.com](mailto:rydavids@gmail.com)
+  - Judges Business School
+- Crystal Block
+- Various Thoughts & Notes
+  - Sandbox Media Blitz
+    - Embed Google Application Form into the website
+    - Include the website on the business card
+    - Create business cards for all the management team
+    - Create fliers for classes
+    - Create posters for all the film studios, technology stores, department boards, etc.
+  - Sandbox discussion
+    - how do we want to expand?
+    - what kind of training will offer in addition to the think section?
+    - how much will we continue to incite people?
+    - we need measurable goals for long and short term periods
+  - [Jenica.daniels@wellsfargo.com](mailto:Jenica.daniels@wellsfargo.com)
+  - Facebook Stalk
+  - Davey Morrison Dillard
+  - Hudson Halm
+  - tma185production
+  - movienight
+  - [dave@noiseboxstudios.com](mailto:dave@noiseboxstudios.com)
+  - “Ds get degrees"
+  - **Building Your Website**
+  - [jeffreykingston.com](http://jeffreykingston.com/)
+  - Topic Research
+    - **Interest in Niche**
+    - **Expertise in Niche**
+    - **Monetization**
+    - Affiliate websites are websites that connect to other websites (for example, connecting [Amazon.com](http://amazon.com/))Affiliate networks (Commission junction, click bank, share a sale, etc.) a company that have gone to other companies to invite websites to sell their product in an affiliate network and then go to websites and say they want you to sell other people’s product from the network on your website. Amazon Associates
+    - **Volume**
+    - **Competition**
+  - “Everything I do is on Wordpress.”
+  - **Documents to Work On**
+  - Buy/Sell Agreement
+  - Articles of Incorporation
+  - Constitution
+  - Website Map
+  - [sandboxcreationsllc@gmail.com](mailto:sandboxcreationsllc@gmail.com)
+  - sushiman2
+  - The start up building near the bridge downtown provo
+  - [Usertesting.com](http://usertesting.com/)
+  - Paper - App for writing and drawing
+  - Google trends
+  - Customer relationship management software
+  - Issues that creatives have with their jobs
+  - “I want to work on an actual product people want to use”
+  - “I want to build my own thing”
+  - “I want to explore more new technology and ideas not gimmicks”
+  - “We never do any interesting work”
+  - “We only care about hitting targets”
+  - “I don’t feel like I’m learning”
+  - “We never push back and tell the client their ideas are crap."
+  - Another way to give staff exposure is to start a blog and everyone contribute. Agencies are full of engaged people with ideas and passions, why not let them have dedicated time to blog?
+  - The blogs of Made By Many, Teehan+Lax and ustwo are great examples of how it should be done. There’s a wide range of contributors – from designers, planners, project managers and developers.
+  - Dream press - publishing
+  - Pressed for cash? Apple do finance plans and HotUKDeals do daily emails. Oh and eBay.
+    - Organize meetings for
+    - Video Team: Brandon Porter and Dane ChristensenMusic Team: Jordan Gunderson and Michael BiancardiWeb Design Team: Matt and TrevorGraphic Design Team: Lloyd Grubham, Brooke Alius and Jenna Barton
+  - Doceri - iPad control of computer
+  - Digital marketing info
+  - [ma.byu.edu/emailme](http://ma.byu.edu/emailme)
+  - Value offers that entices consumers to connect with your brand
+    - don't worry as much about the aesthetics as the small stuff with User experience
+    - what's the point of attracting more traffic if the traffic you're already attracting doesn't get anything out of your website.
+    - your homepage is an attention grabber with lots of links but it's not the mainstream
+    - Personnel info on google docs
+    - pitch to Wyatt and Jeff before meeting
+    - guy who works at the theatre
+  - Posters
+    - Guru
+    - Century Sandwich
+    - J-Dawgs
+    - Sammy’s
+    - Awful Waffle
+    - Brick Oven
+    - HFAC
+  - Balsamic mockup
+  - Gideon Burns - Mormon literature database
+  - How do we do something that has never been done before? A physical network of creative people will require a user interface geared towards how creative people think.
+    - Conduct a massive interview/survey of creative people where, if they will come to a room, answer a few questions, respond to some ideas, etc. they will be entered into a drawing for money and/or coupon, etc. My starving student card? Etc. Offer pizza as well, USE QUALTRICS??
+    - Network by contacting teachers from all the fields we want to attract (film, writing, acting, animation, graphics, etc) both at BYU and UVU to build network for sandbox by going to those classes and making announcements about meetings
+    - talk to Zachs voice teacher about ideas for better recording capabilities
+    - talk to Dave Zimmerman to see if he will give us contact info for the people who have recorded with him to offer to make music videos
+    - make connections with local community theatre so that we can expand sandbox into the theatre world, maybe contact Bishop Bowes niece for that?
+    - what could possibly start making us money right now? Wedding videos/photography? Recording sessions? Music videos? Album art? Talk to dad about investing in equipment for what ever would be immediately profitable
+  - "Learning is an activity in which people work collaboratively to create knowledge among themselves by socially justifying belief. We create knowledge or justify belief collaboratively by cancelling each other's biases and presuppositions; by negotiating collectively toward new paradigms of perception, thought, feeling, and expression; and by joining larger, more experienced communities of knowledgeable peer through assenting to those communities' interests; values, language, and paradigms of perception and thought.” - Kenneth Bruffee
+  - In regards to 'think tanks,' "each individual may not alone be masters of the normal discourse of a given knowledge community, by working together-pooling their resources-they are very likely to be able to master it **if their conversation** is structured indirectly by the task or problem that a member of that community provides.” - Kenneth Bruffee
+  - Being busy is a form of laziness—lazy thinking and indiscriminate action. - Timothy Ferriss
+  - “Education is primarily an initiation into the skill and partnership of this conversation in which we learn to recognize the voices, to distinguish the proper occasions of utterance, and in which we acquire the intellectual and moral habits appropriate to conversation.” - Oakeshott
+  - Productivity Homework
+  - Audit and sort your sources
+  - Schedule work sprint
+  - Turn off distractions
+  - How are you triaging your inbox? Are you effective? Are you efficient?
+  - Consider your personal toolbox
+  - Routines of successful creatives
+    - a workplace with NO distractions
+    - an office where only work occurs
+    - a daily walk
+    - carrying a notepad to jot down inspiration
+    - accountability metrics: some means of measuring the time you spend on certain tasks
+  - - A clear dividing line between important work and busywork.
+  - - A habit of stopping when they’re on a roll, not when they’re stuck.
+    - a supportive partner
+    - limited social life
+  - And that of course is what a routine really is — the path we take through our day. Whether we break that trail yourself or follow the path blazed by our constraints, perhaps what’s most important is that we keep walking.
+    - Sarah Green
+  - Partnership Proposal
+    - I want to say we’re the best at what we do, but that’s just not true.
+    - Education is the focus; we need to pick each others brains and utilize the resources we each have so that we can each progress more fully in our chosen fields.
+    - Originality is overrated. Even God didn’t create something brand new. He took things that already existed and organized them into something phenomenal. Thats what art is, really. Saying something you’ve heard before in order to make you feel something you’ve never felt before.
+    - Opportunity cycle
+    - ResourceOpportunity creationOpportunity seizing“The more you put in, the more you receive.”
+    - “Is self-aggrandizement wrong?” If a man will seek to elevate others, the work will elevate him.
+    - Mission Statement
+    - Fill the world with quality people who produce quality products that will increase the quality of people’s experience.
+    - Whats our process?
+    - Each Sandbox meeting lasts 1-1.5 hours. Bi-weekly (every other Saturday, or whatever day works? Up for debate. Perhaps once a month we meet as the 10 or so key members and meet another time monthly where we bring anyone we want to participate.)
+    - We’ll have a GoogleDoc with all our names/capabilities/equipment/contact information and schedules
+      - Weekly lesson: “10 minute think” Each person will be assigned a successful person to study and on their assigned week they’llcome prepared with a few details of why they were successful and a practice that they want to institute.2. “The tank” The most important part of this team is that we promote each other.We start with project proposals where we pitch our best and most realistic ideas and spread the responsibility across the team.We then delegate action items for what to accomplish throughout the week.Finally, we select a team project (or discuss updates). We write, cast, direct, produce and distribute the project as a team (different responsibilities but spearheaded by the team as a whole). Every time you start a project consider how you can utilize each member of the team. Remember, we’re here to give each other opportunities and access to resource.
+- Sandbox Creations Emails
+- Notes from Meetings

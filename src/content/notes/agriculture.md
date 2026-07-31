@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Agriculture"
 related:
+  - "[[Entity Ideas]]"
   - "[[Food]]"
   - "[[Village Capital]]"
   - "[[What Is ChatGPT Doing and Why Does It Work?]]"
@@ -43,3 +44,9 @@ It also appears in a very different register in [What Is ChatGPT Doing and Why D
 - https://www.renewalmill.com/
 - https://www.indigoag.com/
 - https://www.forbes.com/sites/maggiemcgrath/2017/06/28/the-25-most-innovative-ag-tech-startups/
+
+## Entity Ideas capture (Roam)
+
+_Raw idea notes from Kyle's Roam [Entity Ideas](/notes/entity-ideas) page (ingested 2026-07-31). Preserved verbatim so the ideation-phase capture survives._
+
+- https://harvardmagazine.com/2018/03/sustainable-agriculture-and-food-security

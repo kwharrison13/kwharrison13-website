@@ -17,6 +17,7 @@ tags:
 aliases:
   - "Alternative Education"
 related:
+  - "[[Entity Ideas]]"
   - "[[The Expertise Economy]]"
   - "[[Managers Not MBAs]]"
   - "[[Ana Lorena Fabrega]]"
@@ -55,3 +56,15 @@ _Links Kyle saved to this topic on June 18, 2026 (manual capture batch)._
 - [AltSchool](/notes/altschool) · [Sora Schools](/notes/sora-schools) · Make School — companies tracked under the theme.
 - [Ana Lorena Fabrega](/notes/ana-lorena-fabrega) — educator-voice for independent thinking / mental models.
 - [Range](/books/range) — book referencing the theme (generalist learning paths).
+
+## Entity Ideas capture (Roam)
+
+_Raw idea notes from Kyle's Roam [Entity Ideas](/notes/entity-ideas) page (ingested 2026-07-31). Preserved verbatim so the ideation-phase capture survives._
+
+- **Tags:** #Education #Education
+- ==**Relevant Organizations**==
+  - https://workspaceeducation.org
+  - Lumiar
+  - [Synthesis School](/notes/synthesis-school)
+  - [Primer](/notes/primer)
+  - Schoolhouse

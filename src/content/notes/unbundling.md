@@ -4,10 +4,11 @@ type: "concept"
 publish: false
 confidence: "medium"
 created: "2026-06-17"
-updated: "2026-06-25"
+updated: "2026-07-31"
 last_updated_by: "agent"
 sources:
   - "wiki/essays-research/Open-Source Knowledge - Research.md"
+  - "Roam Research — \\\"Trends\\\" page (Entity Ideas / Trends.vc deep-dive candidates), ingested 2026-07-31"
   - "wiki/essays-research/The Unbundling of Venture Capital - Research.md"
   - "wiki/companies/Reddit.md"
   - "wiki/companies/Wikipedia.md"
@@ -25,6 +26,10 @@ related:
   - "[[Reddit]]"
   - "[[The Market Is The Greatest Critic]]"
   - "[[Naked Brands]]"
+  - "[[Horizontal SaaS]]"
+  - "[[Craigslist]]"
+  - "[[eBay]]"
+  - "[[Adevinta]]"
 ---
 
 # Unbundling
@@ -42,3 +47,12 @@ The concept also anchors one of Kyle's published essays, [The Unbundling of Vent
 - [Reddit](/notes/reddit) — cited as a community ripe for unbundling into niche front pages.
 - [Wikipedia](/notes/wikipedia) — named as a candidate for unbundling into specialized front pages.
 - [The Market Is The Greatest Critic](/notes/the-market-is-the-greatest-critic) — the conceptual counterpart: markets reward *bundling* into diversified platforms.
+- [Craigslist](/notes/craigslist) — the archetypal monolith unbundled category-by-category into vertical marketplaces; also, [eBay](/notes/ebay)'s classifieds sale to [Adevinta](/notes/adevinta) (Kyle's Deep Dives "Bundling and Unbundling" examples).
+
+_(This page covers both **Bundling** and **Unbundling** — the Roam "Bundling" and "Unbundling" Deep Dives pages both map here; "Bundling" is an alias.)_
+
+## Quick Capture — "Trends" idea log (Roam)
+
+_Deep-dive / entity-idea candidates Kyle logged on his Roam "Trends" page ("Bundling / Unbundling of [Horizontal SaaS](/notes/horizontal-saas)"). Ingested 2026-07-31._
+
+- **Bundling / Unbundling of [Horizontal SaaS](/notes/horizontal-saas)** — the recurring question of **best-in-class vs. all-in-one**: do horizontal SaaS categories consolidate into all-in-one suites (bundling) or fragment into best-in-class point solutions (unbundling)?

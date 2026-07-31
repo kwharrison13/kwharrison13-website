@@ -4,10 +4,11 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-17"
-updated: "2026-06-26"
+updated: "2026-07-31"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — June 29th, 2021 (Index Ventures Quick Capture reading log): ~/Downloads/June 29th, 2021.md"
+  - "Roam Research — \\\"Trends\\\" page (Entity Ideas / Trends.vc deep-dive candidates), ingested 2026-07-31"
 tags:
   - "parenting"
   - "future-of-work"
@@ -35,3 +36,12 @@ Childcare appears in the wiki as a reading-list thread Kyle saved in his June 29
 - https://www.themomproject.com/
 - https://www.myvillage.com/
 - https://www.kindercare.com/
+
+## Quick Capture — "Trends" idea log (Roam)
+
+_Deep-dive / entity-idea candidates Kyle logged on his Roam "Trends" page. Ingested 2026-07-31._
+
+- Procare
+- QKkids
+- Company in Denver (name TBD)
+- Predictim — credit scores for babysitters

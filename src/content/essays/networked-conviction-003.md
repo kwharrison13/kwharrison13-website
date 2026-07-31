@@ -8,6 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/networked-conviction-003"
 ---
 
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/networked-conviction-001">Networked Conviction 001</a>, <a href="/essays/networked-conviction-002">Networked Conviction 002</a></span></div>
+</aside>
+<!-- connections-end -->
+
 ![](/images/networked-conviction-003-1-f81c74c8.jpg)
 
 I’m consistently hitting an “every two weeks” cadence on my investing journal thus far, which is better than my personal journal but not as good as my blog. The obstacle, I’ve found, is not that I lack interesting nuggets across my portfolio, request for startups, or idea library. Instead, it’s that they come too quickly and each require development. **That’s one of the difficulties with writing; to do it at all takes time, but to do it well takes*****lots*****of time.**

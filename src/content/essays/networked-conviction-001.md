@@ -8,6 +8,13 @@ type: "newsletter"
 substack_url: "https://investing101.substack.com/p/networked-conviction-001"
 ---
 
+<!-- connections-start -->
+<aside class="wiki-connections">
+  <div class="wiki-connections-label">Wiki Connections</div>
+  <div class="wiki-connections-row"><span class="wiki-connections-kind">Essays</span><span class="wiki-connections-items"><a href="/essays/conviction-led-contrarianism">Conviction-Led Contrarianism</a></span></div>
+</aside>
+<!-- connections-end -->
+
 ![](/images/networked-conviction-001-1-89b04673.jpg)
 
 If you’re reading this, then that means you’re one of the 63 inaugural Investing 101 paid subscribers. Or you’re checking out the free teaser at the beginning for free users. In either event… Welcome!
