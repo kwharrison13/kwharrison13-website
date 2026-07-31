@@ -26,7 +26,7 @@ Blake Bartlett is a partner at [OpenView Venture Partners](/notes/openview-ventu
 
 Bartlett also recurs in Kyle's venture-capital essay research as an example of the "productized investor" — a VC who builds an audience and content engine (OpenView's PLG brand and newsletter) as a sourcing and positioning strategy. He appears in both *The Productization of Venture Capital - Research* and *The Death of a Venture Fund - Research*, where Kyle notes that a fund's inability to raise a new vehicle is "fairly applicable to all firms, not OV specific" — most often a signal that returns weren't strong enough, though that usually takes more than five years to play out.
 
-**Context:** Blake Bartlett is a partner at OpenView Venture Partners (a Boston-based expansion-stage software VC) widely credited with coining and popularizing "Product-Led Growth," which he has promoted through OpenView's content, podcast, and newsletter. Note: distinct from Logan Bartlett (Redpoint) and Blake Brown (Tidemark), who appear in the same VC research lists.
+**Context:** Blake Bartlett is a partner at OpenView Venture Partners (a Boston-based expansion-stage software VC) widely credited with coining and popularizing "Product-Led Growth," which he has promoted through OpenView's content, podcast, and newsletter. Note: distinct from [Logan Bartlett](/notes/logan-bartlett) (Redpoint) and Blake Brown (Tidemark), who appear in the same VC research lists.
 
 ## Where this appears
 
