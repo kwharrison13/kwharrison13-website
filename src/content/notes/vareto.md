@@ -18,8 +18,11 @@ tags:
 aliases:
   - "Vareto"
 related:
+  - "[[Vareto - Diligence]]"
   - "[[Kat Orekhova]]"
+  - "[[Lalit Singh]]"
   - "[[Nathan Harkenrider]]"
+  - "[[Contrary]]"
   - "[[Adaptive Planning]]"
   - "[[Cube Software]]"
   - "[[Pigment]]"
@@ -51,6 +54,9 @@ Per Kat's Dec 2022 update: strong inbound investor interest (GV, Menlo Ventures 
 
 ## Where this appears
 
+- Vareto - Diligence — **the full diligence context hub** ([Contrary](/notes/contrary) led the round): Kyle's "Investing In Vareto" write-up, the "Anaplan 2.0" thesis, the Contrary FP&A market map deck, and Vareto's own investor memo
 - July 5th, 2023 — Joon Suh (Ada Support) — customer-reference call (Ada Support)
 - December 15th, 2022 — Kat Orekhova (Vareto) — founder update / fundraising
 - July 14th, 2023 — Nathan Harkenrider (Vareto) — engineering call on the graph-DB vs. OLAP architecture bet
+- June 29th, 2023 — Lalit Singh & Kat Orekhova (Vareto) — founder diligence call
+- July 11th, 2023 — Ankur Verma (Mindtickle) — Vareto Diligence, July 11th, 2023 — Daimeng Sharpe (ShopMonkey) — Vareto Diligence, July 11th, 2023 — Danyelle ORourke (Huntress) — Vareto Diligence — customer references
