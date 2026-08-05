@@ -7,7 +7,7 @@ quake: false
 tags:
   - "people-over-politics"
   - "historical-futurism"
-last_imported: "2026-07-31"
+last_imported: "2026-08-05"
 key_takeaways_status: "written"
 ---
 

@@ -7,7 +7,7 @@ quake: false
 tags:
   - "company-building"
   - "ideological-family-tree"
-last_imported: "2026-07-31"
+last_imported: "2026-08-05"
 key_takeaways_status: "written"
 ---
 
