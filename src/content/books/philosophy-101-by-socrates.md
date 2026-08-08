@@ -7,7 +7,7 @@ quake: false
 tags:
   - "religious-intellectualism"
   - "open-source-knowledge"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -24,11 +24,14 @@ key_takeaways_status: "written"
 ## Connections
 
 <!-- interconnections -->
-- **[Socrates](/notes/socrates)** — the book is built around his method and his death; the highlights are drawn from his trial and final words.
+- **[Socrates](/notes/socrates)** — the book is built around his method and his death; the highlights are drawn from his trial and final words via the [Apology of Socrates](/notes/apology-of-socrates).
+- Virtue — the book's core argument (via Socrates): integrity and virtue are worth more than self-preservation, reputation, or money.
+- [Parenting](/notes/parenting) — Socrates' parting request to "punish my sons if they care for money or anything before virtue" is flagged as a parenting principle.
+- [Powell's](/notes/powell-s) — the book was recommended by Powell's (noted in the source).
 <!-- /interconnections -->
 
 ## Highlights
 
 - "People will often forgive you for being wrong where they are right; they will seldom forgive you for being right when you are wrong."
 - "No evil can happen to a good man… living or dead. Be sure of this, that if you put me to death, being such as I am, you will not hurt me so much as yourselves…for I think the eternal law forbids a better man to be hurt by a worse."
-- "One thing I ask… punish my sons, gentlemen, when they grow up; give them this same pain I gave you, if you think they care for money or anything before virtue." #[Parenting](/notes/parenting)
+- "One thing I ask… punish my sons, gentlemen, when they grow up; give them this same pain I gave you, if you think they care for money or anything before virtue." [Parenting](/notes/parenting)

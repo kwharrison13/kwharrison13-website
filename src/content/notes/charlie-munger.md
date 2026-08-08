@@ -16,6 +16,13 @@ aliases:
   - "Charles T. Munger"
   - "Charles Munger"
 related:
+  - "[[How To Take Smart Notes]]"
+  - "[[Buffett: The Biography]]"
+  - "[[Ron Chernow]]"
+  - "[[Arthur Herman]]"
+  - "[[Irving Stone]]"
+  - "[[Ed Rothschild]]"
+  - "[[Frank Partnoy]]"
   - "[[Poor Charlie's Almanack]]"
   - "[[What Makes Us Rich]]"
   - "[[Warren Buffett]]"

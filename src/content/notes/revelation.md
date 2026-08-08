@@ -20,6 +20,7 @@ related:
   - "[[Holy Ghost]]"
   - "[[Joseph Smith]]"
   - "[[Boyd K. Packer]]"
+  - "[[Brigham Young: Pioneer Prophet]]"
 reference_count: 1
 ---
 

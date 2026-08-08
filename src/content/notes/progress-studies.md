@@ -26,6 +26,7 @@ related:
   - "[[Mark Lutter]]"
   - "[[Brave New World Revisited]]"
   - "[[Tyler Cowen]]"
+  - "[[Boom: Bubbles & The End of Stagnation]]"
 reference_count: 1
 ---
 

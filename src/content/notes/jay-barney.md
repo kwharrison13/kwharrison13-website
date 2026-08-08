@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Jay Barney"
 related:
+  - "[[Jerry Neumann]]"
   - "[[Invisible Companies]]"
   - "[[Competitive Moat]]"
   - "[[Michael Porter]]"

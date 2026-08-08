@@ -18,6 +18,7 @@ aliases:
   - "Getting to Yes: Negotiating Agreement Without Giving In"
   - "Getting to Yes by Roger Fisher, William Ury, and Bruce Patton"
 related:
+  - "[[Bruce Patton]]"
   - "[[Poor Charlie's Almanack]]"
 ---
 

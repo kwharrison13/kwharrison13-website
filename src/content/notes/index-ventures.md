@@ -17,6 +17,8 @@ aliases:
   - "Index Ventures"
   - "Index"
 related:
+  - "[[Jacob Jofe]]"
+  - "[[Georgia Stevenson]]"
   - "[[Index Co-Invest]]"
   - "[[Venture Capital]]"
   - "[[CapitalG]]"

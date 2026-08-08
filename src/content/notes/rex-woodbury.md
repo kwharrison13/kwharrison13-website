@@ -17,6 +17,7 @@ related:
   - "[[Conviction-Led Contrarianism - Research]]"
   - "[[The Death of a Venture Fund - Research]]"
   - "[[The Productization of Venture Capital - Research]]"
+  - "[[Why Grab Any Seat on the Rocketship Is a Bad Career Strategy (Hunter Walk Link Roundup)]]"
 ---
 
 # Rex Woodbury
@@ -36,3 +37,4 @@ Two of his recurring "cultural barometer" observations anchor other research thr
 - What's In a Post-Mortem - Research — "TikTok comments are the greatest window into the soul of society."
 - Watershed Climate Diligence — 2021 — joined the [Imperfect Foods](/notes/imperfect-foods) reference call, May 10, 2021.
 - September 22nd, 2021 — Mark Goldberg (Career Feedback) — referenced in Kyle's career-feedback notes.
+- [Why Grab Any Seat on the Rocketship Is a Bad Career Strategy (Hunter Walk Link Roundup)](/notes/why-grab-any-seat-on-the-rocketship-is-a-bad-career-strategy-hunter-walk-link-roundup) — his "Post-Agentic Founder" piece on founders who think like RTS players.

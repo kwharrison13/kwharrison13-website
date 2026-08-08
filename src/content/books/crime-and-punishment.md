@@ -7,7 +7,7 @@ rating: 5
 quake: true
 tags:
   - "religious-intellectualism"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -20,7 +20,9 @@ _Auto-synthesis pending — to be derived from Kyle's `**Note:**` blocks in the 
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+**Author:** [Fyodor Dostoevsky](/notes/fyodor-dostoevsky).
+
+**Essays:** discussed in [What Is An Extraordinary Man](/essays/what-is-an-extraordinary-man), [On Writing](/essays/on-writing), and [Why Bother](/essays/why-bother); its extraordinary-man question also runs through The Moral Edifice of Meritocracy and [The Crucible of Doubt](/books/the-crucible-of-doubt).
 <!-- /interconnections -->
 
 ## Highlights

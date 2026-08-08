@@ -35,7 +35,7 @@ The eight books flagged as fundamentally shifting Kyle's thinking. Mirrors the q
 
 - [Leap of Faith](/books/leap-of-faith) by Bob Bennett (2018, re-read 2024)
 - [John Quincy Adams](/books/john-quincy-adams) by [James Traub](/notes/james-traub) (2019)
-- [Red Rising](/books/red-rising) by Pierce Brown (2019, re-read 2025)
+- [Red Rising](/books/red-rising) by [Pierce Brown](/notes/pierce-brown) (2019, re-read 2025)
 - [Poor Charlie's Almanack](/books/poor-charlie-s-almanack) by [Charles T. Munger](/notes/charlie-munger) (2020)
 - [Reinventing Knowledge: From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) by Ian F. McNeely & Lisa Wolverton (2021)
 - [The Man Who Broke Capitalism](/books/the-man-who-broke-capitalism) by [David Gelles](/notes/david-gelles) (2025)

@@ -7,7 +7,7 @@ quake: false
 tags:
   - "capital-allocation"
   - "people-over-politics"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -20,7 +20,9 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+- [Blink](/books/blink) — adjacent reading in the behavioral-science genre: both books excavate how humans actually make decisions versus the rational-actor model.
+- [Predictably Irrational](/books/predictably-irrational) — Dan Ariely's parallel argument that decision-making is systematically irrational; together these form Kyle's behavioral-economics reading cluster.
+- [Richard Thaler](/notes/richard-thaler) · [Behavioral Economics](/notes/behavioral-economics) · [Incentives](/notes/incentives) — the intellectual spine: Thaler's work on choice architecture argues that how options are presented shapes decisions as powerfully as the options themselves.
 <!-- /interconnections -->
 
 ## Highlights

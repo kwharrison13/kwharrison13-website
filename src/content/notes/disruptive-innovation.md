@@ -14,6 +14,7 @@ tags:
 aliases:
   - "Disruptive Innovation"
 related:
+  - "[[ARK Invest]]"
   - "[[How Will You Measure Your Life]]"
   - "[[Clayton Christensen]]"
 ---

@@ -29,6 +29,7 @@ related:
   - "[[An Insider's View of Mormon Origins]]"
   - "[[Stretching The Heavens]]"
   - "[[What You Should Know About Politics... But Don't]]"
+  - "[[Islam & The Future of Tolerance]]"
 reference_count: 1
 ---
 

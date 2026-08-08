@@ -7,7 +7,7 @@ quake: false
 tags:
   - "people-over-politics"
   - "ideological-family-tree"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -20,7 +20,7 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+**Books:** [The Self-Driven Child](/books/the-self-driven-child) — the direct counter-model on parental control vs. child autonomy. [The Outcome Distortion Complex](/essays/the-outcome-distortion-complex) — essay that draws on the book. **People:** [Amy Chua](/notes/amy-chua) — the author. **Concepts:** [Self-Determination Theory](/notes/self-determination-theory).
 <!-- /interconnections -->
 
 ## Highlights

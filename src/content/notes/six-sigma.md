@@ -14,6 +14,7 @@ aliases:
 related:
   - "[[The Man Who Broke Capitalism]]"
   - "[[Financialization]]"
+  - "[[Jeff Wilke]]"
 ---
 
 # Six Sigma

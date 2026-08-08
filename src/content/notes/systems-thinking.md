@@ -26,6 +26,8 @@ related:
   - "[[Ten Principles for How to Run a Company]]"
   - "[[Niko Canner]]"
   - "[[Rat's Nest Problems]]"
+  - "[[Nuclear War: a Scenario]]"
+  - "[[Out of Control]]"
 ---
 
 # Systems Thinking

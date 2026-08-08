@@ -12,7 +12,8 @@ tags: []
 aliases:
   - "Doubt (movie)"
   - "Doubt"
-related: []
+related:
+  - "[[Faith is Not Blind]]"
 reference_count: 1
 ---
 

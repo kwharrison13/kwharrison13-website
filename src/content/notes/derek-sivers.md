@@ -14,6 +14,8 @@ tags: []
 aliases:
   - "Derek Sivers"
 related:
+  - "[[How To Live]]"
+  - "[[Hell Yeah or No]]"
   - "[[Essentialism]]"
   - "[[Cultivating Cults - Research]]"
   - "[[Hyper Publishing]]"

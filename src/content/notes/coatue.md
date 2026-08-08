@@ -17,6 +17,8 @@ aliases:
   - "Coatue"
   - "Coatue Management"
 related:
+  - "[[Addition]]"
+  - "[[Rikhil Patel]]"
   - "[[September 13th, 2022 — Harry Stebbings Podcast]]"
   - "[[Inside the Rise and Fall of Coatue's Quant Fund]]"
   - "[[TAM Arbitrage]]"

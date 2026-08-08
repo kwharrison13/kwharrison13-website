@@ -5,7 +5,7 @@ year_read: 2022
 rating: 4
 quake: false
 tags: []
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -20,7 +20,7 @@ _A Cosmere-connecting novella retelling the original Mistborn trilogy from Kelsi
 <!-- interconnections -->
 **Books:** [Mistborn — The Final Empire](/books/mistborn-the-final-empire) — this novella runs alongside and behind the original trilogy's events.
 
-**Concepts:** Cosmere — Sanderson's shared universe; Secret History is one of its keystone texts. [Entropy](/notes/entropy) — Ruin frames itself as "the force of entropy, a universal constant."
+**Concepts:** [Cosmere](/notes/cosmere) — Sanderson's shared universe; Secret History is one of its keystone texts. [Entropy](/notes/entropy) — Ruin frames itself as "the force of entropy, a universal constant."
 <!-- /interconnections -->
 
 ## Highlights

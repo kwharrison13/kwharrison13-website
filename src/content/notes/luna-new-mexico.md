@@ -16,6 +16,7 @@ aliases:
   - "Luna NM"
   - "Luna"
 related:
+  - "[[Do You Remember Luna]]"
   - "[[The Luna Landing]]"
   - "[[Catron County]]"
   - "[[Family Towns]]"

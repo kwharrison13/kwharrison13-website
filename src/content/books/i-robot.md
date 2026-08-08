@@ -6,7 +6,7 @@ rating: 4
 quake: false
 tags:
   - "technological-innovation"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -19,7 +19,9 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+- [Isaac Asimov](/notes/isaac-asimov) — author; the robot cycle alongside his [Foundation](/books/foundation) / [Foundation & Empire](/books/foundation-and-empire) trilogy.
+- [Historical Futurism (Essay)](/essays/historical-futurism) — cites the film as an example of robot-rebellion futurism.
+- [Life Imitates Art](/essays/life-imitates-art) — holds up the film as "solid, albeit imperfect" sci-fi storytelling.
 <!-- /interconnections -->
 
 ## Highlights

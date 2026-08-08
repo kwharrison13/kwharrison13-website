@@ -20,6 +20,7 @@ related:
   - "[[Temporal Wealth and the Kingdom of God — Brigham Young]]"
   - "[[Saints — No Unhallowed Hand]]"
   - "[[Quorum of the Twelve]]"
+  - "[[Approaching Zion]]"
 reference_count: 2
 ---
 

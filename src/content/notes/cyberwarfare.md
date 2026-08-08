@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Cyberwarfare"
 related:
+  - "[[2034: A Novel of the Next World War]]"
   - "[[2034 — A Novel of the Next World War]]"
   - "[[Innovation]]"
 ---

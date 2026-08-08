@@ -13,6 +13,7 @@ tags:
 aliases:
   - "Matthew Desmond"
 related:
+  - "[[Evicted: Poverty and Profit in the American City]]"
   - "[[Evicted]]"
   - "[[Poverty]]"
   - "[[Real Estate]]"

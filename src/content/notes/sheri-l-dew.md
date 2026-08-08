@@ -13,6 +13,7 @@ aliases:
   - "Sheri L. Dew"
   - "Sheri Dew"
 related:
+  - "[[Gordon B. Hinckley: Go Forward With Faith]]"
   - "[[Gordon B. Hinckley — Go Forward With Faith]]"
   - "[[Gordon B. Hinckley]]"
   - "[[Ezra Taft Benson]]"

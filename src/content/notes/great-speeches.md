@@ -18,6 +18,7 @@ related:
   - "[[Rhetoric]]"
   - "[[James Clear]]"
   - "[[Speeches That Changed The World]]"
+  - "[[Simon Sebag Montefiore]]"
 ---
 
 # Great Speeches

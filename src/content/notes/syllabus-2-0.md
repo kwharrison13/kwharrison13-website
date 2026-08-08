@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Syllabus 2.0"
 related:
+  - "[[OpenSyllabus]]"
   - "[[Why Books Don't Work]]"
   - "[[Metacognition]]"
   - "[[Open Source Knowledge]]"

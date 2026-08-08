@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Memetics"
 related:
+  - "[[Richard Dawkins]]"
   - "[[Mimetics]]"
   - "[[Mimetic Theory]]"
   - "[[Dan McMurtrie]]"

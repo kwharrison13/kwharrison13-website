@@ -7,7 +7,7 @@ quake: false
 tags:
   - "people-over-politics"
   - "ideological-family-tree"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -20,7 +20,7 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+Kyle's essay [Employees Wanted, The Educated Need Not Apply](/essays/employees-wanted-the-educated-need-not-apply) cites *Dumbing Us Down* — grouping John Taylor Gatto's critique of schooling with its argument that the pre-college system optimizes for checklists and report cards rather than lifelong learning ([Education](/notes/education)).
 <!-- /interconnections -->
 
 ## Highlights

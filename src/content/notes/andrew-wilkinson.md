@@ -15,6 +15,7 @@ related:
   - "[[Berkshire Hathaway Annual Letters]]"
   - "[[Warren Buffett]]"
   - "[[Charlie Munger]]"
+  - "[[Cold Outreach]]"
 ---
 
 # Andrew Wilkinson

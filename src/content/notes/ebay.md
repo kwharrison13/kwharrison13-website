@@ -17,6 +17,7 @@ aliases:
   - "eBay"
   - "eBay ($EBAY)"
 related:
+  - "[[Alibaba: The House That Jack Ma Built]]"
   - "[[Alibaba — The House That Jack Ma Built]]"
   - "[[E-Commerce]]"
   - "[[E-Commerce Tech Roll-Up]]"

@@ -6,14 +6,14 @@ rating: 3
 quake: false
 tags:
   - "capital-allocation"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
 ## Key Takeaways
 
 <!-- key-takeaways -->
-[Taleb](/notes/nassim-taleb)'s foundational book on tail risk read with a recurring focus on epistemic humility and the failure modes of categorical thinking. Six threads:
+[Taleb](/notes/nassim-nicholas-taleb)'s foundational book on tail risk read with a recurring focus on epistemic humility and the failure modes of categorical thinking. Six threads:
 
 1. **The death-of-expertise overlap.** "Our inability to predict in environments subjected to the Black Swan, coupled with a general lack of awareness." Tagged directly to the [The Death of Expertise](/books/the-death-of-expertise) thread — Taleb supplies the math, Nichols supplies the political consequence.
 
@@ -41,7 +41,7 @@ The throughline: most of what humans confidently know is wrong in a way that's i
 - [Reinventing Knowledge — From Alexandria To The Internet](/books/reinventing-knowledge-from-alexandria-to-the-internet) — civilization-fragility parallel.
 - [Romney — A Reckoning](/books/romney-a-reckoning) — the "beliefs as a leading vs. lagging indicator of group membership" frame Taleb's confirmation-bias and categorization argument feeds into.
 
-**People:** [Nassim Nicholas Taleb](/notes/nassim-taleb) — author; trader-turned-flâneur who built the tail-risk argument from the Lebanese war and the trading pits. [Daniel Kahneman](/notes/daniel-kahneman) — cited ("we generally take risks not out of bravado but out of ignorance and blindness to probability"). [John Stuart Mill](/notes/john-stuart-mill) — quoted on stupid people being generally Conservative. [Charlie Munger](/notes/charlie-munger) and [Warren Buffett](/notes/warren-buffett) — the "don't go broke" / stay-in-the-game rule restated in Taleb's vocabulary.
+**People:** [Nassim Nicholas Taleb](/notes/nassim-nicholas-taleb) — author; trader-turned-flâneur who built the tail-risk argument from the Lebanese war and the trading pits. [Daniel Kahneman](/notes/daniel-kahneman) — cited ("we generally take risks not out of bravado but out of ignorance and blindness to probability"). [John Stuart Mill](/notes/john-stuart-mill) — quoted on stupid people being generally Conservative. [Charlie Munger](/notes/charlie-munger) and [Warren Buffett](/notes/warren-buffett) — the "don't go broke" / stay-in-the-game rule restated in Taleb's vocabulary.
 
 **Concepts:** [Confirmation Bias](/notes/confirmation-bias) — the error of generalizing from preselected confirmatory instances (the white-swan / red Mini Cooper raven paradox). [Categorization](/notes/categorization) — pathological when a category is treated as definitive; "Platonicity." [Storytelling](/notes/storytelling-as-leadership) — the narrative fallacy; "you need a story to displace a story." [Risk Management](/notes/risk-management) — the critique of portfolio-manager "risk" definitions that exclude the tail. [Lindy Principle](/notes/lindy-principle) — the turkey problem as its inverse: a micro data set looks safest at the moment of maximum risk. [Forecasting](/notes/forecasting) — "what is surprising is not the magnitude of our forecast errors, but our absence of awareness of it." [Venture Capital](/notes/venture-capital) and [Entrepreneurship](/notes/entrepreneurship) — positive Black Swans, "a touch of madness," the cemetery of failed inventors. [Inversion](/notes/inversion) — Popper's conjectures-and-refutations: hunt for the observation that proves you wrong. [Reading](/notes/reading) and [Books To Read](/notes/books-to-read) — the "antilibrary," where unread books are more valuable than read ones.
 <!-- /interconnections -->

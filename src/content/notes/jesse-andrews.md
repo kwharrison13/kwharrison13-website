@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Jesse Andrews"
-related: []
+related:
+  - "[[Me and Earl and The Dying Girl]]"
 reference_count: 1
 ---
 

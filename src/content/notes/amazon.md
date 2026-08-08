@@ -23,6 +23,7 @@ related:
   - "[[Flywheel]]"
   - "[[The Anti-Amazon Alliance]]"
   - "[[My Bookstore]]"
+  - "[[Jeff Wilke]]"
 ---
 
 # Amazon

@@ -23,6 +23,8 @@ related:
   - "[[Managers Not MBAs]]"
   - "[[The Death of Expertise]]"
   - "[[What It Takes]]"
+  - "[[Blink]]"
+  - "[[Outliers]]"
 reference_count: 1
 ---
 

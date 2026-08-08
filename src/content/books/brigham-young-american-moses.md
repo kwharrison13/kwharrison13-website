@@ -8,7 +8,7 @@ tags:
   - "religious-intellectualism"
   - "city-building"
   - "historical-futurism"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -21,7 +21,7 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+**Books:** [Leonard Arrington and the Writing of Mormon History](/books/leonard-arrington-and-the-writing-of-mormon-history) — Arrington is this biography's author and the subject of that book on honest Mormon institutional history. Same Mormon-history tradition as [American Zion](/books/american-zion) and [Joseph Smith — Rough Stone Rolling](/books/joseph-smith-rough-stone-rolling).
 <!-- /interconnections -->
 
 ## Highlights

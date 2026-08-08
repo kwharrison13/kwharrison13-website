@@ -18,6 +18,7 @@ tags:
 aliases:
   - "Vareto"
 related:
+  - "[[Megan Kao]]"
   - "[[Vareto - Diligence]]"
   - "[[Kat Orekhova]]"
   - "[[Lalit Singh]]"

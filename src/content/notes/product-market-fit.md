@@ -30,6 +30,7 @@ related:
   - "[[Capital Efficiency]]"
   - "[[The Burn Multiple]]"
   - "[[Leland]]"
+  - "[[Nail It Then Scale It]]"
 reference_count: 4
 ---
 

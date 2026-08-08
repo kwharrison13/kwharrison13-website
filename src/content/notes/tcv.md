@@ -16,6 +16,10 @@ aliases:
   - "TCV"
   - "Technology Crossover Ventures"
 related:
+  - "[[Michael Katz]]"
+  - "[[Rikhil Patel]]"
+  - "[[Scott Kirk]]"
+  - "[[Omer Artun]]"
   - "[[Kyle Harrison]]"
   - "[[Coatue]]"
   - "[[Index Ventures]]"

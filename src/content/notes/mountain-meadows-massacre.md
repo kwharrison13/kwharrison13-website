@@ -13,6 +13,7 @@ tags: []
 aliases:
   - "Mountain Meadows Massacre"
 related:
+  - "[[Brigham Young: Pioneer Prophet]]"
   - "[[American Zion]]"
   - "[[Brigham Young — Pioneer Prophet]]"
   - "[[Brigham Young]]"

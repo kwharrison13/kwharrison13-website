@@ -16,6 +16,7 @@ tags:
 aliases:
   - "Khosla Ventures"
 related:
+  - "[[Keith Rabois]]"
   - "[[Vinod Khosla]]"
   - "[[Erik Kriessmann]]"
   - "[[Index Ventures]]"

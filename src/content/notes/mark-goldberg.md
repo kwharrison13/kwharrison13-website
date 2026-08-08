@@ -18,6 +18,7 @@ tags:
 aliases:
   - "Mark Goldberg"
 related:
+  - "[[Jacob Jofe]]"
   - "[[Index Ventures]]"
   - "[[Anrok]]"
   - "[[Pave Diligence — 2021]]"

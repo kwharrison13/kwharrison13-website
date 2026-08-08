@@ -17,6 +17,7 @@ tags:
 aliases:
   - "Automation"
 related:
+  - "[[Homo Deus]]"
   - "[[Utopia For Realists]]"
   - "[[The War on Normal People]]"
   - "[[The Kill Chain]]"

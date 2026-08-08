@@ -23,6 +23,9 @@ aliases:
   - "On the Nature of Long-Term Holds (Yale case)"
   - "On the Nature of Long-Term Holds by A.J. Wasserstein"
 related:
+  - "[[Brian O'Connor]]"
+  - "[[Mark Agnew]]"
+  - "[[Ira Rothberg]]"
   - "[[Compounding]]"
   - "[[Investing 101 2.0]]"
   - "[[Holding Company]]"

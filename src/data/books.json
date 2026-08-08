@@ -925,7 +925,9 @@
         "title": "My Brilliant Friend",
         "author": "Elena Ferrante",
         "rating": 4,
-        "tags": [],
+        "tags": [
+          "republic-of-letters"
+        ],
         "quake": false
       },
       {
@@ -1431,7 +1433,8 @@
         "author": "John G. Turner",
         "rating": 3,
         "tags": [
-          "religious-intellectualism"
+          "religious-intellectualism",
+          "city-building"
         ],
         "quake": false
       },
@@ -1774,7 +1777,9 @@
         "title": "Oathbringer",
         "author": "Brandon Sanderson",
         "rating": 4,
-        "tags": [],
+        "tags": [
+          "republic-of-letters"
+        ],
         "quake": false
       },
       {
@@ -2109,7 +2114,9 @@
         "title": "Patriot Games",
         "author": "Tom Clancy",
         "rating": 4,
-        "tags": [],
+        "tags": [
+          "people-over-politics"
+        ],
         "quake": false
       },
       {
@@ -2614,7 +2621,8 @@
         "author": "Kevin Kelly",
         "rating": 0,
         "tags": [
-          "technological-innovation"
+          "technological-innovation",
+          "open-source-knowledge"
         ],
         "quake": false
       },

@@ -18,6 +18,7 @@ aliases:
   - "A Matter of Degrees by Gino Segre"
   - "A Matter of Degrees: What Temperature Reveals About the Past, and Future of Our Species, Planet, and Universe"
 related:
+  - "[[Gino Segre]]"
   - "[[Poor Charlie's Almanack]]"
 ---
 

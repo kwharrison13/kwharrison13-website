@@ -19,6 +19,7 @@ related:
   - "[[Hugh B. Brown]]"
   - "[[Truman G. Madsen]]"
   - "[[First Vision]]"
+  - "[[Joseph Smith: Rough Stone Rolling]]"
 reference_count: 1
 ---
 

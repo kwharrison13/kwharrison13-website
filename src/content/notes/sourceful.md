@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Sourceful"
 related:
+  - "[[Georgia Stevenson]]"
   - "[[Watershed Climate Diligence — 2021]]"
 ---
 

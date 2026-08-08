@@ -13,6 +13,7 @@ tags: []
 aliases:
   - "Marcus Aurelius"
 related:
+  - "[[Rome]]"
   - "[[Discipline Is Destiny]]"
   - "[[How to Maximize Creativity]]"
   - "[[Stoicism]]"

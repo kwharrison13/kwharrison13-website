@@ -2,9 +2,9 @@
 title: "Karen Fewkes"
 type: "person"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-08-06"
 last_updated_by: "agent"
 sources:
   - "wiki/long-reads/Meaningful Travel.md"
@@ -14,6 +14,7 @@ aliases:
 related:
   - "[[Meaningful Travel]]"
   - "[[Tim Fewkes]]"
+  - "[[Africa]]"
 reference_count: 1
 ---
 

@@ -28,6 +28,7 @@ related:
   - "[[Pricing]]"
   - "[[Chamath Palihapitiya]]"
   - "[[The Unusual Ambitions Of Chamath Palihapitiya]]"
+  - "[[Buffett: The Biography]]"
 reference_count: 1
 ---
 

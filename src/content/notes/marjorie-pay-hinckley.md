@@ -15,6 +15,7 @@ aliases:
 related:
   - "[[Gordon B. Hinckley — Go Forward With Faith]]"
   - "[[Gordon B. Hinckley]]"
+  - "[[Gordon B. Hinckley: Go Forward With Faith]]"
 reference_count: 1
 ---
 

@@ -7,7 +7,7 @@ quake: false
 tags:
   - "city-building"
   - "people-over-politics"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -20,7 +20,7 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 ## Connections
 
 <!-- interconnections -->
-**People:** [Clayton Christensen](/notes/clayton-christensen) — quoted on how the Medicaid lowest-price rule instills price "discipline" that makes any discounting prohibitively expensive for health-care providers. [John Maynard Keynes](/notes/john-maynard-keynes) — the closing epigraph ("When the facts change, I change my mind") framing Goldhill's evolution from a conventional Democrat to a market-skeptic-of-the-system position.
+**People:** [Clayton Christensen](/notes/clayton-christensen) — quoted on how the Medicaid lowest-price rule instills price "discipline" that makes any discounting prohibitively expensive for health-care providers. [Atul Gawande](/notes/atul-gawande) — his New Yorker essay "The Cost Conundrum" (on McAllen, Texas) is cited to show how Medicare's incentives pervert the professional culture of medicine so that aggressive over-treatment comes to feel like necessary treatment. [Paul Starr](/notes/paul-starr) — the historian quoted on the concentration of health-care costs (the top 10% of people account for 70% of costs), the standard case for insurance-based financing that Goldhill then contests. [John Maynard Keynes](/notes/john-maynard-keynes) — the closing epigraph ("When the facts change, I change my mind") framing Goldhill's evolution from a conventional Democrat to a market-skeptic-of-the-system position.
 
 **Concepts:** [Incentives](/notes/incentives) — the book's core argument is that backward economic incentives reward bad behavior (more revenue for excess treatment, penalties for efficiency) rather than serving patients. [Pricing](/notes/pricing) — administered, cost-plus pricing replaces flexible market prices, driving inflation, underinvestment in IT and antibiotics, and misallocation. [Insurance](/notes/insurance) — Goldhill's central reframe: insurance is misused as the payment system for routine, predictable care rather than confined to true catastrophic risk. [Competition](/notes/competition) — "Surrogates" (insurers, Medicare) sever the consumer's disciplining role, removing the competitive pressure that on the "Mainland" forces lower prices, higher quality, and better service. [Operational Discipline](/notes/operational-discipline) — the consumer-as-disciplinarian is the missing market feedback loop that health care lacks. [Innovation](/notes/innovation) — "green shoots" (concierge primary care, medical tourism, price-transparency startups) and creative destruction stay suppressed until consumers, not Surrogates, are in charge.
 

@@ -16,6 +16,7 @@ aliases:
   - "Shane Parrish"
   - "Shane"
 related:
+  - "[[Farnam Street]]"
   - "[[The Great Mental Models Volume 1 — General Thinking Concepts]]"
   - "[[Poor Charlie's Almanack]]"
   - "[[Naval Ravikant — The Angel Philosopher]]"

@@ -15,6 +15,7 @@ aliases:
   - "Esther Duflo"
   - "Duflo"
 related:
+  - "[[Poor Economics: A Radical Rethinking of The Way To Fight Global Poverty]]"
   - "[[Poor Economics — A Radical Rethinking of The Way To Fight Global Poverty]]"
   - "[[Utopia For Realists]]"
   - "[[Effective Altruism]]"

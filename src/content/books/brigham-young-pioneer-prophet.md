@@ -6,7 +6,8 @@ rating: 3
 quake: false
 tags:
   - "religious-intellectualism"
-last_imported: "2026-08-05"
+  - "city-building"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 

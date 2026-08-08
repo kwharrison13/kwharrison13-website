@@ -20,6 +20,8 @@ related:
   - "[[Investment Memo Template]]"
   - "[[Charlie Munger]]"
   - "[[Bill Gurley]]"
+  - "[[DST Global]]"
+  - "[[Poor Charlie's Almanack]]"
 reference_count: 2
 ---
 

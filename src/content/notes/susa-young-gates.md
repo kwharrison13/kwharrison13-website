@@ -20,6 +20,7 @@ related:
   - "[[Brigham Young — Pioneer Prophet]]"
   - "[[Brigham Young]]"
   - "[[Eliza R. Snow]]"
+  - "[[Brigham Young: Pioneer Prophet]]"
 reference_count: 1
 ---
 

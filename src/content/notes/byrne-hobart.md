@@ -18,6 +18,7 @@ aliases:
   - "Byrne Hobart"
   - "Hobart"
 related:
+  - "[[Boom: Bubbles & The End of Stagnation]]"
   - "[[Boom — Bubbles & The End of Stagnation]]"
   - "[[Tobias Huber]]"
   - "[[Thymos]]"

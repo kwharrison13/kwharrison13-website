@@ -20,6 +20,7 @@ related:
   - "[[Scenius]]"
   - "[[PayPal]]"
   - "[[Brian Eno]]"
+  - "[[Amy Klement]]"
 ---
 
 # Jimmy Soni

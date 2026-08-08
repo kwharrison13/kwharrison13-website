@@ -14,6 +14,7 @@ aliases:
 related:
   - "[[Ethan Ding]]"
   - "[[July 18th, 2022 — Ethan Ding]]"
+  - "[[Why Grab Any Seat on the Rocketship Is a Bad Career Strategy (Hunter Walk Link Roundup)]]"
 ---
 
 # Eric Schmidt
@@ -25,3 +26,4 @@ Mentioned in Kyle's July 18th, 2022 networking call with Ethan Ding, who noted h
 ## Where this appears
 
 - July 18th, 2022 — Ethan Ding — Ding mentioned considering joining Schmidt's fund to build out his expertise.
+- [Why Grab Any Seat on the Rocketship Is a Bad Career Strategy (Hunter Walk Link Roundup)](/notes/why-grab-any-seat-on-the-rocketship-is-a-bad-career-strategy-hunter-walk-link-roundup) — namechecked as the originator of the "rocketship" career advice Molly Graham's piece pushes back on.

@@ -6,7 +6,7 @@ rating: 4
 quake: false
 tags:
   - "company-building"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -52,7 +52,7 @@ The thesis the notes circle: Amazon is the cleanest available case study for wha
 - [Jeff Bezos](/notes/jeff-bezos) — Amazon's founder and the book's subject; customer obsession, "Day 1"/"remain scared," the regret-minimization framework, decentralization, and the six-page narrative all trace to him.
 - [Sam Walton](/notes/sam-walton) — Bezos underlined Walton's passage on borrowing competitors' best ideas; "every company in retail stands on the shoulders of giants."
 - [Clayton Christensen](/notes/clayton-christensen) — author of The Innovator's Dilemma; framework Bezos used to justify cannibalizing the print business with the Kindle.
-- [Nassim Nicholas Taleb](/notes/nassim-taleb) — narrative-fallacy source; The Black Swan as required Amazon reading.
+- [Nassim Nicholas Taleb](/notes/nassim-nicholas-taleb) — narrative-fallacy source; The Black Swan as required Amazon reading.
 - [Steve Jobs](/notes/steve-jobs) — recurring foil; Bezos studied Apple's control of the music business to model the Kindle, and avoided "Steve Jobs's mistake" of fat iPhone margins inviting competition.
 - [Walt Disney](/notes/walt-disney) — listed with Ford and Jobs as an entrepreneur turning imagination into physical reality.
 - [Charlie Munger](/notes/charlie-munger) / [Warren Buffett](/notes/warren-buffett) — operating-philosophy templates paired with Bezos throughout the notes.

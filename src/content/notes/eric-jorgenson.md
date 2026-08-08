@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Eric Jorgenson"
-related: []
+related:
+  - "[[Jack Butcher]]"
 reference_count: 1
 ---
 

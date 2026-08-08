@@ -6,7 +6,7 @@ rating: 4
 quake: false
 tags:
   - "ideological-family-tree"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -19,7 +19,9 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+**People:** [Derek Sivers](/notes/derek-sivers) — author of this book.
+
+**Books:** [How to Live](/books/how-to-live) — also by [Derek Sivers](/notes/derek-sivers).
 <!-- /interconnections -->
 
 ## Highlights

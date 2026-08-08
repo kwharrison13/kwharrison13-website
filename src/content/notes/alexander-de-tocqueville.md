@@ -14,6 +14,7 @@ aliases:
   - "Alexis de Tocqueville"
 related:
   - "[[Reinventing Knowledge — From Alexandria To The Internet]]"
+  - "[[2054]]"
 ---
 
 # Alexander de Tocqueville

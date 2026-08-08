@@ -18,6 +18,7 @@ aliases:
   - "Elder Eyring"
   - "President Eyring"
 related:
+  - "[[Gordon B. Hinckley: Go Forward With Faith]]"
   - "[[Spiritual Gifts]]"
   - "[[The Lehonti Principle]]"
   - "[[Revelation — Topical Study]]"

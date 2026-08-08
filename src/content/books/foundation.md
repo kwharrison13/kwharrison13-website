@@ -7,7 +7,7 @@ quake: false
 tags:
   - "technological-innovation"
   - "historical-futurism"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -20,7 +20,8 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+- [Foundation & Empire](/books/foundation-and-empire) — the second volume of [Isaac Asimov](/notes/isaac-asimov)'s Foundation trilogy.
+- [I, Robot](/books/i-robot) — Asimov's other major cycle.
 <!-- /interconnections -->
 
 ## Highlights

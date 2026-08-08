@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Self-Mastery"
 related:
+  - "[[Educated]]"
   - "[[Self-Mastery — Topical Study]]"
   - "[[The Lehonti Principle]]"
   - "[[Godly Characteristics of the Master]]"

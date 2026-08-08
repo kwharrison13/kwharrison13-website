@@ -18,6 +18,8 @@ related:
   - "[[Charlie Munger]]"
   - "[[The Art of War]]"
   - "[[Charlie Munger: The Great Financial Scandal of 2003]]"
+  - "[[Naked Economics]]"
+  - "[[Nudge]]"
 ---
 
 # Incentives

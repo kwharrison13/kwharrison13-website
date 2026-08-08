@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Orson Hyde"
 related:
+  - "[[Brigham Young: Pioneer Prophet]]"
   - "[[Brigham Young — Pioneer Prophet]]"
   - "[[Brigham Young]]"
   - "[[Orson Pratt]]"

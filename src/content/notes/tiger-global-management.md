@@ -15,6 +15,8 @@ aliases:
   - "Tiger Global Management"
   - "Tiger Global"
 related:
+  - "[[Addition]]"
+  - "[[Lee Fixel]]"
   - "[[Chase Coleman]]"
   - "[[The Power Law — Venture Capital & the Making of the New Future]]"
   - "[[Sebastian Mallaby]]"

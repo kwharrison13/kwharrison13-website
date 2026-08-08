@@ -18,6 +18,7 @@ aliases:
   - "The Warren Buffett Portfolio: Mastering the Power of the Focus Investment Strategy"
   - "The Warren Buffett Portfolio by Robert Hagstrom"
 related:
+  - "[[Robert Hagstrom]]"
   - "[[Poor Charlie's Almanack]]"
 ---
 

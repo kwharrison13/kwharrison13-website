@@ -16,6 +16,9 @@ tags: []
 aliases:
   - "Isaac Asimov"
 related:
+  - "[[I, Robot]]"
+  - "[[Foundation]]"
+  - "[[Foundation & Empire]]"
   - "[[The AppetiZIRP]]"
   - "[[Historical Futurism - Research]]"
   - "[[Amazon Unbound]]"

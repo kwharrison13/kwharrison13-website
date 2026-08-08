@@ -18,6 +18,7 @@ related:
   - "[[Jony Ive]]"
   - "[[Apple]]"
   - "[[Likability]]"
+  - "[[Witnessing the Beginning of A Chemical Empire]]"
 ---
 
 # Steve Jobs
@@ -38,3 +39,4 @@ In [Discipline Is Destiny](/books/discipline-is-destiny) ([Ryan Holiday](/notes/
 - [The Idea Factory](/books/the-idea-factory) — named as a modern "bigger than life" exemplar; Kyle's harvest-vs-innovate litigiousness note on Apple
 - [The Power Law: Venture Capital & the Making of the New Future](/books/the-power-law-venture-capital-and-the-making-of-the-new-future) — surfaces in the founder-control / great-founder VC thread
 - [The Ride of a Lifetime](/books/the-ride-of-a-lifetime) — adjacent on creative-company leadership ([Disney](/notes/disney) / Pixar)
+- [Witnessing the Beginning of A Chemical Empire](/notes/witnessing-the-beginning-of-a-chemical-empire) — invoked with [Elon Musk](/notes/elon-musk) as a "reality distortion field" exemplar behind Solugen's compressed plant-build timeline

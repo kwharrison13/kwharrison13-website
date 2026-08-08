@@ -16,6 +16,13 @@ aliases:
   - "Contrary Capital"
   - "Contrary Research"
 related:
+  - "[[Megan Kao]]"
+  - "[[Francesco Corea]]"
+  - "[[Creator Fund]]"
+  - "[[Robbie Shattuck]]"
+  - "[[Luke Qin]]"
+  - "[[Gokul Rajaram]]"
+  - "[[Kat Orekhova]]"
   - "[[June 20th, 2023 — Derek Weber (SaxonWeber)]]"
   - "[[September 13th, 2022 — Harry Stebbings Podcast]]"
   - "[[March 5th, 2020 — Eric Tarczynski (Contrary Capital)]]"

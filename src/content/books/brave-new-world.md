@@ -8,7 +8,7 @@ tags:
   - "historical-futurism"
   - "technological-innovation"
   - "language-of-discourse"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 

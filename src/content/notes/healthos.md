@@ -22,6 +22,7 @@ aliases:
   - "healthOS"
   - "healthOS — Divinations"
 related:
+  - "[[Jim Cramer]]"
   - "[[Nathan Baschez]]"
   - "[[Divinations]]"
   - "[[Apple ($AAPL)]]"

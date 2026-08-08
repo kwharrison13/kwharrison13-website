@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Mammon"
-related: []
+related:
+  - "[[Approaching Zion]]"
 reference_count: 1
 ---
 

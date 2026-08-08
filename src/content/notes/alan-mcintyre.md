@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-16"
-updated: "2026-06-25"
+updated: "2026-08-06"
 last_updated_by: "agent"
 sources:
   - "wiki/concepts/Chad's Big Quote Book.md"

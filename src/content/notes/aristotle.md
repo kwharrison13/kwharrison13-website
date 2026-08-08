@@ -22,6 +22,8 @@ related:
   - "[[Leonardo Da Vinci]]"
   - "[[Charlie Munger]]"
   - "[[Envy]]"
+  - "[[How To Be a Capitalist Without Any Capital]]"
+  - "[[How To Read a Book]]"
 reference_count: 1
 ---
 

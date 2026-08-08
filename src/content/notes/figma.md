@@ -23,6 +23,7 @@ related:
   - "[[Joseph Ambeault]]"
   - "[[Atlassian]]"
   - "[[GitLab]]"
+  - "[[Rikhil Patel]]"
 reference_count: 1
 ---
 

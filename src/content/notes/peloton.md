@@ -13,6 +13,8 @@ aliases:
   - "Peloton"
   - "Peloton ($PTON)"
 related:
+  - "[[Addition]]"
+  - "[[Mohawk Industries]]"
   - "[[Watershed Climate Diligence — 2021]]"
   - "[[Watershed Climate]]"
   - "[[John Foley]]"

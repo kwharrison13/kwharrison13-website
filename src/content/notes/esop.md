@@ -14,6 +14,7 @@ aliases:
   - "ESOP"
   - "Employee Stock Ownership Plan"
 related:
+  - "[[Tim Ludwig]]"
   - "[[Employee Ownership]]"
   - "[[John Hoffmire]]"
   - "[[The War on Normal People]]"

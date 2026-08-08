@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Religious Intellectualism"
 related:
+  - "[[Islam & The Future of Tolerance]]"
   - "[[raw/clippings/Peter Thiel's Religion]]"
   - "[[Peter Thiel]]"
   - "[[Rene Girard]]"

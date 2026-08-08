@@ -17,6 +17,8 @@ tags: []
 aliases:
   - "Entrepreneurship"
 related:
+  - "[[Netflixed]]"
+  - "[[Nail It Then Scale It]]"
   - "[[Driven]]"
   - "[[What It Takes]]"
   - "[[The Start-Up of You]]"

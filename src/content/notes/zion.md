@@ -25,6 +25,7 @@ related:
   - "[[United Order]]"
   - "[[Consecration]]"
   - "[[4 Nephi]]"
+  - "[[Brigham Young: Pioneer Prophet]]"
 reference_count: 3
 ---
 

@@ -13,6 +13,7 @@ tags: []
 aliases:
   - "Burn Multiple"
 related:
+  - "[[Craft Ventures]]"
   - "[[How to Trick Investors and VCs]]"
   - "[[The Burn Multiple]]"
   - "[[David Sacks]]"

@@ -16,6 +16,7 @@ aliases:
   - "Ernesta"
   - "Earnesta"
 related:
+  - "[[Lee Fixel]]"
   - "[[John Foley]]"
   - "[[Addition]]"
   - "[[Peloton]]"

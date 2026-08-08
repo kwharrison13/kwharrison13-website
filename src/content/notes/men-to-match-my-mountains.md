@@ -20,6 +20,7 @@ aliases:
   - "Men to Match My Mountains by Irving Stone"
   - "Men to Match My Mountains: The Opening of the Far West"
 related:
+  - "[[Irving Stone]]"
   - "[[Poor Charlie's Almanack]]"
 ---
 

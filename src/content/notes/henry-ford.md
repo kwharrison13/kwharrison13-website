@@ -20,6 +20,7 @@ aliases:
   - "Henry Ford"
   - "Ford"
 related:
+  - "[[J.D. Rockefeller]]"
   - "[[Utopia For Realists]]"
   - "[[Walt Disney and the Promise of Progress City]]"
   - "[[George F. Johnson and His Industrial Democracy]]"

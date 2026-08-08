@@ -18,6 +18,7 @@ related:
   - "[[The Power Law — Venture Capital & the Making of the New Future]]"
   - "[[Capital Allocation]]"
   - "[[Family of Companies]]"
+  - "[[Buffett: The Biography]]"
 ---
 
 # Diversification

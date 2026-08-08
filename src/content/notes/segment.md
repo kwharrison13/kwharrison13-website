@@ -17,6 +17,11 @@ tags:
 aliases:
   - "Segment"
 related:
+  - "[[Ross Schwaber]]"
+  - "[[Michael Katz]]"
+  - "[[Rikhil Patel]]"
+  - "[[Scott Kirk]]"
+  - "[[Omer Artun]]"
   - "[[Customer Data Platform]]"
   - "[[mParticle]]"
   - "[[Contenda]]"

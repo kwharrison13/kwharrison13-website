@@ -17,6 +17,7 @@ aliases:
   - "The American Dream"
   - "American-Dream"
 related:
+  - "[[Benjamin Franklin: An American Life]]"
   - "[[Hillbilly Elegy]]"
   - "[[The Greatest Sentence Ever Written]]"
   - "[[It's Time To Build]]"

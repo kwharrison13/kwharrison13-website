@@ -16,6 +16,7 @@ related:
   - "[[Zettelkasten]]"
   - "[[Idea Sex]]"
   - "[[Conor White-Sullivan]]"
+  - "[[Prioritize and Focus]]"
 reference_count: 1
 ---
 

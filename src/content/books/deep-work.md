@@ -7,7 +7,7 @@ quake: false
 tags:
   - "company-building"
   - "ideological-family-tree"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -20,7 +20,10 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+- [Cal Newport](/notes/cal-newport) — author; [Digital Minimalism](/books/digital-minimalism) and [Discipline Is Destiny](/books/discipline-is-destiny) both draw the "large, uninterrupted blocks of focused time" thread back to this book.
+- [Digital Minimalism](/books/digital-minimalism) — the direct Newport precursor pairing; both argue attention is a scarce resource to protect from low-value digital interruption.
+- [Essentialism](/books/essentialism) / [Atomic Habits](/books/atomic-habits) — focus-and-subtraction and habit-design companions in the same ideological family.
+- [Monk Mode](/notes/monk-mode) — the deep-focus working mode associated with this book.
 <!-- /interconnections -->
 
 ## Highlights

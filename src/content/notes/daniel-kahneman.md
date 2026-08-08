@@ -24,6 +24,8 @@ related:
   - "[[Heuristics]]"
   - "[[Nassim Nicholas Taleb]]"
   - "[[Angus Deaton]]"
+  - "[[Overconfidence Bias]]"
+  - "[[Blink]]"
 reference_count: 6
 ---
 

@@ -16,6 +16,8 @@ tags:
 aliases:
   - "Assemble"
 related:
+  - "[[Conor Theilman]]"
+  - "[[Dave Allan]]"
   - "[[Lisa Wallace]]"
   - "[[Pave fka Trove]]"
   - "[[ServiceTitan]]"

@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Anthony Trollope"
 related:
+  - "[[Seinfeld's Calendar]]"
   - "[[Charlie Munger — A Lesson on Elementary Worldly Wisdom]]"
 ---
 

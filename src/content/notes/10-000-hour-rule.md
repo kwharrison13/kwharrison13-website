@@ -16,6 +16,7 @@ aliases:
   - "10,000 Hour Rule"
   - "10000 Hour Rule"
 related:
+  - "[[Outliers]]"
   - "[[The Science of Learning]]"
   - "[[Kobe Bryant]]"
   - "[[Expertise]]"

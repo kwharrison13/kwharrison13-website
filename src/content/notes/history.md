@@ -19,6 +19,7 @@ related:
   - "[[Gordon B. Hinckley — Go Forward With Faith]]"
   - "[[Leo Tolstoy]]"
   - "[[Paul Cooper]]"
+  - "[[Our Oriental Heritage]]"
 reference_count: 1
 ---
 

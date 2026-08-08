@@ -15,6 +15,8 @@ aliases:
   - "President Hinckley"
   - "Elder Hinckley"
 related:
+  - "[[Gordon B. Hinckley: Go Forward With Faith]]"
+  - "[[Driven]]"
   - "[[Gordon B. Hinckley — Go Forward With Faith]]"
   - "[[If Ye Are Prepared Ye Shall Not Fear — Gordon B. Hinckley]]"
   - "[[Sheri L. Dew]]"

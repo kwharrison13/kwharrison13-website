@@ -8,7 +8,7 @@ rating: 4
 quake: false
 tags:
   - "language-of-discourse"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -21,7 +21,7 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+**Books:** Cormac McCarthy's fiction — [The Road](/books/the-road) and [All The Pretty Horses](/books/all-the-pretty-horses) (same author); grouped with [Lonesome Dove](/books/lonesome-dove) and [Streets of Laredo](/books/streets-of-laredo) in the settlement-of-the-West reading.
 <!-- /interconnections -->
 
 ## Highlights

@@ -25,6 +25,9 @@ related:
   - "[[The Art of War]]"
   - "[[Stories of Your Life and Others]]"
   - "[[Naval Ravikant — The Angel Philosopher]]"
+  - "[[Robert Axelrod]]"
+  - "[[J.D. Williams]]"
+  - "[[Nuclear War: a Scenario]]"
 reference_count: 1
 ---
 

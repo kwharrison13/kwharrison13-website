@@ -15,6 +15,7 @@ aliases:
 related:
   - "[[On the Nature of Long-Term Holds]]"
   - "[[Statistics]]"
+  - "[[Outliers]]"
 reference_count: 1
 ---
 

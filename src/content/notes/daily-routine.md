@@ -18,6 +18,7 @@ related:
   - "[[Journals]]"
   - "[[The Man Who Reads 1"
   - "000 Articles a Day]]"
+  - "[[Seinfeld's Calendar]]"
 reference_count: 1
 ---
 

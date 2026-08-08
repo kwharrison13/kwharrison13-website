@@ -18,6 +18,8 @@ aliases:
   - "Compounding"
   - "compounding"
 related:
+  - "[[Buffett: The Biography]]"
+  - "[[Ira Rothberg]]"
   - "[[The Autobiography of Benjamin Franklin]]"
   - "[[Atomic Habits]]"
   - "[[The Psychology of Money]]"

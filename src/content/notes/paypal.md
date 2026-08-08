@@ -24,6 +24,9 @@ related:
   - "[[Elon Musk]]"
   - "[[Jimmy Soni]]"
   - "[[Keith Rabois]]"
+  - "[[Eric Klein]]"
+  - "[[Amy Klement]]"
+  - "[[LinkedIn]]"
 reference_count: 1
 ---
 

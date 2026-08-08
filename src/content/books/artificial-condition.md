@@ -7,7 +7,7 @@ quake: false
 tags:
   - "technological-innovation"
   - "historical-futurism"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -20,7 +20,7 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+**Books:** Part of Martha Wells's *Murderbot Diaries* series, alongside [All Systems Red](/books/all-systems-red), [Rogue Protocol](/books/rogue-protocol), [Exit Strategy](/books/exit-strategy), [Network Effect](/books/network-effect), [Fugitive Telemetry](/books/fugitive-telemetry), and [System Collapse](/books/system-collapse).
 <!-- /interconnections -->
 
 ## Highlights

@@ -15,6 +15,9 @@ aliases:
   - "Brigham Young"
   - "President Young"
 related:
+  - "[[Joseph Smith: Rough Stone Rolling]]"
+  - "[[Brigham Young: Pioneer Prophet]]"
+  - "[[Approaching Zion]]"
   - "[[Brigham Young — Pioneer Prophet]]"
   - "[[American Zion]]"
   - "[[Joseph Smith]]"

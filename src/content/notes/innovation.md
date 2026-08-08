@@ -24,6 +24,8 @@ related:
   - "[[What It Takes]]"
   - "[[The Kill Chain]]"
   - "[[Multidisciplinary Thinking]]"
+  - "[[Netflixed]]"
+  - "[[No Apology]]"
 reference_count: 1
 ---
 

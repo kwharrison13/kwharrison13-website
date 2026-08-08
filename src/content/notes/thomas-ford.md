@@ -16,6 +16,7 @@ aliases:
 related:
   - "[[Voice of the People]]"
   - "[[Brigham Young — Pioneer Prophet]]"
+  - "[[Brigham Young: Pioneer Prophet]]"
 reference_count: 2
 ---
 

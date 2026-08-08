@@ -14,6 +14,7 @@ tags:
 aliases:
   - "John Foley"
 related:
+  - "[[Addition]]"
   - "[[Peloton]]"
   - "[[Ernesta]]"
   - "[[Stewards of Capital]]"

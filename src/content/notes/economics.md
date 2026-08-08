@@ -13,6 +13,7 @@ aliases:
   - "Economics"
 related:
   - "[[Naval Ravikant — The Angel Philosopher]]"
+  - "[[Naked Economics]]"
 reference_count: 1
 ---
 

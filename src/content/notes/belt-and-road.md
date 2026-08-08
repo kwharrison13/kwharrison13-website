@@ -16,6 +16,7 @@ aliases:
   - "Belt and Road"
   - "Belt and Road Initiative"
 related:
+  - "[[2034: A Novel of the Next World War]]"
   - "[[2034 — A Novel of the Next World War]]"
   - "[[Foreign Policy]]"
 ---

@@ -24,6 +24,7 @@ aliases:
   - "Keith Rabois: How to Operate"
   - "How to Operate (Keith Rabois)"
 related:
+  - "[[Barrels and Ammunition]]"
   - "[[Keith Rabois]]"
   - "[[Operations]]"
   - "[[Talent]]"

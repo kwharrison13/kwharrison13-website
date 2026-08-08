@@ -13,6 +13,8 @@ tags: []
 aliases:
   - "Behavioral Economics"
 related:
+  - "[[Nudge]]"
+  - "[[Blink]]"
   - "[[Charlie Munger — A Lesson on Elementary Worldly Wisdom]]"
   - "[[Charlie Munger — The Psychology of Human Misjudgment]]"
   - "[[Charlie Munger]]"

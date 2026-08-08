@@ -25,6 +25,7 @@ related:
   - "[[Platform Risk]]"
   - "[[Networking]]"
   - "[[Chris Yeh]]"
+  - "[[LinkedIn]]"
 ---
 
 # Reid Hoffman

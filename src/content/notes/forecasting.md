@@ -31,6 +31,7 @@ related:
   - "[[Range]]"
   - "[[Historical Futurism]]"
   - "[[Charlie Munger: Academic Economics]]"
+  - "[[William Hertling]]"
 ---
 
 # Forecasting

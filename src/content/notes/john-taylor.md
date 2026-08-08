@@ -22,6 +22,7 @@ related:
   - "[[Joseph Smith]]"
   - "[[B.H. Roberts]]"
   - "[[United Order]]"
+  - "[[Brigham Young: Pioneer Prophet]]"
 reference_count: 1
 ---
 

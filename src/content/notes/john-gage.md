@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-06-28"
-updated: "2026-06-28"
+updated: "2026-08-06"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Education Nation.md"
@@ -18,7 +18,7 @@ reference_count: 1
 
 # John Gage
 
-John Gage is the technologist (a Sun Microsystems co-founder) quoted in [Education Nation](/books/education-nation): "The problem with Americans is we think of education as a cost. But other nations think of it as an investment."
+Technologist quoted in [Education Nation](/books/education-nation), where his line frames the book's argument for treating schooling as an investment: "The problem with Americans is we think of education as a cost. But other nations think of it as an investment." (The wiki has only this thin mention of him; no further biography is attested in Kyle's sources.)
 
 ## Where this appears
 

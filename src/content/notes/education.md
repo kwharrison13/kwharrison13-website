@@ -18,6 +18,11 @@ tags: []
 aliases:
   - "Education"
 related:
+  - "[[Our Towns]]"
+  - "[[No Apology]]"
+  - "[[John Quincy Adams]]"
+  - "[[Educated]]"
+  - "[[Dumbing Us Down]]"
   - "[[Retraining]]"
   - "[[Alternative Education]]"
   - "[[Online Education]]"

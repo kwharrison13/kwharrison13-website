@@ -26,6 +26,7 @@ related:
   - "[[John Taylor]]"
   - "[[Orson Pratt]]"
   - "[[Joseph Smith]]"
+  - "[[Brigham Young: Pioneer Prophet]]"
 reference_count: 2
 ---
 

@@ -25,6 +25,7 @@ related:
   - "[[Erica Brescia]]"
   - "[[Fly.io]]"
   - "[[Jasper.ai]]"
+  - "[[Omer Artun]]"
 reference_count: 1
 ---
 

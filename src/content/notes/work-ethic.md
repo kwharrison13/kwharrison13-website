@@ -15,6 +15,8 @@ aliases:
   - "work ethic"
   - "Work Ethic"
 related:
+  - "[[Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future]]"
+  - "[[Driven]]"
   - "[[Elon Musk — Tesla, SpaceX, and the Quest for a Fantastic Future]]"
   - "[[Gordon B. Hinckley — Go Forward With Faith]]"
   - "[[Leslie Knope]]"

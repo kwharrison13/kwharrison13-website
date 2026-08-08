@@ -16,6 +16,7 @@ tags:
 aliases:
   - "Nathan Harkenrider"
 related:
+  - "[[Kat Orekhova]]"
   - "[[Vareto]]"
   - "[[Smartsheet]]"
 ---

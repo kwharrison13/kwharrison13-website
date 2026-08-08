@@ -13,6 +13,7 @@ aliases:
   - "Yahoo"
   - "Yahoo Inc."
 related:
+  - "[[Michael Katz]]"
   - "[[The New Urban Crisis]]"
 reference_count: 1
 ---

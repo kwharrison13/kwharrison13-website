@@ -19,6 +19,7 @@ related:
   - "[[Leonard Arrington]]"
   - "[[Dieter F. Uchtdorf]]"
   - "[[Law of the Harvest]]"
+  - "[[Brigham Young: Pioneer Prophet]]"
 reference_count: 1
 ---
 

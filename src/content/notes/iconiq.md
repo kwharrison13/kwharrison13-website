@@ -16,6 +16,7 @@ aliases:
   - "ICONIQ"
   - "ICONIQ Capital"
 related:
+  - "[[Robbie Shattuck]]"
   - "[[Alec Anderson]]"
   - "[[June 15th, 2022 — Alec Anderson (ICONIQ)]]"
 ---

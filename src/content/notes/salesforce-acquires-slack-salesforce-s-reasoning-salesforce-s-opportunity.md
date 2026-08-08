@@ -17,6 +17,7 @@ aliases:
   - "Salesforce Acquires Slack, Salesforce's Reasoning, Salesforce's Opportunity"
   - "Salesforce Acquires Slack"
 related:
+  - "[[LinkedIn]]"
   - "[[Ben Thompson]]"
   - "[[Stratechery]]"
   - "[[Salesforce]]"

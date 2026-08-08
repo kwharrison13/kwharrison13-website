@@ -12,7 +12,8 @@ sources:
 tags: []
 aliases:
   - "Nat Eliason"
-related: []
+related:
+  - "[[Crypto Confidential]]"
 reference_count: 5
 ---
 

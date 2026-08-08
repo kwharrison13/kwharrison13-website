@@ -17,6 +17,7 @@ aliases:
   - "Ice Age: The Theory That Came In from the Cold"
   - "Ice Age by John Gribbin and Mary Gribbin"
 related:
+  - "[[Mary Gribbin]]"
   - "[[Poor Charlie's Almanack]]"
 ---
 

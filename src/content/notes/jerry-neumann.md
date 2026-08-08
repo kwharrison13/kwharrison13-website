@@ -2,13 +2,14 @@
 title: "Jerry Neumann"
 type: "person"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-07-23"
-updated: "2026-07-23"
+updated: "2026-08-06"
 last_updated_by: "agent"
 sources:
   - "raw/archive/clippings/Invisible Companies.md"
-tags: []
+tags:
+  - "capital-allocation"
 aliases:
   - "Jerry Neumann"
 related:
@@ -22,7 +23,7 @@ related:
 
 ## What we know
 
-- Co-authored [Invisible Companies](/notes/invisible-companies) with [Jay Barney](/notes/jay-barney) and Haiyang Zhang. (source: [Invisible Companies](/notes/invisible-companies))
+- Co-authored [Invisible Companies](/notes/invisible-companies) (Colossus, 2026) with [Jay Barney](/notes/jay-barney) and Haiyang Zhang — the essay arguing that "competitive neglect" (not any [moat](/notes/competitive-moat)) lets boring, obscure businesses like [Constellation Software](/notes/constellation-software)'s roll-up targets earn outsized profits for decades. (source: [Invisible Companies](/notes/invisible-companies))
 
 ## Mentioned in
 

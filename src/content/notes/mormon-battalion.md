@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Mormon Battalion"
 related:
+  - "[[Brigham Young: Pioneer Prophet]]"
   - "[[Brigham Young — Pioneer Prophet]]"
   - "[[Brigham Young]]"
 ---

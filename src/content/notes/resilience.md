@@ -15,6 +15,7 @@ tags: []
 aliases:
   - "Resilience"
 related:
+  - "[[My Story]]"
   - "[[The Boy Who Was Raised as a Dog]]"
   - "[[The Self-Driven Child]]"
   - "[[What It Takes]]"

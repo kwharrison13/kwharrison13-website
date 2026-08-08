@@ -21,6 +21,8 @@ related:
   - "[[The Psychology of Money]]"
   - "[[Efficient Market Theory]]"
   - "[[Berkshire Hathaway Annual Letters]]"
+  - "[[Buffett: The Biography]]"
+  - "[[Poor Charlie's Almanack]]"
 ---
 
 # Ben Graham

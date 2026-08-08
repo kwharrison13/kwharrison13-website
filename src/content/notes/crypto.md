@@ -21,6 +21,7 @@ related:
   - "[[DigitalTown]]"
   - "[[Alternative Investing]]"
   - "[[Institutionalized Belief In The Greater Fool]]"
+  - "[[Boom: Bubbles & The End of Stagnation]]"
 ---
 
 # Crypto

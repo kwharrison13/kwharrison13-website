@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "David McCullough"
 related:
+  - "[[1776]]"
   - "[[Driven]]"
   - "[[John Adams]]"
   - "[[Larry H. Miller]]"

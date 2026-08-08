@@ -15,6 +15,7 @@ tags:
 aliases:
   - "Kevin Kelly"
 related:
+  - "[[Out of Control]]"
   - "[[GDP]]"
   - "[[Utopia For Realists]]"
 ---

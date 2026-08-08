@@ -21,6 +21,8 @@ related:
   - "[[Pave fka Trove]]"
   - "[[Stripe]]"
   - "[[ShopMonkey]]"
+  - "[[Dave Allan]]"
+  - "[[Conor Theilman]]"
 reference_count: 4
 ---
 

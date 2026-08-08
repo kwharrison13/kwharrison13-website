@@ -21,6 +21,7 @@ tags:
 aliases:
   - "When Java Meets Jive"
 related:
+  - "[[Stephen Gordon]]"
   - "[[David Perell]]"
   - "[[Starbucks]]"
   - "[[Tiago Forte]]"

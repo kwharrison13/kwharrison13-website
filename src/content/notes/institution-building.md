@@ -19,6 +19,7 @@ related:
   - "[[Saints — No Unhallowed Hand]]"
   - "[[Brigham Young: Pioneer Prophet]]"
   - "[[Quorum of the Twelve]]"
+  - "[[Joseph Smith: Rough Stone Rolling]]"
 ---
 
 # Institution Building

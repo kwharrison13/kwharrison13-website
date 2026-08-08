@@ -17,6 +17,7 @@ aliases:
 related:
   - "[[The Lessons Of History Book Review]]"
   - "[[David Perell]]"
+  - "[[Our Oriental Heritage]]"
 reference_count: 3
 ---
 

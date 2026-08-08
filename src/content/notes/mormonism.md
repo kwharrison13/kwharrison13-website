@@ -16,6 +16,8 @@ aliases:
   - "LDS"
   - "Latter-day Saints"
 related:
+  - "[[In Sacred Loneliness]]"
+  - "[[Future Mormon]]"
   - "[[Truman G. Madsen]]"
 ---
 

@@ -26,6 +26,7 @@ related:
   - "[[Stretching The Heavens]]"
   - "[[Leonard Arrington and the Writing of Mormon History]]"
   - "[[Joseph Smith- A Choice Seer]]"
+  - "[[Joseph Smith: Rough Stone Rolling]]"
 reference_count: 1
 ---
 

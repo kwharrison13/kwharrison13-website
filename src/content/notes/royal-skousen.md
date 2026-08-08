@@ -13,6 +13,7 @@ aliases:
   - "Royal Skousen"
 related:
   - "[[The Book of Mormon — The Earliest Text]]"
+  - "[[Future Mormon]]"
 reference_count: 2
 ---
 

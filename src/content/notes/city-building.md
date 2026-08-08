@@ -33,6 +33,13 @@ related:
   - "[[Evicted: Poverty and Profit in the American City]]"
   - "[[The Rise of The Cash Man]]"
   - "[[The Luna Landing]]"
+  - "[[Stephen Gordon]]"
+  - "[[George F. Johnson and His Industrial Democracy]]"
+  - "[[Hillbilly Elegy]]"
+  - "[[Janesville]]"
+  - "[[Joseph Smith: Rough Stone Rolling]]"
+  - "[[Leonardo Da Vinci]]"
+  - "[[Our Towns]]"
 ---
 
 # City Building

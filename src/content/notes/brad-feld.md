@@ -16,6 +16,7 @@ aliases:
   - "Feld Notes"
   - "Feld Thoughts"
 related:
+  - "[[William Hertling]]"
   - "[[How To Predict The Future]]"
   - "[[Historical Futurism]]"
   - "[[Forecasting]]"

@@ -16,6 +16,7 @@ tags:
 aliases:
   - "Deseret Book"
 related:
+  - "[[Howard W. Hunter by Eleanor Knowles]]"
   - "[[Sheri L. Dew]]"
   - "[[Gordon B. Hinckley — Go Forward With Faith]]"
   - "[[Barbara Morgan Gardner]]"

@@ -16,6 +16,7 @@ aliases:
   - "Netflix"
   - "Netflix ($NFLX)"
 related:
+  - "[[Netflixed]]"
   - "[[ANTENNA]]"
   - "[[SignalRank]]"
   - "[[Defining Aggregators (09.26.17)]]"

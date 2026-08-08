@@ -6,7 +6,7 @@ rating: 4
 quake: false
 tags:
   - "historical-futurism"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -19,7 +19,7 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+- [Ron Chernow](/notes/ron-chernow)'s biography sits on the founding-generation shelf alongside [American Sphinx](/books/american-sphinx) (Jefferson, by [Joseph J. Ellis](/notes/joseph-j-ellis)), [Founders' Son](/books/founders-son) (Lincoln reading the founders), and [Benjamin Franklin — An American Life](/books/benjamin-franklin-an-american-life) — part of the [Founding Fathers](/notes/founding-fathers) canon Kyle has read across.
 <!-- /interconnections -->
 
 ## Highlights

@@ -13,6 +13,7 @@ aliases:
   - "Inflation Reduction Act"
   - "IRA"
 related:
+  - "[[Patriot Games]]"
   - "[[The Build-Nothing Country]]"
   - "[[Climate Change]]"
 ---

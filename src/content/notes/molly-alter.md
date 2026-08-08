@@ -16,6 +16,7 @@ tags:
 aliases:
   - "Molly Alter"
 related:
+  - "[[Imposter Syndrome]]"
   - "[[Index Ventures]]"
   - "[[Buildots]]"
   - "[[Openspace.ai]]"

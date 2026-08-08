@@ -22,6 +22,7 @@ related:
   - "[[Capital Asset Pricing Model (CAPM)]]"
   - "[[Warren Buffett]]"
   - "[[Charlie Munger]]"
+  - "[[Buffett: The Biography]]"
 reference_count: 3
 ---
 

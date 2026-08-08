@@ -19,6 +19,9 @@ related:
   - "[[Discipline Is Destiny]]"
   - "[[Saints — No Unhallowed Hand]]"
   - "[[His Grace Is Sufficient — Brad Wilcox]]"
+  - "[[Driven]]"
+  - "[[Gordon B. Hinckley: Go Forward With Faith]]"
+  - "[[Leonard Arrington and the Writing of Mormon History]]"
 ---
 
 # Spencer W. Kimball

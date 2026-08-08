@@ -14,6 +14,7 @@ tags:
 aliases:
   - "StrictlyVC"
 related:
+  - "[[PitchBook]]"
   - "[[The State of Startup Media - Research]]"
 ---
 

@@ -7,7 +7,7 @@ quake: false
 tags:
   - "technological-innovation"
   - "company-building"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -20,7 +20,9 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+**Books:** [How Will You Measure Your Life](/books/how-will-you-measure-your-life) — paired with this book on the [Law of the Harvest](/books/law-of-the-harvest) page around measuring what matters rather than what's easy to count.
+
+**Concepts:** [Vanity Metrics](/notes/vanity-metrics) — cites this book for setting goals on activities you control, not results that flatter; [Law of the Harvest](/books/law-of-the-harvest) frames the same vanity-vs-real metric distinction.
 <!-- /interconnections -->
 
 ## Highlights

@@ -21,6 +21,7 @@ related:
   - "[[The Time Machine]]"
   - "[[Maintenance]]"
   - "[[Faith]]"
+  - "[[Mistborn: Secret History]]"
 reference_count: 1
 ---
 

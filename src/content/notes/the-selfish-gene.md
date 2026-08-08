@@ -16,6 +16,7 @@ aliases:
   - "The Selfish Gene"
   - "The Selfish Gene by Richard Dawkins"
 related:
+  - "[[Richard Dawkins]]"
   - "[[Poor Charlie's Almanack]]"
 ---
 

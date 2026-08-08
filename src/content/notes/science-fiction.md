@@ -22,6 +22,8 @@ related:
   - "[[Josh Wolfe]]"
   - "[[Jeff Bezos]]"
   - "[[21 Lessons for the 21st Century]]"
+  - "[[Morning Star]]"
+  - "[[Network Effect]]"
 reference_count: 1
 ---
 

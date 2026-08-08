@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Jed McKenna"
-related: []
+related:
+  - "[[Kapil Gupta]]"
 reference_count: 1
 ---
 

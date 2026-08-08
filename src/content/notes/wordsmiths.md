@@ -25,6 +25,7 @@ related:
   - "[[Permanent Capital]]"
   - "[[Warren Buffett]]"
   - "[[Soft Power]]"
+  - "[[ARK Invest]]"
 ---
 
 # Wordsmiths

@@ -20,6 +20,7 @@ related:
   - "[[Childcare]]"
   - "[[Agency]]"
   - "[[Becoming]]"
+  - "[[Philosophy 101 By Socrates]]"
 ---
 
 # Parenting

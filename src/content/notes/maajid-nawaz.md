@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Maajid Nawaz"
-related: []
+related:
+  - "[[Islam & The Future of Tolerance]]"
 reference_count: 1
 ---
 

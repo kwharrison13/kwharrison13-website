@@ -17,6 +17,8 @@ tags:
 aliases:
   - "Africa"
 related:
+  - "[[Tim Fewkes]]"
+  - "[[Karen Fewkes]]"
   - "[[Entrepreneurship]]"
   - "[[Shara]]"
   - "[[Meaningful Travel]]"

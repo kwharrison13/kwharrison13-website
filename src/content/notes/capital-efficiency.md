@@ -20,6 +20,7 @@ related:
   - "[[Berkshire Hathaway Annual Letters]]"
   - "[[The Burn Multiple]]"
   - "[[Power Law]]"
+  - "[[Craft Ventures]]"
 reference_count: 1
 ---
 

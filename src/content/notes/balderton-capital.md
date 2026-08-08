@@ -15,6 +15,7 @@ tags:
 aliases:
   - "Balderton Capital"
 related:
+  - "[[Creator Fund]]"
   - "[[April 5th, 2022 — Francesco Corea (Balderton Capital)]]"
   - "[[Francesco Corea]]"
   - "[[Sylvera]]"

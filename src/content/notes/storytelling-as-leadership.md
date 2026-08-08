@@ -31,6 +31,7 @@ related:
   - "[[Max Levchin]]"
   - "[[Storytelling]]"
   - "[[Talent Vortex]]"
+  - "[[21 Lessons for the 21st Century]]"
 ---
 
 # Storytelling as Leadership

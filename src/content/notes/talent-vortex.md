@@ -40,6 +40,9 @@ related:
   - "[[Leonardo Da Vinci]]"
   - "[[Jimmy Soni]]"
   - "[[Square]]"
+  - "[[Jeff Wilke]]"
+  - "[[Delian Asparouhov]]"
+  - "[[Gokul Rajaram]]"
 ---
 
 # Talent Vortex

@@ -15,6 +15,7 @@ tags: []
 aliases:
   - "Deliberate Practice"
 related:
+  - "[[Outliers]]"
   - "[[Atomic Habits]]"
   - "[[Benjamin Franklin — An American Life]]"
   - "[[Essentialism]]"

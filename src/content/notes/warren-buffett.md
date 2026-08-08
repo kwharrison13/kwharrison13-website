@@ -13,6 +13,8 @@ tags:
 aliases:
   - "Warren Buffett"
 related:
+  - "[[How to Build a Business Warren Buffett Would Buy]]"
+  - "[[Buffett: The Biography]]"
   - "[[Buffett — The Biography]]"
   - "[[Berkshire Hathaway Annual Letters]]"
   - "[[Charlie Munger]]"

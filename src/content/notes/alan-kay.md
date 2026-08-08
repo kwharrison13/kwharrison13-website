@@ -15,6 +15,7 @@ tags: []
 aliases:
   - "Alan Kay"
 related:
+  - "[[Danny Hillis]]"
   - "[[The Everything Store]]"
   - "[[Jeff Bezos]]"
   - "[[Creativity]]"

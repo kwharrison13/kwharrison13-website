@@ -22,6 +22,8 @@ related:
   - "[[Pave fka Trove]]"
   - "[[Sequoia]]"
   - "[[Madrona]]"
+  - "[[Base10 Partners]]"
+  - "[[Jason Kong]]"
 reference_count: 3
 ---
 

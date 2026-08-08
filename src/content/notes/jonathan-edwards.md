@@ -16,6 +16,7 @@ related:
   - "[[Benjamin Franklin — An American Life]]"
   - "[[Chad's Big Quote Book]]"
   - "[[Benjamin Franklin]]"
+  - "[[Benjamin Franklin: An American Life]]"
 reference_count: 2
 ---
 

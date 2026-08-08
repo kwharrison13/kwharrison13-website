@@ -25,6 +25,7 @@ related:
   - "[[Zion]]"
   - "[[Mondragon]]"
   - "[[Capitalism]]"
+  - "[[Brigham Young: Pioneer Prophet]]"
 reference_count: 3
 ---
 

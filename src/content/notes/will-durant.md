@@ -21,6 +21,7 @@ related:
   - "[[Stoicism]]"
   - "[[Progress Studies]]"
   - "[[Polymath]]"
+  - "[[Our Oriental Heritage]]"
 reference_count: 1
 ---
 

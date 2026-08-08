@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Goods of First Intent"
-related: []
+related:
+  - "[[Approaching Zion]]"
 reference_count: 1
 ---
 

@@ -15,6 +15,10 @@ tags:
 aliases:
   - "mParticle"
 related:
+  - "[[Ross Schwaber]]"
+  - "[[Rikhil Patel]]"
+  - "[[Scott Kirk]]"
+  - "[[Omer Artun]]"
   - "[[mParticle — Diligence (2018)]]"
   - "[[Customer Data Platform]]"
   - "[[Segment]]"

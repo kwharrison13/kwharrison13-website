@@ -29,6 +29,8 @@ related:
   - "[[Content Consumption]]"
   - "[[July 14th"
   - "2020]]"
+  - "[[Editing]]"
+  - "[[Carol Loomis]]"
 ---
 
 # Writing

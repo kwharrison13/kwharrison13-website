@@ -22,6 +22,7 @@ related:
   - "[[Faith — Topical Study]]"
   - "[[Stretching The Heavens]]"
   - "[[Chad's Big Quote Book]]"
+  - "[[Brigham Young: Pioneer Prophet]]"
 reference_count: 1
 ---
 

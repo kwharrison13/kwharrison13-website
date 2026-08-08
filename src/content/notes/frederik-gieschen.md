@@ -24,6 +24,7 @@ related:
   - "[[Jesse Livermore]]"
   - "[[Bill Gurley]]"
   - "[[The Hardening Of The Great Softening - Research]]"
+  - "[[H. L. Mencken]]"
 ---
 
 # Frederik Gieschen

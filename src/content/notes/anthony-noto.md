@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "low"
 created: "2026-07-19"
-updated: "2026-07-19"
+updated: "2026-08-06"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — October 4th, 2022 (Contrary Capital sourcing/diligence log): ~/Downloads/October 4th, 2022.md"
@@ -21,7 +21,7 @@ related:
 
 # Anthony Noto
 
-**One-line:** *CEO of [SoFi](/notes/sofi); previously CFO/COO at [Twitter](/notes/twitter), where [Michael McElvaney](/notes/michael-mcelvaney) worked closely with him on revenue reporting before following him to SoFi.*
+**One-line:** *A leader [Michael McElvaney](/notes/michael-mcelvaney) worked closely with at [Twitter](/notes/twitter) on revenue reporting, and again at [SoFi](/notes/sofi) — McElvaney joined SoFi specifically to work with Noto a second time.*
 
 ## Mentioned in
 

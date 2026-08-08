@@ -19,6 +19,7 @@ tags:
 aliases:
   - "Chamath Palihapitiya"
 related:
+  - "[[Tom McGovern]]"
   - "[[The Unusual Ambitions of Chamath Palihapitiya]]"
   - "[[SPAC]]"
   - "[[value investing]]"

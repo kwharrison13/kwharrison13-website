@@ -19,6 +19,7 @@ aliases:
   - "Pave fka Trove"
   - "Trove"
 related:
+  - "[[Veronica Pohls]]"
   - "[[Matt Schulman]]"
   - "[[Pave Diligence — 2021]]"
   - "[[a16z]]"

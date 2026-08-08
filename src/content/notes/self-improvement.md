@@ -16,6 +16,7 @@ aliases:
 related:
   - "[[Benjamin Franklin — An American Life]]"
   - "[[Thirteen Virtues]]"
+  - "[[Junto]]"
 reference_count: 1
 ---
 

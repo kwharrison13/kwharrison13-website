@@ -32,6 +32,8 @@ related:
   - "[[John von Neumann]]"
   - "[[Writing]]"
   - "[[Compounding]]"
+  - "[[How To Read a Book]]"
+  - "[[Leonard Arrington and the Writing of Mormon History]]"
 ---
 
 # Open Source Knowledge

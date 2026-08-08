@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-06-26"
-updated: "2026-06-26"
+updated: "2026-08-06"
 last_updated_by: "agent"
 sources:
   - "Roam Research daily-note export — October 17th, 2022: ~/Downloads/October 17th, 2022.md"

@@ -19,6 +19,7 @@ aliases:
   - "Andrew Carnegie (book)"
   - "Andrew Carnegie (Wall)"
 related:
+  - "[[Joseph Frazier Wall]]"
   - "[[Poor Charlie's Almanack]]"
 ---
 

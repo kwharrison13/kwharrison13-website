@@ -18,6 +18,7 @@ aliases:
   - "Influence: The Psychology of Persuasion"
   - "Influence by Robert Cialdini"
 related:
+  - "[[How to Win Friends and Influence People]]"
   - "[[Poor Charlie's Almanack]]"
 ---
 

@@ -17,6 +17,9 @@ related:
   - "[[Self-Criticism]]"
   - "[[Leonardo Da Vinci]]"
   - "[[Confirmation Bias]]"
+  - "[[Double Entry]]"
+  - "[[Future Mormon]]"
+  - "[[How To Read a Book]]"
 ---
 
 # Charles Darwin

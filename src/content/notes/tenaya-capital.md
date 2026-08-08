@@ -14,6 +14,8 @@ tags:
 aliases:
   - "Tenaya Capital"
 related:
+  - "[[Advent International]]"
+  - "[[Alkeon]]"
   - "[[Salt Security]]"
   - "[[Salt Security Diligence — 2021]]"
   - "[[Stewart Gollmer]]"

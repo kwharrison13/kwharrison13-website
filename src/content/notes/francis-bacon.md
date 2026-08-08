@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Francis Bacon"
 related:
+  - "[[How To Read a Book]]"
   - "[[Reinventing Knowledge — From Alexandria To The Internet]]"
   - "[[Scientific Method]]"
 ---

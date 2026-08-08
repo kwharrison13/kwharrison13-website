@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "historical-futurism"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -19,7 +19,8 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+- [All Systems Red](/books/all-systems-red), [Artificial Condition](/books/artificial-condition), [Rogue Protocol](/books/rogue-protocol), [Exit Strategy](/books/exit-strategy), [Fugitive Telemetry](/books/fugitive-telemetry), [System Collapse](/books/system-collapse) — the other Murderbot Diaries books; Kyle read the full series in 2025.
+- [Historical Futurism](/notes/historical-futurism) · [Science Fiction](/notes/science-fiction) — the series fits Kyle's preferred science fiction mode: humanity's social dynamics (corporate governance, AI autonomy, identity) extrapolated into a plausible future rather than alien fantasy. Referenced in [2025 in Books](/essays/2025-in-books) alongside the Red Rising series as part of Kyle's 2025 science-fiction reading bloc.
 <!-- /interconnections -->
 
 ## Highlights

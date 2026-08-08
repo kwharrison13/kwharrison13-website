@@ -4,7 +4,7 @@ type: "person"
 publish: false
 confidence: "medium"
 created: "2026-07-19"
-updated: "2026-07-19"
+updated: "2026-08-06"
 last_updated_by: "agent"
 sources:
   - "raw/archive/inbox/June 29th, 2023.md"
@@ -18,6 +18,7 @@ related:
   - "[[Base10 Partners]]"
   - "[[SurgoCap Partners]]"
   - "[[IVP]]"
+  - "[[Vetcove]]"
 ---
 
 # Jason Kong

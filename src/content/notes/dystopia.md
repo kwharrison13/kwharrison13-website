@@ -13,6 +13,7 @@ tags:
 aliases:
   - "Dystopia"
 related:
+  - "[[Morning Star]]"
   - "[[Metamorphosis]]"
   - "[[Brave New World]]"
   - "[[1984]]"

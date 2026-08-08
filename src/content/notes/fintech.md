@@ -15,6 +15,7 @@ aliases:
   - "Fintech"
   - "FinTech"
 related:
+  - "[[Neobanks]]"
   - "[[Frank Rotman]]"
   - "[[QED Investors]]"
   - "[[Inder Takhar]]"

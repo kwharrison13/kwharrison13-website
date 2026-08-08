@@ -13,6 +13,10 @@ tags:
 aliases:
   - "Joseph Smith"
 related:
+  - "[[Joseph Smith: Rough Stone Rolling]]"
+  - "[[In Sacred Loneliness]]"
+  - "[[Future Mormon]]"
+  - "[[Approaching Zion]]"
   - "[[Joseph Smith — Rough Stone Rolling]]"
   - "[[Richard Lyman Bushman]]"
   - "[[Brigham Young]]"

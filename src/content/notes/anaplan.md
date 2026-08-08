@@ -25,6 +25,8 @@ related:
   - "[[Adaptive Planning]]"
   - "[[Vareto]]"
   - "[[Adaptive Planning - Diligence]]"
+  - "[[Rikhil Patel]]"
+  - "[[Kat Orekhova]]"
 reference_count: 1
 ---
 

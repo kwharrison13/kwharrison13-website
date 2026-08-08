@@ -26,6 +26,7 @@ related:
   - "[[Diligence]]"
   - "[[His Grace Is Sufficient — Brad Wilcox]]"
   - "[[Joseph Smith- A Choice Seer]]"
+  - "[[Gordon B. Hinckley: Go Forward With Faith]]"
 reference_count: 1
 ---
 

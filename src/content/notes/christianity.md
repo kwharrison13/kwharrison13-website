@@ -13,6 +13,7 @@ aliases:
   - "Christianity"
 related:
   - "[[Why You're Christian]]"
+  - "[[Future Mormon]]"
 reference_count: 1
 ---
 

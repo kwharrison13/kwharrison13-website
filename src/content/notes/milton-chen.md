@@ -12,6 +12,9 @@ tags: []
 aliases:
   - "Milton Chen"
 related:
+  - "[[Howard Gardner]]"
+  - "[[Angus King]]"
+  - "[[Wayne Gretzky]]"
   - "[[Education Nation]]"
   - "[[Edutopia]]"
   - "[[Project-Based Learning]]"

@@ -15,6 +15,7 @@ tags:
 aliases:
   - "Nir Rothenberg"
 related:
+  - "[[Bridgecrew]]"
   - "[[Salt Security Diligence — 2021]]"
   - "[[Noname Security - Diligence]]"
   - "[[Rapyd]]"

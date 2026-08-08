@@ -6,7 +6,7 @@ rating: 4
 quake: false
 tags:
   - "historical-futurism"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -19,7 +19,9 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+**Author:** [Pierce Brown](/notes/pierce-brown).
+
+**Series:** part of the [Red Rising](/books/red-rising) series alongside [Golden Son](/books/golden-son), [Morning Star](/books/morning-star), [Iron Gold](/books/iron-gold), and [Light Bringer](/books/light-bringer).
 <!-- /interconnections -->
 
 ## Highlights

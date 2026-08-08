@@ -13,6 +13,7 @@ tags: []
 aliases:
   - "John Steinbeck"
 related:
+  - "[[East of Eden]]"
   - "[[Temporarily Embarrassed Millionaires]]"
   - "[[What Is An Extraordinary Man - Research]]"
 ---

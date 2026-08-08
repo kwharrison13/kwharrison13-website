@@ -22,6 +22,8 @@ related:
   - "[[Exploitation]]"
   - "[[Working Toward Zion]]"
   - "[[China in Ten Words]]"
+  - "[[Nickel & Dimed]]"
+  - "[[Poor Economics: A Radical Rethinking of The Way To Fight Global Poverty]]"
 ---
 
 # Poverty

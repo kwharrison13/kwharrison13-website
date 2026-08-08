@@ -17,6 +17,8 @@ tags:
 aliases:
   - "Teamshares"
 related:
+  - "[[Tim Ludwig]]"
+  - "[[Will Quist]]"
   - "[[Employee Ownership]]"
   - "[[SMB]]"
   - "[[Collaborative Fund]]"

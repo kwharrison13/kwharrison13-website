@@ -21,6 +21,7 @@ related:
   - "[[Institutionalized Belief In The Greater Fool]]"
   - "[[Platforms in an Aggregator World]]"
   - "[[Watershed Climate]]"
+  - "[[Brie Wolfson]]"
 ---
 
 # Stripe

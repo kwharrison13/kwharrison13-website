@@ -20,6 +20,7 @@ aliases:
   - "Men and the Rubber: The Story of Business"
   - "Men and the Rubber"
 related:
+  - "[[Harvey S. Firestone]]"
   - "[[Poor Charlie's Almanack]]"
 ---
 

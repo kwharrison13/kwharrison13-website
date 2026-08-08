@@ -18,6 +18,11 @@ aliases:
   - "Customer Data Infrastructure"
   - "CDI"
 related:
+  - "[[Ross Schwaber]]"
+  - "[[Michael Katz]]"
+  - "[[Rikhil Patel]]"
+  - "[[Scott Kirk]]"
+  - "[[Omer Artun]]"
   - "[[mParticle]]"
   - "[[Segment]]"
   - "[[mParticle — Diligence (2018)]]"

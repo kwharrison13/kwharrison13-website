@@ -6,7 +6,7 @@ rating: 4
 quake: false
 tags:
   - "people-over-politics"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -19,7 +19,7 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+- [All The Pretty Horses](/books/all-the-pretty-horses) · [Child of God](/books/child-of-god) · [The Road](/books/the-road) · [Blood Meridian](/books/blood-meridian) — other Cormac McCarthy novels in Kyle's library; together they represent his sustained engagement with McCarthy's work, which spans the border trilogy through the post-apocalyptic.
 <!-- /interconnections -->
 
 ## Highlights

@@ -17,6 +17,7 @@ aliases:
   - "Cash Transfers"
   - "Unconditional Cash Transfers"
 related:
+  - "[[Poor Economics: A Radical Rethinking of The Way To Fight Global Poverty]]"
   - "[[Utopia For Realists]]"
   - "[[Effective Altruism]]"
   - "[[Esther Duflo]]"

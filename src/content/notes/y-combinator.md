@@ -27,6 +27,8 @@ related:
   - "[[YC Continuity]]"
   - "[[Deepnote - Pre-Brief — September 27th"
   - "2021]]"
+  - "[[Solugen]]"
+  - "[[Tyler Tringas]]"
 reference_count: 5
 ---
 
@@ -46,3 +48,4 @@ In [A Message to Every Entrepreneur](/notes/a-message-to-every-entrepreneur), YC
 - Renegade Spotlight — Lowercarbon - Research — YC as the marker of the startup-economics shift now repeating in climate tech.
 - Pave Diligence — 2021 · Deepnote - Pre-Brief — September 27th, 2021 — referenced as a deal/diligence reference point.
 - Founders @ycombinator Just Launched... (tweet) — publisher of the YC Startup Library.
+- [Solugen](/notes/solugen) — described as "a child of both YCombinator and MIT."

@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Arkady Ostrovsky"
 related:
+  - "[[Nina Linchenko]]"
   - "[[The Invention of Russia]]"
   - "[[Vladimir Putin]]"
   - "[[Propaganda]]"

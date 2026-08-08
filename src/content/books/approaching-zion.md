@@ -10,7 +10,7 @@ tags:
   - "united-order"
   - "religious-intellectualism"
   - "capital-allocation"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 

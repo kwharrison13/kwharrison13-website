@@ -2,16 +2,18 @@
 title: "Tom McGovern"
 type: "person"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-08-06"
 last_updated_by: "agent"
 sources:
   - "wiki/long-reads/The Unusual Ambitions Of Chamath Palihapitiya.md"
 tags: []
 aliases:
   - "Tom McGovern"
-related: []
+related:
+  - "[[The Unusual Ambitions Of Chamath Palihapitiya]]"
+  - "[[Chamath Palihapitiya]]"
 reference_count: 1
 ---
 

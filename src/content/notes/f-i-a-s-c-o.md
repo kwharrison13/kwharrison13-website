@@ -19,6 +19,7 @@ aliases:
   - "F.I.A.S.C.O. by Frank Partnoy"
   - "F.I.A.S.C.O.: The Inside Story of a Wall Street Trader"
 related:
+  - "[[Frank Partnoy]]"
   - "[[Poor Charlie's Almanack]]"
 ---
 

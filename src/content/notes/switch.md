@@ -17,6 +17,7 @@ aliases:
   - "Switch"
   - "Switch by Chip Heath"
 related:
+  - "[[Made To Stick]]"
   - "[[The Righteous Mind]]"
 ---
 

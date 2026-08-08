@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Apology of Socrates"
-related: []
+related:
+  - "[[Philosophy 101 By Socrates]]"
 reference_count: 1
 ---
 

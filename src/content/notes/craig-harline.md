@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Craig Harline"
 related:
+  - "[[Future Mormon]]"
   - "[[Way Below the Angels]]"
 reference_count: 2
 ---

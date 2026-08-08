@@ -4,8 +4,9 @@ author: "Brandon Sanderson"
 year_read: 2023
 rating: 4
 quake: false
-tags: []
-last_imported: "2026-08-05"
+tags:
+  - "republic-of-letters"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -18,7 +19,7 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+- [The Way of Kings](/books/the-way-of-kings), [Words of Radiance](/books/words-of-radiance), [Edgedancer](/books/edgedancer), [Rhythm of War](/books/rhythm-of-war), [Wind and Truth](/books/wind-and-truth) — the other Stormlight Archive volumes by [Brandon Sanderson](/notes/brandon-sanderson) in Kyle's library; Oathbringer is book three of the series.
 <!-- /interconnections -->
 
 ## Highlights

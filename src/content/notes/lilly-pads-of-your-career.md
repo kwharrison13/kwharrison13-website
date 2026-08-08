@@ -13,6 +13,7 @@ aliases:
   - "Lilly pads of your career"
   - "Lily pads of your career"
 related:
+  - "[[Lily Pads of Career]]"
   - "[[Charlie Munger — A Lesson on Elementary Worldly Wisdom]]"
 reference_count: 2
 ---

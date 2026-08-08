@@ -20,6 +20,7 @@ aliases:
   - "Facebook ($META)"
   - "Meta"
 related:
+  - "[[Kat Orekhova]]"
   - "[[Microsoft]]"
   - "[[Starburst]]"
   - "[[Chris Cox]]"

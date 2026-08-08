@@ -20,6 +20,7 @@ aliases:
 related:
   - "[[On the Nature of Long-Term Holds]]"
   - "[[Will Thorndike]]"
+  - "[[How To Be a Capitalist Without Any Capital]]"
 reference_count: 2
 ---
 

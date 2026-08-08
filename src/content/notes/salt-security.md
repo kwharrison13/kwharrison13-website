@@ -16,6 +16,7 @@ tags:
 aliases:
   - "Salt Security"
 related:
+  - "[[Rapyd]]"
   - "[[Salt Security Diligence — 2021]]"
   - "[[Noname Security]]"
   - "[[Traceable.ai]]"

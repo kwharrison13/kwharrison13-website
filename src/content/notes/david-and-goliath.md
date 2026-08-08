@@ -16,6 +16,7 @@ aliases:
   - "David and Goliath"
   - "David and Goliath by Malcolm Gladwell"
 related:
+  - "[[Outliers]]"
   - "[[The Self-Driven Child]]"
 ---
 

@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Jealousy"
 related:
+  - "[[roon]]"
   - "[[Naval Ravikant — The Angel Philosopher]]"
   - "[[Accusations Of Culthood Are Always... (tweet)]]"
 reference_count: 3

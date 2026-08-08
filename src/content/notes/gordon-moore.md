@@ -13,6 +13,7 @@ tags: []
 aliases:
   - "Gordon Moore"
 related:
+  - "[[Only the Paranoid Survive]]"
   - "[[Chip War]]"
   - "[[The Idea Factory]]"
   - "[[Moore's Law]]"

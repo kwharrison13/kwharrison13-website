@@ -7,7 +7,7 @@ quake: false
 tags:
   - "language-of-discourse"
   - "republic-of-letters"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -67,7 +67,7 @@ A specific marginal frame worth keeping: "Our personal identities and our areas 
 
 - [Tom Nichols](/notes/tom-nichols) — author.
 - Philip Tetlock — Nichols leans on Tetlock's *Expert Political Judgment* (foxes vs. hedgehogs; accountability reforms). _(no wiki page yet)_
-- [Nassim Nicholas Taleb](/notes/nassim-taleb) — cited on the "epistemic arrogance" of prediction and black-swan events.
+- [Nassim Nicholas Taleb](/notes/nassim-nicholas-taleb) — cited on the "epistemic arrogance" of prediction and black-swan events.
 - [Malcolm Gladwell](/notes/malcolm-gladwell) — cited on why leaderless networks can't think strategically or set goals.
 - [Jonathan Haidt](/notes/jonathan-haidt) — cited on values overriding facts.
 - [Bertrand Russell](/notes/bertrand-russell) — his 1928 rules for when laypeople may overrule experts.

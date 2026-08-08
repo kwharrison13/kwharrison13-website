@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Terrorism"
 related:
+  - "[[Patriot Games]]"
   - "[[21 Lessons for the 21st Century]]"
 ---
 

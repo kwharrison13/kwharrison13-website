@@ -14,6 +14,7 @@ aliases:
   - "Liberal Arts"
   - "liberal arts"
 related:
+  - "[[In Defense of a Liberal Education]]"
   - "[[How To Read a Book]]"
   - "[[The Expertise Economy]]"
   - "[[Active Reading]]"

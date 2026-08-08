@@ -28,6 +28,8 @@ related:
   - "[[Marshall McLuhan]]"
   - "[[Peter Thiel's Religion]]"
   - "[[Peter Thiel]]"
+  - "[[Sar Haribhakti]]"
+  - "[[Stephen Gordon]]"
 ---
 
 # David Perell

@@ -18,6 +18,7 @@ tags:
 aliases:
   - "James E. Talmage"
 related:
+  - "[[Jesus the Christ]]"
   - "[[The Faith of a Scientist]]"
   - "[[Henry Eyring]]"
   - "[[Orson Pratt]]"

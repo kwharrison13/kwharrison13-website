@@ -15,6 +15,7 @@ aliases:
   - "Intel"
   - "Intel ($INTC)"
 related:
+  - "[[Only the Paranoid Survive]]"
   - "[[Chip War]]"
   - "[[Andy Grove]]"
   - "[[TSMC]]"

@@ -27,6 +27,7 @@ related:
   - "[[Forecasting]]"
   - "[[Value Investing]]"
   - "[[Benjamin Graham]]"
+  - "[[Buffett: The Biography]]"
 reference_count: 1
 ---
 

@@ -19,6 +19,7 @@ aliases:
   - "How the Scots Invented the Modern World: The True Story of How Western Europe's Poorest Nation Created Our World and Everything in It"
   - "How the Scots Invented the Modern World by Arthur Herman"
 related:
+  - "[[Arthur Herman]]"
   - "[[Poor Charlie's Almanack]]"
 ---
 

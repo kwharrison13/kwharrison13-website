@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "capital-allocation"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -19,7 +19,7 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+**Books:** [The Importance of Arguing With Yourself](/essays/the-importance-of-arguing-with-yourself), [Poor Charlie's Almanack](/books/poor-charlie-s-almanack), and Charlie Munger — The Psychology of Human Misjudgment — Kyle groups *Blink* into the intuition / System-1 cognition cluster (the orchestra-audition-behind-a-curtain story is cited on the Munger page). **People:** [Malcolm Gladwell](/notes/malcolm-gladwell) — the author; [Daniel Kahneman](/notes/daniel-kahneman). **Concepts:** [Behavioral Economics](/notes/behavioral-economics).
 <!-- /interconnections -->
 
 ## Highlights

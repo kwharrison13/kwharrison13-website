@@ -16,6 +16,7 @@ tags: []
 aliases:
   - "Lorenzo Snow"
 related:
+  - "[[Brigham Young: Pioneer Prophet]]"
   - "[[Working Toward Zion]]"
   - "[[Brigham Young — Pioneer Prophet]]"
   - "[[Chad's Big Quote Book]]"

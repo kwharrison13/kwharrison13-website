@@ -4,7 +4,7 @@ type: "concept"
 publish: false
 confidence: "low"
 created: "2026-06-16"
-updated: "2026-06-25"
+updated: "2026-08-06"
 last_updated_by: "agent"
 sources:
   - "wiki/books/The Ride of a Lifetime.md"
@@ -13,6 +13,8 @@ aliases:
   - "Lily Pads of Career"
 related:
   - "[[Lily Pads of Your Career]]"
+  - "[[The Ride of a Lifetime]]"
+  - "[[Natural Selection of Time]]"
 reference_count: 1
 ---
 

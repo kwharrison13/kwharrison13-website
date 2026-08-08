@@ -20,6 +20,8 @@ tags:
 aliases:
   - "Meaningful Travel"
 related:
+  - "[[Tim Fewkes]]"
+  - "[[Karen Fewkes]]"
   - "[[David Perell]]"
   - "[[Travel vs. Vacation]]"
   - "[[Self-Reflection]]"

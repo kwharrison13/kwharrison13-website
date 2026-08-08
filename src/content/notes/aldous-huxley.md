@@ -23,6 +23,7 @@ related:
   - "[[1984]]"
   - "[[The Brave New World Collection]]"
   - "[[Educated Electorate]]"
+  - "[[Metamorphosis]]"
 reference_count: 3
 ---
 

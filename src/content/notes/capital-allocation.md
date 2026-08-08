@@ -26,6 +26,9 @@ related:
   - "[[The Bifurcation of Capital is Inevitable]]"
   - "[[Rat's Nest Problems]]"
   - "[[Investment Frameworks]]"
+  - "[[How To Be a Capitalist Without Any Capital]]"
+  - "[[How Will You Measure Your Life?]]"
+  - "[[Naked Economics]]"
 ---
 
 # Capital Allocation

@@ -19,6 +19,7 @@ related:
   - "[[Rob Hodgkinson]]"
   - "[[Super Angels]]"
   - "[[SPV]]"
+  - "[[I’ve Changed My Mind. Early Stage Venture Funds of $100 Million or Less Should Hold Almost No Reserves for Follow-On.]]"
 ---
 
 # Pro Rata
@@ -34,3 +35,4 @@ The structural alternative investors use today is to spin up an [SPV](/notes/spv
 - June 6th, 2022 — Rob Hodgkinson (SignalRank) — "What if we productized pro rata?"; the $14B-of-unexercised-pro-rata thesis and the SPV-as-alternative framing
 - [Super Angels](/notes/super-angels) — the backers funding the balance sheet that makes productized pro rata possible
 - [SPV](/notes/spv) — the structural alternative SignalRank's productized model competes against
+- [I’ve Changed My Mind. Early Stage Venture Funds of $100 Million or Less Should Hold Almost No Reserves for Follow-On.](/notes/i-ve-changed-my-mind-early-stage-venture-funds-of-100-million-or-less-should-hold-almost-no-reserves-for-follow-on) — [Hunter Walk](/notes/hunter-walk)'s contrarian counterpoint: sub-$100M funds should minimize reserves for pro rata rather than treat it as a default follow-on pool

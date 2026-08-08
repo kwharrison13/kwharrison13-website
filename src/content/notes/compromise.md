@@ -23,6 +23,7 @@ related:
   - "[[Voice of the People]]"
   - "[[Embrace The Nuance - Research]]"
   - "[[Spirit of Humility]]"
+  - "[[Benjamin Franklin: An American Life]]"
 reference_count: 7
 ---
 

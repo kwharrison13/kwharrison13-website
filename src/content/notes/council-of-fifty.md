@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Council of Fifty"
 related:
+  - "[[Brigham Young: Pioneer Prophet]]"
   - "[[Brigham Young — Pioneer Prophet]]"
   - "[[Revelation]]"
 ---

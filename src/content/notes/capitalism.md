@@ -27,6 +27,7 @@ related:
   - "[[Exploitation]]"
   - "[[China in Ten Words]]"
   - "[[Double Entry]]"
+  - "[[Homo Deus]]"
 reference_count: 1
 ---
 

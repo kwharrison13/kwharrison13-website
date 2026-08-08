@@ -17,6 +17,9 @@ tags:
 aliases:
   - "Historical Futurism"
 related:
+  - "[[Network Effect]]"
+  - "[[Morning Star]]"
+  - "[[William Hertling]]"
   - "[[Entity Ideas]]"
   - "[[Historical Futurism (Essay)]]"
   - "[[Historical Futurism - Research]]"

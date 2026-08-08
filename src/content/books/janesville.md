@@ -7,7 +7,7 @@ quake: false
 tags:
   - "city-building"
   - "people-over-politics"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -21,6 +21,8 @@ _Light-engagement read; no notes to synthesize. The highlights below stand on th
 
 <!-- interconnections -->
 **People:** [Amy Goldstein](/notes/amy-goldstein) — author; her ProPublica-rooted reporting documents the failed retraining experiment around Janesville after the GM plant closure.
+
+**Companies:** [General Motors](/notes/general-motors) — the town's anchor employer; its 2008 assembly-plant closure is the book's inciting economic earthquake, attested throughout the highlights.
 
 **Concepts:** [Retraining](/notes/retraining) — the book's central empirical finding: laid-off workers who went back to school at Blackhawk fared worse on employment and pay than those who didn't, despite the bipartisan "retraining gospel" embraced by [Paul Ryan](/notes/paul-ryan) and Obama alike. [City Building](/notes/city-building) — a single-industry town's attempt to reinvent its economy (Forward Janesville, Rock County 5.0) after losing its anchor employer. [Personal Finance](/notes/personal-finance) — middle-class GM families tumbling out of the middle class as $28/hour wages, SUB pay, and 401(k) cushions disappear. [Education](/notes/education) — associate's degrees and certificate programs as a contested path back to work.
 

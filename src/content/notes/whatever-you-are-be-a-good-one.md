@@ -20,6 +20,7 @@ related:
   - "[[The Self-Driven Child]]"
   - "[[Don't Die With Your Music In You]]"
   - "[[Charlie Munger]]"
+  - "[[George F. Johnson and His Industrial Democracy]]"
 reference_count: 1
 ---
 

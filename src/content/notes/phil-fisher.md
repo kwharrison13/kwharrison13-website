@@ -13,6 +13,7 @@ aliases:
   - "Phil Fisher"
   - "Philip Fisher"
 related:
+  - "[[Buffett: The Biography]]"
   - "[[Investment Frameworks]]"
 reference_count: 2
 ---

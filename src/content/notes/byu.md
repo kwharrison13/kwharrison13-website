@@ -24,6 +24,7 @@ related:
   - "[[Dallin H. Oaks]]"
   - "[[Consecration]]"
   - "[[Joseph Smith- A Choice Seer]]"
+  - "[[Approaching Zion]]"
 reference_count: 6
 ---
 

@@ -23,6 +23,7 @@ related:
   - "[[Susa Young Gates]]"
   - "[[Saints — No Unhallowed Hand]]"
   - "[[Note-taking]]"
+  - "[[Brigham Young: Pioneer Prophet]]"
 reference_count: 3
 ---
 

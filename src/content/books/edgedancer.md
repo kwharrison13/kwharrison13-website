@@ -5,7 +5,7 @@ year_read: 2023
 rating: 3
 quake: false
 tags: []
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -18,7 +18,7 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+*Edgedancer* is a [Brandon Sanderson](/notes/brandon-sanderson) novella set in the same Stormlight Archive series as Kyle's other reads [The Way of Kings](/books/the-way-of-kings), [Words of Radiance](/books/words-of-radiance), [Oathbringer](/books/oathbringer), and [Rhythm of War](/books/rhythm-of-war).
 <!-- /interconnections -->
 
 ## Highlights

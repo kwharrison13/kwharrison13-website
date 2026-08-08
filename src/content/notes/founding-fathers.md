@@ -13,6 +13,7 @@ aliases:
   - "Founding Fathers"
 related:
   - "[[Founders' Son]]"
+  - "[[Alexander Hamilton]]"
 reference_count: 1
 ---
 

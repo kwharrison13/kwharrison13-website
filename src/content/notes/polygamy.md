@@ -24,6 +24,7 @@ related:
   - "[[Line upon line"
   - "precept upon precept]]"
   - "[[Wilford Woodruff]]"
+  - "[[Brigham Young: Pioneer Prophet]]"
 reference_count: 1
 ---
 

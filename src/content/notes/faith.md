@@ -17,6 +17,7 @@ aliases:
   - "Faith"
   - "faith"
 related:
+  - "[[My Story]]"
   - "[[Faith — Topical Study]]"
   - "[[The Faith of a Scientist]]"
   - "[[The Next Mormons]]"

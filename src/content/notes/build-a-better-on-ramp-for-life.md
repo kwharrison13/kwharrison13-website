@@ -14,6 +14,7 @@ tags: []
 aliases:
   - "Build a Better On Ramp For Life"
 related:
+  - "[[Luke Qin]]"
   - "[[It's Time To Build]]"
   - "[[Julie Chen]]"
 ---

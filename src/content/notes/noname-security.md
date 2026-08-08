@@ -17,6 +17,7 @@ tags:
 aliases:
   - "Noname Security"
 related:
+  - "[[Rapyd]]"
   - "[[Noname Security - Diligence]]"
   - "[[Salt Security Diligence — 2021]]"
   - "[[Salt Security]]"

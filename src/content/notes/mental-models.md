@@ -13,6 +13,7 @@ tags: []
 aliases:
   - "Mental Models"
 related:
+  - "[[Overconfidence Bias]]"
   - "[[Charlie Munger]]"
   - "[[Latticework]]"
   - "[[Multidisciplinary Thinking]]"

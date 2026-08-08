@@ -16,6 +16,7 @@ aliases:
   - "NeoSec"
   - "Neo"
 related:
+  - "[[Bridgecrew]]"
   - "[[Salt Security Diligence — 2021]]"
   - "[[API Security]]"
   - "[[CrowdStrike ($CRWD)]]"

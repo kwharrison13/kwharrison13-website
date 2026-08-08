@@ -6,7 +6,7 @@ rating: 3
 quake: false
 tags:
   - "ideological-family-tree"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -19,7 +19,7 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+- [Resilience](/notes/resilience) · [Faith](/notes/faith) — themes grounded in the author's account of survival; the `ideological-family-tree` tag reflects how religious conviction shaped her ability to endure and recover.
 <!-- /interconnections -->
 
 ## Highlights

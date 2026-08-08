@@ -19,6 +19,7 @@ aliases:
   - "Titan: The Life of John D. Rockefeller, Sr."
   - "Titan by Ron Chernow"
 related:
+  - "[[Ron Chernow]]"
   - "[[Poor Charlie's Almanack]]"
 ---
 

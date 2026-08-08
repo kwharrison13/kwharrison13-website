@@ -21,6 +21,7 @@ related:
   - "[[How to Maximize Creativity]]"
   - "[[Steve Jobs]]"
   - "[[Idea Sex]]"
+  - "[[In Defense of a Liberal Education]]"
 reference_count: 1
 ---
 

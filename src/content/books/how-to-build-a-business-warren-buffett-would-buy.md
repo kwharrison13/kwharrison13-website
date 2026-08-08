@@ -7,7 +7,7 @@ quake: false
 tags:
   - "capital-allocation"
   - "company-building"
-last_imported: "2026-08-05"
+last_imported: "2026-08-07"
 key_takeaways_status: "written"
 ---
 
@@ -20,7 +20,7 @@ _No highlights captured in `raw/books/` for this book. Metadata is from `raw/boo
 ## Connections
 
 <!-- interconnections -->
-_No cross-book interconnections identified yet._
+- [Warren Buffett](/notes/warren-buffett) — the book frames business-building around the acquisition criteria Buffett would look for.
 <!-- /interconnections -->
 
 ## Highlights

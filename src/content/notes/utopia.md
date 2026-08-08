@@ -15,6 +15,7 @@ tags: []
 aliases:
   - "Utopia"
 related:
+  - "[[Approaching Zion]]"
   - "[[Utopia For Realists]]"
   - "[[The Time Machine]]"
   - "[[Brave New World]]"

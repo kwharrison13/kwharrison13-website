@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Osho"
-related: []
+related:
+  - "[[Vashistha Yoga]]"
 reference_count: 1
 ---
 

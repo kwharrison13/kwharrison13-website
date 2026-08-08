@@ -21,6 +21,9 @@ related:
   - "[[Elon Musk]]"
   - "[[Chris Power]]"
   - "[[Hadrian]]"
+  - "[[Elon Musk: Tesla"
+  - "SpaceX"
+  - "and the Quest for a Fantastic Future]]"
 ---
 
 # Ashlee Vance

@@ -20,6 +20,7 @@ related:
   - "[[Patience — Topical Study]]"
   - "[[Humility — Topical Study]]"
   - "[[Gordon B. Hinckley]]"
+  - "[[Gordon B. Hinckley: Go Forward With Faith]]"
 reference_count: 3
 ---
 

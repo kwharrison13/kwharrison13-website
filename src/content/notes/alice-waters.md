@@ -2,9 +2,9 @@
 title: "Alice Waters"
 type: "person"
 publish: false
-confidence: "low"
+confidence: "medium"
 created: "2026-06-28"
-updated: "2026-06-28"
+updated: "2026-08-06"
 last_updated_by: "agent"
 sources:
   - "wiki/books/Education Nation.md"

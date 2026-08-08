@@ -14,6 +14,7 @@ aliases:
 related:
   - "[[American Sphinx]]"
   - "[[Thomas Jefferson]]"
+  - "[[Alexander Hamilton]]"
 reference_count: 1
 ---
 

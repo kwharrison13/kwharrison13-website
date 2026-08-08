@@ -13,6 +13,7 @@ aliases:
   - "Jana Riess"
 related:
   - "[[The Next Mormons]]"
+  - "[[Future Mormon]]"
 reference_count: 1
 ---
 

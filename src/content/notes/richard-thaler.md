@@ -11,7 +11,8 @@ sources:
 tags: []
 aliases:
   - "Richard Thaler"
-related: []
+related:
+  - "[[Nudge]]"
 reference_count: 1
 ---
 

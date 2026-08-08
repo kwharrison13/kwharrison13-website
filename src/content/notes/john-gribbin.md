@@ -15,6 +15,7 @@ aliases:
 related:
   - "[[Deep Simplicity]]"
   - "[[Ice Age]]"
+  - "[[Mary Gribbin]]"
 reference_count: 2
 ---
 

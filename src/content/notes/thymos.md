@@ -18,6 +18,7 @@ aliases:
   - "Thymos"
   - "Spiritedness"
 related:
+  - "[[Boom: Bubbles & The End of Stagnation]]"
   - "[[We Need a Renaissance of Rhetoric]]"
   - "[[Boom — Bubbles & The End of Stagnation]]"
   - "[[Byrne Hobart]]"

@@ -21,6 +21,9 @@ aliases:
   - "Charlie Munger: The Psychology of Human Misjudgment"
   - "The Psychology of Human Misjudgment"
 related:
+  - "[[Blink]]"
+  - "[[Lori Harrison]]"
+  - "[[Ed Rothschild]]"
   - "[[The Eleven Talks of Poor Charlie's Almanack]]"
   - "[[Poor Charlie's Almanack]]"
   - "[[Charlie Munger]]"

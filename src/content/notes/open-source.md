@@ -31,6 +31,7 @@ related:
   - "[[China]]"
   - "[[America’s Open-Model Paradox]]"
   - "[[Who’s Afraid of Chinese Models?]]"
+  - "[[Out of Control]]"
 ---
 
 # Open Source

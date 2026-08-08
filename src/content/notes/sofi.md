@@ -17,6 +17,7 @@ tags:
 aliases:
   - "SoFi"
 related:
+  - "[[Anthony Noto]]"
   - "[[Pathlight]]"
   - "[[CleanCapital]]"
   - "[[Cresta.ai - Diligence]]"

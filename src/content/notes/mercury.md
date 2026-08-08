@@ -12,6 +12,7 @@ tags: []
 aliases:
   - "Mercury"
 related:
+  - "[[Veronica Pohls]]"
   - "[[Pave Diligence — 2021]]"
   - "[[GO1]]"
   - "[[Persona]]"
